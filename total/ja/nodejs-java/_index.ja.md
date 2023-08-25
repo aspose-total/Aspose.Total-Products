@@ -17,15 +17,20 @@ Java 経由の Aspose.Total for Node.js は、Excel スプレッドシート操�
 
 {{< blocks/products/pf/total/products description="Java 経由の Node.js の Aspose.Total には、次の API が含まれています。" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ja/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Excel Node.js API を使用してワークシートを操作し、Microsoft Excel を必要とせずに Excel スプレッドシートを作成、更新、レンダリング、変換します。さらに、最も詳細なレベルでのワークシートのスタイル設定、グラフの作成、信頼性の高い数式計算エンジンなどを備えています。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+
+{{< blocks/products/pf/total/product-item href="/slides/ja/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Node.js を使用して PowerPoint および OpenOffice プレゼンテーションを操作します。 Microsoft Office などの外部ソフトウェアに依存せずに、Node.js アプリケーション内でスライド、図形、テキスト、グラフ、表、画像などのプレゼンテーション要素を処理します。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/ja/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 カスタマイズ可能な Node.js バーコード ジェネレーターおよびスキャナー API は、任意の角度の画像から一般的な 1D、2D、および郵便バーコードを処理します。 API は、EAN、PDF 417、Code 128、Code 93、Code 39、QR コードなどを含むさまざまなシンボルをサポートします。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ja/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 VSDX、VDX、VSX、VTX などの Microsoft Visio 形式を処理およびエクスポートするための Node.js Visio API。開発者は、ネイティブ Visio 形式の読み込み、読み取り、書き込み、保護、エクスポート、印刷を簡単に行うことができるほか、図要素を更新して画像や XPS や PDF などの固定レイアウト形式を含む目的の形式にエクスポートすることもできます。
 {{< /blocks/products/pf/total/product-item >}}
 

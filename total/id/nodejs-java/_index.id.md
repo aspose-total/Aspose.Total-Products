@@ -17,15 +17,19 @@ Aspose.Total untuk Node.js via Java adalah paket lengkap untuk manipulasi Spread
 
 {{< blocks/products/pf/total/products description="Aspose.Total untuk Node.js via Java menyertakan API berikut:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/id/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Bekerja dengan lembar kerja menggunakan Excel Node.js API untuk membuat, memperbarui, merender & mengonversi spreadsheet Excel tanpa memerlukan Microsoft Excel. Selain itu, tata gaya lembar kerja hingga tingkat paling terperinci, pembuatan bagan, mesin kalkulasi formula yang andal, dan lainnya.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/id/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Memanipulasi presentasi PowerPoint dan OpenOffice menggunakan Node.js. Tangani elemen presentasi seperti slide, bentuk, teks, bagan, tabel, gambar, dan lainnya dalam aplikasi Node.js tanpa ketergantungan perangkat lunak eksternal seperti Microsoft Office.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/id/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Pembuat kode batang dan API pemindai Node.js yang dapat disesuaikan untuk memproses kode batang 1D, 2D, dan pos umum dari gambar di sudut mana pun. API mendukung berbagai simbol termasuk EAN, PDF 417, Kode 128, Kode 93, Kode 39, Kode QR, dan lainnya.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/id/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API untuk memproses dan mengekspor format Microsoft Visio termasuk VSDX, VDX, VSX, VTX, dan lainnya. Pengembang dapat dengan mudah memuat, membaca, menulis, melindungi, mengekspor, dan mencetak format Visio asli serta memperbarui elemen diagram untuk mengekspor ke format yang diinginkan termasuk gambar atau format tata letak tetap seperti XPS atau PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

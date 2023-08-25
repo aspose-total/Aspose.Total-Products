@@ -17,15 +17,19 @@ Aspose.Total for Node.js via Java 是用于 Excel 电子表格操作和 Viso 文
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via Java 包括以下 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 使用 Excel Node.js API 处理工作表，无需 Microsoft Excel 即可创建、更新、呈现和转换 Excel 电子表格。此外，将工作表样式设置为最精细的级别、图表创建、可靠的公式计算引擎等等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+使用 Node.js 操作 PowerPoint 和 OpenOffice 演示文稿。 在 Node.js 应用程序中处理幻灯片、形状、文本、图表、表格、图像等演示元素，无需依赖任何外部软件（例如 Microsoft Office）。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/zh/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 可自定义的 Node.js 条码生成器和扫描器 API，可从任何角度处理图像中的常见一维、二维和邮政条码。 API 支持各种符号体系，包括 EAN、PDF 417、Code 128、Code 93、Code 39、QR 码等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API 用于处理和导出 Microsoft Visio 格式，包括 VSDX、VDX、VSX、VTX 等。开发人员可以轻松加载、读取、写入、保护、导出和打印本机 Visio 格式，以及更新图表元素以导出为所需格式，包括图像或 XPS 或 PDF 等固定布局格式。
 {{< /blocks/products/pf/total/product-item >}}
 

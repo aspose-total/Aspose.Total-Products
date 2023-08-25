@@ -17,15 +17,19 @@ Aspose.Total pour Node.js via Java est un package complet pour la manipulation d
 
 {{< blocks/products/pf/total/products description="Aspose.Total pour Node.js via Java inclut les API suivantes :" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/fr/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Travaillez avec des feuilles de calcul à l'aide de l'API Excel Node.js pour créer, mettre à jour, afficher et convertir des feuilles de calcul Excel sans avoir besoin de Microsoft Excel. De plus, des feuilles de calcul de style au niveau le plus granulaire, la création de graphiques, un moteur de calcul de formule fiable et plus encore.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/fr/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Manipulez des présentations PowerPoint et OpenOffice à l'aide de Node.js. Gérez les éléments de présentation tels que les diapositives, les formes, le texte, les graphiques, les tableaux, les images et bien plus encore dans les applications Node.js sans aucune dépendance logicielle externe comme Microsoft Office.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/fr/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Un générateur de codes-barres Node.js personnalisable et une API de scanner pour traiter les codes-barres 1D, 2D et postaux courants à partir d'images sous n'importe quel angle. L'API prend en charge diverses symbologies, notamment EAN, PDF 417, Code 128, Code 93, Code 39, QR Code, etc.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/fr/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API pour traiter et exporter les formats Microsoft Visio, notamment VSDX, VDX, VSX, VTX, etc. Les développeurs peuvent facilement charger, lire, écrire, protéger, exporter et imprimer des formats Visio natifs, ainsi que mettre à jour les éléments de diagramme à exporter dans le format souhaité, y compris des images ou des formats à mise en page fixe tels que XPS ou PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

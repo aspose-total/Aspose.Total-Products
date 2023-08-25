@@ -17,15 +17,19 @@ description: Επεξεργαστείτε τα υπολογιστικά φύλλ
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total για το Node.js μέσω Java περιλαμβάνει τα ακόλουθα API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/el/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Εργαστείτε με φύλλα εργασίας χρησιμοποιώντας το Excel Node.js API για τη δημιουργία, ενημέρωση, απόδοση και μετατροπή υπολογιστικών φύλλων Excel χωρίς να απαιτείται Microsoft Excel. Επιπλέον, φύλλα εργασίας στυλ στο πιο αναλυτικό επίπεδο, δημιουργία γραφημάτων, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/el/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Χειριστείτε παρουσιάσεις PowerPoint και OpenOffice χρησιμοποιώντας το Node.js. Χειριστείτε στοιχεία παρουσίασης όπως διαφάνειες, σχήματα, κείμενο, γραφήματα, πίνακες, εικόνες και άλλα μέσα στις εφαρμογές Node.js χωρίς εξωτερικές εξαρτήσεις λογισμικού όπως το Microsoft Office.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/el/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Ένα προσαρμόσιμο API δημιουργίας γραμμικού κώδικα και σαρωτή Node.js για την επεξεργασία κοινών γραμμωτών κωδίκων 1D, 2D και ταχυδρομικών από εικόνες σε οποιαδήποτε γωνία. Το API υποστηρίζει διάφορες συμβολολογίες, όπως EAN, PDF 417, Code 128, Code 93, Code 39, QR Code και άλλα.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/el/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API για επεξεργασία και εξαγωγή μορφών του Microsoft Visio, συμπεριλαμβανομένων των VSDX, VDX, VSX, VTX και άλλων. Οι προγραμματιστές μπορούν εύκολα να φορτώσουν, να διαβάσουν, να γράψουν, να προστατεύσουν, να εξάγουν και να εκτυπώσουν εγγενείς μορφές Visio, καθώς και να ενημερώσουν τα στοιχεία του διαγράμματος για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως XPS ή PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

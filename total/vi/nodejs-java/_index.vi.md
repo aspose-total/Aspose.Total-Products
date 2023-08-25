@@ -17,15 +17,19 @@ Aspose.Total cho Node.js qua Java là một gói hoàn chỉnh để thao tác B
 
 {{< blocks/products/pf/total/products description="Aspose.Total cho Node.js qua Java bao gồm các API sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/vi/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Làm việc với các trang tính bằng API Excel Node.js để tạo, cập nhật, kết xuất và chuyển đổi bảng tính Excel mà không yêu cầu Microsoft Excel. Hơn nữa, định kiểu trang tính ở mức chi tiết nhất, tạo biểu đồ, công cụ tính toán công thức đáng tin cậy, v.v.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/vi/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Thao tác với các bản trình bày PowerPoint và OpenOffice bằng Node.js. Xử lý các thành phần trình bày như trang trình bày, hình dạng, văn bản, biểu đồ, bảng, hình ảnh, v.v. trong ứng dụng Node.js mà không cần bất kỳ phần mềm phụ thuộc bên ngoài nào như Microsoft Office.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/vi/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 API quét và tạo mã vạch Node.js có thể tùy chỉnh để xử lý mã vạch 1D, 2D và mã vạch bưu chính phổ biến từ hình ảnh ở mọi góc độ. API hỗ trợ các ký hiệu khác nhau bao gồm EAN, PDF 417, Mã 128, Mã 93, Mã 39, Mã QR, v.v.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/vi/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API để xử lý và xuất các định dạng Microsoft Visio bao gồm VSDX, VDX, VSX, VTX, v.v. Các nhà phát triển có thể dễ dàng tải, đọc, viết, bảo vệ, xuất và in các định dạng Visio gốc cũng như cập nhật các thành phần sơ đồ để xuất thành định dạng mong muốn, bao gồm hình ảnh hoặc định dạng bố cục cố định như XPS hoặc PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

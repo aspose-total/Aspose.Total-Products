@@ -17,15 +17,19 @@ Aspose.Total pro Node.js přes Javu je kompletní balíček pro manipulaci s tab
 
 {{< blocks/products/pf/total/products description="Aspose.Total pro Node.js přes Java obsahuje následující rozhraní API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Pracujte s listy pomocí rozhraní Excel Node.js API a vytvořte, aktualizujte, vykreslujte a převádějte tabulky aplikace Excel bez nutnosti aplikace Microsoft Excel. Navíc, stylové listy na nejpodrobnější úrovni, vytváření grafů, spolehlivý motor pro výpočet vzorců a další.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/cs/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Manipulujte s prezentacemi PowerPoint a OpenOffice pomocí Node.js. Zvládejte prezentační prvky, jako jsou snímky, tvary, text, grafy, tabulky, obrázky a další, v aplikacích Node.js bez jakékoli závislosti na externím softwaru, jako je Microsoft Office.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/cs/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Přizpůsobitelný generátor čárových kódů Node.js a rozhraní API skeneru pro zpracování běžných 1D, 2D a poštovních čárových kódů z obrázků v libovolném úhlu. API podporuje různé symboliky včetně EAN, PDF 417, Code 128, Code 93, Code 39, QR Code a další.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/cs/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API pro zpracování a export formátů Microsoft Visio včetně VSDX, VDX, VSX, VTX a dalších. Vývojáři mohou snadno načítat, číst, zapisovat, chránit, exportovat a tisknout nativní formáty Visio a také aktualizovat prvky diagramu pro export do požadovaného formátu, včetně obrázků nebo formátů s pevným rozvržením, jako je XPS nebo PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

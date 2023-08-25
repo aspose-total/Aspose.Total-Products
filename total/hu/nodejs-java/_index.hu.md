@@ -17,15 +17,19 @@ Az Aspose.Total for Node.js a Java-n keresztül egy teljes csomag az Excel-tábl
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for Node.js a Java-n keresztül a következő API-kat tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Dolgozzon munkalapokkal az Excel Node.js API használatával Excel-táblázatok létrehozásához, frissítéséhez, megjelenítéséhez és konvertálásához anélkül, hogy Microsoft Excelre lenne szüksége. Sőt, munkalapok stílusa a legrészletesebb szintre, diagramkészítés, megbízható képletszámító motor és még sok más.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+PowerPoint és OpenOffice prezentációk kezelése a Node.js használatával. Kezelje a bemutatóelemeket, például diákat, alakzatokat, szöveget, diagramokat, táblázatokat, képeket és egyebeket a Node.js alkalmazásokban külső szoftverfüggőségek, például Microsoft Office nélkül.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/hu/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Testreszabható Node.js vonalkód-generátor és -szkenner API, amellyel bármilyen szögben feldolgozhatja a közös 1D, 2D és postai vonalkódokat a képekből. Az API különféle szimbólumokat támogat, beleértve az EAN-t, a PDF 417-et, a 128-as kódot, a 93-as kódot, a 39-es kódot, a QR-kódot és még sok mást.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hu/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API a Microsoft Visio formátumok feldolgozásához és exportálásához, beleértve a VSDX, VDX, VSX, VTX és egyebeket. A fejlesztők könnyedén betölthetik, olvashatják, írhatják, védhetik, exportálhatják és kinyomtathatják a natív Visio formátumokat, valamint frissíthetik a diagramelemeket, hogy a kívánt formátumba exportálják, beleértve a képeket vagy a rögzített elrendezésű formátumokat, például XPS vagy PDF.
 {{< /blocks/products/pf/total/product-item >}}
 

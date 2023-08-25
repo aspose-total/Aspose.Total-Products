@@ -17,15 +17,19 @@ Aspose.Total for Node.js via Java 是用於 Excel 電子表格操作和 Viso 文
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via Java 包括以下 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh-hant/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 使用 Excel Node.js API 處理工作表，無需 Microsoft Excel 即可創建、更新、呈現和轉換 Excel 電子表格。此外，將工作表樣式設置為最精細的級別、圖表創建、可靠的公式計算引擎等等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh-hant/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+使用 Node.js 操作 PowerPoint 和 OpenOffice 演示文稿。 在 Node.js 應用程序中處理幻燈片、形狀、文本、圖表、表格、圖像等演示元素，無需依賴任何外部軟件（例如 Microsoft Office）。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 可自定義的 Node.js 條碼生成器和掃描器 API，可從任何角度處理圖像中的常見一維、二維和郵政條碼。 API 支持各種符號體系，包括 EAN、PDF 417、Code 128、Code 93、Code 39、QR 碼等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh-hant/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API 用於處理和導出 Microsoft Visio 格式，包括 VSDX、VDX、VSX、VTX 等。開發人員可以輕鬆加載、讀取、寫入、保護、導出和打印本機 Visio 格式，以及更新圖表元素以導出為所需格式，包括圖像或 XPS 或 PDF 等固定佈局格式。
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -17,15 +17,19 @@ Aspose.Total for Node.js via Java, Excel Elektronik Tablo düzenlemesi ve Viso b
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via Java aşağıdaki API'leri içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 Microsoft Excel gerektirmeden Excel elektronik tabloları oluşturmak, güncellemek, işlemek ve dönüştürmek için Excel Node.js API'sini kullanarak çalışma sayfalarıyla çalışın. Ayrıca, çalışma sayfalarını en ayrıntılı düzeye, grafik oluşturma, güvenilir formül hesaplama motoru ve daha fazlasına stil verin.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+Node.js'yi kullanarak PowerPoint ve OpenOffice sunumlarını yönetin. Slaytlar, şekiller, metinler, grafikler, tablolar, resimler ve daha fazlası gibi sunum öğelerini, Microsoft Office gibi herhangi bir harici yazılım bağımlılığı olmadan Node.js uygulamalarında kullanın.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/tr/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 Herhangi bir açıdan görüntülerden ortak 1D, 2D ve posta barkodlarını işlemek için özelleştirilebilir bir Node.js barkod oluşturucu ve tarayıcı API'si. API, EAN, PDF 417, Code 128, Code 93, Code 39, QR Code ve daha fazlasını içeren çeşitli sembolojileri destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/tr/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 VSDX, VDX, VSX, VTX ve daha fazlasını içeren Microsoft Visio formatlarını işlemek ve dışa aktarmak için Node.js Visio API. Geliştiriciler, yerel Visio biçimlerini kolayca yükleyebilir, okuyabilir, yazabilir, koruyabilir, dışa aktarabilir ve yazdırabilir ve ayrıca diyagram öğelerini görüntüler veya XPS veya PDF gibi sabit düzen biçimleri dahil olmak üzere istenen biçime dışa aktarmak için güncelleyebilir.
 {{< /blocks/products/pf/total/product-item >}}
 

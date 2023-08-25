@@ -17,15 +17,19 @@ Aspose.Total สำหรับ Node.js ผ่าน Java เป็นแพ็�
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ Node.js ผ่าน Java รวมถึง API ต่อไปนี้:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/nodejs-java/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
 ทำงานกับเวิร์กชีตโดยใช้ Excel Node.js API เพื่อสร้าง อัปเดต เรนเดอร์ และแปลงสเปรดชีต Excel โดยไม่ต้องใช้ Microsoft Excel ยิ่งไปกว่านั้น กำหนดรูปแบบเวิร์กชีตให้เป็นระดับที่ละเอียดที่สุด การสร้างแผนภูมิ เครื่องมือคำนวณสูตรที่เชื่อถือได้ และอื่นๆ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/nodejs-java/" imgSrc="/total/images/aspose_slides-for-nodejs-via-java.svg" productName="Aspose.Slides for Node.js via Java">}}
+จัดการงานนำเสนอ PowerPoint และ OpenOffice โดยใช้ Node.js จัดการองค์ประกอบการนำเสนอ เช่น สไลด์ รูปร่าง ข้อความ แผนภูมิ ตาราง รูปภาพ และอื่นๆ ภายในแอปพลิเคชัน Node.js โดยไม่ต้องพึ่งพาซอฟต์แวร์ภายนอก เช่น Microsoft Office
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/th/nodejs-java/" imgSrc="/total/images/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
 เครื่องสร้างบาร์โค้ด Node.js ที่ปรับแต่งได้และ API เครื่องสแกนเพื่อประมวลผลบาร์โค้ด 1D, 2D และไปรษณีย์ทั่วไปจากภาพในทุกมุม API รองรับสัญลักษณ์ต่างๆ เช่น EAN, PDF 417, Code 128, Code 93, Code 39, QR Code และอื่นๆ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/th/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API เพื่อประมวลผลและส่งออกรูปแบบ Microsoft Visio รวมถึง VSDX, VDX, VSX, VTX และอื่นๆ นักพัฒนาซอฟต์แวร์สามารถโหลด อ่าน เขียน ป้องกัน ส่งออก และพิมพ์รูปแบบดั้งเดิมของ Visio ตลอดจนอัปเดตองค์ประกอบไดอะแกรมเพื่อส่งออกเป็นรูปแบบที่ต้องการ รวมถึงรูปภาพหรือรูปแบบเค้าโครงตายตัว เช่น XPS หรือ PDF
 {{< /blocks/products/pf/total/product-item >}}
 
