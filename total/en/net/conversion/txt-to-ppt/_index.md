@@ -1,7 +1,13 @@
 ---
 title: Convert TXT to PPT via C# .NET or with free Online Converter
-url_ignore: /net/conversion/txt-to-ppt/ 
+
 description: Convert Word txt documents to PowerPoint ppt files with C#. Convert multiple files within ASP.NET or other .NET applications.
+family: total
+platformtag: net
+feature: conversion
+informat: TXT
+outformat: PPT
+otherformats: ODP POT POTM POTX PPS PPSM PPSX PPTM PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
