@@ -33,6 +33,16 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 1. Download the searched Excel to view instantly.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Search Excel File via C++" %}}
+
+1. Install 'Aspose.Cells for C++'.
+1. Add a library reference (import the library) to your C++ project.
+1. Load Excel file using CreateIWorkbook.
+1. Create replace options via CreateIReplaceOptions and set the relevant settings.
+1. Use Replace functions to search the occurences and replace.
+1. Use Save method to save the file.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
@@ -56,19 +66,6 @@ Need to develop a Excel searchable software or utility? With Aspose.Cells for C+
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search Excel File via C++" %}}
-
-1. Install 'Aspose.Cells for C++'.
-1. Add a library reference (import the library) to your C++ project.
-1. Load Excel file using CreateIWorkbook.
-1. Create replace options via CreateIReplaceOptions and set the relevant settings.
-1. Use Replace functions to search the occurences and replace.
-1. Use Save method to save the file.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ library to Search Excel File" %}}
 There are options to install "Aspose.Cells for C++" or "Aspose.Total for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
@@ -76,17 +73,14 @@ There are options to install "Aspose.Cells for C++" or "Aspose.Total for C++" on
 - Install the library using [Package Manager Console](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager) within Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 You can use this C++ library to develop software on Microsoft Windows, Linux and macOS operating systems:<br /><br />
 
 - GCC >= 7.5.0 and Clang >= 3.9.1 are required for Linux
 - Xcode >= 12.5.1, Clang and libc++ are required for macOS
 
-<br /><br />
+<br />
 If you develop software for Linux or macOS, please check information on additional library dependencies (fontconfig and mesa-glu open-source packages) in [Product Documentation](https://docs.aspose.com/cells/cpp/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
