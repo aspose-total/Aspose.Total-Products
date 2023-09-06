@@ -8,7 +8,7 @@ description: JavaScript API to manipulate PDF documents as well as add OCR featu
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JavaScript via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JavaScript via C++ is an all-inclusive set of JavaScript libraries. These libraries offer functionalities like working directly with PDFs in web browsers and enhancing your applications with optical character recognition abilities.
