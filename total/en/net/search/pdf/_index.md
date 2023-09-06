@@ -15,7 +15,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Free Online PDF Document Content Search App</h3>
 
@@ -31,6 +31,19 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 1. Enter the search criteria by specifying the parameters. 
 1. Click the "SEARCH" button to search PDF.
 1. Download the searched PDF to view instantly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="How to Search PDF File via C#" %}}
+
+1. Install 'Aspose.PDF for .NET'.
+1. Add a library reference (import the library) to your C# project.
+1. Open the source PDF file using Document class.
+1. Define the search criteria in Regex.
+1. Create TextAbsorber object to find all instances of the input regex.
+1. Accept the absorber for the page.
+1. Get the extracted text fragments.
+1. Loop through the fragments to get the output.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,21 +69,6 @@ Need to develop a PDF searchable software or utility? With Aspose.PDF for .NET a
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search PDF File via C#" %}}
-
-1. Install 'Aspose.PDF for .NET'.
-1. Add a library reference (import the library) to your C# project.
-1. Open the source PDF file using Document class.
-1. Define the search criteria in Regex.
-1. Create TextAbsorber object to find all instances of the input regex.
-1. Accept the absorber for the page.
-1. Get the extracted text fragments.
-1. Loop through the fragments to get the output.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# library to Search PDF File" %}}
 There are three alternative options to install "Aspose.PDF for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
@@ -78,10 +76,6 @@ There are three alternative options to install "Aspose.PDF for .NET" or "Aspose.
 - Install the library using [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) within Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
 

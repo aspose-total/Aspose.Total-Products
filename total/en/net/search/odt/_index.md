@@ -15,7 +15,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Free Online ODT Document Content Search App</h3>
 
@@ -31,6 +31,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 1. Enter the search criteria by specifying the parameters. 
 1. Click the "SEARCH" button to search ODT.
 1. Download the searched ODT to view instantly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="How to Search ODT File via C#" %}}
+
+1. Install 'Aspose.Words for .NET'.
+1. Add a library reference (import the library) to your C# project.
+1. Open the source ODT file using Document class.
+1. Use the Range.Replace function to find and replace text.
+1. Or set the search criteria in Regex and pass it as parameter in Replace method.
+1. Call the 'Save()' method to save the document passing an output filename.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,19 +67,6 @@ Need to develop a ODT searchable software or utility? With Aspose.Words for .NET
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search ODT File via C#" %}}
-
-1. Install 'Aspose.Words for .NET'.
-1. Add a library reference (import the library) to your C# project.
-1. Open the source ODT file using Document class.
-1. Use the Range.Replace function to find and replace text.
-1. Or set the search criteria in Regex and pass it as parameter in Replace method.
-1. Call the 'Save()' method to save the document passing an output filename.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# library to Search ODT File" %}}
 There are three alternative options to install "Aspose.Words for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
@@ -77,10 +75,7 @@ There are three alternative options to install "Aspose.Words for .NET" or "Aspos
 - Install the library by hand using [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
 

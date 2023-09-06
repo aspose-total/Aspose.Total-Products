@@ -15,7 +15,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Free Online Excel Document Content Search App</h3>
 
@@ -31,6 +31,16 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 1. Enter the search criteria by specifying the parameters. 
 1. Click the "SEARCH" button to search Excel.
 1. Download the searched Excel to view instantly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="How to Search Excel File via C#" %}}
+
+1. Install 'Aspose.Cells for .NET'.
+1. Add a library reference (import the library) to your C# project.
+1. Load Excel file using Workbook class.
+1. Access the cells in relevant sheet.
+1. Use Find method to search Numbers, Date and Text.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -55,17 +65,7 @@ Need to develop a Excel searchable software or utility? With Aspose.Cells for .N
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search Excel File via C#" %}}
 
-1. Install 'Aspose.Cells for .NET'.
-1. Add a library reference (import the library) to your C# project.
-1. Load Excel file using Workbook class.
-1. Access the cells in relevant sheet.
-1. Use Find method to search Numbers, Date and Text.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# library to Search Excel File" %}}
@@ -76,10 +76,7 @@ There are three alternative options to install "Aspose.Cells for .NET" or "Aspos
 - Install the library by hand using [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
 
