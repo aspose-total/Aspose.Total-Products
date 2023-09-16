@@ -58,6 +58,10 @@ Create, load, update and convert Microsoft Project files within Python applicati
 A Python 3D API that can create, edit ot convert Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats without any dependency.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/zip/python-net/" imgSrc="/total/images/aspose_zip-for-python.svg" productName="Aspose.ZIP for Python via .NET">}}
+Seamlessly compress files to create various types of archives or decompress existing archives in formats such as ZIP, 7Zip, RAR, TAR, GZIP, BZ2, LZ, CPIO, XZ, Z, and CAB via python applications. 
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/finance/python-net/" imgSrc="/total/images/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
 XBRL and iXBRL formats processing API to easily create, read, and validate eXtensible Business Reporting Language documents within Python applications directly.
 {{< /blocks/products/pf/total/product-item >}}
