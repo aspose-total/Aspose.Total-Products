@@ -13,7 +13,7 @@ Efficiently searching and indexing the content of various document file formats 
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Key Reasons Documents Search" %}}
+{{% blocks/products/pf/feature-page-section  h2="Key Reasons of Documents Search" %}}
 
 1. Information Retrieval
 1. Content Validation 
