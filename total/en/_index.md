@@ -2,7 +2,7 @@
 title: On Premise, Cloud & App Based File Format Solutions 
 weight: 9630
 url_ignore: /
-description: Build document manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert 100+ file formats
+description: Build document manipulation applications using High Code or Low Code APIs, or simply use cross-platform apps to view, compare, inspect or convert 100+ file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -21,6 +21,18 @@ Java-based platform APIs to create, modify, render or parse Microsoft Word files
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/cpp/" >}}
 Create, load, manipulate, or convert different document formats and images within pure C++ applications using native C++ library.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/python-net/" >}}
+Generate, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG and 3D formats using Python library suite for Microsoft Word, PowerPoint & Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/nodejs-java/" >}}
+Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCodes of various symbologies using Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/php-java/" >}}
+Manipulate Excel Spreadsheets as well as Read, Write, Create and Convert PowerPoint and OpenOffice Presentations in PHP applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="View All High Code APIs" >}}
