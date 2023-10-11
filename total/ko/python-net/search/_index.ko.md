@@ -5,7 +5,7 @@ description: Python 애플리케이션을 통해 Microsoft Office Word, Excel, P
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python API를 사용하여 문서 검색" h2=".NET을 통해 Python용 Aspose.Total을 사용하여 Micrsoft Office Word, Excel, PowerPoint 및 PDF를 포함한 다양한 문서 세트에서 정보를 효율적으로 검색하고 가져옵니다." >}}
+{{< blocks/products/pf/feature-page-header h1="Python API를 사용하여 문서 검색" h2=".NET을 통해 Python용 Aspose.Total을 사용하여 Microsoft Office Word, Excel, PowerPoint 및 PDF를 포함한 다양한 문서 세트에서 정보를 효율적으로 검색하고 가져옵니다." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 다양한 문서 파일 형식의 텍스트 검색 및 콘텐츠 인덱싱을 통해 사용자는 다양한 문서 집합에서 정보를 효율적으로 검색하고 검색할 수 있으므로 조직 및 애플리케이션 내에서 생산성, 데이터 검색 및 정보 관리가 향상됩니다.Python 기반 소프트웨어 또는 시스템의 기능을 추가하여 문서 내에서 텍스트 기반 검색을 수행하고 광범위한 문서 파일 형식에서 정보를 효율적으로 검색하기 위한 색인을 생성합니다.

@@ -5,7 +5,7 @@ description: Keressen dokumentumokat, beleértve a Microsoft Office Word, Excel,
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Keresés a dokumentumokban Python API-k használatával" h2="Hatékonyan kereshet és nyerhet le információkat különféle dokumentumokból, beleértve a Micrsoft Office Word, Excel, PowerPoint és PDF fájlokat az Aspose.Total for Python segítségével a .NET-en keresztül." >}}
+{{< blocks/products/pf/feature-page-header h1="Keresés a dokumentumokban Python API-k használatával" h2="Hatékonyan kereshet és nyerhet le információkat különféle dokumentumokból, beleértve a Microsoft Office Word, Excel, PowerPoint és PDF fájlokat az Aspose.Total for Python segítségével a .NET-en keresztül." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 A különféle dokumentumfájl-formátumok szöveges keresése és indexelése lehetővé teszi a felhasználók számára, hogy hatékonyan keressenek és szerezzenek be információkat különféle dokumentumokból, javítva a termelékenységet, az adatlekérést és az információkezelést a szervezeteken és alkalmazásokon belül.Adja hozzá a Python alapú szoftverek vagy rendszerek azon képességét, hogy szöveges keresést hajtson végre a dokumentumokon belül, és indexeket hozzon létre az információk hatékony lekéréséhez a dokumentumfájl-formátumok széles skálájából.

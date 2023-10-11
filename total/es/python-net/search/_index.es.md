@@ -5,7 +5,7 @@ description: Busque documentos que incluyen Microsoft Office Word, Excel, PowerP
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Buscar documentos utilizando las API de Python" h2="Busque y recupere información de manera eficiente de un conjunto diverso de documentos, incluidos Micrsoft Office Word, Excel, PowerPoint y PDF, utilizando Aspose.Total para Python a través de .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Buscar documentos utilizando las API de Python" h2="Busque y recupere información de manera eficiente de un conjunto diverso de documentos, incluidos Microsoft Office Word, Excel, PowerPoint y PDF, utilizando Aspose.Total para Python a través de .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 La búsqueda de texto y la indexación de contenido de varios formatos de archivos de documentos permiten a los usuarios buscar y recuperar información de manera eficiente de un conjunto diverso de documentos, mejorando la productividad, la recuperación de datos y la gestión de la información dentro de las organizaciones y aplicaciones.Agregue la capacidad de software o sistemas basados en Python para realizar búsquedas basadas en texto dentro de documentos y crear índices para la recuperación eficiente de información de una amplia gama de formatos de archivos de documentos.

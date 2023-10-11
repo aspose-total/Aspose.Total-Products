@@ -5,7 +5,7 @@ description: Tìm kiếm tài liệu bao gồm Microsoft Office Word, Excel, Pow
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tìm kiếm tài liệu bằng API Python" h2="Tìm kiếm và truy xuất thông tin một cách hiệu quả từ một bộ tài liệu đa dạng bao gồm Micrsoft Office Word, Excel, PowerPoint và PDF bằng cách sử dụng Aspose.Total cho Python qua .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Tìm kiếm tài liệu bằng API Python" h2="Tìm kiếm và truy xuất thông tin một cách hiệu quả từ một bộ tài liệu đa dạng bao gồm Microsoft Office Word, Excel, PowerPoint và PDF bằng cách sử dụng Aspose.Total cho Python qua .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Nội dung tìm kiếm và lập chỉ mục văn bản của các định dạng tệp tài liệu khác nhau cho phép người dùng tìm kiếm và truy xuất thông tin từ nhiều bộ tài liệu khác nhau một cách hiệu quả, cải thiện năng suất, truy xuất dữ liệu và quản lý thông tin trong các tổ chức và ứng dụng.Thêm khả năng của phần mềm hoặc hệ thống dựa trên python để thực hiện tìm kiếm dựa trên văn bản trong tài liệu và tạo chỉ mục để truy xuất thông tin hiệu quả từ nhiều định dạng tệp tài liệu.

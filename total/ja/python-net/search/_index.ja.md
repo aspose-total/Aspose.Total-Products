@@ -5,7 +5,7 @@ description: Python アプリケーション経由で、Microsoft Office Word、
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python APIを使用したドキュメントの検索" h2=".NET 経由で Aspose.Total for Python を使用すると、Micrsoft Office Word、Excel、PowerPoint、PDF などのさまざまなドキュメント セットから情報を効率的に検索して取得できます。" >}}
+{{< blocks/products/pf/feature-page-header h1="Python APIを使用したドキュメントの検索" h2=".NET 経由で Aspose.Total for Python を使用すると、Microsoft Office Word、Excel、PowerPoint、PDF などのさまざまなドキュメント セットから情報を効率的に検索して取得できます。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 さまざまなドキュメント ファイル形式のコンテンツのテキスト検索とインデックス作成により、ユーザーはさまざまなドキュメント セットから情報を効率的に検索して取得できるようになり、組織やアプリケーション内の生産性、データ取得、情報管理が向上します。Python ベースのソフトウェアまたはシステムの機能を追加して、ドキュメント内でテキストベースの検索を実行し、幅広いドキュメント ファイル形式から情報を効率的に取得するためのインデックスを作成します。
