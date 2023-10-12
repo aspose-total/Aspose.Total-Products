@@ -1,5 +1,5 @@
 ---
-title: Convert RTF to PPSX in Android via Java or with free Online Converter
+title: Convert RTF to PPSX in Android Apps or with free Online Converter
 description: RTF to PPSX conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free RTF to PPSX online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/rtf-to-ppsx/
 family: total
@@ -63,7 +63,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert RTF to PPSX with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert RTF to PPSX with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform RTF file to PPSX conversion with watermark. 
 In order to add a watermark to your PPSX document, you can first export RTF to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to PPSX.
 {{% blocks/products/pf/feature-page-code %}}

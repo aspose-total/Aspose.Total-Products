@@ -1,5 +1,5 @@
 ---
-title: Convert FLATOPC to PPTM in Android via Java or with free Online Converter
+title: Convert FLATOPC to PPTM in Android Apps or with free Online Converter
 description: FLATOPC to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free FLATOPC to PPTM online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/flatopc-to-pptm/
 family: total
@@ -65,7 +65,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert FLATOPC to PPTM with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert FLATOPC to PPTM with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform FLATOPC file to PPTM conversion with watermark. 
 In order to add a watermark to your PPTM document, you can first export FLATOPC to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to PPTM.
 {{% blocks/products/pf/feature-page-code %}}

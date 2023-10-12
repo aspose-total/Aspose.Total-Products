@@ -1,5 +1,5 @@
 ---
-title: Converteer RTF naar PPT in Android via Java of met gratis Online Converter
+title: Converteer RTF naar PPT in Android Apps of met gratis Online Converter
 description: RTF naar PPT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis RTF naar PPT online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde RTF naar PPT in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde RTF naar PPT in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde RTF ook converteren naar PPT binnen uw Android-applicaties. Als uw RTF-invoerrtfument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPT-indeling zonder het wachtwoord te gebruiken. Om een versleuteld rtfument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de rtfumentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

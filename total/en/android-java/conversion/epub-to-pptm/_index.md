@@ -57,7 +57,7 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open Password Protected EPUB File in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Open Password Protected EPUB File in Android Apps" %}}
 While loading EPUB file format, your document might be password protected. [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) allows you open encrypted documents as well. In order to open the encrypted file, you can initialize new instance of the  [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class and pass filename and password as arguments. 
 {{% blocks/products/pf/feature-page-code %}}
 ```java

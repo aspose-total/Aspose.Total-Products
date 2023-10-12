@@ -1,5 +1,5 @@
 ---
-title: Converteer DOC naar PPTX in Android via Java of met gratis Online Converter
+title: Converteer DOC naar PPTX in Android Apps of met gratis Online Converter
 description: DOC naar PPTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOC naar PPTX online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde DOC naar PPTX in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde DOC naar PPTX in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde DOC ook converteren naar PPTX binnen uw Android-applicaties. Als uw DOC-invoerdocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de documentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

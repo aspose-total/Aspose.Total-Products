@@ -58,7 +58,7 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit XLSB-bestand in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit XLSB-bestand in Android Apps" %}}
 Naast powerpointumentconversie biedt [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het XLSB-powerpointument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [PowerpointumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/powerpointumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de powerpointumenteigenschap die moet worden verwijderd.
 {{% blocks/products/pf/feature-page-code %}}
 

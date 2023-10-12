@@ -1,6 +1,6 @@
 ---
-title: Convert POTM to CSV in Android via Java or with free Online Converter
-description: Convert POTM to CSV in Android via Java or Online App without using using Microsoft Excel or PowerPoint or online. Test free POTM to CSV online converter quickly before integrating the code. 
+title: Convert POTM to CSV in Android Apps or with free Online Converter
+description: Convert POTM to CSV in Android Apps or Online App without using using Microsoft Excel or PowerPoint or online. Test free POTM to CSV online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/potm-to-csv/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS XLTX XLT MARKDOWN EXCEL MHTML XLAM XLTM XLSB DIF FODS XLSX ODS TSV XLSM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POTM to CSV in Android via Java or Online App" h2="Export POTM file to CSV in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POTM to CSV in Android Apps or Online App" h2="Export POTM file to CSV in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -56,7 +56,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected POTM to CSV in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected POTM to CSV in Android Apps" %}}
 Using the API, you can also open the password-protected document. If your input POTM document is password protected, you cannot convert it to CSV without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}

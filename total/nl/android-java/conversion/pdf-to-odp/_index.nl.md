@@ -46,7 +46,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open met een wachtwoord beveiligd PDF-bestand in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Open met een wachtwoord beveiligd PDF-bestand in Android Apps" %}}
 Tijdens het laden van de PDF-bestandsindeling is uw document mogelijk beveiligd met een wachtwoord. Met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) kunt u ook versleutelde documenten openen. Om het versleutelde bestand te openen, kunt u een nieuwe instantie van het [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java) initialiseren .lang.String-) class en geef bestandsnaam en wachtwoord door als argumenten.
 {{% blocks/products/pf/feature-page-code %}}
 

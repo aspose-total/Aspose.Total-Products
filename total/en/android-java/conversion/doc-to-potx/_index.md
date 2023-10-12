@@ -1,5 +1,5 @@
 ---
-title: Convert DOC to POTX in Android via Java or with free Online Converter
+title: Convert DOC to POTX in Android Apps or with free Online Converter
 description: DOC to POTX conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free DOC to POTX online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/doc-to-potx/
 family: total
@@ -61,14 +61,14 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected DOC to POTX in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected DOC to POTX in Android Apps" %}}
 You can also convert your password-protected DOC to POTX within your Android applications. If your input DOC document is password protected, you cannot convert it to POTX format without using the password. In order to open an encrypted document, you can set the correct password in the LoadOptions object and pass it to the Document constructor. 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert DOC to POTX with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert DOC to POTX with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform DOC file to POTX conversion with watermark. 
 In order to add a watermark to your POTX document, you can first export DOC to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POTX.
 {{% blocks/products/pf/feature-page-code %}}

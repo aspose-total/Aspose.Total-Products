@@ -1,6 +1,6 @@
 ---
-title: Convert XML to FODS in Android via Java
-description: Render XML to FODS in Android via Java API without using Microsoft Excel or Adobe Reader
+title: Convert XML to FODS in Android Apps
+description: Render XML to FODS in Android Apps API without using Microsoft Excel or Adobe Reader
 url_ignore: /android-java/conversion/xml-to-fods/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: ODS XLTM CSV TXT XLSM XLSB EXCEL XLT MD XLAM TSV SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render XML to FODS in Android via Java" h2="Transform XML to FODS within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Render XML to FODS in Android Apps" h2="Transform XML to FODS within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -46,7 +46,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of XML File in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of XML File in Android Apps" %}}
  [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) allows you to access a XML file’s XMP metadata. In order to get the metadata, create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the input XML file and use the [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) property to get the metadata.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}

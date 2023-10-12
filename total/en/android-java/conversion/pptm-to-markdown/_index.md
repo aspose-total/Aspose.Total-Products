@@ -1,6 +1,6 @@
 ---
-title: Convert PPTM to MARKDOWN in Android via Java or with free Online Converter
-description: Convert PPTM to MARKDOWN in Android via Java or Online App without using using Microsoft Excel or PowerPoint or online. Test free PPTM to MARKDOWN online converter quickly before integrating the code. 
+title: Convert PPTM to MARKDOWN in Android Apps or with free Online Converter
+description: Convert PPTM to MARKDOWN in Android Apps or Online App without using using Microsoft Excel or PowerPoint or online. Test free PPTM to MARKDOWN online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/pptm-to-markdown/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB CSV TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTM to MARKDOWN in Android via Java or Online App" h2="Export PPTM file to MARKDOWN in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTM to MARKDOWN in Android Apps or Online App" h2="Export PPTM file to MARKDOWN in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -56,7 +56,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPTM to MARKDOWN in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPTM to MARKDOWN in Android Apps" %}}
 Using the API, you can also open the password-protected document. If your input PPTM document is password protected, you cannot convert it to MARKDOWN without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}

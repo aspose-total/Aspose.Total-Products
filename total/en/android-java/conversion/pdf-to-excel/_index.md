@@ -1,6 +1,6 @@
 ---
-title: Convert PDF to EXCEL in Android via Java
-description: Render PDF to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
+title: Convert PDF to EXCEL in Android Apps
+description: Render PDF to EXCEL in Android Apps API without using Microsoft Excel or Adobe Reader
 url_ignore: /android-java/conversion/pdf-to-excel/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: TSV XLSM CSV XLTM XLT FODS MD ODS DIF TXT XLTX SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PDF to EXCEL in Android via Java" h2="Transform PDF to EXCEL within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PDF to EXCEL in Android Apps" h2="Transform PDF to EXCEL within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can integrate PDF to EXCEL conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert PDF to XLSX. Secondly, you can convert XLSX to EXCEL by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
@@ -35,7 +35,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of PDF File in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of PDF File in Android Apps" %}}
  [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) allows you to access a PDF file’s XMP metadata. In order to get the metadata, create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the input PDF file and use the [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) property to get the metadata.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}

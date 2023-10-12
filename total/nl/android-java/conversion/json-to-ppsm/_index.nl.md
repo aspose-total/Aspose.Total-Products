@@ -1,5 +1,5 @@
 ---
-title: Converteer JSON-indeling naar PPSM in Android via Java
+title: Converteer JSON-indeling naar PPSM in Android Apps
 description: JSON ontleden naar PPSM in Android-applicaties zonder Microsoft PowerPoint te gebruiken
 
 family: total
@@ -47,7 +47,7 @@ Bovendien kunt u met de API JSON naar PPSM ontleden met gespecificeerde lay-outo
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer JSON-indeling naar PPSM met watermerk in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer JSON-indeling naar PPSM met watermerk in Android Apps" %}}
 Met behulp van de API kunt u JSON ook converteren naar PPSM met watermerk. Om een watermerk aan uw PPSM-document toe te voegen, kunt u eerst JSON ontleden naar PPTX en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PPTX-bestand met behulp van de klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), loopt u door alle dia's, voegt u tekst toe gebruik addTextFrame, stel alle relevante opties in, zoals kleur, fillType en meer, en kan het document opslaan in PPSM.
 {{% blocks/products/pf/feature-page-code %}}
 

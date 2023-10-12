@@ -1,6 +1,6 @@
 ---
 title: Android API to Convert WORD to CSV or with free Online Converter 
-description: Convert WORD to CSV in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free WORD to CSV online converter quickly before integrating the code. 
+description: Convert WORD to CSV in Android Apps without using using Microsoft Word or Microsoft Excel or online. Test free WORD to CSV online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/word-to-csv/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLAM XLS EXCEL XLTX ODS XLT XLSB XLSX TSV SXC DIF XLSM XLTM FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert WORD to CSV in Android Applications or Online App" h2="Export WORD to CSV in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert WORD to CSV in Android Applications or Online App" h2="Export WORD to CSV in Android Apps without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -56,14 +56,14 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Remove Unused Information from a WORD Document in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Remove Unused Information from a WORD Document in Android Apps" %}}
 Before converting WORD to CSV, you can remove unused information from WORD Document via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Sometimes you may need to remove unused or duplicate information to reduce the size of the output document and processing time. The [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) class allows you to specify options for document cleaning. To remove duplicate styles or just unused styles or lists from the document, you can use the [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()) method. You can use the [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) and [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) properties to detect and remove styles that are marked as “unused”.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-document.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Save CSV File to Stream in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Save CSV File to Stream in Android Apps" %}}
 After converting WORD to CSV, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) enables you to save your document to stream. If you need to save files to a Stream then you should create a FileOutputStream object and then [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) the file to that Stream object by calling the save method of [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

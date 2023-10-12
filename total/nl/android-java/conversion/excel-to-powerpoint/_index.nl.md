@@ -46,7 +46,7 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit EXCEL-bestand in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit EXCEL-bestand in Android Apps" %}}
 Naast powerpointumentconversie biedt [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het EXCEL-powerpointument verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [PowerpointumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/powerpointumentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de powerpointumenteigenschap die moet worden verwijderd.
 {{% blocks/products/pf/feature-page-code %}}
 

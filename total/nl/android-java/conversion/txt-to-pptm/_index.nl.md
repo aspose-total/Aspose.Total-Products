@@ -1,5 +1,5 @@
 ---
-title: Converteer TXT naar PPTM in Android via Java of met gratis Online Converter
+title: Converteer TXT naar PPTM in Android Apps of met gratis Online Converter
 description: TXT naar PPTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis TXT naar PPTM online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde TXT naar PPTM in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde TXT naar PPTM in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde TXT ook converteren naar PPTM binnen uw Android-applicaties. Als uw TXT-invoertxtument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPTM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld txtument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de txtumentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

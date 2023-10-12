@@ -72,7 +72,7 @@ System.out.println("Title: " + docInfo.getTitle());
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Insert Endnotes in PS Document in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Insert Endnotes in PS Document in Android Apps" %}}
 Apart from document conversion, you can also add a bunch of other features inside your Android Applications using [Aspose.Words for Android via Java](https://products.aspose.com/words/androidjava/) API. One of that feature is inserting endnotes and numbering in PS document. If you want to insert a footnote or an endnote in a PS document, please use DocumentBuilder.InsertFootnote method. This method inserts a footnote or endnote into the document. EndnoteOptions and FootnoteOptions classes represent numbering options for footnote and endnote. 
 {{% blocks/products/pf/feature-page-code %}}
 ```java

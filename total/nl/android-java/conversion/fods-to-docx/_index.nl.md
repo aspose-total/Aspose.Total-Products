@@ -58,7 +58,7 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit FODS-bestand in Android via Java" %}}Document
+{{% blocks/products/pf/feature-page-section  h2="Verwijder aangepaste eigenschappen uit FODS-bestand in Android Apps" %}}Document
 Naast documentconversie biedt [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ook tal van andere functies. Vóór het conversieproces kunt u aangepaste eigenschappen van het FODS-document verwijderen. Om aangepaste eigenschappen te verwijderen, roept u de methode [DocxumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) aan en geeft u de naam van de documenteigenschap die moet worden verwijderd.
 {{% blocks/products/pf/feature-page-code %}}
 

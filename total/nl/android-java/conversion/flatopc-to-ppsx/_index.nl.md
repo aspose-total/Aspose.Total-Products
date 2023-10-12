@@ -1,5 +1,5 @@
 ---
-title: Converteer FLATOPC naar PPSX in Android via Java of met gratis Online Converter
+title: Converteer FLATOPC naar PPSX in Android Apps of met gratis Online Converter
 description: FLATOPC naar PPSX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis FLATOPC naar PPSX online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde FLATOPC naar PPSX in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde FLATOPC naar PPSX in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde FLATOPC ook converteren naar PPSX binnen uw Android-applicaties. Als uw FLATOPC-invoerflatopcument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld flatopcument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de flatopcumentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PPSX to XLAM in Android via Java or with free Online Converter
-description: Convert PPSX to XLAM in Android via Java or Online App without using using Microsoft Excel or PowerPoint or online. Test free PPSX to XLAM online converter quickly before integrating the code. 
+title: Convert PPSX to XLAM in Android Apps or with free Online Converter
+description: Convert PPSX to XLAM in Android Apps or Online App without using using Microsoft Excel or PowerPoint or online. Test free PPSX to XLAM online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/ppsx-to-xlam/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: MARKDOWN ODS XLTX XLT CSV XLTM FODS MHTML DIF XLS XLSB SXC EXCEL TSV XLSX XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPSX to XLAM in Android via Java or Online App" h2="Export PPSX file to XLAM in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPSX to XLAM in Android Apps or Online App" h2="Export PPSX file to XLAM in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -58,7 +58,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPSX to XLAM in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected PPSX to XLAM in Android Apps" %}}
 Using the API, you can also open the password-protected document. If your input PPSX document is password protected, you cannot convert it to XLAM without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to try opening an encrypted document with a password:
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}

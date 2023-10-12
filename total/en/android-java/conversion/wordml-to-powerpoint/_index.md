@@ -1,5 +1,5 @@
 ---
-title: Convert WORDML to POWERPOINT in Android via Java or with free Online Converter
+title: Convert WORDML to POWERPOINT in Android Apps or with free Online Converter
 description: WORDML to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free WORDML to POWERPOINT online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/wordml-to-powerpoint/
 family: total
@@ -61,7 +61,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert WORDML to POWERPOINT with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert WORDML to POWERPOINT with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform WORDML file to POWERPOINT conversion with watermark. 
 In order to add a watermark to your POWERPOINT document, you can first export WORDML to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POWERPOINT.
 {{% blocks/products/pf/feature-page-code %}}

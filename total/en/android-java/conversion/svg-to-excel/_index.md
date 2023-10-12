@@ -1,6 +1,6 @@
 ---
-title: Convert SVG to EXCEL in Android via Java
-description: Render SVG to EXCEL in Android via Java API without using Microsoft Excel or Adobe Reader
+title: Convert SVG to EXCEL in Android Apps
+description: Render SVG to EXCEL in Android Apps API without using Microsoft Excel or Adobe Reader
 url_ignore: /android-java/conversion/svg-to-excel/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLT TXT TSV ODS XLSM DIF SXC FODS XLSB XLAM MD CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render SVG to EXCEL in Android via Java" h2="Transform SVG to EXCEL within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Render SVG to EXCEL in Android Apps" h2="Transform SVG to EXCEL within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -48,7 +48,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of SVG File in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata of SVG File in Android Apps" %}}
  [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) allows you to access a SVG file’s XMP metadata. In order to get the metadata, create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the input SVG file and use the [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) property to get the metadata.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}

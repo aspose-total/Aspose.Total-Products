@@ -1,5 +1,5 @@
 ---
-title: Convert JSON Format to POWERPOINT in Android via Java 
+title: Convert JSON Format to POWERPOINT in Android Apps 
 description: Parse JSON to POWERPOINT in Android Applications without using Microsoft PowerPoint
 url_ignore: /android-java/conversion/json-to-powerpoint/
 family: total
@@ -48,7 +48,7 @@ Furthermore, the API allows you to parse JSON to POWERPOINT with specified layou
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert JSON Format to POWERPOINT with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert JSON Format to POWERPOINT with Watermark in Android Apps" %}}
 Using the API, you can also convert JSON to POWERPOINT with watermark. In order to add a watermark to your POWERPOINT document, you can first parse JSON to PPTX and add a watermark to it. In order to add a watermark, load the newly created PPTX file using the [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class, loop through all slides, add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POWERPOINT.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}

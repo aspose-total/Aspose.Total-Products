@@ -1,6 +1,6 @@
 ---
-title: Convert DOC to JSON Format in Android via Java
-description: Parse DOC to JSON format in Android via Java without using Microsoft Word or Excel
+title: Convert DOC to JSON Format in Android Apps
+description: Parse DOC to JSON format in Android Apps without using Microsoft Word or Excel
 url_ignore: /android-java/conversion/doc-to-json/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: JSON
 otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON Format in Android via Java" h2="Design Android applications to export DOC to JSON without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON Format in Android Apps" h2="Design Android applications to export DOC to JSON without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -44,14 +44,14 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Protected DOC to JSON Format in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Protected DOC to JSON Format in Android Apps" %}}
 Using the API, you can also open the password-protected document. If your input DOC document is password protected, you cannot convert it to JSON format without using the password. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how open an encrypted document with a password.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-protected-word-to-json.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert DOC to JSON in Range in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert DOC to JSON in Range in Android Apps" %}}
 While you are converting DOC to JSON, you can also set range to your output JSON format. In order to set the range, you can open the converted HTML using Workbook class, create a Range of data to be exported using Cells.createRange method, call JsonUtility.exportRangeToJson method with references of Range & ExportRangeToJsonOptions and write string JSON data to file via BufferedWriter.write method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "aa0de5f99dc2a07e32a776a548eac3fa" "convert-word-to-json-range.java" >}}

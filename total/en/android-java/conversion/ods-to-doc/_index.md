@@ -69,7 +69,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Remove Custom Properties from ODS File in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Remove Custom Properties from ODS File in Android Apps" %}}
 Apart from document conversion, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) provides tons of other features as well. Before the conversion process, you can remove custom properties of ODS document. To remove custom properties, call the [DocumentPropertyCollection.remove](https://reference.aspose.com/cells/java/com.aspose.cells/documentpropertycollection#remove(java.lang.String)) method and pass the name of the document property to be removed.
 {{% blocks/products/pf/feature-page-code %}}
 ```java

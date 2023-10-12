@@ -1,6 +1,6 @@
 ---
 title: Android API om DOT naar TSV te converteren of met gratis Online Converter
-description: Converteer DOT naar TSV in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOT naar TSV online converter snel voordat u de code integreert.
+description: Converteer DOT naar TSV in Android Apps zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOT naar TSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: EXCEL XLTX XLSX FODS XLSM XLT DIF SXC ODS CSV XLAM XLS XLTM XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOT naar TSV in Android-applicaties of online-app" h2="Exporteer DOT naar TSV in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOT naar TSV in Android-applicaties of online-app" h2="Exporteer DOT naar TSV in Android Apps zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOT-naar-TSV-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOT naar HTML converteren door gebruik te maken van de veelzijdige, dotumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar TSV converteren. 
@@ -50,7 +50,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOT-dotument in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOT-dotument in Android Apps" %}}
 Voordat u DOT naar TSV converteert, kunt u ongebruikte informatie uit het DOT-dotument verwijderen via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerdotument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van dotumenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het dotument te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Dotument#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -59,7 +59,7 @@ Voordat u DOT naar TSV converteert, kunt u ongebruikte informatie uit het DOT-do
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="TSV-bestand opslaan om te streamen in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="TSV-bestand opslaan om te streamen in Android Apps" %}}
 Na het converteren van DOT naar TSV, kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) uw dotument opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
 {{% blocks/products/pf/feature-page-code %}}
 

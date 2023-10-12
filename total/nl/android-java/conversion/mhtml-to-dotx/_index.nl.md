@@ -67,7 +67,7 @@ System.out.println("Title: " + docInfo.getTitle());
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Eindnoten invoegen in DOTX-document in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Eindnoten invoegen in DOTX-document in Android Apps" %}}
 Afgezien van documentconversie, kunt u ook een aantal andere functies toevoegen aan uw Android-applicaties met behulp van [Aspose.Words for Android via Java](https://products.aspose.com/words/androidjava/) API. Een van die functies is het invoegen van eindnoten en nummering in het DOTX-document. Als u een voetnoot of een eindnoot in een DOTX-document wilt invoegen, gebruik dan de DocumentBuilder.InsertFootnote-methode. Deze methode voegt een voetnoot of eindnoot in het document in. De klassen EndnoteOptions en FootnoteOptions vertegenwoordigen nummeringsopties voor voetnoot en eindnoot.
 {{% blocks/products/pf/feature-page-code %}}
 

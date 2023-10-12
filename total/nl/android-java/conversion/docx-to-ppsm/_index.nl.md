@@ -1,5 +1,5 @@
 ---
-title: Converteer DOCX naar PPSM in Android via Java of met gratis Online Converter
+title: Converteer DOCX naar PPSM in Android Apps of met gratis Online Converter
 description: DOCX naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOCX naar PPSM online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde DOCX naar PPSM in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde DOCX naar PPSM in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde DOCX ook converteren naar PPSM binnen uw Android-applicaties. Als uw DOCX-invoerdocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de documentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

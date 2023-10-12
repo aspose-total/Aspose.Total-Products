@@ -1,5 +1,5 @@
 ---
-title: Convert ODT to POWERPOINT in Android via Java or with free Online Converter
+title: Convert ODT to POWERPOINT in Android Apps or with free Online Converter
 description: ODT to POWERPOINT conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free ODT to POWERPOINT online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/odt-to-powerpoint/
 family: total
@@ -61,7 +61,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert ODT to POWERPOINT with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert ODT to POWERPOINT with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform ODT file to POWERPOINT conversion with watermark. 
 In order to add a watermark to your POWERPOINT document, you can first export ODT to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POWERPOINT.
 {{% blocks/products/pf/feature-page-code %}}

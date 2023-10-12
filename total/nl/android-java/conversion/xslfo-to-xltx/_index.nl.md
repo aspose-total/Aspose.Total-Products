@@ -1,6 +1,6 @@
 ---
-title: Converteer XSLFO naar XLTX in Android via Java
-description: Render XSLFO naar XLTX in Android via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
+title: Converteer XSLFO naar XLTX in Android Apps
+description: Render XSLFO naar XLTX in Android Apps API zonder Microsoft Excel of Adobe Reader te gebruiken
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: ODS DIF XLSM FODS TXT EXCEL CSV SXC XLSB XLAM XLT XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render XSLFO naar XLTX in Android via Java" h2="Transformeer XSLFO naar XLTX binnen Android-applicaties zonder dat Microsoft<sup>&reg;</sup> Excel of Adobe<sup>&reg;</sup> Acrobat Reader nodig is" >}}
+{{< blocks/products/pf/feature-page-header h1="Render XSLFO naar XLTX in Android Apps" h2="Transformeer XSLFO naar XLTX binnen Android-applicaties zonder dat Microsoft<sup>&reg;</sup> Excel of Adobe<sup>&reg;</sup> Acrobat Reader nodig is" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de conversiefunctie van XSLFO naar XLTX in uw Android-applicaties in twee stappen integreren. Ten eerste, door [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) te gebruiken, kunt u XSLFO verbergen naar XLSX. Ten tweede kunt u XLSX naar XLTX converteren met behulp van de krachtige API voor spreadsheetverwerking [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Beide API's vallen onder de productfamilie [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). 
@@ -38,7 +38,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Krijg XMP-metadata van XSLFO-bestand in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Krijg XMP-metadata van XSLFO-bestand in Android Apps" %}}
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) geeft u toegang tot de XMP-metadata van een XSLFO-bestand. Om de metadata te krijgen, maakt u een [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-object en opent u het invoer-XSLFO-bestand en gebruikt u de [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) om de metadata op te halen.
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Bescherm XLTX-document in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Bescherm XLTX-document in Android Apps" %}}
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ondersteunt de bescherming van uw XLTX-bestand, afhankelijk van uw behoeften. Om uw document te beschermen, kunt u de [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) methode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse.
 {{% blocks/products/pf/feature-page-code %}}
 

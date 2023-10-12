@@ -1,5 +1,5 @@
 ---
-title: Converteer OTT naar POTX in Android via Java of met gratis Online Converter
+title: Converteer OTT naar POTX in Android Apps of met gratis Online Converter
 description: OTT naar POTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis OTT naar POTX online converter snel voordat u de code integreert.
 
 family: total
@@ -51,7 +51,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde OTT naar POTX in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde OTT naar POTX in Android Apps" %}}
 U kunt uw met een wachtwoord beveiligde OTT ook converteren naar POTX binnen uw Android-applicaties. Als uw OTT-invoerottument met een wachtwoord is beveiligd, kunt u het niet converteren naar POTX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld ottument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de ottumentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Convert RTF to ODP in Android via Java or with free Online Converter
+title: Convert RTF to ODP in Android Apps or with free Online Converter
 description: RTF to ODP conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free RTF to ODP online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/rtf-to-odp/
 family: total
@@ -63,7 +63,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert RTF to ODP with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert RTF to ODP with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform RTF file to ODP conversion with watermark. 
 In order to add a watermark to your ODP document, you can first export RTF to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to ODP.
 {{% blocks/products/pf/feature-page-code %}}

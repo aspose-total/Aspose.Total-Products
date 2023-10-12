@@ -1,5 +1,5 @@
 ---
-title: Convert DOCM to PPT in Android via Java or with free Online Converter
+title: Convert DOCM to PPT in Android Apps or with free Online Converter
 description: DOCM to PPT conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free DOCM to PPT online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/docm-to-ppt/
 family: total
@@ -61,7 +61,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert DOCM to PPT with Watermark in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert DOCM to PPT with Watermark in Android Apps" %}}
 Within your Android applications, the API also allows you to perform DOCM file to PPT conversion with watermark. 
 In order to add a watermark to your PPT document, you can first export DOCM to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to PPT.
 {{% blocks/products/pf/feature-page-code %}}

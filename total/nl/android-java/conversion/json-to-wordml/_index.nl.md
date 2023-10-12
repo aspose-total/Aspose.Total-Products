@@ -1,5 +1,5 @@
 ---
-title: Converteer JSON-indeling naar WORDML in Android via Java
+title: Converteer JSON-indeling naar WORDML in Android Apps
 description: JSON ontleden naar WORDML in Java zonder Microsoft Word te gebruiken
 
 family: total
@@ -17,7 +17,7 @@ U kunt JSON naar WORDML converteren in uw Android-applicaties in een proces van 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Converteer JSON-indeling naar WORDML in Android via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Converteer JSON-indeling naar WORDML in Android Apps" %}}
 1. Maak een nieuw [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object en lees geldige JSON-gegevens uit het bestand
 2. Importeer het JSON-bestand naar het werkblad met de klasse [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) en [Save](https://reference.aspose.com/cellen/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) als PDF
 3. Laad het PDF-document met behulp van de [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) klasse
@@ -38,7 +38,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Stel lay-out in en converteer JSON-indeling naar WORDML in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Stel lay-out in en converteer JSON-indeling naar WORDML in Android Apps" %}}
 Bovendien kunt u met de API lay-outopties instellen voor uw JSON-indeling terwijl u JSON naar WORDML parseert met behulp van [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Het stelt je in staat om Array als een tabel te verwerken, nulls te negeren, arraytitel te negeren, objecttitel te negeren, string naar getal of datum te converteren, datum- en getalnotatie in te stellen en titelstijl in te stellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -47,7 +47,7 @@ Bovendien kunt u met de API lay-outopties instellen voor uw JSON-indeling terwij
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer JSON-indeling naar WORDML met watermerk in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer JSON-indeling naar WORDML met watermerk in Android Apps" %}}
 Met behulp van de API kunt u JSON ook converteren naar WORDML met watermerk. Om een watermerk aan uw WORDML-document toe te voegen, kunt u eerst het JSON-bestand naar PDF ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PDF-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in WORDML.
 {{% blocks/products/pf/feature-page-code %}}
 

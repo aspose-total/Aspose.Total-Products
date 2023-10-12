@@ -1,6 +1,6 @@
 ---
-title: Converteer POT naar SXC in Android via Java
-description: Converteer POT naar SXC in Android via Java zonder Microsoft Excel of PowerPoint te gebruiken
+title: Converteer POT naar SXC in Android Apps
+description: Converteer POT naar SXC in Android Apps zonder Microsoft Excel of PowerPoint te gebruiken
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS CSV FODS TSV XLTM MHTML MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POT naar SXC in Android via Java" h2="Exporteer POT-bestand naar SXC in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POT naar SXC in Android Apps" h2="Exporteer POT-bestand naar SXC in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt het POT-bestand eenvoudig naar SXC converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het POT-bestand naar HTML exporteren met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar SXC converteren. 
@@ -50,7 +50,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde POT naar SXC in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Converteer beveiligde POT naar SXC in Android Apps" %}}
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw POT-invoerdocument met een wachtwoord is beveiligd, kunt u het niet naar SXC converteren zonder het wachtwoord te gebruiken. Met de API kunt u het versleutelde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld document met een wachtwoord te openen:
 {{% blocks/products/pf/feature-page-code %}}
 

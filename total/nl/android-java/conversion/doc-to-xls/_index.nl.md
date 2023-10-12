@@ -1,6 +1,6 @@
 ---
 title: Android API om DOC naar XLS te converteren of met gratis Online Converter
-description: Converteer DOC naar XLS in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOC naar XLS online converter snel voordat u de code integreert.
+description: Converteer DOC naar XLS in Android Apps zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOC naar XLS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: DIF FODS XLTX EXCEL XLT XLSB ODS XLAM XLSM SXC XLTM CSV TSV XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOC naar XLS in Android-applicaties of online-app" h2="Exporteer DOC naar XLS in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOC naar XLS in Android-applicaties of online-app" h2="Exporteer DOC naar XLS in Android Apps zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOC-naar-XLS-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOC naar HTML converteren door gebruik te maken van de veelzijdige, documentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar XLS converteren. 
@@ -50,7 +50,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOC-document in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Verwijder ongebruikte informatie uit een DOC-document in Android Apps" %}}
 Voordat u DOC naar XLS converteert, kunt u ongebruikte informatie uit het DOC-document verwijderen via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerdocument en de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van documenten. Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het document te verwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -59,7 +59,7 @@ Voordat u DOC naar XLS converteert, kunt u ongebruikte informatie uit het DOC-do
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="XLS-bestand opslaan om te streamen in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="XLS-bestand opslaan om te streamen in Android Apps" %}}
 Na het converteren van DOC naar XLS, kunt u met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) uw document opslaan om te streamen. Als u bestanden naar een stream moet opslaan, moet u een FileOutputStream-object maken en vervolgens [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) het bestand naar dat Stream-object door de opslagmethode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) aan te roepen object.
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Convert POWERPOINT to JSON Format in Android via Java
-description: Convert POWERPOINT to JSON format in Android via Java without using using Microsoft Excel or PowerPoint
+title: Convert POWERPOINT to JSON Format in Android Apps
+description: Convert POWERPOINT to JSON format in Android Apps without using using Microsoft Excel or PowerPoint
 url_ignore: /android-java/conversion/powerpoint-to-json/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: JSON
 otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to JSON Format in Android via Java" h2="Export POWERPOINT file to JSON format in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to JSON Format in Android Apps" h2="Export POWERPOINT file to JSON format in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -57,7 +57,7 @@ Using the API, you can also open the password-protected document. If your input 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert POWERPOINT to JSON in Range in Android via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert POWERPOINT to JSON in Range in Android Apps" %}}
 While you are converting POWERPOINT to JSON, you can also set range to your output JSON format. In order to set the range, you can open the converted HTML using Workbook class, create a Range of data to be exported using Cells.createRange method, call JsonUtility.exportRangeToJson method with references of Range & ExportRangeToJsonOptions and write string JSON data to file via BufferedWriter.write method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
