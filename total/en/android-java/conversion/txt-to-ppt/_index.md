@@ -15,7 +15,8 @@ otherformats: PPS POWERPOINT PPTM POTM PPTX PPSM ODP POTX PPSX POT CSV DIF FODS 
 {{% blocks/products/pf/feature-page-summary %}}
 
 Are you an Android developer looking to add a document conversion feature to your application? Aspose.Total for Android via Java File Format Automation libraries can help you automate the document conversion process in your Android applications. With the help of Aspose.Total for Android via Java, you can easily convert any type of document to the desired format. For example, if you want to convert a TXT file to PPT, you can use the document manipulation API Aspose.Words for Android Java to convert the TXT file format to HTML. After that, you can use the PowerPoint API Aspose.Slides for Android Java to create a new Presentation, write HTML content in it, and save it as PPT. 
-The Aspose.Total for Android via Java File Format Automation libraries provide a comprehensive set of features that enable you to easily convert documents from one format to another. It also provides a wide range of features such as document manipulation, document conversion, document comparison, document security, and more. With the help of these features, you can easily automate the document conversion process in your Android applications. Moreover, the libraries are easy to use and provide a comprehensive set of features that make it easier for developers to create powerful applications.
+
+The Aspose.Total for Android via Java File Format Automation libraries provide a comprehensive set of features that enable you to easily convert documents from one format to another. It also provides a wide range of features such as document manipulation, document conversion, document comparison, document security, and more. With the help of these features, you can easily automate the document conversion process in your Android applications. Moreover, the libraries are easy to use and provide a comprehensive set of features that make it easier for developers to create powerful applications.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -45,8 +46,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Free Online Converter for TXT to PPT</h3>
-
-<iframe title="Free txt to ppt Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=txt" id="child-iframe" width="80%"></iframe>width="80%"></iframe>width="80%"></iframe>
+width="80%"></iframe>
+<iframe title="Free txt to ppt Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

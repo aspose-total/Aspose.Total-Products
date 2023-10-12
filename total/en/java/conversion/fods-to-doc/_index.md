@@ -52,7 +52,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 <h3>Online Converter for FODS to DOC</h3>
 
 <iframe title="Free fods to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
-<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/fods-to-doc/">Try our free app for FODS to DOC conversion</a></p>
+
 </div></div>
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

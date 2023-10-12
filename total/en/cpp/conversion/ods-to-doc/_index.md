@@ -53,7 +53,7 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 <h3>Online Converter for ODS to DOC</h3>
 
 <iframe title="Free ods to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ods" id="child-iframe" width="80%"></iframe>
-<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/ods-to-doc/">Try our free app for ODS to DOC conversion</a></p>
+
 </div></div>
 </div></div>
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
