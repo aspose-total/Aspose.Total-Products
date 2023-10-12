@@ -25,7 +25,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 </div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search in XLSX File Online using App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Search in XLSX via Online App" %}}
 
 1. Upload XLSX file to search by clicking inside the drop area or via drag and drop.
 1. Enter the search criteria by specifying the parameters. 

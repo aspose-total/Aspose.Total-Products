@@ -25,7 +25,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 </div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Search in PPT File Online using App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Search in PPT via Online App" %}}
 
 1. Upload PPT file to search by clicking inside the drop area or via drag and drop.
 1. Enter the search criteria by specifying the parameters. 
