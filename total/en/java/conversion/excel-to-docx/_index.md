@@ -11,24 +11,22 @@ otherformats: POWERPOINT WORD DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export EXCEL to DOCX or Online App" h2="On Premise Java API to Export EXCEL to DOCX or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Export EXCEL to DOCX via Java or Online App" h2="High code Java library for EXCEL to DOCX conversion without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to DOCX via Java API" isGrey="true" %}}
+{{% blocks/products/pf/agp/content h2="Export EXCEL to DOCX via Java" isGrey="true" %}}
 Rendering EXCEL to DOCX is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given EXCEL document to PDF, and then by using [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to DOCX. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="EXCEL to DOCX Conversion on Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert EXCEL to DOCX via Java" %}}
 1. Open EXCEL file using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 2. Convert EXCEL to PDF and set SaveFormat to AUTO
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
 4. Save the document to DOCX format using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
-You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Cells](https://docs.aspose.com/cells/java/installation/) and [Aspose.Pdf](https://docs.aspose.com/pdf/java/installation/#installing-asposepdf-for-java-from-aspose-repository) in your pom.xml.
-
-Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
+{{% blocks/products/pf/agp/feature-section-col title="Java APIs for Excel to Word Conversion" %}}
+You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Cells](https://docs.aspose.com/cells/java/installation/) and [Aspose.Pdf](https://docs.aspose.com/pdf/java/installation/#installing-asposepdf-for-java-from-aspose-repository) in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for EXCEL to DOCX Conversion" gistPath="" %}}
@@ -52,7 +50,7 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocX);
 <h3>Online Converter for EXCEL to DOCX</h3>
 
 <iframe title="Free xlsx to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
-<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsx-to-docx/">Try our free app for EXCEL to DOCX conversion</a></p>
+
 </div></div>
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -100,6 +98,7 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocX);
               </ul>
           </div>
       </div>
+  </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}

@@ -1,19 +1,19 @@
 ---
-title: C# .NET File Automation APIs - Aspose 
+title: C# .NET Core File Automation APIs
 weight: 30
 url_ignore: /net/ 
-description: C# ASP.NET VB.NET APIs to create manipulate convert and render any type of documents.
+description: C# ASP.NET VB.NET APIs to create manipulate convert and render any type of documents
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="/total/images/aspose_total-for-net-header.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Core File Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="/total/images/aspose_total-for-net-header.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for .NET is the most complete package of all .NET File Format Automation APIs offered by Aspose. It empowers developers to create, edit, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications.
+Enhance your .NET applications with powerful file manipulation capabilities, allowing you to seamlessly handle various file formats such as Word, Excel, PDF, PowerPoint, Outlook, and over 100 others. Eliminate the need for additional software dependencies and unlock a wide range of possibilities within your applications.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for .NET includes the following file format APIs for .NET:" >}}
@@ -231,27 +231,52 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">
-  Platform Independence
+  Perform Advanced File Manipulation in .NET Applications
  </h2>
+ <p>With our advanced file manipulation solution for .NET, you can effortlessly integrate features like reading, writing, editing, and converting files directly within your application's workflow. Whether you need to extract data from a Word document, generate reports in Excel, manipulate PDF files, create dynamic presentations in PowerPoint, or interact with Outlook items, our comprehensive toolkit has got you covered.</p>
  <p>
-  Aspose.Total for .NET covers most popular development environments and deployment platforms. You can confidently use Aspose.Total for .NET to build Mono or any type of 32-bit or 64-bit .NET application including ASP.NET, Web Services and WinForms.
+  Our library provides a developer-friendly API that empowers you to:
  </p>
+ <ul>
+  <li><b>Read and extract content:</b> Access text, tables, images, and other elements from documents, spreadsheets, presentations, or emails, enabling you to retrieve and process valuable data efficiently.</li>
+  <li><b>Edit and modify files:</b> Make changes to existing files programmatically, such as updating text, adding or removing elements, merging documents, applying formatting, and much more. Customize the files to meet your specific requirements.</li>
+  <li><b>Create and generate files:</b> Dynamically generate new files from scratch, including Word documents, Excel spreadsheets, PowerPoint presentations, or PDFs. Populate them with data, tables, charts, and other components tailored to your needs.</li>
+  <li><b>Convert between file formats:</b> Seamlessly convert files from one format to another, allowing you to transform Word documents into PDFs, Excel spreadsheets into CSV files, PowerPoint presentations into images, and many other combinations.</li>
+  <li><b>Perform document manipulation tasks:</b> Utilize advanced features like searching and replacing text, adding watermarks, extracting specific pages, merging multiple files into one, splitting large documents, and applying security settings.</li>
+  <li><b>Ensure document security:</b> Apply encryption, digital signatures, and permissions to protect sensitive information, ensuring compliance with security standards and regulations.</li>
+ </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">
-  Packed With Utility Functions
- </h2>
- <p>
-  Aspose.Total for .NET brings to you a toolkit of handy utility APIs allowing you to add barcode functionality to .NET applications, perform recurrence patterns and network protocols (SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP and WHOIS).
- </p>
+ <h2 class="h2title">Supercharge .NET Development with Aspose.Total</h2>
+ <p>Take your .NET development to the next level with Aspose.Total for .NET, providing you with unparalleled flexibility and power. Whether you're working on web applications, service-oriented architectures, or desktop applications, our comprehensive suite empowers you to handle diverse file formats with ease.</p>
+  <ul>
+  <li><b>Boost productivity:</b> Leverage our developer-friendly API to streamline your workflow, save time, and increase productivity. Benefit from extensive documentation, code examples, and a dedicated support team to guide you every step of the way.</li>
+  <li><b>Achieve cross-platform compatibility:</b> Build applications that work flawlessly across different platforms. Aspose.Total for .NET seamlessly integrates with Mono, allowing you to develop applications for Linux, macOS, and other non-Windows platforms.</li>
+  <li><b>Harness the power of ASP.NET:</b> Create dynamic web applications using Aspose.Total for .NET's extensive range of file manipulation features. Generate reports, handle document conversions, and enable document collaboration with ease.</li>
+  <li><b>Unleash WinForms potential:</b> Develop rich desktop applications with stunning user interfaces using WinForms. Aspose.Total for .NET empowers you to incorporate advanced file processing capabilities into your WinForms applications, opening up new possibilities.</li>
+  <li><b>Support for web services:</b> Enable your .NET applications to consume or expose web services seamlessly. Integrate Aspose.Total for .NET's file manipulation features into your service-oriented architectures, allowing for efficient data exchange and processing.</li>
+ </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">
-  Microsoft Office Automation – Not Needed
- </h2>
+ <h2 class="h2title">Unlock New Possibilities: Barcode, Recurrence Patterns, and Network Protocols</h2>
+ <p>Aspose.Total for .NET empowers developers with a comprehensive toolkit of utility APIs, enabling you to enhance your .NET applications with advanced functionalities. Seamlessly integrate barcode generation and recognition capabilities, leverage powerful recurrence patterns, and harness a wide range of network protocols including SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS.</p>
+ <ul>
+  <li><b>Barcode Functionality:</b> With Aspose.Total for .NET, you can effortlessly add barcode functionality to your .NET applications. Generate high-quality barcodes in various formats such as QR Code, Code 39, UPC, and many more. Enhance inventory management, automate data capture, and streamline your business processes.</li>
+  <li><b>Recurrence Patterns:</b> Simplify complex scheduling scenarios with Aspose.Total for .NET's recurrence pattern support. Effortlessly handle recurring events, appointments, and tasks within your applications. Implement flexible scheduling functionalities and ensure accurate event management.</li>
+  <li><b>Network Protocols:</b> Aspose.Total for .NET equips you with a powerful set of network protocol APIs. Seamlessly integrate SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS functionalities into your applications. Send and receive emails, retrieve and process email attachments, transfer files securely, perform DNS queries, and conduct WHOIS lookups.</li>
+ </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">No Dependency on Microsoft Office, Superior Security, and Scalability</h2>
  <p>
-  Aspose.Total for .NET APIs are built using managed code, and does never need Microsoft Office to be installed on the machine to work with supported document formats. It is a perfect Microsoft Office automation alternative in terms of supported features, security, stability, scalability, speed and price.
+  Discover the limitless possibilities of Aspose.Total for .NET. Say goodbye to Microsoft Office dependencies and embrace a solution that excels in features, security, stability, scalability, speed, and affordability. Empower your .NET applications with unparalleled document manipulation capabilities today.
  </p>
+ <ul>
+  <li><b>Independence from Microsoft Office:</b> Aspose.Total for .NET liberates you from the need to install Microsoft Office on your machine. You can seamlessly work with supported document formats, including Word, Excel, PowerPoint, PDF, Outlook, and more, without any dependencies.</li>
+  <li><b>Exceptional Stability and Scalability:</b> Our APIs are rigorously tested and continuously improved to deliver stability and reliability. Scale your applications effortlessly as your business grows, without worrying about limitations.</li>
+  <li><b>Blazing-Fast Performance:</b> Aspose.Total for .NET is optimized for speed, enabling efficient document processing even with large files. Experience lightning-fast operations that boost your productivity and enhance user experiences.</li>
+  <li><b>Competitive Pricing:</b> We understand the value of cost-effectiveness. Aspose.Total for .NET offers competitive pricing models, providing excellent value for the comprehensive features and benefits it brings to your applications.</li>
+ </ul>
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->

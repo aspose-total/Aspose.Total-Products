@@ -54,7 +54,7 @@ Manipulación de formatos de Microsoft Visio API de Python para crear, leer, esc
 Cree, cargue, actualice y convierta archivos de Microsoft Project dentro de aplicaciones de Python sin dependencias de Microsoft Project ni ningún otro software.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/es/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
 Una API de Python 3D que puede crear, editar o convertir formatos de archivo Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco sin ninguna dependencia.
 {{< /blocks/products/pf/total/product-item >}}
 
