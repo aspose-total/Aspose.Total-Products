@@ -9,20 +9,10 @@ informat: ODS
 otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online Searchable Document App and ODS Text Search Library Code" h2="Develop powerful C++ based ODS document search engine software or utility. Test online document text finder app for free." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online Searchable Document App and ODS Text Search Library Code" h2="Develop powerful C++ based ODS document search engine software or utility. Test online document text finder app for free." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online ODS Document Content Search App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Search in ODS via Online App" %}}
