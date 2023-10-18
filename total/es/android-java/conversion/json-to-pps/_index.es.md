@@ -18,8 +18,8 @@ Puede convertir el formato JSON a PPS en sus aplicaciones de Android en un proce
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a PPS en Android" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
-2. Guarde JSON como PPTX usando [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) método
+1. Cree un nuevo objeto [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) y abra el archivo JSON
+2. Guarde JSON como PPTX usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions) ) método
 3. Cargue el documento PPTX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato PPS utilizando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}

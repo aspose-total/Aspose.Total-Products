@@ -17,10 +17,10 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de CSV a PPSX en .NET" %}}
-1. Abra el archivo CSV usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+1. Abra el archivo CSV usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Convierta CSV a PDF y configure SaveFormat en Auto
 3. Cargue el archivo PDF convertido usando la clase [Pptxumento](https://apireference.aspose.com/pdf/net/aspose.pdf/pptxument)
-4. Guarde el pptxumento en formato PPSX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.pptxument/save/methods/5) y configure Pptx como SaveFormat
+4. Guarde el pptxumento en formato PPSX usando el método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.pptxument/save/methods/5) y configure Pptx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -19,11 +19,11 @@ otherformats: PPTX PPTM PPS POTX ODP PPT PPSX POWERPOINT POT POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de WORD a PPSM en C++" %}}
 1. Abra el archivo WORD usando la referencia de clase [Wordumento](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)
-2. Convierta WORD a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions)
+2. Convierta WORD a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el wordumento en formato PPSM usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppsm como SaveFormat
+6. Guarde el wordumento en formato PPSM usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppsm como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

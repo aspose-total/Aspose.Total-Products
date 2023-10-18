@@ -19,8 +19,8 @@ Puede integrar la función de conversión de CGM a XLTX dentro de sus aplicacion
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para renderizar CGM a XLTX" %}}
 1. Abra el archivo CGM usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convierta CGM a XLSX usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método
-3. Cargue el documento XLSX usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+2. Convierta CGM a XLSX usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método
+3. Cargue el documento XLSX usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el documento en formato XLTX usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

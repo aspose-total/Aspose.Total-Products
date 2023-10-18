@@ -19,9 +19,9 @@ Al utilizar [Aspose.Total for Android via Java](https://products.aspose.com/tota
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para convertir MOBI a XLSX" %}}
 1. Abra el archivo MOBI usando la clase [Mobiumento](https://reference.aspose.com/words/java/com.aspose.words/Mobiument)
-2. Convierta MOBI a HTML usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el mobiumento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el mobiumento en formato XLSX mediante [Guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
+2. Convierta MOBI a HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el mobiumento en formato XLSX mediante [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -60,7 +60,7 @@ Antes de convertir MOBI a XLSX, puede eliminar la información no utilizada del 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Guarde el archivo XLSX para transmitir en Android a través de Java" %}}
-Después de convertir MOBI a XLSX, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) le permite guardar su mobiumento para transmitir. Si necesita guardar archivos en un Stream, debe crear un objeto FileOutputStream y luego [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
+Después de convertir MOBI a XLSX, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) le permite guardar su mobiumento para transmitir. Si necesita guardar archivos en un Stream, debe crear un objeto FileOutputStream y luego [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

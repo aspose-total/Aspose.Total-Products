@@ -18,8 +18,8 @@ otherformats: POWERPOINT PPT POT ODP POTM PPSX PPTM PPSM POTX PPS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOCX a PPTX en Android" %}}
-1. Abra el archivo DOCX usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta el archivo DOCX a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
+1. Abra el archivo DOCX usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo DOCX a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el documento en PPTX usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

@@ -20,8 +20,8 @@ Puede convertir fácilmente un archivo PPSM a XLT en sus aplicaciones de Android
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSM a XLT en Android" %}}
 1. Abra el archivo PPSM usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPSM a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el documento en formato XLT usando [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/)
+3. Cargue el documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato XLT usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -18,10 +18,10 @@ Puede convertir JSON a DOC en sus aplicaciones de Android en un proceso de dos p
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a DOC en Android a través de Java" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo
-2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) y [Guardar](https://reference.aspose.com/cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
+1. Cree un nuevo objeto [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) y lea los datos JSON válidos del archivo
+2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) y [Save](https://reference.aspose.com/cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) como PDF
 3. Cargue el documento PDF utilizando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato DOC usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método
+4. Guarde el documento en formato DOC usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

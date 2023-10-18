@@ -18,10 +18,10 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para exportar CSV a OTT" %}}
-1. Abra el archivo CSV usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra el archivo CSV usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta CSV a PDF y configure SaveFormat en AUTO
-3. Cargue el archivo PDF convertido usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-4. Guarde el documento en formato OTT usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
+3. Cargue el archivo PDF convertido usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Guarde el documento en formato OTT usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

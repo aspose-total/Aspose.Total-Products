@@ -18,12 +18,12 @@ otherformats: PPSX PPSM PPTX PPTM POTM POT PPS POTX POWERPOINT ODP
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de DOCX a PPT en C++" %}}
-1. Abra el archivo DOCX usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-2. Convierta DOCX a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
+1. Abra el archivo DOCX usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Convierta DOCX a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el documento en formato PPT usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppt como SaveFormat
+6. Guarde el documento en formato PPT usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppt como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

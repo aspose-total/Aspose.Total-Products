@@ -19,9 +19,9 @@ Al utilizar [Aspose.Total for Android via Java](https://products.aspose.com/tota
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para convertir DOTM a XLTM" %}}
 1. Abra el archivo DOTM usando la clase [Dotmumento](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Convierta DOTM a HTML usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el dotmumento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el dotmumento en formato XLTM mediante [Guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
+2. Convierta DOTM a HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Cargue el dotmumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el dotmumento en formato XLTM mediante [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -60,7 +60,7 @@ Antes de convertir DOTM a XLTM, puede eliminar la información no utilizada del 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Guarde el archivo XLTM para transmitir en Android a través de Java" %}}
-Después de convertir DOTM a XLTM, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) le permite guardar su dotmumento para transmitir. Si necesita guardar archivos en un Stream, debe crear un objeto FileOutputStream y luego [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
+Después de convertir DOTM a XLTM, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) le permite guardar su dotmumento para transmitir. Si necesita guardar archivos en un Stream, debe crear un objeto FileOutputStream y luego [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

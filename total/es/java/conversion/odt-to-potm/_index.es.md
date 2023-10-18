@@ -16,7 +16,7 @@ A menudo, los desarrolladores tienen que convertir el archivo ODT a POTM mediant
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir ODT a POTM a través de Java" %}}
-1. Abra el archivo ODT usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+1. Abra el archivo ODT usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta el archivo ODT a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación

@@ -19,7 +19,7 @@ otherformats: PPS PPSM POTX POWERPOINT POTM PPTX ODP PPTM POT PPT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir WORD a PPSX en Android" %}}
 1. Abra el archivo WORD usando la clase [Wordumento](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Convierta el archivo WORD a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo WORD a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el wordumento en PPSX usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

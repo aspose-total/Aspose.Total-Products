@@ -16,10 +16,10 @@ Convertir WORDML a XLT a través de [Aspose.Total for Java](https://products.asp
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir WORDML a XLT" %}}
-1. Abra el archivo WORDML usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta WORDML a HTML usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el documento en formato XLT mediante [Guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
+1. Abra el archivo WORDML usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta WORDML a HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Cargue el documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato XLT mediante [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://releases.aspose.com/total/java/).com/words/java/installation/) y [Aspose.Cells para Java](https://wordmls.aspose.com/cells/java/ instalación/) en su pom.xml.
@@ -54,7 +54,7 @@ Antes de convertir WORDML a XLT, puede eliminar la información no utilizada del
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Eliminar información no utilizada de un documento WORDML a través de Java" %}}
-Después de convertir WORDML a XLT, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su documento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
+Después de convertir WORDML a XLT, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) le permite guardar su documento para transmitir. Si necesita guardar archivos en un flujo, debe crear un objeto FileOutputStream y luego [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream.%20com.aspose.cells.SaveOptions)) el archivo a ese objeto Stream llamando al método de guardado de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objeto. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}

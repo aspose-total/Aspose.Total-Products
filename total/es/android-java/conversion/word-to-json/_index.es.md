@@ -19,9 +19,9 @@ Puede convertir el formato WORD a JSON en sus aplicaciones de Android a través 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir formato WORD a JSON en Android" %}}
 1. Abra el archivo WORD usando la clase [Wordumento](https://reference.aspose.com/words/java/com.aspose.words/Wordument)
-2. Convierta WORD a HTML usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
-3. Cargue el wordumento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el wordumento en formato JSON mediante [Guardar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
+2. Convierta WORD a HTML usando [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) ) método
+3. Cargue el wordumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el wordumento en formato JSON mediante [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -18,10 +18,10 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede an
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a WORDML a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
-2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Guardar](https://reference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) como PDF
-3. Cargue el documento PDF usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document)
-4. Guarde el documento en formato WORDML usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
+1. Cree un nuevo objeto [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON válidos del archivo.
+2. Importe el archivo JSON a la hoja de trabajo usando la clase [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) y [Save](https://reference.aspose.com/ cell/net/aspose.cells.workbook/save/methods/4) como PDF
+3. Cargue el documento PDF usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato WORDML usando el método [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -48,7 +48,7 @@ Mientras analiza JSON a WORDML, también puede establecer opciones de diseño pa
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar formato JSON a WORDML con marca de agua" %}}
-Usando la API, también puede convertir JSON a WORDML con marca de agua. Para agregar una marca de agua a su documento WORDML, primero puede analizar el archivo JSON en PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document), cree una instancia de TextWatermarkOptions y establezca sus propiedades, Llame al método Watermark.SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en WORDML. 
+Usando la API, también puede convertir JSON a WORDML con marca de agua. Para agregar una marca de agua a su documento WORDML, primero puede analizar el archivo JSON en PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document), cree una instancia de TextWatermarkOptions y establezca sus propiedades, Llame al método Watermark.SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en WORDML. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

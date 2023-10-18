@@ -20,8 +20,8 @@ Si es un desarrollador de .NET que busca agregar funciones de conversión de MSG
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir correo electrónico a XPS" %}}
 1. Abra el archivo MSG usando la clase [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage)
 2. Convierta MSG a HTML utilizando el método [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document)
-4. Guarde el documento en formato XPS usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Xps como SaveFormat
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato XPS usando el método [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Xps como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

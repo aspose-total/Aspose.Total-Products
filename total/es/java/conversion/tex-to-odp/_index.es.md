@@ -16,7 +16,7 @@ Usando [Aspose.Total para Java](https://products.aspose.com/total/java/) puede c
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir TEX a ODP" %}}
-1. Abra el archivo TEX usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta TEX a PPTX usando el método [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Cargue el documento PPTX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato ODP usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) y establezca ` Odp` como formato guardado
@@ -42,7 +42,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Al cargar el formato de archivo TEX, su documento puede estar protegido con contraseña. [Aspose.PDF para Java](https://products.aspose.com/pdf/java/) también le permite abrir documentos cifrados. Para abrir el archivo cifrado, puede inicializar una nueva instancia del [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class y pase el nombre de archivo y la contraseña como argumentos.  
+Al cargar el formato de archivo TEX, su documento puede estar protegido con contraseña. [Aspose.PDF para Java](https://products.aspose.com/pdf/java/) también le permite abrir documentos cifrados. Para abrir el archivo cifrado, puede inicializar una nueva instancia del [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class y pase el nombre de archivo y la contraseña como argumentos.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java

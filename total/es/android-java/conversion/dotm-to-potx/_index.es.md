@@ -19,7 +19,7 @@ otherformats: PPS PPTX PPSX POT PPTM POTM PPT ODP POWERPOINT PPSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOTM a POTX en Android" %}}
 1. Abra el archivo DOTM usando la clase [Dotmumento](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
-2. Convierta el archivo DOTM a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo DOTM a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotmumento en POTX usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

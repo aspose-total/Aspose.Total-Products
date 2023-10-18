@@ -17,10 +17,10 @@ otherformats: DOC DOCX WORD PPTX
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de XLSB a POWERPOINT en .NET" %}}
-1. Abra el archivo XLSB usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+1. Abra el archivo XLSB usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Convierta XLSB a PDF y configure SaveFormat en Auto
 3. Cargue el archivo PDF convertido usando la clase [Powerpointumento](https://apireference.aspose.com/pdf/net/aspose.pdf/powerpointument)
-4. Guarde el powerpointumento en formato POWERPOINT usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.powerpointument/save/methods/5) y configure Powerpoint como SaveFormat
+4. Guarde el powerpointumento en formato POWERPOINT usando el método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.powerpointument/save/methods/5) y configure Powerpoint como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

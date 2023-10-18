@@ -17,10 +17,10 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de CSV a DOCX en .NET" %}}
-1. Abra el archivo CSV usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+1. Abra el archivo CSV usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Convierta CSV a PDF y configure SaveFormat en Auto
-3. Cargue el archivo PDF convertido usando la clase [Documento](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
-4. Guarde el documento en formato DOCX usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) y configure Docx como SaveFormat
+3. Cargue el archivo PDF convertido usando la clase [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)
+4. Guarde el documento en formato DOCX usando el método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) y configure Docx como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

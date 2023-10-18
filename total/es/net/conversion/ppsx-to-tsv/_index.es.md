@@ -19,9 +19,9 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede co
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPSX a TSV a través de C#" %}}
 1. Abra el archivo PPSX usando la clase [Presentación](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exporte PPSX como HTML usando el método [Guardar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el documento en TSV usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+2. Exporte PPSX como HTML usando el método [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Cargue el documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el documento en TSV usando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

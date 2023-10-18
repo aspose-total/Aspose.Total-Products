@@ -18,7 +18,7 @@ otherformats: ODTX OTT TEXT ODT DOT DOTX ODTM WORD FLATOPC WORDML RTF DOTM
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTX a ODT a través de Java" %}}
 1. Abra el archivo PPTX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPTX a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+3. Cargue el archivo HTML convertido usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato ODT usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

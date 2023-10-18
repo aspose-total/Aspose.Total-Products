@@ -18,10 +18,10 @@ otherformats: XAMLFLOW RTF PCL DOTM OTT MARKDOWN DOTX PS ODT MHTML FLATOPC DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir TEX a DOTM" %}}
-1. Abra el archivo TEX usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convierta TEX a Doc usando el método [Guardar](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Convierta TEX a Doc usando el método [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Cargue el archivo Doc usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document) de Aspose.Words
-4. Guarde el documento en formato DOTM usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Dotm como SaveFormat
+4. Guarde el documento en formato DOTM usando el método [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Dotm como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -47,7 +47,7 @@ outputDocument.Save("output.dotm", SaveFormat.Dotm);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Descifre el archivo TEX usando la contraseña del propietario a través de .NET" %}}
-Antes de convertir TEX a DOTM, si desea descifrar su documento, puede hacerlo mediante la API. Para descifrar el archivo PDF, primero debe crear un objeto [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document) y abrir el TEX con la contraseña del propietario. Después de eso, debe llamar al método [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) del objeto Document. Finalmente, guarde el archivo actualizado usando el método Guardar del objeto Documento.  
+Antes de convertir TEX a DOTM, si desea descifrar su documento, puede hacerlo mediante la API. Para descifrar el archivo PDF, primero debe crear un objeto [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) y abrir el TEX con la contraseña del propietario. Después de eso, debe llamar al método [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) del objeto Document. Finalmente, guarde el archivo actualizado usando el método Guardar del objeto Documento.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

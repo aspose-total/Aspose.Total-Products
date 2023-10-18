@@ -17,7 +17,7 @@ otherformats: DOCX WORD POWERPOINT PPTX
 1. Abra el archivo SXC usando [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) función miembro de [Factory](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory) referencia de clase
 2. Convierta SXC a PDF y configure SaveFormat a Pdf
 3. Cargue el archivo PDF convertido usando la referencia de clase [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-4. Guarde el documento en formato DOC usando la función miembro [Guardar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) y configure Doc como SaveFormat
+4. Guarde el documento en formato DOC usando la función miembro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) y configure Doc como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

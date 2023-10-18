@@ -19,9 +19,9 @@ Las aplicaciones de Andorid son fáciles de usar para los usuarios finales a dia
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir EMAIL a JPEG en Andorid" %}}
 1. Abra el archivo EMAIL usando la clase [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
-2. Convierta CORREO ELECTRÓNICO a HTML usando [guardar](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) método
+2. Convierta CORREO ELECTRÓNICO a HTML usando [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.email.SaveOptions)) método
 3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato JPEG utilizando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método y establecer JPEG como SaveFormat
+4. Guarde el documento en formato JPEG utilizando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método y establecer JPEG como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -18,10 +18,10 @@ Con un paquete de potentes API de automatización de formato de archivo [Aspose.
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir TEX a PPS" %}}
-1. Abra el archivo TEX usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convierta TEX a PPTX usando el método [Guardar](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Convierta TEX a PPTX usando el método [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Cargue el archivo PPTX usando la clase [Presentación](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-4. Guarde el documento en formato PPS usando el método [Guardar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) y establezca `Pps` como SaveFormat
+4. Guarde el documento en formato PPS usando el método [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) y establezca `Pps` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -47,7 +47,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Obtenga metadatos XMP del archivo TEX a través de .NET" %}}
-Al convertir TEX a PPS, es posible que necesite información de metadatos XMP adicional para priorizar su proceso de conversión por lotes. Por ejemplo, puede obtener y ordenar sus documentos de conversión según la fecha de creación y procesar los documentos en consecuencia. [Aspose.PDF para .NET](https://products.aspose.com/pdf/net/) le permite acceder a los metadatos XMP de un archivo TEX. Para obtener los metadatos de un archivo TEX, puede crear un objeto [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document) y abrir el archivo TEX de entrada. Después de eso, puede obtener los metadatos del archivo mediante la propiedad [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
+Al convertir TEX a PPS, es posible que necesite información de metadatos XMP adicional para priorizar su proceso de conversión por lotes. Por ejemplo, puede obtener y ordenar sus documentos de conversión según la fecha de creación y procesar los documentos en consecuencia. [Aspose.PDF para .NET](https://products.aspose.com/pdf/net/) le permite acceder a los metadatos XMP de un archivo TEX. Para obtener los metadatos de un archivo TEX, puede crear un objeto [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) y abrir el archivo TEX de entrada. Después de eso, puede obtener los metadatos del archivo mediante la propiedad [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

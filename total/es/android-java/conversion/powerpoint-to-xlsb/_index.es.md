@@ -20,8 +20,8 @@ Puede convertir fácilmente un archivo POWERPOINT a XLSB en sus aplicaciones de 
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POWERPOINT a XLSB en Android" %}}
 1. Abra el archivo POWERPOINT usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POWERPOINT a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el documento en formato XLSB usando [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/)
+3. Cargue el documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato XLSB usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

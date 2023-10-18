@@ -17,10 +17,10 @@ otherformats: PPTX DOCX DOC POWERPOINT
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de SXC a WORD en .NET" %}}
-1. Abra el archivo SXC usando la clase [Libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
+1. Abra el archivo SXC usando la clase [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook)
 2. Convierta SXC a PDF y configure SaveFormat en Auto
 3. Cargue el archivo PDF convertido usando la clase [Wordumento](https://apireference.aspose.com/pdf/net/aspose.pdf/wordument)
-4. Guarde el wordumento en formato WORD usando el método [Guardar](https://apireference.aspose.com/pdf/net/aspose.pdf.wordument/save/methods/5) y configure Word como SaveFormat
+4. Guarde el wordumento en formato WORD usando el método [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.wordument/save/methods/5) y configure Word como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

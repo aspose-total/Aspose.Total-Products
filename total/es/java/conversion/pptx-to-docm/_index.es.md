@@ -18,7 +18,7 @@ otherformats: WORDML TEXT RTF ODT DOTX FLATOPC DOCM DOT DOTM OTT DOCMX WORD
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTX a DOCM a través de Java" %}}
 1. Abra el archivo PPTX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPTX a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+3. Cargue el archivo HTML convertido usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el document en formato DOCM usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

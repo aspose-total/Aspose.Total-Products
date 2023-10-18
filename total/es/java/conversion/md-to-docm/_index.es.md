@@ -16,9 +16,9 @@ Puede convertir MD a DOCM siguiendo dos simples pasos. Primero debe procesar el 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir MD a DOCM" %}}
-1. Abra el archivo MD usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convierta MD a DOC usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
-3. Cargue el archivo DOC usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
+1. Abra el archivo MD usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Convierta MD a DOC usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
+3. Cargue el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
 4. Guarde el documento en formato DOCM usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure DOCM como Guardar formato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -42,7 +42,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Mientras convierte MD a DOCM, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el MD con la contraseña del propietario.  
+Mientras convierte MD a DOCM, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el MD con la contraseña del propietario.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

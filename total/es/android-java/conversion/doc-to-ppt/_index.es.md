@@ -19,7 +19,7 @@ otherformats: PPS PPSX PPTM POWERPOINT ODP PPSM PPTX POT POTX POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOC a PPT en Android" %}}
 1. Abra el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta el archivo DOC a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
+2. Convierta el archivo DOC a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el documento en PPT usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

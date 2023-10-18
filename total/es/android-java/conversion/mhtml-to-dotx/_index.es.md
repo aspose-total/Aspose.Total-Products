@@ -19,7 +19,7 @@ Puede integrar la función de conversión de MHTML a DOTX en sus aplicaciones m�
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta MHTML a DOTX en Android a través de Java" %}}
 1. Abra el archivo MHTML usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convierta MHTML a DOC usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método
+2. Convierta MHTML a DOC usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método
 3. Cargue el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
 4. Guarde el documento en formato DOTX usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure DOTX como Guardar formato
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -20,8 +20,8 @@ Si es un desarrollador de .NET que busca agregar funciones de conversión de EML
 {{% blocks/products/pf/agp/feature-section-col title="API de C# para convertir correo electrónico a DOCM" %}}
 1. Abra el archivo EML usando la clase [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
 2. Convierta EML a HTML utilizando el método [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
-3. Cargue HTML usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document)
-4. Guarde el documento en formato DOCM usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Docm como SaveFormat
+3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document)
+4. Guarde el documento en formato DOCM usando el método [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) y configure Docm como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

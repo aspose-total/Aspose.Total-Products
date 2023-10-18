@@ -19,9 +19,9 @@ Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede con
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta WORD a formato JSON a través de C++" %}}
 1. Abra el archivo WORD usando la referencia de clase [Wordumento](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)
-2. Convierta WORD a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat)
+2. Convierta WORD a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat)
 3. Cargue el wordumento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Guarde el wordumento en formato JSON usando la función miembro [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+4. Guarde el wordumento en formato JSON usando la función miembro [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

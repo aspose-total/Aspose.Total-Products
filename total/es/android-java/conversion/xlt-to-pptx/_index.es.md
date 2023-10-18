@@ -18,10 +18,10 @@ otherformats: DOC DOCX WORD POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para exportar XLT a PPTX" %}}
-1. Abra el archivo XLT usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra el archivo XLT usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta XLT a PDF y configure SaveFormat en AUTO
 3. Cargue el archivo PDF convertido usando la clase [Pptxumento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Pptxument)
-4. Guarde el pptxumento en formato PPTX usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Pptxument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
+4. Guarde el pptxumento en formato PPTX usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Pptxument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

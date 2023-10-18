@@ -21,7 +21,7 @@ Puede convertir su documento dado en dos pasos. Puede usar [Aspose.Slides for An
 {{% blocks/products/pf/agp/feature-section-col title="Representación de PPSX a DOCX en Android" %}}
 1. Abra el archivo PPSX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPSX a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+3. Cargue el archivo HTML convertido usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato DOCX usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure Docx como Guardar formato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

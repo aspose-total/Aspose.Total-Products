@@ -16,9 +16,9 @@ Puede convertir XPS a FLATOPC siguiendo dos simples pasos. Primero debe procesar
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir XPS a FLATOPC" %}}
-1. Abra el archivo XPS usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-2. Convierta XPS a DOC usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
-3. Cargue el archivo DOC usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
+1. Abra el archivo XPS usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Convierta XPS a DOC usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
+3. Cargue el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
 4. Guarde el documento en formato FLATOPC usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure FLATOPC como Guardar formato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -42,7 +42,7 @@ outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Mientras convierte XPS a FLATOPC, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el XPS con la contraseña del propietario.  
+Mientras convierte XPS a FLATOPC, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el XPS con la contraseña del propietario.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

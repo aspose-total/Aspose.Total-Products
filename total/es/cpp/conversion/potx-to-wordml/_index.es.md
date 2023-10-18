@@ -21,7 +21,7 @@ otherformats: WORD DOT DOTX DOCX OTT DOCM DOC ODT TEXT FLATOPC DOTM RTF
 1. Cargue el archivo POTX usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice POTX a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la referencia de clase [Wordmlumento](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)
-4. Guarde el wordmlumento en formato WORDML usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)
+4. Guarde el wordmlumento en formato WORDML usando la función de miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

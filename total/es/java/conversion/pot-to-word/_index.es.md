@@ -18,7 +18,7 @@ otherformats: WORDML DOT OTT WORD ODT WORDX TEXT DOTX WORDM RTF DOTM FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir POT a WORD a través de Java" %}}
 1. Abra el archivo POT usando la clase [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta POT a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) y establezca Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+3. Cargue el archivo HTML convertido usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato WORD usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

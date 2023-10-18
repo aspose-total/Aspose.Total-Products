@@ -19,9 +19,9 @@ otherformats: DOTM TIFF BMP XPS TEXT DOCM DOTX DOC RTF SVG PDF PNG WORDML DOCX G
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir EMAIL a PCL" %}}
 1. Abra el archivo EMAIL usando la referencia de clase [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)
-2. Convierta EMAIL a HTML usando la función miembro [Guardar](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Convierta EMAIL a HTML usando la función miembro [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Guarde el documento en formato PCL usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Pcl como SaveFormat
+4. Guarde el documento en formato PCL usando el método [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Pcl como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

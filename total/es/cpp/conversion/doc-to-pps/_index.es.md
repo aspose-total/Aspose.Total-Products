@@ -19,11 +19,11 @@ otherformats: POTM POTX POWERPOINT ODP PPSM PPSX POT PPT PPTX PPTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de DOC a PPS en C++" %}}
 1. Abra el archivo DOC usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-2. Convierta DOC a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
+2. Convierta DOC a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el documento en formato PPS usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Pps como SaveFormat
+6. Guarde el documento en formato PPS usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Pps como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

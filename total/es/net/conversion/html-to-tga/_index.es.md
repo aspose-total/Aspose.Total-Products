@@ -18,10 +18,10 @@ Con [Aspose.Total para .NET](https://products.aspose.com/total/net/) puede expor
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el archivo HTML a TGA a través de .NET" %}}
-1. Abra el archivo HTML usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+1. Abra el archivo HTML usando la clase [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Inicialice el objeto de clase [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) y renderice HTML a JPEG mediante [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) método
 3. Cargue el archivo JPEG usando la clase [Imagen](https://reference.aspose.com/imaging/net/aspose.imaging/image)
-4. Guarde el documento en formato TGA usando el método [Guardar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+4. Guarde el documento en formato TGA usando el método [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -39,8 +39,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convierta un archivo HTML a TGA en un solo archivo a través de C#" %}}
-Con la API, también puede convertir un archivo HTML a TGA en un solo archivo de imagen. Para convertir todas las páginas, primero puede convertir su documento HTML en un archivo TIFF y luego puede exportar el archivo TIFF a TGA. Puede abrir el archivo de entrada usando la clase [Documento](https://reference.aspose.com/pdf/net/aspose.pdf/document) y crear objetos de dispositivo Resolución, TiffSettings y TIFF. Puede obtener una sola imagen TIFF usando el método [Proceso](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) de [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) clase. Finalmente, puede cargar el archivo TIFF usando la clase [Imagen](https://reference.aspose.com/imaging/net/aspose.imaging/image)
-y guárdelo en formato TGA usando el método [Guardar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
+Con la API, también puede convertir un archivo HTML a TGA en un solo archivo de imagen. Para convertir todas las páginas, primero puede convertir su documento HTML en un archivo TIFF y luego puede exportar el archivo TIFF a TGA. Puede abrir el archivo de entrada usando la clase [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) y crear objetos de dispositivo Resolución, TiffSettings y TIFF. Puede obtener una sola imagen TIFF usando el método [Proceso](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) de [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) clase. Finalmente, puede cargar el archivo TIFF usando la clase [Imagen](https://reference.aspose.com/imaging/net/aspose.imaging/image)
+y guárdelo en formato TGA usando el método [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}

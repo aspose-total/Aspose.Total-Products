@@ -20,8 +20,8 @@ Puede convertir fácilmente un archivo PPTM a XLAM en sus aplicaciones de Androi
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir PPTM a XLAM en Android" %}}
 1. Abra el archivo PPTM usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. Convierta PPTM a HTML usando [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) método
-3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Guarde el documento en formato XLAM usando [guardar](https://reference.aspose.com/cells/java/com.aspose.cells/)
+3. Cargue el documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Guarde el documento en formato XLAM usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

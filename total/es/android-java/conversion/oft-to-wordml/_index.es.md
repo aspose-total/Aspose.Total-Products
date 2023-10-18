@@ -19,9 +19,9 @@ Las aplicaciones de Andorid son fáciles de usar para los usuarios finales a dia
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convertir OFT a WORDML en Andorid" %}}
 1. Abra el archivo OFT usando la clase [MailMessage](https://reference.aspose.com/oft/java/com.aspose.oft/mailmessage)
-2. Convierta CORREO ELECTRÓNICO a HTML usando [guardar](https://reference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions )) método
+2. Convierta CORREO ELECTRÓNICO a HTML usando [save](https://reference.aspose.com/oft/java/com.aspose.oft/MailMessage#save(java.io.OutputStream,%20com.aspose.oft.SaveOptions )) método
 3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-4. Guarde el documento en formato WORDML utilizando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método y establecer WORDML como SaveFormat
+4. Guarde el documento en formato WORDML utilizando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) método y establecer WORDML como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

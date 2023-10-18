@@ -16,7 +16,7 @@ Puede convertir un archivo tex a una imagen WMZ en Java en dos simples pasos. En
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Exportar TEX a WMZ a través de Java" %}}
-1. Abra el archivo TEX usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Inicialice el objeto de clase y renderice TEX a JPEG mediante [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com. método aspose.pdf.Page-java.io.OutputStream-)
 3. Cargue el archivo JPEG usando la clase [Imagen](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image)
 4. Guarde el documento en formato WMZ usando [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) método
@@ -34,7 +34,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.a
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Convierta TEX a WMZ en un solo archivo a través de Java" %}}
-La API también le permite exportar archivos TEX a WMZ a un solo archivo. Para convertir todas las páginas, primero puede convertir su documento TEX en un archivo TIFF y luego puede exportar el archivo TIFF a WMZ. Puede abrir el archivo de entrada usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y crear objetos de dispositivo Resolución, TiffSettings y TIFF. Puede obtener una sola imagen TIFF usando [proceso](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/TiffDevice#process-com.aspose.pdf.IDocument-int-int- método java.io.OutputStream-) de la clase [TiffDevice](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/TiffDevice). Finalmente, puede cargar el archivo TIFF usando la clase [Imagen](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) y guardarlo en formato WMZ usando [guardar](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-).  
+La API también le permite exportar archivos TEX a WMZ a un solo archivo. Para convertir todas las páginas, primero puede convertir su documento TEX en un archivo TIFF y luego puede exportar el archivo TIFF a WMZ. Puede abrir el archivo de entrada usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y crear objetos de dispositivo Resolución, TiffSettings y TIFF. Puede obtener una sola imagen TIFF usando [proceso](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/TiffDevice#process-com.aspose.pdf.IDocument-int-int- método java.io.OutputStream-) de la clase [TiffDevice](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/TiffDevice). Finalmente, puede cargar el archivo TIFF usando la clase [Imagen](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) y guardarlo en formato WMZ usando [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-).  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "a0abf986a98e2b1f1e86127b1a4449bd" "convert-pdf-to-single-file.java" >}}

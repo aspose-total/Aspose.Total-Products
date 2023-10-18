@@ -16,7 +16,7 @@ Convertir DOTX a XLS a través de [Aspose.Total for Java](https://products.aspos
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir DOTX a XLS" %}}
-1. Abra el archivo DOTX usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
+1. Abra el archivo DOTX usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta DOTX a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Cargue el Documento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Guarde el Documento en formato XLS mediante [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.GuardarOpciones)) método

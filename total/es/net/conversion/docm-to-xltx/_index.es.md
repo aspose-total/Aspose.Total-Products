@@ -18,10 +18,10 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir DOCM a XLTX" %}}
-1. Abra el archivo DOCM usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document
-2. Convierta DOCM a HTML usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
-3. Cargue el document HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el document en formato XLTX usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLTX` como SaveFormat
+1. Abra el archivo DOCM usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/document
+2. Convierta DOCM a HTML usando el método [Save](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4)
+3. Cargue el document HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el document en formato XLTX usando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLTX` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -51,7 +51,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 </div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Cargar document DOCM desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documents DOCM a través de la transmisión. Para abrir un ddocumentdesde una secuencia, simplemente pase un objeto de secuencia que contenga el dodocumentl constructor [Documento](https://reference.aspose.com/words/net/aspose.words/docdocumentl siguiente ejemplo de código muestra cómo abrir un docudocumentde una secuencia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documents DOCM a través de la transmisión. Para abrir un ddocumentdesde una secuencia, simplemente pase un objeto de secuencia que contenga el dodocumentl constructor [Document](https://reference.aspose.com/words/net/aspose.words/docdocumentl siguiente ejemplo de código muestra cómo abrir un docudocumentde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}

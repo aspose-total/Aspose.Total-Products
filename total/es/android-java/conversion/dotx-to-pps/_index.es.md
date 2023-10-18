@@ -19,7 +19,7 @@ otherformats: ODP PPTM PPT POWERPOINT PPTX PPSM POT POTX POTM PPSX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOTX a PPS en Android" %}}
 1. Abra el archivo DOTX usando la clase [Dotxumento](https://reference.aspose.com/words/java/com.aspose.words/Dotxument)
-2. Convierta el archivo DOTX a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo DOTX a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotxumento en PPS usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

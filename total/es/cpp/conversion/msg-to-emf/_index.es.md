@@ -19,9 +19,9 @@ otherformats: DOTX OTT PNG MD FLATOPC PDF WORDML DOCX BMP XPS TEXT PS EPUB DOT S
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir MSG a EMF" %}}
 1. Abra el archivo MSG usando la referencia de clase [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message)
-2. Convierta MSG a HTML usando la función miembro [Guardar](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
+2. Convierta MSG a HTML usando la función miembro [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786)
 3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Guarde el documento en formato EMF usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Emf como SaveFormat
+4. Guarde el documento en formato EMF usando el método [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) y configure Emf como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

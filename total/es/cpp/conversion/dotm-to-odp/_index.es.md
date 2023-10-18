@@ -19,11 +19,11 @@ otherformats: PPTM POTX PPTX PPSX PPS POWERPOINT PPT POTM POT PPSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de DOTM a ODP en C++" %}}
 1. Abra el archivo DOTM usando la referencia de clase [Dotmumento](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
-2. Convierta DOTM a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_stdbasicostream_saveoptions)
+2. Convierta DOTM a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el dotmumento en formato ODP usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Odp como SaveFormat
+6. Guarde el dotmumento en formato ODP usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Odp como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

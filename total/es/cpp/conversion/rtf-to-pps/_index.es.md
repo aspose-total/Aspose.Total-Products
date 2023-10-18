@@ -19,11 +19,11 @@ otherformats: PPT PPSM POTM POTX ODP PPSX POT POWERPOINT PPTM PPTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de RTF a PPS en C++" %}}
 1. Abra el archivo RTF usando la referencia de clase [Rtfumento](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
-2. Convierta RTF a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_stdbasicostream_saveoptions)
+2. Convierta RTF a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el rtfumento en formato PPS usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Pps como SaveFormat
+6. Guarde el rtfumento en formato PPS usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Pps como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -18,10 +18,10 @@ Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede an
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a PSD a través de C#" %}}
-1. Cree un nuevo objeto [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
-2. Convierta JSON a JPEG utilizando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+1. Cree un nuevo objeto [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) y lea los datos JSON del archivo.
+2. Convierta JSON a JPEG utilizando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 3. Cargue el documento JPEG usando la clase [Imagen](https://reference.aspose.com/imaging/net/aspose.imaging/image)
-4. Guarde el documento en formato PSD usando el método [Guardar](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+4. Guarde el documento en formato PSD usando el método [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

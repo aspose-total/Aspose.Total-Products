@@ -21,7 +21,7 @@ otherformats: DOTM DOTX DOC OTT RTF DOCM TEXT WORD DOCX DOT WORDML FLATOPC
 1. Cargue el archivo POTX usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice POTX a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la referencia de clase [Odtumento](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
-4. Guarde el odtumento en formato ODT usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string)
+4. Guarde el odtumento en formato ODT usando la función de miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

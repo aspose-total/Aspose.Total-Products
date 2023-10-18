@@ -21,7 +21,7 @@ otherformats: RTF DOTX WORDML ODT WORD DOC DOCX DOT TEXT DOTM DOCM FLATOPC
 1. Cargue el archivo PPT usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice PPT a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la referencia de clase [Ottumento](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)
-4. Guarde el ottumento en formato OTT usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string)
+4. Guarde el ottumento en formato OTT usando la función de miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

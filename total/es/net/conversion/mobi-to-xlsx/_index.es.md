@@ -18,10 +18,10 @@ Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), pu
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir MOBI a XLSX" %}}
-1. Abra el archivo MOBI usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/mobiument)
-2. Convierta MOBI a HTML usando el método [Guardar](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
-3. Cargue el mobiumento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el mobiumento en formato XLSX usando el método [Guardar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLSX` como SaveFormat
+1. Abra el archivo MOBI usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)
+2. Convierta MOBI a HTML usando el método [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
+3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el mobiumento en formato XLSX usando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `XLSX` como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
@@ -51,7 +51,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 </div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Cargar mobiumento MOBI desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar mobiumentos MOBI a través de la transmisión. Para abrir un mobiumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el mobiumento al constructor [Documento](https://reference.aspose.com/words/net/aspose.words/mobiument). El siguiente ejemplo de código muestra cómo abrir un mobiumento desde una secuencia:  
+[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar mobiumentos MOBI a través de la transmisión. Para abrir un mobiumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el mobiumento al constructor [Document](https://reference.aspose.com/words/net/aspose.words/mobiument). El siguiente ejemplo de código muestra cómo abrir un mobiumento desde una secuencia:  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}

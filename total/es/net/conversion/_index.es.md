@@ -41,7 +41,7 @@ Cargue el archivo JPEG usando la clase [Imagen](https://reference.aspose.com/ima
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir Excel a Word y PowerPoint" %}}
 
-Para convertir formatos de Microsoft Excel a diferentes archivos, incluidos Word y PowerPoint, sub API relevantes involucradas de Aspose.Total principal para .NET API. Proceso de conversión de archivos de Excel a documentos de Word, cargue el archivo EXCEL usando la clase [Libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook) y convierta EXCEL a PDF en primer lugar y configure Guardar formato en Automático. Luego cargue el archivo PDF convertido usando la clase Document y llame al método Save y configure Doc, Docx como SaveFormat. También aparece el código para la conversión de Microsoft **Excel a Powerpoint**.
+Para convertir formatos de Microsoft Excel a diferentes archivos, incluidos Word y PowerPoint, sub API relevantes involucradas de Aspose.Total principal para .NET API. Proceso de conversión de archivos de Excel a documentos de Word, cargue el archivo EXCEL usando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) y convierta EXCEL a PDF en primer lugar y configure Guardar formato en Automático. Luego cargue el archivo PDF convertido usando la clase Document y llame al método Save y configure Doc, Docx como SaveFormat. También aparece el código para la conversión de Microsoft **Excel a Powerpoint**.
 
 {{% blocks/products/pf/feature-page-code h3="C# - Conversión de JSON a Excel" %}}
 

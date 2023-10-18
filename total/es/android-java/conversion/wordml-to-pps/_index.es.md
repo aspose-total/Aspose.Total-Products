@@ -19,7 +19,7 @@ otherformats: PPSX PPTX POT POTX POTM PPSM ODP PPT PPTM POWERPOINT CSV DIF FODS 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir WORDML a PPS en Android" %}}
 1. Abra el archivo WORDML usando la clase [Wordmlumento](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument)
-2. Convierta el archivo WORDML a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo WORDML a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el wordmlumento en PPS usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

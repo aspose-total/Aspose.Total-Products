@@ -19,9 +19,9 @@ otherformats: DOCM DOTM DOTX OTT DOT MHTML MARKDOWN RTF ODT FLATOPC PS WORDML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para renderizar PCL a XAMLFLOW" %}}
 1. Abra el archivo PCL usando la referencia de clase [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Convierta PCL a DOC usando la función miembro [Guardar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. Convierta PCL a DOC usando la función miembro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. Cargue el archivo DOC utilizando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) de Aspose.Words API
-4. Guarde el documento en formato XAMLFLOW usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
+4. Guarde el documento en formato XAMLFLOW usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

@@ -19,9 +19,9 @@ otherformats: RTF MARKDOWN ODT WORDML OTT DOTM DOCM XAMLFLOW DOTX DOT PS PCL
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para renderizar TEX a MHTML" %}}
 1. Abra el archivo TEX usando la referencia de clase [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
-2. Convierta TEX a DOC usando la función miembro [Guardar](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
+2. Convierta TEX a DOC usando la función miembro [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)
 3. Cargue el archivo DOC utilizando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) de Aspose.Words API
-4. Guarde el documento en formato MHTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
+4. Guarde el documento en formato MHTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

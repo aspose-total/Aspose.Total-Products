@@ -19,7 +19,7 @@ otherformats: PPT PPSX PPTX PPS PPSM POTM POTX POWERPOINT PPTM ODP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir DOT a POT en Android" %}}
 1. Abra el archivo DOT usando la clase [Dotumento](https://reference.aspose.com/words/java/com.aspose.words/Dotument)
-2. Convierta el archivo DOT a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions )) método
+2. Convierta el archivo DOT a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Dotument#save(java.lang.String,com.aspose.words.SaveOptions )) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el dotumento en POT usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

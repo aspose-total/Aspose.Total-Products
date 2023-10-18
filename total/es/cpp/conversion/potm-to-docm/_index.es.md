@@ -20,8 +20,8 @@ otherformats: ODT DOCX DOTM WORD RTF DOC DOT OTT TEXT DOTX WORDML FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir POTM a DOCM" %}}
 1. Cargue el archivo POTM usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice POTM a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
-3. Cargue el archivo HTML convertido usando la referencia de clase [Documento](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
-4. Guarde el docmumento en formato DOCM usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)
+3. Cargue el archivo HTML convertido usando la referencia de clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument)
+4. Guarde el docmumento en formato DOCM usando la función de miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

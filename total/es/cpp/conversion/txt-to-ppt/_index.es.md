@@ -19,11 +19,11 @@ otherformats: POT PPTX POTM ODP POTX PPSM POWERPOINT PPSX PPS PPTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de TXT a PPT en C++" %}}
 1. Abra el archivo TXT usando la referencia de clase [Txtumento](https://reference.aspose.com/words/cpp/class/aspose.words.txtument)
-2. Convierta TXT a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.txtument#save_stdbasicostream_saveoptions)
+2. Convierta TXT a HTML usando la función miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.txtument#save_stdbasicostream_saveoptions)
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 4. Agregue una autoforma en su diapositiva y agregue AddTextFrame en ella
 5. Cargue el contenido HTML y escríbalo en su archivo de presentación
-6. Guarde el txtumento en formato PPT usando el método [Guardar](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppt como SaveFormat
+6. Guarde el txtumento en formato PPT usando el método [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Ppt como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

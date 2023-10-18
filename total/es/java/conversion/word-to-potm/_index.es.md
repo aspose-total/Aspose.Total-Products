@@ -16,8 +16,8 @@ A menudo, los desarrolladores tienen que convertir el archivo WORD a POTM median
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir WORD a POTM a través de Java" %}}
-1. Abra el archivo WORD usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convierta el archivo WORD a HTML usando [guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
+1. Abra el archivo WORD usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Convierta el archivo WORD a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Inicialice un nuevo objeto [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 5. Extraiga el contenido del archivo HTML usando BufferedReader y escriba el contenido en su archivo de presentación
 6. Guarde el documento en POTM usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)

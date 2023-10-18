@@ -19,9 +19,9 @@ Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede ana
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Convierta el formato JSON a CHM en C++" %}}
 1. Cree un nuevo objeto [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) y lea los datos JSON válidos del archivo.
-2. Guarde JSON como PDF utilizando el método [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
+2. Guarde JSON como PDF utilizando el método [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 3. Cargue el documento PDF usando la clase [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
-4. Guarde el documento en formato CHM usando el método [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+4. Guarde el documento en formato CHM usando el método [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

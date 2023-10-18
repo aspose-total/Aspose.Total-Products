@@ -21,7 +21,7 @@ otherformats: ODT DOC WORD FLATOPC RTF DOCM DOTM DOTX DOCX WORDML OTT TEXT
 1. Cargue el archivo POWERPOINT usando la referencia de clase [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. Renderice POWERPOINT a HTML usando la función de miembro [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) y configure Html como SaveFormat
 3. Cargue el archivo HTML convertido usando la referencia de clase [Dotumento](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
-4. Guarde el dotumento en formato DOT usando la función de miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
+4. Guarde el dotumento en formato DOT usando la función de miembro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

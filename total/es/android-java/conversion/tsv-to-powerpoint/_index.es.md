@@ -18,10 +18,10 @@ otherformats: PPTX DOCX DOC WORD
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para exportar TSV a POWERPOINT" %}}
-1. Abra el archivo TSV usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra el archivo TSV usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta TSV a PDF y configure SaveFormat en AUTO
 3. Cargue el archivo PDF convertido usando la clase [Powerpointumento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)
-4. Guarde el powerpointumento en formato POWERPOINT usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
+4. Guarde el powerpointumento en formato POWERPOINT usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

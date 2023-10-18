@@ -18,10 +18,10 @@ otherformats: PPTX POWERPOINT DOC DOCX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="API de Android para exportar XLT a WORD" %}}
-1. Abra el archivo XLT usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra el archivo XLT usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta XLT a PDF y configure SaveFormat en AUTO
 3. Cargue el archivo PDF convertido usando la clase [Wordumento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument)
-4. Guarde el wordumento en formato WORD usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
+4. Guarde el wordumento en formato WORD usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions -) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}

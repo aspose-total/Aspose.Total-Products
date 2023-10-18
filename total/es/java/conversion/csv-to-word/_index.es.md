@@ -16,10 +16,10 @@ Renderizar CSV a WORD es un proceso de dos pasos. Primero usará [Aspose.Cells f
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir CSV a WORD a través de la API de Java" %}}
-1. Abra el archivo CSV usando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+1. Abra el archivo CSV usando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. Convierta CSV a PDF y configure SaveFormat en AUTO
-3. Cargue el archivo PDF convertido usando la clase [Documento](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-4. Guarde el documento en formato WORD usando [guardar](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método y establecer Word como SaveFormat
+3. Cargue el archivo PDF convertido usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+4. Guarde el documento en formato WORD usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) método y establecer Word como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Debe usar Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://releases.aspose.com/total/java/) e incluya bibliotecas en su pom.xml.
