@@ -17,7 +17,7 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования RTF в XLT" %}}
 1. Откройте файл RTF, используя класс [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
-2. Преобразуйте RTF в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте RTF в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате XLT с помощью [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

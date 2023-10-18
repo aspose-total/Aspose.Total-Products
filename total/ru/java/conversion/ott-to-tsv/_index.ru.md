@@ -17,7 +17,7 @@ otherformats: XLTM TSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования OTT в TSV" %}}
 1. Откройте файл OTT, используя класс [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
-2. Преобразуйте OTT в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте OTT в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 4. Сохраните документ в формате TSV с помощью [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}

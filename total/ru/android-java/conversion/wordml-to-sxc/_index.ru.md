@@ -19,9 +19,9 @@ otherformats: FODS ODS CSV XLSX XLTM XLS XLSB XLTX XLSM EXCEL TSV XLT XLAM DIF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API для преобразования WORDML в SXC" %}}
 1. Откройте файл WORDML, используя класс [Wordmlument](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument).
-2. Преобразуйте WORDML в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте WORDML в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Wordmlument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате SXC с помощью [Сохранить](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
+4. Сохраните документ в формате SXC с помощью [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

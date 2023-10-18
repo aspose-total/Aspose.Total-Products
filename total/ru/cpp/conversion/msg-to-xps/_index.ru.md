@@ -19,7 +19,7 @@ otherformats: WORDML PS TIFF DOC SVG DOCX BMP ODT DOT PNG DOTM PCL EPUB EMF MD D
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования MSG в XPS" %}}
 1. Откройте файл MSG, используя ссылку на класс [MailMessage](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message).
-2. Преобразуйте MSG в HTML с помощью функции-члена [Сохранить](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
+2. Преобразуйте MSG в HTML с помощью функции-члена [Save](https://reference.aspose.com/msg/cpp/class/aspose.msg.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 4. Сохраните документ в формате XPS с помощью метода [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) и установите Xps в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

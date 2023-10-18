@@ -21,7 +21,7 @@ otherformats: WORDML DOT DOCM TEXT DOC ODT OTT DOTX WORD RTF DOCX FLATOPC
 1. Загрузите файл PPSX, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте PPSX в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
 3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument).
-4. Сохраните документ в формате DOTM, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string).
+4. Сохраните документ в формате DOTM, используя функцию члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

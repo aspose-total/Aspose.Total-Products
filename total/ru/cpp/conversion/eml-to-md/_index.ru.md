@@ -19,7 +19,7 @@ otherformats: EPUB FLATOPC PNG JPEG DOCM BMP PDF GIF RTF WORDML ODT PCL PS XPS T
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования EML в MD" %}}
 1. Откройте файл EML, используя ссылку на класс [MailMessage](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message).
-2. Преобразуйте EML в HTML с помощью функции-члена [Сохранить](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
+2. Преобразуйте EML в HTML с помощью функции-члена [Save](https://reference.aspose.com/eml/cpp/class/aspose.eml.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 4. Сохраните документ в формате MD с помощью метода [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) и установите Md в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

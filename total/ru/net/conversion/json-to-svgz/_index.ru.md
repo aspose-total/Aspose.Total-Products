@@ -13,15 +13,15 @@ otherformats: IMAGE WMF DXF TGA SVGZ PSD WMZ DICOM JPEG2000 EMZ
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование формата JSON в SVGZ через C#" h2="C# API для анализа JSON в SVGZ без использования сторонних зависимостей" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать JSON в SVGZ в любом приложении .NET, C#, ASP.NET и VB.NET двумя простыми способами. шаги. Во-первых, с помощью [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) вы можете экспортировать JSON в JPEG. После этого, используя [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), вы можете конвертировать JPEG в SVGZ.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете преобразовать JSON в SVGZ в любом приложении .NET, C#, ASP.NET и VB.NET двумя простыми способами. шаги. Во-первых, с помощью [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) вы можете экспортировать JSON в JPEG. После этого, используя [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), вы можете конвертировать JPEG в SVGZ.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в SVGZ через C#" %}}
 1. Создайте новый объект [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте данные JSON из файла
-2. Преобразуйте JSON в JPEG, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+2. Преобразуйте JSON в JPEG, используя метод [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 3. Загрузите документ JPEG с помощью класса [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image).
-4. Сохраните документ в формате SVGZ, используя метод [Сохранить](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).
+4. Сохраните документ в формате SVGZ, используя метод [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

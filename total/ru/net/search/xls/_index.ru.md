@@ -36,7 +36,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 
 {{% blocks/products/pf/agp/feature-section-col title="Как найти файл XLS через C#" %}}
 
-1. Установите «Aspose.Cells для .NET».
+1. Установите «Aspose.Cells for .NET».
 1. Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
 1. Загрузите файл XLS, используя класс Workbook.
 1. Получите доступ к ячейкам на соответствующем листе.

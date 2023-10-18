@@ -19,7 +19,7 @@ otherformats: DOCX TIFF DOTM PNG MD SVG GIF DOTX OTT PCL PS FLATOPC EMF EPUB TEX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования EMAIL в PDF" %}}
 1. Откройте файл EMAIL, используя ссылку на класс [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message).
-2. Преобразуйте EMAIL в HTML с помощью функции-члена [Сохранить](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
+2. Преобразуйте EMAIL в HTML с помощью функции-члена [Save](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 4. Сохраните документ в формате PDF с помощью метода [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) и установите Pdf в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

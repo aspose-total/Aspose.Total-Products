@@ -13,15 +13,15 @@ otherformats: ODS XLS SXC TSV XLTM FODS EXCEL XLTX XLAM XLSB XLT XLSX DIF XLSM
 {{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования ODT в ODS или онлайн-приложение" h2="Экспорт ODT в ODS с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования ODT в ODS в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать ODT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в ODS.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования ODT в ODS в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать ODT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API для преобразования ODT в ODS" %}}
 1. Откройте файл ODT, используя класс [Document](https://reference.aspose.com/words/net/aspose.words/document).
-2. Преобразуйте ODT в HTML, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4).
+2. Преобразуйте ODT в HTML, используя метод [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате ODS с помощью метода [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «ODS» в качестве формата сохранения.
+4. Сохраните документ в формате ODS с помощью метода [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) и установите «ODS» в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

@@ -21,7 +21,7 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 1. Откройте файл DOTX, используя ссылку на класс [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument).
 2. Преобразуйте DOTX в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
-4. Сохраните документ в формате JSON с помощью функции-члена [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
+4. Сохраните документ в формате JSON с помощью функции-члена [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

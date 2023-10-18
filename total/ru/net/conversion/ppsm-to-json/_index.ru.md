@@ -13,15 +13,15 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSM в формат JSON через С#" h2="Экспорт PPSM в JSON через C# без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете конвертировать PPSM в формат JSON в любом приложении .NET, C#, ASP.NET и VB.NET за два простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSM в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в JSON.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете конвертировать PPSM в формат JSON в любом приложении .NET, C#, ASP.NET и VB.NET за два простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSM в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в JSON.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование PPSM в формат JSON через С#" %}}
 1. Откройте файл PPSM, используя класс [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
-2. Преобразуйте PPSM в HTML, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+2. Преобразуйте PPSM в HTML, используя метод [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате JSON, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+4. Сохраните документ в формате JSON, используя метод [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

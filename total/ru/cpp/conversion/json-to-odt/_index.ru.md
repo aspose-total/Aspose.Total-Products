@@ -19,9 +19,9 @@ otherformats: MOBI DOCM FLATOPC CHM WORD DOTX WORDML PCL EPUB OTT PS RTF DOC DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в ODT на C++" %}}
 1. Создайте новый объект [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) и прочитайте действительные данные JSON из файла.
-2. Сохраните JSON как PDF, используя метод [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
+2. Сохраните JSON как PDF, используя метод [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
 3. Загрузите документ PDF с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
-4. Сохраните документ в формате ODT, используя метод [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat).
+4. Сохраните документ в формате ODT, используя метод [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

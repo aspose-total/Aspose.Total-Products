@@ -21,7 +21,7 @@ otherformats: TEXT OTT RTF WORDML ODT DOTM FLATOPC DOCM DOT DOCX DOTX WORD
 1. Загрузите файл POTX, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте POTX в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
 3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
-4. Сохраните документ в формате DOC, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string).
+4. Сохраните документ в формате DOC, используя функцию члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

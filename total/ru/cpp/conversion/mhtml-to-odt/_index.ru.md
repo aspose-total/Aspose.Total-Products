@@ -19,9 +19,9 @@ otherformats: MARKDOWN WORDML OTT DOTX DOT FLATOPC RTF XAMLFLOW PCL PS DOCM DOTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для рендеринга MHTML в ODT" %}}
 1. Откройте файл MHTML, используя ссылку на класс [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
-2. Преобразуйте MHTML в DOC с помощью функции-члена [Сохранить](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01).
+2. Преобразуйте MHTML в DOC с помощью функции-члена [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01).
 3. Загрузите файл DOC, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) API Aspose.Words.
-4. Сохраните документ в формате ODT, используя функцию-член [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
+4. Сохраните документ в формате ODT, используя функцию-член [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

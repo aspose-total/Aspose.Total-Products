@@ -10,7 +10,7 @@ description: Преобразование документов PowerPoint odp в
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Как преобразовать ODP в RTF с помощью C#" %}}
 
- Чтобы автоматизировать процесс пакетного преобразования любой презентации PowerPoint odp в файлы документов Word, мы будем использовать [Aspose.Slides for .NET](https://products.aspose.com/slides/net) и [Aspose.Words для .NET](https://products.aspose.com/words/net) API. Первый — это API для работы с презентациями PowerPoint, который позволяет создавать или изменять слайды Microsoft PowerPoint. Принимая во внимание, что последний представляет собой API обработки текстов для обработки или управления документами Microsoft Word. Оба API являются частью пакета [Aspose.Total для .NET](https://products.aspose.com/total/net). Вы можете напрямую [скачать](https://releases.aspose.com) из Nuget или использовать следующие команды из консоли диспетчера пакетов.
+ Чтобы автоматизировать процесс пакетного преобразования любой презентации PowerPoint odp в файлы документов Word, мы будем использовать [Aspose.Slides for .NET](https://products.aspose.com/slides/net) и [Aspose.Words for .NET](https://products.aspose.com/words/net) API. Первый — это API для работы с презентациями PowerPoint, который позволяет создавать или изменять слайды Microsoft PowerPoint. Принимая во внимание, что последний представляет собой API обработки текстов для обработки или управления документами Microsoft Word. Оба API являются частью пакета [Aspose.Total for .NET](https://products.aspose.com/total/net). Вы можете напрямую [скачать](https://releases.aspose.com) из Nuget или использовать следующие команды из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Добавить ссылку на Aspose.Slides для .NET и Aspose.Words для .NET
+1. Добавить ссылку на Aspose.Slides for .NET и Aspose.Words for .NET
 1. Загрузите презентацию PowerPoint ODP с помощью класса [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
 1. Сохраните документ в объект [MemoryStream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0).
 1. Создайте [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document) и инициализируйте его с помощью объекта MemoryStream.
@@ -45,13 +45,13 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Total для .NET поддерживается во всех основных операционных системах. Просто убедитесь, что у вас есть следующие предпосылки. 
+ Aspose.Total for .NET поддерживается во всех основных операционных системах. Просто убедитесь, что у вас есть следующие предпосылки. 
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows или совместимая ОС с платформами .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 -  Среда разработки, такая как Microsoft Visual Studio.
--  Aspose.Slides для .NET и Aspose.Words для .NET DLL, на которые есть ссылки в вашем проекте.
+-  Aspose.Slides for .NET и Aspose.Words for .NET DLL, на которые есть ссылки в вашем проекте.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -102,7 +102,7 @@ rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Total для .NET — это полный пакет API для работы с документами. API легко интегрируются в любое приложение на основе .NET для управления Microsoft Word, Excel, PowerPoint, Outlook, PDF, изображениями, штрих-кодами и более чем 100 другими форматами. Программисты могут легко использовать их для создания, изменения, рендеринга, печати и преобразования между наиболее популярными форматами файлов в любых приложениях .NET, C#, ASP.NET и VB.NET без необходимости использования какого-либо другого программного обеспечения.
+Aspose.Total for .NET — это полный пакет API для работы с документами. API легко интегрируются в любое приложение на основе .NET для управления Microsoft Word, Excel, PowerPoint, Outlook, PDF, изображениями, штрих-кодами и более чем 100 другими форматами. Программисты могут легко использовать их для создания, изменения, рендеринга, печати и преобразования между наиболее популярными форматами файлов в любых приложениях .NET, C#, ASP.NET и VB.NET без необходимости использования какого-либо другого программного обеспечения.
 
 
 

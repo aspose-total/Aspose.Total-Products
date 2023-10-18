@@ -13,15 +13,15 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в XLTX через C# или онлайн-приложение" h2=".NET API для преобразования PPSX в XLTX без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSX в XLTX в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLTX.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSX в XLTX в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать PPSX в XLTX через C#" %}}
 1. Откройте файл PPSX, используя класс [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
-2. Экспортируйте PPSX как HTML, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+2. Экспортируйте PPSX как HTML, используя метод [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате XLTX, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+4. Сохраните документ в формате XLTX, используя метод [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

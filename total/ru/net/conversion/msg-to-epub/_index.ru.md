@@ -13,15 +13,15 @@ otherformats: PDF DOT DOTM DOCM GIF SVG OTT XPS PS TEXT RTF PCL ODT EPUB DOC TIF
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт MSG в EPUB через .NET" h2=".NET API для преобразования электронной почты в EPUB в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования MSG в EPUB в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Email для .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла MSG в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в EPUB.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования MSG в EPUB в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Email for .NET](https://products.aspose.com/email/net/), вы можете преобразовать формат файла MSG в HTML. После этого, используя [Aspose.Words for .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в EPUB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования MSG в EPUB" %}}
 1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage).
-2. Преобразуйте MSG в HTML, используя метод [Сохранить](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3).
+2. Преобразуйте MSG в HTML, используя метод [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате EPUB с помощью метода [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Epub в качестве формата сохранения.
+4. Сохраните документ в формате EPUB с помощью метода [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Epub в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ document.Save("output.epub", SaveFormat.Epub);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл MSG через .NET" %}}
-Перед преобразованием MSG в EPUB, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ MSG, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) класса [Aspose.Email для .NET](https://products.aspose.com/msg /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
+Перед преобразованием MSG в EPUB, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ MSG, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage) класса [Aspose.Email for .NET](https://products.aspose.com/msg /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

@@ -19,9 +19,9 @@ otherformats: PPS PPSX POWERPOINT POTM OTP PPTM PPSM PPT POT POTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в PPS через C#" %}}
 1. Создайте новый объект [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
-2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://reference.aspose.com/ ячейки/net/aspose.cells.workbook/save/methods/4) это как PPTX
+2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Save](https://reference.aspose.com/ ячейки/net/aspose.cells.workbook/save/methods/4) это как PPTX
 3. Загрузите документ PPTX с помощью класса [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
-4. Сохраните документ в формате PPS, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+4. Сохраните документ в формате PPS, используя метод [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

@@ -22,7 +22,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 1. Откройте файл CSV с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 2. Преобразуйте CSV в PDF и установите для параметра SaveFormat значение Auto.
 3. Загрузите преобразованный файл PDF с помощью класса [Документ](https://reference.aspose.com/pdf/net/aspose.pdf/document).
-4. Сохраните документ в формате OTT с помощью метода [Сохранить](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите DocX как SaveFormat.
+4. Сохраните документ в формате OTT с помощью метода [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) и установите DocX как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

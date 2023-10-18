@@ -5,7 +5,7 @@ description: Ищите документы, включая PDF, Microsoft Office
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Поиск документов с использованием API .NET" h2="Легко и эффективно ищите и извлекайте данные из широкого спектра документов, включая файлы Microsoft Office Word, Excel, PowerPoint и PDF, с помощью Aspose.Total для .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Поиск документов с использованием API .NET" h2="Легко и эффективно ищите и извлекайте данные из широкого спектра документов, включая файлы Microsoft Office Word, Excel, PowerPoint и PDF, с помощью Aspose.Total for .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

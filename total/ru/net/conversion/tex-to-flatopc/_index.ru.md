@@ -13,15 +13,15 @@ otherformats: PS DOTX PCL WORDML RTF XAMLFLOW FLATOPC ODT MHTML OTT DOTM DOT
 {{< blocks/products/pf/i18n/feature-page-header h1="Рендеринг TEX в FLATOPC через .NET" h2=".NET API для экспорта TEX в FLATOPC в Windows, macOS и Linux без использования Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total для .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF для .NET](https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов TEX в DOC. После этого, используя мощный API обработки документов [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в FLATOPC.
+[Aspose.Total for .NET](https://products.aspose.com/total/net/) — это мощный API для добавления функций обработки и преобразования документов в ваше приложение .NET. Используя расширенный API обработки PDF [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), вы можете преобразовать формат файлов TEX в DOC. После этого, используя мощный API обработки документов [Aspose.Words for .NET](https://products.aspose.com/words/net/), вы можете преобразовать DOC в FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования TEX в FLATOPC" %}}
 1. Откройте файл TEX, используя класс [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
-2. Преобразуйте TEX в Doc, используя метод [Сохранить](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
+2. Преобразуйте TEX в Doc, используя метод [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5).
 3. Загрузите файл Doc с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words.
-4. Сохраните документ в формате FLATOPC с помощью метода [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Flatopc как SaveFormat.
+4. Сохраните документ в формате FLATOPC с помощью метода [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Flatopc как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

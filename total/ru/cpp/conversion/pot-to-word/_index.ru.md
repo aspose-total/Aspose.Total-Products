@@ -21,7 +21,7 @@ otherformats: FLATOPC RTF WORDML DOT OTT DOTM TEXT ODT DOCX DOCM DOTX DOC
 1. Загрузите файл POT, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте POT в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
 3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument).
-4. Сохраните документ в формате WORD, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string).
+4. Сохраните документ в формате WORD, используя функцию члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

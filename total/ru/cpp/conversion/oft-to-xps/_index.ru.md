@@ -19,7 +19,7 @@ otherformats: TIFF FLATOPC PS BMP PDF EPUB JPEG DOTM DOT ODT RTF DOC EMF TEXT DO
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования OFT в XPS" %}}
 1. Откройте файл OFT, используя ссылку на класс [MailMessage](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message).
-2. Преобразуйте OFT в HTML с помощью функции-члена [Сохранить](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
+2. Преобразуйте OFT в HTML с помощью функции-члена [Save](https://reference.aspose.com/oft/cpp/class/aspose.oft.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 4. Сохраните документ в формате XPS с помощью метода [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) и установите Xps в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

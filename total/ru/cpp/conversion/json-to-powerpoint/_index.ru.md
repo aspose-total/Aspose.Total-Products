@@ -19,9 +19,9 @@ otherformats: OTP PPSM PPT POTM PPTM PPS POT ODP PPSX POTX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в POWERPOINT через C++" %}}
 1. Создайте новый объект [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) и прочитайте действительные данные JSON из файла.
-2. Сохраните JSON как PPTX, используя метод [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
+2. Сохраните JSON как PPTX, используя метод [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
 3. Загрузите документ PPTX с помощью класса [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
-4. Сохраните документ в формате POWERPOINT, используя метод [Сохранить](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e).
+4. Сохраните документ в формате POWERPOINT, используя метод [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

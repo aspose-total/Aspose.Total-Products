@@ -21,7 +21,7 @@ otherformats: DOTM TEXT WORD FLATOPC DOT DOCX DOCM WORDML ODT OTT DOTX DOC
 1. Загрузите файл PPS, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте PPS в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
 3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument).
-4. Сохраните документ в формате RTF, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string).
+4. Сохраните документ в формате RTF, используя функцию члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

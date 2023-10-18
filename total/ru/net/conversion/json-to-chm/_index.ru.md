@@ -13,15 +13,15 @@ otherformats: OTT FLATOPC PS DOTX RTF WORDML ODT WORD EPUB DOC DOT PCL MOBI DOCM
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование формата JSON в CHM через C#" h2="C# API для преобразования JSON в CHM без использования Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете анализировать JSON в CHM в любом приложении .NET, C#, ASP.NET и VB.NET двумя простыми способами. шаги. Во-первых, с помощью [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) вы можете экспортировать JSON в PDF. После этого с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы сможете конвертировать PDF в CHM.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете анализировать JSON в CHM в любом приложении .NET, C#, ASP.NET и VB.NET двумя простыми способами. шаги. Во-первых, с помощью [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) вы можете экспортировать JSON в PDF. После этого с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы сможете конвертировать PDF в CHM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование формата JSON в CHM через C#" %}}
 1. Создайте новый объект [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) и прочитайте действительные данные JSON из файла.
-2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Сохранить](https://reference.aspose.com/ Cells/net/aspose.cells.workbook/save/methods/4) в формате PDF
+2. Импортируйте файл JSON на лист, используя класс [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) и [Save](https://reference.aspose.com/ Cells/net/aspose.cells.workbook/save/methods/4) в формате PDF
 3. Загрузите документ PDF с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате CHM, используя метод [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3).
+4. Сохраните документ в формате CHM, используя метод [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

@@ -10,7 +10,7 @@ description: Преобразование документов Word wordml в ф
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Как преобразовать WORDML в POTM с помощью C#" %}}
 
-Чтобы автоматизировать процесс пакетного преобразования любых файлов Word wordml в формат презентации PowerPoint potm, мы будем использовать [Aspose.Words for .NET](https://products.aspose.com/words/net) и [Aspose.Slides для .NET](https://products.aspose.com/slides/net) API. Первый представляет собой API обработки текстов для обработки или управления документами Microsoft Word. Принимая во внимание, что последний представляет собой API для управления презентациями, который позволяет создавать или изменять слайды Microsoft PowerPoint. Оба API являются частью пакета [Aspose.Total для .NET](https://products.aspose.com/total/net). Вы можете напрямую [скачать](https://releases.aspose.com) из Nuget или использовать следующие команды из консоли диспетчера пакетов.
+Чтобы автоматизировать процесс пакетного преобразования любых файлов Word wordml в формат презентации PowerPoint potm, мы будем использовать [Aspose.Words for .NET](https://products.aspose.com/words/net) и [Aspose.Slides for .NET](https://products.aspose.com/slides/net) API. Первый представляет собой API обработки текстов для обработки или управления документами Microsoft Word. Принимая во внимание, что последний представляет собой API для управления презентациями, который позволяет создавать или изменять слайды Microsoft PowerPoint. Оба API являются частью пакета [Aspose.Total for .NET](https://products.aspose.com/total/net). Вы можете напрямую [скачать](https://releases.aspose.com) из Nuget или использовать следующие команды из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Добавить ссылку на Aspose.Total для .NET
+1. Добавить ссылку на Aspose.Total for .NET
 1. Загрузите файл DOCM, используя класс [Aspose.Words.Document](https://reference.aspose.com/words/net/aspose.words/document)
 1. Сохраните документ WORDML в HTML.
 1. Создайте объект [Aspose.Slides.Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
@@ -46,13 +46,13 @@ PM> Install-Package Aspose.Total
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Total для .NET поддерживается во всех основных операционных системах. Просто убедитесь, что у вас есть следующие предпосылки.
+Aspose.Total for .NET поддерживается во всех основных операционных системах. Просто убедитесь, что у вас есть следующие предпосылки.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows или совместимая ОС с платформами .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 -  Среда разработки, такая как Microsoft Visual Studio.
--  Aspose.Words для .NET &amp; Aspose.Slides для .NET DLL или Aspose.Total для .NET DLL, на которые ссылается ваш проект.
+-  Aspose.Words for .NET &amp; Aspose.Slides for .NET DLL или Aspose.Total for .NET DLL, на которые ссылается ваш проект.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -122,7 +122,7 @@ using (Presentation potm = new Presentation()){
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Total для .NET — это полный пакет API для работы с документами. API легко интегрируются в любое приложение на основе .NET для управления Microsoft Word, Excel, PowerPoint, Outlook, PDF, изображениями, штрих-кодами и более чем 100 другими форматами. Программисты могут легко использовать их для создания, изменения, рендеринга, печати и преобразования между наиболее популярными форматами файлов в любых приложениях .NET, C#, ASP.NET и VB.NET без необходимости использования какого-либо другого программного обеспечения.
+Aspose.Total for .NET — это полный пакет API для работы с документами. API легко интегрируются в любое приложение на основе .NET для управления Microsoft Word, Excel, PowerPoint, Outlook, PDF, изображениями, штрих-кодами и более чем 100 другими форматами. Программисты могут легко использовать их для создания, изменения, рендеринга, печати и преобразования между наиболее популярными форматами файлов в любых приложениях .NET, C#, ASP.NET и VB.NET без необходимости использования какого-либо другого программного обеспечения.
 
     {{% /blocks/products/pf/agp/content %}}
 {{< /blocks/products/pf/agp/i18n/demobox-app >}}

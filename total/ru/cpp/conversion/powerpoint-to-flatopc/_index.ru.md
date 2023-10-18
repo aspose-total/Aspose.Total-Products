@@ -21,7 +21,7 @@ otherformats: WORDML ODT DOTX DOCM DOT RTF OTT WORD DOC DOTM TEXT DOCX
 1. Загрузите файл POWERPOINT, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 2. Преобразуйте POWERPOINT в HTML, используя функцию члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите Html как SaveFormat.
 3. Загрузите преобразованный HTML-файл, используя ссылку на класс [Flatopcument](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument).
-4. Сохраните документ в формате FLATOPC, используя функцию члена [Сохранить](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string).
+4. Сохраните документ в формате FLATOPC, используя функцию члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.flatopcument#save_string).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

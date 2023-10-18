@@ -19,9 +19,9 @@ otherformats: XLAM XLS SXC ODS DIF EXCEL TSV CSV XLSB XLTX XLT XLTM XLSX XLSM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API для преобразования MOBI в FODS" %}}
 1. Откройте файл MOBI, используя класс [Mobiument](https://reference.aspose.com/words/java/com.aspose.words/Mobiument).
-2. Преобразуйте MOBI в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте MOBI в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Mobiument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате FODS с помощью [Сохранить](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
+4. Сохраните документ в формате FODS с помощью [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

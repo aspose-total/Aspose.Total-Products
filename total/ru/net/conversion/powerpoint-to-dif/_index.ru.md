@@ -13,15 +13,15 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM DIF MARKDOWN 
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование POWERPOINT в DIF через C# или онлайн-приложение" h2=".NET API для преобразования POWERPOINT в DIF без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл POWERPOINT в DIF в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать POWERPOINT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в DIF.
+Используя [Aspose.Total for .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл POWERPOINT в DIF в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать POWERPOINT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать POWERPOINT в DIF через C#" %}}
 1. Откройте файл POWERPOINT, используя класс [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
-2. Экспортируйте POWERPOINT как HTML, используя метод [Сохранить](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+2. Экспортируйте POWERPOINT как HTML, используя метод [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Сохраните документ в формате DIF, используя метод [Сохранить](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
+4. Сохраните документ в формате DIF, используя метод [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}

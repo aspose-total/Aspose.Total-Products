@@ -36,7 +36,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 
 {{% blocks/products/pf/agp/feature-section-col title="Как найти файл ODT через C#" %}}
 
-1. Установите «Aspose.Words для .NET».
+1. Установите «Aspose.Words for .NET».
 1. Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
 1. Откройте исходный ODT-файл, используя класс Document.
 1. Используйте функцию Range.Replace для поиска и замены текста.

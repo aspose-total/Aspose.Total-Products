@@ -30,7 +30,7 @@ otherformats: WORD EXCEL POWERPOINT PDF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать веб-страницы в изображения с помощью C#?" %}}
-Чтобы преобразовать веб-страницы в изображения с помощью C#, вы можете использовать Aspose.HTML для .NET API, который предоставляет эту функциональность для преобразования HTML-страниц в форматы изображений, включая JPEG, PNG и TIFF.</p>
+Чтобы преобразовать веб-страницы в изображения с помощью C#, вы можете использовать Aspose.HTML for .NET API, который предоставляет эту функциональность для преобразования HTML-страниц в форматы изображений, включая JPEG, PNG и TIFF.</p>
 
 1. Загрузите документ HTML, используя один из конструкторов, доступных в [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
 2. Создайте новый экземпляр [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) и задайте для свойства ImageFormat значение JPEG. По умолчанию для свойства Формат установлено значение PNG.

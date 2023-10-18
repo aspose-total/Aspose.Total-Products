@@ -19,9 +19,9 @@ otherformats: XLTM SXC CSV TSV XLSM XLS XLT XLAM FODS XLTX ODS EXCEL XLSB DIF
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API для преобразования OTT в XLSX" %}}
 1. Откройте файл OTT, используя класс [Ottument](https://reference.aspose.com/words/java/com.aspose.words/Ottument).
-2. Преобразуйте OTT в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте OTT в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате XLSX с помощью [Сохранить](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
+4. Сохраните документ в формате XLSX с помощью [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

@@ -19,9 +19,9 @@ otherformats: DIF XLAM XLTM XLTX XLSX EXCEL CSV FODS XLSM XLT XLSB TSV SXC ODS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android API для преобразования ODT в XLS" %}}
 1. Откройте файл ODT, используя класс [Odtument](https://reference.aspose.com/words/java/com.aspose.words/Odtument).
-2. Преобразуйте ODT в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
+2. Преобразуйте ODT в HTML, используя [Save](https://reference.aspose.com/words/java/com.aspose.words/Odtument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
-4. Сохраните документ в формате XLS с помощью [Сохранить](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
+4. Сохраните документ в формате XLS с помощью [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}

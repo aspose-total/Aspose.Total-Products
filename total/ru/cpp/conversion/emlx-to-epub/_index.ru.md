@@ -19,7 +19,7 @@ otherformats: PS DOC PCL GIF FLATOPC JPEG ODT EMF BMP DOTM OTT TEXT MD DOT DOCX 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования EMLX в EPUB" %}}
 1. Откройте файл EMLX, используя ссылку на класс [MailMessage](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message).
-2. Преобразуйте EMLX в HTML с помощью функции-члена [Сохранить](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
+2. Преобразуйте EMLX в HTML с помощью функции-члена [Save](https://reference.aspose.com/emlx/cpp/class/aspose.emlx.mail_message#a7e7c6b50c8db5a8bcc6934db02b4a786).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 4. Сохраните документ в формате EPUB с помощью метода [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) и установите Epub в качестве SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -19,7 +19,7 @@ otherformats: POTM ODP PPT POWERPOINT PPSM PPTM POTX XAML PPSX POT SWF PPS
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API для экспорта PDF в OTP" %}}
 1. Откройте файл PDF, используя ссылку на класс [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document).
-2. Преобразуйте PDF в PPTX, используя функцию метода [Сохранить](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6).
+2. Преобразуйте PDF в PPTX, используя функцию метода [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6).
 3. Загрузите документ PPTX, используя ссылку на класс [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation).
 4. Сохраните документ в формате OTP с помощью функции-члена [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) и установите `Otp` как SaveFormat.
 {{% /blocks/products/pf/agp/feature-section-col %}}

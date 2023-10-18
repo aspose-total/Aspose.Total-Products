@@ -13,15 +13,15 @@ otherformats: DOTM TIFF FLATOPC ODT WORDML SVG DOC DOCX EPUB MD DOCM XPS JPEG DO
 {{< blocks/products/pf/i18n/feature-page-header h1="Экспорт OFT в TIFF через .NET" h2=".NET API для преобразования электронной почты в TIFF в Windows, macOS и Linux без использования Word или Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Если вы являетесь разработчиком .NET и хотите добавить функции преобразования OFT в TIFF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Cells для .NET](https://products.aspose.com/cells/net/), вы можете преобразовать формат файла OFT в HTML. После этого, используя [Aspose.Words для .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в TIFF.
+Если вы являетесь разработчиком .NET и хотите добавить функции преобразования OFT в TIFF в свои приложения, API-интерфейсы для работы с форматами файлов [Aspose.Total for .NET](https://products.aspose.com/total/net/) — это то, что вам нужно. вперед. Используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), вы можете преобразовать формат файла OFT в HTML. После этого, используя [Aspose.Words for .NET](https://products.aspose.com/words/net/), вы можете преобразовать HTML в TIFF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования OFT в TIFF" %}}
 1. Откройте файл OFT с помощью класса [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage).
-2. Преобразуйте OFT в HTML, используя метод [Сохранить](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
+2. Преобразуйте OFT в HTML, используя метод [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
-4. Сохраните документ в формате TIFF с помощью метода [Сохранить](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Tiff в качестве формата сохранения.
+4. Сохраните документ в формате TIFF с помощью метода [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Tiff в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование преобразования" %}}
@@ -46,7 +46,7 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл OFT через .NET" %}}
-Перед преобразованием OFT в TIFF, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Cells для .NET](https://products.aspose.com/cells/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
+Перед преобразованием OFT в TIFF, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ OFT, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

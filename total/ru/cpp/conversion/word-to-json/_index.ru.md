@@ -21,7 +21,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 1. Откройте файл WORD, используя ссылку на класс [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument).
 2. Преобразуйте WORD в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
-4. Сохраните документ в формате JSON с помощью функции-члена [Сохранить](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
+4. Сохраните документ в формате JSON с помощью функции-члена [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
