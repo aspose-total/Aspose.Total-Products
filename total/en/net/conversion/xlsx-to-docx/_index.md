@@ -16,15 +16,15 @@ otherformats: DOC PPTX POWERPOINT WORD
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-
-<h2 class="heading-border">Why Convert XLSX to DOCX format?</h2>
+{{% blocks/products/pf/agp/content h2="hy Convert XLSX to DOCX format?" isGrey="true" %}}
 
 Converting XLSX to DOCX format via code or an app can be essential for tasks like transforming spreadsheet data into professionally formatted documents. This conversion enables you to generate reports, invoices, or other documents from Excel data while preserving formatting and layout, making it particularly useful for automating document generation processes in businesses and organizations.
+{{% /blocks/products/pf/agp/content %}}
 
-<h2 class="heading-border">How Aspose.Total can help in XLSX to DOCX Conversion?</h2>
+{{% blocks/products/pf/agp/content h2="How Aspose.Total can help in XLSX to DOCX Conversion?" isGrey="true" %}}
 
 Aspose.Total for .NET offers a comprehensive solution for XLSX to DOCX conversion, providing developers with Aspose.Cells for .NET to handle Excel data and Aspose.Words for .NET for Word document manipulation. These APIs seamlessly integrate, enabling the extraction of structured data from Excel spreadsheets and its insertion into Word documents, ensuring that the final DOCX file retains formatting and layout. With cross-platform compatibility and advanced features for styling and automation, Aspose.Total for .NET simplifies the conversion process, making it an efficient choice for document generation within .NET applications.
-
+{{% /blocks/products/pf/agp/content %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -39,10 +39,8 @@ Aspose.Total for .NET offers a comprehensive solution for XLSX to DOCX conversio
 4. Save the document to DOCX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Requirements for XLSX to DOCX Conversion" %}}
+Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for XLSX to DOCX Conversion" gistPath="" %}}

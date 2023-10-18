@@ -17,7 +17,7 @@ otherformats: WMF PSD APNG IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 
 Converting PDF files to DXF (Drawing Exchange Format) format using .NET can offer several advantages. Firstly, DXF is a widely supported format in the CAD (Computer-Aided Design) industry, making it compatible with various CAD software applications. By converting PDF to DXF, you can easily extract and preserve vector-based drawing elements, such as lines, curves, and text, which can be further edited and modified in CAD software. This conversion allows for seamless integration of PDF-based designs or drawings into CAD workflows, facilitating collaboration and interoperability between different design tools. Additionally, converting PDF to DXF enables accurate scaling and measurements, ensuring that the transferred drawings maintain their precision and accuracy. 
 
-<h2 class="heading-border">Why Aspose.Total can help in PDF to DXF Conversion?</h2>
+<h2 class="heading-border">How Aspose.Total can help in PDF to DXF Conversion?</h2>
 
 By utilizing the comprehensive [Aspose.Total for .NET](https://products.aspose.com/total/net/) libraries, developers gain the necessary tools to streamline the PDF to DXF conversion process within their .NET applications. With the help of [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), the first step involves exporting the PDF file to JPEG format. Following this, [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API enables the conversion from JPEG to DXF. This two-step approach simplifies and automates the conversion, allowing developers to seamlessly integrate PDF content into CAD workflows. With the power of Aspose.Total for .NET, the conversion from PDF to DXF becomes efficient and optimized, providing developers with the means to automate this process effortlessly within their .NET applications.
 
@@ -48,7 +48,7 @@ and save it to DXF format using [Save](https://reference.aspose.com/imaging/net/
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Export PDF to DXF With Watermark via C#" %}}
+{{% blocks/products/pf/feature-page-section  h2="Export PDF to DXF with Watermark via C#" %}}
 Using the API, you can also convert PDF file to DXF with watermark in your DXF document. In order to add a watermark, you can first render your PDF document to JPEG and add a watermark in it. To demonstrate the operation, you can load your converted JPEG image, add transformations using an object of Matrix class and draw a string as the watermark on the image surface using the [Graphics](https://reference.aspose.com/imaging/net/aspose.imaging/graphics) class' [DrawString](https://reference.aspose.com/imaging/net/aspose.imaging/graphics/methods/drawstring) method. After adding the watermark in it, you can save the JPEG as DXF format.  Below is a code example that demonstrates how to add a diagonal watermark to your document. 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image-with-watermark.cs" >}}

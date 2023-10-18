@@ -7,44 +7,41 @@ platformtag: net
 feature: conversion
 informat: EXCEL
 outformat: WORD
-otherformats: POWERPOINT DOCX PPTX DOC
+otherformats: POWERPOINT DOCX PPTX DOC PPT XLSX DOCX XLS
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to WORD via C# or Online App" h2="Export Excel&reg; EXCEL to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert Excel to Word via C# or Online App" h2="Export Excel&reg; Excel to Word on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="Why Convert Excel files to Word formats?" isGrey="true" %}}
+Converting Excel formats to Word formats using .NET offers a range of advantages, including improved data presentation, customization options, data compilation, handling textual content, robust editing and collaboration features, maintaining uniform document formats, facilitating data documentation, simplifying data distribution, and creating user-friendly presentations. It is a versatile solution for transforming numerical data from Excel into well-structured and visually appealing Word documents, making information more accessible, understandable, and widely shareable.
+{{% /blocks/products/pf/agp/content %}}
 
-<h2 class="heading-border">Why Convert Excel files to Word formats?</h2>
+{{% blocks/products/pf/agp/content h2="How Aspose.Total can help in Excel to Word Format Conversion?" isGrey="true" %}}
 
-The need to convert ODT (Open Document Text) files to Excel formats is driven by the quest for enhanced data accessibility and utilization. ODT files are commonly used for word processing, but Excel is the go-to solution for tabular data and calculations. When businesses or individuals have important information stored in ODT files that they wish to use within Excel, conversion becomes imperative. This ensures that the data's structure and formatting are preserved, allowing for seamless analysis and manipulation. Moreover, Excel's functionality for data manipulation and analysis is well-known, making this conversion an essential step in leveraging the power of spreadsheet software.
-
-<h2 class="heading-border">How Aspose.Total can help in Excel to Word Conversion?</h2>
-
-Aspose.Total for .NET, a comprehensive suite of .NET components, offers an effective solution for converting ODT to Excel formats. The process is straightforward and involves two key steps. First, Aspose.Words for .NET is employed to export ODT to HTML. This component, tailored for working with Word documents, enables developers to effortlessly export ODT content to HTML, all without the need for Microsoft Word. The second step involves utilizing Aspose.Cells for .NET to convert HTML to Excel. This versatile spreadsheet programming API simplifies the conversion process, allowing developers to create, manipulate, and convert spreadsheets without relying on Microsoft Excel. With these two components, developers can efficiently integrate ODT to Excel conversion into their .NET applications, providing users with the ability to harness tabular data for analysis, calculations, and more.
-
+Aspose.Total for .NET streamlines the conversion of Excel to Word formats by seamlessly integrating powerful APIs, Aspose.Cells and Aspose.Words. This comprehensive tool enables the automation of data transfer, advanced formatting, data compilation, and textual content handling. It ensures compatibility with various Excel and Word formats, making it a versatile and efficient solution for Excel-to-Word conversion tasks, ultimately saving time and reducing the risk of errors.
+{{% /blocks/products/pf/agp/content %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert Excel to Word Files?" %}}
-1. Open EXCEL file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
-2. Convert EXCEL to PDF and set SaveFormat to Auto
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert Excel files to Word Documents?" %}}
+1. Open Excel file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+2. Convert Excel to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Requirements for Excel to Word Conversion" %}}
+Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for Excel to Word Conversion" gistPath="" %}}
-```cs// load the EXCEL file using Workbook class
+```cs// load the Excel file using Workbook class
 var book = new Aspose.Cells.Workbook("input.csv");
-// save EXCEL as PDF
+// save Excel as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
 // load the PDF file using Document class
 var document = new Aspose.Pdf.Document("pdfOutput.pdf");
@@ -59,7 +56,7 @@ document.Save("output.doc", SaveFormat.Doc);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online Converter for EXCEL to WORD</h3>
+<h3>Free Online Converter for Excel to Word</h3>
 
 <iframe title="Free xlsx to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
@@ -79,34 +76,34 @@ document.Save("output.doc", SaveFormat.Doc);
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How can I convert EXCEL to WORD Online?</b></span>
+                          <span itemprop="name"><b>How can I convert Excel to Word Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online App for EXCEL conversion is integrated above. To start the conversion process, you can either drag and drop your EXCEL file or click inside the designated area to import the document. Next, click on the "Convert" button to initiate the EXCEL to WORD conversion. Once the process is complete, you can easily download your converted file with just one click, obtaining your desired output in the WORD format.</span>
+                          <span itemprop="text">Online App for Excel conversion is integrated above. To start the conversion process, you can either drag and drop your Excel file or click inside the designated area to import the document. Next, click on the "Convert" button to initiate the Excel to Word conversion. Once the process is complete, you can easily download your converted file with just one click, obtaining your desired output in the Word format.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How long does it take to convert EXCEL?</b></span>
+                          <span itemprop="name"><b>How long does it take to convert Excel?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is fast, but it primarily relies on the size of the EXCEL file. If you have a small EXCEL file, it can be converted to WORD in just a few seconds. Additionally, if you've integrated the conversion code into your .NET application, the conversion process speed depends on how well you've optimized your application.</span>
+                          <span itemprop="text">The speed of this online converter is fast, but it primarily relies on the size of the Excel file. If you have a small Excel file, it can be converted to Word in just a few seconds. Additionally, if you've integrated the conversion code into your .NET application, the conversion process speed depends on how well you've optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is it safe to convert EXCEL to WORD using free Aspose.Total converter?</b></span>
+                          <span itemprop="name"><b>Is it safe to convert Excel to Word using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! After the EXCEL to WORD conversion process is completed, the download link for the WORD files is generated immediately. We prioritize the security of your files, that's why all uploaded files are deleted after 24 hours and the download links stop working after that period. You can be confident that your files are safe during the conversion process, including EXCEL files. Above free app is for testing purposes, allowing you to check the result before integrating the code.</span>
+                          <span itemprop="text">Of course! After the Excel to Word conversion process is completed, the download link for the Word files is generated immediately. We prioritize the security of your files, that's why all uploaded files are deleted after 24 hours and the download links stop working after that period. You can be confident that your files are safe during the conversion process, including Excel files. Above free app is for testing purposes, allowing you to check the result before integrating the code.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>What browser should I use to convert EXCEL?</b></span>
+                          <span itemprop="name"><b>What browser should I use to convert Excel?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to use any up-to-date web browser for online EXCEL to WORD conversion, such as Google Chrome, Firefox, Opera, Safari. However, if you are building a desktop application, you can seamlessly integrate Aspose.Total EXCEL Conversion API.</span>
+                          <span itemprop="text">You have the flexibility to use any up-to-date web browser for online Excel to Word conversion, such as Google Chrome, Firefox, Opera, Safari. However, if you are building a desktop application, you can seamlessly integrate Aspose.Total Excel Conversion API.</span>
                       </div>
                   </li>
               </ul>
