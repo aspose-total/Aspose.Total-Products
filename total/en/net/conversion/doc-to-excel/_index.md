@@ -25,23 +25,21 @@ Converting DOC (Word) to Excel formats via .NET or an application is crucial to 
 
 To achieve DOC to Excel conversion within any .NET, C#, ASP.NET, and VB.NET application using Aspose.Total for .NET, you can follow these two straightforward steps:
 
-1. Export DOC to HTML with Aspose.Words for .NET: Utilize Aspose.Words for .NET to export your DOC document to HTML. This step efficiently prepares the document for conversion while preserving its content and formatting.
-1. Convert HTML to Excel with Aspose.Cells for .NET: After exporting the DOC to HTML, proceed to employ Aspose.Cells for .NET, the Spreadsheet Programming API. This powerful tool will enable you to efficiently convert the HTML content into Excel format, ensuring the structured representation of data within your .NET application.
+1. Export your DOC document to HTML using Aspose.Words for .NET, efficiently preparing it for conversion while preserving content and formatting.
+1. Use Aspose.Cells for .NET, the Spreadsheet Programming API, to efficiently convert the HTML content from your DOC file to Excel format within your .NET application.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOC to EXCEL via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert DOC to EXCEL via C#" %}}
 1. Open DOC file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsx` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
-Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Tools Required for DOC to Excel Conversion" %}}
+Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}

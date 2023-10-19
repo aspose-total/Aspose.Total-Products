@@ -21,7 +21,7 @@ Converting Word files to Excel formats offers several benefits. Firstly, Excel p
 
 <h2 class="heading-border">How Aspose.Total can help in Word to Excel format conversion?</h2>
 
-With the powerful [Aspose.Total for .NET](https://products.aspose.com/total/net/) API, converting Word files to Excel formats becomes a seamless process within any .NET, C#, ASP.NET, and VB.NET application. This can be achieved in two simple steps. Firstly, leverage the capabilities of [Aspose.Words for .NET](https://products.aspose.com/words/net/) to export the Word document to HTML format. Subsequently, utilize the [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API to convert the generated HTML file to Excel format.
+With the powerful [Aspose.Total for .NET](https://products.aspose.com/total/net/) API, converting Word files to Excel formats becomes a seamless process within any .NET, C#, ASP.NET, and VB.NET application. This can be achieved in two simple steps. Firstly, leverage the capabilities of [Aspose.Words for .NET](https://products.aspose.com/words/net/) to export the Word document to HTML format. Subsequently, utilize the [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API to convert the generated HTML file to Excel format.<br><br>
 
 Converting Word files to Excel formats using tools like Aspose.Total for .NET API simplifies the extraction and transformation of data, enabling smooth integration with Excel-based workflows. This enhances overall data analysis and reporting capabilities, providing a more efficient and streamlined approach for managing and analyzing data across different formats.
 

@@ -18,6 +18,7 @@ otherformats: CSV XLAM SXC TSV XLT EXCEL DIF XLSM XLTM XLSX XLSB FODS ODS XLTX
 There are several reasons why someone might want to convert a DOC file to JSON. One reason is that JSON is a more flexible and versatile format than DOC. DOC files are designed for storing text documents, whereas JSON can store a wide range of data types, including text, numbers, and objects. Another reason why someone might want to convert a DOC file to JSON is that JSON is a more web-friendly format. JSON can be easily read and processed by web applications, whereas DOC files can be more difficult to work with in a web context. Additionally, converting DOC to JSON can make it easier to integrate the content of a Word document with other web-based tools and services. For example, if you want to extract data from a Word document and display it on a website, converting it to JSON can make the process more efficient and less error-prone.
 
 <h2 class="heading-border">How Aspose.Total can help in DOC to JSON Conversion?</h2>
+
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOC to JSON format within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to JSON. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -29,7 +30,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Tools Required for DOC to JSON Conversion" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}

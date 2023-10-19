@@ -16,7 +16,7 @@ otherformats: DOC PPTX POWERPOINT WORD
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/pf/agp/content h2="hy Convert XLSX to DOCX format?" isGrey="true" %}}
+{{% blocks/products/pf/agp/content h2="Why Convert XLSX to DOCX format?" isGrey="true" %}}
 
 Converting XLSX to DOCX format via code or an app can be essential for tasks like transforming spreadsheet data into professionally formatted documents. This conversion enables you to generate reports, invoices, or other documents from Excel data while preserving formatting and layout, making it particularly useful for automating document generation processes in businesses and organizations.
 {{% /blocks/products/pf/agp/content %}}

@@ -10,7 +10,7 @@ outformat: PDF
 otherformats: DOT ODT WORDML JPEG PCL EMF TEXT RTF EPUB FLATOPC BMP SVG GIF OTT PS DOCX MD TIFF DOTM PNG DOCM XPS DOC DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Export MSG to PDF via .NET" h2=".NET API to Render MSG to PDF on Windows, macOS, and Linux without using Word or Outlook" >}}
+{{< blocks/products/pf/feature-page-header h1="Export MSG to PDF via C# .NET Core" h2=".NET API to Render MSG as PDF on Windows, macOS, and Linux without using Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -24,17 +24,15 @@ If you are a .NET developer seeking to seamlessly integrate MSG to PDF conversio
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API to Convert MSG to PDF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert MSG to PDF via C#" %}}
 1. Open MSG file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert MSG to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
 4. Save the document to PDF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pdf as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Tools Needed for MSG to PDF Conversion" %}}
+Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

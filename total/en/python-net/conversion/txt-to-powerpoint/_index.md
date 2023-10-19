@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: POWERPOINT PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TXT to PowerPoint using Python or Online App" h2="TXT to PowerPoint conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TXT to PowerPoint using Python or Online App" h2="Add TXT to PowerPoint conversion feature in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 <h2 class="heading-border">Why Convert TXT files to PowerPoint formats?</h2>
@@ -26,7 +26,7 @@ The conversion involves two primary steps. Firstly, you can utilize Aspose.Words
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to PowerPoint in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to PowerPoint in Python?" %}}
 - **Step 1** Open the source TXT file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 	- Save TXT file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
 -  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
@@ -34,7 +34,7 @@ The conversion involves two primary steps. Firstly, you can utilize Aspose.Words
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
+{{% blocks/products/pf/agp/feature-section-col title="TXT to PowerPoint Conversion Requirements" %}}
 
 - For TXT to PowerPoint conversion, Python 3.5 or later is required
 - Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/) and [Aspose.Words](https://pypi.org/project/aspose-words/))
@@ -44,13 +44,13 @@ The conversion involves two primary steps. Firstly, you can utilize Aspose.Words
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Save TXT To PDF in Python - Step 1" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Save TXT as PDF with Python Code" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "64442bfb87f37cb8b1d3fe9cfa666c1b" "convert-microsoft-word-documents-to-pdf-in-python.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="Save PDF To PowerPoint in Python - Step 2" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Save PDF as PowerPoint with Python Code" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "64442bfb87f37cb8b1d3fe9cfa666c1b" "convert-pdf-files-to-powerpoint-in-python.py" >}}
 

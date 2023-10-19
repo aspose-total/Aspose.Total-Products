@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to PPTX with .NET or with free Online Converter
-description: Convert EXCEL to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free EXCEL to PPTX online converter quickly before integrating the code. 
+title: Convert Excel to PPTX with .NET or with free Online Converter
+description: Convert Excel to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free Excel to PPTX online converter quickly before integrating the code. 
 url_ignore: /net/conversion/excel-to-pptx/
 family: total
 platformtag: net
@@ -11,37 +11,40 @@ otherformats: DOC WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> EXCEL to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert Excel to PPTX via C# or Online App" h2="Export Excel to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-There are many reasons to convert an Excel file to a PowerPoint presentation. Excel is a great tool for data analysis and manipulation, but it can be difficult to present this data in a way that is easy for others to understand. PowerPoint is a much better tool for presentations, and it is much easier to create visually appealing slideshows with PowerPoint than with Excel.<br />
+{{% blocks/products/pf/agp/content h2="Why Convert Excel to PPTX format?" isGrey="true" %}}
+
+There are many reasons to convert an Excel file to a PowerPoint presentation. Excel is a great tool for data analysis and manipulation, but it can be difficult to present this data in a way that is easy for others to understand. PowerPoint is a much better tool for presentations, and it is much easier to create visually appealing slideshows with PowerPoint than with Excel.
+{{% /blocks/products/pf/agp/content %}}
+{{% blocks/products/pf/agp/content h2="How Aspose.Total can help in Excel to PPTX Conversion?" isGrey="true" %}}
 
 Aspose.Total for .NET is a great API for converting Excel files to PowerPoint presentations. This API makes it very easy to convert Excel files to PowerPoint, and it also provides a number of features that make it easy to customize the conversion process. For example, Aspose.Total for .NET allows you to specify the layout of the PowerPoint presentation, and it also allows you to specify how the data from the Excel file should be mapped to the PowerPoint slides.
+{{% /blocks/products/pf/agp/content %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert EXCEL to PPTX?" %}}
-1. Open EXCEL file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
-2. Convert EXCEL to PDF and set SaveFormat to Auto
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert Excel to PPTX?" %}}
+1. Open Excel file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+2. Convert Excel to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to PPTX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Pptx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Excel to PPTX Conversion Requirements" %}}
+Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for EXCEL to PPTX Conversion" gistPath="" %}}
-```cs// load the EXCEL file using Workbook class
+{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for Excel to PPTX Conversion" gistPath="" %}}
+```cs// load the Excel file using Workbook class
 var book = new Aspose.Cells.Workbook("input.csv");
-// save EXCEL as PDF
+// save Excel as PDF
 book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
 // load the PDF file using Document class
 var document = new Aspose.Pdf.Document("pdfOutput.pdf");
@@ -56,7 +59,7 @@ document.Save("output.pptx", SaveFormat.Pptx);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online Converter for EXCEL to PPTX</h3>
+<h3>Free Online Converter for Excel to PPTX</h3>
 
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
@@ -76,34 +79,34 @@ document.Save("output.pptx", SaveFormat.Pptx);
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How can I convert EXCEL to PPTX Online?</b></span>
+                          <span itemprop="name"><b>How can I convert Excel to PPTX Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online App for EXCEL conversion is integrated above. To start the conversion process, you can either drag and drop your EXCEL file or click inside the designated area to import the document. Next, click on the "Convert" button to initiate the EXCEL to PPTX conversion. Once the process is complete, you can easily download your converted file with just one click, obtaining your desired output in the PPTX format.</span>
+                          <span itemprop="text">Online App for Excel conversion is integrated above. To start the conversion process, you can either drag and drop your Excel file or click inside the designated area to import the document. Next, click on the "Convert" button to initiate the Excel to PPTX conversion. Once the process is complete, you can easily download your converted file with just one click, obtaining your desired output in the PPTX format.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How long does it take to convert EXCEL?</b></span>
+                          <span itemprop="name"><b>How long does it take to convert Excel?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is fast, but it primarily relies on the size of the EXCEL file. If you have a small EXCEL file, it can be converted to PPTX in just a few seconds. Additionally, if you've integrated the conversion code into your .NET application, the conversion process speed depends on how well you've optimized your application.</span>
+                          <span itemprop="text">The speed of this online converter is fast, but it primarily relies on the size of the Excel file. If you have a small Excel file, it can be converted to PPTX in just a few seconds. Additionally, if you've integrated the conversion code into your .NET application, the conversion process speed depends on how well you've optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is it safe to convert EXCEL to PPTX using free Aspose.Total converter?</b></span>
+                          <span itemprop="name"><b>Is it safe to convert Excel to PPTX using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! After the EXCEL to PPTX conversion process is completed, the download link for the PPTX files is generated immediately. We prioritize the security of your files, that's why all uploaded files are deleted after 24 hours and the download links stop working after that period. You can be confident that your files are safe during the conversion process, including EXCEL files. Above free app is for testing purposes, allowing you to check the result before integrating the code.</span>
+                          <span itemprop="text">Of course! After the Excel to PPTX conversion process is completed, the download link for the PPTX files is generated immediately. We prioritize the security of your files, that's why all uploaded files are deleted after 24 hours and the download links stop working after that period. You can be confident that your files are safe during the conversion process, including Excel files. Above free app is for testing purposes, allowing you to check the result before integrating the code.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>What browser should I use to convert EXCEL?</b></span>
+                          <span itemprop="name"><b>What browser should I use to convert Excel?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to use any up-to-date web browser for online EXCEL to PPTX conversion, such as Google Chrome, Firefox, Opera, Safari. However, if you are building a desktop application, you can seamlessly integrate Aspose.Total EXCEL Conversion API.</span>
+                          <span itemprop="text">You have the flexibility to use any up-to-date web browser for online Excel to PPTX conversion, such as Google Chrome, Firefox, Opera, Safari. However, if you are building a desktop application, you can seamlessly integrate Aspose.Total Excel Conversion API.</span>
                       </div>
                   </li>
               </ul>

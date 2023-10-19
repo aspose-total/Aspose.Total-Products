@@ -1,6 +1,6 @@
 ---
 title: Convert XML to TXT via C# API
-description: C# API to Convert XML File to TXT without using Microsoft Excel or Adobe Reader
+description: C# API to Convert XML to TXT without using Microsoft Excel or Adobe Reader
 url_ignore: /net/conversion/xml-to-txt/
 family: total
 platformtag: net
@@ -10,24 +10,29 @@ outformat: TXT
 otherformats: EXCEL XLT XLSB MD XLAM DIF CSV FODS ODS TSV XLTX SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Render XML to TXT" h2="Export XML File to TXT via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="Export XML to TXT via .NET Core C#" h2="Convert XML to TXT without using third party tools" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XML file to TXT within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TXT. 
+<h2>Why to Convert XML to TXT File via .NET?</h2>
+
+Converting XML to TXT files using .NET is essential for simplifying data interchange, improving readability, and enabling compatibility with systems that require plain text format. This conversion enhances data accessibility and facilitates integration, making it a valuable process for various applications.
+
+<h2>How Aspose.Total Helps in XML to TXT Conversion?</h2>
+
+With [Aspose.Total for .NET](https://products.aspose.com/total/net/), you can seamlessly convert XML files to TXT in .NET, C#, ASP.NET, and VB.NET applications. This process involves two steps: firstly, employing Aspose.PDF for .NET to export XML to XLSX, and then utilizing the Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to TXT.
+ 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert XML to TXT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XML to TXT via C#?" %}}
 1. Open XML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 2. Convert XML to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
 4. Save the document to TXT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Txt` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Tools Required for XML to TXT Conversion" %}}
+Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}

@@ -1,5 +1,5 @@
 ---
-title: Convert PDF to DICOM via C# API
+title: Convert PDF to DICOM via C# .NET Core API
 description: Export PDF to DICOM in your .NET applications without using any third party application 
 url_ignore: /net/conversion/pdf-to-dicom/
 family: total
@@ -10,24 +10,28 @@ outformat: DICOM
 otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF APNG EMZ IMAGE
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PDF file to DICOM via C#" h2="Export PDF to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PDF file to DICOM via C# .NET Core" h2="Export PDF to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+<h2 class="heading-border">Why Convert PDF to DICOM format via .NET?</h2>
+
+Converting PDF to DICOM format via .NET is essential for the medical field as it allows medical professionals to integrate and manage critical patient information and images within Picture Archiving and Communication Systems (PACS). This conversion ensures compatibility, easy sharing, and long-term storage of medical data, making it accessible for diagnosis, treatment, and research, ultimately improving patient care and healthcare efficiency.
+
+<h2 class="heading-border">How Aspose.Total can help in PDF to DICOM Conversion?</h2>
+
 Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export PDF to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PDF to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert PDF file to DICOM via .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PDF file to DICOM via .NET?" %}}
 1. Open PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render PDF to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
 3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
 4. Save the document to DICOM format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
-Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
+{{% blocks/products/pf/agp/feature-section-col title="Tools Needed for PDF to DICOM Conversion" %}}
+Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}

@@ -10,14 +10,20 @@ outformat: JSON
 otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON Format via Java" h2="On Premise Java API to convert DOC to JSON without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON via Java" h2="On Premise Java API to convert DOC to JSON without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) offers a quick and easy way to convert DOC to JSON format in any Java-based application. The conversion process is achieved in just two steps.<br><br>
 
-The first step involves using [Aspose.Words for Java](https://products.aspose.com/words/java/), a powerful document manipulation and conversion API, to export the DOC file to HTML format. This API allows you to programmatically create, modify, and convert a wide range of document formats including DOC, DOCX, PDF, and more. With Aspose.Words for Java, you can easily convert your DOC files to HTML format with just a few lines of code.<br><br>
+<h2 class="heading-border">Why Convert Word DOC files to JSON?</h2>
 
-Once the DOC file has been converted to HTML, the second step is to use [Aspose.Cells for Java](https://products.aspose.com/cells/java/) to convert the HTML file to JSON format. Aspose.Cells for Java is a powerful spreadsheet programming API that allows you to create, modify, and convert Excel files in Java applications. It supports a wide range of Excel file formats, including XLS, XLSX, XLSM, and more. With Aspose.Cells for Java, you can easily convert HTML files to JSON format and manipulate the resulting data as needed.
+Converting Word DOC files to JSON format is beneficial for extracting structured data and content from documents. This conversion streamlines data processing, enables content analysis, and facilitates integration with other systems, making it valuable for data extraction, data sharing, and document automation within various applications.
+
+<h2 class="heading-border">How Aspose.Total can help in DOC to JSON Format Conversion?</h2>
+
+[Aspose.Total for Java](https://products.aspose.com/total/java/) offers a quick and easy way to convert DOC to JSON format in any Java-based application. The conversion process is achieved in just two steps.
+
+1. The first step involves using [Aspose.Words for Java](https://products.aspose.com/words/java/), a powerful document manipulation and conversion API, to export the DOC file to HTML format. This API allows you to programmatically create, modify, and convert a wide range of document formats including DOC, DOCX, PDF, and more. With Aspose.Words for Java, you can easily convert your DOC files to HTML format with just a few lines of code.
+1. Once the DOC file has been converted to HTML, the second step is to use [Aspose.Cells for Java](https://products.aspose.com/cells/java/) to convert the HTML file to JSON format. Aspose.Cells for Java is a powerful spreadsheet programming API that allows you to create, modify, and convert Excel files in Java applications. It supports a wide range of Excel file formats, including XLS, XLSX, XLSM, and more. With Aspose.Cells for Java, you can easily convert HTML files to JSON format and manipulate the resulting data as needed.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -28,7 +34,7 @@ Once the DOC file has been converted to HTML, the second step is to use [Aspose.
 4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Tools Needed for DOC to JSON Conversion" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}

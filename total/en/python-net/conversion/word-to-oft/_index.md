@@ -27,11 +27,11 @@ Converting Word Documents to OFT using Python offers the advantages of creating 
 - Open the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 - Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your Word file is converted to HTML at the specified path
 - Now Load the saved HTML file using MailMessage.load
-- Call the save method with relevant file path. So finally the Word is converted
+- Call the save method with relevant file path. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="What you need for Word to OFT Conversion?" %}}
+{{% blocks/products/pf/agp/feature-section-col title="What is needed for Word to OFT Conversion?" %}}
 
 - For Word to OFT conversion, Python 3.5 or later is required
 - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/) and [Aspose.Email](https://pypi.org/project/Aspose.Email-for-Python-via-NET/))
