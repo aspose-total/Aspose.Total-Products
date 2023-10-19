@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPTX POTMX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="用于将 CSV 导出为 POTM 的 Java API 或在线" h2="无需依赖 Microsoft Excel 即可将 CSV 导出为 POTM 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-将 CSV 渲染到 POTM 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 CSV 文档转换为 PDF，然后使用 [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 POTM。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
+将 CSV 渲染到 POTM 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 CSV 文档转换为 PDF，然后使用 [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 POTM。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java API 将 CSV 转换为 POTM" %}}

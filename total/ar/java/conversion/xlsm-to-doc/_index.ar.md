@@ -12,7 +12,7 @@ otherformats: DOCX POWERPOINT PPTX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLSM إلى DOC أو عبر الإنترنت" h2="في Premise Java API لتصدير XLSM إلى DOC أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعتبر تحويل XLSM إلى DOC عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLSM المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOC. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
+يعتبر تحويل XLSM إلى DOC عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLSM المحدد إلى PDF ، ثم باستخدام [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOC. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل XLSM إلى DOC عبر Java API" %}}

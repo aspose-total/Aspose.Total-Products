@@ -12,7 +12,7 @@ otherformats: POWERPOINT WORD DOCX PPTX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="用于将 EXCEL 导出为 DOCX 的 Java API 或在线" h2="无需依赖 Microsoft Excel 即可将 EXCEL 导出为 DOCX 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-将 EXCEL 渲染到 DOCX 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 EXCEL 文档转换为 PDF，然后使用 [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 DOCX。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
+将 EXCEL 渲染到 DOCX 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 EXCEL 文档转换为 PDF，然后使用 [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 DOCX。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java API 将 EXCEL 转换为 DOCX" %}}

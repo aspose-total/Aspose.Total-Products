@@ -12,7 +12,7 @@ otherformats: DOCX PPTX POWERPOINT WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLTX إلى DOC أو عبر الإنترنت" h2="في Premise Java API لتصدير XLTX إلى DOC أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعتبر تحويل XLTX إلى DOC عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLTX المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOC. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
+يعتبر تحويل XLTX إلى DOC عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLTX المحدد إلى PDF ، ثم باستخدام [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOC. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل XLTX إلى DOC عبر Java API" %}}

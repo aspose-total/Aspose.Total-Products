@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPTX WORD WORDX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="XLS를 WORD로 내보내는 Java API 또는 온라인" h2="Microsoft Excel에 의존하지 않고 XLS를 WORD로 내보내기 위한 온프레미스 Java API&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-XLS를 WORD로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API를 사용하여 주어진 XLS 문서를 PDF로 변환한 다음 [Aspose.Pdf for Java](https://products.aspose.com/cells/java)를 사용합니다. ://products.aspose.com/pdf/java) API를 사용하면 PDF 문서를 WORD로 쉽게 변환할 수 있습니다. 두 API 모두 [Aspose.Total for Java](https://products.aspose.com/total/java/) 파일 형식 자동화 라이브러리 컬렉션에 포함됩니다.
+XLS를 WORD로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API를 사용하여 주어진 XLS 문서를 PDF로 변환한 다음 [Aspose.PDF for Java](https://products.aspose.com/cells/java)를 사용합니다. ://products.aspose.com/pdf/java) API를 사용하면 PDF 문서를 WORD로 쉽게 변환할 수 있습니다. 두 API 모두 [Aspose.Total for Java](https://products.aspose.com/total/java/) 파일 형식 자동화 라이브러리 컬렉션에 포함됩니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API를 통해 XLS를 WORD로 변환하는 방법" %}}

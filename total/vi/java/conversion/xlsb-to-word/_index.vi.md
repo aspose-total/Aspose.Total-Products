@@ -12,7 +12,7 @@ otherformats: WORDX POWERPOINT PPTX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất XLSB sang WORD hoặc trực tuyến" h2="Trên API Premise Java để Xuất XLSB sang WORD mà không cần dựa vào Microsoft Excel & reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Đưa XLSB sang WORD là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu XLSB đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang WORD. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Đưa XLSB sang WORD là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu XLSB đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang WORD. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi XLSB sang WORD qua Java API" %}}

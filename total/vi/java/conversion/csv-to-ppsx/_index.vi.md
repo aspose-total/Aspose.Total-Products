@@ -12,7 +12,7 @@ otherformats: POWERPOINT PPTX PPSXX WORD
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất CSV sang PPSX hoặc trực tuyến" h2="Trên API Premise Java để Xuất CSV sang PPSX mà không cần dựa vào Microsoft Excel & reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Đưa CSV sang PPSX là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu CSV đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang PPSX. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Đưa CSV sang PPSX là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu CSV đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang PPSX. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi CSV sang PPSX qua Java API" %}}

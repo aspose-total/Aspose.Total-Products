@@ -12,7 +12,7 @@ otherformats: PPTX WORD POWERPOINT PPTXX
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter TSV vers PPTX ou en ligne" h2="API Java sur site pour exporter TSV vers PPTX sans dépendre de Microsoft Excel®" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Le rendu TSV en PPTX est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le document TSV donné en PDF, puis en utilisant [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre document PDF en PPTX. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Le rendu TSV en PPTX est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le document TSV donné en PDF, puis en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre document PDF en PPTX. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir TSV en PPTX via l'API Java" %}}

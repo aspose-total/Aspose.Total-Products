@@ -12,7 +12,7 @@ otherformats: WORDX WORD PPTX POWERPOINT
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất ODS sang WORD hoặc trực tuyến" h2="Trên API Premise Java để Xuất ODS sang WORD mà không cần dựa vào Microsoft Excel & reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Đưa ODS sang WORD là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu ODS đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang WORD. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Đưa ODS sang WORD là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu ODS đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang WORD. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi ODS sang WORD qua Java API" %}}
