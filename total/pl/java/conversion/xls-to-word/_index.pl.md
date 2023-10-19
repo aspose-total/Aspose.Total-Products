@@ -10,9 +10,9 @@ outformat: WORD
 otherformats: POWERPOINT PPTX WORD WORDX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu XLS do WORD lub online" h2="On Premise Java API do eksportu XLS do WORD lub online bez korzystania z Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu XLS do WORD lub online" h2="On Premise Java API do eksportu XLS do WORD lub online bez korzystania z Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderowanie XLS do WORD to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument XLS na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na WORD. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderowanie XLS do WORD to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument XLS na PDF, a następnie użyjesz [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na WORD. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować XLS do WORD za pomocą Java API" %}}

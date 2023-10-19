@@ -11,7 +11,7 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konvertera CSV till PPT via C# eller onlineapp" h2="Exportera Excel&reg; CSV till PPT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konvertera CSV till PPT via C# eller onlineapp" h2="Exportera Excel<sup>&reg;</sup> CSV till PPT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

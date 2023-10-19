@@ -11,7 +11,7 @@ otherformats: DOCX DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export ODS to Word or Online App" h2="On Premise Java API to Export ODS to Word or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export ODS to Word or Online App" h2="On Premise Java API to Export ODS to Word or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="Why Convert ODS to Word Document Formats?" isGrey="true" %}}
@@ -21,7 +21,7 @@ Converting ODS (OpenDocument Spreadsheet) files to Word document formats, like D
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How Aspose.Total can help in ODS to Word Conversion?" isGrey="true" %}}
-Converting ODS to Word involves a seamless two-step procedure. Initially, harness the power of the Aspose.Cells for Java API to transform the ODS document into PDF format. Following this, with the assistance of the Aspose.Pdf for Java API, convert the PDF document into Word format. Both of these APIs are integral components of the comprehensive [Aspose.Total for Java](https://products.aspose.com/total/java/) collection, encompassing a wide array of file format automation libraries. This efficient two-step conversion process ensures that your ODS data is accurately preserved in the Word document, providing versatility and compatibility in your document management.
+Converting ODS to Word involves a seamless two-step procedure. Initially, harness the power of the Aspose.Cells for Java API to transform the ODS document into PDF format. Following this, with the assistance of the Aspose.PDF for Java API, convert the PDF document into Word format. Both of these APIs are integral components of the comprehensive [Aspose.Total for Java](https://products.aspose.com/total/java/) collection, encompassing a wide array of file format automation libraries. This efficient two-step conversion process ensures that your ODS data is accurately preserved in the Word document, providing versatility and compatibility in your document management.
 
 {{% /blocks/products/pf/agp/content %}}
 

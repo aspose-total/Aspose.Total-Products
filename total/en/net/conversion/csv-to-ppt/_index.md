@@ -11,10 +11,11 @@ otherformats: PowerPoint PPT PPT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPT via C# or Online App" h2="Export Excel&reg; CSV to PPT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert a CSV file to a PowerPoint presentation. Perhaps you have a sales report that you want to present to your team, or data from a customer survey that you want to share with your boss. Whatever the reason, Aspose.Total for .NET API makes it easy to convert CSV files to PowerPoint presentations.
 
@@ -28,7 +29,8 @@ Some of the benefits of using Aspose.Total for .NET API to convert CSV files to 
 
 - The ability to save the presentation as a PDF file, making it easy to share with people who do not have PowerPoint installed on their computer.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

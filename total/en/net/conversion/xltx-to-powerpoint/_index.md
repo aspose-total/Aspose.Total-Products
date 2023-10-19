@@ -11,10 +11,11 @@ otherformats: DOCX DOC WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLTX to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTX to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLTX files to PowerPoint files. The most common reason is to create a presentation from data that is stored in an XLTX file. PowerPoint is a much more user-friendly application for creating presentations, and it is also more widely used.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLTX files to PowerPoint is to edit the data in the fi
 
 Aspose.Total for .NET API is a great tool for converting XLTX files to PowerPoint files. It is very easy to use and it can handle large files very quickly.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

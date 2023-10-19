@@ -11,14 +11,16 @@ otherformats: PowerPoint PPT PPSX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSX via C# or Online App" h2="Export Excel&reg; CSV to PPSX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSX via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPSX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular among developers as they are easy to read and write. However, they have some limitations. For example, they cannot store formatting information. This is where PPSX files come in. PPSX files are PowerPoint presentations that can store formatting information. Aspose.Total for .NET API helps developers convert CSV files to PPSX files. This API provides a wide range of features that make it easy to convert CSV files to PPSX files. For example, it supports batch conversion, so you can convert multiple CSV files to PPSX files in one go. It also supports various options for controlling the output, such as setting the slide size, slide layout, and slide background.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

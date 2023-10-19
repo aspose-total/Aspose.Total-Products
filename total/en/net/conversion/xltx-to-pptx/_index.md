@@ -11,10 +11,11 @@ otherformats: DOCX POWERPOINT WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to PPTX via C# or Online App" h2="Export Excel&reg; XLTX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 If you have to present data in a more visually appealing way, then you need to convert your XLTX files to PPTX format. PPTX is the latest version of Microsoft PowerPoint file format that supports animations, transitions, graphics, and more. Aspose.Total for .NET API helps you convert XLTX to PPTX with just a few lines of code.<br />
 
@@ -32,7 +33,8 @@ Here are some of the benefits of converting XLTX to PPTX:<br />
 
 Aspose.Total for .NET API is a comprehensive suite of .NET components that helps you work with a wide range of file formats, including XLTX and PPTX. With just a few lines of code, you can convert XLTX to PPTX with Aspose.Total for .NET API.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: POWERPOINT PPTX POTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή CSV σε POTX ή διαδικτυακά" h2="On Premise Java API για εξαγωγή CSV σε POTX ή διαδικτυακά χωρίς να βασίζεστε στο Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή CSV σε POTX ή διαδικτυακά" h2="On Premise Java API για εξαγωγή CSV σε POTX ή διαδικτυακά χωρίς να βασίζεστε στο Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Η απόδοση του CSV σε POTX είναι μια διαδικασία δύο βημάτων. Θα χρησιμοποιήσετε πρώτα το [Aspose.Cells for Java](https://products.aspose.com/cells/java) API για να μετατρέψετε το δεδομένο έγγραφο CSV σε PDF και, στη συνέχεια, χρησιμοποιώντας το [Aspose.Pdf για Java](https://products.aspose.com/pdf/java) API, μπορείτε εύκολα να μετατρέψετε το έγγραφο PDF σας σε POTX. Και τα δύο API ανήκουν στη συλλογή των βιβλιοθηκών αυτοματισμού μορφών αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

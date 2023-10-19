@@ -11,10 +11,11 @@ otherformats: PowerPoint PPT PPSM PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSM via C# or Online App" h2="Export Excel&reg; CSV to PPSM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSM via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPSM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular among developers and are used extensively in various applications. However, there are certain drawbacks of CSV files which can be overcome by converting them to PPSM files.<br />
 
@@ -31,7 +32,8 @@ Some of the advantages of using Aspose.Total for .NET API for CSV to PPSM conver
 4. The API supports batch conversion of CSV files to PPSM format.<br />
 
 5. Aspose.Total for .NET API is a very cost effective solution for converting CSV files to PPSM format.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

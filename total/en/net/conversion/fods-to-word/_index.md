@@ -11,15 +11,17 @@ otherformats: DOC PPTX POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to WORD via C# or Online App" h2="Export Excel&reg; FODS to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> FODS to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert FODS files to WORD files. The most common reason is for compatibility with other programs. FODS files are not as widely accepted as WORD files, so if you need to open a FODS file in another program, you will need to convert it to a WORD file.<br />
 
 Aspose.Total for .NET API is a great tool for converting FODS files to WORD files. The API is easy to use and it supports a wide range of file formats. Aspose.Total for .NET API is a great choice for converting FODS files to WORD files.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert FODS to WORD?" %}}

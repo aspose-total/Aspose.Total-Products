@@ -10,9 +10,9 @@ outformat: DOCX
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLSM ke DOCX atau daring" h2="On Premise Java API untuk Mengekspor XLSM ke DOCX atau daring tanpa mengandalkan Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLSM ke DOCX atau daring" h2="On Premise Java API untuk Mengekspor XLSM ke DOCX atau daring tanpa mengandalkan Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Rendering XLSM ke DOCX adalah proses dua langkah. Pertama-tama Anda akan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java) API untuk mengonversi dokumen XLSM yang diberikan ke PDF, lalu dengan menggunakan [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, Anda dapat dengan mudah mengonversi dokumen PDF Anda ke DOCX. Kedua API berada di bawah koleksi [Aspose.Total for Java](https://products.aspose.com/total/java/) perpustakaan otomatisasi format file.
+Rendering XLSM ke DOCX adalah proses dua langkah. Pertama-tama Anda akan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java) API untuk mengonversi dokumen XLSM yang diberikan ke PDF, lalu dengan menggunakan [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, Anda dapat dengan mudah mengonversi dokumen PDF Anda ke DOCX. Kedua API berada di bawah koleksi [Aspose.Total for Java](https://products.aspose.com/total/java/) perpustakaan otomatisasi format file.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi XLSM ke DOCX melalui Java API" %}}

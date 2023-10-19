@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT DOC DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="A XLTX konvertálása WORD formátumba C# segítségével vagy Online App" h2="Exportálás Excel&reg; XLTX-ből WORD-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="A XLTX konvertálása WORD formátumba C# segítségével vagy Online App" h2="Exportálás Excel<sup>&reg;</sup> XLTX-ből WORD-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

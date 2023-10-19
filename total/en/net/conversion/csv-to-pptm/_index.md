@@ -11,13 +11,15 @@ otherformats: PowerPoint PPT PPTM PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPTM via C# or Online App" h2="Export Excel&reg; CSV to PPTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPTM via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons to convert CSV files to PPTM files. One reason is that PPTM files are more compact than CSV files and take up less space on a hard drive. PPTM files are also easier to send as attachments to emails. Aspose.Total for .NET API helps to convert CSV files to PPTM files with just a few lines of code. The API supports a number of features that make it easy to convert CSV files to PPTM files.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

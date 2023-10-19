@@ -11,14 +11,16 @@ otherformats: POWERPOINT DOCX DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to WORD via C# or Online App" h2="Export Excel&reg; XLTM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 XML files are used to store data in a structured format. However, XML files can be difficult to read and edit. Converting XML files to Word files can make them easier to read and edit. Aspose.Total for .NET API can help you convert XML files to Word files. Aspose.Total for .NET API is a comprehensive set of APIs for working with Microsoft Office files. It includes APIs for working with Word, Excel, PowerPoint, and PDF files. Aspose.Total for .NET API can convert XML files to Word files. It can also convert Word files to XML files. Aspose.Total for .NET API can also convert other types of files to Word files, such as HTML files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

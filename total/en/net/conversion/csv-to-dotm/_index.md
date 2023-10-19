@@ -11,14 +11,16 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOTM via C# or Online App" h2="Export Excel&reg; CSV to DOTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOTM via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to DOTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert CSV files to DOTM files. One reason is that DOTM files are more easily opened in Microsoft Word than CSV files. Another reason is that DOTM files preserve more formatting information than CSV files.<br />
 
-Aspose.Total for .NET API is a powerful tool that makes it easy to convert CSV files to DOTM files. The API provides a wide range of features that make it easy to work with CSV files, including the ability to read and write CSV files, the ability to convert CSV files to DOTM files, and the ability to work with a variety of other file formats.{{< /blocks/products/pf/agp/feature-section >}}
+Aspose.Total for .NET API is a powerful tool that makes it easy to convert CSV files to DOTM files. The API provides a wide range of features that make it easy to work with CSV files, including the ability to read and write CSV files, the ability to convert CSV files to DOTM files, and the ability to work with a variety of other file formats.
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to DOTM?" %}}

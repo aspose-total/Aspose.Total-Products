@@ -11,14 +11,16 @@ otherformats: POWERPOINT WORD PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOCX via C# or Online App" h2="Export Excel&reg; XLT to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLT to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 XLT files are Microsoft Excel templates that help you create new workbooks with a predefined look and feel. DOCX files are Microsoft Word documents that can contain text, images, and other content. There is a need to convert XLT files to DOCX files because DOCX files are more widely used and can be opened in more programs than XLT files. Aspose.Total for .NET API helps you convert XLT files to DOCX files by providing a set of tools that make it easy to convert XLT files to DOCX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

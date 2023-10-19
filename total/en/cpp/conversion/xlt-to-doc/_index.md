@@ -11,7 +11,7 @@ otherformats: DOCX WORD POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOC via C++ or Online App" h2="Export Excel&reg; XLT to DOC within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOC via C++ or Online App" h2="Export Excel<sup>&reg;</sup> XLT to DOC within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

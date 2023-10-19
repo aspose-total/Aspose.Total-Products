@@ -11,14 +11,16 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to DOCX via C# or Online App" h2="Export Excel&reg; FODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> FODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 FODS is a file format used by OpenOffice.org and LibreOffice. DOCX is a file format used by Microsoft Word. There is a need to convert FODS files to DOCX files because Microsoft Word does not support the FODS file format. Aspose.Total for .NET API helps for this conversion because it provides a library for working with DOCX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

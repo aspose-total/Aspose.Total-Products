@@ -11,10 +11,11 @@ otherformats: PPTX POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to DOC via C# or Online App" h2="Export Excel&reg; XLS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLS files to DOC files. The most common reason is that DOC files are more compatible with word processing programs than XLS files. DOC files can be opened and edited in Microsoft Word, OpenOffice, and other word processors, while XLS files can only be opened and edited in Microsoft Excel.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLS files to DOC files is that DOC files are smaller i
 
 Aspose.Total for .NET API is a comprehensive suite of .NET components that provides everything you need to create, edit, convert, and manipulate Excel spreadsheets. With Aspose.Total for .NET, you can easily convert XLS files to DOC files with just a few lines of code.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

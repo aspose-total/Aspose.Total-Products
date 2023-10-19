@@ -11,10 +11,11 @@ otherformats: DOC PPTX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to DOCX via C# or Online App" h2="Export Excel&reg; XLTM to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTM to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 The Extensible Markup Language for Transformations (XSLT) is a language for transforming XML documents into other XML documents, or other formats such as HTML for web pages, plain text or XSL Formatting Objects, which may subsequently be converted to other formats, such as PDF, PostScript and PNG.<br />
 
@@ -26,7 +27,8 @@ The XslTransform class also provides a number of properties for controlling the 
 
 The Aspose.Total for .NET API also provides a number of other classes for working with XSLT. These include the XsltCompiledTransform class, which can be used to compile an XSLT stylesheet into an assembly, and the XsltSettings class, which can be used to configure the XSLT processor.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

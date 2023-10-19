@@ -11,7 +11,7 @@ otherformats: DOC DOCX POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Конвертировать XLT в WORD через C# или онлайн-приложение" h2="Экспорт Excel&reg; XLT в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Конвертировать XLT в WORD через C# или онлайн-приложение" h2="Экспорт Excel<sup>&reg;</sup> XLT в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 

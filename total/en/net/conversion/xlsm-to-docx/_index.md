@@ -11,17 +11,19 @@ otherformats: PPTX WORD DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to DOCX via C# or Online App" h2="Export Excel&reg; XLSM to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSM to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons to convert XLSM files to DOCX format. One reason is that DOCX is a more widely used format, so it is more likely that someone will be able to open and view your file if it is in DOCX format. Additionally, DOCX files are smaller in size than XLSM files, so they take up less space on your computer or device.<br />
 
 Another reason to convert XLSM to DOCX is that DOCX files can be password protected, while XLSM files cannot. This means that if you want to keep your data safe and secure, you should convert your XLSM file to a DOCX file and password protect it.<br />
 
 Finally, Aspose.Total for .NET API makes it easy to convert XLSM to DOCX format. With just a few lines of code, you can quickly and easily convert your XLSM file to DOCX format.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Μετατροπή CSV σε DOTX μέσω C# ή Online App" h2="Εξαγωγή Excel&reg; CSV σε DOTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Μετατροπή CSV σε DOTX μέσω C# ή Online App" h2="Εξαγωγή Excel<sup>&reg;</sup> CSV σε DOTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

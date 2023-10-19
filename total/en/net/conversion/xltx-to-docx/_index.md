@@ -11,10 +11,11 @@ otherformats: PPTX DOC POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to DOCX via C# or Online App" h2="Export Excel&reg; XLTX to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTX to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLTX files to DOCX. The most common reason is compatibility. XLTX is a newer file format, and not all programs can open or edit these files. DOCX is a more common file format, and can be opened and edited by more programs.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLTX to DOCX is for security. XLTX files can be passwo
 
 Aspose.Total for .NET API is a great tool for converting XLTX to DOCX. This API can handle a variety of file conversions, including XLTX to DOCX. The API is easy to use and can be integrated into your existing applications.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

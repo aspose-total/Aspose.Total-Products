@@ -10,9 +10,9 @@ outformat: PPTX
 otherformats: PPTXX POWERPOINT PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar XLSM a PPTX o en línea" h2="API de Java local para exportar XLSM a PPTX sin depender de Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar XLSM a PPTX o en línea" h2="API de Java local para exportar XLSM a PPTX sin depender de Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderizar XLSM a PPTX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el documento XLSM dado a PDF, y luego usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su documento PDF a PPTX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderizar XLSM a PPTX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el documento XLSM dado a PDF, y luego usará [Aspose.PDF for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su documento PDF a PPTX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir XLSM a PPTX a través de la API de Java" %}}

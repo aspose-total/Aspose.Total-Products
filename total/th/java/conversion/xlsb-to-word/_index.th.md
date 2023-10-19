@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: WORDX POWERPOINT PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อส่งออก XLSB เป็น WORD หรือทางออนไลน์" h2="บน Premise Java API เพื่อส่งออก XLSB ไปยัง WORD โดยไม่ต้องพึ่ง Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อส่งออก XLSB เป็น WORD หรือทางออนไลน์" h2="บน Premise Java API เพื่อส่งออก XLSB ไปยัง WORD โดยไม่ต้องพึ่ง Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแสดงผล XLSB เป็น WORD เป็นกระบวนการสองขั้นตอน ก่อนอื่น คุณจะต้องใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java) API เพื่อแปลงเอกสาร XLSB ที่ระบุเป็น PDF จากนั้นใช้ [Aspose.Pdf สำหรับ Java](https://products.aspose.com/pdf/java) API คุณสามารถแปลงเอกสาร PDF เป็น WORD ได้อย่างง่ายดาย API ทั้งสองอยู่ภายใต้คอลเล็กชันของไลบรารีอัตโนมัติรูปแบบไฟล์ [Aspose.Total for Java](https://products.aspose.com/total/java/)
 {{% /blocks/products/pf/feature-page-summary  %}}

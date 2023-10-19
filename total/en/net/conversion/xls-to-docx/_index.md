@@ -11,10 +11,11 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to DOCX via C# or Online App" h2="Export Excel&reg; XLS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLS files to DOCX files. The most common reason is that DOCX files are easier to work with. They are smaller in size and can be opened in any word processor. Aspose.Total for .NET API helps you to easily convert XLS files to DOCX files.<br />
 
@@ -24,7 +25,8 @@ Aspose.Total for .NET API also helps you to easily convert XLS files to DOCX fil
 
 In conclusion, there are many reasons to convert XLS files to DOCX files. Aspose.Total for .NET API helps you to easily convert XLS files to DOCX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

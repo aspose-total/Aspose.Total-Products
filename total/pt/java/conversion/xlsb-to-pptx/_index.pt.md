@@ -10,9 +10,9 @@ outformat: PPTX
 otherformats: PPTX POWERPOINT PPTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java para exportar XLSB para PPTX ou online" h2="On Premise Java API para exportar XLSB para PPTX sem depender do Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java para exportar XLSB para PPTX ou online" h2="On Premise Java API para exportar XLSB para PPTX sem depender do Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-A renderização de XLSB para PPTX é um processo de duas etapas. Você primeiro usará a API [Aspose.Cells for Java](https://products.aspose.com/cells/java) para converter o documento XLSB fornecido em PDF e, em seguida, usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), você pode facilmente converter seu documento PDF em PPTX. Ambas as APIs fazem parte da coleção de bibliotecas de automação de formato de arquivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
+A renderização de XLSB para PPTX é um processo de duas etapas. Você primeiro usará a API [Aspose.Cells for Java](https://products.aspose.com/cells/java) para converter o documento XLSB fornecido em PDF e, em seguida, usará [Aspose.PDF for Java](https://products.aspose.com/pdf/java), você pode facilmente converter seu documento PDF em PPTX. Ambas as APIs fazem parte da coleção de bibliotecas de automação de formato de arquivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como converter XLSB para PPTX via API Java" %}}

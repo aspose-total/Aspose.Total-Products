@@ -11,10 +11,11 @@ otherformats: PowerPoint PPT POTM PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POTM via C# or Online App" h2="Export Excel&reg; CSV to POTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POTM via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to POTM on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular among developers as they are easy to read and write. However, there are some drawbacks of using CSV files. One of the main drawbacks is that CSV files are not well suited for large data sets. Another drawback is that CSV files are not very portable.<br />
 
@@ -36,7 +37,8 @@ Aspose.Total for .NET API also provides support for various formatting options w
 - Setting the quote character<br />
 - Setting the escape character<br />
 - Setting the field names in the first row<br />
-- Setting the data types of the fields{{< /blocks/products/pf/agp/feature-section >}}
+- Setting the data types of the fields
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to POTM?" %}}

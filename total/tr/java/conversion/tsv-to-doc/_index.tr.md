@@ -10,9 +10,9 @@ outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="TSV'yi DOC'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="TSV'yi DOC'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-TSV'yi DOC'ye işlemek iki adımlı bir işlemdir. Verilen TSV belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.Pdf for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca DOC'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
+TSV'yi DOC'ye işlemek iki adımlı bir işlemdir. Verilen TSV belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.PDF for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca DOC'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API ile TSV'yi DOC'ye Dönüştürme" %}}

@@ -10,9 +10,9 @@ outformat: WORD
 otherformats: WORD WORDX PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLSM in WORD o in linea" h2="API Java in loco per esportare XLSM in WORD senza fare affidamento su Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLSM in WORD o in linea" h2="API Java in loco per esportare XLSM in WORD senza fare affidamento su Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Il rendering di XLSM in WORD è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLSM specificato in PDF, quindi utilizzerai [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in WORD. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Il rendering di XLSM in WORD è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLSM specificato in PDF, quindi utilizzerai [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in WORD. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire XLSM in WORD tramite API Java" %}}

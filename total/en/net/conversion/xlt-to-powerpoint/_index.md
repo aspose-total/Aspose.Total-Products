@@ -11,10 +11,11 @@ otherformats: WORD DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLT to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLT to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 If you have been using Microsoft Excel for a while, you may have come across .xlt files. These are template files that can be used to create new Excel workbooks. While .xlt files are useful, they can be a bit limiting. For example, you may want to create a PowerPoint presentation from your Excel data. To do this, you would need to convert your .xlt file to a PowerPoint file.<br />
 
@@ -22,7 +23,8 @@ Aspose.Total for .NET API is a powerful tool that can be used to convert .xlt fi
 
 To convert an .xlt file to a PowerPoint file, you would first need to open the file in Aspose.Total for .NET API. Once the file is open, you would then need to select the "Convert" option from the "File" menu. This would open the "Convert" dialog box. In the "Convert" dialog box, you would need to select the "PowerPoint" option from the "Output Format" drop-down list. Finally, you would need to click the "Convert" button to start the conversion process.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

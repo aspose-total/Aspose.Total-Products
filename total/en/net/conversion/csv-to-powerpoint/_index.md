@@ -11,16 +11,18 @@ otherformats: DOC PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POWERPOINT via C# or Online App" h2="Export Excel&reg; CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert CSV files to PowerPoint files. One reason is that PowerPoint files are easier to share and distribute than CSV files. PowerPoint files can be opened and edited by many different software programs, making them more versatile than CSV files. Additionally, PowerPoint files are typically smaller in size than CSV files, so they take up less storage space.<br />
 
 Aspose.Total for .NET API is a powerful tool that can help you convert CSV files to PowerPoint files. The API provides a wide range of features and options that make it easy to convert CSV files to PowerPoint files. With Aspose.Total for .NET API, you can control the layout and formatting of your PowerPoint files, and you can also add images, charts, and other objects to your PowerPoint files. Aspose.Total for .NET API is a reliable and easy-to-use tool that can help you convert CSV files to PowerPoint files quickly and easily.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

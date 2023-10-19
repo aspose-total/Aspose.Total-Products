@@ -11,10 +11,11 @@ otherformats: DOC POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to PPTX via C# or Online App" h2="Export Excel&reg; XLSM to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSM to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons to convert XLSM files to PPTX files. The most common reason is to create a presentation from data that is stored in an XLSM file. Aspose.Total for .NET API helps to easily convert XLSM files to PPTX files with a few lines of code.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLSM files to PPTX is to reduce the file size. PPTX fi
 
 Aspose.Total for .NET API also supports converting XLSM files to other popular formats such as PDF, HTML, and image formats. This can be useful when sharing files with people who do not have Microsoft Office installed.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

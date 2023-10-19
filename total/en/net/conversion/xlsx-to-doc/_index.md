@@ -11,16 +11,18 @@ otherformats: PPTX DOCX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to DOC via C# or Online App" h2="Export Excel&reg; XLSX to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSX to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why users may need to convert their XLSX files to DOC format. One common reason is that DOC files are more compatible with a wider range of programs and devices than XLSX files. Additionally, DOC files are generally smaller in size than XLSX files, making them easier to store and share.<br />
 
 Aspose.Total for .NET API is a comprehensive suite of file processing APIs that enables developers to easily convert XLSX files to DOC format. The API supports a wide range of features, including the ability to convert files in batch, preserve formatting, and more.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

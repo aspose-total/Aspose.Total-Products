@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOT via C# or Online App" h2="Export Excel&reg; CSV to DOT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to DOT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
  CSV (Comma Separated Values) files are simple text files where data is stored in a tabular format. DOT (Graphviz) files are used to represent graphs. Graphviz is a tool for visualizing graph data.
 There are many reasons why you might want to convert a CSV file to a DOT file. For example, you might want to:<br />
@@ -23,7 +24,8 @@ There are many reasons why you might want to convert a CSV file to a DOT file. F
 - Generate a graph from data in a CSV file<br />
 
 Aspose.Total for .NET API is a comprehensive set of APIs for working with a wide range of file formats, including CSV and DOT. The API includes everything you need to convert CSV files to DOT files.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to DOT?" %}}

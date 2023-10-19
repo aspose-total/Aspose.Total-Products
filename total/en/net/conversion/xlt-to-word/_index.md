@@ -11,10 +11,11 @@ otherformats: DOC DOCX POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to WORD via C# or Online App" h2="Export Excel&reg; XLT to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLT to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert an XLT file to a WORD file. The most common reason is for compatibility purposes. WORD files are much more widely accepted than XLT files, so if you need to share your file with someone, it's best to convert it to a WORD file first.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert an XLT file to a WORD file is for editing purposes. XL
 
 Aspose.Total for .NET API is a great tool for converting XLT files to WORD files. It's easy to use and it supports a wide range of file formats, so you can be sure that your file will be converted correctly.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

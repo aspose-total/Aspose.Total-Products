@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: POWERPOINT PPTX WORD POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLTX в POWERPOINT или онлайн" h2="Локальный Java API для экспорта XLTX в POWERPOINT или онлайн, не полагаясь на Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLTX в POWERPOINT или онлайн" h2="Локальный Java API для экспорта XLTX в POWERPOINT или онлайн, не полагаясь на Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование XLTX в POWERPOINT — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа XLTX в PDF, а затем с помощью [Aspose.Pdf для Java](https://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в POWERPOINT. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

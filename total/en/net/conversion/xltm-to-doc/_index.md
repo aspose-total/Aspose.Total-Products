@@ -11,10 +11,11 @@ otherformats: POWERPOINT DOCX PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to DOC via C# or Online App" h2="Export Excel&reg; XLTM to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTM to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 XML files are used to store data in a structured format. However, XML files can be difficult to read and edit. DOC files are a more user-friendly format that can be opened and edited in Microsoft Word. Aspose.Total for .NET API provides a simple way to convert XML files to DOC format.<br />
 
@@ -22,7 +23,8 @@ There are many reasons why you might want to convert an XML file to DOC format. 
 
 Aspose.Total for .NET API is a comprehensive suite of tools for working with XML files. In addition to converting XML to DOC, Aspose.Total for .NET API can be used to create, edit, and convert XML files to other formats such as HTML, PDF, and XLS. Aspose.Total for .NET API is available as a free trial, so you can try it out before you buy it.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

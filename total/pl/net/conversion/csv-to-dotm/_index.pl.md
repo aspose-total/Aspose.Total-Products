@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konwertuj CSV na DOTM za pomocą C# lub Aplikacja internetowa" h2="Eksportuj Excel&reg; CSV do DOTM na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konwertuj CSV na DOTM za pomocą C# lub Aplikacja internetowa" h2="Eksportuj Excel<sup>&reg;</sup> CSV do DOTM na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

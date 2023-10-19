@@ -11,10 +11,11 @@ otherformats: PPTX WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLS files to PowerPoint files. The most common reason is to create a presentation from data that is stored in an Excel spreadsheet. PowerPoint is a much better tool for creating presentations than Excel, and it is very easy to convert an Excel file to a PowerPoint file.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLS files to PowerPoint files is to make the data more
 
 Aspose.Total for .NET API is a great tool for converting XLS files to PowerPoint files. It is very easy to use and it can handle large files very well.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

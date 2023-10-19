@@ -11,10 +11,11 @@ otherformats: DOC PPTX POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to WORD via C# or Online App" h2="Export Excel&reg; XLSB to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSB to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert an XLSB file to a Word document. Perhaps you need to edit the data in the spreadsheet, or you want to share the data with someone who doesn't have access to Excel. Whatever the reason, Aspose.Total for .NET API makes it easy to convert XLSB files to Word documents.<br />
 
@@ -27,7 +28,8 @@ Here are just a few of the benefits of using Aspose.Total for .NET API to conver
 - Aspose.Total for .NET API is easy to use, with a simple API that can be integrated into your existing applications.<br />
 
 If you need to convert an XLSB file to a Word document, Aspose.Total for .NET API is the perfect solution.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

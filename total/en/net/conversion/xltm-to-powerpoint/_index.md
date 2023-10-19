@@ -11,10 +11,11 @@ otherformats: DOCX WORD PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLTM to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTM to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 XML files are often used to store data in a format that can be read by a variety of different applications. However, XML files can be difficult to work with in some applications. For example, Microsoft PowerPoint does not natively support XML files. In order to open and edit an XML file in PowerPoint, it must first be converted to a PowerPoint-compatible format.<br />
 
@@ -24,7 +25,8 @@ The Aspose.Total for .NET API is easy to use and can be integrated into any .NET
 
 The Aspose.Total for .NET API is a powerful tool that can be used to work with a variety of different file formats. The XML to PowerPoint conversion API is just one example of the many features that the Aspose.Total for .NET API has to offer.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

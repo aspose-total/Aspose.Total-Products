@@ -11,16 +11,18 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOTX via C# or Online App" h2="Export Excel&reg; CSV to DOTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to DOTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert CSV files to DOTX files. One reason is that DOTX files are more easily opened in Microsoft Word than CSV files. Another reason is that DOTX files preserve more formatting information than CSV files.<br />
 
 Aspose.Total for .NET API is a powerful tool that can help you convert CSV files to DOTX files. The API provides a wide range of features that make it easy to convert CSV files to DOTX files. For example, the API can automatically handle a number of common CSV file formats, making it easy to convert CSV files to DOTX files. In addition, the API can preserve formatting information from the CSV files, making it easy to convert CSV files to DOTX files that look just like the original CSV files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

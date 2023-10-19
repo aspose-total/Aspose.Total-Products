@@ -11,7 +11,7 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Μετατροπή CSV σε PPSM μέσω C# ή Online App" h2="Εξαγωγή Excel&reg; CSV σε PPSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Μετατροπή CSV σε PPSM μέσω C# ή Online App" h2="Εξαγωγή Excel<sup>&reg;</sup> CSV σε PPSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

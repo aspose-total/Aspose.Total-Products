@@ -11,10 +11,11 @@ otherformats: WORD POWERPOINT DOCX PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOC via C# or Online App" h2="Export Excel&reg; XLT to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLT to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 If you are working with Microsoft Excel, you may need to convert your files to the .doc format. The .doc format is the standard document format for Microsoft Word. When you convert your files to this format, you will be able to open them in Microsoft Word and edit them as needed.<br />
 
@@ -22,7 +23,8 @@ There are a few reasons why you might need to convert your files to the .doc for
 
 If you need to convert your .xlt files to .doc files, you can use the Aspose.Total for .NET API. This API makes it easy to convert files from one format to another. With just a few lines of code, you can convert your .xlt files to .doc files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

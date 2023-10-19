@@ -11,7 +11,7 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konwertuj XLSM na POWERPOINT za pomocą C# lub Aplikacja internetowa" h2="Eksportuj Excel&reg; XLSM do POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Konwertuj XLSM na POWERPOINT za pomocą C# lub Aplikacja internetowa" h2="Eksportuj Excel<sup>&reg;</sup> XLSM do POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

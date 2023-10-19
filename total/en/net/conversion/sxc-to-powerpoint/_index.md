@@ -11,10 +11,11 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to POWERPOINT via C# or Online App" h2="Export Excel&reg; SXC to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> SXC to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 SXC is a file format used by OpenOffice.org and StarOffice. SXC files are spreadsheet files that can be opened and edited by these office suites. However, SXC files cannot be opened or edited by Microsoft Office. In order to open and edit SXC files in Microsoft Office, they must be converted to the Microsoft Office file format, PowerPoint.<br />
 
@@ -23,7 +24,8 @@ There are a number of reasons why you might want to convert SXC files to PowerPo
 Aspose.Total for .NET API is a comprehensive suite of .NET components that includes everything you need to work with SXC files. With Aspose.Total for .NET API, you can open SXC files, edit them, and save them back to SXC or to PowerPoint. Aspose.Total for .NET API also supports a number of other file formats, so you can use it to convert SXC files to PDF, Word, Excel, and more.<br />
 
 To convert an SXC file to PowerPoint using Aspose.Total for .NET API, simply call the ConvertFile method, passing in the SXC file and the PowerPoint file. Aspose.Total for .NET API will handle the conversion for you, and the PowerPoint file will be ready to use.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert SXC to POWERPOINT?" %}}

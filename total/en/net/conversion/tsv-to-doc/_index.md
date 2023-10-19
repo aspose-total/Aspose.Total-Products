@@ -11,17 +11,19 @@ otherformats: POWERPOINT PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to DOC via C# or Online App" h2="Export Excel&reg; TSV to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> TSV to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert TSV files to DOC files. The most common reason is to share data with others who may not have access to the original TSV file. DOC files are more widely compatible with different software programs than TSV files. Aspose.Total for .NET API helps to convert TSV files to DOC files with just a few lines of code.<br />
 
 Another reason to convert TSV files to DOC files is to make the data more presentable. DOC files can be formatted with different fonts, colors, and styles. This can make the data much easier to read and understand. Aspose.Total for .NET API preserves the original formatting of the TSV file when converting to DOC.
 <br />
 There are many other reasons to convert TSV files to DOC files. Aspose.Total for .NET API makes it easy to convert TSV files to DOC files with just a few lines of code.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

@@ -11,10 +11,11 @@ otherformats: DOCX POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert ODS to WORD via C# or Online App" h2="Export Excel&reg; ODS to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert ODS to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> ODS to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert ODS files to Word files. The most common reason is that Word files are more widely accepted than ODS files. Word files are also easier to edit and format.<br />
 
@@ -26,7 +27,8 @@ Aspose.Total for .NET API helps you convert ODS files to Word files with just a 
 
 With Aspose.Total for .NET API, you can easily convert ODS files to Word files with just a few lines of code.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

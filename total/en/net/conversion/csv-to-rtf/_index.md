@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to RTF via C# or Online App" h2="Export Excel&reg; CSV to RTF on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to RTF via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to RTF on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert a CSV file to an RTF file. Perhaps you need to send the file to someone who doesn't have a CSV reader, or you want to make the file more readable. Aspose.Total for .NET API can help you with this conversion.<br />
 
@@ -24,7 +25,8 @@ Aspose.Total for .NET API is easy to use. Simply specify the input and output fi
 
 Aspose.Total for .NET API is a cost-effective solution for converting CSV files to RTF files. Aspose.Total for .NET API is available for a free trial, so you can try it before you buy it.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

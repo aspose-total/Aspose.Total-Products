@@ -11,17 +11,19 @@ otherformats: DOCX PPTX POWERPOINT DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to WORD via C# or Online App" h2="Export Excel&reg; TSV to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> TSV to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert TSV files to Word files. The most common reason is to create a document that can be edited in Word. This is especially useful if the TSV file contains data that needs to be reformatted or if the data needs to be used in a mail merge.<br />
 
 Another reason to convert TSV files to Word files is to create a document that can be easily shared with others. Word files can be emailed, uploaded to a website, or printed. TSV files can be difficult to open and view on some devices.<br />
 
 Aspose.Total for .NET API makes it easy to convert TSV files to Word files. The API supports many different document formats, including Word. The API can be used to convert TSV files to Word files in just a few lines of code.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

@@ -11,14 +11,16 @@ otherformats: DOC DOCX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to PPTX via C# or Online App" h2="Export Excel&reg; TSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> TSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 TSV files are tabular data files that are used to store data in a tabular format. They are commonly used to store data in databases and spreadsheets. PPTX files are PowerPoint presentations that are used to present information in a slide show format. They are commonly used for business presentations and educational presentations. There is a need to convert TSV files to PPTX files because PPTX files are more flexible and can be edited more easily than TSV files. Aspose.Total for .NET API helps to convert TSV files to PPTX files by providing a set of tools that make it easy to convert the data in a TSV file to the format used by PowerPoint.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert TSV to PPTX?" %}}

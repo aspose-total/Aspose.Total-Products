@@ -11,14 +11,16 @@ otherformats: PowerPoint PPT POTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POTX via C# or Online App" h2="Export Excel&reg; CSV to POTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to POTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular among developers and are extensively used for storing tabular data. However, CSV files have certain limitations. For example, they do not support formatting or styling. This is where POTX files come in. POTX files are PowerPoint templates that support all the features of PowerPoint. Aspose.Total for .NET API provides the capability to convert CSV files to POTX files. This allows developers to take advantage of the rich features of PowerPoint, while still being able to use the data in their CSV files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

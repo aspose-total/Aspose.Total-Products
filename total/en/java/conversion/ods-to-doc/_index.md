@@ -11,11 +11,11 @@ otherformats: DOCX POWERPOINT WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export ODS to DOC or Online App" h2="On Premise Java API to Export ODS to DOC or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export ODS to DOC or Online App" h2="On Premise Java API to Export ODS to DOC or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to DOC via Java API" isGrey="true" %}}
-Rendering ODS to DOC is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given ODS document to PDF, and then by using [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to DOC. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
+Rendering ODS to DOC is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given ODS document to PDF, and then by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to DOC. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ODS to DOC Conversion on Java" %}}

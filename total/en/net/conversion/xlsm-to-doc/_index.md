@@ -11,14 +11,16 @@ otherformats: DOCX WORD POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to DOC via C# or Online App" h2="Export Excel&reg; XLSM to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSM to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why users may need to convert XLSM files to DOC format. One common reason is that DOC files are more compatible with a wider range of software applications than XLSM files. Additionally, DOC files are generally smaller in size than XLSM files, making them easier to store and share. Aspose.Total for .NET API provides a number of features that make it an ideal tool for converting XLSM files to DOC format. For example, the API supports batch conversion of XLSM files to DOC format, meaning users can convert multiple files at once. Additionally, the API can preserve the formatting of the original XLSM files when converting to DOC format, making it easy to maintain the original look and feel of the document.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

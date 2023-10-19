@@ -10,9 +10,9 @@ outformat: DOC
 otherformats: POWERPOINT DOCX WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API pro export XLT do DOC nebo online" h2="On Premise Java API pro export XLT do DOC nebo online bez spoléhání se na Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API pro export XLT do DOC nebo online" h2="On Premise Java API pro export XLT do DOC nebo online bez spoléhání se na Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Vykreslení XLT do DOC je dvoufázový proces. Nejprve použijete [Aspose.Cells for Java](https://products.aspose.com/cells/java) API k převodu daného XLT dokumentu do PDF a poté pomocí [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, můžete snadno převést dokument PDF na DOC. Obě rozhraní API spadají do kolekce knihoven automatizace formátu souborů [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Vykreslení XLT do DOC je dvoufázový proces. Nejprve použijete [Aspose.Cells for Java](https://products.aspose.com/cells/java) API k převodu daného XLT dokumentu do PDF a poté pomocí [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, můžete snadno převést dokument PDF na DOC. Obě rozhraní API spadají do kolekce knihoven automatizace formátu souborů [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést XLT na DOC přes Java API" %}}

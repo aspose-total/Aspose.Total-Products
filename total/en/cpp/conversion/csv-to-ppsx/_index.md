@@ -11,7 +11,7 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSX via C++ or Online App" h2="Export Excel&reg; CSV to PPSX within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPSX via C++ or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPSX within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

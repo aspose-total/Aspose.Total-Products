@@ -11,17 +11,19 @@ otherformats: POWERPOINT WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to PPTX via C# or Online App" h2="Export Excel&reg; XLSB to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSB to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert an XLSB file to a PPTX file. The most common reason is that PPTX files are much easier to share and view than XLSB files. PPTX files can be opened by a number of different programs, including Microsoft PowerPoint, Google Slides, and Apple Keynote. They can also be viewed on most web browsers.<br />
 
 Another reason to convert an XLSB file to a PPTX file is that PPTX files are much smaller in size than XLSB files. This is because PPTX files are compressed, while XLSB files are not. This means that you can save a lot of space on your computer by converting XLSB files to PPTX files.<br />
 
 Finally, Aspose.Total for .NET API makes it very easy to convert XLSB files to PPTX files. With just a few clicks, you can quickly and easily convert your XLSB files to PPTX files. Aspose.Total for .NET API is a powerful and easy-to-use tool that makes it easy to convert XLSB files to PPTX files.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

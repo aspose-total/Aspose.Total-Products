@@ -11,11 +11,11 @@ otherformats: DOC WORD POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export XLSM to DOCX or Online App" h2="On Premise Java API to Export XLSM to DOCX or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export XLSM to DOCX or Online App" h2="On Premise Java API to Export XLSM to DOCX or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to DOCX via Java API" isGrey="true" %}}
-Rendering XLSM to DOCX is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given XLSM document to PDF, and then by using [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to DOCX. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
+Rendering XLSM to DOCX is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given XLSM document to PDF, and then by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to DOCX. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="XLSM to DOCX Conversion on Java" %}}

@@ -11,10 +11,11 @@ otherformats: PowerPoint PPT PPS PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPS via C# or Online App" h2="Export Excel&reg; CSV to PPS on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPS via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPS on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular because they are easy to create and maintain. However, they have some limitations. For example, they are not well suited for large data sets.<br />
 
@@ -35,7 +36,8 @@ Here are some reasons to convert CSV files to PPS files:<br />
 
 7. PPS files are easy to backup and restore.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to PPS?" %}}

@@ -11,10 +11,11 @@ otherformats: PPTX DOC WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLSX to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSX to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLSX files to PowerPoint files. The most common reason is to create a presentation from data that is stored in an Excel spreadsheet. PowerPoint is a much better tool for creating presentations than Excel, so it makes sense to convert the data to PowerPoint format.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLSX to PowerPoint is to make the data more accessible
 
 The Aspose.Total for .NET API makes it easy to convert XLSX files to PowerPoint files. The API supports both the old XLS format and the new XLSX format. It also supports a variety of other formats, so you can convert the data to the format that is best for your needs.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

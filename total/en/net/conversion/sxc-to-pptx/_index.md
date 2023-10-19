@@ -11,13 +11,15 @@ otherformats: DOCX POWERPOINT WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to PPTX via C# or Online App" h2="Export Excel&reg; SXC to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> SXC to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 SXC is a file format used by OpenOffice.org and StarOffice. PPTX is a file format used by Microsoft PowerPoint. There is a need to convert SXC files to PPTX files because PPTX is a more widely used file format. Aspose.Total for .NET API helps for this conversion because it can convert SXC files to PPTX files.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert SXC to PPTX?" %}}

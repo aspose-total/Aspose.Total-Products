@@ -11,10 +11,11 @@ otherformats: DOC DOCX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to PPTX via C# or Online App" h2="Export Excel&reg; XLSX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSX to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLSX files to PPTX files. The most common reason is to create a presentation from data that is stored in an Excel spreadsheet. Aspose.Total for .NET API helps you to easily convert XLSX files to PPTX files with a few lines of code.<br />
 
@@ -24,7 +25,8 @@ Aspose.Total for .NET API makes it easy to convert XLSX to PPTX with just a few 
 
 If you need to convert XLSX to PPTX, Aspose.Total for .NET API is the easiest and most reliable way to do it.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

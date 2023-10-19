@@ -11,10 +11,11 @@ otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to DOC via C# or Online App" h2="Export Excel&reg; EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert an Excel file to a DOC file. One reason is that a DOC file is much easier to read and edit than an Excel file. A DOC file can be opened in any word processor, such as Microsoft Word or OpenOffice Writer.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert an Excel file to a DOC file is that a DOC file is much
 
 Aspose.Total for .NET API is a powerful tool that can help you convert an Excel file to a DOC file. Aspose.Total for .NET API can convert an Excel file to a DOC file in just a few seconds.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert EXCEL to DOC?" %}}

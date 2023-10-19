@@ -11,10 +11,11 @@ otherformats: WORD POWERPOINT DOC DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPTX via C# or Online App" h2="Export Excel&reg; CSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert CSV files to PPTX files. The most common reason is to create a presentation from data that is stored in a CSV file. CSV files are often used to store data that is exported from a database or spreadsheet application. PPTX files are the native file format for Microsoft PowerPoint.<br />
 
@@ -22,7 +23,8 @@ Aspose.Total for .NET API is a comprehensive set of APIs for working with a wide
 
 The Aspose.Total for .NET API is easy to use and can be integrated into any application. The API is available as a NuGet package.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

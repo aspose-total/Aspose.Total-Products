@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to WORDML via C# or Online App" h2="Export Excel&reg; CSV to WORDML on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to WORDML via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to WORDML on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
  CSV files are very popular because they are easy to create and manage. However, they have some limitations. For example, they cannot be easily edited or formatted.<br />
 WORDML files are more flexible and can be easily edited and formatted. Aspose.Total for .NET API provides a easy way to convert CSV files to WORDML files.
@@ -27,7 +28,8 @@ Here are some advantages of converting CSV files to WORDML files:<br />
 
 3. Aspose.Total for .NET API provides a easy way to convert CSV files to WORDML files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

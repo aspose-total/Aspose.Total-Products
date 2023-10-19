@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to MOBI via C# or Online App" h2="Export Excel&reg; CSV to MOBI on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to MOBI via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to MOBI on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular among developers as they are easy to read and write. However, CSV files have some limitations. For example, they cannot store complex data structures and they are not very portable.<br />
 
@@ -31,7 +32,8 @@ Here are some reasons why you might want to convert CSV files to MOBI files:<br 
 4. To take advantage of the Aspose.Total for .NET API<br />
 
 5. To make your data more compatible with other applications
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

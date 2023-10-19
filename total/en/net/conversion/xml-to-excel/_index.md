@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLSB TXT SXC MD XLAM FODS XLSM XLT XLTX DIF TSV XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XML to Excel via C#, .NET COre" h2="Export XML to Excel formats via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup>" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XML to Excel via C#, .NET Core" h2="Export XML to Excel formats via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup>" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

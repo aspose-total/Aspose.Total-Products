@@ -11,10 +11,11 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLSM to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSM to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLSM files to PowerPoint files. The most common reason is to create a presentation from data that is stored in an XLSM file. Aspose.Total for .NET API helps you to easily convert XLSM files to PowerPoint files with a few lines of code.<br />
 
@@ -28,7 +29,8 @@ The API also supports converting XLSM files to PowerPoint files in both online a
 
 The API supports many features that make it easy to convert XLSM files to PowerPoint files. The API is easy to use and it supports many features that make it easy to convert XLSM files to PowerPoint files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert XLSM to POWERPOINT?" %}}

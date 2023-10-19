@@ -11,10 +11,11 @@ otherformats: POWERPOINT WORD DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to DOCX via C# or Online App" h2="Export Excel&reg; XLSB to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSB to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLSB files to DOCX files. The most common reason is compatibility. XLSB files are not compatible with all versions of Microsoft Office. DOCX files are compatible with all versions of Microsoft Office.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert XLSB files to DOCX files is that DOCX files are smalle
 
 Aspose.Total for .NET API is a powerful tool that can help you convert XLSB files to DOCX files. Aspose.Total for .NET API can also help you convert other file formats to DOCX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

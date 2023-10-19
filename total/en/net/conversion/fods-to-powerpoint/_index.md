@@ -11,16 +11,18 @@ otherformats: DOC DOCX WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to POWERPOINT via C# or Online App" h2="Export Excel&reg; FODS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> FODS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert FODS files to PowerPoint files. The most common reason is that PowerPoint is a more widely used format, and it is easier to share PowerPoint files with others. Additionally, PowerPoint files are more likely to be compatible with other software applications.<br />
 
 Aspose.Total for .NET API is a powerful tool that can help with this conversion. The API provides a wide range of features and options that make it easy to convert FODS files to PowerPoint files. Additionally, the API is compatible with a variety of different file formats, so it is easy to convert files from one format to another.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

@@ -11,10 +11,11 @@ otherformats: WORD PPTX DOCX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOC via C# or Online App" h2="Export Excel&reg; SXC to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOC via C# or Online App" h2="Export Excel<sup>&reg;</sup> SXC to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 SXC is a file format used by OpenOffice.org Calc, an open-source spreadsheet application. DOC is a file format used by Microsoft Word, a word processing application. There are many reasons why someone might want to convert an SXC file to a DOC file.<br />
 
@@ -24,7 +25,8 @@ Another reason to convert an SXC file to a DOC file is that DOC files are genera
 
 Finally, Aspose.Total for .NET API makes it easy to convert SXC files to DOC files. With just a few lines of code, you can convert any SXC file to a DOC file. Aspose.Total for .NET API also supports many other file formats, so you can easily convert your SXC files to other formats as well.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

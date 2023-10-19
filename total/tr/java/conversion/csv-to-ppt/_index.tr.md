@@ -10,9 +10,9 @@ outformat: PPT
 otherformats: POWERPOINT PPTX PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="CSV'yi PPT'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="CSV'yi PPT'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-CSV'yi PPT'ye işlemek iki adımlı bir işlemdir. Verilen CSV belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.Pdf for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca PPT'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
+CSV'yi PPT'ye işlemek iki adımlı bir işlemdir. Verilen CSV belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.PDF for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca PPT'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API ile CSV'yi PPT'ye Dönüştürme" %}}

@@ -11,14 +11,16 @@ otherformats: DOC DOCX WORD POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to PPTX via C# or Online App" h2="Export Excel&reg; FODS to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> FODS to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 FODS is a file format used by OpenOffice.org and LibreOffice. PPTX is a file format used by Microsoft PowerPoint. There is a need to convert FODS files to PPTX files because Microsoft PowerPoint does not support the FODS file format. Aspose.Total for .NET API helps for this conversion by providing a set of classes and methods that can be used to convert FODS files to PPTX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

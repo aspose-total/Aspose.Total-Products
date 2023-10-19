@@ -11,7 +11,7 @@ otherformats: DOCX DOC WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convierta XLTX a POWERPOINT a través de C# o aplicación en línea" h2="Exportar Excel&reg; XLTX a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convierta XLTX a POWERPOINT a través de C# o aplicación en línea" h2="Exportar Excel<sup>&reg;</sup> XLTX a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

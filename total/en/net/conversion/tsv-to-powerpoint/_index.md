@@ -11,16 +11,18 @@ otherformats: PPTX WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to POWERPOINT via C# or Online App" h2="Export Excel&reg; TSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> TSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert a TSV file to a PowerPoint file. Perhaps you have a TSV file that contains data that you want to present in a more visually appealing way, or you may need to convert a TSV file to PowerPoint in order to open it in a program that does not support TSV files. Whatever the reason, Aspose.Total for .NET API makes it easy to convert TSV files to PowerPoint files.<br />
 
 Aspose.Total for .NET API is a comprehensive suite of .NET components that provide a wide range of functionality, including the ability to convert TSV files to PowerPoint files. With Aspose.Total for .NET API, you can easily convert TSV files to PowerPoint files with just a few lines of code. In addition, Aspose.Total for .NET API supports a wide range of other file formats, making it easy to convert files to the format that you need.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert TSV to POWERPOINT?" %}}

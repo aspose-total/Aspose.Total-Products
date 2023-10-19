@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to OTT via C# or Online App" h2="Export Excel&reg; CSV to OTT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to OTT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to OTT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular because they are easy to create and maintain. However, they have some limitations. For example, CSV files cannot store data in a structured format. This means that data in a CSV file can be easily corrupted.<br />
 

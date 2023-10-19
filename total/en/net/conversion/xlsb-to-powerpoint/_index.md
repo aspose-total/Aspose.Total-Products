@@ -11,17 +11,19 @@ otherformats: DOC DOCX WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLSB to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSB to POWERPOINT via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSB to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert an XLSB file to a PowerPoint file. Perhaps you need to share data from an Excel spreadsheet with someone who doesn't have Excel installed, or maybe you want to create a presentation with data from an XLSB file.<br />
 
 Whatever the reason, Aspose.Total for .NET API makes it easy to convert XLSB files to PowerPoint files. With just a few lines of code, you can convert an XLSB file to a PowerPoint file in a matter of seconds.<br />
 
 Aspose.Total for .NET API is a comprehensive suite of tools for working with a variety of file formats, including Excel, PowerPoint, Word, and more. With Aspose.Total for .NET API, you can easily convert XLSB files to PowerPoint files with just a few lines of code.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

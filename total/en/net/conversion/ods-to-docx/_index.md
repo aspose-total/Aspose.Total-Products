@@ -11,10 +11,11 @@ otherformats: PPTX DOC POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert ODS to DOCX via C# or Online App" h2="Export Excel&reg; ODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert ODS to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> ODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert ODS files to DOCX. The most common reason is compatibility. ODS files are not compatible with all versions of Microsoft Word. DOCX files are. Therefore, if you need to open an ODS file in Microsoft Word, you will need to convert it to DOCX first.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert ODS files to DOCX is for editing purposes. ODS files a
 
 Aspose.Total for .NET API is a great tool for converting ODS files to DOCX. It is very easy to use and it can batch convert ODS files to DOCX.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

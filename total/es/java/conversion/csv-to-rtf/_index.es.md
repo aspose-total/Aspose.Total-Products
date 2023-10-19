@@ -10,9 +10,9 @@ outformat: RTF
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar CSV a RTF o en línea" h2="API de Java local para exportar CSV a RTF sin depender de Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar CSV a RTF o en línea" h2="API de Java local para exportar CSV a RTF sin depender de Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderizar CSV a RTF es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el Documento CSV dado a PDF, y luego usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su Documento PDF a RTF. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderizar CSV a RTF es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el Documento CSV dado a PDF, y luego usará [Aspose.PDF for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su Documento PDF a RTF. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir CSV a RTF a través de la API de Java" %}}

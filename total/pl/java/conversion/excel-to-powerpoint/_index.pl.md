@@ -10,9 +10,9 @@ outformat: POWERPOINT
 otherformats: PPTX POWERPOINTX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu EXCEL do POWERPOINT lub online" h2="On Premise Java API do eksportu EXCEL do POWERPOINT lub online bez korzystania z Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu EXCEL do POWERPOINT lub online" h2="On Premise Java API do eksportu EXCEL do POWERPOINT lub online bez korzystania z Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Renderowanie EXCEL do POWERPOINT to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument EXCEL na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na POWERPOINT. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Renderowanie EXCEL do POWERPOINT to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument EXCEL na PDF, a następnie użyjesz [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na POWERPOINT. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować EXCEL do POWERPOINT za pomocą Java API" %}}

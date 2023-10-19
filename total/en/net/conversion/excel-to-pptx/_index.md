@@ -11,15 +11,17 @@ otherformats: DOC WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to PPTX via C# or Online App" h2="Export Excel&reg; EXCEL to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> EXCEL to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert an Excel file to a PowerPoint presentation. Excel is a great tool for data analysis and manipulation, but it can be difficult to present this data in a way that is easy for others to understand. PowerPoint is a much better tool for presentations, and it is much easier to create visually appealing slideshows with PowerPoint than with Excel.<br />
 
 Aspose.Total for .NET is a great API for converting Excel files to PowerPoint presentations. This API makes it very easy to convert Excel files to PowerPoint, and it also provides a number of features that make it easy to customize the conversion process. For example, Aspose.Total for .NET allows you to specify the layout of the PowerPoint presentation, and it also allows you to specify how the data from the Excel file should be mapped to the PowerPoint slides.
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

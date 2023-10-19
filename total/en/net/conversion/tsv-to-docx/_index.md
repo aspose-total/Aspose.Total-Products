@@ -11,10 +11,11 @@ otherformats: PPTX WORD POWERPOINT DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to DOCX via C# or Online App" h2="Export Excel&reg; TSV to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> TSV to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert TSV files to DOCX files. The most common reason is to create a document that can be edited in a word processor such as Microsoft Word. DOCX files are also easier to share than TSV files.<br />
 
@@ -22,7 +23,8 @@ Aspose.Total for .NET API is a powerful tool that can easily convert TSV files t
 
 The Aspose.Total for .NET API is easy to use. Simply specify the input TSV file and the output DOCX file. The API will take care of the rest.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

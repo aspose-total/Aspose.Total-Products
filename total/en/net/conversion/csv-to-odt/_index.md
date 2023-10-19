@@ -11,10 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to ODT via C# or Online App" h2="Export Excel&reg; CSV to ODT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to ODT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to ODT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are a number of reasons why you might want to convert a CSV file to an ODT file. One reason is that ODT files are easier to work with in some applications than CSV files. For example, if you want to open a CSV file in a word processor, you will likely have to do some manual reformatting to get the data to look the way you want it to. With an ODT file, on the other hand, you can open it directly in the word processor and the data will be formatted correctly.<br />
 
@@ -22,7 +23,8 @@ Another reason to convert a CSV file to an ODT file is that ODT files are more c
 
 Finally, Aspose.Total for .NET API makes it easy to convert CSV files to ODT files. With just a few lines of code, you can quickly and easily convert your CSV files to ODT files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

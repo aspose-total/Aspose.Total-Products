@@ -11,10 +11,11 @@ otherformats: DOCX POWERPOINT WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to PPTX via C# or Online App" h2="Export Excel&reg; XLTM to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to PPTX via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTM to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 XLTM is an XML-based file format used by Microsoft Office for storing spreadsheet templates. PPTX is the default file format for Microsoft PowerPoint presentations.<br />
 
@@ -30,7 +31,8 @@ There are several reasons why you might want to convert an XLTM file to PPTX:<br
 
 Aspose.Total for .NET API is a comprehensive suite of file format APIs for manipulating a wide range of file formats, including XLTM and PPTX. The API supports conversion between many different file formats, making it easy to convert an XLTM file to PPTX.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

@@ -11,10 +11,11 @@ otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POT via C# or Online App" h2="Export Excel&reg; CSV to POT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to POT via C# or Online App" h2="Export Excel<sup>&reg;</sup> CSV to POT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 CSV files are very popular because they are easy to create and maintain. However, they have some limitations. For example, they cannot store formatting information.
 
@@ -34,7 +35,8 @@ Here are some reasons why you might want to convert CSV files to POT files:<br /
 
 5. To make it easier to share the file with others
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

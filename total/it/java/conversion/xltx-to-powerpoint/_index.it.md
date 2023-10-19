@@ -10,9 +10,9 @@ outformat: POWERPOINT
 otherformats: POWERPOINT PPTX WORD POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLTX in POWERPOINT o in linea" h2="API Java in loco per esportare XLTX in POWERPOINT senza fare affidamento su Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLTX in POWERPOINT o in linea" h2="API Java in loco per esportare XLTX in POWERPOINT senza fare affidamento su Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Il rendering di XLTX in POWERPOINT è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLTX specificato in PDF, quindi utilizzerai [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in POWERPOINT. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
+Il rendering di XLTX in POWERPOINT è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLTX specificato in PDF, quindi utilizzerai [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in POWERPOINT. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come convertire XLTX in POWERPOINT tramite API Java" %}}

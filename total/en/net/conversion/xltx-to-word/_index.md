@@ -11,14 +11,16 @@ otherformats: PPTX POWERPOINT DOC DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to WORD via C# or Online App" h2="Export Excel&reg; XLTX to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTX to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLTX to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLTX files to WORD files. The most common reason is that WORD files are more widely accepted by employers and schools. XLTX files can be converted to WORD files using Aspose.Total for .NET API. Aspose.Total for .NET API is a powerful set of tools that can be used to convert XLTX files to WORD files. Aspose.Total for .NET API has many features that make it an ideal choice for converting XLTX files to WORD files. Aspose.Total for .NET API can convert XLTX files to WORD files in a matter of seconds. Aspose.Total for .NET API is very easy to use and it has a user-friendly interface. Aspose.Total for .NET API is a great choice for converting XLTX files to WORD files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 

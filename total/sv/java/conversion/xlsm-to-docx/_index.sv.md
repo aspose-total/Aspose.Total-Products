@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera XLSM till DOCX eller online" h2="On Premise Java API för att exportera XLSM till DOCX eller online utan att förlita sig på Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera XLSM till DOCX eller online" h2="On Premise Java API för att exportera XLSM till DOCX eller online utan att förlita sig på Microsoft Excel<sup>&reg;</sup>" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Att rendera XLSM till DOCX är en process i två steg. Du använder först [Aspose.Cells for Java](https://products.aspose.com/cells/java) API för att konvertera det givna XLSM-dokumentet till PDF och sedan genom att använda [Aspose.Pdf för Java](https://products.aspose.com/pdf/java) API kan du enkelt konvertera ditt PDF-dokument till DOCX. Båda API:erna ingår i samlingen av [Aspose.Total for Java](https://products.aspose.com/total/java/) filformatsautomatiseringsbibliotek.
 {{% /blocks/products/pf/feature-page-summary  %}}

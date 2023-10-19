@@ -11,11 +11,11 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to MOBI or Online App" h2="On Premise Java API to Export CSV to MOBI or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to MOBI or Online App" h2="On Premise Java API to Export CSV to MOBI or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to MOBI via Java API" isGrey="true" %}}
-Rendering CSV to MOBI is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given CSV document to PDF, and then by using [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to MOBI. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
+Rendering CSV to MOBI is a two step process. You’ll first use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API to convert the given CSV document to PDF, and then by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java) API, you can easily convert your PDF document to MOBI. Both APIs come under the collection of [Aspose.Total for Java](https://products.aspose.com/total/java/) file format automation libraries.
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="CSV to MOBI Conversion on Java" %}}

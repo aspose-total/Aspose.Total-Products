@@ -11,10 +11,11 @@ otherformats: DOCX POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to WORD via C# or Online App" h2="Export Excel&reg; XLSM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLSM to WORD via C# or Online App" h2="Export Excel<sup>&reg;</sup> XLSM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 There are many reasons to convert XLSM files to Word files. One reason is that Word files are easier to edit than XLSM files. Another reason is that Word files are more widely compatible with different software programs. Aspose.Total for .NET API helps to convert XLSM files to Word files by providing a number of features that make the conversion process easy and efficient.<br />
 
@@ -40,7 +41,8 @@ Some of the features that Aspose.Total for .NET API provides for converting XLSM
 
 10. The API supports the conversion of XLSM files to Word files with track changes. This means that users can choose to include track changes in the Word files that are generated from the XLSM files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert XLSM to WORD?" %}}

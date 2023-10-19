@@ -11,14 +11,16 @@ otherformats: WORD PPTX POWERPOINT DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOCX via C# or Online App" h2="Export Excel&reg; SXC to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOCX via C# or Online App" h2="Export Excel<sup>&reg;</sup> SXC to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 SXC is a file format used by OpenOffice.org Calc, an open-source spreadsheet application. DOCX is a file format used by Microsoft Word, a word processing application. There is a need to convert SXC files to DOCX files because Microsoft Word does not support the SXC file format. Aspose.Total for .NET API helps for this conversion by providing a set of classes and methods that can be used to convert SXC files to DOCX files.
 
-{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
