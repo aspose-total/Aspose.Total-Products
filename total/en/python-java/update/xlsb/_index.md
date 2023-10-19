@@ -22,7 +22,7 @@ If you're a developer looking to update XLSB files using a Python application, t
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Update XLSB File in Python" ?%}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Update XLSB File in Python?" %}}
 
 - Create new [Workbook](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) class object having the source XLSB file as parameter
 - Access of relevant Worksheet using [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) method

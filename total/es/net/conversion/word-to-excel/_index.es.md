@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: SXC ODS XLSX XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para Convertir Documentos de Word a Excel o Aplicación en Línea" Exportar Word a Excel con C# sin necesidad de Microsoft<sup>®</sup> Word ni Microsoft<sup>®</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para Convertir Documentos de Word a Excel o Aplicación en Línea" h2="Exportar Word a Excel con C# sin necesidad de Microsoft<sup>®</sup> Word ni Microsoft<sup>®</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
