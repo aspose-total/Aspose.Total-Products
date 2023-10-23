@@ -1,0 +1,139 @@
+---
+title: Visualizza il file PDF online e leggi il file PDF utilizzando Python
+description: App gratuita per la visualizzazione di file PDF online. Codice API Python per leggere il file PDF per l'applicazione visualizzatore.
+
+family: total
+platformtag: Python
+feature: Viewer
+informat: PDF
+otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM PPTM POTX POTM Excel XLS XLSX XLSM XLSB XLTX XLTM PDF Image BMP GIF JPG JPEG PNG SVG TIF TIFF
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Visualizza liberamente il file PDF online e leggi il documento tramite Python" h2="Sviluppa una potente applicazione di utilità di visualizzazione di documenti PDF basata su Python.Codice elencato per leggere il documento PDF tramite Python." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Visualizza il documento PDF tramite l'app online" %}}
+
+1. Importa il file PDF da visualizzare caricandolo.
+1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app visualizzatore.
+1. A seconda della dimensione del file PDF e della velocità di Internet, attendere alcuni secondi.
+1. Verrà automaticamente eseguito il rendering e aperto nel browser per la visualizzazione.
+1. Navigare tra le pagine in caso di documenti PDF multipagina.
+1. Imposta lo zoom in avanti o lo zoom indietro della visualizzazione della pagina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Leggi il file PDF tramite l'app Python per visualizzatore" %}}
+
+1. Includi pacchetti rilevanti all'interno del progetto direttamente da PyPI ([Aspose.PDF](https://pypi.org/project/aspose-pdf/))
+1. Crea un oggetto di classe documento e carica il file PDF di origine utilizzandolo.
+1. Estrai il testo dal PDF creando un'istanza di un oggetto TextAbsorber.
+1. Richiama il metodo accetta() per leggere l'intero testo per la tua app Viewer sviluppata.
+1. Oppure converti il file sorgente in HTML utilizzando il metodo di salvataggio della stessa API.
+1. E usa subprocess.run per richiamare il browser per visualizzare il file PDF.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/code-block title="Esempio di codice in Python per visualizzare i file PDF" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "d12fa110629fa886e47090f76be04809" "view-pdf-file.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="Codice Python per leggere documenti PDF" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "d12fa110629fa886e47090f76be04809" "read-pdf-file.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>Sviluppare l'applicazione visualizzatore di file PDF tramite Python</h2>
+
+Hai bisogno di sviluppare un'app o un'utilità per il visualizzatore PDF?Con [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/), un'API figlia di [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), qualsiasi sviluppatore Python può integrare il codice API riportato sopra all'interno della propria applicazione di visualizzazione di documenti.La potente libreria Python consente di programmare qualsiasi soluzione di visualizzazione di documenti in grado di supportare molti formati popolari, incluso il formato PDF.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Utilità Python per elaborare il file PDF per l'app di visualizzazione" %}}
+Esistono opzioni alternative per installare "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" o "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
+
+- Installa [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) da [pypi](https://pypi.org/project/aspose-pdf/)
+- Oppure utilizzare i seguenti comandi pip ```pip install aspose-pdf```.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
+
+- È installato Python 3.5 o successivo
+- Librerie runtime GCC-6 (o successive).
+- Per Python 3.5-3.7: è necessaria la build pymalloc di Python.
+<br /><br />
+Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://docs.aspose.com/pdf/python-net/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupPDFs.cloud/templates/brand/images/groupPDFs/conversion/groupPDFs_conversion-brand.png" alt="Domande frequenti" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Domande frequenti</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Posso utilizzare il codice Python sopra nella mia applicazione?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sì, puoi scaricare questo codice e utilizzarlo allo scopo di sviluppare un'applicazione di visualizzazione di documenti basata su Python.Questo codice può rappresentare una risorsa preziosa per migliorare la funzionalità e le capacità dei tuoi progetti nell'ambito dell'elaborazione dei documenti backend, come la lettura del contenuto del documento per l'app di visualizzazione.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Questa app per la visualizzazione di documenti online funziona solo su Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Hai la flessibilità di avviare la visualizzazione dei documenti su qualsiasi dispositivo, indipendentemente dal sistema operativo su cui viene eseguito, sia esso Windows, Linux, Mac OS o Android.Tutto ciò che serve è un browser web moderno e una connessione Internet attiva.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>È sicuro utilizzare l'app online per visualizzare il documento PDF?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ovviamente! I file di output generati tramite il nostro servizio verranno rimossi in modo sicuro e automatico dai nostri server entro un periodo di 24 ore.Di conseguenza, i collegamenti di visualizzazione associati a questi file cesseranno di essere funzionali dopo tale periodo.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quale browser dovrebbe utilizzare l'app?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Puoi utilizzare qualsiasi browser Web moderno come Google Chrome, Firefox, Opera o Safari per il visualizzatore di documenti PDF online.Tuttavia, se stai sviluppando un'applicazione desktop, ti consigliamo di utilizzare l'API di elaborazione dei documenti Aspose.Total per una gestione efficiente.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
