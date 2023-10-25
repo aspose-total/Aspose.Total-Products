@@ -1,6 +1,6 @@
 ---
-title: POWERPOINT'u C++ ile EXCEL'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C++'da EXCEL'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+title: PowerPoint'u C++ ile Excel'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PowerPoint'u C++'da Excel'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PowerPoint'den Excel'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,24 +10,29 @@ outformat: EXCEL
 otherformats: XLS TSV DIF CSV XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHTML ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u C++ ile EXCEL'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POWERPOINT'tan EXCEL Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="PowerPoint'u C++ ile Excel'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla PowerPoint'tan Excel Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda POWERPOINT dosyasını C++ uygulamaları içinde EXCEL'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak POWERPOINT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi EXCEL'ye dönüştürebilirsiniz. 
+
+<h2 class="heading-border">PowerPoint dosyalarının C++ aracılığıyla Excel formatına dönüştürülmesinin faydaları nelerdir?</h2>
+
+PowerPoint dosyalarının C++ aracılığıyla Excel formatına dönüştürülmesinin faydaları şunlar olabilir: Öncelikle, bu işlem PowerPoint sunumundan verileri Excel'de analiz etmek ve hesaplamak için kolay bir formata dönüştürmeyi sağlar. İkincisi, diğer kişilerle veri paylaşma ve sunma olasılığını artırır, çünkü Excel, bu amaçla yaygın olarak kullanılan bir araçtır. Ayrıca, PowerPoint'teki orijinal verilerden kolayca raporlar, grafikler ve şemalar oluşturmanıza yardımcı olur. Son olarak, C++ aracılığıyla Excel'e dönüştürme, projelerin veya planların verilerini daha verimli bir şekilde gözden geçirmenize yardımcı olabilecek uygun bir saklama ve yönetim ortamı sağlayabilir.
+
+<h2 class="heading-border">Aspose.Total, PowerPoint'i Excel'e dönüştürmede nasıl yardımcı olabilir?</h2>
+
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda PowerPoint dosyasını C++ uygulamaları içinde Excel'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak PowerPoint'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi Excel'ye dönüştürebilirsiniz. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ ile POWERPOINT'u EXCEL'ye Dönüştürme" %}}
-1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak POWERPOINT dosyasını açın
-2. [Kaydet](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) yöntemini kullanarak POWERPOINT'u HTML'ye dönüştürün
+{{% blocks/products/pf/agp/feature-section-col title="C++ ile PowerPoint'u Excel'ye Dönüştürme" %}}
+1. [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıf referansını kullanarak PowerPoint dosyasını açın
+2. [Kaydet](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) yöntemini kullanarak PowerPoint'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin
-4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) yöntemini kullanarak belgeyi EXCEL biçiminde kaydedin
+4. [Kaydet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) yöntemini kullanarak belgeyi Excel biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Total.Cpp``` ile yükleyin.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](https://releases.aspose.com/total/cpp) adresinden bir ZIP dosyasında alın.
+{{% blocks/products/pf/agp/feature-section-col title="PowerPoint'ten Excel'e Dönüştürme Gereksinimleri" %}}
+Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Total.Cpp``` ile yükleyin. Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](https://releases.aspose.com/total/cpp) adresinden bir ZIP dosyasında alın.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
@@ -43,15 +48,15 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>POWERPOINT'den EXCEL'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
+<h3>PowerPoint'den Excel'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
 <iframe title="pptx'dan xlsx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Korumalı POWERPOINT'u C++ aracılığıyla EXCEL'ye dönüştürün" %}}
-API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş POWERPOINT belgeniz parola korumalıysa, parolayı kullanmadan EXCEL'ye dönüştüremezsiniz. Belgeniz parola korumalı olduğunda, sunum üzerinde belirli kısıtlamalar uyguladığı anlamına gelir. Kısıtlamaları kaldırmak için şifre girilmelidir. Parola korumalı bir sunu, kilitli bir sunu olarak kabul edilir. API, bir LoadOptions nesnesinde doğru parolayı ileterek şifrelenmiş belgeyi açmanıza olanak tanır. Aşağıdaki kod örneği, şifreli bir belgenin parola ile nasıl açılacağını gösterir.
+{{% blocks/products/pf/feature-page-section  h2="Korumalı PowerPoint'u C++ aracılığıyla Excel'ye dönüştürün" %}}
+API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PowerPoint belgeniz parola korumalıysa, parolayı kullanmadan Excel'ye dönüştüremezsiniz. Belgeniz parola korumalı olduğunda, sunum üzerinde belirli kısıtlamalar uyguladığı anlamına gelir. Kısıtlamaları kaldırmak için şifre girilmelidir. Parola korumalı bir sunu, kilitli bir sunu olarak kabul edilir. API, bir LoadOptions nesnesinde doğru parolayı ileterek şifrelenmiş belgeyi açmanıza olanak tanır. Aşağıdaki kod örneği, şifreli bir belgenin parola ile nasıl açılacağını gösterir.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
@@ -72,34 +77,34 @@ API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş POWERPOINT 
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>POWERPOINT'yi Çevrimiçi EXCEL'e nasıl dönüştürebilirim?</b></span>
+                          <span itemprop="name"><b>PowerPoint'yi Çevrimiçi Excel'e nasıl dönüştürebilirim?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Çevrimiçi POWERPOINT dönüştürme uygulaması yukarıda yer almaktadır. Dönüştürme işlemine başlamak için, POWERPOINT dosyanızı beyaz alana sürükleyip bırakarak veya belgeyi içe aktarmak için alanın içine tıklayarak ekleyebilirsiniz. Ardından, "Dönüştür" düğmesini tıklayın. POWERPOINT'den EXCEL'e dönüştürme işlemi tamamlandıktan sonra, dönüştürülen dosyanızı tek bir tıklamayla indirebilirsiniz.</span>
+                          <span itemprop="text">Çevrimiçi PowerPoint dönüştürme uygulaması yukarıda yer almaktadır. Dönüştürme işlemine başlamak için, PowerPoint dosyanızı beyaz alana sürükleyip bırakarak veya belgeyi içe aktarmak için alanın içine tıklayarak ekleyebilirsiniz. Ardından, "Dönüştür" düğmesini tıklayın. PowerPoint'den Excel'e dönüştürme işlemi tamamlandıktan sonra, dönüştürülen dosyanızı tek bir tıklamayla indirebilirsiniz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>POWERPOINT'yi dönüştürmek ne kadar sürer?</b></span>
+                          <span itemprop="name"><b>PowerPoint'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan POWERPOINT dosyasının boyutuna bağlıdır. Daha küçük POWERPOINT dosyaları sadece birkaç saniye içinde EXCEL'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PowerPoint dosyasının boyutuna bağlıdır. Daha küçük PowerPoint dosyaları sadece birkaç saniye içinde Excel'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Ücretsiz Aspose.Total dönüştürücü kullanarak POWERPOINT'yi EXCEL'e dönüştürmek güvenli midir?</b></span>
+                          <span itemprop="name"><b>Ücretsiz Aspose.Total dönüştürücü kullanarak PowerPoint'yi Excel'e dönüştürmek güvenli midir?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Elbette! EXCEL dosyalarının indirme bağlantısı, dönüştürmeden hemen sonra kullanılabilir olacaktır. Yüklenen dosyaları 24 saat sonra siliyoruz ve indirme bağlantıları bu süre sonunda çalışmayı durduracak. Kimsenin dosyalarınıza erişimi yok. Dosya dönüştürme (POWERPOINT dahil) kesinlikle güvenlidir. Temel olarak ücretsiz uygulama, kodu entegre etmeden önce sonucu kontrol edebilmeniz için test amacıyla entegre edilmiştir.</span>
+                          <span itemprop="text">Elbette! Excel dosyalarının indirme bağlantısı, dönüştürmeden hemen sonra kullanılabilir olacaktır. Yüklenen dosyaları 24 saat sonra siliyoruz ve indirme bağlantıları bu süre sonunda çalışmayı durduracak. Kimsenin dosyalarınıza erişimi yok. Dosya dönüştürme (PowerPoint dahil) kesinlikle güvenlidir. Temel olarak ücretsiz uygulama, kodu entegre etmeden önce sonucu kontrol edebilmeniz için test amacıyla entegre edilmiştir.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>POWERPOINT'yi dönüştürmek için hangi tarayıcıyı kullanmalıyım?</b></span>
+                          <span itemprop="name"><b>PowerPoint'yi dönüştürmek için hangi tarayıcıyı kullanmalıyım?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüşüm için herhangi bir modern tarayıcıyı kullanabilirsiniz, örneğin Google Chrome, Firefox, Opera, Safari. Ancak bir Masaüstü uygulaması geliştiriyorsanız. Aspose.Total POWERPOINT Conversion API sorunsuz çalışacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüşüm için herhangi bir modern tarayıcıyı kullanabilirsiniz, örneğin Google Chrome, Firefox, Opera, Safari. Ancak bir Masaüstü uygulaması geliştiriyorsanız. Aspose.Total PowerPoint Conversion API sorunsuz çalışacaktır.</span>
                       </div>
                   </li>
               </ul>

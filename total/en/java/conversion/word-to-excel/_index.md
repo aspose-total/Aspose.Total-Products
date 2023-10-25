@@ -31,8 +31,8 @@ You can converting Word to Excel via [Aspose.Total for Java](https://products.as
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="What you need to Word to Excel Conversion?" %}}
-You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java)
+{{% blocks/products/pf/agp/feature-section-col title="Requirements for Word to Excel Conversion" %}}
+Use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}

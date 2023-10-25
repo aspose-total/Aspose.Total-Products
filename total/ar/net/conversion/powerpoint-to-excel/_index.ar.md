@@ -1,33 +1,37 @@
 ---
-title: تحويل POWERPOINT إلى EXCEL عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل POWERPOINT إلى EXCEL في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POWERPOINT إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PowerPoint إلى Excel عبر C# أو التطبيق عبر الإنترنت
+description: قم بتحويل PowerPoint إلى Excel في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول PowerPoint إلى Excel على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/powerpoint-to-excel/
 family: total
 platformtag: net
 feature: conversion
 informat: POWERPOINT
 outformat: EXCEL
-otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHTML ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
+otherformats: XLS TSV DIF Excel XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHTML ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POWERPOINT إلى EXCEL عبر C# أو التطبيق عبر الإنترنت" h2="NET API لتحويل POWERPOINT إلى EXCEL بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PowerPoint إلى Excel عبر C# أو التطبيق عبر الإنترنت" h2="NET API لتحويل PowerPoint إلى Excel بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك تحويل ملف POWERPOINT إلى EXCEL ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تصدير POWERPOINT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى EXCEL.
+
+<h2 class="heading-border">ما هي فوائد تحويل ملفات PowerPoint إلى صيغة Excel عبر .NET؟</h2>
+تحويل ملفات PowerPoint إلى صيغة Excel عبر .NET يأتي بالعديد من الفوائد الهامة. أولًا، يسمح هذا بتحويل البيانات من عروض PowerPoint إلى صيغة سهلة لتنفيذ التحليل والحساب في Excel. ثانيًا، يساعد في تحسين إمكانية مشاركة وتقديم البيانات للآخرين، حيث يعتبر Excel أداة شائعة لهذا الغرض. كما يساعد أيضًا في إنشاء تقارير ورسوم بيانية بسهولة من البيانات الأصلية في PowerPoint. وأخيرًا، تحويل البيانات إلى Excel عبر .NET يمكن أن يوفر ظروفًا ملائمة لتخزين وإدارة بيانات المشروع أو الخطة، مما يساعد في تصفح البيانات بكفاءة أكبر.
+
+<h2 class="heading-border">كيف يمكن لـ Aspose.Total المساعدة في تحويل من PowerPoint إلى Excel؟</h2>
+
+باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك تحويل ملف PowerPoint إلى Excel ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تصدير PowerPoint إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى Excel.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POWERPOINT إلى EXCEL عبر C# أو التطبيق عبر الإنترنت" %}}
-1. افتح ملف POWERPOINT باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. تصدير POWERPOINT بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PowerPoint إلى Excel عبر C# أو التطبيق عبر الإنترنت" %}}
+1. افتح ملف PowerPoint باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. تصدير PowerPoint بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند في ملف EXCEL باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+4. احفظ المستند في ملف Excel باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
-
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://releases.aspose.com/total/net).
+قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``. بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
@@ -43,15 +47,15 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>محول مجاني على الإنترنت لـ POWERPOINT إلى EXCEL</h3>
+<h3>محول مجاني على الإنترنت لـ PowerPoint إلى Excel</h3>
 
 <iframe title="xlsx to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية POWERPOINT إلى EXCEL عبر C#" %}}
-أثناء تحويل ملف POWERPOINT إلى EXCEL ، إذا كان مستند POWERPOINT الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى EXCEL بدون فك تشفير المستند. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مغلقًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions.  
+{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية PowerPoint إلى Excel عبر C#" %}}
+أثناء تحويل ملف PowerPoint إلى Excel ، إذا كان مستند PowerPoint الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى Excel بدون فك تشفير المستند. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مغلقًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
@@ -59,8 +63,8 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل POWERPOINT إلى EXCEL مع علامة مائية عبر C#" %}}
-أثناء تحويل ملف POWERPOINT إلى EXCEL ، يمكنك أيضًا إضافة علامة مائية إلى تنسيق ملف EXCEL الناتج. لإضافة علامة مائية ، يمكنك إنشاء كائن مصنف جديد وفتح مستند HTML المحول ، وتحديد ورقة العمل عبر الفهرس الخاص به ، وإنشاء شكل واستخدام وظيفة AddTextEffect الخاصة به. بعد ذلك يمكنك حفظ مستند HTML كملف EXCEL مع علامة مائية. 
+{{% blocks/products/pf/feature-page-section  h2="تحويل PowerPoint إلى Excel مع علامة مائية عبر C#" %}}
+أثناء تحويل ملف PowerPoint إلى Excel ، يمكنك أيضًا إضافة علامة مائية إلى تنسيق ملف Excel الناتج. لإضافة علامة مائية ، يمكنك إنشاء كائن مصنف جديد وفتح مستند HTML المحول ، وتحديد ورقة العمل عبر الفهرس الخاص به ، وإنشاء شكل واستخدام وظيفة AddTextEffect الخاصة به. بعد ذلك يمكنك حفظ مستند HTML كملف Excel مع علامة مائية. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
@@ -81,10 +85,10 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كيف يمكنني تحويل POWERPOINT إلى EXCEL Online؟</b></span>
+                          <span itemprop="name"><b>كيف يمكنني تحويل PowerPoint إلى Excel Online؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل POWERPOINT أعلاه. لبدء عملية تحويل POWERPOINT إلى EXCEL ، ما عليك سوى إضافة ملف POWERPOINT إما عن طريق سحبه وإفلاته في المنطقة المخصصة أو النقر فوقه لاستيراد المستند. بعد ذلك ، انقر فوق الزر "تحويل". بمجرد اكتمال تحويل POWERPOINT إلى EXCEL ، يمكنك تنزيل الملف المحول. بنقرة واحدة فقط ، ستتلقى ملفات EXCEL الخاصة بك.</span>
+                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل PowerPoint أعلاه. لبدء عملية تحويل PowerPoint إلى Excel ، ما عليك سوى إضافة ملف PowerPoint إما عن طريق سحبه وإفلاته في المنطقة المخصصة أو النقر فوقه لاستيراد المستند. بعد ذلك ، انقر فوق الزر "تحويل". بمجرد اكتمال تحويل PowerPoint إلى Excel ، يمكنك تنزيل الملف المحول. بنقرة واحدة فقط ، ستتلقى ملفات Excel الخاصة بك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -92,15 +96,15 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل POWERPOINT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POWERPOINT. إذا كان ملف POWERPOINT صغير الحجم ، فيمكن إتمام التحويل إلى EXCEL في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف PowerPoint. إذا كان ملف PowerPoint صغير الحجم ، فيمكن إتمام التحويل إلى Excel في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>هل من الآمن تحويل POWERPOINT إلى EXCEL باستخدام محول Aspose.Total المجاني؟</b></span>
+                          <span itemprop="name"><b>هل من الآمن تحويل PowerPoint إلى Excel باستخدام محول Aspose.Total المجاني؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">بالطبع! بمجرد اكتمال تحويل POWERPOINT إلى EXCEL ، سيكون لديك وصول فوري إلى رابط التنزيل لملفات EXCEL المحولة. يرجى ملاحظة أننا نحذف تلقائيًا أي ملفات تم تحميلها بعد 24 ساعة ، ولن تكون روابط التنزيل نشطة بعد هذه الفترة الزمنية. ملفاتك آمنة وخصوصية تمامًا ، حيث لا يمكن لأي شخص آخر الوصول إليها. عملية تحويل الملف ، بما في ذلك تحويل POWERPOINT ، آمنة تمامًا للاستخدام. نحن نقدم هذا التطبيق المجاني في المقام الأول لأغراض الاختبار حتى تتمكن من تقييم النتائج قبل دمج الكود.</span>
+                          <span itemprop="text">بالطبع! بمجرد اكتمال تحويل PowerPoint إلى Excel ، سيكون لديك وصول فوري إلى رابط التنزيل لملفات Excel المحولة. يرجى ملاحظة أننا نحذف تلقائيًا أي ملفات تم تحميلها بعد 24 ساعة ، ولن تكون روابط التنزيل نشطة بعد هذه الفترة الزمنية. ملفاتك آمنة وخصوصية تمامًا ، حيث لا يمكن لأي شخص آخر الوصول إليها. عملية تحويل الملف ، بما في ذلك تحويل PowerPoint ، آمنة تمامًا للاستخدام. نحن نقدم هذا التطبيق المجاني في المقام الأول لأغراض الاختبار حتى تتمكن من تقييم النتائج قبل دمج الكود.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -108,7 +112,7 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
                           <span itemprop="name"><b>ما المتصفح الذي يجب أن أستخدمه لتحويل POWERPOINT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تتوافق أداة التحويل عبر الإنترنت هذه مع أي متصفح حديث ، مثل Google Chrome أو Firefox أو Opera أو Safari. ومع ذلك ، إذا كنت تقوم بتطوير تطبيق سطح مكتب ، فإن Aspose.Total POWERPOINT Conversion API هو خيار موثوق به لتحقيق تكامل سلس.</span>
+                          <span itemprop="text">تتوافق أداة التحويل عبر الإنترنت هذه مع أي متصفح حديث ، مثل Google Chrome أو Firefox أو Opera أو Safari. ومع ذلك ، إذا كنت تقوم بتطوير تطبيق سطح مكتب ، فإن Aspose.Total PowerPoint Conversion API هو خيار موثوق به لتحقيق تكامل سلس.</span>
                       </div>
                   </li>
               </ul>
