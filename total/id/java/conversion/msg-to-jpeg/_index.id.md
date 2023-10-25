@@ -16,8 +16,8 @@ Konversi msg adalah fitur canggih yang dapat diintegrasikan oleh pengembang Java
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi MSG ke JPEG" %}}
-1. Buka file MSG menggunakan kelas [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Konversi MSG ke HTML dengan menggunakan [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metode
+1. Buka file MSG menggunakan kelas [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konversi MSG ke HTML dengan menggunakan [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metode
 3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format JPEG menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur JPEG sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

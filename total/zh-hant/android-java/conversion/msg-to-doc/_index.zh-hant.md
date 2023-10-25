@@ -18,8 +18,8 @@ Andorid 應用程序易於終端用戶日常使用。 Andorid 手機用戶的數
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="在 Andorid 中將 MSG 轉換為 DOC" %}}
-1. 使用 [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) 類打開 MSG 文件
-2. 使用 [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 將 MSG 轉換為 HTML )) 方法
+1. 使用 [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) 類打開 MSG 文件
+2. 使用 [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 將 MSG 轉換為 HTML )) 方法
 3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類加載 HTML
 4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) 將文檔保存為 DOC 格式)) 方法並將 DOC 設置為 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

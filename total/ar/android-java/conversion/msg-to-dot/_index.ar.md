@@ -18,8 +18,8 @@ otherformats: TIFF PDF DOCX TEXT WORDML SVG DOC GIF DOTX BMP DOTM EMF EPUB PS FL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="تحويل MSG إلى DOT في Andorid" %}}
-1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.msg.SaveOptions )) طريقة
+1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪ 20com.aspose.msg.SaveOptions )) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق DOT باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String،com.aspose.words.SaveOptions)) وضبط DOT على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

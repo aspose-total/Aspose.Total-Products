@@ -16,8 +16,8 @@ Konwersja wiadomości e-mail to potężna funkcja, którą programiści Java mog
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować MSG na GIF" %}}
-1. Otwórz plik MSG za pomocą klasy [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Przekonwertuj MSG na HTML, używając [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
+1. Otwórz plik MSG za pomocą klasy [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Przekonwertuj MSG na HTML, używając [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Zapisz dokument w formacie GIF za pomocą [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metodę i ustaw GIF jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

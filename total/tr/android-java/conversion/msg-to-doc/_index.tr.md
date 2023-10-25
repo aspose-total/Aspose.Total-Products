@@ -18,8 +18,8 @@ Andorid Apps, son kullanıcılar için günlük bazda kullanımı kolaydır. Gü
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSG'i Andorid'de DOC'ye Dönüştür" %}}
-1. [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) sınıfını kullanarak MSG dosyasını açın
-2. [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) kullanarak MSG'i HTML'ye dönüştürün )) yöntem
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) sınıfını kullanarak MSG dosyasını açın
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) kullanarak MSG'i HTML'ye dönüştürün )) yöntem
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak HTML yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak DOC biçiminde kaydedin )) yöntemi ve DOC'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}

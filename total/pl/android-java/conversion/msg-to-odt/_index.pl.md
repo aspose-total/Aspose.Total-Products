@@ -18,8 +18,8 @@ Aplikacje Andorid są łatwe w użyciu dla użytkowników końcowych na co dzie�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwertuj MSG na ODT w Andorid" %}}
-1. Otwórz plik MSG za pomocą klasy [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Przekonwertuj MSG na HTML, używając [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) )) metoda
+1. Otwórz plik MSG za pomocą klasy [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Przekonwertuj MSG na HTML, używając [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) )) metoda
 3. Załaduj HTML za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Zapisz dokument w formacie ODT za pomocą [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) i ustaw ODT jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -18,8 +18,8 @@ Andorid ऐप्स दैनिक आधार पर अंतिम उप�
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Andorid में MSG को OTT में बदलें" %}}
-1. [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) वर्ग का उपयोग करके MSG फ़ाइल खोलें
-2. [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) का उपयोग करके MSG को HTML में बदलें )) तरीका
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) वर्ग का उपयोग करके MSG फ़ाइल खोलें
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) का उपयोग करके MSG को HTML में बदलें )) तरीका
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) वर्ग का उपयोग करके HTML लोड करें
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) का उपयोग करके दस्तावेज़ को OTT प्रारूप में सहेजें )) विधि और बीएमपी को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}

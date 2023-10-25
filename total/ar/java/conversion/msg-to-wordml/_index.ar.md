@@ -16,8 +16,8 @@ otherformats: DOCX DOTM EMF PCL PS JPEG DOC EPUB OTT TIFF PDF TEXT DOT XPS DOTX 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى WORDML" %}}
-1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream،٪20com.aspose.msg.SaveOptions)) طريقة
+1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.msg.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق WORDML باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط WORDML على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

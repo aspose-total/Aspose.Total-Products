@@ -16,8 +16,8 @@ otherformats: DOCX PCL TIFF DOTX PS GIF DOCM DOTM OTT JPEG WORDML ODT PNG MD TEX
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το MSG σε EPUB" %}}
-1. Ανοίξτε το αρχείο MSG χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Μετατρέψτε το MSG σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) μέθοδος
+1. Ανοίξτε το αρχείο MSG χρησιμοποιώντας την τάξη [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Μετατρέψτε το MSG σε HTML χρησιμοποιώντας [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) μέθοδος
 3. Φορτώστε το HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Αποθηκεύστε το έγγραφο σε μορφή EPUB χρησιμοποιώντας [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) και ορίστε το EPUB ως SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

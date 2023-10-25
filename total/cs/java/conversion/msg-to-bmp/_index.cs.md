@@ -16,8 +16,8 @@ E-mailová konverze je výkonná funkce, kterou mohou vývojáři Java integrova
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak převést MSG na BMP" %}}
-1. Otevřete soubor MSG pomocí třídy [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Převeďte MSG na HTML pomocí [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
+1. Otevřete soubor MSG pomocí třídy [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Převeďte MSG na HTML pomocí [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metoda
 3. Načtěte HTML pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Uložte dokument do formátu BMP pomocí [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) a nastavte BMP jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

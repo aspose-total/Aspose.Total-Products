@@ -18,8 +18,8 @@ Andorid 앱은 일상적인 최종 사용자가 사용하기 쉽습니다. Andor
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Andorid에서 MSG을 PDF로 변환" %}}
-1. [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) 클래스를 사용하여 MSG 파일을 엽니다.
-2. [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)을 사용하여 MSG을 HTML로 변환합니다. )) 방법
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) 클래스를 사용하여 MSG 파일을 엽니다.
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)을 사용하여 MSG을 HTML로 변환합니다. )) 방법
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 HTML 로드
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))을 사용하여 문서를 PDF 형식으로 저장합니다. )) 메서드 및 PDF를 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}

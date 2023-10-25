@@ -16,8 +16,8 @@ E-postkonvertering är en kraftfull funktion som Java-utvecklare kan integrera i
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man konverterar MSG till DOC" %}}
-1. Öppna MSG-filen med klassen [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Konvertera MSG till HTML genom att använda [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metod
+1. Öppna MSG-filen med klassen [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konvertera MSG till HTML genom att använda [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) metod
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Spara dokumentet i DOC-format med [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) och ställ in DOC som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

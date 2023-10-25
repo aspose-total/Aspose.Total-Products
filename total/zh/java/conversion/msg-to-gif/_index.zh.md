@@ -16,8 +16,8 @@ otherformats: JPEG GIF EMF XPS DOCX MD OTT EPUB PNG SVG PS DOT PDF TEXT WORDML R
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何将 MSG 转换为 GIF" %}}
-1. 使用 [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) 类打开 MSG 文件
-2. 使用 [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 将 MSG 转换为 HTML)) 方法
+1. 使用 [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) 类打开 MSG 文件
+2. 使用 [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) 将 MSG 转换为 HTML)) 方法
 3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类加载 HTML
 4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将文档保存为 GIF 格式)) 方法并将 GIF 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

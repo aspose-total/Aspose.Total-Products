@@ -16,8 +16,8 @@ otherformats: MD RTF GIF DOTX FLATOPC PS DOCX TEXT XPS WORDML EMF DOCM PCL SVG E
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง MSG เป็น MD" %}}
-1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. แปลง MSG เป็น HTML โดยใช้ [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) กระบวนการ
+1. เปิดไฟล์ MSG โดยใช้คลาส [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. แปลง MSG เป็น HTML โดยใช้ [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) กระบวนการ
 3. โหลด HTML โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. บันทึกเอกสารในรูปแบบ MD โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) วิธีการและตั้งค่า MD เป็น SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

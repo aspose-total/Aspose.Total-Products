@@ -18,8 +18,8 @@ Aplikasi Andorid mudah digunakan untuk pengguna akhir setiap hari. Hari demi har
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Mengonversi MSG ke GIF di Andorid" %}}
-1. Buka file MSG menggunakan kelas [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Konversi MSG ke HTML dengan menggunakan [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions )) metode
+1. Buka file MSG menggunakan kelas [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Konversi MSG ke HTML dengan menggunakan [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions )) metode
 3. Muat HTML dengan menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Simpan dokumen ke format GIF menggunakan [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metode dan atur GIF sebagai SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

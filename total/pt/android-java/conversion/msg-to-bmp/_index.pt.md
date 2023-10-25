@@ -18,8 +18,8 @@ Os aplicativos Andorid são fáceis de usar para usuários finais diariamente. D
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converter MSG para BMP em Andorid" %}}
-1. Abra o arquivo MSG usando a classe [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Converta MSG para HTML usando [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions )) método
+1. Abra o arquivo MSG usando a classe [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Converta MSG para HTML usando [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions )) método
 3. Carregue HTML usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Salve o documento no formato BMP usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) e defina BMP como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

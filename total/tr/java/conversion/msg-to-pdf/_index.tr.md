@@ -16,8 +16,8 @@ E-posta dönüştürme, Java geliştiricilerinin [Aspose.Total for Java](https:/
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSG'i PDF'ye Dönüştürme" %}}
-1. [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) sınıfını kullanarak MSG dosyasını açın
-2. [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) kullanarak MSG'i HTML'ye dönüştürün)) yöntem
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) sınıfını kullanarak MSG dosyasını açın
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) kullanarak MSG'i HTML'ye dönüştürün)) yöntem
 3. HTML'yi [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak belgeyi PDF biçiminde kaydedin)) yöntemi ve PDF'yi SaveFormat olarak ayarlayın
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,8 +16,8 @@ La conversión de correo electrónico es una característica poderosa que los de
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cómo convertir correo electrónico a DOT" %}}
-1. Abra el archivo MSG usando la clase [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Convierta CORREO ELECTRÓNICO a HTML usando [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) método
+1. Abra el archivo MSG usando la clase [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Convierta CORREO ELECTRÓNICO a HTML usando [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) método
 3. Cargue HTML usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Guarde el documento en formato DOT utilizando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método y establecer DOT como SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

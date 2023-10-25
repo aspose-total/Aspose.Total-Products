@@ -16,8 +16,8 @@ otherformats: FLATOPC DOTX PCL DOC EPUB PS RTF GIF TIFF EMF DOT ODT PDF XPS TEXT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="メールをDOCMに変換する方法" %}}
-1. [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)クラスを使用してMSGファイルを開きます
-2. [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)を使用してMSGをHTMLに変換します)) 方法
+1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)クラスを使用してMSGファイルを開きます
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)を使用してMSGをHTMLに変換します)) 方法
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してHTMLをロードします
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをDOCM形式で保存します))メソッドとDOCMをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}

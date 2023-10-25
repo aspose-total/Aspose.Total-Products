@@ -18,8 +18,8 @@ otherformats: TIFF PDF DOCX TEXT WORDML SVG DOC GIF DOTX BMP DOTM EMF EPUB PS FL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Конвертировать MSG в DOT в Andorid" %}}
-1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage).
-2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions). )) метод
+1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions). )) метод
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате DOT, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) и установите DOT как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

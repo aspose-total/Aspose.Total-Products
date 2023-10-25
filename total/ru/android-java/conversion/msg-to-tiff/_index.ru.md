@@ -18,8 +18,8 @@ otherformats: SVG DOT OTT WORDML PDF GIF DOCM DOTX PCL BMP MD PS ODT XPS PNG DOC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Конвертировать MSG в TIFF в Andorid" %}}
-1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage).
-2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions). )) метод
+1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions). )) метод
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате TIFF, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions). )) и установите TIFF как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

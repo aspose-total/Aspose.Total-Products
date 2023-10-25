@@ -16,8 +16,8 @@ otherformats: DOTX TIFF PNG OTT DOTM PS DOC EPUB WORDML SVG PDF DOCM MD XPS RTF 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как конвертировать MSG в PNG" %}}
-1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage).
-2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions).)) метод
+1. Откройте файл MSG с помощью класса [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Преобразуйте MSG в HTML, используя [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions).)) метод
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 4. Сохраните документ в формате PNG, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите PNG как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

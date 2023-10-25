@@ -18,8 +18,8 @@ Az Andorid Apps a végfelhasználók számára napi szinten könnyen használhat
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Az MSG konvertálása PCL-re az Andoridban" %}}
-1. Nyissa meg az MSG fájlt a [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage) osztály használatával
-2. Alakítsa át az MSG-címet HTML-vé a [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) segítségével )) módszer
+1. Nyissa meg az MSG fájlt a [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) osztály használatával
+2. Alakítsa át az MSG-címet HTML-vé a [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) segítségével )) módszer
 3. Töltse be a HTML-t a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
 4. Mentse a dokumentumot PCL formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) segítségével metódust, és állítsa be a PCL-t SaveFormat-ként
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -16,8 +16,8 @@ otherformats: DOCX PS DOC SVG JPEG DOTX ODT EPUB EMF PDF DOCM PCL DOT OTT WORDML
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل البريد الإلكتروني إلى OTT" %}}
-1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream،٪20com.aspose.msg.SaveOptions)) طريقة
+1. افتح ملف MSG باستخدام فئة [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. تحويل MSG إلى HTML باستخدام [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream،٪20com.aspose.msg.SaveOptions)) طريقة
 3. قم بتحميل HTML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. احفظ المستند بتنسيق OTT باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save (java.lang.String، com.aspose.words.SaveOptions)) وضبط OTT على أنه SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

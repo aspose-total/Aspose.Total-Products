@@ -16,8 +16,8 @@ Die E-Mail-Konvertierung ist eine leistungsstarke Funktion, die Java-Entwickler 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie E-MAIL in XPS" %}}
-1. Öffnen Sie die MSG-Datei mit der Klasse [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage).
-2. Konvertieren Sie E-MAIL in HTML, indem Sie [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) Methode
+1. Öffnen Sie die MSG-Datei mit der Klasse [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage).
+2. Konvertieren Sie E-MAIL in HTML, indem Sie [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) Methode
 3. Laden Sie HTML mithilfe der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 4. Speichern Sie das Dokument im XPS-Format mit [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode und legen Sie XPS als SaveFormat fest
 {{% /blocks/products/pf/agp/feature-section-col %}}

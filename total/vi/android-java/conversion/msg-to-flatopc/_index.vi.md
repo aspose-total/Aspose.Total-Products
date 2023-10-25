@@ -18,8 +18,8 @@ otherformats: DOC DOT TIFF EPUB PS EMF WORDML JPEG DOCM PDF OTT DOCX SVG PNG TEX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi MSG sang FLATOPC trong Andorid" %}}
-1. Mở tệp MSG bằng lớp [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Chuyển đổi MSG sang HTML bằng cách sử dụng [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save (java.io.OutputStream,% 20com.aspose.msg.SaveOptions )) phương pháp
+1. Mở tệp MSG bằng lớp [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Chuyển đổi MSG sang HTML bằng cách sử dụng [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save (java.io.OutputStream,% 20com.aspose.msg.SaveOptions )) phương pháp
 3. Tải HTML bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Lưu tài liệu sang định dạng FLATOPC bằng cách sử dụng [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) và đặt FLATOPC làm SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

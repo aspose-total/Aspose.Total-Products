@@ -18,8 +18,8 @@ Andorid Apps zijn gemakkelijk te gebruiken voor eindgebruikers op dagelijkse bas
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Converteer MSG naar DOC in Andorid" %}}
-1. Open het MSG-bestand met de klasse [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Converteer MSG naar HTML met behulp van [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) )) methode
+1. Open het MSG-bestand met de klasse [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Converteer MSG naar HTML met behulp van [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions) )) methode
 3. Laad HTML met behulp van de [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) klasse
 4. Sla het document op in DOC-formaat met [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) )) methode en stel DOC in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}

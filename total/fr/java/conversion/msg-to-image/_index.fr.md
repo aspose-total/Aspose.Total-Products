@@ -16,8 +16,8 @@ La conversion des e-mails est une fonctionnalité puissante que les développeur
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comment convertir MSG en IMAGE" %}}
-1. Ouvrez le fichier MSG à l'aide de la classe [MailMessage](https://reference.aspose.com/msg/java/com.aspose.msg/mailmessage)
-2. Convertissez MSG en HTML en utilisant [save](https://reference.aspose.com/msg/java/com.aspose.msg/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) méthode
+1. Ouvrez le fichier MSG à l'aide de la classe [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage)
+2. Convertissez MSG en HTML en utilisant [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.msg.SaveOptions)) méthode
 3. Chargez HTML en utilisant la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 4. Enregistrez le document au format IMAGE en utilisant [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) et définissez IMAGE comme SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
