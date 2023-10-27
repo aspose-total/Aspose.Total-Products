@@ -22,4 +22,4 @@ It's common for organization to update their data, stored in excel files such as
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Update">}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

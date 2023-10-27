@@ -51,4 +51,4 @@ By following this simple process, you can easily generate barcodes of different 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Generate">}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

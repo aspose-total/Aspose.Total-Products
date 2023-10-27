@@ -63,3 +63,4 @@ Apart from Word and PDF formats, API supports splitting different other formats 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

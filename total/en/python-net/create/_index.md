@@ -36,4 +36,4 @@ Total Python Word API has multiple features including creation of Microsoft Word
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create">}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

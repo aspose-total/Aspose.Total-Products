@@ -22,4 +22,4 @@ Using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API, load t
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Update">}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}
