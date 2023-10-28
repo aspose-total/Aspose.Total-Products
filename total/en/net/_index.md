@@ -241,9 +241,10 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
   <li><b>Read and extract content:</b> Access text, tables, images, and other elements from documents, spreadsheets, presentations, or emails, enabling you to retrieve and process valuable data efficiently.</li>
   <li><b>Edit and modify files:</b> Make changes to existing files programmatically, such as updating text, adding or removing elements, merging documents, applying formatting, and much more. Customize the files to meet your specific requirements.</li>
   <li><b>Create and generate files:</b> Dynamically generate new files from scratch, including Word documents, Excel spreadsheets, PowerPoint presentations, or PDFs. Populate them with data, tables, charts, and other components tailored to your needs.</li>
-  <li><b>Convert between file formats:</b> Seamlessly convert files from one format to another, allowing you to transform Word documents into PDFs, Excel spreadsheets into CSV files, PowerPoint presentations into images, and many other combinations.</li>
+  <li><b><a href="/total/net/conversion/">Convert between file formats</a>:</b> Seamlessly convert files from one format to another, allowing you to transform Word documents into PDFs, Excel spreadsheets into CSV files, PowerPoint presentations into images, and many other combinations.</li>
   <li><b>Perform document manipulation tasks:</b> Utilize advanced features like searching and replacing text, adding watermarks, extracting specific pages, merging multiple files into one, splitting large documents, and applying security settings.</li>
   <li><b>Ensure document security:</b> Apply encryption, digital signatures, and permissions to protect sensitive information, ensuring compliance with security standards and regulations.</li>
+  <li><b><a href="/total/net/search/">Search in documents</a>:</b> Effortlessly search for content or text within a variety of popular document file formats such as Word, Excel, PowerPoint, PDF, and more</li>  
  </ul>
 </div>
 <div class="col-lg-12">
@@ -258,7 +259,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">Unlock New Possibilities: Barcode, Recurrence Patterns, and Network Protocols</h2>
+ <h2 class="h2title">More Possibilities: Barcode, Recurrence Patterns, and Network Protocols</h2>
  <p>Aspose.Total for .NET empowers developers with a comprehensive toolkit of utility APIs, enabling you to enhance your .NET applications with advanced functionalities. Seamlessly integrate barcode generation and recognition capabilities, leverage powerful recurrence patterns, and harness a wide range of network protocols including SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS.</p>
  <ul>
   <li><b>Barcode Functionality:</b> With Aspose.Total for .NET, you can effortlessly add barcode functionality to your .NET applications. Generate high-quality barcodes in various formats such as QR Code, Code 39, UPC, and many more. Enhance inventory management, automate data capture, and streamline your business processes.</li>

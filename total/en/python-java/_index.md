@@ -126,7 +126,14 @@ Python Diagram library that helps in creating, reading, writing and exporting Mi
   Recognize 1D, 2D & postal barcode symbologies
  </p>
 </div>
-
+<div class="col-lg-12">
+ <h2 class="h2title">
+  Popular File Processing Features
+ </h2>
+ <p>
+    Aspose.Total for Python via Java offers support for <a href="/total/python-java/conversion/">file format conversion</a>, enabling the rendering of diverse document types into image and HTML formats for seamless viewing. Moreover, it equips developers with powerful tools to enhance their applications, including document comparison, merging and splitting, <a href="/total/python-java/update/">document editing</a>,document search, file compression, <a href="/total/python-java/create/">dynamic document generation from templates</a>, e-signing, watermarking, and more.
+ </p>
+</div>
 <div class="col-lg-12">
  <h2 class="h2title">
   Process Popular File Types

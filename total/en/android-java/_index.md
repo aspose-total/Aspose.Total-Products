@@ -103,6 +103,21 @@ Aspose.BarCode for Android via Java is a set of barcode APIs to generate and rec
   Convert PDF files to images
  </p>
 </div>
+<div class="col-lg-4">
+ <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
+ </em>
+ <p class="col-lg-10">
+  Create or Scan 1D and 2D Barcodes
+ </p>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">
+  Enhance Efficiency with Popular File Processing Features
+ </h2>
+ <p>
+  Aspose.Total for Android via Java, supports <a href="/total/android-java/conversion/">file format conversion</a>, allowing you to render various document types into image and HTML formats for easy viewing. Additionally, it empowers developers to enhance their applications with features such as document comparison, merging and splitting, file editing, <a href="/total/android-java/search/">document search</a>, file compression, document generation from templates, e-signing, watermarking, and more. Furthermore, Android APIs are available for barcode generation and scanning.
+ </p>
+</div>
 <div class="col-lg-12">
  <h2 class="h2title">
   Process a Multitude of File Formats

@@ -190,6 +190,14 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX fi
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">
+  Popular File Processing Features
+ </h2>
+ <p>
+    Aspose.Total for Java offers support for <a href="/total/java/conversion/">file format conversion</a>, enabling the rendering of diverse document types into image and HTML formats for seamless viewing. Moreover, it equips developers with powerful tools to enhance their applications, including document comparison, merging and splitting, <a href="/total/java/update/">document editing</a>, <a href="/total/java/search/">document search</a>, file compression, dynamic document generation from templates, e-signing, watermarking, and more.
+ </p>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">
   Process a Multitude of File Formats
  </h2>
  <p>
