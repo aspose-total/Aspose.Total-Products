@@ -23,14 +23,14 @@ Aspose.Total for .NET emerges as a comprehensive suite of APIs designed to facil
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API to Convert EML to PDF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert EML to PDF via .C# .NET" %}}
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
 4. Save the document to PDF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pdf as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Requirement for EML to PDF Conversion" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -47,7 +47,7 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Parse EML File via .NET" %}}
+{{% blocks/products/pf/feature-page-section  h2="Parse EML via .NET" %}}
 Before converting EML to PDF, if you want to make sure that you are converting the correct email, you can load EML document, parse it and have a look at your desired property. By using [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
 {{% blocks/products/pf/feature-page-code %}}
 ```cs// instantiate MapiMessage to load an EML file from disk

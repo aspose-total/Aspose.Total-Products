@@ -4,7 +4,7 @@ description: Free online WORD file viewer app. Python API code to read and load 
 
 family: total
 platformtag: Python
-feature: Viewer
+feature: viewer
 informat: WORD
 otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM PPTM POTX POTM Excel XLS XLSX XLSM XLSB XLTX XLTM PDF Image BMP GIF JPG JPEG PNG SVG TIF TIFF
 ---

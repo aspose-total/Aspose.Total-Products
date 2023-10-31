@@ -23,6 +23,18 @@ API de plate-forme basée sur Java pour créer, modifier, rendre ou analyser des
 Créez, chargez, manipulez ou convertissez différents formats de documents et images dans des applications C++ pures à l'aide de la bibliothèque C++ native.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/fr/python-net/" >}}
+Générez, modifiez ou convertissez les formats DOC, DOCX, PPT, PPTX, EML, MSG et les formats 3D en utilisant la suite de bibliothèques Python pour Microsoft Word, PowerPoint et Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/fr/nodejs-java/" >}}
+Manipulez des feuilles de calcul Excel et des fichiers Visio, ainsi que scannez et générez des codes-barres de différentes symbologies en utilisant Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/fr/php-java/" >}}
+Manipulez des feuilles de calcul Excel, lisez, écrivez, créez et convertissez des présentations PowerPoint et OpenOffice dans les applications PHP.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/fr/family/" innerText="Afficher toutes les API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

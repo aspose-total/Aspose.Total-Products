@@ -189,6 +189,37 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX fi
  </p>
 </div>
 <div class="col-lg-12">
+ <h2 class="h2title">Boost Your Java Development with Aspose.Total</h2>
+ <p>Elevate your Java development with Aspose.Total for Java. It provides powerful tools for reading, modifying, and creating a variety of file formats without complex dependencies. Whether you're working on web apps, service-oriented systems, or desktop software, our package helps you handle diverse file types with ease.</p>
+  <ul>
+  <li><b>Increase Productivity:</b> Streamline your work, save time, and enhance your efficiency with our developer-friendly API. Access extensive documentation, code samples, and dedicated support to guide your every step.</li>
+  <li><b>Ensure Cross-Platform Compatibility:</b> Develop applications that work seamlessly on different platforms. Aspose.Total for Java integrates smoothly with various systems, including Linux, macOS, and other non-Windows environments.</li>
+  <li><b>Harness ASP.Java Power:</b> Build dynamic web applications using our Java toolkit's extensive file manipulation features. Generate reports, manage document conversions, and enable efficient document collaboration.</li>
+  <li><b>Unleash Desktop Potential:</b> Create feature-rich desktop applications with stunning user interfaces. Aspose.Total for Java empowers you to incorporate advanced file processing capabilities into your Java desktop apps.</li>
+  <li><b>Support for Web Services:</b> Seamlessly integrate our file manipulation features into your Java applications, allowing for efficient data exchange and processing in service-oriented architectures.</li>
+  </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">Explore More Possibilities: Barcode, Recurrence Patterns, and Network Protocols</h2>
+ <p>Aspose.Total for Java equips developers with a comprehensive toolkit of utility APIs. This enables you to enhance your Java applications with advanced features. Seamlessly integrate barcode generation and recognition, leverage powerful recurrence patterns, and utilize various network protocols, including SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS.</p>
+ <ul>
+  <li><b>Barcode Functionality:</b> Effortlessly add barcode capabilities to your Java applications. Generate high-quality barcodes in various formats like QR Code, Code 39, UPC, and more. Improve inventory management, automate data capture, and optimize business processes.</li>
+  <li><b>Recurrence Patterns:</b> Simplify complex scheduling scenarios with support for recurrence patterns. Easily handle recurring events, appointments, and tasks in your Java applications. Implement flexible scheduling and ensure accurate event management.</li>
+  <li><b>Network Protocols:</b> Aspose.Total for Java provides a robust set of network protocol APIs. Seamlessly integrate SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS functionalities into your Java applications. Send and receive emails, retrieve and process email attachments, transfer files securely, perform DNS queries, and conduct WHOIS lookups.</li>
+ </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">No Microsoft Office Dependency, Strong Security, and Scalability</h2>
+ <p>Discover the endless possibilities with Aspose.Total for Java. Say goodbye to Microsoft Office dependencies and embrace a solution that excels in features, security, stability, scalability, speed, and affordability. Empower your Java applications with unparalleled document manipulation capabilities today.</p>
+ <ul>
+  <li><b>Freedom from Microsoft Office:</b> With Aspose.Total for Java, you don't need to install Microsoft Office. Work seamlessly with supported document formats like Word, Excel, PowerPoint, PDF, Outlook, and more, without any dependencies.</li>
+  <li><b>Stability and Scalability:</b> Our APIs undergo rigorous testing and continuous improvement to deliver stability and reliability. Scale your applications as your business grows without limitations.</li>
+  <li><b>Swift Performance:</b> Aspose.Total for Java is optimized for speed, enabling efficient document processing even with large files. Experience fast operations that boost productivity and user satisfaction.</li>
+  <li><b>Competitive Pricing:</b> Aspose.Total for Java offers competitive pricing, delivering excellent value for comprehensive features and benefits that enhance your Java applications.</li>
+ </ul>
+</div>
+
+<div class="col-lg-12">
  <h2 class="h2title">
   Popular File Processing Features
  </h2>
@@ -205,55 +236,42 @@ Aspose.TeX for Java is a TeX files typesetting API. It can easily typeset TeX fi
  </p>
  <ul class="unstyled">
   <li>
-   Microsoft Word documents
+   <b>Microsoft Word:</b> DOC, DOCX, RTF, WordML, DOCM, DOTM, DOTX, ODT, OTT
   </li>
   <li>
-   Excel spreadsheets
+   <b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, XLAM, CSV, TSV, ODS, SpreadsheetML, Numbers, JSON, DIF
   </li>
   <li>
-   PowerPoint presentations
+   <b>Microsoft PowerPoint:</b> PPT, PPTX, PPTM, POT, PPS, POTX, PPSX, OTP, ODP
   </li>
   <li>
-   Adobe PDF documents
+   <b>Adobe PDF:</b> PDF, CGM, PCL, XML, PS, XPS, TEX, EPUB
   </li>
   <li>
-   Microsoft Visio drawings
+   <b>Microsoft Visio:</b> VSDX, VDX, VSD, VSX, VTX, VSSX, VSTX, VSTM, VDW, VSS, VST
   </li>
   <li>
-   Outlook emails
+   <b>Microsoft Outlook:</b> MSG, PST, OST, OFT, OML, EML, EMLX, MBOX, ICS, VCF, MHTML
   </li>
   <li>
-   Microsoft Project documents
+   <b>Microsoft Project:</b> MPP, XML, MPT, XER, P6XML, PMX
   </li>
   <li>
-   Microsoft OneNote documents
+   <b>Microsoft OneNote:</b> ONE, ONETOC2
   </li>
   <li>
-   AutoCAD drawings &amp; 3D formats
+   <b>Adobe AutoCAD:</b> DWG, DXF, DNG, IFC, IGES, STL, DWT, PLT, DWFX, CFF2, OBJ, PDF
   </li>
   <li>
-   Images
+   <b>3D:</b> 3DS, 3MF, AMF, ASE, RVM, DAE, DRC, DXF, FBX, MB, PLY, JT, STL, U3D, USD, USDZ, VRML, X
   </li>
   <li>
-   HTML files
+   <b>Images:</b> BMP, GIF, DICOM, DJVU, DNG, EMF, JPEG, JPEG2000, ODG, PNG, APNG, PSD, SVG, TIFF, BIGTIFF, DIB, EPS, WEBP, WMF, CDR, CMX, EMZ, WMZ, TGA, SVGZ
+  </li>
+  <li>
+   <b>Web:</b> HTML, MHTML, XHTML
   </li>
  </ul>
-</div>
-<div class="col-lg-12">
- <h2 class="h2title">
-  Packed with Utility Functions
- </h2>
- <p>
-  Aspose.Total for Java is a set of handy utility APIs allowing one to add OCR and barcode functionalities to Java applications, create &amp; consume recurrence patterns and utilize network protocols including SMTP, POP3, IMAP, MIME,  DNS, FTP, ICMP, and WHOIS.
- </p>
-</div>
-<div class="col-lg-12">
- <h2 class="h2title">
-  Microsoft Office Automation – Not Needed
- </h2>
- <p>
-  Aspose.Total for Java is built using managed code that does not need Microsoft Office to be installed on the machine to work with supported document formats. It is a perfect Microsoft Office automation alternative in terms of supported features, security, stability, scalability, speed and price.
- </p>
 </div>
 <!--Feature-section Start-->
 <!--Feature-section End-->

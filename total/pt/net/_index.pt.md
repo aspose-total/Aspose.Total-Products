@@ -31,7 +31,7 @@ A API do Excel permite que os desenvolvedores trabalhem com formatos de arquivo 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/pt/net/" imgSrc="/total/images/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
-Aspose.Email para .NET é uma coleção de APIs .NET para criar, manipular, enviar e receber e-mails de aplicativos da Web ASP.NET, serviços da Web ou aplicativos do Windows. A API de e-mail torna super fácil trabalhar com arquivos Outlook ICS, PST, OST, EML, MSG e MHT, bem como arquivos MBOX de armazenamento do Thunderbird.
+Aspose.Email for .NET é uma coleção de APIs .NET para criar, manipular, enviar e receber e-mails de aplicativos da Web ASP.NET, serviços da Web ou aplicativos do Windows. A API de e-mail torna super fácil trabalhar com arquivos Outlook ICS, PST, OST, EML, MSG e MHT, bem como arquivos MBOX de armazenamento do Thunderbird.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/pt/net/" imgSrc="/total/images/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
@@ -228,6 +228,44 @@ Aspose.TeX para .NET é uma API de composição de arquivos TeX. Ele pode facilm
  <p class="col-lg-10">
   Exporte o OneNote para imagens &amp; Formato PDF
  </p>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">
+  Realize a Manipulação Avançada de Arquivos em Aplicações .NET
+ </h2>
+ <p>Com nossa solução avançada de manipulação de arquivos para o .NET, você pode integrar facilmente recursos como leitura, escrita, edição e conversão de arquivos diretamente no fluxo de trabalho de sua aplicação. Seja necessário extrair dados de um documento do Word, gerar relatórios no Excel, manipular arquivos PDF, criar apresentações dinâmicas no PowerPoint ou interagir com itens do Outlook, nossa ampla caixa de ferramentas tem você coberto.</p>
+ <p>
+  Nossa biblioteca fornece uma API amigável para desenvolvedores que permite a você:
+ </p>
+ <ul>
+  <li><b>Ler e extrair conteúdo:</b> Acesse texto, tabelas, imagens e outros elementos de documentos, planilhas, apresentações ou e-mails, permitindo que você recupere e processe dados valiosos de maneira eficiente.</li>
+  <li><b>Editar e modificar arquivos:</b> Faça alterações em arquivos existentes de forma programática, como atualizar texto, adicionar ou remover elementos, mesclar documentos, aplicar formatação e muito mais. Personalize os arquivos para atender às suas necessidades específicas.</li>
+  <li><b>Criar e gerar arquivos:</b> Gere dinamicamente novos arquivos a partir do zero, incluindo documentos do Word, planilhas do Excel, apresentações do PowerPoint ou PDFs. Preencha-os com dados, tabelas, gráficos e outros componentes personalizados de acordo com suas necessidades.</li>
+  <li><b><a href="/total/net/conversion/">Converter entre formatos de arquivo</a>:</b> Converta arquivos de um formato para outro de maneira perfeita, permitindo que você transforme documentos do Word em PDFs, planilhas do Excel em arquivos CSV, apresentações do PowerPoint em imagens e muitas outras combinações.</li>
+  <li><b>Realizar tarefas de manipulação de documentos:</b> Utilize recursos avançados como busca e substituição de texto, adição de marcas d'água, extração de páginas específicas, mesclagem de vários arquivos em um, divisão de documentos grandes e aplicação de configurações de segurança.</li>
+  <li><b>Garantir a segurança de documentos:</b> Aplique criptografia, assinaturas digitais e permissões para proteger informações sensíveis, garantindo conformidade com padrões e regulamentações de segurança.</li>
+  <li><b><a href="/total/net/search/">Pesquisar em documentos</a>:</b> Pesquise facilmente conteúdo ou texto em uma variedade de formatos populares de arquivo de documento, como Word, Excel, PowerPoint, PDF e muito mais</li>  
+ </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">Turbocharge o Desenvolvimento .NET com Aspose.Total</h2>
+ <p>Eleve seu desenvolvimento .NET ao próximo nível com o Aspose.Total para .NET, fornecendo a você flexibilidade e poder inigualáveis. Se você está trabalhando em aplicativos da web, arquiteturas orientadas a serviços ou aplicativos de desktop, nossa suíte abrangente capacita você a lidar com diversos formatos de arquivo com facilidade.</p>
+  <ul>
+  <li><b>Aumente a produtividade:</b> Aproveite nossa API amigável para desenvolvedores para otimizar seu fluxo de trabalho, economizar tempo e aumentar a produtividade. Beneficie-se de uma documentação extensa, exemplos de código e uma equipe de suporte dedicada para orientá-lo a cada passo do caminho.</li>
+  <li><b>Alcance a compatibilidade entre plataformas:</b> Crie aplicativos que funcionem perfeitamente em diferentes plataformas. O Aspose.Total para .NET se integra perfeitamente ao Mono, permitindo que você desenvolva aplicativos para Linux, macOS e outras plataformas não-Windows.</li>
+  <li><b>Aproveite o poder do ASP.NET:</b> Crie aplicativos da web dinâmicos usando a ampla gama de recursos de manipulação de arquivos do Aspose.Total para .NET. Gere relatórios, lide com conversões de documentos e habilite a colaboração de documentos com facilidade.</li>
+  <li><b>Liberte o potencial do WinForms:</b> Desenvolva aplicativos de desktop ricos com interfaces de usuário impressionantes usando WinForms. O Aspose.Total para .NET capacita você a incorporar capacidades avançadas de processamento de arquivos em seus aplicativos WinForms, abrindo novas possibilidades.</li>
+  <li><b>Suporte para serviços da web:</b> Permita que seus aplicativos .NET consumam ou exponham serviços da web de forma transparente. Integre recursos de manipulação de arquivos do Aspose.Total para .NET em suas arquiteturas orientadas a serviços, permitindo a troca e o processamento eficientes de dados.</li>
+ </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">Mais Possibilidades: Código de Barras, Padrões de Recorrência e Protocolos de Rede</h2>
+ <p>O Aspose.Total para .NET capacita os desenvolvedores com uma caixa de ferramentas abrangente de APIs de utilitários, permitindo que você aprimore seus aplicativos .NET com funcionalidades avançadas. Integre de forma transparente a geração e o reconhecimento de códigos de barras, aproveite poderosos padrões de recorrência e aproveite uma ampla gama de protocolos de rede, incluindo SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP e WHOIS.</p>
+ <ul>
+  <li><b>Funcionalidade de Código de Barras:</b> Com o Aspose.Total para .NET, você pode adicionar facilmente funcionalidades de código de barras aos seus aplicativos .NET. Gere códigos de barras de alta qualidade em vários formatos, como QR Code, Code 39, UPC e muitos outros. Aprimore a gestão de estoque, automatize a captura de dados e otimize seus processos comerciais.</li>
+  <li><b>Padrões de Recorrência:</b> Simplifique cenários de agendamento complexos com o suporte a padrões de recorrência do Aspose.Total para .NET. Gerencie facilmente eventos recorrentes, compromissos e tarefas em seus aplicativos. Implemente funcionalidades de agendamento flexíveis e assegure a gestão precisa de eventos.</li>
+  <li><b>Protocolos de Rede:</b> O Aspose.Total para .NET equipa você com um conjunto poderoso de APIs de protocolos de rede. Integre de forma transparente funcionalidades SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP e WHOIS em seus aplicativos. Envie e receba e-mails, recupere e processe anexos de e-mail, transfira arquivos com segurança, execute consultas DNS e realize consultas WHOIS.</li>
+ </ul>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">

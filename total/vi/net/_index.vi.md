@@ -231,19 +231,41 @@ Aspose.TeX cho .NET là một API sắp chữ tệp TeX. Nó có thể dễ dàn
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">
-  Nền tảng độc lập
+  Thực Hiện Việc Xử Lý Tệp Nâng Cao trong Ứng Dụng .NET
  </h2>
+ <p>Với giải pháp xử lý tệp nâng cao của chúng tôi cho .NET, bạn có thể tích hợp các tính năng như đọc, viết, chỉnh sửa và chuyển đổi tệp trực tiếp trong quy trình ứng dụng của bạn một cách dễ dàng. Cho dù bạn cần trích xuất dữ liệu từ tài liệu Word, tạo báo cáo trong Excel, thao tác với tệp PDF, tạo bài thuyết trình động trong PowerPoint hoặc tương tác với các mục Outlook, bộ công cụ toàn diện của chúng tôi đã đáp ứng nhu cầu của bạn.</p>
  <p>
-  Aspose.Total cho .NET bao gồm hầu hết các môi trường phát triển và nền tảng triển khai phổ biến. Bạn có thể tự tin sử dụng Aspose.Total cho .NET để xây dựng Mono hoặc bất kỳ loại ứng dụng .NET 32-bit hoặc 64-bit nào bao gồm ASP.NET, Dịch vụ Web và WinForms.
+  Thư viện của chúng tôi cung cấp một API thân thiện với người phát triển giúp bạn:
  </p>
+ <ul>
+  <li><b>Đọc và trích xuất nội dung:</b> Truy cập văn bản, bảng, hình ảnh và các yếu tố khác từ tài liệu, bảng tính, bài thuyết trình hoặc email, giúp bạn truy xuất và xử lý dữ liệu có giá trị một cách hiệu quả.</li>
+  <li><b>Chỉnh sửa và sửa đổi tệp:</b> Thực hiện thay đổi vào các tệp hiện có một cách tự động, như cập nhật văn bản, thêm hoặc loại bỏ yếu tố, trộn tài liệu, áp dụng định dạng và nhiều tính năng khác. Tùy chỉnh tệp để đáp ứng yêu cầu cụ thể của bạn.</li>
+  <li><b>Tạo và tạo tệp:</b> Động cơ tạo tệp mới từ đầu, bao gồm tài liệu Word, bảng tính Excel, bài thuyết trình PowerPoint hoặc PDF. Điền chúng với dữ liệu, bảng, biểu đồ và các thành phần khác được tùy chỉnh theo nhu cầu của bạn.</li>
+  <li><b><a href="/total/net/conversion/">Chuyển đổi giữa các định dạng tệp</a>:</b> Chuyển đổi tệp một cách mượt mà từ một định dạng sang một định dạng khác, cho phép bạn biến đổi tài liệu Word thành PDF, bảng tính Excel thành tệp CSV, bài thuyết trình PowerPoint thành hình ảnh và nhiều kết hợp khác.</li>
+  <li><b>Thực hiện các nhiệm vụ về tài liệu:</b> Sử dụng các tính năng tiên tiến như tìm kiếm và thay thế văn bản, thêm dấu thủy tinh, trích xuất trang cụ thể, trộn nhiều tệp thành một, chia tài liệu lớn và áp dụng cài đặt bảo mật.</li>
+  <li><b>Đảm bảo an ninh tài liệu:</b> Áp dụng mã hóa, chữ ký số và quyền hạn để bảo vệ thông tin nhạy cảm, đảm bảo tuân thủ các tiêu chuẩn và quy định về an ninh.</li>
+  <li><b><a href="/total/net/search/">Tìm kiếm trong tài liệu</a>:</b> Dễ dàng tìm kiếm nội dung hoặc văn bản trong nhiều định dạng tệp tài liệu phổ biến như Word, Excel, PowerPoint, PDF và nhiều định dạng khác.</li>  
+ </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">
-  Đóng gói với các chức năng tiện ích
- </h2>
- <p>
-  Aspose.Total for .NET mang đến cho bạn bộ công cụ gồm các API tiện ích tiện dụng cho phép bạn thêm chức năng mã vạch vào các ứng dụng .NET, thực hiện các mẫu lặp lại và giao thức mạng (SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP và WHOIS).
- </p>
+ <h2 class="h2title">Tăng cường Phát triển .NET với Aspose.Total</h2>
+ <p>Hãy đưa phát triển .NET của bạn lên một tầm cao mới với Aspose.Total cho .NET, mang đến cho bạn tính linh hoạt và sức mạnh vô song. Cho dù bạn đang làm việc trên ứng dụng web, kiến trúc dựa trên dịch vụ hoặc ứng dụng trên máy tính để bàn, bộ công cụ toàn diện của chúng tôi giúp bạn xử lý nhiều định dạng tệp một cách dễ dàng.</p>
+  <ul>
+  <li><b>Tăng năng suất:</b> Tận dụng API thân thiện với người phát triển của chúng tôi để tối ưu hóa quy trình làm việc, tiết kiệm thời gian và tăng năng suất. Hãy tận dụng tài liệu mở rộng, ví dụ mã nguồn và đội ngũ hỗ trợ đắc lực để hướng dẫn bạn từng bước.</li>
+  <li><b>Đạt được tính tương thích trên nhiều nền tảng:</b> Xây dựng ứng dụng hoạt động mượt mà trên các nền tảng khác nhau. Aspose.Total cho .NET tích hợp hoàn toàn với Mono, cho phép bạn phát triển ứng dụng cho Linux, macOS và các nền tảng không phải Windows khác.</li>
+  <li><b>Tận dụng sức mạnh của ASP.NET:</b> Tạo ứng dụng web động bằng cách sử dụng loạt tính năng xử lý tệp của Aspose.Total cho .NET. Tạo báo cáo, xử lý chuyển đổi tài liệu và khả năng làm việc với tài liệu một cách dễ dàng.</li>
+  <li><b>Phát huy tiềm năng của WinForms:</b> Phát triển ứng dụng máy tính để bàn đẹp với giao diện người dùng ấn tượng bằng cách sử dụng WinForms. Aspose.Total cho .NET giúp bạn tích hợp khả năng xử lý tệp tiên tiến vào ứng dụng WinForms của bạn, mở ra những khả năng mới.</li>
+  <li><b>Hỗ trợ cho dịch vụ web:</b> Cho phép ứng dụng .NET của bạn tiêu thụ hoặc tiếp tục cung cấp dịch vụ web một cách mượt mà. Tích hợp các tính năng xử lý tệp của Aspose.Total cho .NET vào kiến trúc dựa trên dịch vụ của bạn, cho phép trao đổi và xử lý dữ liệu một cách hiệu quả.</li>
+ </ul>
+</div>
+<div class="col-lg-12">
+ <h2 class="h2title">Nhiều Khả Năng Hơn: Mã vạch, Mẫu Lặp và Giao thức Mạng</h2>
+ <p>Aspose.Total cho .NET trang bị các nhà phát triển một bộ công cụ toàn diện của API tiện ích, cho phép bạn tăng cường ứng dụng .NET của bạn với các tính năng tiên tiến. Tích hợp mạch tạo và nhận dạng mã vạch, tận dụng các mẫu lặp mạnh mẽ và khai thác một loạt các giao thức mạng bao gồm SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP và WHOIS.</p>
+ <ul>
+  <li><b>Tính năng Mã vạch:</b> Với Aspose.Total cho .NET, bạn có thể dễ dàng thêm tính năng mã vạch vào ứng dụng .NET của bạn. Tạo mã vạch chất lượng cao trong nhiều định dạng như mã QR, mã Code 39, UPC và nhiều định dạng khác. Tăng cường quản lý hàng tồn kho, tự động hóa việc thu thập dữ liệu và tối ưu hóa quy trình kinh doanh của bạn.</li>
+  <li><b>Mẫu Lặp:</b> Đơn giản hóa các tình huống lập lịch phức tạp với sự hỗ trợ của mẫu lặp của Aspose.Total cho .NET. Dễ dàng xử lý các sự kiện lặp lại, cuộc họp và nhiệm vụ trong ứng dụng của bạn. Thực hiện các chức năng lập lịch linh hoạt và đảm bảo quản lý sự kiện chính xác.</li>
+  <li><b>Giao thức Mạng:</b> Aspose.Total cho .NET trang bị bạn bộ công cụ mạng mạnh mẽ. Tích hợp mạch SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP và WHOIS vào ứng dụng của bạn một cách mượt mà. Gửi và nhận email, trích xuất và xử lý tệp đính kèm email, truyền tệp an toàn, thực hiện các truy vấn DNS và tiến hành tra cứu WHOIS.</li>
+ </ul>
 </div>
 <div class="col-lg-12">
  <h2 class="h2title">

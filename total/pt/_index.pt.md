@@ -23,6 +23,18 @@ APIs de plataforma baseadas em Java para criar, modificar, renderizar ou analisa
 Crie, carregue, manipule ou converta diferentes formatos de documentos e imagens em aplicativos C++ puros usando a biblioteca C++ nativa.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/pt/python-net/" >}}
+Gere, edite ou converta formatos DOC, DOCX, PPT, PPTX, EML, MSG e formatos 3D usando a suíte de bibliotecas Python para Microsoft Word, PowerPoint e Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/pt/nodejs-java/" >}}
+Manipule planilhas Excel e arquivos Visio, além de digitalizar e gerar códigos de barras de várias simbologias usando o Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/pt/php-java/" >}}
+Manipule planilhas Excel, leia, escreva, crie e converta apresentações PowerPoint e OpenOffice em aplicativos PHP.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/pt/family/" innerText="Ver todas as APIs de código alto" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
