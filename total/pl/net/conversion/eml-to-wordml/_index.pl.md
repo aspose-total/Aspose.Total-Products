@@ -19,7 +19,7 @@ Jeśli jesteś programistą .NET i chcesz dodać funkcje konwersji EML do WORDML
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API do konwersji EML na WORDML" %}}
 1. Otwórz plik EML za pomocą klasy [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Konwertuj EML na HTML za pomocą metody [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+2. Konwertuj EML na HTML za pomocą metody [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Załaduj HTML za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document)
 4. Zapisz dokument w formacie WORDML za pomocą metody [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) i ustaw Wordml jako SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przeanalizuj plik EML przez .NET" %}}
-Przed konwersją EML na WORDML, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument EML, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Przed konwersją EML na WORDML, jeśli chcesz się upewnić, że konwertujesz poprawny e-mail, możesz załadować dokument EML, przeanalizować go i spojrzeć na żądaną właściwość. Korzystając z klasy [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, możesz uzyskać informacje o nadawcy i odbiorcy. Na przykład możesz sprawdzić konkretny adres e-mail nadawcy dla konwersji za pomocą właściwości [NazwaNadawcy](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -61,9 +61,9 @@ if(outlookMessageFile.SenderName == "John"){
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-.aspose.com
+
 {{% blocks/products/pf/feature-page-section  h2="Ogranicz edycję dokumentów WORDML przez .NET" %}}
-Podczas zapisywania dokumentu z EML do WORDML może być konieczne zabezpieczenie dokumentu wyjściowego. Czasami może zajść potrzeba ograniczenia możliwości edycji dokumentu i zezwolenia tylko na określone czynności. Może to być przydatne, aby uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie. Interfejs API [Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia kontrolowanie sposobu ograniczania treści za pomocą [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) parametr wyliczenia. Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
+Podczas zapisywania dokumentu z EML do WORDML może być konieczne zabezpieczenie dokumentu wyjściowego. Czasami może zajść potrzeba ograniczenia możliwości edycji dokumentu i zezwolenia tylko na określone czynności. Może to być przydatne, aby uniemożliwić innym osobom edytowanie poufnych i poufnych informacji w Twoim dokumencie. Interfejs API [Aspose.Words for .NET](https://products.aspose.com/words/net/) umożliwia kontrolowanie sposobu ograniczania treści za pomocą [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) parametr wyliczenia. Możesz ustawić dokument jako tylko do odczytu, używając następujących wierszy kodu. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

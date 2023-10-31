@@ -13,7 +13,7 @@ otherformats: PS PNG XPS OTT DOC DOCM MD TIFF DOT DOCX TEXT JPEG DOTX PDF RTF GI
 {{< blocks/products/pf/i18n/feature-page-header h1="Exportar EMLX para EMF via .NET" h2="API .NET para renderizar EMLX para EMF no Windows, macOS e Linux sem usar Word ou Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de EMLX para EMF dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Email para .NET](https://products.aspose.com/email/net/), você pode converter o formato de arquivo EMLX para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para EMF.
+Se você é um desenvolvedor .NET que deseja adicionar recursos de conversão de EMLX para EMF dentro de seus aplicativos, as APIs de manipulação de formato de arquivo [Aspose.Total for .NET](https://products.aspose.com/total/net/) são o caminho. frente. Usando [Aspose.Email for .NET](https://products.aspose.com/email/net/), você pode converter o formato de arquivo EMLX para HTML. Depois disso, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode renderizar HTML para EMF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,9 +61,9 @@ if(outlookMessageFile.SenderName == "John"){
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-.aspose.com
+
 {{% blocks/products/pf/feature-page-section  h2="Restringir a edição de documentos EMF via .NET" %}}
-Ao salvar o documento de EMLX para EMF, talvez seja necessário proteger seu documento de saída. Às vezes, pode ser necessário limitar a capacidade de editar um documento e permitir apenas determinadas ações com ele. Isso pode ser útil para evitar que outras pessoas editem informações confidenciais em seu documento. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, permite controlar a maneira como você restringe o conteúdo usando o [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) parâmetro de enumeração. Você pode definir seu documento como somente leitura usando as seguintes linhas de código. 
+Ao salvar o documento de EMLX para EMF, talvez seja necessário proteger seu documento de saída. Às vezes, pode ser necessário limitar a capacidade de editar um documento e permitir apenas determinadas ações com ele. Isso pode ser útil para evitar que outras pessoas editem informações confidenciais em seu documento. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, permite controlar a maneira como você restringe o conteúdo usando o [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) parâmetro de enumeração. Você pode definir seu documento como somente leitura usando as seguintes linhas de código. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

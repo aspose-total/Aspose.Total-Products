@@ -19,7 +19,7 @@ otherformats: DOCX TEXT PNG WORDML DOC ODT FLATOPC EMF DOCM DOTM PDF XPS RTF PCL
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API для преобразования EML в ODT" %}}
 1. Откройте файл EML с помощью класса [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage).
-2. Преобразуйте EML в HTML, используя метод [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3).
+2. Преобразуйте EML в HTML, используя метод [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3).
 3. Загрузите HTML с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document).
 4. Сохраните документ в формате ODT с помощью метода [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) и установите Odt в качестве формата сохранения.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -46,7 +46,7 @@ document.Save("output.odt", SaveFormat.Odt);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать файл EML через .NET" %}}
-Перед преобразованием EML в ODT, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ EML, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) класса [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Перед преобразованием EML в ODT, если вы хотите убедиться, что конвертируете правильное электронное письмо, вы можете загрузить документ EML, проанализировать его и просмотреть желаемое свойство. Используя класс [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) класса [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, вы можете получить информацию об отправителе и получателе. Например, вы можете проверить адрес электронной почты отправителя для конверсии, используя свойство [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

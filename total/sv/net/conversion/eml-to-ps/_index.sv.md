@@ -19,7 +19,7 @@ Om du är en .NET-utvecklare som vill lägga till EML till PS-konverteringsfunkt
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API för att konvertera EML till PS" %}}
 1. Öppna EML-filen med klassen [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Konvertera EML till HTML med metoden [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3)
+2. Konvertera EML till HTML med metoden [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3)
 3. Ladda HTML genom att använda klassen [Document](https://reference.aspose.com/words/net/aspose.words/document)
 4. Spara dokumentet i PS-format med metoden [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) och ställ in Ps som SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.ps", SaveFormat.Ps);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera EML-fil via .NET" %}}
-Innan du konverterar EML till PS, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername).  
+Innan du konverterar EML till PS, om du vill vara säker på att du konverterar rätt e-post, kan du ladda EML-dokumentet, analysera det och ta en titt på din önskade egenskap. Genom att använda [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) klass av [Aspose.Email for .NET](https://products.aspose.com/email/net/) API kan du få information om avsändare och mottagare. Du kan till exempel söka efter en specifik avsändar-e-post för konverteringen genom att använda egenskapen [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -61,9 +61,9 @@ if(outlookMessageFile.SenderName == "John"){
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-.aspose.com
+
 {{% blocks/products/pf/feature-page-section  h2="Begränsa PS-dokumentredigering via .NET" %}}
-När du sparar dokumentet från EML till PS kan du behöva skydda ditt utdatadokument. Ibland kan du behöva begränsa möjligheten att redigera ett dokument och endast tillåta vissa åtgärder med det. Detta kan vara användbart för att förhindra andra från att redigera känslig och konfidentiell information i ditt dokument. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, låter dig styra hur du begränsar innehållet med hjälp av [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) uppräkningsparameter. Du kan ställa in ditt dokument på skrivskyddat genom att använda följande kodrader. 
+När du sparar dokumentet från EML till PS kan du behöva skydda ditt utdatadokument. Ibland kan du behöva begränsa möjligheten att redigera ett dokument och endast tillåta vissa åtgärder med det. Detta kan vara användbart för att förhindra andra från att redigera känslig och konfidentiell information i ditt dokument. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, låter dig styra hur du begränsar innehållet med hjälp av [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) uppräkningsparameter. Du kan ställa in ditt dokument på skrivskyddat genom att använda följande kodrader. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

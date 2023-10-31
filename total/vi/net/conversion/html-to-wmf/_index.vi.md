@@ -19,7 +19,7 @@ Sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), b�
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp HTML sang WMF qua .NET" %}}
 1. Mở tệp HTML bằng lớp [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Khởi tạo đối tượng lớp [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) và kết xuất HTML thành JPEG bằng cách sử dụng [Process](https://apireference.aspose. com/pdf/net/ aspose.pdf.devices.pagedevice/process/methods/1) method
+2. Khởi tạo đối tượng lớp [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) và kết xuất HTML thành JPEG bằng cách sử dụng [Process](https://reference.aspose.com/pdf/net/ aspose.pdf.devices.pagedevice/process/methods/1) method
 3. Tải tệp JPEG bằng cách sử dụng lớp [Hình ảnh](https://reference.aspose.com/imaging/net/aspose.imaging/image)
 4. Lưu tài liệu sang định dạng WMF bằng phương pháp [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 {{% /blocks/products/pf/agp/feature-section-col %}}

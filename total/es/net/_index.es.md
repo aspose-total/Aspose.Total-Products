@@ -31,7 +31,7 @@ La API de Excel permite a los desarrolladores trabajar con formatos de archivo d
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/es/net/" imgSrc="/total/images/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
-Aspose.Email para .NET es una colección de API de .NET para crear, manipular, enviar y recibir correos electrónicos desde aplicaciones web ASP.NET, servicios web o aplicaciones de Windows. La API de correo electrónico hace que sea muy fácil trabajar con archivos ICS, PST, OST, EML, MSG y MHT de Outlook, así como con archivos MBOX de almacenamiento de Thunderbird.
+Aspose.Email for .NET es una colección de API de .NET para crear, manipular, enviar y recibir correos electrónicos desde aplicaciones web ASP.NET, servicios web o aplicaciones de Windows. La API de correo electrónico hace que sea muy fácil trabajar con archivos ICS, PST, OST, EML, MSG y MHT de Outlook, así como con archivos MBOX de almacenamiento de Thunderbird.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/es/net/" imgSrc="/total/images/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}

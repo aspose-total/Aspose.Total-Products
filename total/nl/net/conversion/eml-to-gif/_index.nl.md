@@ -19,7 +19,7 @@ Als u een .NET-ontwikkelaar bent die EML-naar-GIF-conversiefuncties in uw toepas
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API om EML naar GIF te converteren" %}}
 1. Open het EML-bestand met de klasse [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage)
-2. Converteer EML naar HTML met behulp van de [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) methode
+2. Converteer EML naar HTML met behulp van de [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) methode
 3. Laad HTML met behulp van [Document](https://reference.aspose.com/words/net/aspose.words/document) klasse
 4. Sla het document op in GIF-indeling met de methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) en stel Gif in als SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.gif", SaveFormat.Gif);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="E-MAIL-bestand ontleden via .NET" %}}
-Voordat u EML naar GIF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EML-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) te gebruiken.  
+Voordat u EML naar GIF converteert, kunt u, als u er zeker van wilt zijn dat u de juiste e-mail converteert, het EML-document laden, het ontleden en uw gewenste eigenschap bekijken. Door gebruik te maken van [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) klasse van [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, kunt u informatie over afzender en ontvanger krijgen. U kunt bijvoorbeeld controleren op een specifiek e-mailadres van de afzender voor de conversie door de eigenschap [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) te gebruiken.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
@@ -61,9 +61,9 @@ if(outlookMessageFile.SenderName == "John"){
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-.aspose.com
+
 {{% blocks/products/pf/feature-page-section  h2="Beperk het bewerken van GIF-documenten via .NET" %}}
-Terwijl u het document opslaat van EML naar GIF, moet u mogelijk uw uitvoerdocument beveiligen. Soms moet u de mogelijkheid om een document te bewerken beperken en er alleen bepaalde acties mee toestaan. Dit kan handig zijn om te voorkomen dat andere mensen gevoelige en vertrouwelijke informatie in uw document bewerken. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, stelt u in staat om te bepalen hoe u de inhoud beperkt met behulp van het [ProtectionType](https://apireference.aspose. com/words/net/aspose.words/protectiontype) opsommingsparameter. U kunt uw document op alleen-lezen instellen door de volgende coderegels te gebruiken. 
+Terwijl u het document opslaat van EML naar GIF, moet u mogelijk uw uitvoerdocument beveiligen. Soms moet u de mogelijkheid om een document te bewerken beperken en er alleen bepaalde acties mee toestaan. Dit kan handig zijn om te voorkomen dat andere mensen gevoelige en vertrouwelijke informatie in uw document bewerken. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, stelt u in staat om te bepalen hoe u de inhoud beperkt met behulp van het [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) opsommingsparameter. U kunt uw document op alleen-lezen instellen door de volgende coderegels te gebruiken. 
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

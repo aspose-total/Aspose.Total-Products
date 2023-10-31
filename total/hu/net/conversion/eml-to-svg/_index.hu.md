@@ -19,7 +19,7 @@ Ha Ön .NET-fejlesztő, szeretné hozzáadni az EML-t az alkalmazásokon belüli
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API az EML SVG-vé konvertálásához" %}}
 1. Nyissa meg az EML fájlt a [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage) osztály használatával
-2. Alakítsa át az EML-címet HTML-vé a [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) módszerrel
+2. Alakítsa át az EML-címet HTML-vé a [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) módszerrel
 3. Töltse be a HTML-t a [Document](https://reference.aspose.com/words/net/aspose.words/document) osztály használatával
 4. Mentse a dokumentumot SVG formátumba a [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) módszerrel, és állítsa be a Svg-t SaveFormat-ként.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.svg", SaveFormat.Svg);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Az EML fájl elemzése .NET-en keresztül" %}}
-Az EML SVG-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az EML dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/eml /net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
+Az EML SVG-vé konvertálása előtt, ha meg szeretne győződni arról, hogy a megfelelő e-mailt konvertálja, töltse be az EML dokumentumot, elemezze, és tekintse meg a kívánt tulajdonságot. A [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, a küldő és a címzett információkat kaphat. Például a [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) tulajdonság használatával ellenőrizheti a konverzióhoz tartozó feladó e-mail-címét.  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs

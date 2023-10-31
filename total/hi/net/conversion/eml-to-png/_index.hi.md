@@ -19,7 +19,7 @@ otherformats: EPUB TIFF MD EMF ODT PDF DOTX JPEG PCL DOCX FLATOPC PS DOT DOCM TE
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी # एपीआई ईमेल को बीएमपी में कनवर्ट करने के लिए" %}}
 1. [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage) वर्ग का उपयोग करके EML फ़ाइल खोलें
-2. [MailMessage.Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) विधि का उपयोग करके EML को HTML में बदलें
+2. [MailMessage.Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) विधि का उपयोग करके EML को HTML में बदलें
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document) वर्ग का उपयोग करके HTML लोड करें
 4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) विधि का उपयोग करके दस्तावेज़ को PNG प्रारूप में सहेजें और Png को SaveFormat के रूप में सेट करें
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ document.Save("output.png", SaveFormat.Png);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET के माध्यम से ईमेल फ़ाइल को पार्स करें" %}}
-EML को PNG में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप EML दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage) वर्ग [Aspose.Email for .NET](https://products.aspose.com/eml) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://reference.aspose.com/eml/net/aspose.eml.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
+EML को PNG में बदलने से पहले, यदि आप यह सुनिश्चित करना चाहते हैं कि आप सही ईमेल परिवर्तित कर रहे हैं, तो आप EML दस्तावेज़ लोड कर सकते हैं, उसे पार्स कर सकते हैं और अपनी वांछित संपत्ति पर एक नज़र डाल सकते हैं। [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) वर्ग [Aspose.Email for .NET](https://products.aspose.com/eml) का उपयोग करके /net/) एपीआई, आप प्रेषक और प्राप्तकर्ताओं की जानकारी प्राप्त कर सकते हैं। उदाहरण के लिए, आप [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) प्रॉपर्टी का इस्तेमाल करके कन्वर्ज़न के लिए किसी खास ईमेल भेजने वाले की जांच कर सकते हैं।  
 {{% blocks/products/pf/feature-page-code %}}
 
 ```cs
