@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - name: Copycat
-      uses: andstor/copycat-action@v3
+      uses: andstor/copycat-action
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: ./total/
