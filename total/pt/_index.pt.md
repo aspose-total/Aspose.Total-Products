@@ -41,15 +41,15 @@ Manipule planilhas Excel, leia, escreva, crie e converta apresentações PowerPo
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs incluem" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Manipule e processe arquivos do Microsoft Word por meio da chamada da API REST de qualquer dispositivo.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 APIs REST de PDF para criar, renderizar, dividir e converter documentos PDF com facilidade.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs para desenvolver aplicativos de manipulação de planilhas que suportam vários formatos do Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 

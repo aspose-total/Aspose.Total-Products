@@ -29,15 +29,15 @@ Különféle dokumentumformátumok és képek létrehozása, betöltése, manipu
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code API-k tartalmazzák" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Manipuláljon és dolgozzon fel Microsoft Word fájlokat REST API-hívással bármilyen eszközről.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API-k a PDF dokumentumok egyszerű létrehozásához, rendereléséhez, felosztásához és konvertálásához.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud API-k táblázatkezelési alkalmazások fejlesztésére Több Microsoft Excel formátumot támogató alkalmazások.
 {{< /blocks/products/pf/product >}}
 

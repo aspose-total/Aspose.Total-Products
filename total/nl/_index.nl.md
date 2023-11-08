@@ -29,15 +29,15 @@ Creëer, laad, manipuleer of converteer verschillende documentformaten en afbeel
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code API's omvatten:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Manipuleer en verwerk Microsoft Word-bestanden via REST API-aanroep vanaf elk apparaat.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API's om gemakkelijk PDF-documenten te maken, renderen, splitsen en converteren.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud API's om apps voor het manipuleren van spreadsheets te ontwikkelen die meerdere Microsoft Excel-indelingen ondersteunen.
 {{< /blocks/products/pf/product >}}
 

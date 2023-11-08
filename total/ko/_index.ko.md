@@ -29,15 +29,15 @@ description: On Premise 또는 Cloud API를 사용하여 문서 조작 애플리
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total 로우 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 모든 장치에서 REST API 호출을 통해 Microsoft Word 파일을 조작하고 처리합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 변환할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 여러 Microsoft Excel 형식을 지원하는 스프레드시트 조작 앱을 개발하기 위한 Aspose.Cells Cloud API.
 {{< /blocks/products/pf/product >}}
 

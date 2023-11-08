@@ -29,15 +29,15 @@ API-интерфейсы платформы на основе Java для соз
 
 {{< blocks/products/pf/product-card-row title="API-интерфейсы Aspose.Total Low Code включают" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Манипулируйте и обрабатывайте файлы Microsoft Word с помощью вызова REST API с любого устройства.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API для простого создания, рендеринга, разделения и преобразования PDF-документов.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Облачные API-интерфейсы Aspose.Cells для разработки приложений для работы с электронными таблицами, поддерживающих несколько форматов Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 

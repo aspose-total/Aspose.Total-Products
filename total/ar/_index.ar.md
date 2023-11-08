@@ -29,15 +29,15 @@ description: أنشئ تطبيقات لمعالجة المستندات باست�
 
 {{< blocks/products/pf/product-card-row title="Aspose. يشمل إجمالي واجهات برمجة التطبيقات ذات الشفرة المنخفضة" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 معالجة ومعالجة ملفات Microsoft Word عبر استدعاء REST API من أي جهاز.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 واجهات برمجة تطبيقات PDF REST لإنشاء مستندات PDF وعرضها وتقسيمها وتحويلها بسهولة.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول البيانات التي تدعم تنسيقات Microsoft Excel المتعددة.
 {{< /blocks/products/pf/product >}}
 

@@ -29,15 +29,15 @@ Yerel C++ kitaplığını kullanarak saf C++ uygulamaları içinde farklı belge
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Düşük Kodlu API'ler şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Herhangi bir cihazdan REST API çağrısı yoluyla Microsoft Word dosyalarını işleyin ve işleyin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF belgelerini kolaylıkla oluşturmak, işlemek, bölmek ve dönüştürmek için PDF REST API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Çoklu Microsoft Excel formatlarını destekleyen elektronik tablo işleme Uygulamaları geliştirmek için Bulut API'leri.
 {{< /blocks/products/pf/product >}}
 

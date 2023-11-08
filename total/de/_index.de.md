@@ -29,15 +29,15 @@ Erstellen, laden, bearbeiten oder konvertieren Sie verschiedene Dokumentformate 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low-Code-APIs enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Bearbeiten und verarbeiten Sie Microsoft Word-Dateien über den REST-API-Aufruf von jedem Gerät aus.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF-REST-APIs zum einfachen Erstellen, Rendern, Teilen und Konvertieren von PDF-Dokumenten.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud-APIs zur Entwicklung von Tabellenbearbeitungs-Apps, die mehrere Microsoft Excel-Formate unterstützen.
 {{< /blocks/products/pf/product >}}
 

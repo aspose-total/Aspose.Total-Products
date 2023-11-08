@@ -29,15 +29,15 @@ API πλατφόρμας που βασίζονται σε Java για τη δη�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Συνολικά χαμηλού κώδικα API περιλαμβάνουν" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Χειριστείτε και επεξεργαστείτε αρχεία Microsoft Word μέσω κλήσης REST API από οποιαδήποτε συσκευή.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API για δημιουργία, απόδοση, διαχωρισμό και μετατροπή εγγράφων PDF με ευκολία.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud API για την ανάπτυξη εφαρμογών χειρισμού υπολογιστικών φύλλων που υποστηρίζουν πολλαπλές μορφές Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 

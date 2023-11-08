@@ -41,15 +41,15 @@ Manipule hojas de cálculo de Excel, lea, escriba, cree y convierta presentacion
 
 {{< blocks/products/pf/product-card-row title="API de bajo código de Aspose.Total incluye" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Familia de productos en la nube" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Familia de productos en la nube" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Manipule y procese archivos de Microsoft Word via llamadas a la API REST desde cualquier dispositivo.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Familia de productos en la nube" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Familia de productos en la nube" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 API REST de PDF for crear, representar, dividir y convertir documentos PDF con facilidad.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Familia de productos en la nube" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Familia de productos en la nube" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 APIs de Aspose.Cells en la nube for desarrollar aplicaciones de manipulación de hojas de cálculo que admiten varios formatos de Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 

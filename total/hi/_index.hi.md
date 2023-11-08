@@ -29,15 +29,15 @@ description: ऑन-प्रिमाइस या क्लाउड एपी
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 किसी भी डिवाइस से आरईएसटी एपीआई कॉल के माध्यम से माइक्रोसॉफ्ट वर्ड फाइलों को हेरफेर और संसाधित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 पीडीएफ दस्तावेजों को आसानी से बनाने, प्रस्तुत करने, विभाजित करने और परिवर्तित करने के लिए पीडीएफ आरईएसटी एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुलेशन विकसित करने के लिए कई Microsoft Excel स्वरूपों का समर्थन करने वाले ऐप्स।
 {{< /blocks/products/pf/product >}}
 

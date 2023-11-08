@@ -29,15 +29,15 @@ Tạo, tải, thao tác hoặc chuyển đổi các định dạng và hình ả
 
 {{< blocks/products/pf/product-card-row title="Bao gồm các API mã Aspose.Total Low" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Thao tác và xử lý các tệp Microsoft Word thông qua lệnh gọi API REST từ bất kỳ thiết bị nào.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 Các API REST PDF để tạo, hiển thị, chia nhỏ và chuyển đổi các tài liệu PDF một cách dễ dàng.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs để phát triển các ứng dụng thao tác bảng tính hỗ trợ nhiều định dạng Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 
