@@ -1,26 +1,38 @@
 ---
-title: Helyszíni, felhő- és alkalmazásalapú fájlformátum-megoldások 
+title: Fájlformátumok és dokumentummegoldások fejlesztők és nem kódolók számára 
 weight: 9630
-
-description: Készítsen dokumentumkezelő alkalmazásokat On Premise vagy Cloud API-k segítségével, vagy egyszerűen használjon többplatformos alkalmazásokat több mint 100 fájlformátum megtekintéséhez, összehasonlításához, ellenőrzéséhez vagy konvertálásához
+url_ignore: /
+description: Készítsen dokumentummanipulációs alkalmazásokat High Code vagy Low Code API-k használatával, vagy egyszerűen használjon platformfüggetlen alkalmazásokat 100+ fájlformátum megtekintéséhez, összehasonlításához, ellenőrzéséhez vagy konvertálásához
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Fájlformátum-manipulációs megoldások teljes készlete" h2="Az Aspose.Total a legteljesebb és leghatékonyabb dokumentumfeldolgozási megoldást kínálja, minden egyéb szoftver telepítése és függőségei nélkül." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Fájlformátum és dokumentummanipulációs megoldások" h2="Készítsen vállalati alkalmazásokat fájlformátum-feldolgozásra High-Code letölthető osztálykönyvekkel vagy Low-Code REST API-kkel, nincs szükség függőségekre, vagy használjon ingyenes online alkalmazásokat könnyedén." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Termékcsalád" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API-k tartalmazzák" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/hu/net/" >}}
-On Premise .NET API-k többféle dokumentumformátum kezeléséhez Windows, web, iOS és Android alapú alkalmazásokban.
+On Premise .NET API-k több dokumentumformátum manipulálásához Windows, Web, iOS és Android alapú alkalmazásokban.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/hu/java/" >}}
-Java-alapú platform API-k Microsoft Word fájlok, webes, szöveges és OpenOffice dokumentumok létrehozásához, módosításához, rendereléséhez vagy elemzéséhez közvetlenül az alkalmazásokon belül.
+Java alapú platform API-k a Microsoft Word fájlok közvetlen létrehozásához, módosításához, rendereléséhez vagy elemzéséhez, valamint a Web, Text és OpenOffice dokumentumok alkalmazásokon belüli használatához.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/hu/cpp/" >}}
-Különféle dokumentumformátumok és képek létrehozása, betöltése, manipulálása vagy konvertálása a tiszta C++ alkalmazásokon belül a natív C++ könyvtár használatával.
+Különböző dokumentumformátumok és képek létrehozása, betöltése, manipulálása vagy konvertálása tiszta C++ alkalmazásokban natív C++ könyvtár használatával.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/hu/python-net/" >}}
+DOC, DOCX, PPT, PPTX, EML, MSG és 3D formátumok generálása, szerkesztése vagy konvertálása Python könyvtárcsomag segítségével a Microsoft Word, PowerPoint és Outlook számára.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/hu/nodejs-java/" >}}
+Excel táblázatok és Visio fájlok manipulálása, valamint különböző szimbólumkódok szkennelése és generálása Node.js használatával.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/hu/php-java/" >}}
+Excel táblázatok manipulálása, valamint PowerPoint és OpenOffice prezentációk olvasása, írása, létrehozása és konvertálása PHP alkalmazásokban.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/hu/family/" innerText="Az összes High Code API megtekintése" >}}
@@ -29,68 +41,94 @@ Különféle dokumentumformátumok és képek létrehozása, betöltése, manipu
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code API-k tartalmazzák" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
-Manipuláljon és dolgozzon fel Microsoft Word fájlokat REST API-hívással bármilyen eszközről.
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+A Word dokumentummanipulációs SDK-k bármely nyelvvel támogatják az HTTP kéréseket, lehetővé téve a Word dokumentumok felhőalapú létrehozását, szerkesztését és konvertálását különböző formátumokban, például DOC, DOCX, RTF, PDF és még sok másban.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
-PDF REST API-k a PDF dokumentumok egyszerű létrehozásához, rendereléséhez, felosztásához és konvertálásához.
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+Az Aspose.PDF Cloud platformfüggetlen REST-alapú SDK-kat kínál a PDF fájlok létrehozásához, módosításához és konvertálásához különböző platformokon. A fejlesztők könnyen olvashatják, írhatják és manipulálhatják a PDF dokumentumokat a felhőben.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
-Aspose.Cells Cloud API-k táblázatkezelési alkalmazások fejlesztésére Több Microsoft Excel formátumot támogató alkalmazások.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+Az Aspose.Cells Cloud REST-alapú SDK-kat kínál az Excel táblázatok kezeléséhez, lehetővé téve a formátumok, például XLS, XLSX, XLSM és még sok más létrehozását, módosítását, kezelését és konvertálását.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="Az összes alacsony kódú API megtekintése" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+Az Aspose.Email Cloud egyszerűsíti az e-mail üzenetek kezelését felhőalapú alkalmazásokban. Az egyetemes REST-alapú SDK-k bármely nyelvvel és platformmal együttműködnek, natív támogatással az Outlook MSG, EML és MHTML üzenetformátumokhoz.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+A PowerPoint kezelési SDK-k lehetővé teszik a felhőalapú feladatokat, például a PowerPoint prezentációk olvasását, írását, konvertálását és manipulálását. Támogatják a PPT, PPTX, PPS és még sok más népszerű prezentációs formátumot.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+
+Az Aspose.Imaging Cloud REST API-alapú SDK-kat kínál képmanipulációhoz és konvertáláshoz alkalmazásokban. Ezek az SDK-k sokoldalúak, működnek bármely nyelven és platformon, és támogatják a PNG, GIF, BMP, TIFF és JPEG képformátumokat.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="Az összes Low Code API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total No Code Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total No Code alkalmazások tartalmazzák" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
-Könnyen kombinálhat több fájlt. Online egyesítse a dokumentumokat az Ön igényei szerint.
+Az ingyenes online fájlfűző alkalmazásunk megkönnyíti több fájl kombinálását különböző formátumokban, például képek, Word, PDF, PowerPoint és Excel. Kiválaszthatja a különböző típusú fájlokat, választhatja a kívánt formátumot, és rendezheti a fájlokat a fűzés előtt.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
-Könnyen tömörítse a dokumentumokat, miközben megőrzi az eredeti minőséget.
+Egyszerűen tömörítheti és optimalizálhatja Word, PDF, PowerPoint és Excel fájljait ingyenesen online, beleértve a képeket is. Eszközünk megőrzi a minőséget, lehetőséget biztosít a tömörítési szint kiválasztására, és egyszerre kezeli a több fájlt.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
-Ingyenesen konvertálhat több mint 100 formátumot más dokumentumokká online.
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
+Az Aspose.Total Conversion egy ingyenes online fájlkonvertáló különböző formátumokhoz, beleértve a PDF, Word, HTML és Excel formátumokat is. Gyors és pontos konverziókat kínál, beleértve a képmegtartást is, egy felhasználóbarát húzás és ejtéses felülettel.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="Az összes kód nélküli alkalmazás megtekintése" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Signature" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
+Ez a ingyenes online e-aláírás alkalmazás lehetővé teszi különböző dokumentumtípusok, például PDF, Word, PowerPoint, Excel és képfájlok egyszerű aláírását, hatékonyan leegyszerűsítve az aláírás hozzáadásának folyamatát több fájlhoz.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Vízjel" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
+
+Ez a ingyenes online alkalmazás leegyszerűsíti a vízjel elhelyezését különböző dokumentumtípusokhoz, ideértve a PDF, Word, PowerPoint, Excel és képfájlokat is. Széleskörű formátumtámogatást kínál, beleértve a Word, PDF, képek, PowerPoint és Excel fájlokat.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Néző" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
+Fedezze fel a fájlok ingyenes online megnyitásának kényelmét, amely bármely eszközről elérhető, és minden böngészővel kompatibilis. Platformunk gyors és egyenes megoldást kínál a fájlok ingyenes online megnyitásához és megtekintéséhez.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="Az összes No Code alkalmazás megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Words-ről." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a mi szavunkra hagyatkozzon. Nézze meg, mit mondanak a felhasználók az Aspose.Words-ról." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
+
 <p class="first">
- Jelenleg az Aspose.Words &amp; Az Aspose.Cells a szabadalmaztatott szoftveralkalmazásainkban. Ezek az összetevők jelentős fejlesztést és fejlesztést takarítottak meg; feldolgozási időt, és lehetővé tette számunkra, hogy a Microsoft Office dokumentumfunkcióit gyorsan és gyorsan integráljuk alkalmazásainkba; hatékony módon.
- <em>
-  Sean Diamond | Szoftverfejlesztési alelnök | RCP megoldások
- </em>
+Jelenleg az Aspose.Words és az Aspose.Cells alkalmazást használjuk szabadalmaztatott szoftvereinkben. Ezek a komponensek jelentős fejlesztési és feldolgozási időt takarítottak meg, lehetővé téve számunkra, hogy gyorsan és hatékonyan integráljuk a Microsoft Office dokumentumfunkciókat alkalmazásainkba.
+<em>
+Sean Diamond | Szoftverfejlesztési alelnök | RCP Solutions
+</em>
 </p>
-
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-<p class="second">
- Az Aspose.Words lehetővé tette számunkra, hogy egyetlen gombnyomással automatizáljuk az előre meghatározott sablonok kitöltését. A Microsoft Office Automation szimulációja Microsoft Office objektumkönyvtár nélkül gyors és stabil módszert biztosít igény szerinti dinamikus dokumentumok létrehozására.
- <em>
-  Chris Bombardo | elnök | Sebesség
-  <sup>
-   K4
-  </sup>
- </em>
-</p>
 
+<p class="second">
+Az Aspose.Words lehetővé tette számunkra, hogy automatizáljuk előre meghatározott sablonok egyetlen gombnyomással történő kitöltését. A Microsoft Office automatizációjának szimulálására, a Microsoft Office objektumkönyvtárának szükségessége nélkül, gyors és stabil módszert kínál a dinamikus dokumentumok létrehozásához igény szerint.
+<em>
+Chris Bombardo | Elnök | Velocity
+<sup>
+K4
+</sup>
+</em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/i18n/testimonials >}}
+{{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

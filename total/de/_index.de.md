@@ -1,47 +1,73 @@
 ---
-title: Lokale, Cloud- und App-basierte Dateiformatlösungen 
+title: Dateiformate und Dokumentlösungen für Entwickler und No-Coders
 weight: 9630
-
-description: Erstellen Sie Anwendungen zur Dokumentenbearbeitung mit On-Premise- oder Cloud-APIs oder verwenden Sie einfach plattformübergreifende Apps, um mehr als 100 Dateiformate anzuzeigen, zu vergleichen, zu prüfen oder zu konvertieren
+url_ignore: /
+description: Erstellen Sie Anwendungen zur Dokumentenverarbeitung mithilfe von High-Code- oder Low-Code-APIs oder verwenden Sie einfach plattformübergreifende Apps, um mehr als 100 Dateiformate anzuzeigen, zu vergleichen, zu überprüfen oder zu konvertieren.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Kompletter Satz von Lösungen zur Manipulation von Dateiformaten" h2="Aspose.Total bietet die umfassendste und effizienteste Lösung für die Dokumentenverarbeitung ohne weitere Softwareinstallationen und Abhängigkeiten." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Dateiformate und Dokumentverarbeitungslösungen" h2="Erstellen Sie Unternehmensanwendungen zur Verarbeitung von Dateiformaten mit herunterladbaren High-Code-Bibliotheken oder Low-Code-REST-APIs, ohne Abhängigkeiten, oder verwenden Sie kostenlose Online-Apps mühelos." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Produktfamilie" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs enthalten" >}}
+{{< blocks/products/pf/product-card-row title="High-Code-APIs von Aspose.Total umfassen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/de/net/" >}}
-Lokale .NET-APIs zur Bearbeitung mehrerer Dokumentformate in Windows-, Web-, iOS- und Android-basierten Anwendungen.
+{{< blocks/products/pf/product pfName="Aspose.Total für " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/de/net/" >}}
+On-Premise .NET-APIs zur Manipulation mehrerer Dokumentformate in Windows-, Web-, iOS- und Android-Anwendungen.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/de/java/" >}}
-Java-basierte Plattform-APIs zum Erstellen, Ändern, Rendern oder Analysieren von Microsoft Word-Dateien, Web-, Text- und OpenOffice-Dokumenten direkt in Anwendungen.
+{{< blocks/products/pf/product pfName="Aspose.Total für " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/de/java/" >}}
+Java-basierte Plattform-APIs zum Erstellen, Bearbeiten, Rendern oder Analysieren von Microsoft Word-Dateien, Web-, Text- und OpenOffice-Dokumenten direkt in Anwendungen.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/de/cpp/" >}}
-Erstellen, laden, bearbeiten oder konvertieren Sie verschiedene Dokumentformate und Bilder in reinen C++-Anwendungen mithilfe der nativen C++-Bibliothek.
+{{< blocks/products/pf/product pfName="Aspose.Total für " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/de/cpp/" >}}
+Erstellen, Laden, Manipulieren oder Konvertieren unterschiedlicher Dokumentformate und Bilder in reinen C++-Anwendungen mithilfe der nativen C++-Bibliothek.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total für " title="Python über .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/de/python-net/" >}}
+Generieren, Bearbeiten oder Konvertieren von DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- und 3D-Formaten mithilfe der Python-Bibliothekssuite für Microsoft Word, PowerPoint & Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total für " title="Node.js über Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/de/nodejs-java/" >}}
+Manipulation von Excel-Tabellen und Visio-Dateien sowie Scannen und Generieren von Barcodes verschiedener Symbologien mithilfe von Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total für " title="PHP über Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/de/php-java/" >}}
+Manipulation von Excel-Tabellen sowie Lesen, Schreiben, Erstellen und Konvertieren von PowerPoint- und OpenOffice-Präsentationen in PHP-Anwendungen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/de/family/" innerText="Alle High-Code-APIs anzeigen" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total Low-Code-APIs enthalten" >}}
+{{< blocks/products/pf/product-card-row title="Low-Code-APIs von Aspose.Total umfassen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
-Bearbeiten und verarbeiten Sie Microsoft Word-Dateien über den REST-API-Aufruf von jedem Gerät aus.
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+Word-Dokumentmanipulations-SDKs arbeiten mit jeder Sprache, die HTTP-Anfragen unterstützt, und ermöglichen die cloudbasierte Erstellung, Bearbeitung und Konvertierung von Word-Dokumenten in verschiedenen Formaten wie DOC, DOCX, RTF, PDF und mehr.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
-PDF-REST-APIs zum einfachen Erstellen, Rendern, Teilen und Konvertieren von PDF-Dokumenten.
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+Aspose.PDF Cloud bietet plattformunabhängige REST-basierte SDKs zur Erstellung, Änderung und Konvertierung von PDF-Dateien auf verschiedenen Plattformen. Entwickler können PDF-Dokumente in der Cloud problemlos lesen, schreiben und manipulieren.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
-Aspose.Cells Cloud-APIs zur Entwicklung von Tabellenbearbeitungs-Apps, die mehrere Microsoft Excel-Formate unterstützen.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+Aspose.Cells Cloud bietet REST-basierte SDKs zur Verarbeitung von Excel-Tabellen und ermöglicht die Erstellung, Änderung, Verwaltung und Konvertierung von Formaten wie XLS, XLSX, XLSM und mehr.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+Aspose.Email Cloud vereinfacht das Management von E-Mail-Nachrichten für cloudbasierte Apps. Die vielseitigen REST-basierten SDKs arbeiten mit jeder Sprache und Plattform und unterstützen die Outlook MSG-, EML- und MHTML-Nachrichtenformate nativ.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+Die PowerPoint-Management-SDKs ermöglichen cloudbasierte Aufgaben wie Lesen, Schreiben, Konvertieren und Bearbeiten von PowerPoint-Präsentationen. Sie unterstützen verschiedene beliebte Präsentationsformate wie PPT, PPTX, PPS und mehr.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud-Produktfamilie" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+
+Aspose.Imaging Cloud bietet REST-API-basierte SDKs zur Bildmanipulation und -konvertierung in Anwendungen. Diese SDKs sind vielseitig einsetzbar, arbeiten mit jeder Sprache und Plattform und unterstützen Rasterbildformate wie PNG, GIF, BMP, TIFF und JPEG.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="Alle Low-Code-APIs anzeigen" >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 

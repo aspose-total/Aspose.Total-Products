@@ -1,97 +1,134 @@
 ---
-title: 온프레미스, 클라우드 및 앱 기반 파일 형식 솔루션 
+title: 개발자 및 노코더를 위한 파일 형식 및 문서 솔루션
 weight: 9630
-
-description: On Premise 또는 Cloud API를 사용하여 문서 조작 애플리케이션을 빌드하거나 단순히 크로스 플랫폼 앱을 사용하여 100개 이상의 파일 형식을 보고, 비교하고, 검사하거나 변환합니다.
+url_ignore: /
+description: High Code 또는 Low Code API를 사용하여 문서 조작 응용 프로그램을 작성하거나, 간단히 100개 이상의 파일 형식을 보거나, 비교하거나, 검사하거나, 변환하는 크로스 플랫폼 앱을 사용하세요.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 솔루션 세트" h2="Aspose.Total은 다른 소프트웨어 설치 및 종속성 없이 가장 완벽하고 효율적인 문서 처리 솔루션 세트를 제공합니다." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="파일 형식 및 문서 조작 솔루션" h2="고 코드 다운로드 가능한 클래스 라이브러리 또는 로우 코드 REST API를 사용하여 파일 형식 처리를 위한 엔터프라이즈 응용 프로그램을 만들거나, 종속성이 필요 없습니다. 또는 쉽게 사용할 수 있는 무료 온라인 앱을 사용하세요." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total 제품 패밀리" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Total 하이 코드 API 포함" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total High Code API 포함" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ko/net/" >}}
-온프레미스 .NET API를 사용하여 Windows, 웹, iOS 및 Android 기반 애플리케이션 내에서 여러 문서 형식을 조작합니다.
+Windows, Web, iOS 및 Android 기반 응용 프로그램 내에서 여러 문서 형식을 조작하는 On Premise .NET API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ko/java/" >}}
-응용 프로그램 내에서 직접 Microsoft Word 파일, 웹, 텍스트 및 OpenOffice 문서를 생성, 수정, 렌더링 또는 구문 분석하는 Java 기반 플랫폼 API.
+앱 내에서 Microsoft Word 파일, Web, Text 및 OpenOffice 문서를 만들거나 수정하거나 렌더링하거나 구문 분석하는 Java 기반 플랫폼 API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ko/cpp/" >}}
-네이티브 C++ 라이브러리를 사용하여 순수 C++ 애플리케이션 내에서 다양한 문서 형식과 이미지를 생성, 로드, 조작 또는 변환합니다.
+순수한 C++ 애플리케이션 내에서 다양한 문서 형식 및 이미지를 생성, 로드, 조작 또는 변환하는 원시 C++ 라이브러리.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/ko/family/" innerText="모든 하이 코드 API 보기" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/ko/python-net/" >}}
+Microsoft Word, PowerPoint 및 Outlook을 위한 Python 라이브러리 스위트를 사용하여 DOC, DOCX, PPT, PPTX, EML, MSG 및 3D 형식 생성, 편집 또는 변환.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/ko/nodejs-java/" >}}
+Node.js를 사용하여 Excel 스프레드 시트 및 Visio 파일을 조작하고 다양한 심볼로지의 바코드를 스캔하고 생성.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/ko/php-java/" >}}
+Excel 스프레드 시트를 조작하고 PHP 응용 프로그램에서 PowerPoint 및 OpenOffice 프레젠테이션을 읽고, 쓰고, 만들고 변환.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/ko/family/" innerText="모든 하이코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total 로우 코드 API 포함" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total Low Code API 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
-모든 장치에서 REST API 호출을 통해 Microsoft Word 파일을 조작하고 처리합니다.
+{{< blocks/products/pf/product pfName="Aspose.Words" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+HTTP 요청을 지원하는 모든 언어와 함께 작동하는 Word 문서 조작 SDK는 클라우드 기반으로 Word 문서를 생성, 편집 및 변환합니다. DOC, DOCX, RTF, PDF 등과 같은 다양한 형식.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
-PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 변환할 수 있습니다.
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+플랫폼 독립적인 REST 기반 SDK로 여러 플랫폼에서 PDF 파일을 생성, 수정 및 변환합니다. 개발자는 클라우드에서 PDF 문서를 읽고, 쓰고, 조작할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
-여러 Microsoft Excel 형식을 지원하는 스프레드시트 조작 앱을 개발하기 위한 Aspose.Cells Cloud API.
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+Excel 스프레드 시트를 처리하기 위한 REST 기반 SDK를 제공하며 XLS, XLSX, XLSM 등의 형식을 생성, 수정, 관리 및 변환합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="모든 로우 코드 API 보기" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+클라우드 기반 앱을 위한 이메일 메시지 관리를 단순화하는 Aspose.Email Cloud. 다양한 언어와 플랫폼을 지원하며 Outlook MSG, EML 및 MHTML 메시지 형식을 네이티브로 지원합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+PowerPoint 관리 SDK는 클라우드 기반 작업을 가능하게 하며 PowerPoint 프레젠테이션을 읽고, 쓰고, 변환하며 조작할 수 있습니다. PPT, PPTX, PPS 등과 같은 다양한 인기있는 프레젠테이션 형식을 지원합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="클라우드 제품 패밀리" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+이미지 조작 및 변환을 위한 REST API 기반 SDK를 제공하는 Aspose.Imaging Cloud. 다양한 언어와 플랫폼에서 작동하며 PNG, GIF, BMP, TIFF, JPEG와 같은 래스터 이미지 형식을 지원합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="모든 로우코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total 코드 앱 포함 없음" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total No Code 앱 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
-여러 파일을 쉽게 결합할 수 있습니다. 필요에 따라 온라인으로 문서를 병합합니다.
+{{< blocks/products/pf/product pfName="Aspose.Total " title="병합" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+다양한 형식의 파일을 조합하는 무료 온라인 파일 병합 앱은 이미지, Word, PDF, PowerPoint 및 Excel과 같은 다양한 형식의 파일을 병합하는 것을 간소화합니다. 여러 유형의 파일을 병합하고 선호하는 형식을 선택하고 병합 전에 파일 순서를 정렬할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
-원본 품질을 유지하면서 문서를 쉽게 압축할 수 있습니다.
+{{< blocks/products/pf/product pfName="Aspose.Total " title="압축" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+무료로 온라인에서 Word, PDF, PowerPoint 및 Excel 파일을 쉽게 압축하고 최적화하며 이미지를 포함합니다. 품질을 유지하고 압축 수준을 선택하며 여러 파일을 동시에 처리할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
-100개 이상의 형식을 온라인에서 다른 문서로 자유롭게 변환하십시오.
+{{< blocks/products/pf/product pfName="Aspose.Total " title="변환" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
+Aspose.Total Conversion은 PDF, Word, HTML 및 Excel을 포함한 다양한 형식의 파일 변환을위한 무료 온라인 파일 컨버터입니다. 빠르고 정확한 변환 및 이미지 저장을 제공하며 사용자 친화적인 드래그 앤 드롭 인터페이스를 사용합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="코드 없음 앱 모두 보기" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="서명" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
+이 무료 온라인 전자 서명 앱은 PDF, Word, PowerPoint, Excel 및 이미지 파일과 같은 다양한 문서 유형에 쉽게 서명 할 수 있습니다. 여러 파일에 서명을 추가하는 프로세스을 효율적으로 간소화합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="워터마크" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
+
+이 무료 온라인 앱은 PDF, Word, PowerPoint, Excel 및 이미지 파일과 같은 다양한 문서 유형에 대한 워터마킹을 간소화합니다. Word, PDF, 이미지, PowerPoint 및 Excel 파일을 포함한 넓은 형식 지원을 제공합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total " title="뷰어" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
+무료로 온라인에서 모든 기기에서 열기 쉽고 모든 브라우저와 호환되는 빠르고 간단한 솔루션을 제공하는 파일을 탐색하세요. 우리의 플랫폼은 온라인에서 파일을 열고 보는 데 빠르고 직관적인 솔루션을 무료로 제공합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="모든 노코드 앱 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-
-{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Words에 대한 사용자의 평가를 확인하세요." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/testimonials title="사용자의 의견" subTitle="우리의 말만 믿지 마십시오. 사용자들이 Aspose.Words에 대해 어떻게 생각하는지" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- 현재 Aspose.Words &amp; 당사의 독점 소프트웨어 애플리케이션 전반에 걸친 Aspose.Cell. 이러한 구성 요소는 상당한 개발 및&amp; 처리 시간을 단축하고 Microsoft Office 문서 기능을 신속하고 신속하게 애플리케이션에 통합할 수 있었습니다. 효율적인 방식.
- <em>
-  숀 다이아몬드 | 소프트웨어 개발 부사장 | RCP 솔루션
- </em>
+우리는 현재 Aspose.Words 및 Aspose.Cells를 당사의 소프트웨어 응용 프로그램 전체에서 활용하고 있습니다. 이러한 구성 요소는 중요한 개발 및 처리 시간을 절약하였으며 Microsoft Office 문서 기능을 빠르고 효율적인 방식으로 응용 프로그램에 통합할 수 있게 해주었습니다.
+<em>
+Sean Diamond | 소프트웨어 개발 부사장 | RCP 솔루션
+</em>
 </p>
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Words를 사용하면 버튼을 한 번만 클릭하여 미리 정의된 템플릿의 완성을 자동화할 수 있습니다. Microsoft Office 개체 라이브러리 없이 Microsoft Office 자동화를 시뮬레이션하는 기능은 요청 시 동적 문서를 생성하는 빠르고 안정적인 방법을 제공합니다.
- <em>
-  크리스 봄바르도 | 회장 | 속도
-  <sup>
-   K4
-  </sup>
- </em>
+Aspose.Words는 단일 버튼 클릭으로 사전 정의된 템플릿의 자동 완성을 가능케 했습니다. Microsoft Office 개체 라이브러리가 필요 없이 Microsoft Office 자동화를 시뮬레이트하는 능력은 필요할 때 동적 문서를 빠르고 안정적으로 생성하는 데 효과적인 방법을 제공합니다.
+<em>
+Chris Bombardo | 대통령 | Velocity
+<sup>
+K4
+</sup>
+</em>
 </p>
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/i18n/testimonials >}}
+{{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
