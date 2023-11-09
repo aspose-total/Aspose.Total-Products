@@ -96,7 +96,7 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupPPTs.cloud/templates/brand/images/groupPPTs/conversion/groupPPTs_conversion-brand.png" alt="GYIK" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="GYIK" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>

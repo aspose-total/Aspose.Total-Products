@@ -82,7 +82,7 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupDOCXs.cloud/templates/brand/images/groupDOCXs/conversion/groupDOCXs_conversion-brand.png" alt="Veelgestelde vragen" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Veelgestelde vragen" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
