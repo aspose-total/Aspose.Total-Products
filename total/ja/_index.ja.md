@@ -103,7 +103,7 @@ Aspose.Total Conversionは、PDF、Word、HTML、Excelなどさまざまな形�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="ユーザーの声" subTitle="私たちの言葉だけを信じないでください。Aspose.Wordsに対するユーザーの声をご覧ください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ユーザーの声" subTitle="私たちの言葉だけを信じないでください。Aspose.Wordsに対するユーザーの声をご覧ください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -128,7 +128,7 @@ Aspose.Wordsを使用すると、ボタンを1回クリックするだけで事�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

@@ -102,7 +102,7 @@ Odkryj wygodę otwierania plików online za darmo, dostępną z dowolnego urząd
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co Ludzie Mówią" subTitle="Nie bierzmy tylko naszego słowa. Zobacz, co użytkownicy mają do powiedzenia o Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co Ludzie Mówią" subTitle="Nie bierzmy tylko naszego słowa. Zobacz, co użytkownicy mają do powiedzenia o Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -127,7 +127,7 @@ K4
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

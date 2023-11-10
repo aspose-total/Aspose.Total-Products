@@ -103,7 +103,7 @@ Utforska bekvämligheten att öppna filer online gratis, tillgängligt från vil
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Vad människor säger" subTitle="Tro inte bara på oss. Se vad användarna säger om Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad människor säger" subTitle="Tro inte bara på oss. Se vad användarna säger om Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -128,7 +128,7 @@ Utforska bekvämligheten att öppna filer online gratis, tillgängligt från vil
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

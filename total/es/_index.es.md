@@ -41,27 +41,27 @@ Manipula hojas de cálculo de Excel, lee, escribe, crea y convierte presentacion
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total APIs de bajo código incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Familia de productos en la nube" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words " title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family" >}}
 Las SDKs de manipulación de documentos Word trabajan con cualquier lenguaje que admita solicitudes HTTP, lo que permite la creación, edición y conversión basada en la nube de documentos Word en varios formatos como DOC, DOCX, RTF, PDF y más.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Familia de productos en la nube" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF " title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family" >}}
 Aspose.PDF Cloud proporciona SDKs REST independientes de la plataforma para crear, modificar y convertir archivos PDF en varias plataformas. Los desarrolladores pueden leer, escribir y manipular fácilmente documentos PDF en la nube.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Familia de productos en la nube" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells " title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud ofrece SDKs REST para el manejo de hojas de cálculo Excel, permitiendo la creación, modificación, gestión y conversión de formatos como XLS, XLSX, XLSM y más.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Familia de productos en la nube" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email " title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family" >}}
 Aspose.Email Cloud simplifica la gestión de mensajes de correo electrónico para aplicaciones basadas en la nube. Sus versátiles SDKs REST trabajan con cualquier lenguaje y plataforma, admitiendo formatos de mensaje Outlook MSG, EML y MHTML de forma nativa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Familia de productos en la nube" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides " title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family" >}}
 Las SDKs de gestión de PowerPoint permiten tareas basadas en la nube como leer, escribir, convertir y manipular presentaciones de PowerPoint. Admiten varios formatos populares de presentación como PPT, PPTX, PPS y más.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Familia de productos en la nube" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family" >}}
 Aspose.Imaging Cloud ofrece SDKs basados en API REST para la manipulación y conversión de imágenes en aplicaciones. Estos SDKs son versátiles, trabajan con cualquier lenguaje y plataforma, y admiten formatos de imágenes rasterizadas como PNG, GIF, BMP, TIFF y JPEG.
 {{< /blocks/products/pf/product >}}
 

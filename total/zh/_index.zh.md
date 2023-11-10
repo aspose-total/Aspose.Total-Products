@@ -101,7 +101,7 @@ Aspose.Total Conversion 是用于各种格式（包括 PDF、Word、HTML 和 Exc
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="用户评论" subTitle="不要只相信我们的话。看看用户对 Aspose.Words 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="用户评论" subTitle="不要只相信我们的话。看看用户对 Aspose.Words 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -127,7 +127,7 @@ Aspose.Words 允许我们通过单击按钮自动完成预定义模板。无需 
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

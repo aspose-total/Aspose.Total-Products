@@ -1,6 +1,6 @@
+---
 title: Решения для файловых форматов и документов для разработчиков и нетиповых программистов 
 weight: 9630
-url_ignore: /
 description: Создавайте приложения для обработки документов с использованием API с высоким или низким уровнем кода или просто используйте приложения для просмотра, сравнения, проверки или конвертации более чем 100 форматов файлов.
 ---
 
@@ -71,27 +71,27 @@ Aspose.Imaging Cloud предлагает SDK на основе REST для ма
 
 {{< blocks/products/pf/product-card-row title="Включены приложения без кода Aspose.Total" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Слияние" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Наше бесплатное онлайн-приложение для объединения файлов упрощает комбинирование нескольких файлов различных форматов, таких как изображения, Word, PDF, PowerPoint и Excel. Вы можете объединять файлы разных типов, выбирать предпочитаемый формат и устанавливать порядок файлов перед объединением.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Компресс" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Легко сжимайте и оптимизируйте файлы Word, PDF, PowerPoint и Excel онлайн бесплатно, включая изображения. Наш инструмент поддерживает качество, позволяет выбирать уровень сжатия и обрабатывать несколько файлов одновременно.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Конверсия" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
 Aspose.Total Conversion - бесплатный онлайн-конвертер файлов различных форматов, включая PDF, Word, HTML и Excel. Предлагает быстрые и точные конвертации, включая сохранение изображений, с удобным интерфейсом перетаскивания и отпускания.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total Signature" title="Aspose.Total Signature - бесплатное онлайн-приложение для электронной подписи" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Подпись" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
 Это бесплатное онлайн-приложение для электронной подписи позволяет легко подписывать различные типы документов, такие как PDF, Word, PowerPoint, Excel и файлы изображений, упрощая процесс добавления вашей подписи к нескольким файлам.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total Watermark" title="Aspose.Total Watermark - бесплатное онлайн-приложение для наложения водяных знаков" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Водяной знак" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
 Это бесплатное онлайн-приложение упрощает наложение водяных знаков на различные типы документов, включая PDF, Word, PowerPoint, Excel и файлы изображений. Предоставляет обширную поддержку форматов, включая Word, PDF, изображения, PowerPoint и файлы Excel.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total Viewer" title="Aspose.Total Viewer - бесплатное онлайн-приложение для просмотра" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Зритель" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
 Исследуйте удобство открытия файлов онлайн бесплатно, доступно с любого устройства и совместимо со всеми браузерами. Наша платформа предлагает быстрое и простое решение для открытия и просмотра файлов онлайн без затрат.
 {{< /blocks/products/pf/product >}}
 
@@ -101,7 +101,7 @@ Aspose.Total Conversion - бесплатный онлайн-конвертер �
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Что говорят люди" subTitle="Не просто слушайте нас. Узнайте, что пользователи говорят о Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не просто слушайте нас. Узнайте, что пользователи говорят о Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -126,7 +126,7 @@ Aspose.Total Conversion - бесплатный онлайн-конвертер �
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

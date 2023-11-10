@@ -277,7 +277,7 @@ Aspose.BarCode for PHP via Java は、PHP アプリケーション用に設計�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人々の意見" subTitle="私たちの言葉をそのまま鵜呑みにしないでください。 Aspose.Total API についてのユーザーの意見をご覧ください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々の意見" subTitle="私たちの言葉をそのまま鵜呑みにしないでください。 Aspose.Total API についてのユーザーの意見をご覧ください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="イーゴリ・クラフケW3K テクノロジア、ブラジル" >}}
 実装中に、Aspose.Total の機能のほんの一部にしか触れていないことがわかりました。 API の使いやすさにより、開発者はシンプルでクリーンなコードで「作業を完了する」という満足感を得ることができ、最終製品の堅牢性は顧客を満足させます。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Aspose.BarCode for PHP via Java は、PHP アプリケーション用に設計�
 {{< blocks/products/pf/testimonials-quote poster="トーマス |参加して共有、ドイツ" >}}
 Aspose.Total は、ほぼすべての種類のドキュメントを高速かつ高品質で処理する強力なスイートです。プログラミングの労力を効果的に削減します。
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

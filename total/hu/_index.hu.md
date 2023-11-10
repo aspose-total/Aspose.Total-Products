@@ -103,7 +103,7 @@ Fedezze fel a fájlok ingyenes online megnyitásának kényelmét, amely bármel
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a mi szavunkra hagyatkozzon. Nézze meg, mit mondanak a felhasználók az Aspose.Words-ról." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a mi szavunkra hagyatkozzon. Nézze meg, mit mondanak a felhasználók az Aspose.Words-ról." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 
@@ -128,7 +128,7 @@ K4
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

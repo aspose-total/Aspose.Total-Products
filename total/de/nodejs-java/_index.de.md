@@ -209,7 +209,7 @@ Node.js Visio-API zum Verarbeiten und Exportieren von Microsoft Visio-Formaten, 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total APIs sagen." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total APIs sagen." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasilien" >}}
 Während unserer Implementierung konnten wir spüren, dass wir nur einen Bruchteil dessen erreicht haben, wozu Aspose.Total in der Lage ist. Die Benutzerfreundlichkeit der API gibt den Entwicklern Zufriedenheit, weil sie mit ihrem einfachen und sauberen Code „ihre Arbeit erledigen“, und die Robustheit des Endprodukts macht unsere Kunden glücklich.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Wir können nur eines sagen: hervorragendes Produkt und exzellenter Service. Man
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Mitmachen und teilen, Deutschland" >}}
 Aspose.Total ist eine leistungsstarke Suite zur Verarbeitung nahezu aller Arten von Dokumenten mit hoher Geschwindigkeit und hervorragender Qualität. Es reduziert effektiv den Programmieraufwand.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

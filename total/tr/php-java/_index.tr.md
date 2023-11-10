@@ -277,7 +277,7 @@ Aspose.BarCode for PHP via Java, PHP uygulamaları için tasarlanmış bir barko
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="İgor Klafke | W3K Technologia, Brezilya" >}}
 Uygulamamız sırasında, Aspose.Total'un yapabileceklerinin yalnızca küçük bir kısmına dokunduğumuzu hissettik. API'nin kullanım kolaylığı, geliştiricilere basit ve temiz koduyla "işlerini yapma" konusunda memnuniyet verir ve son ürünün sağlamlığı müşterilerimizi mutlu eder.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Tek bir şey söyleyebiliriz: mükemmel ürün ve mükemmel hizmet. Bazen, müş
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Katılın ve Paylaşın, Almanya" >}}
 Aspose.Total, neredeyse her türden belgeyi yüksek hızda ve mükemmel kalitede işlemek için güçlü bir pakettir. Programlama çabasını etkili bir şekilde azaltır.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

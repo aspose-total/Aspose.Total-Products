@@ -209,7 +209,7 @@ Node.js Visio API для обработки и экспорта форматов
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Игорь Клафке | W3K Технология, Бразилия" >}}
 Во время нашей реализации мы могли почувствовать, что коснулись лишь части того, на что способен Aspose.Total. Простота использования API дает разработчикам удовлетворение от «выполнения работы» с помощью простого и чистого кода, а надежность конечного продукта радует наших клиентов.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Node.js Visio API для обработки и экспорта форматов
 {{< blocks/products/pf/testimonials-quote poster="Томас | Присоединяйся и делись, Германия" >}}
 Aspose.Total — это мощный пакет для обработки практически всех видов документов с высокой скоростью и отличным качеством. Это эффективно уменьшает усилия по программированию.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

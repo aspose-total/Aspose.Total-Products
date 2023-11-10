@@ -103,7 +103,7 @@ Jelajahi kenyamanan membuka file secara online secara gratis, dapat diakses dari
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Apa Kata Mereka" subTitle="Jangan hanya mendengar kata-kata kami. Lihat apa yang pengguna katakan tentang Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa Kata Mereka" subTitle="Jangan hanya mendengar kata-kata kami. Lihat apa yang pengguna katakan tentang Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -127,7 +127,7 @@ Aspose.Words memungkinkan kami mengotomatisasi penyelesaian templat yang telah d
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

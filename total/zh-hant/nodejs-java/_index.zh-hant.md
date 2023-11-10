@@ -209,7 +209,7 @@ Node.js Visio API 用於處理和導出 Microsoft Visio 格式，包括 VSDX、V
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="伊戈爾·克拉夫克 | W3K Tecnologia，巴西" >}}
 在我們的實施過程中，我們可以感覺到我們只觸及了 Aspose.Total 能力的一小部分。 API 的易用性讓開發人員對“完成工作”感到滿意，代碼簡單乾淨，最終產品的穩健性讓我們的客戶滿意。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Node.js Visio API 用於處理和導出 Microsoft Visio 格式，包括 VSDX、V
 {{< blocks/products/pf/testimonials-quote poster="托馬斯 |加入並分享，德國" >}}
 Aspose.Total 是一個強大的套件，可以高速和高質量地處理幾乎所有類型的文檔。它有效地減少了編程工作量。
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

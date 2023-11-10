@@ -277,7 +277,7 @@ Aspose.BarCode for PHP via Java je sbírka API pro generování a čtení čáro
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazílie" >}}
 Během naší implementace jsme cítili, že jsme se dotkli jen zlomku toho, čeho je Aspose.Total schopen. Snadné použití API dává vývojářům uspokojení z toho, že „udělají práci“ s jednoduchým a čistým kódem, a robustnost koncového produktu dělá naše zákazníky šťastnými.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Můžeme říci jen jednu věc: vynikající produkt a vynikající služby. Ně
 {{< blocks/products/pf/testimonials-quote poster="Tomáš | Připojte se a sdílejte, Německo" >}}
 Aspose.Total je výkonná sada pro zpracování téměř všech druhů dokumentů vysokou rychlostí a ve skvělé kvalitě. Efektivně snižuje námahu při programování.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

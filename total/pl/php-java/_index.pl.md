@@ -277,7 +277,7 @@ Aspose.BarCode for PHP via Java to zbiór interfejsów API do generowania i odcz
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazylia" >}}
 Podczas naszego wdrożenia czuliśmy, że dotknęliśmy tylko ułamka tego, do czego jest zdolny Aspose.Total. Łatwość obsługi API daje programistom satysfakcję z „wykonania pracy” dzięki prostemu i przejrzystemu kodowi, a solidność produktu końcowego uszczęśliwia naszych klientów.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Możemy powiedzieć tylko jedno: doskonały produkt i doskonała obsługa. Czasa
 {{< blocks/products/pf/testimonials-quote poster="Tomasz | Dołącz i udostępnij, Niemcy" >}}
 Aspose.Total to potężny pakiet do przetwarzania prawie wszystkich rodzajów dokumentów z dużą szybkością i doskonałą jakością. Skutecznie zmniejsza wysiłek związany z programowaniem.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

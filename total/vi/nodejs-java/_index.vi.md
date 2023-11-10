@@ -209,7 +209,7 @@ Node.js Visio API để xử lý và xuất các định dạng Microsoft Visio 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ nhận lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ nhận lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | Công nghệ W3K, Brazil" >}}
 Trong quá trình triển khai, chúng tôi có thể cảm thấy rằng chúng tôi mới chỉ chạm được một phần nhỏ so với khả năng của Aspose.Total. Tính dễ sử dụng của API mang lại cho nhà phát triển sự hài lòng khi “hoàn thành công việc” với mã đơn giản và rõ ràng, đồng thời độ mạnh mẽ của sản phẩm cuối cùng khiến khách hàng của chúng tôi hài lòng.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Chúng tôi chỉ có thể nói một điều: sản phẩm tuyệt vời và d
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Tham gia và chia sẻ, Đức" >}}
 Aspose.Total là một bộ phần mềm mạnh mẽ để xử lý gần như tất cả các loại tài liệu với tốc độ cao và chất lượng tuyệt vời. Nó có hiệu quả làm giảm nỗ lực lập trình.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

@@ -41,27 +41,27 @@ On Premise .NET APIs για τον χειρισμό πολλαπλών μορφ�
 
 {{< blocks/products/pf/product-card-row title="Τα APIs Χαμηλού Κώδικα του Aspose.Total Περιλαμβάνουν" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words " title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
 Οι SDKs επεξεργασίας εγγράφων Word λειτουργούν με οποιαδήποτε γλώσσα που υποστηρίζει αιτήματα HTTP, επιτρέποντας τη δημιουργία, την επεξεργασία και τη μετατροπή εγγράφων Word σε διάφορες μορφές όπως DOC, DOCX, RTF, PDF, και πολλά άλλα.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF " title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
 Το Aspose.PDF Cloud παρέχει πλατφορμοανεξάρτητα SDKs βασισμένα σε REST για τη δημιουργία, τροποποίηση και μετατροπή αρχείων PDF σε διάφορες πλατφόρμες. Οι προγραμματιστές μπορούν εύκολα να διαβάσουν, γράψουν και χειριστούν έγγραφα PDF στο cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells " title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
 Το Aspose.Cells Cloud προσφέρει SDKs βασισμένα σε REST για τη χειριστική εργασία φύλλων Excel, επιτρέποντας τη δημιουργία, τροποποίηση, διαχείριση και μετατροπή μορφών όπως XLS, XLSX, XLSM, και πολλά άλλα.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email " title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
 Το Aspose.Email Cloud απλοποιεί τη διαχείριση μηνυμάτων ηλεκτρονικού ταχυδρομείου για εφαρμογές στο cloud. Οι πολυδύναμες SDKs βασισμένες σε REST λειτουργούν με οποιαδήποτε γλώσσα και πλατφόρμα, υποστηρίζοντας φυσικά τις μορφές μηνυμάτων Outlook MSG, EML και MHTML.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides " title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
 Οι πολυδύναμες SDKs διαχείρισης PowerPoint επιτρέπουν εργασίες στο cloud όπως ανάγνωση, εγγραφή, μετατροπή και χειρισμό παρουσιάσεων PowerPoint. Υποστηρίζουν διάφορες δημοφιλείς μορφές παρουσιάσεων όπως PPT, PPTX, PPS και πολλά άλλα.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Οικογένεια Προϊόντων Στο Cloud" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
 Το Aspose.Imaging Cloud προσφέρει πολυδύναμες SDKs βασισμένες σε REST για το χειρισμό εικόνων και τη μετατροπή σε εφαρμογές. Αυτές οι SDKs είναι ευέλικτες, λειτουργούν με οποιαδήποτε γλώσσα και πλατφόρμα, και υποστηρίζουν μορφές εικόνων όπως PNG, GIF, BMP, TIFF και JPEG.
 {{< /blocks/products/pf/product >}}
 
@@ -102,7 +102,7 @@ On Premise .NET APIs για τον χειρισμό πολλαπλών μορφ�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Τι λένε οι άνθρωποι" subTitle="Μην ακούτε μόνο τις λέξεις μας. Δείτε τι λένε οι χρήστες για το Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι λένε οι άνθρωποι" subTitle="Μην ακούτε μόνο τις λέξεις μας. Δείτε τι λένε οι χρήστες για το Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -127,7 +127,7 @@ On Premise .NET APIs για τον χειρισμό πολλαπλών μορφ�
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

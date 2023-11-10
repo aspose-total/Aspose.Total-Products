@@ -1,7 +1,9 @@
+---
 title: Giải pháp Định dạng Tệp & Văn bản cho Nhà phát triển và Người không viết mã
 weight: 9630
 url_ignore: /
 description: Xây dựng ứng dụng xử lý tài liệu bằng Các API High Code hoặc Low Code, hoặc đơn giản là sử dụng ứng dụng đa nền tảng để xem, so sánh, kiểm tra hoặc chuyển đổi hơn 100 định dạng tệp.
+---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Giải pháp Định dạng Tệp & Xử lý Văn bản" h2="Tạo Ứng dụng Doanh nghiệp cho Xử lý Định dạng Tệp với Thư viện Lớp mã có sẵn với High-Code hoặc Low-Code REST APIs, Không cần Phụ thuộc, hoặc Sử dụng Ứng dụng Trực tuyến Miễn phí một cách dễ dàng." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Gia đình Sản phẩm Aspose.Total" subTitlepfName="Aspose.Total">}}
 
@@ -38,27 +40,27 @@ Tạo, chỉnh sửa hoặc chuyển đổi các định dạng DOC, DOCX, PPT, 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs Bao gồm" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
 SDK xử lý tài liệu Word hoạt động với bất kỳ ngôn ngữ nào hỗ trợ các yêu cầu HTTP, cho phép tạo, chỉnh sửa và chuyển đổi tài liệu Word trong các định dạng như DOC, DOCX, RTF, PDF và nhiều hơn nữa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
 Aspose.PDF Cloud cung cấp SDK dựa trên REST độc lập nền tảng để tạo, sửa đổi và chuyển đổi tệp PDF trên các nền tảng khác nhau. Nhà phát triển có thể dễ dàng đọc, viết và điều chỉnh tài liệu PDF trên đám mây.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
 Aspose.Cells Cloud cung cấp SDK dựa trên REST để xử lý bảng tính Excel, cho phép tạo, chỉnh sửa, quản lý và chuyển đổi các định dạng như XLS, XLSX, XLSM và nhiều hơn nữa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
 Aspose.Email Cloud đơn giản hóa việc quản lý thư điện tử cho các ứng dụng dựa trên đám mây. Các SDK dựa trên REST linh hoạt hoạt động với bất kỳ ngôn ngữ và nền tảng nào, hỗ trợ các định dạng thư Outlook MSG, EML và MHTML một cách tự nhiên.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
 Các SDK quản lý PowerPoint cho phép các nhiệm vụ trên đám mây như đọc, viết, chuyển đổi và điều chỉnh bài thuyết trình PowerPoint. Chúng hỗ trợ các định dạng bài thuyết trình phổ biến như PPT, PPTX, PPS và nhiều hơn nữa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Gia đình Sản phẩm Đám mây" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
 
 Aspose.Imaging Cloud cung cấp SDK dựa trên API REST để điều chỉnh và chuyển đổi hình ảnh trong các ứng dụng. Các SDK này linh hoạt, hoạt động với bất kỳ ngôn ngữ và nền tảng nào và hỗ trợ các định dạng hình ảnh raster như PNG, GIF, BMP, TIFF và JPEG.
 {{< /blocks/products/pf/product >}}
@@ -99,7 +101,7 @@ Khám phá sự tiện lợi của việc mở tệp trực tuyến miễn phí,
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Những gì người dùng nói" subTitle="Đừng chỉ tin vào lời nói của chúng tôi. Hãy xem người dùng nói gì về Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Những gì người dùng nói" subTitle="Đừng chỉ tin vào lời nói của chúng tôi. Hãy xem người dùng nói gì về Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -124,7 +126,7 @@ Aspose.Words đã giúp chúng tôi tự động hoàn thành các mẫu đã đ
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

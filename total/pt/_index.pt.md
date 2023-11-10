@@ -40,27 +40,27 @@ Manipule planilhas Excel e leia, escreva, crie e converta apresentações do Pow
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total APIs de Baixo Código Incluem" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
 SDKs de manipulação de documentos do Word funcionam com qualquer linguagem que suporte solicitações HTTP, permitindo a criação, edição e conversão baseada em nuvem de documentos do Word em vários formatos como DOC, DOCX, RTF, PDF e mais.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
 O Aspose.PDF Cloud fornece SDKs independentes de plataforma baseados em REST para criar, modificar e converter arquivos PDF em várias plataformas. Os desenvolvedores podem ler, escrever e manipular documentos PDF na nuvem.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
 Aspose.Cells Cloud oferece SDKs baseados em REST para lidar com planilhas do Excel, permitindo a criação, modificação, gerenciamento e conversão de formatos como XLS, XLSX, XLSM e mais.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
 O Aspose.Email Cloud simplifica a gestão de mensagens de e-mail para aplicativos baseados em nuvem. Seus versáteis SDKs baseados em REST funcionam com qualquer linguagem e plataforma, suportando formatos nativos de mensagem do Outlook MSG, EML e MHTML.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
 SDKs de gerenciamento de apresentações do PowerPoint permitem tarefas baseadas em nuvem, como leitura, escrita, conversão e manipulação de apresentações do PowerPoint. Eles suportam vários formatos populares de apresentação, como PPT, PPTX, PPS e mais.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Família de Produtos na Nuvem" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
 
 O Aspose.Imaging Cloud oferece SDKs baseados em API REST para manipulação e conversão de imagens em aplicativos. Esses SDKs são versáteis, funcionando com qualquer linguagem e plataforma, e suportam formatos de imagem raster como PNG, GIF, BMP, TIFF e JPEG.
 {{< /blocks/products/pf/product >}}
@@ -101,7 +101,7 @@ Explore a conveniência de abrir arquivos online gratuitamente, acessíveis de q
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-{{< blocks/products/pf/testimonials title="O Que as Pessoas Estão Dizendo" subTitle="Não acredite apenas em nossas palavras. Veja o que os usuários têm a dizer sobre o Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="O Que as Pessoas Estão Dizendo" subTitle="Não acredite apenas em nossas palavras. Veja o que os usuários têm a dizer sobre o Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -126,7 +126,7 @@ K4
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

@@ -277,7 +277,7 @@ Aspose.BarCode för PHP via Java är en samling av streckkodsgenerering och läs
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användarna har att säga om Aspose.Total API:er." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användarna har att säga om Aspose.Total API:er." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasilien" >}}
 Under vår implementering kunde vi ana att vi bara rörde en bråkdel av vad Aspose.Total kan. API:s användarvänlighet ger utvecklarna tillfredsställelse för att "få jobbet gjort" med sin enkla och rena kod, och slutproduktens robusthet gör våra kunder nöjda.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Vi kan bara säga en sak: utmärkt produkt och utmärkt service. Ibland kan du h
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Gå med och dela, Tyskland" >}}
 Aspose.Total är en kraftfull svit för att bearbeta nästan alla typer av dokument i hög hastighet och hög kvalitet. Det minskar effektivt programmeringsarbetet.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

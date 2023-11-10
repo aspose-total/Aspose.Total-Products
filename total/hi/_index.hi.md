@@ -1,139 +1,136 @@
 ---
-title: डेवेलपर्स और नो-कोडर्स के लिए फ़ाइल फ़ॉर्मेट और दस्तावेज़ समाधान
+title: डेवलपर्स और नो-कोडर्स के लिए फ़ाइल प्रारूप और दस्तावेज़ समाधान
 weight: 9630
 url_ignore: /
-description: उच्च कोड या लो कोड एपीआई का उपयोग करके दस्तावेज़ प्रबंधन एप्लिकेशन बनाएं, या बस 100+ फ़ाइल फ़ॉर्मेट को देखें, तुलना करें, जाँचें या कनवर्ट करने के लिए सीमित सीमित प्लेटफ़ॉर्म ऐप्स का उपयोग करें
+description: हाई कोड या लो कोड एपीआई का उपयोग करके दस्तावेज़ संशोधन अनुप्रयोग बनाएं, या बस क्रॉस-प्लेटफ़ॉर्म ऐप्स का उपयोग करें ताकि 100+ फ़ाइल प्रारूपों को देखें, तुलना करें, जांचें या परिवर्तित करें।
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल फ़ॉर्मेट और दस्तावेज़ प्रबंधन समाधान" h2="हाई-कोड डाउनलोडेबल क्लास लाइब्रेरी या लो-कोड REST एपीआई के साथ फ़ाइल फ़ॉर्मेट प्रसंस्करण के लिए एंटरप्राइज एप्लिकेशन बनाएं, कोई डिपेंडेंसी की आवश्यकता नहीं है, या सुधार में मुफ़्त ऑनलाइन एप्लिकेशन का उपयोग करें।" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल प्रारूप और दस्तावेज़ संशोधन समाधान" h2="हाई-कोड डाउनलोड करने योग्य क्लास पुस्तकालयों या लो-कोड REST एपीआई के साथ फ़ाइल प्रारूप प्रसंस्करण के लिए एंटरप्राइज अनुप्रयोग बनाएँ, कोई निर्भरता आवश्यक नहीं है, या सुविधा से मुक्त ऑनलाइन ऐप्स का उपयोग करें।" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total उत्पाद परिवार" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total हाई कोड एपीआई शामिल हैं" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/hi/net/" >}}
-On Premise .NET APIs से विभिन्न दस्तावेज़ प्रारूपों को Windows, Web, iOS और Android आधारित एप्लिकेशन्स में प्रबंधित करने के लिए।
+विंडोज, वेब, iOS और एंड्रॉइड आधारित अनुप्रयोगों में कई दस्तावेज़ प्रारूपों को संशोधित करने के लिए On Premise .NET एपीआई।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/hi/java/" >}}
-Java आधारित प्लेटफ़ॉर्म एपीआई जो एप्लिकेशन के भीतर सीधे Microsoft Word फ़ाइलें, वेब, पाठ और OpenOffice दस्तावेज़ बनाने, संशोधित करने, रेंडर करने या पार्स करने के लिए।
+अनुप्रयोगों में सीधे माइक्रोसॉफ़्ट वर्ड फ़ाइलों को बनाने, संशोधित, रेंडर या विश्लेषित करने के लिए जावा आधारित प्लेटफ़ॉर्म एपीआई।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/hi/cpp/" >}}
-साफ C++ लाइब्रेरी का उपयोग करके पुनर्रचना करें, लोड करें, मेनिपुलेट करें, या विभिन्न दस्तावेज़ प्रारूपों और छवियों को प्राकृतिक C++ एप्लिकेशन में कन्वर्ट करें।
+मूल C++ पुस्तकालय का उपयोग करके प्योर C++ अनुप्रयोगों में विभिन्न दस्तावेज़ प्रारूपों और छवियों को बनाना, लोड करना, संशोधित करना या परिवर्तित करना।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/hi/python-net/" >}}
-Python लाइब्रेरी सुइट का उपयोग करके DOC, DOCX, PPT, PPTX, EML, MSG और 3D प्रारूपों को उत्पन्न, संपादित या कनवर्ट करें, Microsoft Word, PowerPoint और Outlook के लिए।
+माइक्रोसॉफ़्ट वर्ड, पावरपॉइंट और आउटलुक के लिए पायथन पुस्तकालय सुइट का उपयोग करके DOC, DOCX, PPT, PPTX, EML, MSG और 3D प्रारूपों को उत्पन्न, संपादित या परिवर्तित करें।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/hi/nodejs-java/" >}}
-Node.js का उपयोग करके Excel स्प्रेडशीट और Visio फ़ाइलें प्रबंधित करें और Node.js का उपयोग करके विभिन्न सिम्बोलॉजी के बारकोड स्कैन और उत्पन्न करें।
+नोड.जेएस का उपयोग करके एक्सेल स्प्रेडशीट और विज़ियो फ़ाइलों को संशोधित करना, स्कैन करना और विभिन्न सिम्बोलॉजी के बारकोड्स जेनरेट करना।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/hi/php-java/" >}}
-Excel स्प्रेडशीट को मैनिपुलेट करें साथ ही PowerPoint और OpenOffice प्रस्तुतियां PHP एप्लिकेशन में पढ़ें, लिखें, बनाएं और कनवर्ट करें।
+एक्सेल स्प्रेडशीट संशोधन करना, साथ ही पीएचपी अनुप्रयोगों में पॉवरपॉइंट और ओपनऑफिस प्रस्तुतियों को पढ़ना, लिखना, बनाना और परिवर्तित करना।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/hi/family/" innerText="सभी हाई-कोड एपीआई देखें" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/hi/family/" innerText="सभी हाई कोड एपीआई देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total लो कोड एपीआई शामिल हैं" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.svg" productLink="https://products.aspose.cloud/words/family/" >}}
-Word दस्तावेज़ प्रबंधन एसडीकेस किसी भी भाषा का समर्थन करते हैं जो एचटीटीपी रिक्वेस्ट्स का समर्थन करते हैं, जिससे विभिन्न फॉर्मेट्स में Word दस्तावेज़ का निर्माण, संपादन और कनवर्ट किया जा सकता है जैसे कि DOC, DOCX, RTF, PDF, और अन्य।
+वर्चस्व समर्थन करने वाली किसी भी भाषा के साथ काम करने वाले वर्ड दस्तावेज़ संशोधन एसडीके, जो क्लाउड-आधारित विभिन्न प्रारूपों में वर्ड दस्तावेज़ के निर्माण, संशोधन और परिवर्तन को सरल बनाते हैं।
 {{< /blocks/products/pf/product >}}
-
 {{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.svg" productLink="https://products.aspose.cloud/pdf/family/" >}}
-Aspose.PDF Cloud प्लेटफ़ॉर्म-निर्भर REST आधारित एसडीकेस प्रदान करता है जो विभिन्न प्लेटफ़ॉर्म्स पर PDF फ़ाइलें बनाने, संशोधित करने, और कनवर्ट करने के लिए हैं। डेवेलपर्स आसानी से क्लाउड में PDF दस्तावेज़ को पढ़, लिख, और मेनिपुलेट कर सकते हैं।
+Aspose.PDF Cloud प्लेटफ़ॉर्म-स्वतंत्र REST आधारित SDK प्रदान करता है जिससे विभिन्न प्लेटफ़ॉर्मों पर PDF फ़ाइलों को बनाया, संशोधित और परिवर्तित किया जा सकता है। डेवलपर्स बादल में PDF दस्तावेज़ पढ़ सकते हैं, लिख सकते हैं और बादल में PDF दस्तावेज़ को संशोधित कर सकते हैं।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.svg" productLink="https://products.aspose.cloud/cells/family/" >}}
-Aspose.Cells Cloud हैंडलिंग Excel स्प्रेडशीट्स के लिए REST आधारित एसडीकेस प्रदान करता है जो XLS, XLSX, XLSM, और अन्य फ़ॉर्मेट्स को बनाने, संशोधित करने, प्रबंधित करने, और कनवर्ट करने की संभावना है।
+Aspose.Cells Cloud Excel स्प्रेडशीट्स के लिए REST आधारित SDK प्रदान करता है जो XLS, XLSX, XLSM और अन्य प्रारूपों को बनाने, संशोधित करने, प्रबंधन करने और परिवर्तन करने में सक्षम है।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud Product Family" imgSrc="/total/images/aspose_email-for-cloud.svg" productLink="https://products.aspose.cloud/email/family/" >}}
-Aspose.Email Cloud ब्लाउड आधारित एप्लिकेशन्स के लिए ईमेल संदेश प्रबंधन को सरल बनाता है। इसके विविध REST आधारित एसडीकेस किसी भी भाषा और प्लेटफ़ॉर्म के समर्थन के साथ काम करते हैं, जो आउटलुक MSG, EML, और MHTML संदेश फ़ॉर्मेट्स का समर्थन करते हैं।
+Aspose.Email Cloud बादल-आधारित ऐप्स के लिए ईमेल संदेश प्रबंधन को सरल बनाता है। इसके विविध REST आधारित SDK किसी भी भाषा और प्लेटफ़ॉर्म के साथ काम करते हैं, जो आउटलुक MSG, EML और MHTML संदेश प्रारूपों का समर्थन करते हैं।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Slides" >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud Product Family" imgSrc="/total/images/aspose_slides-for-cloud.svg" productLink="https://products.aspose.cloud/slides/family/" >}}
-पावरपॉइंट प्रबंधन एसडीकेस क्लाउड में कार्य करते हैं और PPT, PPTX, PPS, और अन्य पॉपुलर प्रस्तुति फॉर्मेट्स का समर्थन करते हैं।
+पावरपॉइंट प्रबंधन SDK बादल-आधारित कार्यों को संभव बनाते हैं जैसे पावरपॉइंट प्रस्तुतियों को पढ़ना, लिखना, परिवर्तन करना और मानिपुलेट करना। इन्हें PPT, PPTX, PPS और अन्य प्रसिद्ध प्रस्तुति प्रारूपों का समर्थन है।
 {{< /blocks/products/pf/product >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud Product Family" imgSrc="/total/images/aspose_imaging-for-cloud.svg" productLink="https://products.aspose.cloud/imaging/family/" >}}
-Aspose.Imaging Cloud एप्लिकेशन में छवि मैनिपुलेशन और कनवर्ट के लिए आरईएसटी एपीआई आधारित एसडीकेस प्रदान करता है। ये एसडीकेस बहुपरकारी हैं, जो किसी भी भाषा और प्लेटफ़ॉर्म के साथ काम करते हैं, और PNG, GIF, BMP, TIFF, और JPEG जैसे रास्टर छवि फॉर्मेट्स का समर्थन करते हैं।
+Aspose.Imaging Cloud एप्लीकेशन में छवि मेनिपुलेशन और परिवर्तन के लिए REST API आधारित SDK प्रदान करता है। ये SDK विभिन्न प्रारूपों की छवियों के साथ सक्षम हैं जैसे PNG, GIF, BMP, TIFF और JPEG।
 {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="सभी लो कोड एपीआई देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/total/" innerText="सभी लो-कोड एपीआई देखें" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Total नो कोड ऐप्स शामिल है" >}}
 
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="Aspose.Total No Code Apps Include" >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
-हमारी मुक्त ऑनलाइन फ़ाइल मर्जिंग एप्लिकेशन विभिन्न फॉर्मेट्स जैसे कि छवियाँ, वर्ड, पीडीएफ, पावरपॉइंट और एक्सेल की समृद्धि को सरल बनाती है। आप विभिन्न प्रकार की फ़ाइलें मर्ज कर सकते हैं, अपने पसंदीदा फॉर्मेट को चयन कर सकते हैं, और मर्जिंग से पहले फ़ाइल क्रमबद्ध कर सकते हैं।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="मर्जर" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+हमारा मुफ्त ऑनलाइन फ़ाइल मर्ज करने का ऐप विभिन्न प्रारूपों में कई फ़ाइलों को संयोजित करने को सरल बनाता है, जैसे चित्र, वर्ड, पीडीऍफ़, पॉवरपॉइंट और एक्सेल। आप विभिन्न प्रकारों की फ़ाइलें मर्ज कर सकते हैं, अपनी पसंदीदा प्रारूप का चयन कर सकते हैं, और मर्ज करने से पहले फ़ाइल क्रम व्यवस्थित कर सकते हैं।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
-आप विभिन्न छवियाँ, वर्ड, पावरपॉइंट, और एक्सेल फ़ाइलें ऑनलाइन मुक्त में संपीड़ित और अनुकूलित कर सकते हैं, जिसमें छवियाँ शामिल हैं। हमारा उपकरण गुणस्तर को बनाए रखता है, संपीड़न स्तर का चयन करने की अनुमति देता है, और एक साथ कई फाइलों का समर्थन करता है।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="कंप्रेस" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+वर्ड, पीडीऍफ़, पॉवरपॉइंट और एक्सेल फ़ाइलें ऑनलाइन मुफ़्त में संक्षेपित और बेहतर बनाने की सुविधा। हमारे टूल से गुणवत्ता बनी रहती है, संक्षेपण स्तर का चयन करने की अनुमति देता है, और एक साथ कई फ़ाइलों का संचालन करता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
-Aspose.Total Conversion विभिन्न फॉर्मेट्स के लिए मुक्त ऑनलाइन फ़ाइल कनवर्टर है, जिसमें PDF, वर्ड, HTML, और एक्सेल शामिल हैं। यह एक उपयोगकर्ता फ्रेंडली ड्रैग-एंड-ड्रॉप इंटरफ़ेस के साथ तेज और सटीक कनवर्टेशन्स, छवि सेविंग के साथ, प्रदान करता है।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="रूपांतरण" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/conversion" >}}
+अस्पोज़.टोटल रूपांतरण विभिन्न प्रारूपों के लिए एक मुफ्त ऑनलाइन फ़ाइल कनवर्टर है, जिसमें पीडीऍफ़, वर्ड, एचटीएमएल और एक्सेल शामिल हैं। यह उपयोगकर्ता को एक उपयोगकर्ता मित्र drag-and-drop इंटरफ़ेस के साथ तेज़ और सटीक रूपांतरण प्रदान करता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Signature" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
-इस मुक्त ऑनलाइन ई-साइनेचर एप्लिकेशन से विभिन्न डॉक्यूमेंट प्रकारों को आसानी से साइन करें, जैसे कि पीडीएफ, वर्ड, पावरपॉइंट, एक्सेल, और छवि फ़ाइलें, जिससे अपने हस्ताक्षर को कई फ़ाइलों में कुशलता से जोड़ने की प्रक्रिया को सरल बनाया जाता है।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="हस्ताक्षर" imgSrc="/total/images/aspose_signature-app.png" productLink="https://products.aspose.app/total/signature" >}}
+यह मुफ्त ऑनलाइन ई-हस्ताक्षर ऐप विभिन्न दस्तावेज़ प्रकारों के सरल हस्ताक्षर की सुविधा प्रदान करता है, जैसे पीडीऍफ़, वर्ड, पावरपॉइंट, एक्सेल और छवि फ़ाइलें, जो संक्षेपित रूप से अपने हस्ताक्षर को कई फ़ाइलों में जोड़ने की प्रक्रिया को सुगम बनाता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Watermark" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
-यह मुक्त ऑनलाइन एप्लिकेशन विभिन्न डॉक्यूमेंट प्रकारों के लिए वॉटरमार्किंग को सरल बनाता है, जैसे कि पीडीएफ, वर्ड, पावरपॉइंट, एक्सेल, और छवि फ़ाइलें। इसमें वॉर्ड, पीडीएफ, छवियाँ, पावरपॉइंट, और एक्सेल फ़ाइलें जैसे विस्तृत फॉर्मेट समर्थन शामिल है।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="वॉटरमार्क" imgSrc="/total/images/aspose_watermark-app.png" productLink="https://products.aspose.app/total/watermark" >}}
+
+यह मुफ्त ऑनलाइन ऐप विभिन्न दस्तावेज़ प्रकारों, जैसे पीडीऍफ़, वर्ड, पावरपॉइंट, एक्सेल और छवि फ़ाइलों के लिए वॉटरमार्किंग को सरल बनाता है। यह वर्ड, पीडीऍफ़, छवियों, पॉवरपॉइंट और एक्सेल फ़ाइलें जैसे विस्तृत प्रारूप समर्थन प्रदान करता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Viewer" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
-एक स्वतंत्र डिवाइस से पहुँची जा सकने वाली और सभी ब्राउज़र्स के साथ संगत फ़ाइलें ऑनलाइन खोलने की सुविधा को अन्वेषण करें। हमारा प्लेटफ़ॉर्म ऑनलाइन फ़ाइलें खोलने और देखने के लिए एक तेज और सीधी समाधान प्रदान करता है जिसमें कोई लागत नहीं होती है।
+{{< blocks/products/pf/product pfName="Aspose.Total " title="दर्शक" imgSrc="/total/images/aspose_viewer-app.png" productLink="https://products.aspose.app/total/viewer" >}}
+मुफ़्त में ऑनलाइन फ़ाइलें खोलने की सुविधा का अन्वेषण करें, जो किसी भी डिवाइस से पहुंची जा सकती है और सभी ब्राउज़रों के साथ संगत है। हमारा प्लेटफ़ॉर्म ऑनलाइन फ़ाइलों को खोलने और देखने के लिए तेज़ और सीधा समाधान प्रदान करता है, बिना किसी लागत के।
 {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/total/family" innerText="सभी नो कोड ऐप्स देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle="यह हमारे वचन को सिर्फ नहीं लेते हैं। देखें कि लोग Aspose.Words के बारे में क्या कह रहे हैं।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="क्या लोग कह रहे हैं" subTitle="सिर्फ हमारे शब्द मत सुनिए। देखें जो उपयोगकर्ता Aspose.Words के बारे में क्या कह रहे हैं।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
-हम वर्तमान में अपने आत्मीय सॉफ़्टवेयर एप्लिकेशन्स के लिए Aspose.Words और Aspose.Cells का उपयोग कर रहे हैं। इन घटकों ने सांविदानिक सॉफ़्टवेयर की अनुप्रयोगी विकास और प्रसंस्करण समय बचाया है और हमें माइक्रोसॉफ्ट ऑफिस दस्तावेज़ सुविधाओं को अपने एप्लिकेशन में तेजी से और कुशलता से समाहित करने की अनुमति दी है।
+हम वर्तमान में Aspose.Words और Aspose.Cells को अपने प्रायोजनीय सॉफ़्टवेयर अनुप्रयोगों में उपयोग करते हैं। ये घटक हमारे लिए काफ़ी विकास और प्रोसेसिंग का समय बचा चुके हैं और हमें अपने अनुप्रयोगों में माइक्रोसॉफ़्ट ऑफ़िस दस्तावेज़ सुविधाएं इंटीग्रेट करने की तेज़ और सरल तरीके से अनुमति देते हैं।
 <em>
-सीन डायमंड | सॉफ़्टवेयर विकास का उप-प्रमुख | आरसीपी सम
+Sean Diamond | सॉफ़्टवेयर विकास के उपाध्यक्ष | RCP Solutions
 </em>
 </p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-Aspose.Words ने हमें पूर्वनिर्धारित टेम्प्लेट्स की स्वचालित पूर्णता की अनुमति दी एक ही क्लिक के बटन से। माइक्रोसॉफ्ट ऑफिस ऑटोमेशन का सिमुलेट करने की क्षमता, माइक्रोसॉफ्ट ऑफिस ऑब्जेक्ट लाइब्रेरी की आवश्यकता के बिना, एक त्वरित और स्थिर विधि प्रदान करती है जिससे आवश्यकता के हिसाब से गतिशील दस्तावेज़ बनाए जा सकते हैं।
+Aspose.Words ने हमें पूर्वनिर्धारित टेम्प्लेट्स को एक ही बटन के क्लिक से स्वचालित करने की सुविधा दी। माइक्रोसॉफ़्ट ऑफ़िस ऑटोमेशन का नकलीकरण करने की क्षमता, माइक्रोसॉफ़्ट ऑफ़िस ऑब्जेक्ट लाइब्रेरी की आवश्यकता के बिना, मांग के आधार पर डायनामिक दस्तावेज़ बनाने की तेज़ और स्थिर विधि प्रदान करता है।
 <em>
-क्रिस बोम्बार्डो | अध्यक्ष | वेलोसिटी
+Chris Bombardo | प्रेसीडेंट | वेलोसिटी
 <sup>
 K4
 </sup>
 </em>
 </p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
 

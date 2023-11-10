@@ -102,7 +102,7 @@ Explorez la commodité d'ouvrir des fichiers en ligne gratuitement, accessible d
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Ce que disent les gens" subTitle="Ne vous contentez pas de nos paroles. Découvrez ce que disent les utilisateurs d'Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Ce que disent les gens" subTitle="Ne vous contentez pas de nos paroles. Découvrez ce que disent les utilisateurs d'Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -124,7 +124,7 @@ Chris Bombardo | Président | Velocity K4
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

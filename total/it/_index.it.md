@@ -103,7 +103,7 @@ Esplora la comodità di aprire file online gratuitamente, accessibili da qualsia
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Cosa Dicono le Persone" subTitle="Non accontentarti delle nostre parole. Scopri cosa dicono gli utenti su Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa Dicono le Persone" subTitle="Non accontentarti delle nostre parole. Scopri cosa dicono gli utenti su Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -127,7 +127,7 @@ Aspose.Words ci ha permesso di automatizzare il completamento di modelli predefi
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

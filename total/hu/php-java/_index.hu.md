@@ -277,7 +277,7 @@ Az Aspose.BarCode for PHP Java-n keresztül a PHP-alkalmazásokhoz tervezett von
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazília" >}}
 A megvalósítás során érezhettük, hogy csak a töredékéhez nyúltunk annak, amire az Aspose.Total képes. Az API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Csak egyet mondhatunk: kiváló termék és kiváló szolgáltatás. Néha talá
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Csatlakozz és oszd meg, Németország" >}}
 Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum nagy sebességű és kiváló minőségű feldolgozásához. Hatékonyan csökkenti a programozási erőfeszítést.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

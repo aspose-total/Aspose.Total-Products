@@ -277,7 +277,7 @@ Aspose.BarCode for PHP via Java 是专为 PHP 应用程序设计的条形码生�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人们在说什么" subTitle="不要只相信我们的话。了解用户对 Aspose.Total API 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。了解用户对 Aspose.Total API 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="伊戈尔·克拉夫克 | W3K 技术，巴西" >}}
 在我们的实现过程中，我们可以感觉到我们只触及了 Aspose.Total 功能的一小部分。 API 的易用性使开发人员能够通过简单干净的代码“完成工作”，而最终产品的稳健性使我们的客户感到满意。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Aspose.BarCode for PHP via Java 是专为 PHP 应用程序设计的条形码生�
 {{< blocks/products/pf/testimonials-quote poster="托马斯|加入和分享，德国" >}}
 Aspose.Total 是一个功能强大的套件，可以高速、高质量地处理几乎所有类型的文档。它有效地减少了编程工作量。
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

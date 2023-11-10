@@ -209,7 +209,7 @@ Node.js Visio API لمعالجة وتصدير تنسيقات Microsoft Visio ب�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ايغور كلافكي | W3K Tecnologia ، البرازيل" >}}
 أثناء تطبيقنا ، يمكننا أن نشعر أننا لم نلمس سوى جزء بسيط مما يمكن لـ Aspose. توتال قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Node.js Visio API لمعالجة وتصدير تنسيقات Microsoft Visio ب�
 {{< blocks/products/pf/testimonials-quote poster="توماس | انضم وشارك ، ألمانيا" >}}
 Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أنواع المستندات تقريبًا بسرعة عالية وجودة عالية. يقلل بشكل فعال من جهد البرمجة.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

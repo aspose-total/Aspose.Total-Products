@@ -1,7 +1,8 @@
+---
 title: Geliştiriciler ve Kodlama Yapmayanlar İçin Dosya Biçimi ve Belge Çözümleri
 weight: 9630
-url_ignore: /
 description: Yüksek Kodlu veya Düşük Kodlu API'ları kullanarak belge manipülasyon uygulamaları oluşturun veya sadece 100'den fazla dosya biçimini görüntülemek, karşılaştırmak, incelemek veya dönüştürmek için çok platformlu uygulamaları kullanın.
+---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dosya Biçimi ve Belge Manipülasyon Çözümleri" h2="Yüksek Kodlu İndirilebilir Sınıf Kitaplıkları veya Düşük Kodlu REST API'leri kullanarak Dosya Biçimi İşleme için Kurumsal Uygulamalar Oluşturun, Bağımlılık Gerekmez veya Kolaylıkla Ücretsiz Çevrimiçi Uygulamaları Kullanın." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Ürün Ailesi" subTitlepfName="Aspose.Total">}}
 
@@ -99,7 +100,7 @@ Bu ücretsiz çevrimiçi uygulama, PDF'ler, Word, PowerPoint, Excel ve resim dos
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="İnsanların Ne Dediği" subTitle="Sadece bizim sözümüze güvenmeyin. Aspose.Words hakkında kullanıcıların ne düşündüğünü görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanların Ne Dediği" subTitle="Sadece bizim sözümüze güvenmeyin. Aspose.Words hakkında kullanıcıların ne düşündüğünü görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 
@@ -124,7 +125,7 @@ Chris Bombardo | Başkan | Velocity
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

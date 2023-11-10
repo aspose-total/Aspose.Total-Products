@@ -101,7 +101,7 @@ Aspose.Total Conversion은 PDF, Word, HTML 및 Excel을 포함한 다양한 형�
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
-{{< blocks/products/pf/testimonials title="사용자의 의견" subTitle="우리의 말만 믿지 마십시오. 사용자들이 Aspose.Words에 대해 어떻게 생각하는지" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사용자의 의견" subTitle="우리의 말만 믿지 마십시오. 사용자들이 Aspose.Words에 대해 어떻게 생각하는지" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -126,7 +126,7 @@ K4
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

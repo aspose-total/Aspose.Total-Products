@@ -103,7 +103,7 @@ Verken het gemak van het gratis openen van bestanden online, toegankelijk vanaf 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Wat mensen zeggen" subTitle="Neem niet alleen ons woord ervoor. Zie wat gebruikers te zeggen hebben over Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Neem niet alleen ons woord ervoor. Zie wat gebruikers te zeggen hebben over Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -128,7 +128,7 @@ Verken het gemak van het gratis openen van bestanden online, toegankelijk vanaf 
 
 {{< /blocks/products/pf/testimonials-quote >}}
 
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

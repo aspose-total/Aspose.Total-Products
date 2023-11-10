@@ -209,7 +209,7 @@ Node.js Visio API για επεξεργασία και εξαγωγή μορφώ
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Βραζιλία" >}}
 Κατά την υλοποίησή μας, μπορούσαμε να αντιληφθούμε ότι αγγίξαμε μόνο ένα κλάσμα από αυτά που μπορεί να κάνει το Aspose.Total. Η ευκολία χρήσης του API δίνει στους προγραμματιστές ικανοποίηση για την «ολοκλήρωση της δουλειάς» με τον απλό και καθαρό κώδικα του και η στιβαρότητα του τελικού προϊόντος κάνει τους πελάτες μας χαρούμενους.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -222,7 +222,7 @@ Node.js Visio API για επεξεργασία και εξαγωγή μορφώ
 {{< blocks/products/pf/testimonials-quote poster="Θωμάς | Εγγραφείτε και μοιραστείτε, Γερμανία" >}}
 Το Aspose.Total είναι μια ισχυρή σουίτα για την επεξεργασία σχεδόν όλων των ειδών εγγράφων με υψηλή ταχύτητα και εξαιρετική ποιότητα. Μειώνει αποτελεσματικά την προσπάθεια προγραμματισμού.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 

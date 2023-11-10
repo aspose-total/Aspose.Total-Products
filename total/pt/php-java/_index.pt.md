@@ -277,7 +277,7 @@ Aspose.BarCode para PHP via Java é uma coleção de APIs de geração e leitura
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas em nossa palavra. Veja o que os usuários têm a dizer sobre as APIs do Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas em nossa palavra. Veja o que os usuários têm a dizer sobre as APIs do Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasil" >}}
 Durante nossa implementação, pudemos sentir que tocamos apenas uma fração do que o Aspose.Total é capaz. A facilidade de uso da API dá aos desenvolvedores a satisfação de “fazer o trabalho” com seu código simples e limpo, e a robustez do produto final deixa nossos clientes satisfeitos.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -290,7 +290,7 @@ Só podemos dizer uma coisa: excelente produto e excelente atendimento. Às veze
 {{< blocks/products/pf/testimonials-quote poster="Thomas | Junte-se e Compartilhe, Alemanha" >}}
 Aspose.Total é uma suíte poderosa para processar quase todos os tipos de documentos em alta velocidade e grande qualidade. Ele efetivamente reduz o esforço de programação.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
+{{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 
