@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Entsperren Sie das DOCX-Passwort online" %}}
 
 1. Importieren Sie die DOCX-Datei zum Entsperren, indem Sie sie hochladen
-1. Klicken Sie dazu per Drag-and-Drop der Anmerkungs-App in den Drop-Bereich
+1. Klicken Sie dazu per Drag-and-Drop in den Drop-Bereich der Entsperr-App
 1. Warten Sie je nach Größe der DOCX-Datei und Internetgeschwindigkeit einige Sekunden
 1. Geben Sie das zu entfernende Passwort ein
 1. Klicken Sie auf die Schaltfläche „UNLOCK“, um das Dokument zu entsperren

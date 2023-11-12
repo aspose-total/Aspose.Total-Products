@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Sblocca la password ODS online" %}}
 
 1. Importa il file ODS da sbloccare caricandolo.
-1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app di annotazione.
+1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento della selezione dell'app di sblocco.
 1. A seconda della dimensione del file ODS e della velocità di Internet, attendere alcuni secondi.
 1. Inserisci la password da rimuovere.
 1. Fare clic sul pulsante "SBLOCCA" per sbloccare il documento.

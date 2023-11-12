@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Odemkněte heslo XLSX online" %}}
 
 1. Importujte soubor XLSX a odemkněte jej nahráním.
-1. Udělejte to kliknutím do oblasti přetažení pomocí aplikace pro anotaci přetažením.
+1. Udělejte to kliknutím do oblasti přetažení přetažením aplikace pro odemknutí.
 1. V závislosti na velikosti souboru XLSX a rychlosti internetu počkejte několik sekund.
 1. Zadejte heslo, které chcete odstranit.
 1. Kliknutím na tlačítko 'UNLOCK' dokument odemknete.

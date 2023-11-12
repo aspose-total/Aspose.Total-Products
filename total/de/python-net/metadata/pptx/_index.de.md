@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="PPTX-Metadaten online anzeigen oder aktualisieren" %}}
 
 1. Importieren Sie die PPTX-Datei, indem Sie sie hochladen.
-1. Klicken Sie dazu per Drag-and-Drop der Anmerkungs-App in den Drop-Bereich.
+1. Klicken Sie dazu per Drag-and-Drop der Metadaten-App in den Drop-Bereich.
 1. Warten Sie je nach Größe der PPTX-Datei und Internetgeschwindigkeit einige Sekunden.
 1. Auf derselben Seite werden Metadaten angezeigt.
 1. Bearbeiten Sie die Eigenschaften nach Ihren Wünschen.

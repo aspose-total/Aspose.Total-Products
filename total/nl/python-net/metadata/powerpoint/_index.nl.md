@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Bekijk of update POWERPOINT-metagegevens online" %}}
 
 1. Importeer het POWERPOINT-bestand door het te uploaden.
-1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de annotatie-app.
+1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de metadata-app.
 1. Wacht enkele seconden, afhankelijk van de grootte van het POWERPOINT-bestand en de internetsnelheid.
 1. Op dezelfde pagina worden metagegevens weergegeven.
 1. Bewerk de eigenschappen naar keuze.

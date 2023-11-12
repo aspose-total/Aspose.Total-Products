@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Visualizza o aggiorna i metadati ODT online" %}}
 
 1. Importa il file ODT caricandolo.
-1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app di annotazione.
+1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app dei metadati.
 1. A seconda della dimensione del file ODT e della velocità di Internet, attendere alcuni secondi.
 1. La stessa pagina visualizzerà i metadati.
 1. Modifica le proprietà come preferisci.

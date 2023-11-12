@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Unlock XLS Password Online" %}}
 
 1. Import XLS file to unlock by uploading it.
-1. Do it by clicking inside the drop area via drag and drop of annotation app. 
+1. Do it by clicking inside the drop area via drag and drop of unlock app. 
 1. Depending on the size of XLS file and internet speed wait for few seconds.
 1. Enter the password to remove.
 1. Click the 'UNLOCK' button to unlock document.

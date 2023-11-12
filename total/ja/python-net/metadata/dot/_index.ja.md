@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="DOT メタデータをオンラインで表示または更新する" %}}
 
 1. DOTファイルをアップロードしてインポートします。
-1. 注釈アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
+1. メタデータ アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
 1. DOT ファイルのサイズとインターネット速度に応じて、数秒待ちます。
 1. 同じページにメタデータが表示されます。
 1. 必要に応じてプロパティを編集します。

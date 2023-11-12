@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="View or Update DOT Metadata Online" %}}
 
 1. Import DOT file by uploading it.
-1. Do it by clicking inside the drop area via drag and drop of annotation app. 
+1. Do it by clicking inside the drop area via drag and drop of metadata app. 
 1. Depending on the size of DOT file and internet speed wait for few seconds.
 1. Same page will display metadata.
 1. Edit the properties as of your choice.

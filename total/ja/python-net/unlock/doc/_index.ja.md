@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="DOC パスワードをオンラインでロック解除する" %}}
 
 1. DOC ファイルをインポートし、アップロードしてロックを解除します
-1. 注釈アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
+1. ロック解除アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
 1. DOC ファイルのサイズとインターネット速度に応じて、数秒待ちます
 1. 削除するパスワードを入力してください
 1. 「ロック解除」ボタンをクリックしてドキュメントのロックを解除します

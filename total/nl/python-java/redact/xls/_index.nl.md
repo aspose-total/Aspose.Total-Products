@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="XLS-document online redigeren" %}}
 
 1. Importeer het XLS-bestand door het te uploaden.
-1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de annotatie-app.
+1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de redactie-app.
 1. Wacht enkele seconden, afhankelijk van de grootte van het XLS-bestand en de internetsnelheid.
 1. Typ de tekst die u wilt zoeken en redigeren
 1. Voer de vervangende tekst in waarmee u wilt redigeren

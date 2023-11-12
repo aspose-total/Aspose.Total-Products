@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Ontgrendel het XLSX-wachtwoord online" %}}
 
 1. Importeer het XLSX-bestand om het te ontgrendelen door het te uploaden.
-1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de annotatie-app.
+1. Doe dit door in het neerzetgebied te klikken via slepen en neerzetten van de ontgrendelingsapp.
 1. Wacht enkele seconden, afhankelijk van de grootte van het XLSX-bestand en de internetsnelheid.
 1. Voer het wachtwoord in dat u wilt verwijderen.
 1. Klik op de knop 'ONTGRENDELEN' om het document te ontgrendelen.

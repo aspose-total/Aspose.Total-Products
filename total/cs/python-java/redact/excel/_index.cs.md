@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redaktujte dokument EXCEL online" %}}
 
 1. Importujte soubor EXCEL jeho nahráním.
-1. Udělejte to kliknutím do oblasti přetažení pomocí aplikace pro anotaci přetažením.
+1. Udělejte to kliknutím do oblasti přetažení pomocí přetažení v aplikaci pro úpravu.
 1. V závislosti na velikosti souboru EXCEL a rychlosti internetu počkejte několik sekund.
 1. Zadejte text, který chcete vyhledat a redigovat
 1. Zadejte nahrazující text, který chcete upravit

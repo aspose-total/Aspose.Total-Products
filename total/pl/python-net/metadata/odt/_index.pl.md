@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Przeglądaj lub aktualizuj metadane ODT online" %}}
 
 1. Zaimportuj plik ODT, przesyłając go.
-1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację do adnotacji.
+1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację metadanych.
 1. W zależności od rozmiaru pliku ODT i szybkości Internetu poczekaj kilka sekund.
 1. Ta sama strona wyświetli metadane.
 1. Edytuj właściwości według własnego wyboru.

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="PPT Sunumunu Çevrimiçi Olarak Düzenleyin" %}}
 
 1. PPT dosyasını yükleyerek içe aktarın.
-1. Ek açıklama uygulamasının sürükle ve bırak yöntemiyle bırakma alanının içine tıklayarak bunu yapın.
+1. Redaksiyon uygulamasını sürükleyip bırakarak bırakma alanının içine tıklayarak bunu yapın.
 1. PPT dosyasının boyutuna ve internet hızına bağlı olarak birkaç saniye bekleyin.
 1. Aranacak ve düzenlenecek metni yazın
 1. Düzenlenecek değiştirilecek metni girin

@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Zobrazit nebo aktualizovat metadata DOCX online" %}}
 
 1. Importujte soubor DOCX jeho nahráním.
-1. Udělejte to kliknutím do oblasti přetažení pomocí aplikace pro anotaci přetažením.
+1. Udělejte to kliknutím do oblasti přetažení pomocí aplikace metadat přetažením.
 1. V závislosti na velikosti souboru DOCX a rychlosti internetu počkejte několik sekund.
 1. Na stejné stránce se zobrazí metadata.
 1. Upravte vlastnosti podle svého výběru.

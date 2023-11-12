@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redactar documento WORD en línea" %}}
 
 1. Importe el archivo WORD cargándolo.
-1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de anotación.
+1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de redacción.
 1. Dependiendo del tamaño del archivo WORD y la velocidad de Internet, espere unos segundos.
 1. Escriba el texto para buscar y redactar
 1. Ingrese el texto de reemplazo para redactar

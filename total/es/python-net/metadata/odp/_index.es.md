@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Ver o actualizar metadatos ODP en línea" %}}
 
 1. Importe el archivo ODP cargándolo.
-1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de anotación.
+1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de metadatos.
 1. Dependiendo del tamaño del archivo ODP y la velocidad de Internet, espere unos segundos.
 1. La misma página mostrará metadatos.
 1. Edite las propiedades según su elección.

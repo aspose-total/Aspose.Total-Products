@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="ODP 프레젠테이션 온라인 수정" %}}
 
 1. ODP 파일을 업로드하여 가져옵니다.
-1. 주석 앱의 드래그 앤 드롭을 통해 드롭 영역 내부를 클릭하면 됩니다.
+1. 편집 앱의 드래그 앤 드롭을 통해 드롭 영역 내부를 클릭하여 수행합니다.
 1. ODP 파일의 크기와 인터넷 속도에 따라 몇 초 정도 기다립니다.
 1. 검색하고 수정할 텍스트를 입력하세요.
 1. 수정할 대체 텍스트를 입력하세요.

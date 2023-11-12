@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Lihat atau Perbarui Metadata XLSX Online" %}}
 
 1. Impor file XLSX dengan mengunggahnya.
-1. Lakukan dengan mengklik di dalam area drop melalui drag dan drop aplikasi anotasi.
+1. Lakukan dengan mengklik di dalam area drop melalui drag dan drop aplikasi metadata.
 1. Tergantung pada ukuran file XLSX dan kecepatan internet, tunggu beberapa detik.
 1. Halaman yang sama akan menampilkan metadata.
 1. Edit properti sesuai pilihan Anda.

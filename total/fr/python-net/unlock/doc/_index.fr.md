@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Déverrouiller le mot de passe DOC en ligne" %}}
 
 1. Importez le fichier DOC pour le déverrouiller en le téléchargeant
-1. Faites-le en cliquant dans la zone de dépôt via glisser-déposer de l'application d'annotation
+1. Faites-le en cliquant dans la zone de dépôt par glisser-déposer de l'application de déverrouillage
 1. En fonction de la taille du fichier DOC et de la vitesse d'Internet, attendez quelques secondes
 1. Entrez le mot de passe à supprimer
 1. Cliquez sur le bouton « DÉVERROUILLER » pour déverrouiller le document

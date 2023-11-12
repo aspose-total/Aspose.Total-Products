@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Rédiger le document PDF en ligne" %}}
 
 1. Importez le fichier PDF en le téléchargeant
-1. Faites-le en cliquant dans la zone de dépôt via glisser-déposer de l'application d'annotation
+1. Faites-le en cliquant dans la zone de dépôt via glisser-déposer de l'application de rédaction
 1. En fonction de la taille du fichier PDF et de la vitesse d'Internet, attendez quelques secondes
 1. Tapez le texte à rechercher et à rédiger
 1. Saisissez le texte de remplacement à expurger avec

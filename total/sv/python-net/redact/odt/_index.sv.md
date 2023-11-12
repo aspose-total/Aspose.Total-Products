@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redigera ODT-dokument online" %}}
 
 1. Importera ODT-fil genom att ladda upp den.
-1. Gör det genom att klicka inuti släppområdet genom att dra och släppa anteckningsappen.
+1. Gör det genom att klicka inuti släppområdet via dra och släpp av redigeringsappen.
 1. Beroende på storleken på ODT-filen och internethastigheten vänta i några sekunder.
 1. Skriv texten för att söka och redigera
 1. Ange den ersättande texten att redigera med

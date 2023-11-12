@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="DOTX Meta Verilerini Çevrimiçi Görüntüleyin veya Güncelleyin" %}}
 
 1. DOTX dosyasını yükleyerek içe aktarın.
-1. Ek açıklama uygulamasının sürükle ve bırak yöntemiyle bırakma alanının içine tıklayarak bunu yapın.
+1. Meta veri uygulamasını sürükleyip bırakarak bırakma alanının içine tıklayarak bunu yapın.
 1. DOTX dosyasının boyutuna ve internet hızına bağlı olarak birkaç saniye bekleyin.
 1. Aynı sayfada meta veriler görüntülenecektir.
 1. Özellikleri istediğiniz gibi düzenleyin.

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Lås upp WORD-lösenord online" %}}
 
 1. Importera WORD-fil för att låsa upp genom att ladda upp den
-1. Gör det genom att klicka inuti släppområdet genom att dra och släppa anteckningsappen
+1. Gör det genom att klicka inuti släppområdet genom att dra och släppa upplåsningsappen
 1. Beroende på storleken på WORD-filen och internethastigheten vänta i några sekunder
 1. Ange lösenordet för att ta bort
 1. Klicka på knappen 'UNLOCK' för att låsa upp dokumentet

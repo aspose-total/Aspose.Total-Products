@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="在线查看或更新 RTF 元数据" %}}
 
 1. 通过上传导入 RTF 文件。
-1. 通过拖放注释应用程序在放置区域内单击来完成此操作。
+1. 通过拖放元数据应用程序在放置区域内单击来完成此操作。
 1. 根据 RTF 文件的大小和互联网速度，等待几秒钟。
 1. 同一页面将显示元数据。
 1. 根据您的选择编辑属性。

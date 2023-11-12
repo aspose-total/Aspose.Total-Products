@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="在线解锁PPTX密码" %}}
 
 1. 导入PPTX文件通过上传来解锁。
-1. 通过拖放注释应用程序在放置区域内单击来完成此操作。
+1. 通过拖放解锁应用程序在放置区域内单击来完成此操作。
 1. 根据 PPTX 文件的大小和互联网速度，等待几秒钟。
 1. 输入要删除的密码。
 1. 单击“解锁”按钮解锁文档。

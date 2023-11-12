@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="DOC dokumentum online szerkesztése" %}}
 
 1. Importáljon DOC fájlt feltöltéssel.
-1. Ehhez kattintson a ledobási területen belülre a megjegyzés alkalmazás húzásával.
+1. Ezt úgy teheti meg, hogy a ledobási területen belülre kattint a szerkesztési alkalmazás drag and drop funkciójával.
 1. A DOC fájl méretétől és az internet sebességétől függően várjon néhány másodpercet.
 1. Írja be a keresendő és szerkeszthető szöveget
 1. Írja be a cserélni kívánt szöveget

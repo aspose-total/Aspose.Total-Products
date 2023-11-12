@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="온라인으로 ODP 비밀번호 잠금 해제" %}}
 
 1. 업로드하여 잠금을 해제하려면 ODP 파일을 가져오세요.
-1. 주석 앱의 드래그 앤 드롭을 통해 드롭 영역 내부를 클릭하면 됩니다.
+1. 잠금 해제 앱을 드래그 앤 드롭하여 드롭 영역 내부를 클릭하면 됩니다.
 1. ODP 파일의 크기와 인터넷 속도에 따라 몇 초 정도 기다립니다.
 1. 제거할 비밀번호를 입력하세요.
 1. 문서 잠금을 해제하려면 'UNLOCK' 버튼을 클릭하세요.

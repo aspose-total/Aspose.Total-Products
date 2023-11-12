@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Odblokuj hasło XLSX online" %}}
 
 1. Zaimportuj plik XLSX, aby odblokować, przesyłając go.
-1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację do adnotacji.
+1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację odblokowującą.
 1. W zależności od rozmiaru pliku XLSX i szybkości Internetu poczekaj kilka sekund.
 1. Wprowadź hasło do usunięcia.
 1. Kliknij przycisk „ODBLOKUJ”, aby odblokować dokument.

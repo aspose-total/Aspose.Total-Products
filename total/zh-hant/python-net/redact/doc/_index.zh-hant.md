@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="線上編輯 DOC 文檔" %}}
 
 1. 透過上傳導入 DOC 檔案。
-1. 透過拖放註釋應用程式在放置區域內點擊來完成此操作。
+1. 透過拖放密文應用程式在放置區域內點擊來完成此操作。
 1. 根據 DOC 檔案的大小和網路速度，等待幾秒鐘。
 1. 輸入要搜尋和編輯的文本
 1. 輸入要編輯的替換文字

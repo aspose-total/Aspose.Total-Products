@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="ODT ドキュメントをオンラインで編集する" %}}
 
 1. ODTファイルをアップロードしてインポートします。
-1. 注釈アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
+1. 墨消しアプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
 1. ODT ファイルのサイズとインターネット速度に応じて、数秒待ちます。
 1. 検索して編集するテキストを入力します
 1. 編集する置換テキストを入力します

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="XLSX パスワードをオンラインでロック解除する" %}}
 
 1. XLSX ファイルをインポートし、アップロードすることでロックを解除します。
-1. 注釈アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
+1. ロック解除アプリのドラッグ アンド ドロップでドロップ領域内をクリックして実行します。
 1. XLSX ファイルのサイズとインターネット速度に応じて、数秒待ちます。
 1. 削除するパスワードを入力します。
 1. 「ロック解除」ボタンをクリックしてドキュメントのロックを解除します。

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redigere il documento XLS online" %}}
 
 1. Importa il file XLS caricandolo.
-1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app di annotazione.
+1. Fallo facendo clic all'interno dell'area di rilascio tramite trascinamento dell'app di redazione.
 1. A seconda della dimensione del file XLS e della velocità di Internet, attendere alcuni secondi.
 1. Digita il testo da cercare e oscura
 1. Inserisci il testo sostitutivo con cui oscurare

@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="온라인으로 XLS 메타데이터 보기 또는 업데이트" %}}
 
 1. XLS 파일을 업로드하여 가져옵니다.
-1. 주석 앱의 드래그 앤 드롭을 통해 드롭 영역 내부를 클릭하면 됩니다.
+1. 메타데이터 앱의 드래그 앤 드롭을 통해 드롭 영역 내부를 클릭하면 됩니다.
 1. XLS 파일의 크기와 인터넷 속도에 따라 몇 초 정도 기다립니다.
 1. 동일한 페이지에 메타데이터가 표시됩니다.
 1. 원하는 대로 속성을 편집합니다.

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Desbloquear senha DOCX on-line" %}}
 
 1. Importe o arquivo DOCX para desbloquear enviando-o
-1. Faça isso clicando dentro da área de soltar arrastando e soltando do aplicativo de anotação
+1. Faça isso clicando dentro da área de soltar arrastando e soltando o aplicativo de desbloqueio
 1. Dependendo do tamanho do arquivo DOCX e da velocidade da internet, aguarde alguns segundos
 1. Digite a senha para remover
 1. Clique no botão 'DESBLOQUEAR' para desbloquear o documento

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="線上編輯 PDF 文檔" %}}
 
 1. 透過上傳導入 PDF 文件
-1. 透過拖放註釋應用程式在放置區域內點擊來完成此操作
+1. 透過拖放密文應用程式在放置區域內點擊來完成此操作
 1. 根據 PDF 檔案的大小和網路速度等待幾秒鐘
 1. 輸入要搜尋和編輯的文本
 1. 輸入要編輯的替換文字

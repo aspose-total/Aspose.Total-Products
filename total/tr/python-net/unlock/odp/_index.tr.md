@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="ODP Şifresinin Çevrimiçi Kilidini Açın" %}}
 
 1. Yükleyerek kilidini açmak için ODP dosyasını içe aktarın.
-1. Ek açıklama uygulamasının sürükle ve bırak yöntemiyle bırakma alanının içine tıklayarak bunu yapın.
+1. Kilit açma uygulamasını sürükleyip bırakarak bırakma alanının içine tıklayarak bunu yapın.
 1. ODP dosyasının boyutuna ve internet hızına bağlı olarak birkaç saniye bekleyin.
 1. Kaldırmak için şifreyi girin.
 1. Belgenin kilidini açmak için 'KİLİDİ AÇ' düğmesine tıklayın.

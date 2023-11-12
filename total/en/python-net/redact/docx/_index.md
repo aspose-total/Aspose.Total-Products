@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redact DOCX Document Online" %}}
 
 1. Import DOCX file by uploading it.
-1. Do it by clicking inside the drop area via drag and drop of annotation app. 
+1. Do it by clicking inside the drop area via drag and drop of redaction app. 
 1. Depending on the size of DOCX file and internet speed wait for few seconds.
 1. Type the text to search and redact
 1. Enter the replacing text to redact with

@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Bearbeiten Sie das DOC-Dokument online" %}}
 
 1. Importieren Sie die DOC-Datei, indem Sie sie hochladen.
-1. Klicken Sie dazu per Drag-and-Drop der Anmerkungs-App in den Drop-Bereich.
+1. Klicken Sie dazu per Drag-and-Drop der Schwärzungs-App in den Drop-Bereich.
 1. Warten Sie je nach Größe der DOC-Datei und Internetgeschwindigkeit einige Sekunden.
 1. Geben Sie den zu durchsuchenden und zu redigierenden Text ein
 1. Geben Sie den zu schwärzenden Ersatztext ein

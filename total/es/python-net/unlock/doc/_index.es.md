@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Desbloquear la contraseña DOC en línea" %}}
 
 1. Importe el archivo DOC para desbloquearlo cargándolo
-1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de anotación
+1. Hágalo haciendo clic dentro del área de colocación arrastrando y soltando la aplicación de desbloqueo
 1. Dependiendo del tamaño del archivo DOC y la velocidad de Internet, espere unos segundos
 1. Ingrese la contraseña para eliminar
 1. Haga clic en el botón 'DESBLOQUEAR' para desbloquear el documento.

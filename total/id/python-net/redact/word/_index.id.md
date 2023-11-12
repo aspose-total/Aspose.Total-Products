@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redaksi Dokumen WORD Online" %}}
 
 1. Impor file WORD dengan mengunggahnya.
-1. Lakukan dengan mengklik di dalam area drop melalui drag dan drop aplikasi anotasi.
+1. Lakukan dengan mengklik di dalam area drop melalui drag and drop aplikasi redaksi.
 1. Tergantung pada ukuran file WORD dan kecepatan internet, tunggu beberapa detik.
 1. Ketik teks yang akan dicari dan disunting
 1. Masukkan teks pengganti yang akan disunting

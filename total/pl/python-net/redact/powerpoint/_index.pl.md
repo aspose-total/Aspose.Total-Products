@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Zredaguj prezentację POWERPOINT online" %}}
 
 1. Zaimportuj plik POWERPOINT, przesyłając go.
-1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację do adnotacji.
+1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację redakcyjną.
 1. W zależności od rozmiaru pliku POWERPOINT i szybkości Internetu poczekaj kilka sekund.
 1. Wpisz tekst, który chcesz wyszukać i zredagować
 1. Wprowadź tekst zastępujący, który chcesz zredagować

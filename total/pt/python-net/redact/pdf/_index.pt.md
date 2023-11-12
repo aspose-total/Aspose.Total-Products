@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Redigir documento PDF on-line" %}}
 
 1. Importe o arquivo PDF fazendo upload dele
-1. Faça isso clicando dentro da área de soltar arrastando e soltando do aplicativo de anotação
+1. Faça isso clicando dentro da área de soltar arrastando e soltando do aplicativo de redação
 1. Dependendo do tamanho do arquivo PDF e da velocidade da internet, aguarde alguns segundos
 1. Digite o texto para pesquisar e redigir
 1. Insira o texto de substituição para redigir

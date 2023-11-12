@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="在線查看或更新 DOT 元數據" %}}
 
 1. 透過上傳導入 DOT 檔案。
-1. 透過拖放註釋應用程式在放置區域內點擊來完成此操作。
+1. 透過拖放元資料應用程式在放置區域內單擊來完成此操作。
 1. 根據 DOT 檔案的大小和網路速度，等待幾秒鐘。
 1. 同一頁面將顯示元資料。
 1. 根據您的選擇編輯屬性。

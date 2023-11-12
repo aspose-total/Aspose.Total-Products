@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Visa eller uppdatera DOTX-metadata online" %}}
 
 1. Importera DOTX-fil genom att ladda upp den.
-1. Gör det genom att klicka inuti släppområdet genom att dra och släppa anteckningsappen.
+1. Gör det genom att klicka inuti släppområdet genom att dra och släppa metadataappen.
 1. Beroende på storleken på DOTX-filen och internethastigheten vänta i några sekunder.
 1. Samma sida kommer att visa metadata.
 1. Redigera egenskaperna som du väljer.

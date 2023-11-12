@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Przeglądaj lub aktualizuj metadane XLSM online" %}}
 
 1. Zaimportuj plik XLSM, przesyłając go.
-1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację do adnotacji.
+1. Zrób to, klikając wewnątrz obszaru upuszczania, przeciągając i upuszczając aplikację metadanych.
 1. W zależności od rozmiaru pliku XLSM i szybkości Internetu poczekaj kilka sekund.
 1. Ta sama strona wyświetli metadane.
 1. Edytuj właściwości według własnego wyboru.

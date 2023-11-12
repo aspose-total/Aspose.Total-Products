@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Buka Kunci Kata Sandi WORD Online" %}}
 
 1. Impor file WORD untuk dibuka dengan mengunggahnya
-1. Lakukan dengan mengklik di dalam area drop melalui drag dan drop aplikasi anotasi
+1. Lakukan dengan mengklik di dalam area drop melalui drag dan drop aplikasi buka kunci
 1. Tergantung pada ukuran file WORD dan kecepatan internet, tunggu beberapa detik
 1. Masukkan kata sandi untuk menghapus
 1. Klik tombol 'BUKA' untuk membuka kunci dokumen

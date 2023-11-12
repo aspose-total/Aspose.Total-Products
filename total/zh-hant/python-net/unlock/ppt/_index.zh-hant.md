@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="線上解鎖PPT密碼" %}}
 
 1. 導入PPT檔案透過上傳來解鎖。
-1. 透過拖放註釋應用程式在放置區域內點擊來完成此操作。
+1. 透過拖放解鎖應用程式在放置區域內點擊來完成此操作。
 1. 根據 PPT 檔案的大小和網路速度，等待幾秒鐘。
 1. 輸入要刪除的密碼。
 1. 點擊“解鎖”按鈕解鎖文件。

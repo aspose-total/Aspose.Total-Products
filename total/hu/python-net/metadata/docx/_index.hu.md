@@ -15,7 +15,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="DOCX metaadatok megtekintése vagy frissítése online" %}}
 
 1. Importáljon DOCX fájlt feltöltésével.
-1. Ehhez kattintson a ledobási területen belülre a megjegyzés alkalmazás húzásával.
+1. Ezt úgy teheti meg, hogy a metaadat-alkalmazás fogd és vidd funkciójával a cseppterületen belülre kattint.
 1. A DOCX fájl méretétől és az internet sebességétől függően várjon néhány másodpercet.
 1. Ugyanazon az oldalon jelennek meg a metaadatok.
 1. Szerkessze a tulajdonságokat tetszés szerint.

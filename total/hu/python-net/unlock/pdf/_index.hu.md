@@ -15,7 +15,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Oldja fel a PDF jelszót online" %}}
 
 1. Importáljon PDF fájlt a feloldáshoz a feltöltéssel.
-1. Ehhez kattintson a ledobási területen belülre a megjegyzés alkalmazás húzásával.
+1. Ehhez kattintson az ejtőterületen belülre a feloldó alkalmazás húzásával.
 1. A PDF fájl méretétől és az internet sebességétől függően várjon néhány másodpercet.
 1. Írja be az eltávolításhoz szükséges jelszót.
 1. Kattintson a 'UNLOCK' gombra a dokumentum zárolásának feloldásához.
