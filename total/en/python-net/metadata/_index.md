@@ -5,7 +5,7 @@ description: View and Update PDF, Microsoft PowerPoint Presentations and Word do
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Manage Documents Metadata using Python APIs" h2="Retrieve, view and modify Microsoft Word, PowerPoint Presentations and PDF metadata using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Manage Documents Metadata using Python APIs" h2="Retrieve, view and modify Microsoft Word, PowerPoint Presentations and PDF metadata using Aspose.Total for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Managing document metadata is an important aspect of organizing, categorizing, and tracking information associated with documents. Metadata provides additional context and details about a document, making it easier to search, retrieve, and manage. By effectively managing document metadata, organizations can enhance document organization, retrieval, and overall information management processes. This is particularly valuable in collaborative environments or when dealing with large document repositories.
@@ -33,7 +33,7 @@ Managing document metadata is an important aspect of organizing, categorizing, a
 
 {{% blocks/products/pf/feature-page-section  h2="Manage Microsoft Word Document Metadata" %}}
 
-Document metadata management using GIF1 offers a powerful and efficient way to retrieve basic properties, advanced properties, and custom metadata specific to your needs without the need to write code from scratch:
+Document metadata management using [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) offers a powerful and efficient way to retrieve basic properties, advanced properties, and custom metadata specific to your needs without the need to write code from scratch:
 
 {{% blocks/products/pf/feature-page-code h3="Python Code - View Microsoft Word Document Metadata" %}}
 

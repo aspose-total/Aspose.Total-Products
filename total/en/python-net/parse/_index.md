@@ -5,7 +5,7 @@ description: Parse PDF, Microsoft Word and PowerPoint Presentations via your Pyt
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Parse Document using Python APIs" h2="Extract Text or Images from Microsoft Word, PowerPoint Presentations and PDF files using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Parse Document using Python APIs" h2="Extract Text or Images from Microsoft Word, PowerPoint Presentations and PDF files using Aspose.Total for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Parsing documents involves extracting structured information from unstructured text or files. This process is crucial for various applications, such as natural language processing (NLP), information retrieval, data mining, and more. The specific approach to parsing documents depends on the type of documents and the desired output. <br />
@@ -31,7 +31,7 @@ The choice of parsing method depends on the specific requirements of your projec
 {{% blocks/products/pf/feature-page-section  h2="Parse Microsoft Office Documents" %}}
 
 Parsing Microsoft Word and PowerPoint presentations is a fundamental step in leveraging the information contained within these documents for various purposes, ranging from analysis and automation to compliance and collaboration.<br />
-Text extraction using GIF1 offers a powerful and efficient way to parse documents and GIF2 without the need to write code from scratch:<br />
+Text extraction using [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) offers a powerful and efficient way to parse documents and [presentations](https://products.aspose.com/total/python-net/parse/powerpoint/) without the need to write code from scratch:<br />
 
 {{% blocks/products/pf/feature-page-code h3="Python Code - Parse Microsoft Word Document" %}}
 

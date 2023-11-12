@@ -5,7 +5,7 @@ description: Search and replace PDF, Microsoft Word documents and PowerPoint pre
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Redact Documents using Python APIs" h2="Microsoft Word, PowerPoint presentation and PDF document redaction using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Redact Documents using Python APIs" h2="Microsoft Word, PowerPoint presentation and PDF document redaction using Aspose.Total for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Document redaction is the process of editing or preparing a document to remove or obscure sensitive, confidential, or private information. Redaction ensures that certain portions of a document are no longer visible or readable, protecting sensitive content from unauthorized access or disclosure. Redaction is commonly employed in legal, government, healthcare, and corporate environments where document confidentiality is critical.<br />
@@ -17,7 +17,7 @@ Document redaction involves the careful removal or obscuring of sensitive inform
 
 Manual redaction in Word has limitations, and for scenarios with a high need for security, compliance, or complex redaction requirements, using specialized redaction software is advisable. Always thoroughly review redacted documents to ensure the complete removal of sensitive information and maintain document integrity. <br />
 
-Document redaction using GIF1 offers a powerful and efficient way to search and replace specific data of your needs without the need to write code from scratch:
+Document redaction using [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) offers a powerful and efficient way to search and replace specific data of your needs without the need to write code from scratch:
 
 {{% blocks/products/pf/feature-page-code h3="Python Code - Redact Microsoft Word Document" %}}
 

@@ -5,7 +5,7 @@ description: Unlock password protected PDF, Microsoft Word documents and PowerPo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Unlock Documents using Python APIs" h2="Unlock Password Protected Microsoft Word, PowerPoint presentation and PDF documents using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Unlock Documents using Python APIs" h2="Unlock Password Protected Microsoft Word, PowerPoint presentation and PDF documents using Aspose.Total for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Unlocking documents is necessary for various reasons, depending on the context and the restrictions placed on the document. While unlocking documents is often necessary for practical reasons, it's essential to balance the need for access and collaboration with security and confidentiality concerns. Appropriate permissions and access controls should be maintained to ensure that only authorized individuals can unlock and modify documents.
@@ -31,7 +31,7 @@ Unlocking documents is necessary for various reasons, depending on the context a
 
 Unlocking a Microsoft Word document typically refers to removing restrictions such as restricted editing (read-only) document, unprotect sections in a protected document, unlocking a password-protected document (Lost Password) or password protection that has been applied to the document.  <br />
 
-Unlock document using GIF1 offers a powerful and efficient way to remove restrictions without the need to write code from scratch:
+Unlock document using [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) offers a powerful and efficient way to remove restrictions without the need to write code from scratch:
 
 {{% blocks/products/pf/feature-page-code h3="Python Code - Remove Password Restriction from Microsoft Word Document" %}}
 
