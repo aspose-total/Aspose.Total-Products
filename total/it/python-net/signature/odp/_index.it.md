@@ -67,7 +67,7 @@ Hai bisogno di sviluppare uno script Python o un'app di utilità per firmare fac
 {{% blocks/products/pf/agp/feature-section-col title="Libreria di firma elettronica ODP per Python" %}}
 Esistono opzioni alternative per installare "Aspose.Slides for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.Slides for Python via .NET da [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installa Aspose.Slides for Python via .NET da [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Oppure utilizzare i seguenti comandi pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -69,7 +69,7 @@ Potřebujete vyvinout PPT prohledávatelný software nebo nástroj? S Aspose.Sli
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna Python pro vyhledávání souboru PPT" %}}
 Existují alternativní možnosti instalace "Aspose.Slides pro Python přes .NET" nebo "Aspose.Total pro Python přes .NET" do vašeho systému. Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.Slides pro Python přes .NET z [pypi](https://pypi.org/project/aspose-slides/)
+- Nainstalujte Aspose.Slides pro Python přes .NET z [PyPI](https://pypi.org/project/aspose-slides/)
 - Nebo použijte následující příkazy pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี PDF Splitter สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง '[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)' หรือ '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) จาก [pypi](https://pypi.org/project/aspose-pdf/)
+- ติดตั้ง [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) จาก [PyPI](https://pypi.org/project/aspose-pdf/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-pdf```
 
 

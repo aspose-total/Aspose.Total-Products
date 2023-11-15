@@ -71,7 +71,7 @@ Perlu mengembangkan aplikasi utilitas PDF yang dapat dicari? Dengan Aspose.PDF u
 {{% blocks/products/pf/agp/feature-section-col title="Pustaka Python untuk Mencari File PDF" %}}
 Ada opsi alternatif untuk menginstal "Aspose.PDF for Python via .NET" atau "Aspose.Total for Python via .NET" ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.PDF untuk Python melalui .NET dari [pypi](https://pypi.org/project/aspose-pdf/)
+- Instal Aspose.PDF untuk Python melalui .NET dari [PyPI](https://pypi.org/project/aspose-pdf/)
 - Atau Gunakan perintah pip berikut ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

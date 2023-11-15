@@ -55,7 +55,7 @@ Perlu mengembangkan aplikasi atau utilitas anotasi PDF?Dengan [Aspose.PDF for Py
 {{% blocks/products/pf/agp/feature-section-col title="Utilitas Python untuk Memberi Anotasi pada File PDF" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" atau "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) dari [pypi](https://pypi.org/project/aspose-pdf/)
+- Instal [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) dari [PyPI](https://pypi.org/project/aspose-pdf/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

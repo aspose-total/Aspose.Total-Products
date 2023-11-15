@@ -81,7 +81,7 @@ Besoin de développer une application ou un utilitaire de gestion des métadonn�
 Il existe d'autres options pour installer "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" ou "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
 
-- Installer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) à partir de [pypi](https://pypi.org/project/aspose-pdf/)
+- Installer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) à partir de [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

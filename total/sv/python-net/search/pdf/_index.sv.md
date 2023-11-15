@@ -71,7 +71,7 @@ Behöver du utveckla en PDF sökbar verktygsapp? Med Aspose.PDF för Python via 
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotek för att söka PDF-fil" %}}
 Det finns alternativa alternativ för att installera "Aspose.PDF för Python via .NET" eller "Aspose.Total för Python via .NET" på ditt system. Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.PDF för Python via .NET från [pypi](https://pypi.org/project/aspose-pdf/)
+- Installera Aspose.PDF för Python via .NET från [PyPI](https://pypi.org/project/aspose-pdf/)
 - Eller använd följande pip-kommandon ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

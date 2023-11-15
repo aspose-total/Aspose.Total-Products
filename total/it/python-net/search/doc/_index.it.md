@@ -71,7 +71,7 @@ Hai bisogno di sviluppare un'app o un'utilità ricercabile DOC? Con Aspose.Words
 {{% blocks/products/pf/agp/feature-section-col title="Libreria Python per cercare file DOC" %}}
 Esistono opzioni alternative per installare "Aspose.Words for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.Words per Python tramite .NET da [pypi](https://pypi.org/project/aspose-words/)
+- Installa Aspose.Words per Python tramite .NET da [PyPI](https://pypi.org/project/aspose-words/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

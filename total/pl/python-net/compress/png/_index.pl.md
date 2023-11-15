@@ -91,9 +91,9 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo skompr
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka kompresji PNG dla Pythona" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „Aspose.Imaging for Python via .NET”, „Aspose.ZIP for Python via .NET” lub „Aspose.Total for Python via .NET”.Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Imaging for Python via .NET z [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Zainstaluj Aspose.Imaging for Python via .NET z [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Lub użyj następujących poleceń pip ```pip install aspose-imaging-python-net```.
-- Zainstaluj Aspose.ZIP for Python via .NET z [pypi](https://pypi.org/project/aspose-zip/)
+- Zainstaluj Aspose.ZIP for Python via .NET z [PyPI](https://pypi.org/project/aspose-zip/)
 - Lub użyj następujących poleceń pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ Wilt u een doorzoekbare PDF-hulpprogramma-app ontwikkelen? Met Aspose.PDF voor P
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotheek om PDF-bestand te doorzoeken" %}}
 Er zijn alternatieve opties om "Aspose.PDF voor Python via .NET" of "Aspose.Total voor Python via .NET" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.PDF voor Python via .NET vanuit [pypi](https://pypi.org/project/aspose-pdf/)
+- Installeer Aspose.PDF voor Python via .NET vanuit [PyPI](https://pypi.org/project/aspose-pdf/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -62,7 +62,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีเปรียบเทียบ PPTM สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง '[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)' หรือ '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [pypi](https://pypi.org/project/Aspose.Slides/)
+- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [PyPI](https://pypi.org/project/Aspose.Slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
 
 

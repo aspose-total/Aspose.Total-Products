@@ -69,7 +69,7 @@ Bạn cần phát triển phần mềm hoặc tiện ích tìm kiếm PPT? Với
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện Python để tìm kiếm tệp PPT" %}}
 Có các tùy chọn thay thế để cài đặt "Aspose.Slides for Python via .NET" hoặc "Aspose.Total for Python via .NET" vào hệ thống của bạn. Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt Aspose.Slides cho Python qua .NET từ [pypi](https://pypi.org/project/aspose-slides/)
+- Cài đặt Aspose.Slides cho Python qua .NET từ [PyPI](https://pypi.org/project/aspose-slides/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

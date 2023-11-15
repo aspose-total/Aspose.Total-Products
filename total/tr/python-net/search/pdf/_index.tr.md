@@ -71,7 +71,7 @@ PDF aranabilir bir yardımcı program uygulaması geliştirmeniz mi gerekiyor? A
 {{% blocks/products/pf/agp/feature-section-col title="PDF Dosyasını Aramak için Python kütüphanesi" %}}
 Sisteminize "Aspose.PDF for Python via .NET" veya "Aspose.Total for Python via .NET" yüklemenin alternatif seçenekleri mevcuttur. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.PDF for Python'u .NET aracılığıyla [pypi](https://pypi.org/project/aspose-pdf/)'den yükleyin
+- Aspose.PDF for Python'u .NET aracılığıyla [PyPI](https://pypi.org/project/aspose-pdf/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

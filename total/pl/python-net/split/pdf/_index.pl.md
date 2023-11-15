@@ -72,7 +72,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo dzieli
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka rozdzielacza PDF dla Pythona" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [pypi](https://pypi.org/project/aspose-pdf/)
+- Zainstaluj [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Lub użyj następujących poleceń pip ```pip install aspose-pdf```.
 
 

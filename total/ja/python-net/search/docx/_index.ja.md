@@ -71,7 +71,7 @@ DOCX 検索可能なアプリまたはユーティリティを開発する必要
 {{% blocks/products/pf/agp/feature-section-col title="DOCXファイルを検索するためのPythonライブラリ" %}}
 「Aspose.Words for Python via .NET」または「Aspose.Total for Python via .NET」をシステムにインストールする代替オプションがあります。 ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/) から .NET 経由で Aspose.Words for Python をインストールする
+- [PyPI](https://pypi.org/project/aspose-words/) から .NET 経由で Aspose.Words for Python をインストールする
 - または、次の pip コマンド ``pip install aspose.words`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

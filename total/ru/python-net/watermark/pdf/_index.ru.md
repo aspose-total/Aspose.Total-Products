@@ -66,7 +66,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека водяных знаков PDF для Python" %}}
 Существуют альтернативные варианты установки Aspose.PDF for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить Aspose.PDF for Python via .NET из [pypi](https://pypi.org/project/aspose-pdf/)
+- Установить Aspose.PDF for Python via .NET из [PyPI](https://pypi.org/project/aspose-pdf/)
 - Или используйте следующие команды pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

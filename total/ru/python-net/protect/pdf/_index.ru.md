@@ -56,7 +56,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Утилита Python для обработки файла PDF для защиты приложения" %}}
 Существуют альтернативные варианты установки «[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)» или «[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) из [pypi](https://pypi.org/project/aspose-pdf/)
+- Установить [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) из [PyPI](https://pypi.org/project/aspose-pdf/)
 - Или используйте следующие команды pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

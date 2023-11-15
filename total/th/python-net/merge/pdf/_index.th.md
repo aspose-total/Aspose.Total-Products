@@ -76,9 +76,9 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการรวม PDF สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.PDF for Python via .NET', 'Aspose.Words for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.PDF for Python via .NET จาก [pypi](https://pypi.org/project/aspose-pdf/)
+- ติดตั้ง Aspose.PDF for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-pdf/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.pdf```
-- หรือติดตั้ง Aspose.Words for Python via .NET จาก [pypi](https://pypi.org/project/aspose-words/)
+- หรือติดตั้ง Aspose.Words for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

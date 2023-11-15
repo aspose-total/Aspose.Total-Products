@@ -66,7 +66,7 @@ Precisa desenvolver um script python ou um aplicativo utilitário para marcar fa
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de marca d'água GIF para Python" %}}
 Existem opções alternativas para instalar ‘Aspose.Imaging for Python via .NET’ ou ‘Aspose.Total for Python via .NET’ em seu sistema. Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale Aspose.Imaging for Python via .NET do [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instale Aspose.Imaging for Python via .NET do [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Ou use os seguintes comandos pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

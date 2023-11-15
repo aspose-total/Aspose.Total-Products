@@ -67,7 +67,7 @@ Need to develop a PNG viewer app or utility? With [Aspose.Imaging for Python via
 {{% blocks/products/pf/agp/feature-section-col title="Python utility to process PNG file" %}}
 There are alternative options to install "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" or "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) from [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Install [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) from [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Or Use the following pip commands ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

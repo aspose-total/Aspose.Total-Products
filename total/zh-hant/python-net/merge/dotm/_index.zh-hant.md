@@ -71,7 +71,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Python 的 DOTM 合併函式庫" %}}
 還有其他選項可以將“Aspose.Words for Python via .NET”或“Aspose.Total for Python via .NET”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 從 [pypi](https://pypi.org/project/aspose-words/) 安裝 Aspose.Words for Python via .NET
+- 從 [PyPI](https://pypi.org/project/aspose-words/) 安裝 Aspose.Words for Python via .NET
 - 或使用下列 pip 指令``pip install aspose.words```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -55,7 +55,7 @@ Precisa desenvolver um aplicativo ou utilitário de anotação CSV?Com [Aspose.C
 {{% blocks/products/pf/agp/feature-section-col title="Utilitário Python para anotar arquivos CSV" %}}
 Existem opções alternativas para instalar “[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)” ou “[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)” em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) do [pypi](https://pypi.org/project/aspose-cells/)
+- Instale [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) do [PyPI](https://pypi.org/project/aspose-cells/)
 - Ou use os seguintes comandos pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

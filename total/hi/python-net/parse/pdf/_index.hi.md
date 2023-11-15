@@ -84,7 +84,7 @@ PDF पार्सर ऐप या उपयोगिता विकसित
 {{% blocks/products/pf/agp/feature-section-col title="पार्सर ऐप के लिए PDF फ़ाइल को संसाधित करने के लिए पायथन उपयोगिता" %}}
 आपके सिस्टम पर "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" या "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/) से [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-words/) से [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) इंस्टॉल करें
 - या निम्नलिखित पिप कमांड का उपयोग करें ```पाइप इंस्टॉल एस्पोज़-पीडीएफ```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

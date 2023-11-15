@@ -57,7 +57,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون لتنقيح ملف WORD" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [pypi](https://pypi.org/project/aspose-words/)
+- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [PyPI](https://pypi.org/project/aspose-words/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -66,7 +66,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo dzieli
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka rozdzielacza POWERPOINT dla Pythona" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [pypi](https://pypi.org/project/Aspose.Slides/)
+- Zainstaluj [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Lub użyj następujących poleceń pip ```pip install Aspose.Slides```.
 
 

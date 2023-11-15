@@ -72,7 +72,7 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk memberi tanda air 
 {{% blocks/products/pf/agp/feature-section-col title="Pustaka watermarking DOC untuk Python" %}}
 Ada opsi alternatif untuk menginstal 'Aspose.Words for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.Words for Python via .NET dari [pypi](https://pypi.org/project/aspose-words/)
+- Instal Aspose.Words for Python via .NET dari [PyPI](https://pypi.org/project/aspose-words/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

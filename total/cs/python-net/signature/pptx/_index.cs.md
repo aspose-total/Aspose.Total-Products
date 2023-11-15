@@ -67,7 +67,7 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadné podepis
 {{% blocks/products/pf/agp/feature-section-col title="PPTX eSignature knihovna pro Python" %}}
 Existují alternativní možnosti instalace „Aspose.Slides for Python via .NET“ nebo „Aspose.Total for Python via .NET“ do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.Slides for Python via .NET z [pypi](https://pypi.org/project/Aspose.Slides/)
+- Nainstalujte Aspose.Slides for Python via .NET z [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Nebo použijte následující příkazy pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

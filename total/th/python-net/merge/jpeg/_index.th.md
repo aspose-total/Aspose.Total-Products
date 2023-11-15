@@ -78,7 +78,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการรวม JPEG สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Imaging for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Imaging for Python via .NET จาก [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- ติดตั้ง Aspose.Imaging for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-imaging-python-net```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

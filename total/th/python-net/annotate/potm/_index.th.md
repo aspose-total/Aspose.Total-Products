@@ -59,7 +59,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility เพื่อใส่คำอธิบายประกอบไฟล์ POTM" %}}
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" หรือ "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ลงในระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [pypi](https://pypi.org/project/Aspose.Slides/)
+- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [PyPI](https://pypi.org/project/Aspose.Slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

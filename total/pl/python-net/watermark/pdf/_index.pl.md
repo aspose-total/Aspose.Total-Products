@@ -66,7 +66,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo znakow
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka znaków wodnych PDF dla Pythona" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „Aspose.PDF for Python via .NET” lub „Aspose.Total for Python via .NET”.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.PDF for Python via .NET z [pypi](https://pypi.org/project/aspose-pdf/)
+- Zainstaluj Aspose.PDF for Python via .NET z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Lub użyj następujących poleceń pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

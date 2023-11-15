@@ -71,7 +71,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี Python เพื่อค้นหาไฟล์ DOCX" %}}
 มีตัวเลือกอื่นในการติดตั้ง "Aspose.Words สำหรับ Python ผ่าน .NET" หรือ "Aspose.Total สำหรับ Python ผ่าน .NET" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน .NET จาก [pypi](https://pypi.org/project/aspose-words/)
+- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน .NET จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

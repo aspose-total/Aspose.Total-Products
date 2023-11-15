@@ -71,7 +71,7 @@ Need to develop python script or utility app to easily merge multiple DOCX files
 {{% blocks/products/pf/agp/feature-section-col title="DOCX merging library for Python" %}}
 There are alternative options to install 'Aspose.Words for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install Aspose.Words for Python via .NET from [pypi](https://pypi.org/project/aspose-words/)
+- Install Aspose.Words for Python via .NET from [PyPI](https://pypi.org/project/aspose-words/)
 - Or Use the following pip commands ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

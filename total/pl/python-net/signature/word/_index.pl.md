@@ -65,7 +65,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo podpis
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka podpisów elektronicznych WORD dla języka Python" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „Aspose.Words for Python via .NET” lub „Aspose.Total for Python via .NET”.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Words for Python via .NET z [pypi](https://pypi.org/project/aspose-words/)
+- Zainstaluj Aspose.Words for Python via .NET z [PyPI](https://pypi.org/project/aspose-words/)
 - Lub użyj następujących poleceń pip ```pip install aspose-words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

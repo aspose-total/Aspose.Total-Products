@@ -71,7 +71,7 @@ Precisa desenvolver um script python ou um aplicativo utilitário para mesclar f
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de mesclagem XLSM para Python" %}}
 Existem opções alternativas para instalar ‘Aspose.Cells for Python via .NET’ ou ‘Aspose.Total for Python via .NET’ em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale Aspose.Cells for Python via .NET do [pypi](https://pypi.org/project/aspose-cells/)
+- Instale Aspose.Cells for Python via .NET do [PyPI](https://pypi.org/project/aspose-cells/)
 - Ou use os seguintes comandos pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ otherformats: EXCEL XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة بايثون للبحث في ملف XLS" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Cells for Python via Java" أو "Aspose.Total for Python via Java" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Words لـ Python عبر Java من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت Aspose.Words لـ Python عبر Java من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

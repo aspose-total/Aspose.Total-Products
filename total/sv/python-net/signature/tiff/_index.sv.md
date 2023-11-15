@@ -65,7 +65,7 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt signera fle
 {{% blocks/products/pf/agp/feature-section-col title="TIFF eSignature-bibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.Imaging for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Imaging for Python via .NET från [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installera Aspose.Imaging for Python via .NET från [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Eller använd följande pip-kommandon ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

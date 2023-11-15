@@ -69,7 +69,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี Python เพื่อค้นหาไฟล์ PPTX" %}}
 มีตัวเลือกอื่นในการติดตั้ง "Aspose.Slides สำหรับ Python ผ่าน .NET" หรือ "Aspose.Total สำหรับ Python ผ่าน .NET" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Slides สำหรับ Python ผ่าน .NET จาก [pypi](https://pypi.org/project/aspose-slides/)
+- ติดตั้ง Aspose.Slides สำหรับ Python ผ่าน .NET จาก [PyPI](https://pypi.org/project/aspose-slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

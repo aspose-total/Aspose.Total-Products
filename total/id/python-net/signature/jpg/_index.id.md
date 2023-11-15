@@ -65,7 +65,7 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk dengan mudah menan
 {{% blocks/products/pf/agp/feature-section-col title="Pustaka tanda tangan elektronik JPG untuk Python" %}}
 Ada opsi alternatif untuk menginstal 'Aspose.Imaging for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.Imaging for Python via .NET dari [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instal Aspose.Imaging for Python via .NET dari [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

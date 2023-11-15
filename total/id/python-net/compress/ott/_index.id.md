@@ -71,7 +71,7 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk mengarsipkan satu 
 {{% blocks/products/pf/agp/feature-section-col title="Perpustakaan pengarsipan OTT untuk Python" %}}
 Ada opsi alternatif untuk menginstal 'Aspose.ZIP for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.ZIP for Python via .NET dari [pypi](https://pypi.org/project/aspose-zip/)
+- Instal Aspose.ZIP for Python via .NET dari [PyPI](https://pypi.org/project/aspose-zip/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

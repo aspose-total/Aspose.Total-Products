@@ -55,7 +55,7 @@ Bạn cần phát triển ứng dụng, tiện ích quản lý bảo vệ ODP?V�
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích Python để quản lý bảo vệ ODP" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" hoặc "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) từ [pypi](https://pypi.org/project/Aspose.Slides/)
+- Cài đặt [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) từ [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

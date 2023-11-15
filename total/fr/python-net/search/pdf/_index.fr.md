@@ -71,7 +71,7 @@ Besoin de développer une application utilitaire de recherche PDF ? Avec Aspose
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque Python pour rechercher le fichier PDF" %}}
 Il existe des options alternatives pour installer « Aspose.PDF pour Python via .NET » ou « Aspose.Total pour Python via .NET » sur votre système. Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installez Aspose.PDF pour Python via .NET à partir de [pypi](https://pypi.org/project/aspose-pdf/)
+- Installez Aspose.PDF pour Python via .NET à partir de [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

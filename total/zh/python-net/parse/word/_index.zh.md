@@ -87,7 +87,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% blocks/products/pf/agp/feature-section-col title="用于为解析器应用程序处理 WORD 文件的 Python 实用程序" %}}
 还有其他选项可以将“[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 从 [pypi](https://pypi.org/project/aspose-words/) 安装 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
+- 从 [PyPI](https://pypi.org/project/aspose-words/) 安装 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 - 或者使用以下 pip 命令``pip install aspose.words```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

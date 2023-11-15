@@ -55,7 +55,7 @@ Bir POWERPOINT koruma yönetimi uygulaması veya yardımcı programı geliştirm
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT Korumasını Yönetmek için Python Yardımcı Programı" %}}
 Sisteminize "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" veya "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)'ü [pypi](https://pypi.org/project/Aspose.Slides/)'den yükleyin
+- [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)'ü [PyPI](https://pypi.org/project/Aspose.Slides/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

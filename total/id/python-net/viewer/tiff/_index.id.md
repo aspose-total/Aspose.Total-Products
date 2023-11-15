@@ -67,7 +67,7 @@ Perlu mengembangkan aplikasi atau utilitas penampil TIFF?Dengan [Aspose.Imaging 
 {{% blocks/products/pf/agp/feature-section-col title="Utilitas Python untuk memproses file TIFF" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" atau "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) dari [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instal [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) dari [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

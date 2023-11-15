@@ -71,7 +71,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека архивирования SVG для Python" %}}
 Существуют альтернативные варианты установки Aspose.ZIP for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям.:<br /><br />
 
-- Установить Aspose.ZIP for Python via .NET из [pypi](https://pypi.org/project/aspose-zip/)
+- Установить Aspose.ZIP for Python via .NET из [PyPI](https://pypi.org/project/aspose-zip/)
 - Или используйте следующие команды pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

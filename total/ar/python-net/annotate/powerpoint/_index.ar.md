@@ -59,7 +59,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون للتعليق على ملفات POWERPOINT" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) من [pypi](https://pypi.org/project/Aspose.Slides/)
+- قم بتثبيت [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) من [PyPI](https://pypi.org/project/Aspose.Slides/)
 - أو استخدم أوامر النقطة التالية ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

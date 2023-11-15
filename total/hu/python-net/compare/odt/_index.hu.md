@@ -64,7 +64,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie a ODT fájlok egyszerű 
 {{% blocks/products/pf/agp/feature-section-col title="ODT összehasonlító könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)” vagy „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)-at a [pypi](https://pypi.org/project/aspose-words/)-ből
+- Telepítse a [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)-at a [PyPI](https://pypi.org/project/aspose-words/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose-words```.
 
 

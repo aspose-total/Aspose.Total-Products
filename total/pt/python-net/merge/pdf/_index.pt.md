@@ -76,9 +76,9 @@ Precisa desenvolver um script python ou um aplicativo utilitário para mesclar f
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de mesclagem PDF para Python" %}}
 Existem opções alternativas para instalar ‘Aspose.PDF for Python via .NET’, ‘Aspose.Words for Python via .NET’ ou ‘Aspose.Total for Python via .NET’ em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale Aspose.PDF for Python via .NET do [pypi](https://pypi.org/project/aspose-pdf/)
+- Instale Aspose.PDF for Python via .NET do [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ou use os seguintes comandos pip ```pip install aspose.pdf```.
-- Ou instale Aspose.Words for Python via .NET do [pypi](https://pypi.org/project/aspose-words/)
+- Ou instale Aspose.Words for Python via .NET do [PyPI](https://pypi.org/project/aspose-words/)
 - Ou use os seguintes comandos pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

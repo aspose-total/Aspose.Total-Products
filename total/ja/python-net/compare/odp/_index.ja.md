@@ -62,7 +62,7 @@ ODP ファイルを簡単に比較するための Python スクリプトまた�
 {{% blocks/products/pf/agp/feature-section-col title="Python 用 ODP 比較ライブラリ" %}}
 「[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)から[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)をインストール
+- [PyPI](https://pypi.org/project/Aspose.Slides/)から[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)をインストール
 - または、次の pip コマンド ``pip install Aspose.Slides`` を使用します。
 
 

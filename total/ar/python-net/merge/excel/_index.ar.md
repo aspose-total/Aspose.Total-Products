@@ -71,7 +71,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة دمج EXCEL لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Cells for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Cells for Python via .NET من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت Aspose.Cells for Python via .NET من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

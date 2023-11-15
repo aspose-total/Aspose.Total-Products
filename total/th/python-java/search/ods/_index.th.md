@@ -72,7 +72,7 @@ otherformats: EXCEL XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี Python เพื่อค้นหาไฟล์ ODS" %}}
 มีตัวเลือกอื่นในการติดตั้ง "Aspose.Cells สำหรับ Python ผ่าน Java" หรือ "Aspose.Total สำหรับ Python ผ่าน Java" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน Java จาก [pypi](https://pypi.org/project/aspose-cells/)
+- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน Java จาก [PyPI](https://pypi.org/project/aspose-cells/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.cells```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

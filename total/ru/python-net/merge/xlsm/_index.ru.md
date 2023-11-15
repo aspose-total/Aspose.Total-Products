@@ -71,7 +71,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека слияния XLSM для Python" %}}
 Существуют альтернативные варианты установки Aspose.Cells for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить Aspose.Cells for Python via .NET из [pypi](https://pypi.org/project/aspose-cells/)
+- Установить Aspose.Cells for Python via .NET из [PyPI](https://pypi.org/project/aspose-cells/)
 - Или используйте следующие команды pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -92,9 +92,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการบีบอัด PPSM สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Slides for Python via .NET', 'Aspose.ZIP for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Slides for Python via .NET จาก [pypi](https://pypi.org/project/Aspose.Slides/)
+- ติดตั้ง Aspose.Slides for Python via .NET จาก [PyPI](https://pypi.org/project/Aspose.Slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
-- ติดตั้ง Aspose.ZIP for Python via .NET จาก [pypi](https://pypi.org/project/aspose-zip/)
+- ติดตั้ง Aspose.ZIP for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-zip/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-zip```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

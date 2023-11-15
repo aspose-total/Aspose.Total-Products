@@ -59,7 +59,7 @@ Wilt u een DOCX-app of -hulpprogramma voor wachtwoordbeveiliging ontwikkelen?Met
 {{% blocks/products/pf/agp/feature-section-col title="Python-hulpprogramma om het DOCX-bestand te verwerken voor het beveiligen van de app" %}}
 Er zijn alternatieve opties om "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" of "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" op uw systeem te installeren.Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) vanaf [pypi](https://pypi.org/project/aspose-words/)
+- Installeer [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) vanaf [PyPI](https://pypi.org/project/aspose-words/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

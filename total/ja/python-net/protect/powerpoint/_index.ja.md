@@ -55,7 +55,7 @@ POWERPOINT パスワード保護アプリまたはユーティリティを開発
 {{% blocks/products/pf/agp/feature-section-col title="アプリを保護するために POWERPOINT ファイルを処理する Python ユーティリティ" %}}
 「[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールする別のオプションもあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)から[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)をインストール
+- [PyPI](https://pypi.org/project/Aspose.Slides/)から[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)をインストール
 - または、次の pip コマンド「`pip install Aspose.Slides`」を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

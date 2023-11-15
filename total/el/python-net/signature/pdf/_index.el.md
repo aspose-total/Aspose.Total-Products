@@ -67,7 +67,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="PDF eSignature βιβλιοθήκη για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «Aspose.PDF for Python via .NET» ή το «Aspose.Total for Python via .NET» στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.PDF for Python via .NET από το [pypi](https://pypi.org/project/aspose-pdf/)
+- Εγκαταστήστε το Aspose.PDF for Python via .NET από το [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

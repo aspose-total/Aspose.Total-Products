@@ -66,7 +66,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายน้ำ ODS สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Cells for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Cells for Python via .NET จาก [pypi](https://pypi.org/project/aspose-cells/)
+- ติดตั้ง Aspose.Cells for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-cells/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-cells```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

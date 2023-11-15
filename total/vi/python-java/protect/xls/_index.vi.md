@@ -56,7 +56,7 @@ Bạn đang cần phát triển ứng dụng, tiện ích bảo vệ mật khẩ
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích Python để xử lý tệp XLS cho ứng dụng bảo vệ" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" hoặc "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) từ [pypi](https://pypi.org/project/aspose-cells/)
+- Cài đặt [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) từ [PyPI](https://pypi.org/project/aspose-cells/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

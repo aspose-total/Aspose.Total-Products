@@ -72,7 +72,7 @@ Birden fazla WORD dosyasını kolayca filigranlamak için python betiği veya ya
 {{% blocks/products/pf/agp/feature-section-col title="Python için WORD filigran kitaplığı" %}}
 Sisteminize 'Aspose.Words for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Words for Python via .NET'ü [pypi](https://pypi.org/project/aspose-words/)'den yükleyin
+- Aspose.Words for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-words/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını ```pip install aspose-words``` kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -76,9 +76,9 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több PDF fájl egyszer�
 {{% blocks/products/pf/agp/feature-section-col title="PDF egyesítő könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.PDF for Python via .NET”, „Aspose.Words for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.PDF for Python via .NET-öt a [pypi](https://pypi.org/project/aspose-pdf/)-ből
+- Telepítse a Aspose.PDF for Python via .NET-öt a [PyPI](https://pypi.org/project/aspose-pdf/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose.pdf```.
-- Vagy telepítse a Aspose.Words for Python via .NET-ot a [pypi](https://pypi.org/project/aspose-words/)-ból
+- Vagy telepítse a Aspose.Words for Python via .NET-ot a [PyPI](https://pypi.org/project/aspose-words/)-ból
 - Vagy Használja a következő pip parancsokat: ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

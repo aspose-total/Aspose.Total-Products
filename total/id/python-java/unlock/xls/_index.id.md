@@ -55,7 +55,7 @@ Perlu mengembangkan aplikasi atau utilitas manajemen perlindungan XLS?Dengan [As
 {{% blocks/products/pf/agp/feature-section-col title="Utilitas Python untuk Mengelola Perlindungan XLS" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" atau "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) dari [pypi](https://pypi.org/project/aspose-cells/)
+- Instal [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) dari [PyPI](https://pypi.org/project/aspose-cells/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

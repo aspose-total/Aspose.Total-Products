@@ -69,7 +69,7 @@ Chcesz opracować oprogramowanie lub narzędzie umożliwiające przeszukiwanie P
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka Pythona do wyszukiwania pliku PPT" %}}
 Istnieją alternatywne opcje instalacji „Aspose.Slides dla Pythona przez .NET” lub „Aspose.Total dla Pythona przez .NET” w swoim systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Slides dla Pythona poprzez .NET z [pypi](https://pypi.org/project/aspose-slides/)
+- Zainstaluj Aspose.Slides dla Pythona poprzez .NET z [PyPI](https://pypi.org/project/aspose-slides/)
 - Lub użyj następujących poleceń pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -58,7 +58,7 @@ Need to develop a RTF annotation app or utility? With [Aspose.Words for Python v
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility to Annotate RTF Files" %}}
 There are alternative options to install "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" or "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [pypi](https://pypi.org/project/aspose-words/)
+- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [PyPI](https://pypi.org/project/aspose-words/)
 - Or Use the following pip commands ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

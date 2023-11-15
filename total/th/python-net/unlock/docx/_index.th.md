@@ -55,7 +55,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility เพื่อจัดการการป้องกัน DOCX" %}}
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" หรือ "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ลงในระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) จาก [pypi](https://pypi.org/project/aspose-words/)
+- ติดตั้ง [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

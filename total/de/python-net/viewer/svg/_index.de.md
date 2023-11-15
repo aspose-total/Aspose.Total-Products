@@ -67,7 +67,7 @@ Müssen Sie eine SVG-Viewer-App oder ein Dienstprogramm entwickeln?Da [Aspose.Im
 {{% blocks/products/pf/agp/feature-section-col title="Python-Dienstprogramm zur Verarbeitung der SVG-Datei" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)“ oder „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) von [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installieren Sie [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) von [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose-imaging-python-net“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

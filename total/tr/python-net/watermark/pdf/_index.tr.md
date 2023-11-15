@@ -66,7 +66,7 @@ Birden fazla PDF dosyasını kolayca Filigranlamak için python betiği veya yar
 {{% blocks/products/pf/agp/feature-section-col title="Python için PDF Filigranlama kitaplığı" %}}
 Sisteminize 'Aspose.PDF for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.PDF for Python via .NET'ü [pypi](https://pypi.org/project/aspose-pdf/)'den yükleyin
+- Aspose.PDF for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-pdf/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -69,7 +69,7 @@ POWERPOINT kereshető szoftvert vagy segédprogramot szeretne fejleszteni? Az As
 {{% blocks/products/pf/agp/feature-section-col title="Python könyvtár a POWERPOINT fájl kereséséhez" %}}
 Vannak alternatív lehetőségek az "Aspose.Slides for Python via .NET" vagy az "Aspose.Total for Python via .NET" telepítésére a rendszerére. Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse az Aspose.Slides for Python alkalmazást .NET-en keresztül a [pypi](https://pypi.org/project/aspose-slides/)-ből
+- Telepítse az Aspose.Slides for Python alkalmazást .NET-en keresztül a [PyPI](https://pypi.org/project/aspose-slides/)-ből
 - Vagy Használja a következő pip parancsokat ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

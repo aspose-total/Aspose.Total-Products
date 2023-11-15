@@ -71,7 +71,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека Python для поиска файла ODT" %}}
 Существуют альтернативные варианты установки «Aspose.Words for Python через .NET» или «Aspose.Total for Python через .NET» в вашу систему. Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите Aspose.Words для Python через .NET из [pypi](https://pypi.org/project/aspose-words/).
+- Установите Aspose.Words для Python через .NET из [PyPI](https://pypi.org/project/aspose-words/).
 - Или используйте следующие команды pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -67,7 +67,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo podpis
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka podpisów elektronicznych PDF dla języka Python" %}}
 Istnieją alternatywne opcje instalacji „Aspose.PDF for Python via .NET” lub „Aspose.Total for Python via .NET” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.PDF for Python via .NET z [pypi](https://pypi.org/project/aspose-pdf/)
+- Zainstaluj Aspose.PDF for Python via .NET z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Lub użyj następujących poleceń pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -69,7 +69,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="用于搜索 POWERPOINT 文件的 Python 库" %}}
 还有其他选项可以将“Aspose.Slides for Python via .NET”或“Aspose.Total for Python via .NET”安装到您的系统上。 请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 通过 .NET 从 [pypi](https://pypi.org/project/aspose-slides/) 安装 Aspose.Slides for Python
+- 通过 .NET 从 [PyPI](https://pypi.org/project/aspose-slides/) 安装 Aspose.Slides for Python
 - 或者使用以下 pip 命令``pip install Aspose.Slides``。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

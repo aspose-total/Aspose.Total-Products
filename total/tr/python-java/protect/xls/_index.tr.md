@@ -56,7 +56,7 @@ Bir XLS şifre koruma uygulaması veya yardımcı programı geliştirmeniz mi ge
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı korumak için XLS dosyasını işlemek için Python yardımcı programı" %}}
 Sisteminize "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" veya "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin.:<br /><br />
 
-- [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)'ü [pypi](https://pypi.org/project/aspose-cells/)'den yükleyin
+- [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)'ü [PyPI](https://pypi.org/project/aspose-cells/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını ```pip install aspose-cells``` kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

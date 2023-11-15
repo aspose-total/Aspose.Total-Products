@@ -71,7 +71,7 @@ Bạn cần phát triển ứng dụng hoặc tiện ích tìm kiếm DOC? Với
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện Python để tìm kiếm tệp DOC" %}}
 Có các tùy chọn thay thế để cài đặt "Aspose.Words for Python via .NET" hoặc "Aspose.Total for Python via .NET" vào hệ thống của bạn. Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt Aspose.Words cho Python qua .NET từ [pypi](https://pypi.org/project/aspose-words/)
+- Cài đặt Aspose.Words cho Python qua .NET từ [PyPI](https://pypi.org/project/aspose-words/)
 - Hoặc Sử dụng các lệnh pip sau ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

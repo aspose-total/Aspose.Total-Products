@@ -58,7 +58,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون للتعليق على ملفات TXT" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [pypi](https://pypi.org/project/aspose-words/)
+- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [PyPI](https://pypi.org/project/aspose-words/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

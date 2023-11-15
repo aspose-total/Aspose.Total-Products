@@ -72,7 +72,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека разделителя PDF для Python" %}}
 Существуют альтернативные варианты установки [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) или [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) из [pypi](https://pypi.org/project/aspose-pdf/)
+- Установить [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) из [PyPI](https://pypi.org/project/aspose-pdf/)
 - Или используйте следующие команды pip ```pip install aspose-pdf```.
 
 

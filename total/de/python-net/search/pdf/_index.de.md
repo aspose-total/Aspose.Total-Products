@@ -71,7 +71,7 @@ Müssen Sie eine durchsuchbare PDF-Dienstprogramm-App entwickeln? Mit Aspose.PDF
 {{% blocks/products/pf/agp/feature-section-col title="Python-Bibliothek zum Durchsuchen der PDF-Datei" %}}
 Es gibt alternative Möglichkeiten, „Aspose.PDF für Python über .NET“ oder „Aspose.Total für Python über .NET“ auf Ihrem System zu installieren. Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.PDF für Python über .NET von [pypi](https://pypi.org/project/aspose-pdf/)
+- Installieren Sie Aspose.PDF für Python über .NET von [PyPI](https://pypi.org/project/aspose-pdf/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose.pdf“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

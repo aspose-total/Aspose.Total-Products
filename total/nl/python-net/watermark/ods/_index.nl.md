@@ -66,7 +66,7 @@ Moet u een Python-script of een hulpprogramma-app ontwikkelen om eenvoudig meerd
 {{% blocks/products/pf/agp/feature-section-col title="ODS Watermerkbibliotheek voor Python" %}}
 Er zijn alternatieve opties om 'Aspose.Cells for Python via .NET' of 'Aspose.Total for Python via .NET' op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Cells for Python via .NET vanaf [pypi](https://pypi.org/project/aspose-cells/)
+- Installeer Aspose.Cells for Python via .NET vanaf [PyPI](https://pypi.org/project/aspose-cells/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

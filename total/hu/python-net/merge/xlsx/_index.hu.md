@@ -71,7 +71,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több XLSX fájl egyszer
 {{% blocks/products/pf/agp/feature-section-col title="XLSX egyesítő könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.Cells for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.Cells for Python via .NET-et a [pypi](https://pypi.org/project/aspose-cells/)-ből
+- Telepítse a Aspose.Cells for Python via .NET-et a [PyPI](https://pypi.org/project/aspose-cells/)-ből
 - Vagy használja a következő pip parancsokat: ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt arkivera en
 {{% blocks/products/pf/agp/feature-section-col title="ODG arkiveringsbibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.ZIP for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.ZIP for Python via .NET från [pypi](https://pypi.org/project/aspose-zip/)
+- Installera Aspose.ZIP for Python via .NET från [PyPI](https://pypi.org/project/aspose-zip/)
 - Eller använd följande pip-kommandon ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

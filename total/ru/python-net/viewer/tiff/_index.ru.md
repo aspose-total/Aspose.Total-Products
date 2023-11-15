@@ -67,7 +67,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="Утилита Python для обработки файла TIFF" %}}
 Существуют альтернативные варианты установки «[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)» или «[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) из [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Установить [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) из [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Или используйте следующие команды pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

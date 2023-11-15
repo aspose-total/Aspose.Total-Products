@@ -67,7 +67,7 @@ Bạn cần phát triển tập lệnh python hoặc ứng dụng tiện ích đ
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện chữ ký điện tử PDF cho Python" %}}
 Có các tùy chọn thay thế để cài đặt 'Aspose.PDF for Python via .NET' hoặc 'Aspose.Total for Python via .NET' trên hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt Aspose.PDF for Python via .NET từ [pypi](https://pypi.org/project/aspose-pdf/)
+- Cài đặt Aspose.PDF for Python via .NET từ [PyPI](https://pypi.org/project/aspose-pdf/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

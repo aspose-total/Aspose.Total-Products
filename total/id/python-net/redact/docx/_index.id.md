@@ -57,7 +57,7 @@ Perlu mengembangkan aplikasi atau utilitas redaksi DOCX?Dengan [Aspose.Words for
 {{% blocks/products/pf/agp/feature-section-col title="Utilitas Python untuk Menyunting File DOCX" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" atau "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) dari [pypi](https://pypi.org/project/aspose-words/)
+- Instal [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) dari [PyPI](https://pypi.org/project/aspose-words/)
 - Atau Gunakan perintah pip berikut ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

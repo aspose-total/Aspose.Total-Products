@@ -91,9 +91,9 @@ Birden fazla GIF dosyasını kolayca sıkıştırmak için python betiği veya y
 {{% blocks/products/pf/agp/feature-section-col title="Python için GIF sıkıştırma kütüphanesi" %}}
 Sisteminize 'Aspose.Imaging for Python via .NET', 'Aspose.ZIP for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin.:<br /><br />
 
-- Aspose.Imaging for Python via .NET'yi [pypi](https://pypi.org/project/aspose-imaging-python-net/)'ten yükleyin
+- Aspose.Imaging for Python via .NET'yi [PyPI](https://pypi.org/project/aspose-imaging-python-net/)'ten yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install aspose-imaging-python-net```.
-- [pypi](https://pypi.org/project/aspose-zip/)'ten Aspose.ZIP for Python via .NET'i yükleyin
+- [PyPI](https://pypi.org/project/aspose-zip/)'ten Aspose.ZIP for Python via .NET'i yükleyin
 - Veya Aşağıdaki ```pip install aspose-zip`` pip komutlarını kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

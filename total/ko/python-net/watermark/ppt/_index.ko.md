@@ -72,7 +72,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="Python용 PPT 워터마킹 라이브러리" %}}
 시스템에 'Aspose.Slides for Python via .NET' 또는 'Aspose.Total for Python via .NET'를 설치하는 대체 옵션이 있습니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)에서 Aspose.Slides for Python via .NET 설치
+- [PyPI](https://pypi.org/project/Aspose.Slides/)에서 Aspose.Slides for Python via .NET 설치
 - 또는 다음 pip 명령 ```pip install Aspose.Slides``를 사용하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

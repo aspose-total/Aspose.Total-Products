@@ -73,7 +73,7 @@ Bạn cần phát triển ứng dụng, tiện ích xem WORD? Với [Aspose.Word
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích Python để xử lý tệp WORD cho ứng dụng hiển thị" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" hoặc "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) từ [pypi](https://pypi.org/project/aspose-words/)
+- Cài đặt [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) từ [PyPI](https://pypi.org/project/aspose-words/)
 - Hoặc Sử dụng các lệnh pip sau ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

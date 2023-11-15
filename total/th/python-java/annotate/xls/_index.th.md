@@ -55,7 +55,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility เพื่อใส่คำอธิบายประกอบไฟล์ XLS" %}}
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" หรือ "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" ลงในระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) จาก [pypi](https://pypi.org/project/aspose-cells/)
+- ติดตั้ง [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) จาก [PyPI](https://pypi.org/project/aspose-cells/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-cells```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

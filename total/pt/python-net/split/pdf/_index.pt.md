@@ -72,7 +72,7 @@ Precisa desenvolver um script python ou um aplicativo utilitário para dividir f
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca PDF Splitter para Python" %}}
 Existem opções alternativas para instalar ‘[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)’ ou ‘[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)’ em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) do [pypi](https://pypi.org/project/aspose-pdf/)
+- Instale [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) do [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ou use os seguintes comandos pip ```pip install aspose-pdf```.
 
 

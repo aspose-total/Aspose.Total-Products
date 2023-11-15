@@ -67,7 +67,7 @@ Chcesz opracować aplikację lub narzędzie przeglądarki IMAGE?Dzięki [Aspose.
 {{% blocks/products/pf/agp/feature-section-col title="Narzędzie Pythona do przetwarzania pliku IMAGE" %}}
 Istnieją alternatywne opcje instalacji „[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) z [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Zainstaluj [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) z [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Lub użyj następujących poleceń pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

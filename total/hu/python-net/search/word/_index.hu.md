@@ -71,7 +71,7 @@ WORD kereshető alkalmazást vagy segédprogramot szeretne fejleszteni? Az Aspos
 {{% blocks/products/pf/agp/feature-section-col title="Python könyvtár a WORD fájl kereséséhez" %}}
 Vannak alternatív lehetőségek az "Aspose.Words for Python via .NET" vagy az "Aspose.Total for Python via .NET" telepítésére a rendszerére. Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse az Aspose.Words for Python programot .NET-en keresztül a [pypi](https://pypi.org/project/aspose-words/)-ből
+- Telepítse az Aspose.Words for Python programot .NET-en keresztül a [PyPI](https://pypi.org/project/aspose-words/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

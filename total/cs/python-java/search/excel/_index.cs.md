@@ -72,7 +72,7 @@ Potřebujete vyvinout EXCEL prohledávatelnou aplikaci nebo nástroj? S Aspose.C
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna Python pro vyhledávání souboru EXCEL" %}}
 Existují alternativní možnosti instalace "Aspose.Cells pro Python přes Java" nebo "Aspose.Total pro Python přes Java" do vašeho systému. Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.Words pro Python přes Javu z [pypi](https://pypi.org/project/aspose-cells/)
+- Nainstalujte Aspose.Words pro Python přes Javu z [PyPI](https://pypi.org/project/aspose-cells/)
 - Nebo použijte následující příkazy pip ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -92,9 +92,9 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk mengompresi bebera
 {{% blocks/products/pf/agp/feature-section-col title="Pustaka kompresi POTX untuk Python" %}}
 Ada pilihan alternatif untuk menginstal 'Aspose.Slides for Python via .NET', 'Aspose.ZIP for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.Slides for Python via .NET dari [pypi](https://pypi.org/project/Aspose.Slides/)
+- Instal Aspose.Slides for Python via .NET dari [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Atau Gunakan perintah pip berikut ```pip install Aspose.Slides```.
-- Instal Aspose.ZIP for Python via .NET dari [pypi](https://pypi.org/project/aspose-zip/)
+- Instal Aspose.ZIP for Python via .NET dari [PyPI](https://pypi.org/project/aspose-zip/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

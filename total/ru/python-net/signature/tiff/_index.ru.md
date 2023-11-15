@@ -65,7 +65,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека электронной подписи TIFF для Python" %}}
 Существуют альтернативные варианты установки Aspose.Imaging for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить Aspose.Imaging for Python via .NET из [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Установить Aspose.Imaging for Python via .NET из [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Или используйте следующие команды pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

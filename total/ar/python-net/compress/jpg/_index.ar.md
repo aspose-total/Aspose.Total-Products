@@ -91,9 +91,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة ضغط JPG لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Imaging for Python via .NET" أو "Aspose.ZIP for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Imaging for Python via .NET من [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- قم بتثبيت Aspose.Imaging for Python via .NET من [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-imaging-python-net```.
-- قم بتثبيت Aspose.ZIP for Python via .NET من [pypi](https://pypi.org/project/aspose-zip/)
+- قم بتثبيت Aspose.ZIP for Python via .NET من [PyPI](https://pypi.org/project/aspose-zip/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ XLSX kereshető alkalmazást vagy segédprogramot szeretne fejleszteni? Az Aspos
 {{% blocks/products/pf/agp/feature-section-col title="Python könyvtár a XLSX fájl kereséséhez" %}}
 Vannak alternatív lehetőségek az "Aspose.Cells for Python via Java" vagy az "Aspose.Total for Python via Java" telepítésére a rendszerére. Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Az Aspose.Words for Python telepítése Java-n keresztül a [pypi](https://pypi.org/project/aspose-cells/)-ből
+- Az Aspose.Words for Python telepítése Java-n keresztül a [PyPI](https://pypi.org/project/aspose-cells/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة بايثون للبحث في ملف PDF" %}}
 هناك خيارات بديلة لتثبيت "Aspose.PDF for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.PDF لـ Python عبر .NET من [pypi](https://pypi.org/project/aspose-pdf/)
+- قم بتثبيت Aspose.PDF لـ Python عبر .NET من [PyPI](https://pypi.org/project/aspose-pdf/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

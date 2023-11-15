@@ -92,9 +92,9 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo skompr
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka kompresji PPT dla Pythona" %}}
 Istnieją alternatywne możliwości zainstalowania w systemie „Aspose.Slides for Python via .NET”, „Aspose.ZIP for Python via .NET” lub „Aspose.Total for Python via .NET”.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Slides for Python via .NET z [pypi](https://pypi.org/project/Aspose.Slides/)
+- Zainstaluj Aspose.Slides for Python via .NET z [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Lub użyj następujących poleceń pip ```pip install Aspose.Slides```.
-- Zainstaluj Aspose.ZIP for Python via .NET z [pypi](https://pypi.org/project/aspose-zip/)
+- Zainstaluj Aspose.ZIP for Python via .NET z [PyPI](https://pypi.org/project/aspose-zip/)
 - Lub użyj następujących poleceń pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

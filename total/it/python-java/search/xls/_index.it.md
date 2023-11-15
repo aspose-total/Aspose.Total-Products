@@ -72,7 +72,7 @@ Hai bisogno di sviluppare un'app o un'utilità ricercabile XLS? Con Aspose.Cells
 {{% blocks/products/pf/agp/feature-section-col title="Libreria Python per cercare file XLS" %}}
 Esistono opzioni alternative per installare "Aspose.Cells for Python via Java" o "Aspose.Total for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.Words per Python tramite Java da [pypi](https://pypi.org/project/aspose-cells/)
+- Installa Aspose.Words per Python tramite Java da [PyPI](https://pypi.org/project/aspose-cells/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

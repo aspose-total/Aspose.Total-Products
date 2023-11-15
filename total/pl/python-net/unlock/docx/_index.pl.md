@@ -55,7 +55,7 @@ Chcesz opracować aplikację lub narzędzie do zarządzania ochroną DOCX?Dzięk
 {{% blocks/products/pf/agp/feature-section-col title="Narzędzie Python do zarządzania ochroną DOCX" %}}
 Istnieją alternatywne opcje instalacji „[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) z [pypi](https://pypi.org/project/aspose-words/)
+- Zainstaluj [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) z [PyPI](https://pypi.org/project/aspose-words/)
 - Lub użyj następujących poleceń pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

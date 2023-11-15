@@ -71,7 +71,7 @@ PDF kereshető segédprogramot szeretne fejleszteni? Az Aspose.PDF for Python .N
 {{% blocks/products/pf/agp/feature-section-col title="Python könyvtár a PDF fájl kereséséhez" %}}
 Vannak alternatív lehetőségek az „Aspose.PDF for Python via .NET” vagy az „Aspose.Total for Python via .NET” telepítésére a rendszerére. Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse az Aspose.PDF for Python fájlt .NET-en keresztül a [pypi](https://pypi.org/project/aspose-pdf/)-ből
+- Telepítse az Aspose.PDF for Python fájlt .NET-en keresztül a [PyPI](https://pypi.org/project/aspose-pdf/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

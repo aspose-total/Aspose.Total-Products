@@ -87,7 +87,7 @@ Behöver du utveckla en ODT-parserapp eller ett verktyg?Med [Aspose.Words for Py
 {{% blocks/products/pf/agp/feature-section-col title="Python-verktyg för att bearbeta ODT-fil för parserapp" %}}
 Det finns alternativa alternativ för att installera "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" eller "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) från [pypi](https://pypi.org/project/aspose-words/)
+- Installera [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) från [PyPI](https://pypi.org/project/aspose-words/)
 - Eller använd följande pip-kommandon ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

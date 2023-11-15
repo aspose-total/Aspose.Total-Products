@@ -70,7 +70,7 @@ Hai bisogno di sviluppare un'app o un'utilità per il visualizzatore XLS?Con [As
 {{% blocks/products/pf/agp/feature-section-col title="Utilità Python per elaborare il file XLS per l'app di visualizzazione" %}}
 Esistono opzioni alternative per installare "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" o "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) da [pypi](https://pypi.org/project/aspose-cells/)
+- Installa [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) da [PyPI](https://pypi.org/project/aspose-cells/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

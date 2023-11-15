@@ -78,7 +78,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека слияния IMAGE для Python" %}}
 Существуют альтернативные варианты установки Aspose.Imaging for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить Aspose.Imaging for Python via .NET из [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Установить Aspose.Imaging for Python via .NET из [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Или используйте следующие команды pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -76,9 +76,9 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Python 用 PDF マージ ライブラリ" %}}
 「Aspose.PDF for Python via .NET」、「Aspose.Words for Python via .NET」、または「Aspose.Total for Python via .NET」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/)からAspose.PDF for Python via .NETをインストール
+- [PyPI](https://pypi.org/project/aspose-pdf/)からAspose.PDF for Python via .NETをインストール
 - または、次の pip コマンド ``pip install aspose.pdf`` を使用します。
-- または [pypi](https://pypi.org/project/aspose-words/) から Aspose.Words for Python via .NET をインストールします
+- または [PyPI](https://pypi.org/project/aspose-words/) から Aspose.Words for Python via .NET をインストールします
 - または、次の pip コマンド ``pip install aspose.words`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

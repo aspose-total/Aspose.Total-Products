@@ -66,7 +66,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة العلامات المائية PDF لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.PDF for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.PDF for Python via .NET من [pypi](https://pypi.org/project/aspose-pdf/)
+- قم بتثبيت Aspose.PDF for Python via .NET من [PyPI](https://pypi.org/project/aspose-pdf/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

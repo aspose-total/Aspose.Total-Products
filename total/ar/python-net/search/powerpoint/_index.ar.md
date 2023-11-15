@@ -69,7 +69,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة بايثون للبحث في ملف POWERPOINT" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Slides for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Slides لـ Python عبر .NET من [pypi](https://pypi.org/project/aspose-slides/)
+- قم بتثبيت Aspose.Slides لـ Python عبر .NET من [PyPI](https://pypi.org/project/aspose-slides/)
 - أو استخدم أوامر النقطة التالية ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

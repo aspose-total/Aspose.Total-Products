@@ -71,7 +71,7 @@ Birden fazla XLT dosyasını kolayca birleştirmek için python betiği veya yar
 {{% blocks/products/pf/agp/feature-section-col title="Python için XLT birleştirme kütüphanesi" %}}
 Sisteminize 'Aspose.Cells for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Cells for Python via .NET'ü [pypi](https://pypi.org/project/aspose-cells/)'den yükleyin
+- Aspose.Cells for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-cells/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını ```pip install aspose-cells``` kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

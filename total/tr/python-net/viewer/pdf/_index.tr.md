@@ -66,7 +66,7 @@ Bir PDF görüntüleyici uygulaması veya yardımcı programı geliştirmeniz mi
 {{% blocks/products/pf/agp/feature-section-col title="Görüntüleme uygulaması için PDF dosyasını işlemek için Python yardımcı programı" %}}
 Sisteminize "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" veya "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)'ü [pypi](https://pypi.org/project/aspose-pdf/)'den yükleyin
+- [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)'ü [PyPI](https://pypi.org/project/aspose-pdf/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

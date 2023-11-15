@@ -59,7 +59,7 @@ Need to develop a PowerPoint searchable software or utility? With Aspose.Slides 
 {{% blocks/products/pf/agp/feature-section-col title="Python library to Search PowerPoint File" %}}
 There are alternative options to install "Aspose.Slides for Python via .NET" or "Aspose.Total for Python via .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install Aspose.Slides for Python via .NET from [pypi](https://pypi.org/project/aspose-slides/)
+- Install Aspose.Slides for Python via .NET from [PyPI](https://pypi.org/project/aspose-slides/)
 - Or Use the following pip commands ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

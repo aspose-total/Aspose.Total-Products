@@ -59,7 +59,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Βοηθητικό πρόγραμμα Python για τη διαχείριση μεταδεδομένων XLSB" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" ή το "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) από το [pypi](https://pypi.org/project/aspose-cells/)
+- Εγκαταστήστε το [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) από το [PyPI](https://pypi.org/project/aspose-cells/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

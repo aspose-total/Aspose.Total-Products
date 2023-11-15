@@ -73,7 +73,7 @@ DOC ビューア アプリまたはユーティリティを開発する必要が
 {{% blocks/products/pf/agp/feature-section-col title="表示アプリ用に DOC ファイルを処理する Python ユーティリティ" %}}
 「[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールする別のオプションもあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/)から[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)をインストール
+- [PyPI](https://pypi.org/project/aspose-words/)から[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)をインストール
 - または、次の pip コマンド ``pip install aspose.words`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

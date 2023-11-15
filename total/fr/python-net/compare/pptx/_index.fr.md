@@ -62,7 +62,7 @@ Besoin de développer un script Python ou une application utilitaire pour compar
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de comparaison PPTX pour Python" %}}
 Il existe d'autres options pour installer « [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) » ou « [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) » sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installer [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) à partir de [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installer [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) à partir de [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Ou utilisez les commandes pip suivantes ```pip install Aspose.Slides```.
 
 

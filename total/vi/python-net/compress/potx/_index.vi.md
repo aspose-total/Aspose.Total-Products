@@ -92,9 +92,9 @@ Cần phát triển tập lệnh python hoặc ứng dụng tiện ích để d�
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện nén POTX cho Python" %}}
 Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via .NET', 'Aspose.ZIP for Python via .NET' hoặc 'Aspose.Total for Python via .NET' trên hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt Aspose.Slides for Python via .NET từ [pypi](https://pypi.org/project/Aspose.Slides/)
+- Cài đặt Aspose.Slides for Python via .NET từ [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install Aspose.Slides```.
-- Cài đặt Aspose.ZIP for Python via .NET từ [pypi](https://pypi.org/project/aspose-zip/)
+- Cài đặt Aspose.ZIP for Python via .NET từ [PyPI](https://pypi.org/project/aspose-zip/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install aspose-Zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

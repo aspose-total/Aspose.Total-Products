@@ -69,7 +69,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη Python για αναζήτηση αρχείου PPT" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "Aspose.Slides for Python μέσω .NET" ή "Aspose.Total για Python μέσω .NET" στο σύστημά σας. Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.Slides για Python μέσω .NET από το [pypi](https://pypi.org/project/aspose-slides/)
+- Εγκαταστήστε το Aspose.Slides για Python μέσω .NET από το [PyPI](https://pypi.org/project/aspose-slides/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

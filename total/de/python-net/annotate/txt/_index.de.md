@@ -58,7 +58,7 @@ Müssen Sie eine TXT-Annotations-App oder ein TXT-Dienstprogramm entwickeln?Da [
 {{% blocks/products/pf/agp/feature-section-col title="Python-Dienstprogramm zum Kommentieren von TXT-Dateien" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)“ oder „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) von [pypi](https://pypi.org/project/aspose-words/)
+- Installieren Sie [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) von [PyPI](https://pypi.org/project/aspose-words/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose.words“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

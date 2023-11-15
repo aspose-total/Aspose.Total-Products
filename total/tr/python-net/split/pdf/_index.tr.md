@@ -72,7 +72,7 @@ PDF dosyalarını kolayca bölmek için python betiği veya yardımcı program u
 {{% blocks/products/pf/agp/feature-section-col title="Python için PDF Splitter kütüphanesi" %}}
 Sisteminize '[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)' veya '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)'ü [pypi](https://pypi.org/project/aspose-pdf/)'den yükleyin
+- [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)'ü [PyPI](https://pypi.org/project/aspose-pdf/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose-pdf```.
 
 

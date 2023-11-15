@@ -91,9 +91,9 @@ Hai bisogno di sviluppare script Python o app di utilità per comprimere facilme
 {{% blocks/products/pf/agp/feature-section-col title="Libreria di compressione DOCM per Python" %}}
 Esistono opzioni alternative per installare "Aspose.Words for Python via .NET", "Aspose.ZIP for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.Words for Python via .NET da [pypi](https://pypi.org/project/aspose-words/)
+- Installa Aspose.Words for Python via .NET da [PyPI](https://pypi.org/project/aspose-words/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-words```.
-- Installa Aspose.ZIP for Python via .NET da [pypi](https://pypi.org/project/aspose-zip/)
+- Installa Aspose.ZIP for Python via .NET da [PyPI](https://pypi.org/project/aspose-zip/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

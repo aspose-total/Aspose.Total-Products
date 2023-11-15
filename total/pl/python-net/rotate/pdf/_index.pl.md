@@ -56,7 +56,7 @@ Chcesz opracować aplikację lub narzędzie do rotacji PDF?Dzięki [Aspose.PDF f
 {{% blocks/products/pf/agp/feature-section-col title="Narzędzie Pythona do zarządzania rotacją PDF" %}}
 Istnieją alternatywne opcje instalacji „[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [pypi](https://pypi.org/project/aspose-pdf/)
+- Zainstaluj [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Lub użyj następujących poleceń pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

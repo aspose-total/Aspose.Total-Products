@@ -67,7 +67,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="用于处理 IMAGE 文件的 Python 实用程序" %}}
 还有其他选项可以将“[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 从 [pypi](https://pypi.org/project/aspose-imaging-python-net/) 安装 [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)
+- 从 [PyPI](https://pypi.org/project/aspose-imaging-python-net/) 安装 [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)
 - 或者使用以下 pip 命令``pip install aspose-imaging-python-net``。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

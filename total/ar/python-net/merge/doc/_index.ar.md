@@ -71,7 +71,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة دمج DOC لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Words for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Words for Python via .NET من [pypi](https://pypi.org/project/aspose-words/)
+- قم بتثبيت Aspose.Words for Python via .NET من [PyPI](https://pypi.org/project/aspose-words/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

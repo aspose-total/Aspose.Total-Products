@@ -72,7 +72,7 @@ Wilt u een doorzoekbare XLSX-app of -hulpprogramma ontwikkelen? Met Aspose.Cells
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotheek om XLSX-bestand te doorzoeken" %}}
 Er zijn alternatieve opties om "Aspose.Cells voor Python via Java" of "Aspose.Total voor Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Words voor Python via Java vanuit [pypi](https://pypi.org/project/aspose-cells/)
+- Installeer Aspose.Words voor Python via Java vanuit [PyPI](https://pypi.org/project/aspose-cells/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

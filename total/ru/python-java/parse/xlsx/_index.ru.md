@@ -57,7 +57,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% blocks/products/pf/agp/feature-section-col title="Утилита Python для обработки файла XLSX для приложения синтаксического анализатора" %}}
 Существуют альтернативные варианты установки «[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)» или «[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) из [pypi](https://pypi.org/project/aspose-cells/)
+- Установить [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) из [PyPI](https://pypi.org/project/aspose-cells/)
 - Или используйте следующие команды pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

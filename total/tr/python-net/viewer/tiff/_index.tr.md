@@ -67,7 +67,7 @@ Bir TIFF görüntüleyici uygulaması veya yardımcı programı geliştirmeniz m
 {{% blocks/products/pf/agp/feature-section-col title="TIFF dosyasını işlemek için Python yardımcı programı" %}}
 Sisteminize "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" veya "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)'ü [pypi](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
+- [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)'ü [PyPI](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ Tek veya birden fazla FODS dosyasını kolayca arşivlemek için python betiği 
 {{% blocks/products/pf/agp/feature-section-col title="Python için FODS arşivleme kütüphanesi" %}}
 Sisteminize 'Aspose.ZIP for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin.:<br /><br />
 
-- Aspose.ZIP for Python via .NET'ü [pypi](https://pypi.org/project/aspose-zip/)'den yükleyin
+- Aspose.ZIP for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-zip/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını ```pip install aspose-zip``` kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

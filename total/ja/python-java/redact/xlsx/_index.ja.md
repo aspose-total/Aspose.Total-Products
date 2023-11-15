@@ -58,7 +58,7 @@ XLSX 編集アプリまたはユーティリティを開発する必要があり
 {{% blocks/products/pf/agp/feature-section-col title="XLSX ファイルを編集するための Python ユーティリティ" %}}
 「[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)」または「[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-cells/)から[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)をインストール
+- [PyPI](https://pypi.org/project/aspose-cells/)から[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)をインストール
 - または、次の pip コマンド ``pip install aspose-cells`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

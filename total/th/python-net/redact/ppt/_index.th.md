@@ -61,7 +61,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" หรือ "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ลงในระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
 
-- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [pypi](https://pypi.org/project/Aspose.Slides/)
+- ติดตั้ง [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) จาก [PyPI](https://pypi.org/project/Aspose.Slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

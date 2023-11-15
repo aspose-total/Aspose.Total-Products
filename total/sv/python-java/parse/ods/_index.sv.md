@@ -57,7 +57,7 @@ Behöver du utveckla en ODS-parserapp eller ett verktyg?Med [Aspose.Cells for Py
 {{% blocks/products/pf/agp/feature-section-col title="Python-verktyg för att bearbeta ODS-fil för parserapp" %}}
 Det finns alternativa alternativ för att installera "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" eller "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) från [pypi](https://pypi.org/project/aspose-cells/)
+- Installera [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) från [PyPI](https://pypi.org/project/aspose-cells/)
 - Eller Använd följande pip-kommandon ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

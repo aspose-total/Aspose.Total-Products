@@ -66,7 +66,7 @@ Müssen Sie ein Python-Skript oder eine Dienstprogramm-App entwickeln, um mehrer
 {{% blocks/products/pf/agp/feature-section-col title="PDF-Wasserzeichenbibliothek für Python" %}}
 Es gibt alternative Möglichkeiten, „Aspose.PDF for Python via .NET“ oder „Aspose.Total for Python via .NET“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.PDF for Python via .NET von [pypi](https://pypi.org/project/aspose-pdf/)
+- Installieren Sie Aspose.PDF for Python via .NET von [PyPI](https://pypi.org/project/aspose-pdf/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose-pdf“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

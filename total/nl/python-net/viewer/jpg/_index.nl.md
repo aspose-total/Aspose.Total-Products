@@ -67,7 +67,7 @@ Wilt u een JPG-viewer-app of -hulpprogramma ontwikkelen?Met [Aspose.Imaging for 
 {{% blocks/products/pf/agp/feature-section-col title="Python-hulpprogramma om JPG-bestand te verwerken" %}}
 Er zijn alternatieve opties om "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" of "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) vanaf [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installeer [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) vanaf [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

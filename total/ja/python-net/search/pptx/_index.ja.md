@@ -69,7 +69,7 @@ PPTX 検索可能なソフトウェアまたはユーティリティを開発す
 {{% blocks/products/pf/agp/feature-section-col title="PPTXファイルを検索するためのPythonライブラリ" %}}
 「Aspose.Slides for Python via .NET」または「Aspose.Total for Python via .NET」をシステムにインストールする代替オプションがあります。 ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-slides/) から .NET 経由で Aspose.Slides for Python をインストールする
+- [PyPI](https://pypi.org/project/aspose-slides/) から .NET 経由で Aspose.Slides for Python をインストールする
 - または、次の pip コマンド ``pip install Aspose.Slides`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

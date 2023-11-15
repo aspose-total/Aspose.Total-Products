@@ -72,7 +72,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة دمج OTP لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Slides for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Slides for Python via .NET من [pypi](https://pypi.org/project/Aspose.Slides/)
+- قم بتثبيت Aspose.Slides for Python via .NET من [PyPI](https://pypi.org/project/Aspose.Slides/)
 - أو استخدم أوامر النقطة التالية ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

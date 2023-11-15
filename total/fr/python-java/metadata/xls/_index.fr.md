@@ -59,7 +59,7 @@ Besoin de développer une application ou un utilitaire de gestion des métadonn�
 {{% blocks/products/pf/agp/feature-section-col title="Utilitaire Python pour gérer les métadonnées XLS" %}}
 Il existe d'autres options pour installer "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" ou "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installer [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) à partir de [pypi](https://pypi.org/project/aspose-cells/)
+- Installer [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) à partir de [PyPI](https://pypi.org/project/aspose-cells/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -69,7 +69,7 @@ Müssen Sie eine durchsuchbare POWERPOINT-Software oder ein Dienstprogramm entwi
 {{% blocks/products/pf/agp/feature-section-col title="Python-Bibliothek zum Durchsuchen der POWERPOINT-Datei" %}}
 Es gibt alternative Möglichkeiten, „Aspose.Slides für Python über .NET“ oder „Aspose.Total für Python über .NET“ auf Ihrem System zu installieren. Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.Slides für Python über .NET von [pypi](https://pypi.org/project/aspose-slides/)
+- Installieren Sie Aspose.Slides für Python über .NET von [PyPI](https://pypi.org/project/aspose-slides/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install Aspose.Slides“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

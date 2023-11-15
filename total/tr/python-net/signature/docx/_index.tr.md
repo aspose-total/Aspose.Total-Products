@@ -65,7 +65,7 @@ Birden fazla DOCX dosyasını elektronik olarak kolayca imzalamak için python b
 {{% blocks/products/pf/agp/feature-section-col title="Python için DOCX e-İmza kitaplığı" %}}
 Sisteminize 'Aspose.Words for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Words for Python via .NET'i [pypi](https://pypi.org/project/aspose-words/)'ten yükleyin
+- Aspose.Words for Python via .NET'i [PyPI](https://pypi.org/project/aspose-words/)'ten yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose-words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -70,7 +70,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="用於處理顯示應用程式的 XLTM 檔案的 Python 實用程式" %}}
 還有其他選項可以將“[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)”或“[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 從 [pypi](https://pypi.org/project/aspose-cells/) 安裝 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)
+- 從 [PyPI](https://pypi.org/project/aspose-cells/) 安裝 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)
 - 或使用以下 pip 指令``pip install aspose-cells```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

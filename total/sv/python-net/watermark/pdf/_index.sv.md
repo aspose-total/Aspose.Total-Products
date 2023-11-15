@@ -66,7 +66,7 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt vattenmärk
 {{% blocks/products/pf/agp/feature-section-col title="PDF vattenmärkningsbibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.PDF for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.PDF for Python via .NET från [pypi](https://pypi.org/project/aspose-pdf/)
+- Installera Aspose.PDF for Python via .NET från [PyPI](https://pypi.org/project/aspose-pdf/)
 - Eller använd följande pip-kommandon ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

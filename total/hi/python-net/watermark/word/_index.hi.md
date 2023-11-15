@@ -72,7 +72,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG WORD TIFF GIF 
 {{% blocks/products/pf/agp/feature-section-col title="पायथन के लिए WORD वॉटरमार्किंग लाइब्रेरी" %}}
 आपके सिस्टम पर 'Aspose.Words for Python via .NET' या 'Aspose.Total for Python via .NET' इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं। कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/) से Aspose.Words for Python via .NET इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-words/) से Aspose.Words for Python via .NET इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```पिप इंस्टॉल एस्पोज़-वर्ड्स```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

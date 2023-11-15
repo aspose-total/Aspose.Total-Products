@@ -66,7 +66,7 @@ Potřebujete vyvinout aplikaci nebo nástroj pro prohlížení PDF?S [Aspose.PDF
 {{% blocks/products/pf/agp/feature-section-col title="Nástroj Python pro zpracování souboru PDF pro aplikaci zobrazení" %}}
 Existují alternativní možnosti instalace „[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)“ nebo „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)“ do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [pypi](https://pypi.org/project/aspose-pdf/)
+- Nainstalujte [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Nebo použijte následující příkazy pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

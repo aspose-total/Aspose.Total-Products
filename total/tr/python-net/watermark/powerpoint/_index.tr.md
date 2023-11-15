@@ -72,7 +72,7 @@ Birden fazla POWERPOINT dosyasını kolayca Filigranlamak için python betiği v
 {{% blocks/products/pf/agp/feature-section-col title="Python için POWERPOINT Filigranlama kitaplığı" %}}
 Sisteminize 'Aspose.Slides for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Slides for Python via .NET'ü [pypi](https://pypi.org/project/Aspose.Slides/)'den yükleyin
+- Aspose.Slides for Python via .NET'ü [PyPI](https://pypi.org/project/Aspose.Slides/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

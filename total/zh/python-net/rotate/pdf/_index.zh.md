@@ -56,7 +56,7 @@ otherformats: PDF
 {{% blocks/products/pf/agp/feature-section-col title="管理 PDF 旋转的 Python 实用程序" %}}
 还有其他选项可以将“[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 从 [pypi](https://pypi.org/project/aspose-pdf/) 安装 [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)
+- 从 [PyPI](https://pypi.org/project/aspose-pdf/) 安装 [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)
 - 或者使用以下 pip 命令``pip install aspose-pdf```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

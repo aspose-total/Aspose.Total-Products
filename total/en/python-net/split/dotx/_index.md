@@ -72,7 +72,7 @@ Need to develop python script or utility app to easily Split DOTX files? With [A
 {{% blocks/products/pf/agp/feature-section-col title="DOTX Splitter library for Python" %}}
 There are alternative options to install '[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)' or '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [pypi](https://pypi.org/project/aspose-words/)
+- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [PyPI](https://pypi.org/project/aspose-words/)
 - Or Use the following pip commands ```pip install aspose-words```.
 
 

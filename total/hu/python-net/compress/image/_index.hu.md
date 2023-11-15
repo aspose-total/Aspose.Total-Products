@@ -91,9 +91,9 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több IMAGE fájl egysze
 {{% blocks/products/pf/agp/feature-section-col title="IMAGE tömörítési könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.Imaging for Python via .NET”, „Aspose.ZIP for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.Imaging for Python via .NET-et a [pypi](https://pypi.org/project/aspose-imaging-python-net/)-ból
+- Telepítse a Aspose.Imaging for Python via .NET-et a [PyPI](https://pypi.org/project/aspose-imaging-python-net/)-ból
 - Vagy használja a következő pip parancsokat: ```pip install aspose-imaging-python-net```.
-- Telepítse a Aspose.ZIP for Python via .NET-at a [pypi](https://pypi.org/project/aspose-zip/)-ből
+- Telepítse a Aspose.ZIP for Python via .NET-at a [PyPI](https://pypi.org/project/aspose-zip/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

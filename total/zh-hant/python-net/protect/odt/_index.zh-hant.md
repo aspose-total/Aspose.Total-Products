@@ -59,7 +59,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="用於處理 ODT 檔案以保護應用程式的 Python 實用程式" %}}
 還有其他選項可以將“[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作:<br /><br />
 
-- 從 [pypi](https://pypi.org/project/aspose-words/) 安裝 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
+- 從 [PyPI](https://pypi.org/project/aspose-words/) 安裝 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 - 或使用下列 pip 指令``pip install aspose.words```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

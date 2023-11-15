@@ -71,7 +71,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie egyetlen vagy több TXT-
 {{% blocks/products/pf/agp/feature-section-col title="TXT archiváló könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.ZIP for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.ZIP for Python via .NET-et a [pypi](https://pypi.org/project/aspose-zip/)-ből
+- Telepítse a Aspose.ZIP for Python via .NET-et a [PyPI](https://pypi.org/project/aspose-zip/)-ből
 - Vagy használja a következő pip parancsokat: ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

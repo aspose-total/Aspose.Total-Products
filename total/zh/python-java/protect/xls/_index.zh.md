@@ -56,7 +56,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="用于处理 XLS 文件以保护应用程序的 Python 实用程序" %}}
 还有其他选项可以将“[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)”或“[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作:<br /><br />
 
-- 从 [pypi](https://pypi.org/project/aspose-cells/) 安装 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)
+- 从 [PyPI](https://pypi.org/project/aspose-cells/) 安装 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)
 - 或者使用以下 pip 命令``pip install aspose-cells```。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ otherformats: EXCEL XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη Python για αναζήτηση αρχείου XLS" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "Aspose.Cells για Python μέσω Java" ή "Aspose.Total για Python μέσω Java" στο σύστημά σας. Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.Words για Python μέσω Java από το [pypi](https://pypi.org/project/aspose-cells/)
+- Εγκαταστήστε το Aspose.Words για Python μέσω Java από το [PyPI](https://pypi.org/project/aspose-cells/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -67,7 +67,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több POWERPOINT fájl e
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT eSignature könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.Slides for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.Slides for Python via .NET-et a [pypi](https://pypi.org/project/Aspose.Slides/)-ből
+- Telepítse a Aspose.Slides for Python via .NET-et a [PyPI](https://pypi.org/project/Aspose.Slides/)-ből
 - Vagy Használja a következő pip parancsokat ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

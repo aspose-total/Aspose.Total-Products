@@ -72,7 +72,7 @@ Bạn cần phát triển ứng dụng hoặc tiện ích tìm kiếm ODS? Với
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện Python để tìm kiếm tệp ODS" %}}
 Có các tùy chọn thay thế để cài đặt "Aspose.Cells for Python via Java" hoặc "Aspose.Total for Python via Java" vào hệ thống của bạn. Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt Aspose.Words cho Python qua Java từ [pypi](https://pypi.org/project/aspose-cells/)
+- Cài đặt Aspose.Words cho Python qua Java từ [PyPI](https://pypi.org/project/aspose-cells/)
 - Hoặc Sử dụng các lệnh pip sau ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

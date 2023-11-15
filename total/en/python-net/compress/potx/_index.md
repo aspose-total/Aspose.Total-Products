@@ -92,9 +92,9 @@ Need to develop python script or utility app to easily compress multiple POTX fi
 {{% blocks/products/pf/agp/feature-section-col title="POTX compression library for Python" %}}
 There are alternative options to install 'Aspose.Slides for Python via .NET', 'Aspose.ZIP for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install Aspose.Slides for Python via .NET from [pypi](https://pypi.org/project/Aspose.Slides/)
+- Install Aspose.Slides for Python via .NET from [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Or Use the following pip commands ```pip install Aspose.Slides```.
-- Install Aspose.ZIP for Python via .NET from [pypi](https://pypi.org/project/aspose-zip/)
+- Install Aspose.ZIP for Python via .NET from [PyPI](https://pypi.org/project/aspose-zip/)
 - Or Use the following pip commands ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

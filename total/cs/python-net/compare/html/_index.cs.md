@@ -64,7 +64,7 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadné porovn�
 {{% blocks/products/pf/agp/feature-section-col title="HTML Srovnávací knihovna pro Python" %}}
 Existují alternativní možnosti instalace '[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)' nebo '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) z [pypi](https://pypi.org/project/aspose-words/)
+- Nainstalujte [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) z [PyPI](https://pypi.org/project/aspose-words/)
 - Nebo použijte následující příkazy pip ```pip install aspose-words```.
 
 

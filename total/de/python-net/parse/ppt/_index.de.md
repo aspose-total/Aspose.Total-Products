@@ -84,7 +84,7 @@ Müssen Sie eine PPT-Parser-App oder ein PPT-Parser-Dienstprogramm entwickeln?Da
 {{% blocks/products/pf/agp/feature-section-col title="Python-Dienstprogramm zum Verarbeiten der PPT-Datei für die Parser-App" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)“ oder „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) von [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installieren Sie [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) von [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install Aspose.Slides“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

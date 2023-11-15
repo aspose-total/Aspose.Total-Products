@@ -55,7 +55,7 @@ Need to develop a XLSM annotation app or utility? With [Aspose.Cells for Python 
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility to Annotate XLSM Files" %}}
 There are alternative options to install "[Aspose.Cells for Python via Java](https://products.aspose.com/words/python-java/)" or "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.Cells for Python via Java](https://products.aspose.com/words/python-java/) from [pypi](https://pypi.org/project/aspose-cells/)
+- Install [Aspose.Cells for Python via Java](https://products.aspose.com/words/python-java/) from [PyPI](https://pypi.org/project/aspose-cells/)
 - Or Use the following pip commands ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

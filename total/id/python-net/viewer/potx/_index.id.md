@@ -73,7 +73,7 @@ Perlu mengembangkan aplikasi atau utilitas penampil POTX?Dengan [Aspose.Slides f
 {{% blocks/products/pf/agp/feature-section-col title="Utilitas Python untuk memproses file POTX untuk tampilan aplikasi" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" atau "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) dari [pypi](https://pypi.org/project/Aspose.Slides/)
+- Instal [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) dari [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Atau Gunakan perintah pip berikut ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

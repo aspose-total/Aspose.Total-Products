@@ -71,7 +71,7 @@ Moet u een Python-script of een hulpprogramma-app ontwikkelen om eenvoudig meerd
 {{% blocks/products/pf/agp/feature-section-col title="ODT-samenvoegbibliotheek voor Python" %}}
 Er zijn alternatieve opties om 'Aspose.Words for Python via .NET' of 'Aspose.Total for Python via .NET' op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Words for Python via .NET vanaf [pypi](https://pypi.org/project/aspose-words/)
+- Installeer Aspose.Words for Python via .NET vanaf [PyPI](https://pypi.org/project/aspose-words/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

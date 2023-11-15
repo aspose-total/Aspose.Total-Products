@@ -55,7 +55,7 @@ Bạn cần phát triển ứng dụng, tiện ích chú thích PDF?Với [Aspos
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích Python để chú thích các tệp PDF" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" hoặc "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) từ [pypi](https://pypi.org/project/aspose-pdf/)
+- Cài đặt [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) từ [PyPI](https://pypi.org/project/aspose-pdf/)
 - Hoặc Sử dụng các lệnh pip sau ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

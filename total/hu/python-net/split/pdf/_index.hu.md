@@ -72,7 +72,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie a PDF fájlok egyszerű 
 {{% blocks/products/pf/agp/feature-section-col title="PDF Splitter könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)” vagy „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)-at a [pypi](https://pypi.org/project/aspose-pdf/)-ből
+- Telepítse a [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)-at a [PyPI](https://pypi.org/project/aspose-pdf/)-ből
 - Vagy Használja a következő pip parancsokat ```pip install aspose-pdf```.
 
 

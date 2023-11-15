@@ -78,7 +78,7 @@ Birden fazla IMAGE dosyasını kolayca birleştirmek için python betiği veya y
 {{% blocks/products/pf/agp/feature-section-col title="Python için IMAGE birleştirme kütüphanesi" %}}
 Sisteminize 'Aspose.Imaging for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Imaging for Python via .NET'ü [pypi](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
+- Aspose.Imaging for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

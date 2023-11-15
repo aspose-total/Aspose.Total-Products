@@ -72,7 +72,7 @@ XLS aranabilir bir uygulama veya yardımcı program geliştirmeniz mi gerekiyor?
 {{% blocks/products/pf/agp/feature-section-col title="XLS Dosyasını Aramak için Python kütüphanesi" %}}
 Sisteminize "Aspose.Cells for Python via Java" veya "Aspose.Total for Python via Java" kurulumunu gerçekleştirmek için alternatif seçenekler mevcuttur. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Words for Python'u Java aracılığıyla [pypi](https://pypi.org/project/aspose-cells/)'den yükleyin
+- Aspose.Words for Python'u Java aracılığıyla [PyPI](https://pypi.org/project/aspose-cells/)'den yükleyin
 - Veya Aşağıdaki ```pip install aspose.cells`` pip komutlarını kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

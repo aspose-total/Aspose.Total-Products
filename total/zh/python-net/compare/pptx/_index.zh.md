@@ -62,7 +62,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% blocks/products/pf/agp/feature-section-col title="Python 的 PPTX 比较库" %}}
 还有其他选项可以将“[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 从 [pypi](https://pypi.org/project/Aspose.Slides/) 安装 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
+- 从 [PyPI](https://pypi.org/project/Aspose.Slides/) 安装 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
 - 或者使用以下 pip 命令``pip install Aspose.Slides``。
 
 

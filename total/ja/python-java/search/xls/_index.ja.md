@@ -72,7 +72,7 @@ XLS 検索可能なアプリまたはユーティリティを開発する必要�
 {{% blocks/products/pf/agp/feature-section-col title="XLSファイルを検索するためのPythonライブラリ" %}}
 「Aspose.Cells for Python via Java」または「Aspose.Total for Python via Java」をシステムにインストールする代替オプションがあります。 ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-cells/) から Java 経由で Aspose.Words for Python をインストールする
+- [PyPI](https://pypi.org/project/aspose-cells/) から Java 経由で Aspose.Words for Python をインストールする
 - または、次の pip コマンド ``pip install aspose.cells`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

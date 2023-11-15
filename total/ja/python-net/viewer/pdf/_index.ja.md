@@ -66,7 +66,7 @@ PDF ビューア アプリまたはユーティリティを開発する必要が
 {{% blocks/products/pf/agp/feature-section-col title="表示アプリ用に PDF ファイルを処理する Python ユーティリティ" %}}
 「[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールする別のオプションもあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/)から[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)をインストール
+- [PyPI](https://pypi.org/project/aspose-pdf/)から[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)をインストール
 - または、次の pip コマンド ``pip install aspose-pdf`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

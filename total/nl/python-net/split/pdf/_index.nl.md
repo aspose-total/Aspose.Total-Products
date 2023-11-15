@@ -72,7 +72,7 @@ Moet u een Python-script of een hulpprogramma-app ontwikkelen om eenvoudig PDF-b
 {{% blocks/products/pf/agp/feature-section-col title="PDF Splitter-bibliotheek voor Python" %}}
 Er zijn alternatieve opties om '[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)' of '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) vanaf [pypi](https://pypi.org/project/aspose-pdf/)
+- Installeer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) vanaf [PyPI](https://pypi.org/project/aspose-pdf/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-pdf```.
 
 

@@ -66,7 +66,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة العلامات المائية JPG لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Imaging for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Imaging for Python via .NET من [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- قم بتثبيت Aspose.Imaging for Python via .NET من [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

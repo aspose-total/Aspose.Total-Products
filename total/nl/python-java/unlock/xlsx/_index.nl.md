@@ -55,7 +55,7 @@ Wilt u een app of hulpprogramma voor XLSX-beveiligingsbeheer ontwikkelen?Met [As
 {{% blocks/products/pf/agp/feature-section-col title="Python-hulpprogramma om XLSX-beveiliging te beheren" %}}
 Er zijn alternatieve opties om "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" of "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) vanaf [pypi](https://pypi.org/project/aspose-cells/)
+- Installeer [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) vanaf [PyPI](https://pypi.org/project/aspose-cells/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

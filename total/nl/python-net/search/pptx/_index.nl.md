@@ -69,7 +69,7 @@ Wilt u een doorzoekbare software of hulpprogramma voor PPTX ontwikkelen? Met Asp
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotheek om PPTX-bestand te doorzoeken" %}}
 Er zijn alternatieve opties om "Aspose.Slides voor Python via .NET" of "Aspose.Total voor Python via .NET" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Slides voor Python via .NET vanuit [pypi](https://pypi.org/project/aspose-slides/)
+- Installeer Aspose.Slides voor Python via .NET vanuit [PyPI](https://pypi.org/project/aspose-slides/)
 - Of gebruik de volgende pip-opdrachten ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

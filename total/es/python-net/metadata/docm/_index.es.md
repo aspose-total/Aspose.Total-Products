@@ -81,7 +81,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title="Utilidad Python para gestionar metadatos DOCM" %}}
 Existen opciones alternativas para instalar "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" o "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) desde [pypi](https://pypi.org/project/aspose-words/)
+- Instalar [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) desde [PyPI](https://pypi.org/project/aspose-words/)
 - O utilice los siguientes comandos pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

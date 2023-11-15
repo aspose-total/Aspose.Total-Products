@@ -56,7 +56,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Βοηθητικό πρόγραμμα Python για την επεξεργασία αρχείου XLSX για προστασία εφαρμογής" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" ή το "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" στο σύστημά σας.Επιλέξτε ένα που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) από το [pypi](https://pypi.org/project/aspose-cells/)
+- Εγκαταστήστε το [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) από το [PyPI](https://pypi.org/project/aspose-cells/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -87,7 +87,7 @@ Besoin de développer une application ou un utilitaire d'analyseur DOC ?Avec [A
 {{% blocks/products/pf/agp/feature-section-col title="Utilitaire Python pour traiter le fichier DOC pour l'application d'analyseur" %}}
 Il existe d'autres options pour installer "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" ou "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installer [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) à partir de [pypi](https://pypi.org/project/aspose-words/)
+- Installer [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) à partir de [PyPI](https://pypi.org/project/aspose-words/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

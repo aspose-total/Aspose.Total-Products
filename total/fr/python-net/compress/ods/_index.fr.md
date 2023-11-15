@@ -71,7 +71,7 @@ Besoin de développer un script Python ou une application utilitaire pour archiv
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque d'archivage ODS pour Python" %}}
 Il existe d'autres options pour installer « Aspose.ZIP for Python via .NET » ou « Aspose.Total for Python via .NET » sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape.:<br /><br />
 
-- Installer Aspose.ZIP for Python via .NET à partir de [pypi](https://pypi.org/project/aspose-zip/)
+- Installer Aspose.ZIP for Python via .NET à partir de [PyPI](https://pypi.org/project/aspose-zip/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

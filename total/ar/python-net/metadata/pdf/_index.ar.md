@@ -81,7 +81,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 هناك خيارات بديلة لتثبيت "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
 
-- قم بتثبيت [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) من [pypi](https://pypi.org/project/aspose-pdf/)
+- قم بتثبيت [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) من [PyPI](https://pypi.org/project/aspose-pdf/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

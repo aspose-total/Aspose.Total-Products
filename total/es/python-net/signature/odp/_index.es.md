@@ -67,7 +67,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de firma electrónica ODP para Python" %}}
 Existen opciones alternativas para instalar 'Aspose.Slides for Python via .NET' o 'Aspose.Total for Python via .NET' en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar Aspose.Slides for Python via .NET desde [pypi](https://pypi.org/project/Aspose.Slides/)
+- Instalar Aspose.Slides for Python via .NET desde [PyPI](https://pypi.org/project/Aspose.Slides/)
 - O utilice los siguientes comandos pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

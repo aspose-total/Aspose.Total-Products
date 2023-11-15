@@ -71,7 +71,7 @@ Behöver du utveckla en ODT sökbar app eller verktyg? Med Aspose.Words för Pyt
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotek för att söka ODT-fil" %}}
 Det finns alternativa alternativ för att installera "Aspose.Words for Python via .NET" eller "Aspose.Total för Python via .NET" på ditt system. Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Words för Python via .NET från [pypi](https://pypi.org/project/aspose-words/)
+- Installera Aspose.Words för Python via .NET från [PyPI](https://pypi.org/project/aspose-words/)
 - Eller använd följande pip-kommandon ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

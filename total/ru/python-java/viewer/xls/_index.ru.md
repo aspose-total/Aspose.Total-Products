@@ -70,7 +70,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="Утилита Python для обработки файла XLS для приложения отображения" %}}
 Существуют альтернативные варианты установки «[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)» или «[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) из [pypi](https://pypi.org/project/aspose-cells/)
+- Установить [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) из [PyPI](https://pypi.org/project/aspose-cells/)
 - Или используйте следующие команды pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

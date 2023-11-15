@@ -66,7 +66,7 @@ Wilt u een PDF-viewer-app of -hulpprogramma ontwikkelen?Met [Aspose.PDF for Pyth
 {{% blocks/products/pf/agp/feature-section-col title="Python-hulpprogramma om het PDF-bestand voor de weergave-app te verwerken" %}}
 Er zijn alternatieve opties om "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" of "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) vanaf [pypi](https://pypi.org/project/aspose-pdf/)
+- Installeer [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) vanaf [PyPI](https://pypi.org/project/aspose-pdf/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

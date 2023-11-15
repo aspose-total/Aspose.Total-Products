@@ -70,7 +70,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="Utilidad Python para procesar archivos XLTX para aplicaciones de visualización" %}}
 Existen opciones alternativas para instalar "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" o "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) desde [pypi](https://pypi.org/project/aspose-cells/)
+- Instalar [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) desde [PyPI](https://pypi.org/project/aspose-cells/)
 - O utilice los siguientes comandos pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

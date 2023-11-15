@@ -91,9 +91,9 @@ Moet u een Python-script of een hulpprogramma-app ontwikkelen om eenvoudig meerd
 {{% blocks/products/pf/agp/feature-section-col title="JPG-compressiebibliotheek voor Python" %}}
 Er zijn alternatieve opties om 'Aspose.Imaging for Python via .NET', 'Aspose.ZIP for Python via .NET' of 'Aspose.Total for Python via .NET' op uw systeem te installeren.Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Imaging for Python via .NET vanaf [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installeer Aspose.Imaging for Python via .NET vanaf [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-imaging-python-net```.
-- Installeer Aspose.ZIP for Python via .NET vanaf [pypi](https://pypi.org/project/aspose-zip/)
+- Installeer Aspose.ZIP for Python via .NET vanaf [PyPI](https://pypi.org/project/aspose-zip/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

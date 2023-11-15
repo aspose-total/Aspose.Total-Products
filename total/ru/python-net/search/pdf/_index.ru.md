@@ -71,7 +71,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека Python для поиска файла PDF" %}}
 Существуют альтернативные варианты установки «Aspose.PDF для Python через .NET» или «Aspose.Total для Python через .NET» в вашу систему. Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите Aspose.PDF для Python через .NET из [pypi](https://pypi.org/project/aspose-pdf/).
+- Установите Aspose.PDF для Python через .NET из [PyPI](https://pypi.org/project/aspose-pdf/).
 - Или используйте следующие команды pip ```pip install aspose.pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

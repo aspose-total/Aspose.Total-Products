@@ -59,7 +59,7 @@ Behöver du utveckla en PDF-redigeringsapp eller ett verktyg?Med [Aspose.PDF for
 Det finns alternativa alternativ för att installera "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" eller "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
 
-- Installera [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) från [pypi](https://pypi.org/project/aspose-pdf/)
+- Installera [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) från [PyPI](https://pypi.org/project/aspose-pdf/)
 - Eller använd följande pip-kommandon ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

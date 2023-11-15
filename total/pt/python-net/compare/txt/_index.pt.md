@@ -64,7 +64,7 @@ Precisa desenvolver um script python ou um aplicativo utilitário para comparar 
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de comparação TXT para Python" %}}
 Existem opções alternativas para instalar ‘[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)’ ou ‘[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)’ em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) do [pypi](https://pypi.org/project/aspose-words/)
+- Instale [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) do [PyPI](https://pypi.org/project/aspose-words/)
 - Ou use os seguintes comandos pip ```pip install aspose-words```.
 
 

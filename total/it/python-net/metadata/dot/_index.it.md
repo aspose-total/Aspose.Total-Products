@@ -81,7 +81,7 @@ Hai bisogno di sviluppare un'app o un'utilità per la gestione dei metadati DOT?
 {{% blocks/products/pf/agp/feature-section-col title="Utilità Python per gestire i metadati DOT" %}}
 Esistono opzioni alternative per installare "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" o "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) da [pypi](https://pypi.org/project/aspose-words/)
+- Installa [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) da [PyPI](https://pypi.org/project/aspose-words/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

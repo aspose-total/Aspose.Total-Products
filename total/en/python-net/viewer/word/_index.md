@@ -73,7 +73,7 @@ Need to develop a WORD viewer app or utility? With [Aspose.Words for Python via 
 {{% blocks/products/pf/agp/feature-section-col title="Python utility to process WORD file for display app" %}}
 There are alternative options to install "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" or "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [pypi](https://pypi.org/project/aspose-words/)
+- Install [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) from [PyPI](https://pypi.org/project/aspose-words/)
 - Or Use the following pip commands ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

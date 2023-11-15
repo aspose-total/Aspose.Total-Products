@@ -71,7 +71,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη αρχειοθέτησης WMZ για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «Aspose.ZIP for Python via .NET» ή το «Aspose.Total for Python via .NET» στο σύστημά σας.Επιλέξτε ένα που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.ZIP for Python via .NET από το [pypi](https://pypi.org/project/aspose-zip/)
+- Εγκαταστήστε το Aspose.ZIP for Python via .NET από το [PyPI](https://pypi.org/project/aspose-zip/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

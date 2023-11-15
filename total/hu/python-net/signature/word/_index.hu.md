@@ -65,7 +65,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több WORD fájl egyszer
 {{% blocks/products/pf/agp/feature-section-col title="WORD eSignature könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.Words for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.Words for Python via .NET-öt a [pypi](https://pypi.org/project/aspose-words/)-ból
+- Telepítse a Aspose.Words for Python via .NET-öt a [PyPI](https://pypi.org/project/aspose-words/)-ból
 - Vagy Használja a következő pip parancsokat: ```pip install aspose-words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

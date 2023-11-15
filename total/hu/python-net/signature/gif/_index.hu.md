@@ -65,7 +65,7 @@ Python szkriptet vagy segédprogramot kell fejlesztenie több GIF fájl egyszer�
 {{% blocks/products/pf/agp/feature-section-col title="GIF eSignature könyvtár Pythonhoz" %}}
 Vannak alternatív lehetőségek a „Aspose.Imaging for Python via .NET” vagy „Aspose.Total for Python via .NET” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a Aspose.Imaging for Python via .NET-et a [pypi](https://pypi.org/project/aspose-imaging-python-net/)-ből
+- Telepítse a Aspose.Imaging for Python via .NET-et a [PyPI](https://pypi.org/project/aspose-imaging-python-net/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

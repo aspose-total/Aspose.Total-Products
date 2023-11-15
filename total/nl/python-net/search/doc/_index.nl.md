@@ -71,7 +71,7 @@ Wilt u een doorzoekbare DOC-app of -hulpprogramma ontwikkelen? Met Aspose.Words 
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotheek om DOC-bestand te doorzoeken" %}}
 Er zijn alternatieve opties om "Aspose.Words voor Python via .NET" of "Aspose.Total voor Python via .NET" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer Aspose.Words voor Python via .NET vanuit [pypi](https://pypi.org/project/aspose-words/)
+- Installeer Aspose.Words voor Python via .NET vanuit [PyPI](https://pypi.org/project/aspose-words/)
 - Of gebruik de volgende pip-opdrachten ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ Potřebujete vyvinout WORD prohledávatelnou aplikaci nebo nástroj? S Aspose.Wo
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna Python pro vyhledávání souboru WORD" %}}
 Existují alternativní možnosti instalace "Aspose.Words pro Python přes .NET" nebo "Aspose.Total pro Python přes .NET" do vašeho systému. Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.Words pro Python přes .NET z [pypi](https://pypi.org/project/aspose-words/)
+- Nainstalujte Aspose.Words pro Python přes .NET z [PyPI](https://pypi.org/project/aspose-words/)
 - Nebo použijte následující příkazy pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

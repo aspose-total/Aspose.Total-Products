@@ -72,7 +72,7 @@ DOC dosyalarını kolayca bölmek için python betiği veya yardımcı program u
 {{% blocks/products/pf/agp/feature-section-col title="Python için DOC Splitter kütüphanesi" %}}
 Sisteminize '[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)' veya '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)'ü [pypi](https://pypi.org/project/aspose-words/)'den yükleyin
+- [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)'ü [PyPI](https://pypi.org/project/aspose-words/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose-words```.
 
 

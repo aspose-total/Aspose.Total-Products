@@ -78,7 +78,7 @@ Besoin de développer un script Python ou une application utilitaire pour fusion
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de fusion TIFF pour Python" %}}
 Il existe d'autres options pour installer « Aspose.Imaging for Python via .NET » ou « Aspose.Total for Python via .NET » sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installer Aspose.Imaging for Python via .NET à partir de [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installer Aspose.Imaging for Python via .NET à partir de [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -71,7 +71,7 @@ Need to develop python script or utility app to easily merge multiple XLSM files
 {{% blocks/products/pf/agp/feature-section-col title="XLSM merging library for Python" %}}
 There are alternative options to install 'Aspose.Cells for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install Aspose.Cells for Python via .NET from [pypi](https://pypi.org/project/aspose-cells/)
+- Install Aspose.Cells for Python via .NET from [PyPI](https://pypi.org/project/aspose-cells/)
 - Or Use the following pip commands ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

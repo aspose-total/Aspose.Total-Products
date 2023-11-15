@@ -78,7 +78,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de fusión GIF para Python" %}}
 Existen opciones alternativas para instalar 'Aspose.Imaging for Python via .NET' o 'Aspose.Total for Python via .NET' en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar Aspose.Imaging for Python via .NET desde [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instalar Aspose.Imaging for Python via .NET desde [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - O utilice los siguientes comandos pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

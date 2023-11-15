@@ -76,9 +76,9 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadné slouče
 {{% blocks/products/pf/agp/feature-section-col title="Slučovací knihovna PDF pro Python" %}}
 Existují alternativní možnosti instalace 'Aspose.PDF for Python via .NET', 'Aspose.Words for Python via .NET' nebo 'Aspose.Total for Python via .NET' do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.PDF for Python via .NET z [pypi](https://pypi.org/project/aspose-pdf/)
+- Nainstalujte Aspose.PDF for Python via .NET z [PyPI](https://pypi.org/project/aspose-pdf/)
 - Nebo použijte následující příkazy pip ```pip install aspose.pdf```.
-- Nebo nainstalujte Aspose.Words for Python via .NET z [pypi](https://pypi.org/project/aspose-words/)
+- Nebo nainstalujte Aspose.Words for Python via .NET z [PyPI](https://pypi.org/project/aspose-words/)
 - Nebo použijte následující příkazy pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

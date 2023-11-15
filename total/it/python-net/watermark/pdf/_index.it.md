@@ -66,7 +66,7 @@ Hai bisogno di sviluppare uno script Python o un'app di utilità per filigranare
 {{% blocks/products/pf/agp/feature-section-col title="Libreria di filigrana PDF per Python" %}}
 Esistono opzioni alternative per installare "Aspose.PDF for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.PDF for Python via .NET da [pypi](https://pypi.org/project/aspose-pdf/)
+- Installa Aspose.PDF for Python via .NET da [PyPI](https://pypi.org/project/aspose-pdf/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

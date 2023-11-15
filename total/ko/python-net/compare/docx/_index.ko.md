@@ -64,7 +64,7 @@ DOCX 파일을 쉽게 비교하기 위해 Python 스크립트 또는 유틸리�
 {{% blocks/products/pf/agp/feature-section-col title="Python용 DOCX 비교 라이브러리" %}}
 시스템에 '[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)' 또는 '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)'를 설치하는 대체 옵션이 있습니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/)에서 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) 설치
+- [PyPI](https://pypi.org/project/aspose-words/)에서 [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) 설치
 - 또는 다음 pip 명령 ```pip install aspose-words```를 사용하세요.
 
 

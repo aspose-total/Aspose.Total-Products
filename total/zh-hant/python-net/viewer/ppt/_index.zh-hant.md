@@ -73,7 +73,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="用於處理顯示應用程式的 PPT 檔案的 Python 實用程式" %}}
 還有其他選項可以將“[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 從 [pypi](https://pypi.org/project/Aspose.Slides/) 安裝 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
+- 從 [PyPI](https://pypi.org/project/Aspose.Slides/) 安裝 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
 - 或使用下列 pip 指令``pip install Aspose.Slides``。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

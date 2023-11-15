@@ -73,7 +73,7 @@ Bir DOTM görüntüleyici uygulaması veya yardımcı programı geliştirmeniz m
 {{% blocks/products/pf/agp/feature-section-col title="Görüntüleme uygulaması için DOTM dosyasını işlemek için Python yardımcı programı" %}}
 Sisteminize "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" veya "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" yüklemenin alternatif seçenekleri vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)'ü [pypi](https://pypi.org/project/aspose-words/)'den yükleyin
+- [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)'ü [PyPI](https://pypi.org/project/aspose-words/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

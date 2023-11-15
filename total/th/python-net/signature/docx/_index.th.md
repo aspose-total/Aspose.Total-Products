@@ -65,7 +65,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายเซ็นอิเล็กทรอนิกส์ DOCX สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Words for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Words for Python via .NET จาก [pypi](https://pypi.org/project/aspose-words/)
+- ติดตั้ง Aspose.Words for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

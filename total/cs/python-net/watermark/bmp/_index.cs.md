@@ -66,7 +66,7 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadné vodozna
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna vodoznaků BMP pro Python" %}}
 Existují alternativní možnosti instalace 'Aspose.Imaging for Python via .NET' nebo 'Aspose.Total for Python via .NET' do vašeho systému. Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.Imaging for Python via .NET z [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Nainstalujte Aspose.Imaging for Python via .NET z [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Nebo použijte následující příkazy pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

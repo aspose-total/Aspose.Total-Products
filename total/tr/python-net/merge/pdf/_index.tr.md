@@ -76,9 +76,9 @@ Birden fazla PDF dosyasını kolayca birleştirmek için python betiği veya yar
 {{% blocks/products/pf/agp/feature-section-col title="Python için PDF birleştirme kütüphanesi" %}}
 Sisteminize 'Aspose.PDF for Python via .NET', 'Aspose.Words for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler mevcuttur.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.PDF for Python via .NET'i [pypi](https://pypi.org/project/aspose-pdf/)'den yükleyin
+- Aspose.PDF for Python via .NET'i [PyPI](https://pypi.org/project/aspose-pdf/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose.pdf```.
-- Veya [pypi](https://pypi.org/project/aspose-words/)'ten Aspose.Words for Python via .NET'yı yükleyin
+- Veya [PyPI](https://pypi.org/project/aspose-words/)'ten Aspose.Words for Python via .NET'yı yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

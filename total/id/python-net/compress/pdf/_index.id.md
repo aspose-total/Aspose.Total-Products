@@ -91,9 +91,9 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk mengompresi bebera
 {{% blocks/products/pf/agp/feature-section-col title="Pustaka kompresi PDF untuk Python" %}}
 Ada pilihan alternatif untuk menginstal 'Aspose.Words for Python via .NET', 'Aspose.ZIP for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.Words for Python via .NET dari [pypi](https://pypi.org/project/aspose-words/)
+- Instal Aspose.Words for Python via .NET dari [PyPI](https://pypi.org/project/aspose-words/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-words```.
-- Instal Aspose.ZIP for Python via .NET dari [pypi](https://pypi.org/project/aspose-zip/)
+- Instal Aspose.ZIP for Python via .NET dari [PyPI](https://pypi.org/project/aspose-zip/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

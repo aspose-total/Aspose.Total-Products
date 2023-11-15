@@ -72,7 +72,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="Python 用の PPTX 透かしライブラリ" %}}
 「Aspose.Slides for Python via .NET」または「Aspose.Total for Python via .NET」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)からAspose.Slides for Python via .NETをインストール
+- [PyPI](https://pypi.org/project/Aspose.Slides/)からAspose.Slides for Python via .NETをインストール
 - または、次の pip コマンド ``pip install Aspose.Slides`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

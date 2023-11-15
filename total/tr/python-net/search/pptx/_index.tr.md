@@ -69,7 +69,7 @@ PPTX aranabilir bir yazılım veya yardımcı program geliştirmeniz mi gerekiyo
 {{% blocks/products/pf/agp/feature-section-col title="PPTX Dosyasını Aramak için Python kütüphanesi" %}}
 Sisteminize "Aspose.Slides for Python via .NET" veya "Aspose.Total for Python via .NET" yüklemenin alternatif seçenekleri mevcuttur. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Slides for Python'u .NET aracılığıyla [pypi](https://pypi.org/project/aspose-slides/)'den yükleyin
+- Aspose.Slides for Python'u .NET aracılığıyla [PyPI](https://pypi.org/project/aspose-slides/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

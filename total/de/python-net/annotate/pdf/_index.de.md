@@ -55,7 +55,7 @@ Müssen Sie eine PDF-Annotations-App oder ein PDF-Dienstprogramm entwickeln?Da [
 {{% blocks/products/pf/agp/feature-section-col title="Python-Dienstprogramm zum Kommentieren von PDF-Dateien" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)“ oder „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) von [pypi](https://pypi.org/project/aspose-pdf/)
+- Installieren Sie [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) von [PyPI](https://pypi.org/project/aspose-pdf/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose-pdf“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

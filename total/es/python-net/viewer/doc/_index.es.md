@@ -73,7 +73,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="Utilidad Python para procesar archivos DOC para aplicaciones de visualización" %}}
 Existen opciones alternativas para instalar "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" o "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) desde [pypi](https://pypi.org/project/aspose-words/)
+- Instalar [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) desde [PyPI](https://pypi.org/project/aspose-words/)
 - O utilice los siguientes comandos pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

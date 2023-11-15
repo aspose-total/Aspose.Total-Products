@@ -71,7 +71,7 @@ Müssen Sie ein Python-Skript oder eine Dienstprogramm-App entwickeln, um einzel
 {{% blocks/products/pf/agp/feature-section-col title="MHTML-Archivierungsbibliothek für Python" %}}
 Es gibt alternative Möglichkeiten, „Aspose.ZIP for Python via .NET“ oder „Aspose.Total for Python via .NET“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.ZIP for Python via .NET von [pypi](https://pypi.org/project/aspose-zip/)
+- Installieren Sie Aspose.ZIP for Python via .NET von [PyPI](https://pypi.org/project/aspose-zip/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose-zip“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

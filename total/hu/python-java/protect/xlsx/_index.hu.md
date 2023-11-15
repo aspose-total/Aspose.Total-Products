@@ -56,7 +56,7 @@ XLSX jelszavas védelmi alkalmazást vagy segédprogramot szeretne fejleszteni?A
 {{% blocks/products/pf/agp/feature-section-col title="Python segédprogram a XLSX fájl feldolgozásához az alkalmazás védelme érdekében" %}}
 Vannak alternatív lehetőségek a „[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)” vagy „[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)-at a [pypi](https://pypi.org/project/aspose-cells/)-ből
+- Telepítse a [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)-at a [PyPI](https://pypi.org/project/aspose-cells/)-ből
 - Vagy használja a következő pip parancsokat: ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

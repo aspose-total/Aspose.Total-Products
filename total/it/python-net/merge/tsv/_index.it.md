@@ -71,7 +71,7 @@ Hai bisogno di sviluppare script Python o app di utilità per unire facilmente p
 {{% blocks/products/pf/agp/feature-section-col title="Libreria di fusione TSV per Python" %}}
 Esistono opzioni alternative per installare "Aspose.Cells for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.Cells for Python via .NET da [pypi](https://pypi.org/project/aspose-cells/)
+- Installa Aspose.Cells for Python via .NET da [PyPI](https://pypi.org/project/aspose-cells/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

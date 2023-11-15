@@ -72,7 +72,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη Splitter DOC για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)» ή το «[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)» στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) από το [pypi](https://pypi.org/project/aspose-words/)
+- Εγκαταστήστε το [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) από το [PyPI](https://pypi.org/project/aspose-words/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-words```.
 
 

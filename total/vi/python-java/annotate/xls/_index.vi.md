@@ -55,7 +55,7 @@ Bạn cần phát triển ứng dụng, tiện ích chú thích XLS?Với [Aspos
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích Python để chú thích các tệp XLS" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" hoặc "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) từ [pypi](https://pypi.org/project/aspose-cells/)
+- Cài đặt [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) từ [PyPI](https://pypi.org/project/aspose-cells/)
 - Hoặc Sử dụng các lệnh pip sau ``` pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

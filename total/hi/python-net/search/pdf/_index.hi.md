@@ -71,7 +71,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="PDF फ़ाइल खोजने के लिए पायथन लाइब्रेरी" %}}
 आपके सिस्टम पर ".NET के माध्यम से Python के लिए Aspose.PDF" या ".NET के माध्यम से Python के लिए Aspose.Total" इंस्टॉल करने के वैकल्पिक विकल्प हैं। कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/) से .NET के माध्यम से Python के लिए Aspose.PDF इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-pdf/) से .NET के माध्यम से Python के लिए Aspose.PDF इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```pip install aspose.pdf```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

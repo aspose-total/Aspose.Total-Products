@@ -61,7 +61,7 @@ PPT szerkesztő alkalmazást vagy segédprogramot szeretne fejleszteni?A [Aspose
 Vannak alternatív lehetőségek a „[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)” vagy „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
 
-- Telepítse a [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)-at a [pypi](https://pypi.org/project/Aspose.Slides/)-ből
+- Telepítse a [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)-at a [PyPI](https://pypi.org/project/Aspose.Slides/)-ből
 - Vagy Használja a következő pip parancsokat ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

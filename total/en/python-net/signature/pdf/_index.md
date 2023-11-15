@@ -67,7 +67,7 @@ Need to develop python script or utility app to easily sign multiple PDF files e
 {{% blocks/products/pf/agp/feature-section-col title="PDF eSignature library for Python" %}}
 There are alternative options to install 'Aspose.PDF for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install Aspose.PDF for Python via .NET from [pypi](https://pypi.org/project/aspose-pdf/)
+- Install Aspose.PDF for Python via .NET from [PyPI](https://pypi.org/project/aspose-pdf/)
 - Or Use the following pip commands ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

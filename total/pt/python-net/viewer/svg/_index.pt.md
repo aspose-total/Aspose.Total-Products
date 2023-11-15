@@ -67,7 +67,7 @@ Precisa desenvolver um aplicativo ou utilitário visualizador de SVG?Com [Aspose
 {{% blocks/products/pf/agp/feature-section-col title="Utilitário Python para processar arquivo SVG" %}}
 Existem opções alternativas para instalar “[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)” ou “[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) do [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instale [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) do [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Ou use os seguintes comandos pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

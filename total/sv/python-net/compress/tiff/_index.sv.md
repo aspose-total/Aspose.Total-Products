@@ -91,9 +91,9 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt komprimera 
 {{% blocks/products/pf/agp/feature-section-col title="TIFF-komprimeringsbibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.Imaging for Python via .NET", "Aspose.ZIP for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Imaging for Python via .NET från [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installera Aspose.Imaging for Python via .NET från [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Eller använd följande pip-kommandon ```pip install aspose-imaging-python-net```.
-- Installera Aspose.ZIP for Python via .NET från [pypi](https://pypi.org/project/aspose-zip/)
+- Installera Aspose.ZIP for Python via .NET från [PyPI](https://pypi.org/project/aspose-zip/)
 - Eller använd följande pip-kommandon ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

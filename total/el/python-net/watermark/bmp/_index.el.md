@@ -66,7 +66,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη υδατογραφήματος BMP για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «Aspose.Imaging for Python via .NET» ή το «Aspose.Total for Python via .NET» στο σύστημά σας. Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.Imaging for Python via .NET από το [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Εγκαταστήστε το Aspose.Imaging for Python via .NET από το [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

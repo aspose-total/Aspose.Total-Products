@@ -57,7 +57,7 @@ Müssen Sie eine XLSB-Parser-App oder ein XLSB-Parser-Dienstprogramm entwickeln?
 {{% blocks/products/pf/agp/feature-section-col title="Python-Dienstprogramm zum Verarbeiten der XLSB-Datei für die Parser-App" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)“ oder „[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) von [pypi](https://pypi.org/project/aspose-cells/)
+- Installieren Sie [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) von [PyPI](https://pypi.org/project/aspose-cells/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose-cells“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

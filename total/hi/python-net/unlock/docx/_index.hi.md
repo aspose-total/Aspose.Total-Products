@@ -55,7 +55,7 @@ DOCX सुरक्षा प्रबंधन ऐप या उपयोग�
 {{% blocks/products/pf/agp/feature-section-col title="बीएमपी1 सुरक्षा को प्रबंधित करने के लिए पायथन उपयोगिता" %}}
 आपके सिस्टम पर "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" या "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-words/) से [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-words/) से [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```pip install aspose.words```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -67,7 +67,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون لمعالجة ملف IMAGE" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) من [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- قم بتثبيت [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) من [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

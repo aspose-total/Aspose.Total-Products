@@ -66,7 +66,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη Splitter ODP για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)» ή το «[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)» στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) από το [pypi](https://pypi.org/project/Aspose.Slides/)
+- Εγκαταστήστε το [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) από το [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install Aspose.Slides```.
 
 

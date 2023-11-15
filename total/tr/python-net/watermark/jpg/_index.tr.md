@@ -66,7 +66,7 @@ Birden fazla JPG dosyasını kolayca Filigranlamak için python betiği veya yar
 {{% blocks/products/pf/agp/feature-section-col title="Python için JPG Filigranlama kitaplığı" %}}
 Sisteminize 'Aspose.Imaging for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Imaging for Python via .NET'ü [pypi](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
+- Aspose.Imaging for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
 - Veya Aşağıdaki ```pip install aspose-imaging-python-net`` pip komutlarını kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

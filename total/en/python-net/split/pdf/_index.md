@@ -72,7 +72,7 @@ Need to develop python script or utility app to easily Split PDF files? With [As
 {{% blocks/products/pf/agp/feature-section-col title="PDF Splitter library for Python" %}}
 There are alternative options to install '[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)' or '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) from [pypi](https://pypi.org/project/aspose-pdf/)
+- Install [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) from [PyPI](https://pypi.org/project/aspose-pdf/)
 - Or Use the following pip commands ```pip install aspose-pdf```.
 
 

@@ -67,7 +67,7 @@ Behöver du utveckla en BMP-visningsapp eller ett verktyg?Med [Aspose.Imaging fo
 {{% blocks/products/pf/agp/feature-section-col title="Python-verktyg för att bearbeta BMP-fil" %}}
 Det finns alternativa alternativ för att installera "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" eller "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) från [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Installera [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) från [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Eller använd följande pip-kommandon ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

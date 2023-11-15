@@ -55,7 +55,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Утилита Python для управления защитой PPTX" %}}
 Существуют альтернативные варианты установки «[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)» или «[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) из [pypi](https://pypi.org/project/Aspose.Slides/)
+- Установить [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) из [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Или используйте следующие команды pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

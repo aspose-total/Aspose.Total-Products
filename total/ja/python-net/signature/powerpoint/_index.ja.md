@@ -67,7 +67,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="Python 用の POWERPOINT 電子署名ライブラリ" %}}
 「Aspose.Slides for Python via .NET」または「Aspose.Total for Python via .NET」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)からAspose.Slides for Python via .NETをインストール
+- [PyPI](https://pypi.org/project/Aspose.Slides/)からAspose.Slides for Python via .NETをインストール
 - または、次の pip コマンド ``pip install Aspose.Slides`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

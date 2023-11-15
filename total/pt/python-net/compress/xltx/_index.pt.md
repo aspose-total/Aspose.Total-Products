@@ -71,7 +71,7 @@ Precisa desenvolver um script python ou um aplicativo utilitário para arquivar 
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de arquivamento XLTX para Python" %}}
 Existem opções alternativas para instalar ‘Aspose.ZIP for Python via .NET’ ou ‘Aspose.Total for Python via .NET’ em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale Aspose.ZIP for Python via .NET do [pypi](https://pypi.org/project/aspose-zip/)
+- Instale Aspose.ZIP for Python via .NET do [PyPI](https://pypi.org/project/aspose-zip/)
 - Ou use os seguintes comandos pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

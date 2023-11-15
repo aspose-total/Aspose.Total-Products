@@ -62,7 +62,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de comparación PPSX para Python" %}}
 Existen opciones alternativas para instalar '[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)' o '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instalar [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) desde [pypi](https://pypi.org/project/Aspose.Slides/)
+- Instalar [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) desde [PyPI](https://pypi.org/project/Aspose.Slides/)
 - O utilice los siguientes comandos pip ```pip install Aspose.Slides```.
 
 

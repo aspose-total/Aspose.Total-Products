@@ -72,7 +72,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG WORD TIFF GIF 
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายน้ำ WORD สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Words for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Words for Python via .NET จาก [pypi](https://pypi.org/project/aspose-words/)
+- ติดตั้ง Aspose.Words for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

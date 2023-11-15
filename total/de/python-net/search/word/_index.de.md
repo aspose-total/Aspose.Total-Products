@@ -71,7 +71,7 @@ Müssen Sie eine durchsuchbare WORD-App oder ein Dienstprogramm entwickeln? Mit 
 {{% blocks/products/pf/agp/feature-section-col title="Python-Bibliothek zum Durchsuchen der WORD-Datei" %}}
 Es gibt alternative Möglichkeiten, „Aspose.Words für Python über .NET“ oder „Aspose.Total für Python über .NET“ auf Ihrem System zu installieren. Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.Words für Python über .NET von [pypi](https://pypi.org/project/aspose-words/)
+- Installieren Sie Aspose.Words für Python über .NET von [PyPI](https://pypi.org/project/aspose-words/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose.words“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

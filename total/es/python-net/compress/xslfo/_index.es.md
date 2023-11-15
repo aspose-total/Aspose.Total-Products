@@ -71,7 +71,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de archivo XSLFO para Python" %}}
 Existen opciones alternativas para instalar 'Aspose.ZIP for Python via .NET' o 'Aspose.Total for Python via .NET' en su sistema.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso.:<br /><br />
 
-- Instalar Aspose.ZIP for Python via .NET desde [pypi](https://pypi.org/project/aspose-zip/)
+- Instalar Aspose.ZIP for Python via .NET desde [PyPI](https://pypi.org/project/aspose-zip/)
 - O utilice los siguientes comandos pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

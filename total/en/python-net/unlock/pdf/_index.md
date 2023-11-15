@@ -55,7 +55,7 @@ Need to develop a PDF protection management app or utility? With [Aspose.PDF for
 {{% blocks/products/pf/agp/feature-section-col title="Python Utility to Manage PDF Protection" %}}
 There are alternative options to install "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" or "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) from [pypi](https://pypi.org/project/aspose-pdf/)
+- Install [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) from [PyPI](https://pypi.org/project/aspose-pdf/)
 - Or Use the following pip commands ```pip install aspose-pdf```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

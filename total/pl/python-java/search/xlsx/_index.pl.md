@@ -72,7 +72,7 @@ Chcesz opracować aplikację lub narzędzie z możliwością wyszukiwania XLSX? 
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka Pythona do wyszukiwania pliku XLSX" %}}
 Istnieją alternatywne opcje instalacji w systemie „Aspose.Cells dla Pythona przez Javę” lub „Aspose.Total dla Pythona przez Javę”. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Words dla Pythona poprzez Javę z [pypi](https://pypi.org/project/aspose-cells/)
+- Zainstaluj Aspose.Words dla Pythona poprzez Javę z [PyPI](https://pypi.org/project/aspose-cells/)
 - Lub użyj następujących poleceń pip ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

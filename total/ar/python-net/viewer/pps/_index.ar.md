@@ -73,7 +73,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="أداة Python لمعالجة ملف PPS لتطبيق العرض" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) من [pypi](https://pypi.org/project/Aspose.Slides/)
+- قم بتثبيت [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) من [PyPI](https://pypi.org/project/Aspose.Slides/)
 - أو استخدم أوامر النقطة التالية ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

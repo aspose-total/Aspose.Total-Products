@@ -76,9 +76,9 @@ Besoin de développer un script Python ou une application utilitaire pour fusion
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de fusion PDF pour Python" %}}
 Il existe d'autres options pour installer « Aspose.PDF for Python via .NET », « Aspose.Words for Python via .NET » ou « Aspose.Total for Python via .NET » sur votre système.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installer Aspose.PDF for Python via .NET à partir de [pypi](https://pypi.org/project/aspose-pdf/)
+- Installer Aspose.PDF for Python via .NET à partir de [PyPI](https://pypi.org/project/aspose-pdf/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose.pdf```.
-- Ou installez Aspose.Words for Python via .NET à partir de [pypi](https://pypi.org/project/aspose-words/)
+- Ou installez Aspose.Words for Python via .NET à partir de [PyPI](https://pypi.org/project/aspose-words/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

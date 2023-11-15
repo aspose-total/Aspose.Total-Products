@@ -72,7 +72,7 @@ Behöver du utveckla en ODS sökbar app eller verktyg? Med Aspose.Cells för Pyt
 {{% blocks/products/pf/agp/feature-section-col title="Python-bibliotek för att söka ODS-fil" %}}
 Det finns alternativa alternativ för att installera "Aspose.Cells for Python via Java" eller "Aspose.Total for Python via Java" på ditt system. Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Words för Python via Java från [pypi](https://pypi.org/project/aspose-cells/)
+- Installera Aspose.Words för Python via Java från [PyPI](https://pypi.org/project/aspose-cells/)
 - Eller använd följande pip-kommandon ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

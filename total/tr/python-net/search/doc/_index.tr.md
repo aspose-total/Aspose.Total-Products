@@ -71,7 +71,7 @@ DOC aranabilir bir uygulama veya yardımcı program geliştirmeniz mi gerekiyor?
 {{% blocks/products/pf/agp/feature-section-col title="DOC Dosyasını Aramak için Python kütüphanesi" %}}
 Sisteminize "Aspose.Words for Python via .NET" veya "Aspose.Total for Python via .NET" kurulumunu gerçekleştirmek için alternatif seçenekler mevcuttur. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Aspose.Words for Python'u .NET aracılığıyla [pypi](https://pypi.org/project/aspose-words/)'den yükleyin
+- Aspose.Words for Python'u .NET aracılığıyla [PyPI](https://pypi.org/project/aspose-words/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

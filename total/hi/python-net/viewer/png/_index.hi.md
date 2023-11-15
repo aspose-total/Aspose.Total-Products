@@ -67,7 +67,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="PNG फ़ाइल को संसाधित करने के लिए पायथन उपयोगिता" %}}
 आपके सिस्टम पर "[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)" या "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-imaging-python-net/) से [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-imaging-python-net/) से [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/) इंस्टॉल करें
 - या निम्नलिखित पिप कमांड का उपयोग करें ```पाइप इंस्टॉल एस्पोज़-इमेजिंग-पायथन-नेट```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

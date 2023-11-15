@@ -72,7 +72,7 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt slå samman
 {{% blocks/products/pf/agp/feature-section-col title="OTP sammanslagningsbibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.Slides for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Slides for Python via .NET från [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installera Aspose.Slides for Python via .NET från [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Eller använd följande pip-kommandon ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

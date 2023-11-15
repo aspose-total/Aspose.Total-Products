@@ -71,7 +71,7 @@ Hai bisogno di sviluppare script Python o app di utilità per archiviare facilme
 {{% blocks/products/pf/agp/feature-section-col title="Libreria di archiviazione TEX per Python" %}}
 Esistono opzioni alternative per installare "Aspose.ZIP for Python via .NET" o "Aspose.Total for Python via .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa Aspose.ZIP for Python via .NET da [pypi](https://pypi.org/project/aspose-zip/)
+- Installa Aspose.ZIP for Python via .NET da [PyPI](https://pypi.org/project/aspose-zip/)
 - Oppure utilizzare i seguenti comandi pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

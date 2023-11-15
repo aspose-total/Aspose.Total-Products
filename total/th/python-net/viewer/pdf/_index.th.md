@@ -66,7 +66,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="ยูทิลิตี้ Python เพื่อประมวลผลไฟล์ PDF สำหรับแอปดิสเพลย์" %}}
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)" หรือ "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" ลงในระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) จาก [pypi](https://pypi.org/project/aspose-pdf/)
+- ติดตั้ง [Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/) จาก [PyPI](https://pypi.org/project/aspose-pdf/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-pdf```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

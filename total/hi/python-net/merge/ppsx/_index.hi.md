@@ -72,7 +72,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="पायथन के लिए PPSX विलय लाइब्रेरी" %}}
 आपके सिस्टम पर 'Aspose.Slides for Python via .NET' या 'Aspose.Total for Python via .NET' इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/) से Aspose.Slides for Python via .NET इंस्टॉल करें
+- [PyPI](https://pypi.org/project/Aspose.Slides/) से Aspose.Slides for Python via .NET इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```पाइप इंस्टॉल Aspose.Slides```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

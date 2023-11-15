@@ -59,7 +59,7 @@ Chcesz opracować aplikację lub narzędzie do zarządzania metadanymi XLSM?Dzi�
 {{% blocks/products/pf/agp/feature-section-col title="Narzędzie Pythona do zarządzania metadanymi XLSM" %}}
 Istnieją alternatywne opcje instalacji „[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)” lub „[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) z [pypi](https://pypi.org/project/aspose-cells/)
+- Zainstaluj [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) z [PyPI](https://pypi.org/project/aspose-cells/)
 - Lub użyj następujących poleceń pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

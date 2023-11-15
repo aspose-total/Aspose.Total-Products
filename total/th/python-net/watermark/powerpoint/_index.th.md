@@ -72,7 +72,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายน้ำ POWERPOINT สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Slides for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Slides for Python via .NET จาก [pypi](https://pypi.org/project/Aspose.Slides/)
+- ติดตั้ง Aspose.Slides for Python via .NET จาก [PyPI](https://pypi.org/project/Aspose.Slides/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip ติดตั้ง Aspose.Slides```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

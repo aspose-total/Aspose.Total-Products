@@ -76,9 +76,9 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="पायथन के लिए PDF विलय लाइब्रेरी" %}}
 आपके सिस्टम पर 'Aspose.PDF for Python via .NET', 'Aspose.Words for Python via .NET' या 'Aspose.Total for Python via .NET' इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/) से Aspose.PDF for Python via .NET इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-pdf/) से Aspose.PDF for Python via .NET इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```pip install aspose.pdf```।
-- या [pypi](https://pypi.org/project/aspose-words/) से Aspose.Words for Python via .NET इंस्टॉल करें
+- या [PyPI](https://pypi.org/project/aspose-words/) से Aspose.Words for Python via .NET इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```pip install aspose.words```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

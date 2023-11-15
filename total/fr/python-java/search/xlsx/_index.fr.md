@@ -72,7 +72,7 @@ Besoin de développer une application ou un utilitaire de recherche XLSX ? Avec
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque Python pour rechercher le fichier XLSX" %}}
 Il existe des options alternatives pour installer « Aspose.Cells pour Python via Java » ou « Aspose.Total pour Python via Java » sur votre système. Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
 
-- Installez Aspose.Words pour Python via Java à partir de [pypi](https://pypi.org/project/aspose-cells/)
+- Installez Aspose.Words pour Python via Java à partir de [PyPI](https://pypi.org/project/aspose-cells/)
 - Ou utilisez les commandes pip suivantes ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

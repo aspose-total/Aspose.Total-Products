@@ -71,7 +71,7 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadnou archiva
 {{% blocks/products/pf/agp/feature-section-col title="WMF archivační knihovna pro Python" %}}
 Existují alternativní možnosti instalace „Aspose.ZIP for Python via .NET“ nebo „Aspose.Total for Python via .NET“ do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte Aspose.ZIP for Python via .NET z [pypi](https://pypi.org/project/aspose-zip/)
+- Nainstalujte Aspose.ZIP for Python via .NET z [PyPI](https://pypi.org/project/aspose-zip/)
 - Nebo použijte následující příkazy pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

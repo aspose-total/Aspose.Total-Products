@@ -55,7 +55,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون للتعليق على ملفات XLSX" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" أو "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

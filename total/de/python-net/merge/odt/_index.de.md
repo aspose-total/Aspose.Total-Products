@@ -71,7 +71,7 @@ Müssen Sie ein Python-Skript oder eine Dienstprogramm-App entwickeln, um mehrer
 {{% blocks/products/pf/agp/feature-section-col title="ODT-Merging-Bibliothek für Python" %}}
 Es gibt alternative Möglichkeiten, „Aspose.Words for Python via .NET“ oder „Aspose.Total for Python via .NET“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.Words for Python via .NET von [pypi](https://pypi.org/project/aspose-words/)
+- Installieren Sie Aspose.Words for Python via .NET von [PyPI](https://pypi.org/project/aspose-words/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install aspose.words“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

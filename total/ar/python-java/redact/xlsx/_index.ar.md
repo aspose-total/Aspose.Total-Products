@@ -58,7 +58,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="أداة بايثون لتنقيح ملف XLSX" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" أو "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

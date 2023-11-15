@@ -71,7 +71,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca Python para buscar archivos WORD" %}}
 Existen opciones alternativas para instalar "Aspose.Words para Python vía .NET" o "Aspose.Total para Python vía .NET" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br /><br />
 
-- Instale Aspose.Words para Python a través de .NET desde [pypi](https://pypi.org/project/aspose-words/)
+- Instale Aspose.Words para Python a través de .NET desde [PyPI](https://pypi.org/project/aspose-words/)
 - O utilice los siguientes comandos pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

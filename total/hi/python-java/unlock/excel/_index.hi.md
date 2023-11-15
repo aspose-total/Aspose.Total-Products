@@ -55,7 +55,7 @@ EXCEL सुरक्षा प्रबंधन ऐप या उपयोग�
 {{% blocks/products/pf/agp/feature-section-col title="बीएमपी1 सुरक्षा को प्रबंधित करने के लिए पायथन उपयोगिता" %}}
 आपके सिस्टम पर "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" या "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-cells/) से [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-cells/) से [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) इंस्टॉल करें
 - या निम्नलिखित पिप कमांड का उपयोग करें ```पिप इंस्टॉल एस्पोज़-सेल्स```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

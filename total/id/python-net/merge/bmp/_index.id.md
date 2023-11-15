@@ -78,7 +78,7 @@ Perlu mengembangkan skrip python atau aplikasi utilitas untuk menggabungkan bebe
 {{% blocks/products/pf/agp/feature-section-col title="Perpustakaan penggabungan BMP untuk Python" %}}
 Ada opsi alternatif untuk menginstal 'Aspose.Imaging for Python via .NET' atau 'Aspose.Total for Python via .NET' ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal Aspose.Imaging for Python via .NET dari [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- Instal Aspose.Imaging for Python via .NET dari [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - Atau Gunakan perintah pip berikut ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

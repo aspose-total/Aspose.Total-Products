@@ -72,7 +72,7 @@ Precisa desenvolver um aplicativo ou utilitário pesquisável EXCEL? Com Aspose.
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca Python para pesquisar arquivo EXCEL" %}}
 Existem opções alternativas para instalar "Aspose.Cells for Python via Java" ou "Aspose.Total for Python via Java" em seu sistema. Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale Aspose.Words para Python via Java do [pypi](https://pypi.org/project/aspose-cells/)
+- Instale Aspose.Words para Python via Java do [PyPI](https://pypi.org/project/aspose-cells/)
 - Ou use os seguintes comandos pip ```pip install aspose.cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

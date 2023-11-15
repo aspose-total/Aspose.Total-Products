@@ -59,7 +59,7 @@ Chcesz opracować aplikację lub narzędzie do zarządzania metadanymi PPTX?Dzi�
 Istnieją alternatywne opcje instalacji „[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)” lub „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
 
-- Zainstaluj [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [pypi](https://pypi.org/project/Aspose.Slides/)
+- Zainstaluj [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Lub użyj następujących poleceń pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

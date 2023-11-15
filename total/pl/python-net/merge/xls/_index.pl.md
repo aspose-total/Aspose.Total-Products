@@ -71,7 +71,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo połą
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka scalająca XLS dla Pythona" %}}
 Istnieją alternatywne opcje instalacji „Aspose.Cells for Python via .NET” lub „Aspose.Total for Python via .NET” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Cells for Python via .NET z [pypi](https://pypi.org/project/aspose-cells/)
+- Zainstaluj Aspose.Cells for Python via .NET z [PyPI](https://pypi.org/project/aspose-cells/)
 - Lub użyj następujących poleceń pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -67,7 +67,7 @@ SVG ビューア アプリまたはユーティリティを開発する必要が
 {{% blocks/products/pf/agp/feature-section-col title="SVG ファイルを処理するための Python ユーティリティ" %}}
 「[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールする別のオプションもあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-imaging-python-net/)から[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)をインストール
+- [PyPI](https://pypi.org/project/aspose-imaging-python-net/)から[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)をインストール
 - または、次の pip コマンド ``pip install aspose-imaging-python-net`` を使用します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

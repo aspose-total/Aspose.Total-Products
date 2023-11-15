@@ -73,7 +73,7 @@ PPTM 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{% blocks/products/pf/agp/feature-section-col title="디스플레이 앱용 PPTM 파일을 처리하는 Python 유틸리티" %}}
 시스템에 "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" 또는 "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)"를 설치하는 대체 옵션이 있습니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br /><br />
 
-- [pypi](https://pypi.org/project/Aspose.Slides/)에서 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) 설치
+- [PyPI](https://pypi.org/project/Aspose.Slides/)에서 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) 설치
 - 또는 다음 pip 명령 ```pip install Aspose.Slides``를 사용하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

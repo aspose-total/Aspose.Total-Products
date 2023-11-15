@@ -55,7 +55,7 @@ ODS 보호 관리 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Tota
 {{% blocks/products/pf/agp/feature-section-col title="ODS 보호를 관리하는 Python 유틸리티" %}}
 시스템에 "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" 또는 "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)"를 설치하는 대체 옵션이 있습니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-cells/)에서 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) 설치
+- [PyPI](https://pypi.org/project/aspose-cells/)에서 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) 설치
 - 또는 다음 pip 명령 ```pip install aspose-cells``를 사용하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

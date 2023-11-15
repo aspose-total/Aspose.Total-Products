@@ -92,9 +92,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека сжатия PPSX для Python" %}}
 Существуют альтернативные варианты установки Aspose.Slides for Python via .NET, Aspose.ZIP for Python via .NET или Aspose.Total for Python via .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установить Aspose.Slides for Python via .NET из [pypi](https://pypi.org/project/Aspose.Slides/)
+- Установить Aspose.Slides for Python via .NET из [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Или используйте следующие команды pip ```pip install Aspose.Slides```.
-- Установить Aspose.ZIP for Python via .NET из [pypi](https://pypi.org/project/aspose-zip/)
+- Установить Aspose.ZIP for Python via .NET из [PyPI](https://pypi.org/project/aspose-zip/)
 - Или используйте следующие команды pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

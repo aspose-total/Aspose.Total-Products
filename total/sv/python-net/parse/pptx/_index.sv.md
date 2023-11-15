@@ -84,7 +84,7 @@ Behöver du utveckla en PPTX-parserapp eller ett verktyg?Med [Aspose.Slides for 
 {{% blocks/products/pf/agp/feature-section-col title="Python-verktyg för att bearbeta PPTX-fil för parserapp" %}}
 Det finns alternativa alternativ för att installera "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" eller "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) från [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installera [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) från [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Eller använd följande pip-kommandon ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

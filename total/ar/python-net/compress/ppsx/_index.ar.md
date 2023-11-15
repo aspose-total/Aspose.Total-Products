@@ -92,9 +92,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة ضغط PPSX لبايثون" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Slides for Python via .NET" أو "Aspose.ZIP for Python via .NET" أو "Aspose.Total for Python via .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت Aspose.Slides for Python via .NET من [pypi](https://pypi.org/project/Aspose.Slides/)
+- قم بتثبيت Aspose.Slides for Python via .NET من [PyPI](https://pypi.org/project/Aspose.Slides/)
 - أو استخدم أوامر النقطة التالية ```pip install Aspose.Slides```.
-- قم بتثبيت Aspose.ZIP for Python via .NET من [pypi](https://pypi.org/project/aspose-zip/)
+- قم بتثبيت Aspose.ZIP for Python via .NET من [PyPI](https://pypi.org/project/aspose-zip/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

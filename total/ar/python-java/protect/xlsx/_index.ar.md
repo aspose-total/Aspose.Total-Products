@@ -56,7 +56,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="أداة Python لمعالجة ملف XLSX لحماية التطبيق" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" أو "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ otherformats: EXCEL XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="XLSX फ़ाइल खोजने के लिए पायथन लाइब्रेरी" %}}
 आपके सिस्टम पर "जावा के माध्यम से पायथन के लिए Aspose.Cells" या "जावा के माध्यम से पायथन के लिए Aspose.Total" स्थापित करने के वैकल्पिक विकल्प हैं। कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-cells/) से जावा के माध्यम से Python के लिए Aspose.Words इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-cells/) से जावा के माध्यम से Python के लिए Aspose.Words इंस्टॉल करें
 - या निम्नलिखित पाइप कमांड का उपयोग करें ```pip install aspose. cells```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

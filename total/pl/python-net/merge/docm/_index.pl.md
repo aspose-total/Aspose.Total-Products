@@ -71,7 +71,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo połą
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka scalająca DOCM dla Pythona" %}}
 Istnieją alternatywne opcje instalacji „Aspose.Words for Python via .NET” lub „Aspose.Total for Python via .NET” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.Words for Python via .NET z [pypi](https://pypi.org/project/aspose-words/)
+- Zainstaluj Aspose.Words for Python via .NET z [PyPI](https://pypi.org/project/aspose-words/)
 - Lub użyj następujących poleceń pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

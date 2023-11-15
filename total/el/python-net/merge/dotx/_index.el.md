@@ -71,7 +71,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη συγχώνευσης DOTX για Python" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το «Aspose.Words for Python via .NET» ή το «Aspose.Total for Python via .NET» στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το Aspose.Words for Python via .NET από το [pypi](https://pypi.org/project/aspose-words/)
+- Εγκαταστήστε το Aspose.Words for Python via .NET από το [PyPI](https://pypi.org/project/aspose-words/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

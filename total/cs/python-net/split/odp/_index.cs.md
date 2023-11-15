@@ -66,7 +66,7 @@ Potřebujete vyvinout python skript nebo obslužnou aplikaci pro snadné rozděl
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna ODP Splitter pro Python" %}}
 Existují alternativní možnosti instalace '[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)' nebo '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [pypi](https://pypi.org/project/Aspose.Slides/)
+- Nainstalujte [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) z [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Nebo použijte následující příkazy pip ```pip install Aspose.Slides```.
 
 

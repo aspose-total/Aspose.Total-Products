@@ -67,7 +67,7 @@ Need to develop a BMP viewer app or utility? A [Aspose.Imaging for Python via .N
 {{% blocks/products/pf/agp/feature-section-col title="Python segédprogram a BMP fájl feldolgozásához" %}}
 Vannak alternatív lehetőségek a „[Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)” vagy „[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)” telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítse a [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)-at a [pypi](https://pypi.org/project/aspose-imaging-python-net/)-ből
+- Telepítse a [Aspose.Imaging for Python via .NET](https://products.aspose.com/imaging/python-net/)-at a [PyPI](https://pypi.org/project/aspose-imaging-python-net/)-ből
 - Vagy Használja a következő pip parancsokat: ```pip install aspose-imaging-python-net```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

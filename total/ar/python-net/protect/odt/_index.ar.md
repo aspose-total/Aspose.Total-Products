@@ -59,7 +59,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="أداة Python لمعالجة ملف ODT لحماية التطبيق" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)" أو "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" على نظامك.الرجاء اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [pypi](https://pypi.org/project/aspose-words/)
+- قم بتثبيت [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) من [PyPI](https://pypi.org/project/aspose-words/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose.words```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

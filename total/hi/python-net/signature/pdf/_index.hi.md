@@ -67,7 +67,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="पायथन के लिए PDF eSignature लाइब्रेरी" %}}
 आपके सिस्टम पर 'Aspose.PDF for Python via .NET' या 'Aspose.Total for Python via .NET' इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/) से Aspose.PDF for Python via .NET इंस्टॉल करें
+- [PyPI](https://pypi.org/project/aspose-pdf/) से Aspose.PDF for Python via .NET इंस्टॉल करें
 - या निम्नलिखित पिप कमांड का उपयोग करें ```पाइप इंस्टॉल एस्पोज़-पीडीएफ```।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

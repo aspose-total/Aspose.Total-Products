@@ -71,7 +71,7 @@ Chcesz opracować skrypt Pythona lub aplikację narzędziową, aby łatwo archiw
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka archiwizująca OTP dla Pythona" %}}
 Istnieją alternatywne opcje instalacji „Aspose.ZIP for Python via .NET” lub „Aspose.Total for Python via .NET” w systemie.Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj Aspose.ZIP for Python via .NET z [pypi](https://pypi.org/project/aspose-zip/)
+- Zainstaluj Aspose.ZIP for Python via .NET z [PyPI](https://pypi.org/project/aspose-zip/)
 - Lub użyj następujących poleceń pip ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

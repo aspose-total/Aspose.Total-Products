@@ -55,7 +55,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Βοηθητικό πρόγραμμα Python για τη διαχείριση της προστασίας PPT" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" ή το "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε το [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) από το [pypi](https://pypi.org/project/Aspose.Slides/)
+- Εγκαταστήστε το [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) από το [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Ή Χρησιμοποιήστε τις ακόλουθες εντολές pip ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -72,7 +72,7 @@ PDF ファイルを簡単に分割するための Python スクリプトまた�
 {{% blocks/products/pf/agp/feature-section-col title="Python 用 PDF スプリッター ライブラリ" %}}
 「[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)」または「[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [pypi](https://pypi.org/project/aspose-pdf/)から[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)をインストール
+- [PyPI](https://pypi.org/project/aspose-pdf/)から[Aspose.PDF for Python via .NET](https://products.aspose.com/pdf/python-net/)をインストール
 - または、次の pip コマンド ``pip install aspose-pdf`` を使用します。
 
 

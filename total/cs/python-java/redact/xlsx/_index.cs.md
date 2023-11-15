@@ -58,7 +58,7 @@ Potřebujete vyvinout aplikaci nebo nástroj pro úpravu XLSX?S [Aspose.Cells fo
 {{% blocks/products/pf/agp/feature-section-col title="Nástroj Python pro úpravu souboru XLSX" %}}
 Existují alternativní možnosti instalace „[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)“ nebo „[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)“ do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) z [pypi](https://pypi.org/project/aspose-cells/)
+- Nainstalujte [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) z [PyPI](https://pypi.org/project/aspose-cells/)
 - Nebo použijte následující příkazy pip ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

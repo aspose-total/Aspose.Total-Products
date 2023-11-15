@@ -57,7 +57,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% blocks/products/pf/agp/feature-section-col title="أداة Python لمعالجة ملف XLSM لتطبيق المحلل اللغوي" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/)" أو "[Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/)" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [pypi](https://pypi.org/project/aspose-cells/)
+- قم بتثبيت [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) من [PyPI](https://pypi.org/project/aspose-cells/)
 - أو استخدم أوامر النقطة التالية ```pip install aspose-cells```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

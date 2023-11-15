@@ -59,7 +59,7 @@ Wilt u een app of hulpprogramma voor het beheren van POWERPOINT-metagegevens ont
 Er zijn alternatieve opties om "[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)" of "[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
 
-- Installeer [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) vanaf [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installeer [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) vanaf [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Of gebruik de volgende pip-opdrachten ```pip install Aspose.Slides```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

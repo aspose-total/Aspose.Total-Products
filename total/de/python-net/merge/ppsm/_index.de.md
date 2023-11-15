@@ -72,7 +72,7 @@ Müssen Sie ein Python-Skript oder eine Dienstprogramm-App entwickeln, um mehrer
 {{% blocks/products/pf/agp/feature-section-col title="PPSM-Merging-Bibliothek für Python" %}}
 Es gibt alternative Möglichkeiten, „Aspose.Slides for Python via .NET“ oder „Aspose.Total for Python via .NET“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie Aspose.Slides for Python via .NET von [pypi](https://pypi.org/project/Aspose.Slides/)
+- Installieren Sie Aspose.Slides for Python via .NET von [PyPI](https://pypi.org/project/Aspose.Slides/)
 - Oder verwenden Sie die folgenden Pip-Befehle „pip install Aspose.Slides“.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

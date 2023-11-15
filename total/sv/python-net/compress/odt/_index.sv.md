@@ -91,9 +91,9 @@ Behöver du utveckla python-skript eller verktygsapp för att enkelt komprimera 
 {{% blocks/products/pf/agp/feature-section-col title="ODT-komprimeringsbibliotek för Python" %}}
 Det finns alternativa alternativ för att installera "Aspose.Words for Python via .NET", "Aspose.ZIP for Python via .NET" eller "Aspose.Total for Python via .NET" på ditt system. Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera Aspose.Words for Python via .NET från [pypi](https://pypi.org/project/aspose-words/)
+- Installera Aspose.Words for Python via .NET från [PyPI](https://pypi.org/project/aspose-words/)
 - Eller använd följande pip-kommandon ```pip install aspose-words```.
-- Installera Aspose.ZIP for Python via .NET från [pypi](https://pypi.org/project/aspose-zip/)
+- Installera Aspose.ZIP for Python via .NET från [PyPI](https://pypi.org/project/aspose-zip/)
 - Eller använd följande pip-kommandon ```pip install aspose-zip```.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
