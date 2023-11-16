@@ -9,20 +9,10 @@ informat: BMP
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="BMP 파일을 병합하는 온라인 문서 병합 앱 및 Python 코드" h2="강력한 Python 기반 BMP 문서 병합 애플리케이션을 개발합니다.앱을 통해 온라인에서 여러 BMP 문서를 하나의 문서로 무료로 결합하세요.BMP 파일을 PDF, 이미지, Word 및 기타 다양한 형식으로 온라인으로 저장하세요." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="BMP 파일을 병합하는 온라인 문서 병합 앱 및 Python 코드" h2="강력한 Python 기반 BMP 문서 병합 애플리케이션을 개발합니다.앱을 통해 온라인에서 여러 BMP 문서를 하나의 문서로 무료로 결합하세요.BMP 파일을 PDF, 이미지, Word 및 기타 다양한 형식으로 온라인으로 저장하세요." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>무료 온라인 BMP 문서 병합 앱</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 BMP 파일을 온라인으로 병합하는 방법" %}}

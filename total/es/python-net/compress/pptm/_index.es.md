@@ -12,17 +12,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{< blocks/products/pf/feature-page-header h1="Aplicación de compresión de documentos en línea y código Python para comprimir archivos PPTM" h2="Desarrolle potentes aplicaciones de compresión de documentos PPTM basadas en Python.Archive documentos PPTM únicos y múltiples en ZIP, RAR y más opciones de archivo a través de su aplicación Python.Comprima libremente varios documentos, incluidos archivos PPTM, en línea a través de una aplicación con descarga instantánea." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online PPTM Document Compression App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comprima y optimice archivos PPTM en línea usando la aplicación" %}}

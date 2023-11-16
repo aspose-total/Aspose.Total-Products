@@ -9,20 +9,10 @@ informat: WORD
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online-App zum Zusammenführen von Dokumenten und Python-Code zum Zusammenführen von WORD-Dateien" h2="Entwickeln Sie eine leistungsstarke Python-basierte WORD-Anwendung zum Zusammenführen von Dokumenten.Kombinieren Sie mehrere WORD-Dokumente kostenlos online per App zu einem einzigen.Speichern Sie die WORD-Datei online als PDF, Bilder, Word, Excel, PowerPoint und viele andere Formate." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online-App zum Zusammenführen von Dokumenten und Python-Code zum Zusammenführen von WORD-Dateien" h2="Entwickeln Sie eine leistungsstarke Python-basierte WORD-Anwendung zum Zusammenführen von Dokumenten.Kombinieren Sie mehrere WORD-Dokumente kostenlos online per App zu einem einzigen.Speichern Sie die WORD-Datei online als PDF, Bilder, Word, Excel, PowerPoint und viele andere Formate." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Kostenlose Online-App zum Zusammenführen von WORD-Dokumenten</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So führen Sie WORD-Dateien online mit der App zusammen" %}}

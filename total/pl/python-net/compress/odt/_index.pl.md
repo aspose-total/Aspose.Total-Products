@@ -9,20 +9,10 @@ informat: ODT
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP ODT GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikacja do kompresji dokumentów online i kod Pythona do kompresji plików ODT" h2="Twórz potężne aplikacje do kompresji dokumentów ODT oparte na języku Python. Archiwizuj pojedyncze i wiele dokumentów ODT w formatach ZIP, RAR i innych za pośrednictwem aplikacji Python. Swobodnie kompresuj różne dokumenty, w tym pliki ODT, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikacja do kompresji dokumentów online i kod Pythona do kompresji plików ODT" h2="Twórz potężne aplikacje do kompresji dokumentów ODT oparte na języku Python. Archiwizuj pojedyncze i wiele dokumentów ODT w formatach ZIP, RAR i innych za pośrednictwem aplikacji Python. Swobodnie kompresuj różne dokumenty, w tym pliki ODT, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Bezpłatna internetowa aplikacja do kompresji dokumentów ODT</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Kompresuj i optymalizuj pliki ODT online za pomocą aplikacji" %}}

@@ -9,20 +9,10 @@ informat: TSV
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แอปรวมเอกสารออนไลน์และรหัส Python เพื่อรวมไฟล์ TSV" h2="พัฒนาแอปพลิเคชันการรวมเอกสาร TSV ที่ใช้ Python ที่ทรงพลังรวมเอกสาร TSV หลายฉบับเป็นเอกสารเดียวทางออนไลน์ได้ฟรีผ่านแอปบันทึกไฟล์ TSV เป็น PDF, รูปภาพ, Word, Excel, PowerPoint และรูปแบบอื่น ๆ อีกมากมายทางออนไลน์" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="แอปรวมเอกสารออนไลน์และรหัส Python เพื่อรวมไฟล์ TSV" h2="พัฒนาแอปพลิเคชันการรวมเอกสาร TSV ที่ใช้ Python ที่ทรงพลังรวมเอกสาร TSV หลายฉบับเป็นเอกสารเดียวทางออนไลน์ได้ฟรีผ่านแอปบันทึกไฟล์ TSV เป็น PDF, รูปภาพ, Word, Excel, PowerPoint และรูปแบบอื่น ๆ อีกมากมายทางออนไลน์" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>แอปรวมเอกสาร TSV ออนไลน์ฟรี</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีรวมไฟล์ TSV ออนไลน์โดยใช้แอพ" %}}

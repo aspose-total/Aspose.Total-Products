@@ -9,20 +9,9 @@ informat: POWERPOINT
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Приложение для поиска документов в Интернете и код API текстового поиска POWERPOINT" h2="Разработайте мощное приложение для поиска документов POWERPOINT на основе Python. Бесплатно протестируйте онлайн-приложение для поиска текста в документах." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Приложение для поиска документов в Интернете и код API текстового поиска POWERPOINT" h2="Разработайте мощное приложение для поиска документов POWERPOINT на основе Python. Бесплатно протестируйте онлайн-приложение для поиска текста в документах." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>Бесплатное онлайн-приложение для поиска содержимого документов POWERPOINT</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как выполнить поиск в файле POWERPOINT онлайн с помощью приложения" %}}

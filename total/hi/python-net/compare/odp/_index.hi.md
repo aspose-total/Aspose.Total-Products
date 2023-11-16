@@ -9,20 +9,8 @@ informat: ODP
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODP फ़ाइलों की तुलना करने के लिए ऑनलाइन दस्तावेज़ तुलना ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित ODP दस्तावेज़ तुलना एप्लिकेशन विकसित करें।तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित दस्तावेज़ों की स्वतंत्र रूप से ऑनलाइन तुलना करें।" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ODP फ़ाइलों की तुलना करने के लिए ऑनलाइन दस्तावेज़ तुलना ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित ODP दस्तावेज़ तुलना एप्लिकेशन विकसित करें।तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित दस्तावेज़ों की स्वतंत्र रूप से ऑनलाइन तुलना करें।" >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online ODP Document Comparison App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके ODP फ़ाइलों की ऑनलाइन तुलना करें" %}}

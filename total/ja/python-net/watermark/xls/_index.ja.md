@@ -9,20 +9,10 @@ informat: XLS
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="オンライン文書透かしアプリと XLS ファイルに透かしを入れる Python コード" h2="強力な Python ベースの XLS ドキュメント透かしアプリケーションを開発します。瞬時にダウンロードできるアプリを介して、XLS ファイルを含むさまざまなドキュメントにオンラインで自由に透かしを入れることができます。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="オンライン文書透かしアプリと XLS ファイルに透かしを入れる Python コード" h2="強力な Python ベースの XLS ドキュメント透かしアプリケーションを開発します。瞬時にダウンロードできるアプリを介して、XLS ファイルを含むさまざまなドキュメントにオンラインで自由に透かしを入れることができます。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>無料のオンライン XLS ドキュメント透かし入れアプリ</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインで XLS ファイルに透かしを入れる" %}}

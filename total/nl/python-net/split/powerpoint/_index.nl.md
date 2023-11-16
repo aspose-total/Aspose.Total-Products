@@ -9,20 +9,9 @@ informat: POWERPOINT
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online documentsplitter-app en Python-code om POWERPOINT-bestanden te splitsen" h2="Ontwikkel krachtige, op Python gebaseerde POWERPOINT-documentsplittertoepassingen.Splits documenten, inclusief POWERPOINT-bestanden, gratis online via de app met onmiddellijke download." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online documentsplitter-app en Python-code om POWERPOINT-bestanden te splitsen" h2="Ontwikkel krachtige, op Python gebaseerde POWERPOINT-documentsplittertoepassingen.Splits documenten, inclusief POWERPOINT-bestanden, gratis online via de app met onmiddellijke download." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Gratis online POWERPOINT-documentsplitter-app</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT-bestanden online splitsen met behulp van de app" %}}

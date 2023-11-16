@@ -9,20 +9,10 @@ informat: XLSM
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLSM फ़ाइलों को संग्रहीत करने के लिए ऑनलाइन दस्तावेज़ संपीड़न ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित XLSM दस्तावेज़ संग्रह अनुप्रयोग विकसित करें।अपने पायथन एप्लिकेशन के माध्यम से एकल और एकाधिक बीएमपी1 दस्तावेज़ों को ज़िप, आरएआर और अधिक संग्रह विकल्पों में संग्रहीत करें।तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित विभिन्न दस्तावेजों को स्वतंत्र रूप से ऑनलाइन संपीड़ित करें।" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="XLSM फ़ाइलों को संग्रहीत करने के लिए ऑनलाइन दस्तावेज़ संपीड़न ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित XLSM दस्तावेज़ संग्रह अनुप्रयोग विकसित करें।अपने पायथन एप्लिकेशन के माध्यम से एकल और एकाधिक बीएमपी1 दस्तावेज़ों को ज़िप, आरएआर और अधिक संग्रह विकल्पों में संग्रहीत करें।तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित विभिन्न दस्तावेजों को स्वतंत्र रूप से ऑनलाइन संपीड़ित करें।" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>मुफ़्त ऑनलाइन XLSM दस्तावेज़ संपीड़न ऐप</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके XLSM फ़ाइलों को ऑनलाइन संपीड़ित और अनुकूलित करें" %}}

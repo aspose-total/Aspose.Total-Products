@@ -9,20 +9,10 @@ informat: PDF
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在线文档水印应用程序和 Python 代码为 PDF 文件添加水印" h2="开发强大的基于 Python 的 PDF 文档水印应用程序。通过应用程序在线免费为各种文档（包括 PDF 文件）添加水印，并可即时下载。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="在线文档水印应用程序和 Python 代码为 PDF 文件添加水印" h2="开发强大的基于 Python 的 PDF 文档水印应用程序。通过应用程序在线免费为各种文档（包括 PDF 文件）添加水印，并可即时下载。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费在线 PDF 文档水印应用程序</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用应用程序在线水印 PDF 文件" %}}

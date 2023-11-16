@@ -9,20 +9,10 @@ informat: POWERPOINT
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Ứng dụng tạo hình mờ tài liệu trực tuyến và mã Python để tạo hình mờ cho các tệp POWERPOINT" h2="Phát triển các ứng dụng Watermarking tài liệu POWERPOINT dựa trên Python mạnh mẽ. Tự do đóng dấu mờ các tài liệu khác nhau bao gồm các tệp POWERPOINT trực tuyến thông qua ứng dụng với khả năng tải xuống ngay lập tức." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Ứng dụng tạo hình mờ tài liệu trực tuyến và mã Python để tạo hình mờ cho các tệp POWERPOINT" h2="Phát triển các ứng dụng Watermarking tài liệu POWERPOINT dựa trên Python mạnh mẽ. Tự do đóng dấu mờ các tài liệu khác nhau bao gồm các tệp POWERPOINT trực tuyến thông qua ứng dụng với khả năng tải xuống ngay lập tức." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Ứng dụng tạo hình mờ tài liệu POWERPOINT trực tuyến miễn phí</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hình mờ tệp POWERPOINT trực tuyến bằng ứng dụng" %}}

@@ -9,20 +9,9 @@ informat: ODT
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODT 파일을 분할하는 온라인 문서 분할기 앱 및 Python 코드" h2="강력한 Python 기반 ODT 문서 분할기 애플리케이션을 개발합니다.즉시 다운로드 가능한 앱을 통해 온라인으로 ODT 파일을 포함한 문서를 자유롭게 분할하세요." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ODT 파일을 분할하는 온라인 문서 분할기 앱 및 Python 코드" h2="강력한 Python 기반 ODT 문서 분할기 애플리케이션을 개발합니다.즉시 다운로드 가능한 앱을 통해 온라인으로 ODT 파일을 포함한 문서를 자유롭게 분할하세요." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>무료 온라인 ODT 문서 분할기 앱</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 온라인으로 ODT 파일 분할" %}}

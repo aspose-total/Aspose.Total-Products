@@ -9,20 +9,8 @@ informat: TXT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Ứng dụng so sánh tài liệu trực tuyến và mã Python để so sánh các tệp TXT" h2="Phát triển các ứng dụng so sánh tài liệu TXT dựa trên Python mạnh mẽ.Tự do so sánh các tài liệu bao gồm các tệp TXT trực tuyến qua ứng dụng với khả năng tải xuống tức thì." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Ứng dụng so sánh tài liệu trực tuyến và mã Python để so sánh các tệp TXT" h2="Phát triển các ứng dụng so sánh tài liệu TXT dựa trên Python mạnh mẽ.Tự do so sánh các tài liệu bao gồm các tệp TXT trực tuyến qua ứng dụng với khả năng tải xuống tức thì." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Ứng dụng so sánh tài liệu TXT trực tuyến miễn phí</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="So sánh các tệp TXT trực tuyến bằng ứng dụng" %}}

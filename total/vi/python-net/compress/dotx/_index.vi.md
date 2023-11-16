@@ -9,20 +9,10 @@ informat: DOTX
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP DOTX GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Ứng dụng nén tài liệu trực tuyến và mã Python để nén tệp DOTX" h2="Phát triển các ứng dụng nén tài liệu DOTX dựa trên Python mạnh mẽ. Lưu trữ một và nhiều tài liệu DOTX thành ZIP, RAR, v.v. thông qua ứng dụng Python của bạn. Tự do nén nhiều tài liệu khác nhau bao gồm các tệp DOTX trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Ứng dụng nén tài liệu trực tuyến và mã Python để nén tệp DOTX" h2="Phát triển các ứng dụng nén tài liệu DOTX dựa trên Python mạnh mẽ. Lưu trữ một và nhiều tài liệu DOTX thành ZIP, RAR, v.v. thông qua ứng dụng Python của bạn. Tự do nén nhiều tài liệu khác nhau bao gồm các tệp DOTX trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Ứng dụng nén tài liệu DOTX trực tuyến miễn phí</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Nén và tối ưu hóa tệp DOTX trực tuyến bằng ứng dụng" %}}

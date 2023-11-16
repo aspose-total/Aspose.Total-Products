@@ -9,20 +9,10 @@ informat: DOC
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تطبيق وضع العلامات المائية على المستندات عبر الإنترنت ورمز Python لوضع علامة مائية على ملفات DOC" h2="قم بتطوير تطبيقات العلامات المائية القوية لمستندات DOC المستندة إلى Python.قم بوضع علامة مائية بحرية على المستندات المختلفة بما في ذلك ملفات DOC عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="تطبيق وضع العلامات المائية على المستندات عبر الإنترنت ورمز Python لوضع علامة مائية على ملفات DOC" h2="قم بتطوير تطبيقات العلامات المائية القوية لمستندات DOC المستندة إلى Python.قم بوضع علامة مائية بحرية على المستندات المختلفة بما في ذلك ملفات DOC عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>تطبيق مجاني للعلامة المائية للمستندات DOC عبر الإنترنت</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="العلامة المائية لملفات DOC عبر الإنترنت باستخدام التطبيق" %}}

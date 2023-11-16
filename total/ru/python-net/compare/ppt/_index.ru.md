@@ -9,20 +9,8 @@ informat: PPT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Онлайн-приложение для сравнения документов и код Python для сравнения файлов PPT" h2="Разрабатывайте мощные приложения для сравнения документов PPT на основе Python.Свободно сравнивайте документы, включая файлы PPT, онлайн через приложение с мгновенной загрузкой." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Онлайн-приложение для сравнения документов и код Python для сравнения файлов PPT" h2="Разрабатывайте мощные приложения для сравнения документов PPT на основе Python.Свободно сравнивайте документы, включая файлы PPT, онлайн через приложение с мгновенной загрузкой." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online PPT Document Comparison App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Сравните файлы PPT онлайн с помощью приложения" %}}

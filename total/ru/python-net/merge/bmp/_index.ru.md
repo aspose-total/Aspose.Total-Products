@@ -12,17 +12,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{< blocks/products/pf/feature-page-header h1="Онлайн-приложение для слияния документов и код Python для объединения файлов BMP" h2="Разработайте мощное приложение для объединения документов BMP на основе Python.Объедините несколько документов BMP в один онлайн бесплатно через приложение.Сохраните файл BMP в формате PDF, изображений, Word и многих других форматах онлайн." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Бесплатное онлайн-приложение для слияния документов BMP</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Как объединить файлы BMP онлайн с помощью приложения" %}}

@@ -9,20 +9,8 @@ informat: ODP
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online dokumentum-összehasonlító alkalmazás és Python-kód a ODP fájlok összehasonlításához" h2="Hatékony Python alapú ODP dokumentum-összehasonlító alkalmazások fejlesztése.Ingyenesen összehasonlíthatja a dokumentumokat, beleértve a ODP fájlokat online, az alkalmazáson keresztül, azonnali letöltéssel." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online dokumentum-összehasonlító alkalmazás és Python-kód a ODP fájlok összehasonlításához" h2="Hatékony Python alapú ODP dokumentum-összehasonlító alkalmazások fejlesztése.Ingyenesen összehasonlíthatja a dokumentumokat, beleértve a ODP fájlokat online, az alkalmazáson keresztül, azonnali letöltéssel." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online ODP Document Comparison App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hasonlítsa össze a ODP fájlokat online az alkalmazás segítségével" %}}

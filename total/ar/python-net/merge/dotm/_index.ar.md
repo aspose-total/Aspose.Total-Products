@@ -9,20 +9,10 @@ informat: DOTM
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تطبيق دمج المستندات عبر الإنترنت ورمز Python لدمج ملفات DOTM" h2="تطوير تطبيق قوي لدمج المستندات DOTM يعتمد على Python.قم بدمج عدة مستندات DOTM في مستند واحد عبر الإنترنت مجانًا عبر التطبيق.احفظ ملف DOTM بتنسيق PDF وصور وWord وExcel وPowerPoint والعديد من التنسيقات الأخرى عبر الإنترنت." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="تطبيق دمج المستندات عبر الإنترنت ورمز Python لدمج ملفات DOTM" h2="تطوير تطبيق قوي لدمج المستندات DOTM يعتمد على Python.قم بدمج عدة مستندات DOTM في مستند واحد عبر الإنترنت مجانًا عبر التطبيق.احفظ ملف DOTM بتنسيق PDF وصور وWord وExcel وPowerPoint والعديد من التنسيقات الأخرى عبر الإنترنت." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>تطبيق مجاني لدمج المستندات DOTM عبر الإنترنت</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية دمج ملفات DOTM عبر الإنترنت باستخدام التطبيق" %}}

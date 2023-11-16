@@ -9,20 +9,10 @@ informat: PCL
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online εφαρμογή συμπίεσης εγγράφων και κώδικας Python για αρχειοθέτηση αρχείων PCL" h2="Αναπτύξτε ισχυρές εφαρμογές αρχειοθέτησης εγγράφων PCL που βασίζονται στην Python.Αρχειοθετήστε μεμονωμένα και πολλαπλά έγγραφα PCL σε ZIP, RAR και περισσότερες επιλογές αρχειοθέτησης μέσω της εφαρμογής Python σας.Συμπιέστε ελεύθερα διάφορα έγγραφα, συμπεριλαμβανομένων αρχείων PCL στο διαδίκτυο μέσω εφαρμογής με άμεση λήψη." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online εφαρμογή συμπίεσης εγγράφων και κώδικας Python για αρχειοθέτηση αρχείων PCL" h2="Αναπτύξτε ισχυρές εφαρμογές αρχειοθέτησης εγγράφων PCL που βασίζονται στην Python.Αρχειοθετήστε μεμονωμένα και πολλαπλά έγγραφα PCL σε ZIP, RAR και περισσότερες επιλογές αρχειοθέτησης μέσω της εφαρμογής Python σας.Συμπιέστε ελεύθερα διάφορα έγγραφα, συμπεριλαμβανομένων αρχείων PCL στο διαδίκτυο μέσω εφαρμογής με άμεση λήψη." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Δωρεάν διαδικτυακή εφαρμογή συμπίεσης εγγράφων PCL</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Συμπίεση και βελτιστοποίηση αρχείων PCL Online χρησιμοποιώντας την εφαρμογή" %}}

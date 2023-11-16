@@ -9,20 +9,9 @@ informat: PPTX
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online Document eSignature-app och Python-kod för att digitalt signera PPTX-filer" h2="Utveckla kraftfulla Python-baserade PPTX-dokumentsigneringsapplikationer. Lägg fritt till digital signatur i olika dokument inklusive PPTX-filer online via app med omedelbar nedladdning." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online Document eSignature-app och Python-kod för att digitalt signera PPTX-filer" h2="Utveckla kraftfulla Python-baserade PPTX-dokumentsigneringsapplikationer. Lägg fritt till digital signatur i olika dokument inklusive PPTX-filer online via app med omedelbar nedladdning." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Gratis Online PPTX Document e-Signatur App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Lägg till elektronisk signatur i PPTX-filer online med appen" %}}

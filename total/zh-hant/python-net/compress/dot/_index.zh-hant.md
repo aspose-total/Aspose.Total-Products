@@ -9,20 +9,10 @@ informat: DOT
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP DOT GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="用於壓縮 DOT 檔案的線上文件壓縮應用程式和 Python 程式碼" h2="開發強大的基於 Python 的 DOT 文件壓縮應用程式。透過 Python 應用程式將單一和多個 DOT 文件存檔為 ZIP、RAR 等。 透過應用程式在線自由壓縮包括 DOT 文件在內的各種文檔，並可即時下載。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="用於壓縮 DOT 檔案的線上文件壓縮應用程式和 Python 程式碼" h2="開發強大的基於 Python 的 DOT 文件壓縮應用程式。透過 Python 應用程式將單一和多個 DOT 文件存檔為 ZIP、RAR 等。 透過應用程式在線自由壓縮包括 DOT 文件在內的各種文檔，並可即時下載。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免費線上 DOT 文件壓縮應用程式</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用App在線壓縮和優化DOT文件" %}}

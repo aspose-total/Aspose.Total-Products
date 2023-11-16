@@ -9,20 +9,10 @@ informat: XLS
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLS फ़ाइलों को मर्ज करने के लिए ऑनलाइन दस्तावेज़ विलय ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित XLS दस्तावेज़ विलय एप्लिकेशन विकसित करें।ऐप के माध्यम से अनेक XLS दस्तावेज़ों को निःशुल्क ऑनलाइन एक में संयोजित करें।XLS फ़ाइल को पीडीएफ, इमेज, वर्ड, एक्सेल, पॉवरपॉइंट और कई अन्य प्रारूपों में ऑनलाइन सहेजें।" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="XLS फ़ाइलों को मर्ज करने के लिए ऑनलाइन दस्तावेज़ विलय ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित XLS दस्तावेज़ विलय एप्लिकेशन विकसित करें।ऐप के माध्यम से अनेक XLS दस्तावेज़ों को निःशुल्क ऑनलाइन एक में संयोजित करें।XLS फ़ाइल को पीडीएफ, इमेज, वर्ड, एक्सेल, पॉवरपॉइंट और कई अन्य प्रारूपों में ऑनलाइन सहेजें।" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>मुफ़्त ऑनलाइन XLS दस्तावेज़ विलय ऐप</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके XLS फ़ाइलों को ऑनलाइन कैसे मर्ज करें" %}}

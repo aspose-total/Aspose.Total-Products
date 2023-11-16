@@ -9,20 +9,8 @@ informat: MHTML
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online aplikace pro porovnání dokumentů a kód Pythonu pro porovnání souborů MHTML" h2="Vyvíjejte výkonné aplikace pro porovnávání dokumentů MHTML založené na Pythonu.Zdarma porovnávejte dokumenty včetně souborů MHTML online prostřednictvím aplikace s okamžitým stažením." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online aplikace pro porovnání dokumentů a kód Pythonu pro porovnání souborů MHTML" h2="Vyvíjejte výkonné aplikace pro porovnávání dokumentů MHTML založené na Pythonu.Zdarma porovnávejte dokumenty včetně souborů MHTML online prostřednictvím aplikace s okamžitým stažením." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Bezplatná online aplikace pro porovnání dokumentů MHTML</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Porovnejte soubory MHTML online pomocí aplikace App" %}}

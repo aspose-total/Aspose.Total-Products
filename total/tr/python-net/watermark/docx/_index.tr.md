@@ -9,20 +9,10 @@ informat: DOCX
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOCX TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Çevrimiçi Belge Filigranı Uygulaması ve DOCX Dosyalarına Filigran Eklemek için Python Kodu" h2="Güçlü Python tabanlı DOCX belgesi Filigranlama uygulamaları geliştirin.Anında indirme ile uygulama aracılığıyla DOCX dosyaları da dahil olmak üzere çeşitli belgeleri çevrimiçi olarak Serbestçe Filigranlayın." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Çevrimiçi Belge Filigranı Uygulaması ve DOCX Dosyalarına Filigran Eklemek için Python Kodu" h2="Güçlü Python tabanlı DOCX belgesi Filigranlama uygulamaları geliştirin.Anında indirme ile uygulama aracılığıyla DOCX dosyaları da dahil olmak üzere çeşitli belgeleri çevrimiçi olarak Serbestçe Filigranlayın." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Ücretsiz Çevrimiçi DOCX Belge Filigranı Uygulaması</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı Kullanarak Çevrimiçi Filigran DOCX Dosyaları" %}}

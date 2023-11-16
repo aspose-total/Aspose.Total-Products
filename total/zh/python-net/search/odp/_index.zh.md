@@ -9,20 +9,9 @@ informat: ODP
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在线可搜索文档应用程序和 ODP 文本搜索 API 代码" h2="开发强大的基于 Python 的 ODP 文档搜索引擎实用应用程序。免费测试在线文档文本查找器应用程序。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="在线可搜索文档应用程序和 ODP 文本搜索 API 代码" h2="开发强大的基于 Python 的 ODP 文档搜索引擎实用应用程序。免费测试在线文档文本查找器应用程序。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>免费在线 ODP 文档内容搜索应用程序</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何使用App在线搜索ODP文件" %}}

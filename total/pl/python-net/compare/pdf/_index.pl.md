@@ -9,20 +9,8 @@ informat: PDF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikacja do porównywania dokumentów online i kod Pythona do porównywania plików PDF" h2="Twórz potężne aplikacje do porównywania dokumentów PDF oparte na języku Python.Swobodnie porównuj dokumenty, w tym pliki PDF, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikacja do porównywania dokumentów online i kod Pythona do porównywania plików PDF" h2="Twórz potężne aplikacje do porównywania dokumentów PDF oparte na języku Python.Swobodnie porównuj dokumenty, w tym pliki PDF, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Bezpłatna internetowa aplikacja do porównywania dokumentów PDF</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Porównaj pliki PDF online za pomocą aplikacji" %}}

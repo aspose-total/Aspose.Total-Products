@@ -9,20 +9,9 @@ informat: POWERPOINT
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="用於分割 POWERPOINT 檔案的線上文件分割器應用程式和 Python 程式碼" h2="開發強大的基於 Python 的 POWERPOINT 文件分割器應用程式。透過應用程式線上自由分割文檔，包括 POWERPOINT 文件，並可即時下載。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="用於分割 POWERPOINT 檔案的線上文件分割器應用程式和 Python 程式碼" h2="開發強大的基於 Python 的 POWERPOINT 文件分割器應用程式。透過應用程式線上自由分割文檔，包括 POWERPOINT 文件，並可即時下載。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>免費線上 POWERPOINT 文檔分割器應用程式</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用App在線分割POWERPOINT文件" %}}

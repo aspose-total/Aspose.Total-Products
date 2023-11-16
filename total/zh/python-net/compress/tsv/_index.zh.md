@@ -9,20 +9,10 @@ informat: TSV
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="用于存档 TSV 文件的在线文档压缩应用程序和 Python 代码" h2="开发强大的基于 Python 的 TSV 文档归档应用程序。通过 Python 应用程序将单个和多个 TSV 文档存档为 ZIP、RAR 和更多存档选项。通过应用程序在线自由压缩包括 TSV 文件在内的各种文档，并可即时下载。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="用于存档 TSV 文件的在线文档压缩应用程序和 Python 代码" h2="开发强大的基于 Python 的 TSV 文档归档应用程序。通过 Python 应用程序将单个和多个 TSV 文档存档为 ZIP、RAR 和更多存档选项。通过应用程序在线自由压缩包括 TSV 文件在内的各种文档，并可即时下载。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费在线 TSV 文档压缩应用程序</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用App在线压缩和优化TSV文件" %}}

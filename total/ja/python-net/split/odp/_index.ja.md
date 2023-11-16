@@ -9,20 +9,9 @@ informat: ODP
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODP ファイルを分割するためのオンライン ドキュメント スプリッター アプリと Python コード" h2="強力な Python ベースの ODP ドキュメント分割アプリケーションを開発します。ODP ファイルを含むドキュメントをアプリ経由でオンラインで自由に分割し、瞬時にダウンロードできます。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ODP ファイルを分割するためのオンライン ドキュメント スプリッター アプリと Python コード" h2="強力な Python ベースの ODP ドキュメント分割アプリケーションを開発します。ODP ファイルを含むドキュメントをアプリ経由でオンラインで自由に分割し、瞬時にダウンロードできます。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>無料のオンライン ODP ドキュメント スプリッター アプリ</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインでODPファイルを分割する" %}}

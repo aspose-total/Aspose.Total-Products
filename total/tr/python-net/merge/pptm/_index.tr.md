@@ -9,20 +9,10 @@ informat: PPTM
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTM Dosyalarını Birleştirmek için Çevrimiçi Belge Birleştirme Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı PPTM belge birleştirme uygulaması geliştirin.Birden fazla PPTM belgesini uygulama aracılığıyla ücretsiz olarak tek bir çevrimiçi belgede birleştirin.PPTM dosyasını çevrimiçi olarak PDF, Görüntüler, Word, Excel, PowerPoint ve diğer birçok formatta kaydedin." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="PPTM Dosyalarını Birleştirmek için Çevrimiçi Belge Birleştirme Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı PPTM belge birleştirme uygulaması geliştirin.Birden fazla PPTM belgesini uygulama aracılığıyla ücretsiz olarak tek bir çevrimiçi belgede birleştirin.PPTM dosyasını çevrimiçi olarak PDF, Görüntüler, Word, Excel, PowerPoint ve diğer birçok formatta kaydedin." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Ücretsiz Çevrimiçi PPTM Belge Birleştirme Uygulaması</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı Kullanarak PPTM Dosyalarını Çevrimiçi Olarak Birleştirme" %}}

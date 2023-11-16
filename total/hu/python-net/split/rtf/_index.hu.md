@@ -9,20 +9,9 @@ informat: RTF
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online dokumentumosztó alkalmazás és Python kód a RTF fájlok felosztásához" h2="Hatékony Python alapú RTF dokumentumosztó alkalmazások fejlesztése.Szabadon felosztható dokumentumok, beleértve a RTF fájlokat online az alkalmazáson keresztül, azonnali letöltéssel." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online dokumentumosztó alkalmazás és Python kód a RTF fájlok felosztásához" h2="Hatékony Python alapú RTF dokumentumosztó alkalmazások fejlesztése.Szabadon felosztható dokumentumok, beleértve a RTF fájlokat online az alkalmazáson keresztül, azonnali letöltéssel." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Ingyenes online RTF dokumentumosztó alkalmazás</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Ossza meg a RTF fájlokat online az alkalmazás segítségével" %}}

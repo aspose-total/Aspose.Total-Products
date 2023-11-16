@@ -9,20 +9,10 @@ informat: BMP
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online documentcompressie-app en Python-code om BMP-bestanden te comprimeren" h2="Ontwikkel krachtige, op Python gebaseerde BMP-documentcompressietoepassingen.Archiveer enkele en meerdere BMP-documenten in ZIP, RAR en meer archiveringsopties via uw Python-applicatie.Comprimeer verschillende documenten, waaronder BMP-bestanden, gratis online via de app met onmiddellijke download." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online documentcompressie-app en Python-code om BMP-bestanden te comprimeren" h2="Ontwikkel krachtige, op Python gebaseerde BMP-documentcompressietoepassingen.Archiveer enkele en meerdere BMP-documenten in ZIP, RAR en meer archiveringsopties via uw Python-applicatie.Comprimeer verschillende documenten, waaronder BMP-bestanden, gratis online via de app met onmiddellijke download." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online BMP-documentcompressie-app</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comprimeer en optimaliseer BMP-bestanden online met behulp van de app" %}}

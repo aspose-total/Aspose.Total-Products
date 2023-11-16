@@ -9,20 +9,10 @@ informat: ODT
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="App per filigranare documenti online e codice Python per filigranare file ODT" h2="Sviluppa potenti applicazioni di filigrana per documenti ODT basate su Python.Filigrana liberamente vari documenti, inclusi file ODT online tramite app con download immediato." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="App per filigranare documenti online e codice Python per filigranare file ODT" h2="Sviluppa potenti applicazioni di filigrana per documenti ODT basate su Python.Filigrana liberamente vari documenti, inclusi file ODT online tramite app con download immediato." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Applicazione online gratuita per la filigrana dei documenti ODT</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Filigrana file ODT online utilizzando l'app" %}}

@@ -9,20 +9,8 @@ informat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="線上文件比較應用程式和用於比較 DOT 文件的 Python 程式碼" h2="開發強大的基於 Python 的 DOT 文件比較應用程式。透過應用程式線上自由比較包括 DOT 檔案在內的文件並即時下載。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="線上文件比較應用程式和用於比較 DOT 文件的 Python 程式碼" h2="開發強大的基於 Python 的 DOT 文件比較應用程式。透過應用程式線上自由比較包括 DOT 檔案在內的文件並即時下載。" >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>免費線上 DOT 文件比較應用程式</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用應用程式在線比較 DOT 文件" %}}

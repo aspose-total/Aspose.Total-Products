@@ -9,20 +9,9 @@ informat: ODP
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online kereshető dokumentumalkalmazás és ODP szövegkereső API-kód" h2="Hatékony Python alapú ODP dokumentumkereső segédprogram fejlesztése. Tesztelje az online dokumentumszöveg kereső alkalmazást ingyen." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online kereshető dokumentumalkalmazás és ODP szövegkereső API-kód" h2="Hatékony Python alapú ODP dokumentumkereső segédprogram fejlesztése. Tesztelje az online dokumentumszöveg kereső alkalmazást ingyen." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>Ingyenes online ODP dokumentumtartalom kereső alkalmazás</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hogyan kereshet a ODP fájlban online az alkalmazás segítségével" %}}

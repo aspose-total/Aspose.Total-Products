@@ -9,20 +9,9 @@ informat: WORD
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Application de signature électronique de documents en ligne et code Python pour signer numériquement les fichiers WORD" h2="Développez de puissantes applications de signature de documents WORD basées sur Python.Ajoutez librement une signature numérique dans divers documents, y compris des fichiers WORD en ligne via une application avec téléchargement instantané." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Application de signature électronique de documents en ligne et code Python pour signer numériquement les fichiers WORD" h2="Développez de puissantes applications de signature de documents WORD basées sur Python.Ajoutez librement une signature numérique dans divers documents, y compris des fichiers WORD en ligne via une application avec téléchargement instantané." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Application gratuite de signature électronique de documents WORD en ligne</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Ajouter une signature électronique dans les fichiers WORD en ligne à l'aide de l'application" %}}

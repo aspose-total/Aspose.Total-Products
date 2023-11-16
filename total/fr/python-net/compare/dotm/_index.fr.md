@@ -9,20 +9,8 @@ informat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Application de comparaison de documents en ligne et code Python pour comparer les fichiers DOTM" h2="Développez de puissantes applications de comparaison de documents DOTM basées sur Python.Comparez librement les documents, y compris les fichiers DOTM, en ligne via une application avec téléchargement instantané." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Application de comparaison de documents en ligne et code Python pour comparer les fichiers DOTM" h2="Développez de puissantes applications de comparaison de documents DOTM basées sur Python.Comparez librement les documents, y compris les fichiers DOTM, en ligne via une application avec téléchargement instantané." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Application gratuite de comparaison de documents DOTM en ligne</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comparez les fichiers DOTM en ligne à l'aide de l'application" %}}

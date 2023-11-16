@@ -9,20 +9,9 @@ informat: JPEG
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Ứng dụng chữ ký điện tử tài liệu trực tuyến và mã Python để ký điện tử các tệp JPEG" h2="Phát triển các ứng dụng ký tài liệu JPEG dựa trên Python mạnh mẽ.Tự do thêm chữ ký số vào nhiều tài liệu khác nhau bao gồm tệp JPEG trực tuyến qua ứng dụng với khả năng tải xuống tức thì." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Ứng dụng chữ ký điện tử tài liệu trực tuyến và mã Python để ký điện tử các tệp JPEG" h2="Phát triển các ứng dụng ký tài liệu JPEG dựa trên Python mạnh mẽ.Tự do thêm chữ ký số vào nhiều tài liệu khác nhau bao gồm tệp JPEG trực tuyến qua ứng dụng với khả năng tải xuống tức thì." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Ứng dụng chữ ký điện tử tài liệu JPEG trực tuyến miễn phí</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Thêm Chữ ký điện tử vào tệp JPEG trực tuyến bằng ứng dụng" %}}

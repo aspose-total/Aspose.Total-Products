@@ -9,20 +9,10 @@ informat: PDF
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikacja do znakowania wodnego dokumentów online i kod Pythona do znakowania wodnego plików PDF" h2="Twórz wydajne aplikacje do znakowania wodnego dokumentów PDF w oparciu o język Python.Swobodnie znakuj wodą różne dokumenty, w tym pliki PDF, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikacja do znakowania wodnego dokumentów online i kod Pythona do znakowania wodnego plików PDF" h2="Twórz wydajne aplikacje do znakowania wodnego dokumentów PDF w oparciu o język Python.Swobodnie znakuj wodą różne dokumenty, w tym pliki PDF, online za pośrednictwem aplikacji z możliwością natychmiastowego pobrania." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Bezpłatna internetowa aplikacja do znakowania wodnego dokumentów PDF</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Znak wodny plików PDF online za pomocą aplikacji" %}}

@@ -9,20 +9,10 @@ informat: ODT
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP ODT GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODT 파일을 압축하는 온라인 문서 압축 앱 및 Python 코드" h2="강력한 Python 기반 ODT 문서 압축 애플리케이션을 개발하세요. Python 애플리케이션을 통해 단일 및 여러 ODT 문서를 ZIP, RAR 등으로 보관하세요. 즉시 다운로드하여 앱을 통해 온라인으로 ODT 파일을 포함한 다양한 문서를 자유롭게 압축하세요." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ODT 파일을 압축하는 온라인 문서 압축 앱 및 Python 코드" h2="강력한 Python 기반 ODT 문서 압축 애플리케이션을 개발하세요. Python 애플리케이션을 통해 단일 및 여러 ODT 문서를 ZIP, RAR 등으로 보관하세요. 즉시 다운로드하여 앱을 통해 온라인으로 ODT 파일을 포함한 다양한 문서를 자유롭게 압축하세요." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>무료 온라인 ODT 문서 압축 앱</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 온라인으로 ODT 파일 압축 및 최적화" %}}

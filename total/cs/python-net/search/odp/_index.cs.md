@@ -9,20 +9,9 @@ informat: ODP
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online prohledávatelná aplikace pro dokumenty a kód API pro vyhledávání textu ODP" h2="Vyvíjejte výkonnou aplikaci pro vyhledávač dokumentů ODP založenou na Pythonu. Vyzkoušejte online aplikaci pro hledání textu dokumentů zdarma." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online prohledávatelná aplikace pro dokumenty a kód API pro vyhledávání textu ODP" h2="Vyvíjejte výkonnou aplikaci pro vyhledávač dokumentů ODP založenou na Pythonu. Vyzkoušejte online aplikaci pro hledání textu dokumentů zdarma." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>Bezplatná online aplikace pro vyhledávání obsahu dokumentů ODP</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Jak vyhledávat v souboru ODP online pomocí aplikace" %}}

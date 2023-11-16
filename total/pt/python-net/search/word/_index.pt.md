@@ -9,20 +9,9 @@ informat: WORD
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplicativo de pesquisa de texto on-line e código da API de pesquisa de conteúdo WORD" h2="Desenvolva um poderoso aplicativo utilitário de mecanismo de pesquisa de documentos WORD baseado em Python. Teste o aplicativo de pesquisa de texto de documentos online gratuitamente." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplicativo de pesquisa de texto on-line e código da API de pesquisa de conteúdo WORD" h2="Desenvolva um poderoso aplicativo utilitário de mecanismo de pesquisa de documentos WORD baseado em Python. Teste o aplicativo de pesquisa de texto de documentos online gratuitamente." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>Aplicativo online gratuito de pesquisa de texto de documentos WORD</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Como pesquisar texto em arquivo WORD online usando o aplicativo" %}}

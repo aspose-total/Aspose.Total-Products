@@ -9,20 +9,10 @@ informat: JPEG
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online documentfusie-app en Python-code om JPEG-bestanden samen te voegen" h2="Ontwikkel een krachtige op Python gebaseerde JPEG-toepassing voor het samenvoegen van documenten.Combineer meerdere JPEG-documenten gratis online in één app via de app.Sla het JPEG-bestand online op als PDF, afbeeldingen, Word en vele andere formaten." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online documentfusie-app en Python-code om JPEG-bestanden samen te voegen" h2="Ontwikkel een krachtige op Python gebaseerde JPEG-toepassing voor het samenvoegen van documenten.Combineer meerdere JPEG-documenten gratis online in één app via de app.Sla het JPEG-bestand online op als PDF, afbeeldingen, Word en vele andere formaten." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online JPEG-documentfusie-app</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hoe JPEG-bestanden online samen te voegen met behulp van de app" %}}

@@ -9,20 +9,10 @@ informat: PPSM
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online Document Merger App och Python Code för att slå samman PPSM-filer" h2="Utveckla kraftfulla Python-baserade PPSM dokumentsammanslagningsprogram.Kombinera flera PPSM-dokument till ett enda online gratis via app.Spara PPSM-fil som PDF, bilder, Word, Excel, PowerPoint och många andra format online." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online Document Merger App och Python Code för att slå samman PPSM-filer" h2="Utveckla kraftfulla Python-baserade PPSM dokumentsammanslagningsprogram.Kombinera flera PPSM-dokument till ett enda online gratis via app.Spara PPSM-fil som PDF, bilder, Word, Excel, PowerPoint och många andra format online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online PPSM Document Merger App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Hur man slår ihop PPSM-filer online med appen" %}}

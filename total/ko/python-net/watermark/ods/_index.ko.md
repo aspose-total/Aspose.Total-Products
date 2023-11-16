@@ -9,20 +9,10 @@ informat: ODS
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="온라인 문서 워터마킹 앱 및 ODS 파일 워터마크를 위한 Python 코드" h2="강력한 Python 기반 ODS 문서 워터마킹 애플리케이션을 개발하세요.즉시 다운로드 가능한 앱을 통해 ODS 파일을 포함한 다양한 문서를 온라인으로 자유롭게 워터마크하세요." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="온라인 문서 워터마킹 앱 및 ODS 파일 워터마크를 위한 Python 코드" h2="강력한 Python 기반 ODS 문서 워터마킹 애플리케이션을 개발하세요.즉시 다운로드 가능한 앱을 통해 ODS 파일을 포함한 다양한 문서를 온라인으로 자유롭게 워터마크하세요." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>무료 온라인 ODS 문서 워터마킹 앱</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 온라인으로 워터마크 ODS 파일" %}}

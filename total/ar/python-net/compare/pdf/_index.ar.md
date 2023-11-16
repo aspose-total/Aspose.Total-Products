@@ -9,20 +9,8 @@ informat: PDF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تطبيق مقارنة المستندات عبر الإنترنت ورمز Python لمقارنة ملفات PDF" h2="تطوير تطبيقات قوية لمقارنة مستندات PDF تعتمد على Python.قم بمقارنة المستندات بحرية بما في ذلك ملفات PDF عبر الإنترنت عبر التطبيق مع التنزيل الفوري." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="تطبيق مقارنة المستندات عبر الإنترنت ورمز Python لمقارنة ملفات PDF" h2="تطوير تطبيقات قوية لمقارنة مستندات PDF تعتمد على Python.قم بمقارنة المستندات بحرية بما في ذلك ملفات PDF عبر الإنترنت عبر التطبيق مع التنزيل الفوري." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>تطبيق مجاني لمقارنة المستندات PDF عبر الإنترنت</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="قارن ملفات PDF عبر الإنترنت باستخدام التطبيق" %}}

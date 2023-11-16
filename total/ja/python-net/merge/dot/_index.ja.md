@@ -9,20 +9,10 @@ informat: DOT
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOT ファイルをマージするためのオンライン ドキュメント マージャー アプリと Python コード" h2="強力な Python ベースの DOT ドキュメント結合アプリケーションを開発します。アプリを介してオンラインで複数の DOT ドキュメントを 1 つのドキュメントに無料で結合します。DOT ファイルを PDF、画像、Word、Excel、PowerPoint などの形式でオンラインで保存します。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="DOT ファイルをマージするためのオンライン ドキュメント マージャー アプリと Python コード" h2="強力な Python ベースの DOT ドキュメント結合アプリケーションを開発します。アプリを介してオンラインで複数の DOT ドキュメントを 1 つのドキュメントに無料で結合します。DOT ファイルを PDF、画像、Word、Excel、PowerPoint などの形式でオンラインで保存します。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>無料のオンライン DOT ドキュメント結合アプリ</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインでDOTファイルを結合する方法" %}}

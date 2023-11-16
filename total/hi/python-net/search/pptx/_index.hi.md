@@ -9,20 +9,9 @@ informat: PPTX
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ऑनलाइन खोजने योग्य दस्तावेज़ ऐप और PPTX टेक्स्ट खोज एपीआई कोड" h2="शक्तिशाली पायथन आधारित PPTX दस्तावेज़ खोज इंजन उपयोगिता एप्लिकेशन विकसित करें। मुफ़्त में ऑनलाइन दस्तावेज़ टेक्स्ट खोजक ऐप का परीक्षण करें।" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ऑनलाइन खोजने योग्य दस्तावेज़ ऐप और PPTX टेक्स्ट खोज एपीआई कोड" h2="शक्तिशाली पायथन आधारित PPTX दस्तावेज़ खोज इंजन उपयोगिता एप्लिकेशन विकसित करें। मुफ़्त में ऑनलाइन दस्तावेज़ टेक्स्ट खोजक ऐप का परीक्षण करें।" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>मुफ़्त ऑनलाइन PPTX दस्तावेज़ सामग्री खोज ऐप</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके PPTX फ़ाइल को ऑनलाइन कैसे खोजें" %}}

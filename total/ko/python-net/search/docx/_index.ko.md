@@ -9,20 +9,9 @@ informat: DOCX
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="온라인 텍스트 검색 앱 및 DOCX 콘텐츠 검색 API 코드" h2="강력한 Python 기반 DOCX 문서 검색 엔진 유틸리티 애플리케이션을 개발합니다. 온라인 문서 텍스트 검색 앱을 무료로 테스트해보세요." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="온라인 텍스트 검색 앱 및 DOCX 콘텐츠 검색 API 코드" h2="강력한 Python 기반 DOCX 문서 검색 엔진 유틸리티 애플리케이션을 개발합니다. 온라인 문서 텍스트 검색 앱을 무료로 테스트해보세요." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>무료 온라인 DOCX 문서 텍스트 검색 앱</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 온라인으로 DOCX 파일에서 텍스트를 검색하는 방법" %}}

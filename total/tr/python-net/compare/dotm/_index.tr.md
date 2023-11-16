@@ -9,20 +9,8 @@ informat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTM Dosyalarını Karşılaştırmak için Çevrimiçi Belge Karşılaştırma Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı DOTM belge karşılaştırma uygulamaları geliştirin.DOTM dosyaları da dahil olmak üzere belgeleri, uygulama aracılığıyla anında indirerek çevrimiçi olarak özgürce karşılaştırın." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="DOTM Dosyalarını Karşılaştırmak için Çevrimiçi Belge Karşılaştırma Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı DOTM belge karşılaştırma uygulamaları geliştirin.DOTM dosyaları da dahil olmak üzere belgeleri, uygulama aracılığıyla anında indirerek çevrimiçi olarak özgürce karşılaştırın." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Ücretsiz Çevrimiçi DOTM Belge Karşılaştırma Uygulaması</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı Kullanarak DOTM Dosyalarını Çevrimiçi Karşılaştırın" %}}

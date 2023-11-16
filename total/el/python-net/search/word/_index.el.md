@@ -9,20 +9,9 @@ informat: WORD
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Εφαρμογή διαδικτυακής αναζήτησης κειμένου και Κωδικός API αναζήτησης περιεχομένου WORD" h2="Αναπτύξτε μια ισχυρή εφαρμογή Βοηθητικής μηχανής αναζήτησης εγγράφων WORD που βασίζεται στην Python. Δοκιμάστε την εφαρμογή αναζήτησης κειμένου στο διαδίκτυο στο διαδίκτυο δωρεάν." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Εφαρμογή διαδικτυακής αναζήτησης κειμένου και Κωδικός API αναζήτησης περιεχομένου WORD" h2="Αναπτύξτε μια ισχυρή εφαρμογή Βοηθητικής μηχανής αναζήτησης εγγράφων WORD που βασίζεται στην Python. Δοκιμάστε την εφαρμογή αναζήτησης κειμένου στο διαδίκτυο στο διαδίκτυο δωρεάν." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>Δωρεάν διαδικτυακή εφαρμογή αναζήτησης κειμένου WORD Document</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Τρόπος αναζήτησης κειμένου σε αρχείο WORD Online χρησιμοποιώντας την εφαρμογή" %}}

@@ -9,20 +9,10 @@ informat: ODS
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online dokumentum-egyesítési alkalmazás és Python-kód a ODS-fájlok egyesítéséhez" h2="Hatékony Python alapú ODS dokumentum-egyesítő alkalmazás fejlesztése.Egyesítsen több ODS dokumentumot egyetlen online alkalmazásban ingyenesen.Mentse a ODS fájlt PDF, képek, Word, Excel, PowerPoint és sok más formátumban online." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online dokumentum-egyesítési alkalmazás és Python-kód a ODS-fájlok egyesítéséhez" h2="Hatékony Python alapú ODS dokumentum-egyesítő alkalmazás fejlesztése.Egyesítsen több ODS dokumentumot egyetlen online alkalmazásban ingyenesen.Mentse a ODS fájlt PDF, képek, Word, Excel, PowerPoint és sok más formátumban online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Ingyenes online ODS dokumentum-egyesítési alkalmazás</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODS fájlok online egyesítése az alkalmazás segítségével" %}}

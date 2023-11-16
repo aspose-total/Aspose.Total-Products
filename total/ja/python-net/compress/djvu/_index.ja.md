@@ -9,20 +9,10 @@ informat: DJVU
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DJVU ファイルをアーカイブするためのオンライン文書圧縮アプリと Python コード" h2="強力な Python ベースの DJVU ドキュメント アーカイブ アプリケーションを開発します。Python アプリケーションを介して、単一および複数の DJVU ドキュメントを ZIP、RAR などのアーカイブ オプションにアーカイブします。DJVU ファイルを含むさまざまなドキュメントをアプリ経由でオンラインで自由に圧縮し、即時ダウンロードできます。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="DJVU ファイルをアーカイブするためのオンライン文書圧縮アプリと Python コード" h2="強力な Python ベースの DJVU ドキュメント アーカイブ アプリケーションを開発します。Python アプリケーションを介して、単一および複数の DJVU ドキュメントを ZIP、RAR などのアーカイブ オプションにアーカイブします。DJVU ファイルを含むさまざまなドキュメントをアプリ経由でオンラインで自由に圧縮し、即時ダウンロードできます。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>無料のオンライン DJVU ドキュメント圧縮アプリ</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインで DJVU ファイルを圧縮および最適化する" %}}

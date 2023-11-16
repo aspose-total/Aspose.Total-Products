@@ -9,20 +9,10 @@ informat: JPEG
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Application de compression de documents en ligne et code Python pour compresser les fichiers JPEG" h2="Développez de puissantes applications de compression de documents JPEG basées sur Python.Archivez un ou plusieurs documents JPEG au format ZIP, RAR et d'autres options d'archivage via votre application Python.Compressez librement divers documents, y compris les fichiers JPEG, en ligne via une application avec téléchargement instantané." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Application de compression de documents en ligne et code Python pour compresser les fichiers JPEG" h2="Développez de puissantes applications de compression de documents JPEG basées sur Python.Archivez un ou plusieurs documents JPEG au format ZIP, RAR et d'autres options d'archivage via votre application Python.Compressez librement divers documents, y compris les fichiers JPEG, en ligne via une application avec téléchargement instantané." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Application gratuite de compression de documents JPEG en ligne</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Compresser et optimiser les fichiers JPEG en ligne à l'aide de l'application" %}}

@@ -9,20 +9,8 @@ informat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOT ファイルを比較するためのオンライン文書比較アプリと Python コード" h2="強力な Python ベースの DOT ドキュメント比較アプリケーションを開発します。瞬時にダウンロードできるアプリを介して、DOT ファイルを含むドキュメントをオンラインで自由に比較できます。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="DOT ファイルを比較するためのオンライン文書比較アプリと Python コード" h2="強力な Python ベースの DOT ドキュメント比較アプリケーションを開発します。瞬時にダウンロードできるアプリを介して、DOT ファイルを含むドキュメントをオンラインで自由に比較できます。" >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>無料のオンライン DOT ドキュメント比較アプリ</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインで DOT ファイルを比較" %}}

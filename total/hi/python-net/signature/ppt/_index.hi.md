@@ -9,20 +9,9 @@ informat: PPT
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="बीएमपी1 फाइलों पर डिजिटल रूप से हस्ताक्षर करने के लिए ऑनलाइन दस्तावेज़ ई-हस्ताक्षर ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित PPT दस्तावेज़ हस्ताक्षर अनुप्रयोग विकसित करें। तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित विभिन्न दस्तावेजों में स्वतंत्र रूप से डिजिटल हस्ताक्षर जोड़ें।" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="बीएमपी1 फाइलों पर डिजिटल रूप से हस्ताक्षर करने के लिए ऑनलाइन दस्तावेज़ ई-हस्ताक्षर ऐप और पायथन कोड" h2="शक्तिशाली पायथन आधारित PPT दस्तावेज़ हस्ताक्षर अनुप्रयोग विकसित करें। तत्काल डाउनलोड के साथ ऐप के माध्यम से बीएमपी1 फाइलों सहित विभिन्न दस्तावेजों में स्वतंत्र रूप से डिजिटल हस्ताक्षर जोड़ें।" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>मुफ़्त ऑनलाइन PPT दस्तावेज़ ई-हस्ताक्षर ऐप</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके ऑनलाइन PPT फ़ाइलों में इलेक्ट्रॉनिक हस्ताक्षर जोड़ें" %}}

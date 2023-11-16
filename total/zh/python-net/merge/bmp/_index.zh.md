@@ -9,20 +9,10 @@ informat: BMP
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="用于合并 BMP 文件的在线文档合并应用程序和 Python 代码" h2="开发强大的基于 Python 的 BMP 文档合并应用程序。通过应用程序免费在线将多个 BMP 文档合并为一个文档。在线将 BMP 文件保存为 PDF、图像、Word 和许多其他格式。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="用于合并 BMP 文件的在线文档合并应用程序和 Python 代码" h2="开发强大的基于 Python 的 BMP 文档合并应用程序。通过应用程序免费在线将多个 BMP 文档合并为一个文档。在线将 BMP 文件保存为 PDF、图像、Word 和许多其他格式。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费在线 BMP 文档合并应用程序</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何使用应用程序在线合并 BMP 文件" %}}

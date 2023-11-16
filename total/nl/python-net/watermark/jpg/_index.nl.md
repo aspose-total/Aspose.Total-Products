@@ -9,20 +9,10 @@ informat: JPG
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online app voor het watermerken van documenten en Python-code om JPG-bestanden van een watermerk te voorzien" h2="Ontwikkel krachtige op Python gebaseerde JPG-documentwatermerktoepassingen.Watermerk gratis verschillende documenten, waaronder JPG-bestanden, online via de app met onmiddellijke download." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online app voor het watermerken van documenten en Python-code om JPG-bestanden van een watermerk te voorzien" h2="Ontwikkel krachtige op Python gebaseerde JPG-documentwatermerktoepassingen.Watermerk gratis verschillende documenten, waaronder JPG-bestanden, online via de app met onmiddellijke download." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online JPG-app voor het watermerken van documenten</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Watermerk JPG-bestanden online met behulp van app" %}}

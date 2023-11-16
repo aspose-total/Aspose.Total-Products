@@ -9,20 +9,10 @@ informat: POWERPOINT
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikasi Penggabungan Dokumen Online dan Kode Python untuk Menggabungkan File POWERPOINT" h2="Kembangkan aplikasi penggabungan dokumen POWERPOINT berbasis Python yang kuat.Gabungkan beberapa dokumen POWERPOINT menjadi satu secara online gratis melalui aplikasi.Simpan file POWERPOINT sebagai PDF, Gambar, Word, Excel, PowerPoint & banyak format lainnya secara online." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikasi Penggabungan Dokumen Online dan Kode Python untuk Menggabungkan File POWERPOINT" h2="Kembangkan aplikasi penggabungan dokumen POWERPOINT berbasis Python yang kuat.Gabungkan beberapa dokumen POWERPOINT menjadi satu secara online gratis melalui aplikasi.Simpan file POWERPOINT sebagai PDF, Gambar, Word, Excel, PowerPoint & banyak format lainnya secara online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Aplikasi Penggabungan Dokumen POWERPOINT Online Gratis</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Cara Menggabungkan File POWERPOINT Online menggunakan App" %}}

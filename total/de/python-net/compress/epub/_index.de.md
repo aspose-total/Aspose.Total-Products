@@ -9,20 +9,10 @@ informat: EPUB
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online-App zur Dokumentenkomprimierung und Python-Code zum Archivieren von EPUB-Dateien" h2="Entwickeln Sie leistungsstarke Python-basierte EPUB-Dokumentarchivierungsanwendungen.Archivieren Sie einzelne und mehrere EPUB-Dokumente über Ihre Python-Anwendung in ZIP, RAR und weiteren Archivierungsoptionen.Komprimieren Sie verschiedene Dokumente, einschließlich EPUB-Dateien, kostenlos online per App mit sofortigem Download." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online-App zur Dokumentenkomprimierung und Python-Code zum Archivieren von EPUB-Dateien" h2="Entwickeln Sie leistungsstarke Python-basierte EPUB-Dokumentarchivierungsanwendungen.Archivieren Sie einzelne und mehrere EPUB-Dokumente über Ihre Python-Anwendung in ZIP, RAR und weiteren Archivierungsoptionen.Komprimieren Sie verschiedene Dokumente, einschließlich EPUB-Dateien, kostenlos online per App mit sofortigem Download." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Kostenlose Online-App zur EPUB-Dokumentkomprimierung</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Komprimieren und optimieren Sie EPUB-Dateien online mit der App" %}}

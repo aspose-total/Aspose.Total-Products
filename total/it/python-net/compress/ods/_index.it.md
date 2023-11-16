@@ -9,20 +9,10 @@ informat: ODS
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="App di compressione documenti online e codice Python per archiviare file ODS" h2="Sviluppa potenti applicazioni di archiviazione di documenti ODS basate su Python.Archivia documenti ODS singoli e multipli in ZIP, RAR e altre opzioni di archiviazione tramite la tua applicazione Python.Comprimi liberamente vari documenti, inclusi file ODS online tramite l'app con download immediato." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="App di compressione documenti online e codice Python per archiviare file ODS" h2="Sviluppa potenti applicazioni di archiviazione di documenti ODS basate su Python.Archivia documenti ODS singoli e multipli in ZIP, RAR e altre opzioni di archiviazione tramite la tua applicazione Python.Comprimi liberamente vari documenti, inclusi file ODS online tramite l'app con download immediato." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>App gratuita per la compressione di documenti ODS online</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Comprimi e ottimizza i file ODS online utilizzando l'app" %}}

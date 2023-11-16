@@ -9,20 +9,9 @@ informat: PPTX
 otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Διαδικτυακή εφαρμογή διαχωρισμού εγγράφων και κώδικας Python για διαχωρισμό αρχείων PPTX" h2="Αναπτύξτε ισχυρές εφαρμογές διαχωρισμού εγγράφων PPTX που βασίζονται στην Python.Διαχωρίστε ελεύθερα έγγραφα, συμπεριλαμβανομένων αρχείων PPTX στο διαδίκτυο μέσω εφαρμογής με άμεση λήψη." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Διαδικτυακή εφαρμογή διαχωρισμού εγγράφων και κώδικας Python για διαχωρισμό αρχείων PPTX" h2="Αναπτύξτε ισχυρές εφαρμογές διαχωρισμού εγγράφων PPTX που βασίζονται στην Python.Διαχωρίστε ελεύθερα έγγραφα, συμπεριλαμβανομένων αρχείων PPTX στο διαδίκτυο μέσω εφαρμογής με άμεση λήψη." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Δωρεάν διαδικτυακή εφαρμογή PPTX Document Splitter</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/splitter/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Διαχωρίστε τα αρχεία PPTX Online χρησιμοποιώντας την εφαρμογή" %}}

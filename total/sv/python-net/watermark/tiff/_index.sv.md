@@ -9,20 +9,10 @@ informat: TIFF
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online Document Watermarking App och Python Code för att vattenmärka TIFF-filer" h2="Utveckla kraftfulla Python-baserade TIFF-dokumentvattenmärkningsapplikationer.Vattenmärk fritt olika dokument inklusive TIFF-filer online via app med omedelbar nedladdning." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online Document Watermarking App och Python Code för att vattenmärka TIFF-filer" h2="Utveckla kraftfulla Python-baserade TIFF-dokumentvattenmärkningsapplikationer.Vattenmärk fritt olika dokument inklusive TIFF-filer online via app med omedelbar nedladdning." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online TIFF Document Watermarking App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Vattenstämpel TIFF-filer online med app" %}}

@@ -9,20 +9,10 @@ informat: JPEG
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تطبيق دمج المستندات عبر الإنترنت ورمز Python لدمج ملفات JPEG" h2="تطوير تطبيق قوي لدمج المستندات JPEG يعتمد على Python.قم بدمج عدة مستندات JPEG في مستند واحد عبر الإنترنت مجانًا عبر التطبيق.احفظ ملف JPEG بصيغة PDF وصور وWord والعديد من التنسيقات الأخرى عبر الإنترنت." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="تطبيق دمج المستندات عبر الإنترنت ورمز Python لدمج ملفات JPEG" h2="تطوير تطبيق قوي لدمج المستندات JPEG يعتمد على Python.قم بدمج عدة مستندات JPEG في مستند واحد عبر الإنترنت مجانًا عبر التطبيق.احفظ ملف JPEG بصيغة PDF وصور وWord والعديد من التنسيقات الأخرى عبر الإنترنت." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>تطبيق مجاني لدمج المستندات JPEG عبر الإنترنت</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="كيفية دمج ملفات JPEG عبر الإنترنت باستخدام التطبيق" %}}

@@ -9,20 +9,10 @@ informat: HTML
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikasi Kompresi Dokumen Online dan Kode Python untuk Mengarsipkan File HTML" h2="Kembangkan aplikasi pengarsipan dokumen HTML berbasis Python yang kuat.Arsipkan satu atau beberapa dokumen HTML ke dalam ZIP, RAR, dan opsi pengarsipan lainnya melalui aplikasi Python Anda.Kompres berbagai dokumen secara bebas termasuk file HTML secara online melalui aplikasi dengan unduhan instan." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikasi Kompresi Dokumen Online dan Kode Python untuk Mengarsipkan File HTML" h2="Kembangkan aplikasi pengarsipan dokumen HTML berbasis Python yang kuat.Arsipkan satu atau beberapa dokumen HTML ke dalam ZIP, RAR, dan opsi pengarsipan lainnya melalui aplikasi Python Anda.Kompres berbagai dokumen secara bebas termasuk file HTML secara online melalui aplikasi dengan unduhan instan." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Aplikasi Kompresi Dokumen HTML Online Gratis</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Kompres dan Optimalkan File HTML Online menggunakan Aplikasi" %}}

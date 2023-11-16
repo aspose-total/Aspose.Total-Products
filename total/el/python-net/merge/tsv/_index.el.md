@@ -9,20 +9,10 @@ informat: TSV
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Ηλεκτρονική εφαρμογή συγχώνευσης εγγράφων και κώδικα Python για συγχώνευση αρχείων TSV" h2="Αναπτύξτε μια ισχυρή εφαρμογή συγχώνευσης εγγράφων TSV που βασίζεται στην Python.Συνδυάστε πολλά έγγραφα TSV σε ένα μόνο online δωρεάν μέσω της εφαρμογής.Αποθηκεύστε το αρχείο TSV ως PDF, Εικόνες, Word, Excel, PowerPoint και πολλές άλλες μορφές online." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Ηλεκτρονική εφαρμογή συγχώνευσης εγγράφων και κώδικα Python για συγχώνευση αρχείων TSV" h2="Αναπτύξτε μια ισχυρή εφαρμογή συγχώνευσης εγγράφων TSV που βασίζεται στην Python.Συνδυάστε πολλά έγγραφα TSV σε ένα μόνο online δωρεάν μέσω της εφαρμογής.Αποθηκεύστε το αρχείο TSV ως PDF, Εικόνες, Word, Excel, PowerPoint και πολλές άλλες μορφές online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Δωρεάν διαδικτυακή εφαρμογή συγχώνευσης εγγράφων TSV</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να συγχωνεύσετε αρχεία TSV στο Διαδίκτυο χρησιμοποιώντας την εφαρμογή" %}}

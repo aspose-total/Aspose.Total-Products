@@ -9,20 +9,9 @@ informat: BMP
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplicativo de assinatura eletrônica de documentos on-line e código Python para assinar digitalmente arquivos BMP" h2="Desenvolva aplicativos poderosos de assinatura de documentos BMP baseados em Python.Adicione gratuitamente assinatura digital em vários documentos, incluindo arquivos BMP on-line via aplicativo com download instantâneo." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplicativo de assinatura eletrônica de documentos on-line e código Python para assinar digitalmente arquivos BMP" h2="Desenvolva aplicativos poderosos de assinatura de documentos BMP baseados em Python.Adicione gratuitamente assinatura digital em vários documentos, incluindo arquivos BMP on-line via aplicativo com download instantâneo." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Aplicativo online gratuito de assinatura eletrônica de documentos BMP</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Adicionar assinatura eletrônica em arquivos BMP online usando o aplicativo" %}}

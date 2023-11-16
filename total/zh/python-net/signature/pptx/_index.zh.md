@@ -9,20 +9,9 @@ informat: PPTX
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="用于对 PPTX 文件进行数字签名的在线文档电子签名应用程序和 Python 代码" h2="开发强大的基于 Python 的 PPTX 文档签名应用程序。通过应用程序在线自由添加数字签名到各种文档，包括 PPTX 文件，并可即时下载。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="用于对 PPTX 文件进行数字签名的在线文档电子签名应用程序和 Python 代码" h2="开发强大的基于 Python 的 PPTX 文档签名应用程序。通过应用程序在线自由添加数字签名到各种文档，包括 PPTX 文件，并可即时下载。" >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>免费在线 PPTX 文档电子签名应用程序</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用应用程序在线将电子签名添加到 PPTX 文件中" %}}

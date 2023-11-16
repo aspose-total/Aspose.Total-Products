@@ -12,17 +12,6 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< blocks/products/pf/feature-page-header h1="App per la ricerca di testo online e codice API per la ricerca di contenuti DOC" h2="Sviluppa una potente applicazione di utilità per il motore di ricerca di documenti DOC basata su Python. Prova gratuitamente l'app per la ricerca di testi di documenti online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>App gratuita per la ricerca di testi di documenti DOC online</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Come cercare testo nel file DOC online utilizzando l'app" %}}

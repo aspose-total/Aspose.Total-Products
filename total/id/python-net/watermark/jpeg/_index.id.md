@@ -9,20 +9,10 @@ informat: JPEG
 otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aplikasi Watermarking Dokumen Online dan Kode Python untuk Menandai Air File JPEG" h2="Kembangkan aplikasi Watermarking dokumen JPEG berbasis Python yang kuat.Beri tanda air secara bebas pada berbagai dokumen termasuk file JPEG secara online melalui aplikasi dengan unduhan instan." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Aplikasi Watermarking Dokumen Online dan Kode Python untuk Menandai Air File JPEG" h2="Kembangkan aplikasi Watermarking dokumen JPEG berbasis Python yang kuat.Beri tanda air secara bebas pada berbagai dokumen termasuk file JPEG secara online melalui aplikasi dengan unduhan instan." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Aplikasi Watermarking Dokumen JPEG Online Gratis</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/watermark/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Tandai Air File JPEG Online menggunakan Aplikasi" %}}
