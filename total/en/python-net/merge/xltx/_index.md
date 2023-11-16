@@ -9,20 +9,10 @@ informat: XLTX
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT  PPTM PTOX PDF GIF JPG PNG TIFF IMAGE XLTX XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX 3DS 3MF AMF ASE USD USDZ STL U3D OBJ PLY DAE DXF DRC FBX JT RVM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online Document Merger App and Python Code to Merge XLTX Files" h2="Develop powerful Python based XLTX document merging application. Combine multiple XLTX documents into single one online for free via app. Save XLTX file as PDF, Images, Word, Excel, PowerPoint & many other formats online." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Online Document Merger App and Python Code to Merge XLTX Files" h2="Develop powerful Python based XLTX document merging application. Combine multiple XLTX documents into single one online for free via app. Save XLTX file as PDF, Images, Word, Excel, PowerPoint & many other formats online." >}}
 
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online XLTX Document Merger App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/merger/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="How to Merge XLTX Files Online using App" %}}
