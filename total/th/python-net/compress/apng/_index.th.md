@@ -9,20 +9,7 @@ informat: APNG
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แอปบีบอัดเอกสารออนไลน์และโค้ด Python เพื่อบีบอัดไฟล์ APNG" h2="พัฒนาแอปพลิเคชันการบีบอัดเอกสาร APNG ที่ใช้ Python ที่ทรงพลังเก็บถาวรเอกสาร APNG เดี่ยวและหลายรายการลงใน ZIP, RAR และตัวเลือกการเก็บถาวรเพิ่มเติมผ่านแอปพลิเคชัน Python ของคุณบีบอัดเอกสารต่างๆ ได้อย่างอิสระ รวมถึงไฟล์ APNG ออนไลน์ผ่านแอปพร้อมการดาวน์โหลดทันที" >}}
-
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>แอปบีบอัดเอกสาร APNG ออนไลน์ฟรี</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
+{{< blocks/products/pf/feature-page-header-widget h1="แอปบีบอัดเอกสารออนไลน์และโค้ด Python เพื่อบีบอัดไฟล์ APNG" h2="พัฒนาแอปพลิเคชันการบีบอัดเอกสาร APNG ที่ใช้ Python ที่ทรงพลังเก็บถาวรเอกสาร APNG เดี่ยวและหลายรายการลงใน ZIP, RAR และตัวเลือกการเก็บถาวรเพิ่มเติมผ่านแอปพลิเคชัน Python ของคุณบีบอัดเอกสารต่างๆ ได้อย่างอิสระ รวมถึงไฟล์ APNG ออนไลน์ผ่านแอปพร้อมการดาวน์โหลดทันที" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="บีบอัดและปรับแต่งไฟล์ APNG ออนไลน์โดยใช้แอพ" %}}
@@ -91,9 +78,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการบีบอัด APNG สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Imaging for Python via .NET', 'Aspose.ZIP for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Imaging for Python via .NET จาก [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- ติดตั้ง Aspose.Imaging for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-imaging-python-net```
-- ติดตั้ง Aspose.ZIP for Python via .NET จาก [pypi](https://pypi.org/project/aspose-zip/)
+- ติดตั้ง Aspose.ZIP for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-zip/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-zip```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

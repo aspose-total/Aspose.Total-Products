@@ -9,20 +9,8 @@ informat: DOC
 otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แอปค้นหาข้อความออนไลน์และรหัส API ค้นหาเนื้อหา DOC" h2="พัฒนาแอพพลิเคชั่นยูทิลิตี้เครื่องมือค้นหาเอกสาร DOC ที่ใช้ Python ที่ทรงพลัง ทดสอบแอปค้นหาข้อความเอกสารออนไลน์ฟรี" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="แอปค้นหาข้อความออนไลน์และรหัส API ค้นหาเนื้อหา DOC" h2="พัฒนาแอพพลิเคชั่นยูทิลิตี้เครื่องมือค้นหาเอกสาร DOC ที่ใช้ Python ที่ทรงพลัง ทดสอบแอปค้นหาข้อความเอกสารออนไลน์ฟรี" >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
-
-<h3>แอปค้นหาข้อความเอกสาร DOC ออนไลน์ฟรี</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/search/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="วิธีค้นหาข้อความในไฟล์ DOC ออนไลน์โดยใช้แอพ" %}}
@@ -71,7 +59,7 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี Python เพื่อค้นหาไฟล์ DOC" %}}
 มีตัวเลือกอื่นในการติดตั้ง "Aspose.Words สำหรับ Python ผ่าน .NET" หรือ "Aspose.Total สำหรับ Python ผ่าน .NET" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน .NET จาก [pypi](https://pypi.org/project/aspose-words/)
+- ติดตั้ง Aspose.Words สำหรับ Python ผ่าน .NET จาก [PyPI](https://pypi.org/project/aspose-words/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.words```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

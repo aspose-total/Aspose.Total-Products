@@ -9,20 +9,8 @@ informat: PPT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="線上文件比較應用程式和用於比較 PPT 文件的 Python 程式碼" h2="開發強大的基於 Python 的 PPT 文件比較應用程式。透過應用程式線上自由比較包括 PPT 檔案在內的文件並即時下載。" >}}
+{{< blocks/products/pf/feature-page-header-widget h1="線上文件比較應用程式和用於比較 PPT 文件的 Python 程式碼" h2="開發強大的基於 Python 的 PPT 文件比較應用程式。透過應用程式線上自由比較包括 PPT 檔案在內的文件並即時下載。" >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online PPT Document Comparison App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="使用應用程式在線比較 PPT 文件" %}}
@@ -62,8 +50,8 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% blocks/products/pf/agp/feature-section-col title="Python 的 PPT 比較函式庫" %}}
 還有其他選項可以將“[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)”或“[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 從 [pypi](https://pypi.org/project/Aspose.Slides/) 安裝 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
-- 或使用下列 pip 指令``pip install Aspose.Slides``。
+- 從 [PyPI](https://pypi.org/project/Aspose.Slides/) 安裝 [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
+- 或使用下列 pip 指令```pip install Aspose.Slides```。
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

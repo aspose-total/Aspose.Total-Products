@@ -9,20 +9,7 @@ informat: BMP
 otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แอป eSignature เอกสารออนไลน์และรหัส Python เพื่อเซ็นชื่อไฟล์ BMP แบบดิจิทัล" h2="พัฒนาแอปพลิเคชันการลงนามเอกสาร BMP ที่ใช้ Python ที่ทรงพลังเพิ่มลายเซ็นดิจิทัลลงในเอกสารต่างๆ ได้อย่างอิสระ รวมถึงไฟล์ BMP ออนไลน์ผ่านแอปพร้อมการดาวน์โหลดทันที" >}}
-
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>แอปลายเซ็นอิเล็กทรอนิกส์เอกสาร BMP ออนไลน์ฟรี</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/signature/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
+{{< blocks/products/pf/feature-page-header-widget h1="แอป eSignature เอกสารออนไลน์และรหัส Python เพื่อเซ็นชื่อไฟล์ BMP แบบดิจิทัล" h2="พัฒนาแอปพลิเคชันการลงนามเอกสาร BMP ที่ใช้ Python ที่ทรงพลังเพิ่มลายเซ็นดิจิทัลลงในเอกสารต่างๆ ได้อย่างอิสระ รวมถึงไฟล์ BMP ออนไลน์ผ่านแอปพร้อมการดาวน์โหลดทันที" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="เพิ่มลายเซ็นอิเล็กทรอนิกส์ลงในไฟล์ BMP ออนไลน์โดยใช้แอพ" %}}
@@ -65,7 +52,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายเซ็นอิเล็กทรอนิกส์ BMP สำหรับ Python" %}}
 มีตัวเลือกอื่นในการติดตั้ง 'Aspose.Imaging for Python via .NET' หรือ 'Aspose.Total for Python via .NET' ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง Aspose.Imaging for Python via .NET จาก [pypi](https://pypi.org/project/aspose-imaging-python-net/)
+- ติดตั้ง Aspose.Imaging for Python via .NET จาก [PyPI](https://pypi.org/project/aspose-imaging-python-net/)
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose-imaging-python-net```
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
