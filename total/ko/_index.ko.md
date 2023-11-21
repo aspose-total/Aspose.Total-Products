@@ -2,37 +2,37 @@
 title: 개발자 및 노코더를 위한 파일 형식 및 문서 솔루션
 weight: 9630
 url_ignore: /
-description: High Code 또는 Low Code API를 사용하여 문서 조작 응용 프로그램을 작성하거나, 간단히 100개 이상의 파일 형식을 보거나, 비교하거나, 검사하거나, 변환하는 크로스 플랫폼 앱을 사용하세요.
+description: High Code 또는 Low Code API를 사용하여 문서 조작 애플리케이션을 구축하거나 간단히 크로스 플랫폼 앱을 사용하여 100개 이상의 파일 형식을 보거나 비교하거나 검사하거나 변환하세요. Aspose, 문서 처리 API 및 소프트웨어 솔루션의 선도적인 공급자를 탐험하십시오.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="파일 형식 및 문서 조작 솔루션" h2="고 코드 다운로드 가능한 클래스 라이브러리 또는 로우 코드 REST API를 사용하여 파일 형식 처리를 위한 엔터프라이즈 응용 프로그램을 만들거나, 종속성이 필요 없습니다. 또는 쉽게 사용할 수 있는 무료 온라인 앱을 사용하세요." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total 제품 패밀리" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="파일 형식 및 문서 조작 솔루션" h2="고 코드 다운로드 가능한 클래스 라이브러리 또는 저 코드 REST API를 사용하여 Aspose를 통해 무리 없이 기업 애플리케이션을 개발하고 무료 온라인 앱을 쉽게 사용하세요." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total 제품 패밀리" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API 포함" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ko/net/" >}}
-Windows, Web, iOS 및 Android 기반 응용 프로그램 내에서 여러 문서 형식을 조작하는 On Premise .NET API.
+Aspose for .NET Core API는 특히 Windows, 웹, iOS 및 Android용 애플리케이션에서 로컬로 Office, OpenOffice, Adobe, CAD, 3D 및 PDF와 같은 인기있는 문서 형식을 다루기 위해 .NET Core 플랫폼을 위해 설계되었습니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ko/java/" >}}
-앱 내에서 Microsoft Word 파일, Web, Text 및 OpenOffice 문서를 만들거나 수정하거나 렌더링하거나 구문 분석하는 Java 기반 플랫폼 API.
+Aspose for Java API의 인터페이스는 특히 Java 플랫폼을 위해 Microsoft Word, 웹, 텍스트 및 OpenOffice 문서를 직접 생성, 편집, 렌더링 또는 분석하기 위해 설계되었습니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ko/cpp/" >}}
-순수한 C++ 애플리케이션 내에서 다양한 문서 형식 및 이미지를 생성, 로드, 조작 또는 변환하는 원시 C++ 라이브러리.
+Aspose for C++를 사용하여 순수한 C++ 애플리케이션에서 Excel 테이블을 조작하고 다양한 문서 및 이미지 형식을 읽거나 쓰고 생성하거나 변환합니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/ko/python-net/" >}}
-Microsoft Word, PowerPoint 및 Outlook을 위한 Python 라이브러리 스위트를 사용하여 DOC, DOCX, PPT, PPTX, EML, MSG 및 3D 형식 생성, 편집 또는 변환.
+Aspose for Python을 사용하여 Microsoft Word, PowerPoint, Excel 및 Outlook을 위한 DOC, DOCX, PPT, PPTX, EML, MSG 및 3D 파일을 생성, 편집 또는 변환합니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/ko/nodejs-java/" >}}
-Node.js를 사용하여 Excel 스프레드 시트 및 Visio 파일을 조작하고 다양한 심볼로지의 바코드를 스캔하고 생성.
+Aspose for Node.js를 사용하여 Excel 테이블 및 Visio 파일을 조작하고 다양한 바코드를 생성합니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/ko/php-java/" >}}
-Excel 스프레드 시트를 조작하고 PHP 응용 프로그램에서 PowerPoint 및 OpenOffice 프레젠테이션을 읽고, 쓰고, 만들고 변환.
+Aspose for PHP를 사용하여 Excel 테이블을 조작하고 PHP 애플리케이션에서 PowerPoint 프레젠테이션 및 OpenOffice 문서를 읽거나 쓰고 생성하거나 변환합니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/ko/family/" innerText="모든 하이코드 API 보기" >}}

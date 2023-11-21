@@ -6,7 +6,7 @@ description: Build document manipulation applications using High Code or Low Cod
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="File Format & Document Manipulation Solutions" h2="Create Enterprise Applications for File Format Processing with High-Code Downloadable Class Libraries or Low-Code REST APIs, No Dependencies Required, or Use Free Online Apps with Ease." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="File Format & Document Manipulation Solutions" h2="Develop enterprise applications effortlessly with Aspose using high-code downloadable class libraries or low-code REST APIs, and consider hassle-free use of free online apps." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs Include" >}}

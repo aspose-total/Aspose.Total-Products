@@ -2,37 +2,37 @@
 title: Bestandsindeling & Documentoplossingen voor ontwikkelaars en No-Coders 
 weight: 9630
 url_ignore: /
-description: Bouw documentmanipulatie-applicaties met High Code- of Low Code-API's, of gebruik eenvoudig cross-platform apps om 100+ bestandsindelingen te bekijken, vergelijken, inspecteren of converteren.
+description: Bouw toepassingen voor documentmanipulatie met High Code- of Low Code-API's, of gebruik eenvoudig cross-platform apps om 100+ bestandsindelingen te bekijken, vergelijken, inspecteren of converteren. Verken Aspose, de toonaangevende aanbieder van API's voor documentverwerking en softwareoplossingen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Bestandsindeling & Documentmanipulatie Oplossingen" h2="Creëer Enterprise-applicaties voor bestandsindelingverwerking met High-Code downloadbare class libraries of Low-Code REST-API's, Geen afhankelijkheden vereist, of gebruik gratis online apps met gemak." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Productfamilie" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Bestandsindeling & Documentmanipulatie Oplossingen" h2="Ontwikkel moeiteloos bedrijfstoepassingen met Aspose door gebruik te maken van hoogwaardige downloadbare klassenbibliotheken of low-code REST-API's, en overweeg het probleemloze gebruik van gratis online apps." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Productfamilie" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API's omvatten" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/nl/net/" >}}
-On Premise .NET API's om meerdere documentindelingen te manipuleren binnen Windows, Web, iOS & Android gebaseerde applicaties.
+De Aspose for .NET Core API is speciaal ontworpen voor het werken met populaire documentformaten zoals Office, OpenOffice, Adobe, CAD, 3D en PDF lokaal in toepassingen voor Windows, web, iOS en Android op het .NET Core-platform.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/nl/java/" >}}
-Java-gebaseerde platform-API's om Microsoft Word-bestanden, web-, tekst- en OpenOffice-documenten rechtstreeks binnen applicaties te maken, wijzigen, renderen of analyseren.
+De API-interfacemogelijkheden van Aspose voor Java zijn specifiek ontworpen voor het Java-platform om Microsoft Word-, web-, tekst- en OpenOffice-documenten rechtstreeks te maken, bewerken, renderen of analyseren in toepassingen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/nl/cpp/" >}}
-Maak, laad, manipuleer of converteer verschillende documentindelingen en afbeeldingen binnen pure C++-applicaties met native C++-bibliotheek.
+Manipuleer Excel-tabellen en lees, schrijf, maak of converteer verschillende document- en beeldformaten in pure C++-toepassingen met de native Aspose for C++-bibliotheek.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/nl/python-net/" >}}
-Genereer, bewerk of converteer DOC, DOCX, PPT, PPTX, EML, MSG en 3D-indelingen met Python-bibliotheeksuite voor Microsoft Word, PowerPoint & Outlook.
+Genereer, bewerk of converteer DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- en 3D-bestanden met de Aspose for Python-bibliotheek voor Microsoft Word, PowerPoint, Excel en Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/nl/nodejs-java/" >}}
-Manipuleer Excel-spreadsheets en Visio-bestanden en scan en genereer barcodes van verschillende symbologieën met Node.js.
+Manipuleer Excel-tabellen en Visio-bestanden en genereer verschillende barcodes met Aspose voor Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total voor " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/nl/php-java/" >}}
-Manipuleer Excel-spreadsheets en lees, schrijf, maak en converteer PowerPoint- en OpenOffice-presentaties in PHP-applicaties.
+Manipuleer Excel-tabellen en lees, schrijf, maak en converteer PowerPoint-presentaties en OpenOffice-documenten in PHP-toepassingen met Aspose voor PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/nl/family/" innerText="Bekijk alle High Code API's" >}}

@@ -2,29 +2,29 @@
 title: รูปแบบไฟล์และโซลูชันสำหรับนักพัฒนาและผู้ไม่เขียนโค้ด
 weight: 9630
 url_ignore: /
-description: สร้างแอปพลิเคชันการจัดการเอกสารโดยใช้ High Code หรือ Low Code APIs หรือใช้แอปพลิเคชันแบบ cross-platform เพื่อดู วิเคราะห์ ตรวจสอบ หรือแปลงไฟล์รูปแบบ 100+ รูปแบบของไฟล์
+description: สร้างแอปพลิเคชันการจัดการเอกสารโดยใช้ API High Code หรือ Low Code หรือเพียงแค่ใช้แอปพลิเคชัน跨แพลตฟอร์มเพื่อดู เปรียบเทียบ ตรวจสอบ หรือแปลงรูปแบบไฟล์มากกว่า 100 รูปแบบ สำรวจ Aspose ผู้ให้บริการ API ด้านการประมวลผลเอกสารและโซลูชันซอฟต์แวร์ชั้นนำ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="รูปแบบไฟล์และโซลูชันการจัดการเอกสาร" h2="สร้างแอปพลิเคชันองค์กรสำหรับการประมวลผลรูปแบบไฟล์ด้วยไลบรารีคลาส High-Code สำหรับดาวน์โหลดหรือ Low-Code REST APIs ไม่มีความขึ้นอยู่กับอย่างอื่น ๆ หรือใช้แอปออนไลน์ฟรีอย่างง่าย" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="ครอบครัวผลิตภัณฑ์ Aspose.Total" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="รูปแบบไฟล์และโซลูชันการจัดการเอกสาร" h2="พัฒนาแอปพลิเคชันธุรกิจได้อย่างง่ายดายด้วย Aspose โดยใช้ไลบรารีคลาสที่สามารถดาวน์โหลดได้หรือใช้ API REST โค้ดสูง และพิจารณาการใช้งานแอปออนไลน์ฟรีโดยไม่ยุ่งยาก" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="ครอบครัวผลิตภัณฑ์ Aspose.Total" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs ประกอบด้วย" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/th/net/" >}}
-On Premise .NET APIs เพื่อปรับเปลี่ยนรูปแบบเอกสารหลายรูปแบบภายในแอปพลิเคชันที่ใช้งานบน Windows, Web, iOS และ Android
+Aspose for .NET Core API ถูกออกแบบมาเพื่อให้สามารถทำงานกับรูปแบบของเอกสารยอดนิยม เช่น Office, OpenOffice, Adobe, CAD, 3D และ PDF ในแอปพลิเคชันสำหรับ Windows, เว็บ, iOS และ Android บนแพลตฟอร์ม .NET Core
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/th/java/" >}}
-API บนแพลตฟอร์ม Java เพื่อสร้าง แก้ไข แสดงผล หรือแยกวิเคราะห์ไฟล์ Microsoft Word, ไฟล์ Web, ไฟล์ Text และเอกสาร OpenOffice โดยตรงภายในแอปพลิเคชัน
+อินเตอร์เฟซ API ของ Aspose สำหรับ Java ถูกออกแบบมาเพื่อให้สามารถสร้าง, แก้ไข, วาด, หรือวิเคราะห์เอกสาร Microsoft Word, เว็บ, ข้อความ, และ OpenOffice โดยตรงในแอปพลิเคชัน
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/th/cpp/" >}}
-สร้าง, โหลด, ปรับเปลี่ยนหรือแปลงรูปแบบเอกสารและภาพต่าง ๆ ภายในแอปพลิเคชัน C++ โดยใช้ไลบรารี C++ ต้นฉบับ
+จัดการกับตาราง Excel และอ่าน, เขียน, สร้าง หรือแปลงรูปแบบเอกสารและรูปภาพต่าง ๆ ในแอปพลิเคชัน C++ ด้วยไลบรารี Aspose for C++
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title="Python ผ่าน .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/th/python-net/" >}}
-สร้าง, แก้ไข หรือแปลงรูปแบบไฟล์ DOC, DOCX, PPT, PPTX, EML, MSG และรูปแบบ 3D โดยใช้ชุดไลบรารี Python สำหรับ Microsoft Word, PowerPoint และ Outlook
+สร้าง, แก้ไข หรือแปลงไฟล์ DOC, DOCX, PPT, PPTX, EML, MSG และ 3D ด้วยไลบรารี Aspose for Python สำหรับ Microsoft Word, PowerPoint, Excel และ Outlook
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title="Node.js ผ่าน Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/th/nodejs-java/" >}}
@@ -32,7 +32,7 @@ API บนแพลตฟอร์ม Java เพื่อสร้าง แก
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total สำหรับ " title="PHP ผ่าน Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/th/php-java/" >}}
-ปรับเปลี่ยนสเปรดชีต Excel รวมถึงการอ่าน, เขียน, สร้าง และแปลงการนำเสนอ PowerPoint และ OpenOffice ในแอปพลิเคชัน PHP
+จัดการกับตาราง Excel และอ่าน, เขียน, สร้าง และแปลงงานนำเสนอ PowerPoint และเอกสาร OpenOffice ในแอปพลิเคชัน PHP ด้วย Aspose for PHP
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/th/family/" innerText="ดู High Code APIs ทั้งหมด" >}}

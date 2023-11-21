@@ -1,28 +1,28 @@
 ---
 title: Geliştiriciler ve Kodlama Yapmayanlar İçin Dosya Biçimi ve Belge Çözümleri
 weight: 9630
-description: Yüksek Kodlu veya Düşük Kodlu API'ları kullanarak belge manipülasyon uygulamaları oluşturun veya sadece 100'den fazla dosya biçimini görüntülemek, karşılaştırmak, incelemek veya dönüştürmek için çok platformlu uygulamaları kullanın.
+description: Yüksek Kod veya Düşük Kod API'ları kullanarak belge manipülasyon uygulamaları oluşturun veya sadece çoklu platform uygulamalarını kullanarak 100'den fazla dosya formatını görüntüleyin, karşılaştırın, inceleyin veya dönüştürün. Aspose'u keşfedin, belge işleme API'larının ve yazılım çözümlerinin öncü sağlayıcısı.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Dosya Biçimi ve Belge Manipülasyon Çözümleri" h2="Yüksek Kodlu İndirilebilir Sınıf Kitaplıkları veya Düşük Kodlu REST API'leri kullanarak Dosya Biçimi İşleme için Kurumsal Uygulamalar Oluşturun, Bağımlılık Gerekmez veya Kolaylıkla Ücretsiz Çevrimiçi Uygulamaları Kullanın." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Ürün Ailesi" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Dosya Biçimi ve Belge Manipülasyon Çözümleri" h2="Aspose'u kullanarak yüksek kodlu indirilebilir sınıf kütüphaneleri veya düşük kodlu REST API'ları kullanarak işletme uygulamalarını kolayca geliştirin ve ücretsiz online uygulamaları sorunsuz bir şekilde kullanmayı düşünün." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Ürün Ailesi" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Yüksek Kodlu API'ları İçerir" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/tr/net/" >}}
-Windows, Web, iOS ve Android tabanlı uygulamalarda çoklu belge biçimlerini değiştirmek için yerinde .NET API'leri.
+Aspose for .NET Core API, Windows, web, iOS ve Android uygulamalarında popüler belge formatları olan Office, OpenOffice, Adobe, CAD, 3D ve PDF'yi yerel olarak işlemek üzere özel olarak tasarlanmıştır.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/tr/java/" >}}
-Microsoft Word dosyalarını doğrudan uygulamalar içinde oluşturmak, değiştirmek, oluşturmak veya ayrıştırmak için Java tabanlı platform API'leri.
+Aspose for Java API arayüzleri, Microsoft Word, web, metin ve OpenOffice belgelerini uygulamalarda doğrudan oluşturmak, düzenlemek, görselleştirmek veya analiz etmek için özel olarak Java platformu için tasarlanmıştır.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/tr/cpp/" >}}
-Saf C++ kitaplığını kullanarak farklı belge biçimlerini ve görüntüleri oluşturun, yükleyin, manipüle edin veya dönüştürün.
+Aspose for C++ ile Excel tablolarını manipüle edin, çeşitli belge ve görüntü formatlarını Aspose for C++'ın doğal kütüphanesi kullanarak saf C++ uygulamalarında okuyun, yazın, oluşturun veya dönüştürün.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/tr/python-net/" >}}
-Microsoft Word, PowerPoint ve Outlook için Python kitaplığı setini kullanarak DOC, DOCX, PPT, PPTX, EML, MSG ve 3D biçimlerini oluşturun, düzenleyin veya dönüştürün.
+Microsoft Word, PowerPoint, Excel ve Outlook için DOC, DOCX, PPT, PPTX, EML, MSG ve 3D dosyalarını oluşturun, düzenleyin veya dönüştürün Aspose for Python kütüphanesi kullanarak.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/tr/nodejs-java/" >}}
@@ -30,7 +30,7 @@ Node.js kullanarak Excel elektronik tabloları ve Visio dosyalarını manipüle 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/tr/php-java/" >}}
-PHP uygulamalarında Excel elektronik tablolarını manipüle edin ve PowerPoint ve OpenOffice sunumlarını okuyun, yazın, oluşturun ve dönüştürün.
+Aspose for PHP kullanarak Excel tablolarını manipüle edin ve PHP uygulamalarında PowerPoint sunumlarını ve OpenOffice belgelerini okuyun, yazın, oluşturun ve dönüştürün.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/tr/family/" innerText="Tüm Yüksek Kodlu API'ları Görüntüle" >}}

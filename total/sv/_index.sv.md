@@ -2,29 +2,29 @@
 title: Filformat- och dokumentlösningar för utvecklare och icke-kodare
 weight: 9630
 url_ignore: /
-description: Bygg dokumentmanipulationsapplikationer med högkodande eller lågkodande API:er eller använd helt enkelt plattformsoberoende appar för att visa, jämföra, inspektera eller konvertera över 100 filformat
+description: Bygg applikationer för dokumentmanipulation med High Code eller Low Code-API:er, eller använd helt enkelt plattformsoberoende appar för att visa, jämföra, inspektera eller konvertera över 100 filformat. Utforska Aspose, den ledande leverantören av API:er för dokumenthantering och mjukvarulösningar.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Filformat- och dokumentmanipulationslösningar" h2="Skapa företagsapplikationer för filformatbehandling med högkods nerladdningsbara klassbibliotek eller lågkods REST-API:er, inga beroenden krävs, eller använd gratis online-appar med lätthet." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Filformat- och dokumentmanipulationslösningar" h2="Utveckla företagsapplikationer utan ansträngning med Aspose genom att använda högkodiga nedladdningsbara klassbibliotek eller lågkodiga REST-API:er och överväg problemfri användning av gratis online-appar." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Högkodande API:er inkluderar" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/net/" >}}
-On Premise .NET API:er för att manipulera flera dokumentformat inom Windows, Web, iOS och Android-baserade applikationer.
+Aspose för .NET Core API är speciellt utformat för att arbeta med populära dokumentformat som Office, OpenOffice, Adobe, CAD, 3D och PDF lokalt i applikationer för Windows, webb, iOS och Android på .NET Core-plattformen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/java/" >}}
-Java-baserade plattform-API:er för att skapa, modifiera, rendera eller analysera Microsoft Word-filer, Web, Text och OpenOffice-dokument direkt inom applikationer.
+API-gränssnitt för Aspose för Java är speciellt utformat för Java-plattformen för att skapa, redigera, rendera eller analysera dokument från Microsoft Word, webb, text och OpenOffice direkt i applikationer.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/cpp/" >}}
-Skapa, ladda, manipulera eller konvertera olika dokumentformat och bilder inom rena C++-applikationer med nativt C++-bibliotek.
+Manipulera Excel-tabeller och läs, skriv, skapa eller konvertera olika dokument- och bildformat i ren C++-applikationer med hjälp av Aspose för C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/python-net/" >}}
-Generera, redigera eller konvertera DOC, DOCX, PPT, PPTX, EML, MSG och 3D-format med hjälp av Python-bibliotekssvit för Microsoft Word, PowerPoint och Outlook.
+Generera, redigera eller konvertera filer i formaten DOC, DOCX, PPT, PPTX, EML, MSG och 3D med hjälp av Aspose för Python för Microsoft Word, PowerPoint, Excel och Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/nodejs-java/" >}}
@@ -32,7 +32,7 @@ Manipulera Excel-kalkylblad och Visio-filer samt skanna och generera streckkoder
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total för " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/php-java/" >}}
-Manipulera Excel-kalkylblad samt läs, skriv, skapa och konvertera PowerPoint- och OpenOffice-presentationer i PHP-applikationer.
+Manipulera Excel-tabeller och läs, skriv, skapa och konvertera PowerPoint-presentationer samt OpenOffice-dokument i PHP-applikationer med Aspose för PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="Visa Alla Högkodande API:er" >}}

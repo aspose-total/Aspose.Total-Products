@@ -2,37 +2,37 @@
 title: 開発者およびノンコーダー向けのファイルフォーマットとドキュメントソリューション
 weight: 9630
 url_ignore: /
-description: High CodeまたはLow CodeのAPIを使用してドキュメント操作アプリケーションを構築するか、または単にクロスプラットフォームのアプリを使用して100以上のファイルフォーマットを表示、比較、検査、または変換します
+description: High CodeまたはLow Code APIを使用して文書操作アプリケーションを構築するか、単にクロスプラットフォームアプリを使用して100以上のファイル形式を表示、比較、検査、または変換します。文書処理APIおよびソフトウェアソリューションの先導プロバイダであるAsposeを探索してください。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ファイルフォーマットおよびドキュメント操作ソリューション" h2="ハイコードのダウンロード可能なクラスライブラリまたはローコードのREST APIを使用してファイルフォーマット処理のためのエンタープライズアプリケーションを作成するか、または依存関係なしにクロスプラットフォームのアプリを簡単に使用します。" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Totalプロダクトファミリー" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="ファイルフォーマットおよびドキュメント操作ソリューション" h2="Asposeを使用して、高コードのダウンロード可能なクラスライブラリまたは低コードのREST APIを使用して、エンタープライズアプリケーションを簡単に開発し、無料のオンラインアプリの手間のかからない使用を検討してください。" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Totalプロダクトファミリー" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIには次が含まれます" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ja/net/" >}}
-Windows、Web、iOSおよびAndroidベースのアプリケーション内で複数のドキュメントフォーマットを操作するOn Premise .NET API。
+Aspose for .NET Core APIは、Office、OpenOffice、Adobe、CAD、3D、およびPDFなどの人気のあるドキュメントフォーマットを、Windows、Web、iOS、およびAndroid向けのアプリケーションでローカルに扱うために、特に.NET Coreプラットフォーム向けに設計されています。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ja/java/" >}}
-アプリケーション内でMicrosoft Wordファイル、Web、テキスト、およびOpenOfficeドキュメントを直接作成、変更、レンダリング、または解析するためのJavaベースのプラットフォームAPI。
+Aspose for Java APIのインターフェースは、Microsoft Word、Web、テキスト、およびOpenOfficeのドキュメントをアプリケーション内で直接作成、編集、レンダリング、または分析するために、特にJavaプラットフォーム向けに設計されています。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ja/cpp/" >}}
-異なるドキュメントフォーマットおよび画像をネイティブC++ライブラリを使用して純粋なC++アプリケーション内で作成、読み込み、操作、または変換する。
+Aspose for C++を使用して、純粋なC++アプリケーションでExcelのテーブルを操作し、さまざまなドキュメントおよび画像の形式を読み取り、書き込み、作成、または変換します。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/ja/python-net/" >}}
-Pythonライブラリスイートを使用してMicrosoft Word、PowerPoint、OutlookのためのDOC、DOCX、PPT、PPTX、EML、MSG、および3D形式を生成、編集、または変換。
+Aspose for Pythonを使用して、Microsoft Word、PowerPoint、Excel、Outlook向けにDOC、DOCX、PPT、PPTX、EML、MSG、および3Dファイルを生成、編集、または変換します。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/ja/nodejs-java/" >}}
-Node.jsを使用してExcelスプレッドシートおよびVisioファイルを操作し、さまざまなシンボロジーのバーコードをスキャンおよび生成する。
+Aspose for Node.jsを使用して、ExcelのテーブルとVisioファイルを操作し、さまざまなバーコードを生成します。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/ja/php-java/" >}}
-PHPアプリケーション内でExcelスプレッドシートを操作し、PowerPointおよびOpenOfficeプレゼンテーションを読み取り、書き込み、作成、および変換する。
+Aspose for PHPを使用して、Excelのテーブルを操作し、PowerPointプレゼンテーションおよびOpenOfficeドキュメントをPHPアプリケーションで読み取り、書き込み、作成、および変換します。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/ja/family/" innerText="すべてのHigh Code APIを表示" >}}

@@ -1,29 +1,29 @@
 ---
 title: Решения для файловых форматов и документов для разработчиков и нетиповых программистов 
 weight: 9630
-description: Создавайте приложения для обработки документов с использованием API с высоким или низким уровнем кода или просто используйте приложения для просмотра, сравнения, проверки или конвертации более чем 100 форматов файлов.
+description: Создавайте приложения для обработки документов с использованием API High Code или Low Code, либо просто используйте кросс-платформенные приложения для просмотра, сравнения, проверки или конвертации более 100 форматов файлов. Исследуйте Aspose, ведущего поставщика API для обработки документов и программных решений.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Решения для обработки файлов и документов" h2="Создавайте корпоративные приложения для обработки файловых форматов с помощью библиотек для скачивания с высоким уровнем кода или API с низким уровнем кода, не требующих зависимостей, или используйте бесплатные онлайн-приложения с легкостью." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Семейство продуктов Aspose.Total" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Решения для обработки файлов и документов" h2="Разрабатывайте предприятий приложения с легкостью с использованием Aspose с использованием высококодовых загружаемых библиотек классов или низкокодовых REST API, и рассмотрите беззаботное использование бесплатных онлайн-приложений." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Семейство продуктов Aspose.Total" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Включены API с высоким уровнем кода Aspose.Total" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ru/net/" >}}
-On Premise .NET API для обработки нескольких форматов документов в приложениях для Windows, Web, iOS и Android.
+API Aspose для .NET Core специально разработано для работы с популярными форматами документов, такими как Office, OpenOffice, Adobe, CAD, 3D и PDF локально в приложениях для Windows, веба, iOS и Android на платформе .NET Core.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ru/java/" >}}
-API на платформе Java для создания, изменения, визуализации или анализа файлов Microsoft Word, веб, текстовых и документов OpenOffice непосредственно в приложениях.
+Интерфейсы API Aspose для Java специально разработаны для платформы Java для создания, редактирования, отображения или анализа документов Microsoft Word, веба, текста и OpenOffice непосредственно в приложениях.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ru/cpp/" >}}
-Создавайте, загружайте, обрабатывайте или конвертируйте различные форматы документов и изображения в чистых приложениях C++ с использованием собственной библиотеки C++.
+Манипулируйте таблицами Excel, читайте, пишите, создавайте или конвертируйте различные форматы документов и изображений в чистых приложениях C++ с использованием нативной библиотеки Aspose для C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/ru/python-net/" >}}
-Генерируйте, редактируйте или конвертируйте форматы DOC, DOCX, PPT, PPTX, EML, MSG и 3D с использованием набора библиотек Python для Microsoft Word, PowerPoint и Outlook.
+Создавайте, редактируйте или конвертируйте файлы DOC, DOCX, PPT, PPTX, EML, MSG и 3D с использованием библиотеки Aspose для Python для Microsoft Word, PowerPoint, Excel и Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/ru/nodejs-java/" >}}
@@ -31,7 +31,7 @@ API на платформе Java для создания, изменения, в
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total для " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/ru/php-java/" >}}
-Манипулируйте электронными таблицами Excel, а также читайте, пишите, создавайте и конвертируйте презентации PowerPoint и документы OpenOffice в приложениях PHP.
+Манипулируйте таблицами Excel, читайте, пишите, создавайте и конвертируйте презентации PowerPoint и документы OpenOffice в приложениях PHP с использованием Aspose для PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/ru/family/" innerText="Просмотреть все API с высоким уровнем кода" >}}

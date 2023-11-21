@@ -2,37 +2,37 @@
 title: Dateiformate und Dokumentlösungen für Entwickler und No-Coders
 weight: 9630
 url_ignore: /
-description: Erstellen Sie Anwendungen zur Dokumentenverarbeitung mithilfe von High-Code- oder Low-Code-APIs oder verwenden Sie einfach plattformübergreifende Apps, um mehr als 100 Dateiformate anzuzeigen, zu vergleichen, zu überprüfen oder zu konvertieren.
+description: Erstellen Sie Dokumentenmanipulationsanwendungen mit High-Code- oder Low-Code-APIs oder verwenden Sie einfach plattformübergreifende Apps zum Anzeigen, Vergleichen, Inspezieren oder Konvertieren von mehr als 100 Dateiformaten. Entdecken Sie Aspose, den führenden Anbieter von APIs für die Dokumentenverarbeitung und Softwarelösungen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Dateiformate und Dokumentverarbeitungslösungen" h2="Erstellen Sie Unternehmensanwendungen zur Verarbeitung von Dateiformaten mit herunterladbaren High-Code-Bibliotheken oder Low-Code-REST-APIs, ohne Abhängigkeiten, oder verwenden Sie kostenlose Online-Apps mühelos." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Produktfamilie" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Dateiformate und Dokumentverarbeitungslösungen" h2="Entwickeln Sie mühelos Unternehmensanwendungen mit Aspose unter Verwendung von herunterladbaren High-Code-Klassenbibliotheken oder Low-Code-REST-APIs und erwägen Sie die problemlose Nutzung kostenloser Online-Anwendungen." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Produktfamilie" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="High-Code-APIs von Aspose.Total umfassen" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/de/net/" >}}
-On-Premise .NET-APIs zur Manipulation mehrerer Dokumentformate in Windows-, Web-, iOS- und Android-Anwendungen.
+Aspose für die .NET Core API zur Arbeit mit gängigen Dokumentenformaten wie Office, OpenOffice, Adobe, CAD, 3D und PDF lokal in Anwendungen für Windows, Web, iOS und Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/de/java/" >}}
-Java-basierte Plattform-APIs zum Erstellen, Bearbeiten, Rendern oder Analysieren von Microsoft Word-Dateien, Web-, Text- und OpenOffice-Dokumenten direkt in Anwendungen.
+Die API-Schnittstellen von Aspose für Java sind speziell für die Java-Plattform konzipiert, um Dokumente von Microsoft Word, Web, Text und OpenOffice direkt in Anwendungen zu erstellen, zu bearbeiten, zu rendern oder zu analysieren
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/de/cpp/" >}}
-Erstellen, Laden, Manipulieren oder Konvertieren unterschiedlicher Dokumentformate und Bilder in reinen C++-Anwendungen mithilfe der nativen C++-Bibliothek.
+Erstellen, laden, manipulieren oder konvertieren Sie verschiedene Formate von Dokumenten und Bildern in reinen C++-Anwendungen mithilfe der nativen Aspose for C++-Bibliothek.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title="Python über .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/de/python-net/" >}}
-Generieren, Bearbeiten oder Konvertieren von DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- und 3D-Formaten mithilfe der Python-Bibliothekssuite für Microsoft Word, PowerPoint & Outlook.
+Generieren, bearbeiten oder konvertieren Sie DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- und 3D-Dateien mithilfe der Aspose for Python-Bibliothek für Microsoft Word, PowerPoint, Excel und Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title="Node.js über Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/de/nodejs-java/" >}}
-Manipulation von Excel-Tabellen und Visio-Dateien sowie Scannen und Generieren von Barcodes verschiedener Symbologien mithilfe von Node.js.
+Manipulieren Sie Excel-Tabellen und Visio-Dateien und generieren Sie verschiedene Strichcodes mit Aspose for Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total für " title="PHP über Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/de/php-java/" >}}
-Manipulation von Excel-Tabellen sowie Lesen, Schreiben, Erstellen und Konvertieren von PowerPoint- und OpenOffice-Präsentationen in PHP-Anwendungen.
+Manipulieren Sie Excel-Tabellen und lesen, schreiben, erstellen und konvertieren Sie PowerPoint-Präsentationen sowie OpenOffice-Dokumente in PHP-Anwendungen mit Aspose for PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/de/family/" innerText="Alle High-Code-APIs anzeigen" >}}

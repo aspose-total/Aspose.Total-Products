@@ -2,37 +2,37 @@
 title: Format Berkas & Solusi Dokumen untuk Pengembang dan Pengguna Non-Koder
 weight: 9630
 url_ignore: /
-description: Bangun aplikasi manipulasi dokumen menggunakan API High Code atau Low Code, atau gunakan aplikasi lintas platform untuk melihat, membandingkan, memeriksa, atau mengonversi lebih dari 100 format file.
+description: Bangun aplikasi manipulasi dokumen menggunakan API Kode Tinggi atau Kode Rendah, atau cukup gunakan aplikasi lintas platform untuk melihat, membandingkan, memeriksa, atau mengonversi lebih dari 100 format file. Jelajahi Aspose, penyedia terkemuka untuk API pemrosesan dokumen dan solusi perangkat lunak.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solusi Manipulasi Format Berkas & Dokumen" h2="Buat Aplikasi Perusahaan untuk Pemrosesan Format Berkas dengan Pustaka Kelas Tinggi yang Dapat Diunduh atau API REST Low Code, Tanpa Ketergantungan, atau Gunakan Aplikasi Online Gratis dengan Mudah." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Keluarga Produk Aspose.Total" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solusi Manipulasi Format Berkas & Dokumen" h2="Kembangkan aplikasi perusahaan dengan mudah dengan Aspose menggunakan perpustakaan kelas yang dapat diunduh atau API REST Kode Tinggi, dan pertimbangkan penggunaan aplikasi online gratis tanpa masalah." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Keluarga Produk Aspose.Total" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Termasuk API Kode Tinggi" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/id/net/" >}}
-API .NET On Premise untuk memanipulasi berbagai format dokumen dalam aplikasi berbasis Windows, Web, iOS & Android.
+API Aspose untuk .NET Core dirancang khusus untuk platform .NET Core agar dapat bekerja dengan format dokumen populer seperti Office, OpenOffice, Adobe, CAD, 3D, dan PDF secara lokal dalam aplikasi untuk Windows, web, iOS, dan Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/id/java/" >}}
-API berbasis Java untuk membuat, mengubah, merender, atau mengurai file Microsoft Word, Web, Teks, dan OpenOffice langsung dalam aplikasi.
+Antarmuka API Aspose untuk Java dirancang khusus untuk platform Java untuk membuat, mengedit, merender, atau menganalisis dokumen Microsoft Word, web, teks, dan OpenOffice langsung dalam aplikasi.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/id/cpp/" >}}
-Buat, muat, manipulasi, atau konversi berbagai format dokumen dan gambar dalam aplikasi C++ murni menggunakan pustaka C++ native.
+Manipulasi tabel Excel dan baca, tulis, buat, atau konversi berbagai format dokumen dan gambar dalam aplikasi C++ murni dengan bantuan pustaka Aspose untuk C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/id/python-net/" >}}
-Hasilkan, edit, atau konversi format DOC, DOCX, PPT, PPTX, EML, MSG, dan 3D menggunakan rangkaian pustaka Python untuk Microsoft Word, PowerPoint, dan Outlook.
+Buat, edit, atau konversi file DOC, DOCX, PPT, PPTX, EML, MSG, dan 3D menggunakan pustaka Aspose untuk Python untuk Microsoft Word, PowerPoint, Excel, dan Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/id/nodejs-java/" >}}
-Manipulasi spreadsheet Excel dan file Visio serta pemindaian dan pembuatan kode batang berbagai simbologi menggunakan Node.js.
+Manipulasi tabel Excel dan file Visio serta hasilkan berbagai kode batang menggunakan Aspose untuk Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total untuk " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/id/php-java/" >}}
-Manipulasi spreadsheet Excel serta Baca, Tulis, Buat, dan Konversi Presentasi PowerPoint dan OpenOffice dalam aplikasi PHP.
+Manipulasi tabel Excel dan baca, tulis, buat, serta konversi presentasi PowerPoint dan dokumen OpenOffice dalam aplikasi PHP menggunakan Aspose untuk PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/id/family/" innerText="Lihat Semua API Kode Tinggi" >}}

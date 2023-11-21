@@ -2,37 +2,37 @@
 title: Solutions de formats de fichiers et de documents pour les développeurs et les utilisateurs sans code
 weight: 9630
 url_ignore: /
-description: Créez des applications de manipulation de documents en utilisant des API de haut niveau ou de bas niveau, ou utilisez simplement des applications multiplateformes pour visualiser, comparer, inspecter ou convertir plus de 100 formats de fichiers.
+description: Créez des applications de manipulation de documents à l'aide d'API à code élevé ou à faible code, ou utilisez simplement des applications multiplateformes pour visualiser, comparer, inspecter ou convertir plus de 100 formats de fichier. Explorez Aspose, le principal fournisseur d'API pour le traitement de documents et les solutions logicielles.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solutions de manipulation de fichiers et de documents" h2="Créez des applications d'entreprise pour le traitement de formats de fichiers avec des bibliothèques de classes téléchargeables en haut niveau ou des API REST en bas niveau, sans dépendances supplémentaires, ou utilisez des applications gratuites en ligne avec facilité." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Famille de produits Aspose.Total" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solutions de manipulation de fichiers et de documents" h2="Développez sans effort des applications d'entreprise avec Aspose en utilisant des bibliothèques de classes téléchargeables à code élevé ou des APIs REST à faible code, et envisagez l'utilisation sans tracas d'applications en ligne gratuites." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Famille de produits Aspose.Total" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API de haut niveau Aspose.Total incluent" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/fr/net/" >}}
-API .NET sur site pour manipuler plusieurs formats de documents dans des applications basées sur Windows, Web, iOS et Android.
+L'API Aspose pour .NET Core est spécialement conçue pour la plateforme .NET Core afin de travailler avec des formats de documents populaires tels que Office, OpenOffice, Adobe, CAD, 3D et PDF localement dans des applications pour Windows, web, iOS et Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/fr/java/" >}}
-API basée sur Java pour créer, modifier, rendre ou analyser des fichiers Microsoft Word, des documents Web, du texte et des documents OpenOffice directement dans des applications.
+Les interfaces API d'Aspose pour Java sont spécialement conçues pour la plateforme Java afin de créer, modifier, rendre ou analyser des documents Microsoft Word, des pages web, du texte et OpenOffice directement dans des applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/fr/cpp/" >}}
-Créez, chargez, manipulez ou convertissez différents formats de documents et d'images dans des applications C++ pures à l'aide de la bibliothèque native C++.
+Manipulez les tableurs Excel et lisez, écrivez, créez ou convertissez divers formats de documents et d'images dans des applications C++ pures à l'aide de la bibliothèque native Aspose for C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/fr/python-net/" >}}
-Générez, modifiez ou convertissez des formats DOC, DOCX, PPT, PPTX, EML, MSG et 3D à l'aide de la suite de bibliothèques Python pour Microsoft Word, PowerPoint et Outlook.
+Générez, éditez ou convertissez des fichiers DOC, DOCX, PPT, PPTX, EML, MSG et 3D à l'aide de la bibliothèque Aspose pour Python pour Microsoft Word, PowerPoint, Excel et Outlook.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/fr/nodejs-java/" >}}
-Manipulez des feuilles de calcul Excel et des fichiers Visio, ainsi que la numérisation et la génération de codes-barres de différentes symbologies à l'aide de Node.js.
+Manipulez les tableurs Excel et les fichiers Visio et générez des codes-barres à l'aide d'Aspose pour Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total pour " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/fr/php-java/" >}}
-Manipulez des feuilles de calcul Excel, lisez, écrivez, créez et convertissez des présentations PowerPoint et des documents OpenOffice dans des applications PHP.
+Manipulez les tableurs Excel et lisez, écrivez, créez et convertissez des présentations PowerPoint et des documents OpenOffice dans des applications PHP à l'aide d'Aspose pour PHP.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/fr/family/" innerText="Voir toutes les API de haut niveau" >}}

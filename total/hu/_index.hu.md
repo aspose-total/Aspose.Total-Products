@@ -2,37 +2,37 @@
 title: Fájlformátumok és dokumentummegoldások fejlesztők és nem kódolók számára 
 weight: 9630
 url_ignore: /
-description: Készítsen dokumentummanipulációs alkalmazásokat High Code vagy Low Code API-k használatával, vagy egyszerűen használjon platformfüggetlen alkalmazásokat 100+ fájlformátum megtekintéséhez, összehasonlításához, ellenőrzéséhez vagy konvertálásához
+description: Építse fel a dokumentummanipulációs alkalmazásokat High Code vagy Low Code API-k segítségével, vagy egyszerűen használjon több platformra készült alkalmazásokat a 100+ fájlformátum megtekintéséhez, összehasonlításához, ellenőrzéséhez vagy konvertálásához. Ismerje meg az Aspose-t, a dokumentumfeldolgozási API-k és szoftvermegoldások vezető szolgáltatóját.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Fájlformátum és dokumentummanipulációs megoldások" h2="Készítsen vállalati alkalmazásokat fájlformátum-feldolgozásra High-Code letölthető osztálykönyvekkel vagy Low-Code REST API-kkel, nincs szükség függőségekre, vagy használjon ingyenes online alkalmazásokat könnyedén." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Termékcsalád" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Fájlformátum és dokumentummanipulációs megoldások" h2="Fejlesszen vállalati alkalmazásokat könnyedén az Aspose segítségével, használva letölthető magas kóddal rendelkező osztálykönyvtárakat vagy alacsony kóddal rendelkező REST API-kat, és fontolja meg a problémamentes használatát ingyenes online alkalmazásoknak." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Termékcsalád" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API-k tartalmazzák" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/hu/net/" >}}
-On Premise .NET API-k több dokumentumformátum manipulálásához Windows, Web, iOS és Android alapú alkalmazásokban.
+Az Aspose .NET Core API-t speciálisan tervezték a .NET Core platformhoz, hogy népszerű dokumentumformátumokkal, mint az Office, OpenOffice, Adobe, CAD, 3D és PDF, helyileg dolgozzon Windows, web, iOS és Android alkalmazásokban.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/hu/java/" >}}
-Java alapú platform API-k a Microsoft Word fájlok közvetlen létrehozásához, módosításához, rendereléséhez vagy elemzéséhez, valamint a Web, Text és OpenOffice dokumentumok alkalmazásokon belüli használatához.
+Az Aspose Java API interfészeit kifejezetten a Java platform számára tervezték, hogy közvetlenül dolgozhasson a Microsoft Word, web, szöveg és OpenOffice dokumentumokkal alkalmazásaiban.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/hu/cpp/" >}}
-Különböző dokumentumformátumok és képek létrehozása, betöltése, manipulálása vagy konvertálása tiszta C++ alkalmazásokban natív C++ könyvtár használatával.
+Kezelje az Excel táblázatokat, olvasson, írjon, hozzon létre vagy konvertáljon különböző dokumentum- és képformátumokat tiszta C++ alkalmazásokban az Aspose for C++ natív könyvtár segítségével.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="https://products.aspose.com/total/hu/python-net/" >}}
-DOC, DOCX, PPT, PPTX, EML, MSG és 3D formátumok generálása, szerkesztése vagy konvertálása Python könyvtárcsomag segítségével a Microsoft Word, PowerPoint és Outlook számára.
+Generáljon, módosítson vagy konvertáljon DOC, DOCX, PPT, PPTX, EML, MSG és 3D fájlokat az Aspose for Python könyvtár segítségével Microsoft Word, PowerPoint, Excel és Outlook számára.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="https://products.aspose.com/total/hu/nodejs-java/" >}}
-Excel táblázatok és Visio fájlok manipulálása, valamint különböző szimbólumkódok szkennelése és generálása Node.js használatával.
+Kezelje az Excel táblázatokat és a Visio fájlokat, és generáljon különböző vonalkódokat az Aspose for Node.js segítségével.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="https://products.aspose.com/total/hu/php-java/" >}}
-Excel táblázatok manipulálása, valamint PowerPoint és OpenOffice prezentációk olvasása, írása, létrehozása és konvertálása PHP alkalmazásokban.
+Kezelje az Excel táblázatokat és olvasson, írjon, hozzon létre és konvertáljon PowerPoint prezentációkat és OpenOffice dokumentumokat PHP alkalmazásokban az Aspose for PHP könyvtár segítségével.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/hu/family/" innerText="Az összes High Code API megtekintése" >}}
