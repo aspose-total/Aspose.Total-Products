@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to EXCEL in C++ or with free Online Converter
-description: C++ API to Convert WORD to EXCEL or Online App without using using Microsoft Word or Microsoft Excel or online. Test free WORD to EXCEL online converter quickly before integrating the code. 
+title: Convert Word to Excel in C++ or with free Online Converter
+description: C++ API to Convert Word to Excel or Online App without using using Microsoft Word or Microsoft Excel or online. Test free Word to Excel online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/word-to-excel/
 family: total
 platformtag: cpp
@@ -10,16 +10,16 @@ outformat: EXCEL
 otherformats: DIF ODS XLS XLTM TSV CSV XLSM XLSB XLAM XLT FODS XLTX SXC XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert WORD to EXCEL or Online App" h2="Export WORD to EXCEL via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Word to Excel Converter - C++ API or Online App" h2="Export Word to Excel via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include WORD to EXCEL conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export WORD to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to EXCEL. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+ You can include the Word to Excel Converter feature within your C++ applications easily. By using feature-rich, powerful and easy-to-use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export Word to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to Excel. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert WORD to EXCEL" %}}
-1. Open WORD file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert WORD to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
+{{% blocks/products/pf/agp/feature-section-col title="Word to Excel Converter - C++ API" %}}
+1. Open Word file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
+2. Convert Word to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -35,15 +35,15 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Access WORD Document Properties via C++" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) also allows you to access document properties of WORD file and lets you take an informed decision before the conversion process. To access document properties you can use [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) to obtain built-in properties and [CustomDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) to obtain custom properties. The following code example shows how to enumerate all built-in and custom properties in a document.
+{{% blocks/products/pf/feature-page-section  h2="Access Word Document Properties via C++" %}}
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) also allows you to access document properties of Word file and lets you take an informed decision before the conversion process. To access document properties you can use [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) to obtain built-in properties and [CustomDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) to obtain custom properties. The following code example shows how to enumerate all built-in and custom properties in a document.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Save EXCEL File to Stream via C++" %}}
-After converting WORD to EXCEL, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) enables you to save your document to stream. To save files to a stream, create a MemoryStream or FileStream object and save the file to that stream object by calling the [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) object’s [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method. Specify the desired file format using the [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) enumeration when calling the [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method.
+{{% blocks/products/pf/feature-page-section  h2="Save Excel File to Stream via C++" %}}
+After converting Word to Excel, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) enables you to save your document to stream. To save files to a stream, create a MemoryStream or FileStream object and save the file to that stream object by calling the [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) object’s [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method. Specify the desired file format using the [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) enumeration when calling the [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -63,42 +63,42 @@ After converting WORD to EXCEL, [Aspose.Cells for C++](https://products.aspose.c
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How can I convert WORD to EXCEL Online?</b></span>
+                          <span itemprop="name"><b>How can I convert Word to Excel Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">To use the above WORD to EXCEL converter, simply follow these easy steps. First, add your WORD file to the converter by either dragging and dropping the file into the white area or clicking inside the area to import the document. Next, click the "Convert" button to initiate the conversion process.<br />
+                          <span itemprop="text">To use the above Word to Excel Converter, simply follow these easy steps. First, add your Word file to the converter by either dragging and dropping the file into the white area or clicking inside the area to import the document. Next, click the "Convert" button to initiate the conversion process.<br />
 
-Once the WORD to EXCEL conversion is complete, you'll be able to download your converted file instantly with just one click. This makes it incredibly easy to convert your WORD files to EXCEL format, and you can do it all without having to install any additional software or plugins.</span>
+Once the Word to Excel conversion is complete, you'll be able to download your converted file instantly with just one click. This makes it incredibly easy to convert your Word files to Excel format, and you can do it all without having to install any additional software or plugins.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How long does it take to convert WORD?</b></span>
+                          <span itemprop="name"><b>How long does it take to convert Word?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">When it comes to using the WORD to EXCEL converter, the speed of the conversion process will depend largely on the size of your WORD file. For smaller files, the conversion can be completed in just a few seconds, making it incredibly fast and efficient. However, larger files may take a bit longer to convert.<br />
+                          <span itemprop="text">When it comes to using the Word to Excel Converter, the speed of the conversion process will depend largely on the size of your Word file. For smaller files, the conversion can be completed in just a few seconds, making it incredibly fast and efficient. However, larger files may take a bit longer to convert.<br />
 
-If you're planning to integrate the WORD to EXCEL conversion code into your C++ application, the speed and efficiency of the conversion process will also depend on how well you've optimized your application. By ensuring that your application is optimized for the conversion process, you can help ensure that your WORD files are converted to EXCEL format quickly and accurately.</span>
+If you're planning to integrate the Word to Excel Converter code into your C++ application, the speed and efficiency of the conversion process will also depend on how well you've optimized your application. By ensuring that your application is optimized for the conversion process, you can help ensure that your Word files are converted to Excel format quickly and accurately.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is it safe to convert WORD to EXCEL using free Aspose.Total converter?</b></span>
+                          <span itemprop="name"><b>Is it safe to convert Word to Excel using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! When you use the WORD to EXCEL converter, you can rest assured that your files are safe and secure. After the conversion is complete, you'll be provided with a download link for your new EXCEL file. This link will be available instantly and can be used to download the file to your device.<br />
+                          <span itemprop="text">Of course! When you use the Word to Excel Converter, you can rest assured that your files are safe and secure. After the conversion is complete, you'll be provided with a download link for your new Excel file. This link will be available instantly and can be used to download the file to your device.<br />
 
-To ensure the safety and privacy of your files, we automatically delete any uploaded files after 24 hours. This means that no one else will have access to your files once the conversion process is complete. Additionally, the WORD to EXCEL converter is designed to be safe and secure, so you can trust that your files are being handled with the utmost care.</span>
+To ensure the safety and privacy of your files, we automatically delete any uploaded files after 24 hours. This means that no one else will have access to your files once the conversion process is complete. Additionally, the Word to Excel Converter is designed to be safe and secure, so you can trust that your files are being handled with the utmost care.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>What browser should I use to convert WORD?</b></span>
+                          <span itemprop="name"><b>What browser should I use to convert Word?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The WORD to EXCEL converter is an online tool that can be accessed through any modern web browser, including Google Chrome, Firefox, Opera, and Safari. This makes it incredibly easy to use, as you can simply open the converter in your browser and start converting your WORD files to EXCEL format right away.<br />
+                          <span itemprop="text">The Word to Excel Converter is an online tool that can be accessed through any modern web browser, including Google Chrome, Firefox, Opera, and Safari. This makes it incredibly easy to use, as you can simply open the converter in your browser and start converting your Word files to Excel format right away.<br />
 
-However, if you're developing a desktop application and need a more robust solution for WORD conversion, you may want to consider using the Aspose.Total WORD Conversion API. This powerful API is designed specifically for developers and offers a wide range of features and capabilities for working with WORD files, including conversion to EXCEL format.</span>
+However, if you're developing a desktop application and need a more robust solution for Word conversion, you may want to consider using the Aspose.Total Word Conversion API. This powerful API is designed specifically for developers and offers a wide range of features and capabilities for working with Word files, including conversion to Excel format.</span>
                       </div>
                   </li>
               </ul>
