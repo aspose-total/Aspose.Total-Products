@@ -71,3 +71,4 @@ Níže jsou uvedeny úryvky kódu Java pro přidávání vodoznaků do prezentac
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

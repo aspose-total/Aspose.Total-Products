@@ -71,3 +71,4 @@ Hieronder vindt u de Java-codefragmenten voor het toevoegen van watermerken aan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

@@ -71,3 +71,4 @@ A continuación se muestran fragmentos de código Java para agregar marcas de ag
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

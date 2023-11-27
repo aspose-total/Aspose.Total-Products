@@ -39,4 +39,15 @@ Aspose.Total offers a robust and versatile solution for adding watermarks to doc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-section  h2="Insert Watermark to Images using Python" %}}
+
+Image watermarking, a common technique among content creators, photographers, and artists, safeguards their work and asserts ownership rights. By visibly marking images with logos or text, this method serves to deter unauthorized use and prevent copyright infringement. 
+Aspose.Imaging for Python, a child API of Aspose.Total simplifies the process of adding watermarks to images with just a few lines of code. The steps to watermark an image in Python include loading the image using the Image class, initializing an instance of the Graphics class with the Image object, setting font attributes with the Font class, configuring a SolidBrush class for properties like color, creating a StringFormat class for text alignment, adding the watermark using the Graphics.draw_string method, and finally, saving the image with the Image.save method.
+
+{{% blocks/products/pf/feature-page-code h3="Python code to watermark Images" %}}
+
+{{< gist "aspose-com-gists" "4b5ac1c50cf9403d3bc52d2df2bbcaad" "add-watermark-to-image.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/agp/other-autogen-total-feature>}}

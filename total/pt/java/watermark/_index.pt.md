@@ -71,3 +71,4 @@ Abaixo estão os trechos de código Java para adicionar marcas d’água ao Micr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

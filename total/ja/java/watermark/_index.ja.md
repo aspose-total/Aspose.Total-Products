@@ -71,3 +71,4 @@ PowerPoint プレゼンテーションでは、透かしは視覚的な識別子
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

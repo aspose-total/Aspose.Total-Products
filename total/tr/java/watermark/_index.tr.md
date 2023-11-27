@@ -71,3 +71,4 @@ Aşağıda Aspose.Total for Java API'yi kullanarak Microsoft Excel ve Powerpoint
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}

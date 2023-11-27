@@ -71,3 +71,4 @@ description: أضف نصًا بالإضافة إلى علامة مائية لل�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/agp/other-autogen-total-feature>}}
