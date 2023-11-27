@@ -1,0 +1,149 @@
+---
+title: ลายน้ำไฟล์ PDF ออนไลน์หรือใช้ Java
+description: แอปออนไลน์ฟรีสำหรับไฟล์ PDF ต่าง ๆ ของลายน้ำรหัสไลบรารีลายน้ำ Java สำหรับเอกสาร PDF
+
+family: total
+platformtag: Java
+feature: Watermark
+informat: PDF
+otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS Image JPG JPEG BMP TIFF GIF PNG
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="ไฟล์ Watermark PDF ออนไลน์ผ่านแอพ Watermarking และผ่านแอปพลิเคชัน Java" h2="พัฒนาแอปพลิเคชันลายน้ำเอกสาร PDF ที่ใช้ Java ที่ทรงพลังใส่ลายน้ำเอกสารต่าง ๆ ได้อย่างอิสระ รวมถึงไฟล์ PDF ออนไลน์ผ่านแอพพร้อมการดาวน์โหลดทันที" >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ลายน้ำไฟล์ PDF ออนไลน์โดยใช้แอพ" %}}
+
+1. อัปโหลดไฟล์ PDF ไปที่ลายน้ำ
+1. เขียนข้อความลายน้ำ
+1. เลือกสีที่เกี่ยวข้อง
+1. คลิกปุ่ม "ลายน้ำ"
+1. ดาวน์โหลดไฟล์ PDF ลายน้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ไฟล์ลายน้ำ PDF ผ่าน Java" %}}
+
+1. เพิ่มการอ้างอิงไลบรารี Java ภายในโครงการของคุณ
+1. โหลดเอกสาร
+1. ใช้ FormattedText เพื่อจัดรูปแบบข้อความและคุณสมบัติ
+1. ใช้ WatermarkArtifact เพื่อตั้งค่าข้อความ การจัดแนว และอื่นๆ
+1. เรียกวิธีการบันทึกและรับไฟล์ Watermarked PDF
+1. สำหรับรูปภาพให้ใช้คลาส BackgroundArtifact
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="ตัวอย่างโค้ดใน Java เพื่อใส่ลายน้ำไฟล์ PDF" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "ef226c1da156645d71cf4c291e9960c8" "add-text-watermark-to-pdf-document.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="รหัส Java เพื่อเพิ่มลายน้ำรูปภาพลงในไฟล์ PDF" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "ef226c1da156645d71cf4c291e9960c8" "add-image-watermark-to-pdf-file.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>พัฒนาแอปพลิเคชันลายน้ำไฟล์ PDF โดยใช้ Java</h2>
+
+ต้องการพัฒนาสคริปต์ Java หรือแอพยูทิลิตี้เพื่อให้สามารถใส่ลายน้ำไฟล์ PDF หลายไฟล์ได้อย่างง่ายดายหรือไม่ด้วย [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) child API ของ [Aspose.Total for Java](https://products.aspose.com/total/java/) นักพัฒนา Java ทุกคนสามารถรวมโค้ด API ข้างต้นเพื่อตั้งโปรแกรมแอป Watermarking ในเอกสารต่างๆ ได้ไลบรารี Java อันทรงพลังสำหรับลายน้ำในเอกสาร รองรับรูปแบบยอดนิยมมากมาย รวมถึงรูปแบบ PDF<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ไลบรารีลายน้ำ Java สำหรับไฟล์ PDF" %}}
+มีตัวเลือกอื่นในการติดตั้ง "[Aspose.PDF for Java](https://products.aspose.com/pdf/java/)" หรือ "[Aspose.Total for Java](https://products.aspose.com/total/java/)" ลงบนระบบของคุณแพ็คเกจ Java ของเราได้รับการออกแบบให้เป็นแพลตฟอร์มข้ามแพลตฟอร์ม เข้ากันได้กับการใช้งาน JVM บนระบบปฏิบัติการต่างๆ เช่น Microsoft Windows, Linux, macOS, Android และ iOSโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br />
+
+- ติดตั้ง [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/)
+- หรือจาก [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-pdf/)
+- ทีละขั้นตอน [คำแนะนำ](https://docs.aspose.com/pdf/java/installation/#install-aspose-pdf-for-java-from-maven-repository)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
+
+- J2SE 8.0 (1.8) หรือสูงกว่า
+- รองรับ Aspose.PDF สำหรับ Java บน IBM i (Iseries หรือ As/400)
+
+<br />
+สำหรับรายละเอียด โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/pdf/java/system-requirements/#optional-dependencies)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="คำถามที่พบบ่อย" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>คำถามที่พบบ่อย</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันสามารถใช้โค้ด Java ข้างต้นในแอปพลิเคชันของฉันได้หรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">ใช่ คุณสามารถดาวน์โหลดรหัสนี้ได้เราสามารถพัฒนาโซลูชันระดับมืออาชีพสำหรับไฟล์ Watermark PDF โดยใช้ Java ได้อย่างง่ายดายใช้ Aspose PDF Watermarking API เพื่อพัฒนาซอฟต์แวร์อิสระบนแพลตฟอร์มระดับสูงใน Java</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>เอกสารนี้ Watermarking App ทำงานบน Windows เท่านั้นหรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณมีความยืดหยุ่นในการเริ่มต้นลายน้ำเอกสารจากอุปกรณ์ใดก็ได้ โดยไม่คำนึงถึงระบบปฏิบัติการที่ทำงาน ไม่ว่าจะเป็น Windows, Linux, Mac OS หรือ Androidสิ่งที่คุณต้องมีคือเว็บเบราว์เซอร์ร่วมสมัยและการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>การใช้แอปออนไลน์เพื่อลายน้ำเอกสาร PDF หลายรายการปลอดภัยหรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แน่นอน! ไฟล์เอาต์พุตที่สร้างผ่านบริการของเราจะถูกลบออกจากเซิร์ฟเวอร์ของเราโดยอัตโนมัติอย่างปลอดภัยภายในกรอบเวลา 24 ชั่วโมงด้วยเหตุนี้ ลิงก์ดาวน์โหลดที่เกี่ยวข้องกับไฟล์เหล่านี้จะหยุดทำงานหลังจากช่วงเวลานี้</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>เบราว์เซอร์ใดที่ควรใช้แอพ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณสามารถใช้เว็บเบราว์เซอร์สมัยใหม่เช่น Google Chrome, Firefox, Opera หรือ Safari สำหรับลายน้ำเอกสาร PDF ออนไลน์</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันจะลายน้ำไฟล์ PDF หลายไฟล์ได้อย่างไร</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">เริ่มต้นด้วยการอัปโหลดไฟล์อย่างน้อยหนึ่งไฟล์ที่คุณต้องการใส่ลายน้ำ คุณสามารถลากและวางไฟล์ PDF ของคุณหรือเพียงคลิกภายในพื้นที่สีขาว หลังจากนั้น คลิกปุ่ม 'ลายน้ำ' จากนั้นแอปลายน้ำออนไลน์ของเราจะประมวลผลไฟล์ที่อัพโหลดอย่างรวดเร็ว</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ลายน้ำไฟล์ PDF ใช้เวลานานเท่าไหร่?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แอปพลิเคชันลายน้ำนี้ทำงานได้อย่างรวดเร็ว อาจใช้เวลาสักครู่ในการอัปโหลดไฟล์และใส่ลายน้ำ</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
