@@ -5,7 +5,7 @@ description: Combine two or more separate documents including Microsoft Word, Ex
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Document Merging using Python APIs" h2="Combine files with ease and streamline your merging workflows for Microsoft<sup>&reg;</sup> Office files, PDF, Images and various other formats using Aspose.Total for Python via .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Document Merging using Python APIs" h2="Combine files with ease and streamline your merging workflows for Microsoft<sup>&reg;</sup> Office documents, PDF, Images and various other formats using Aspose.Total for Python via .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Document merging is the process of combining two or more separate documents, typically in digital format, into a single unified document. This can involve merging text, images, tables, charts, or any other type of content found in documents. Document merging is commonly used in various fields and scenarios for different purposes. It saves time, reduces errors, and helps maintain consistency in document production across different contexts and industries. The specific use cases and benefits of document merging can vary widely depending on the organization and its needs.
@@ -29,9 +29,9 @@ Document merging is the process of combining two or more separate documents, typ
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Merge Microsoft Office Documents" %}}
+{{% blocks/products/pf/feature-page-section  h2="Merge Microsoft Word Documents" %}}
 
-To merge Microsoft Office documents, you can use various methods depending on your specific needs. [Aspose.Words](https://products.aspose.com/words/family/) a child API of [Aspose.Total](https://products.aspose.com/total/family/) is a popular library for working with Microsoft Word documents in various programming languages, including Python. It provides extensive capabilities for document manipulation, including [word document merging via Python](https://products.aspose.com/total/python-net/merge/word/). <br /><br />
+To merge Microsoft Word documents, you can use various methods depending on your specific needs. [Aspose.Words](https://products.aspose.com/words/family/) a child API of [Aspose.Total](https://products.aspose.com/total/family/) is a popular library for working with Microsoft Word documents in various programming languages, including Python. It provides extensive capabilities for document manipulation, including [word document merging via Python](https://products.aspose.com/total/python-net/merge/word/). <br /><br />
 
 One can consider using Aspose.Words for document merging when having specific requirements or scenarios that go beyond basic document merging capabilities offered by standard word processing softwares. Here are some situations where Aspose.Words can be particularly useful for document merging:<br /><br />
 
