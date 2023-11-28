@@ -25,7 +25,7 @@ Document annotation is commonly used in various fields, including natural langua
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Annotate Microsoft Office Documents" %}}
+{{% blocks/products/pf/feature-page-section  h2="Annotate Microsoft Word and Powerpoint Presentations" %}}
 
 
 In Microsoft Word and PowerPoint, annotation typically refers to the process of adding comments, notes, or additional information to a document or presentation. These annotations can serve various purposes, such as providing feedback, collaborating with others, or emphasizing specific points.   <br />
@@ -39,5 +39,21 @@ Document annotation using [Aspose.Total for Python via .NET](https://products.as
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Python Based PDF Annotation" %}}
+
+
+To annotate PDF documents using Aspose.Total for Python, you'll specifically work with the Aspose.PDF for Python library. Aspose.PDF provides extensive features for creating, manipulating, and annotating PDF files. Ensure that you have the Aspose.PDF for Python library in your project dependencies. <br /><br />
+
+Here's python based code demonstrating how to annotate a PDF document using Aspose.PDF for Python: This Python code utilizes the Aspose.PDF library to perform actions on a PDF document. It begins by loading a PDF file. Subsequently, it identifies all free text annotations on the second page of the document. The code then enters a loop, iterating through each free text annotation, and deletes them from the document. Finally, the modified document is saved to a specified output file. Essentially, this script demonstrates how to remove all free text annotations from the second page of a PDF document using Aspose.PDF in a concise and efficient manner.
+
+{{% blocks/products/pf/feature-page-code h3="Python Code - Delete PDF Annotation" %}}
+
+{{< gist "aspose-com-gists" "6c341240174c0f541e14af8221ed0d78" "delete-free-text-annotation-from-pdf.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total-feature>}}
