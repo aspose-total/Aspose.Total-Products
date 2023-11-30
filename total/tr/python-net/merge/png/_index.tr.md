@@ -11,18 +11,15 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header-widget h1="PNG Dosyalarını Birleştirmek için Çevrimiçi Belge Birleştirme Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı PNG belge birleştirme uygulaması geliştirin.Birden fazla PNG belgesini uygulama aracılığıyla ücretsiz olarak tek bir çevrimiçi belgede birleştirin.PNG dosyasını çevrimiçi olarak PDF, Görseller, Word ve diğer birçok formatta kaydedin." >}}
 
-
-
-
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı Kullanarak PNG Dosyalarını Çevrimiçi Olarak Birleştirme" %}}
 
-1. Bunları tek bir dosyada birleştirmek için PNG dosyalarını yükleyin.
+1. PNG dosyalarını **birleştirmek** için tek bir dosyada yükleyin.
 1. Açılır menüden seçim gibi parametreleri girin.
 1. Gerekli formatta kaydedin: Resim, PDF, DOCX, HTML ve diğerleri
-1. PNG'i istenen formatta birleştirmek için "Birleştir" düğmesini tıklayın.
-1. Birleştirilmiş PNG dosyasını indirin.
-1. PNG'i tek bir dosya olarak birleştirmenin sonucunu görüntüleyin ve alın.
+1. PNG'i istenen formatta **birleştirmek** için "Birleştir" düğmesini tıklayın.
+1. **Birleştirilmiş PNG dosyasını** indirin.
+1. PNG'i tek bir dosya olarak **birleştirmenin** sonucunu görüntüleyin ve alın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -32,8 +29,8 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 1. Tüm Resimleri Yükle.
 1. Ortaya çıkan görüntü boyutunu alın ve ayarlayın.
 1. Görüntü seçeneklerini tanımlayın.
-1. Görüntüleri yenisiyle birleştirin.
-1. Kaydetme yöntemini çağırın ve birleştirilmiş PNG dosyalarını tek dosyaya alın.
+1. Görüntüleri yenisiyle **birleştirin**.
+1. Kaydetme yöntemini çağırın ve **birleştirilmiş PNG dosyalarını** tek dosyaya alın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -41,7 +38,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/code-block title="Python'da PNG'i birleştirme kodu" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Python'da PNG'i Birleştirme Kodu" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "120ea5d06aec29371a69a3362879544d" "merge-images-api.py" >}}
 
@@ -60,12 +57,12 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 <h2>Python kullanarak PNG Dosya Birleşmesini Geliştirin</h2>
 
-Birden fazla PNG dosyasını kolayca birleştirmek için python betiği veya yardımcı program uygulaması geliştirmeniz mi gerekiyor?Aspose.Total for Python via .NET'in alt API'si olan Aspose.Imaging for Python via .NET ile herhangi bir python geliştiricisi, profesyonel çözüm geliştirmek amacıyla belgeleri kolayca birleştirmek için yukarıdaki API kodunu entegre edebilir. Belgeleri birleştirmek için güçlü Python kitaplığı, PNG formatı dahil birçok popüler formatı destekler.<br /><br />
+Birden fazla PNG dosyasını kolayca **birleştirmek** için python betiği veya yardımcı program uygulaması geliştirmeniz mi gerekiyor?Aspose.Total for Python via .NET'in alt API'si olan Aspose.Imaging for Python via .NET ile herhangi bir python geliştiricisi, profesyonel çözüm geliştirmek amacıyla belgeleri kolayca **birleştirmek** için yukarıdaki API kodunu entegre edebilir. Belgeleri **birleştirmek** için güçlü Python kitaplığı, PNG formatı dahil birçok popüler formatı destekler.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Python için PNG birleştirme kütüphanesi" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Python için PNG **birleştirme** kütüphanesi" %}}
 Sisteminize 'Aspose.Imaging for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
 - Aspose.Imaging for Python via .NET'ü [PyPI](https://pypi.org/project/aspose-imaging-python-net/)'den yükleyin
@@ -73,7 +70,7 @@ Sisteminize 'Aspose.Imaging for Python via .NET' veya 'Aspose.Total for Python v
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Sistem Gereksinimleri" %}}
 
 - GNU libc >= 2.17
 - GCC-6 çalışma zamanı kitaplıkları (veya üstü).
@@ -103,20 +100,20 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
                           <span itemprop="name"><b>Yukarıdaki Python kodunu uygulamamda kullanabilir miyim?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Evet, bu kodu indirebilir ve PNG belgelerini birleştirmeye odaklanan Python tabanlı uygulamalar geliştirmek amacıyla kullanabilirsiniz.Python kullanarak PNG'i birleştirmek için profesyonel bir çözüm geliştirilebilir.Python'da üst düzey, platformdan bağımsız yazılım geliştirmek için PNG birleştirme API'mizi kullanın.</span>
+                          <span itemprop="text">Evet, bu kodu indirebilir ve PNG belgelerini **birleştirmeye** odaklanan Python tabanlı uygulamalar geliştirmek amacıyla kullanabilirsiniz.Python kullanarak PNG'i **birleştirmek** için profesyonel bir çözüm geliştirilebilir.Python'da üst düzey, platformdan bağımsız yazılım geliştirmek için PNG **birleştirme** API'mizi kullanın.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Uygulamayı birleştiren bu belge yalnızca Windows'ta mı çalışıyor?</b></span>
+                          <span itemprop="name"><b>Uygulamayı **birleştiren** bu belge yalnızca Windows'ta mı çalışıyor?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Windows, Linux, Mac OS veya Android olsun, üzerinde çalıştığı işletim sistemine bakılmaksızın herhangi bir cihazdan belge birleştirmeyi başlatma esnekliğine sahipsiniz. Tek gereken çağdaş bir web tarayıcısı ve aktif bir internet bağlantısıdır.</span>
+                          <span itemprop="text">Windows, Linux, Mac OS veya Android olsun, üzerinde çalıştığı işletim sistemine bakılmaksızın herhangi bir cihazdan belge **birleştirmeyi** başlatma esnekliğine sahipsiniz. Tek gereken çağdaş bir web tarayıcısı ve aktif bir internet bağlantısıdır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Birden fazla PNG belgesini birleştirmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
+                          <span itemprop="name"><b>Birden fazla PNG belgesini **birleştirmek** için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları, 24 saatlik bir süre içinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır.Sonuç olarak, bu dosyalarla ilişkili indirme bağlantıları bu sürenin sonunda artık işlevsel olmayacaktır.</span>
@@ -127,23 +124,23 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
                           <span itemprop="name"><b>Uygulamayı hangi tarayıcı kullanmalı?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Çevrimiçi PNG belgelerini birleştirmek için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                          <span itemprop="text">Çevrimiçi PNG belgelerini **birleştirmek** için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
                       </div>
                   </li>
  		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Birden fazla PNG dosyasını nasıl birleştirebilirim?</b></span>
+                          <span itemprop="name"><b>Birden fazla PNG dosyasını nasıl **birleştirebilirim**?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Birleştirmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. PNG dosyalarınızı sürükleyip bırakabilir veya yalnızca beyaz alanın içine tıklayabilirsiniz.Daha sonra 'Birleştir' butonuna tıklayın; birleşmemiz yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                          <span itemprop="text">**Birleştirmek** istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. PNG dosyalarınızı sürükleyip bırakabilir veya yalnızca beyaz alanın içine tıklayabilirsiniz.Daha sonra '**Birleştir**' butonuna tıklayın; **birleşmemiz** yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
                       </div>
                   </li>
  		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>PNG dosyalarını birleştirmek ne kadar sürer?</b></span>
+                          <span itemprop="name"><b>PNG dosyalarını **birleştirmek** ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu birleştirme uygulaması hızlı çalışır, dosyaların yüklenmesi ve birleştirilmesi birkaç saniye sürebilir.</span>
+                          <span itemprop="text">Bu **birleştirme** uygulaması hızlı çalışır, dosyaların yüklenmesi ve **birleştirilmesi** birkaç saniye sürebilir.</span>
                       </div>
                   </li>
               </ul>

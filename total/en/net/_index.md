@@ -156,7 +156,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Transform an XML document into an Adobe Acrobat PDF file
+  Transform an XML document into an Adobe PDF file using the PDF API
  </p>
 </div>
 <div class="col-lg-4">
@@ -184,7 +184,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Work with iCalendar
+  Work with iCalendar in C# WinForms, utilizing multithreading
  </p>
 </div>
 <div class="col-lg-4">
@@ -198,7 +198,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  <em class="fa fa-server ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Mail merge and send mass mail functions
+  Perform mail merge and execute mass mail functions
  </p>
 </div>
 <div class="col-lg-4">
@@ -219,7 +219,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
  </em>
  <p class="col-lg-10">
-  Extract text from images using OCR
+  Utilize Netsuite OCR software on Android to extract text from images
  </p>
 </div>
 <div class="col-lg-4">

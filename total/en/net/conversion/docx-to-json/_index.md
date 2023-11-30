@@ -10,18 +10,18 @@ outformat: JSON
 otherformats: FODS XLTX XLSM XLS XLT XLSB ODS CSV TSV XLTM EXCEL SXC XLAM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOCX to JSON Format via C#" h2="Parse DOCX to JSON via C# without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOCX to JSON Format, Convert Word to JSON, DOCX to JSON Converter via C#" h2="Parse DOCX to JSON via C# without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
 
-Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert DOCX to JSON format within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to JSON. 
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert DOCX to JSON format within any .NET, C#, ASP.NET, and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to JSON. 
 
 The first step is to use Aspose.Words for .NET to export the DOCX file to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert, and manipulate Microsoft Word documents without using Microsoft Office. It provides a wide range of features, including the ability to export DOCX to HTML. 
 
 The second step is to use Aspose.Cells for .NET to convert the HTML to JSON. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert Microsoft Excel spreadsheets without using Microsoft Office. It provides a wide range of features, including the ability to convert HTML to JSON. 
 
-By using Aspose.Total for .NET, developers can quickly and easily convert DOCX to JSON format within any .NET, C#, ASP.NET and VB.NET application. The two-step process of using Aspose.Words for .NET to export the DOCX file to HTML and then using Aspose.Cells for .NET to convert the HTML to JSON is simple and straightforward. With Aspose.Total for .NET, developers can easily and quickly convert DOCX to JSON format in no time.
+By using Aspose.Total for .NET, developers can quickly and easily convert DOCX to JSON format within any .NET, C#, ASP.NET, and VB.NET application. The two-step process of using Aspose.Words for .NET to export the DOCX file to HTML and then using Aspose.Cells for .NET to convert the HTML to JSON is simple and straightforward. With Aspose.Total for .NET, developers can easily and quickly convert DOCX to JSON format in no time.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -52,7 +52,7 @@ Using the API, you can also open the password-protected document. If your input 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert DOCX to JSON in Range via C#" %}}
-While you are converting DOCX to JSON, you can also set range to your output JSON format. In order to set the range, you can open the converted HTML using Workbook class, get CellsCollection of the Worksheet containing the data, create a range from CellsCollection by specifying row & column indices, and call ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects. Finally, you can save the JSON data to file via File.WriteAllText method.
+While you are converting DOCX to JSON, you can also set a range for your output JSON format. In order to set the range, you can open the converted HTML using Workbook class, get the CellsCollection of the Worksheet containing the data, create a range from CellsCollection by specifying row & column indices, and call ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects. Finally, you can save the JSON data to file via File.WriteAllText method.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

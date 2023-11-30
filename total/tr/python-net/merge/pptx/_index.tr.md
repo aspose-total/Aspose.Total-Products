@@ -9,12 +9,9 @@ informat: PPTX
 otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT PPS PPSX PPSM POTM ODP OTP POT PPTM PTOX PDF GIF JPG JPEG PNG TIFF IMAGE BMP XLS XLSX EXCEL ODS TSV XLSB XLSM XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="PPTX Dosyalarını Birleştirmek için Çevrimiçi Belge Birleştirme Uygulaması ve Python Kodu" h2="Güçlü Python tabanlı PPTX belge birleştirme uygulaması geliştirin.Birden fazla PPTX belgesini uygulama aracılığıyla ücretsiz olarak tek bir çevrimiçi belgede birleştirin.PPTX dosyasını çevrimiçi olarak PDF, Görüntüler, Word, Excel, PowerPoint ve diğer birçok formatta kaydedin." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Çevrimiçi Belge Birleştirme Uygulaması ve Python Kodu ile PPTX Dosyalarını Birleştirme" h2="Güçlü Python tabanlı PPTX belge birleştirme uygulaması geliştirin. Birden fazla PPTX belgesini uygulama aracılığıyla ücretsiz olarak tek bir çevrimiçi belgede birleştirin. PPTX dosyasını çevrimiçi olarak PDF, Görüntüler, Word, Excel, PowerPoint ve diğer birçok formatta kaydedin." >}}
 
-
-
-
-{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section %}}
 {{% blocks/products/pf/agp/feature-section-col title="Uygulamayı Kullanarak PPTX Dosyalarını Çevrimiçi Olarak Birleştirme" %}}
 
 1. Bunları tek bir dosyada birleştirmek için PPTX dosyalarını yükleyin.
@@ -51,16 +48,15 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-
 <h2>Python kullanarak PPTX Dosya Birleşmesini Geliştirin</h2>
 
-Birden fazla PPTX dosyasını kolayca birleştirmek için python betiği veya yardımcı program uygulaması geliştirmeniz mi gerekiyor?Aspose.Total for Python via .NET'in alt API'si olan Aspose.Slides for Python via .NET ile herhangi bir python geliştiricisi, belgeleri kolayca birleştirmek için yukarıdaki API kodunu entegre edebilir.Belgeleri birleştirmek için güçlü Python kitaplığı, PPTX formatı dahil birçok popüler formatı destekler.<br /><br />
+Birden fazla PPTX dosyasını kolayca birleştirmek için python betiği veya yardımcı program uygulaması geliştirmeniz mi gerekiyor? Aspose.Total for Python via .NET'in alt API'si olan Aspose.Slides for Python via .NET ile herhangi bir python geliştiricisi, belgeleri kolayca birleştirmek için yukarıdaki API kodunu entegre edebilir. Belgeleri birleştirmek için güçlü Python kitaplığı, PPTX formatı dahil birçok popüler formatı destekler.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Python için PPTX birleştirme kütüphanesi" %}}
-Sisteminize 'Aspose.Slides for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+Sisteminize 'Aspose.Slides for Python via .NET' veya 'Aspose.Total for Python via .NET' yüklemek için alternatif seçenekler vardır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
 - Aspose.Slides for Python via .NET'ü [PyPI](https://pypi.org/project/Aspose.Slides/)'den yükleyin
 - Veya Aşağıdaki pip komutlarını kullanın: ```pip install Aspose.Slides```.
@@ -97,7 +93,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
                           <span itemprop="name"><b>Yukarıdaki Python kodunu uygulamamda kullanabilir miyim?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Evet, bu kodu indirebilirsiniz. Python kullanarak PPTX'i birleştirmek için kolayca profesyonel bir çözüm geliştirilebilir.Python'da üst düzey, platformdan bağımsız yazılım geliştirmek için PPTX birleştirme API'sini kullanın.</span>
+                          <span itemprop="text">Evet, bu kodu indirebilirsiniz. Python kullanarak PPTX'i birleştirmek için kolayca profesyonel bir çözüm geliştirilebilir. Python'da üst düzey, platformdan bağımsız yazılım geliştirmek için PPTX birleştirme API'sini kullanın.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -113,7 +109,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
                           <span itemprop="name"><b>Birden fazla PPTX belgesini birleştirmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları, 24 saatlik bir süre içinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır.Sonuç olarak, bu dosyalarla ilişkili indirme bağlantıları bu sürenin sonunda artık işlevsel olmayacaktır.</span>
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları, 24 saatlik bir süre içinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak, bu dosyalarla ilişkili indirme bağlantıları bu sürenin sonunda artık işlevsel olmayacaktır.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -129,7 +125,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
                           <span itemprop="name"><b>Birden fazla PPTX dosyasını nasıl birleştirebilirim?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Birleştirmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. PPTX dosyalarınızı sürükleyip bırakabilir veya yalnızca beyaz alanın içine tıklayabilirsiniz.Daha sonra 'Birleştir' butonuna tıklayın; birleşmemiz yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                          <span itemprop="text">Birleştirmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. PPTX dosyalarınızı sürükleyip bırakabilir veya yalnızca beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Birleştir' butonuna tıklayın; birleşmemiz yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
                       </div>
                   </li>
  		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
