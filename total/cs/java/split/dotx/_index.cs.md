@@ -73,6 +73,8 @@ Existují alternativní možnosti instalace „[Aspose.Words for Java](https://p
 <br />
 Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v [Produktová dokumentace](https://docs.aspose.com/words/java/system-requirements/#optional-dependencies).
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

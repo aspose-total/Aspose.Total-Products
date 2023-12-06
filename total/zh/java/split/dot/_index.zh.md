@@ -73,6 +73,8 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 <br />
 有关 JogAmp JOGL、Harfbuzz 字体引擎和 Java Advanced Imaging JAI 的详细信息请参阅 [产品文档](https://docs.aspose.com/words/java/system-requirements/#optional-dependencies)。
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

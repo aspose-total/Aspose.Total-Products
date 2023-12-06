@@ -73,6 +73,8 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 <br />
 Để biết thông tin chi tiết về JogAmp JOGL, công cụ phông chữ Harfbuzz và Java Advanced Imaging JAI, vui lòng tham khảo [Tài liệu sản phẩm](https://docs.aspose.com/words/java/system-requirements/#optional-dependencies).
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

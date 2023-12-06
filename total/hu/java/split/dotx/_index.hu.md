@@ -73,6 +73,8 @@ Vannak alternatív lehetőségek a "[Aspose.Words for Java](https://products.asp
 <br />
 A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részleteit a [Termékdokumentáció](https://docs.aspose.com/words/java/system-requirements/#optional-dependencies) tartalmazza.
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

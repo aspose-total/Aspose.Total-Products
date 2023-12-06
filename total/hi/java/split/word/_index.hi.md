@@ -73,6 +73,8 @@ Word फ़ाइलों को आसानी से विभाजित �
 <br />
 जोगएम्प जेओजीएल, हार्फबज फ़ॉन्ट इंजन और जावा एडवांस्ड इमेजिंग जेएआई विवरण के लिए कृपया जेपीजी1 देखें।
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

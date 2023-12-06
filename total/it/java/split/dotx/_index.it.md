@@ -73,6 +73,8 @@ Esistono opzioni alternative per installare "[Aspose.Words for Java](https://pro
 <br />
 Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imaging JAI fare riferimento a [Documentazione del prodotto](https://docs.aspose.com/words/java/system-requirements/#optional-dependencies).
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

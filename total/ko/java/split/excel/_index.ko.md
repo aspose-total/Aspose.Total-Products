@@ -69,6 +69,8 @@ Excel 파일을 쉽게 분할하기 위해 Java 스크립트 또는 유틸리티
 <br />
 자세한 내용은 [제품 문서](https://docs.aspose.com/cells/java/system-requirements/#optional-dependencies)을 참조하세요.
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -69,6 +69,8 @@ Sisteminize "[Aspose.Cells for Java](https://products.aspose.com/cells/tr/java/)
 <br />
 Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cells/java/system-requirements/#optional-dependencies)'e bakın.
 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
