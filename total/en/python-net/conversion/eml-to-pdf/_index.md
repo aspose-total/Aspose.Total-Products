@@ -1,6 +1,6 @@
 ---
 title: Convert EML to PDF in Python
-description: Save EML to PDF in your Python applications without using Microsoft Outlook or Word 
+description: Save EML to PDF in your Python applications without using Microsoft Outlook or Word. Convert EML files to PDF seamlessly using Aspose.Total for Python via .NET API.
 
 family: total
 platformtag: Python
@@ -9,6 +9,7 @@ informat: EML
 outformat: PDF
 otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS RTF TEXT WORD WORDML BMP GIF IMAGE JPEG TIFF PNG SVG XPS
 ---
+
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert EML to PDF using Python" h2="EML to PDF conversion in Python applications without installing Microsoft Outlook." >}}
 
@@ -44,7 +45,6 @@ With Aspose.Total for Python via .NET, you can automate the EML to PDF conversio
 - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/) and [Aspose.Email](https://pypi.org/project/Aspose.Email-for-Python-via-NET/))
 - Or use the following pip command ```pip install aspose.words``` and ```pip install Aspose.Email-for-Python-via-NET``` 
 - Moreover, Microsoft Windows or Linux based OS (see more for [Words](https://docs.aspose.com/words/python-net/system-requirements/) and [Email](https://docs.aspose.com/email/python-net/system-requirements/)) and for Linux check additional requirements for gcc and libpython and follow step by step instructions [INSTALL](https://docs.aspose.com/words/python-net/installation/)
- 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

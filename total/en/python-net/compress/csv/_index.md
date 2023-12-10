@@ -1,6 +1,6 @@
 ---
-title: Online CSV File Compression or Build Python Apps to Archive CSV Files
-description: Free online app to compress different CSV files. Python archiving library code for CSV documents. 
+title: Online CSV File Compression or Build Python Apps to Compress CSV Files
+description: Free online app to compress CSV files. Python archiving library code for CSV documents. 
 
 family: total
 platformtag: Python
@@ -8,39 +8,37 @@ feature: Compress
 informat: CSV
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
+
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Online Document Compression App and Python Code to Archive CSV Files" h2="Develop powerful Python based CSV document archiving applications. Archive single and multiple CSV documents into ZIP, RAR and more archiving options via your Python application. Freely compress various documents including CSV files online via app with instant download." >}}
-
-
-
+{{< blocks/products/pf/feature-page-header-widget h1="Online CSV Compression App and Python Code to Compress CSV Files" h2="Develop powerful Python based CSV archiving applications. Compress single or multiple CSV files into ZIP, RAR and other archiving formats via Python application. Freely compress CSV files online via app with instant download." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Compress and Optimize CSV Files Online using App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Compress CSV Files Online using App" %}}
 
 1. Upload CSV files to compress and optimize.
-1. Choose the Compression Level (Low, Medium or High)
-1. Click the "Compress" button.
-1. Download the compressed CSV file.
-1. View and get the result of compression by checking its size and content quality.
+2. Choose the Compression Level (Low, Medium or High)
+3. Click the "Compress" button.
+4. Download the compressed CSV file.
+5. View and get the result of compression by checking its size and content quality.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Archive CSV File via Python Compression API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Compress CSV Files via Python Compression API" %}}
 
 1. Reference API within the project directly from PyPI ([Aspose.ZIP](https://pypi.org/project/aspose-zip/)) 
-1. Use Archive() of Aspose.ZIP for Python via .NET.
-1. Add as many CSV files as you want to archive using create_entry().
-1. Call save method and get the archived CSV file as ZIP, RAR etc.
+2. Use Archive() of Aspose.ZIP for Python via .NET.
+3. Add as many CSV files as you want to archive using create_entry().
+4. Call save method and get the archived CSV file as ZIP, RAR etc.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Code example in python to archive CSV File" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Compress CSV Files via Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "533b68e0904932a37c25a576bd20448d" "compress-and-add-single-file-into-archive.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="Python code to archive multiple CSV Files" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Compress Multiple CSV Files via Python" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "533b68e0904932a37c25a576bd20448d" "compress-and-add-multiple-files-into-archive.py" >}}
 
@@ -50,10 +48,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{% blocks/products/pf/feature-page-summary %}}
 
+<h2>Develop CSV File Compression Application using Python</h2>
 
-<h2>Develop CSV File Archiving Application using Python</h2>
-
-Need to develop python script or utility app to easily archive single or multiple CSV files? With Aspose.ZIP for Python via .NET, child API of Aspose.Total for Python via .NET, any python developer can integrate the above API code to program archiving (ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB) app across documents. Powerful Python library for document archiving supports many popular formats including CSV format.<br /><br />
+Need to develop python script or utility app to easily archive single or multiple CSV files? With Aspose.ZIP for Python via .NET, child API of Aspose.Total for Python via .NET, any python developer can integrate the above API code to program archiving (ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB) app across documents. Powerful Python library for document archiving supports many popular formats including CSV format. CSV file compressor, CSV file size reducer, compress file csv, how to compress csv file, compress a csv file, how to compress a csv file, compress csv file python, compress csv file size online, csv compressor online, compress csv online, csv reduce file size.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
@@ -66,7 +63,7 @@ There are alternative options to install 'Aspose.ZIP for Python via .NET' or 'As
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/feature-section-col title="CSV Compression App Requirements" %}}
 
 - Python 3.5 or later is installed
 - GCC-6 runtime libraries (or later).
