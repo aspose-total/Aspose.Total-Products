@@ -39,7 +39,7 @@ When it comes to protecting Microsoft Excel spreadsheets, Aspose.Total for Java 
 
 Aspose.Total for Java enhances PDF document security in Java applications. The library seamlessly integrates advanced encryption, digital signatures, and access controls. Developers can implement password protection, restricting access to authorized users only. With features to prevent unauthorized printing, copying, and editing, Aspose.Total for Java provides a precise and effective solution for safeguarding PDFs in Java-based applications. <br />
 
-{{% blocks/products/pf/feature-page-code h3="Java code to secure PDF files" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code: Secure PDF Files" %}}
 
 {{< gist "aspose-com-gists" "e0e3dba05d6ab73e3e5eb193f1aeb3bd" "protect-pdf-document-with-password.java" >}}
 
