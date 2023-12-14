@@ -19,7 +19,7 @@ otherformats: WMZ TGA SVGZ DICOM WMF EMZ DXF PSD JPEG2000 IMAGE
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET経由でHTMLファイルをDICOMに変換する" %}}
 1. [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)クラスを使用してHTMLファイルを開きます
-2. [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)クラスオブジェクトを初期化し、[Process](https：//apireference.aspose)を使用してHTMLをJPEGにレンダリングします。 com / pdf / net / aspose.pdf.devices.pagedevice / process / methods / 1)メソッド
+2. [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)クラスオブジェクトを初期化し、[Process](https://apireference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)を使用してHTMLをJPEGにレンダリングします。 メソッド
 3. [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してJPEGファイルをロードします
 4. [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをDICOM形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
