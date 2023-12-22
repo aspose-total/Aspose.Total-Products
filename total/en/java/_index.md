@@ -74,6 +74,10 @@ Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats.
 Aspose.HTML for Java is an advanced HTML manipulation API that allows creating, loading, editing or converting (X)HTML documents within the Java applications. The API also provides a high fidelity rendering engine for PDF, XPS and a number of raster image formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/zip/java/" imgSrc="/total/images/aspose_zip-for-java.svg" productName="Aspose.ZIP for Java">}}
+Aspose.ZIP for Java streamlines file and folder archiving in Java apps. Compress, decompress, and encrypt files effortlessly. With support for popular compression techniques and upcoming features like LZMA and 7z, it's your go-to solution for efficient file handling. 
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/page/java/" imgSrc="/total/images/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Aspose.Page for Java is a PostScript and XPS document parsing and processing API. Developers can easily convert PS & EPS files to PDF and raster image formats. API also allows the developers to create, parse and save XPS files without any dependencies.
 {{< /blocks/products/pf/total/product-item >}}

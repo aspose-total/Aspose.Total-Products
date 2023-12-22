@@ -34,6 +34,10 @@ Python Barcode library to generate and recognize 1D & 2D barcodes from images at
 Python Diagram library that helps in creating, reading, writing and exporting Microsoft Visio VSDX, VDX, VSX, VTX and other formats without needing Microsoft Visio or any other software.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/ocr/python-java/" imgSrc="/total/images/aspose_ocr-for-python-java.svg" productName="Aspose.OCR for Python via Java">}}
+Aspose.OCR for Python via Java streamlines image-to-text conversion with minimal effort. Its advanced OCR engine supports 28 languages, various fonts, and filters for image enhancement. Batch processing, automatic correction, and diverse output formats make it versatile. Seamlessly integrated with other Aspose products, it ensures optimal OCR results with minimal coding, simplifying cross-platform applications.
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

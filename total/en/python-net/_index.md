@@ -57,11 +57,19 @@ Experience seamless manipulation of Microsoft Visio formats using a dedicated Py
 Effortlessly create, load, update, and convert Microsoft Project files right within your Python applications, all without relying on Microsoft Project dependencies or any other external software. Unlock the full potential of your Python projects with seamless Microsoft Project file management.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/ocr/python-net/" imgSrc="/total/images/aspose_ocr-for-python-net.svg" productName="Aspose.OCR for Python via .NET">}}
+Effortlessly create, load, update, and convert Microsoft Project files right within your Python applications, all without relying on Microsoft Project dependencies or any other external software. Unlock the full potential of your Python projects with seamless Microsoft Project file management.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cad/python-net/" imgSrc="/total/images/aspose_cad-for-python-net.svg" productName="Aspose.CAD for Python via .NET">}}
+Aspose.CAD for Python simplifies Python report exports to various image formats, including PDF and JPEG. It ensures a seamless experience with CAD and BIM files, maintaining original report designs for consistency. Deploy effortlessly on Python machines or integrate with JasperServer using a single JAR file. Benefit from efficient handling with support for multipage export to GIF, TIFF, and PDF, along with convenient batch export. Explore Aspose.CAD for Python for streamlined and true-to-design Python reporting.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
 A Python 3D API that enables you to effortlessly create, edit, and convert a wide range of 3D file formats, including Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco, and more, all without any external dependencies. Unleash the full potential of your 3D projects with this versatile Python 3D API.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zip/python-net/" imgSrc="/total/images/aspose_zip-for-python.svg" productName="Aspose.ZIP for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/python-net/" imgSrc="/total/images/aspose_zip-for-python-net.svg" productName="Aspose.ZIP for Python via .NET">}}
 Efficiently compress files to create a variety of archive formats or decompress existing archives with ease in your Python applications. Supported formats include ZIP, 7Zip, RAR, TAR, GZIP, BZ2, LZ, CPIO, XZ, Z, and CAB. Streamline your file management tasks with this versatile Python solution.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -201,6 +209,9 @@ Effortlessly work with XBRL and iXBRL formats using a dedicated Python API that 
   </li>
   <li>
    <b>3D & CAD:</b> FBX, STL, 3DS, U3D, DAE, glTF, DRC, RVM, AMF, PLY
+  </li>
+  <li>
+   <b>Archives:</b> ZIP, TAR, GZIP, LZ, CPIO, SHAR, BZ2, RAR, WIM, XAR, XZ, Z, CAB, 7Z
   </li>
  </ul>
 </div>
