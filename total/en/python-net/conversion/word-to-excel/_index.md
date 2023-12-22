@@ -14,7 +14,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{< blocks/products/pf/feature-page-header h1="Convert Word to Excel via Python or Word to Excel Converter Online App" h2="Word to Excel conversion in Python applications without installing Microsoft Word<sup>&reg;</sup> or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-<h2 class="heading-border">Why there is a need to Convert Word files to Excel formats?</h2>
+<h2 class="heading-border">Why Convert Word files to Excel formats?</h2>
 
 Exporting Word documents to Excel can be beneficial for several reasons. Firstly, Word documents are primarily designed for text-based content and may not be structured to manage tabular data efficiently. Excel, on the other hand, is designed specifically for organizing, analyzing, and manipulating data in tables, making it a preferred format for managing tabular data. Secondly, Excel offers a more robust set of data manipulation tools that are not available in Word. Excel enables users to perform complex calculations, statistical analysis, and data visualization tasks that are essential in data-driven decision-making. Thirdly, exporting Word documents to Excel using the Word to Excel Converter in Python can simplify data management tasks, especially when dealing with large amounts of data. Excel can manage data across multiple sheets, apply filters, and sort data, which can enhance data organization and analysis.
 
@@ -33,7 +33,7 @@ Exporting Word documents to Excel can be beneficial for several reasons. Firstly
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Word to Excel Converter Requirements" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Word to Excel Converter API" %}}
 
 To convert Word files to Excel using Python, you will need to have Python 3.5 or a later version installed on your computer. Additionally, you will need to reference the necessary APIs within your project. Two popular options for this are [Aspose.Words](https://pypi.org/project/aspose-words/) and [Aspose.Cells](https://pypi.org/project/aspose-cells-python/), which can be installed via pip using the following commands:<br>
 ```pip install aspose.words```<br>

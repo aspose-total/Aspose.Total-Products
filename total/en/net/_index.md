@@ -19,103 +19,153 @@ Enhance your .NET applications with powerful file manipulation capabilities, all
 {{< blocks/products/pf/total/products description="Aspose.Total for .NET includes the following file format APIs for .NET:" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="/total/images/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
-An advanced API that enables you to seamlessly perform multiple file parsing tasks within your .NET, iOS, macOS, and Android applications. With Aspose.Words for .NET, developers can effortlessly modify, generate, render, convert, and print documents without the need for Microsoft Word. This versatile solution supports a wide range of document formats, including DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB, and many more.
+Aspose.Words for .NET is a versatile cross-platform class library for document processing. It excels in converting documents seamlessly between various formats, eliminating the need for third-party applications like Microsoft Word. The library offers features for conversion, a Document Object Model (DOM) for programmatic access, high-fidelity rendering, and efficient reporting.
+<br/><br/>
+This powerful <em>Word API</em> simplifies file parsing tasks in .NET, iOS, macOS, and Android applications. Aspose.Words for .NET enables users to modify, generate, render, convert, and print documents across diverse platforms. It supports a wide range of document formats, including DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB, and more, making it a versatile solution for document processing needs.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="/total/images/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
-Aspose.PDF for .NET is your go-to PDF file processing and parsing API. It empowers .NET applications to seamlessly read, manipulate, and write PDF files, all without relying on Adobe Acrobat dependencies. This versatile API offers an array of features, including the conversion of PDF documents to multiple formats and the transformation of PDF files into traditional raster and vector images.
+Aspose.PDF for .NET is a robust class library crafted for comprehensive PDF document processing within the .NET environment. This versatile API enables reading, manipulating, and writing PDF files in .NET applications without relying on Adobe Acrobat. It supports various file formats, offering capabilities for text extraction, image handling, attachment management, and PDF conversion. Compatible with different .NET Framework versions, it supports PDF versions 1.2 to 1.7.
+<br/><br/>
+The <em>PDF API</em> handles fonts, text, images, pages, documents, bookmarks, annotations, forms, encryption, decryption, and password changes. It's a versatile tool for various PDF tasks, including converting PDFs to different formats and transforming them into raster and vector images.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="/total/images/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
-Excel API allows developers to work with spreadsheet file formats in .NET, iOS & Android applications without requiring Microsoft Excel. Aspose.Cells for .NET supports all the major Microsoft Excel formats including XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited & SpreadsheetML.
+Aspose.Cells for .NET, a versatile library in managed C#, empowers developers to seamlessly work with spreadsheet file formats in various applications, including .NET, iOS, and Android, without relying on Microsoft Excel.
+<br/><br/>
+The <em>Excel library</em> supports major formats like XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited, and SpreadsheetML. With features such as Excel file manipulation, chart creation, data import/export, and unique functionalities like gradient backgrounds and auto-filters, Aspose.Cells for .NET provides a comprehensive solution for professional spreadsheet data display and management. Its integration with Aspose.Cells Grid Suite further facilitates grid control implementation in Windows and Web applications, offering complete control over appearance and behavior.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="/total/images/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
-Aspose.Email for .NET is a collection of .NET APIs to create, manipulate, send & receive emails from within ASP.NET web applications, web services or Windows applications. The Email API makes it super easy to work with Outlook ICS, PST, OST, EML, MSG and MHT files as well as Thunderbird's storage MBOX files.
+Aspose.Email for .NET is a robust suite of .NET class libraries providing comprehensive APIs for managing emails within ASP.NET web applications, web services, and Windows applications. This Email API simplifies intricate tasks, supporting various network protocols, message file formats, and mail storage formats. Notably, it excels in handling Outlook ICS, PST, OST, EML, MSG, and MHT files, along with Thunderbird's storage MBOX files. It adheres to the iCalendar RFC (2445) standards, offering a straightforward interface for managing time-oriented recurrence patterns or schedules in .NET applications.
+<br/><br/>
+Developers benefit from the <em>Email Toolset</em>, allowing them to efficiently create, manipulate, send, and receive emails, making it an ideal solution for diverse email processing needs.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="/total/images/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
-Aspose.Slides for .NET is a standalone PowerPoint processing API to read, write and manipulate presentations and slides. Developers can generate, modify, copy, convert, render and print presentation file formats including PPT, PPS, POT, PresentationML (OOXML, PPTX) and OpenDocument presentations (ODP).
+Aspose.Slides for .NET is a robust API designed for standalone PowerPoint processing, allowing .NET applications to efficiently read, write, and manipulate presentations and slides.
+<br/><br/>
+Developers can generate, modify, copy, convert, render, and print various presentation file formats, including PPT, PPS, POT, PresentationML (OOXML, PPTX), and OpenDocument presentations (ODP). This API offers comprehensive features for managing text, shapes, tables, animations, audio, and video, making it a versatile solution for PowerPoint document management in .NET applications.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/imaging/net/" imgSrc="/total/images/aspose_imaging-for-net.svg" productName="Aspose.Imaging for .NET">}}
-Aspose.Imaging for .NET is an imaging API to create, edit, draw or convert images within .NET applications. Developers can save the created or edited images to a variety of formats including TIFF, GIF, BMP, JPEG, PNG and more, without the need of an Image editor to be installed.
+Aspose.Imaging for .NET is a versatile API empowering developers to create, edit, draw, or convert images within .NET applications. Operating independently and eliminating the need for an installed image editor, it supports various formats such as TIFF, GIF, BMP, JPEG, and PNG.
+<br/><br/>
+The API offers comprehensive features, including image export, conversion to thumbnails, and drawing objects using both basic and advanced functionality. With high-speed processing, cross-platform portability, and compatibility with Mono and Linux in the .NET Standard API, Aspose.Imaging is suitable for a range of applications, from ASP.NET web to Windows desktop.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="/total/images/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
-Aspose.BarCode for .NET API allows developers to quickly and easily add barcode generation and recognition functionality to their Microsoft .NET applications. It supports WinForms, ASP.NET and .NET Compact Framework.
+Aspose.BarCode for .NET, a powerful barcode processing library in Managed C#, seamlessly integrates with Microsoft .NET applications. Developers can effortlessly generate and recognize barcodes with support for WinForms, ASP.NET, and .NET Compact Framework.
+<br/><br/>
+Boasting 70+ symbologies, customizable appearance parameters, and versatile image format compatibility, it caters to diverse barcode needs. The library's adaptability extends to console, web, .NET MAUI, Windows Forms, and WPF applications, with full-featured demos and C# code samples enhancing developers' understanding and utilization of its capabilities.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="/total/images/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
-Aspose.Diagram for .NET is a feature-rich Visio API. Developers can easily manipulate diagrams and convert Visio tiles to PDF and image file formats. Aspose.Diagram also leverages advanced functionality provided by Visio services to manipulate Visio documents at server.
+Aspose.Diagram for .NET is a versatile and feature-rich Visio API enabling developers to seamlessly create, read, and manipulate Microsoft Visio diagrams. This API supports various Visio formats (2003 to 2013), offering features like diagram creation from scratch, reading and writing, and exporting to image formats, PDF, HTML, XPS, and more.
+<br/><br/>
+With platform independence, performance, and scalability, it supports 32-bit and 64-bit .NET applications, making it suitable for ASP.NET, Web Services, and WinForms. Additionally, Aspose.Diagram leverages advanced Visio services to manipulate Visio documents on the server, allowing developers to convert Visio files to PDF and image formats.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="/total/images/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
-Aspose.Tasks for .NET is a powerful .NET project management API enabling .NET applications to read Microsoft Project documents in MPP and XML formats along with writing project documents in XML format without using Microsoft Project.
+Aspose.Tasks is like a productivity wizard, offering a feature-packed toolkit for creating, reading, and managing project files in various formats, including Microsoft Project documents in MPP and XML. It handles projects from Microsoft Project versions 2003 to 2021 and provides compatibility with Oracle Primavera documents in formats like P6XML.
+<br/><br/>
+The API streamlines tasks such as updating project settings, managing constraints, creating and handling tasks, resource management, and more. It also supports encoding MPX files, implementing resource prefixes, adding a CSS prefix for HTML export, custom date formats in PDF export, and reading VBA information from MPP files.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="/total/images/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
-Aspose.OCR for .NET is a character recognition API allowing developers to add OCR functionality to their .NET applications. It provides simple set of classes to recognize characters from most commonly used image formats.
+Aspose.OCR for .NET is a powerful teammate, integrating advanced optical character recognition (OCR) technology into .NET applications. Crafted by the Aspose engineering team, it boasts a cutting-edge recognition engine for superior speed and accuracy.
+<br/><br/>
+Key features include support for 28 languages, detection of popular typefaces, handling various image conditions, batch processing, and compatibility with multiple file formats. This API empowers developers to effortlessly create on-premise and web-based applications, converting images to text with minimal coding. Seamless integration with other Aspose products provides a comprehensive solution for optical recognition needs.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="/total/images/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
-Aspose.Note for .NET API enables applications to interact with Microsoft OneNote files programmatically. It supports features like loading, converting, creating and manipulating the content of Microsoft OneNote files without requiring any additional libraries or third-party software.
+Aspose.Note for .NET API is your go-to scribe, allowing applications to interact with Microsoft OneNote files programmatically. It simplifies loading, converting, creating, and manipulating the content of OneNote files without the need for extra libraries or third-party software. This feature-rich API facilitates rendering text and images into various formats, including raster images (PNG, JPEG, GIF, BMP, TIFF) and Portable Document Format (PDF).
+<br/><br/>
+Users can seamlessly edit OneNote documents, insert images, parse numbered lists, navigate the Document Object Model, extract text, and manage text formatting and layout information. The API also supports the replacement and insertion of text and elements, providing flexibility in exporting to different rendering formats.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="/total/images/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
-Aspose.CAD for .NET allows developers to convert AutoCAD DWG and DXF files to PDF, JPG, PNG, BMP, TIFF and GIF image formats. It is a native API and does not require AutoCAD or any other software to be installed.
+Aspose.CAD for .NET is a comprehensive companion for working with AutoCAD files, supporting the latest versions of DWG, DWF, DWT, and DXF formats. It excels at converting AutoCAD files to high-quality PDF and raster images, selecting and converting specific layouts and layers, and tracking the file conversion process. Supporting a wide range of formats like DXF, DWG, DGN, DWF, DWFX, DXB, DWT, PLT, CF2, OBJ, FBX, SVG, COLLADA, STL, STP, IFC, and IGES, it can convert CAD drawings to raster images in formats such as PNG, BMP, TIFF, JP2, PSD, DICOM, WEBP, GIF, and JPEG.
+<br/><br/>
+Aspose.CAD for .NET stands alone, requiring no AutoCAD or other software. With features like image loading, compression, and drawing operations, it simplifies working with CAD files.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="/total/images/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
-Aspose.3D for .NET is a feature-rich 3D API for .NET developers to connect with 3D document formats without requiring any additional 3D modeling and rendering software. It supports most commonly used 3D file formats where developers can easily create, read, convert, modify and control the substance of 3D files.
+Aspose.3D for .NET is a feature-rich 3D companion designed for .NET developers. It allows seamless interaction with 3D document formats without the need for additional 3D modeling and rendering software. The API supports various 3D file formats, enabling developers to create, read, convert, modify, and control the content of 3D files effortlessly.
+<br/><br/>
+Offering general features like rendering in Windows Forms and ASP.NET applications, compatibility with different .NET frameworks, and support for file formats like FBX, Collada, glTF, U3D, STL, OBJ, and more. Additionally, it provides capabilities such as Lambert Material, Phong Material, Shader-based Material, PBR Material, covering aspects like materials, textures, meshes, geometries, transformations, scene graphs, and animations.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/html/net/" imgSrc="/total/images/aspose_html-for-net.svg" productName="Aspose.HTML for .NET">}}
-Aspose.HTML for .NET allows developers to create, edit and render HTML pages to fixed-layout formats such as PDF & XPS etc and a number of raster image formats within your .NET applications
+Aspose.HTML for .NET empowers developers to create, edit, and render HTML pages in .NET applications. This versatile library supports popular file formats like EPUB, MHTML, XML, SVG, and Markdown, providing rendering capabilities to fixed-layout formats such as PDF, XPS, and various raster image formats.
+<br/><br/>
+Entirely written in C# and seamlessly integrating with the HTML Document Object Model, it supports specifications like CSS, HTML Canvas, SVG, XPath, and JavaScript. The API facilitates HTML creation, editing, template merging, and conversion between various formats, making it a robust tool for handling HTML content in .NET applications. The library also supports data extraction, Markdown conversion, and merging of HTML files, providing a comprehensive solution for HTML processing.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/gis/net/" imgSrc="/total/images/aspose_gis-for-net.svg" productName="Aspose.GIS for .NET">}}
-Aspose.GIS for .NET empowers the .NET applications to access & manipulate geographic information from vector based geospatial data formats. It offers to read, write & convert GIS data formats like ESRI Shapefile & GeoJSON.
+Aspose.GIS for .NET is your GPS in the world of GIS data, offering a comprehensive set of features for managing GIS data stored in common formats. Whether it's Shapefile, GeoJSON, FileGDB, GML, KML, SVG, or databases like PostGis and Sql Server, this library has you covered. Tasks like reading and writing vector GIS data, converting between formats, creating and analyzing feature geometries, and rendering maps to SVG become a breeze.
+<br/><br/>
+Supporting functionalities such as reading and writing vector data, converting data between formats, visualizing data with map rendering, manipulating geometries, and performing vector data analysis. Additionally, it provides tools for working with spatial reference systems. Aspose.GIS for .NET stands out as a robust solution for GIS data manipulation and visualization.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="/total/images/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
-Aspose.ZIP for .NET API enables the developers to compress documents and archives to zip format as well as decompress zip files to respective archives and files.
+Aspose.ZIP for .NET is a compression maestro, enabling developers to compress and decompress files and folders using various techniques. Compatible with popular applications, the API offers features such as creating archives from one or multiple files, adding files to existing archives, compressing directories with structure preservation, decompressing files and folders, deleting entries from archives, and storing files without compression.
+<br/><br/>
+Supporting Zip64 Archives for large files, LZMA, BZip2, and PPMd compression within ZIP archives, as well as encryption capabilities, including Traditional Encryption (ZipCrypto) and AES 128, 192, and 256 encryption. The API is versatile and can be utilized in various .NET applications, offering features like password protection, appending files to zipped archives, and leveraging parallelism for efficient compression.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="/total/images/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
-Aspose.Page for .NET provides the ability to create, edit and save existing as well as new XPS documents. It also allows converting PS, EPS & XPS files to PDF and image formats.
+Aspose.Page is a C# API crafted for XPS and EPS/PS documents, enabling easy conversion to PDF and image formats. It seamlessly integrates with .NET Framework, Windows Forms, and ASP.NET, offering 32-bit and 64-bit OS support.
+<br/><br/>
+Unlock features like creating/editing XPS documents, working with elements, preserving print tickets, and saving as raster images or PDF. For EPS, support spans PostScript language levels 1-3. The API accommodates various .NET frameworks and is backed by comprehensive documentation.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="/total/images/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
-Aspose.PSD for .NET API enables the developers to load or create Photoshop PSD & PSB files as well as provides the ability to manipulate layers, detect deflated PSD files & convert Photoshop files to raster image formats.
+Aspose.PSD for .NET is your go-to API for working with Photoshop file formats. Read and write PSD, PSB, and AI effortlessly. Dive into graphics drawing, image processing, and format conversion.
+<br/><br/>
+Explore working with layers and masks, drawing basic shapes, handling large images, and more. The API supports Exif data, dithering, cropping, and adjustments like brightness, contrast, and gamma. It's a versatile solution for PSD-related tasks in .NET applications.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="/total/images/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
-Aspose.OMR for .NET is an API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. So it can recognize scanned images and even photos with high accuracy. 
+Aspose.OMR for .NET is a robust API designed for effortless creation of on-premise or web-based Optical Mark Recognition (OMR) applications. It ensures superior recognition accuracy, supporting various writing tools. Process images from office copiers or smartphone cameras without expensive OMR scanners.
+<br/><br/>
+Real-time recognition tuning, QR codes/barcodes recognition, and results in JSON, XML, or CSV enhance integration. Covering the entire OMR workflow with a flexible markup language, it supports various paper sizes.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="/total/images/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
-Aspose.PUB for .NET is an API allows to read Microsoft Publisher files and convert to other formats. Moreover, API permits to work with PUB document formats without the need to go into the details of the underlying file format structure without any dependencies of Microsoft Publisher.
+Aspose.PUB for .NET focuses on Microsoft Publisher (MS Publisher) files, addressing PDF to Publisher conversion and common .pub file issues. It's user-friendly, compatible with Office products, and supports customization and CMYK printing.
+<br/><br/>
+While handling different file formats for opening and saving, Aspose.PUB simplifies tasks related to MS Publisher files, offering alternatives due to MS Publisher's limitations.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/svg/net/" imgSrc="/total/images/aspose_svg-for-net.svg" productName="Aspose.SVG for .NET">}}
-Aspose.SVG for .NET is an SVG file format processing and parsing API. Having full control over SVG nodes and properties, Developers can easily modify the document tree, remove and insert nodes, change the node properties and apply filters. Furthermore,  API can convert SVG files into PDF and famous image formats.
+Aspose.SVG for .NET is a robust library for processing SVG files. Navigate the DOM tree, render, and convert to popular formats. It adheres to SVG specifications, allowing seamless work with SVG files in .NET applications.
+<br/><br/>
+Create SVG documents, vectorize raster images, optimize SVG files, and merge multiple SVG files. With a minimal learning curve, it offers efficient SVG file handling in .NET.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="/total/images/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
-Aspose.Finance for .NET is a finance-related format processing API. It creates, reads, and validate XBRL and iXBRL formats that are used in the management of business processes, financial analysis and reporting solutions.
+Aspose.Finance for .NET processes finance-related formats, enabling creation, reading, and validation of XBRL and iXBRL formats. Crucial for business processes, financial analysis, and reporting solutions.
+<br/><br/>
+With rich features ensuring platform independence, it simplifies complex finance operations. Create XBRL instances, convert formats, and perform validations with less code. A versatile API suitable for various .NET applications.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="/total/images/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
-Aspose.Drawing for .NET is a graphics API identical to GDI+. It can easily be integrated for 2D vector graphics drawings like lines, curves, and figures as well as muti style text onto raster images. API supports commonly used image formats.
+Aspose.Drawing for .NET is a robust library for 2D drawing and graphics. Implemented in Managed C#, it seamlessly integrates with .NET languages, enhancing compatibility with ASP.NET and Windows Applications.
+<br/><br/>
+Swiftly create images, optimize performance, and handle multiple threads concurrently. With a rich feature set, it empowers developers to work with lines, curves, shapes, pens, brushes, text and fonts, rendering options, and coordinate systems.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="/total/images/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
-Aspose.Font for .NET is a font management and processing API. It can easily perform font file operations such as loading fonts from disc or stream, read glyphs and metrics information as well as detect latin symbols, render text using font glyphs and more.
+Aspose.Font is a robust .NET library specializing in font loading and drawing. It offers versatile support for multiple font formats including TrueType, CFF, OpenType, and Type1. Streamlining font manipulation tasks, it's an essential tool for .NET applications requiring precise font handling capabilities.
+<br/><br/>
+Handle various file operations, load fonts from disk and stream sources, extract metadata, detect Latin symbols, merge TrueType fonts, and render text with advanced OpenType features. With user-friendly functionality and broad format support, Aspose.Font is indispensable for .NET applications.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="/total/images/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
-Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX files to get documents in various formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also features custom TeX formats creation.
+Aspose.TeX is a Java library dedicated to TeX file typesetting, presenting TeX input in graphic formats like XPS, PDF, PNG, JPEG, TIFF, and BMP. Beyond typical typesetting, it excels in providing tracing information similar to other TeX engines.
+<br/><br/>
+Supporting key operations like TeX input typesetting and custom TeX format creation, it generates output in diverse formats. Read input and write output from file system directories, ZIP archives, or streams, enhancing flexibility for Java applications seeking efficient and customizable TeX typesetting functionalities.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
@@ -259,7 +309,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">More Possibilities: Barcode, Recurrence Patterns, and Network Protocols</h2>
+ <h2 class="h2title">Barcode, Recurrence Patterns, and Network Protocols</h2>
  <p>Aspose.Total for .NET empowers developers with a comprehensive toolkit of utility APIs, enabling you to enhance your .NET applications with advanced functionalities. Seamlessly integrate barcode generation and recognition capabilities, leverage powerful recurrence patterns, and harness a wide range of network protocols including SMTP, POP3, MIME, IMAP, FTP, DNS, ICMP, and WHOIS.</p>
  <ul>
   <li><b>Barcode Functionality:</b> With Aspose.Total for .NET, you can effortlessly add barcode functionality to your .NET applications. Generate high-quality barcodes in various formats such as QR Code, Code 39, UPC, and many more. Enhance inventory management, automate data capture, and streamline your business processes.</li>
@@ -268,7 +318,7 @@ Aspose.TeX for .NET is a TeX files typesetting API. It can easily typeset TeX fi
  </ul>
 </div>
 <div class="col-lg-12">
- <h2 class="h2title">No Dependency on Microsoft Office, Superior Security, and Scalability</h2>
+ <h2 class="h2title">MS Office-Free, Enhanced Security, and Scalable</h2>
  <p>
   Discover the limitless possibilities of Aspose.Total for .NET. Say goodbye to Microsoft Office dependencies and embrace a solution that excels in features, security, stability, scalability, speed, and affordability. Empower your .NET applications with unparalleled document manipulation capabilities today.
  </p>

@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to POWERPOINT via Java or with free Online Converter
-description: Java API to Export TXT to POWERPOINT without using Microsoft Word or PowerPoint or online. Test free TXT to POWERPOINT online converter quickly before integrating the code. 
+title: Convert TXT to PowerPoint via Java or with free Online Converter
+description: Java API to Export TXT to PowerPoint without using Microsoft Word or PowerPoint or online. Test free TXT to PowerPoint online converter quickly before integrating the code. 
 url_ignore: /java/conversion/txt-to-powerpoint/
 family: total
 platformtag: java
@@ -10,23 +10,21 @@ outformat: PPTX
 otherformats: PPSX PPT PPTM PPSM POTM PPTX POTX ODP POT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TXT to POWERPOINT via Java or Online App" h2="TXT to POWERPOINT conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TXT to PowerPoint via Java or Online App" h2="TXT to PowerPoint conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+<h2 class="heading-border">How Aspose.Total helps in creating TXT to PowerPoint Converter Apps via Java?</h2>
 
-
-Converting a TXT file to a POWERPOINT presentation can be a daunting task for developers. Fortunately, with the help of the File Automation Java libraries [Aspose.Total for Java](https://products.aspose.com/total/java/), the process can be automated in a few simple steps. 
-
+Converting a TXT file to a PowerPoint presentation can be a daunting task for developers. Fortunately, with the help of the File Automation Java libraries [Aspose.Total for Java](https://products.aspose.com/total/java/), the process can be automated in a few simple steps. 
+<br/><br/>
 The first step is to load the TXT file using [Aspose.Words for Java](https://products.aspose.com/words/java/). This library provides a wide range of features to manipulate documents, including the ability to convert the TXT file to HTML. 
-
-The next step is to use the powerful PowerPoint manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) to create a new Presentation. This library allows developers to write HTML content into the Presentation and save it as a POWERPOINT file. 
-
-The combination of these two libraries makes it easy to automate the conversion of a TXT file to a POWERPOINT presentation. With just a few simple steps, developers can quickly and easily convert their TXT files to POWERPOINT presentations. This makes it easier for developers to create presentations quickly and efficiently.
+<br/><br/>
+The next step is to use the powerful PowerPoint manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) to create a new Presentation. This library allows developers to write HTML content into the Presentation and save it as a PowerPoint file. 
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to POWERPOINT via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to PowerPoint via Java" %}}
 1. Open TXT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert TXT file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
@@ -34,8 +32,8 @@ The combination of these two libraries makes it easy to automate the conversion 
 6. Save the document to PPTX using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="TXT File Conversion in Java" %}}
-For TXT to POWERPOINT file conversion, you can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
+{{% blocks/products/pf/agp/feature-section-col title="TXT to PowerPoint Converter Library" %}}
+For TXT to PowerPoint file conversion, you can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -50,15 +48,15 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online Converter for TXT to POWERPOINT</h3>
+<h3>Free Online Converter for TXT to PowerPoint</h3>
 
 <iframe title="Free txt to pptx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/feature-page-section  h2="Convert TXT to POWERPOINT with Watermark via Java" %}}
-Using the API, you can also perform TXT file to POWERPOINT conversion with watermark. In order to add a watermark to your POWERPOINT document, you can first export TXT to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to POWERPOINT.
+{{% blocks/products/pf/feature-page-section  h2="Convert TXT to PowerPoint with Watermark via Java" %}}
+Using the API, you can also perform TXT file to PowerPoint conversion with watermark. In order to add a watermark to your PowerPoint document, you can first export TXT to HTML and write HTML content in [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object. After that to add a watermark, you can add text using addTextFrame, set all the relevant options like color, fillType and more and can save the document to PowerPoint.
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -77,10 +75,10 @@ Using the API, you can also perform TXT file to POWERPOINT conversion with water
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How can I convert TXT to POWERPOINT Online?</b></span>
+                          <span itemprop="name"><b>How can I convert TXT to PowerPoint Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The above-integrated online app allows you to convert TXT files to POWERPOINT. To get started, simply drag and drop or click inside the white area to import your TXT file. Once your file is uploaded, click the "Convert" button. After the TXT to POWERPOINT conversion process is complete, you can download your converted file with just one click.</span>
+                          <span itemprop="text">The above-integrated online app allows you to convert TXT files to PowerPoint. To get started, simply drag and drop or click inside the white area to import your TXT file. Once your file is uploaded, click the "Convert" button. After the TXT to PowerPoint conversion process is complete, you can download your converted file with just one click.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -88,15 +86,15 @@ Using the API, you can also perform TXT file to POWERPOINT conversion with water
                           <span itemprop="name"><b>How long does it take to convert TXT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online TXT converter works quickly, but its speed depends primarily on the size of the TXT file you are converting. Smaller TXT files can be converted to POWERPOINT in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">This online TXT converter works quickly, but its speed depends primarily on the size of the TXT file you are converting. Smaller TXT files can be converted to PowerPoint in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is it safe to convert TXT to POWERPOINT using free Aspose.Total converter?</b></span>
+                          <span itemprop="name"><b>Is it safe to convert TXT to PowerPoint using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! After the conversion is complete, the download link for your POWERPOINT file will be available instantly. Your uploaded files will be deleted after 24 hours, and the download links will no longer work after that period. Your files are safe, and no one has access to them. The integrated app is mainly free for testing purposes, so you can verify the results before integrating the code.</span>
+                          <span itemprop="text">Of course! After the conversion is complete, the download link for your PowerPoint file will be available instantly. Your uploaded files will be deleted after 24 hours, and the download links will no longer work after that period. Your files are safe, and no one has access to them. The integrated app is mainly free for testing purposes, so you can verify the results before integrating the code.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

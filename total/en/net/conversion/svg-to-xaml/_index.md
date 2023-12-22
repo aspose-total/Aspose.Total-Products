@@ -10,7 +10,7 @@ outformat: XAML
 otherformats: PPT PPSM SWF ODP POWERPOINT OTP PPTM PPSX POTX PPS POTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Export SVG as XAML via C# .NET Core" h2="Export SVG to XAML on Windows, macOS, and Linux without using third party software" >}}
+{{< blocks/products/pf/feature-page-header h1="Export SVG as XAML via C# .NET Core" h2="Convert SVG to XAML on Windows, macOS, and Linux without using third party software" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 <h2 class="heading-border">Why Convert SVG to XAML format?</h2>
@@ -30,7 +30,7 @@ Using a package of powerful File Format Automation APIs [Aspose.Total for .NET](
 4. Save the document to XAML format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Xaml` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Tools Required for SVG to XAML Conversion" %}}
+{{% blocks/products/pf/agp/feature-section-col title="SVG to XAML Converter API" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```. Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

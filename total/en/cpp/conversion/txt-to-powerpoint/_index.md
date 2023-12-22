@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to POWERPOINT via C++ or with free Online Converter
-description: Export TXT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint or online. Test free TXT to POWERPOINT online converter quickly before integrating the code. 
+title: Convert TXT to PowerPoint via C++ or with free Online Converter
+description: Export TXT to PowerPoint in your C++ applications without using Microsoft Word of PowerPoint or online. Test free TXT to PowerPoint online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/txt-to-powerpoint/
 family: total
 platformtag: cpp
@@ -10,22 +10,22 @@ outformat: PPTX
 otherformats: PPSX PPSM POTM ODP PPT POT PPTM PPTX PPS POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to POWERPOINT or Online App" h2="Export TXT to POWERPOINT within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to PowerPoint or Online App" h2="Export TXT to PowerPoint within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Aspose.Total for C++ is a comprehensive suite of powerful file automation APIs that enables developers to automate the conversion of TXT files to POWERPOINT presentations. The process involves two of the APIs included in the suite, Aspose.Words for C++ and Aspose.Slides for C++. 
+Aspose.Total for C++ is a comprehensive suite of powerful file automation APIs that enables developers to automate the conversion of TXT files to PowerPoint presentations. The process involves two of the APIs included in the suite, Aspose.Words for C++ and Aspose.Slides for C++. 
 
-Aspose.Words for C++ is a powerful document manipulation API that allows developers to load TXT files and convert them to HTML. This HTML can then be loaded via the PowerPoint manipulation C++ API, Aspose.Slides for C++, to create a new presentation. Once the presentation is created, it can be saved as a POWERPOINT file. 
+Aspose.Words for C++ is a powerful document manipulation API that allows developers to load TXT files and convert them to HTML. This HTML can then be loaded via the PowerPoint manipulation C++ API, Aspose.Slides for C++, to create a new presentation. Once the presentation is created, it can be saved as a PowerPoint file. 
 
 The suite also includes APIs for other file formats such as PDF, Excel, and Outlook. It also includes APIs for manipulating images, barcodes, and email. All of these APIs are designed to be easy to use and integrate into existing applications. 
 
-Aspose.Total for C++ is a great choice for developers who need to automate the conversion of TXT files to POWERPOINT presentations. It is a comprehensive suite of powerful file automation APIs that makes it easy to integrate into existing applications. With its easy to use APIs, developers can quickly and easily convert TXT files to POWERPOINT presentations.
+Aspose.Total for C++ is a great choice for developers who need to automate the conversion of TXT files to PowerPoint presentations. It is a comprehensive suite of powerful file automation APIs that makes it easy to integrate into existing applications. With its easy to use APIs, developers can quickly and easily convert TXT files to PowerPoint presentations.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="TXT to POWERPOINT Conversion on C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="TXT to PowerPoint Conversion on C++" %}}
 1. Open TXT file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert TXT to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) member function
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) object
@@ -34,7 +34,7 @@ Aspose.Total for C++ is a great choice for developers who need to automate the c
 6. Save the document to PPTX format using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) method and set Pptx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Text to PowerPoint Converter Library" %}}
 Install from command line as ```nuget install Aspose.Total.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total.Cpp```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/cpp).
@@ -78,7 +78,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Free Online Converter for TXT to POWERPOINT</h3>
+<h3>Free Online Converter for TXT to PowerPoint</h3>
 
 <iframe title="Free txt to pptx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
 
@@ -97,8 +97,8 @@ SharedPtr<Document> doc = MakeObject<Document>(u"Encrypted.txt", options);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Add Comments in POWERPOINT Document via C++" %}}
-While saving TXT as POWERPOINT, you can also use [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to add further features in your POWERPOINT document. For instance, you can add comments in your presentation. The presentation slide comment are associated with a particular author. The Presentation class holds the collection of authors in ICommentAuthorCollection that are responsible for adding slide comments. For each author, there is a collection of comments in ICommentCollection.
+{{% blocks/products/pf/feature-page-section  h2="Add Comments in PowerPoint Document via C++" %}}
+While saving TXT as PowerPoint, you can also use [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to add further features in your PowerPoint document. For instance, you can add comments in your presentation. The presentation slide comment are associated with a particular author. The Presentation class holds the collection of authors in ICommentAuthorCollection that are responsible for adding slide comments. For each author, there is a collection of comments in ICommentCollection.
 {{% blocks/products/pf/feature-page-code %}}
 ```cpp
 // instantiate Presentation class
@@ -134,10 +134,10 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>How can I convert TXT to POWERPOINT Online?</b></span>
+                          <span itemprop="name"><b>How can I convert TXT to PowerPoint Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can find the online app for TXT conversion above. To start the conversion process, you can add the TXT file either by dragging and dropping it or by clicking inside the white area to import the document. Once you have added the file, you can simply click the "Convert" button. After the TXT to POWERPOINT conversion is completed, you can download your converted file with just one click.</span>
+                          <span itemprop="text">You can find the online app for TXT conversion above. To start the conversion process, you can add the TXT file either by dragging and dropping it or by clicking inside the white area to import the document. Once you have added the file, you can simply click the "Convert" button. After the TXT to PowerPoint conversion is completed, you can download your converted file with just one click.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -145,15 +145,15 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
                           <span itemprop="name"><b>How long does it take to convert TXT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter depends largely on the size of the TXT file being converted. Small TXT files can be converted to POWERPOINT in just a few seconds. If you are using the conversion code within a C++ application, the conversion speed will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">The speed of this online converter depends largely on the size of the TXT file being converted. Small TXT files can be converted to PowerPoint in just a few seconds. If you are using the conversion code within a C++ application, the conversion speed will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is it safe to convert TXT to POWERPOINT using free Aspose.Total converter?</b></span>
+                          <span itemprop="name"><b>Is it safe to convert TXT to PowerPoint using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! After your TXT file is converted to POWERPOINT using our online converter, the download link for the POWERPOINT file will be immediately available. We take the security and privacy of your uploaded files seriously and delete them 24 hours after the conversion process is complete. Rest assured, no one will have access to your files. Our conversion process, including TXT conversion, is completely safe. We provide a free app for testing purposes so that you can verify the results before integrating the code.</span>
+                          <span itemprop="text">Of course! After your TXT file is converted to PowerPoint using our online converter, the download link for the PowerPoint file will be immediately available. We take the security and privacy of your uploaded files seriously and delete them 24 hours after the conversion process is complete. Rest assured, no one will have access to your files. Our conversion process, including TXT conversion, is completely safe. We provide a free app for testing purposes so that you can verify the results before integrating the code.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -34,7 +34,7 @@ To add EML to Text conversion in a Python application, the [Aspose.Total for Pyt
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="EML to Text Conversion Requirements" %}}
+{{% blocks/products/pf/agp/feature-section-col title="EML to Text Converter API" %}}
 
 - For EML to Text conversion, Python 3.5 or later is required
 - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/) and [Aspose.Email](https://pypi.org/project/Aspose.Email-for-Python-via-NET/))
