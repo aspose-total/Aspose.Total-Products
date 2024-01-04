@@ -35,7 +35,7 @@ Aspose for Java API接口专为Java平台设计，可直接在应用程序中创
 使用Aspose for PHP库，可以操作Excel表格，并在PHP应用程序中读取、写入、创建和转换PowerPoint演示文稿和OpenOffice文档。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="查看所有高代码 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/zh/family/" innerText="查看所有高代码 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
