@@ -35,7 +35,7 @@ Manipulera Excel-kalkylblad och Visio-filer samt skanna och generera streckkoder
 Manipulera Excel-tabeller och läs, skriv, skapa och konvertera PowerPoint-presentationer samt OpenOffice-dokument i PHP-applikationer med Aspose för PHP.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/total/family/" innerText="Visa Alla Högkodande API:er" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/total/sv/family/" innerText="Visa Alla Högkodande API:er" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
