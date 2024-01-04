@@ -55,6 +55,14 @@ Bewerk Excel-spreadsheets en Visio-bestanden en scan en genereer streepjescodes 
 Bewerk Excel-spreadsheets, PowerPoint en OpenOffice-presentaties en herken en maak streepjescodes van verschillende symbolieken.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/nl/javascript-cpp" >}}
+Ontwikkel applicaties met OCR- en PDF-manipulatiefunctionaliteiten met behulp van een JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nl/nodejs-cpp" >}}
+Haal tekst uit afbeeldingen op en integreer mogelijkheden voor PDF-manipulatie in Node.js-applicaties, allemaal zonder afhankelijk te zijn van aanvullende softwareafhankelijkheden.
+{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

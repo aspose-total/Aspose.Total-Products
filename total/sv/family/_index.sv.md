@@ -55,6 +55,14 @@ Exportera rapporter till Word, Excel, PowerPoint och andra format från JasperRe
 	Manipulera Excel-kalkylblad, PowerPoint och OpenOffice-presentationer samt känna igen och skapa streckkoder av olika symboler.
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/sv/javascript-cpp" >}}
+Utveckla applikationer med OCR- och PDF-manipuleringsfunktioner med hjälp av ett JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/sv/nodejs-cpp" >}}
+Hämta text från bilder och införliva PDF-manipuleringsfunktioner i Node.js-applikationer, allt utan att förlita sig på ytterligare mjukvaruberoenden.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

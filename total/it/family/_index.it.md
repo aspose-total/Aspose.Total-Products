@@ -55,6 +55,14 @@ Manipola fogli di calcolo Excel e file Visio, nonché scansiona e genera codici 
 Manipola fogli di calcolo Excel, presentazioni PowerPoint e OpenOffice, oltre a riconoscere e creare codici a barre di varie simbologie.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/it/javascript-cpp" >}}
+Sviluppa applicazioni con funzionalità OCR e di manipolazione PDF utilizzando un'API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/it/nodejs-cpp" >}}
+Recupera testo da immagini e incorpora funzionalità di manipolazione PDF nelle applicazioni Node.js, il tutto senza fare affidamento su dipendenze software aggiuntive.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

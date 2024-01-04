@@ -55,6 +55,14 @@ Manipuluj arkuszami kalkulacyjnymi Excel i plikami Visio, a także skanuj i gene
 Manipuluj arkuszami kalkulacyjnymi Excel, prezentacjami PowerPoint i OpenOffice, a także rozpoznawaj i twórz kody kreskowe różnych symboli.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/pl/javascript-cpp" >}}
+Twórz aplikacje z funkcjami OCR i manipulacji plikami PDF przy użyciu interfejsu API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pl/nodejs-cpp" >}}
+Pobieraj tekst z obrazów i włączaj możliwości manipulacji plikami PDF do aplikacji Node.js, a wszystko to bez polegania na dodatkowych zależnościach oprogramowania.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

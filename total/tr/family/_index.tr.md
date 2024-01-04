@@ -55,6 +55,14 @@ Raporları JasperReports veya JasperServer'dan Word, Excel, PowerPoint ve diğer
 	Excel Elektronik Tablolarını, PowerPoint ve OpenOffice Sunumlarını değiştirin ve çeşitli sembolojilerin Barkodlarını tanıyın ve oluşturun.
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/tr/javascript-cpp" >}}
+Bir JavaScript API kullanarak OCR ve PDF işleme işlevlerine sahip uygulamalar geliştirin.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/tr/nodejs-cpp" >}}
+Ek yazılım bağımlılıklarına ihtiyaç duymadan görüntülerden metin alın ve Node.js uygulamalarına PDF işleme yeteneklerini dahil edin.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

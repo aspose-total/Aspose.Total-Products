@@ -55,6 +55,14 @@ Excel 스프레드시트 및 Visio 파일을 조작하고 Node.js를 사용하�
 Excel 스프레드시트, PowerPoint 및 OpenOffice 프레젠테이션을 조작하고 다양한 기호의 바코드를 인식하고 생성합니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/ko/javascript-cpp" >}}
+JavaScript API를 사용하여 OCR 및 PDF 조작 기능이 있는 애플리케이션을 개발합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ko/nodejs-cpp" >}}
+추가 소프트웨어 종속성에 의존하지 않고도 이미지에서 텍스트를 검색하고 PDF 조작 기능을 Node.js 애플리케이션에 통합할 수 있습니다.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

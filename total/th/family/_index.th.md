@@ -55,6 +55,14 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 	จัดการสเปรดชีต Excel, PowerPoint และงานนำเสนอ OpenOffice รวมถึงจดจำและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/th/javascript-cpp" >}}
+พัฒนาแอปพลิเคชันด้วยฟังก์ชันการจัดการ OCR และ PDF โดยใช้ JavaScript API
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/th/nodejs-cpp" >}}
+ดึงข้อความจากรูปภาพและรวมความสามารถในการจัดการ PDF เข้ากับแอปพลิเคชัน Node.js โดยไม่ต้องอาศัยการพึ่งพาซอฟต์แวร์เพิ่มเติม
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

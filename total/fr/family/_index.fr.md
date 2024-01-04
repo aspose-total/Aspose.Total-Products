@@ -55,6 +55,14 @@ Manipulez des feuilles de calcul Excel et des fichiers Visio, numérisez et gén
 Manipulez des feuilles de calcul Excel, des présentations PowerPoint et OpenOffice, ainsi que reconnaissez et créez des codes-barres de diverses symbologies.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/fr/javascript-cpp" >}}
+Développez des applications avec des fonctionnalités d'OCR et de manipulation de PDF à l'aide d'une API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/fr/nodejs-cpp" >}}
+Récupérez le texte des images et intégrez des fonctionnalités de manipulation de PDF dans les applications Node.js, le tout sans dépendre de dépendances logicielles supplémentaires.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

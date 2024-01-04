@@ -1,6 +1,5 @@
 ---
 title: Rozhraní API pro automatizaci formátu souborů pro více platforem - Aspose 
-weight: 10
 
 description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OCR Imaging OneNote 3D a CAD Manipulation API pro .NET, Java, Android, C++. Komponenty pro SharePoint, rozšíření pro Reporting Services a exportéry pro JasperReports.
 ---
@@ -55,6 +54,13 @@ Manipulujte s excelovými tabulkami a soubory Visio a také skenujte a generujte
 Manipulujte s tabulkami Excel, prezentacemi PowerPoint a OpenOffice a také rozpoznávejte a vytvářejte čárové kódy různých symbolů.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/cs/javascript-cpp" >}}
+Vyvíjejte aplikace s funkcemi OCR a manipulace s PDF pomocí JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/cs/nodejs-cpp" >}}
+Získejte text z obrázků a začleňte do aplikací Node.js možnosti manipulace s PDF, to vše bez spoléhání na další softwarové závislosti.
+{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

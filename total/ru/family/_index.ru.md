@@ -55,6 +55,14 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 	Управляйте электронными таблицами Excel, презентациями PowerPoint и OpenOffice, а также распознавайте и создавайте штрих-коды различных символик.
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/ru/javascript-cpp" >}}
+Разрабатывайте приложения с функциями оптического распознавания символов и манипулирования PDF-файлами с помощью API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ru/nodejs-cpp" >}}
+Извлекайте текст из изображений и внедряйте возможности манипулирования PDF-файлами в приложения Node.js, не полагаясь на дополнительные программные зависимости.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

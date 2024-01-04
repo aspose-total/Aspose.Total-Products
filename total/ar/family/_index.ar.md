@@ -1,6 +1,5 @@
 ---
 title: واجهات برمجة تطبيقات أتمتة تنسيق الملفات لأنظمة أساسية متعددة - Aspose 
-weight: 10
 
 description: Microsoft Excel Word PowerPoint البريد الإلكتروني PDF Visio Project Barcode OCR Imaging OneNote 3D و CAD Manipulation APIs لـ .NET و Java و Android و C++. مكونات لـ SharePoint ، ملحقات لخدمات التقارير والمصدرين لـ JasperReports.
 ---
@@ -53,6 +52,14 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ar/php-java" >}}
 تعامل مع جداول بيانات Excel و PowerPoint و OpenOffice التقديمية بالإضافة إلى التعرف على الرموز الشريطية من الرموز المختلفة وإنشاءها.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/ar/javascript-cpp" >}}
+قم بتطوير التطبيقات باستخدام وظائف معالجة OCR وPDF باستخدام JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ar/nodejs-cpp" >}}
+يمكنك استرداد النص من الصور ودمج إمكانيات معالجة ملفات PDF في تطبيقات Node.js، كل ذلك دون الاعتماد على تبعيات برامج إضافية.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

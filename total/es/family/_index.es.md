@@ -1,6 +1,5 @@
 ---
 title: API de automatización de formato de archivo para múltiples plataformas - Aspose 
-weight: 10
 
 description: Microsoft Excel Word PowerPoint Correo electrónico PDF Visio Project Barcode OCR Imaging OneNote 3D y CAD Manipulación API para .NET, Java, Android, C++. Componentes para SharePoint, Extensiones para Reporting Services y Exportadores para JasperReports.
 ---
@@ -53,6 +52,14 @@ Manipule hojas de cálculo de Excel y archivos de Visio, además de escanear y g
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/es/php-java" >}}
 Manipule hojas de cálculo de Excel, presentaciones de PowerPoint y OpenOffice, así como reconozca y cree códigos de barras de varias simbologías.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/es/javascript-cpp" >}}
+Desarrolle aplicaciones con funcionalidades de manipulación de PDF y OCR utilizando una API de JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/es/nodejs-cpp" >}}
+Recupere texto de imágenes e incorpore capacidades de manipulación de PDF en aplicaciones Node.js, todo sin depender de dependencias de software adicionales.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -1,6 +1,5 @@
 ---
 title: API αυτοματισμού μορφής αρχείου για πολλαπλές πλατφόρμες - Aspose 
-weight: 10
 
 description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D και CAD Manipulation API για .NET, Java, Android, C++. Στοιχεία για το SharePoint, επεκτάσεις για υπηρεσίες αναφοράς και εξαγωγείς για το JasperReports.
 ---
@@ -54,6 +53,14 @@ Native Java API για επιτραπέζιους υπολογιστές, web ή
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/el/php-java" >}}
 Χειριστείτε Υπολογιστικά φύλλα Excel, Παρουσιάσεις PowerPoint και OpenOffice καθώς και αναγνώριση και δημιουργία Barcodes διαφόρων συμβολολογιών.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/el/javascript-cpp" >}}
+Αναπτύξτε εφαρμογές με λειτουργίες χειρισμού OCR και PDF χρησιμοποιώντας ένα JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/el/nodejs-cpp" >}}
+Ανακτήστε κείμενο από εικόνες και ενσωματώστε δυνατότητες χειρισμού PDF στις εφαρμογές Node.js, όλα αυτά χωρίς να βασίζεστε σε πρόσθετες εξαρτήσεις λογισμικού.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

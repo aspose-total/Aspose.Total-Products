@@ -55,6 +55,14 @@ Xuất báo cáo sang Word, Excel, PowerPoint và các định dạng khác từ
 	Thao tác với Bảng tính Excel, Bản trình bày PowerPoint và OpenOffice cũng như nhận dạng và tạo Mã vạch của các ký hiệu khác nhau.
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/vi/javascript-cpp" >}}
+Phát triển các ứng dụng có chức năng thao tác OCR và PDF bằng API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/vi/nodejs-cpp" >}}
+Truy xuất văn bản từ hình ảnh và kết hợp khả năng thao tác PDF vào các ứng dụng Node.js mà không cần phụ thuộc vào phần mềm phụ thuộc bổ sung.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -55,6 +55,14 @@ Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCo
 Manipulate Excel Spreadsheets, PowerPoint and OpenOffice Presentations as well as recognize and create BarCodes of various symbologies.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/javascript-cpp" >}}
+Develop applications with OCR and PDF manipulation functionalities using a JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
+Retrieve text from images and incorporate PDF manipulation capabilities into Node.js applications, all without relying on additional software dependencies.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

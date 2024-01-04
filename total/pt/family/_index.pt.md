@@ -55,6 +55,14 @@ Exporte relatórios para Word, Excel, PowerPoint e outros formatos do JasperRepo
 	Manipular Planilhas Excel, Apresentações PowerPoint e OpenOffice, bem como reconhecer e criar Códigos de Barras de várias simbologias.
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/pt/javascript-cpp" >}}
+Desenvolva aplicações com funcionalidades de OCR e manipulação de PDF usando uma API JavaScript.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pt/nodejs-cpp" >}}
+Recupere texto de imagens e incorpore recursos de manipulação de PDF em aplicativos Node.js, tudo sem depender de dependências adicionais de software.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

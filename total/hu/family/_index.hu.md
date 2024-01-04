@@ -55,6 +55,14 @@ Manipuláljon Excel-táblázatokat és Visio-fájlokat, valamint szkennelje be �
 Manipulálhat Excel-táblázatokat, PowerPoint- és OpenOffice-prezentációkat, valamint felismerheti és létrehozhatja a különféle szimbólumok vonalkódjait.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/hu/javascript-cpp" >}}
+OCR- és PDF-kezelési funkciókkal rendelkező alkalmazások fejlesztése JavaScript API használatával.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/hu/nodejs-cpp" >}}
+Nyújtson le szöveget a képekről, és építsen be PDF-kezelési lehetőségeket a Node.js alkalmazásokba, mindezt anélkül, hogy további szoftverfüggőségre kellene támaszkodnia.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -1,6 +1,5 @@
 ---
 title: APIs zur Dateiformatautomatisierung für mehrere Plattformen – Aspose 
-weight: 10
 
 description: Microsoft Excel Word PowerPoint E-Mail PDF Visio Project Barcode OCR Imaging OneNote 3D- und CAD-Manipulations-APIs für .NET, Java, Android, C++. Komponenten für SharePoint, Erweiterungen für Reporting Services und Exporter für JasperReports.
 ---
@@ -53,6 +52,14 @@ Bearbeiten Sie Excel-Tabellen und Visio-Dateien sowie scannen und generieren Sie
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/de/php-java" >}}
 Bearbeiten Sie Excel-Tabellen, PowerPoint- und OpenOffice-Präsentationen sowie erkennen und erstellen Sie Barcodes verschiedener Symbologien.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/de/javascript-cpp" >}}
+Entwickeln Sie Anwendungen mit OCR- und PDF-Bearbeitungsfunktionen mithilfe einer JavaScript-API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/de/nodejs-cpp" >}}
+Rufen Sie Text aus Bildern ab und integrieren Sie PDF-Bearbeitungsfunktionen in Node.js-Anwendungen, ohne auf zusätzliche Softwareabhängigkeiten angewiesen zu sein.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

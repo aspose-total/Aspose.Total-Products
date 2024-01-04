@@ -55,6 +55,14 @@ Memanipulasi spreadsheet Excel dan file Visio serta memindai dan menghasilkan Ba
 Memanipulasi Spreadsheet Excel, Presentasi PowerPoint dan OpenOffice serta mengenali dan membuat BarCodes dari berbagai simbol.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/id/javascript-cpp" >}}
+Kembangkan aplikasi dengan fungsi manipulasi OCR dan PDF menggunakan JavaScript API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/id/nodejs-cpp" >}}
+Ambil teks dari gambar dan gabungkan kemampuan manipulasi PDF ke dalam aplikasi Node.js, semuanya tanpa bergantung pada ketergantungan perangkat lunak tambahan.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

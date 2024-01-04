@@ -55,6 +55,14 @@ Excel スプレッドシートと Visio ファイルを操作するだけでな�
 Excel スプレッドシート、PowerPoint、OpenOffice プレゼンテーションを操作するだけでなく、さまざまなシンボルのバーコードを認識して作成します。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/ja/javascript-cpp" >}}
+JavaScript API を使用して、OCR および PDF 操作機能を備えたアプリケーションを開発します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ja/nodejs-cpp" >}}
+追加のソフトウェア依存関係に依存することなく、画像からテキストを取得し、PDF 操作機能を Node.js アプリケーションに組み込みます。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

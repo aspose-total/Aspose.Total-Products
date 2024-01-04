@@ -1,7 +1,5 @@
 ---
 title: 適用於多個平台的文件格式自動化 API - Aspose 
-weight: 10
-
 description: Microsoft Excel Word PowerPoint 電子郵件 PDF Visio 項目條碼 OCR 成像 OneNote 3D 和 CAD 操作 API，適用於 .NET、Java、Android、C++。 SharePoint 的組件、Reporting Services 的擴展和 JasperReports 的導出器。
 ---
 
@@ -54,6 +52,14 @@ description: Microsoft Excel Word PowerPoint 電子郵件 PDF Visio 項目條碼
 	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/zh-hant/php-java" >}}
 	操作 Excel 電子表格、PowerPoint 和 OpenOffice 演示文稿，以及識別和創建各種符號體系的條形碼。
 	{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/zh-hant/javascript-cpp" >}}
+使用 JavaScript API 開發具有 OCR 和 PDF 操作功能的應用程式。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh-hant/nodejs-cpp" >}}
+從圖像中檢索文字並將 PDF 操作功能合併到 Node.js 應用程式中，所有這些都無需依賴其他軟體依賴項。
+{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

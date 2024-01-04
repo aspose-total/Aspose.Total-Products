@@ -55,6 +55,14 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 	操作 Excel 电子表格、PowerPoint 和 OpenOffice 演示文稿，以及识别和创建各种符号体系的条形码。
 	{{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/zh/javascript-cpp" >}}
+使用 JavaScript API 开发具有 OCR 和 PDF 操作功能的应用程序。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh/nodejs-cpp" >}}
+从图像中检索文本并将 PDF 操作功能合并到 Node.js 应用程序中，所有这些都无需依赖其他软件依赖项。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
