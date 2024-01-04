@@ -40,20 +40,20 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/th/python-net" >}}
-	สร้าง แก้ไข หรือแปลงรูปแบบ DOC, DOCX, PPT, PPTX, EML, MSG และ 3D โดยใช้ชุดไลบรารี Python สำหรับ Microsoft Word, PowerPoint และ Outlook
-	{{< /blocks/products/pf/product >}}
+สร้าง แก้ไข หรือแปลงรูปแบบ DOC, DOCX, PPT, PPTX, EML, MSG และ 3D โดยใช้ชุดไลบรารี Python สำหรับ Microsoft Word, PowerPoint และ Outlook
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/th/python-java" >}}
-	ไลบรารี Python สำหรับ Microsoft Excel & Visio ที่ช่วยสร้าง แก้ไข หรือแปลง XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX และรูปแบบอื่นๆ
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/th/python-java" >}}
+ไลบรารี Python สำหรับ Microsoft Excel & Visio ที่ช่วยสร้าง แก้ไข หรือแปลง XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX และรูปแบบอื่นๆ
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/th/nodejs-java" >}}
-	จัดการสเปรดชีต Excel และไฟล์ Visio ตลอดจนสแกนและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ โดยใช้ Node.js
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/th/nodejs-java" >}}
+จัดการสเปรดชีต Excel และไฟล์ Visio ตลอดจนสแกนและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ โดยใช้ Node.js
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/th/php-java" >}}
-	จัดการสเปรดชีต Excel, PowerPoint และงานนำเสนอ OpenOffice รวมถึงจดจำและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/th/php-java" >}}
+จัดการสเปรดชีต Excel, PowerPoint และงานนำเสนอ OpenOffice รวมถึงจดจำและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ
+{{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/th/javascript-cpp" >}}
 พัฒนาแอปพลิเคชันด้วยฟังก์ชันการจัดการ OCR และ PDF โดยใช้ JavaScript API

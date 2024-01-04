@@ -40,20 +40,20 @@ Raporları JasperReports veya JasperServer'dan Word, Excel, PowerPoint ve diğer
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/tr/python-net" >}}
-	Microsoft Word, PowerPoint ve Outlook için Python kitaplık paketini kullanarak DOC, DOCX, PPT, PPTX, EML, MSG ve 3D biçimlerini oluşturun, düzenleyin veya dönüştürün.
-	{{< /blocks/products/pf/product >}}
+Microsoft Word, PowerPoint ve Outlook için Python kitaplık paketini kullanarak DOC, DOCX, PPT, PPTX, EML, MSG ve 3D biçimlerini oluşturun, düzenleyin veya dönüştürün.
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/tr/python-java" >}}
-	XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX ve diğer biçimleri oluşturmaya, düzenlemeye veya dönüştürmeye yardımcı olan Microsoft Excel ve Visio için Python kitaplıkları.
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/tr/python-java" >}}
+XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX ve diğer biçimleri oluşturmaya, düzenlemeye veya dönüştürmeye yardımcı olan Microsoft Excel ve Visio için Python kitaplıkları.
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/tr/nodejs-java" >}}
-	Node.js kullanarak Excel elektronik tablolarını ve Visio dosyalarını işleyin ve çeşitli sembolojilerin Barkodlarını tarayın ve oluşturun.
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/tr/nodejs-java" >}}
+Node.js kullanarak Excel elektronik tablolarını ve Visio dosyalarını işleyin ve çeşitli sembolojilerin Barkodlarını tarayın ve oluşturun.
+{{< /blocks/products/pf/product >}}
 
-	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/tr/php-java" >}}
-	Excel Elektronik Tablolarını, PowerPoint ve OpenOffice Sunumlarını değiştirin ve çeşitli sembolojilerin Barkodlarını tanıyın ve oluşturun.
-	{{< /blocks/products/pf/product >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/tr/php-java" >}}
+Excel Elektronik Tablolarını, PowerPoint ve OpenOffice Sunumlarını değiştirin ve çeşitli sembolojilerin Barkodlarını tanıyın ve oluşturun.
+{{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/tr/javascript-cpp" >}}
 Bir JavaScript API kullanarak OCR ve PDF işleme işlevlerine sahip uygulamalar geliştirin.
