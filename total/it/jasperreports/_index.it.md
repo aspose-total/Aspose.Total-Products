@@ -233,6 +233,8 @@ Aspose.CAD per JasperReports fornisce una soluzione unica e robusta per esportar
  {{< blocks/products/pf/offers-section-item link="/total/it/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/it/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/it/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+{{< blocks/products/pf/offers-section-item link="/total/it/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/it/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

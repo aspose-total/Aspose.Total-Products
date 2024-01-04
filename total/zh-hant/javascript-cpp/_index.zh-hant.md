@@ -222,6 +222,8 @@ JavaScript OCR API 用途廣泛，能夠辨識掃描影像、智慧型手機照�
  {{< blocks/products/pf/offers-section-item link="/total/zh-hant/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 
  {{< blocks/products/pf/offers-section-item link="/total/zh-hant/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/zh-hant/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/zh-hant/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -214,6 +214,8 @@ Aspose.Total est une suite puissante pour traiter presque tous les types de docu
     {{< blocks/products/pf/offers-section-item link="/total/fr/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
     {{< blocks/products/pf/offers-section-item link="/total/fr/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
  {{< blocks/products/pf/offers-section-item link="/total/fr/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+{{< blocks/products/pf/offers-section-item link="/total/fr/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/fr/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

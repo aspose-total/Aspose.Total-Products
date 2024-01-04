@@ -253,6 +253,8 @@ Aspose.BarCode for Reporting Services — наиболее комплексно�
  {{< blocks/products/pf/offers-section-item link="/total/ru/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/ru/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/ru/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+{{< blocks/products/pf/offers-section-item link="/total/ru/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/ru/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

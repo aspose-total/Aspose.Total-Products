@@ -235,6 +235,8 @@ Aspose.TeX for C++ 是一个 tex 集成和管理 API，用于处理 tex 文件�
  {{< blocks/products/pf/offers-section-item link="/total/zh/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/zh/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/zh/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+{{< blocks/products/pf/offers-section-item link="/total/zh/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/zh/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

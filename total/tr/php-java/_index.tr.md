@@ -330,6 +330,8 @@ Aspose.Total, neredeyse her türden belgeyi yüksek hızda ve mükemmel kalitede
 	 {{< blocks/products/pf/offers-section-item link="/total/tr/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
 
 
+{{< blocks/products/pf/offers-section-item link="/total/tr/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/tr/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

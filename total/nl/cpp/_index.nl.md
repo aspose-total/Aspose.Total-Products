@@ -235,6 +235,8 @@ De implementatie was rechttoe rechtaan, we focussen ons echt op onze architectuu
  {{< blocks/products/pf/offers-section-item link="/total/nl/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/nl/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
  {{< blocks/products/pf/offers-section-item link="/total/nl/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+{{< blocks/products/pf/offers-section-item link="/total/nl/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/nl/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

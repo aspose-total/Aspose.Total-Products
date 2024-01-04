@@ -222,6 +222,8 @@ JavaScript OCR API는 다재다능하며 스캔한 이미지, 스마트폰 사�
  {{< blocks/products/pf/offers-section-item link="/total/ko/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 
  {{< blocks/products/pf/offers-section-item link="/total/ko/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/ko/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/ko/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

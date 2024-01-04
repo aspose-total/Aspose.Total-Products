@@ -261,6 +261,8 @@ Aspose.Total은 거의 모든 종류의 문서를 빠르고 우수한 품질로 
 	 {{< blocks/products/pf/offers-section-item link="/total/ko/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
 	 {{< blocks/products/pf/offers-section-item link="/total/ko/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}   
 
+{{< blocks/products/pf/offers-section-item link="/total/ko/javascript-cpp/" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" sdkName=" JavaScript via C++" >}}
+{{< blocks/products/pf/offers-section-item link="/total/ko/nodejs-cpp/" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" sdkName=" Node.js via C++" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
