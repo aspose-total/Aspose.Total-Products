@@ -20,22 +20,9 @@ A Aspose.Total for Java robusztus és átfogó megoldást kínál a Microsoft Wo
 
 {{% blocks/products/pf/feature-page-code h3="Java kód – Microsoft Word dokumentum-összehasonlítás" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Hasonlítsa össze a Microsoft Excel táblázatokat Java segítségével" %}}
-
-A Aspose.Total for Java kiterjeszti funkcionalitását a Microsoft Excel táblázatokra, átfogó megoldást kínálva az Excel fájlok programozott összehasonlítására. Az Aspose.Cells képességeit kihasználva a könyvtár lehetővé teszi a fejlesztők számára, hogy észleljék és elemezzék a táblázatfájlok közötti különbségeket, beleértve az adatokban, képletekben, formázásban és egyéb szerkezeti elemekben bekövetkezett változásokat. A Aspose.Total for Java lehetővé teszi az Excel dokumentumokon belüli kiegészítések, törlések vagy módosítások azonosítását, így értékes eszköze a verziókezelésnek, az adatellenőrzésnek és az együttműködésen alapuló adatkezelésnek. A különféle Excel-formátumok támogatásával a fejlesztők zökkenőmentesen integrálhatják a Aspose.Total for Java-et alkalmazásaikba, biztosítva a kompatibilitást a legújabb Excel-verziókkal. Ez a könyvtár hatékony és rugalmas eszközt biztosít a vállalkozások és a fejlesztők számára az Excel-adatok kezelésének pontosságának és hatékonyságának növelésére, robusztus funkcionalitást kínálva a Java alkalmazásokon belüli precíz táblázat-összehasonlításokhoz.
-
-
-{{% blocks/products/pf/feature-page-code h3="Java kód: Microsoft Excel táblázatok összehasonlítása" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="PDF fájlok összehasonlítása" %}}
@@ -44,7 +31,7 @@ A Aspose.Total for Java átfogó megoldást kínál a PDF-fájlok programozott �
 
 {{% blocks/products/pf/feature-page-code h3="Java kód: PDF dokumentumok összehasonlítása" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

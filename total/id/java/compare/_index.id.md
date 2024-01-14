@@ -20,22 +20,9 @@ Aspose.Total for Java memberikan solusi yang kuat dan komprehensif untuk memband
 
 {{% blocks/products/pf/feature-page-code h3="Kode Java - Perbandingan Dokumen Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Bandingkan Spreadsheet Microsoft Excel melalui Java" %}}
-
-Aspose.Total for Java memperluas fungsinya ke spreadsheet Microsoft Excel, menawarkan solusi komprehensif untuk membandingkan file Excel secara terprogram. Memanfaatkan kemampuan Aspose.Cells, perpustakaan memungkinkan pengembang mendeteksi dan menganalisis perbedaan antara file spreadsheet, termasuk perubahan data, rumus, pemformatan, dan elemen struktural lainnya. Aspose.Total for Java memungkinkan identifikasi penambahan, penghapusan, atau modifikasi dalam dokumen Excel, menjadikannya alat yang berharga untuk kontrol versi, validasi data, dan manajemen data kolaboratif. Dengan dukungan untuk berbagai format Excel, pengembang dapat dengan mudah mengintegrasikan Aspose.Total for Java ke dalam aplikasi mereka, memastikan kompatibilitas dengan versi Excel terbaru. Pustaka ini menyediakan sarana yang kuat dan fleksibel bagi bisnis dan pengembang untuk meningkatkan akurasi dan efisiensi dalam mengelola data Excel, menawarkan fungsionalitas yang kuat untuk perbandingan spreadsheet yang tepat dalam aplikasi Java.
-
-
-{{% blocks/products/pf/feature-page-code h3="Kode Java: Perbandingan Spreadsheet Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Perbandingan File PDF" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java menawarkan solusi komprehensif untuk membandingkan file PD
 
 {{% blocks/products/pf/feature-page-code h3="Kode Java: Perbandingan Dokumen PDF" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

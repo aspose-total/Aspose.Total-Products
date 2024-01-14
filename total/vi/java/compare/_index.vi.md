@@ -20,22 +20,9 @@ Aspose.Total for Java cung cấp giải pháp mạnh mẽ và toàn diện để
 
 {{% blocks/products/pf/feature-page-code h3="Mã Java - So sánh tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="So sánh bảng tính Microsoft Excel qua Java" %}}
-
-Aspose.Total for Java mở rộng chức năng của nó sang bảng tính Microsoft Excel, cung cấp giải pháp toàn diện để so sánh các tệp Excel theo chương trình. Tận dụng các khả năng của Aspose.Cells, thư viện cho phép các nhà phát triển phát hiện và phân tích sự khác biệt giữa các tệp bảng tính, bao gồm các thay đổi về dữ liệu, công thức, định dạng và các thành phần cấu trúc khác. Aspose.Total for Java cho phép xác định các phần bổ sung, xóa hoặc sửa đổi trong tài liệu Excel, khiến nó trở thành công cụ có giá trị để kiểm soát phiên bản, xác thực dữ liệu và quản lý dữ liệu cộng tác. Với sự hỗ trợ cho nhiều định dạng Excel khác nhau, các nhà phát triển có thể tích hợp liền mạch Aspose.Total for Java vào ứng dụng của họ, đảm bảo khả năng tương thích với các phiên bản Excel mới nhất. Thư viện này cung cấp một phương tiện mạnh mẽ và linh hoạt cho các doanh nghiệp và nhà phát triển nhằm nâng cao độ chính xác và hiệu quả trong việc quản lý dữ liệu Excel, cung cấp chức năng mạnh mẽ để so sánh bảng tính chính xác trong các ứng dụng Java.
-
-
-{{% blocks/products/pf/feature-page-code h3="Mã Java: So sánh bảng tính Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="So sánh tệp PDF" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java cung cấp giải pháp toàn diện để so sánh các t
 
 {{% blocks/products/pf/feature-page-code h3="Mã Java: So sánh tài liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

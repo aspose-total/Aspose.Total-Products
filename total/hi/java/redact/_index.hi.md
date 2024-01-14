@@ -19,7 +19,7 @@ Aspose.Words से सुसज्जित Aspose.Total for Java, Microsoft Wo
 
 {{% blocks/products/pf/feature-page-code h3="जावा कोड - माइक्रोसॉफ्ट वर्ड दस्तावेज़ को संशोधित करें" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ Aspose.Words से सुसज्जित Aspose.Total for Java, Microsoft Wo
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - पीडीएफ फाइलों को संशोधित करें" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

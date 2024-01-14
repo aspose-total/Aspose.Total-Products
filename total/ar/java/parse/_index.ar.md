@@ -21,7 +21,7 @@ description: تحليل العروض التقديمية بتنسيق PDF وMicro
 
 {{% blocks/products/pf/feature-page-code h3="كود جافا - تحليل مستند Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: تحليل العروض التقديمية بتنسيق PDF وMicro
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - تحليل جداول بيانات Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ description: تحليل العروض التقديمية بتنسيق PDF وMicro
 
 {{% blocks/products/pf/feature-page-code h3="كود جافا - تحليل وثيقة PDF" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

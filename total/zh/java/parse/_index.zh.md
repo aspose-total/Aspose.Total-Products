@@ -21,7 +21,7 @@ Aspose.Total for Java 配备了 Aspose.Words，为以编程方式解析 Microsof
 
 {{% blocks/products/pf/feature-page-code h3="Java 代码 - 解析 Microsoft Word 文档" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for Java 以 Aspose.Cells 为特色，为以编程方式解析 Exce
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - 解析 Microsoft Excel 电子表格" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ API 提供了以编程方式解析 PDF 文件的全面解决方案。 借助其�
 
 {{% blocks/products/pf/feature-page-code h3="Java 代码 - 解析 PDF 文档" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

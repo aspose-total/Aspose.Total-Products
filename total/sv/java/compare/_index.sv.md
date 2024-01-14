@@ -20,21 +20,10 @@ Aspose.Total for Java ger en robust och heltäckande lösning för att jämföra
 
 {{% blocks/products/pf/feature-page-code h3="Java-kod - Microsoft Word-dokumentjämförelse" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Jämför Microsoft Excel-kalkylblad via Java" %}}
-
-Aspose.Total for Java utökar sin funktionalitet till Microsoft Excel-kalkylblad, och erbjuder en heltäckande lösning för programmatisk jämförelse av Excel-filer. Genom att utnyttja funktionerna i Aspose.Cells gör biblioteket det möjligt för utvecklare att upptäcka och analysera skillnader mellan kalkylbladsfiler, inklusive ändringar i data, formler, formatering och andra strukturella element. Aspose.Total for Java möjliggör identifiering av tillägg, raderingar eller ändringar i Excel-dokument, vilket gör det till ett värdefullt verktyg för versionskontroll, datavalidering och samarbetsdatahantering. Med stöd för olika Excel-format kan utvecklare sömlöst integrera Aspose.Total for Java i sina applikationer, vilket säkerställer kompatibilitet med de senaste Excel-versionerna. Detta bibliotek erbjuder ett kraftfullt och flexibelt sätt för företag och utvecklare att förbättra noggrannheten och effektiviteten vid hantering av Excel-data, och erbjuder robust funktionalitet för exakta jämförelser av kalkylblad inom Java-applikationer.
-
-
-{{% blocks/products/pf/feature-page-code h3="Java-kod: Jämförelse av Microsoft Excel-kalkylblad" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -44,7 +33,7 @@ Aspose.Total for Java erbjuder en omfattande lösning för att jämföra PDF-fil
 
 {{% blocks/products/pf/feature-page-code h3="Java-kod: Jämförelse av PDF-dokument" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

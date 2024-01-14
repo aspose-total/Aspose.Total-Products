@@ -19,7 +19,7 @@ Aspose.Words を備えた Aspose.Total for Java は、Microsoft Word 文書内�
 
 {{% blocks/products/pf/feature-page-code h3="Java コード - Microsoft Word 文書を編集する" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ Java API は、PDF ドキュメント内の機密情報をプログラムで編�
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - PDF ファイルを編集する" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -21,7 +21,7 @@ Aspose.Total for Java, được trang bị Aspose.Words, cung cấp giải pháp
 
 {{% blocks/products/pf/feature-page-code h3="Mã Java - Phân tích tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for Java, có Aspose.Cells, cung cấp một giải pháp mạnh m�
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Phân tích bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ API cung cấp giải pháp toàn diện để phân tích tệp PDF theo chươ
 
 {{% blocks/products/pf/feature-page-code h3="Mã Java - Phân tích tài liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -19,7 +19,7 @@ Az Aspose.Words programmal felszerelt Aspose.Total for Java robusztus megoldást
 
 {{% blocks/products/pf/feature-page-code h3="Java kód – A Microsoft Word dokumentum szerkesztése" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ A Java API hatékony megoldást kínál a PDF dokumentumok érzékeny informáci
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - PDF fájlok szerkesztése" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -21,7 +21,7 @@ Az Aspose.Words programmal felszerelt Aspose.Total for Java hatékony megoldást
 
 {{% blocks/products/pf/feature-page-code h3="Java kód – Microsoft Word dokumentum elemzése" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Az Aspose.Cells-t tartalmazó Aspose.Total for Java robusztus megoldást kínál
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Elemezze a Microsoft Excel táblázatokat" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Az API átfogó megoldást kínál a PDF-fájlok programozott elemzésére. Soko
 
 {{% blocks/products/pf/feature-page-code h3="Java kód – PDF dokumentum elemzése" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -19,7 +19,7 @@ Aspose.Words가 탑재된 Aspose.Total for Java은 Microsoft Word 문서의 민�
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드 - Microsoft Word 문서 수정" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ Java API는 PDF 문서의 민감한 정보를 프로그래밍 방식으로 수�
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - PDF 파일 수정" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

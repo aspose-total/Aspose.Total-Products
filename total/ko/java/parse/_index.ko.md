@@ -21,7 +21,7 @@ Aspose.Words가 탑재된 Aspose.Total for Java은 Microsoft Word 문서를 프�
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드 - Microsoft Word 문서 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Cells를 갖춘 Aspose.Total for Java은 Excel 스프레드시트를 프�
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Microsoft Excel 스프레드시트 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ API는 프로그래밍 방식으로 PDF 파일을 구문 분석하기 위한 포
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드 - PDF 문서 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

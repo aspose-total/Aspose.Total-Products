@@ -19,7 +19,7 @@ description: ابحث عن بيانات PDF ومستندات Microsoft Word وج
 
 {{% blocks/products/pf/feature-page-code h3="كود جافا - تنقيح مستند Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ description: ابحث عن بيانات PDF ومستندات Microsoft Word وج
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - تنقيح ملفات PDF" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

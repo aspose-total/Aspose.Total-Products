@@ -19,7 +19,7 @@ description: 透過 Java 應用程式旋轉 PDF 和圖像文件，包括 JPG PNG
 
 {{% blocks/products/pf/feature-page-code h3="Java 程式碼 - 旋轉 PDF 文件頁面" %}}
 
-{{< gist "aspose-com-gists" "40f76f5c973e506289d69739abd19004" "rotate-pdf-pages.py" >}}
+{{< gist "aspose-com-gists" "d5e5fd276785d17cd669d8a417606529" "rotate-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

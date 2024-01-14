@@ -19,7 +19,7 @@ La rotation des documents PDF via Aspose.Total for Java, qui inclut Aspose.PDF, 
 
 {{% blocks/products/pf/feature-page-code h3="Code Java - Rotation des pages d'un document PDF" %}}
 
-{{< gist "aspose-com-gists" "40f76f5c973e506289d69739abd19004" "rotate-pdf-pages.py" >}}
+{{< gist "aspose-com-gists" "d5e5fd276785d17cd669d8a417606529" "rotate-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

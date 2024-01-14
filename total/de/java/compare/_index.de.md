@@ -20,22 +20,9 @@ Aspose.Total for Java bietet eine robuste und umfassende Lösung für den progra
 
 {{% blocks/products/pf/feature-page-code h3="Java-Code – Vergleich von Microsoft Word-Dokumenten" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Vergleichen Sie Microsoft Excel-Tabellen über Java" %}}
-
-Aspose.Total for Java erweitert seine Funktionalität auf Microsoft Excel-Tabellen und bietet eine umfassende Lösung für den programmgesteuerten Vergleich von Excel-Dateien. Mithilfe der Funktionen von Aspose.Cells ermöglicht die Bibliothek Entwicklern die Erkennung und Analyse von Unterschieden zwischen Tabellenkalkulationsdateien, einschließlich Änderungen an Daten, Formeln, Formatierungen und anderen Strukturelementen. Aspose.Total for Java ermöglicht die Identifizierung von Hinzufügungen, Löschungen oder Änderungen in Excel-Dokumenten und macht es zu einem wertvollen Werkzeug für die Versionskontrolle, Datenvalidierung und kollaborative Datenverwaltung. Durch die Unterstützung verschiedener Excel-Formate können Entwickler Aspose.Total for Java nahtlos in ihre Anwendungen integrieren und so die Kompatibilität mit den neuesten Excel-Versionen gewährleisten. Diese Bibliothek bietet Unternehmen und Entwicklern ein leistungsstarkes und flexibles Mittel zur Verbesserung der Genauigkeit und Effizienz bei der Verwaltung von Excel-Daten und bietet robuste Funktionen für präzise Tabellenkalkulationsvergleiche in Java-Anwendungen.
-
-
-{{% blocks/products/pf/feature-page-code h3="Java-Code: Microsoft Excel-Tabellenvergleich" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Vergleich von PDF-Dateien" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java bietet eine umfassende Lösung für den programmgesteuerte
 
 {{% blocks/products/pf/feature-page-code h3="Java-Code: Vergleich von PDF-Dokumenten" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

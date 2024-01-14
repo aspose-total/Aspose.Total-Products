@@ -19,7 +19,7 @@ Aspose.Total for Java, utrustad med Aspose.Words, ger en robust lösning för at
 
 {{% blocks/products/pf/feature-page-code h3="Java-kod - Redigera Microsoft Word-dokument" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ Java API erbjuder en kraftfull lösning för att redigera känslig information i
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Redigera PDF-filer" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

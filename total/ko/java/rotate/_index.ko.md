@@ -19,7 +19,7 @@ Aspose.PDF가 포함된 Aspose.Total for Java을 통해 PDF 문서를 회전하�
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드 - PDF 문서 페이지 회전" %}}
 
-{{< gist "aspose-com-gists" "40f76f5c973e506289d69739abd19004" "rotate-pdf-pages.py" >}}
+{{< gist "aspose-com-gists" "d5e5fd276785d17cd669d8a417606529" "rotate-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

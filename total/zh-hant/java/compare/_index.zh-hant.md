@@ -20,22 +20,9 @@ Aspose.Total for Java 提供了一個強大且全面的解決方案，以程式�
 
 {{% blocks/products/pf/feature-page-code h3="Java 程式碼 - Microsoft Word 文件比較" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="透過 Java 比較 Microsoft Excel 電子表格" %}}
-
-Aspose.Total for Java 將其功能擴展到 Microsoft Excel 電子表格，為以程式設計方式比較 Excel 檔案提供了全面的解決方案。 利用 Aspose.Cells 的功能，該程式庫使開發人員能夠偵測和分析電子表格檔案之間的差異，包括資料、公式、格式和其他結構元素的變更。 Aspose.Total for Java 允許識別 Excel 文件中的新增、刪除或修改，使其成為版本控制、資料驗證和協作資料管理的寶貴工具。 透過支援各種 Excel 格式，開發人員可以將 Aspose.Total for Java 無縫整合到他們的應用程式中，確保與最新 Excel 版本的兼容性。 該程式庫為企業和開發人員提供了強大且靈活的方法，以提高管理 Excel 資料的準確性和效率，並為 Java 應用程式中的精確電子表格比較提供強大的功能。
-
-
-{{% blocks/products/pf/feature-page-code h3="Java 程式碼：Microsoft Excel 試算表比較" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="PDF 檔案比較" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java 提供了一個全面的解決方案，利用 Aspose.PDF �
 
 {{% blocks/products/pf/feature-page-code h3="Java 程式碼：PDF 文件比較" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -20,22 +20,9 @@ description: Συγκρίνετε αρχεία PDF, Microsoft Word, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Σύγκριση εγγράφων Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Συγκρίνετε υπολογιστικά φύλλα Microsoft Excel μέσω Java" %}}
-
-Το Aspose.Total for Java επεκτείνει τη λειτουργικότητά του σε υπολογιστικά φύλλα του Microsoft Excel, προσφέροντας μια ολοκληρωμένη λύση για τη σύγκριση αρχείων Excel μέσω προγραμματισμού. Αξιοποιώντας τις δυνατότητες του Aspose.Cells, η βιβλιοθήκη επιτρέπει στους προγραμματιστές να εντοπίζουν και να αναλύουν διαφορές μεταξύ αρχείων υπολογιστικών φύλλων, συμπεριλαμβανομένων αλλαγών σε δεδομένα, τύπους, μορφοποίηση και άλλα δομικά στοιχεία. Το Aspose.Total for Java επιτρέπει τον εντοπισμό προσθηκών, διαγραφών ή τροποποιήσεων στα έγγραφα του Excel, καθιστώντας το ένα πολύτιμο εργαλείο για τον έλεγχο της έκδοσης, την επικύρωση δεδομένων και τη συλλογική διαχείριση δεδομένων. Με υποστήριξη για διάφορες μορφές Excel, οι προγραμματιστές μπορούν να ενσωματώσουν απρόσκοπτα το Aspose.Total for Java στις εφαρμογές τους, διασφαλίζοντας τη συμβατότητα με τις πιο πρόσφατες εκδόσεις του Excel. Αυτή η βιβλιοθήκη παρέχει ένα ισχυρό και ευέλικτο μέσο για τις επιχειρήσεις και τους προγραμματιστές για να βελτιώσουν την ακρίβεια και την αποτελεσματικότητα στη διαχείριση δεδομένων Excel, προσφέροντας ισχυρή λειτουργικότητα για ακριβείς συγκρίσεις υπολογιστικών φύλλων εντός εφαρμογών Java.
-
-
-{{% blocks/products/pf/feature-page-code h3="Κώδικας Java: Σύγκριση υπολογιστικών φύλλων Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Σύγκριση αρχείων PDF" %}}
@@ -44,7 +31,7 @@ description: Συγκρίνετε αρχεία PDF, Microsoft Word, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Java Code: Σύγκριση εγγράφων PDF" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

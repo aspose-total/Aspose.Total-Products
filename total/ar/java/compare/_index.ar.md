@@ -20,22 +20,9 @@ description: قارن بين ملفات PDF وMicrosoft Word وPowerPoint وExce
 
 {{% blocks/products/pf/feature-page-code h3="كود جافا - مقارنة مستندات Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="قارن جداول بيانات Microsoft Excel عبر Java" %}}
-
-يعمل Aspose.Total for Java على توسيع وظائفه لتشمل جداول بيانات Microsoft Excel، مما يوفر حلاً شاملاً لمقارنة ملفات Excel برمجيًا. من خلال الاستفادة من إمكانيات Aspose.Cells، تمكن المكتبة المطورين من اكتشاف وتحليل الاختلافات بين ملفات جداول البيانات، بما في ذلك التغييرات في البيانات والصيغ والتنسيق والعناصر الهيكلية الأخرى. يسمح Aspose.Total for Java بتحديد الإضافات أو الحذف أو التعديلات داخل مستندات Excel، مما يجعله أداة قيمة للتحكم في الإصدار والتحقق من صحة البيانات وإدارة البيانات التعاونية. ومع دعم تنسيقات Excel المختلفة، يمكن للمطورين دمج Aspose.Total for Java بسلاسة في تطبيقاتهم، مما يضمن التوافق مع أحدث إصدارات Excel. توفر هذه المكتبة وسيلة قوية ومرنة للشركات والمطورين لتعزيز الدقة والكفاءة في إدارة بيانات Excel، مما يوفر وظائف قوية لإجراء مقارنات دقيقة لجداول البيانات داخل تطبيقات Java.
-
-
-{{% blocks/products/pf/feature-page-code h3="كود جافا: مقارنة جداول بيانات Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="مقارنة ملفات PDF" %}}
@@ -44,7 +31,7 @@ description: قارن بين ملفات PDF وMicrosoft Word وPowerPoint وExce
 
 {{% blocks/products/pf/feature-page-code h3="كود جافا: مقارنة مستندات PDF" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

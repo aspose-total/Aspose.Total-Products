@@ -21,7 +21,7 @@ Aspose.Words से सुसज्जित Aspose.Total for Java, Microsoft Wo
 
 {{% blocks/products/pf/feature-page-code h3="जावा कोड - माइक्रोसॉफ्ट वर्ड दस्तावेज़ को पार्स करें" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Cells की विशेषता वाला Aspose.Total for Java ए
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट को पार्स करें" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Cells की विशेषता वाला Aspose.Total for Java ए
 
 {{% blocks/products/pf/feature-page-code h3="जावा कोड - पार्स पीडीएफ दस्तावेज़" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -20,22 +20,9 @@ Aspose.Total for Java, Microsoft Word dosyalarını programlı olarak karşıla�
 
 {{% blocks/products/pf/feature-page-code h3="Java Kodu - Microsoft Word Belgesi Karşılaştırması" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Microsoft Excel Elektronik Tablolarını Java ile Karşılaştırın" %}}
-
-Aspose.Total for Java, işlevselliğini Microsoft Excel elektronik tablolarına genişleterek Excel dosyalarını programlı olarak karşılaştırmak için kapsamlı bir çözüm sunar. Aspose.Cells'in yeteneklerinden yararlanan kütüphane, geliştiricilerin veriler, formüller, formatlama ve diğer yapısal öğelerdeki değişiklikler de dahil olmak üzere elektronik tablo dosyaları arasındaki farkları tespit etmesine ve analiz etmesine olanak tanır. Aspose.Total for Java, Excel belgelerindeki eklemelerin, silmelerin veya değişikliklerin tanımlanmasına olanak tanır; bu da onu sürüm kontrolü, veri doğrulama ve işbirlikçi veri yönetimi için değerli bir araç haline getirir. Çeşitli Excel formatlarına yönelik destek sayesinde geliştiriciler, Aspose.Total for Java'i uygulamalarına sorunsuz bir şekilde entegre ederek en son Excel sürümleriyle uyumluluk sağlayabilirler. Bu kitaplık, işletmelerin ve geliştiricilerin Excel verilerini yönetmede doğruluğu ve verimliliği artırmaları için güçlü ve esnek bir araç sağlar ve Java uygulamaları içinde hassas elektronik tablo karşılaştırmaları için güçlü işlevsellik sunar.
-
-
-{{% blocks/products/pf/feature-page-code h3="Java Kodu: Microsoft Excel Elektronik Tablo Karşılaştırması" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="PDF Dosyaları Karşılaştırması" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java, Aspose.PDF'in yeteneklerinden yararlanarak PDF dosyaları
 
 {{% blocks/products/pf/feature-page-code h3="Java Kodu: PDF Belgeleri Karşılaştırması" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

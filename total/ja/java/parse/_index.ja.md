@@ -21,7 +21,7 @@ Aspose.Words を備えた Aspose.Total for Java は、Microsoft Word ドキュ�
 
 {{% blocks/products/pf/feature-page-code h3="Java コード - Microsoft Word ドキュメントを解析する" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Cells を備えた Aspose.Total for Java は、Excel スプレッドシ�
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Microsoft Excelスプレッドシートを解析する" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ API は、PDF ファイルをプログラムで解析するための包括的な
 
 {{% blocks/products/pf/feature-page-code h3="Java コード - PDF ドキュメントを解析する" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

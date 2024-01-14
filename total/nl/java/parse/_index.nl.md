@@ -21,7 +21,7 @@ Aspose.Total for Java, uitgerust met Aspose.Words, biedt een krachtige oplossing
 
 {{% blocks/products/pf/feature-page-code h3="Java-code - Microsoft Word-document parseren" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for Java, met Aspose.Cells, biedt een robuuste oplossing voor het p
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Parseer Microsoft Excel-spreadsheets" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ API biedt een uitgebreide oplossing voor het programmatisch parseren van PDF-bes
 
 {{% blocks/products/pf/feature-page-code h3="Java-code - PDF-document parseren" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -20,22 +20,9 @@ Aspose.Total for Java은 프로그래밍 방식으로 Microsoft Word 파일을 �
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드 - Microsoft Word 문서 비교" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Java를 통해 Microsoft Excel 스프레드시트 비교" %}}
-
-Aspose.Total for Java은 기능을 Microsoft Excel 스프레드시트로 확장하여 Excel 파일을 프로그래밍 방식으로 비교하기 위한 포괄적인 솔루션을 제공합니다. Aspose.Cells의 기능을 활용하는 이 라이브러리를 통해 개발자는 데이터, 수식, 서식 및 기타 구조 요소의 변경 사항을 포함하여 스프레드시트 파일 간의 차이점을 감지하고 분석할 수 있습니다. Aspose.Total for Java을 사용하면 Excel 문서 내에서 추가, 삭제 또는 수정 사항을 식별할 수 있으므로 버전 제어, 데이터 검증 및 공동 데이터 관리를 위한 유용한 도구가 됩니다. 다양한 Excel 형식에 대한 지원을 통해 개발자는 Aspose.Total for Java을 응용 프로그램에 원활하게 통합하여 최신 Excel 버전과의 호환성을 보장할 수 있습니다. 이 라이브러리는 기업과 개발자가 Excel 데이터 관리의 정확성과 효율성을 향상시킬 수 있는 강력하고 유연한 수단을 제공하며 Java 애플리케이션 내에서 정확한 스프레드시트 비교를 위한 강력한 기능을 제공합니다.
-
-
-{{% blocks/products/pf/feature-page-code h3="Java 코드: Microsoft Excel 스프레드시트 비교" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="PDF 파일 비교" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java은 Aspose.PDF의 기능을 활용하여 PDF 파일을 프�
 
 {{% blocks/products/pf/feature-page-code h3="Java 코드: PDF 문서 비교" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

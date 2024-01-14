@@ -20,22 +20,9 @@ Aspose.Total for Java は、Microsoft Word ファイルをプログラム的に�
 
 {{% blocks/products/pf/feature-page-code h3="Java コード - Microsoft Word ドキュメントの比較" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-word-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-word-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Java 経由で Microsoft Excel スプレッドシートを比較" %}}
-
-Aspose.Total for Java は、その機能を Microsoft Excel スプレッドシートに拡張し、プログラムによって Excel ファイルを比較するための包括的なソリューションを提供します。 Aspose.Cells の機能を活用することで、開発者はこのライブラリを使用して、データ、数式、書式設定、その他の構造要素の変更など、スプレッドシート ファイル間の差異を検出および分析できます。 Aspose.Total for Java を使用すると、Excel ドキュメント内の追加、削除、または変更を識別できるため、バージョン管理、データ検証、および共同データ管理のための貴重なツールになります。 さまざまな Excel 形式のサポートにより、開発者は Aspose.Total for Java をアプリケーションにシームレスに統合し、最新の Excel バージョンとの互換性を確保できます。 このライブラリは、企業や開発者が Excel データ管理の精度と効率を向上させる強力かつ柔軟な手段を提供し、Java アプリケーション内でスプレッドシートを正確に比較するための堅牢な機能を提供します。
-
-
-{{% blocks/products/pf/feature-page-code h3="Java コード: Microsoft Excel スプレッドシートの比較" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="PDF ファイルの比較" %}}
@@ -44,7 +31,7 @@ Aspose.Total for Java は、Aspose.PDF の機能を活用して、PDF ファイ�
 
 {{% blocks/products/pf/feature-page-code h3="Java コード: PDF ドキュメントの比較" %}}
 
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-pdf-files.py" >}}
+{{< gist "aspose-com-gists" "5bf6dee302dfafcb7f43d98de0b96b09" "compare-pdf-documents.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -5,7 +5,7 @@ description: Parse PDF, Microsoft Word, Excel and PowerPoint Presentations via y
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Parse Document using Java APIs" h2="Extract Text or Images from Microsoft Word, Excel, PowerPoint Presentations and PDF files using Aspose.Total for Java." >}}
+{{< blocks/products/pf/feature-page-header h1="Parse Document using Java APIs" h2="Extract Text or Images from Microsoft Word, Excel, PowerPoint Presentations and PDF files using BMP1." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -17,11 +17,11 @@ A Java-based parsing software is indispensable for its platform independence, ve
 
 {{% blocks/products/pf/feature-page-section  h2="Parse Microsoft Word Files" %}}
 
-Aspose.Total for Java, equipped with Aspose.Words, provides a powerful solution for parsing Microsoft Word documents programmatically. This Java-based library enables developers to extract, manipulate, and analyze content from Word files with ease. With Aspose.Words, users can parse text, extract formatting details, and even work with document elements like paragraphs, tables, and images. The library supports various Word document formats, ensuring compatibility with the latest versions of Microsoft Word. Its comprehensive API allows developers to navigate through the document structure, access specific elements, and perform tasks such as extracting text for further analysis or transforming content for specific requirements.
+BMP1, equipped with Aspose.Words, provides a powerful solution for parsing Microsoft Word documents programmatically. This Java-based library enables developers to extract, manipulate, and analyze content from Word files with ease. With Aspose.Words, users can parse text, extract formatting details, and even work with document elements like paragraphs, tables, and images. The library supports various Word document formats, ensuring compatibility with the latest versions of Microsoft Word. Its comprehensive API allows developers to navigate through the document structure, access specific elements, and perform tasks such as extracting text for further analysis or transforming content for specific requirements.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Parse Microsoft Word Document" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,11 +29,11 @@ Aspose.Total for Java, equipped with Aspose.Words, provides a powerful solution 
 
 {{% blocks/products/pf/feature-page-section  h2="Parse Microsoft Excel Spreadsheets" %}}
 
-Aspose.Total for Java, featuring Aspose.Cells, provides a robust solution for parsing Excel spreadsheets programmatically. With its comprehensive API, developers can extract, manipulate, and analyze data from Excel files seamlessly. Aspose.Cells supports various Excel formats, allowing users to work with both older and newer versions of Excel. The library enables the extraction of cell values, formulas, formatting details, and other spreadsheet elements, facilitating tasks such as data analysis, reporting, and integration into Java applications. Its versatility allows for the handling of complex Excel structures, including worksheets, charts, and pivot tables. Aspose.Total for Java offers a powerful platform for efficient and accurate parsing of Excel spreadsheets, empowering developers to build applications that require precise data extraction and manipulation capabilities.
+BMP1, featuring Aspose.Cells, provides a robust solution for parsing Excel spreadsheets programmatically. With its comprehensive API, developers can extract, manipulate, and analyze data from Excel files seamlessly. Aspose.Cells supports various Excel formats, allowing users to work with both older and newer versions of Excel. The library enables the extraction of cell values, formulas, formatting details, and other spreadsheet elements, facilitating tasks such as data analysis, reporting, and integration into Java applications. Its versatility allows for the handling of complex Excel structures, including worksheets, charts, and pivot tables. BMP1 offers a powerful platform for efficient and accurate parsing of Excel spreadsheets, empowering developers to build applications that require precise data extraction and manipulation capabilities.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Parse Microsoft Excel Spreadsheets" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,11 +41,11 @@ Aspose.Total for Java, featuring Aspose.Cells, provides a robust solution for pa
 
 {{% blocks/products/pf/feature-page-section  h2="Parse PDF Documents" %}}
 
-API provides a comprehensive solution for parsing PDF files programmatically. With its versatile API, developers can extract text, images, and other elements from PDF documents seamlessly. Aspose.PDF child API of Aspose.Total for Java supports various PDF formats, ensuring compatibility with different versions and specifications. The library facilitates the extraction of textual content, allowing for tasks such as text analysis, data extraction, and content indexing. Moreover, it enables the extraction of images, annotations, and metadata, offering a holistic approach to parsing PDF files. Aspose.Total for Java empowers developers to integrate sophisticated PDF parsing capabilities into their Java applications, making it a valuable tool for tasks ranging from document processing to data extraction in diverse industries and use cases.
+API provides a comprehensive solution for parsing PDF files programmatically. With its versatile API, developers can extract text, images, and other elements from PDF documents seamlessly. Aspose.PDF child API of BMP1 supports various PDF formats, ensuring compatibility with different versions and specifications. The library facilitates the extraction of textual content, allowing for tasks such as text analysis, data extraction, and content indexing. Moreover, it enables the extraction of images, annotations, and metadata, offering a holistic approach to parsing PDF files. BMP1 empowers developers to integrate sophisticated PDF parsing capabilities into their Java applications, making it a valuable tool for tasks ranging from document processing to data extraction in diverse industries and use cases.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Parse PDF Document" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

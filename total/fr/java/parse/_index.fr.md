@@ -21,7 +21,7 @@ Aspose.Total for Java, équipé d'Aspose.Words, fournit une solution puissante p
 
 {{% blocks/products/pf/feature-page-code h3="Code Java - Analyser un document Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "text-extraction-from-word-document-nodes.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for Java, doté d'Aspose.Cells, fournit une solution robuste pour a
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Analyser les feuilles de calcul Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ L'API fournit une solution complète pour analyser les fichiers PDF par programm
 
 {{% blocks/products/pf/feature-page-code h3="Code Java - Analyser un document PDF" %}}
 
-{{< gist "aspose-com-gists" "5c38d534a5a47b6e6c0e62620a50c6b9" "extract-text-from-word-files.py" >}}
+{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-files-by-extracting-text.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

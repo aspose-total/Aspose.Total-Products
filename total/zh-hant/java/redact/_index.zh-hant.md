@@ -19,7 +19,7 @@ Aspose.Total for Java 配備了 Aspose.Words，為以程式編輯 Microsoft Word
 
 {{% blocks/products/pf/feature-page-code h3="Java 程式碼 - 編輯 Microsoft Word 文檔" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ Java API 提供了一個強大的解決方案，以程式設計方式編輯 PDF 
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - 編輯 PDF 文件" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

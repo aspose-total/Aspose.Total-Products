@@ -19,7 +19,7 @@ Aspose.Total for Java, được trang bị Aspose.Words, cung cấp một giải
 
 {{% blocks/products/pf/feature-page-code h3="Mã Java - Biên tập lại tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files-using-regular-expression.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +31,7 @@ API Java cung cấp một giải pháp mạnh mẽ để sắp xếp lại thôn
 
 {{% blocks/products/pf/feature-page-code h3="Java Code - Biên tập lại các tập tin PDF" %}}
 
-{{< gist "aspose-com-gists" "c0bcdb3ef86d9cde408d093b7b2d71b6" "find-replace-word-documents-regex.py" >}}
+{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-files.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
