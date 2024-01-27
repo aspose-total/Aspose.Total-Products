@@ -23,7 +23,7 @@ Through the integration of Aspose.Words for .NET, developers can easily load mul
 
 {{% blocks/products/pf/feature-page-code h3="C# Code - Microsoft Word Document Merging" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Total's C# implementation for Excel spreadsheet merging preserves data in
 
 {{% blocks/products/pf/feature-page-code h3="C# Code - Microsoft Excel Spreadsheets Merging" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ The Aspose.Total APIs ensures that the formatting, structure, and interactivity 
 
 {{% blocks/products/pf/feature-page-code h3="C# code to merge PDF files" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

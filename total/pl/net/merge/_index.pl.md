@@ -23,7 +23,7 @@ Dzięki integracji Aspose.Words for .NET programiści mogą łatwo ładować wie
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# — łączenie dokumentów Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Implementacja C# Aspose.Total do łączenia arkuszy kalkulacyjnych Excel zachowu
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# — łączenie arkuszy kalkulacyjnych Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Interfejsy API Aspose.Total zapewniają zachowanie formatowania, struktury i int
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# do łączenia plików PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

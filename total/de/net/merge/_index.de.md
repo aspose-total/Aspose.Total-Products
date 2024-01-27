@@ -23,7 +23,7 @@ Durch die Integration von Aspose.Words for .NET können Entwickler problemlos me
 
 {{% blocks/products/pf/feature-page-code h3="C#-Code – Zusammenführen von Microsoft Word-Dokumenten" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Die C#-Implementierung von Aspose.Total für das Zusammenführen von Excel-Tabel
 
 {{% blocks/products/pf/feature-page-code h3="C#-Code – Zusammenführen von Microsoft Excel-Tabellen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Die Aspose.Total-APIs stellen sicher, dass Formatierung, Struktur und Interaktiv
 
 {{% blocks/products/pf/feature-page-code h3="C#-Code zum Zusammenführen von PDF-Dateien" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

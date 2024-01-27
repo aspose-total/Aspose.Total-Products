@@ -23,7 +23,7 @@ description: Объедините два или более отдельных д
 
 {{% blocks/products/pf/feature-page-code h3="Код C# — слияние документов Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ description: Объедините два или более отдельных д
 
 {{% blocks/products/pf/feature-page-code h3="Код C# — объединение таблиц Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ API-интерфейсы Aspose.Total гарантируют сохранени�
 
 {{% blocks/products/pf/feature-page-code h3="Код C# для объединения PDF-файлов" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -23,7 +23,7 @@ Aspose.Words for .NET の統合により、開発者は複数の Word ドキュ�
 
 {{% blocks/products/pf/feature-page-code h3="C# コード - Microsoft Word ドキュメントの結合" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Total の Excel スプレッドシート結合用の C# 実装では、�
 
 {{% blocks/products/pf/feature-page-code h3="C# コード - Microsoft Excel スプレッドシートのマージ" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API は、PDF ドキュメントの書式設定、構造、対話�
 
 {{% blocks/products/pf/feature-page-code h3="PDF ファイルをマージするための C# コード" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -23,7 +23,7 @@ Genom integrationen av Aspose.Words for .NET kan utvecklare enkelt ladda flera W
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod - Microsoft Word Document Merging" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Totals C#-implementering för sammanslagning av Excel-kalkylblad bevarar 
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod - Sammanfogning av Microsoft Excel-kalkylblad" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API:erna säkerställer att formateringen, strukturen och interakti
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod för att slå samman PDF-filer" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

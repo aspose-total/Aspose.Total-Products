@@ -23,7 +23,7 @@ Thông qua việc tích hợp Aspose.Words for .NET, các nhà phát triển có
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Hợp nhất tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Việc triển khai C# của Aspose.Total để hợp nhất bảng tính Excel 
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Hợp nhất bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ API Aspose.Total đảm bảo rằng định dạng, cấu trúc và tính tươ
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# để hợp nhất các tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

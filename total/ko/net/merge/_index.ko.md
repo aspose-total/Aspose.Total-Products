@@ -23,7 +23,7 @@ Aspose.Words for .NET의 통합을 통해 개발자는 쉽게 여러 Word 문서
 
 {{% blocks/products/pf/feature-page-code h3="C# 코드 - Microsoft Word 문서 병합" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Excel 스프레드시트 병합을 위한 Aspose.Total의 C# 구현은 데이터
 
 {{% blocks/products/pf/feature-page-code h3="C# 코드 - Microsoft Excel 스프레드시트 병합" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API는 병합 프로세스 중에 PDF 문서의 형식, 구조 및 
 
 {{% blocks/products/pf/feature-page-code h3="PDF 파일을 병합하는 C# 코드" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

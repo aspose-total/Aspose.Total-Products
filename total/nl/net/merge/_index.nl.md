@@ -23,7 +23,7 @@ Door de integratie van Aspose.Words for .NET kunnen ontwikkelaars eenvoudig meer
 
 {{% blocks/products/pf/feature-page-code h3="C#-code - Microsoft Word-documenten samenvoegen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ De C#-implementatie van Aspose.Total voor het samenvoegen van Excel-spreadsheets
 
 {{% blocks/products/pf/feature-page-code h3="C#-code - Microsoft Excel-spreadsheets samenvoegen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ De Aspose.Total API's zorgen ervoor dat de opmaak, structuur en interactiviteit 
 
 {{% blocks/products/pf/feature-page-code h3="C#-code om PDF-bestanden samen te voegen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

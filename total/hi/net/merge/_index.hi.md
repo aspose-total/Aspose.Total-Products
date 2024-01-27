@@ -23,7 +23,7 @@ Aspose.Total for .NET का उपयोग करके Microsoft Word दस�
 
 {{% blocks/products/pf/feature-page-code h3="सी# कोड - माइक्रोसॉफ्ट वर्ड दस्तावेज़ विलय" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Total for .NET का उपयोग करके Microsoft Excel स्
 
 {{% blocks/products/pf/feature-page-code h3="सी# कोड - माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट मर्जिंग" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API यह सुनिश्चित करता है कि �
 
 {{% blocks/products/pf/feature-page-code h3="पीडीएफ फाइलों को मर्ज करने के लिए सी# कोड" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

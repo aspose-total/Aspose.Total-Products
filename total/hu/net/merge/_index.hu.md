@@ -23,7 +23,7 @@ A Aspose.Words for .NET integrációjával a fejlesztők egyszerűen betölthetn
 
 {{% blocks/products/pf/feature-page-code h3="C# kód – Microsoft Word dokumentumegyesítés" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Az Aspose.Total C#-megvalósítása Excel-táblázat-egyesítéshez megőrzi az 
 
 {{% blocks/products/pf/feature-page-code h3="C# kód – Microsoft Excel táblázatok egyesítése" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Az Aspose.Total API-k biztosítják, hogy a PDF-dokumentumok formázása, szerke
 
 {{% blocks/products/pf/feature-page-code h3="C# kód a PDF fájlok egyesítéséhez" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

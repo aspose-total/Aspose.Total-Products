@@ -23,7 +23,7 @@ Aspose.Words for .NET'nin entegrasyonu sayesinde geliştiriciler birden fazla Wo
 
 {{% blocks/products/pf/feature-page-code h3="C# Kodu - Microsoft Word Belgesi Birleştirme" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Total'ın Excel elektronik tablo birleştirmeye yönelik C# uygulaması, 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kodu - Microsoft Excel Elektronik Tablolarını Birleştirme" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API'leri birleştirme işlemi sırasında PDF belgelerinin formatı
 
 {{% blocks/products/pf/feature-page-code h3="PDF dosyalarını birleştirmek için C# kodu" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

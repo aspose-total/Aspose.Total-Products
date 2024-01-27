@@ -23,7 +23,7 @@ description: 透過 C# 應用程式合併兩個或多個單獨的文檔，包括
 
 {{% blocks/products/pf/feature-page-code h3="C# 程式碼 - Microsoft Word 文件合併" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -37,7 +37,7 @@ Aspose.Total 用於 Excel 電子表格合併的 C# 實作保留了資料完整�
 
 {{% blocks/products/pf/feature-page-code h3="C# 程式碼 - Microsoft Excel 電子表格合併" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-files.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -51,7 +51,7 @@ Aspose.Total API 確保在合併過程中保留 PDF 文件的格式、結構和�
 
 {{% blocks/products/pf/feature-page-code h3="合併PDF文件的C#程式碼" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-document.java" >}}
+{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
