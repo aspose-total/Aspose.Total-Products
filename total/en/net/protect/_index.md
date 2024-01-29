@@ -1,4 +1,4 @@
-s---
+---
 title: Protect Documents with Password via C# 
 
 description: Lock PDF, Microsoft Excel spreadsheets, PowerPoint Presentations and Word documents with passwords via your C# application. Apply password protection with ease.

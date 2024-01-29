@@ -21,24 +21,12 @@ Implementing document watermarking using .NET-based applications offers several 
 
 With Aspose.Total for .NET, incorporating Aspose.PDF, developers can seamlessly add watermarks to PDF documents within .NET applications. This powerful solution allows for the integration of visible or invisible watermarks, providing a versatile approach for branding, security, or document identification. Aspose.PDF within Aspose.Total offers customization options for watermark content, position, and appearance, ensuring flexibility in meeting specific business requirements. Whether adding copyright information, document status, or branding elements, Aspose.PDF simplifies the process of watermarking PDFs, contributing to enhanced document communication, security, and professional presentation within .NET applications.
 
-{{% blocks/products/pf/feature-page-code h3="C# code to watermark PDF" %}}
-
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-text-watermark-to-pdf-document.java" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Watermark Microsoft Word Documents" %}}
-
-Watermarking Microsoft Word documents is a valuable practice for safeguarding intellectual property, ensuring authenticity, and communicating important information about the document's status and ownership. It serves as a visual cue that contributes to document integrity and security. Developing watermarking for Word documents using C# applications offers a combination of platform independence, security, community support, and customization capabilities, making it a suitable choice for a wide range of scenarios, particularly in enterprise and cross-platform contexts. Below is the code for adding text Watermark into Microsoft Word DOC, DOCX formats that any C# developer can integrate within C# applications easily.
-
-{{% blocks/products/pf/feature-page-code h3="C# Code: Watermark PDF Files" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code: Watermark PDF Documents" %}}
 
 {{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-documents.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 
 {{% blocks/products/pf/feature-page-section  h2="Watermarking Microsoft Word And Excel Spreadsheet" %}}
 
@@ -56,7 +44,7 @@ Similarly, Aspose.Cells facilitates the watermarking of Microsoft Excel spreadsh
 
 {{% blocks/products/pf/feature-page-code h3="C# Code: Watermarking Excel Spreadsheets" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-text-watermark-to-powerpoint-presentations.java" >}}
+{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-to-Excel.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
