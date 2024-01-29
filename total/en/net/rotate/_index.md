@@ -5,7 +5,7 @@ description: Rotate PDF and Image files including JPG PNG BMP GIF TIFF SVG via y
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rotate Documents using C# APIs" h2="Rotate Images and PDF documents within C# based application using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Rotate Documents using C# APIs" h2="Rotate Images and PDF documents within C# based application using Aspose.Total for .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
