@@ -47,7 +47,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 
 <h2>Develop BMP File Compression Application using .NET</h2>
 
-Need to develop .NET script or utility app to easily compress multiple BMP files? With [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), child API of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program image compression app. Another way is to use [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) API, that is also the part of [Aspose.Total for .NET](https://products.aspose.com/total/net/) APIs. Powerful .NET library for GIF4 supports many popular formats including BMP format.<br /><br />
+Need to develop .NET script or utility app to easily compress multiple BMP files? With [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), child API of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program image compression app. Powerful .NET library for compression supports many popular formats including BMP format.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
