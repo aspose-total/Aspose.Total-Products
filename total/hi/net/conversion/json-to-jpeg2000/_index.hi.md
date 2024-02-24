@@ -57,7 +57,7 @@ JSON को JPEG2000 में पार्स करते समय, आप [J
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

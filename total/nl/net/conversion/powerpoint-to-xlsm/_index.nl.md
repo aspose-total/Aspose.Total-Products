@@ -116,7 +116,7 @@ Tijdens het converteren van een POWERPOINT-bestand naar XLSM, kunt u ook een wat
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

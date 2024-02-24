@@ -59,7 +59,7 @@ otherformats: SVGZ DXF PSD IMAGE EMZ TGA JPEG2000 WMZ  WMF DICOM
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

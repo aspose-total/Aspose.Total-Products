@@ -117,7 +117,7 @@ Miközben a DOCX-t EXCEL-vé alakítja, az [Aspose.Cells for .NET](https://produ
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

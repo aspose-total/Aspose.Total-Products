@@ -58,7 +58,7 @@ Při převodu souboru PS na MD můžete také přidat vodoznak do výstupního f
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

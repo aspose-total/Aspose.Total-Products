@@ -59,7 +59,7 @@ Met behulp van de API kunt u ook de uitgevoerde JPEG2000-afbeelding roteren volg
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

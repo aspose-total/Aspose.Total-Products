@@ -58,7 +58,7 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL EPUB PS MOBI WORDML ODT
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

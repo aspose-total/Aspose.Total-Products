@@ -58,7 +58,7 @@ Mit der API können Sie das ausgegebene SVGZ-Bild auch nach Ihren Bedürfnissen 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

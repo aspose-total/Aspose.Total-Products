@@ -58,7 +58,7 @@ Az API használatával a JSON-t vízjellel PPT-vé is konvertálhatja. Ha vízje
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

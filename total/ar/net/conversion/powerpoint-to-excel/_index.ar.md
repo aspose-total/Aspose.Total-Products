@@ -120,7 +120,7 @@ otherformats: XLS TSV DIF Excel XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

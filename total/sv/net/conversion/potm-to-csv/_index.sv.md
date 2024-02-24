@@ -116,7 +116,7 @@ Medan du konverterar POTM-fil till CSV kan du också lägga till vattenstämpel 
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 
 {{< /blocks/products/pf/main-wrap-class >}}

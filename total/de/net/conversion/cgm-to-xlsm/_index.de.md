@@ -58,7 +58,7 @@ Während Sie eine CGM-Datei in XLSM konvertieren, können Sie Ihrem Ausgabe-XLSM
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

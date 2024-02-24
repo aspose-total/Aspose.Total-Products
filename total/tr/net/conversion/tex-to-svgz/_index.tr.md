@@ -59,7 +59,7 @@ API'yi kullanarak, çıktı SVGZ görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

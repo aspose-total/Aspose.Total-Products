@@ -58,7 +58,7 @@ Während Sie eine MD-Datei in XLSB konvertieren, können Sie Ihrem Ausgabe-XLSB-
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

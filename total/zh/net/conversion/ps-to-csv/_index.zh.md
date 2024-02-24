@@ -58,7 +58,7 @@ otherformats: SXC XLTM TXT XLSB XLAM TSV XLT FODS XLSM DIF EXCEL MD
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

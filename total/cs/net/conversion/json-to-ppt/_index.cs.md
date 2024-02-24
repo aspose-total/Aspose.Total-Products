@@ -58,7 +58,7 @@ Pomocí API můžete také převést JSON na PPT s vodoznakem. Chcete-li do doku
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

@@ -116,7 +116,7 @@ Tijdens het converteren van een POTM-bestand naar XLTX, kunt u ook een watermerk
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

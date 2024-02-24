@@ -115,7 +115,7 @@ Tijdens het converteren van RTF naar XLT kunt u met [Aspose.Cells for .NET](http
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
