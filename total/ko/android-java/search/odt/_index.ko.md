@@ -139,7 +139,7 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진, Java Advanced Imaging JAI와 같은 선택�
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

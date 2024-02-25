@@ -138,7 +138,7 @@ XLSX 검색 가능한 안드로이드 기반 모바일 유틸리티를 개발해
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

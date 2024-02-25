@@ -109,6 +109,6 @@ otherformats: POTX PPTM POTM PPTX PPS PPT ODP POWERPOINT PPSX POT
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

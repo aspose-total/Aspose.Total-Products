@@ -108,6 +108,6 @@ Możesz także przekonwertować chroniony hasłem DOTX na POTX w swoich aplikacj
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

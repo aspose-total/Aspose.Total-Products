@@ -58,6 +58,6 @@ otherformats: DIF SXC CSV FODS ODS XLSM XLTX XLT XLSB XLTM EXCEL TSV
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

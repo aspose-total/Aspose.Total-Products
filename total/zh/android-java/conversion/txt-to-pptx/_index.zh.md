@@ -109,6 +109,6 @@ otherformats: POTM ODP PPT POWERPOINT POT PPSX POTX PPS PPSM PPTM CSV DIF FODS O
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

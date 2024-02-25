@@ -124,6 +124,6 @@ otherformats: XLSX SXC XLTX EXCEL XLTM XLSB TSV XLSM XLT DIF XLAM FODS CSV ODS
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

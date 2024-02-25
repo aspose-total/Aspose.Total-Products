@@ -123,6 +123,6 @@ otherformats: ODS XLAM CSV XLTX XLSM XLSX FODS SXC XLT DIF XLS XLSB TSV EXCEL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

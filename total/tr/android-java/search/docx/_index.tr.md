@@ -139,7 +139,7 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru, Java Gelişmiş Görüntüleme JAI gibi
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
