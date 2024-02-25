@@ -103,6 +103,6 @@ otherformats: POTM PPTM PPT POTX POWERPOINT PPSM PPSX PPTX PPS POT CSV DIF FODS 
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

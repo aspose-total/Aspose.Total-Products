@@ -110,6 +110,6 @@ Beim Konvertieren der POT-Datei in FODS können Sie Ihrem Ausgabe-FODS-Dateiform
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

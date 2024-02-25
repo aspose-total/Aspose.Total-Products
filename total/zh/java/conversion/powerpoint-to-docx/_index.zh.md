@@ -101,7 +101,7 @@ otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

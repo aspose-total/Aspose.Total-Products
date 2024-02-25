@@ -63,6 +63,6 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM TSV
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

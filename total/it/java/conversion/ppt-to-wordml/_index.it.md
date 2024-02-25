@@ -102,6 +102,6 @@ Utilizzando l'API, puoi anche eseguire la conversione da file PPT a WORDML con f
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

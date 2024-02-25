@@ -110,6 +110,6 @@ otherformats: TSV DIF XLTX MHTML SXC FODS ODS XLAM XLSM EXCEL MARKDOWN XLT XLSB 
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -102,6 +102,6 @@ API를 사용하여 워터마크를 사용하여 PPT 파일을 DOCM로 변환할
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

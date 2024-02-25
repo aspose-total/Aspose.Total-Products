@@ -131,7 +131,7 @@ PPTM 파일을 쉽게 비교하기 위해 Java 기반 소프트웨어 또는 유
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -165,7 +165,7 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
