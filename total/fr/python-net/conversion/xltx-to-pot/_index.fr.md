@@ -129,7 +129,7 @@ Avec l'API de conversion Aspose.Total XLTX, vous pouvez être sûr que votre pro
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

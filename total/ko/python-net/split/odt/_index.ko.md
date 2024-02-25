@@ -139,7 +139,7 @@ ODT 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

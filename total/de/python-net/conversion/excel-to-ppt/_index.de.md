@@ -129,6 +129,6 @@ Mit der Aspose.Total EXCEL-Konvertierungs-API können Sie sicher sein, dass Ihr 
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

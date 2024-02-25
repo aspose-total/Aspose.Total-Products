@@ -116,7 +116,7 @@ PPSX에서 RTF로의 변환을 포함한 파일 변환은 온라인 변환기를
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

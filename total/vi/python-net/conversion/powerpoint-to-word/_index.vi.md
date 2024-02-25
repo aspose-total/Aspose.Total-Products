@@ -116,7 +116,7 @@ Chuy盻ハ ﾄ黛ｻ品 t盻㎝, bao g盻杜 chuy盻ハ ﾄ黛ｻ品 POWERPOINT sang WORD, hoﾃn toﾃ
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

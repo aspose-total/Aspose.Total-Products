@@ -113,7 +113,7 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Slides f
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}       
+       
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

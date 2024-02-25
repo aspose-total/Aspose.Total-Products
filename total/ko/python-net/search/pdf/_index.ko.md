@@ -128,7 +128,7 @@ PDF 검색 가능 유틸리티 앱을 개발해야 합니까? .NET을 통한 Pyt
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

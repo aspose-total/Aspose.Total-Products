@@ -113,7 +113,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Slides for Pytho
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
