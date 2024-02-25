@@ -138,7 +138,7 @@ Linux 또는 macOS용 소프트웨어를 개발하는 경우 [Product Documentat
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

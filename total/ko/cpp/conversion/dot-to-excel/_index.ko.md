@@ -113,6 +113,6 @@ DOT에서 EXCEL로의 변환 코드를 C++ 애플리케이션에 통합하려는
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
