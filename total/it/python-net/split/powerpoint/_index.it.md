@@ -133,7 +133,7 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
