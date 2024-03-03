@@ -3,7 +3,7 @@ title: View POTX File Online and using .NET
 description: Free online POTX file viewer app. .NET API C# code to view POTX presentation for viewer application.
 
 family: total
-platformtag: .NET
+platformtag: net
 feature: Viewer
 informat: POTX
 otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM PPTM POTX POTM Excel XLS XLSX XLSM XLSB XLTX XLTM PDF

@@ -3,7 +3,7 @@ title: View PPSM File Online and using .NET
 description: Free online PPSM file viewer app. .NET API C# code to view PPSM presentation for viewer application.
 
 family: total
-platformtag: .NET
+platformtag: net
 feature: Viewer
 informat: PPSM
 otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM PPTM POTX POTM Excel XLS XLSX XLSM XLSB XLTX XLTM PDF

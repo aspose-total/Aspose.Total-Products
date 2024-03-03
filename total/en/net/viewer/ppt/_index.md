@@ -3,7 +3,7 @@ title: View PPT File Online and using .NET
 description: Free online PPT file viewer app. .NET API C# code to view PPT presentation for viewer application.
 
 family: total
-platformtag: .NET
+platformtag: net
 feature: Viewer
 informat: PPT
 otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM PPTM POTX POTM Excel XLS XLSX XLSM XLSB XLTX XLTM PDF
