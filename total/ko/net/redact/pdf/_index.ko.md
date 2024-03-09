@@ -60,8 +60,8 @@ PDF 편집 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for .N
 {{% blocks/products/pf/agp/feature-section-col title="PDF 파일을 수정하는 .NET 유틸리티" %}}
 시스템에 Aspose.PDF for .NET 또는 Aspose.Total for .NET를 설치하는 대체 옵션이 있습니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/)을 설치하세요. [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget) 보기
-- Visual Studio IDE 내에서 [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console)를 사용하여 라이브러리 설치
+- [NuGet 패키지](https://www.nuget.org/packages/Aspose.PDF/)을 설치하세요. [선적 서류 비치](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget) 보기
+- Visual Studio IDE 내에서 [패키지 관리자 콘솔](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console)를 사용하여 라이브러리 설치
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="시스템 요구 사항" %}}
@@ -75,7 +75,7 @@ PDF 편집 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for .N
 .NET 코드는 기본 하드웨어나 운영 체제에 의존하지 않고 가상 머신에만 의존하므로 Windows, macOS, Android, iOS 및 Linux용 모든 종류의 소프트웨어를 자유롭게 개발할 수 있습니다.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamarin 및 MonoDevelop IDE를 사용하는 것이 좋습니다.
 <br /><br />
-자세한 내용은 [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/)를 참고하세요.
+자세한 내용은 [제품 문서](https://docs.aspose.com/pdf/net/system-requirements/)를 참고하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

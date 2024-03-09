@@ -59,8 +59,8 @@ DOTX megjelenítő alkalmazást vagy segédprogramot szeretne fejleszteni?A [Asp
 
 Vannak alternatív lehetőségek a Aspose.Words for .NET vagy Aspose.Total for .NET telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Words/)-at. Lásd [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Telepítse a könyvtárat a [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) használatával a Visual Studio IDE-n belül
+- Telepítsen egy [NuGet csomag](https://www.nuget.org/packages/Aspose.Words/)-at. Lásd [Dokumentáció](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Telepítse a könyvtárat a [Csomagkezelő konzol](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) használatával a Visual Studio IDE-n belül
 - Telepítse a könyvtárat kézzel a [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) használatával
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +76,7 @@ Termékünk teljes mértékben platformfüggetlen, és támogatja az összes fő
 Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-További részletekért lásd a [Product Documentation](https://docs.aspose.com/words/net/system-requirements/)-at.
+További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/words/net/system-requirements/)-at.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

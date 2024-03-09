@@ -59,9 +59,9 @@ Bir DOCM görüntüleyici uygulaması veya yardımcı programı geliştirmeniz m
 
 Aspose.Words for .NET veya Aspose.Total for .NET'ü sisteminize yüklemek için alternatif seçenekler vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Words/) yükleyin. [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)'a bakın
-- Kitaplığı Visual Studio IDE'de [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) kullanarak yükleyin
-- Kitaplığı [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) kullanarak elle yükleyin
+- Bir [NuGet Paketi](https://www.nuget.org/packages/Aspose.Words/) yükleyin. [Dokümantasyon](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)'a bakın
+- Kitaplığı Visual Studio IDE'de [Paket Yönetici Konsolu](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) kullanarak yükleyin
+- Kitaplığı [Windows Yükleyici](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) kullanarak elle yükleyin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ Aspose.Words for .NET veya Aspose.Total for .NET'ü sisteminize yüklemek için 
 .NET kodu, temel donanıma veya işletim sistemine bağlı olmadığından, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.com/words/net/system-requirements/)'e bakın.
+Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/words/net/system-requirements/)'e bakın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

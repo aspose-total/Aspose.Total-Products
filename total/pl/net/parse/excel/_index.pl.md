@@ -65,9 +65,9 @@ Chcesz opracować aplikację lub narzędzie do analizowania składni Excel? Dzi�
 
 Istnieją alternatywne opcje instalacji Aspose.Cells for .NET lub Aspose.Total for .NET w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj plik [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). Zobacz [Documentation](https://docs.aspose.com/cells/net/installation/)
-- Zainstaluj bibliotekę przy użyciu [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) w środowisku Visual Studio IDE
-- Zainstaluj bibliotekę ręcznie, używając [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
+- Zainstaluj plik [Pakiet NuGeta](https://www.nuget.org/packages/Aspose.Cells/). Zobacz [Dokumentacja](https://docs.aspose.com/cells/net/installation/)
+- Zainstaluj bibliotekę przy użyciu [Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) w środowisku Visual Studio IDE
+- Zainstaluj bibliotekę ręcznie, używając [instalator Windows](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,7 +81,7 @@ Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne impl
 Ponieważ kod .NET nie opiera się na podstawowym sprzęcie ani systemie operacyjnym, ale tylko na maszynie wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux. Upewnij się tylko, że masz zainstalowaną odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br /><br />
 Do tworzenia aplikacji C#, F#, VB.NET zalecamy używanie Microsoft Visual Studio, Xamarin i MonoDevelop IDE.
 <br /><br />
-Więcej szczegółów można znaleźć w [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

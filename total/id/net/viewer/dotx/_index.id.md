@@ -59,9 +59,9 @@ Perlu mengembangkan aplikasi atau utilitas penampil DOTX?Dengan [Aspose.Words fo
 
 Ada opsi alternatif untuk menginstal Aspose.Words for .NET atau Aspose.Total for .NET ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Lihat [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Instal perpustakaan menggunakan [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) dalam Visual Studio IDE
-- Instal perpustakaan dengan tangan menggunakan [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- Instal [Paket NuGet](https://www.nuget.org/packages/Aspose.Words/). Lihat [Dokumentasi](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Instal perpustakaan menggunakan [Konsol Manajer Paket](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) dalam Visual Studio IDE
+- Instal perpustakaan dengan tangan menggunakan [Penginstal Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ Produk kami sepenuhnya lintas platform dan mendukung semua implementasi .NET uta
 Karena kode .NET tidak bergantung pada perangkat keras atau sistem operasi yang mendasarinya, tetapi hanya pada Mesin Virtual, maka Anda bebas mengembangkan perangkat lunak apa pun untuk Windows, macOS, Android, iOS, dan Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -60,8 +60,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Утилита .NET для редактирования файла PDF" %}}
 Существуют альтернативные варианты установки Aspose.PDF for .NET или Aspose.Total for .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Смотри [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Установите библиотеку, используя [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) в Visual Studio IDE.
+- Установите [Пакет NuGet](https://www.nuget.org/packages/Aspose.PDF/). Смотри [Документация](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Установите библиотеку, используя [Консоль диспетчера пакетов](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) в Visual Studio IDE.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -75,7 +75,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 Поскольку код .NET не зависит от базового оборудования или операционной системы, а только от виртуальной машины, вы можете разрабатывать любое программное обеспечение для Windows, macOS, Android, iOS и Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 Мы рекомендуем использовать Microsoft Visual Studio, Xamarin и MonoDevelop IDE для создания приложений C#, F#, VB.NET.
 <br /><br />
-Для получения более подробной информации обратитесь к [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Для получения более подробной информации обратитесь к [Документация продукта](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

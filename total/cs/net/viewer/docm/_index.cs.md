@@ -59,9 +59,9 @@ Potřebujete vyvinout aplikaci nebo nástroj pro prohlížení DOCM?S [Aspose.Wo
 
 Existují alternativní možnosti instalace Aspose.Words for .NET nebo Aspose.Total for .NET do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Viz [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Nainstalujte knihovnu pomocí [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) v rámci Visual Studio IDE
-- Nainstalujte knihovnu ručně pomocí [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- Nainstalujte [Balíček NuGet](https://www.nuget.org/packages/Aspose.Words/). Viz [Dokumentace](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Nainstalujte knihovnu pomocí [Konzole správce balíčků](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) v rámci Visual Studio IDE
+- Nainstalujte knihovnu ručně pomocí [Instalační služba Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ Náš produkt je plně multiplatformní a podporuje všechny hlavní implementac
 Protože kód .NET se nespoléhá na základní hardware nebo operační systém, ale pouze na virtuální počítač, můžete tedy volně vyvíjet jakýkoli druh softwaru pro Windows, macOS, Android, iOS a Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -59,9 +59,9 @@ Chcesz opracować aplikację lub narzędzie przeglądarki DOTX?Dzięki [Aspose.W
 
 Istnieją alternatywne opcje instalacji Aspose.Words for .NET lub Aspose.Total for .NET w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj plik [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Zobacz [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Zainstaluj bibliotekę przy użyciu [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) w środowisku Visual Studio IDE
-- Zainstaluj bibliotekę ręcznie, używając [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- Zainstaluj plik [Pakiet NuGeta](https://www.nuget.org/packages/Aspose.Words/). Zobacz [Dokumentacja](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Zainstaluj bibliotekę przy użyciu [Konsola menedżera pakietów](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) w środowisku Visual Studio IDE
+- Zainstaluj bibliotekę ręcznie, używając [instalator Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne impl
 Ponieważ kod .NET nie opiera się na podstawowym sprzęcie ani systemie operacyjnym, ale tylko na maszynie wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Więcej szczegółów można znaleźć w [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

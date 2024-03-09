@@ -60,8 +60,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="أداة .NET لتنقيح ملف PDF" %}}
 هناك خيارات بديلة لتثبيت Aspose.PDF for .NET أو Aspose.Total for .NET على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- تثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). انظر [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- قم بتثبيت المكتبة باستخدام [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) داخل Visual Studio IDE
+- تثبيت [حزمة نوجيت](https://www.nuget.org/packages/Aspose.PDF/). انظر [توثيق](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- قم بتثبيت المكتبة باستخدام [وحدة تحكم إدارة الحزم](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) داخل Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
@@ -75,7 +75,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على جهاز افتراضي، لذلك لديك الحرية في تطوير أي نوع من البرامج لأنظمة Windows، وmacOS، وAndroid، وiOS، وLinux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 نوصي باستخدام Microsoft Visual Studio وXamarin وMonoDevelop IDE لإنشاء تطبيقات C# وF# وVB.NET.
 <br /><br />
-لمزيد من التفاصيل يرجى الرجوع إلى [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+لمزيد من التفاصيل يرجى الرجوع إلى [توثيق المنتج](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

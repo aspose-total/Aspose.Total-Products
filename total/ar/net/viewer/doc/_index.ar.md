@@ -59,9 +59,9 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 
 هناك خيارات بديلة لتثبيت Aspose.Words for .NET أو Aspose.Total for .NET على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- تثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). انظر [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- قم بتثبيت المكتبة باستخدام [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) داخل Visual Studio IDE
-- قم بتثبيت المكتبة يدويًا باستخدام [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- تثبيت [حزمة نوجيت](https://www.nuget.org/packages/Aspose.Words/). انظر [توثيق](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- قم بتثبيت المكتبة باستخدام [وحدة تحكم إدارة الحزم](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) داخل Visual Studio IDE
+- قم بتثبيت المكتبة يدويًا باستخدام [مثبت الويندوز](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على جهاز افتراضي، لذلك لديك الحرية في تطوير أي نوع من البرامج لأنظمة Windows، وmacOS، وAndroid، وiOS، وLinux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-لمزيد من التفاصيل يرجى الرجوع إلى [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+لمزيد من التفاصيل يرجى الرجوع إلى [توثيق المنتج](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -59,9 +59,9 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 
 Существуют альтернативные варианты установки Aspose.Words for .NET или Aspose.Total for .NET в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Смотри [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Установите библиотеку, используя [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) в Visual Studio IDE.
-- Установите библиотеку вручную, используя [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer).
+- Установите [Пакет NuGet](https://www.nuget.org/packages/Aspose.Words/). Смотри [Документация](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Установите библиотеку, используя [Консоль диспетчера пакетов](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) в Visual Studio IDE.
+- Установите библиотеку вручную, используя [Установщик Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 Поскольку код .NET не зависит от базового оборудования или операционной системы, а только от виртуальной машины, вы можете разрабатывать любое программное обеспечение для Windows, macOS, Android, iOS и Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Для получения более подробной информации обратитесь к [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Для получения более подробной информации обратитесь к [Документация продукта](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

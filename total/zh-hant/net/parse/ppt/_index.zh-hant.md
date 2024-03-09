@@ -67,8 +67,8 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 
 還有其他選項可以將 Aspose.Slides for .NET 或 Aspose.Total for .NET 安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 安裝 [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/)。參見 [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) 安裝程式庫
+- 安裝 [NuGet 套件](https://www.nuget.org/packages/Aspose.Slides/)。參見 [文件](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- 在 Visual Studio IDE 中使用 [套件管理器控制台](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) 安裝程式庫
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,7 +82,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 由於 .NET 程式碼不依賴底層硬體或作業系統，而僅依賴虛擬機，因此您可以自由地為 Windows、macOS、Android、iOS 和 Linux 開發任何類型的軟體。只要確保您已安裝對應版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br /><br />
 我們建議使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 建立 C#、F#、VB.NET 應用程式。
 <br /><br />
-欲了解更多詳情，請參閱[Product Documentation](https://docs.aspose.com/slides/net/system-requirements/)。
+欲了解更多詳情，請參閱[產品文件](https://docs.aspose.com/slides/net/system-requirements/)。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

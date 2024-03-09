@@ -60,8 +60,8 @@ Wilt u een PDF-redactie-app of -hulpprogramma ontwikkelen?Met [Aspose.PDF for .N
 {{% blocks/products/pf/agp/feature-section-col title=".NET-hulpprogramma om het PDF-bestand te redigeren" %}}
 Er zijn alternatieve opties om Aspose.PDF for .NET of Aspose.Total for .NET op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Zie [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Installeer de bibliotheek met [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) binnen Visual Studio IDE
+- Installeer een [NuGet-pakket](https://www.nuget.org/packages/Aspose.PDF/). Zie [Documentatie](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Installeer de bibliotheek met [Pakketbeheerconsole](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) binnen Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -75,7 +75,7 @@ Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .N
 Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, bent u vrij om elke vorm van software te ontwikkelen voor Windows, macOS, Android, iOS en Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We raden u aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken om C#-, F#- en VB.NET-applicaties te maken.
 <br /><br />
-Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

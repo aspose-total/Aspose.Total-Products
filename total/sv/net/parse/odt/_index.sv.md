@@ -70,7 +70,7 @@ Behöver du utveckla en ODT-parserapplikation eller programvara?Med [Aspose.Word
 
 Det finns alternativa alternativ för att installera Aspose.Words for .NET eller Aspose.Total for .NET på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Se [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Installera en [NuGet-paket](https://www.nuget.org/packages/Aspose.Words/). Se [Dokumentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
 - Installera biblioteket med [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) i Visual Studio IDE
 - Installera biblioteket för hand med [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
@@ -87,7 +87,7 @@ Vår produkt är helt plattformsoberoende och stöder alla större .NET-implemen
 Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br /><br />
 Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
 <br /><br />
-För mer information, se [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+För mer information, se [Produktdokumentation](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

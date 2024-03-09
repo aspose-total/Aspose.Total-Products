@@ -59,9 +59,9 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 
 มีตัวเลือกอื่นในการติดตั้ง Aspose.Words for .NET หรือ Aspose.Total for .NET ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Words/) ดู [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- ติดตั้งไลบรารีโดยใช้ [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) ภายใน Visual Studio IDE
-- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.Words/) ดู [เอกสารประกอบ](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- ติดตั้งไลบรารีโดยใช้ [คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) ภายใน Visual Studio IDE
+- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [ตัวติดตั้ง Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ต้องใช้บน Virtual Machine เท่านั้น คุณจึงมีอิสระในการพัฒนาซอฟต์แวร์ทุกประเภทสำหรับ Windows, macOS, Android, iOS และ LinuxJust make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [Product Documentation](https://docs.aspose.com/words/net/system-requirements/)
+สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/words/net/system-requirements/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

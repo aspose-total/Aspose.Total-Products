@@ -59,8 +59,8 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 
 Υπάρχουν εναλλακτικές επιλογές για την εγκατάσταση Aspose.PDF for .NET ή Aspose.Total for .NET στο σύστημά σας. Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε ένα [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Δείτε το [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Εγκαταστήστε τη βιβλιοθήκη χρησιμοποιώντας [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) στο Visual Studio IDE
+- Εγκαταστήστε ένα [Πακέτο NuGet](https://www.nuget.org/packages/Aspose.PDF/). Δείτε το [Τεκμηρίωση](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Εγκαταστήστε τη βιβλιοθήκη χρησιμοποιώντας [Κονσόλα Package Manager](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) στο Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις συστήματος" %}}
@@ -73,7 +73,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 Καθώς ο κώδικας .NET δεν βασίζεται στο υποκείμενο υλικό ή το λειτουργικό σύστημα, αλλά μόνο σε μια Εικονική Μηχανή, έτσι είστε ελεύθεροι να αναπτύξετε οποιοδήποτε είδος λογισμικού για Windows, macOS, Android, iOS και Linux.Απλώς βεβαιωθείτε ότι έχετε εγκαταστήσει την αντίστοιχη έκδοση των .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.<br /><br />
 Συνιστούμε να χρησιμοποιήσετε το Microsoft Visual Studio, το Xamarin και το MonoDevelop IDE για τη δημιουργία εφαρμογών C#, F#, VB.NET.
 <br /><br />
-Για περισσότερες λεπτομέρειες, ανατρέξτε στο [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Για περισσότερες λεπτομέρειες, ανατρέξτε στο [Τεκμηρίωση προϊόντος](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

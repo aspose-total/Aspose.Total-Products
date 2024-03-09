@@ -61,9 +61,9 @@ Bạn cần phát triển ứng dụng hoặc tiện ích biên tập Excel? V�
 
 Có các tùy chọn thay thế để cài đặt Aspose.Cells for .NET hoặc Aspose.Total for .NET vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). Xem [Documentation](https://docs.aspose.com/cells/net/installation/)
-- Cài đặt thư viện bằng [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) trong Visual Studio IDE
-- Cài đặt thư viện bằng tay bằng [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
+- Cài đặt [Gói NuGet](https://www.nuget.org/packages/Aspose.Cells/). Xem [Tài liệu](https://docs.aspose.com/cells/net/installation/)
+- Cài đặt thư viện bằng [Bảng điều khiển quản lý gói](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) trong Visual Studio IDE
+- Cài đặt thư viện bằng tay bằng [cài đặt cửa sổ](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,7 +77,7 @@ Sản phẩm của chúng tôi hoàn toàn đa nền tảng và hỗ trợ tất
 Vì mã .NET không dựa vào phần cứng hoặc hệ điều hành cơ bản mà chỉ dựa trên Máy ảo, nên bạn có thể tự do phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux. Chỉ cần đảm bảo rằng bạn đã cài đặt phiên bản tương ứng của .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.<br /><br />
 Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
 <br /><br />
-Để biết thêm chi tiết, vui lòng tham khảo [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+Để biết thêm chi tiết, vui lòng tham khảo [Tài liệu sản phẩm](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
