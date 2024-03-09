@@ -41,13 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 
 {{% blocks/products/pf/agp/code-block title="C#代碼：DOT文件影像擷取" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-images-from-word-document.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-images-from-word-document.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="C#代碼：DOT文件文字擷取" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-text-from-word-document.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-text-from-word-document.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

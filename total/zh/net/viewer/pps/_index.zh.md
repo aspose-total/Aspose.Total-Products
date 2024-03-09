@@ -39,7 +39,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 
 {{% blocks/products/pf/agp/code-block title="C# 代码：查看 PPS 演示文稿" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-presentations.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-presentations.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

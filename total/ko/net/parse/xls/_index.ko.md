@@ -39,13 +39,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 
 {{% blocks/products/pf/agp/code-block title="C# 코드 : XLS 스프레드시트 이미지 추출" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet-for-images-extraction.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-excel-spreadsheet-for-images-extraction.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="C# 코드 : XLS 스프레드시트 텍스트 추출" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-excel-spreadsheet-for-text-extraction.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-excel-spreadsheet-for-text-extraction.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

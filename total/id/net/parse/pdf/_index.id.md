@@ -38,13 +38,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 
 {{% blocks/products/pf/agp/code-block title="Kode C# : Ekstraksi Teks Dokumen PDF" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-documents-by-extracting-text.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-pdf-documents-by-extracting-text.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="Kode C# : Ekstraksi Gambar Dokumen PDF" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-documents-by-extracting-images.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-pdf-documents-by-extracting-images.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
