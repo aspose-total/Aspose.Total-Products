@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de marcas de agua .NET para archivos GIF" %}}
 Existen opciones alternativas para instalar "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/es/net/)" o "[Aspose.Total for .NET](https://products.aspose.com/total/es/net/)" en su sistema.Nuestro paquete .NET está diseñado para ser multiplataforma y compatible con implementaciones JVM en varios sistemas operativos como Microsoft Windows, Linux, macOS, Android e iOS.Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:<br />
 
-- Instalar [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- O desde [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Instalar [Paquete NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- O desde [Documentación](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Paso a paso JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

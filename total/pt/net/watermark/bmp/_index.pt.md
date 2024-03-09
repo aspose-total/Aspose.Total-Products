@@ -59,8 +59,8 @@ Precisa desenvolver um aplicativo utilitário .NET para marcar facilmente vário
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de marca d'água .NET para arquivos BMP" %}}
 Existem opções alternativas para instalar “[Aspose.Imaging for .NET](https://products.aspose.com/imaging/pt/net/)” ou “[Aspose.Total for .NET](https://products.aspose.com/total/pt/net/)” em seu sistema.Nosso pacote .NET foi projetado para ser multiplataforma, compatível com implementações JVM em vários sistemas operacionais, como Microsoft Windows, Linux, macOS, Android e iOS.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br />
 
-- Instale [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Ou do [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Instale [Pacote NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Ou do [Documentação](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Passo a passo JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

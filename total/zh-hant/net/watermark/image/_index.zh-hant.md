@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Image 檔案的 .NET 浮水印庫" %}}
 還有其他選項可以將“[Aspose.Imaging for .NET](https://products.aspose.com/imaging/zh-hant/net/)”或“[Aspose.Total for .NET](https://products.aspose.com/total/zh-hant/net/)”安裝到您的系統上。我們的 .NET 套件被設計為跨平台的，與各種作業系統（例如 Microsoft Windows、Linux、macOS、Android 和 iOS）上的 JVM 實作相容。請選擇符合您需求的一項並按照逐步說明進行操作：<br />
 
-- 安裝[NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- 或來自[Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- 安裝[NuGet 套件](https://www.nuget.org/packages/Aspose.Imaging/)
+- 或來自[文件](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - 一步一步 JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

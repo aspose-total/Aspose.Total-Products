@@ -55,8 +55,8 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% blocks/products/pf/agp/feature-section-col title="JPEG ファイル用の .NET 圧縮ライブラリ" %}}
 「Aspose.Imaging for .NET」または「Aspose.Total for .NET」をシステムにインストールするための代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)をインストールします。 [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)を参照
-- Visual Studio IDE 内で [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) を使用してライブラリをインストールします。
+- [NuGet パッケージ](https://www.nuget.org/packages/Aspose.Imaging/)をインストールします。 [ドキュメンテーション](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)を参照
+- Visual Studio IDE 内で [パッケージマネージャーコンソール](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) を使用してライブラリをインストールします。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -69,7 +69,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 .NET コードは基盤となるハードウェアやオペレーティング システムに依存せず、仮想マシンにのみ依存するため、Windows、macOS、Android、iOS、Linux 用のあらゆる種類のソフトウェアを自由に開発できます。対応するバージョンの .NET Framework、.NET Core、Windows Azure、Mono、または Xamarin がインストールされていることを確認してください。<br /><br />
 C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visual Studio、Xamarin、および MonoDevelop IDE を使用することをお勧めします。
 <br /><br />
-詳細については[Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/)を参照してください。
+詳細については[製品ドキュメント](https://docs.aspose.com/imaging/net/system-requirements/)を参照してください。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

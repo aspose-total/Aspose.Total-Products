@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="GIF 파일용 .NET 워터마크 라이브러리" %}}
 시스템에 "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ko/net/)" 또는 "[Aspose.Total for .NET](https://products.aspose.com/total/ko/net/)"을 설치하는 대체 옵션이 있습니다.당사의 .NET 패키지는 크로스 플랫폼으로 설계되었으며 Microsoft Windows, Linux, macOS, Android 및 iOS와 같은 다양한 운영 체제에서 JVM 구현과 호환됩니다.귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.<br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/) 설치
-- 아니면 [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)에서
+- [NuGet 패키지](https://www.nuget.org/packages/Aspose.Imaging/) 설치
+- 아니면 [선적 서류 비치](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)에서
 - 단계별 JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

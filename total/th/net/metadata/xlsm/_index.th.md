@@ -63,9 +63,9 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% blocks/products/pf/agp/feature-section-col title=".NET Utility เพื่อจัดการข้อมูลเมตา XLSM" %}}
 มีทางเลือกสามทางในการติดตั้ง "Aspose.Cells for .NET" หรือ "Aspose.Total for .NET" ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/) ดู [Documentation](https://docs.aspose.com/cells/net/installation/)
-- ติดตั้งไลบรารีโดยใช้ [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) ภายใน Visual Studio IDE
-- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.Cells/) ดู [เอกสารประกอบ](https://docs.aspose.com/cells/net/installation/)
+- ติดตั้งไลบรารีโดยใช้ [คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) ภายใน Visual Studio IDE
+- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [ตัวติดตั้ง Windows](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -79,7 +79,7 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 เนื่องจากโค้ด .NET ไม่ต้องอาศัยฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ต้องใช้บน Virtual Machine เท่านั้น คุณจึงมีอิสระในการพัฒนาซอฟต์แวร์ทุกประเภทสำหรับ Windows, macOS, Android, iOS และ Linuxเพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่เกี่ยวข้อง<br /><br />
 เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE เพื่อสร้างแอปพลิเคชัน C#, F#, VB.NET
 <br /><br />
-สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/)
+สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/cells/net/system-requirements/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

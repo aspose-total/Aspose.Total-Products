@@ -55,8 +55,8 @@ Hai bisogno di sviluppare un'app o un'utilità per la gestione della protezione 
 {{% blocks/products/pf/agp/feature-section-col title="Utilità .NET per gestire la protezione PPTX" %}}
 Esistono tre opzioni alternative per installare "Aspose.Slides for .NET" o "Aspose.Total for .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa una [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/). Vedi [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- Installa la libreria utilizzando [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) all'interno dell'IDE di Visual Studio
+- Installa una [Pacchetto NuGet](https://www.nuget.org/packages/Aspose.Slides/). Vedi [Documentazione](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- Installa la libreria utilizzando [Console di gestione pacchetti](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) all'interno dell'IDE di Visual Studio
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ Il nostro prodotto è completamente multipiattaforma e supporta tutte le princip
 Poiché il codice .NET non si basa sull'hardware o sul sistema operativo sottostante, ma solo su una macchina virtuale, sei libero di sviluppare qualsiasi tipo di software per Windows, macOS, Android, iOS e Linux.Assicurati solo di aver installato la versione corrispondente di .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.<br /><br />
 È consigliabile usare Microsoft Visual Studio, Xamarin e MonoDevelop IDE per creare applicazioni C#, F# e VB.NET.
 <br /><br />
-Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/).
+Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://docs.aspose.com/slides/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

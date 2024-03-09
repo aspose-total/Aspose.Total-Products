@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="TIFF 文件的 .NET 水印库" %}}
 还有其他选项可以将“[Aspose.Imaging for .NET](https://products.aspose.com/imaging/zh/net/)”或“[Aspose.Total for .NET](https://products.aspose.com/total/zh/net/)”安装到您的系统上。我们的 .NET 包被设计为跨平台的，与各种操作系统（例如 Microsoft Windows、Linux、macOS、Android 和 iOS）上的 JVM 实现兼容。请选择符合您需求的一项并按照分步说明进行操作：<br />
 
-- 安装[NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- 或者来自[Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- 安装[NuGet 包](https://www.nuget.org/packages/Aspose.Imaging/)
+- 或者来自[文档](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - 一步一步 JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

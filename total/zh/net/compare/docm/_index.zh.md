@@ -50,9 +50,9 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% blocks/products/pf/agp/feature-section-col title=".NET 的 DOCM 比较库" %}}
 可以通过三个替代选项将“Aspose.Words for .NET”或“Aspose.Total for .NET”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 安装 [NuGet Package](https://www.nuget.org/packages/Aspose.Words/)。参见 [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) 安装库
-- 使用 [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) 手动安装库
+- 安装 [NuGet 包](https://www.nuget.org/packages/Aspose.Words/)。参见 [文档](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- 在 Visual Studio IDE 中使用 [包管理器控制台](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) 安装库
+- 使用 [Windows安装程序](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) 手动安装库
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,7 +67,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 由于 .NET 代码不依赖于底层硬件或操作系统，而仅依赖于虚拟机，因此您可以自由地为 Windows、macOS、Android、iOS 和 Linux 开发任何类型的软件。只需确保您已安装相应版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br /><br />
 我们建议使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 创建 C#、F#、VB.NET 应用程序。
 <br /><br />
-欲了解更多详情，请参阅[Product Documentation](https://docs.aspose.com/words/net/system-requirements/)。
+欲了解更多详情，请参阅[产品文档](https://docs.aspose.com/words/net/system-requirements/)。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -54,8 +54,8 @@ PPTX dosyalarını kolayca bölmek için .NET betiği veya yardımcı program uy
 
 Sisteminize "Aspose.Slides for .NET" veya "Aspose.Total for .NET" yüklemek için üç alternatif seçenek vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/) yükleyin. [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)'a bakın
-- Kitaplığı Visual Studio IDE içinde [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) kullanarak yükleyin
+- Bir [NuGet Paketi](https://www.nuget.org/packages/Aspose.Slides/) yükleyin. [Dokümantasyon](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)'a bakın
+- Kitaplığı Visual Studio IDE içinde [Paket Yönetici Konsolu](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) kullanarak yükleyin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +69,7 @@ Sisteminize "Aspose.Slides for .NET" veya "Aspose.Total for .NET" yüklemek içi
 .NET kodu temel donanıma veya işletim sistemine bağlı olmadığından, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz..NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünü yüklediğinizden emin olun.<br /><br />
 C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
 <br /><br />
-Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/)'e bakın.
+Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slides/net/system-requirements/)'e bakın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

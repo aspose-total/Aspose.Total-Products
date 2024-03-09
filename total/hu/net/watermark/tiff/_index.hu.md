@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title=".NET Watermark Library TIFF fájlokhoz" %}}
 Vannak alternatív lehetőségek a "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/hu/net/)" vagy "[Aspose.Total for .NET](https://products.aspose.com/total/hu/net/)" telepítésére a rendszerre..NET-csomagunkat többplatformosra tervezték, és kompatibilis a JVM-megvalósításokkal különféle operációs rendszereken, például Microsoft Windows, Linux, macOS, Android és iOS rendszeren.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br />
 
-- Telepítse a [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)-at
-- Vagy [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)-ből
+- Telepítse a [NuGet csomag](https://www.nuget.org/packages/Aspose.Imaging/)-at
+- Vagy [Dokumentáció](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)-ből
 - Lépésről lépésre JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

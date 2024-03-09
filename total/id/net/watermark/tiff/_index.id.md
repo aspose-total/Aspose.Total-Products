@@ -59,8 +59,8 @@ Perlu mengembangkan aplikasi utilitas .NET untuk memberi tanda air pada beberapa
 {{% blocks/products/pf/agp/feature-section-col title="Perpustakaan Tanda Air .NET untuk File TIFF" %}}
 Ada opsi alternatif untuk menginstal "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/id/net/)" atau "[Aspose.Total for .NET](https://products.aspose.com/total/id/net/)" ke sistem Anda.Paket .NET kami dirancang untuk lintas platform, kompatibel dengan implementasi JVM di berbagai sistem operasi seperti Microsoft Windows, Linux, macOS, Android, dan iOS.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br />
 
-- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Atau dari [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Instal [Paket NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Atau dari [Dokumentasi](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Langkah demi Langkah JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

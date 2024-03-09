@@ -55,8 +55,8 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title=".NET 實用程式處理 PPTX 檔案以保護應用程式" %}}
 可以透過三個替代選項將“Aspose.Slides for .NET”或“Aspose.Total for .NET”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 安裝 [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/)。參見 [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) 安裝程式庫
+- 安裝 [NuGet 套件](https://www.nuget.org/packages/Aspose.Slides/)。參見 [文件](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- 在 Visual Studio IDE 中使用 [套件管理器控制台](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) 安裝程式庫
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 由於 .NET 程式碼不依賴底層硬體或作業系統，而僅依賴虛擬機，因此您可以自由地為 Windows、macOS、Android、iOS 和 Linux 開發任何類型的軟體。Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-欲了解更多詳情，請參閱[Product Documentation](https://docs.aspose.com/slides/net/system-requirements/)。
+欲了解更多詳情，請參閱[產品文件](https://docs.aspose.com/slides/net/system-requirements/)。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

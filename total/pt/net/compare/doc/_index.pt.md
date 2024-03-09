@@ -50,9 +50,9 @@ Precisa desenvolver software ou aplicativo utilitário baseado em .NET para comp
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de comparação DOC para .NET" %}}
 Existem três opções alternativas para instalar “Aspose.Words for .NET” ou “Aspose.Total for .NET” em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale um [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Veja [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Instale a biblioteca usando [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) no Visual Studio IDE
-- Instale a biblioteca manualmente usando [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- Instale um [Pacote NuGet](https://www.nuget.org/packages/Aspose.Words/). Veja [Documentação](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Instale a biblioteca usando [Console do gerenciador de pacotes](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) no Visual Studio IDE
+- Instale a biblioteca manualmente usando [instalador do Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,7 +67,7 @@ Nosso produto é totalmente multiplataforma e suporta todas as principais implem
 Como o código .NET não depende do hardware ou sistema operacional subjacente, mas apenas de uma máquina virtual, você está livre para desenvolver qualquer tipo de software para Windows, macOS, Android, iOS e Linux.Apenas certifique-se de ter instalado a versão correspondente do .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.<br /><br />
 Recomendamos usar Microsoft Visual Studio, Xamarin e MonoDevelop IDE para criar aplicativos C#, F#, VB.NET.
 <br /><br />
-Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

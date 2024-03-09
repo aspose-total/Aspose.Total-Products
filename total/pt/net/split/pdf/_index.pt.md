@@ -52,8 +52,8 @@ Precisa desenvolver um script .NET ou aplicativo utilitário para dividir facilm
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca PDF Splitter para .NET" %}}
 Existem três opções alternativas para instalar “Aspose.PDF for .NET” ou “Aspose.Total for .NET” em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale um [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Veja [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Instale a biblioteca usando [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) no Visual Studio IDE
+- Instale um [Pacote NuGet](https://www.nuget.org/packages/Aspose.PDF/). Veja [Documentação](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Instale a biblioteca usando [Console do gerenciador de pacotes](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) no Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de sistema" %}}
@@ -67,7 +67,7 @@ Nosso produto é totalmente multiplataforma e suporta todas as principais implem
 Como o código .NET não depende do hardware ou sistema operacional subjacente, mas apenas de uma máquina virtual, você está livre para desenvolver qualquer tipo de software para Windows, macOS, Android, iOS e Linux.Apenas certifique-se de ter instalado a versão correspondente do .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.<br /><br />
 Recomendamos usar Microsoft Visual Studio, Xamarin e MonoDevelop IDE para criar aplicativos C#, F#, VB.NET.
 <br /><br />
-Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

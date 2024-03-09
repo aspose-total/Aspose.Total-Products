@@ -55,7 +55,7 @@ Behöver du utveckla .NET-baserad programvara eller verktygsapplikation för att
 
 Det finns tre alternativa alternativ för att installera "Aspose.PDF for .NET" eller "Aspose.Total for .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Se [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Installera en [NuGet-paket](https://www.nuget.org/packages/Aspose.PDF/). Se [Dokumentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
 - Installera biblioteket med [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) i Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,7 +70,7 @@ Vår produkt är helt plattformsoberoende och stöder alla större .NET-implemen
 Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br /><br />
 Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
 <br /><br />
-För mer information, se [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+För mer information, se [Produktdokumentation](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

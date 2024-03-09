@@ -56,9 +56,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة .NET لتعليق ملفات XLSX" %}}
 هناك ثلاثة خيارات بديلة لتثبيت "Aspose.Cells for .NET" أو "Aspose.Total for .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- تثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). انظر [Documentation](https://docs.aspose.com/cells/net/installation/)
-- قم بتثبيت المكتبة باستخدام [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) داخل Visual Studio IDE
-- قم بتثبيت المكتبة يدويًا باستخدام [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
+- تثبيت [حزمة نوجيت](https://www.nuget.org/packages/Aspose.Cells/). انظر [توثيق](https://docs.aspose.com/cells/net/installation/)
+- قم بتثبيت المكتبة باستخدام [وحدة تحكم إدارة الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) داخل Visual Studio IDE
+- قم بتثبيت المكتبة يدويًا باستخدام [مثبت الويندوز](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +72,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على جهاز افتراضي، لذلك لديك الحرية في تطوير أي نوع من البرامج لأنظمة Windows، وmacOS، وAndroid، وiOS، وLinux.فقط تأكد من تثبيت الإصدار المقابل من .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin.<br /><br />
 نوصي باستخدام Microsoft Visual Studio وXamarin وMonoDevelop IDE لإنشاء تطبيقات C# وF# وVB.NET.
 <br /><br />
-لمزيد من التفاصيل يرجى الرجوع إلى [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+لمزيد من التفاصيل يرجى الرجوع إلى [توثيق المنتج](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

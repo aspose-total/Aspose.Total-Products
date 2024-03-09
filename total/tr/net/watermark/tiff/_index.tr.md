@@ -59,8 +59,8 @@ Birden fazla TIFF dosyasını kolayca filigranlamak için .NET yardımcı uygula
 {{% blocks/products/pf/agp/feature-section-col title="TIFF Dosyaları için .NET Filigran Kitaplığı" %}}
 Sisteminize "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/)" veya "[Aspose.Total for .NET](https://products.aspose.com/total/tr/net/)" yüklemenin alternatif seçenekleri vardır..NET paketimiz platformlar arası olacak ve Microsoft Windows, Linux, macOS, Android ve iOS gibi çeşitli işletim sistemlerindeki JVM uygulamalarıyla uyumlu olacak şekilde tasarlanmıştır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)'i yükle
-- Veya [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)'dan
+- [NuGet Paketi](https://www.nuget.org/packages/Aspose.Imaging/)'i yükle
+- Veya [Dokümantasyon](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)'dan
 - Adım Adım JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

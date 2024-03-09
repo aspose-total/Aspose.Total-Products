@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη υδατογραφημάτων .NET για αρχεία GIF" %}}
 Υπάρχουν εναλλακτικές επιλογές για να εγκαταστήσετε το "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/el/net/)" ή το "[Aspose.Total for .NET](https://products.aspose.com/total/el/net/)" στο σύστημά σας.Το πακέτο .NET μας έχει σχεδιαστεί για να είναι cross-platform, συμβατό με υλοποιήσεις JVM σε διάφορα λειτουργικά συστήματα όπως Microsoft Windows, Linux, macOS, Android και iOS.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br />
 
-- Εγκαταστήστε το [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Ή από το [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Εγκαταστήστε το [Πακέτο NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Ή από το [Τεκμηρίωση](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Βήμα προς βήμα JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

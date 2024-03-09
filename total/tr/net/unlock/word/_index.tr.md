@@ -55,9 +55,9 @@ Bir Word koruma yönetimi uygulaması veya yardımcı programı geliştirmeniz m
 {{% blocks/products/pf/agp/feature-section-col title="Word Korumasını Yönetmek için .NET Yardımcı Programı" %}}
 Sisteminize "Aspose.Words for .NET" veya "Aspose.Total for .NET" yüklemek için üç alternatif seçenek vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Words/) yükleyin. [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)'a bakın
-- Kitaplığı Visual Studio IDE içinde [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) kullanarak yükleyin
-- Kitaplığı [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) kullanarak elle yükleyin
+- Bir [NuGet Paketi](https://www.nuget.org/packages/Aspose.Words/) yükleyin. [Dokümantasyon](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)'a bakın
+- Kitaplığı Visual Studio IDE içinde [Paket Yönetici Konsolu](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) kullanarak yükleyin
+- Kitaplığı [Windows Yükleyici](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) kullanarak elle yükleyin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +72,7 @@ Sisteminize "Aspose.Words for .NET" veya "Aspose.Total for .NET" yüklemek için
 .NET kodu, temel donanıma veya işletim sistemine bağlı olmadığından, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz..NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünü yüklediğinizden emin olun.<br /><br />
 C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
 <br /><br />
-Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.com/words/net/system-requirements/)'e bakın.
+Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/words/net/system-requirements/)'e bakın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

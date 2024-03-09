@@ -56,9 +56,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{% blocks/products/pf/agp/feature-section-col title="用于注释 XLSB 文件的 .NET 库" %}}
 可以通过三个替代选项将“Aspose.Cells for .NET”或“Aspose.Total for .NET”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 安装 [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)。参见 [Documentation](https://docs.aspose.com/cells/net/installation/)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) 安装库
-- 使用 [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/) 手动安装库
+- 安装 [NuGet 包](https://www.nuget.org/packages/Aspose.Cells/)。参见 [文档](https://docs.aspose.com/cells/net/installation/)
+- 在 Visual Studio IDE 中使用 [包管理器控制台](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) 安装库
+- 使用 [Windows安装程序](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/) 手动安装库
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +72,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 由于 .NET 代码不依赖于底层硬件或操作系统，而仅依赖于虚拟机，因此您可以自由地为 Windows、macOS、Android、iOS 和 Linux 开发任何类型的软件。只需确保您已安装相应版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br /><br />
 我们建议使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 创建 C#、F#、VB.NET 应用程序。
 <br /><br />
-欲了解更多详情，请参阅[Product Documentation](https://docs.aspose.com/cells/net/system-requirements/)。
+欲了解更多详情，请参阅[产品文档](https://docs.aspose.com/cells/net/system-requirements/)。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

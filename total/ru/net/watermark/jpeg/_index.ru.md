@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека водяных знаков .NET для файлов JPEG" %}}
 Существуют альтернативные варианты установки «[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ru/net/)» или «[Aspose.Total for .NET](https://products.aspose.com/total/ru/net/)» в вашу систему.Наш пакет .NET разработан как кроссплатформенный и совместимый с реализациями JVM в различных операционных системах, таких как Microsoft Windows, Linux, macOS, Android и iOS.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br />
 
-- Установить [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Или из [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Установить [Пакет NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Или из [Документация](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Шаг за шагом JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -55,8 +55,8 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Βοηθητικό πρόγραμμα .NET για επεξεργασία αρχείου PPTX για προστασία εφαρμογής" %}}
 Υπάρχουν τρεις εναλλακτικές επιλογές για να εγκαταστήσετε το "Aspose.Slides for .NET" ή το "Aspose.Total for .NET" στο σύστημά σας.Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
 
-- Εγκαταστήστε ένα [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/). Δείτε το [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- Εγκαταστήστε τη βιβλιοθήκη χρησιμοποιώντας [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) στο Visual Studio IDE
+- Εγκαταστήστε ένα [Πακέτο NuGet](https://www.nuget.org/packages/Aspose.Slides/). Δείτε το [Τεκμηρίωση](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- Εγκαταστήστε τη βιβλιοθήκη χρησιμοποιώντας [Κονσόλα Package Manager](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) στο Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 Καθώς ο κώδικας .NET δεν βασίζεται στο υποκείμενο υλικό ή το λειτουργικό σύστημα, αλλά μόνο σε μια Εικονική Μηχανή, έτσι είστε ελεύθεροι να αναπτύξετε οποιοδήποτε είδος λογισμικού για Windows, macOS, Android, iOS και Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Για περισσότερες λεπτομέρειες, ανατρέξτε στο [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/).
+Για περισσότερες λεπτομέρειες, ανατρέξτε στο [Τεκμηρίωση προϊόντος](https://docs.aspose.com/slides/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

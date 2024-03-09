@@ -56,8 +56,8 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 Három alternatív lehetőség van a "Aspose.Cells for .NET" vagy "Aspose.Total for .NET" telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)-at. Lásd [Documentation](https://docs.aspose.com/cells/net/installation/)
-- Telepítse a könyvtárat a [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) használatával a Visual Studio IDE-n belül
+- Telepítsen egy [NuGet csomag](https://www.nuget.org/packages/Aspose.Cells/)-at. Lásd [Dokumentáció](https://docs.aspose.com/cells/net/installation/)
+- Telepítse a könyvtárat a [Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) használatával a Visual Studio IDE-n belül
 - Telepítse a könyvtárat kézzel a [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/) használatával
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -72,7 +72,7 @@ Termékünk teljes mértékben platformfüggetlen, és támogatja az összes fő
 Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.Csak győződjön meg arról, hogy telepítette a .NET-keretrendszer, a .NET Core, a Windows Azure, a Mono vagy a Xamarin megfelelő verzióját.<br /><br />
 C#, F#, VB.NET alkalmazások létrehozásához javasoljuk a Microsoft Visual Studio, Xamarin és MonoDevelop IDE használatát.
 <br /><br />
-További részletekért lásd a [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/)-at.
+További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/net/system-requirements/)-at.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

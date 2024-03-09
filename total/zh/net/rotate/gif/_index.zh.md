@@ -54,8 +54,8 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{% blocks/products/pf/agp/feature-section-col title="用于管理 GIF 旋转的 .NET 实用程序" %}}
 还有其他选项可以将“Aspose.Imaging for .NET”或“Aspose.Total for .NET”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：<br /><br />
 
-- 安装 [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)。参见 [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) 安装库
+- 安装 [NuGet 包](https://www.nuget.org/packages/Aspose.Imaging/)。参见 [文档](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- 在 Visual Studio IDE 中使用 [包管理器控制台](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) 安装库
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -68,7 +68,7 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 由于 .NET 代码不依赖于底层硬件或操作系统，而仅依赖于虚拟机，因此您可以自由地为 Windows、macOS、Android、iOS 和 Linux 开发任何类型的软件。只需确保您已安装相应版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br /><br />
 我们建议使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 创建 C#、F#、VB.NET 应用程序。
 <br /><br />
-更多详情请参考[Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/)。
+更多详情请参考[产品文档](https://docs.aspose.com/imaging/net/system-requirements/)。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

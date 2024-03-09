@@ -54,7 +54,7 @@ Behöver du utveckla en JPG-rotationsapp eller ett verktyg?Med [Aspose.Imaging f
 {{% blocks/products/pf/agp/feature-section-col title=".NET-verktyg för att hantera JPG-rotation" %}}
 Det finns alternativa alternativ för att installera "Aspose.Imaging for .NET" eller "Aspose.Total for .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). Se [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Installera en [NuGet-paket](https://www.nuget.org/packages/Aspose.Imaging/). Se [Dokumentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Installera biblioteket med [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) i Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ Vår produkt är helt plattformsoberoende och stöder alla större .NET-implemen
 Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla alla typer av programvara för Windows, macOS, Android, iOS och Linux.Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br /><br />
 Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
 <br /><br />
-För mer information, se [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+För mer information, se [Produktdokumentation](https://docs.aspose.com/imaging/net/system-requirements/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

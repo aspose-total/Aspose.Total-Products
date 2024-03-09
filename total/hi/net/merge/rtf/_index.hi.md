@@ -58,9 +58,9 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% blocks/products/pf/agp/feature-section-col title="RTF फ़ाइलों के लिए .NET मर्जर लाइब्रेरी" %}}
 आपके सिस्टम पर "Aspose.Words for .NET" या "Aspose.Total for .NET" स्थापित करने के लिए तीन वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Words/) इंस्टॉल करें. [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget) देखें
-- विजुअल स्टूडियो आईडीई के भीतर [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) का उपयोग करके लाइब्रेरी स्थापित करें
-- [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) का उपयोग करके लाइब्रेरी को हाथ से इंस्टॉल करें
+- [नुगेट पैकेज](https://www.nuget.org/packages/Aspose.Words/) इंस्टॉल करें. [प्रलेखन](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget) देखें
+- विजुअल स्टूडियो आईडीई के भीतर [पैकेज मैनेजर कंसोल](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) का उपयोग करके लाइब्रेरी स्थापित करें
+- [विंडोज इंस्टालर](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer) का उपयोग करके लाइब्रेरी को हाथ से इंस्टॉल करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,7 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 चूंकि .NET कोड अंतर्निहित हार्डवेयर या ऑपरेटिंग सिस्टम पर निर्भर नहीं करता है, बल्कि केवल वर्चुअल मशीन पर निर्भर करता है, इसलिए आप विंडोज, मैकओएस, एंड्रॉइड, आईओएस और लिनक्स के लिए किसी भी प्रकार का सॉफ्टवेयर विकसित करने के लिए स्वतंत्र हैं।बस सुनिश्चित करें कि आपने .NET Framework, .NET Core, Windows Azure, Mono या Xamarin का संबंधित संस्करण स्थापित किया है।<br /><br />
 हम C#, F#, VB.NET एप्लिकेशन बनाने के लिए Microsoft Visual Studio, Xamarin और MonoDevelop IDE का उपयोग करने की अनुशंसा करते हैं।
 <br /><br />
-अधिक जानकारी के लिए कृपया [Product Documentation](https://docs.aspose.com/words/net/system-requirements/) देखें।
+अधिक जानकारी के लिए कृपया [उत्पाद दस्तावेज़ीकरण](https://docs.aspose.com/words/net/system-requirements/) देखें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -59,8 +59,8 @@ Ki kell fejlesztenie a .NET segédprogramot több GIF-fájl egyszerű egyesíté
 {{% blocks/products/pf/agp/feature-section-col title=".NET Merger Library a GIF fájlokhoz" %}}
 Három alternatív lehetőség van a "Aspose.Imaging for .NET" vagy "Aspose.Total for .NET" telepítésére a rendszerre.Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
 
-- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)-at. Lásd [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- Telepítse a könyvtárat a [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) használatával a Visual Studio IDE-n belül
+- Telepítsen egy [NuGet csomag](https://www.nuget.org/packages/Aspose.Imaging/)-at. Lásd [Dokumentáció](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Telepítse a könyvtárat a [Csomagkezelő konzol](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) használatával a Visual Studio IDE-n belül
 - Telepítse a könyvtárat kézzel a GIF4 használatával
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +76,7 @@ Termékünk teljes mértékben többplatformos, és támogatja az összes főbb 
 Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.Csak győződjön meg arról, hogy telepítette a .NET-keretrendszer, a .NET Core, a Windows Azure, a Mono vagy a Xamarin megfelelő verzióját.<br /><br />
 C#, F#, VB.NET alkalmazások létrehozásához javasoljuk a Microsoft Visual Studio, Xamarin és MonoDevelop IDE használatát.
 <br /><br />
-További részletekért lásd a [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/)-at.
+További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/imaging/net/system-requirements/)-at.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

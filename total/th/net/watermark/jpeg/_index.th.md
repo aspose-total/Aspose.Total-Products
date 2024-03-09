@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title=".NET Watermark Library สำหรับไฟล์ JPEG" %}}
 มีตัวเลือกอื่นในการติดตั้ง "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/th/net/)" หรือ "[Aspose.Total for .NET](https://products.aspose.com/total/th/net/)" ลงบนระบบของคุณแพ็คเกจ .NET ของเราได้รับการออกแบบให้เป็นแพลตฟอร์มข้ามแพลตฟอร์ม เข้ากันได้กับการใช้งาน JVM บนระบบปฏิบัติการต่างๆ เช่น Microsoft Windows, Linux, macOS, Android และ iOSโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- หรือจาก [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- หรือจาก [เอกสารประกอบ](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - ทีละขั้นตอน JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -56,8 +56,8 @@ Perlu mengembangkan skrip .NET atau aplikasi utilitas untuk menggabungkan bebera
 
 Ada tiga pilihan alternatif untuk menginstal "Aspose.PDF for .NET" atau "Aspose.Total for .NET" ke sistem Anda.Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
 
-- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Lihat [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Instal perpustakaan menggunakan [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) dalam Visual Studio IDE
+- Instal [Paket NuGet](https://www.nuget.org/packages/Aspose.PDF/). Lihat [Dokumentasi](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Instal perpustakaan menggunakan [Konsol Manajer Paket](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) dalam Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}
@@ -71,7 +71,7 @@ Produk kami sepenuhnya lintas platform dan mendukung semua implementasi .NET uta
 Karena kode .NET tidak bergantung pada perangkat keras atau sistem operasi yang mendasarinya, tetapi hanya pada Mesin Virtual, maka Anda bebas mengembangkan perangkat lunak apa pun untuk Windows, macOS, Android, iOS, dan Linux.Pastikan Anda telah menginstal versi .NET Framework, .NET Core, Windows Azure, Mono, atau Xamarin yang sesuai.<br /><br />
 Kami merekomendasikan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop IDE untuk membuat aplikasi C#, F#, VB.NET.
 <br /><br />
-Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -56,9 +56,9 @@ Hai bisogno di sviluppare un'app o un'utilità di protezione tramite password OD
 {{% blocks/products/pf/agp/feature-section-col title="Utilità .NET per elaborare il file ODS per l'app di protezione" %}}
 Esistono tre opzioni alternative per installare "Aspose.Cells for .NET" o "Aspose.Total for .NET" sul tuo sistema.Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:<br /><br />
 
-- Installa una [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). Vedi [Documentation](https://docs.aspose.com/cells/net/installation/)
-- Installa la libreria utilizzando [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) all'interno dell'IDE di Visual Studio
-- Installa la libreria manualmente utilizzando [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
+- Installa una [Pacchetto NuGet](https://www.nuget.org/packages/Aspose.Cells/). Vedi [Documentazione](https://docs.aspose.com/cells/net/installation/)
+- Installa la libreria utilizzando [Console di gestione pacchetti](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) all'interno dell'IDE di Visual Studio
+- Installa la libreria manualmente utilizzando [Programma di installazione di Windows](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +73,7 @@ Il nostro prodotto è completamente multipiattaforma e supporta tutte le princip
 Poiché il codice .NET non si basa sull'hardware o sul sistema operativo sottostante, ma solo su una macchina virtuale, sei libero di sviluppare qualsiasi tipo di software per Windows, macOS, Android, iOS e Linux.Assicurati solo di aver installato la versione corrispondente di .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.<br /><br />
 È consigliabile usare Microsoft Visual Studio, Xamarin e MonoDevelop IDE per creare applicazioni C#, F# e VB.NET.
 <br /><br />
-Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

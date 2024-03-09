@@ -63,7 +63,7 @@ Behöver du utveckla en XLS-metadatahanteringsapp eller ett verktyg?Med [Aspose.
 {{% blocks/products/pf/agp/feature-section-col title=".NET-verktyg för att hantera XLS-metadata" %}}
 Det finns tre alternativa alternativ för att installera "Aspose.Cells for .NET" eller "Aspose.Total for .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). Se [Documentation](https://docs.aspose.com/cells/net/installation/)
+- Installera en [NuGet-paket](https://www.nuget.org/packages/Aspose.Cells/). Se [Dokumentation](https://docs.aspose.com/cells/net/installation/)
 - Installera biblioteket med [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) i Visual Studio IDE
 - Installera biblioteket för hand med [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/)
 
@@ -79,7 +79,7 @@ Vår produkt är helt plattformsoberoende och stöder alla större .NET-implemen
 Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br /><br />
 Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
 <br /><br />
-För mer information, se [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

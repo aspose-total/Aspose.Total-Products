@@ -55,8 +55,8 @@ Wilt u een Powerpoint-app of -hulpprogramma voor wachtwoordbeveiliging ontwikkel
 {{% blocks/products/pf/agp/feature-section-col title=".NET-hulpprogramma om het Powerpoint-bestand te verwerken voor het beveiligen van de app" %}}
 Er zijn drie alternatieve opties om "Aspose.Slides for .NET" of "Aspose.Total for .NET" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/). Zie [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- Installeer de bibliotheek met [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) binnen Visual Studio IDE
+- Installeer een [NuGet-pakket](https://www.nuget.org/packages/Aspose.Slides/). Zie [Documentatie](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- Installeer de bibliotheek met [Pakketbeheerconsole](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) binnen Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .N
 Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, bent u vrij om elke vorm van software te ontwikkelen voor Windows, macOS, Android, iOS en Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/).
+Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/slides/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

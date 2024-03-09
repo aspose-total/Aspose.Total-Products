@@ -58,8 +58,8 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% blocks/products/pf/agp/feature-section-col title=".NET Merging Library สำหรับไฟล์ PPSX" %}}
 มีทางเลือกสามทางในการติดตั้ง "Aspose.Slides for .NET" หรือ "Aspose.Total for .NET" ลงบนระบบของคุณโปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/) ดู [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- ติดตั้งไลบรารีโดยใช้ [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) ภายใน Visual Studio IDE
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.Slides/) ดู [เอกสารประกอบ](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- ติดตั้งไลบรารีโดยใช้ [คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) ภายใน Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +73,7 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ต้องใช้บน Virtual Machine เท่านั้น คุณจึงมีอิสระในการพัฒนาซอฟต์แวร์ทุกประเภทสำหรับ Windows, macOS, Android, iOS และ Linuxเพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่เกี่ยวข้อง<br /><br />
 เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE เพื่อสร้างแอปพลิเคชัน C#, F#, VB.NET
 <br /><br />
-สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/)
+สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/slides/net/system-requirements/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

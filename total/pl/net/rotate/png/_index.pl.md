@@ -54,8 +54,8 @@ Chcesz opracować aplikację lub narzędzie do rotacji PNG?Dzięki [Aspose.Imagi
 {{% blocks/products/pf/agp/feature-section-col title="Narzędzie .NET do zarządzania rotacją PNG" %}}
 Istnieją alternatywne opcje instalacji „Aspose.Imaging for .NET” lub „Aspose.Total for .NET” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj plik [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). Zobacz [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- Zainstaluj bibliotekę przy użyciu [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) w środowisku Visual Studio IDE
+- Zainstaluj plik [Pakiet NuGeta](https://www.nuget.org/packages/Aspose.Imaging/). Zobacz [Dokumentacja](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Zainstaluj bibliotekę przy użyciu [Konsola menedżera pakietów](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) w środowisku Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -68,7 +68,7 @@ Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne impl
 Ponieważ kod .NET nie opiera się na podstawowym sprzęcie ani systemie operacyjnym, ale tylko na maszynie wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux.Upewnij się tylko, że masz zainstalowaną odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br /><br />
 Do tworzenia aplikacji C#, F#, VB.NET zalecamy używanie Microsoft Visual Studio, Xamarin i MonoDevelop IDE.
 <br /><br />
-Więcej szczegółów znajdziesz w [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+Więcej szczegółów znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/imaging/net/system-requirements/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

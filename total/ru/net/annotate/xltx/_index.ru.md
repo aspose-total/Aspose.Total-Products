@@ -56,9 +56,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека .NET для аннотирования файлов XLTX" %}}
 Существует три альтернативных варианта установки «Aspose.Cells for .NET» или «Aspose.Total for .NET» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). Смотри [Documentation](https://docs.aspose.com/cells/net/installation/)
-- Установите библиотеку, используя [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) в Visual Studio IDE.
-- Установите библиотеку вручную, используя [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/).
+- Установите [Пакет NuGet](https://www.nuget.org/packages/Aspose.Cells/). Смотри [Документация](https://docs.aspose.com/cells/net/installation/)
+- Установите библиотеку, используя [Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) в Visual Studio IDE.
+- Установите библиотеку вручную, используя [Установщик Windows](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +72,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 Поскольку код .NET не зависит от базового оборудования или операционной системы, а только от виртуальной машины, вы можете разрабатывать любое программное обеспечение для Windows, macOS, Android, iOS и Linux.Просто убедитесь, что у вас установлена соответствующая версия .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.<br /><br />
 Мы рекомендуем использовать Microsoft Visual Studio, Xamarin и MonoDevelop IDE для создания приложений C#, F#, VB.NET.
 <br /><br />
-Для получения более подробной информации обратитесь к [Product Documentation](https://docs.aspose.com/cells/net/system-requirements/).
+Для получения более подробной информации обратитесь к [Документация продукта](https://docs.aspose.com/cells/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

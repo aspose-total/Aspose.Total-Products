@@ -52,9 +52,9 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% blocks/products/pf/agp/feature-section-col title="ไลบรารี DOC Splitter สำหรับ .NET" %}}
 มีทางเลือกสามทางในการติดตั้ง "Aspose.Words for .NET" หรือ "Aspose.Total for .NET" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Words/) ดู [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- ติดตั้งไลบรารีโดยใช้ [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) ภายใน Visual Studio IDE
-- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.Words/) ดู [เอกสารประกอบ](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- ติดตั้งไลบรารีโดยใช้ [คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) ภายใน Visual Studio IDE
+- ติดตั้งไลบรารี่ด้วยมือโดยใช้ [ตัวติดตั้ง Windows](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +69,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 เนื่องจากโค้ด .NET ไม่ต้องอาศัยฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ต้องใช้บน Virtual Machine เท่านั้น คุณจึงมีอิสระในการพัฒนาซอฟต์แวร์ทุกประเภทสำหรับ Windows, macOS, Android, iOS และ Linux เพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่เกี่ยวข้อง<br /><br />
 เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE เพื่อสร้างแอปพลิเคชัน C#, F#, VB.NET
 <br /><br />
-สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [Product Documentation](https://docs.aspose.com/words/net/system-requirements/)
+สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/words/net/system-requirements/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

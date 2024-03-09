@@ -53,8 +53,8 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 「Aspose.PDF for .NET」または「Aspose.Total for .NET」をシステムにインストールするには、3 つの代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/)をインストールします。 [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)を参照
-- Visual Studio IDE 内で [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) を使用してライブラリをインストールする
+- [NuGet パッケージ](https://www.nuget.org/packages/Aspose.PDF/)をインストールします。 [ドキュメンテーション](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)を参照
+- Visual Studio IDE 内で [パッケージマネージャーコンソール](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) を使用してライブラリをインストールする
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -68,7 +68,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 .NET コードは基盤となるハードウェアやオペレーティング システムに依存せず、仮想マシンにのみ依存するため、Windows、macOS、Android、iOS、Linux 用のあらゆる種類のソフトウェアを自由に開発できます。対応するバージョンの .NET Framework、.NET Core、Windows Azure、Mono、または Xamarin がインストールされていることを確認してください。<br /><br />
 C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visual Studio、Xamarin、および MonoDevelop IDE を使用することをお勧めします。
 <br /><br />
-詳細については[Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/)を参照してください。
+詳細については[製品ドキュメント](https://docs.aspose.com/pdf/net/system-requirements/)を参照してください。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

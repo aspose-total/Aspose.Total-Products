@@ -59,8 +59,8 @@ Bạn cần phát triển ứng dụng tiện ích .NET để dễ dàng tạo h
 {{% blocks/products/pf/agp/feature-section-col title="Thư viện hình mờ .NET cho tệp BMP" %}}
 Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/vi/net/)" hoặc "[Aspose.Total for .NET](https://products.aspose.com/total/vi/net/)" vào hệ thống của bạn.Gói .NET của chúng tôi được thiết kế đa nền tảng, tương thích với việc triển khai JVM trên nhiều hệ điều hành khác nhau như Microsoft Windows, Linux, macOS, Android và iOS.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br />
 
-- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Hoặc từ [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Cài đặt [Gói NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Hoặc từ [Tài liệu](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Từng bước JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

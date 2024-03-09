@@ -59,8 +59,8 @@ Potřebujete vyvinout obslužnou aplikaci .NET pro snadné vodoznakování více
 {{% blocks/products/pf/agp/feature-section-col title="Knihovna vodoznaků .NET pro soubory JPEG" %}}
 Existují alternativní možnosti instalace „[Aspose.Imaging for .NET](https://products.aspose.com/imaging/cs/net/)“ nebo „[Aspose.Total for .NET](https://products.aspose.com/total/cs/net/)“ do vašeho systému.Náš balíček .NET je navržen jako multiplatformní, kompatibilní s implementacemi JVM na různých operačních systémech, jako jsou Microsoft Windows, Linux, macOS, Android a iOS.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br />
 
-- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Nebo z [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Nainstalujte [Balíček NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
+- Nebo z [Dokumentace](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Krok za krokem JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

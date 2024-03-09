@@ -58,8 +58,8 @@ Bir PDF Meta Veri yönetimi uygulaması veya yardımcı programı geliştirmeniz
 
 Sisteminize "Aspose.PDF for .NET" veya "Aspose.Total for .NET" yüklemek için üç alternatif seçenek vardır.Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
 
-- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/) yükleyin. [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)'a bakın
-- Kitaplığı Visual Studio IDE'de [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) kullanarak yükleyin
+- Bir [NuGet Paketi](https://www.nuget.org/packages/Aspose.PDF/) yükleyin. [Dokümantasyon](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)'a bakın
+- Kitaplığı Visual Studio IDE'de [Paket Yönetici Konsolu](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) kullanarak yükleyin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}
@@ -73,7 +73,7 @@ Sisteminize "Aspose.PDF for .NET" veya "Aspose.Total for .NET" yüklemek için �
 .NET kodu temel donanıma veya işletim sistemine bağlı olmadığından, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz.İlgili .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin sürümünü yüklediğinizden emin olun.<br /><br />
 C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
 <br /><br />
-Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/)'e bakın.
+Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/net/system-requirements/)'e bakın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

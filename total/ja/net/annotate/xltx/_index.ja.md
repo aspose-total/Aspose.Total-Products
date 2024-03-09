@@ -56,9 +56,9 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{% blocks/products/pf/agp/feature-section-col title="XLTX ファイルに注釈を付けるための .NET ライブラリ" %}}
 「Aspose.Cells for .NET」または「Aspose.Total for .NET」をシステムにインストールするには、3 つの代替オプションがあります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)をインストールします。 [Documentation](https://docs.aspose.com/cells/net/installation/)を参照
-- Visual Studio IDE 内で [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) を使用してライブラリをインストールします。
-- [Windows Installer](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/) を使用してライブラリを手動でインストールする
+- [NuGet パッケージ](https://www.nuget.org/packages/Aspose.Cells/)をインストールします。 [ドキュメンテーション](https://docs.aspose.com/cells/net/installation/)を参照
+- Visual Studio IDE 内で [パッケージマネージャーコンソール](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) を使用してライブラリをインストールします。
+- [Windows インストーラー](https://docs.aspose.com/cells/net/installing-aspose-cells-on-windows/) を使用してライブラリを手動でインストールする
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +72,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 .NET コードは基盤となるハードウェアやオペレーティング システムに依存せず、仮想マシンにのみ依存するため、Windows、macOS、Android、iOS、Linux 用のあらゆる種類のソフトウェアを自由に開発できます。対応するバージョンの .NET Framework、.NET Core、Windows Azure、Mono、または Xamarin がインストールされていることを確認してください。<br /><br />
 C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visual Studio、Xamarin、および MonoDevelop IDE を使用することをお勧めします。
 <br /><br />
-詳細については[Product Documentation](https://docs.aspose.com/cells/net/system-requirements/)を参照してください。
+詳細については[製品ドキュメント](https://docs.aspose.com/cells/net/system-requirements/)を参照してください。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

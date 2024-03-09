@@ -58,9 +58,9 @@ Wilt u een app of hulpprogramma voor het beheren van DOCX-metagegevens ontwikkel
 
 Er zijn drie alternatieve opties om "Aspose.Words for .NET" of "Aspose.Total for .NET" op uw systeem te installeren.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br /><br />
 
-- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). Zie [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Installeer de bibliotheek met [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) binnen Visual Studio IDE
-- Installeer de bibliotheek handmatig met [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
+- Installeer een [NuGet-pakket](https://www.nuget.org/packages/Aspose.Words/). Zie [Documentatie](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+- Installeer de bibliotheek met [Pakketbeheerconsole](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) binnen Visual Studio IDE
+- Installeer de bibliotheek handmatig met [Windows installatie](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,7 @@ Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .N
 Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, bent u vrij om elke vorm van software te ontwikkelen voor Windows, macOS, Android, iOS en Linux.Zorg ervoor dat u de overeenkomstige versie van .NET Framework, .NET Core, Windows Azure, Mono of Xamarin hebt geïnstalleerd.<br /><br />
 We raden u aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken om C#-, F#- en VB.NET-applicaties te maken.
 <br /><br />
-Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
+Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/words/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

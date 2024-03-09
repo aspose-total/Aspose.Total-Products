@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="مكتبة العلامات المائية .NET لملفات JPEG" %}}
 هناك خيارات بديلة لتثبيت "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ar/net/)" أو "[Aspose.Total for .NET](https://products.aspose.com/total/ar/net/)" على نظامك.تم تصميم حزمة .NET الخاصة بنا لتكون مشتركة بين الأنظمة الأساسية، ومتوافقة مع تطبيقات JVM على أنظمة تشغيل مختلفة مثل Microsoft Windows، وLinux، وmacOS، وAndroid، وiOS.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br />
 
-- قم بتثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- أو من [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- قم بتثبيت [حزمة نوجيت](https://www.nuget.org/packages/Aspose.Imaging/)
+- أو من [توثيق](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - خطوة بخطوة JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

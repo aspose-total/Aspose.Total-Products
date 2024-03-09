@@ -55,8 +55,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title=".NET Utility เพื่อจัดการการป้องกัน PDF" %}}
 มีทางเลือกสามทางในการติดตั้ง "Aspose.PDF for .NET" หรือ "Aspose.Total for .NET" ลงบนระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
 
-- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/) ดู [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- ติดตั้งไลบรารีโดยใช้ [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) ภายใน Visual Studio IDE
+- ติดตั้ง [แพ็คเกจ NuGet](https://www.nuget.org/packages/Aspose.PDF/) ดู [เอกสารประกอบ](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- ติดตั้งไลบรารีโดยใช้ [คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) ภายใน Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
@@ -70,7 +70,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ต้องใช้บน Virtual Machine เท่านั้น คุณจึงมีอิสระในการพัฒนาซอฟต์แวร์ทุกประเภทสำหรับ Windows, macOS, Android, iOS และ Linuxเพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่เกี่ยวข้อง<br /><br />
 เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE เพื่อสร้างแอปพลิเคชัน C#, F#, VB.NET
 <br /><br />
-สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/)
+สำหรับรายละเอียดเพิ่มเติม โปรดดูที่ [เอกสารประกอบผลิตภัณฑ์](https://docs.aspose.com/pdf/net/system-requirements/)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

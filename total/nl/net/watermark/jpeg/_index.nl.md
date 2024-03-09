@@ -59,8 +59,8 @@ Wilt u een .NET-hulpprogramma ontwikkelen om eenvoudig meerdere JPEG-bestanden v
 {{% blocks/products/pf/agp/feature-section-col title=".NET-watermerkbibliotheek voor JPEG-bestanden" %}}
 Er zijn alternatieve opties om "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/nl/net/)" of "[Aspose.Total for .NET](https://products.aspose.com/total/nl/net/)" op uw systeem te installeren.Ons .NET-pakket is ontworpen om platformonafhankelijk te zijn, compatibel met JVM-implementaties op verschillende besturingssystemen zoals Microsoft Windows, Linux, macOS, Android en iOS.Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:<br />
 
-- Installeer [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Of vanaf [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Installeer [NuGet-pakket](https://www.nuget.org/packages/Aspose.Imaging/)
+- Of vanaf [Documentatie](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Stap voor stap JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

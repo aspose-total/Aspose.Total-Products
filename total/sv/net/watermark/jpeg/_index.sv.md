@@ -59,8 +59,8 @@ Behöver du utveckla ett .NET-verktyg för att enkelt vattenmärka flera JPEG-fi
 {{% blocks/products/pf/agp/feature-section-col title=".NET Watermark Library för JPEG-filer" %}}
 Det finns alternativa alternativ för att installera "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/sv/net/)" eller "[Aspose.Total for .NET](https://products.aspose.com/total/sv/net/)" på ditt system.Vårt .NET-paket är utformat för att vara plattformsoberoende, kompatibelt med JVM-implementationer på olika operativsystem som Microsoft Windows, Linux, macOS, Android och iOS.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br />
 
-- Installera [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Eller från [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Installera [NuGet-paket](https://www.nuget.org/packages/Aspose.Imaging/)
+- Eller från [Dokumentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Steg för steg JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

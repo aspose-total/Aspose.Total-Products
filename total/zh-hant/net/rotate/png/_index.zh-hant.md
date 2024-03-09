@@ -54,8 +54,8 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{% blocks/products/pf/agp/feature-section-col title="用於管理 PNG 旋轉的 .NET 實用程式" %}}
 還有其他選項可以將“Aspose.Imaging for .NET”或“Aspose.Total for .NET”安裝到您的系統上。請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
 
-- 安裝 [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)。參見 [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- 在 Visual Studio IDE 中使用 [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) 安裝程式庫
+- 安裝 [NuGet 套件](https://www.nuget.org/packages/Aspose.Imaging/)。參見 [文件](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- 在 Visual Studio IDE 中使用 [套件管理器控制台](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) 安裝程式庫
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="系統需求" %}}
@@ -68,7 +68,7 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 由於 .NET 程式碼不依賴底層硬體或作業系統，而僅依賴虛擬機，因此您可以自由地為 Windows、macOS、Android、iOS 和 Linux 開發任何類型的軟體。只要確保您已安裝對應版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br /><br />
 我們建議使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 建立 C#、F#、VB.NET 應用程式。
 <br /><br />
-更多詳情請參考[Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/)。
+更多詳情請參考[產品文件](https://docs.aspose.com/imaging/net/system-requirements/)。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

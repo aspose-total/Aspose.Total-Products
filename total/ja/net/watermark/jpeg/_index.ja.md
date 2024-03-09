@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="JPEG ファイル用の .NET ウォーターマーク ライブラリ" %}}
 「[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ja/net/)」または「[Aspose.Total for .NET](https://products.aspose.com/total/ja/net/)」をシステムにインストールするための代替オプションがあります。当社の .NET パッケージはクロスプラットフォームになるように設計されており、Microsoft Windows、Linux、macOS、Android、iOS などのさまざまなオペレーティング システム上の JVM 実装と互換性があります。ニーズに近いものを選択し、ステップバイステップの指示に従ってください。<br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)をインストールする
-- または[Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)から
+- [NuGet パッケージ](https://www.nuget.org/packages/Aspose.Imaging/)をインストールする
+- または[ドキュメンテーション](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)から
 - ステップバイステップ JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

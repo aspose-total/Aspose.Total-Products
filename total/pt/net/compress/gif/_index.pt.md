@@ -55,8 +55,8 @@ Precisa desenvolver um script .NET ou aplicativo utilitário para compactar faci
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteca de compactação .NET para arquivos GIF" %}}
 Existem opções alternativas para instalar “Aspose.Imaging for .NET” ou “Aspose.Total for .NET” em seu sistema.Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
 
-- Instale um [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). Veja [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- Instale a biblioteca usando [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) no Visual Studio IDE
+- Instale um [Pacote NuGet](https://www.nuget.org/packages/Aspose.Imaging/). Veja [Documentação](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Instale a biblioteca usando [Console do gerenciador de pacotes](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) no Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de sistema" %}}
@@ -69,7 +69,7 @@ Nosso produto é totalmente multiplataforma e suporta todas as principais implem
 Como o código .NET não depende do hardware ou sistema operacional subjacente, mas apenas de uma máquina virtual, você está livre para desenvolver qualquer tipo de software para Windows, macOS, Android, iOS e Linux.Apenas certifique-se de ter instalado a versão correspondente do .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.<br /><br />
 Recomendamos usar Microsoft Visual Studio, Xamarin e MonoDevelop IDE para criar aplicativos C#, F#, VB.NET.
 <br /><br />
-Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com/imaging/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

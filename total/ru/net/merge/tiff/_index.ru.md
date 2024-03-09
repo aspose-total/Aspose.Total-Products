@@ -59,8 +59,8 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% blocks/products/pf/agp/feature-section-col title="Библиотека слияния .NET для файлов TIFF" %}}
 Существует три альтернативных варианта установки «Aspose.Imaging for .NET» или «Aspose.Total for .NET» в вашу систему.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
 
-- Установите [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). Смотри [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- Установите библиотеку, используя [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) в Visual Studio IDE.
+- Установите [Пакет NuGet](https://www.nuget.org/packages/Aspose.Imaging/). Смотри [Документация](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Установите библиотеку, используя [Консоль диспетчера пакетов](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) в Visual Studio IDE.
 - Установите библиотеку вручную, используя GIF4.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +76,7 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 Поскольку код .NET не зависит от базового оборудования или операционной системы, а только от виртуальной машины, вы можете разрабатывать любое программное обеспечение для Windows, macOS, Android, iOS и Linux.Просто убедитесь, что у вас установлена соответствующая версия .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.<br /><br />
 Мы рекомендуем использовать Microsoft Visual Studio, Xamarin и MonoDevelop IDE для создания приложений C#, F#, VB.NET.
 <br /><br />
-Для получения более подробной информации обратитесь к [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+Для получения более подробной информации обратитесь к [Документация продукта](https://docs.aspose.com/imaging/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

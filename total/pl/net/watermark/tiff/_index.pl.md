@@ -59,8 +59,8 @@ Chcesz opracować aplikację narzędziową .NET, aby łatwo dodawać znaki wodne
 {{% blocks/products/pf/agp/feature-section-col title="Biblioteka znaków wodnych .NET dla plików TIFF" %}}
 Istnieją alternatywne opcje instalacji „[Aspose.Imaging for .NET](https://products.aspose.com/imaging/pl/net/)” lub „[Aspose.Total for .NET](https://products.aspose.com/total/pl/net/)” w systemie.Nasz pakiet .NET został zaprojektowany jako wieloplatformowy i kompatybilny z implementacjami JVM w różnych systemach operacyjnych, takich jak Microsoft Windows, Linux, macOS, Android i iOS.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br />
 
-- Zainstaluj [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Lub z [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Zainstaluj [Pakiet NuGeta](https://www.nuget.org/packages/Aspose.Imaging/)
+- Lub z [Dokumentacja](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Krok po kroku JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

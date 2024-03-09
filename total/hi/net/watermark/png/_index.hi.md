@@ -59,8 +59,8 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="PNG फ़ाइलों के लिए .NET वॉटरमार्क लाइब्रेरी" %}}
 आपके सिस्टम पर "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/hi/net/)" या "[Aspose.Total for .NET](https://products.aspose.com/total/hi/net/)" इंस्टॉल करने के लिए वैकल्पिक विकल्प हैं।हमारा .NET पैकेज क्रॉस-प्लेटफ़ॉर्म होने के लिए डिज़ाइन किया गया है, जो माइक्रोसॉफ्ट विंडोज, लिनक्स, मैकओएस, एंड्रॉइड और आईओएस जैसे विभिन्न ऑपरेटिंग सिस्टम पर जेवीएम कार्यान्वयन के साथ संगत है।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/) इंस्टॉल करें
-- या [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget) से
+- [नुगेट पैकेज](https://www.nuget.org/packages/Aspose.Imaging/) इंस्टॉल करें
+- या [प्रलेखन](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget) से
 - चरण दर चरण JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

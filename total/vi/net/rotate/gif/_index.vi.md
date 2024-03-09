@@ -54,8 +54,8 @@ Bạn cần phát triển ứng dụng, tiện ích xoay vòng GIF?Với [Aspose
 {{% blocks/products/pf/agp/feature-section-col title="Tiện ích .NET để quản lý xoay vòng GIF" %}}
 Có các tùy chọn thay thế để cài đặt "Aspose.Imaging for .NET" hoặc "Aspose.Total for .NET" vào hệ thống của bạn.Vui lòng chọn một cái phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
 
-- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). Xem [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- Cài đặt thư viện bằng [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) trong Visual Studio IDE
+- Cài đặt [Gói NuGet](https://www.nuget.org/packages/Aspose.Imaging/). Xem [Tài liệu](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Cài đặt thư viện bằng [Bảng điều khiển quản lý gói](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) trong Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}
@@ -68,7 +68,7 @@ Sản phẩm của chúng tôi hoàn toàn đa nền tảng và hỗ trợ tất
 Vì mã .NET không dựa vào phần cứng hoặc hệ điều hành cơ bản mà chỉ dựa trên Máy ảo, nên bạn có thể tự do phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux.Chỉ cần đảm bảo rằng bạn đã cài đặt phiên bản tương ứng của .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.<br /><br />
 Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
 <br /><br />
-Để biết thêm chi tiết vui lòng tham khảo [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+Để biết thêm chi tiết vui lòng tham khảo [Tài liệu sản phẩm](https://docs.aspose.com/imaging/net/system-requirements/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

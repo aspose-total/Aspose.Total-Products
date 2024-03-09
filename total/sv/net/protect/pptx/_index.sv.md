@@ -55,7 +55,7 @@ Behöver du utveckla en PPTX lösenordsskyddsapp eller ett verktyg?Med [Aspose.S
 {{% blocks/products/pf/agp/feature-section-col title=".NET-verktyg för att bearbeta PPTX-fil för skyddsapp" %}}
 Det finns tre alternativa alternativ för att installera "Aspose.Slides for .NET" eller "Aspose.Total for .NET" på ditt system.Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
 
-- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/). Se [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- Installera en [NuGet-paket](https://www.nuget.org/packages/Aspose.Slides/). Se [Dokumentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
 - Installera biblioteket med [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) i Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,7 +70,7 @@ Vår produkt är helt plattformsoberoende och stöder alla större .NET-implemen
 Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-För mer information, se [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/).
+För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

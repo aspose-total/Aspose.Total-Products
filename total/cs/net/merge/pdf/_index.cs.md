@@ -56,8 +56,8 @@ Potřebujete vyvinout skript .NET nebo obslužnou aplikaci pro snadné sloučen�
 
 Existují tři alternativní možnosti instalace „Aspose.PDF for .NET“ nebo „Aspose.Total for .NET“ do vašeho systému.Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
 
-- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Viz [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Nainstalujte knihovnu pomocí [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) v rámci Visual Studio IDE
+- Nainstalujte [Balíček NuGet](https://www.nuget.org/packages/Aspose.PDF/). Viz [Dokumentace](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Nainstalujte knihovnu pomocí [Konzole správce balíčků](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) v rámci Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
@@ -71,7 +71,7 @@ Náš produkt je plně multiplatformní a podporuje všechny hlavní implementac
 Protože kód .NET se nespoléhá na základní hardware nebo operační systém, ale pouze na virtuální počítač, můžete tedy volně vyvíjet jakýkoli druh softwaru pro Windows, macOS, Android, iOS a Linux.Jen se ujistěte, že máte nainstalovanou odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.<br /><br />
 K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visual Studio, Xamarin a MonoDevelop IDE.
 <br /><br />
-Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

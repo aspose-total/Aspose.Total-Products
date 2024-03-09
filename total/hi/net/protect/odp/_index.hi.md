@@ -55,8 +55,8 @@ ODP पासवर्ड सुरक्षा ऐप या उपयोगि
 {{% blocks/products/pf/agp/feature-section-col title="ऐप की सुरक्षा के लिए ODP फ़ाइल को संसाधित करने के लिए .NET उपयोगिता" %}}
 आपके सिस्टम पर "Aspose.Slides for .NET" या "Aspose.Total for .NET" स्थापित करने के लिए तीन वैकल्पिक विकल्प हैं।कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
 
-- [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/) इंस्टॉल करें. [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager) देखें
-- विजुअल स्टूडियो आईडीई के भीतर [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) का उपयोग करके लाइब्रेरी स्थापित करें
+- [नुगेट पैकेज](https://www.nuget.org/packages/Aspose.Slides/) इंस्टॉल करें. [प्रलेखन](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager) देखें
+- विजुअल स्टूडियो आईडीई के भीतर [पैकेज मैनेजर कंसोल](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) का उपयोग करके लाइब्रेरी स्थापित करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ ODP पासवर्ड सुरक्षा ऐप या उपयोगि
 चूंकि .NET कोड अंतर्निहित हार्डवेयर या ऑपरेटिंग सिस्टम पर निर्भर नहीं करता है, बल्कि केवल वर्चुअल मशीन पर निर्भर करता है, इसलिए आप विंडोज, मैकओएस, एंड्रॉइड, आईओएस और लिनक्स के लिए किसी भी प्रकार का सॉफ्टवेयर विकसित करने के लिए स्वतंत्र हैं।Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
 We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
 <br /><br />
-अधिक जानकारी के लिए कृपया [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/) देखें।
+अधिक जानकारी के लिए कृपया [उत्पाद दस्तावेज़ीकरण](https://docs.aspose.com/slides/net/system-requirements/) देखें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

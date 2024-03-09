@@ -85,8 +85,8 @@ Müssen Sie eine PPTX-Anmerkungs-App oder ein Dienstprogramm entwickeln, um Feed
 
 Es gibt drei alternative Möglichkeiten, „Aspose.Slides for .NET“ oder „Aspose.Total for .NET“ auf Ihrem System zu installieren.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br /><br />
 
-- Installieren Sie ein [NuGet Package](https://www.nuget.org/packages/Aspose.Slides/). Siehe [Documentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
-- Installieren Sie die Bibliothek mit [Package Manager Console](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) in der Visual Studio-IDE
+- Installieren Sie ein [NuGet-Paket](https://www.nuget.org/packages/Aspose.Slides/). Siehe [Dokumentation](https://docs.aspose.com/slides/net/installation/#method-1-install-or-update-asposeslides-from-the-nuget-package-manager)
+- Installieren Sie die Bibliothek mit [Paket-Manager-Konsole](https://docs.aspose.com/slides/net/installation/#method-2-install-or-update-asposeslides-through-the-package-manager-console) in der Visual Studio-IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -100,7 +100,7 @@ Unser Produkt ist vollständig plattformübergreifend und unterstützt alle wich
 Da .NET-Code nicht auf der zugrunde liegenden Hardware oder dem zugrunde liegenden Betriebssystem, sondern nur auf einer virtuellen Maschine basiert, können Sie jede Art von Software für Windows, macOS, Android, iOS und Linux entwickeln.Stellen Sie einfach sicher, dass Sie die entsprechende Version von .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin installiert haben.<br /><br />
 Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelop IDE zum Erstellen von C#-, F#- und VB.NET-Anwendungen.
 <br /><br />
-Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspose.com/slides/net/system-requirements/).
+Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose.com/slides/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

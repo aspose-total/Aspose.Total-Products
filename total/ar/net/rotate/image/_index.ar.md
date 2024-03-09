@@ -54,8 +54,8 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{% blocks/products/pf/agp/feature-section-col title="أداة .NET لإدارة دوران Image" %}}
 هناك خيارات بديلة لتثبيت "Aspose.Imaging for .NET" أو "Aspose.Total for .NET" على نظامك.يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:<br /><br />
 
-- تثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/). انظر [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
-- قم بتثبيت المكتبة باستخدام [Package Manager Console](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) داخل Visual Studio IDE
+- تثبيت [حزمة نوجيت](https://www.nuget.org/packages/Aspose.Imaging/). انظر [توثيق](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- قم بتثبيت المكتبة باستخدام [وحدة تحكم إدارة الحزم](https://docs.aspose.com/imaging/net/installation/#install-or-update-asposeimaging-using-the-package-manager-console) داخل Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
@@ -68,7 +68,7 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على جهاز افتراضي، لذلك لديك الحرية في تطوير أي نوع من البرامج لأنظمة Windows، وmacOS، وAndroid، وiOS، وLinux.فقط تأكد من تثبيت الإصدار المقابل من .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin.<br /><br />
 نوصي باستخدام Microsoft Visual Studio وXamarin وMonoDevelop IDE لإنشاء تطبيقات C# وF# وVB.NET.
 <br /><br />
-لمزيد من التفاصيل يرجى الرجوع إلى [Product Documentation](https://docs.aspose.com/imaging/net/system-requirements/).
+لمزيد من التفاصيل يرجى الرجوع إلى [توثيق المنتج](https://docs.aspose.com/imaging/net/system-requirements/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 

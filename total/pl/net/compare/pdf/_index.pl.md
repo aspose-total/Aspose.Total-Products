@@ -55,8 +55,8 @@ Chcesz opracować oprogramowanie lub aplikację narzędziową opartą na .NET, a
 
 Istnieją trzy alternatywne możliwości zainstalowania „Aspose.PDF for .NET” lub „Aspose.Total for .NET” w systemie.Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:<br /><br />
 
-- Zainstaluj plik [NuGet Package](https://www.nuget.org/packages/Aspose.PDF/). Zobacz [Documentation](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
-- Zainstaluj bibliotekę przy użyciu [Package Manager Console](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) w środowisku Visual Studio IDE
+- Zainstaluj plik [Pakiet NuGeta](https://www.nuget.org/packages/Aspose.PDF/). Zobacz [Dokumentacja](https://docs.aspose.com/pdf/net/installation/#installing-asposepdf-for-net-through-nuget)
+- Zainstaluj bibliotekę przy użyciu [Konsola menedżera pakietów](https://docs.aspose.com/pdf/net/installation/#install-package-using-the-package-manager-console) w środowisku Visual Studio IDE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -70,7 +70,7 @@ Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne impl
 Ponieważ kod .NET nie opiera się na podstawowym sprzęcie ani systemie operacyjnym, ale tylko na maszynie wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux.Upewnij się tylko, że masz zainstalowaną odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br /><br />
 Do tworzenia aplikacji C#, F#, VB.NET zalecamy używanie Microsoft Visual Studio, Xamarin i MonoDevelop IDE.
 <br /><br />
-Więcej szczegółów można znaleźć w [Product Documentation](https://docs.aspose.com/pdf/net/system-requirements/).
+Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/pdf/net/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -59,8 +59,8 @@ Müssen Sie ein .NET-Dienstprogramm entwickeln, um problemlos mehrere GIF-Dateie
 {{% blocks/products/pf/agp/feature-section-col title=".NET-Wasserzeichenbibliothek für GIF-Dateien" %}}
 Es gibt alternative Möglichkeiten, „[Aspose.Imaging for .NET](https://products.aspose.com/imaging/de/net/)“ oder „[Aspose.Total for .NET](https://products.aspose.com/total/de/net/)“ auf Ihrem System zu installieren.Unser .NET-Paket ist plattformübergreifend konzipiert und mit JVM-Implementierungen auf verschiedenen Betriebssystemen wie Microsoft Windows, Linux, macOS, Android und iOS kompatibel.Bitte wählen Sie eines aus, das Ihren Anforderungen entspricht, und befolgen Sie die Schritt-für-Schritt-Anleitung:<br />
 
-- Installieren Sie [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
-- Oder von [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
+- Installieren Sie [NuGet-Paket](https://www.nuget.org/packages/Aspose.Imaging/)
+- Oder von [Dokumentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Schritt für Schritt JPG2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

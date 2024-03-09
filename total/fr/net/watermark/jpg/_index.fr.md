@@ -59,7 +59,7 @@ Besoin de développer une application utilitaire .NET pour filigraner facilement
 {{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de filigranes .NET pour les fichiers JPG" %}}
 Il existe d'autres options pour installer "[Aspose.Imaging for .NET](https://products.aspose.com/imaging/fr/net/)" ou "[Aspose.Total for .NET](https://products.aspose.com/total/fr/net/)" sur votre système.Notre package .NET est conçu pour être multiplateforme, compatible avec les implémentations JVM sur divers systèmes d'exploitation tels que Microsoft Windows, Linux, macOS, Android et iOS.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br />
 
-- Installer [NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
+- Installer [Paquet NuGet](https://www.nuget.org/packages/Aspose.Imaging/)
 - Ou depuis [Documentation](https://docs.aspose.com/imaging/net/installation/#installing-asposeimaging-for-net-through-nuget)
 - Étape par étape JPG2
 
