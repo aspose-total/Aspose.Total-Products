@@ -25,7 +25,7 @@ Een van de belangrijkste kenmerken van Aspose.Total for .NET is de mogelijkheid 
 
 {{% blocks/products/pf/feature-page-code h3="C#-code om Microsoft Word-bestanden te bekijken" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Dankzij de robuuste functionaliteit van Aspose.Cells, een onderliggende API van 
 
 {{% blocks/products/pf/feature-page-code h3="C#-code om Microsoft Excel-spreadsheets te bekijken" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Door gebruik te maken van Aspose.PDF, een andere onderliggende API van Aspose.To
 
 {{% blocks/products/pf/feature-page-code h3="C#-code voor het bekijken van PDF-bestanden" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

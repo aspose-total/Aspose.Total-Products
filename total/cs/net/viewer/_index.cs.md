@@ -25,7 +25,7 @@ Jednou z klíčových vlastností Aspose.Total for .NET je jeho schopnost poskyt
 
 {{% blocks/products/pf/feature-page-code h3="C# kód pro zobrazení souborů Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Díky robustní funkcionalitě poskytované Aspose.Cells, podřízeným API Aspo
 
 {{% blocks/products/pf/feature-page-code h3="C# kód pro zobrazení tabulek Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ S využitím Aspose.PDF, dalšího podřízeného API Aspose.Total for .NET, moh
 
 {{% blocks/products/pf/feature-page-code h3="C# kód pro prohlížení souboru PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

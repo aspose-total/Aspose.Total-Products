@@ -24,7 +24,7 @@ Avec Aspose.Total for .NET, la rédaction de documents Microsoft Word devient un
 
 {{% blocks/products/pf/feature-page-code h3="Code C# - Rédiger des fichiers Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ En tirant parti des puissantes fonctionnalités d'Aspose.PDF, les développeurs 
 
 {{% blocks/products/pf/feature-page-code h3="Code C# - Rédaction PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

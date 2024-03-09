@@ -25,7 +25,7 @@ Salah satu fitur utama Aspose.Total for .NET adalah kemampuannya untuk memberika
 
 {{% blocks/products/pf/feature-page-code h3="Kode C# untuk Melihat File Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Melalui fungsionalitas canggih yang disediakan oleh Aspose.Cells, API turunan As
 
 {{% blocks/products/pf/feature-page-code h3="Kode C# untuk Melihat Spreadsheet Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Memanfaatkan Aspose.PDF, API turunan lain dari Aspose.Total for .NET, pengembang
 
 {{% blocks/products/pf/feature-page-code h3="Kode C# untuk Melihat File PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -25,7 +25,7 @@ Um dos principais recursos do Aspose.Total for .NET é a capacidade de fornecer 
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para visualizar arquivos do Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Através da funcionalidade robusta fornecida pelo Aspose.Cells, uma API filha do
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para visualizar planilhas do Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aproveitando o Aspose.PDF, outra API secundária do Aspose.Total for .NET, os de
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para visualização de arquivo PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

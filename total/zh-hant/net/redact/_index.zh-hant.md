@@ -24,7 +24,7 @@ description: 透過 .NET 應用程式搜尋取代 PDF、Microsoft Word 文件、
 
 {{% blocks/products/pf/feature-page-code h3="C# 程式碼 - 編輯 Microsoft Word 文件" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ description: 透過 .NET 應用程式搜尋取代 PDF、Microsoft Word 文件、
 
 {{% blocks/products/pf/feature-page-code h3="C# 程式碼 - PDF 編輯" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

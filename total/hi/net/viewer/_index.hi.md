@@ -25,7 +25,7 @@ Aspose.Total for .NET की प्रमुख विशेषताओं म�
 
 {{% blocks/products/pf/feature-page-code h3="माइक्रोसॉफ्ट वर्ड फ़ाइलें देखने के लिए C# कोड" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Cells, Aspose.Total for .NET की एक चाइल्ड एपी�
 
 {{% blocks/products/pf/feature-page-code h3="माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट देखने के लिए सी# कोड" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.PDF, Aspose.Total for .NET के एक अन्य चाइल्ड 
 
 {{% blocks/products/pf/feature-page-code h3="पीडीएफ फाइल देखने के लिए सी# कोड" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -25,7 +25,7 @@ Aspose.Total for .NET عبارة عن مجموعة شاملة من مكونات 
 
 {{% blocks/products/pf/feature-page-code h3="كود C# لعرض ملفات مايكروسوفت وورد" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for .NET عبارة عن مجموعة شاملة من مكونات 
 
 {{% blocks/products/pf/feature-page-code h3="كود C# لعرض جداول بيانات Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for .NET عبارة عن مجموعة شاملة من مكونات 
 
 {{% blocks/products/pf/feature-page-code h3="كود C# لعرض ملف PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

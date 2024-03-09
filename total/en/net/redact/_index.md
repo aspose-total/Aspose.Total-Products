@@ -24,7 +24,7 @@ With Aspose.Total for .NET, redacting Microsoft Word documents becomes a straigh
 
 {{% blocks/products/pf/feature-page-code h3="C# Code - Redact Microsoft Word Files" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Leveraging the powerful features of Aspose.PDF, developers can efficiently ident
 
 {{% blocks/products/pf/feature-page-code h3="C# Code - PDF Redaction" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

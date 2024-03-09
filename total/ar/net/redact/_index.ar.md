@@ -24,7 +24,7 @@ description: ابحث عن استبدال مستندات PDF وMicrosoft Word و
 
 {{% blocks/products/pf/feature-page-code h3="كود C# - تنقيح ملفات Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ description: ابحث عن استبدال مستندات PDF وMicrosoft Word و
 
 {{% blocks/products/pf/feature-page-code h3="كود C# - تنقيح PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

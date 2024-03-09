@@ -25,7 +25,7 @@ Aspose.Total for .NET の重要な機能の 1 つは、Microsoft Word ドキュ�
 
 {{% blocks/products/pf/feature-page-code h3="Microsoft Word ファイルを表示するための C# コード" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for .NET の子 API である Aspose.Cells が提供する堅牢な
 
 {{% blocks/products/pf/feature-page-code h3="Microsoft Excel スプレッドシートを表示するための C# コード" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for .NET のもう 1 つの子 API である Aspose.PDF を活用�
 
 {{% blocks/products/pf/feature-page-code h3="PDF ファイルを表示するための C# コード" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

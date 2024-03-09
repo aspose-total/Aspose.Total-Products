@@ -24,7 +24,7 @@ Aspose.Total for .NET을 사용하면 Microsoft Word 문서를 수정하는 것�
 
 {{% blocks/products/pf/feature-page-code h3="C# 코드 - Microsoft Word 파일 수정" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Aspose.PDF의 강력한 기능을 활용하여 개발자는 PDF 파일 내의 �
 
 {{% blocks/products/pf/feature-page-code h3="C# 코드 - PDF 편집" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

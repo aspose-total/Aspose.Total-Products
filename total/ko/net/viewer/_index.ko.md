@@ -25,7 +25,7 @@ Aspose.Total for .NET의 주요 기능 중 하나는 Microsoft Word 문서 및 E
 
 {{% blocks/products/pf/feature-page-code h3="Microsoft Word 파일을 보기 위한 C# 코드" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for .NET의 하위 API인 Aspose.Cells가 제공하는 강력한 �
 
 {{% blocks/products/pf/feature-page-code h3="Microsoft Excel 스프레드시트를 보기 위한 C# 코드" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for .NET의 하위 API인 Aspose.Cells가 제공하는 강력한 �
 
 {{% blocks/products/pf/feature-page-code h3="PDF 파일을 보기 위한 C# 코드" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

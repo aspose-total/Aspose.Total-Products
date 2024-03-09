@@ -25,7 +25,7 @@ A Aspose.Total for .NET egyik legfontosabb jellemzője, hogy megbízható és ha
 
 {{% blocks/products/pf/feature-page-code h3="C# kód a Microsoft Word fájlok megtekintéséhez" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Az Aspose.Cells, a Aspose.Total for .NET gyermek API-ja által biztosított robu
 
 {{% blocks/products/pf/feature-page-code h3="C# kód a Microsoft Excel táblázatok megtekintéséhez" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Az Aspose.PDF-et, a Aspose.Total for .NET másik alárendelt API-ját kihasznál
 
 {{% blocks/products/pf/feature-page-code h3="C# kód a PDF fájl megtekintéséhez" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

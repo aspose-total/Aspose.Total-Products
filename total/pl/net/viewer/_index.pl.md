@@ -25,7 +25,7 @@ Jedną z kluczowych cech Aspose.Total for .NET jest jego zdolność do zapewnien
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# do przeglądania plików Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Dzięki solidnej funkcjonalności zapewnianej przez Aspose.Cells, podrzędny int
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# do przeglądania arkuszy kalkulacyjnych Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Wykorzystując Aspose.PDF, kolejny podrzędny interfejs API Aspose.Total for .NE
 
 {{% blocks/products/pf/feature-page-code h3="Kod C# do przeglądania pliku PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -25,7 +25,7 @@ Una de las características clave de Aspose.Total for .NET es su capacidad para 
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para ver archivos de Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ A través de la sólida funcionalidad proporcionada por Aspose.Cells, una API se
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para ver hojas de cálculo de Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aprovechando Aspose.PDF, otra API secundaria de Aspose.Total for .NET, los desar
 
 {{% blocks/products/pf/feature-page-code h3="Código C# para ver archivos PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -24,7 +24,7 @@ S Aspose.Total for .NET se redigování dokumentů Microsoft Word stává pro v�
 
 {{% blocks/products/pf/feature-page-code h3="C# Code – Redigujte soubory Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Využitím výkonných funkcí Aspose.PDF mohou vývojáři efektivně identifik
 
 {{% blocks/products/pf/feature-page-code h3="C# kód - PDF redakce" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

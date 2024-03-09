@@ -24,7 +24,7 @@ Với Aspose.Total for .NET, việc biên tập lại tài liệu Microsoft Word
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Sắp xếp lại các tệp Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Tận dụng các tính năng mạnh mẽ của Aspose.PDF, các nhà phát tri�
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Biên tập PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -23,7 +23,7 @@ Với Aspose.Total for .NET, việc phân tích tài liệu Microsoft Word trở
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Phân tích tệp Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-images-from-word-document.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-images-from-word-document.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -35,7 +35,7 @@ Với Aspose.Total for .NET, việc phân tích bản trình bày Microsoft Powe
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Phân tích bản trình bày Microsoft Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-text-from-powerpoint-presentation.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-text-from-powerpoint-presentation.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -47,7 +47,7 @@ Bằng cách sử dụng các khả năng mạnh mẽ của Aspose.PDF, một AP
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# - Phân tích tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-documents-by-extracting-images.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-pdf-documents-by-extracting-images.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

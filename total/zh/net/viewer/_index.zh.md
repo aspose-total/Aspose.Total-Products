@@ -25,7 +25,7 @@ Aspose.Total for .NET 的主要功能之一是它能够为 Microsoft Word 文档
 
 {{% blocks/products/pf/feature-page-code h3="查看 Microsoft Word 文件的 C# 代码" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for .NET 的主要功能之一是它能够为 Microsoft Word 文档
 
 {{% blocks/products/pf/feature-page-code h3="用于查看 Microsoft Excel 电子表格的 C# 代码" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for .NET 的主要功能之一是它能够为 Microsoft Word 文档
 
 {{% blocks/products/pf/feature-page-code h3="用于查看 PDF 文件的 C# 代码" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

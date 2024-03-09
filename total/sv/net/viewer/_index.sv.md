@@ -25,7 +25,7 @@ En av nyckelfunktionerna i Aspose.Total for .NET är dess förmåga att tillhand
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod för att se Microsoft Word-filer" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Genom den robusta funktionaliteten som tillhandahålls av Aspose.Cells, ett unde
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod för att se Microsoft Excel-kalkylblad" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Utvecklare använder Aspose.PDF, ett annat underordnat API till Aspose.Total for
 
 {{% blocks/products/pf/feature-page-code h3="C#-kod för att visa PDF-fil" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

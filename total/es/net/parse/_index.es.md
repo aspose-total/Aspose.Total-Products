@@ -23,7 +23,7 @@ Con Aspose.Total for .NET, el análisis de documentos de Microsoft Word se convi
 
 {{% blocks/products/pf/feature-page-code h3="Código C#: analizar archivos de Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-images-from-word-document.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-images-from-word-document.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -35,7 +35,7 @@ Con Aspose.Total for .NET, analizar presentaciones de Microsoft PowerPoint se vu
 
 {{% blocks/products/pf/feature-page-code h3="Código C#: análisis de presentaciones de Microsoft Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "extract-text-from-powerpoint-presentation.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "extract-text-from-powerpoint-presentation.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -47,7 +47,7 @@ Utilizando las sólidas capacidades de Aspose.PDF, otra API secundaria de Aspose
 
 {{% blocks/products/pf/feature-page-code h3="Código C# - Analizar archivo PDF" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-documents-by-extracting-images.cs" >}}
+{{< gist "aspose-com-gists" "ab98758eea66dd544d4a7964d10ec4fc" "parse-pdf-documents-by-extracting-images.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -24,7 +24,7 @@ Aspose.Total for .NET を使用すると、開発者にとって Microsoft Word 
 
 {{% blocks/products/pf/feature-page-code h3="C# コード - Microsoft Word ファイルを編集する" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Aspose.PDF の強力な機能を活用することで、開発者は PDF ファ�
 
 {{% blocks/products/pf/feature-page-code h3="C# コード - PDF 編集" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

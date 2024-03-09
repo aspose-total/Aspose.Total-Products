@@ -24,7 +24,7 @@ Mit Aspose.Total for .NET wird das Schwärzen von Microsoft Word-Dokumenten für
 
 {{% blocks/products/pf/feature-page-code h3="C#-Code – Microsoft Word-Dateien redigieren" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-files.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "redact-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Mithilfe der leistungsstarken Funktionen von Aspose.PDF können Entwickler vertr
 
 {{% blocks/products/pf/feature-page-code h3="C#-Code – PDF-Redaktion" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "pdf-redaction.cs" >}}
+{{< gist "aspose-com-gists" "219aba2cc10786e2c7dbf46f0af28017" "pdf-redaction.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

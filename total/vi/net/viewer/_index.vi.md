@@ -25,7 +25,7 @@ Một trong những tính năng chính của Aspose.Total for .NET là khả nă
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# để xem tệp Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-word-files.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-word-files.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Thông qua chức năng mạnh mẽ được cung cấp bởi Aspose.Cells, mộ
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# để xem bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-excel-spreadsheets.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-excel-spreadsheets.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Tận dụng Aspose.PDF, một API con khác của Aspose.Total for .NET, các n
 
 {{% blocks/products/pf/feature-page-code h3="Mã C# để xem tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "c17be44d15716d4cbdce629f9470f21c" "view-pdf-file.cs" >}}
+{{< gist "aspose-com-gists" "ed472c4ee17c7cbd4bf4244138b28544" "view-pdf-file.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
