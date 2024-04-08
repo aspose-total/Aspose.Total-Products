@@ -1,0 +1,145 @@
+---
+title: ऑनलाइन या C++ का उपयोग करके DOCX फ़ाइलों पर वॉटरमार्क लगाएं
+description: विभिन्न DOCX फ़ाइलों को वॉटरमार्क करने के लिए मुफ्त ऑनलाइन ऐप।DOCX दस्तावेज़ों के लिए C++ वॉटरमार्क लाइब्रेरी कोड. 
+
+family: total
+platformtag: cpp
+feature: Watermark
+informat: DOCX
+otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="वॉटरमार्किंग ऐप और C++ अनुप्रयोगों के माध्यम से DOCX फ़ाइल को ऑनलाइन वॉटरमार्क करें" h2="शक्तिशाली C++ आधारित DOCX दस्तावेज़ वॉटरमार्किंग अनुप्रयोग विकसित करें।तत्काल डाउनलोड के साथ ऐप के माध्यम से ऑनलाइन DOCX फ़ाइलों सहित विभिन्न दस्तावेजों को स्वतंत्र रूप से वॉटरमार्क करें।" >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ऐप का उपयोग करके ऑनलाइन DOCX फ़ाइलें वॉटरमार्क करें" %}}
+
+1. DOCX फ़ाइलों को वॉटरमार्क पर अपलोड करें
+1. वॉटरमार्क टेक्स्ट लिखें
+1. प्रासंगिक रंग चुनें
+1. "वॉटरमार्क" बटन पर क्लिक करें
+1. वॉटरमार्क वाली DOCX फ़ाइल डाउनलोड करें
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="C++ के माध्यम से DOCX फ़ाइल वॉटरमार्क" %}}
+
+1. DOCX दस्तावेज़ लोड करें
+1. टेक्स्टवॉटरमार्कविकल्प परिभाषित करें
+1. फ़ॉन्ट, रंग, लेआउट जैसे प्रासंगिक विकल्प सेट करें
+1. टेक्स्ट आधारित वॉटरमार्क टेक्स्ट के लिए SetText का उपयोग करें
+1. सेव विधि को कॉल करें और वॉटरमार्क वाली DOCX फ़ाइल प्राप्त करें
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C++ कोड : DOCX फ़ाइलों में टेक्स्ट वॉटरमार्क जोड़ें" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-document.cpp" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>C++ का उपयोग करके DOCX फ़ाइल वॉटरमार्किंग एप्लिकेशन विकसित करें</h2>
+
+क्या आपको एकाधिक DOCX फ़ाइलों को आसानी से वॉटरमार्क करने के लिए C++ उपयोगिता अनुप्रयोग विकसित करने की आवश्यकता है?[Aspose.Total for C++](https://products.aspose.com/total/hi/cpp/) के चाइल्ड API, [Aspose.Words for C++](https://products.aspose.com/words/cpp/) के साथ, कोई भी C++ डेवलपर दस्तावेजों में वॉटरमार्किंग ऐप प्रोग्राम करने के लिए उपरोक्त API कोड को एकीकृत कर सकता है।दस्तावेज़ वॉटरमार्किंग के लिए शक्तिशाली C++ लाइब्रेरी DOCX प्रारूप सहित कई लोकप्रिय प्रारूपों का समर्थन करती है।<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="DOCX फ़ाइलों के लिए C++ वॉटरमार्क लाइब्रेरी" %}}
+
+आपके डेवलपर परिवेश में Aspose.Words for C++ या Aspose.Total for C++ को स्थापित करने के लिए तीन विकल्प हैं।कृपया अपनी आवश्यकताओं के अनुरूप एक विकल्प चुनें और चरण-दर-चरण निर्देशों का पालन करें:<br /><br />
+
+- [NuGet पैकेज](https://www.nuget.org/packages/Aspose.Words.Cpp/) स्थापित करें. [प्रलेखन](https://docs.aspose.com/words/cpp/installation/#install-or-update-aspose-words-for-cpp-using-nuget) देखें
+- Visual Studio IDE में [पैकेज प्रबंधक कंसोल](https://docs.aspose.com/words/cpp/installation/#install-or-update-asposewords-using-package-manager-console) का उपयोग करके लाइब्रेरी स्थापित करें
+- [विंडोज इंस्टालर](https://docs.aspose.com/words/cpp/installation/#install-asposewords-for-c-by%20hand) का उपयोग करके लाइब्रेरी को हाथ से स्थापित करें
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="सिस्टम आवश्यकताएं" %}}
+आप Microsoft Windows, Linux और macOS ऑपरेटिंग सिस्टम पर सॉफ़्टवेयर विकसित करने के लिए इस C++ लाइब्रेरी का उपयोग कर सकते हैं:<br /><br />
+
+- Linux के लिए GCC >= 6.3.0 और Clang >= 3.9.1 आवश्यक हैं
+- Xcode >= 12.5.1, MacOS के लिए Clang और libc++ आवश्यक हैं
+
+<br /><br />
+यदि आप लिनक्स या मैकओएस के लिए सॉफ्टवेयर विकसित करते हैं, तो कृपया [उत्पाद दस्तावेज़ीकरण](https://docs.aspose.com/words/cpp/system-requirements/) में अतिरिक्त लाइब्रेरी निर्भरताओं (फॉन्टकॉन्फिग और मेसा-ग्लू ओपन-सोर्स पैकेज) की जानकारी की जांच करें।
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="पूछे जाने वाले प्रश्न" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>पूछे जाने वाले प्रश्न</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>क्या मैं अपने अनुप्रयोग में उपरोक्त C++ कोड का उपयोग कर सकता हूँ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">हां, आप इस कोड को डाउनलोड करने के लिए स्वागत है। कोई भी व्यक्ति C++ का उपयोग करके आसानी से वॉटरमार्क DOCX फ़ाइल के लिए एक पेशेवर समाधान विकसित कर सकता है। C++ में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए Aspose DOCX वॉटरमार्किंग API का उपयोग करें।</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>क्या यह दस्तावेज़ वॉटरमार्किंग ऐप केवल विंडोज़ पर काम करता है?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">आपके पास किसी भी डिवाइस से दस्तावेज़ वॉटरमार्किंग आरंभ करने की सुविधा है, चाहे वह किसी भी ऑपरेटिंग सिस्टम पर चलता हो, चाहे वह विंडोज, लिनक्स, मैक ओएस या एंड्रॉइड हो। बस एक समकालीन वेब ब्राउज़र और एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता है।</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>क्या एकाधिक DOCX दस्तावेजों पर वॉटरमार्क लगाने के लिए ऑनलाइन ऐप का उपयोग करना सुरक्षित है?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">बेशक! हमारी सेवा के माध्यम से उत्पन्न आउटपुट फ़ाइलें 24 घंटे की समय सीमा के भीतर हमारे सर्वर से सुरक्षित और स्वचालित रूप से हटा दी जाएंगी। नतीजतन, इन फ़ाइलों से जुड़े डाउनलोड लिंक इस अवधि के बाद काम करना बंद कर देंगे।</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ऐप का उपयोग करने के लिए कौन सा ब्राउज़र चाहिए?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">आप ऑनलाइन DOCX दस्तावेज़ वॉटरमार्किंग के लिए Google क्रोम, फ़ायरफ़ॉक्स, ओपेरा या सफारी जैसे किसी भी आधुनिक वेब ब्राउज़र का उपयोग कर सकते हैं।</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>मैं एकाधिक DOCX फ़ाइलों पर वॉटरमार्क कैसे लगा सकता हूँ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">वॉटरमार्क के लिए एक या अधिक फ़ाइलें अपलोड करके शुरू करें। आप अपनी DOCX फ़ाइलों को खींचकर छोड़ सकते हैं या बस सफ़ेद क्षेत्र के अंदर क्लिक कर सकते हैं। उसके बाद, 'वॉटरमार्क' बटन पर क्लिक करें, और हमारा ऑनलाइन वॉटरमार्किंग ऐप अपलोड की गई फ़ाइलों को जल्दी से प्रोसेस करेगा।</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>DOCX फ़ाइलों को वॉटरमार्क करने में कितना समय लगता है?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">यह वॉटरमार्किंग एप्लिकेशन तेजी से काम करता है, फ़ाइलों को अपलोड करने और उन्हें वॉटरमार्क करने में कुछ सेकंड लग सकते हैं।</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

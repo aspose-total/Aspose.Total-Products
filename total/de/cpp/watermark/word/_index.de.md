@@ -1,0 +1,145 @@
+---
+title: Word-Dateien online oder mit C++ mit Wasserzeichen versehen
+description: Kostenlose Online-App zum Versehen verschiedener Word-Dateien mit Wasserzeichen.C++-Wasserzeichenbibliothekscode für Word-Dokumente. 
+
+family: total
+platformtag: cpp
+feature: Watermark
+informat: Word
+otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Word-Datei online mit Wasserzeichen versehen – über die Wasserzeichen-App und über C++-Anwendungen" h2="Entwickeln Sie leistungsstarke, C++-basierte Anwendungen zum Wasserzeichen von Word-Dokumenten.Versehen Sie verschiedene Dokumente, einschließlich Word-Dateien, kostenlos mit Wasserzeichen online per App und sofortigem Download." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Word-Dateien online mit Wasserzeichen versehen – mithilfe der App" %}}
+
+1. Laden Sie Word-Dateien in Watermark hoch
+1. Schreiben Sie den Wasserzeichentext
+1. Wählen Sie die entsprechende Farbe
+1. Klicken Sie auf die Schaltfläche "Wasserzeichen"
+1. Laden Sie die mit Wasserzeichen versehene Word-Datei herunter
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Wasserzeichen-Word-Datei über C++" %}}
+
+1. Word-Dokument laden
+1. TextWasserzeichenOptionen definieren
+1. Legen Sie relevante Optionen wie Schriftart, Farbe, Layout fest
+1. Verwenden Sie SetText für textbasierten Wasserzeichentext
+1. Rufen Sie die Save-Methode auf und holen Sie sich die mit Wasserzeichen versehene Word-Datei
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C++-Code: Text-Wasserzeichen zu Word-Dateien hinzufügen" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-document.cpp" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>Entwickeln Sie eine Word-Datei-Wasserzeichenanwendung mit C++</h2>
+
+Müssen Sie eine C++-Dienstprogrammanwendung entwickeln, um mehrere Word-Dateien problemlos mit Wasserzeichen zu versehen?Mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/), der untergeordneten API von [Aspose.Total for C++](https://products.aspose.com/total/de/cpp/), kann jeder C++-Entwickler den obigen API-Code integrieren, um eine Wasserzeichen-App für alle Dokumente zu programmieren.Leistungsstarke C++-Bibliothek zum Markieren von Dokumentwasserzeichen unterstützt viele gängige Formate, einschließlich des Word-Formats.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="C++-Wasserzeichenbibliothek für Word-Dateien" %}}
+
+Es gibt drei Möglichkeiten, Aspose.Words für C++ oder Aspose.Total für C++ in Ihrer Entwicklerumgebung zu installieren.Wählen Sie bitte eine Option aus, die Ihren Anforderungen entspricht, und folgen Sie den Schritt-für-Schritt-Anweisungen:<br /><br />
+
+- Installieren Sie ein [NuGet-Paket](https://www.nuget.org/packages/Aspose.Words.Cpp/). Siehe [Dokumentation](https://docs.aspose.com/words/cpp/installation/#install-or-update-aspose-words-for-cpp-using-nuget)
+- Installieren Sie die Bibliothek mit [Paket-Manager-Konsole](https://docs.aspose.com/words/cpp/installation/#install-or-update-asposewords-using-package-manager-console) in der Visual Studio IDE
+- Installieren Sie die Bibliothek manuell mit [Windows Installer](https://docs.aspose.com/words/cpp/installation/#install-asposewords-for-c-by%20hand)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="System Anforderungen" %}}
+Sie können diese C++-Bibliothek verwenden, um Software auf den Betriebssystemen Microsoft Windows, Linux und macOS zu entwickeln:<br /><br />
+
+- Für Linux sind GCC >= 6.3.0 und Clang >= 3.9.1 erforderlich
+- Xcode >= 12.5.1, Clang und libc++ werden für macOS benötigt
+
+<br /><br />
+Wenn Sie Software für Linux oder macOS entwickeln, lesen Sie bitte die Informationen zu zusätzlichen Bibliotheksabhängigkeiten (Open-Source-Pakete „Fontconfig“ und „Mesa-Glu“) in [Produktdokumentation](https://docs.aspose.com/words/cpp/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>FAQs</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kann ich den obigen C++-Code in meiner Anwendung verwenden?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, Sie können diesen Code gerne herunterladen. Mit C++ lässt sich ganz einfach eine professionelle Lösung zum Wasserzeichen von Word-Dateien entwickeln. Verwenden Sie die Aspose Word Watermarking API, um hochrangige, plattformunabhängige Software in C++ zu entwickeln.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funktioniert diese App zum Erzeugen von Dokument-Wasserzeichen nur unter Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie haben die Flexibilität, das Wasserzeichen in Dokumenten von jedem Gerät aus zu starten, unabhängig vom Betriebssystem, ob Windows, Linux, Mac OS oder Android. Alles, was Sie brauchen, ist ein moderner Webbrowser und eine aktive Internetverbindung.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ist es sicher, mit der Online-App mehrere Word-Dokumente mit Wasserzeichen zu versehen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Natürlich! Die von unserem Service generierten Ausgabedateien werden innerhalb von 24 Stunden sicher und automatisch von unseren Servern entfernt. Infolgedessen funktionieren die mit diesen Dateien verknüpften Download-Links nach diesem Zeitraum nicht mehr.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Welcher Browser wird für die Nutzung der App benötigt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie können jeden modernen Webbrowser wie Google Chrome, Firefox, Opera oder Safari zum Online-Wasserzeichen von Word-Dokumenten verwenden.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie kann ich mehrere Word-Dateien mit einem Wasserzeichen versehen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Beginnen Sie mit dem Hochladen einer oder mehrerer Dateien, die Sie mit einem Wasserzeichen versehen möchten. Sie können Ihre Word-Dateien entweder per Drag & Drop verschieben oder einfach in den weißen Bereich klicken. Klicken Sie anschließend auf die Schaltfläche „Wasserzeichen“ und unsere Online-Wasserzeichen-App verarbeitet die hochgeladenen Dateien schnell.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie lange dauert es, die Word-Dateien mit einem Wasserzeichen zu versehen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Diese Wasserzeichenanwendung arbeitet schnell. Das Hochladen der Dateien und das Anbringen an einem Wasserzeichen kann einige Sekunden dauern.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

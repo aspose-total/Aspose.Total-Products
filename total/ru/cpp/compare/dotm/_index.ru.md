@@ -1,0 +1,143 @@
+---
+title: Онлайн-сравнение файлов DOTM или создание приложений C++ для сравнения файлов DOTM
+description: Бесплатное онлайн-приложение для сравнения различных файлов DOTM. Код библиотеки сравнения C++ для документов DOTM.
+
+family: total
+platformtag: cpp
+feature: Compare
+informat: DOTM
+otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Онлайн-приложение для сравнения документов и код C++ для сравнения файлов DOTM" h2="Разрабатывайте мощные приложения для сравнения документов DOTM на базе C++.Свободно сравнивайте документы, включая файлы DOTM, онлайн через приложение с мгновенной загрузкой." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Сравните файлы DOTM онлайн с помощью приложения" %}}
+
+1. Загрузите два файла DOTM для сравнения.
+1. Нажмите кнопку «Сравнить».
+1. Загрузите выделенные результаты.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сравнить файл DOTM через C++" %}}
+
+1. Добавьте ссылку на библиотеку в проект C++.
+1. Загрузите оба документа DOTM.
+1. Используйте метод AcceptAllRevisions для обоих объектов.
+1. Используйте метод сравнения с первым объектом и вторым в качестве параметра.
+1. Вызовите метод Save.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Код C++ для сравнения файлов DOTM" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-word-documents.cpp" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>Разработка приложения для сравнения файлов DOTM с использованием C++</h2>
+
+Вам нужно разработать программное обеспечение или служебное приложение на базе C++ для удобного сравнения файлов DOTM?С помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/), дочернего API [Aspose.Total for C++](https://products.aspose.com/total/ru/cpp/), любой разработчик C++ может интегрировать приведенный выше код API в приложение для сравнения программ.Мощная библиотека C++ для сравнения документов поддерживает множество популярных форматов, включая формат DOTM, например PDF, Word, PowerPoint, сообщения электронной почты и файлы Excel.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Библиотека сравнения DOTM для C++" %}}
+Существует три варианта установки Aspose.Words для C++ или Aspose.Total для C++ в вашу среду разработки.Пожалуйста, выберите тот, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
+
+- Установите [Пакет NuGet](https://www.nuget.org/packages/Aspose.Words.Cpp/). См. [Документация](https://docs.aspose.com/words/cpp/installation/#install-or-update-aspose-words-for-cpp-using-nuget)
+- Установите библиотеку, используя [Консоль диспетчера пакетов](https://docs.aspose.com/words/cpp/installation/#install-or-update-asposewords-using-package-manager-console) в Visual Studio IDE.
+- Установите библиотеку вручную, используя [Установщик Windows](https://docs.aspose.com/words/cpp/installation/#install-asposewords-for-c-by%20hand).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
+Вы можете использовать эту библиотеку C++ для разработки программного обеспечения в операционных системах Microsoft Windows, Linux и macOS:<br /><br />
+
+- Для Linux требуются GCC >= 6.3.0 и Clang >= 3.9.1.
+- Xcode >= 12.5.1, Clang и libc++ необходимы для macOS
+
+<br /><br />
+Если вы разрабатываете программное обеспечение для Linux или macOS, проверьте информацию о дополнительных зависимостях библиотек (пакетах с открытым исходным кодомfontconfig и mesa-glu) в [Документация продукта](https://docs.aspose.com/words/cpp/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Часто задаваемые вопросы" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Часто задаваемые вопросы</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Могу ли я использовать приведенный выше код C++ в своем приложении?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Да, вы можете скачать этот код. Можно легко разработать профессиональное решение для сравнения файлов DOTM с использованием C++.Используйте API сравнения Aspose DOTM для разработки высокоуровневого платформонезависимого программного обеспечения на C++.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Это приложение для сравнения документов работает только в Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">У вас есть возможность начать сравнение документов с любого устройства, независимо от того, в какой операционной системе оно работает, будь то Windows, Linux, Mac OS или Android. Все, что требуется, — это современный веб-браузер и активное подключение к Интернету.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Безопасно ли использовать онлайн-приложение для сравнения нескольких документов DOTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Конечно! Выходные файлы, созданные с помощью нашей службы, будут безопасно и автоматически удалены с наших серверов в течение 24 часов.В результате ссылки для скачивания, связанные с этими файлами, перестанут работать по истечении этого периода.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>В каком браузере следует использовать приложение?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Вы можете использовать любой современный веб-браузер, например Google Chrome, Firefox, Opera или Safari, для онлайн-сравнения документов DOTM.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Как я могу сравнить несколько файлов DOTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Начните с загрузки одного или нескольких файлов, которые вы хотите сравнить. Вы можете перетащить файлы DOTM или просто щелкнуть внутри белой области.После этого нажмите кнопку «Сравнить», и наше онлайн-приложение для сравнения быстро обработает загруженные файлы.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Сколько времени занимает сравнение файлов DOTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Это приложение для сравнения работает быстро. Загрузка файлов и их сравнение может занять несколько секунд.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

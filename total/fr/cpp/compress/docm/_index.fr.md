@@ -1,0 +1,146 @@
+---
+title: Compresser les fichiers DOCM en ligne ou via C++
+description: Application en ligne gratuite pour compresser différents fichiers DOCM. Code de bibliothèque de compression C++ pour les documents DOCM.
+
+family: total
+platformtag: cpp
+feature: Compress
+informat: DOCM
+otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Powerpoint PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Compresser le fichier DOCM en ligne via l'application de compression ou en utilisant C++" h2="Développez de puissantes applications de compression de documents DOCM basées sur C++.Compressez librement divers documents, y compris les fichiers DOCM, en ligne via une application avec téléchargement instantané." >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Compresser et optimiser les fichiers DOCM en ligne à l'aide de l'application" %}}
+
+1. Téléchargez des fichiers DOCM pour les compresser et les optimiser.
+1. Choisissez le niveau de compression (faible, moyen ou élevé)
+1. Cliquez sur le bouton "Compresser".
+1. Téléchargez le fichier DOCM compressé.
+1. Visualisez et obtenez le résultat de la compression en vérifiant sa taille et la qualité du contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Compresser le fichier DOCM via C++" %}}
+
+1. Référencez la bibliothèque C++ dans votre projet
+1. Charger le document
+1. Utilisez GetChildNodes, puis parcourez les formes pour compresser
+1. Utilisez les options d'enregistrement et définissez CompressionLevel::Maximum
+1. Appelez la méthode Save et obtenez le fichier DOCM compressé
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Code C++ : Compresser les fichiers DOCM" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>Développer une application de compression de fichiers DOCM en utilisant C++</h2>
+
+Besoin de développer un script C++ ou une application utilitaire pour compresser facilement plusieurs fichiers DOCM ?Avec les API enfants [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de [Aspose.Total for C++](https://products.aspose.com/total/fr/cpp/), tout développeur C++ peut intégrer le code API ci-dessus pour programmer une application de compression dans plusieurs documents.La puissante bibliothèque C++ pour la compression de documents prend en charge de nombreux formats populaires, notamment le format DOCM.<br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de compression C++ pour les fichiers DOCM" %}}
+
+Il existe trois options pour installer Aspose.Words pour C++ ou Aspose.Total pour C++ dans votre environnement de développeur.Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :<br /><br />
+
+- Installez un [Paquet NuGet](https://www.nuget.org/packages/Aspose.Words.Cpp/). Voir [Documentation](https://docs.aspose.com/words/cpp/installation/#install-or-update-aspose-words-for-cpp-using-nuget)
+- Installez la bibliothèque à l'aide de [Console du gestionnaire de packages](https://docs.aspose.com/words/cpp/installation/#install-or-update-asposewords-using-package-manager-console) dans Visual Studio IDE
+- Installez la bibliothèque à la main en utilisant [Programme d'installation de Windows](https://docs.aspose.com/words/cpp/installation/#install-asposewords-for-c-by%20hand)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
+Vous pouvez utiliser cette bibliothèque C++ pour développer des logiciels sur les systèmes d'exploitation Microsoft Windows, Linux et macOS :<br /><br />
+
+- GCC >= 6.3.0 et Clang >= 3.9.1 sont requis pour Linux
+- Xcode >= 12.5.1, Clang et libc++ sont requis pour macOS
+
+<br /><br />
+Si vous développez des logiciels pour Linux ou macOS, veuillez vérifier les informations sur les dépendances supplémentaires de la bibliothèque (packages open source fontconfig et mesa-glu) dans [Documentation produit](https://docs.aspose.com/words/cpp/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQ" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>FAQ</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Puis-je utiliser le code C++ ci-dessus dans mon application ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Oui, vous pouvez télécharger ce code. On peut facilement développer une solution professionnelle pour compresser le fichier DOCM en utilisant C++.Utilisez l'API de compression Aspose DOCM pour développer des logiciels de haut niveau indépendants de la plate-forme en C++.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Cette application de compression de documents fonctionne-t-elle uniquement sous Windows ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Vous avez la possibilité de lancer la compression de documents à partir de n'importe quel appareil, quel que soit le système d'exploitation sur lequel il s'exécute, qu'il s'agisse de Windows, Linux, Mac OS ou Android. Tout ce dont vous avez besoin est un navigateur Web contemporain et une connexion Internet active.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Est-il sécuritaire d'utiliser l'application en ligne pour compresser plusieurs documents DOCM ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bien sûr! Les fichiers de sortie générés via notre service seront supprimés de manière sécurisée et automatique de nos serveurs dans un délai de 24 heures.De ce fait, les liens de téléchargement associés à ces fichiers cesseront d’être fonctionnels passé ce délai.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quel navigateur doit utiliser l'application ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Vous pouvez utiliser n'importe quel navigateur Web moderne comme Google Chrome, Firefox, Opera ou Safari pour la compression de documents DOCM en ligne.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Comment puis-je compresser plusieurs fichiers DOCM ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Commencez par télécharger un ou plusieurs fichiers que vous souhaitez compresser. Vous pouvez soit glisser-déposer vos fichiers DOCM, soit simplement cliquer dans la zone blanche.Ensuite, cliquez sur le bouton « Compresser » et notre application de compression en ligne traitera rapidement les fichiers téléchargés.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Combien de temps faut-il pour compresser les fichiers DOCM ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Cette application de compression fonctionne rapidement. Le téléchargement des fichiers et leur compression peuvent prendre quelques secondes.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
