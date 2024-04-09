@@ -37,7 +37,7 @@ otherformats: PDF
 
 {{% blocks/products/pf/agp/code-block title="C++ Code : Rotate PDF Document Pages" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6e5eedf573fe38a5a63c476997127075" "rotate-pdf-pages.cpp" >}}
+{{< gist "aspose-com-gists" "72b27e10f5623331f1229101c580d94a" "rotate-pdf-pages.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

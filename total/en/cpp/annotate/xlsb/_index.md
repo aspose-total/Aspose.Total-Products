@@ -40,7 +40,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 
 {{% blocks/products/pf/agp/code-block title="C++ Code: XLSB File Annotation" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "excel-spreadsheet-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "excel-spreadsheet-annotations.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -35,7 +35,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 
 {{% blocks/products/pf/agp/code-block title="C++ Code : Watermark ODP Presentation" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -37,7 +37,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 
 {{% blocks/products/pf/agp/code-block title=".NET Code : Remove Password from PDF Document" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "remove-password-from-pdf-document.cs" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "remove-password-from-pdf-document.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

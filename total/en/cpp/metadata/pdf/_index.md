@@ -38,7 +38,7 @@ otherformats: PDF Excel XLSX XLS XLSM XLSB ODS
 
 {{% blocks/products/pf/agp/code-block title="C++ Code: Update PDF Properties" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

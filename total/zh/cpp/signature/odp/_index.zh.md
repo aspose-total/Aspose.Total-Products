@@ -34,7 +34,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP
 
 {{% blocks/products/pf/agp/code-block title="C++ 代码：在 ODP 文件中添加数字签名" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "digitally-sign-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "digitally-sign-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

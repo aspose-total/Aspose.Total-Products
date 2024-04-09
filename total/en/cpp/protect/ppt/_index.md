@@ -38,7 +38,7 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 
 {{% blocks/products/pf/agp/code-block title="C++ Code : PPT Presentation Password Protection" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

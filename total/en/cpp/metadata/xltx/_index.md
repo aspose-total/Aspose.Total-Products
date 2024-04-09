@@ -39,7 +39,7 @@ otherformats: PDF Excel XLSX XLS XLSM XLSB ODS
 
 {{% blocks/products/pf/agp/code-block title="C++ Code: Add XLTX Metadata" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4a24d575e6a00d294868ca9df12f21ae" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
