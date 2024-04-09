@@ -21,7 +21,7 @@ description: Συγκρίνετε αρχεία PDF, Microsoft Word, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Κώδικας C++ - Σύγκριση εγγράφων του Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ description: Συγκρίνετε αρχεία PDF, Microsoft Word, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Κωδικός C++: Σύγκριση PDF" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-powerpoint-presentation-slides.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-powerpoint-presentation-slides.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

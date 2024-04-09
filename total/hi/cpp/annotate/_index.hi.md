@@ -22,7 +22,7 @@ Microsoft Office दस्तावेज़ों और PDF फ़ाइलो
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - वर्ड फ़ाइल में टिप्पणियाँ जोड़ें" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Aspose.Total for C++ का उपयोग करके PowerPoint प्रस
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - पावरपॉइंट प्रस्तुतियों में टिप्पणियाँ हटाएँ" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, Aspose.Total का एक प्रमुख घटक है, ज�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - पीडीएफ फाइलों में टेक्स्ट एनोटेशन हटाएं" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

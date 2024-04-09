@@ -22,7 +22,7 @@ In Microsoft Word kunnen gebruikers met annotaties opmerkingen toevoegen, wijzig
 
 {{% blocks/products/pf/feature-page-code h3="C++-code - Opmerkingen toevoegen in Word-bestand" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Om PowerPoint-presentaties te annoteren met Aspose.Total for C++, gebruikt u voo
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Verwijder opmerkingen in Powerpoint-presentaties" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, een belangrijk onderdeel van Aspose.Total, biedt krachtige API's waa
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Verwijder tekstannotaties in PDF-bestanden" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

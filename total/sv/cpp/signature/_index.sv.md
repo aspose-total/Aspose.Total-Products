@@ -21,7 +21,7 @@ Att lägga till digitala signaturer till Word-filer med Aspose.Total for C++ ger
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Lägg till digital signatur till Word-filer" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Att lägga till digitala signaturer till PDF-dokument med Aspose.Total for C++ e
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - e-signering av PDF-filer" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

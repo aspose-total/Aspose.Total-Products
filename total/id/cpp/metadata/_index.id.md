@@ -24,7 +24,7 @@ Selain itu, Aspose.Total for C++ menyediakan opsi yang dapat disesuaikan untuk m
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Tambahkan Properti Spreadsheet Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Mengelola metadata PDF menggunakan Aspose.Total for C++ memastikan integrasi yan
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Perbarui Metadata PDF" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

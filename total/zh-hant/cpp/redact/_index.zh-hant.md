@@ -21,7 +21,7 @@ description: 透過 C++ 應用程式搜尋取代 PDF、Microsoft Word 文件、E
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - 編輯 Microsoft Word 文件" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: 透過 C++ 應用程式搜尋取代 PDF、Microsoft Word 文件、E
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - 編輯 Powerpoint 簡報" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ description: 透過 C++ 應用程式搜尋取代 PDF、Microsoft Word 文件、E
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - PDF 編輯" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -23,13 +23,13 @@ Hơn nữa, Aspose.Total for C++ đảm bảo hiệu suất và hiệu quả cao
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Bảo vệ tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Bảo vệ bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Bảo vệ tài liệu PDF bằng Aspose.Total for C++ đảm bảo bảo vệ h
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Tệp PDF bảo mật" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

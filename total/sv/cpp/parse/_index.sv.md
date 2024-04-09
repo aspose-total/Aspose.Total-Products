@@ -21,7 +21,7 @@ Att analysera Word-dokument med Aspose.Total for C++ ger flera fördelar. För d
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Analysera Microsoft Word-fil" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Att analysera PowerPoint-presentationer med Aspose.Total for C++ säkerställer 
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Analysera Microsoft Powerpoint-presentation" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Att analysera PDF-dokument med Aspose.Total for C++ ger betydande fördelar. Med
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Analysera PDF-fil" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -22,7 +22,7 @@ Met Aspose.Total for C++, waarin Aspose.PDF is geïntegreerd, kunnen ontwikkelaa
 
 {{% blocks/products/pf/feature-page-code h3="C++-code: watermerk PDF-documenten" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ Aspose.Total for C++ maakt naadloze watermerken van Microsoft Word-documenten mo
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code: Watermerk Word-documenten" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Op dezelfde manier vergemakkelijkt Aspose.Cells het watermerken van Microsoft Ex
 
 {{% blocks/products/pf/feature-page-code h3="C++-code: Excel-spreadsheets van een watermerk voorzien" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

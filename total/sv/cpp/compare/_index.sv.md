@@ -21,7 +21,7 @@ I Microsoft Word används ofta dokumentjämförelse för att spåra ändringar s
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Microsoft Word-dokumentjämförelse" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Aspose.Total for C++ ger utvecklare robusta verktyg för att effektivt manipuler
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod: PDF-jämförelse" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-powerpoint-presentation-slides.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-powerpoint-presentation-slides.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

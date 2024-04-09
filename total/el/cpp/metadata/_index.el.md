@@ -24,7 +24,7 @@ description: Προβάλετε και ενημερώστε τα PDF, τα υπ�
 
 {{% blocks/products/pf/feature-page-code h3="Κώδικας C++ - Προσθήκη ιδιοτήτων υπολογιστικού φύλλου Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ description: Προβάλετε και ενημερώστε τα PDF, τα υπ�
 
 {{% blocks/products/pf/feature-page-code h3="Κωδικός C++ - Ενημέρωση μεταδεδομένων PDF" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -21,7 +21,7 @@ A Word-fájlokhoz digitális aláírások hozzáadása a Aspose.Total for C++ ha
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Digitális aláírás hozzáadása Word fájlokhoz" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ A PDF dokumentumokhoz digitális aláírás hozzáadása a Aspose.Total for C++ 
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – PDF fájlok elektronikus aláírása" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

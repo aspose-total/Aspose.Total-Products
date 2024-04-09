@@ -25,7 +25,7 @@ Microsoft Word 문서 압축에 Aspose.Total for C++을 사용하면 상당한 �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Word 문서 압축" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -36,13 +36,13 @@ Aspose.Total for C++은 Microsoft Powerpoint 프리젠테이션과 PDF 문서 �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PowerPoint 프레젠테이션 압축" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: PDF 문서 압축" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

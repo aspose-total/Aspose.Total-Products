@@ -21,13 +21,13 @@ Aspose.Total for C++ का उपयोग करके माइक्रो�
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - Microsoft Word दस्तावेज़ से पासवर्ड प्रतिबंध हटाएँ" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट से पासवर्ड हटाएं" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -39,7 +39,7 @@ Aspose.Total for C++ का उपयोग करके पीडीएफ द�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - पीडीएफ फाइलों से पासवर्ड हटाएं" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

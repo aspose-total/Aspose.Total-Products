@@ -22,7 +22,7 @@ In Microsoft Word, annotation allows users to add comments, track changes, inser
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Add Comments in Word File" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ To annotate PowerPoint presentations using Aspose.Total for C++, you'll primaril
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Delete Comments in Powerpoint Presentations" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, a key component of Aspose.Total, offers powerful APIs that enable de
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Delete Text Annotations in PDF Files" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

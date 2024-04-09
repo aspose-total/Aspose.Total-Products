@@ -21,7 +21,7 @@ Aspose.Total for C++을 사용하여 Microsoft Office Word 문서, Excel 스프�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: DOC DOCX 문서 분할" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Aspose.Total for C++을 사용하여 Microsoft Office Word 문서, Excel 스프�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: PPT PPTX 프레젠테이션 분할" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++을 사용하여 PDF 문서를 분할하면 대용량 PDF �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: PDF 문서 분할" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

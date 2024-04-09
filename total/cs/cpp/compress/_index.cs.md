@@ -25,7 +25,7 @@ Použití Aspose.Total for C++ pro kompresi dokumentů Microsoft Word nabízí v
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód - komprimace dokumentů Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -36,13 +36,13 @@ Aspose.Total for C++ nabízí přesná kompresní řešení pro prezentace Micro
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód - komprese prezentace v Powerpointu" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++: Komprimujte dokumenty PDF" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

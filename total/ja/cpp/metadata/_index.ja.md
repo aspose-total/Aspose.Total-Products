@@ -24,7 +24,7 @@ Aspose.Total for C++ を使用して Microsoft Excel スプレッドシートの
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Microsoft Excel スプレッドシートのプロパティを追加する" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Aspose.Total for C++ を使用して PDF メタデータを管理すると、C++
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - PDF メタデータの更新" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

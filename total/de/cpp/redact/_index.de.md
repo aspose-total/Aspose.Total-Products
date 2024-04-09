@@ -21,7 +21,7 @@ Die Schwärzung von Microsoft Word-Dokumenten mithilfe von Aspose.Total for C++ 
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code – Microsoft Word-Dateien redigieren" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Die Schwärzung von Dokumenten in PowerPoint-Präsentationen mit Aspose.Total fo
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code – Powerpoint-Präsentation redigieren" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Die Schwärzung von PDF-Dokumenten mit Aspose.Total for C++ bietet eine zuverlä
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code – PDF-Redaktion" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

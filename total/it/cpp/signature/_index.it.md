@@ -21,7 +21,7 @@ L'aggiunta di firme digitali ai file Word utilizzando Aspose.Total for C++ forni
 
 {{% blocks/products/pf/feature-page-code h3="Codice C++: aggiungi firma digitale ai file Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ L'aggiunta di firme digitali ai documenti PDF utilizzando Aspose.Total for C++ o
 
 {{% blocks/products/pf/feature-page-code h3="Codice C++: firma elettronica di file PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -21,7 +21,7 @@ Dodawanie podpisów cyfrowych do plików Word za pomocą Aspose.Total for C++ za
 
 {{% blocks/products/pf/feature-page-code h3="Kod C++ - Dodaj podpis cyfrowy do plików Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Dodawanie podpisów cyfrowych do dokumentów PDF za pomocą Aspose.Total for C++
 
 {{% blocks/products/pf/feature-page-code h3="Kod C++ — elektroniczne podpisywanie plików PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

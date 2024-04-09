@@ -22,7 +22,7 @@ Di Microsoft Word, anotasi memungkinkan pengguna menambahkan komentar, melacak p
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Tambahkan Komentar di File Word" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Untuk membuat anotasi presentasi PowerPoint menggunakan Aspose.Total for C++, An
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Hapus Komentar di Presentasi Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, komponen utama Aspose.Total, menawarkan API canggih yang memungkinka
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Hapus Anotasi Teks di File PDF" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

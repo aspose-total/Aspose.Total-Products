@@ -21,7 +21,7 @@ Việc chia tách tài liệu Microsoft Office Word, bảng tính Excel và bả
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Tách tài liệu DOC DOCX" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Hơn nữa, việc chia nhỏ tài liệu Word và bản trình bày PowerPoint 
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Chia nhỏ bản trình bày PPT PPTX" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Tách tài liệu PDF bằng Aspose.Total for C++ cung cấp giải pháp đáng
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Tách tài liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

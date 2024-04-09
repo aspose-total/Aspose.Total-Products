@@ -20,7 +20,7 @@ Microsoft Word belgelerini Aspose.Total for C++ kullanarak birleştirmek, birle�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Word Belgelerini Birleştir" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Microsoft Excel elektronik tablolarını birleştirmek için Aspose.Total for C+
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Excel Elektronik Tablolarını Birleştirme" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Aspose.Total for C++ kullanarak PDF belgelerini birleştirmek, C++ uygulamaları
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu: PDF Belgelerini Birleştir" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -21,7 +21,7 @@ Documentredactie van Microsoft Word-documenten met behulp van Aspose.Total for C
 
 {{% blocks/products/pf/feature-page-code h3="C++-code - Microsoft Word-bestanden redigeren" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Documentredactie van PowerPoint-presentaties met Aspose.Total for C++ biedt een 
 
 {{% blocks/products/pf/feature-page-code h3="C++-code - Powerpoint-presentatie redigeren" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Documentredactie van PDF-documenten met Aspose.Total for C++ biedt een betrouwba
 
 {{% blocks/products/pf/feature-page-code h3="C++-code - PDF-redactie" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

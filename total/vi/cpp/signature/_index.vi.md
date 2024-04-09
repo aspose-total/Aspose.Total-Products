@@ -21,7 +21,7 @@ Thêm chữ ký số vào tệp Word bằng Aspose.Total for C++ cung cấp gi�
 
 {{% blocks/products/pf/feature-page-code h3="Code C++ - Thêm chữ ký số vào file Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Việc thêm chữ ký số vào tài liệu PDF bằng Aspose.Total for C++ man
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Ký điện tử vào tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

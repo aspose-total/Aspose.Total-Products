@@ -24,7 +24,7 @@ description: 通过 C++ 应用程序查看和更新 PDF、Microsoft Excel 电子
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - 添加 Microsoft Excel 电子表格属性" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ description: 通过 C++ 应用程序查看和更新 PDF、Microsoft Excel 电子
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - 更新 PDF 元数据" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

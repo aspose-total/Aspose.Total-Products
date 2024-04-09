@@ -25,7 +25,7 @@ description: يمكنك تقليل الحجم عن طريق ضغط المستن�
 
 {{% blocks/products/pf/feature-page-code h3="كود C++ - ضغط مستندات Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -36,13 +36,13 @@ description: يمكنك تقليل الحجم عن طريق ضغط المستن�
 
 {{% blocks/products/pf/feature-page-code h3="كود C++ - ضغط العرض التقديمي Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="كود C++: ضغط مستندات PDF" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

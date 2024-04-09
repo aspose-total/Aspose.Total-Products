@@ -22,7 +22,7 @@ V aplikaci Microsoft Word umožňuje anotace uživatelům přidávat komentáře
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ - Přidejte komentáře do souboru aplikace Word" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Chcete-li anotovat prezentace PowerPoint pomocí Aspose.Total for C++, budete pr
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Odstranění komentářů v prezentacích Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, klíčová součást Aspose.Total, nabízí výkonná rozhraní API,
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Odstraňte textové anotace v souborech PDF" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

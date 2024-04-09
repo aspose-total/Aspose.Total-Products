@@ -21,7 +21,7 @@ Dokumentredigering av Microsoft Word-dokument med Aspose.Total for C++ ger en s√
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Redigera Microsoft Word-filer" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Dokumentredigering av PowerPoint-presentationer med Aspose.Total for C++ erbjude
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Redact Powerpoint-presentation" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Dokumentredigering av PDF-dokument med Aspose.Total for C++ erbjuder en p√•litli
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - PDF-redigering" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

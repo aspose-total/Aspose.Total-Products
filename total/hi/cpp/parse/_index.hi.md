@@ -21,7 +21,7 @@ Aspose.Total for C++ का उपयोग करके Word दस्ताव
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - माइक्रोसॉफ्ट वर्ड फ़ाइल को पार्स करें" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++ का उपयोग करके PowerPoint प्रस
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - माइक्रोसॉफ्ट पावरपॉइंट प्रेजेंटेशन को पार्स करें" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for C++ का उपयोग करके पीडीएफ द�
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - PDF फ़ाइल पार्स करें" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

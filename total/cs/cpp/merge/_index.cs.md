@@ -20,7 +20,7 @@ Slučování dokumentů Microsoft Word pomocí Aspose.Total for C++ zajišťuje 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Sloučit dokumenty Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Využití Aspose.Total for C++ pro slučování tabulek Microsoft Excel zjednodu
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Sloučit tabulky Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Sloučení dokumentů PDF pomocí Aspose.Total for C++ nabízí efektivní integ
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++: Sloučit dokumenty PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

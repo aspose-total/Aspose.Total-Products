@@ -21,7 +21,7 @@ Microsoft Office Word belgelerini, Excel elektronik tablolarını ve PowerPoint 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu: DOC DOCX Belgesini Böl" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Ayrıca, Word belgelerini ve PowerPoint sunumlarını Aspose.Total for C++ arac�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu: Bölünmüş PPT PPTX Sunumları" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++ kullanarak PDF belgelerini bölmek, büyük hacimli PDF dos
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu: PDF Belgesini Böl" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -20,7 +20,7 @@ Het samenvoegen van Microsoft Word-documenten met behulp van Aspose.Total for C+
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Word-documenten samenvoegen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Het gebruik van Aspose.Total for C++ voor het samenvoegen van Microsoft Excel-sp
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Voeg Microsoft Excel-spreadsheets samen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Het samenvoegen van PDF-documenten met behulp van Aspose.Total for C++ biedt een
 
 {{% blocks/products/pf/feature-page-code h3="C++-code: PDF-documenten samenvoegen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

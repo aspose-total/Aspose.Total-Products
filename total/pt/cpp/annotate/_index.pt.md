@@ -22,7 +22,7 @@ No Microsoft Word, a anotação permite aos usuários adicionar comentários, ra
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Adicionar comentários em arquivo Word" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Para fazer anotações em apresentações do PowerPoint usando Aspose.Total for 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Excluir comentários em apresentações do PowerPoint" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, um componente chave do Aspose.Total, oferece APIs poderosas que perm
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Excluir anotações de texto em arquivos PDF" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

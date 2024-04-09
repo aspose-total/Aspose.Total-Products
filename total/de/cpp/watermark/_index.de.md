@@ -22,7 +22,7 @@ Mit Aspose.Total for C++ und Aspose.PDF können Entwickler in C++-Anwendungen na
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code: PDF-Dokumente mit Wasserzeichen versehen" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ Aspose.Total for C++ ermöglicht das nahtlose Anbringen von Wasserzeichen in Mic
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code: Word-Dokumente mit Wasserzeichen versehen" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Ebenso erleichtert Aspose.Cells das Wasserzeichen von Microsoft Excel-Tabellen u
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code: Excel-Tabellen mit Wasserzeichen versehen" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

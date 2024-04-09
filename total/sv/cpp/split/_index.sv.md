@@ -21,7 +21,7 @@ Att dela upp Microsoft Office Word-dokument, Excel-kalkylblad och PowerPoint-pre
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod: Dela DOC DOCX-dokument" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Dessutom förbättrar uppdelning av Word-dokument och PowerPoint-presentationer 
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod: Split PPT PPTX-presentationer" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Dela PDF-dokument med Aspose.Total for C++ ger en pålitlig och effektiv lösnin
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod: Dela PDF-dokument" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

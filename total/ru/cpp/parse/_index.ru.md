@@ -21,7 +21,7 @@ description: Анализируйте презентации PDF, Microsoft Word
 
 {{% blocks/products/pf/feature-page-code h3="Код C++ — анализ файла Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: Анализируйте презентации PDF, Microsoft Word
 
 {{% blocks/products/pf/feature-page-code h3="Код C++ — анализ презентации Microsoft Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ description: Анализируйте презентации PDF, Microsoft Word
 
 {{% blocks/products/pf/feature-page-code h3="Код C++ — анализ PDF-файла" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

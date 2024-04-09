@@ -22,7 +22,7 @@ Microsoft Word では、注釈を使用して、ユーザーがコメントの�
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Word ファイルにコメントを追加" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Aspose.Total for C++ を使用して PowerPoint プレゼンテーションに�
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Powerpoint プレゼンテーションのコメントを削除する" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.Total の主要コンポーネントである Aspose.PDF は、開発者�
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - PDF ファイル内のテキスト注釈を削除する" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

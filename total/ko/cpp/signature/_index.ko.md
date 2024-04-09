@@ -21,7 +21,7 @@ Aspose.Total for C++을 사용하여 Word 파일에 디지털 서명을 추가�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Word 파일에 디지털 서명 추가" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++을 사용하여 PDF 문서에 디지털 서명을 추가하
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PDF 파일 전자 서명" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

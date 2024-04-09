@@ -22,7 +22,7 @@ Aspose.Total for C++ ile geliştiriciler, PDF dosyalarını sorunsuz bir şekild
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - PDF Belgesi Sayfalarını Döndür" %}}
 
-{{< gist "aspose-com-gists" "6e5eedf573fe38a5a63c476997127075" "rotate-pdf-pages.cpp" >}}
+{{< gist "aspose-com-gists" "72b27e10f5623331f1229101c580d94a" "rotate-pdf-pages.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

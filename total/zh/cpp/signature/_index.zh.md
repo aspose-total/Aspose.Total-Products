@@ -21,7 +21,7 @@ description: 通过 C++ 应用程序使用数字签名对 Microsoft Word、Excel
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - 向 Word 文件添加数字签名" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: 通过 C++ 应用程序使用数字签名对 Microsoft Word、Excel
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - 对 PDF 文件进行电子签名" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

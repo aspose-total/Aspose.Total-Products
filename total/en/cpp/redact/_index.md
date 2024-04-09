@@ -21,7 +21,7 @@ Document redaction of Microsoft Word documents using Aspose.Total for C++ provid
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Redact Microsoft Word Files" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Document redaction of PowerPoint presentations using Aspose.Total for C++ offers
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Redact Powerpoint Presentation" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Document redaction of PDF documents using Aspose.Total for C++ offers a reliable
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - PDF Redaction" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

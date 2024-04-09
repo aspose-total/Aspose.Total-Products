@@ -23,13 +23,13 @@ description: 通过 C++ 应用程序使用密码锁定 PDF、Microsoft Excel 电
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - Microsoft Word 文档保护" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - Microsoft Excel 电子表格保护" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ description: 通过 C++ 应用程序使用密码锁定 PDF、Microsoft Excel 电
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：安全 PDF 文件" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

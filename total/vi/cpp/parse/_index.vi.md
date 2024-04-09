@@ -21,7 +21,7 @@ Phân tích tài liệu Word bằng Aspose.Total for C++ có một số lợi th
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Phân tích tệp Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Phân tích cú pháp bản trình bày PowerPoint bằng Aspose.Total for C++ �
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Phân tích bản trình bày Microsoft Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Phân tích tài liệu PDF bằng Aspose.Total for C++ mang lại lợi ích đ
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Phân tích tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

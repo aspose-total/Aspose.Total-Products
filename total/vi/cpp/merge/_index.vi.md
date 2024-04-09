@@ -20,7 +20,7 @@ Việc hợp nhất các tài liệu Microsoft Word bằng Aspose.Total for C++ 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Hợp nhất tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Việc sử dụng Aspose.Total for C++ để hợp nhất các bảng tính Mic
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Hợp nhất bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Việc hợp nhất các tài liệu PDF bằng Aspose.Total for C++ mang đến
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Hợp nhất tài liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

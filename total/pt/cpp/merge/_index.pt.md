@@ -20,7 +20,7 @@ A mesclagem de documentos do Microsoft Word usando Aspose.Total for C++ garante 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Mesclar documentos do Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Utilizar o Aspose.Total for C++ para mesclar planilhas do Microsoft Excel agiliz
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Mesclar planilhas do Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ A mesclagem de documentos PDF usando Aspose.Total for C++ oferece integração s
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: mesclar documentos PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

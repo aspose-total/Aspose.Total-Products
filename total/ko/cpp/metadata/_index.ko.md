@@ -24,7 +24,7 @@ Aspose.Total for C++을 사용하여 Microsoft Excel 스프레드시트 메타�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Excel 스프레드시트 속성 추가" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Aspose.Total for C++을 사용하여 PDF 메타데이터를 관리하면 C++ 응
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PDF 메타데이터 업데이트" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

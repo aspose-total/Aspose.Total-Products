@@ -20,7 +20,7 @@ Merging Microsoft Word documents using Aspose.Total for C++ ensures seamless int
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Merge Microsoft Word Documents" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Utilizing Aspose.Total for C++ for merging Microsoft Excel spreadsheets streamli
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Merge Microsoft Excel Spreadsheets" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Merging PDF documents using Aspose.Total for C++ offers streamlined integration 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code: Merge PDF Documents" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

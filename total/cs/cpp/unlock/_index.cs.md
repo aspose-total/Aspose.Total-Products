@@ -21,13 +21,13 @@ Odemknutí dokumentů Microsoft Word a Excel pomocí Aspose.Total for C++ nabíz
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Odstraňte omezení heslem z dokumentu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Odstraňte heslo z tabulky Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -39,7 +39,7 @@ Odemknutí dokumentů PDF pomocí Aspose.Total for C++ nabízí spolehlivé ře�
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód - Odstraňte heslo ze souborů PDF" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

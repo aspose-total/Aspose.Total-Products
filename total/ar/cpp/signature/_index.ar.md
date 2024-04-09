@@ -21,7 +21,7 @@ description: استخدم التوقيع الرقمي لتوقيع الملفا�
 
 {{% blocks/products/pf/feature-page-code h3="كود C++ - إضافة التوقيع الرقمي إلى ملفات Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: استخدم التوقيع الرقمي لتوقيع الملفا�
 
 {{% blocks/products/pf/feature-page-code h3="كود C++ - التوقيع الإلكتروني على ملفات PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

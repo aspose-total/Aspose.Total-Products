@@ -21,7 +21,7 @@ Přidávání digitálních podpisů do souborů Word pomocí Aspose.Total for C
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ - Přidejte digitální podpis do souborů aplikace Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Přidávání digitálních podpisů do dokumentů PDF pomocí Aspose.Total for 
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – elektronické podepisování souborů PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

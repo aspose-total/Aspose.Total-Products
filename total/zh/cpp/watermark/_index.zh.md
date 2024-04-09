@@ -22,7 +22,7 @@ description: 通过 C++ 应用程序向文档（包括 Microsoft Word、Excel、
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：水印 PDF 文档" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ Aspose.Total for C++ 有助于 Microsoft Word 文档的无缝水印，为维护�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：水印 Word 文档" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++ 有助于 Microsoft Word 文档的无缝水印，为维护�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：为 Excel 电子表格添加水印" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

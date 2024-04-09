@@ -21,13 +21,13 @@ Desbloquear documentos de Microsoft Word y Excel usando Aspose.Total for C++ ofr
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: eliminar la restricción de contraseña del documento de Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: eliminar contraseña de la hoja de cálculo de Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -39,7 +39,7 @@ Desbloquear documentos PDF usando Aspose.Total for C++ ofrece una solución conf
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: eliminar contraseña de archivos PDF" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

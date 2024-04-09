@@ -22,7 +22,7 @@ description: 通过 C++ 应用程序旋转 PDF 和图像文件，包括 JPG PNG 
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - 旋转 PDF 文档页面" %}}
 
-{{< gist "aspose-com-gists" "6e5eedf573fe38a5a63c476997127075" "rotate-pdf-pages.cpp" >}}
+{{< gist "aspose-com-gists" "72b27e10f5623331f1229101c580d94a" "rotate-pdf-pages.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

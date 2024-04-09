@@ -20,7 +20,7 @@ Aspose.Total for C++ का उपयोग करके Microsoft Word दस�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - माइक्रोसॉफ्ट वर्ड दस्तावेज़ों को मर्ज करें" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Microsoft Excel स्प्रेडशीट को मर्ज करने 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - माइक्रोसॉफ्ट एक्सेल स्प्रैडशीट्स को मर्ज करें" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Aspose.Total for C++ का उपयोग करके PDF दस्ताव�
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड: PDF दस्तावेज़ मर्ज करें" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

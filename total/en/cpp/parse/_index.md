@@ -21,7 +21,7 @@ Parsing Word documents using Aspose.Total for C++ presents several advantages. F
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Parse Microsoft Word File" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Parsing PowerPoint presentations using Aspose.Total for C++ ensures seamless int
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Parse Microsoft Powerpoint Presentation" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Parsing PDF documents using Aspose.Total for C++ yields significant benefits. Wi
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Parse PDF File" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

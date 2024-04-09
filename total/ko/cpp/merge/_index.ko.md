@@ -20,7 +20,7 @@ Aspose.Total for C++을 사용하여 Microsoft Word 문서를 병합하면 병�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Word 문서 병합" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Microsoft Excel 스프레드시트 병합에 Aspose.Total for C++을 활용하�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Excel 스프레드시트 병합" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Aspose.Total for C++을 사용하여 PDF 문서를 병합하면 C++ 응용 프�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: PDF 문서 병합" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

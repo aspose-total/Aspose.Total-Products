@@ -23,13 +23,13 @@ Bovendien zorgt Aspose.Total for C++ voor hoge prestaties en efficiëntie bij do
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Microsoft Word-documentbeveiliging" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++-code - Beveiliging van Microsoft Excel-spreadsheets" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Het beveiligen van PDF-documenten met Aspose.Total for C++ zorgt voor een effici
 
 {{% blocks/products/pf/feature-page-code h3="C++-code: beveiligde PDF-bestanden" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -20,7 +20,7 @@ A Microsoft Word dokumentumok Aspose.Total for C++ használatával történő eg
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Egyesítse a Microsoft Word dokumentumokat" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ A Aspose.Total for C++ használata a Microsoft Excel táblázatok egyesítésér
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Egyesítse a Microsoft Excel-táblázatokat" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ A PDF-dokumentumok Aspose.Total for C++ használatával történő egyesítése 
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód: PDF dokumentumok egyesítése" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

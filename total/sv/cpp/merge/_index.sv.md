@@ -20,7 +20,7 @@ Sammanfogning av Microsoft Word-dokument med Aspose.Total for C++ säkerställer
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Slå samman Microsoft Word-dokument" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Att använda Aspose.Total for C++ för att slå samman Microsoft Excel-kalkylbla
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Slå samman Microsoft Excel-kalkylblad" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Sammanfogning av PDF-dokument med Aspose.Total for C++ ger strömlinjeformad int
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod: Slå samman PDF-dokument" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

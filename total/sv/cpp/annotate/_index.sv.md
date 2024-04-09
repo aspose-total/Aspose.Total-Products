@@ -22,7 +22,7 @@ I Microsoft Word tillåter anteckningar användare att lägga till kommentarer, 
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Lägg till kommentarer i Word-fil" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ För att kommentera PowerPoint-presentationer med Aspose.Total for C++ använder
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Ta bort kommentarer i Powerpoint-presentationer" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, en nyckelkomponent i Aspose.Total, erbjuder kraftfulla API:er som g�
 
 {{% blocks/products/pf/feature-page-code h3="C++-kod - Ta bort textkommentarer i PDF-filer" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

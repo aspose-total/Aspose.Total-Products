@@ -22,7 +22,7 @@ Trong Microsoft Word, chú thích cho phép người dùng thêm nhận xét, th
 
 {{% blocks/products/pf/feature-page-code h3="Code C++ - Thêm chú thích vào file Word" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ Trong Microsoft PowerPoint, chú thích cho phép người thuyết trình thêm
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Xóa nhận xét trong bài thuyết trình Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF, một thành phần chính của Aspose.Total, cung cấp các API m
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Xóa chú thích văn bản trong tệp PDF" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

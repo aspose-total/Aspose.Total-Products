@@ -21,7 +21,7 @@ Aspose.Total for C++을 사용하여 Word 문서를 구문 분석하면 몇 가�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Word 파일 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++을 사용하여 PowerPoint 프레젠테이션을 구문 분
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft PowerPoint 프레젠테이션 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Aspose.Total for C++을 사용하여 PDF 문서를 구문 분석하면 상당한
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PDF 파일 구문 분석" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

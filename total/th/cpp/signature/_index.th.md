@@ -21,7 +21,7 @@ description: ใช้ลายเซ็นดิจิทัลเพื่อ�
 
 {{% blocks/products/pf/feature-page-code h3="รหัส C++ - เพิ่มลายเซ็นดิจิทัลลงในไฟล์ Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: ใช้ลายเซ็นดิจิทัลเพื่อ�
 
 {{% blocks/products/pf/feature-page-code h3="รหัส C++ - ไฟล์ PDF การลงนามอิเล็กทรอนิกส์" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

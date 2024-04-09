@@ -21,7 +21,7 @@ description: Сравнивайте файлы PDF, Microsoft Word, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Код C++ — сравнение документов Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Aspose.Total for C++ предоставляет разработчикам на�
 
 {{% blocks/products/pf/feature-page-code h3="Код C++: сравнение PDF-файлов" %}}
 
-{{< gist "aspose-com-gists" "6fb94a4c353372a5ee9d6482c53bc4b2" "compare-powerpoint-presentation-slides.cpp" >}}
+{{< gist "aspose-com-gists" "8f7e61e56e6b4b9a346bbe846cf687a4" "compare-powerpoint-presentation-slides.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

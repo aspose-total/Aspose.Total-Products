@@ -21,7 +21,7 @@ description: Χρησιμοποιήστε ψηφιακή υπογραφή για
 
 {{% blocks/products/pf/feature-page-code h3="Κωδικός C++ - Προσθήκη ψηφιακής υπογραφής σε αρχεία Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ description: Χρησιμοποιήστε ψηφιακή υπογραφή για
 
 {{% blocks/products/pf/feature-page-code h3="Κώδικας C++ - eSigning αρχείων PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

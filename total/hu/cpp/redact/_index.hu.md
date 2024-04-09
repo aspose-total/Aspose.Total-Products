@@ -21,7 +21,7 @@ A Microsoft Word dokumentumok Aspose.Total for C++ segítségével történő sz
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Microsoft Word fájlok szerkesztése" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ A PowerPoint-prezentációk dokumentumszerkesztése a Aspose.Total for C++ haszn
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Powerpoint bemutató szerkesztése" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ A PDF dokumentumok Aspose.Total for C++ segítségével történő szerkesztése
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – PDF szerkesztés" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

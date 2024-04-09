@@ -21,7 +21,7 @@ Việc biên tập tài liệu Microsoft Word bằng Aspose.Total for C++ cung c
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Sắp xếp lại các tệp Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Biên tập tài liệu của bản trình bày PowerPoint bằng Aspose.Total f
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Biên tập lại bản trình bày Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Biên tập tài liệu PDF bằng Aspose.Total for C++ cung cấp giải pháp 
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Biên tập PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

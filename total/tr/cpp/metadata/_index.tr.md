@@ -24,7 +24,7 @@ Ek olarak Aspose.Total for C++, meta veri yönetimi için özelleştirilebilir s
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - Microsoft Excel Elektronik Tablo Özelliklerini Ekleme" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Aspose.Total for C++'i kullanarak PDF meta verilerini yönetmek, C++ uygulamalar
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - PDF Meta Verilerini Güncelleme" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

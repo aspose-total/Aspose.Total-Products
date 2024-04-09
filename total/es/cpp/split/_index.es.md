@@ -21,7 +21,7 @@ Dividir documentos de Microsoft Office Word, hojas de cálculo de Excel y presen
 
 {{% blocks/products/pf/feature-page-code h3="Código C ++: documento DOC DOCX dividido" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Además, dividir documentos de Word y presentaciones de PowerPoint a través de 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: presentaciones PPT PPTX divididas" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Dividir documentos PDF con Aspose.Total for C++ proporciona una solución confia
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: dividir documento PDF" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

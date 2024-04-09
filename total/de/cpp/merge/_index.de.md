@@ -20,7 +20,7 @@ Das Zusammenführen von Microsoft Word-Dokumenten mithilfe von Aspose.Total for 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Führen Sie Microsoft Word-Dokumente zusammen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Die Verwendung von Aspose.Total for C++ zum Zusammenführen von Microsoft Excel-
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Führen Sie Microsoft Excel-Tabellen zusammen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Das Zusammenführen von PDF-Dokumenten mit Aspose.Total for C++ bietet eine opti
 
 {{% blocks/products/pf/feature-page-code h3="C++-Code: PDF-Dokumente zusammenführen" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

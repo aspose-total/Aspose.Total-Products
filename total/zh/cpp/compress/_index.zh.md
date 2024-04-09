@@ -25,7 +25,7 @@ description: 通过 C++ 应用程序压缩 Microsoft Word、Excel、PowerPoint�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - Microsoft Word 文档压缩" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -36,13 +36,13 @@ Aspose.Total for C++ 为 Microsoft Powerpoint 演示文稿和 PDF 文档提供�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码 - Powerpoint 演示文稿压缩" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：压缩 PDF 文档" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

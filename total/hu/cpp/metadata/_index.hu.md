@@ -24,7 +24,7 @@ Ezenkívül a Aspose.Total for C++ testreszabható lehetőségeket biztosít a m
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Adja hozzá a Microsoft Excel-táblázat tulajdonságait" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ A PDF-metaadatok Aspose.Total for C++ használatával történő kezelése zökk
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Frissítse a PDF metaadatokat" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

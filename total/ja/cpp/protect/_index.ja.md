@@ -23,13 +23,13 @@ Aspose.Total for C++ を使用して Microsoft Word および Excel スプレッ
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Microsoft Word ドキュメント保護" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Microsoft Excel スプレッドシートの保護" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++ を使用して PDF ドキュメントを保護すると、
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード: 安全な PDF ファイル" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

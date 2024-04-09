@@ -20,7 +20,7 @@ La combinación de documentos de Microsoft Word utilizando Aspose.Total for C++ 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Fusionar documentos de Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ La utilización de Aspose.Total for C++ para fusionar hojas de cálculo de Micro
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Fusionar hojas de cálculo de Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ La combinación de documentos PDF utilizando Aspose.Total for C++ ofrece una int
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: fusionar documentos PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

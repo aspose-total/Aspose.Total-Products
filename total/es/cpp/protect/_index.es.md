@@ -23,13 +23,13 @@ Además, Aspose.Total for C++ garantiza un alto rendimiento y eficiencia en las 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: protección de documentos de Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: protección de hojas de cálculo de Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ La protección de documentos PDF con Aspose.Total for C++ garantiza una protecci
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: archivos PDF seguros" %}}
 
-{{< gist "aspose-com-gists" "d3a0efdfb46b1cd6e0de04814b6478eb" "protect-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "af37e2fa2833cfac604c270a03aa62fa" "protect-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

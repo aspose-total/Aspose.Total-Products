@@ -24,7 +24,7 @@ Ngoài ra, Aspose.Total for C++ cung cấp các tùy chọn có thể tùy chỉ
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Thêm thuộc tính bảng tính Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Quản lý siêu dữ liệu PDF bằng Aspose.Total for C++ đảm bảo tích 
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Cập nhật siêu dữ liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -21,7 +21,7 @@ Aspose.Total for C++ kullanarak Microsoft Word belgelerinin belge redaksiyonu, h
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - Microsoft Word Dosyalarını Düzenleyin" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++ kullanarak PowerPoint sunumlarının belge redaksiyonu, has
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - Powerpoint Sunumunu Redakte Etme" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Aspose.Total for C++ kullanarak PDF belgelerinin belge redaksiyonu, hassas bilgi
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kodu - PDF Redaksiyonu" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

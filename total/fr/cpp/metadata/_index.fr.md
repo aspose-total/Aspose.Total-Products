@@ -24,7 +24,7 @@ De plus, Aspose.Total for C++ fournit des options personnalisables pour la gesti
 
 {{% blocks/products/pf/feature-page-code h3="Code C++ - Ajouter des propriétés de feuille de calcul Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ La gestion des métadonnées PDF à l'aide de Aspose.Total for C++ garantit une 
 
 {{% blocks/products/pf/feature-page-code h3="Code C++ - Mettre à jour les métadonnées PDF" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

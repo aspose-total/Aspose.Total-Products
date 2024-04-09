@@ -25,7 +25,7 @@ Sử dụng Aspose.Total for C++ để nén tài liệu Microsoft Word mang lạ
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Nén tài liệu Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -36,13 +36,13 @@ Aspose.Total for C++ cung cấp các giải pháp nén chính xác cho cả bả
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++ - Nén bản trình bày Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="Mã C++: Nén tài liệu PDF" %}}
 
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "dad723d27acf39af8b8b3723420b9114" "compress-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

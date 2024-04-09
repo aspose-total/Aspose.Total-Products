@@ -21,13 +21,13 @@ Aspose.Total for C++을 사용하여 Microsoft Word 및 Excel 문서를 잠금 �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Word 문서에서 비밀번호 제한 제거" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Excel 스프레드시트에서 비밀번호 제거" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -39,7 +39,7 @@ Aspose.Total for C++을 사용하여 PDF 문서를 잠금 해제하면 제한 �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PDF 파일에서 비밀번호 제거" %}}
 
-{{< gist "aspose-com-gists" "a5f6deeb0f825bbb2a2c921be72e3c9f" "unlock-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "d3a615066ee2faa7d9743c40a5f6821a" "unlock-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

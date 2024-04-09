@@ -24,7 +24,7 @@ Aspose.Total for C++ का उपयोग करके Microsoft Excel स्�
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - Microsoft Excel स्प्रेडशीट गुण जोड़ें" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Aspose.Total for C++ का उपयोग करके पीडीएफ म�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - पीडीएफ मेटाडेटा अपडेट करें" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

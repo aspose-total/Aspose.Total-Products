@@ -21,7 +21,7 @@ A redação de documentos do Microsoft Word usando Aspose.Total for C++ fornece 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Redigir arquivos do Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ A redação de documentos de apresentações em PowerPoint usando Aspose.Total f
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Redigir apresentação em PowerPoint" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ A redação de documentos PDF usando Aspose.Total for C++ oferece uma solução 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Redação de PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

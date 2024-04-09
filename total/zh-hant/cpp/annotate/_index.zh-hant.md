@@ -22,7 +22,7 @@ description: 透過 C++ 應用程式對 Microsoft Word、Excel、PowerPoint 簡�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - 在 Word 文件中加入註釋" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ description: 透過 C++ 應用程式對 Microsoft Word、Excel、PowerPoint 簡�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - 刪除 Powerpoint 簡報中的註釋" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Aspose.PDF 是 Aspose.Total 的關鍵元件，提供強大的 API，使開發人
 
 {{% blocks/products/pf/feature-page-code h3="C++ 程式碼 - 刪除 PDF 檔案中的文字註釋" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

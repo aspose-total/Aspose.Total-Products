@@ -21,7 +21,7 @@ Parsing dokumen Word menggunakan Aspose.Total for C++ menghadirkan beberapa keun
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Parsing File Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-word-document-by-extracting-images.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-word-document-by-extracting-images.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Mengurai presentasi PowerPoint menggunakan Aspose.Total for C++ memastikan integ
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Parsing Presentasi Microsoft Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-powerpoint-presentation-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -45,7 +45,7 @@ Mengurai dokumen PDF menggunakan Aspose.Total for C++ menghasilkan manfaat yang 
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Parsing File PDF" %}}
 
-{{< gist "aspose-com-gists" "56e34ac75fba2313ae00be996cc53d39" "parse-pdf-document-by-extracting-text.cpp" >}}
+{{< gist "aspose-com-gists" "0916cd11f2eb51ded9c1c14a8a1a3f68" "parse-pdf-document-by-extracting-text.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -21,7 +21,7 @@ Aspose.Total for C++을 사용한 Microsoft Word 문서의 문서 편집은 민�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - Microsoft Word 파일 수정" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++을 사용한 PowerPoint 프레젠테이션의 문서 편집
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PowerPoint 프레젠테이션 수정" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Aspose.Total for C++을 사용한 PDF 문서의 문서 편집은 민감한 정�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드 - PDF 편집" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

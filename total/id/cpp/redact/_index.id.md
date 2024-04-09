@@ -21,7 +21,7 @@ Redaksi dokumen dokumen Microsoft Word menggunakan Aspose.Total for C++ memberik
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Redaksi File Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Redaksi dokumen presentasi PowerPoint menggunakan Aspose.Total for C++ menawarka
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Redaksi Presentasi Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Redaksi dokumen dokumen PDF menggunakan Aspose.Total for C++ menawarkan solusi y
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++ - Redaksi PDF" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

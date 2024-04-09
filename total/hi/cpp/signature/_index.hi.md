@@ -21,7 +21,7 @@ Aspose.Total for C++ का उपयोग करके Word फ़ाइलो
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - वर्ड फ़ाइलों में डिजिटल हस्ताक्षर जोड़ें" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++ का उपयोग करके पीडीएफ द�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - पीडीएफ फाइलों पर ई-हस्ताक्षर करना" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

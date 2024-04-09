@@ -22,7 +22,7 @@ Com o Aspose.Total for C++, os desenvolvedores podem girar arquivos PDF perfeita
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Girar páginas de documentos PDF" %}}
 
-{{< gist "aspose-com-gists" "6e5eedf573fe38a5a63c476997127075" "rotate-pdf-pages.cpp" >}}
+{{< gist "aspose-com-gists" "72b27e10f5623331f1229101c580d94a" "rotate-pdf-pages.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

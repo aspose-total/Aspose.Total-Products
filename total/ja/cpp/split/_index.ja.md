@@ -21,7 +21,7 @@ Aspose.Total for C++ を使用して Microsoft Office Word ドキュメント、
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード: 分割 DOC DOCX ドキュメント" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -29,7 +29,7 @@ Aspose.Total for C++ を使用して Microsoft Office Word ドキュメント、
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード: PPT PPTX プレゼンテーションを分割する" %}}
 
-{{< gist "aspose-com-gists" "e100eb12855796c52c407ac2fa23eb10" "split-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++ を使用して PDF ドキュメントを分割すると、
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード: PDF ドキュメントを分割する" %}}
 
-{{< gist "aspose-com-gists" "3b6d15a45dcf974c4ad761007e8a392e" "split-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "c4768b5ae8ee12c9e60af0545babca2c" "split-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

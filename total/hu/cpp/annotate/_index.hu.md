@@ -22,7 +22,7 @@ A Microsoft Word programban a megjegyzések segítségével a felhasználók meg
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Megjegyzések hozzáadása a Word fájlhoz" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ A PowerPoint-prezentációk Aspose.Total for C++ használatával történő komm
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód – Megjegyzések törlése a Powerpoint-bemutatókban" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ Az Aspose.PDF, az Aspose.Total kulcsfontosságú összetevője, hatékony API-ka
 
 {{% blocks/products/pf/feature-page-code h3="C++ kód - Szöveges megjegyzések törlése PDF-fájlokban" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -20,7 +20,7 @@ Menggabungkan dokumen Microsoft Word menggunakan Aspose.Total for C++ memastikan
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Gabungkan Dokumen Microsoft Word" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ Memanfaatkan Aspose.Total for C++ untuk menggabungkan spreadsheet Microsoft Exce
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - Gabungkan Spreadsheet Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ Menggabungkan dokumen PDF menggunakan Aspose.Total for C++ menawarkan integrasi 
 
 {{% blocks/products/pf/feature-page-code h3="Kode C++: Menggabungkan Dokumen PDF" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

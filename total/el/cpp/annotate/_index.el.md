@@ -22,7 +22,7 @@ description: Σημειώστε αρχεία Microsoft Word, Excel, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Κωδικός C++ - Προσθήκη σχολίων στο αρχείο Word" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "word-document-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "word-document-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -36,7 +36,7 @@ description: Σημειώστε αρχεία Microsoft Word, Excel, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Κωδικός C++ - Διαγραφή σχολίων σε παρουσιάσεις Powerpoint" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-powerpoint-presentation-annotations.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-powerpoint-presentation-annotations.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -50,7 +50,7 @@ description: Σημειώστε αρχεία Microsoft Word, Excel, PowerPoint �
 
 {{% blocks/products/pf/feature-page-code h3="Κώδικας C++ - Διαγραφή σχολιασμών κειμένου σε αρχεία PDF" %}}
 
-{{< gist "aspose-com-gists" "8705a5d67f7352e82188cb2dbe511bc6" "delete-pdf-text-annotation.cpp" >}}
+{{< gist "aspose-com-gists" "5449a615aff20a8e0cdcf09b94d2989c" "delete-pdf-text-annotation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

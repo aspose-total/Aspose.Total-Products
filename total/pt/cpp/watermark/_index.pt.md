@@ -22,7 +22,7 @@ Com o Aspose.Total for C++, incorporando o Aspose.PDF, os desenvolvedores podem 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: Marca d'água em documentos PDF" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ O Aspose.Total for C++ facilita a marcação contínua de marcas d'água em docu
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: Marca d'água em documentos do Word" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Da mesma forma, Aspose.Cells facilita a marca d'água de planilhas do Microsoft 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++: Marca d'água em planilhas do Excel" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

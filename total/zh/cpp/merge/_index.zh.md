@@ -20,7 +20,7 @@ description: 通过 C++ 应用程序合并两个或多个单独的文档，包�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - 合并 Microsoft Word 文档" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-word-files.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-word-files.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -32,7 +32,7 @@ description: 通过 C++ 应用程序合并两个或多个单独的文档，包�
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code - 合并 Microsoft Excel 电子表格" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-excel-spreadsheets.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-excel-spreadsheets.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -44,7 +44,7 @@ description: 通过 C++ 应用程序合并两个或多个单独的文档，包�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 代码：合并 PDF 文档" %}}
 
-{{< gist "aspose-com-gists" "ba4df08796adb116fb976a4b431f667c" "merge-pdf-documents.cpp" >}}
+{{< gist "aspose-com-gists" "094540b0080ca6b0dc55f822307200d6" "merge-pdf-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

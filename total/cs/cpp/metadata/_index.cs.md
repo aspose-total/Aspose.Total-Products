@@ -24,7 +24,7 @@ Aspose.Total for C++ navíc poskytuje přizpůsobitelné možnosti pro správu m
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Přidejte vlastnosti tabulky Microsoft Excel" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "excel-spreadsheet-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "excel-spreadsheet-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -37,7 +37,7 @@ Správa metadat PDF pomocí Aspose.Total for C++ zajišťuje bezproblémovou int
 
 {{% blocks/products/pf/feature-page-code h3="Kód C++ – Aktualizujte metadata PDF" %}}
 
-{{< gist "aspose-com-gists" "dfa68311c339cd509776b99f1d642013" "pdf-document-metadata.cpp" >}}
+{{< gist "aspose-com-gists" "39b3d5265e578dcbb9ae5a707faa69e8" "pdf-document-metadata.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

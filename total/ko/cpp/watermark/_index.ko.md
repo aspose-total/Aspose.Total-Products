@@ -22,7 +22,7 @@ Aspose.PDF를 통합한 Aspose.Total for C++을 사용하면 개발자는 C++ �
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: 워터마크 PDF 문서" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ Aspose.Total for C++은 Microsoft Word 문서의 원활한 워터마킹을 촉�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: 워터마크 Word 문서" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++은 Microsoft Word 문서의 원활한 워터마킹을 촉�
 
 {{% blocks/products/pf/feature-page-code h3="C++ 코드: Excel 스프레드시트 워터마킹" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

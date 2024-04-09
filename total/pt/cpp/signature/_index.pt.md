@@ -21,7 +21,7 @@ Adicionar assinaturas digitais a arquivos Word usando Aspose.Total for C++ forne
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Adicionar assinatura digital a arquivos do Word" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-word-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-word-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Adicionar assinaturas digitais a documentos PDF usando Aspose.Total for C++ ofer
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ - Assinatura eletrônica de arquivos PDF" %}}
 
-{{< gist "aspose-com-gists" "cae6b5ad09161ce61647c5b8dfffbeef" "sign-pdf-document-digitally.cpp" >}}
+{{< gist "aspose-com-gists" "5e26a902e3bb938417ef4c15d0ce272d" "sign-pdf-document-digitally.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

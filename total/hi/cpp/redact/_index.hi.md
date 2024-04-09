@@ -21,7 +21,7 @@ Aspose.Total for C++ का उपयोग करके माइक्रो�
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड - माइक्रोसॉफ्ट वर्ड फ़ाइलें संपादित करें" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++ का उपयोग करके PowerPoint प्रस
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - रिएक्ट पावरपॉइंट प्रेजेंटेशन" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Aspose.Total for C++ का उपयोग करके PDF दस्ताव�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड - पीडीएफ रिडक्शन" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

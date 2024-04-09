@@ -21,7 +21,7 @@ Aspose.Total for C++ を使用した Microsoft Word 文書の文書編集は、�
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Microsoft Word ファイルを編集する" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-word-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-word-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -33,7 +33,7 @@ Aspose.Total for C++ を使用した PowerPoint プレゼンテーションの�
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - Powerpoint プレゼンテーションを編集する" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-powerpoint-presentation.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-powerpoint-presentation.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -46,7 +46,7 @@ Aspose.Total for C++ を使用した PDF 文書の文書編集は、機密情報
 
 {{% blocks/products/pf/feature-page-code h3="C++ コード - PDF 編集" %}}
 
-{{< gist "aspose-com-gists" "9dce4f38447767675dcc1a2795a59b2e" "redact-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "59616ee9f77ad3a6af9f7fd89d88140d" "redact-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

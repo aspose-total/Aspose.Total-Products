@@ -22,7 +22,7 @@ Aspose.Total for C++ के साथ, Aspose.PDF को शामिल कर�
 
 {{% blocks/products/pf/feature-page-code h3="सी++ कोड: वॉटरमार्क पीडीएफ दस्तावेज़" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "watermark-pdf-document.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "watermark-pdf-document.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -33,7 +33,7 @@ Aspose.Total for C++ माइक्रोसॉफ्ट वर्ड दस्
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड: वॉटरमार्क वर्ड दस्तावेज़" %}}
 
-{{< gist "aspose-com-gists" "cecbed9c9305a305ce3a43a933b1e3b5" "add-watermark-in-word-documents.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-word-documents.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -41,7 +41,7 @@ Aspose.Total for C++ माइक्रोसॉफ्ट वर्ड दस्
 
 {{% blocks/products/pf/feature-page-code h3="C++ कोड: वॉटरमार्किंग एक्सेल स्प्रेडशीट" %}}
 
-{{< gist "aspose-com-gists" "92fce9ded784de01a7b6ea77e45334f4" "add-watermark-in-excel-spreadsheet.cpp" >}}
+{{< gist "aspose-com-gists" "1e1c808779007fedea159fd828a7d127" "add-watermark-in-excel-spreadsheet.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
