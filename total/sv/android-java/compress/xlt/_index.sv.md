@@ -1,0 +1,77 @@
+---
+title: Komprimera XLT-filer online eller med Android-mobilappar
+description: Gratis onlineapp för att komprimera olika XLT-filer.Android komprimeringsbibliotek Java-kod för XLT-dokument.
+
+family: total
+platformtag: Android
+feature: Compress
+informat: XLT
+otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV ODS Powerpoint PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Komprimera XLT-fil online eller med Android-appen" h2="Utveckla kraftfulla androidbaserade XLT-dokumentkomprimeringsapplikationer.Komprimera fritt olika dokument inklusive XLT-filer online via app med omedelbar nedladdning." >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Komprimera och optimera XLT-filer online" %}}
+
+1. Ladda upp XLT-filer för att komprimera och optimera.
+1. Välj komprimeringsnivå (låg, medium eller hög)
+1. Klicka på knappen "Komprimera".
+1. Ladda ner den komprimerade XLT-filen.
+1. Se och få resultatet av komprimeringen genom att kontrollera dess storlek och innehållskvalitet.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Komprimera XLT-fil via Android-appen" %}}
+
+1. Lägg till referens i ditt Java-projekt
+1. Ladda dokumentet via Workbook-klassen
+1. Det finns 9 nivåer av kompression
+1. LEVEL_1 till LEVEL_9, använd den relevanta
+1. Ring sparmetoden och hämta den komprimerade XLT-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Java-kod: Komprimera XLT-filer" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "01f794a507ca05200bee646f23c665b1" "excel-worksheet-compression.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Utveckla XLT filkomprimeringsapplikation för Android</h2>
+
+Behöver du utveckla Android-skript eller verktygsapp för att enkelt komprimera flera XLT-filer?Med [Aspose.Cells for Android via Java](https://products.aspose.com/cells/sv/android-java/), barn-API av [Aspose.Total for Android via Java](https://products.aspose.com/total/sv/android-java/), kan vilken Android-utvecklare som helst integrera ovanstående API-kod för att programmera komprimeringsapp över dokument.Kraftfullt Android-bibliotek för dokumentkomprimering stöder många populära format inklusive XLT-format.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android Compression Library för XLT-filer" %}}
+
+- Vi är värd för våra Java-paket i [Maven-förråd](https://releases.aspose.com/java/repo/com/aspose/aspose-cells/). 
+- Aspose.Cells for Java är en vanlig JAR-fil som innehåller byte-kod.
+- Följ [steg för steg instruktioner](https://docs.aspose.com/cells/java/installation/#install-aspose-cells-for-java-from-maven-repository) om hur du installerar Aspose.Cells for Android via Java.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
+
+- Android OS 2.0 eller senare.
+- Java-paketet är plattformsoberoende och körs på alla operativsystem med JVM-implementering.
+
+<br />
+För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/java/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

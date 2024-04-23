@@ -1,0 +1,81 @@
+---
+title: Onderteken het PPT-bestand digitaal online of met behulp van mobiele Android-apps
+description: Gratis online app voor digitale handtekening in PPT-presentatie.Ontwikkel een Android-applicatie om PPT-presentaties elektronisch te ondertekenen. 
+
+family: total
+platformtag: Android
+feature: Signature
+informat: PPT
+otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP Excel XLS XLSX ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="Onderteken het PPT-bestand digitaal online of gebruik de Android-app" h2="Ontwikkel krachtige Android-gebaseerde PPT-applicaties voor het ondertekenen van documenten.Voeg gratis digitale handtekeningen toe aan verschillende documenten, waaronder PPT-bestanden, online via de app met onmiddellijke download." >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Voeg online een digitale handtekening toe aan PPT-bestanden" %}}
+
+1. Upload PPT-bestanden om digitaal te ondertekenen
+1. Voeg tekst toe voor handtekening of upload handtekeningafbeelding
+1. Klik op de knop "Ondertekenen".
+1. Download het ondertekende PPT-bestand
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Onderteken het PPT-bestand digitaal via de Android-app" %}}
+
+1. Voeg Java-bibliotheekreferentie toe aan uw project
+1. Maak een Presentation-klasseobject
+1. Maak een DigitalSignature-object met PFX-bestand en wachtwoord als parameters
+1. Commentaar nieuwe digitale handtekening
+1. Voeg digitale handtekening toe met getDigitalSignatures().add(signatureObj)
+1. PPT-bestand opslaan
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Java-code: digitale handtekening toevoegen aan PPT-bestanden" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "dfee7ff74de7a59021c6ebe710e99f9b" "sign-powerpoint-presentation-digitally.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>Ontwikkel een eSignature-applicatie met Android</h2>
+
+Moet u een Android-script of een hulpprogramma ontwikkelen om eenvoudig meerdere PPT-bestanden elektronisch te ondertekenen?Met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/nl/android-java/), de onderliggende API van [Aspose.Total for Android via Java](https://products.aspose.com/total/nl/android-java/), kan elke Android-ontwikkelaar de bovenstaande API-code integreren om de e-Signing-app te programmeren voor handtekeningen in documenten.Krachtige Android-bibliotheek voor het ondertekenen van documenten, ondersteunt vele populaire formaten, waaronder het PPT-formaat.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPT bibliotheek met e-handtekeningen voor Android-apps" %}}
+
+- Wij hosten onze Java-pakketten in [Maven-opslagplaatsen](https://releases.aspose.com/java/repo/com/aspose/aspose-slides/). 
+- Aspose.Slides for Java is een veelgebruikt JAR-bestand dat bytecode bevat.
+- Volg [stap voor stap instructies](https://docs.aspose.com/slides/java/installation/#install-aspose-slides-for-java-from-maven-repository) voor het installeren van Aspose.Slides for Android via Java.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
+
+- J2SE 6.0 (Java 1.6) en hoger
+- Het Java-pakket is platformonafhankelijk en draait op alle besturingssystemen met JVM-implementatie.
+
+<br />
+Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/slides/java/system-requirements/).
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

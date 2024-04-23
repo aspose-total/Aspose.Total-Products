@@ -1,0 +1,77 @@
+---
+title: 在线压缩 XLTM 文件或使用 Android 移动应用程序压缩 XLTM 文件
+description: 免费在线应用程序来压缩不同的 XLTM 文件。Android 针对 XLTM 文档的压缩库 Java 代码。
+
+family: total
+platformtag: Android
+feature: Compress
+informat: XLTM
+otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV ODS Powerpoint PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="在线压缩 XLTM 文件或使用 Android 应用程序" h2="开发功能强大的基于android的XLTM文档压缩应用程序。通过应用程序在线自由压缩各种文档，包括 XLTM 文件并即时下载。" >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="在线压缩和优化XLTM文件" %}}
+
+1. 上传XLTM文件进行压缩和优化。
+1. 选择压缩级别（低、中或高）
+1. 单击“压缩”按钮。
+1. 下载压缩的XLTM文件。
+1. 查看压缩结果，检查其大小和内容质量。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="通过Android应用程序压缩XLTM文件" %}}
+
+1. 将引用添加到您的 Java 项目
+1. 通过 Workbook 类加载文档
+1. 有 9 个压缩级别
+1. LEVEL_1 到 LEVEL_9，使用相应的
+1. 调用save方法，获取压缩的XLTM文件
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Java 代码：压缩 XLTM 文件" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "01f794a507ca05200bee646f23c665b1" "excel-worksheet-compression.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>为 Android 开发 XLTM 文件压缩应用程序</h2>
+
+需要开发 android 脚本或实用程序应用程序来轻松压缩多个 XLTM 文件吗？借助 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/zh/android-java/)（[Aspose.Total for Android via Java](https://products.aspose.com/total/zh/android-java/) 的子 API），任何 Android 开发人员都可以集成上述 API 代码来编写跨文档压缩应用程序。强大的 Android 文档压缩库支持许多流行格式，包括 XLTM 格式。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android 压缩 XLTM 文件的库" %}}
+
+- 我们在 [Maven 存储库](https://releases.aspose.com/java/repo/com/aspose/aspose-cells/) 中托管我们的 Java 包. 
+- Aspose.Cells for Java 是一个包含字节码的常见 JAR 文件。
+- 按照 [逐步说明](https://docs.aspose.com/cells/java/installation/#install-aspose-cells-for-java-from-maven-repository) 了解如何安装 Aspose.Cells for Android via Java。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
+
+- Android OS 2.0或以上。
+- Java 包是跨平台的，可以在所有具有 JVM 实现的操作系统上运行。
+
+<br />
+更多详细信息请参阅[产品文档](https://docs.aspose.com/cells/java/system-requirements/)。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
