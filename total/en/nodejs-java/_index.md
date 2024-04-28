@@ -1,6 +1,6 @@
 ---
 title: Node.js API for Excel Documents, Visio Files and Barcode Processing
-weight: 50
+
 description: Process Excel Spreadsheets and Visio Documents via Node.js API. Utilize Nodejs to recognize and generate 1D, 2D and Postal Barcodes.
 ---
 
@@ -31,6 +31,10 @@ A customizable Node.js barcode generator and scanner API to process common 1D, 2
 
 {{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="/total/images/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
 Node.js Visio API to process and export Microsoft Visio formats including VSDX, VDX, VSX, VTX and more. Developers can easily load, read, write, protect, export and print native Visio formats as well as update the diagram elements to export into desired format including images or fixed-layout formats like  XPS or PDF.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/nodejs-java/" imgSrc="/3d/aspose_3d-for-nodejs-java.svg" productName="Aspose.3D for Node.js via Java">}}
+Node.js API to create, read, convert, modify and control the substance of 3D document formats including Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats. A standalone API without relying on any external modeling & rendering software.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
