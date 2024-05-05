@@ -1,0 +1,79 @@
+---
+title: PPT ファイルをオンラインまたは Android モバイル アプリを使用して分割する
+description: さまざまな PPT ファイルを分割する無料のオンライン アプリ。PPT ドキュメント用の Android スプリッター ライブラリ Java コード。 
+
+family: total
+platformtag: Android
+feature: Split
+informat: PPT
+otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel XLS XLSX ODS
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="PPT ファイルをオンラインまたは Android アプリを使用して分割する" h2="強力な Android ベースの PPT ドキュメント スプリッター アプリケーションを開発します。アプリ経由で PPT ファイルを含むドキュメントをオンラインで自由に分割し、即座にダウンロードできます。" >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPT ファイルをオンラインで分割する" %}}
+
+1. PPT ファイルを Split にアップロードします。
+1. 分割基準を定義します。
+1. 「分割」ボタンをクリックします。
+1. 出力形式を選択します。
+1. 分割されたファイルをダウンロードします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Android アプリで PPT ファイルを分割する" %}}
+
+1. プロジェクト内に Java ライブラリ参照を追加します。
+1. Presentation クラスを使用して PPT ファイルを読み込みます。
+1. すべてのスライドを数えて、各スライドを繰り返します。
+1. 各スライドのクローンを作成する addClone() メソッド。
+1. 複製された各スライドを新しい PPT ファイルに保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Java コード: PPT ファイルを分割する" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "4a452c270dbb98a4adc268e209571f44" "split-powerpoint-presentations.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>PPT ファイル分割アプリケーション Android アプリの開発</h2>
+
+PPT ファイルを簡単に分割するための Android スクリプトまたはユーティリティ アプリを開発する必要がありますか?[Aspose.Total for Android via Java](https://products.aspose.com/total/ja/android-java/) の子 API である [Aspose.Slides for Android via Java](https://products.aspose.com/slides/ja/android-java/) を使用すると、どの Android 開発者でも上記の API コードを統合してスプリッター アプリをプログラムできます。ドキュメント スプリッター用の強力な Android ライブラリは、PDF、Microsoft Word ドキュメント、Excel スプレッドシート、PowerPoint プレゼンテーションなどの PPT 形式を含む多くの一般的な形式をサポートしています。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Android PPT スプリッター ライブラリ" %}}
+
+- 私たちは Java パッケージを [Maven リポジトリ](https://releases.aspose.com/java/repo/com/aspose/aspose-slides/) でホストしています。 
+- Aspose.Slides for Java はバイトコードを含む一般的な JAR ファイルです。
+- Aspose.Slides for Android via Java のインストール方法については、[ステップバイステップの手順](https://docs.aspose.com/slides/java/installation/#install-aspose-slides-for-java-from-maven-repository) に従ってください。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
+
+- J2SE 6.0 (Java 1.6) 以上
+- Java パッケージはクロスプラットフォームであり、JVM 実装を備えたすべてのオペレーティング システムで実行されます。
+
+<br />
+詳細は[製品ドキュメント](https://docs.aspose.com/slides/java/system-requirements/)を参照してください。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
