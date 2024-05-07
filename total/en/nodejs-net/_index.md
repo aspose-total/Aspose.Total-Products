@@ -5,11 +5,11 @@ description: Process Powerpoint Presentations via Node.js API. Utilize Nodejs to
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Powerpoint and Email Processing APIs" h2="Manipulate Powerpoint Presentations as well as Create, Manipulate or Convert Email Formats including MSG, EML, EMLX & MHT via Node.js API." logoImageSrc="/total/images/aspose_total-for-node-net.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Powerpoint and Email Processing APIs" h2="Manipulate Powerpoint Presentations as well as Create, Manipulate or Convert Email Formats including MSG, EML, EMLX & MHT via Node.js API." logoImageSrc="/total/images/aspose_total-for-node-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-net" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-net/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Node.js via .NET is a complete package for Microsoft Powerpoint Presentation manipulation as well as Email processing in varios formats. Developers can create, manipulate, render and convert powerpoint presentations via Nodejs as well as Email formats including  MSG, EML, EMLX and MHT formats. Developers can easily integrate Node API as of their application requirement.
