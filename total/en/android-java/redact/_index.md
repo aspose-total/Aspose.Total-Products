@@ -5,7 +5,7 @@ description: Search and replace PDF, Microsoft Word documents, Excel spreadsheet
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Redact Documents using Android Java APIs" h2="Microsoft Word, Excel spreadsheets and PowerPoint presentation and PDF document redaction using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Redact Documents using Android Java APIs" h2="Microsoft Word, Excel spreadsheets and PowerPoint presentation and PDF document redaction using Aspose.Total for Android via Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -15,7 +15,7 @@ Document redaction using Android mobile applications provides significant benefi
 
 {{% blocks/products/pf/feature-page-section  h2="Microsoft Word Document Redaction" %}}
 
-Redacting Microsoft Word documents using BMP1 provides a powerful and efficient solution for ensuring the privacy and security of sensitive information within mobile applications. Aspose.Total includes Aspose.Words for Android via Java, an API that allows developers to programmatically identify and redact specific content from Word documents. This functionality enables the secure removal of confidential data, such as personal identifiers, financial details, or proprietary information, directly on mobile devices. 
+Redacting Microsoft Word documents using Aspose.Total for Android via Java provides a powerful and efficient solution for ensuring the privacy and security of sensitive information within mobile applications. Aspose.Total includes Aspose.Words for Android via Java, an API that allows developers to programmatically identify and redact specific content from Word documents. This functionality enables the secure removal of confidential data, such as personal identifiers, financial details, or proprietary information, directly on mobile devices. 
 
 {{% blocks/products/pf/feature-page-code h3="Code - Redact Microsoft Word Document" %}}
 
@@ -27,7 +27,7 @@ Redacting Microsoft Word documents using BMP1 provides a powerful and efficient 
 
 {{% blocks/products/pf/feature-page-section  h2="Redact PDF Documents" %}}
 
-Redacting PDF documents using BMP1 provides an efficient and secure method for protecting sensitive information within mobile applications. Aspose.Total includes Aspose.PDF for Android via Java, an API designed to programmatically redact specific content from PDF files. This functionality allows developers to automate the removal of confidential data such as personal identifiers, financial information, or proprietary content directly on mobile devices. By integrating Aspose.PDF, applications can ensure that sensitive information is thoroughly concealed, reducing the risk of data breaches and ensuring compliance with privacy regulations.
+Redacting PDF documents using Aspose.Total for Android via Java provides an efficient and secure method for protecting sensitive information within mobile applications. Aspose.Total includes Aspose.PDF for Android via Java, an API designed to programmatically redact specific content from PDF files. This functionality allows developers to automate the removal of confidential data such as personal identifiers, financial information, or proprietary content directly on mobile devices. By integrating Aspose.PDF, applications can ensure that sensitive information is thoroughly concealed, reducing the risk of data breaches and ensuring compliance with privacy regulations.
 
 {{% blocks/products/pf/feature-page-code h3="Code - Redact PDF Documents" %}}
 

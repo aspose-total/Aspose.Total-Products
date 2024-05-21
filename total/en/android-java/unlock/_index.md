@@ -5,7 +5,7 @@ description: Unlock password protected Microsoft Word file Excel spreadsheet Pow
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Unlock Documents using Android Java APIs" h2="Unlock Password Protected Microsoft Word, Excel Spreadsheets, PowerPoint presentation and PDF documents using BMP1." >}}
+{{< blocks/products/pf/feature-page-header h1="Unlock Documents using Android Java APIs" h2="Unlock Password Protected Microsoft Word, Excel Spreadsheets, PowerPoint presentation and PDF documents using Aspose.Total for Android via Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -17,7 +17,7 @@ The benefits of unlocking documents extend to streamlining workflows and improvi
 
 {{% blocks/products/pf/feature-page-section  h2="Unlocking Microsoft Word and Excel Spreadsheets" %}}
 
-Unlocking Microsoft Word documents using BMP1 is an effective solution for developers seeking to enhance document accessibility and streamline workflows within Android applications. Aspose.Total provides a comprehensive set of APIs that enable the manipulation of various file formats, including Microsoft Word. By utilizing the Aspose.Words for Android via Java library, developers can programmatically remove passwords from Word documents, thus eliminating the need for manual password entry and enabling seamless access and editing. Additionally, Aspose.Total ensures that the integrity and security of the document are maintained while providing robust support for a wide range of Word document features and formats.
+Unlocking Microsoft Word documents using Aspose.Total for Android via Java is an effective solution for developers seeking to enhance document accessibility and streamline workflows within Android applications. Aspose.Total provides a comprehensive set of APIs that enable the manipulation of various file formats, including Microsoft Word. By utilizing the Aspose.Words for Android via Java library, developers can programmatically remove passwords from Word documents, thus eliminating the need for manual password entry and enabling seamless access and editing. Additionally, Aspose.Total ensures that the integrity and security of the document are maintained while providing robust support for a wide range of Word document features and formats.
 
 {{% blocks/products/pf/feature-page-code h3="Code - Unlock Microsoft Word Document" %}}
 
@@ -25,7 +25,7 @@ Unlocking Microsoft Word documents using BMP1 is an effective solution for devel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
-Unlocking Microsoft Excel spreadsheets using BMP1 provides a powerful solution for developers aiming to improve accessibility and efficiency in their mobile applications. Aspose.Total offers a suite of APIs, including Aspose.Cells for Android via Java, which enables developers to programmatically remove passwords from Excel spreadsheets. This functionality allows users to bypass manual password entry, facilitating quick access and seamless editing of data. Such capabilities are particularly valuable in scenarios where spreadsheets are regularly accessed or need to be shared among team members, significantly enhancing collaborative efforts and workflow efficiency. 
+Unlocking Microsoft Excel spreadsheets using Aspose.Total for Android via Java provides a powerful solution for developers aiming to improve accessibility and efficiency in their mobile applications. Aspose.Total offers a suite of APIs, including Aspose.Cells for Android via Java, which enables developers to programmatically remove passwords from Excel spreadsheets. This functionality allows users to bypass manual password entry, facilitating quick access and seamless editing of data. Such capabilities are particularly valuable in scenarios where spreadsheets are regularly accessed or need to be shared among team members, significantly enhancing collaborative efforts and workflow efficiency. 
 
 {{% blocks/products/pf/feature-page-code h3="Code - Unlock Microsoft Excel Spreadsheet" %}}
 
