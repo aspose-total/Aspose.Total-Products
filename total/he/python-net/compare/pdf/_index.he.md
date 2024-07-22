@@ -9,20 +9,8 @@ informat: PDF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="אפליקציית השוואת מסמכים מקוונת וקוד Python להשוואת קבצי PDF" h2="פתח יישומי השוואת מסמכים PDF רבי עוצמה מבוססי Python. השווה באופן חופשי מסמכים כולל קבצי PDF באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
+{{< blocks/products/pf/feature-page-header-widget h1="אפליקציית השוואת מסמכים מקוונת וקוד Python להשוואת קבצי PDF" h2="פתח יישומי השוואת מסמכים PDF חזקים מבוססי Python. השווה באופן חופשי מסמכים כולל קבצי PDF באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
 
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>אפליקציית PDF השוואת מסמכים מקוונת בחינם</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="השווה קבצי PDF באינטרנט באמצעות אפליקציה" %}}
@@ -140,7 +128,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
                           <span itemprop="name"><b>כמה זמן לוקח להשוות בין קבצי PDF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">אפליקציית השוואה זו פועלת במהירות, ייתכן שיחלפו מספר שניות להעלות את הקבצים ולהשוות ביניהם.</span>
+                          <span itemprop="text">אפליקציית השוואה זו פועלת במהירות, ייתכן שיחלפו מספר שניות כדי להעלות את הקבצים ולהשוות ביניהם.</span>
                       </div>
                   </li>
               </ul>

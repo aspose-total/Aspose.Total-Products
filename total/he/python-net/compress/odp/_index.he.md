@@ -9,20 +9,7 @@ informat: ODP
 otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="אפליקציית דחיסת מסמכים מקוונת וקוד Python לדחיסת קבצי ODP" h2="פתח יישומי דחיסת מסמכים ODP רבי עוצמה מבוססי Python. ארכיון מסמכי ODP בודדים ומרובים לתוך ZIP, RAR ועוד אפשרויות ארכיון באמצעות אפליקציית Python שלך. דחוס באופן חופשי מסמכים שונים כולל קבצי ODP באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
-
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online ODP Document Compression App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/compress/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
+{{< blocks/products/pf/feature-page-header-widget h1="אפליקציית דחיסת מסמכים מקוונת וקוד Python לדחיסת קבצי ODP" h2="פתח יישומי דחיסת מסמכים ODP רבי עוצמה מבוססי Python. ארכיון מסמכי ODP בודדים ומרובים לתוך ZIP, RAR ועוד אפשרויות ארכיון באמצעות אפליקציית Python שלך. דחוס באופן חופשי מסמכים שונים כולל קבצי ODP באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="דחוס וייעל קבצי ODP באופן מקוון באמצעות אפליקציה" %}}
@@ -137,7 +124,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
                           <span itemprop="name"><b>האם אפליקציית דחיסת מסמכים זו פועלת רק ב-Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">יש לך את הגמישות ליזום דחיסת מסמכים מכל מכשיר, ללא קשר למערכת ההפעלה שעליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
+                          <span itemprop="text">יש לך את הגמישות ליזום דחיסת מסמכים מכל מכשיר, ללא קשר למערכת ההפעלה עליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -161,7 +148,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
                           <span itemprop="name"><b>כיצד אוכל לדחוס קבצי ODP מרובים?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">התחל בהעלאת קובץ אחד או יותר שברצונך לדחוס. אתה יכול לגרור ולשחרר את קבצי ה-ODP שלך או פשוט ללחוץ בתוך האזור הלבן. לאחר מכן, לחץ על כפתור 'דחיסה', ואפליקציית הדחיסה המקוונת שלנו תעבד במהירות את הקבצים שהועלו.</span>
+                          <span itemprop="text">התחל בהעלאת קובץ אחד או יותר שברצונך לדחוס. אתה יכול לגרור ולשחרר את קבצי ODP שלך או פשוט ללחוץ בתוך האזור הלבן. לאחר מכן, לחץ על כפתור 'דחיסה', ואפליקציית הדחיסה המקוונת שלנו תעבד במהירות את הקבצים שהועלו.</span>
                       </div>
                   </li>
  		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

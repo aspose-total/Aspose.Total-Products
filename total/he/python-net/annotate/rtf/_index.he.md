@@ -50,7 +50,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 
 <h2>פתח יישום הערת מסמכים RTF באמצעות Python</h2>
 
-צריך לפתח אפליקציית הערות RTF או כלי שירות? עם Aspose.Words for Python via .NET, ילד API של Aspose.Total for Python via .NET, כל מפתח פיתון יכול לשלב את קוד ה-API הנ"ל בתוך יישום הערת המסמכים שלו. ספריית Python רבת עוצמה מאפשרת לתכנת כל פתרון להערות מסמכים. יתר על כן, זה יכול לתמוך בפורמטים פופולריים רבים כולל פורמט RTF.<br /><br />
+צריך לפתח אפליקציה או כלי עזר להערות RTF? עם Aspose.Words for Python via .NET, ילד API של Aspose.Total for Python via .NET, כל מפתח פיתון יכול לשלב את קוד ה-API הנ"ל בתוך יישום הערת המסמכים שלו. ספריית Python רבת עוצמה מאפשרת לתכנת כל פתרון להערות מסמכים. יתר על כן, זה יכול לתמוך בפורמטים פופולריים רבים כולל פורמט RTF.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
@@ -82,7 +82,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupRTFs.cloud/templates/brand/images/groupRTFs/conversion/groupRTFs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
@@ -93,7 +93,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
                           <span itemprop="name"><b>האם אני יכול להשתמש בקוד Python למעלה באפליקציה שלי?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה ולהשתמש בו לצורך פיתוח אפליקציית הערות מסמכים מבוססת Python. קוד זה יכול לשמש משאב רב ערך לשיפור הפונקציונליות והיכולות של הפרויקטים שלך בתחום עיבוד המסמכים והמניפולציה האחורית.</span>
+                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה ולהשתמש בו לצורך פיתוח אפליקציית הערות מסמכים מבוססת Python. קוד זה יכול לשמש משאב רב ערך לשיפור הפונקציונליות והיכולות של הפרויקטים שלך בתחום עיבוד המסמכים האחוריים והמניפולציה.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -101,7 +101,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
                           <span itemprop="name"><b>האם אפליקציית הערות מסמכים מקוונת זו פועלת רק ב-Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">יש לך את הגמישות ליזום הערת מסמכים להסרת הערות בכל מכשיר, ללא קשר למערכת ההפעלה עליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
+                          <span itemprop="text">יש לך את הגמישות ליזום הערת מסמכים להסרת הערות בכל מכשיר, ללא קשר למערכת ההפעלה שעליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -126,7 +126,6 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

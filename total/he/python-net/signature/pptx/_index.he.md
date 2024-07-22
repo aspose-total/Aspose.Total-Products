@@ -1,0 +1,143 @@
+---
+title: חתום דיגיטלי על קובץ PPTX באינטרנט או בנה אפליקציות Python כדי להוסיף חתימה בקבצי PPTX
+description: אפליקציה מקוונת בחינם לחתימה דיגיטלית בקבצי PPTX. פתח אפליקציית Python לחתימה אלקטרונית על מסמכי PPTX. 
+
+family: total
+platformtag: Python
+feature: Signature
+informat: PPTX
+otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="אפליקציית eSignature למסמך מקוון וקוד Python לחתימה דיגיטלית על קבצי PPTX" h2="פתח יישומי חתימת מסמכים PPTX רבי עוצמה מבוססי Python. הוסף בחופשיות חתימה דיגיטלית למסמכים שונים כולל קבצי PPTX באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="הוסף חתימה אלקטרונית לקבצי PPTX באינטרנט באמצעות האפליקציה" %}}
+
+1. העלה קבצי PPTX לחתימה דיגיטלית.
+1. הוסף טקסט לחתימה או העלה תמונת חתימה.
+1. לחץ על כפתור "חתום".
+1. הורד את קובץ ה-PPTX החתום.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="חתום דיגיטלי על קובץ PPTX באמצעות Python" %}}
+
+1. התייחסות לממשקי API בתוך הפרויקט ישירות מ- PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/)). 
+1. טען מסמך PPTX.
+1. צור אובייקט DigitalSignature עם קובץ PFX וסיסמת PFX.
+1. תגובה חתימה דיגיטלית חדשה.
+1. הוסף חתימה דיגיטלית ל-PPTX.
+1. שמור קובץ PPTX.
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="קוד Python להוספת חתימה דיגיטלית בקבצי PPTX" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "589736dd9965071e3bac8c4fcbb88608" "add-esignature-to-powerpoint-files.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+
+<h2>פתח יישום E-Signature באמצעות Python</h2>
+
+צריך לפתח סקריפט python או אפליקציית עזר כדי לחתום בקלות על מספר קבצי PPTX באופן אלקטרוני? עם Aspose.Words for Python דרך .NET, ילד API של Aspose.Total for Python via .NET, כל מפתח פיתון יכול לשלב את קוד ה-API שלמעלה כדי לתכנת אפליקציית eSigning לחתימות על פני מסמכים. ספריית Python רבת עוצמה לחתימת מסמכים, תומכת בפורמטים פופולריים רבים כולל פורמט PPTX.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ספריית PPTX eSignature עבור Python" %}}
+ישנן אפשרויות חלופיות להתקנת 'Aspose.Slides for Python via .NET' או 'Aspose.Total for Python via .NET' במערכת שלך. אנא בחר אחד שדומה לצרכים שלך ופעל לפי ההוראות המפורטות:<br /><br />
+
+- התקן Aspose.Slides for Python via .NET מ-[pypi](https://pypi.org/project/Aspose.Slides/)
+- או השתמש בפקודות ה-pip הבאות ```pip install Aspose.Slides```.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="דרישות מערכת" %}}
+
+- מותקן Python 3.5 ואילך
+- ספריות זמן ריצה של GCC-6 (או מאוחר יותר).
+- עבור Python 3.5-3.7: יש צורך ב-pymalloc build של Python.
+<br /><br />
+לפרטים נוספים, עיין ב-[תיעוד המוצר](https://docs.aspose.com/slides/python-net/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>שאלות נפוצות</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם אני יכול להשתמש בקוד Python למעלה באפליקציה שלי?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה. אפשר בקלות לפתח פתרון מקצועי להוספת חתימה דיגיטלית בקובץ PPTX באמצעות Python. השתמש ב-Aspose PPTX eSignature API כדי לפתח תוכנה עצמאית ברמה גבוהה ב-Python.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם אפליקציית החתימה הדיגיטלית של המסמך פועלת רק ב-Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">יש לך את הגמישות ליזום חתימת מסמכים מכל מכשיר, ללא קשר למערכת ההפעלה שעליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם זה בטוח להשתמש באפליקציה המקוונת כדי לחתום על מסמכי PPTX מרובים?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">כמובן! קבצי הפלט שנוצרו באמצעות השירות שלנו יוסרו בצורה מאובטחת ואוטומטית מהשרתים שלנו בתוך מסגרת זמן של 24 שעות. כתוצאה מכך, קישורי ההורדה המשויכים לקבצים אלה יפסיקו לפעול לאחר תקופה זו.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>באיזה דפדפן צריך להשתמש באפליקציה?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">אתה יכול להשתמש בכל דפדפן אינטרנט מודרני כמו Google Chrome, Firefox, Opera או Safari עבור דחיסת מסמכי PPTX מקוונת.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>כיצד אוכל לחתום על מספר קבצי PPTX?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">התחל בהעלאת קובץ אחד או יותר שאתה רוצה לחתום. אתה יכול לגרור ולשחרר את קבצי PPTX שלך או פשוט ללחוץ בתוך האזור הלבן. לאחר מכן, לחץ על כפתור 'חתום', ואפליקציית העיצוב המקוונת שלנו תעבד במהירות את הקבצים שהועלו.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>כמה זמן לוקח לחתום על קבצי PPTX?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">אפליקציית חתימה אלקטרונית זו פועלת במהירות, ייתכן שיחלפו מספר שניות להעלות את הקבצים ולחתום עליהם.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

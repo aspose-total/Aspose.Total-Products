@@ -47,7 +47,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 
 <h2>פתח יישום הערת מסמכים PDF באמצעות Python</h2>
 
-צריך לפתח אפליקציית הערות PDF או כלי שירות? עם Aspose.PDF for Python via .NET, ילד API של Aspose.Total for Python via .NET, כל מפתח פיתון יכול לשלב את קוד ה-API הנ"ל בתוך יישום הערת המסמכים שלו. ספריית Python רבת עוצמה מאפשרת לתכנת כל פתרון להערות מסמכים. יתר על כן, זה יכול לתמוך בפורמטים פופולריים רבים כולל פורמט PDF.<br /><br />
+צריך לפתח אפליקציה או כלי עזר להערות PDF? עם Aspose.PDF for Python via .NET, ילד API של Aspose.Total for Python via .NET, כל מפתח פיתון יכול לשלב את קוד ה-API הנ"ל בתוך יישום הערת המסמכים שלו. ספריית Python רבת עוצמה מאפשרת לתכנת כל פתרון להערות מסמכים. יתר על כן, זה יכול לתמוך בפורמטים פופולריים רבים כולל פורמט PDF.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
@@ -78,7 +78,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupPDFs.cloud/templates/brand/images/groupPDFs/conversion/groupPDFs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
@@ -89,7 +89,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
                           <span itemprop="name"><b>האם אני יכול להשתמש בקוד Python למעלה באפליקציה שלי?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה ולהשתמש בו לצורך פיתוח אפליקציית הערות מסמכים מבוססת Python. קוד זה יכול לשמש משאב רב ערך לשיפור הפונקציונליות והיכולות של הפרויקטים שלך בתחום עיבוד המסמכים האחוריים והמניפולציה.</span>
+                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה ולהשתמש בו לצורך פיתוח אפליקציית הערות מסמכים מבוססת Python. קוד זה יכול לשמש משאב רב ערך לשיפור הפונקציונליות והיכולות של הפרויקטים שלך בתחום עיבוד המסמכים והמניפולציה האחורית.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

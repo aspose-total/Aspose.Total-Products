@@ -16,7 +16,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 
 1. ייבא קובץ PPTX כדי לנקות הערות על ידי העלאתו.
 1. עשה זאת על ידי לחיצה בתוך אזור השחרור באמצעות גרירה ושחרור של אפליקציית ההערות. 
-1. בהתאם לגודל קובץ PPTX ולמהירות האינטרנט המתן מספר שניות.
+1. בהתאם לגודל קובץ PPTX ומהירות האינטרנט המתן מספר שניות.
 1. לחץ על הלחצן 'הסר' כדי למחוק תגובות.
 1. הורד את הקובץ באופן מיידי.
 
@@ -82,7 +82,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupPPTXs.cloud/templates/brand/images/groupPPTXs/conversion/groupPPTXs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>

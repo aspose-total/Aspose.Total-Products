@@ -8,21 +8,9 @@ feature: Compare
 informat: PPS
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
 ---
+
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="אפליקציית השוואת מסמכים מקוונת וקוד Python להשוואת קבצי PPS" h2="פתח יישומי השוואת מסמכים PPS רבי עוצמה מבוססי Python. השווה באופן חופשי מסמכים כולל קבצי PPS באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
-
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<h3>Free Online PPS Document Comparison App</h3>
-
-<iframe style="border: none; height: 526px;" scrolling="no" src="https://products.aspose.app/total/comparison/embed&h1&h2" id="child-iframe" width="90%"></iframe>
-
-</div></div>
-</div></div>
+{{< blocks/products/pf/feature-page-header-widget h1="אפליקציית השוואת מסמכים מקוונת וקוד Python להשוואת קבצי PPS" h2="פתח יישומי השוואת מסמכים PPS רבי עוצמה מבוססי Python. השווה באופן חופשי מסמכים כולל קבצי PPS באינטרנט באמצעות אפליקציה עם הורדה מיידית." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="השווה קבצי PPS באינטרנט באמצעות אפליקציה" %}}
@@ -130,7 +118,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
                           <span itemprop="name"><b>כיצד אוכל להשוות קבצי PPS מרובים?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">התחל בהעלאת קובץ אחד או יותר שברצונך להשוות. אתה יכול לגרור ולשחרר את קבצי ה-PPS שלך או פשוט ללחוץ בתוך האזור הלבן. לאחר מכן, לחץ על כפתור 'השוואה', ואפליקציית ההשוואה המקוונת שלנו תעבד במהירות את הקבצים שהועלו.</span>
+                          <span itemprop="text">התחל בהעלאת קובץ אחד או יותר שברצונך להשוות. אתה יכול לגרור ולשחרר את קבצי PPS שלך או פשוט ללחוץ בתוך האזור הלבן. לאחר מכן, לחץ על כפתור 'השוואה', ואפליקציית ההשוואה המקוונת שלנו תעבד במהירות את הקבצים שהועלו.</span>
                       </div>
                   </li>
  		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
