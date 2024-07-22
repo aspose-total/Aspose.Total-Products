@@ -47,8 +47,16 @@ Microsoft Word, PowerPoint 및 Outlook용 Python 라이브러리 제품군을 �
 XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX 및 기타 형식을 생성, 편집 또는 변환하는 데 도움이 되는 Microsoft Excel 및 Visio용 Python 라이브러리.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/ko/nodejs-net" >}}
+강력한 Node.js API를 사용하여 PowerPoint 프레젠테이션을 손쉽게 처리하고 MSG, EML, EMLX, MHT와 같은 다양한 이메일 형식을 관리하세요.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ko/nodejs-java" >}}
 Excel 스프레드시트 및 Visio 파일을 조작하고 Node.js를 사용하여 다양한 기호의 바코드를 스캔 및 생성합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ko/nodejs-cpp" >}}
+추가 소프트웨어 종속성에 의존하지 않고도 이미지에서 텍스트를 검색하고 PDF 조작 기능을 Node.js 애플리케이션에 통합할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ko/php-java" >}}
@@ -59,9 +67,7 @@ Excel 스프레드시트, PowerPoint 및 OpenOffice 프레젠테이션을 조작
 JavaScript API를 사용하여 OCR 및 PDF 조작 기능이 있는 애플리케이션을 개발합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ko/nodejs-cpp" >}}
-추가 소프트웨어 종속성에 의존하지 않고도 이미지에서 텍스트를 검색하고 PDF 조작 기능을 Node.js 애플리케이션에 통합할 수 있습니다.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

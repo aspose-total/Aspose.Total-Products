@@ -47,8 +47,16 @@ description: Microsoft Excel Word PowerPoint דואר אלקטרוני PDF Visio
 ייצא דוחות ל-Word, Excel, PowerPoint ופורמטים אחרים מ-JasperReports או JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/he/nodejs-net" >}}
+טפל ללא מאמץ במצגות PowerPoint ונהל פורמטים שונים של דואר אלקטרוני, כגון MSG, EML, EMLX ו-MHT, באמצעות ה-API החזק של Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nodejs-java" >}}
 בצע מניפולציה של גיליונות אלקטרוניים של Excel וקבצי Visio, כמו גם סרוק והפק ברקודים של סמליות שונות באמצעות Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
+אחזר טקסט מתמונות ושלב יכולות מניפולציה של PDF ביישומי Node.js, כל זאת מבלי להסתמך על תלות תוכנה נוספת.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/php-java" >}}
@@ -59,9 +67,7 @@ description: Microsoft Excel Word PowerPoint דואר אלקטרוני PDF Visio
 פתח יישומים עם פונקציונליות של מניפולציה של OCR ו-PDF באמצעות JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
-אחזר טקסט מתמונות ושלב יכולות מניפולציה של PDF ביישומי Node.js, כל זאת מבלי להסתמך על תלות תוכנה נוספת.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

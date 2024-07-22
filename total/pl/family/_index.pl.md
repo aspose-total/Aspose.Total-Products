@@ -47,8 +47,16 @@ Generuj, edytuj lub konwertuj formaty DOC, DOCX, PPT, PPTX, EML, MSG i 3D za pom
 Biblioteki Python dla Microsoft Excel i Visio, które pomagają tworzyć, edytować lub konwertować formaty XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX i inne.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/pl/nodejs-net" >}}
+Bez wysiłku obsługuj prezentacje programu PowerPoint i zarządzaj różnymi formatami wiadomości e-mail, takimi jak MSG, EML, EMLX i MHT, korzystając z potężnego interfejsu API Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/pl/nodejs-java" >}}
 Manipuluj arkuszami kalkulacyjnymi Excel i plikami Visio, a także skanuj i generuj kody kreskowe różnych symboli za pomocą Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pl/nodejs-cpp" >}}
+Pobieraj tekst z obrazów i włączaj możliwości manipulacji plikami PDF do aplikacji Node.js, a wszystko to bez polegania na dodatkowych zależnościach oprogramowania.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/pl/php-java" >}}
@@ -59,9 +67,7 @@ Manipuluj arkuszami kalkulacyjnymi Excel, prezentacjami PowerPoint i OpenOffice,
 Twórz aplikacje z funkcjami OCR i manipulacji plikami PDF przy użyciu interfejsu API JavaScript.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pl/nodejs-cpp" >}}
-Pobieraj tekst z obrazów i włączaj możliwości manipulacji plikami PDF do aplikacji Node.js, a wszystko to bez polegania na dodatkowych zależnościach oprogramowania.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

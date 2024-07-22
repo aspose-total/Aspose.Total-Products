@@ -46,8 +46,16 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 مكتبات Python لـ Microsoft Excel و Visio التي تساعد في إنشاء أو تحرير أو تحويل XLS و XLSX و VSDX و VDX و VSX و VTX و VSSX وتنسيقات أخرى.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/ar/nodejs-net" >}}
+يمكنك التعامل بسهولة مع عروض PowerPoint التقديمية وإدارة تنسيقات البريد الإلكتروني المتنوعة، مثل MSG وEML وEMLX وMHT، باستخدام واجهة برمجة تطبيقات Node.js القوية.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ar/nodejs-java" >}}
 تعامل مع جداول بيانات Excel وملفات Visio بالإضافة إلى المسح الضوئي وإنشاء رموز شريطية من الرموز المختلفة باستخدام Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ar/nodejs-cpp" >}}
+يمكنك استرداد النص من الصور ودمج إمكانيات معالجة ملفات PDF في تطبيقات Node.js، كل ذلك دون الاعتماد على تبعيات برامج إضافية.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ar/php-java" >}}
@@ -58,9 +66,6 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 قم بتطوير التطبيقات باستخدام وظائف معالجة OCR وPDF باستخدام JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ar/nodejs-cpp" >}}
-يمكنك استرداد النص من الصور ودمج إمكانيات معالجة ملفات PDF في تطبيقات Node.js، كل ذلك دون الاعتماد على تبعيات برامج إضافية.
-{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

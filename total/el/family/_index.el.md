@@ -47,8 +47,16 @@ Native Java API για επιτραπέζιους υπολογιστές, web ή
 Βιβλιοθήκες Python για Microsoft Excel & Visio που βοηθούν στη δημιουργία, επεξεργασία ή μετατροπή XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX και άλλες μορφές.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/el/nodejs-net" >}}
+Χειριστείτε με κόπο παρουσιάσεις PowerPoint και διαχειριστείτε διάφορες μορφές email, όπως MSG, EML, EMLX και MHT, χρησιμοποιώντας το ισχυρό Node.js API.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/el/nodejs-java" >}}
 Χειριστείτε υπολογιστικά φύλλα Excel και αρχεία Visio καθώς και σαρώστε και δημιουργήστε BarCodes διαφόρων συμβολολογιών χρησιμοποιώντας το Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/el/nodejs-cpp" >}}
+Ανακτήστε κείμενο από εικόνες και ενσωματώστε δυνατότητες χειρισμού PDF στις εφαρμογές Node.js, όλα αυτά χωρίς να βασίζεστε σε πρόσθετες εξαρτήσεις λογισμικού.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/el/php-java" >}}
@@ -59,9 +67,7 @@ Native Java API για επιτραπέζιους υπολογιστές, web ή
 Αναπτύξτε εφαρμογές με λειτουργίες χειρισμού OCR και PDF χρησιμοποιώντας ένα JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/el/nodejs-cpp" >}}
-Ανακτήστε κείμενο από εικόνες και ενσωματώστε δυνατότητες χειρισμού PDF στις εφαρμογές Node.js, όλα αυτά χωρίς να βασίζεστε σε πρόσθετες εξαρτήσεις λογισμικού.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

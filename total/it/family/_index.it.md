@@ -47,8 +47,16 @@ Genera, modifica o converti i formati DOC, DOCX, PPT, PPTX, EML, MSG e 3D utiliz
 Librerie Python per Microsoft Excel e Visio che aiutano a creare, modificare o convertire XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX e altri formati.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/nodejs-net" >}}
+Gestisci facilmente presentazioni PowerPoint e vari formati di posta elettronica, come MSG, EML, EMLX e MHT, utilizzando la potente API Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/it/nodejs-java" >}}
 Manipola fogli di calcolo Excel e file Visio, nonché scansiona e genera codici a barre di varie simbologie utilizzando Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/it/nodejs-cpp" >}}
+Recupera testo da immagini e incorpora funzionalità di manipolazione PDF nelle applicazioni Node.js, il tutto senza fare affidamento su dipendenze software aggiuntive.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/it/php-java" >}}
@@ -59,9 +67,7 @@ Manipola fogli di calcolo Excel, presentazioni PowerPoint e OpenOffice, oltre a 
 Sviluppa applicazioni con funzionalità OCR e di manipolazione PDF utilizzando un'API JavaScript.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/it/nodejs-cpp" >}}
-Recupera testo da immagini e incorpora funzionalità di manipolazione PDF nelle applicazioni Node.js, il tutto senza fare affidamento su dipendenze software aggiuntive.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

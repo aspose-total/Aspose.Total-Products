@@ -47,8 +47,16 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 适用于 Microsoft Excel 和 Visio 的 Python 库，可帮助创建、编辑或转换 XLS、XLSX、VSDX、VDX、VSX、VTX、VSSX 和其他格式。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/zh/nodejs-net" >}}
+使用强大的 Node.js API 轻松处理 PowerPoint 演示文稿并管理各种电子邮件格式，例如 MSG、EML、EMLX 和 MHT。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/zh/nodejs-java" >}}
 使用 Node.js 操作 Excel 电子表格和 Visio 文件以及扫描和生成各种符号系统的条形码。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh/nodejs-cpp" >}}
+从图像中检索文本并将 PDF 操作功能合并到 Node.js 应用程序中，所有这些都无需依赖其他软件依赖项。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/zh/php-java" >}}
@@ -59,9 +67,7 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 使用 JavaScript API 开发具有 OCR 和 PDF 操作功能的应用程序。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh/nodejs-cpp" >}}
-从图像中检索文本并将 PDF 操作功能合并到 Node.js 应用程序中，所有这些都无需依赖其他软件依赖项。
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

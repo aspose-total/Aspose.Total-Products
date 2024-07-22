@@ -43,12 +43,20 @@ JasperReportsまたはJasperServerからWord、Excel、PowerPointおよびその
 Microsoft Word、PowerPoint、Outlook 用の Python ライブラリ スイートを使用して、DOC、DOCX、PPT、PPTX、EML、MSG、および 3D 形式を生成、編集、変換します。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/ja/nodejs-net" >}}
+強力な Node.js API を使用して、PowerPoint プレゼンテーションを簡単に処理し、MSG、EML、EMLX、MHT などのさまざまな電子メール形式を管理します。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/ja/python-java" >}}
 XLS、XLSX、VSDX、VDX、VSX、VTX、VSSX およびその他の形式の作成、編集、変換に役立つ Microsoft Excel および Visio 用の Python ライブラリ。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ja/nodejs-java" >}}
 Excel スプレッドシートと Visio ファイルを操作するだけでなく、Node.js を使用してさまざまなシンボルのバーコードをスキャンして生成します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ja/nodejs-cpp" >}}
+追加のソフトウェア依存関係に依存することなく、画像からテキストを取得し、PDF 操作機能を Node.js アプリケーションに組み込みます。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ja/php-java" >}}
@@ -59,9 +67,7 @@ Excel スプレッドシート、PowerPoint、OpenOffice プレゼンテーシ�
 JavaScript API を使用して、OCR および PDF 操作機能を備えたアプリケーションを開発します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ja/nodejs-cpp" >}}
-追加のソフトウェア依存関係に依存することなく、画像からテキストを取得し、PDF 操作機能を Node.js アプリケーションに組み込みます。
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

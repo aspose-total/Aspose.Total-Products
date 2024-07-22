@@ -47,8 +47,16 @@ Export RDL reports to Word, Excel, PowerPoint and other formats from SQL Server 
 Export reports to Word, Excel, PowerPoint and other formats from JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/nodejs-net" >}}
+Effortlessly handle PowerPoint presentations and manage various email formats, such as MSG, EML, EMLX, and MHT, using the powerful Node.js API
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nodejs-java" >}}
 Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCodes of various symbologies using Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
+Retrieve text from images and incorporate PDF manipulation capabilities into Node.js applications, all without relying on additional software dependencies.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/php-java" >}}
@@ -57,10 +65,6 @@ Manipulate Excel Spreadsheets, PowerPoint and OpenOffice Presentations as well a
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="JavaScript via C++" imgSrc="/total/images/aspose_total-for-javascript-cpp.svg" productLink="/total/javascript-cpp" >}}
 Develop applications with OCR and PDF manipulation functionalities using a JavaScript API.
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
-Retrieve text from images and incorporate PDF manipulation capabilities into Node.js applications, all without relying on additional software dependencies.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -47,8 +47,16 @@ Genereer, bewerk of converteer DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- en 3D-indeli
 Python-bibliotheken voor Microsoft Excel en Visio die helpen bij het maken, bewerken of converteren van XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX en andere formaten.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/nl/nodejs-net" >}}
+Verwerk moeiteloos PowerPoint-presentaties en beheer verschillende e-mailformaten, zoals MSG, EML, EMLX en MHT, met behulp van de krachtige Node.js API.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nl/nodejs-java" >}}
 Bewerk Excel-spreadsheets en Visio-bestanden en scan en genereer streepjescodes van verschillende symbolieken met behulp van Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nl/nodejs-cpp" >}}
+Haal tekst uit afbeeldingen op en integreer mogelijkheden voor PDF-manipulatie in Node.js-applicaties, allemaal zonder afhankelijk te zijn van aanvullende softwareafhankelijkheden.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/nl/php-java" >}}
@@ -59,9 +67,7 @@ Bewerk Excel-spreadsheets, PowerPoint en OpenOffice-presentaties en herken en ma
 Ontwikkel applicaties met OCR- en PDF-manipulatiefunctionaliteiten met behulp van een JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nl/nodejs-cpp" >}}
-Haal tekst uit afbeeldingen op en integreer mogelijkheden voor PDF-manipulatie in Node.js-applicaties, allemaal zonder afhankelijk te zijn van aanvullende softwareafhankelijkheden.
-{{< /blocks/products/pf/product >}}
+
 
 
 {{< /blocks/products/pf/product-card-row >}}

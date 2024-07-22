@@ -47,8 +47,16 @@ Hasilkan, edit, atau konversi format DOC, DOCX, PPT, PPTX, EML, MSG, dan 3D meng
 Pustaka Python untuk Microsoft Excel & Visio yang membantu membuat, mengedit, atau mengonversi XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX, dan format lainnya.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/id/nodejs-net" >}}
+Tangani presentasi PowerPoint dengan mudah dan kelola berbagai format email, seperti MSG, EML, EMLX, dan MHT, menggunakan API Node.js yang canggih.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/id/nodejs-java" >}}
 Memanipulasi spreadsheet Excel dan file Visio serta memindai dan menghasilkan BarCodes dari berbagai simbol menggunakan Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/id/nodejs-cpp" >}}
+Ambil teks dari gambar dan gabungkan kemampuan manipulasi PDF ke dalam aplikasi Node.js, semuanya tanpa bergantung pada ketergantungan perangkat lunak tambahan.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/id/php-java" >}}
@@ -59,9 +67,7 @@ Memanipulasi Spreadsheet Excel, Presentasi PowerPoint dan OpenOffice serta menge
 Kembangkan aplikasi dengan fungsi manipulasi OCR dan PDF menggunakan JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/id/nodejs-cpp" >}}
-Ambil teks dari gambar dan gabungkan kemampuan manipulasi PDF ke dalam aplikasi Node.js, semuanya tanpa bergantung pada ketergantungan perangkat lunak tambahan.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

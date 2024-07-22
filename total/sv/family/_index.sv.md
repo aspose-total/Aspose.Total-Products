@@ -47,8 +47,16 @@ Generera, redigera eller konvertera DOC, DOCX, PPT, PPTX, EML, MSG och 3D-format
 Python-bibliotek för Microsoft Excel och Visio som hjälper till att skapa, redigera eller konvertera XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX och andra format.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/nodejs-net" >}}
+Hantera PowerPoint-presentationer utan ansträngning och hantera olika e-postformat, såsom MSG, EML, EMLX och MHT, med det kraftfulla Node.js API.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/sv/nodejs-java" >}}
 Manipulera Excel-kalkylblad och Visio-filer samt skanna och generera streckkoder för olika symboler med hjälp av Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/sv/nodejs-cpp" >}}
+Hämta text från bilder och införliva PDF-manipuleringsfunktioner i Node.js-applikationer, allt utan att förlita sig på ytterligare mjukvaruberoenden.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/sv/php-java" >}}
@@ -59,9 +67,7 @@ Manipulera Excel-kalkylblad, PowerPoint och OpenOffice-presentationer samt känn
 Utveckla applikationer med OCR- och PDF-manipuleringsfunktioner med hjälp av ett JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/sv/nodejs-cpp" >}}
-Hämta text från bilder och införliva PDF-manipuleringsfunktioner i Node.js-applikationer, allt utan att förlita sig på ytterligare mjukvaruberoenden.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

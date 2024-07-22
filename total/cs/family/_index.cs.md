@@ -46,8 +46,16 @@ Generujte, upravujte nebo převádějte formáty DOC, DOCX, PPT, PPTX, EML, MSG 
 Knihovny Pythonu pro Microsoft Excel a Visio, které pomáhají vytvářet, upravovat nebo převádět formáty XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX a další.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/cs/nodejs-net" >}}
+Pomocí výkonného Node.js API můžete bez námahy zpracovávat prezentace v PowerPointu a spravovat různé formáty e-mailů, jako jsou MSG, EML, EMLX a MHT.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/cs/nodejs-java" >}}
 Manipulujte s excelovými tabulkami a soubory Visio a také skenujte a generujte čárové kódy různých symbologií pomocí Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/cs/nodejs-cpp" >}}
+Získejte text z obrázků a začleňte do aplikací Node.js možnosti manipulace s PDF, to vše bez spoléhání na další softwarové závislosti.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/cs/php-java" >}}
@@ -58,9 +66,7 @@ Manipulujte s tabulkami Excel, prezentacemi PowerPoint a OpenOffice a také rozp
 Vyvíjejte aplikace s funkcemi OCR a manipulace s PDF pomocí JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/cs/nodejs-cpp" >}}
-Získejte text z obrázků a začleňte do aplikací Node.js možnosti manipulace s PDF, to vše bez spoléhání na další softwarové závislosti.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

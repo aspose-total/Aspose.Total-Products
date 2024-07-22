@@ -47,8 +47,16 @@ Tạo, chỉnh sửa hoặc chuyển đổi các định dạng DOC, DOCX, PPT, 
 Các thư viện Python dành cho Microsoft Excel & Visio giúp tạo, chỉnh sửa hoặc chuyển đổi các định dạng XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX và các định dạng khác.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/vi/nodejs-net" >}}
+Dễ dàng xử lý các bản trình bày PowerPoint và quản lý các định dạng email khác nhau, chẳng hạn như MSG, EML, EMLX và MHT bằng cách sử dụng API Node.js mạnh mẽ.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/vi/nodejs-java" >}}
 Thao tác với bảng tính Excel và tệp Visio cũng như quét và tạo Mã vạch của các ký hiệu khác nhau bằng Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/vi/nodejs-cpp" >}}
+Truy xuất văn bản từ hình ảnh và kết hợp khả năng thao tác PDF vào các ứng dụng Node.js mà không cần phụ thuộc vào phần mềm phụ thuộc bổ sung.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/vi/php-java" >}}
@@ -59,9 +67,7 @@ Thao tác với Bảng tính Excel, Bản trình bày PowerPoint và OpenOffice 
 Phát triển các ứng dụng có chức năng thao tác OCR và PDF bằng API JavaScript.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/vi/nodejs-cpp" >}}
-Truy xuất văn bản từ hình ảnh và kết hợp khả năng thao tác PDF vào các ứng dụng Node.js mà không cần phụ thuộc vào phần mềm phụ thuộc bổ sung.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

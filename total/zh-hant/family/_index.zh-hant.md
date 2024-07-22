@@ -45,8 +45,16 @@ description: Microsoft Excel Word PowerPoint 電子郵件 PDF Visio 項目條碼
 從 JasperReports 或 JasperServer 將報告導出為 Word、Excel、PowerPoint 和其他格式。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/zh-hant/nodejs-net" >}}
+使用強大的 Node.js API 輕鬆處理 PowerPoint 簡報並管理各種電子郵件格式，例如 MSG、EML、EMLX 和 MHT。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/zh-hant/nodejs-java" >}}
 使用 Node.js 操作 Excel 電子表格和 Visio 文件以及掃描和生成各種符號系統的條形碼。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh-hant/nodejs-cpp" >}}
+從圖像中檢索文字並將 PDF 操作功能合併到 Node.js 應用程式中，所有這些都無需依賴其他軟體依賴項。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/zh-hant/php-java" >}}
@@ -57,9 +65,7 @@ description: Microsoft Excel Word PowerPoint 電子郵件 PDF Visio 項目條碼
 使用 JavaScript API 開發具有 OCR 和 PDF 操作功能的應用程式。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/zh-hant/nodejs-cpp" >}}
-從圖像中檢索文字並將 PDF 操作功能合併到 Node.js 應用程式中，所有這些都無需依賴其他軟體依賴項。
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

@@ -47,8 +47,16 @@ Gere, edite ou converta formatos DOC, DOCX, PPT, PPTX, EML, MSG e 3D usando o co
 Bibliotecas Python para Microsoft Excel e Visio que ajudam a criar, editar ou converter XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX e outros formatos.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/pt/nodejs-net" >}}
+Lide facilmente com apresentações em PowerPoint e gerencie vários formatos de e-mail, como MSG, EML, EMLX e MHT, usando a poderosa API Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/pt/nodejs-java" >}}
 Manipule planilhas Excel e arquivos Visio, bem como digitalize e gere códigos de barras de várias simbologias usando Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pt/nodejs-cpp" >}}
+Recupere texto de imagens e incorpore recursos de manipulação de PDF em aplicativos Node.js, tudo sem depender de dependências adicionais de software.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/pt/php-java" >}}
@@ -59,9 +67,7 @@ Manipular Planilhas Excel, Apresentações PowerPoint e OpenOffice, bem como rec
 Desenvolva aplicações com funcionalidades de OCR e manipulação de PDF usando uma API JavaScript.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/pt/nodejs-cpp" >}}
-Recupere texto de imagens e incorpore recursos de manipulação de PDF em aplicativos Node.js, tudo sem depender de dependências adicionais de software.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

@@ -47,8 +47,16 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 Библиотеки Python для Microsoft Excel и Visio, которые помогают создавать, редактировать или конвертировать XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX и другие форматы.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/ru/nodejs-net" >}}
+Легко обрабатывайте презентации PowerPoint и управляйте различными форматами электронной почты, такими как MSG, EML, EMLX и MHT, с помощью мощного API Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ru/nodejs-java" >}}
 Управляйте электронными таблицами Excel и файлами Visio, а также сканируйте и создавайте штрих-коды с различными символами с помощью Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ru/nodejs-cpp" >}}
+Извлекайте текст из изображений и внедряйте возможности манипулирования PDF-файлами в приложения Node.js, не полагаясь на дополнительные программные зависимости.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ru/php-java" >}}
@@ -59,9 +67,7 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 Разрабатывайте приложения с функциями оптического распознавания символов и манипулирования PDF-файлами с помощью API JavaScript.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/ru/nodejs-cpp" >}}
-Извлекайте текст из изображений и внедряйте возможности манипулирования PDF-файлами в приложения Node.js, не полагаясь на дополнительные программные зависимости.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

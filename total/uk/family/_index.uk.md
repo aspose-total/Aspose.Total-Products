@@ -47,8 +47,16 @@ description: Microsoft Excel Word PowerPoint Електронна пошта PDF
 Експортуйте звіти в Word, Excel, PowerPoint та інші формати з JasperReports або JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/nodejs-net" >}}
+Легко обробляйте презентації PowerPoint і керуйте різними форматами електронної пошти, такими як MSG, EML, EMLX і MHT, за допомогою потужного API Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nodejs-java" >}}
 Керуйте електронними таблицями Excel і файлами Visio, а також скануйте та створюйте штрих-коди різних символів за допомогою Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
+Отримайте текст із зображень і додайте можливості роботи з PDF-файлами до програм Node.js, не покладаючись на додаткові програмні залежності.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/php-java" >}}
@@ -59,9 +67,7 @@ description: Microsoft Excel Word PowerPoint Електронна пошта PDF
 Розробляйте програми з OCR і функціями обробки PDF за допомогою JavaScript API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/nodejs-cpp" >}}
-Отримайте текст із зображень і додайте можливості роботи з PDF-файлами до програм Node.js, не покладаючись на додаткові програмні залежності.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

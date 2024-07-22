@@ -47,8 +47,16 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 ไลบรารี Python สำหรับ Microsoft Excel & Visio ที่ช่วยสร้าง แก้ไข หรือแปลง XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX และรูปแบบอื่นๆ
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/th/nodejs-net" >}}
+จัดการงานนำเสนอ PowerPoint ได้อย่างง่ายดายและจัดการรูปแบบอีเมลต่างๆ เช่น MSG, EML, EMLX และ MHT โดยใช้ Node.js API อันทรงพลัง
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/th/nodejs-java" >}}
 จัดการสเปรดชีต Excel และไฟล์ Visio ตลอดจนสแกนและสร้างบาร์โค้ดของสัญลักษณ์ต่างๆ โดยใช้ Node.js
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/th/nodejs-cpp" >}}
+ดึงข้อความจากรูปภาพและรวมความสามารถในการจัดการ PDF เข้ากับแอปพลิเคชัน Node.js โดยไม่ต้องอาศัยการพึ่งพาซอฟต์แวร์เพิ่มเติม
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/th/php-java" >}}
@@ -59,9 +67,7 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 พัฒนาแอปพลิเคชันด้วยฟังก์ชันการจัดการ OCR และ PDF โดยใช้ JavaScript API
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/th/nodejs-cpp" >}}
-ดึงข้อความจากรูปภาพและรวมความสามารถในการจัดการ PDF เข้ากับแอปพลิเคชัน Node.js โดยไม่ต้องอาศัยการพึ่งพาซอฟต์แวร์เพิ่มเติม
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}

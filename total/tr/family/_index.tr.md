@@ -47,8 +47,16 @@ Microsoft Word, PowerPoint ve Outlook için Python kitaplık paketini kullanarak
 XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX ve diğer biçimleri oluşturmaya, düzenlemeye veya dönüştürmeye yardımcı olan Microsoft Excel ve Visio için Python kitaplıkları.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via .NET" imgSrc="/total/images/aspose_total-for-node-net.svg" productLink="/total/tr/nodejs-net" >}}
+Güçlü Node.js API'sini kullanarak PowerPoint sunumlarını zahmetsizce yönetin ve MSG, EML, EMLX ve MHT gibi çeşitli e-posta formatlarını yönetin.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/tr/nodejs-java" >}}
 Node.js kullanarak Excel elektronik tablolarını ve Visio dosyalarını işleyin ve çeşitli sembolojilerin Barkodlarını tarayın ve oluşturun.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/tr/nodejs-cpp" >}}
+Ek yazılım bağımlılıklarına ihtiyaç duymadan görüntülerden metin alın ve Node.js uygulamalarına PDF işleme yeteneklerini dahil edin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/tr/php-java" >}}
@@ -59,9 +67,7 @@ Excel Elektronik Tablolarını, PowerPoint ve OpenOffice Sunumlarını değişti
 Bir JavaScript API kullanarak OCR ve PDF işleme işlevlerine sahip uygulamalar geliştirin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via C++" imgSrc="/total/images/aspose_total-for-nodejs-cpp.svg" productLink="/total/tr/nodejs-cpp" >}}
-Ek yazılım bağımlılıklarına ihtiyaç duymadan görüntülerden metin alın ve Node.js uygulamalarına PDF işleme yeteneklerini dahil edin.
-{{< /blocks/products/pf/product >}}
+
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
