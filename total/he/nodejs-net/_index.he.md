@@ -5,7 +5,7 @@ description: עבד מצגות Powerpoint באמצעות API של Node.js.  הש
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ממשקי API לעיבוד דואר אלקטרוני של Node.js Powerpoint" h2="בצע מניפולציה של מצגות Powerpoint וכן צור, פעל או המר פורמטים של דוא"ל כולל MSG, EML, EMLX ו-MHT באמצעות Node.js API." logoImageSrc="/total/images/aspose_total-for-node-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ממשקי API לעיבוד דואר אלקטרוני של Node.js Powerpoint" h2="מניפולציה של מצגות Powerpoint וכן צור מניפולציה או המרת פורמטים של דואר אלקטרוני כולל MSG EML EMLX ו-MHT דרך Node.js API" logoImageSrc="/total/images/aspose_total-for-node-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" >}}
 

@@ -126,18 +126,20 @@ Aspose.OCR עבור Node.js באמצעות C++ מאפשר חילוץ טקסט מ
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="מה אנשים אומרים" subTitle="אל תסתפק במילה שלנו. ראה מה יש למשתמשים לומר על ממשקי API של Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+
 {{< blocks/products/pf/testimonials-quote poster="סטפן סטודר | Nowhow Solutions AG, שוויץ" >}}
-מדריך ההוראות המתועד היטב והחוסן של רכיבי Aspose.Total הובילו לשילוב פשוט ב-DOCO.  זה עזר לנו לקצץ בזמן הפיתוח יותר מהצפוי.
+מדריך ההוראות המתועד היטב והחוסן של רכיבי Aspose.Total הובילו לשילוב פשוט ב-DOCO. זה עזר לנו לקצץ בזמן הפיתוח יותר מהצפוי.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote poster="בריאן תורנטון | Net Reaction LLC, ארה"ב" >}}
-יש לנו ניסיון משמעותי גם עם אוטומציה משרדית וגם עם מוצר Office Writer של Soft Artisans.  Total.NET של Aspose חזק יותר, ומציע יותר פונקציונליות מכל מה שהשתמשנו בו בעבר.
+{{< blocks/products/pf/testimonials-quote poster="בריאן תורנטון, Net Reaction LLC, ארצות הברית" >}}
+יש לנו ניסיון משמעותי גם עם אוטומציה משרדית וגם עם מוצר Office Writer של Soft Artisans. Total.NET של Aspose חזק יותר, ומציע יותר פונקציונליות מכל מה שהשתמשנו בו בעבר.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="מארק פולי | Lion Nathan National Foods, אוסטרליה" >}}
-למעשה, חבילת Aspose.Total עבור .NET היא 'האולר השוויצרי' של הרכיבים שאנו משתמשים בהם.  יושב לצד רכיבי שכבת המצגת, הוא יוצר את ה'דבק' למשוך ולדחוף קבצי נתונים בפורמט הרצוי.
+למעשה, חבילת Aspose.Total עבור .NET היא 'האולר השוויצרי' של הרכיבים שאנו משתמשים בהם. יושב לצד רכיבי שכבת המצגת, הוא יוצר את ה'דבק' למשוך ולדחוף קבצי נתונים בפורמט הרצוי.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote poster="יאסין לודד | קוואלטק, צרפת" >}}
-היישום היה פשוט, אנחנו באמת מתמקדים בארכיטקטורה שלנו ואספוס פשוט משתלב.  הארכיטקטורה שלנו מותאמת מאוד לביצועים ולריבוי השחלות, ושוב אין בעיה להשתמש ב-Aspose.Total.net.
+היישום היה פשוט, אנחנו באמת מתמקדים בארכיטקטורה שלנו ואספוס פשוט משתלב. הארכיטקטורה שלנו מותאמת מאוד לביצועים ולריבוי השחלות, ושוב אין בעיה להשתמש ב-Aspose.Total.net.
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}

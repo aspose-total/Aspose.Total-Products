@@ -6,7 +6,7 @@ description: ממשקי API של Python עבור מסמכי Microsoft Word, גי
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ממשקי API של Python לאוטומציה של קבצי Microsoft Word, PowerPoint, Outlook ותלת-ממד" h2="צור, ערוך או המר מסמכים, גיליונות אלקטרוניים, מצגות, הודעות דוא"ל 3D וקבצי CAD באמצעות Python" logoImageSrc="/total/images/aspose_total-for-python-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ממשקי API של Python לאוטומציה של קבצי Microsoft Word, PowerPoint, Outlook ותלת-ממד" h2="לתרגם ולהמיר מסמכים, גיליונות אלקטרוניים, מצגות, אימיילים, קבצי תלת-ממד ו-CAD באמצעות פייתון" logoImageSrc="/total/images/aspose_total-for-python-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
