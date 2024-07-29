@@ -1,0 +1,127 @@
+---
+title: נקה הערות XLTX באינטרנט ובאמצעות Python
+description: הסר הערות ממסמך XLTX דרך האפליקציה המקוונת בחינם. קוד Python API למחיקת הערות מקבצי XLTX.
+
+family: total
+platformtag: Python
+feature: Annotate
+informat: XLTX
+otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV ODS Powerpoint PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header-widget h1="הסר הערות ממסמך XLTX באינטרנט או דרך Python" h2="פתח יישום כלי עזר להערות מסמכים XLTX רב עוצמה מבוסס Python. קוד רשום לניקוי הערות מקובץ XLTX דרך Python." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="נקה הערות XLTX באינטרנט" %}}
+
+1. ייבא קובץ XLTX כדי לנקות הערות על ידי העלאתו.
+1. עשה זאת על ידי לחיצה בתוך אזור השחרור באמצעות גרירה ושחרור של אפליקציית ההערות. 
+1. בהתאם לגודל קובץ XLTX ולמהירות האינטרנט המתן מספר שניות.
+1. לחץ על הלחצן 'הסר' כדי למחוק תגובות.
+1. הורד את הקובץ באופן מיידי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="הסר הערות למסמך XLTX באמצעות Python" %}}
+
+1. התייחסות לממשקי API בתוך הפרויקט ישירות מ- PyPI [Aspose.Cells](https://pypi.org/project/aspose-cells/) 
+1. טען את הגיליון האלקטרוני באמצעות כיתת Workbook
+1. בחר את הגיליון הרלוונטי באמצעות getWorksheets().get(index) 
+1. הפעל את השיטה getComments().removeAt(Index) כדי למחוק הערות
+1. התקשר לשיטת השמירה כדי לשמור את המסמך
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/code-block title="דוגמה לקוד ב-Python להסרת הערות ממסמך XLTX" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "6c341240174c0f541e14af8221ed0d78" "remove-comments-in-excel-file.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>פתח יישום הערת מסמכים XLTX באמצעות Python</h2>
+
+צריך לפתח אפליקציית הערות XLTX או כלי שירות? עם Aspose.Cells for Python via Java, ילד API של Aspose.Total for Python via Java, כל מפתח פיתון יכול לשלב את קוד ה-API הנ"ל בתוך יישום הערת המסמכים שלו. ספריית Python רבת עוצמה מאפשרת לתכנת כל פתרון להערות מסמכים. יתר על כן, זה יכול לתמוך בפורמטים פופולריים רבים כולל פורמט XLTX.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="כלי Python להוספת הערות לקבצי XLTX" %}}
+ישנן אפשרויות חלופיות להתקנת "Aspose.Cells for Python via Java" או "Aspose.Total for Python via Java" במערכת שלך. אנא בחר אחד שדומה לצרכים שלך ופעל לפי ההוראות המפורטות:<br /><br />
+
+- התקן Aspose.Cells for Python via Java מ-[pypi](https://pypi.org/project/aspose-cells/)
+- או השתמש בפקודות ה-pip הבאות ```pip install aspose-cells```.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="דרישות מערכת" %}}
+
+- מותקן Python 3.5 ואילך
+- Java 1.8 ומעלה.
+
+<br /><br />
+לפרטים נוספים, עיין ב-[תיעוד המוצר](https://docs.aspose.com/cells/python-java/system-requirements/).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="שאלות נפוצות" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>שאלות נפוצות</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם אני יכול להשתמש בקוד Python למעלה באפליקציה שלי?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">כן, אתה מוזמן להוריד את הקוד הזה ולהשתמש בו לצורך פיתוח אפליקציית הערות מסמכים מבוססת Python. קוד זה יכול לשמש משאב רב ערך לשיפור הפונקציונליות והיכולות של הפרויקטים שלך בתחום עיבוד המסמכים האחוריים והמניפולציה.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם אפליקציית הערות מסמכים מקוונת זו פועלת רק ב-Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">יש לך את הגמישות ליזום הערת מסמכים להסרת הערות בכל מכשיר, ללא קשר למערכת ההפעלה עליה הוא פועל, בין אם זה Windows, Linux, Mac OS או Android. כל מה שנדרש הוא דפדפן אינטרנט עכשווי וחיבור אינטרנט פעיל.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>האם זה בטוח להשתמש באפליקציה המקוונת כדי להוסיף הערות למסמך XLTX?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">כמובן! קבצי הפלט שנוצרו באמצעות השירות שלנו יוסרו בצורה מאובטחת ואוטומטית מהשרתים שלנו בתוך מסגרת זמן של 24 שעות. כתוצאה מכך, קישורי התצוגה המשויכים לקבצים אלה יפסיקו לפעול לאחר תקופה זו.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>באיזה דפדפן צריך להשתמש באפליקציה?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">אתה יכול להשתמש בכל דפדפן אינטרנט מודרני כמו גוגל כרום, פיירפוקס, אופרה או ספארי להערות מקוונות במסמך XLTX. עם זאת, אם אתה מפתח יישום שולחן עבודה, אנו ממליצים להשתמש ב-API לעיבוד מסמכים Aspose.Total לניהול יעיל.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
