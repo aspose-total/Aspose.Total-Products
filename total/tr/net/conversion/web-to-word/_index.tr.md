@@ -1,89 +1,175 @@
 ---
-title: C# kullanarak Web Scraping - HTML'yi Word Dosyasına Dönüştür 
-description: Aspose API'lerini entegre ederek .NET uygulamalarınız aracılığıyla web sitesi web sayfalarını kazıyın ve HTML'yi Microsoft Word belgelerine aktarın. 
+title: Çevrimiçi WEB'yi Word'ye Dönüştürme veya WEB Dosyalarını Dönüştürmek için .NET tabanlı Uygulama Oluşturma
+description: WEB dosyalarını Word dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. WEB belgeleri için .NET C# dönüştürme kütüphanesi kodu. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# ile Web Scraping" h2=".NET uygulamalarındaki web sayfalarından veri çıkarın ve HTML'yi Microsoft Word dosyalarına dönüştürün." >}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi WEB'yi Word'ye Dönüştürme Uygulaması ve WEB Dosyalarını Dönüştürmek için .NET Kodu" h2="Güçlü .NET tabanlı WEB dönüştürme ve dışa aktarma uygulaması geliştirin. Tek veya birden fazla WEB dosyasını .NET otomasyon API'si aracılığıyla Word ve diğer formatlara dönüştürün. WEB dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">Web Hurdaya Çıkarma Nedir?</h2>
-
-<p>Web toplama, veri kazıma, web veri çıkarma veya web tarama olarak da adlVeırılan web kazıma, web sitelerinden veri çıkarmak için kullanılan bir tekniktir. Özel yazılım veya araçlar kullanarak web sayfalarından belirli bilgileri almanın otomatik sürecini içerir.</p><br />
-<p>Web kazıma yazılımı veya komut dosyaları, insan tarama davranışını simüle etmek ve veri toplamak için web siteleriyle etkileşim kurmak için tasarlanmıştır. Bu araçlar, web sunucularına HTTP istekleri gönderir, HTML veya XML yanıtlarını alır ve ardından alınan içerikten istenen veri öğelerini çıkarır.</p><br />
-
-<p>Çıkarılan veriler, belirli gereksinimlere bağlı olarak metin, resimler, tablolar, bağlantılar, fiyatlar, ürün ayrıntıları, incelemeler ve daha fazlası gibi çeşitli bilgi türlerini içerebilir. Ayıklanan veriler genellikle daha fazla analiz, depolama veya diğer sistemlerle entegrasyon için DOC, DOCX, CSV, JSON veya bir veritabanı gibi yapılVeırılmış bir biçimde kaydedilir.</p><br />
-
-<p>Web kazıma çok sayıda uygulamaya sahiptir ve çeşitli endüstrilerde kullanılmaktadır. Pazar araştırması, rekabet analizi, duyarlılık analizi, fiyat izleme, veri toplama, içerik kazıma, müşteri adayı oluşturma ve çok daha fazlası için kullanılabilir.</p><br />
-
-<p>Bununla birlikte, web kazımanın sorumlu ve etik bir şekilde yapılması gerektiğine dikkat etmek önemlidir. Web sitelerinin hizmet koşullarına saygı gösterilmesi, yasal düzenlemelere uyulması, mahremiyet veya fikri mülkiyet haklarını ihlal edecek faaliyetlerde bulunulmaması esastır.</p>
-
-<h2 class="heading-border">Aspose.HTML'yi Web Scrapping API'si olarak kullanma</h2>
-
-<p>Aspose.Total for .NET'in bir alt API'si olan Aspose.HTML for .NET API'nin yardımıyla, HTML belgelerinden bilgileri analiz etmeyi ve ayıklamayı içeren kendi uygulamalarınızı zahmetsizce geliştirebilirsiniz. API, bu süreci kolaylaştıran sağlam bir araç seti sunar.</p><br />
-
-<p>Bir kazıyıcı oluştururken, veri seçiciler, istenen bilgilerin HTML dosyalarından tanımlanmasında ve çıkarılmasında çok önemli bir rol oynar. Tipik olarak, bu seçiciler, HTML yapısı içindeki belirli veri öğelerini bulmak için XPath, CSS seçicileri veya her ikisinin bir kombinasyonunu kullanır. Bu seçiciler, belgede gezinmek ve ayıklamak istediğiniz verileri tam olarak belirlemek için bir araç görevi görür.</p>
-
-<h2 class="heading-border">Web Hurdaya Çıkarma için gerçekleştirilebilecek görevler</h2>
-
-<p>Aspose.HTML for .NET'i kullanarak web sayfalarından kolayca veri çıkarmayı otomatikleştirin ve geliştiriciler aşağıdaki web kazıma görevlerini etkili bir şekilde gerçekleştirebilir.</p><br />
-
-1. [HTML'de Gezinme](https://docs.aspose.com/html/net/html-navigation/) - HTML belgelerini ve öğelerini kapsamlı bir şekilde inceleyin. Ayrıntılı analiz için işlevsellik, öğe yinelemesi için özel filtreleme ve CSS Seçicileri veya XPath kullanarak kesintisiz gezinme sağlar.
-2. [Web Sitesini İndir](https://docs.aspose.com/html/net/download-website/) - Web sitelerini URL'lerden indirin ve indirme işlemini özelleştirin. Bu, süreci ihtiyaçlarınıza göre uyarlayarak tüm web sitesini veya belirli web sayfalarını indirme arasında seçim yapmanızı sağlar.
-3. [Dosyaları URL'den İndirin](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [Web Sitesinden Resimleri İndirin](https://docs.aspose.com/html/net/download-images-from-website/) - Web sitelerinden farklı türde görseller indirin.
-5. [SVG'yi Web Sitesinden İndirin](https://docs.aspose.com/html/net/download-svg-from-website/) - Ölçeklenebilir Vektör Grafikleri SVG dosyalarını C# kullanarak bir web sitesinden indirin
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# kullanarak Web Verileri Nasıl Çıkarılır?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ücretsiz Çevrimiçi WEB - Word Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak Word Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek WEB dosyalarını yükleyin
+1. WEB boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. WEB Word belgesine dönüştürülecek
+1. Dönüştürülen Word dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi .NET Otomasyon API'si aracılığıyla Word'ye dönüştürün" %}}
+
+
 
 1. kullanmak [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) Bir URL'den bir HTML belgesi başlatmak için yapıcı
 2. Kullan [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) bir seçici belirtmek ve seçiciyle eşleşen tüm öğeleri almak için yöntem.
 3. Öğeler listesinde döngü yapın ve sonucu istediğiniz biçimde çıkarın.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web Hurdaya Çıkarma ve Dönüştürme Gereksinimleri" %}}
-Komut satırından ```nuget install Aspose.Total``` olarak kurun veya doğrudan Visual Studio'nun Paket Yöneticisi Konsolundan kurun.
+{{% blocks/products/pf/agp/code-block title="WEB'yi C# .NET ile Word'ye dönüştürün" offSpacer="" %}}
 
-İki [Aspose.Total for .NET](https://products.aspose.com/total/net/) alt API'ler, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Ve [Aspose.Words for .NET](https://products.aspose.com/words/net/) entegre olacak.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten edinin: [İndirilenler](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Words'ü HTML'den Word'e Dönüştürme için Kullanma" %}}
-<p>HTML dosyalarını programlı bir şekilde Word formatına dönüştürmeniz gerekiyorsa, Aspose.Total'ın başka bir alt API'si olan Aspose.Words for .NET, basit ve etkili bir çözüm sunar. Geliştiriciler, yalnızca birkaç satır C# koduyla bu modern belge işleme API'sini kullanarak HTML'yi kolayca Word'e dönüştürebilir.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Aspose.Words for .NET, HTML'den Word'e yüksek hızda dönüşüm sunarak mükemmel kalitede sonuçlar sağlar. HTML'den Word'e dönüştürmeyi doğrudan bir tarayıcıda bile test edebilirsiniz. Bu güçlü C# kitaplığı, HTML dosyalarının çeşitli popüler biçimlere dönüştürülmesini destekler.</p><br />
-
-<p>Aspose.Words'ün sağladığı yeteneklerle geliştiriciler, HTML dosyalarını sorunsuz bir şekilde Word formatına dönüştürebilir ve uygulamalarında dönüştürme sürecini basitleştirebilir.</p><br />
-
-<p>C# dilinde HTML'yi Word'e dönüştürmek için bu basit adımları takip edebilirsiniz.:</p><br />
-
-1. Hurdaya çıkarılan HTML dosyasını yerel sürücüden okuyun.
-1. Word uzantısını kullanarak istenen dosya biçimini belirterek dosyayı Word olarak kaydedin.
-1. Hem HTML'yi okumak hem de Word belgesini yazmak için tam nitelikli dosya adları kullanabilirsiniz.
-1. Ortaya çıkan Word belgesi, orijinal HTML dosyasının içeriğini ve biçimlendirmesini koruyacaktır.
+WEB dosyasını Word dosyasına Aspose.Words'ü HTML'den Word'e Dönüştürme için Kullanma gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET kullanarak WEB Dosya Dönüştürme Uygulamasını Geliştirin</h2>
+
+WEB dosyalarını Word belgesine kolayca kaydetmek ve dışa aktarmak için .NET tabanlı bir yazılım uygulaması geliştirmeniz mi gerekiyor? [Aspose.Total for .NET](https://products.aspose.com/total/tr/net/) ile herhangi bir .NET geliştiricisi, Microsoft Word, Excel, Powerpoint, PDF, E-posta dosyaları, Resimler ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü .NET kütüphanesi, WEB formatı da dahil olmak üzere birçok popüler formatı destekler. Belgeleri diğer formatlara aktarmak için programcılar Aspose.Total'ı [Aspose.Words for .NET](https://products.aspose.com/words/tr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/tr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/tr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/tr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/) ve daha fazlası dahil olmak üzere .NET alt API'leri için kullanabilirler.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for .NET'i sisteminize kurmanın üç alternatif seçeneği bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) yükleyin. [Belgeleme](https://docs.aspose.com/total/net/)'e bakın
+- [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) vb. gibi Visual Studio IDE içindeki alt API seçimi olarak Paket Yöneticisi Konsolunu kullanarak kütüphaneyi yükleyin
+- Windows Installer'ı kullanarak kitaplığı manuel olarak yükleyin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi Word'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Ürünümüz tamamen çapraz platformdur ve '.NET Standard 2.0' spesifikasyonunu takip eden tüm önemli .NET uygulamalarını destekler:<br /><br />
+
+- Microsoft .NET Framework, en eski 2.0 sürümünden başlayarak en son '.NET Framework 4.8' ile sona ermektedir
+- .NET Core, en eski 2.0'dan başlayarak en son '.NET 6' ile sona eriyor
+- Mono >= 2.6.7
+<br />
+.NET kodu altta yatan donanıma veya işletim sistemine değil, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz. Sadece .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünün yüklü olduğundan emin olun.<br />
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="SSS" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>SSS</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Yukarıdaki .NET kodunu uygulamamda kullanabilir miyim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Evet, bu kodu indirmenize izin verilir. .NET kullanarak WEB'yi Word dosyasına dışa aktarmak ve kaydetmek için profesyonel bir çözüm kolayca geliştirilebilir. .NET'te üst düzey, platformdan bağımsız yazılım geliştirmek için Aspose WEB - Word dönüştürme API'sini kullanın.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bu belgenin uygulama dışa aktarma özelliği sadece Windows'ta mı çalışıyor?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">WEB'den Word'ye belge aktarımını, Windows, Linux, Mac OS veya Android gibi hangi işletim sisteminde çalıştığına bakılmaksızın, herhangi bir cihazdan başlatma esnekliğine sahipsiniz. Tek ihtiyacınız olan güncel bir web tarayıcısı ve aktif bir internet bağlantısı.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB belgesini dönüştürmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları 24 saatlik bir zaman dilimi içerisinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak bu dosyalara ilişkin indirme bağlantıları bu sürenin sonunda çalışmayacaktır.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Uygulamayı kullanmak için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Çevrimiçi WEB belge dönüşümü için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB dosyasını nasıl dışa aktarabilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Dönüştürmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. WEB dosyalarınızı sürükleyip bırakabilir veya sadece beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Dönüştür' butonuna tıklayın, online dönüştürme uygulamamız yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB dosyalarının dönüştürülmesi ne kadar zaman alır?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu dönüştürme uygulaması hızlı bir şekilde çalışır. Belgenin boyutuna bağlı olarak, dosyaların yüklenmesi ve gerekli formata kaydedilmesi birkaç saniye veya daha fazla sürebilir.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

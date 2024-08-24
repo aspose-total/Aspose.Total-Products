@@ -1,79 +1,177 @@
 ---
-title: Extrahujte data webových stránek a převeďte webové stránky HTML do souboru Excel pomocí C#
-description: Seškrabujte webové stránky webových stránek a exportujte HTML do dokumentů Microsoft Excel. Vyvíjejte aplikace .NET pro seškrabování dat webových stránek do formátů XLS, XLSX.
+title: Online převod WEB na Excel nebo sestavení aplikace založené na .NET pro převod souborů WEB
+description: Bezplatná online aplikace pro převod souborů WEB na soubory Excel. Kód převodní knihovny .NET C# pro dokumenty WEB.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převod webových stránek do Excelu pomocí C#" h2="Extrahujte data webových stránek z HTML. Import HTML do formátů Microsoft Excel XLS, XLSX v rámci aplikací .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Online aplikace pro převod WEB na Excel a kód .NET pro převod souborů WEB" h2="Vyvíjejte výkonnou aplikaci pro převod a export WEB na bázi .NET.  Převeďte jeden nebo více souborů WEB do formátu Excel a dalších formátů pomocí automatizačního rozhraní .NET API.  Zdarma převádějte soubory WEB online prostřednictvím aplikace s okamžitým stažením." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Webové stránky jsou nezbytnou součástí internetu a obsahují množství informací, které jsou užitečné pro jednotlivce i organizace. Pro některé uživatele však může být obtížné extrahovat data z webových stránek, zejména pokud jsou informace rozloženy na více stránkách. V takových případech může být užitečným řešením převod webových stránek do formátů Excel.</p><br />
-<p>Převod webových stránek do formátů Excelu zahrnuje transformaci dat na webové stránce do strukturovaného formátu, který lze snadno importovat do Excelu. Tento proces lze automatizovat pomocí softwarových nástrojů, které jsou speciálně navrženy pro tento účel. Tyto nástroje dokážou extrahovat data z více webových stránek a převést je do jediného souboru Excel, který lze analyzovat a manipulovat s ním podle potřeby.</p><br />
-
-<p>Je však důležité zdůraznit důležitost odpovědných a etických postupů, pokud jde o web scraping. Respektování podmínek služby webových stránek, dodržování právních předpisů a zdržení se činností, které by mohly narušit soukromí nebo práva duševního vlastnictví, to vše jsou zásadní aspekty, které je třeba zvážit.</p>
-
-<h2 class="heading-border">Použití Aspose.HTML jako Scraper API</h2>
-
-<p>Využitím rozhraní Aspose.HTML for .NET API, které je součástí Aspose.Total for .NET, můžete bez problémů vytvářet své vlastní aplikace určené k analýze a extrahování dat z dokumentů HTML. Toto rozhraní API poskytuje komplexní sadu nástrojů, které výrazně zjednodušují tento podnik a umožňují vám efektivně pracovat s obsahem HTML.</p><br />
-
-<p>V procesu vývoje scraperu mají selektory dat obrovský význam při identifikaci a extrahování požadovaných informací ze souborů HTML. Tyto selektory, které běžně využívají XPath, selektory CSS nebo kombinaci obou, slouží jako cenné nástroje k vyhledání konkrétních datových prvků ve struktuře HTML. Tyto selektory fungují jako navigační mechanismus a usnadňují přesné zacílení a extrakci dat, která chcete získat.</p>
-
-<h2 class="heading-border">Úkoly, které lze provádět pro Web Scrapping</h2>
-
-<p>Pomocí Aspose.HTML for .NET mohou vývojáři bez námahy automatizovat proces extrakce dat z webových stránek, což jim umožní efektivně provádět následující úlohy stírání webu.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Důkladně analyzujte HTML dokumenty a jejich prvky. Využijte funkce, jako je podrobná analýza, vlastní filtrování pro iteraci prvků a bezproblémová navigace pomocí selektorů CSS nebo XPath.
-2. [Stáhnout webové stránky](https://docs.aspose.com/html/net/download-website/) - Efektivně stahujte webové stránky z adres URL a přizpůsobte proces stahování. Vyberte si stažení celého webu nebo konkrétních webových stránek podle vašich konkrétních požadavků.
-3. [Stáhnout soubory z adresy URL](https://docs.aspose.com/html/net/download-file-from-url/) - Snadno stahujte soubory z adresy URL.
-4. [Stáhněte si obrázky z webu](https://docs.aspose.com/html/net/download-images-from-website/) - Stáhněte si různé typy obrázků z webových stránek.
-5. [Stáhněte si SVG z webu](https://docs.aspose.com/html/net/download-svg-from-website/) - Získejte soubory Scalable Vector Graphics (SVG) z webu pomocí C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak extrahovat webová data pomocí C #?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Bezplatná online aplikace pro převod WEB na Excel" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na Excel soubory online pomocí aplikace App" %}}
+
+1. Nahrajte soubory WEB, které chcete převést
+1. Počkejte několik sekund nebo déle v závislosti na velikosti WEB
+1. Sledujte stavový řádek nahrávání
+1. Klikněte na tlačítko "Převést".
+1. WEB bude převeden na dokument Excel
+1. Stáhněte si převedený soubor Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na Excel pomocí rozhraní .NET Automation API" %}}
+
+
 
 1. Inicializujte dokument HTML z adresy URL pomocí [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktér.
 2. Určete selektor pomocí [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metoda k načtení všech prvků, které odpovídají selektoru.
 3. Iterujte seznam prvků a formátujte výstup podle vašich specifických požadavků.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Požadavky na odstranění a konverzi webu" %}}
-Nainstalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo nainstalujte přímo z konzoly Package Manager Console sady Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Převeďte WEB na Excel přes C# .NET" offSpacer="" %}}
 
-Dva [Aspose.Total for .NET](https://products.aspose.com/total/net/) dětská rozhraní API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) a [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) bude integrován.
-
-Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Použití Aspose.Cells pro převod HTML do Excelu" %}}
-<p>Chcete-li převést HTML na XLS, můžete využít Aspose.Cells for .NET API, které vám umožní provést tento úkol programově pomocí několika řádků kódu. Pomocí rozhraní API můžete vyvíjet aplikace pro různé platformy, které mají schopnost generovat, upravovat, převádět, vykreslovat a tisknout různé soubory aplikace Excel. Rozhraní .NET Excel API přesahuje jednoduchý převod formátu, protože dokáže vykreslovat soubory Excelu také jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další. Díky této komplexní funkčnosti je vynikající volbou pro výměnu dokumentů ve staardních průmyslových formátech.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Převod HTML do Microsoft Excel XLS, XLSX v C# je pro vývojáře .NET jednoduchý proces. Můžete toho dosáhnout pomocí několika řádků kódu:</p><br />
-
-1. Načtěte soubor HTML vytvořením instance třídy Workbook.
-1. Převeďte načtené HTML do Excelu vyvoláním metody Save na instanci sešitu.
+Několik dalších případů pro uložení WEB do Excel s dalšími funkcemi, jako je Použití Aspose.Cells pro převod HTML do Excelu.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Vyvíjejte aplikaci pro konverzi souborů WEB pomocí .NET</h2>
+
+Potřebujete vyvinout softwarovou aplikaci založenou na .NET pro snadné ukládání a export souborů WEB do dokumentu Excel?  S [Aspose.Total for .NET](https://products.aspose.com/total/cs/net/) může kterýkoli vývojář .NET integrovat výše uvedený kód API pro naprogramování konverzní aplikace napříč různými formáty včetně Microsoft Word, Excel, Powerpoint, PDF, e-mailové soubory, obrázky a další formáty.  Výkonná knihovna .NET pro konverzi dokumentů, podporuje mnoho oblíbených formátů včetně formátu WEB.  Export dokumentů do jiných formátů, programátoři mohou používat Aspose.Total pro .NET dítě API včetně [Aspose.Words for .NET](https://products.aspose.com/words/cs/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/cs/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/cs/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/cs/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/cs/net/) a další.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Knihovna konverzí pro .NET" %}}
+
+Existují tři alternativní možnosti instalace Aspose.Total for .NET do vašeho systému.  Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
+
+- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Viz [Dokumentace](https://docs.aspose.com/total/net/)
+- Nainstalujte knihovnu pomocí konzoly Package Manager Console podle výběru jejího podřízeného rozhraní API v rámci Visual Studio IDE, jako je [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) atd.
+- Nainstalujte knihovnu ručně pomocí Instalační služby systému Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Ukládání WEB do Excel Požadavky na aplikaci" %}}
+
+Náš produkt je plně multiplatformní a podporuje všechny hlavní implementace .NET podle specifikace '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, počínaje nejstarší verzí 2.0 a konče nejnovějším '.NET Framework 4.8'
+- .NET Core, počínaje nejstarší verzí 2.0 a konče nejnovější verzí '.NET 6'
+- Mono >= 2.6.7
+<br />
+Protože kód .NET se nespoléhá na základní hardware nebo operační systém, ale pouze na virtuální počítač, můžete tedy volně vyvíjet jakýkoli druh softwaru pro Windows, macOS, Android, iOS a Linux.  Jen se ujistěte, že máte nainstalovanou odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.<br />
+K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visual Studio, Xamarin a MonoDevelop IDE.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Nejčastější dotazy" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Nejčastější dotazy</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mohu použít výše uvedený kód .NET ve své aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ano, tento kód si můžete stáhnout. Lze snadno vyvinout profesionální řešení pro export a uložení WEB do souboru Excel pomocí .NET.  Použijte rozhraní API pro převod Aspose WEB na Excel k vývoji softwaru na vysoké úrovni, nezávislého na platformě v .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funguje tato aplikace pro export dokumentu pouze v systému Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Máte možnost zahájit export dokumentu z WEB do Excel z libovolného zařízení, bez ohledu na operační systém, na kterém běží, ať už je to Windows, Linux, Mac OS nebo Android.  Vše, co potřebujete, je moderní webový prohlížeč a aktivní připojení k internetu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné používat online aplikaci ke konverzi více dokumentů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Výstupní soubory generované prostřednictvím naší služby budou bezpečně a automaticky odstraněny z našich serverů během 24 hodin.  V důsledku toho po uplynutí této doby přestanou být odkazy ke stažení spojené s těmito soubory funkční.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč by měl používat aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod dokumentů WEB můžete použít jakýkoli moderní webový prohlížeč, jako je Google Chrome, Firefox, Opera nebo Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu exportovat více souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Začněte nahráním jednoho nebo více souborů, které chcete převést. Soubory WEB můžete buď přetáhnout myší, nebo jednoduše kliknout do bílé oblasti.  Poté klikněte na tlačítko „Převést“ a naše online konverzní aplikace rychle zpracuje nahrané soubory.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tato konverzní aplikace funguje rychle, v závislosti na velikosti dokumentu může nahrání a uložení do požadovaného formátu trvat několik sekund nebo déle.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

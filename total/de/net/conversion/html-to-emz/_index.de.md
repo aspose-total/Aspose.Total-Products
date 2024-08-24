@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie HTML über die C#-API in EMZ
-description: Exportieren Sie HTML in EMZ in Ihren .NET-Anwendungen, ohne Anwendungen von Drittanbietern zu verwenden
-url_ignore: /de/net/conversion/html-to-emz/
+title: Online-Konvertierung von HTML zu EMZ oder Erstellen einer .NET-basierten Anwendung zum Konvertieren von HTML-Dateien
+description: Kostenlose Online-App zum Konvertieren von HTML- in EMZ-Dateien. .NET C#-Konvertierungsbibliothekscode für HTML-Dokumente. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,55 +10,169 @@ outformat: EMZ
 otherformats: PSD DXF TGA  SVGZ IMAGE WMZ JPEG2000 EMZ WMF DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie die HTML-Datei über C# in EMZ" h2="Exportieren Sie HTML innerhalb von .NET-Anwendungen nach EMZ, ohne Adobe<sup>&reg;</sup> Acrobat Reader oder andere Anwendungen von Drittanbietern zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Online-Konvertierungs-App von HTML zu EMZ und .NET-Code zum Konvertieren von HTML-Dateien" h2="Entwickeln Sie eine leistungsstarke .NET-basierte HTML-Konvertierungs- und Exportanwendung. Konvertieren Sie einzelne oder mehrere HTML-Dateien über die .NET-Automatisierungs-API in EMZ und andere Formate. Konvertieren Sie HTML-Dateien kostenlos online per App mit sofortigem Download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Mit [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie in zwei einfachen Schritten HTML-Bilder in EMZ-Bilder aus beliebigen .NET-Anwendungen exportieren. Zunächst einmal können Sie mit [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) HTML in JPEG exportieren. Danach können Sie mit der Bildverarbeitungs-API von [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) JPEG in EMZ konvertieren.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie die HTML-Datei über .NET in EMZ" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Kostenlose Online-App zur Konvertierung von HTML in EMZ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=emz&from=html" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie HTML- in EMZ-Dateien online mithilfe der App" %}}
+
+1. Laden Sie zum Konvertieren HTML-Dateien hoch
+1. Warten Sie je nach HTML-Größe einige Sekunden oder länger
+1. Behalten Sie die Upload-Statusleiste im Auge
+1. Klicken Sie auf die Schaltfläche "Konvertieren"
+1. HTML wird in ein EMZ-Dokument umgewandelt
+1. Laden Sie die konvertierte EMZ-Datei herunter
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie HTML in EMZ über die .NET Automation API" %}}
+
+
 1. Öffnen Sie die HTML-Datei mit der Klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
 2. Initialisieren Sie das Klassenobjekt [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) und rendern Sie HTML mithilfe von [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) Methode
 3. Laden Sie die JPEG-Datei mithilfe der Klasse [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image).
 4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) im EMZ-Format
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
-
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/total/net) herunterladen.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/agp/code-block title="Konvertieren Sie HTML in EMZ über C# .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
 
+{{% /blocks/products/pf/agp/code-block %}}
 
-{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie HTML-Dateien in EMZ in einer einzigen Datei über C#" %}}
-Mit der API können Sie auch HTML-Dateien in EMZ in eine einzelne Bilddatei konvertieren. Um alle Seiten zu konvertieren, können Sie Ihr HTML-Dokument zuerst in eine TIFF-Datei rendern und danach die TIFF-Datei nach EMZ exportieren. Sie können die Eingabedatei mit der Klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) öffnen und Auflösungs-, TiffSettings- und TIFF-Geräteobjekte erstellen. Sie können ein einzelnes TIFF-Bild mit der Methode [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) von [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) Klasse. Schließlich können Sie die TIFF-Datei mit der Klasse [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) laden
-und speichern Sie es im EMZ-Format mit der Methode [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4).  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Noch einige Fälle zum Speichern von HTML in EMZ mit anderen Funktionen wie Konvertieren Sie HTML-Dateien in EMZ in einer einzigen Datei über C#, Konvertieren und Drehen von HTML-Dateien in EMZ über C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Konvertieren und Drehen von HTML-Dateien in EMZ über C#" %}}
-Mit der API können Sie das ausgegebene EMZ-Bild auch nach Ihren Bedürfnissen drehen. Die Image.RotateFlip-Methode kann verwendet werden, um das Bild um 90/180/270 Grad zu drehen und das Bild horizontal oder vertikal zu spiegeln. Sie können die Art der Drehung und Spiegelung angeben, die auf das Bild angewendet werden soll. Um das Bild zu drehen und zu spiegeln, können Sie das konvertierte JPEG-Bild mit der Factory-Methode laden, die von der Klasse [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) bereitgestellt wird, und das Bild aufrufen .RotateFlip-Methode, während Sie den entsprechenden [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) angeben. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+<h2>Entwickeln Sie eine HTML-Dateikonvertierungsanwendung mit .NET</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+Müssen Sie eine .NET-basierte Softwareanwendung entwickeln, um HTML-Dateien einfach in EMZ-Dokumente zu speichern und zu exportieren? Mit [Aspose.Total for .NET](https://products.aspose.com/total/de/net/) kann jeder .NET-Entwickler den oben genannten API-Code integrieren, um die Konvertierungsanwendung für verschiedene Formate zu programmieren, darunter Microsoft Word, Excel, Powerpoint, PDF, E-Mail-Dateien, Bilder und andere Formate. Leistungsstarke .NET-Bibliothek zur Dokumentkonvertierung, unterstützt viele gängige Formate, einschließlich des HTML-Formats. Beim Exportieren von Dokumenten in andere Formate können Programmierer Aspose.Total für untergeordnete .NET-APIs verwenden, darunter [Aspose.Words for .NET](https://products.aspose.com/words/de/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/de/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/de/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/de/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/de/net/) und mehr.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="HTML Konvertierungsbibliothek für .NET" %}}
+
+Es gibt drei alternative Möglichkeiten, Aspose.Total für .NET auf Ihrem System zu installieren. Wählen Sie bitte eine Option aus, die Ihren Anforderungen entspricht, und folgen Sie den Schritt-für-Schritt-Anweisungen:<br /><br />
+
+- Installieren Sie ein [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Siehe [Dokumentation](https://docs.aspose.com/total/net/)
+- Installieren Sie die Bibliothek mithilfe der Package Manager Console ab der Auswahl der untergeordneten API in der Visual Studio IDE wie [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) usw.
+- Installieren Sie die Bibliothek manuell mit dem Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Speichern von HTML in EMZ App-Anforderungen" %}}
+
+Unser Produkt ist vollständig plattformübergreifend und unterstützt alle wichtigen .NET-Implementierungen gemäß der Spezifikation „.NET Standard 2.0“:<br /><br />
+
+- Microsoft .NET Framework, beginnend mit der frühesten Version 2.0 und endend mit der neuesten Version „.NET Framework 4.8“
+- .NET Core, beginnend mit der frühesten Version 2.0 und endend mit dem neuesten „.NET 6“
+- Mono >= 2.6.7
+<br />
+Da .NET-Code nicht von der zugrunde liegenden Hardware oder dem Betriebssystem, sondern nur von einer virtuellen Maschine abhängt, können Sie jede Art von Software für Windows, macOS, Android, iOS und Linux entwickeln. Stellen Sie einfach sicher, dass Sie die entsprechende Version von .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin installiert haben.<br />
+Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelop IDE zum Erstellen von C#-, F#- und VB.NET-Anwendungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>FAQs</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kann ich den obigen .NET-Code in meiner Anwendung verwenden?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, Sie können diesen Code gerne herunterladen. Mit .NET lässt sich ganz einfach eine professionelle Lösung zum Exportieren und Speichern von HTML in einer EMZ-Datei entwickeln. Verwenden Sie die Aspose HTML-zu-EMZ-Konvertierungs-API, um plattformunabhängige Software auf hoher Ebene in .NET zu entwickeln.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funktioniert diese App zum Exportieren von Dokumenten nur unter Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie haben die Flexibilität, den Dokumentenexport von HTML nach EMZ von jedem Gerät aus zu starten, unabhängig vom Betriebssystem, auf dem es läuft, sei es Windows, Linux, Mac OS oder Android. Alles was Sie brauchen ist ein aktueller Webbrowser und eine aktive Internetverbindung.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ist es sicher, mit der Online-App mehrere HTML-Dokumente zu konvertieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Natürlich! Die von unserem Service generierten Ausgabedateien werden innerhalb von 24 Stunden sicher und automatisch von unseren Servern entfernt. Dies hat zur Folge, dass die mit diesen Dateien verknüpften Download-Links nach diesem Zeitraum nicht mehr funktionieren.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Welcher Browser wird für die Nutzung der App benötigt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie können jeden modernen Webbrowser wie Google Chrome, Firefox, Opera oder Safari für die Online-Konvertierung von HTML-Dokumenten verwenden.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie kann ich mehrere HTML-Dateien exportieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Beginnen Sie mit dem Hochladen einer oder mehrerer Dateien, die Sie konvertieren möchten. Sie können Ihre HTML-Dateien entweder per Drag & Drop verschieben oder einfach in den weißen Bereich klicken. Klicken Sie anschließend auf die Schaltfläche „Konvertieren“ und unsere Online-Konvertierungs-App verarbeitet die hochgeladenen Dateien schnell.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie lange dauert die Konvertierung der HTML-Dateien?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Diese Konvertierungsanwendung arbeitet schnell. Das Hochladen und Speichern im erforderlichen Format kann je nach Dokumentgröße einige Sekunden oder länger dauern.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

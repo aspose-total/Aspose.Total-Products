@@ -1,77 +1,175 @@
 ---
-title: Ekstrak Data Situs Web dan Konversi Halaman Web HTML ke File Excel menggunakan C#
-description: Kikis halaman web situs web serta ekspor HTML ke dokumen Microsoft Excel. Kembangkan aplikasi .NET untuk mengikis data situs web ke dalam format XLS, XLSX.
+title: Konversi WEB ke Excel Online atau Bangun Aplikasi berbasis .NET untuk Mengonversi File WEB
+description: Aplikasi daring gratis untuk mengonversi file WEB ke Excel. Kode pustaka konversi .NET C# untuk dokumen WEB. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi Halaman Web ke Excel melalui C#" h2="Ekstrak data halaman web dari HTML. Impor HTML ke format Microsoft Excel XLS, XLSX dalam aplikasi .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikasi Konversi WEB ke Excel Online dan Kode .NET untuk Mengonversi File WEB" h2="Mengembangkan aplikasi konversi dan ekspor WEB berbasis .NET yang canggih. Konversi satu atau beberapa file WEB ke Excel dan format lainnya melalui API otomatisasi .NET. Konversi file WEB secara bebas secara daring melalui aplikasi dengan unduhan instan." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Halaman web adalah bagian penting dari internet, dan berisi banyak informasi yang berguna bagi individu dan organisasi. Namun, beberapa pengguna mungkin merasa kesulitan untuk mengekstrak data dari halaman web, terutama saat informasi tersebar di beberapa halaman. Dalam kasus seperti itu, mengubah halaman web menjadi format Excel bisa menjadi solusi yang berguna.</p><br />
-<p>Mengubah halaman web menjadi format Excel melibatkan pengubahan data pada halaman web menjadi format terstruktur yang dapat dengan mudah diimpor ke Excel. Proses ini dapat diotomatisasi menggunakan perangkat lunak yang dirancang khusus untuk tujuan ini. Alat ini dapat mengekstrak data dari beberapa halaman web dan mengubahnya menjadi satu file Excel, yang dapat dianalisis dan dimanipulasi sesuai kebutuhan.</p><br />
-
-<p>Namun, penting untuk menekankan pentingnya praktik yang bertanggung jawab dan etis dalam hal web scraping. Menghormati ketentuan layanan situs web, mematuhi peraturan hukum, dan tidak terlibat dalam aktivitas yang dapat melanggar privasi atau hak kekayaan intelektual adalah semua aspek penting yang perlu dipertimbangkan.</p>
-
-<h2 class="heading-border">Menggunakan Aspose.HTML sebagai Scraper API</h2>
-
-<p>Dengan memanfaatkan Aspose.HTML untuk .NET API, yang merupakan komponen Aspose.Total untuk .NET, Anda dapat dengan mudah membuat aplikasi sendiri yang dirancang untuk menganalisis dan mengekstrak data dari dokumen HTML. API ini menyediakan seperangkat alat lengkap yang sangat menyederhanakan tugas ini, memberdayakan Anda untuk bekerja secara efisien dengan konten HTML.</p><br />
-
-<p>Dalam proses pengembangan scraper, pemilih data memegang peranan penting dalam mengidentifikasi dan mengekstraksi informasi yang diinginkan dari file HTML. Selektor ini, biasanya menggunakan XPath, selektor CSS, atau perpaduan keduanya, berfungsi sebagai alat yang berharga untuk menemukan elemen data tertentu dalam struktur HTML. Bertindak sebagai mekanisme navigasi, pemilih ini memfasilitasi penargetan dan ekstraksi data yang tepat yang ingin Anda ambil.</p>
-
-<h2 class="heading-border">Tugas yang dapat dilakukan seseorang untuk Memo Web</h2>
-
-<p>Dengan menggunakan Aspose.HTML untuk .NET, pengembang dapat dengan mudah mengotomatiskan proses ekstraksi data dari halaman web, memungkinkan mereka menyelesaikan tugas pengikisan web berikut secara efektif.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Analisis dokumen HTML dan elemennya secara menyeluruh. Manfaatkan fitur seperti analisis mendetail, pemfilteran khusus untuk iterasi elemen, dan navigasi tanpa hambatan menggunakan Pemilih CSS atau XPath.
-2. [Unduh Situs Web](https://docs.aspose.com/html/net/download-website/) - Unduh situs web secara efisien dari URL dan sesuaikan proses pengunduhan. Pilih untuk mengunduh seluruh situs web atau halaman web tertentu sesuai dengan kebutuhan khusus Anda.
-3. [Unduh File Dari URL](https://docs.aspose.com/html/net/download-file-from-url/) - Unduh file dengan mudah dari URL.
-4. [Unduh Gambar Dari Situs Web](https://docs.aspose.com/html/net/download-images-from-website/) - Unduh berbagai jenis gambar dari situs web.
-5. [Unduh SVG Dari Situs Web](https://docs.aspose.com/html/net/download-svg-from-website/) - Ambil file Scalable Vector Graphics (SVG) dari situs web menggunakan C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Bagaimana cara mengekstrak Data Web menggunakan C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplikasi Konversi WEB ke Excel Online Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konversi File WEB ke Excel Online menggunakan Aplikasi" %}}
+
+1. Unggah file WEB untuk dikonversi
+1. Tunggu beberapa detik atau lebih tergantung pada ukuran WEB
+1. Perhatikan status bar unggahan
+1. Klik tombol "Konversi"
+1. WEB akan diubah menjadi dokumen Excel
+1. Unduh file Excel yang dikonversi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konversi WEB ke Excel melalui .NET Automation API" %}}
+
+
 
 1. Inisialisasi dokumen HTML dari URL dengan memanfaatkan [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor.
 2. Tentukan pemilih menggunakan [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metode untuk mengambil semua elemen yang cocok dengan pemilih.
 3. Ulangi daftar elemen dan format output sesuai dengan kebutuhan spesifik Anda.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Memo Web dan Persyaratan Konversi" %}}
-Instal dari baris perintah sebagai ```nuget install Aspose.Total``` atau instal langsung dari Package Manager Console Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konversi WEB ke Excel melalui C# .NET" offSpacer="" %}}
 
-Dua [Aspose.Total for .NET](https://products.aspose.com/total/net/) API anak, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Dan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) akan terintegrasi.
-
-Alternatifnya, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Menggunakan Aspose.Cells untuk Konversi HTML ke Excel" %}}
-<p>Untuk mengonversi HTML ke XLS, Anda dapat menggunakan Aspose.Cells untuk .NET API, yang memungkinkan Anda melakukan tugas ini secara terprogram hanya dengan beberapa baris kode. Dengan API, Anda dapat mengembangkan aplikasi lintas platform yang memiliki kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak berbagai file Excel. .NET Excel API melampaui konversi format sederhana, karena juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, dan lainnya. Fungsionalitas komprehensif ini menjadikannya pilihan yang sangat baik untuk bertukar dokumen dalam format stDanar industri.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Mengonversi HTML ke Microsoft Excel XLS, XLSX dalam C# adalah proses langsung bagi pengembang .NET. Anda dapat mencapai ini hanya dengan beberapa baris kode:</p><br />
-
-1. Muat file HTML dengan membuat instance dari kelas Workbook.
-1. Konversikan HTML yang dimuat ke Excel dengan menerapkan metode Save pada instance Workbook.
+Beberapa kasus lagi untuk menyimpan WEB ke Excel dengan fitur lain seperti Menggunakan Aspose.Cells untuk Konversi HTML ke Excel.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Mengembangkan Aplikasi Konversi File WEB menggunakan .NET</h2>
+
+Perlu mengembangkan aplikasi perangkat lunak berbasis .NET untuk dengan mudah menyimpan dan mengekspor file WEB ke dokumen Excel? Dengan [Aspose.Total for .NET](https://products.aspose.com/total/id/net/), setiap pengembang .NET dapat mengintegrasikan kode API di atas untuk memprogram aplikasi konversi di berbagai format termasuk Microsoft Word, Excel, Powerpoint, PDF, file Email, Gambar, dan format lainnya. Pustaka .NET yang tangguh untuk konversi dokumen, mendukung banyak format populer termasuk format WEB. Mengekspor dokumen ke format lain, programmer dapat menggunakan Aspose.Total untuk API anak .NET termasuk [Aspose.Words for .NET](https://products.aspose.com/words/id/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/id/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/id/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/id/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/id/net/) dan banyak lagi.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Pustaka Konversi WEB untuk .NET" %}}
+
+Ada tiga pilihan alternatif untuk menginstal Aspose.Total for .NET ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
+
+- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Lihat [Dokumentasi](https://docs.aspose.com/total/net/)
+- Instal pustaka menggunakan Konsol Manajer Paket sebagai pilihan API anaknya dalam Visual Studio IDE seperti [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), dll.
+- Instal perpustakaan secara manual menggunakan Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Aplikasi Menyimpan WEB ke Excel" %}}
+
+Produk kami sepenuhnya lintas platform dan mendukung semua implementasi .NET utama mengikuti spesifikasi '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, mulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET Framework 4.8' terbaru
+- .NET Core, dimulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET 6' terbaru
+- Mono >= 2.6.7
+<br />
+Karena kode .NET tidak bergantung pada perangkat keras atau sistem operasi yang mendasarinya, tetapi hanya pada Mesin Virtual, maka Anda bebas mengembangkan perangkat lunak apa pun untuk Windows, macOS, Android, iOS, dan Linux. Pastikan Anda telah menginstal versi .NET Framework, .NET Core, Windows Azure, Mono, atau Xamarin yang sesuai.<br />
+Kami menyarankan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop IDE untuk membuat aplikasi C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Tanya Jawab Umum" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Tanya Jawab Umum</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Dapatkah saya menggunakan kode .NET di atas dalam aplikasi saya?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ya, Anda dipersilakan mengunduh kode ini. Seseorang dapat dengan mudah mengembangkan solusi profesional untuk mengekspor dan menyimpan file WEB ke Excel menggunakan .NET. Gunakan API konversi Aspose WEB ke Excel untuk mengembangkan perangkat lunak tingkat tinggi dan independen platform di .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Apakah dokumen ini mengekspor pekerjaan Aplikasi hanya pada Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Anda memiliki fleksibilitas untuk memulai ekspor dokumen dari WEB ke Excel dari perangkat apa pun, apa pun sistem operasi yang dijalankan, baik itu Windows, Linux, Mac OS, atau Android. Yang diperlukan hanyalah browser web kontemporer dan koneksi internet aktif.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Apakah aman menggunakan aplikasi daring untuk mengonversi beberapa dokumen WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tentu saja! File output yang dihasilkan melalui layanan kami akan dihapus secara aman dan otomatis dari server kami dalam jangka waktu 24 jam. Akibatnya, tautan unduhan yang terkait dengan berkas-berkas ini tidak akan berfungsi lagi setelah periode ini.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Browser apa yang harus digunakan untuk menggunakan Aplikasi ini?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Anda dapat menggunakan peramban web modern seperti Google Chrome, Firefox, Opera, atau Safari untuk konversi dokumen WEB daring.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bagaimana cara mengekspor beberapa file WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Mulailah dengan mengunggah satu atau beberapa file yang ingin Anda konversi. Anda dapat menyeret dan melepas file WEB atau cukup klik di dalam area putih. Setelah itu, klik tombol 'Konversi', dan aplikasi konversi daring kami akan segera memproses file yang diunggah.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Berapa lama waktu yang dibutuhkan untuk mengonversi file WEB?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Aplikasi konversi ini beroperasi dengan cepat. Mungkin memerlukan waktu beberapa detik atau lebih tergantung pada ukuran dokumen untuk mengunggah dan menyimpannya ke format yang diperlukan.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
-title: NET API لتحويل ODT إلى XLSB أو مع محول مجاني على الإنترنت
-description: C# API لتحويل ODT إلى XLSB أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول ODT إلى XLSB على الإنترنت مجانًا بسرعة قبل دمج الكود. 
-url_ignore: /ar/net/conversion/odt-to-xlsb/
+title: تحويل ملفات ODT إلى XLSB عبر الإنترنت أو إنشاء تطبيق قائم على .NET لتحويل ملفات ODT
+description: تطبيق مجاني عبر الإنترنت لتحويل ملفات ODT إلى ملفات XLSB. كود مكتبة تحويل .NET C# لمستندات ODT. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,111 +10,168 @@ outformat: XLSB
 otherformats: DIF XLTX XLAM FODS EXCEL SXC TSV XLSB XLTM XLSX XLS XLT XLSM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل ODT إلى XLSB أو التطبيق عبر الإنترنت" h2="تصدير ODT إلى XLSB عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تطبيق تحويل ODT إلى XLSB عبر الإنترنت ورمز .NET لتحويل ملفات ODT" h2="تطوير تطبيق قوي للتحويل والتصدير ODT يعتمد على .NET. تحويل ملفات ODT الفردية أو المتعددة إلى XLSB وغيرها من التنسيقات عبر واجهة برمجة تطبيقات الأتمتة .NET. قم بتحويل ملفات ODT بحرية عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) ، يمكنك تضمين ODT إلى ميزة تحويل XLSB ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تصدير ODT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى XLSB.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="NET API لتحويل ODT إلى XLSB" %}}
-1. افتح ملف ODT باستخدام فئة [Document](https://reference.aspose.com/words/net/aspose.words/document)
-2. تحويل ODT إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند بتنسيق XLSB باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `XLSB` على أنه SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
-
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>محول مجاني على الإنترنت لـ ODT إلى XLSB</h3>
-
-<iframe title="xlsb to odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل ODT إلى XLSB" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="قم بتحميل مستند ODT من الدفق عبر C#" %}}
-يسمح لك [Aspose.Words for .NET](https://products.aspose.com/words/net/) أيضًا بتحميل مستند ODT عبر الدفق. لفتح مستند من تيار ، ما عليك سوى تمرير كائن تيار يحتوي على المستند إلى مُنشئ [Document](https://reference.aspose.com/words/net/aspose.words/document). يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند من دفق:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ملفات ODT إلى XLSB عبر الإنترنت باستخدام التطبيق" %}}
+
+1. قم بتحميل ملفات ODT للتحويل
+1. انتظر بضع ثوانٍ أو أكثر حسب حجم ODT
+1. راقب شريط حالة التحميل
+1. انقر على زر "تحويل"
+1. سيتم تحويل ODT إلى مستند XLSB
+1. تنزيل الملف المُحوَّل XLSB
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ODT إلى XLSB عبر واجهة برمجة تطبيقات .NET Automation" %}}
+
+
+1. افتح ملف ODT باستخدام فئة [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. تحويل ODT إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند بتنسيق XLSB باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) وعيّن `XLSB` على أنه SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="تحويل ODT إلى XLSB عبر C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+هناك حالات قليلة أخرى لحفظ ODT في XLSB باستخدام ميزات أخرى مثل قم بتحميل مستند ODT من الدفق عبر C#, إضافة خصائص مخصصة في ملف XLSB عبر C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="إضافة خصائص مخصصة في ملف XLSB عبر C#" %}}
-أثناء تحويل ODT إلى XLSB ، يمكّنك [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) من إضافة خصائص مخصصة في مستندات XLSB. لإضافة خاصية مخصصة ، يمكنك استخدام طريقة [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) للأسلوب [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) فئة. يضيف الأسلوب Add الخاصية إلى ملف Excel ويعيد مرجعًا لخاصية المستند الجديدة كـ [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) كائن. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>تطوير تطبيق تحويل الملفات ODT باستخدام .NET</h2>
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+هل تحتاج إلى تطوير تطبيق برمجي قائم على .NET لحفظ وتصدير ملفات ODT إلى مستند XLSB بسهولة؟ باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/ar/net/)، يمكن لأي مطور .NET دمج كود API أعلاه لبرمجة تطبيق التحويل عبر مجموعة متنوعة من التنسيقات بما في ذلك Microsoft Word وExcel وPowerpoint وPDF وملفات البريد الإلكتروني والصور وغيرها من التنسيقات. مكتبة .NET قوية لتحويل المستندات، وتدعم العديد من التنسيقات الشائعة بما في ذلك تنسيق ODT. عند تصدير المستندات إلى تنسيقات أخرى، يمكن للمبرمجين استخدام Aspose.Total لواجهات برمجة التطبيقات الفرعية لـ .NET بما في ذلك [Aspose.Words for .NET](https://products.aspose.com/words/ar/net/) و[Aspose.Cells for .NET](https://products.aspose.com/cells/ar/net/) و[Aspose.Slides for .NET](https://products.aspose.com/slides/ar/net/) و[Aspose.PDF for .NET](https://products.aspose.com/pdf/ar/net/) و[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ar/net/) والمزيد.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="مكتبة التحويل ODT لـ .NET" %}}
+
+هناك ثلاثة خيارات بديلة لتثبيت Aspose.Total لـ .NET على نظامك. الرجاء اختيار ما يشبه احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
+
+- قم بتثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). راجع [التوثيق](https://docs.aspose.com/total/net/)
+- قم بتثبيت المكتبة باستخدام Package Manager Console من خلال اختيار واجهة برمجة التطبيقات الفرعية الخاصة بها داخل Visual Studio IDE مثل [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui) و[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) و[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) وما إلى ذلك
+- قم بتثبيت المكتبة يدويًا باستخدام Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="حفظ ODT في XLSB متطلبات التطبيق" %}}
+
+منتجنا متعدد المنصات بالكامل ويدعم جميع تنفيذات .NET الرئيسية وفقًا لمواصفات '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework، بدءًا من الإصدار 2.0 الأقدم، وانتهاءً بالإصدار الأحدث '.NET Framework 4.8'
+- .NET Core، بدءًا من الإصدار 2.0 الأقدم، وانتهاءً بأحدث إصدار '.NET 6'
+- مونو >= 2.6.7
+<br />
+نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على آلة افتراضية، فأنت حر في تطوير أي نوع من البرامج لأنظمة Windows وmacOS وAndroid وiOS وLinux. تأكد فقط من أنك قمت بتثبيت الإصدار المقابل من .NET Framework، أو .NET Core، أو Windows Azure، أو Mono، أو Xamarin.<br />
+نوصي باستخدام Microsoft Visual Studio، وXamarin، وMonoDevelop IDE لإنشاء تطبيقات C#، وF#، وVB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="الأسئلة الشائعة" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>أسئلة مكررة</h2>
-              <ul>
+              <h2>الأسئلة الشائعة</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كيف يمكنني تحويل ODT إلى XLSB Online؟</b></span>
+                          <span itemprop="name"><b>هل يمكنني استخدام الكود .NET أعلاه في تطبيقي؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل ODT أعلاه. أولاً ، تحتاج إلى إضافة ملف ODT للتحويل عن طريق السحب & amp؛ قم بالإفلات أو النقر داخل المنطقة البيضاء لاستيراد المستند. ثم انقر فوق الزر "تحويل". عند اكتمال تحويل ODT إلى XLSB ، يمكنك تنزيل الملف المحول. لذلك ستحصل على ملفات XLSB المخرجة بنقرة واحدة فقط.</span>
+                          <span itemprop="text">نعم، يمكنك تنزيل هذا الكود. يمكنك بسهولة تطوير حل احترافي لتصدير وحفظ ODT إلى ملف XLSB باستخدام .NET. استخدم واجهة برمجة تطبيقات تحويل Aspose ODT إلى XLSB لتطوير برامج عالية المستوى ومستقلة عن المنصة في .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كم من الوقت يستغرق تحويل ODT؟</b></span>
+                          <span itemprop="name"><b>هل يعمل تطبيق تصدير المستند هذا على نظام Windows فقط؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل هذا المحول عبر الإنترنت بسرعة ولكنه يعتمد بشكل أساسي على حجم ملف ODT. يمكنك تحويل ملف ODT صغير الحجم إلى XLSB في بضع ثوانٍ. علاوة على ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فإن ذلك يعتمد على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">لديك المرونة اللازمة لبدء تصدير المستندات من ODT إلى XLSB من أي جهاز، بغض النظر عن نظام التشغيل الذي يعمل عليه، سواء كان Windows أو Linux أو Mac OS أو Android. كل ما هو مطلوب هو متصفح ويب حديث واتصال نشط بالإنترنت.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>هل من الآمن تحويل ODT إلى XLSB باستخدام محول Aspose.Total المجاني؟</b></span>
+                          <span itemprop="name"><b>هل من الآمن استخدام التطبيق عبر الإنترنت لتحويل مستندات ODT متعددة؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">بالطبع! سيكون رابط تنزيل ملفات XLSB متاحًا فورًا بعد التحويل. نحذف الملفات التي تم تحميلها بعد 24 ساعة وستتوقف روابط التنزيل عن العمل بعد هذه الفترة الزمنية. لا أحد لديه حق الوصول إلى ملفاتك. يعتبر تحويل الملفات (بما في ذلك ODT) آمنًا تمامًا. تم دمج التطبيق المجاني بشكل أساسي لغرض الاختبار بحيث يمكن للمرء التحقق من النتيجة قبل دمج الكود.</span>
+                          <span itemprop="text">بالطبع! سيتم إزالة ملفات الإخراج التي تم إنشاؤها من خلال خدمتنا بشكل آمن وتلقائي من خوادمنا في غضون 24 ساعة. وكنتيجة لذلك، فإن روابط التنزيل المرتبطة بهذه الملفات سوف تتوقف عن العمل بعد هذه الفترة.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>ما المتصفح الذي يجب أن أستخدمه لتحويل ODT؟</b></span>
+                          <span itemprop="name"><b>ما هو المتصفح الذي يجب استخدامه للتطبيق؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يمكنك استخدام أي متصفح حديث لهذا التحويل عبر الإنترنت ، على سبيل المثال ، Google Chrome و Firefox و Opera و Safari. ولكن في حالة قيامك بتطوير تطبيق سطح المكتب. Aspose.Total ODT تحويل API سيعمل بسلاسة.</span>
+                          <span itemprop="text">يمكنك استخدام أي متصفح ويب حديث مثل Google Chrome أو Firefox أو Opera أو Safari لتحويل المستندات ODT عبر الإنترنت.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>كيف يمكنني تصدير ملفات ODT متعددة؟</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">ابدأ بتحميل ملف واحد أو أكثر تريد تحويله. يمكنك إما سحب ملفات ODT وإفلاتها أو النقر ببساطة داخل المنطقة البيضاء. بعد ذلك، انقر فوق الزر "تحويل"، وسوف يقوم تطبيق التحويل عبر الإنترنت لدينا بمعالجة الملفات التي تم تحميلها بسرعة.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>كم من الوقت يستغرق تحويل ملفات ODT؟/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">يعمل تطبيق التحويل هذا بسرعة، فقد يستغرق الأمر بضع ثوانٍ أو أكثر اعتمادًا على حجم المستند لتحميله وحفظه بالتنسيق المطلوب.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

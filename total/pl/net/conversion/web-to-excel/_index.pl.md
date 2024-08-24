@@ -1,77 +1,175 @@
 ---
-title: Wyodrębnij dane witryny i konwertuj strony internetowe HTML do pliku Excel za pomocą C#
-description: Zeskrobuj strony internetowe, a także eksportuj HTML do dokumentów Microsoft Excel. Twórz aplikacje .NET, aby pobierać dane ze stron internetowych do formatów XLS, XLSX.
+title: Konwersja online WEB do Excel lub budowa aplikacji opartej na .NET do konwersji plików WEB
+description: Darmowa aplikacja online do konwersji plików WEB na Excel. Kod biblioteki konwersji .NET C# dla dokumentów WEB. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj strony internetowe do Excela za pomocą C#" h2="Wyodrębnij dane stron internetowych z HTML. Importuj HTML do formatów Microsoft Excel XLS, XLSX w aplikacjach .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikacja do konwersji plików WEB do Excel online i kod .NET do konwersji plików WEB" h2="Opracuj wydajną aplikację konwersji i eksportu WEB opartą na platformie .NET. Konwertuj pojedyncze lub wiele plików WEB do formatu Excel i innych formatów za pomocą interfejsu API automatyzacji .NET. Bezpłatna konwersja plików WEB online za pomocą aplikacji z natychmiastowym pobraniem." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Strony internetowe są istotną częścią Internetu i zawierają bogactwo informacji przydatnych dla osób i organizacji. Jednak niektórzy użytkownicy mogą mieć trudności z wyodrębnieniem danych ze stron internetowych, zwłaszcza gdy informacje są rozproszone na wielu stronach. W takich przypadkach konwersja stron internetowych do formatów Excel może być przydatnym rozwiązaniem.</p><br />
-<p>Konwersja stron internetowych do formatów programu Excel polega na przekształceniu danych na stronie internetowej do formatu strukturalnego, który można łatwo zaimportować do programu Excel. Proces ten można zautomatyzować za pomocą narzędzi programowych, które zostały specjalnie zaprojektowane do tego celu. Narzędzia te mogą wyodrębniać dane z wielu stron internetowych i konwertować je do jednego pliku Excel, który można analizować i modyfikować zgodnie z wymaganiami.</p><br />
-
-<p>Jednak ważne jest, aby podkreślić znaczenie odpowiedzialnych i etycznych praktyk, jeśli chodzi o skrobanie sieci. Przestrzeganie regulaminów serwisów internetowych, przestrzeganie przepisów prawa oraz powstrzymywanie się od działań, które mogłyby naruszyć prywatność lub prawa własności intelektualnej, to istotne aspekty, które należy wziąć pod uwagę.</p>
-
-<h2 class="heading-border">Używanie Aspose.HTML jako API Scrapera</h2>
-
-<p>Wykorzystując API Aspose.HTML for .NET, które jest komponentem Aspose.Total for .NET, możesz bezproblemowo tworzyć własne aplikacje przeznaczone do analizowania i wydobywania danych z dokumentów HTML. Ten interfejs API zapewnia kompleksowy zestaw narzędzi, które znacznie upraszczają to przedsięwzięcie, umożliwiając wydajną pracę z zawartością HTML.</p><br />
-
-<p>W procesie opracowywania skrobaka selektory danych mają ogromne znaczenie w identyfikowaniu i wydobywaniu pożądanych informacji z plików HTML. Te selektory, zwykle wykorzystujące selektory XPath, CSS lub połączenie obu, służą jako cenne narzędzia do lokalizowania określonych elementów danych w strukturze HTML. Działając jako mechanizm nawigacyjny, selektory te ułatwiają precyzyjne kierowanie i wyodrębnianie danych, które chcesz pobrać.</p>
-
-<h2 class="heading-border">Zadania, które można wykonać w ramach Web Scrapping</h2>
-
-<p>Korzystając z Aspose.HTML dla .NET, programiści mogą bez wysiłku zautomatyzować proces ekstrakcji danych ze stron internetowych, umożliwiając im efektywne wykonywanie następujących zadań związanych z przeglądaniem stron internetowych.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Dokładnie analizuj dokumenty HTML i ich elementy. Korzystaj z funkcji, takich jak szczegółowa analiza, niestIardowe filtrowanie iteracji elementów i bezproblemowa nawigacja za pomocą selektorów CSS lub XPath.
-2. [Pobierz stronę internetową](https://docs.aspose.com/html/net/download-website/) - Wydajnie pobieraj strony internetowe z adresów URL i dostosuj proces pobierania. Wybierz pobranie całej witryny lub określonych stron internetowych zgodnie z określonymi wymaganiami.
-3. [Pobierz pliki z adresu URL](https://docs.aspose.com/html/net/download-file-from-url/) - Łatwe pobieranie plików z adresu URL.
-4. [Pobierz obrazy ze strony internetowej](https://docs.aspose.com/html/net/download-images-from-website/) - Pobierz różne rodzaje obrazów ze stron internetowych.
-5. [Pobierz SVG ze strony internetowej](https://docs.aspose.com/html/net/download-svg-from-website/) - Pobieranie plików skalowalnej grafiki wektorowej (SVG) ze strony internetowej przy użyciu języka C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak wyodrębnić dane sieciowe za pomocą C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Darmowa aplikacja do konwersji WEB na Excel online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj pliki WEB do Excel online za pomocą aplikacji" %}}
+
+1. Prześlij pliki WEB do konwersji
+1. Poczekaj kilka sekund lub dłużej, w zależności od rozmiaru WEB
+1. Zwróć uwagę na pasek stanu przesyłania
+1. Kliknij przycisk „Konwertuj”
+1. WEB zostanie przekonwertowany na dokument Excel
+1. Pobierz przekonwertowany plik Excel
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj WEB na Excel za pomocą interfejsu API automatyzacji .NET" %}}
+
+
 
 1. Zainicjuj dokument HTML z adresu URL, używając metody [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor.
 2. Określ selektor za pomocą [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metoda, aby pobrać wszystkie elementy pasujące do selektora.
 3. Przejrzyj listę elementów i sformatuj dane wyjściowe zgodnie z własnymi wymaganiami.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące usuwania i konwersji stron internetowych" %}}
-Zainstaluj z linii poleceń jako ```nuget install Aspose.Total``` lub zainstaluj bezpośrednio z konsoli Menedżera pakietów Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konwertuj WEB na Excel przez C# .NET" offSpacer="" %}}
 
-Dwa [Aspose.Total for .NET](https://products.aspose.com/total/net/) potomne API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) I [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) zostanie zintegrowany.
-
-Ewentualnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Używanie Aspose.Cells do konwersji HTML na Excel" %}}
-<p>Aby przekonwertować HTML na XLS, możesz skorzystać z interfejsu API Aspose.Cells for .NET, który umożliwia programowe wykonanie tego zadania za pomocą zaledwie kilku wierszy kodu. Za pomocą interfejsu API można tworzyć wieloplatformowe aplikacje, które mają możliwość generowania, modyfikowania, konwertowania, renderowania i drukowania różnych plików programu Excel. Interfejs API .NET Excel wykracza poza prostą konwersję formatu, ponieważ może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i inne. Ta wszechstronna funkcjonalność sprawia, że jest to doskonały wybór do wymiany dokumentów w formatach zgodnych ze stIardami branżowymi.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Konwersja HTML do Microsoft Excel XLS, XLSX w C# to prosty proces dla programistów .NET. Możesz to osiągnąć za pomocą zaledwie kilku linii kodu:</p><br />
-
-1. Załaduj plik HTML, tworząc instancję klasy Workbook.
-1. Przekonwertuj załadowany kod HTML do programu Excel, wywołując metodę Save w instancji Workbook.
+Jeszcze kilka przypadków zapisania WEB w Excel przy użyciu innych funkcji, takich jak Używanie Aspose.Cells do konwersji HTML na Excel.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Opracuj aplikację konwersji plików WEB przy użyciu .NET</h2>
+
+Musisz opracować aplikację bazującą na technologii .NET, która umożliwi łatwe zapisywanie i eksportowanie plików WEB do dokumentu Excel? Dzięki [Aspose.Total for .NET](https://products.aspose.com/total/pl/net/) każdy programista .NET może zintegrować powyższy kod API w celu zaprogramowania aplikacji konwertującej w różnych formatach, w tym Microsoft Word, Excel, PowerPoint, PDF, plikach e-mail, obrazach i innych formatach. Potężna biblioteka .NET do konwersji dokumentów, obsługuje wiele popularnych formatów, w tym format WEB. Eksportując dokumenty do innych formatów, programiści mogą używać Aspose.Total dla podrzędnych interfejsów API .NET, w tym [Aspose.Words for .NET](https://products.aspose.com/words/pl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/pl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/pl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/pl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/pl/net/) i innych.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Biblioteka konwersji dla .NET" %}}
+
+Istnieją trzy alternatywne opcje instalacji Aspose.Total dla .NET w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcją krok po kroku:<br /><br />
+
+- Zainstaluj [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zobacz [Dokumentacja](https://docs.aspose.com/total/net/)
+- Zainstaluj bibliotekę za pomocą konsoli Menedżera pakietów jako jej podrzędny interfejs API w środowisku IDE programu Visual Studio, np. [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) itd.
+- Zainstaluj bibliotekę ręcznie, korzystając z Instalatora systemu Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Zapisywanie WEB do wymagań aplikacji Excel" %}}
+
+Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne implementacje .NET zgodnie ze specyfikacją „.NET Standard 2.0”:<br /><br />
+
+- Microsoft .NET Framework, począwszy od najwcześniejszej wersji 2.0, a skończywszy na najnowszej „.NET Framework 4.8”
+- .NET Core, począwszy od najwcześniejszej wersji 2.0 i kończąc na najnowszej „.NET 6”
+- Mono >= 2.6.7
+<br />
+Ponieważ kod .NET nie wymaga użycia sprzętu ani systemu operacyjnego, lecz wyłącznie maszyny wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux. Upewnij się, że zainstalowałeś odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br />
+Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów Microsoft Visual Studio, Xamarin i środowiska IDE MonoDevelop.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Często zadawane pytania" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Często zadawane pytania</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy mogę wykorzystać powyższy kod .NET w swojej aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tak, możesz pobrać ten kod. Można łatwo opracować profesjonalne rozwiązanie do eksportowania i zapisywania pliku WEB do pliku Excel przy użyciu .NET. Użyj interfejsu API konwersji WEB do Excel Aspose, aby tworzyć niezależne od platformy oprogramowanie wysokiego poziomu w środowisku .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy ten dokument eksportuje pracę aplikacji tylko w systemie Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Masz możliwość zainicjowania eksportu dokumentu z WEB do Excel z dowolnego urządzenia, niezależnie od systemu operacyjnego, na którym jest uruchomiony, czy jest to Windows, Linux, Mac OS czy Android. Potrzebna jest jedynie nowoczesna przeglądarka internetowa i aktywne połączenie z internetem.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy używanie aplikacji online do konwersji wielu dokumentów WEB jest bezpieczne?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Oczywiście! Pliki wyjściowe wygenerowane za pośrednictwem naszej usługi zostaną bezpiecznie i automatycznie usunięte z naszych serwerów w ciągu 24 godzin. W związku z tym linki do pobierania tych plików przestaną działać po upływie tego okresu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Z jakiej przeglądarki powinienem korzystać w aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Do konwersji dokumentów WEB online możesz użyć dowolnej nowoczesnej przeglądarki internetowej, np. Google Chrome, Firefox, Opera lub Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mogę wyeksportować wiele plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Zacznij od przesłania jednego lub więcej plików, które chcesz przekonwertować. Możesz przeciągnąć i upuścić pliki WEB lub po prostu kliknąć w biały obszar. Następnie kliknij przycisk „Konwertuj”, a nasza aplikacja do konwersji online szybko przetworzy przesłane pliki.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ile czasu zajmuje konwersja plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ta aplikacja do konwersji działa szybko. Może to potrwać kilka sekund lub dłużej, zależnie od rozmiaru dokumentu, zanim zostanie on przesłany i zapisany w wymaganym formacie.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

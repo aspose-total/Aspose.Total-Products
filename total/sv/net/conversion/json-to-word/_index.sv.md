@@ -1,64 +1,178 @@
 ---
-title: Konvertera JSON-format till WORD via .NET
-description: Analysera JSON till WORD i C# utan att använda Microsoft Word
-url_ignore: /sv/net/conversion/json-to-word/
+title: Online JSON till Word-konvertering eller bygg .NET-baserad applikation för att konvertera JSON-filer
+description: Gratis onlineapp för att konvertera JSON till Word-filer. .NET C#-konverteringsbibliotekskod för JSON-dokument.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: JSON
-outformat: WORD
+outformat: Word
 otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera JSON-format till WORD via C#" h2="C# API för att tolka JSON till WORD utan att använda Microsoft<sup>&reg;</sup> Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Online JSON till Word-konverteringsapp och .NET-kod för att konvertera JSON-filer" h2="Utveckla kraftfull .NET-baserad JSON-omvandlings- och exportapplikation.  Konvertera enstaka eller flera JSON-filer till Word och andra format via .NET automation API.  Konvertera fritt JSON-filer online via app med omedelbar nedladdning." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du tolka JSON till WORD i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), kan du exportera JSON till PDF. Efter det, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du konvertera PDF till WORD.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON-format till WORD via C#" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis onlinekonverteringsapp från JSON till Word" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=json" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON till Word-filer online med app" %}}
+
+1. Ladda upp JSON-filer för att konvertera
+1. Vänta i några sekunder eller mer beroende på storleken på JSON
+1. Håll ett öga på uppladdningsstatusfältet
+1. Klicka på knappen "Konvertera".
+1. JSON kommer att konverteras till Word-dokument
+1. Ladda ner den konverterade Word-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera JSON till Word via .NET Automation API" %}}
+
+
 1. Skapa ett nytt [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt och läs giltig JSON-data från filen
 2. Importera JSON-fil till kalkylblad med klassen [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) och [Spara](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) den som PDF
 3. Ladda PDF-dokument genom att använda klassen [Document](https://reference.aspose.com/words/net/aspose.words/document)
 4. Spara dokumentet i WORD-format med metoden [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Installera från kommandoraden som ```nuget install Aspose.Total``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Total```.
-
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.comtotal/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/agp/code-block title="Konvertera JSON till Word via C# .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-doc.cs" >}}
 
+{{% /blocks/products/pf/agp/code-block %}}
 
-{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Ställ in layout och konvertera JSON-format till WORD via C#" %}}
-När du analyserar JSON till WORD kan du också ställa in layoutalternativ för din JSON med [JsonLayoutOptions](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonlayoutoptions). Det låter dig bearbeta Array som en tabell, ignorera nollvärden, ignorera arraytitel, ignorera objekttitel, konvertera sträng till nummer eller datum, ställa in datum och nummerformat och ställa in titelstil. Alla dessa alternativ låter dig presentera din data enligt dina behov. Följande kodavsnitt visar hur du ställer in layoutalternativen.  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Få fler fall för att spara JSON till Word med andra funktioner som Ställ in layout och konvertera JSON-format till WORD via C#, Analysera JSON-format till WORD med vattenstämpel.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "set-layout-and-parse-json-to-doc.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Analysera JSON-format till WORD med vattenstämpel" %}}
-Med hjälp av API:t kan du också konvertera JSON till WORD med vattenstämpel. För att lägga till en vattenstämpel till ditt WORD-dokument kan du först analysera JSON-filen till PDF och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade PDF-filen med klassen [Document](https://reference.aspose.com/words/net/aspose.words/document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, Ring Watermark.SetText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions. Efter att ha lagt till vattenstämpeln kan du spara dokumentet i WORD. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Utveckla JSON filkonverteringsapplikation med .NET</h2>
 
-{{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}
+Behöver du utveckla .NET-baserad programvara för att enkelt spara och exportera JSON-filer till Word-dokument?  Med [Aspose.Total for .NET](https://products.aspose.com/total/sv/net/) kan alla .NET-utvecklare integrera ovanstående API-kod för att programmera konverteringsapplikationen i olika format inklusive Microsoft Word, Excel, Powerpoint, PDF, e-postfiler, bilder och andra format.  Kraftfullt .NET-bibliotek för dokumentkonvertering, stöder många populära format inklusive JSON-format.  Genom att exportera dokument till andra format kan programmerare använda Aspose.Total för .NET underordnade API:er inklusive [Aspose.Words for .NET](https://products.aspose.com/words/sv/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/sv/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/sv/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/sv/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/sv/net/) och mer.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="JSON Conversion Library för .NET" %}}
+
+Det finns tre alternativa alternativ för att installera Aspose.Total för .NET på ditt system.  Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
+
+- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Se [Dokumentation](https://docs.aspose.com/total/net/)
+- Installera biblioteket med Package Manager Console från dess underordnade API-val i Visual Studio IDE som [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc.
+- Installera biblioteket manuellt med Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Sparar JSON till Word appkrav" %}}
+
+Vår produkt är helt plattformsoberoende och stöder alla större .NET-implementationer enligt '.NET Standard 2.0'-specifikationen:<br /><br />
+
+- Microsoft .NET Framework, från den tidigaste 2.0-versionen och slutar med den senaste '.NET Framework 4.8'
+- .NET Core, från den tidigaste 2.0 och slutar med den senaste '.NET 6'
+- Mono >= 2.6.7
+<br />
+Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.  Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br />
+Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Vanliga frågor" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Vanliga frågor</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kan jag använda ovanstående .NET-kod i min applikation?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, du är välkommen att ladda ner den här koden. Man kan enkelt utveckla en professionell lösning för att exportera och spara JSON till Word-fil med .NET.  Använd Aspose JSON till Word konverterings-API för att utveckla plattformsoberoende programvara på hög nivå i .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Fungerar detta dokumentexporterande app bara på Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du har flexibiliteten att initiera export av dokument från JSON till Word från vilken enhet som helst, oavsett vilket operativsystem den körs på, oavsett om det är Windows, Linux, Mac OS eller Android.  Allt som krävs är en modern webbläsare och en aktiv internetanslutning.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Är det säkert att använda onlineappen för att konvertera flera JSON-dokument?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Naturligtvis! Utdatafilerna som genereras genom vår tjänst kommer säkert och automatiskt att tas bort från våra servrar inom en 24-timmars tidsram.  Som ett resultat kommer de nedladdningslänkar som är kopplade till dessa filer att upphöra att fungera efter denna period.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Vilken webbläsare ska man använda appen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du kan använda vilken modern webbläsare som helst som Google Chrome, Firefox, Opera eller Safari för onlinekonvertering av JSON-dokument.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur kan jag exportera flera JSON-filer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Börja med att ladda upp en eller flera filer du vill konvertera. Du kan antingen dra och släppa dina JSON-filer eller helt enkelt klicka i det vita området.  Därefter klickar du på knappen "Konvertera", så kommer vår onlinekonverteringsapp att snabbt bearbeta de uppladdade filerna.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur lång tid tar det att konvertera JSON-filerna?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Denna konverteringsapplikation fungerar snabbt, det kan ta några sekunder eller mer beroende på dokumentstorleken att ladda upp och spara dem i önskat format.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

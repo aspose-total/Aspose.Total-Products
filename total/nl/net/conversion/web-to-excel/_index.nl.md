@@ -1,77 +1,175 @@
 ---
-title: Extraheer websitegegevens en converteer webpagina's HTML naar Excel-bestEn met behulp van C#
-description: Schraap webpagina's van websites en exporteer HTML naar Microsoft Excel-documenten. Ontwikkel .NET-applicaties om websitegegevens naar XLS-, XLSX-indelingen te schrapen.
+title: Online WEB naar Excel conversie of bouw een .NET-gebaseerde applicatie om WEB bestanden te converteren
+description: Gratis online app om WEB naar Excel bestanden te converteren. .NET C# conversiebibliotheekcode voor WEB documenten. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer webpagina's naar Excel via C#" h2="Gegevens van webpagina's extraheren uit HTML. Importeer HTML in Microsoft Excel XLS-, XLSX-indelingen binnen .NET-toepassingen." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB naar Excel conversie-app en .NET-code om WEB-bestanden te converteren" h2="Ontwikkel een krachtige .NET-gebaseerde WEB conversie- en exportapplicatie. Converteer één of meerdere WEB-bestanden naar Excel en andere formaten via de .NET-automatiserings-API. Converteer WEB-bestanden gratis online via een app met directe download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Webpagina's zijn een essentieel onderdeel van internet en bevatten een schat aan informatie die nuttig is voor individuen en organisaties. Sommige gebruikers vinden het echter een uitdaging om gegevens van webpagina's te extraheren, vooral wanneer de informatie over meerdere pagina's is verspreid. In dergelijke gevallen kan het omzetten van webpagina's naar Excel-formaten een hEnige oplossing zijn.</p><br />
-<p>Het converteren van webpagina's naar Excel-indelingen houdt in dat de gegevens op een webpagina worden omgezet in een gestructureerde indeling die eenvoudig in Excel kan worden geïmporteerd. Dit proces kan worden geautomatiseerd met behulp van softwaretools die speciaal voor dit doel zijn ontworpen. Deze tools kunnen gegevens uit meerdere webpagina's extraheren en converteren naar een enkel Excel-bestEn, dat naar behoefte kan worden geanalyseerd en gemanipuleerd.</p><br />
-
-<p>Het is echter belangrijk om het belang van verantwoorde en ethische praktijken te benadrukken als het gaat om webschrapen. Het respecteren van de servicevoorwaarden van websites, het naleven van wettelijke voorschriften en het afzien van activiteiten die inbreuk kunnen maken op de privacy of intellectuele eigendomsrechten zijn allemaal essentiële aspecten om te overwegen.</p>
-
-<h2 class="heading-border">Aspose.HTML gebruiken als een Scraper-API</h2>
-
-<p>Door gebruik te maken van de Aspose.HTML voor .NET API, een onderdeel van Aspose.Total voor .NET, kunt u naadloos uw eigen toepassingen maken die zijn ontworpen om gegevens uit HTML-documenten te analyseren en te extraheren. Deze API biedt een uitgebreide set tools die deze onderneming enorm vereenvoudigen, waardoor u efficiënt met HTML-inhoud kunt werken.</p><br />
-
-<p>Tijdens het ontwikkelen van een scraper zijn gegevenskiezers van enorm belang bij het identificeren en extraheren van de gewenste informatie uit HTML-bestEnen. Deze selectors, die gewoonlijk XPath, CSS-selectors of een combinatie van beide gebruiken, dienen als waardevolle hulpmiddelen om specifieke gegevenselementen binnen de HTML-structuur te lokaliseren. Deze selectors fungeren als een navigatiemechanisme en vergemakkelijken het nauwkeurig targeten en extraheren van de gegevens die u wilt ophalen.</p>
-
-<h2 class="heading-border">Taken die men kan uitvoeren voor Web Scrapping</h2>
-
-<p>Door Aspose.HTML voor .NET te gebruiken, kunnen ontwikkelaars moeiteloos het proces van gegevensextractie van webpagina's automatiseren, waardoor ze de volgende webscraping-taken effectief kunnen uitvoeren.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Analyseer HTML-documenten en hun elementen grondig. Profiteer van functies zoals gedetailleerde analyse, aangepaste filtering voor elementiteratie en naadloze navigatie met behulp van CSS-kiezers of XPath.
-2. [Website downloaden](https://docs.aspose.com/html/net/download-website/) - Download efficiënt websites van URL's en pas het downloadproces aan. Kies ervoor om de volledige website of specifieke webpagina's te downloaden volgens uw specifieke vereisten.
-3. [Bestanden downloaden van URL](https://docs.aspose.com/html/net/download-file-from-url/) - Download eenvoudig bestEnen van een URL.
-4. [Download afbeeldingen van de website](https://docs.aspose.com/html/net/download-images-from-website/) - Download verschillende soorten afbeeldingen van websites.
-5. [Download SVG van website](https://docs.aspose.com/html/net/download-svg-from-website/) - Haal SVG-bestEnen (Scalable Vector Graphics) op van een website met behulp van C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hoe webgegevens extraheren met C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis online WEB naar Excel conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converteer WEB naar Excel bestanden online met behulp van de app" %}}
+
+1. Upload WEB-bestanden om te converteren
+1. Wacht enkele seconden of langer, afhankelijk van de grootte van WEB
+1. Houd de uploadstatusbalk in de gaten
+1. Klik op de knop "Converteren"
+1. WEB wordt omgezet in een Excel-document
+1. Download het geconverteerde Excel-bestand
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converteer WEB naar Excel via .NET Automation API" %}}
+
+
 
 1. Initialiseer een HTML-document van een URL door gebruik te maken van de [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructeur.
 2. Specificeer een selector met behulp van de [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) methode om alle elementen op te halen die overeenkomen met de selector.
 3. Doorloop de lijst met elementen en formatteer de uitvoer volgens uw specifieke vereisten.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor webscraping en conversie" %}}
-Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total``` of installeer rechtstreeks vanuit de Package Manager-console van Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Converteer WEB naar Excel via C# .NET" offSpacer="" %}}
 
-Twee [Aspose.Total for .NET](https://products.aspose.com/total/net/) onderliggende API's, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) En [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) zal worden geïntegreerd.
-
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestEn downloaden van [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Cells gebruiken voor conversie van HTML naar Excel" %}}
-<p>Om HTML naar XLS te converteren, kunt u de Aspose.Cells for .NET API gebruiken, waarmee u deze taak programmatisch kunt uitvoeren met slechts een paar regels code. Met de API kunt u platformonafhankelijke toepassingen ontwikkelen die verschillende Excel-bestEnen kunnen genereren, wijzigen, converteren, renderen en afdrukken. De .NET Excel API gaat verder dan eenvoudige formaatconversie, omdat het ook Excel-bestEnen kan weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer. Deze uitgebreide functionaliteit maakt het een uitstekende keuze voor het uitwisselen van documenten in industriestEnaard formaten.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Het converteren van HTML naar Microsoft Excel XLS, XLSX in C# is een eenvoudig proces voor .NET-ontwikkelaars. U kunt dit bereiken met slechts een paar regels code:</p><br />
-
-1. Laad het HTML-bestEn door een instantie van de klasse Workbook te maken.
-1. Converteer de geladen HTML naar Excel door de Save-methode aan te roepen op de Workbook-instantie.
+Nog een paar voorbeelden voor het opslaan van WEB in Excel met andere functies, zoals Aspose.Cells gebruiken voor conversie van HTML naar Excel.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Ontwikkel een WEB-bestandsconversietoepassing met behulp van .NET</h2>
+
+Moet u een op .NET gebaseerde softwaretoepassing ontwikkelen waarmee u WEB-bestanden eenvoudig kunt opslaan en exporteren naar Excel-documenten? Met [Aspose.Total for .NET](https://products.aspose.com/total/nl/net/) kan iedere .NET-ontwikkelaar de bovenstaande API-code integreren om de conversietoepassing te programmeren voor diverse formaten, waaronder Microsoft Word, Excel, Powerpoint, PDF, e-mailbestanden, afbeeldingen en andere formaten. Krachtige .NET-bibliotheek voor documentconversie, ondersteunt veel populaire formaten, waaronder het WEB-formaat. Programmeurs kunnen Aspose.Total gebruiken voor .NET-onderliggende API's, waaronder [Aspose.Words for .NET](https://products.aspose.com/words/nl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/nl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/nl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/nl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/nl/net/) en meer, om documenten naar andere formaten te exporteren.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Conversiebibliotheek voor .NET" %}}
+
+Er zijn drie alternatieve opties om Aspose.Total voor .NET op uw systeem te installeren. Kies er een die het beste bij uw behoeften past en volg de stapsgewijze instructies:<br /><br />
+
+- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zie [Documentatie](https://docs.aspose.com/total/net/)
+- Installeer de bibliotheek met behulp van Package Manager Console vanaf de selectie van de onderliggende API binnen Visual Studio IDE, zoals [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), enz.
+- Installeer de bibliotheek handmatig met behulp van Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor het opslaan van WEB in Excel-app" %}}
+
+Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .NET-implementaties volgens de specificatie '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, beginnend bij de vroegste versie 2.0 en eindigend met de nieuwste versie '.NET Framework 4.8'
+- .NET Core, beginnend bij de vroegste versie 2.0 en eindigend met de laatste versie '.NET 6'
+- Monomeer >= 2.6.7
+<br />
+Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, kunt u elk soort software ontwikkelen voor Windows, macOS, Android, iOS en Linux. Zorg ervoor dat u de juiste versie van .NET Framework, .NET Core, Windows Azure, Mono of Xamarin hebt geïnstalleerd.<br />
+Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken om C#-, F#- en VB.NET-toepassingen te maken.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Veelgestelde vragen" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Veelgestelde vragen</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kan ik bovenstaande .NET-code in mijn toepassing gebruiken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, u bent van harte welkom om deze code te downloaden. U kunt eenvoudig een professionele oplossing ontwikkelen om WEB te exporteren en op te slaan naar Excel-bestand met behulp van .NET. Gebruik de conversie-API van Aspose WEB naar Excel om hoogwaardige, platformonafhankelijke software te ontwikkelen in .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Exporteert dit document alleen apps die op Windows werken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">U kunt het exporteren van documenten van WEB naar Excel vanaf elk apparaat starten, ongeacht het besturingssysteem waarop het draait: Windows, Linux, Mac OS of Android. Het enige dat u nodig hebt, is een moderne webbrowser en een actieve internetverbinding.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Is het veilig om de online app te gebruiken om meerdere WEB-documenten te converteren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Natuurlijk! De outputbestanden die via onze service worden gegenereerd, worden binnen 24 uur veilig en automatisch van onze servers verwijderd. Als gevolg hiervan zullen de downloadlinks die aan deze bestanden gekoppeld zijn, na deze periode niet meer werken.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Welke browser moet ik gebruiken om de app te gebruiken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">U kunt elke moderne webbrowser gebruiken, zoals Google Chrome, Firefox, Opera of Safari, voor online WEB-documentconversie.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe kan ik meerdere WEB-bestanden exporteren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Begin met het uploaden van een of meer bestanden die u wilt converteren. U kunt uw WEB-bestanden slepen en neerzetten of gewoon in het witte gebied klikken. Klik vervolgens op de knop 'Converteren'. Onze online conversie-app verwerkt de geüploade bestanden dan snel.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe lang duurt het om de WEB-bestanden te converteren?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Deze conversietoepassing werkt snel. Het kan enkele seconden of langer duren om de documenten te uploaden en op te slaan in het gewenste formaat, afhankelijk van de grootte van het document.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,78 +1,175 @@
 ---
-title: Estrai i dati del sito Web e converti le pagine Web HTML in PowerPoint utilizzEo C #
-description: Raschiare le pagine Web del sito Web ed esportare HTML in presentazioni Microsoft Powerpoint all'interno di applicazioni .NET
+title: Conversione online da WEB a Powerpoint o creazione di un'applicazione basata su .NET per convertire i file WEB
+description: Applicazione online gratuita per convertire file WEB in Powerpoint. Codice della libreria di conversione .NET C# per documenti WEB. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: POWERPOINT
+outformat: Powerpoint
 otherformats: WORD EXCEL PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti pagine Web in PowerPoint tramite C#" h2="Estrai i dati delle pagine web dall'HTML. Importa HTML in Microsoft PowerPoint PPT, formati PPTX all'interno di applicazioni .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="App di conversione online da WEB a Powerpoint e codice .NET per convertire i file WEB" h2="Sviluppare potenti applicazioni di conversione ed esportazione WEB basate su .NET. Converti uno o più file WEB in Powerpoint e altri formati tramite l'API di automazione .NET. Converti liberamente i file WEB online tramite app con download immediato." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Le pagine Web sono una parte essenziale della nostra vita quotidiana e vengono utilizzate per vari scopi. Tuttavia, a volte, potremmo dover presentare le pagine web in un formato diverso, come una presentazione PowerPoint. Non è più necessario copiare e incollare manualmente i contenuti dalle pagine Web nelle diapositive della presentazione. Invece, puoi automatizzare il processo utilizzEo le API .NET e concentrarti sulla creazione di contenuti accattivanti per le tue presentazioni dall'aspetto professionale che siano accattivanti e informative.</p><br />
-
-<p>Tuttavia, è fondamentale sottolineare l'importanza di praticare approcci responsabili ed etici mentre ci si impegna nel web scraping. Valorizzare i termini di servizio delineati dai siti Web, rispettare le normative legali e astenersi da attività che potrebbero violare la privacy o i diritti di proprietà intellettuale rappresentano tutti fattori critici che richiedono un'attenta considerazione.</p>
-
-<h2 class="heading-border">Utilizzo di Aspose.HTML come API Scraper</h2>
-
-<p>Con il potente Aspose.HTML per .NET API, parte integrante di Aspose.Total per .NET, hai la possibilità di sviluppare facilmente le tue applicazioni su misura per l'analisi dei dati e l'estrazione da documenti HTML. Questa API offre una vasta gamma di strumenti che semplificano notevolmente questo processo, consentendoti di gestire efficacemente i contenuti HTML con la massima efficienza.</p><br />
-
-<p>
-QuEo si crea uno scraper, i selettori di dati svolgono un ruolo fondamentale nell'identificazione e nell'estrazione delle informazioni richieste dai file HTML. Questi selettori, che spesso utilizzano XPath, selettori CSS o una combinazione di entrambi, fungono da strumenti preziosi per individuare elementi di dati specifici all'interno della struttura HTML. Agendo come meccanismi di navigazione, questi selettori consentono un targeting preciso e l'estrazione dei dati desiderati che si intende recuperare.</p>
-
-<h2 class="heading-border">Compiti che si possono eseguire per Web Scrapping</h2>
-
-<p>UtilizzEo Aspose.HTML per .NET, gli sviluppatori possono ottimizzare e semplificare i loro flussi di lavoro di web scraping, risparmiEo tempo e fatica, garantendo al contempo un'estrazione dei dati accurata e affidabile dalle pagine web.</p><br />
-
-1. [Navigazione HTML](https://docs.aspose.com/html/net/html-navigation/) - Analizza i documenti HTML in modo completo con funzionalità come l'analisi dettagliata, il filtro personalizzato per l'iterazione degli elementi e la navigazione senza interruzioni utilizzEo i selettori CSS o XPath.
-2. [Scarica il sito web](https://docs.aspose.com/html/net/download-website/) -  Scarica in modo efficiente i siti Web dagli URL e personalizza il processo di download. Scegli di scaricare l'intero sito Web o pagine Web specifiche in base alle tue esigenze.
-3. [Scarica i file dall'URL](https://docs.aspose.com/html/net/download-file-from-url/) - Scarica facilmente i file da un URL.
-4. [Scarica le immagini dal sito web](https://docs.aspose.com/html/net/download-images-from-website/) - Scarica vari tipi di immagini da siti web.
-5. [Scarica SVG dal sito web](https://docs.aspose.com/html/net/download-svg-from-website/) - Recupera file SVG (Scalable Vector Graphics) da un sito Web utilizzEo C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Come estrarre i dati Web utilizzEo C #?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="App gratuita di conversione online da WEB a Powerpoint" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti i file WEB in Powerpoint online utilizzando l'app" %}}
+
+1. Carica i file WEB da convertire
+1. Attendi qualche secondo o più a seconda della dimensione di WEB
+1. Tieni d'occhio la barra di stato del caricamento
+1. Fare clic sul pulsante "Converti"
+1. WEB verrà convertito nel documento Powerpoint
+1. Scarica il file Powerpoint convertito
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converti WEB in Powerpoint tramite .NET Automation API" %}}
+
+
 
 1. Inizializza un documento HTML da un URL utilizzEo il file [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) costruttore.
 2. Recupera gli elementi che corrispondono a un selettore specifico utilizzEo il [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metodo.
 3. Scorri l'elenco di elementi e personalizza il formato di output in base alle tue esigenze specifiche.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Requisiti di demolizione e conversione Web" %}}
-Installa dalla riga di comEo come ```nuget install Aspose.Total``` o installa direttamente dalla console di Package Manager di Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Convertire WEB in Powerpoint tramite C# .NET" offSpacer="" %}}
 
-Due [Aspose.Total for .NET](https://products.aspose.com/total/net/) API figlio, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) E [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) sarà integrato.
-
-In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Utilizzo di Aspose.Slides per la conversione da HTML a PowerPoint" %}}
-<p>Aspose.Slides per .NET è una robusta libreria .NET che offre funzionalità per la creazione, la conversione e la manipolazione di presentazioni PowerPoint, PDF, documenti HTML e altri formati di file. La conversione da HTML a PowerPoint comporta il trasferimento del contenuto di un documento HTML in diapositive all'interno di una presentazione PowerPoint.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>La conversione di HTML in presentazioni Microsoft PowerPoint PPT, PPTX in C# è un processo semplice per gli sviluppatori .NET. Puoi ottenerlo con poche righe di codice::</p><br />
-
-1. Creare un'istanza della classe Presentazione.
-1. Carica il documento HTML che desideri convertire in Presentazione utilizzEo il metodo o il costruttore appropriato.
-1. Salvare il file risultante come formato di presentazione Powerpoint pertinente utilizzEo il metodo Save.
+Altri casi in cui è possibile salvare WEB in Powerpoint con altre funzionalità come Utilizzo di Aspose.Slides per la conversione da HTML a PowerPoint.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Sviluppare un'applicazione di conversione file WEB utilizzando .NET</h2>
+
+Hai bisogno di sviluppare un'applicazione software basata su .NET per salvare ed esportare facilmente i file WEB in documenti Powerpoint? Con [Aspose.Total for .NET](https://products.aspose.com/total/it/net/), qualsiasi sviluppatore .NET può integrare il codice API di cui sopra per programmare l'applicazione di conversione in vari formati, tra cui Microsoft Word, Excel, Powerpoint, PDF, file di posta elettronica, immagini e altri formati. Potente libreria .NET per la conversione di documenti, supporta molti formati popolari, incluso il formato WEB. Per esportare documenti in altri formati, i programmatori possono utilizzare Aspose.Total per le API figlio .NET, tra cui [Aspose.Words for .NET](https://products.aspose.com/words/it/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/it/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/it/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/it/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/it/net/) e altri.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Libreria di conversione per .NET" %}}
+
+Esistono tre opzioni alternative per installare Aspose.Total per .NET sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo dopo passo:<br /><br />
+
+- Installa un [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Vedi [Documentazione](https://docs.aspose.com/total/net/)
+- Installare la libreria utilizzando Package Manager Console a partire dalla selezione API figlio all'interno di Visual Studio IDE come [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) ecc.
+- Installare la libreria manualmente utilizzando Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvataggio di WEB in Powerpoint Requisiti dell'app" %}}
+
+Il nostro prodotto è completamente multipiattaforma e supporta tutte le principali implementazioni .NET secondo le specifiche '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, a partire dalla prima versione 2.0 e terminando con l'ultima '.NET Framework 4.8'
+- .NET Core, a partire dalla prima versione 2.0 e terminando con l'ultima '.NET 6'
+- Mono >= 2.6.7
+<br />
+Poiché il codice .NET non si basa sull'hardware o sul sistema operativo sottostante, ma solo su una macchina virtuale, sei libero di sviluppare qualsiasi tipo di software per Windows, macOS, Android, iOS e Linux. Assicurati solo di aver installato la versione corrispondente di .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.<br />
+Consigliamo di utilizzare Microsoft Visual Studio, Xamarin e MonoDevelop IDE per creare applicazioni C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Domande frequenti" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Domande frequenti</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Posso utilizzare il codice .NET sopra riportato nella mia applicazione?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sì, sei il benvenuto a scaricare questo codice. Si può facilmente sviluppare una soluzione professionale per esportare e salvare WEB in un file Powerpoint usando .NET. Utilizzare l'API di conversione da Aspose WEB a Powerpoint per sviluppare software di alto livello, indipendente dalla piattaforma in .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Questa app per l'esportazione di documenti funziona solo su Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Hai la flessibilità di avviare l'esportazione del documento da WEB a Powerpoint da qualsiasi dispositivo, indipendentemente dal sistema operativo su cui è in esecuzione, sia Windows, Linux, Mac OS o Android. Tutto ciò che serve è un browser web moderno e una connessione Internet attiva.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>È sicuro utilizzare l'app online per convertire più documenti WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Certamente! I file di output generati tramite il nostro servizio verranno rimossi in modo sicuro e automatico dai nostri server entro un lasso di tempo di 24 ore. Di conseguenza, i link per il download associati a questi file non saranno più funzionanti dopo tale periodo.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quale browser dovrei usare per l'app?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Per la conversione online dei documenti WEB è possibile utilizzare qualsiasi browser web moderno, come Google Chrome, Firefox, Opera o Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Come posso esportare più file WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Inizia caricando uno o più file che vuoi convertire. Puoi trascinare e rilasciare i tuoi file WEB o semplicemente cliccare all'interno dell'area bianca. Successivamente, fai clic sul pulsante "Converti" e la nostra app di conversione online elaborerà rapidamente i file caricati.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quanto tempo ci vuole per convertire i file WEB?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Questa applicazione di conversione funziona rapidamente. Potrebbero essere necessari alcuni secondi o più, a seconda delle dimensioni del documento, per caricarlo e salvarlo nel formato richiesto.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

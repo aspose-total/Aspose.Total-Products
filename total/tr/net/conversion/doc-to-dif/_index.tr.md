@@ -1,7 +1,7 @@
 ---
-title: DOC'yi DIF'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Adobe Reader kullanmadan DOC'yi DIF'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOC'den DIF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
-url_ignore: /tr/net/conversion/doc-to-dif/
+title: Çevrimiçi DOC'yi DIF'ye Dönüştürme veya DOC Dosyalarını Dönüştürmek için .NET tabanlı Uygulama Oluşturma
+description: DOC dosyalarını DIF dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. DOC belgeleri için .NET C# dönüştürme kütüphanesi kodu. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,113 +10,170 @@ outformat: DIF
 otherformats: EXCEL TSV XLSB DIF XLTX XLAM XLSX XLT FODS XLTM SXC ODS XLSM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOC'yi DIF'ye Dönüştürmek için C# API veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi C# aracılığıyla DIF'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi DOC'yi DIF'ye Dönüştürme Uygulaması ve DOC Dosyalarını Dönüştürmek için .NET Kodu" h2="Güçlü .NET tabanlı DOC dönüştürme ve dışa aktarma uygulaması geliştirin. Tek veya birden fazla DOC dosyasını .NET otomasyon API'si aracılığıyla DIF ve diğer formatlara dönüştürün. DOC dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak DOC'den DIF'ye dönüştürme özelliğini herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasına dahil edebilirsiniz. iki basit adım. İlk olarak, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak DOC'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi DIF'ye dönüştürebilirsiniz.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOC'yi DIF'ye Dönüştürmek için .NET API" %}}
-1. DOC dosyasını [Document](https://reference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak açın
-2. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak DOC'u HTML'ye dönüştürün
-3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
-4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi DIF formatına kaydedin ve 'DIF'yi SaveFormat olarak ayarlayın
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-Komut satırından ```nuget install Aspose.Total``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.Total`` ile kurun.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/total/net) adresinden bir ZIP dosyasında alın.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>DOC'den DIF'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
-
-<iframe title="doc'dan dif'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Ücretsiz Çevrimiçi DOC - DIF Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="DOC Belgesini Akıştan C# ile Yükle" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla DOC belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Document](https://reference.aspose.com/words/net/aspose.words/document) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="DOC Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak DIF Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek DOC dosyalarını yükleyin
+1. DOC boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. DOC DIF belgesine dönüştürülecek
+1. Dönüştürülen DIF dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="DOC'yi .NET Otomasyon API'si aracılığıyla DIF'ye dönüştürün" %}}
+
+
+1. DOC dosyasını [Document](https://reference.aspose.com/words/net/aspose.words/document) sınıfını kullanarak açın
+2. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) yöntemini kullanarak DOC'u HTML'ye dönüştürün
+3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak HTML belgesini yükleyin
+4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) yöntemini kullanarak belgeyi DIF formatına kaydedin ve 'DIF'yi SaveFormat olarak ayarlayın
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="DOC'yi C# .NET ile DIF'ye dönüştürün" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+DOC dosyasını DIF dosyasına DOC Belgesini Akıştan C# ile Yükle, C# ile DIF Dosyasına Özel Özellikler Ekleme gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="C# ile DIF Dosyasına Özel Özellikler Ekleme" %}}
-DOC'yi DIF'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), DIF belgelerinize özel özellikler eklemenizi sağlar. Özel bir özellik eklemek için [CustomDocumentPropertyCollection]( için [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) yöntemini kullanabilirsiniz. https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) sınıfı. Add yöntemi, özelliği Excel dosyasına ekler ve yeni belge özelliği için [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) olarak bir başvuru döndürür.nesnesi. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>.NET kullanarak DOC Dosya Dönüştürme Uygulamasını Geliştirin</h2>
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+DOC dosyalarını DIF belgesine kolayca kaydetmek ve dışa aktarmak için .NET tabanlı bir yazılım uygulaması geliştirmeniz mi gerekiyor? [Aspose.Total for .NET](https://products.aspose.com/total/tr/net/) ile herhangi bir .NET geliştiricisi, Microsoft Word, Excel, Powerpoint, PDF, E-posta dosyaları, Resimler ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü .NET kütüphanesi, DOC formatı da dahil olmak üzere birçok popüler formatı destekler. Belgeleri diğer formatlara aktarmak için programcılar Aspose.Total'ı [Aspose.Words for .NET](https://products.aspose.com/words/tr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/tr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/tr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/tr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/) ve daha fazlası dahil olmak üzere .NET alt API'leri için kullanabilirler.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="DOC .NET için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for .NET'i sisteminize kurmanın üç alternatif seçeneği bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) yükleyin. [Belgeleme](https://docs.aspose.com/total/net/)'e bakın
+- [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) vb. gibi Visual Studio IDE içindeki alt API seçimi olarak Paket Yöneticisi Konsolunu kullanarak kütüphaneyi yükleyin
+- Windows Installer'ı kullanarak kitaplığı manuel olarak yükleyin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="DOC'yi DIF'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Ürünümüz tamamen çapraz platformdur ve '.NET Standard 2.0' spesifikasyonunu takip eden tüm önemli .NET uygulamalarını destekler:<br /><br />
+
+- Microsoft .NET Framework, en eski 2.0 sürümünden başlayarak en son '.NET Framework 4.8' ile sona ermektedir
+- .NET Core, en eski 2.0'dan başlayarak en son '.NET 6' ile sona eriyor
+- Mono >= 2.6.7
+<br />
+.NET kodu altta yatan donanıma veya işletim sistemine değil, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz. Sadece .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünün yüklü olduğundan emin olun.<br />
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="SSS" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Sıkça Sorulan Sorular</h2>
-              <ul>
+              <h2>SSS</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>DOC'yi Çevrimiçi DIF'e nasıl dönüştürebilirim?</b></span>
+                          <span itemprop="name"><b>Yukarıdaki .NET kodunu uygulamamda kullanabilir miyim?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">DOC dönüştürme için Çevrimiçi Uygulama yukarıda entegre edilmiştir. Öncelikle, sürükle &amp; ile dönüştürme için DOC dosyası eklemeniz gerekir. belgeyi içe aktarmak için beyaz alanın içine bırakın veya tıklayın. Ardından Dönüştür düğmesini tıklayın. DOC'den DIF'e dönüştürme işlemi tamamlandığında, dönüştürülen dosyanızı indirebilirsiniz. Böylece çıktı DIF dosyalarını tek bir tıklamayla alacaksınız.</span>
+                          <span itemprop="text">Evet, bu kodu indirmenize izin verilir. .NET kullanarak DOC'yi DIF dosyasına dışa aktarmak ve kaydetmek için profesyonel bir çözüm kolayca geliştirilebilir. .NET'te üst düzey, platformdan bağımsız yazılım geliştirmek için Aspose DOC - DIF dönüştürme API'sini kullanın.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>DOC'yi dönüştürmek ne kadar sürer?</b></span>
+                          <span itemprop="name"><b>Bu belgenin uygulama dışa aktarma özelliği sadece Windows'ta mı çalışıyor?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücü hızlı çalışır ancak esas olarak DOC dosyasının boyutuna bağlıdır. Küçük boyutlu DOC dosyasını birkaç saniye içinde DIF'e dönüştürebilirsiniz. Ayrıca, dönüştürme kodunu .NET uygulamasına entegre ettiyseniz, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlıdır.</span>
+                          <span itemprop="text">DOC'den DIF'ye belge aktarımını, Windows, Linux, Mac OS veya Android gibi hangi işletim sisteminde çalıştığına bakılmaksızın, herhangi bir cihazdan başlatma esnekliğine sahipsiniz. Tek ihtiyacınız olan güncel bir web tarayıcısı ve aktif bir internet bağlantısı.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Ücretsiz Aspose.Total dönüştürücü kullanarak DOC'yi DIF'e dönüştürmek güvenli midir?</b></span>
+                          <span itemprop="name"><b>Birden fazla DOC belgesini dönüştürmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Elbette! DIF dosyalarının indirme bağlantısı, dönüştürmeden hemen sonra kullanılabilir olacaktır. Yüklenen dosyaları 24 saat sonra siliyoruz ve indirme bağlantıları bu süre sonunda çalışmayı durduracak. Kimsenin dosyalarınıza erişimi yok. Dosya dönüştürme (DOC dahil) kesinlikle güvenlidir. Temel olarak ücretsiz uygulama, kodu entegre etmeden önce sonucu kontrol edebilmeniz için test amacıyla entegre edilmiştir.</span>
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları 24 saatlik bir zaman dilimi içerisinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak bu dosyalara ilişkin indirme bağlantıları bu sürenin sonunda çalışmayacaktır.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>DOC'yi dönüştürmek için hangi tarayıcıyı kullanmalıyım?</b></span>
+                          <span itemprop="name"><b>Uygulamayı kullanmak için hangi tarayıcıyı kullanmalıyım?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüşüm için herhangi bir modern tarayıcıyı kullanabilirsiniz, örneğin Google Chrome, Firefox, Opera, Safari. Ancak bir Masaüstü uygulaması geliştiriyorsanız. Aspose.Total DOC Conversion API sorunsuz çalışacaktır.</span>
+                          <span itemprop="text">Çevrimiçi DOC belge dönüşümü için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla DOC dosyasını nasıl dışa aktarabilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Dönüştürmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. DOC dosyalarınızı sürükleyip bırakabilir veya sadece beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Dönüştür' butonuna tıklayın, online dönüştürme uygulamamız yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>DOC dosyalarının dönüştürülmesi ne kadar zaman alır?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu dönüştürme uygulaması hızlı bir şekilde çalışır. Belgenin boyutuna bağlı olarak, dosyaların yüklenmesi ve gerekli formata kaydedilmesi birkaç saniye veya daha fazla sürebilir.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

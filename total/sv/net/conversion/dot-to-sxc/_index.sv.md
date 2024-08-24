@@ -1,7 +1,7 @@
 ---
-title: .NET API för att konvertera DOT till SXC eller med gratis Online Converter
-description: C# API för att konvertera DOT till SXC eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis DOT till SXC online-omvandlare snabbt innan du integrerar koden. 
-url_ignore: /sv/net/conversion/dot-to-sxc/
+title: Online DOT till SXC-konvertering eller bygg .NET-baserad applikation för att konvertera DOT-filer
+description: Gratis onlineapp för att konvertera DOT till SXC-filer. .NET C#-konverteringsbibliotekskod för DOT-dokument.  
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,113 +10,169 @@ outformat: SXC
 otherformats: DIF XLSM XLTX EXCEL FODS SXC TSV XLSB XLAM ODS XLTM XLSX XLT XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera DOT till SXC eller onlineapp" h2="Exportera DOT till SXC via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Online DOT till SXC-konverteringsapp och .NET-kod för att konvertera DOT-filer" h2="Utveckla kraftfull .NET-baserad DOT-omvandlings- och exportapplikation.  Konvertera enstaka eller flera DOT-filer till SXC och andra format via .NET automation API.  Konvertera fritt DOT-filer online via app med omedelbar nedladdning." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du inkludera DOT till SXC-konverteringsfunktion i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du exportera DOT till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till SXC.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API för att konvertera DOT till SXC" %}}
-1. Öppna DOT-filen med klassen [Document](https://reference.aspose.com/words/net/aspose.words/Document)
-2. Konvertera DOT till HTML med metoden [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)
-3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Spara dokumentet i SXC-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "SXC" som SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Installera från kommandoraden som ```nuget install Aspose.Total``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Total```.
-
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.comtotal/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis onlinekonverterare för DOT till SXC</h3>
-
-<iframe title="dot till sxc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Gratis onlinekonverteringsapp från DOT till SXC" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Ladda DOT-dokument från Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda DOT-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://reference.aspose.com/words/net/aspose.words/Document). Följande kodexempel visar hur man öppnar ett dokument från en ström:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera DOT till SXC-filer online med app" %}}
+
+1. Ladda upp DOT-filer för att konvertera
+1. Vänta i några sekunder eller mer beroende på storleken på DOT
+1. Håll ett öga på uppladdningsstatusfältet
+1. Klicka på knappen "Konvertera".
+1. DOT kommer att konverteras till SXC-dokument
+1. Ladda ner den konverterade SXC-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera DOT till SXC via .NET Automation API" %}}
+
+
+1. Öppna DOT-filen med klassen [Document](https://reference.aspose.com/words/net/aspose.words/Document)
+2. Konvertera DOT till HTML med metoden [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4)
+3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Spara dokumentet i SXC-format med metoden [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) och ställ in "SXC" som SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Konvertera DOT till SXC via C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Få fler fall för att spara DOT till SXC med andra funktioner som Ladda DOT-dokument från Stream via C#, Lägg till anpassade egenskaper i SXC-fil via C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Lägg till anpassade egenskaper i SXC-fil via C#" %}}
-När du konverterar DOT till SXC gör [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) det möjligt för dig att lägga till anpassade egenskaper i dina SXC-dokument. För att lägga till en anpassad egenskap kan du använda metoden [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection/methods/add/index) för [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customDocumentpropertycollection) klass. Add-metoden lägger till egenskapen i Excel-filen och returnerar en referens för den nya dokumentegenskapen som en [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/Documentproperty) objekt. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+<h2>Utveckla DOT filkonverteringsapplikation med .NET</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+Behöver du utveckla .NET-baserad programvara för att enkelt spara och exportera DOT-filer till SXC-dokument?  Med [Aspose.Total for .NET](https://products.aspose.com/total/sv/net/) kan alla .NET-utvecklare integrera ovanstående API-kod för att programmera konverteringsapplikationen i olika format inklusive Microsoft Word, Excel, Powerpoint, PDF, e-postfiler, bilder och andra format.  Kraftfullt .NET-bibliotek för dokumentkonvertering, stöder många populära format inklusive DOT-format.  Genom att exportera dokument till andra format kan programmerare använda Aspose.Total för .NET underordnade API:er inklusive [Aspose.Words for .NET](https://products.aspose.com/words/sv/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/sv/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/sv/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/sv/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/sv/net/) och mer.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="DOT Conversion Library för .NET" %}}
+
+Det finns tre alternativa alternativ för att installera Aspose.Total för .NET på ditt system.  Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
+
+- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Se [Dokumentation](https://docs.aspose.com/total/net/)
+- Installera biblioteket med Package Manager Console från dess underordnade API-val i Visual Studio IDE som [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc.
+- Installera biblioteket manuellt med Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Sparar DOT till SXC appkrav" %}}
+
+Vår produkt är helt plattformsoberoende och stöder alla större .NET-implementationer enligt '.NET Standard 2.0'-specifikationen:<br /><br />
+
+- Microsoft .NET Framework, från den tidigaste 2.0-versionen och slutar med den senaste '.NET Framework 4.8'
+- .NET Core, från den tidigaste 2.0 och slutar med den senaste '.NET 6'
+- Mono >= 2.6.7
+<br />
+Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.  Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br />
+Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Vanliga frågor" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
               <h2>Vanliga frågor</h2>
-              <ul>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Hur kan jag konvertera DOT till SXC Online?</b></span>
+                          <span itemprop="name"><b>Kan jag använda ovanstående .NET-kod i min applikation?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online-app för DOT-konvertering är integrerad ovan. Först måste du lägga till DOT-fil för konvertering genom att dra &amp; släpp eller klicka i det vita området för att importera dokumentet. Klicka sedan på knappen Konvertera. När DOT till SXC-konvertering är klar kan du ladda ner din konverterade fil. Så du kommer att få ut SXC-filer med bara ett klick.</span>
+                          <span itemprop="text">Ja, du är välkommen att ladda ner den här koden. Man kan enkelt utveckla en professionell lösning för att exportera och spara DOT till SXC-fil med .NET.  Använd Aspose DOT till SXC konverterings-API för att utveckla plattformsoberoende programvara på hög nivå i .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Hur lång tid tar det att konvertera DOT?</b></span>
+                          <span itemprop="name"><b>Fungerar detta dokumentexporterande app bara på Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online-omvandlare fungerar snabbt men beror främst på storleken på DOT-filen. Du kan göra en liten DOT-fil till SXC på några sekunder. Dessutom, om du har integrerat konverteringskoden i .NET-applikationen, beror det på hur du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Du har flexibiliteten att initiera export av dokument från DOT till SXC från vilken enhet som helst, oavsett vilket operativsystem den körs på, oavsett om det är Windows, Linux, Mac OS eller Android.  Allt som krävs är en modern webbläsare och en aktiv internetanslutning.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Är det säkert att konvertera DOT till SXC med gratis Aspose.Total-omvandlare?</b></span>
+                          <span itemprop="name"><b>Är det säkert att använda onlineappen för att konvertera flera DOT-dokument?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Självklart! Nedladdningslänken för SXC-filer kommer att vara tillgänglig direkt efter konvertering. Vi tar bort uppladdade filer efter 24 timmar och nedladdningslänkarna slutar fungera efter denna tidsperiod. Ingen har tillgång till dina filer. Filkonvertering (inklusive DOT) är helt säker. Främst gratis app är integrerad i syfte att testa så att man kan kontrollera resultatet innan man integrerar koden.</span>
+                          <span itemprop="text">Naturligtvis! Utdatafilerna som genereras genom vår tjänst kommer säkert och automatiskt att tas bort från våra servrar inom en 24-timmars tidsram.  Som ett resultat kommer de nedladdningslänkar som är kopplade till dessa filer att upphöra att fungera efter denna period.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Vilken webbläsare ska jag använda för att konvertera DOT?</b></span>
+                          <span itemprop="name"><b>Vilken webbläsare ska man använda appen?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Du kan använda vilken modern webbläsare som helst för denna onlinekonvertering, till exempel Google Chrome, Firefox, Opera, Safari. Men om du utvecklar en skrivbordsapplikation. Aspose.Total DOT Conversion API kommer att fungera smidigt.</span>
+                          <span itemprop="text">Du kan använda vilken modern webbläsare som helst som Google Chrome, Firefox, Opera eller Safari för onlinekonvertering av DOT-dokument.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur kan jag exportera flera DOT-filer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Börja med att ladda upp en eller flera filer du vill konvertera. Du kan antingen dra och släppa dina DOT-filer eller helt enkelt klicka i det vita området.  Därefter klickar du på knappen "Konvertera", så kommer vår onlinekonverteringsapp att snabbt bearbeta de uppladdade filerna.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur lång tid tar det att konvertera DOT-filerna?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Denna konverteringsapplikation fungerar snabbt, det kan ta några sekunder eller mer beroende på dokumentstorleken att ladda upp och spara dem i önskat format.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-
-
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

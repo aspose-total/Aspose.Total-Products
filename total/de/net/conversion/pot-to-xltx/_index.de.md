@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie POT über C# in XLTX oder Online-App
-description: Konvertieren Sie POT in C# in XLTX, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-XLTX-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
-url_ignore: /de/net/conversion/pot-to-xltx/
+title: Online-Konvertierung von POT zu XLTX oder Erstellen einer .NET-basierten Anwendung zum Konvertieren von POT-Dateien
+description: Kostenlose Online-App zum Konvertieren von POT- in XLTX-Dateien. .NET C#-Konvertierungsbibliothekscode für POT-Dokumente. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,64 +10,104 @@ outformat: XLTX
 otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM MHTML XLTX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POT über C# in XLTX oder Online-App" h2=".NET-API für die POT-zu-XLTX-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Online-Konvertierungs-App von POT zu XLTX und .NET-Code zum Konvertieren von POT-Dateien" h2="Entwickeln Sie eine leistungsstarke .NET-basierte POT-Konvertierungs- und Exportanwendung. Konvertieren Sie einzelne oder mehrere POT-Dateien über die .NET-Automatisierungs-API in XLTX und andere Formate. Konvertieren Sie POT-Dateien kostenlos online per App mit sofortigem Download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie POT-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in XLTX konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) POT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in XLTX konvertieren.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie POT über C# in XLTX" %}}
-1. Öffnen Sie die POT-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
-2. Exportieren Sie POT als HTML mit der Methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
-3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im XLTX-Format
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
-
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/total/net) herunterladen.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Kostenloser Online-Konverter für POT zu XLTX</h3>
-
-<iframe title="xltx bis pot Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Kostenlose Online-App zur Konvertierung von POT in XLTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie Protected POT über C# in XLTX" %}}
-Wenn Ihr eingegebenes POT-Dokument beim Konvertieren der POT-Datei in XLTX passwortgeschützt ist, können Sie es nicht in XLTX konvertieren, ohne das Dokument zu entschlüsseln. Wenn Ihr Dokument passwortgeschützt ist, bedeutet dies, dass bestimmte Einschränkungen für die Präsentation erzwungen werden. Um die Einschränkungen aufzuheben, muss das Passwort eingegeben werden. Eine passwortgeschützte Präsentation gilt als gesperrte Präsentation. Die API ermöglicht es Ihnen, das verschlüsselte Dokument zu öffnen, indem Sie das richtige Kennwort in einem LoadOptions-Objekt übergeben.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie POT- in XLTX-Dateien online mithilfe der App" %}}
+
+1. Laden Sie zum Konvertieren POT-Dateien hoch
+1. Warten Sie je nach POT-Größe einige Sekunden oder länger
+1. Behalten Sie die Upload-Statusleiste im Auge
+1. Klicken Sie auf die Schaltfläche "Konvertieren"
+1. POT wird in ein XLTX-Dokument umgewandelt
+1. Laden Sie die konvertierte XLTX-Datei herunter
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie POT in XLTX über die .NET Automation API" %}}
+
+
+1. Öffnen Sie die POT-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation).
+2. Exportieren Sie POT als HTML mit der Methode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5).
+3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im XLTX-Format
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Konvertieren Sie POT in XLTX über C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Noch einige Fälle zum Speichern von POT in XLTX mit anderen Funktionen wie Konvertieren Sie Protected POT über C# in XLTX, Konvertieren Sie POT in XLTX mit Wasserzeichen über C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Konvertieren Sie POT in XLTX mit Wasserzeichen über C#" %}}
-Beim Konvertieren der POT-Datei in XLTX können Sie Ihrem Ausgabe-XLTX-Dateiformat auch Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, können Sie ein neues Workbook-Objekt erstellen und das konvertierte HTML-Dokument öffnen, Worksheet über seinen Index auswählen, eine Form erstellen und seine AddTextEffect-Funktion verwenden. Danach können Sie Ihr HTML-Dokument als XLTX mit Wasserzeichen speichern. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Entwickeln Sie eine POT-Dateikonvertierungsanwendung mit .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+Müssen Sie eine .NET-basierte Softwareanwendung entwickeln, um POT-Dateien einfach in XLTX-Dokumente zu speichern und zu exportieren? Mit [Aspose.Total for .NET](https://products.aspose.com/total/de/net/) kann jeder .NET-Entwickler den oben genannten API-Code integrieren, um die Konvertierungsanwendung für verschiedene Formate zu programmieren, darunter Microsoft Word, Excel, Powerpoint, PDF, E-Mail-Dateien, Bilder und andere Formate. Leistungsstarke .NET-Bibliothek zur Dokumentkonvertierung, unterstützt viele gängige Formate, einschließlich des POT-Formats. Beim Exportieren von Dokumenten in andere Formate können Programmierer Aspose.Total für untergeordnete .NET-APIs verwenden, darunter [Aspose.Words for .NET](https://products.aspose.com/words/de/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/de/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/de/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/de/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/de/net/) und mehr.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="POT Konvertierungsbibliothek für .NET" %}}
+
+Es gibt drei alternative Möglichkeiten, Aspose.Total für .NET auf Ihrem System zu installieren. Wählen Sie bitte eine Option aus, die Ihren Anforderungen entspricht, und folgen Sie den Schritt-für-Schritt-Anweisungen:<br /><br />
+
+- Installieren Sie ein [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Siehe [Dokumentation](https://docs.aspose.com/total/net/)
+- Installieren Sie die Bibliothek mithilfe der Package Manager Console ab der Auswahl der untergeordneten API in der Visual Studio IDE wie [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) usw.
+- Installieren Sie die Bibliothek manuell mit dem Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Speichern von POT in XLTX App-Anforderungen" %}}
+
+Unser Produkt ist vollständig plattformübergreifend und unterstützt alle wichtigen .NET-Implementierungen gemäß der Spezifikation „.NET Standard 2.0“:<br /><br />
+
+- Microsoft .NET Framework, beginnend mit der frühesten Version 2.0 und endend mit der neuesten Version „.NET Framework 4.8“
+- .NET Core, beginnend mit der frühesten Version 2.0 und endend mit dem neuesten „.NET 6“
+- Mono >= 2.6.7
+<br />
+Da .NET-Code nicht von der zugrunde liegenden Hardware oder dem Betriebssystem, sondern nur von einer virtuellen Maschine abhängt, können Sie jede Art von Software für Windows, macOS, Android, iOS und Linux entwickeln. Stellen Sie einfach sicher, dass Sie die entsprechende Version von .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin installiert haben.<br />
+Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelop IDE zum Erstellen von C#-, F#- und VB.NET-Anwendungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -77,44 +117,61 @@ Beim Konvertieren der POT-Datei in XLTX können Sie Ihrem Ausgabe-XLTX-Dateiform
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Häufig gestellte Fragen</h2>
-              <ul>
+              <h2>FAQs</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Wie kann ich POT in XLTX Online konvertieren?</b></span>
+                          <span itemprop="name"><b>Kann ich den obigen .NET-Code in meiner Anwendung verwenden?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Online-App für die POT-Konvertierung ist oben integriert. Um den POT-zu-XLTX-Konvertierungsprozess zu starten, fügen Sie einfach die POT-Datei hinzu, indem Sie sie entweder per Drag & Drop in den dafür vorgesehenen Bereich ziehen oder darauf klicken, um das Dokument zu importieren. Klicken Sie anschließend auf die Schaltfläche „Konvertieren“. Sobald die POT-zu-XLTX-Konvertierung abgeschlossen ist, können Sie die konvertierte Datei herunterladen. Mit nur einem Klick erhalten Sie Ihre ausgegebenen XLTX-Dateien.</span>
+                          <span itemprop="text">Ja, Sie können diesen Code gerne herunterladen. Mit .NET lässt sich ganz einfach eine professionelle Lösung zum Exportieren und Speichern von POT in einer XLTX-Datei entwickeln. Verwenden Sie die Aspose POT-zu-XLTX-Konvertierungs-API, um plattformunabhängige Software auf hoher Ebene in .NET zu entwickeln.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Wie lange dauert die Konvertierung von POT?</b></span>
+                          <span itemprop="name"><b>Funktioniert diese App zum Exportieren von Dokumenten nur unter Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der POT-Datei ab. Wenn die POT-Datei klein ist, kann die Konvertierung in XLTX innerhalb weniger Sekunden abgeschlossen werden. Wenn Sie den Konvertierungscode außerdem in eine .NET-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung für diesen Zweck optimiert haben.</span>
+                          <span itemprop="text">Sie haben die Flexibilität, den Dokumentenexport von POT nach XLTX von jedem Gerät aus zu starten, unabhängig vom Betriebssystem, auf dem es läuft, sei es Windows, Linux, Mac OS oder Android. Alles was Sie brauchen ist ein aktueller Webbrowser und eine aktive Internetverbindung.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Ist es sicher, POT mit dem kostenlosen Aspose.Total-Konverter in XLTX umzuwandeln?</b></span>
+                          <span itemprop="name"><b>Ist es sicher, mit der Online-App mehrere POT-Dokumente zu konvertieren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Natürlich! Sobald die POT-zu-XLTX-Konvertierung abgeschlossen ist, haben Sie sofortigen Zugriff auf den Download-Link für die konvertierten XLTX-Dateien. Bitte beachten Sie, dass wir alle hochgeladenen Dateien nach 24 Stunden automatisch löschen und die Download-Links nach diesem Zeitraum nicht mehr aktiv sind. Ihre Dateien sind absolut sicher und privat, da niemand sonst Zugriff darauf hat. Der Dateikonvertierungsprozess, einschließlich der POT-Konvertierung, ist absolut sicher in der Anwendung. Wir bieten diese kostenlose App in erster Linie zu Testzwecken an, damit Sie die Ergebnisse auswerten können, bevor Sie den Code integrieren.</span>
+                          <span itemprop="text">Natürlich! Die von unserem Service generierten Ausgabedateien werden innerhalb von 24 Stunden sicher und automatisch von unseren Servern entfernt. Dies hat zur Folge, dass die mit diesen Dateien verknüpften Download-Links nach diesem Zeitraum nicht mehr funktionieren.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Welchen Browser sollte ich verwenden, um POT zu konvertieren?</b></span>
+                          <span itemprop="name"><b>Welcher Browser wird für die Nutzung der App benötigt?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Dieses Online-Konvertierungstool ist mit jedem modernen Browser wie Google Chrome, Firefox, Opera oder Safari kompatibel. Wenn Sie jedoch eine Desktop-Anwendung entwickeln, ist die Aspose.Total POT Conversion API eine zuverlässige Option für eine reibungslose Integration.</span>
+                          <span itemprop="text">Sie können jeden modernen Webbrowser wie Google Chrome, Firefox, Opera oder Safari für die Online-Konvertierung von POT-Dokumenten verwenden.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie kann ich mehrere POT-Dateien exportieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Beginnen Sie mit dem Hochladen einer oder mehrerer Dateien, die Sie konvertieren möchten. Sie können Ihre POT-Dateien entweder per Drag & Drop verschieben oder einfach in den weißen Bereich klicken. Klicken Sie anschließend auf die Schaltfläche „Konvertieren“ und unsere Online-Konvertierungs-App verarbeitet die hochgeladenen Dateien schnell.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie lange dauert die Konvertierung der POT-Dateien?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Diese Konvertierungsanwendung arbeitet schnell. Das Hochladen und Speichern im erforderlichen Format kann je nach Dokumentgröße einige Sekunden oder länger dauern.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

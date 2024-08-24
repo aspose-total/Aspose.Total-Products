@@ -1,77 +1,175 @@
 ---
-title: C# kullanarak Web Sitesi Verilerini Çıkarın ve Web Sayfalarını HTML'den Excel Dosyasına Dönüştürün
-description: Web sitesi web sayfalarını kazıyın ve HTML'yi Microsoft Excel belgelerine aktarın. Web sitesi verilerini XLS, XLSX biçimlerine kazımak için .NET uygulamaları geliştirin.
+title: Çevrimiçi WEB'yi Excel'ye Dönüştürme veya WEB Dosyalarını Dönüştürmek için .NET tabanlı Uygulama Oluşturma
+description: WEB dosyalarını Excel dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. WEB belgeleri için .NET C# dönüştürme kütüphanesi kodu. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Web Sayfalarını C# ile Excel'e Dönüştürün" h2="Web sayfaları verilerini HTML'den çıkarın. .NET uygulamalarında HTML'yi Microsoft Excel XLS, XLSX biçimlerine aktarın." >}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi WEB'yi Excel'ye Dönüştürme Uygulaması ve WEB Dosyalarını Dönüştürmek için .NET Kodu" h2="Güçlü .NET tabanlı WEB dönüştürme ve dışa aktarma uygulaması geliştirin. Tek veya birden fazla WEB dosyasını .NET otomasyon API'si aracılığıyla Excel ve diğer formatlara dönüştürün. WEB dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Web sayfaları internetin önemli bir parçasıdır ve bireyler ve kuruluşlar için yararlı olan zengin bilgiler içerir. Bununla birlikte, bazı kullanıcılar, özellikle bilgiler birden çok sayfaya yayılmışsa, web sayfalarından veri çıkarmayı zor bulabilir. Bu gibi durumlarda web sayfalarını Excel formatına dönüştürmek faydalı bir çözüm olabilir.</p><br />
-<p>Web sayfalarını Excel biçimlerine dönüştürmek, bir web sayfasındaki verileri kolayca Excel'e alınabilen yapılVeırılmış bir biçime dönüştürmeyi içerir. Bu süreç, bu amaç için özel olarak tasarlanmış yazılım araçları kullanılarak otomatikleştirilebilir. Bu araçlar, birden fazla web sayfasından veri çıkarabilir ve bunları gerektiği gibi analiz edilebilecek ve değiştirilebilecek tek bir Excel dosyasına dönüştürebilir.</p><br />
-
-<p>Ancak, web kazıma söz konusu olduğunda sorumlu ve etik uygulamaların önemini vurgulamak önemlidir. Web sitelerinin hizmet koşullarına saygı duymak, yasal düzenlemelere uymak, mahremiyet veya fikri mülkiyet haklarını ihlal edebilecek faaliyetlerde bulunmaktan kaçınmak, dikkate alınması gereken hayati hususlardır.</p>
-
-<h2 class="heading-border">Aspose.HTML'yi Kazıyıcı API Olarak Kullanma</h2>
-
-<p>Aspose.Total for .NET'in bir bileşeni olan Aspose.HTML for .NET API'sinden yararlanarak, HTML belgelerinden verileri analiz etmek ve ayıklamak için tasarlanmış kendi uygulamalarınızı sorunsuz bir şekilde oluşturabilirsiniz. Bu API, bu işi büyük ölçüde basitleştiren ve HTML içeriğiyle verimli bir şekilde çalışmanızı sağlayan kapsamlı bir araç seti sağlar.</p><br />
-
-<p>Bir kazıyıcı geliştirme sürecinde, veri seçiciler, istenen bilgileri HTML dosyalarından tanımlama ve çıkarmada büyük önem taşır. Genellikle XPath, CSS seçicileri veya her ikisinin bir karışımını kullanan bu seçiciler, HTML yapısı içindeki belirli veri öğelerini bulmak için değerli araçlar olarak hizmet eder. Bir gezinme mekanizması görevi gören bu seçiciler, almayı amaçladığınız verilerin hassas bir şekilde hedeflenmesini ve çıkarılmasını kolaylaştırır.</p>
-
-<h2 class="heading-border">Web Hurdaya Çıkarma için gerçekleştirilebilecek görevler</h2>
-
-<p>Geliştiriciler, Aspose.HTML for .NET'i kullanarak web sayfalarından veri çıkarma sürecini zahmetsizce otomatik hale getirerek aşağıdaki web kazıma görevlerini etkili bir şekilde gerçekleştirmelerini sağlayabilir.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - HTML belgelerini ve öğelerini kapsamlı bir şekilde analiz edin. Ayrıntılı analiz, öğe yinelemesi için özel filtreleme ve CSS Seçicileri veya XPath kullanarak kesintisiz gezinme gibi özelliklerden yararlanın.
-2. [Web Sitesini İndir](https://docs.aspose.com/html/net/download-website/) - Web sitelerini URL'lerden verimli bir şekilde indirin ve indirme işlemini özelleştirin. Özel gereksinimlerinize göre tüm web sitesini veya belirli web sayfalarını indirmeyi seçin.
-3. [Dosyaları URL'den İndirin](https://docs.aspose.com/html/net/download-file-from-url/) - Dosyaları bir URL'den kolayca indirin.
-4. [Web Sitesinden Resimleri İndirin](https://docs.aspose.com/html/net/download-images-from-website/) - Web sitelerinden çeşitli görsel türleri indirin.
-5. [SVG'yi Web Sitesinden İndirin](https://docs.aspose.com/html/net/download-svg-from-website/) - C# kullanarak Ölçeklenebilir Vektör Grafikleri (SVG) dosyalarını bir web sitesinden alın.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# kullanarak Web Verileri Nasıl Çıkarılır?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ücretsiz Çevrimiçi WEB - Excel Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak Excel Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek WEB dosyalarını yükleyin
+1. WEB boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. WEB Excel belgesine dönüştürülecek
+1. Dönüştürülen Excel dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi .NET Otomasyon API'si aracılığıyla Excel'ye dönüştürün" %}}
+
+
 
 1. Kullanarak bir URL'den bir HTML belgesi başlatın. [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) yapıcı
 2. kullanarak bir seçici belirtin. [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) seçiciyle eşleşen tüm öğeleri alma yöntemi.
 3. Öğeler listesini yineleyin ve çıktıyı özel gereksinimlerinize göre biçimlendirin.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web Hurdaya Çıkarma ve Dönüştürme Gereksinimleri" %}}
-Komut satırından ```nuget install Aspose.Total``` olarak kurun veya doğrudan Visual Studio'nun Paket Yöneticisi Konsolundan kurun.
+{{% blocks/products/pf/agp/code-block title="WEB'yi C# .NET ile Excel'ye dönüştürün" offSpacer="" %}}
 
-İki [Aspose.Total for .NET](https://products.aspose.com/total/net/) alt API'ler, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Ve [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) entegre olacak.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten edinin: [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Cells'i HTML'den Excel'e Dönüştürme için Kullanma" %}}
-<p>HTML'yi XLS'ye dönüştürmek için Aspose.Cells for .NET API'sini kullanabilirsiniz; API ile çeşitli Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma yeteneğine sahip platformlar arası uygulamalar geliştirebilirsiniz. .NET Excel API, Excel dosyalarını görüntüler, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak da işleyebildiği için basit format dönüştürmenin ötesine geçer. Bu kapsamlı işlevsellik, belgeleri endüstri stVeardı biçimlerde değiş tokuş etmek için mükemmel bir seçim haline getirir.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>C# dilinde HTML'yi Microsoft Excel XLS, XLSX'e dönüştürmek, .NET geliştiricileri için basit bir işlemdir. Bunu yalnızca birkaç satır kodla başarabilirsiniz:</p><br />
-
-1. Workbook sınıfının bir örneğini oluşturarak HTML dosyasını yükleyin.
-1. Workbook örneğinde Save yöntemini çağırarak yüklenen HTML'yi Excel'e dönüştürün.
+WEB dosyasını Excel dosyasına Aspose.Cells'i HTML'den Excel'e Dönüştürme için Kullanma gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET kullanarak WEB Dosya Dönüştürme Uygulamasını Geliştirin</h2>
+
+WEB dosyalarını Excel belgesine kolayca kaydetmek ve dışa aktarmak için .NET tabanlı bir yazılım uygulaması geliştirmeniz mi gerekiyor? [Aspose.Total for .NET](https://products.aspose.com/total/tr/net/) ile herhangi bir .NET geliştiricisi, Microsoft Word, Excel, Powerpoint, PDF, E-posta dosyaları, Resimler ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü .NET kütüphanesi, WEB formatı da dahil olmak üzere birçok popüler formatı destekler. Belgeleri diğer formatlara aktarmak için programcılar Aspose.Total'ı [Aspose.Words for .NET](https://products.aspose.com/words/tr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/tr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/tr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/tr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/) ve daha fazlası dahil olmak üzere .NET alt API'leri için kullanabilirler.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for .NET'i sisteminize kurmanın üç alternatif seçeneği bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) yükleyin. [Belgeleme](https://docs.aspose.com/total/net/)'e bakın
+- [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) vb. gibi Visual Studio IDE içindeki alt API seçimi olarak Paket Yöneticisi Konsolunu kullanarak kütüphaneyi yükleyin
+- Windows Installer'ı kullanarak kitaplığı manuel olarak yükleyin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi Excel'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Ürünümüz tamamen çapraz platformdur ve '.NET Standard 2.0' spesifikasyonunu takip eden tüm önemli .NET uygulamalarını destekler:<br /><br />
+
+- Microsoft .NET Framework, en eski 2.0 sürümünden başlayarak en son '.NET Framework 4.8' ile sona ermektedir
+- .NET Core, en eski 2.0'dan başlayarak en son '.NET 6' ile sona eriyor
+- Mono >= 2.6.7
+<br />
+.NET kodu altta yatan donanıma veya işletim sistemine değil, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz. Sadece .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünün yüklü olduğundan emin olun.<br />
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="SSS" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>SSS</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Yukarıdaki .NET kodunu uygulamamda kullanabilir miyim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Evet, bu kodu indirmenize izin verilir. .NET kullanarak WEB'yi Excel dosyasına dışa aktarmak ve kaydetmek için profesyonel bir çözüm kolayca geliştirilebilir. .NET'te üst düzey, platformdan bağımsız yazılım geliştirmek için Aspose WEB - Excel dönüştürme API'sini kullanın.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bu belgenin uygulama dışa aktarma özelliği sadece Windows'ta mı çalışıyor?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">WEB'den Excel'ye belge aktarımını, Windows, Linux, Mac OS veya Android gibi hangi işletim sisteminde çalıştığına bakılmaksızın, herhangi bir cihazdan başlatma esnekliğine sahipsiniz. Tek ihtiyacınız olan güncel bir web tarayıcısı ve aktif bir internet bağlantısı.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB belgesini dönüştürmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları 24 saatlik bir zaman dilimi içerisinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak bu dosyalara ilişkin indirme bağlantıları bu sürenin sonunda çalışmayacaktır.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Uygulamayı kullanmak için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Çevrimiçi WEB belge dönüşümü için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB dosyasını nasıl dışa aktarabilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Dönüştürmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. WEB dosyalarınızı sürükleyip bırakabilir veya sadece beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Dönüştür' butonuna tıklayın, online dönüştürme uygulamamız yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB dosyalarının dönüştürülmesi ne kadar zaman alır?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu dönüştürme uygulaması hızlı bir şekilde çalışır. Belgenin boyutuna bağlı olarak, dosyaların yüklenmesi ve gerekli formata kaydedilmesi birkaç saniye veya daha fazla sürebilir.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

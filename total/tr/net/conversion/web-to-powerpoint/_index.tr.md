@@ -1,78 +1,175 @@
 ---
-title: C# kullanarak Web Sitesi Verilerini Çıkarın ve Web sayfalarını HTML'den PowerPoint'e dönüştürün
-description: Web sitesi web sayfalarını kazıyın ve HTML'yi .NET uygulamaları içinde Microsoft Powerpoint Presentations'a dışa aktarın
+title: Çevrimiçi WEB'yi Powerpoint'ye Dönüştürme veya WEB Dosyalarını Dönüştürmek için .NET tabanlı Uygulama Oluşturma
+description: WEB dosyalarını Powerpoint dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. WEB belgeleri için .NET C# dönüştürme kütüphanesi kodu. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: POWERPOINT
+outformat: Powerpoint
 otherformats: WORD EXCEL PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Web Sayfalarını C# ile PowerPoint'e Dönüştürün" h2="Web sayfaları verilerini HTML'den çıkarın. .NET uygulamalarında HTML'yi Microsoft PowerPoint PPT, PPTX biçimlerine aktarın." >}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi WEB'yi Powerpoint'ye Dönüştürme Uygulaması ve WEB Dosyalarını Dönüştürmek için .NET Kodu" h2="Güçlü .NET tabanlı WEB dönüştürme ve dışa aktarma uygulaması geliştirin. Tek veya birden fazla WEB dosyasını .NET otomasyon API'si aracılığıyla Powerpoint ve diğer formatlara dönüştürün. WEB dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Web sayfaları günlük hayatımızın vazgeçilmez bir parçasıdır ve çeşitli amaçlar için kullanılmaktadır. Ancak bazen web sayfalarını PowerPoint sunumu gibi farklı bir biçimde sunmamız gerekebilir. Artık web sayfalarındaki içeriği manuel olarak kopyalayıp sunum slaytlarınıza yapıştırmanıza gerek yok. Bunun yerine, .NET API'lerini kullanarak süreci otomatikleştirebilir ve ilgi çekici ve bilgilendirici, profesyonel görünümlü sunumlarınız için ikna edici içerik oluşturmaya odaklanabilirsiniz.</p><br />
-
-<p>Bununla birlikte, web kazıma ile uğraşırken sorumlu ve etik yaklaşımlar uygulamanın öneminin altını çizmek çok önemlidir. Web sitelerinde belirtilen hizmet koşullarına değer vermek, yasal düzenlemelere uymak ve özel hayata veya fikri mülkiyet haklarına zarar verebilecek faaliyetlerden kaçınmak, dikkatle değerlendirilmesi gereken kritik faktörlerdir.</p>
-
-<h2 class="heading-border">Aspose.HTML'yi Kazıyıcı API Olarak Kullanma</h2>
-
-<p>Aspose.Total for .NET'in ayrılmaz bir parçası olan güçlü Aspose.HTML for .NET API ile, veri analizi ve HTML belgelerinden ayıklama için özel olarak hazırlanmış kendi uygulamalarınızı zahmetsizce geliştirme olanağına sahipsiniz. Bu API, bu süreci büyük ölçüde kolaylaştıran ve HTML içeriğini en yüksek verimlilikle etkili bir şekilde işlemenizi sağlayan kapsamlı bir araç yelpazesi sunar.</p><br />
-
-<p>
-Bir kazıyıcı oluştururken, veri seçiciler HTML dosyalarından gerekli bilgileri tanımlama ve çıkarmada çok önemli bir rol oynar. Genellikle XPath, CSS seçicileri veya her ikisinin bir kombinasyonunu kullanan bu seçiciler, HTML yapısı içindeki belirli veri öğelerini bulmak için paha biçilmez araçlar olarak hizmet eder. Gezinme mekanizmaları olarak hareket eden bu seçiciler, almayı düşündüğünüz istenen verilerin hassas bir şekilde hedeflenmesini ve çıkarılmasını sağlar.</p>
-
-<h2 class="heading-border">Web Hurdaya Çıkarma için gerçekleştirilebilecek görevler</h2>
-
-<p>Geliştiriciler Aspose.HTML for .NET'i kullanarak web kazıma iş akışlarını düzene sokabilir ve basitleştirebilir, web sayfalarından doğru ve güvenilir veri çıkarmayı sağlarken zamVean ve emekten tasarruf edebilirler.</p><br />
-
-1. [HTML'de Gezinme](https://docs.aspose.com/html/net/html-navigation/) - Ayrıntılı analiz, öğe yineleme için özel filtreleme ve CSS Seçiciler veya XPath kullanarak kesintisiz gezinme gibi özelliklerle HTML belgelerini kapsamlı bir şekilde analiz edin.
-2. [Web Sitesini İndir](https://docs.aspose.com/html/net/download-website/) -  Web sitelerini URL'lerden verimli bir şekilde indirin ve indirme işlemini özelleştirin. Gereksinimlerinize göre tüm web sitesini veya belirli web sayfalarını indirmeyi seçin.
-3. [Dosyaları URL'den İndirin](https://docs.aspose.com/html/net/download-file-from-url/) - Dosyaları bir URL'den kolayca indirin.
-4. [Resimleri Web Sitesinden İndirin](https://docs.aspose.com/html/net/download-images-from-website/) - Web sitelerinden çeşitli görsel türleri indirin.
-5. [SVG'yi Web Sitesinden İndirin](https://docs.aspose.com/html/net/download-svg-from-website/) - C# kullanarak bir web sitesinden Ölçeklenebilir Vektör Grafikleri (SVG) dosyalarını alın.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# kullanarak Web Verileri Nasıl Çıkarılır?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ücretsiz Çevrimiçi WEB - Powerpoint Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak Powerpoint Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek WEB dosyalarını yükleyin
+1. WEB boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. WEB Powerpoint belgesine dönüştürülecek
+1. Dönüştürülen Powerpoint dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi .NET Otomasyon API'si aracılığıyla Powerpoint'ye dönüştürün" %}}
+
+
 
 1. Kullanarak bir URL'den bir HTML belgesi başlatın. [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) yapıcı
 2. kullanarak belirli bir seçiciyle eşleşen öğeleri alın. [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) yöntem.
 3. Öğeler listesini yineleyin ve çıktı biçimini özel gereksinimlerinize göre özelleştirin.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web Hurdaya Çıkarma ve Dönüştürme Gereksinimleri" %}}
-Komut satırından ```nuget install Aspose.Total``` olarak kurun veya doğrudan Visual Studio'nun Paket Yöneticisi Konsolundan kurun.
+{{% blocks/products/pf/agp/code-block title="WEB'yi C# .NET ile Powerpoint'ye dönüştürün" offSpacer="" %}}
 
-İki [Aspose.Total for .NET](https://products.aspose.com/total/net/) alt API'ler, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Ve [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) entegre olacak.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten edinin: [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="HTML'den PowerPoint'e Dönüştürme için Aspose.Slides'ı Kullanma" %}}
-<p>Aspose.Slides for .NET, PowerPoint sunumları, PDF'ler, HTML belgeleri ve diğer dosya formatlarını oluşturmak, dönüştürmek ve değiştirmek için yetenekler sunan sağlam bir .NET kitaplığıdır. HTML'yi PowerPoint'e dönüştürmek, bir HTML belgesinin içeriğini bir PowerPoint sunumu içinde slaytlara aktarmayı içerir.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>HTML'yi Microsoft PowerPoint Sunumlarına Dönüştürme PPT, C# dilinde PPTX, .NET geliştiricileri için basit bir işlemdir. Bunu yalnızca birkaç satır kodla başarabilirsiniz::</p><br />
-
-1. Presentation sınıfının bir örneğini oluşturun.
-1. Uygun yöntemi veya oluşturucuyu kullanarak Sunuma dönüştürmek istediğiniz HTML belgesini yükleyin.
-1. Ortaya çıkan dosyayı Kaydet yöntemini kullanarak ilgili bir Powerpoint sunum formatı olarak kaydedin.
+WEB dosyasını Powerpoint dosyasına HTML'den PowerPoint'e Dönüştürme için Aspose.Slides'ı Kullanma gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET kullanarak WEB Dosya Dönüştürme Uygulamasını Geliştirin</h2>
+
+WEB dosyalarını Powerpoint belgesine kolayca kaydetmek ve dışa aktarmak için .NET tabanlı bir yazılım uygulaması geliştirmeniz mi gerekiyor? [Aspose.Total for .NET](https://products.aspose.com/total/tr/net/) ile herhangi bir .NET geliştiricisi, Microsoft Word, Excel, Powerpoint, PDF, E-posta dosyaları, Resimler ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü .NET kütüphanesi, WEB formatı da dahil olmak üzere birçok popüler formatı destekler. Belgeleri diğer formatlara aktarmak için programcılar Aspose.Total'ı [Aspose.Words for .NET](https://products.aspose.com/words/tr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/tr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/tr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/tr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/) ve daha fazlası dahil olmak üzere .NET alt API'leri için kullanabilirler.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for .NET'i sisteminize kurmanın üç alternatif seçeneği bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) yükleyin. [Belgeleme](https://docs.aspose.com/total/net/)'e bakın
+- [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) vb. gibi Visual Studio IDE içindeki alt API seçimi olarak Paket Yöneticisi Konsolunu kullanarak kütüphaneyi yükleyin
+- Windows Installer'ı kullanarak kitaplığı manuel olarak yükleyin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi Powerpoint'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Ürünümüz tamamen çapraz platformdur ve '.NET Standard 2.0' spesifikasyonunu takip eden tüm önemli .NET uygulamalarını destekler:<br /><br />
+
+- Microsoft .NET Framework, en eski 2.0 sürümünden başlayarak en son '.NET Framework 4.8' ile sona ermektedir
+- .NET Core, en eski 2.0'dan başlayarak en son '.NET 6' ile sona eriyor
+- Mono >= 2.6.7
+<br />
+.NET kodu altta yatan donanıma veya işletim sistemine değil, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz. Sadece .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünün yüklü olduğundan emin olun.<br />
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="SSS" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>SSS</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Yukarıdaki .NET kodunu uygulamamda kullanabilir miyim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Evet, bu kodu indirmenize izin verilir. .NET kullanarak WEB'yi Powerpoint dosyasına dışa aktarmak ve kaydetmek için profesyonel bir çözüm kolayca geliştirilebilir. .NET'te üst düzey, platformdan bağımsız yazılım geliştirmek için Aspose WEB - Powerpoint dönüştürme API'sini kullanın.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bu belgenin uygulama dışa aktarma özelliği sadece Windows'ta mı çalışıyor?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">WEB'den Powerpoint'ye belge aktarımını, Windows, Linux, Mac OS veya Android gibi hangi işletim sisteminde çalıştığına bakılmaksızın, herhangi bir cihazdan başlatma esnekliğine sahipsiniz. Tek ihtiyacınız olan güncel bir web tarayıcısı ve aktif bir internet bağlantısı.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB belgesini dönüştürmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları 24 saatlik bir zaman dilimi içerisinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak bu dosyalara ilişkin indirme bağlantıları bu sürenin sonunda çalışmayacaktır.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Uygulamayı kullanmak için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Çevrimiçi WEB belge dönüşümü için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB dosyasını nasıl dışa aktarabilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Dönüştürmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. WEB dosyalarınızı sürükleyip bırakabilir veya sadece beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Dönüştür' butonuna tıklayın, online dönüştürme uygulamamız yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB dosyalarının dönüştürülmesi ne kadar zaman alır?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu dönüştürme uygulaması hızlı bir şekilde çalışır. Belgenin boyutuna bağlı olarak, dosyaların yüklenmesi ve gerekli formata kaydedilmesi birkaç saniye veya daha fazla sürebilir.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

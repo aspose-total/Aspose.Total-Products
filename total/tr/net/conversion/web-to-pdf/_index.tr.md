@@ -1,6 +1,7 @@
 ---
-title: C# kullanarak Web Sayfalarını PDF Dosyalarına Dönüştürün
-description: Web sitesi web sayfalarını kazıyın ve HTML'yi PDF belgelerine aktarın. Web sitesi verilerini PDF'e kazımak için .NET uygulamaları geliştirin. 
+title: Çevrimiçi WEB'yi PDF'ye Dönüştürme veya WEB Dosyalarını Dönüştürmek için .NET tabanlı Uygulama Oluşturma
+description: WEB dosyalarını PDF dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. WEB belgeleri için .NET C# dönüştürme kütüphanesi kodu. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -9,69 +10,166 @@ outformat: PDF
 otherformats: WORD EXCEL POWERPOINT IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Web Sayfalarını C# ile PDF'ye Dönüştürün" h2="Web sitesi verilerini HTML web sayfalarından çıkarın. .NET uygulamalarında HTML'yi PDF belgelerine aktarın." >}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi WEB'yi PDF'ye Dönüştürme Uygulaması ve WEB Dosyalarını Dönüştürmek için .NET Kodu" h2="Güçlü .NET tabanlı WEB dönüştürme ve dışa aktarma uygulaması geliştirin. Tek veya birden fazla WEB dosyasını .NET otomasyon API'si aracılığıyla PDF ve diğer formatlara dönüştürün. WEB dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Web sayfalarını PDF dosyalarına dönüştürmek, birçok işletme ve birey için önemli bir görev haline geldi. Bu, önemli bilgileri arşivlemek, başkalarıyla içerik paylaşmak veya yalnızca kişisel referans için yararlı olabilir. Geliştiriciler, çeşitli .NET API'lerinin yardımıyla, belirli gereksinimleri karşılamak üzere özelleştirilebilen web sayfası dönüştürme için sağlam ve verimli çözümler oluşturabilir.</p><br />
-
-<p>Ağ kazımanın sorumlu ve etik bir şekilde yürütülmesinin önemini vurgulamak önemlidir. Web sitelerinin hizmet şartlarına uyulması, yasal düzenlemelere uyulması, mahremiyet veya fikri mülkiyet haklarını ihlal etme potansiyeline sahip faaliyetlerden kaçınılması büyük önem taşımaktadır.</p>
-
-<h2 class="heading-border">Aspose.HTML'yi HTML Ayrıştırıcı API'si Olarak Kullanma</h2>
-
-<p>Web sayfalarını C# aracılığıyla Ayrıştırmak için en popüler API'lerden biri, Aspose.Total for .NET'in bir alt API'si olan Aspose.HTML for .NET'tir. .NET uygulamalarında HTML ve CSS'yi ayrıştırmak için basit ve kullanımı kolay bir API'dir. HTML dosyalarından veri çıkarmayı ve belge yapısını kolaylıkla değiştirmeyi kolaylaştıran bir dizi özellik sunar.</p><br />
-
-<p>Bir web kazıyıcı geliştirirken, istenen bilgilerin HTML dosyalarından etkili bir şekilde tanımlanması ve çıkarılmasında veri seçimi çok önemli hale gelir. Genellikle XPath, CSS seçicileri veya her ikisinin bir kombinasyonunu kullanan veri seçiciler, HTML yapısı içindeki kesin veri öğelerini bulmada temel bir rol oynar. Bu seçiciler, belge içinde gezinme araçları olarak hareket ederek ihtiyacınız olan verileri tam olarak belirlemenize ve çıkarmanıza olanak tanır.</p>
-
-<h2 class="heading-border">Web Hurdaya Çıkarma için gerçekleştirilebilecek görevler</h2>
-
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
-
-1. [HTML'de Gezinme](https://docs.aspose.com/html/net/html-navigation/) - HTML belgelerinin ve öğelerinin kapsamlı denetimlerini gerçekleştirin. Bu özellik, ayrıntılı analizi, öğe yinelemesi için özel filtrelemeyi ve CSS Seçicileri veya XPath kullanarak kesintisiz gezinmeyi kolaylaştırır.
-2. [Web Sitesini İndir](https://docs.aspose.com/html/net/download-website/) - Web sitelerini URL'lerden indirin ve indirme işlemini özelleştirin. Tüm web sitesini veya belirli web sayfalarını indirme, süreci özel gereksinimlerinize göre uyarlama esnekliğine sahipsiniz.
-3. [Dosyaları URL'den İndirin](https://docs.aspose.com/html/net/download-file-from-url/) - Aspose.HTML for .NET kullanarak URL'lerden verimli bir şekilde dosya indirin.
-4. [Web Sitesinden Resimleri İndirin](https://docs.aspose.com/html/net/download-images-from-website/) - Aspose.HTML for .NET tarafından sağlanan yetenekleri kullanarak web sitelerinden çeşitli türde görselleri sorunsuz bir şekilde indirin.
-5. [SVG'yi Web Sitesinden İndirin](https://docs.aspose.com/html/net/download-svg-from-website/) - Aspose.HTML for .NET'in yardımıyla C# kullanan web sitelerinden Scalable Vector Graphics (SVG) dosyalarını alın.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# kullanarak Web Sitesi Verileri Nasıl Çıkarılır?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ücretsiz Çevrimiçi WEB - PDF Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak PDF Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek WEB dosyalarını yükleyin
+1. WEB boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. WEB PDF belgesine dönüştürülecek
+1. Dönüştürülen PDF dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi .NET Otomasyon API'si aracılığıyla PDF'ye dönüştürün" %}}
+
+
 
 1. Kullanarak bir URL'den bir HTML belgesi başlatın. [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) yapıcı
 2. istihdam [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) bir seçici tanımlama ve seçiciye karşılık gelen tüm öğeleri alma yöntemi.
 3. Öğeler listesini yineleyin ve çıktıyı özel gereksinimlerinize göre biçimlendirin.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web Hurdaya Çıkarma ve PDF Dönüştürme Gereksinimleri" %}}
-Komut satırından ```nuget install Aspose.Total``` olarak kurun veya doğrudan Visual Studio'nun Paket Yöneticisi Konsolundan kurun.
+{{% blocks/products/pf/agp/code-block title="WEB'yi C# .NET ile PDF'ye dönüştürün" offSpacer="" %}}
 
-İki [Aspose.Total for .NET](https://products.aspose.com/total/net/) alt API'ler, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Ve [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) entegre olacak.
-
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten edinin: [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.PDF'yi HTML'den PDF'e Dönüştürme için Kullanma" %}}
-<p>Aspose.PDF API, geliştiriciler için kapsamlı bir çözüm sunarak, geliştiricilerin .NET kullanarak HTML'yi sorunsuz bir şekilde PDF'ye dönüştürmelerini sağlar. Yetenekleri ile dönüştürme sürecini verimli bir şekilde yönetebilir ve doğru ve görsel olarak çekici PDF çıktıları elde edebilirsiniz. İşlem, yalnızca birkaç satırlık C# kodu yazmayı içerir ve yüksek kaliteli bir dönüştürme elde etmenizi sağlar.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>API, orijinal HTML içeriğinin yapısını, biçimlendirmesini ve öğelerini koruyarak yüksek kaliteli ve doğru dönüştürme sağlar. HTML kaynaklarından profesyonel görünümlü PDF belgeleri oluşturmanıza olanak tanıyan CSS stillerini, resimleri, köprüleri, tabloları ve diğer HTML öğelerini destekler.</p><br />
-
-<p>C# kullanarak HTML'nin PDF'ye nasıl dönüştürüleceğini gösteren örnek bir kod parçacığını burada bulabilirsiniz. Bu basit adımları izleyerek, HTML dosyanızı zahmetsizce PDF biçimine dönüştürebilirsiniz:</p><br />
-
-<p>Bu kodda, HTML dosyanızı yüklemeniz ve hem HTML okuma hem de PDF yazma için tam nitelikli dosya adlarını belirtmeniz gerekir. Ortaya çıkan PDF dosyası, orijinal HTML belgesiyle aynı içeriğe ve biçimlendirmeye sahip olacaktır. Bu basit yaklaşım, C# uygulamanızda Aspose.PDF kullanarak HTML'yi hızlı ve doğru bir şekilde PDF'ye dönüştürmenizi sağlar.</p><br />
+WEB dosyasını PDF dosyasına Aspose.PDF'yi HTML'den PDF'e Dönüştürme için Kullanma gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET kullanarak WEB Dosya Dönüştürme Uygulamasını Geliştirin</h2>
+
+WEB dosyalarını PDF belgesine kolayca kaydetmek ve dışa aktarmak için .NET tabanlı bir yazılım uygulaması geliştirmeniz mi gerekiyor? [Aspose.Total for .NET](https://products.aspose.com/total/tr/net/) ile herhangi bir .NET geliştiricisi, Microsoft Word, Excel, Powerpoint, PDF, E-posta dosyaları, Resimler ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü .NET kütüphanesi, WEB formatı da dahil olmak üzere birçok popüler formatı destekler. Belgeleri diğer formatlara aktarmak için programcılar Aspose.Total'ı [Aspose.Words for .NET](https://products.aspose.com/words/tr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/tr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/tr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/tr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/tr/net/) ve daha fazlası dahil olmak üzere .NET alt API'leri için kullanabilirler.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for .NET'i sisteminize kurmanın üç alternatif seçeneği bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Bir [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) yükleyin. [Belgeleme](https://docs.aspose.com/total/net/)'e bakın
+- [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) vb. gibi Visual Studio IDE içindeki alt API seçimi olarak Paket Yöneticisi Konsolunu kullanarak kütüphaneyi yükleyin
+- Windows Installer'ı kullanarak kitaplığı manuel olarak yükleyin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB'yi PDF'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Ürünümüz tamamen çapraz platformdur ve '.NET Standard 2.0' spesifikasyonunu takip eden tüm önemli .NET uygulamalarını destekler:<br /><br />
+
+- Microsoft .NET Framework, en eski 2.0 sürümünden başlayarak en son '.NET Framework 4.8' ile sona ermektedir
+- .NET Core, en eski 2.0'dan başlayarak en son '.NET 6' ile sona eriyor
+- Mono >= 2.6.7
+<br />
+.NET kodu altta yatan donanıma veya işletim sistemine değil, yalnızca bir Sanal Makineye dayandığından, Windows, macOS, Android, iOS ve Linux için her türlü yazılımı geliştirmekte özgürsünüz. Sadece .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünün yüklü olduğundan emin olun.<br />
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin ve MonoDevelop IDE'yi kullanmanızı öneririz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="SSS" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>SSS</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Yukarıdaki .NET kodunu uygulamamda kullanabilir miyim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Evet, bu kodu indirmenize izin verilir. .NET kullanarak WEB'yi PDF dosyasına dışa aktarmak ve kaydetmek için profesyonel bir çözüm kolayca geliştirilebilir. .NET'te üst düzey, platformdan bağımsız yazılım geliştirmek için Aspose WEB - PDF dönüştürme API'sini kullanın.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bu belgenin uygulama dışa aktarma özelliği sadece Windows'ta mı çalışıyor?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">WEB'den PDF'ye belge aktarımını, Windows, Linux, Mac OS veya Android gibi hangi işletim sisteminde çalıştığına bakılmaksızın, herhangi bir cihazdan başlatma esnekliğine sahipsiniz. Tek ihtiyacınız olan güncel bir web tarayıcısı ve aktif bir internet bağlantısı.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB belgesini dönüştürmek için çevrimiçi uygulamayı kullanmak güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! Hizmetimiz aracılığıyla oluşturulan çıktı dosyaları 24 saatlik bir zaman dilimi içerisinde sunucularımızdan güvenli ve otomatik olarak kaldırılacaktır. Sonuç olarak bu dosyalara ilişkin indirme bağlantıları bu sürenin sonunda çalışmayacaktır.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Uygulamayı kullanmak için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Çevrimiçi WEB belge dönüşümü için Google Chrome, Firefox, Opera veya Safari gibi herhangi bir modern web tarayıcısını kullanabilirsiniz.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Birden fazla WEB dosyasını nasıl dışa aktarabilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Dönüştürmek istediğiniz bir veya daha fazla dosyayı yükleyerek başlayın. WEB dosyalarınızı sürükleyip bırakabilir veya sadece beyaz alanın içine tıklayabilirsiniz. Daha sonra 'Dönüştür' butonuna tıklayın, online dönüştürme uygulamamız yüklenen dosyaları hızlı bir şekilde işleyecektir.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB dosyalarının dönüştürülmesi ne kadar zaman alır?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu dönüştürme uygulaması hızlı bir şekilde çalışır. Belgenin boyutuna bağlı olarak, dosyaların yüklenmesi ve gerekli formata kaydedilmesi birkaç saniye veya daha fazla sürebilir.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

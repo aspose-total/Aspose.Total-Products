@@ -1,7 +1,7 @@
 ---
-title: .NET API om MOBI naar XLS te converteren of met gratis Online Converter
-description: C# API om MOBI naar XLS te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis MOBI naar XLS online converter snel voordat u de code integreert. 
-url_ignore: /nl/net/conversion/mobi-to-xls/
+title: Online MOBI naar XLS conversie of bouw een .NET-gebaseerde applicatie om MOBI bestanden te converteren
+description: Gratis online app om MOBI naar XLS bestanden te converteren. .NET C# conversiebibliotheekcode voor MOBI documenten. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,112 +10,169 @@ outformat: XLS
 otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API om MOBI naar XLS te converteren of online-app" h2="Exporteer MOBI naar XLS via C# zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Online MOBI naar XLS conversie-app en .NET-code om MOBI-bestanden te converteren" h2="Ontwikkel een krachtige .NET-gebaseerde MOBI conversie- en exportapplicatie. Converteer één of meerdere MOBI-bestanden naar XLS en andere formaten via de .NET-automatiserings-API. Converteer MOBI-bestanden gratis online via een app met directe download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u MOBI naar XLS-conversiefunctie opnemen in elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Words for .NET](https://products.aspose.com/words/net/) te gebruiken, kunt u MOBI naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar XLS converteren.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API om MOBI naar XLS te converteren" %}}
-1. Open het MOBI-bestand met de klasse [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)
-2. Converteer MOBI naar HTML met behulp van de [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) methode
-3. Laad HTML-mobiument met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
-4. Sla het mobiument op in XLS-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLS` in als SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Total```.
-
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Gratis online converter voor MOBI naar XLS</h3>
-
-<iframe title="mobi naar xls conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Gratis online MOBI naar XLS conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Laad MOBI Document van Stream via C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) stelt u ook in staat om MOBI-mobiumenten via stream te laden. Om een mobiument uit een stream te openen, geeft u eenvoudig een stream-object dat het mobiument bevat door aan de [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)-constructor. Het volgende codevoorbeeld laat zien hoe u een mobiument vanuit een stream opent:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converteer MOBI naar XLS bestanden online met behulp van de app" %}}
+
+1. Upload MOBI-bestanden om te converteren
+1. Wacht enkele seconden of langer, afhankelijk van de grootte van MOBI
+1. Houd de uploadstatusbalk in de gaten
+1. Klik op de knop "Converteren"
+1. MOBI wordt omgezet in een XLS-document
+1. Download het geconverteerde XLS-bestand
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converteer MOBI naar XLS via .NET Automation API" %}}
+
+
+1. Open het MOBI-bestand met de klasse [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)
+2. Converteer MOBI naar HTML met behulp van de [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) methode
+3. Laad HTML-mobiument met behulp van [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+4. Sla het mobiument op in XLS-indeling met de methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) en stel `XLS` in als SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Converteer MOBI naar XLS via C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Nog een paar voorbeelden voor het opslaan van MOBI in XLS met andere functies, zoals Laad MOBI Document van Stream via C#, Aangepaste eigenschappen toevoegen in XLS-bestand via C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Aangepaste eigenschappen toevoegen in XLS-bestand via C#" %}}
-Tijdens het converteren van MOBI naar XLS kunt u met [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) aangepaste eigenschappen toevoegen aan uw XLS-mobiumenten. Om een aangepaste eigenschap toe te voegen, kunt u de methode [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) gebruiken voor de [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) klasse. De Add-methode voegt de eigenschap toe aan het Excel-bestand en retourneert een verwijzing voor de nieuwe mobiumenteigenschap als [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /mobiumentproperty) object. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+<h2>Ontwikkel een MOBI-bestandsconversietoepassing met behulp van .NET</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+Moet u een op .NET gebaseerde softwaretoepassing ontwikkelen waarmee u MOBI-bestanden eenvoudig kunt opslaan en exporteren naar XLS-documenten? Met [Aspose.Total for .NET](https://products.aspose.com/total/nl/net/) kan iedere .NET-ontwikkelaar de bovenstaande API-code integreren om de conversietoepassing te programmeren voor diverse formaten, waaronder Microsoft Word, Excel, Powerpoint, PDF, e-mailbestanden, afbeeldingen en andere formaten. Krachtige .NET-bibliotheek voor documentconversie, ondersteunt veel populaire formaten, waaronder het MOBI-formaat. Programmeurs kunnen Aspose.Total gebruiken voor .NET-onderliggende API's, waaronder [Aspose.Words for .NET](https://products.aspose.com/words/nl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/nl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/nl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/nl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/nl/net/) en meer, om documenten naar andere formaten te exporteren.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="MOBI Conversiebibliotheek voor .NET" %}}
+
+Er zijn drie alternatieve opties om Aspose.Total voor .NET op uw systeem te installeren. Kies er een die het beste bij uw behoeften past en volg de stapsgewijze instructies:<br /><br />
+
+- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zie [Documentatie](https://docs.aspose.com/total/net/)
+- Installeer de bibliotheek met behulp van Package Manager Console vanaf de selectie van de onderliggende API binnen Visual Studio IDE, zoals [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), enz.
+- Installeer de bibliotheek handmatig met behulp van Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor het opslaan van MOBI in XLS-app" %}}
+
+Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .NET-implementaties volgens de specificatie '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, beginnend bij de vroegste versie 2.0 en eindigend met de nieuwste versie '.NET Framework 4.8'
+- .NET Core, beginnend bij de vroegste versie 2.0 en eindigend met de laatste versie '.NET 6'
+- Monomeer >= 2.6.7
+<br />
+Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, kunt u elk soort software ontwikkelen voor Windows, macOS, Android, iOS en Linux. Zorg ervoor dat u de juiste versie van .NET Framework, .NET Core, Windows Azure, Mono of Xamarin hebt geïnstalleerd.<br />
+Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken om C#-, F#- en VB.NET-toepassingen te maken.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Veelgestelde vragen" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Veel Gestelde Vragen</h2>
-              <ul>
+              <h2>Veelgestelde vragen</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Hoe kan ik MOBI online naar XLS converteren?</b></span>
+                          <span itemprop="name"><b>Kan ik bovenstaande .NET-code in mijn toepassing gebruiken?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online app voor MOBI-conversie is hierboven geïntegreerd. Ten eerste moet u een MOBI-bestand toevoegen voor conversie door slepen &amp; laat vallen of klik in het witte gebied om het document te importeren. Klik vervolgens op de knop Converteren. Wanneer de conversie van MOBI naar XLS is voltooid, kunt u uw geconverteerde bestand downloaden. U krijgt dus uitvoer-XLS-bestanden met slechts één klik.</span>
+                          <span itemprop="text">Ja, u bent van harte welkom om deze code te downloaden. U kunt eenvoudig een professionele oplossing ontwikkelen om MOBI te exporteren en op te slaan naar XLS-bestand met behulp van .NET. Gebruik de conversie-API van Aspose MOBI naar XLS om hoogwaardige, platformonafhankelijke software te ontwikkelen in .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Hoe lang duurt het om MOBI te converteren?</b></span>
+                          <span itemprop="name"><b>Exporteert dit document alleen apps die op Windows werken?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Deze online converter werkt snel, maar hangt vooral af van de grootte van het MOBI-bestand. U kunt binnen enkele seconden een klein MOBI-bestand naar XLS renderen. Bovendien, als u de conversiecode in de .NET-toepassing hebt geïntegreerd, hangt het ervan af hoe u uw toepassing voor het conversieproces hebt geoptimaliseerd.</span>
+                          <span itemprop="text">U kunt het exporteren van documenten van MOBI naar XLS vanaf elk apparaat starten, ongeacht het besturingssysteem waarop het draait: Windows, Linux, Mac OS of Android. Het enige dat u nodig hebt, is een moderne webbrowser en een actieve internetverbinding.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Is het veilig om MOBI naar XLS te converteren met de gratis Aspose.Total-converter?</b></span>
+                          <span itemprop="name"><b>Is het veilig om de online app te gebruiken om meerdere MOBI-documenten te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Natuurlijk! De downloadlink van XLS-bestanden is direct na de conversie beschikbaar. We verwijderen geüploade bestanden na 24 uur en de downloadlinks werken niet meer na deze periode. Niemand heeft toegang tot uw bestanden. Bestandsconversie (inclusief MOBI) is absoluut veilig. Voornamelijk gratis app is geïntegreerd om te testen, zodat men het resultaat kan controleren voordat de code wordt geïntegreerd.</span>
+                          <span itemprop="text">Natuurlijk! De outputbestanden die via onze service worden gegenereerd, worden binnen 24 uur veilig en automatisch van onze servers verwijderd. Als gevolg hiervan zullen de downloadlinks die aan deze bestanden gekoppeld zijn, na deze periode niet meer werken.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Welke browser moet ik gebruiken om MOBI te converteren?</b></span>
+                          <span itemprop="name"><b>Welke browser moet ik gebruiken om de app te gebruiken?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">U kunt elke moderne browser gebruiken voor deze online conversie, bijvoorbeeld Google Chrome, Firefox, Opera, Safari. Maar voor het geval u een desktoptoepassing ontwikkelt. Aspose.Total MOBI Conversion API zal soepel werken.</span>
+                          <span itemprop="text">U kunt elke moderne webbrowser gebruiken, zoals Google Chrome, Firefox, Opera of Safari, voor online MOBI-documentconversie.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe kan ik meerdere MOBI-bestanden exporteren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Begin met het uploaden van een of meer bestanden die u wilt converteren. U kunt uw MOBI-bestanden slepen en neerzetten of gewoon in het witte gebied klikken. Klik vervolgens op de knop 'Converteren'. Onze online conversie-app verwerkt de geüploade bestanden dan snel.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe lang duurt het om de MOBI-bestanden te converteren?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Deze conversietoepassing werkt snel. Het kan enkele seconden of langer duren om de documenten te uploaden en op te slaan in het gewenste formaat, afhankelijk van de grootte van het document.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

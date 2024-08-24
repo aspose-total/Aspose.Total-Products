@@ -1,89 +1,175 @@
 ---
-title: 使用 C# 进行网页抓取 - 将 HTML 转换为 Word 文件 
-description: 通过集成 Aspose API，通过您的 .NET 应用程序抓取网站网页并将 HTML 导出到 Microsoft Word 文档。 
+title: 在线将 WEB 转换为 Word 或构建基于 .NET 的应用程序来转换 WEB 文件
+description: 免费在线应用程序将 WEB 转换为 Word 文件。用于 WEB 文档的 .NET C# 转换库代码。 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C# 进行网页抓取" h2="从 .NET 应用程序内的网页中提取数据并将 HTML 转换为 Microsoft Word 文件。" >}}
+{{< blocks/products/pf/feature-page-header h1="在线 WEB 到 Word 转换应用程序和 .NET 代码以转换 WEB 文件" h2="开发强大的基于.NET 的WEB 转换和导出应用程序。 通过 .NET 自动化 API 将单个或多个 WEB 文件转换为 Word 和其他格式。 通过应用程序在线自由转换 WEB 文件并即时下载。" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">什么是网页抓取？</h2>
-
-<p>网络抓取，也称为网络收获、数据抓取、网络数据提取或网络爬行，是一种用于从网站提取数据的技术。 它涉及利用专门的软件或工具从网页中检索特定信息的自动化过程。</p><br />
-<p>Web 抓取软件或脚本旨在模拟人类浏览行为并与网站交互以收集数据。 这些工具向 Web 服务器发送 HTTP 请求，检索 HTML 或 XML 响应，然后从检索到的内容中提取所需的数据元素。</p><br />
-
-<p>提取的数据可以包括各种类型的信息，例如文本、图像、表格、链接、价格、产品详细信息、评论等，具体取决于具体要求。 提取的数据通常以结构化格式保存，例如 DOC、DOCX、CSV、JSON 或数据库，以供进一步分析、存储或与其他系统集成。</p><br />
-
-<p>Web 抓取有许多应用程序，并用于各个行业。 它可用于市场研究、竞争分析、情绪分析、价格监控、数据聚合、内容抓取、潜在客户生成等等。</p><br />
-
-<p>然而，重要的是要注意网络抓取应该以负责任和道德的方式进行。 必须尊重网站的服务条款，遵守法律规定，不从事可能侵犯隐私或知识产权的活动。</p>
-
-<h2 class="heading-border">使用 Aspose.HTML 作为网页抓取 API</h2>
-
-<p>借助 Aspose.HTML for .NET API（Aspose.Total for .NET 的子 API），您可以毫不费力地开发自己的应用程序，包括从 HTML 文档中分析和提取信息。 API 提供了一个强大的工具集来促进这个过程。</p><br />
-
-<p>在构建抓取工具时，数据选择器在从 HTML 文件中识别和提取所需信息方面起着至关重要的作用。 通常，这些选择器利用 XPath、CSS 选择器或两者的组合来定位 HTML 结构中的特定数据元素。 这些选择器充当浏览文档并精确定位您打算提取的数据的方法。</p>
-
-<h2 class="heading-border">Web Scrapping 可以执行的任务</h2>
-
-<p>通过利用 Aspose.HTML for .NET 轻松地从网页中自动提取数据，开发人员可以有效地执行以下网页抓取任务。</p><br />
-
-1. [HTML 导航](https://docs.aspose.com/html/net/html-navigation/) - 对 HTML 文档及其元素进行彻底检查。 它提供了用于详细分析、元素迭代的自定义过滤以及使用 CSS 选择器或 XPath 的无缝导航的功能。
-2. [下载网站](https://docs.aspose.com/html/net/download-website/) - 从 URL 下载网站并自定义下载过程。 这使您可以选择下载整个网站或特定网页，根据您的要求调整流程。
-3. [从 URL 下载文件](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [从网站下载图像](https://docs.aspose.com/html/net/download-images-from-website/) - 从网站下载不同类型的图像。
-5. [从网站下载 SVG](https://docs.aspose.com/html/net/download-svg-from-website/) - 使用 C# 从网站下载可缩放矢量图形 SVG 文件
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何使用 C# 提取 Web 数据？" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="免费在线 WEB 至 Word 转换应用程序" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="使用应用程序在线将 WEB 文件转换为 Word 文件" %}}
+
+1. 上传 WEB 文件进行转换
+1. 等待几秒钟或更长时间，具体取决于 WEB 大小
+1. 留意上传状态栏
+1. 点击“转换”按钮
+1. WEB 将转换为 Word 文档
+1. 下载转换后的Word文件
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="通过 .NET 自动化 API 将 WEB 转换为 Word" %}}
+
+
 
 1. 利用 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) 从 URL 初始化 HTML 文档的构造函数
 2. 使用 [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) 方法来指定选择器并检索与选择器匹配的所有元素。
 3. 遍历元素列表并将结果输出为您需要的格式。
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="网页抓取和转换要求" %}}
-从命令行安装为 ```nuget install Aspose.Total``` 或直接从 Visual Studio 的包管理器控制台安装。
+{{% blocks/products/pf/agp/code-block title="通过 C# .NET 将 WEB 转换为 Word" offSpacer="" %}}
 
-二 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 子 API， [Aspose.HTML for .NET](https://products.aspose.com/html/net/) 和 [Aspose.Words for .NET](https://products.aspose.com/words/net/) 将被整合。
-
-或者，从 ZIP 文件中获取脱机 MSI 安装程序或 DLL [下载](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Words 进行 HTML 到 Word 的转换" %}}
-<p>如果您需要以编程方式将 HTML 文件转换为 Word 格式，Aspose.Words for .NET 是 Aspose.Total 的另一个子 API，它提供了一个简单而高效的解决方案。 只需几行 C# 代码，开发人员就可以使用这种现代文档处理 API 轻松地将 HTML 转换为 Word。</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Aspose.Words for .NET 提供从 HTML 到 Word 的高速转换，确保出色的质量结果。您甚至可以直接在浏览器中测试 HTML 到 Word 的转换。 这个强大的 C# 库支持将 HTML 文件转换为各种流行格式。</p><br />
-
-<p>借助 Aspose.Words 提供的功能，开发人员可以将 HTML 文件无缝转换为 Word 格式，从而简化其应用程序中的转换过程。</p><br />
-
-<p>要在 C# 中将 HTML 转换为 Word，您可以按照以下简单的步骤操作:</p><br />
-
-1. 从本地驱动器读取废弃的 HTML 文件。
-1. 将文件另存为 Word，使用 Word 扩展名指定所需的文件格式。
-1. 对于阅读 HTML 和编写 Word 文档，您可以使用完全限定的文件名。
-1. 生成的 Word 文档将保留原始 HTML 文件的内容和格式。
+使用其他功能（如 使用 Aspose.Words 进行 HTML 到 Word 的转换）将 WEB 保存为 Word 的情况较少。
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>使用 .NET 开发 WEB 文件转换应用程序</h2>
+
+需要开发基于 .NET 的软件应用程序来轻松保存和导出 WEB 文件到 Word 文档吗？ 借助 [Aspose.Total for .NET](https://products.aspose.com/total/zh/net/)，任何 .NET 开发人员都可以集成上述 API 代码来编写跨多种格式的转换应用程序，包括 Microsoft Word、Excel、Powerpoint、PDF、电子邮件文件、图像和其他格式。 强大的.NET 文档转换库，支持许多流行格式，包括 WEB 格式。 将文档导出为其他格式，程序员可以使用 Aspose.Total 的 .NET 子 API，包括 [Aspose.Words for .NET](https://products.aspose.com/words/zh/net/)、[Aspose.Cells for .NET](https://products.aspose.com/cells/zh/net/)、[Aspose.Slides for .NET](https://products.aspose.com/slides/zh/net/)、[Aspose.PDF for .NET](https://products.aspose.com/pdf/zh/net/)、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/zh/net/) 等。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET 转换库" %}}
+
+有三种可选方法可以将 Aspose.Total for .NET 安装到您的系统上。 请选择一个符合您需求的方案并按照分步说明进行操作：<br /><br />
+
+- 安装 [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)。参见 [文档](https://docs.aspose.com/total/net/)
+- 使用包管理器控制台安装库，并在 Visual Studio IDE 中选择其子 API，如 [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) 等
+- 使用 Windows Installer 手动安装库
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="正在将 WEB 保存至 Word 应用要求" %}}
+
+我们的产品是完全跨平台的，并支持遵循“.NET Standard 2.0”规范的所有主要.NET 实现：<br /><br />
+
+- Microsoft .NET Framework，从最早的2.0版本开始，到最新的“.NET Framework 4.8”结束
+- .NET Core，从最早的2.0开始，到最新的‘.NET 6’结束
+- Mono >= 2.6.7
+<br />
+由于 .NET 代码不依赖于底层硬件或操作系统，而只依赖于虚拟机，因此您可以自由地为 Windows、macOS、Android、iOS 和 Linux 开发任何类型的软件。 只需确保您已安装相应版本的.NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br />
+我们建议使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 来创建 C#、F#、VB.NET 应用程序。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="常见问题解答" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>常见问题解答</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我可以在我的应用程序中使用上述.NET 代码吗？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">是的，欢迎您下载此代码。可以轻松开发专业解决方案，使用 .NET 将 WEB 导出并保存到 Word 文件。 使用 Aspose WEB 到 Word 转换 API 在 .NET 中开发高级、独立于平台的软件。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>这个文档导出应用程序只在 Windows 上有效吗？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以灵活地从任何设备启动将文档从 WEB 导出到 Word，无论它运行的操作系统是什么，无论是 Windows、Linux、Mac OS 还是 Android。 所需的只是一个现代的网络浏览器和一个有效的互联网连接。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>使用在线应用程序转换多个 WEB 文档是否安全？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">当然！通过我们的服务生成的输出文件将在 24 小时内安全自动地从我们的服务器中删除。 因此，在此期间之后，与这些文件相关的下载链接将不再起作用。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>应该使用什么浏览器来使用App？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以使用任何现代网络浏览器（如 Google Chrome、Firefox、Opera 或 Safari）进行在线 WEB 文档转换。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我如何导出多个 WEB 文件？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">首先上传一个或多个要转换的文件。您可以拖放 WEB 文件，也可以直接单击白色区域。 然后，单击“转换”按钮，我们的在线转换应用程序将快速处理上传的文件。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>转换 WEB 文件需要多长时间？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">该转换应用程序运行迅速，可能需要几秒钟或更长时间，具体取决于文档大小上传并保存为所需格式。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,120 +1,177 @@
 ---
-title: .NET API để chuyển đổi WORD sang TSV hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C# API để chuyển đổi WORD sang TSV hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến WORD sang TSV miễn phí một cách nhanh chóng trước khi tích hợp mã. 
-url_ignore: /vi/net/conversion/word-to-tsv/
+title: Chuyển đổi trực tuyến Word sang TSV hoặc xây dựng ứng dụng dựa trên .NET để chuyển đổi tệp Word
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp Word sang TSV. Mã thư viện chuyển đổi .NET C# cho tài liệu Word. 
+
 family: total
 platformtag: net
 feature: conversion
-informat: WORD
+informat: Word
 outformat: TSV
 otherformats: XLSX XLT SXC XLTM XLTX DIF FODS TSV XLS XLSM ODS XLSB XLAM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi WORD sang TSV hoặc Ứng dụng trực tuyến" h2="Xuất WORD sang TSV qua C# mà không sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi Word sang TSV trực tuyến và mã .NET để chuyển đổi tệp Word" h2="Phát triển ứng dụng chuyển đổi và xuất Word mạnh mẽ dựa trên .NET. Chuyển đổi một hoặc nhiều tệp Word sang TSV và các định dạng khác thông qua API tự động hóa .NET. Chuyển đổi miễn phí các tệp Word trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể bao gồm tính năng chuyển đổi WORD sang TSV trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể xuất WORD sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang TSV.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API để chuyển đổi WORD sang TSV" %}}
-1. Mở tệp WORD bằng lớp [Document](https://reference.aspose.com/words/net/aspose.words/document)
-2. Chuyển đổi WORD sang HTML bằng phương pháp [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu sang định dạng TSV bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `TSV` làm SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total``` hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.Total```.
-
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Công cụ chuyển đổi trực tuyến miễn phí cho WORD sang TSV</h3>
-
-<iframe title="Công cụ trực tuyến chuyển đổi từ docx sang tsv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Ứng dụng chuyển đổi Word sang TSV trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Tải tài liệu WORD từ Luồng qua C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) cũng cho phép bạn tải tài liệu WORD qua luồng. Để mở tài liệu từ luồng, chỉ cần chuyển đối tượng luồng có chứa tài liệu vào phương thức khởi tạo [Document](https://reference.aspose.com/words/net/aspose.words/document). Ví dụ mã sau đây cho thấy cách mở một tài liệu từ một luồng:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp Word sang TSV trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp Word để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước Word
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. Word sẽ được chuyển đổi thành tài liệu TSV
+1. Tải xuống tệp TSV đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi Word sang TSV thông qua .NET Automation API" %}}
+
+
+1. Mở tệp WORD bằng lớp [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Chuyển đổi WORD sang HTML bằng phương pháp [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu sang định dạng TSV bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) và đặt `TSV` làm SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi Word sang TSV thông qua C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Một số trường hợp khác để lưu Word vào TSV với các tính năng khác như Tải tài liệu WORD từ Luồng qua C#, Thêm thuộc tính tùy chỉnh trong tệp TSV qua C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Thêm thuộc tính tùy chỉnh trong tệp TSV qua C#" %}}
-Trong khi chuyển đổi WORD sang TSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) cho phép bạn thêm các thuộc tính tùy chỉnh trong tài liệu TSV của mình. Để thêm thuộc tính tùy chỉnh, bạn có thể sử dụng phương thức [Thêm](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) cho phương thức [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) lớp. Phương thức Thêm sẽ thêm thuộc tính vào tệp Excel và trả về một tham chiếu cho thuộc tính tài liệu mới dưới dạng [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) đối tượng. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Phát triển ứng dụng chuyển đổi tệp Word bằng .NET</h2>
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+Bạn có cần phát triển ứng dụng phần mềm dựa trên .NET để dễ dàng lưu và xuất tệp Word sang tài liệu TSV không? Với [Aspose.Total for .NET](https://products.aspose.com/total/vi/net/), bất kỳ nhà phát triển .NET nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word, Excel, Powerpoint, PDF, tệp Email, Hình ảnh và các định dạng khác. Thư viện .NET mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng Word. Khi xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng Aspose.Total cho các API con .NET bao gồm [Aspose.Words for .NET](https://products.aspose.com/words/vi/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/vi/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/vi/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/vi/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/vi/net/), v.v.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Word Thư viện chuyển đổi cho .NET" %}}
+
+Có ba tùy chọn thay thế để cài đặt Aspose.Total cho .NET vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Xem [Tài liệu](https://docs.aspose.com/total/net/)
+- Cài đặt thư viện bằng Package Manager Console khi lựa chọn API con của nó trong Visual Studio IDE như [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), v.v.
+- Cài đặt thư viện thủ công bằng Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu Word vào TSV Yêu cầu ứng dụng" %}}
+
+Sản phẩm của chúng tôi hoàn toàn tương thích với nhiều nền tảng và hỗ trợ tất cả các triển khai .NET chính theo thông số kỹ thuật '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET Framework 4.8' mới nhất
+- .NET Core, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET 6' mới nhất
+- Đơn sắc >= 2.6.7
+<br />
+Vì mã .NET không phụ thuộc vào phần cứng hoặc hệ điều hành cơ bản mà chỉ phụ thuộc vào Máy ảo, nên bạn có thể thoải mái phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux. Chỉ cần đảm bảo bạn đã cài đặt phiên bản .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin tương ứng.<br />
+Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Câu hỏi thường gặp" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Các câu hỏi thường gặp</h2>
-              <ul>
+              <h2>Câu hỏi thường gặp</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Làm cách nào tôi có thể chuyển đổi WORD sang TSV trực tuyến?</b></span>
+                          <span itemprop="name"><b>Tôi có thể sử dụng mã .NET ở trên trong ứng dụng của mình không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">App chuyển đổi WORD Online đã được tích hợp bên trên. Trước tiên, bạn cần thêm tệp WORD để chuyển đổi bằng cách kéo &amp; thả hoặc bấm vào bên trong vùng trắng để nhập tài liệu. Sau đó nhấp vào nút Chuyển đổi. Khi quá trình chuyển đổi WORD sang TSV hoàn tất, bạn có thể tải xuống tệp đã chuyển đổi của mình. Vì vậy, Bạn sẽ nhận được các tệp TSV đầu ra chỉ bằng một cú nhấp chuột.</span>
+                          <span itemprop="text">Vâng, bạn được phép tải xuống mã này. Người ta có thể dễ dàng phát triển một giải pháp chuyên nghiệp để xuất và lưu Word vào tệp TSV bằng .NET. Sử dụng API chuyển đổi Aspose Word sang TSV để phát triển phần mềm cấp cao, độc lập với nền tảng trong .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Mất bao lâu để chuyển đổi WORD?</b></span>
+                          <span itemprop="name"><b>Tài liệu xuất ứng dụng này chỉ hoạt động trên Windows phải không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Trình chuyển đổi trực tuyến này hoạt động nhanh nhưng chủ yếu phụ thuộc vào kích thước của tệp WORD. Bạn có thể hiển thị tệp WORD kích thước nhỏ thành TSV trong vài giây. Hơn nữa, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng .NET, điều đó phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
+                          <span itemprop="text">Bạn có thể linh hoạt bắt đầu xuất tài liệu từ Word sang TSV từ bất kỳ thiết bị nào, bất kể thiết bị đó chạy hệ điều hành nào, có thể là Windows, Linux, Mac OS hoặc Android. Tất cả những gì bạn cần là một trình duyệt web hiện đại và kết nối internet đang hoạt động.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Có an toàn khi chuyển đổi WORD sang TSV bằng trình chuyển đổi Aspose.Total miễn phí không?</b></span>
+                          <span itemprop="name"><b>Có an toàn khi sử dụng ứng dụng trực tuyến để chuyển đổi nhiều tài liệu Word không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tất nhiên rồi! Liên kết tải xuống của các tệp TSV sẽ có sẵn ngay lập tức sau khi chuyển đổi. Chúng tôi xóa các tệp đã tải lên sau 24 giờ và các liên kết tải xuống sẽ ngừng hoạt động sau khoảng thời gian này. Không ai có quyền truy cập vào tập tin của bạn. Chuyển đổi tập tin (bao gồm cả WORD) là an toàn tuyệt đối. Ứng dụng miễn phí chủ yếu được tích hợp với mục đích thử nghiệm để người dùng có thể kiểm tra kết quả trước khi tích hợp mã.</span>
+                          <span itemprop="text">Tất nhiên rồi! Các tập tin đầu ra được tạo ra thông qua dịch vụ của chúng tôi sẽ được xóa an toàn và tự động khỏi máy chủ của chúng tôi trong vòng 24 giờ. Do đó, các liên kết tải xuống liên quan đến các tệp này sẽ không còn hoạt động sau thời gian này.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Tôi nên sử dụng trình duyệt nào để chuyển đổi WORD?</b></span>
+                          <span itemprop="name"><b>Nên sử dụng ứng dụng trên trình duyệt nào?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bạn có thể sử dụng bất kỳ trình duyệt hiện đại nào để chuyển đổi trực tuyến này, chẳng hạn như Google Chrome, Firefox, Opera, Safari. Nhưng trong trường hợp bạn đang phát triển ứng dụng Desktop. API chuyển đổi Aspose.Total WORD sẽ hoạt động trơn tru.</span>
+                          <span itemprop="text">Bạn có thể sử dụng bất kỳ trình duyệt web hiện đại nào như Google Chrome, Firefox, Opera hoặc Safari để chuyển đổi tài liệu Word trực tuyến.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Làm thế nào tôi có thể xuất nhiều tệp Word?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bắt đầu bằng cách tải lên một hoặc nhiều tệp bạn muốn chuyển đổi. Bạn có thể kéo và thả các tệp Word của mình hoặc chỉ cần nhấp vào bên trong vùng màu trắng. Sau đó, nhấp vào nút 'Chuyển đổi' và ứng dụng chuyển đổi trực tuyến của chúng tôi sẽ nhanh chóng xử lý các tệp đã tải lên.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Phải mất bao lâu để chuyển đổi các tập tin Word?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ứng dụng chuyển đổi này hoạt động nhanh chóng. Có thể mất vài giây hoặc lâu hơn tùy thuộc vào kích thước tài liệu để tải lên và lưu chúng theo định dạng yêu cầu.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

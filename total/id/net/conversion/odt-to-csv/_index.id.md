@@ -1,7 +1,7 @@
 ---
-title: .NET API untuk Mengonversi ODT ke CSV atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi ODT ke CSV atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online ODT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
-url_ignore: /id/net/conversion/odt-to-csv/
+title: Konversi ODT ke CSV Online atau Bangun Aplikasi berbasis .NET untuk Mengonversi File ODT
+description: Aplikasi daring gratis untuk mengonversi file ODT ke CSV. Kode pustaka konversi .NET C# untuk dokumen ODT. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,110 +10,168 @@ outformat: CSV
 otherformats: XLTM FODS ODS XLSX EXCEL XLSB SXC DIF XLAM XLT XLSM XLS XLTX TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi ODT ke CSV atau Aplikasi Daring" h2="Ekspor ODT ke CSV melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikasi Konversi ODT ke CSV Online dan Kode .NET untuk Mengonversi File ODT" h2="Mengembangkan aplikasi konversi dan ekspor ODT berbasis .NET yang canggih. Konversi satu atau beberapa file ODT ke CSV dan format lainnya melalui API otomatisasi .NET. Konversi file ODT secara bebas secara daring melalui aplikasi dengan unduhan instan." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/), Anda dapat menyertakan fitur konversi ODT ke CSV dalam aplikasi .NET, C#, ASP.NET, dan VB.NET apa pun di dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat mengekspor ODT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke CSV.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API untuk Mengonversi ODT ke CSV" %}}
-1. Buka file ODT menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
-2. Konversi ODT ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Simpan dokumen ke format CSV menggunakan metode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `CSV` sebagai SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Instal dari baris perintah sebagai ```nuget install Aspose.Total``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total```.
-
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Konverter Online Gratis untuk ODT ke CSV</h3>
-
-<iframe title="Alat Konversi odt ke csv Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Aplikasi Konversi ODT ke CSV Online Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Muat Dokumen ODT dari Stream melalui C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) juga memungkinkan Anda memuat dokumen ODT melalui aliran. Untuk membuka dokumen dari aliran, cukup teruskan objek aliran yang berisi dokumen ke konstruktor [Dokumen](https://reference.aspose.com/words/net/aspose.words/document). Contoh kode berikut menunjukkan cara membuka dokumen dari aliran:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konversi File ODT ke CSV Online menggunakan Aplikasi" %}}
+
+1. Unggah file ODT untuk dikonversi
+1. Tunggu beberapa detik atau lebih tergantung pada ukuran ODT
+1. Perhatikan status bar unggahan
+1. Klik tombol "Konversi"
+1. ODT akan diubah menjadi dokumen CSV
+1. Unduh file CSV yang dikonversi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konversi ODT ke CSV melalui .NET Automation API" %}}
+
+
+1. Buka file ODT menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Konversi ODT ke HTML dengan menggunakan metode [Simpan](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Muat dokumen HTML dengan menggunakan kelas [Buku Kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Simpan dokumen ke format CSV menggunakan metode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) dan setel `CSV` sebagai SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Konversi ODT ke CSV melalui C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Beberapa kasus lagi untuk menyimpan ODT ke CSV dengan fitur lain seperti Muat Dokumen ODT dari Stream melalui C#, Tambahkan Properti Kustom dalam File CSV melalui C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Tambahkan Properti Kustom dalam File CSV melalui C#" %}}
-Saat mengonversi ODT ke CSV, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) memungkinkan Anda menambahkan properti khusus di dokumen CSV Anda. Untuk menambahkan properti kustom, Anda dapat menggunakan metode [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) untuk [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) kelas. Metode Add menambahkan properti ke file Excel dan mengembalikan referensi untuk properti dokumen baru sebagai [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) objek. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+<h2>Mengembangkan Aplikasi Konversi File ODT menggunakan .NET</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+Perlu mengembangkan aplikasi perangkat lunak berbasis .NET untuk dengan mudah menyimpan dan mengekspor file ODT ke dokumen CSV? Dengan [Aspose.Total for .NET](https://products.aspose.com/total/id/net/), setiap pengembang .NET dapat mengintegrasikan kode API di atas untuk memprogram aplikasi konversi di berbagai format termasuk Microsoft Word, Excel, Powerpoint, PDF, file Email, Gambar, dan format lainnya. Pustaka .NET yang tangguh untuk konversi dokumen, mendukung banyak format populer termasuk format ODT. Mengekspor dokumen ke format lain, programmer dapat menggunakan Aspose.Total untuk API anak .NET termasuk [Aspose.Words for .NET](https://products.aspose.com/words/id/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/id/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/id/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/id/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/id/net/) dan banyak lagi.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Pustaka Konversi ODT untuk .NET" %}}
+
+Ada tiga pilihan alternatif untuk menginstal Aspose.Total for .NET ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
+
+- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Lihat [Dokumentasi](https://docs.aspose.com/total/net/)
+- Instal pustaka menggunakan Konsol Manajer Paket sebagai pilihan API anaknya dalam Visual Studio IDE seperti [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), dll.
+- Instal perpustakaan secara manual menggunakan Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Aplikasi Menyimpan ODT ke CSV" %}}
+
+Produk kami sepenuhnya lintas platform dan mendukung semua implementasi .NET utama mengikuti spesifikasi '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, mulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET Framework 4.8' terbaru
+- .NET Core, dimulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET 6' terbaru
+- Mono >= 2.6.7
+<br />
+Karena kode .NET tidak bergantung pada perangkat keras atau sistem operasi yang mendasarinya, tetapi hanya pada Mesin Virtual, maka Anda bebas mengembangkan perangkat lunak apa pun untuk Windows, macOS, Android, iOS, dan Linux. Pastikan Anda telah menginstal versi .NET Framework, .NET Core, Windows Azure, Mono, atau Xamarin yang sesuai.<br />
+Kami menyarankan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop IDE untuk membuat aplikasi C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Tanya Jawab Umum" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Pertanyaan yang Sering Diajukan</h2>
-              <ul>
+              <h2>Tanya Jawab Umum</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Bagaimana cara mengonversi ODT ke CSV Online?</b></span>
+                          <span itemprop="name"><b>Dapatkah saya menggunakan kode .NET di atas dalam aplikasi saya?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Aplikasi Online untuk konversi ODT terintegrasi di atas. Pertama, Anda perlu menambahkan file ODT untuk konversi dengan cara drag &amp; jatuhkan atau klik di dalam area putih untuk mengimpor dokumen. Kemudian klik tombol Konversi. Ketika konversi ODT ke CSV selesai, Anda dapat mengunduh file yang dikonversi. Jadi Anda akan mendapatkan file CSV keluaran hanya dengan satu klik.</span>
+                          <span itemprop="text">Ya, Anda dipersilakan mengunduh kode ini. Seseorang dapat dengan mudah mengembangkan solusi profesional untuk mengekspor dan menyimpan file ODT ke CSV menggunakan .NET. Gunakan API konversi Aspose ODT ke CSV untuk mengembangkan perangkat lunak tingkat tinggi dan independen platform di .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi ODT?</b></span>
+                          <span itemprop="name"><b>Apakah dokumen ini mengekspor pekerjaan Aplikasi hanya pada Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Konverter online ini bekerja dengan cepat tetapi terutama bergantung pada ukuran file ODT. Anda dapat merender file ODT ukuran kecil ke CSV dalam beberapa detik. Selain itu, Jika Anda telah mengintegrasikan kode konversi dalam aplikasi .NET, Itu tergantung pada bagaimana Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
+                          <span itemprop="text">Anda memiliki fleksibilitas untuk memulai ekspor dokumen dari ODT ke CSV dari perangkat apa pun, apa pun sistem operasi yang dijalankan, baik itu Windows, Linux, Mac OS, atau Android. Yang diperlukan hanyalah browser web kontemporer dan koneksi internet aktif.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Apakah aman mengonversi ODT ke CSV menggunakan pengonversi Aspose.Total gratis?</b></span>
+                          <span itemprop="name"><b>Apakah aman menggunakan aplikasi daring untuk mengonversi beberapa dokumen ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tentu saja! Tautan unduhan file CSV akan tersedia langsung setelah konversi. Kami menghapus file yang diunggah setelah 24 jam dan tautan unduhan akan berhenti berfungsi setelah jangka waktu ini. Tidak ada yang memiliki akses ke file Anda. Konversi file (termasuk ODT) benar-benar aman. Sebagian besar aplikasi gratis diintegrasikan untuk tujuan pengujian sehingga seseorang dapat memeriksa hasilnya sebelum mengintegrasikan kode.</span>
+                          <span itemprop="text">Tentu saja! File output yang dihasilkan melalui layanan kami akan dihapus secara aman dan otomatis dari server kami dalam jangka waktu 24 jam. Akibatnya, tautan unduhan yang terkait dengan berkas-berkas ini tidak akan berfungsi lagi setelah periode ini.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Browser apa yang harus saya gunakan untuk mengonversi ODT?</b></span>
+                          <span itemprop="name"><b>Browser apa yang harus digunakan untuk menggunakan Aplikasi ini?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Anda dapat menggunakan browser modern apa pun untuk konversi online ini, misalnya, Google Chrome, Firefox, Opera, Safari. Tetapi jika Anda sedang mengembangkan aplikasi Desktop. Aspose.Total ODT Conversion API akan bekerja dengan lancar.</span>
+                          <span itemprop="text">Anda dapat menggunakan peramban web modern seperti Google Chrome, Firefox, Opera, atau Safari untuk konversi dokumen ODT daring.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bagaimana cara mengekspor beberapa file ODT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Mulailah dengan mengunggah satu atau beberapa file yang ingin Anda konversi. Anda dapat menyeret dan melepas file ODT atau cukup klik di dalam area putih. Setelah itu, klik tombol 'Konversi', dan aplikasi konversi daring kami akan segera memproses file yang diunggah.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Berapa lama waktu yang dibutuhkan untuk mengonversi file ODT?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Aplikasi konversi ini beroperasi dengan cepat. Mungkin memerlukan waktu beberapa detik atau lebih tergantung pada ukuran dokumen untuk mengunggah dan menyimpannya ke format yang diperlukan.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
-title: Converter PPTM para DIF via C# ou aplicativo on-line
-description: Converter PPTM para DIF em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTM para DIF rapidamente antes de integrar o código. ou com o conversor online gratuito
-url_ignore: /pt/net/conversion/pptm-to-dif/
+title: Conversão online de PPTM para DIF ou criação de aplicativo baseado em .NET para converter arquivos PPTM
+description: Aplicativo online gratuito para converter arquivos PPTM para DIF. Código de biblioteca de conversão .NET C# para documentos PPTM. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,111 +10,168 @@ outformat: DIF
 otherformats: XLSB MHTML XLSM SXC FODS TSV DIF XLS XLAM XLTM XLTX EXCEL XLSX MARKDOWN XLT ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPTM para DIF via C# ou aplicativo on-line" h2="API .NET para conversão de PPTM para DIF sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Aplicativo de conversão online PPTM para DIF e código .NET para converter arquivos PPTM" h2="Desenvolva um poderoso aplicativo de conversão e exportação PPTM baseado em .NET. Converta arquivos PPTM únicos ou múltiplos para DIF e outros formatos via API de automação .NET. Converta arquivos PPTM gratuitamente online via aplicativo com download instantâneo." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode converter o arquivo PPTM para DIF em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), você pode exportar PPTM para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para DIF.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Como converter PPTM para DIF via C#" %}}
-1. Abra o arquivo PPTM usando a classe [Apresentação](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exporte PPTM como HTML usando o método [Salvar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salve o documento em DIF usando o método [Salvar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Instale a partir da linha de comando como ```nuget install Aspose.Total``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Total```.
-
-Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Conversor Online Gratuito de PPTM para DIF</h3>
-
-<iframe title="Ferramenta on-line de conversão de dif para pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Aplicativo gratuito de conversão de PPTM para DIF online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPTM Protegido para DIF via C#" %}}
-Ao converter o arquivo PPTM para DIF, se o documento PPTM de entrada estiver protegido por senha, você não poderá convertê-lo para DIF sem descriptografar o documento. Quando seu documento é protegido por senha, isso significa que ele impõe certas restrições na apresentação. Para remover as restrições, a senha deve ser inserida. Uma apresentação protegida por senha é considerada uma apresentação bloqueada. A API permite que você abra o documento criptografado passando a senha correta em um objeto LoadOptions.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converta arquivos PPTM para DIF online usando o aplicativo" %}}
+
+1. Carregar arquivos PPTM para converter
+1. Aguarde alguns segundos ou mais dependendo do tamanho do PPTM
+1. Fique de olho na barra de status do upload
+1. Clique no botão "Converter"
+1. PPTM será convertido em documento DIF
+1. Baixe o arquivo DIF convertido
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converter PPTM para DIF via API de automação .NET" %}}
+
+
+1. Abra o arquivo PPTM usando a classe [Apresentação](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exporte PPTM como HTML usando o método [Salvar](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salve o documento em DIF usando o método [Salvar](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Converter PPTM para DIF via C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Mais alguns casos para salvar PPTM em DIF com outros recursos como Converter PPTM Protegido para DIF via C#, Converter PPTM para DIF com marca d'água via C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}C#
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converter PPTM para DIF com marca d'água via C#" %}}
-Ao converter o arquivo PPTM para DIF, você também pode adicionar marca d'água ao formato de arquivo DIF de saída. Para adicionar uma marca d'água, você pode criar um novo objeto Workbook e abrir o documento HTML convertido, selecionar Worksheet através de seu índice, criar uma Shape e usar sua função AddTextEffect. Depois disso, você pode salvar seu documento HTML como DIF com marca d'água. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Desenvolver aplicativo de conversão de arquivo PPTM usando .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+Precisa desenvolver um aplicativo de software baseado em .NET para salvar e exportar facilmente arquivos PPTM para um documento DIF? Com o [Aspose.Total for .NET](https://products.aspose.com/total/pt/net/), qualquer desenvolvedor .NET pode integrar o código API acima para programar o aplicativo de conversão em vários formatos, incluindo Microsoft Word, Excel, Powerpoint, PDF, arquivos de e-mail, imagens e outros formatos. Biblioteca .NET poderosa para conversão de documentos, suporta muitos formatos populares, incluindo o formato PPTM. Para exportar documentos para outros formatos, os programadores podem usar o Aspose.Total para APIs filhas do .NET, incluindo [Aspose.Words for .NET](https://products.aspose.com/words/pt/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/pt/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/pt/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/pt/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/pt/net/) e mais.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPTM Biblioteca de conversão para .NET" %}}
+
+Há três opções alternativas para instalar o Aspose.Total for .NET no seu sistema. Escolha uma que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
+
+- Instale um [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Veja [Documentação](https://docs.aspose.com/total/net/)
+- Instale a biblioteca usando o Package Manager Console a partir da seleção da API filha no Visual Studio IDE, como [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc.
+- Instale a biblioteca manualmente usando o Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvando PPTM em DIF Requisitos do aplicativo" %}}
+
+Nosso produto é totalmente multiplataforma e oferece suporte a todas as principais implementações .NET seguindo a especificação '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, começando pela versão mais antiga 2.0 e terminando com o mais recente '.NET Framework 4.8'
+- .NET Core, começando pelo mais antigo 2.0 e terminando com o mais recente '.NET 6'
+- Mono >= 2.6.7
+<br />
+Como o código .NET não depende do hardware ou sistema operacional subjacente, mas apenas de uma máquina virtual, você está livre para desenvolver qualquer tipo de software para Windows, macOS, Android, iOS e Linux. Apenas certifique-se de ter instalado a versão correspondente do .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.<br />
+Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para criar aplicativos C#, F# e VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Perguntas frequentes" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>perguntas frequentes</h2>
-              <ul>
+              <h2>Perguntas frequentes</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Como posso converter PPTM para DIF Online?</b></span>
+                          <span itemprop="name"><b>Posso usar o código .NET acima no meu aplicativo?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">O aplicativo online para conversão PPTM está integrado acima. Para iniciar o processo de conversão de PPTM para DIF, basta adicionar o arquivo PPTM arrastando e soltando-o na área designada ou clicando nele para importar o documento. Em seguida, clique no botão "Converter". Depois que a conversão de PPTM para DIF for concluída, você poderá baixar o arquivo convertido. Com apenas um clique, você receberá seus arquivos DIF de saída.</span>
+                          <span itemprop="text">Sim, você é bem-vindo para baixar este código. Pode-se facilmente desenvolver uma solução profissional para exportar e salvar PPTM para arquivo DIF usando .NET. Use a API de conversão Aspose PPTM para DIF para desenvolver software de alto nível e independente de plataforma em .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Quanto tempo leva para converter PPTM?</b></span>
+                          <span itemprop="name"><b>Este documento de exportação de aplicativos funciona apenas no Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo PPTM. Se o arquivo PPTM for pequeno, a conversão para DIF pode ser concluída em alguns segundos. Além disso, se você integrou o código de conversão em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo para essa finalidade.</span>
+                          <span itemprop="text">Você tem a flexibilidade de iniciar a exportação de documentos de PPTM para DIF de qualquer dispositivo, independentemente do sistema operacional em que ele é executado, seja Windows, Linux, Mac OS ou Android. Tudo o que é necessário é um navegador web contemporâneo e uma conexão ativa à internet.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>É seguro converter PPTM para DIF usando o conversor gratuito Aspose.Total?</b></span>
+                          <span itemprop="name"><b>É seguro usar o aplicativo online para converter vários documentos PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Claro! Assim que a conversão de PPTM para DIF for concluída, você terá acesso instantâneo ao link de download dos arquivos DIF convertidos. Observe que excluímos automaticamente todos os arquivos enviados após 24 horas e os links de download não estarão mais ativos após esse período. Seus arquivos são totalmente seguros e privados, pois ninguém mais tem acesso a eles. O processo de conversão de arquivos, incluindo a conversão PPTM, é absolutamente seguro de usar. Oferecemos este aplicativo gratuito principalmente para fins de teste, para que você possa avaliar os resultados antes de integrar o código.</span>
+                          <span itemprop="text">Claro! Os arquivos de saída gerados por meio do nosso serviço serão removidos de forma segura e automática de nossos servidores dentro de um período de 24 horas. Como resultado, os links de download associados a esses arquivos deixarão de funcionar após esse período.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Qual navegador devo usar para converter PPTM?</b></span>
+                          <span itemprop="name"><b>Qual navegador devo usar para usar o aplicativo?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Esta ferramenta de conversão online é compatível com qualquer navegador moderno, como Google Chrome, Firefox, Opera ou Safari. No entanto, se você estiver desenvolvendo um aplicativo de desktop, a API Aspose.Total PPTM Conversion é uma opção confiável para uma integração suave.</span>
+                          <span itemprop="text">Você pode usar qualquer navegador moderno, como Google Chrome, Firefox, Opera ou Safari para conversão de documentos PPTM online.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Como posso exportar vários arquivos PPTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Comece carregando um ou mais arquivos que você deseja converter. Você pode arrastar e soltar seus arquivos PPTM ou simplesmente clicar dentro da área branca. Depois, clique no botão "Converter" e nosso aplicativo de conversão online processará rapidamente os arquivos enviados.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quanto tempo leva para converter os arquivos PPTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Este aplicativo de conversão opera rapidamente. Pode levar alguns segundos ou mais, dependendo do tamanho do documento, para carregá-lo e salvá-lo no formato necessário.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,78 +1,175 @@
 ---
-title: Trích xuất dữ liệu trang web và chuyển đổi trang web HTML sang PowerPoint bằng C#
-description: Quét các trang web của trang web cũng như xuất HTML sang Bản trình bày Microsoft Powerpoint trong các ứng dụng .NET
+title: Chuyển đổi trực tuyến WEB sang Powerpoint hoặc xây dựng ứng dụng dựa trên .NET để chuyển đổi tệp WEB
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp WEB sang Powerpoint. Mã thư viện chuyển đổi .NET C# cho tài liệu WEB. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: POWERPOINT
+outformat: Powerpoint
 otherformats: WORD EXCEL PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi trang web sang PowerPoint qua C#" h2="Trích xuất dữ liệu trang web ra khỏi HTML. Nhập HTML vào các định dạng Microsoft PowerPoint PPT, PPTX trong các ứng dụng .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi WEB sang Powerpoint trực tuyến và mã .NET để chuyển đổi tệp WEB" h2="Phát triển ứng dụng chuyển đổi và xuất WEB mạnh mẽ dựa trên .NET. Chuyển đổi một hoặc nhiều tệp WEB sang Powerpoint và các định dạng khác thông qua API tự động hóa .NET. Chuyển đổi miễn phí các tệp WEB trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Các trang web là một phần thiết yếu trong cuộc sống hàng ngày của chúng ta và chúng được sử dụng cho nhiều mục đích khác nhau. Tuy nhiên, đôi khi, chúng ta có thể cần trình bày các trang web ở định dạng khác, chẳng hạn như bản trình bày PowerPoint. Bạn không cần phải sao chép và dán thủ công nội dung từ các trang web vào trang trình bày của mình nữa. Thay vào đó, bạn có thể tự động hóa quy trình bằng cách sử dụng API .NET và tập trung vào việc tạo nội dung hấp dẫn cho bản trình bày trông chuyên nghiệp, hấp dẫn và nhiều thông tin.</p><br />
-
-<p>Tuy nhiên, điều quan trọng là phải nhấn mạnh tầm quan trọng của việc thực hành các phương pháp tiếp cận có trách nhiệm và đạo đức trong khi tham gia vào việc quét web. Đánh giá cao các điều khoản dịch vụ do các trang web đưa ra, tuân thủ các quy định pháp luật và tránh các hoạt động có thể xâm phạm quyền riêng tư hoặc quyền sở hữu trí tuệ, tất cả đều là những yếu tố quan trọng cần được xem xét cẩn thận.</p>
-
-<h2 class="heading-border">Sử dụng Aspose.HTML làm API Scraper</h2>
-
-<p>Với API Aspose.HTML cho .NET mạnh mẽ, một phần không thể thiếu của Aspose.Total cho .NET, bạn có khả năng dễ dàng phát triển các ứng dụng của riêng mình được thiết kế riêng cho việc phân tích và trích xuất dữ liệu từ các tài liệu HTML. API này cung cấp một loạt các công cụ hợp lý hóa đáng kể quy trình này, cho phép bạn xử lý hiệu quả nội dung HTML với hiệu quả tối đa.</p><br />
-
-<p>
-Khi xây dựng một trình cạp, bộ chọn dữ liệu đóng vai trò then chốt trong việc xác định và trích xuất thông tin cần thiết từ các tệp HTML. Các bộ chọn này, thường sử dụng bộ chọn XPath, CSS hoặc kết hợp cả hai, đóng vai trò là công cụ vô giá để định vị các phần tử dữ liệu cụ thể trong cấu trúc HTML. Hoạt động như các cơ chế điều hướng, các bộ chọn này cho phép nhắm mục tiêu chính xác và trích xuất dữ liệu mong muốn mà bạn định truy xuất.</p>
-
-<h2 class="heading-border">Các tác vụ có thể thực hiện cho Web Scrapping</h2>
-
-<p>Bằng cách sử dụng Aspose.HTML cho .NET, các nhà phát triển có thể hợp lý hóa và đơn giản hóa quy trình quét web của họ, tiết kiệm thời gian và công sức trong khi vẫn đảm bảo trích xuất dữ liệu chính xác và đáng tin cậy từ các trang web.</p><br />
-
-1. [Điều hướng HTML](https://docs.aspose.com/html/net/html-navigation/) - Phân tích tài liệu HTML một cách toàn diện với các tính năng như phân tích chi tiết, lọc tùy chỉnh để lặp lại phần tử và điều hướng liền mạch bằng Bộ chọn CSS hoặc XPath.
-2. [Tải xuống trang web](https://docs.aspose.com/html/net/download-website/) -  Tải xuống hiệu quả các trang web từ URL và tùy chỉnh quá trình tải xuống. Chọn tải xuống toàn bộ trang web hoặc các trang web cụ thể theo yêu cầu của bạn.
-3. [Tải xuống tệp từ URL](https://docs.aspose.com/html/net/download-file-from-url/) - Dễ dàng tải xuống các tệp từ một URL.
-4. [Tải xuống hình ảnh từ trang web](https://docs.aspose.com/html/net/download-images-from-website/) - Tải xuống nhiều loại hình ảnh từ các trang web.
-5. [Tải xuống SVG từ trang web](https://docs.aspose.com/html/net/download-svg-from-website/) - Truy xuất các tệp Đồ họa vectơ có thể mở rộng (SVG) từ một trang web bằng C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Làm cách nào để trích xuất dữ liệu web bằng C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ứng dụng chuyển đổi WEB sang Powerpoint trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp WEB sang Powerpoint trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp WEB để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước WEB
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. WEB sẽ được chuyển đổi thành tài liệu Powerpoint
+1. Tải xuống tệp Powerpoint đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi WEB sang Powerpoint thông qua .NET Automation API" %}}
+
+
 
 1. Khởi tạo một tài liệu HTML từ một URL bằng cách sử dụng [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) người xây dựng.
 2. Truy xuất các phần tử khớp với một bộ chọn cụ thể bằng cách sử dụng [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) phương pháp.
 3. Lặp lại danh sách các phần tử và tùy chỉnh định dạng đầu ra theo yêu cầu cụ thể của bạn.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi và loại bỏ trang web" %}}
-Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total``` hoặc cài đặt trực tiếp từ Package Manager Console của Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi WEB sang Powerpoint thông qua C# .NET" offSpacer="" %}}
 
-Hai [Aspose.Total for .NET](https://products.aspose.com/total/net/) API con, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) Và [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) sẽ được tích hợp.
-
-Ngoài ra, hãy tải trình cài đặt MSI ngoại tuyến hoặc tệp DLL trong tệp ZIP từ [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Sử dụng Aspose.Slides để chuyển đổi HTML sang PowerPoint" %}}
-<p>Aspose.Slides for .NET là một thư viện .NET mạnh mẽ cung cấp khả năng tạo, chuyển đổi và thao tác với bản trình bày PowerPoint, PDF, tài liệu HTML và các định dạng tệp khác. Chuyển đổi HTML sang PowerPoint liên quan đến việc chuyển nội dung của tài liệu HTML thành các trang chiếu trong bản trình bày PowerPoint.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Chuyển đổi HTML sang Bản trình bày Microsoft PowerPoint PPT, PPTX trong C# là một quy trình đơn giản dành cho các nhà phát triển .NET. Bạn có thể đạt được nó chỉ với một vài dòng mã::</p><br />
-
-1. Tạo một thể hiện của lớp Trình bày.
-1. Tải tài liệu HTML mà bạn muốn chuyển đổi thành Bản trình bày bằng cách sử dụng phương thức hoặc hàm tạo thích hợp.
-1. Lưu tệp kết quả dưới dạng định dạng bản trình bày Powerpoint có liên quan bằng phương pháp Lưu.
+Một số trường hợp khác để lưu WEB vào Powerpoint với các tính năng khác như Sử dụng Aspose.Slides để chuyển đổi HTML sang PowerPoint.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Phát triển ứng dụng chuyển đổi tệp WEB bằng .NET</h2>
+
+Bạn có cần phát triển ứng dụng phần mềm dựa trên .NET để dễ dàng lưu và xuất tệp WEB sang tài liệu Powerpoint không? Với [Aspose.Total for .NET](https://products.aspose.com/total/vi/net/), bất kỳ nhà phát triển .NET nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word, Excel, Powerpoint, PDF, tệp Email, Hình ảnh và các định dạng khác. Thư viện .NET mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng WEB. Khi xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng Aspose.Total cho các API con .NET bao gồm [Aspose.Words for .NET](https://products.aspose.com/words/vi/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/vi/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/vi/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/vi/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/vi/net/), v.v.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Thư viện chuyển đổi cho .NET" %}}
+
+Có ba tùy chọn thay thế để cài đặt Aspose.Total cho .NET vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Xem [Tài liệu](https://docs.aspose.com/total/net/)
+- Cài đặt thư viện bằng Package Manager Console khi lựa chọn API con của nó trong Visual Studio IDE như [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), v.v.
+- Cài đặt thư viện thủ công bằng Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu WEB vào Powerpoint Yêu cầu ứng dụng" %}}
+
+Sản phẩm của chúng tôi hoàn toàn tương thích với nhiều nền tảng và hỗ trợ tất cả các triển khai .NET chính theo thông số kỹ thuật '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET Framework 4.8' mới nhất
+- .NET Core, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET 6' mới nhất
+- Đơn sắc >= 2.6.7
+<br />
+Vì mã .NET không phụ thuộc vào phần cứng hoặc hệ điều hành cơ bản mà chỉ phụ thuộc vào Máy ảo, nên bạn có thể thoải mái phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux. Chỉ cần đảm bảo bạn đã cài đặt phiên bản .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin tương ứng.<br />
+Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Câu hỏi thường gặp" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Câu hỏi thường gặp</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Tôi có thể sử dụng mã .NET ở trên trong ứng dụng của mình không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Vâng, bạn được phép tải xuống mã này. Người ta có thể dễ dàng phát triển một giải pháp chuyên nghiệp để xuất và lưu WEB vào tệp Powerpoint bằng .NET. Sử dụng API chuyển đổi Aspose WEB sang Powerpoint để phát triển phần mềm cấp cao, độc lập với nền tảng trong .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Tài liệu xuất ứng dụng này chỉ hoạt động trên Windows phải không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bạn có thể linh hoạt bắt đầu xuất tài liệu từ WEB sang Powerpoint từ bất kỳ thiết bị nào, bất kể thiết bị đó chạy hệ điều hành nào, có thể là Windows, Linux, Mac OS hoặc Android. Tất cả những gì bạn cần là một trình duyệt web hiện đại và kết nối internet đang hoạt động.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Có an toàn khi sử dụng ứng dụng trực tuyến để chuyển đổi nhiều tài liệu WEB không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tất nhiên rồi! Các tập tin đầu ra được tạo ra thông qua dịch vụ của chúng tôi sẽ được xóa an toàn và tự động khỏi máy chủ của chúng tôi trong vòng 24 giờ. Do đó, các liên kết tải xuống liên quan đến các tệp này sẽ không còn hoạt động sau thời gian này.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Nên sử dụng ứng dụng trên trình duyệt nào?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bạn có thể sử dụng bất kỳ trình duyệt web hiện đại nào như Google Chrome, Firefox, Opera hoặc Safari để chuyển đổi tài liệu WEB trực tuyến.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Làm thế nào tôi có thể xuất nhiều tệp WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bắt đầu bằng cách tải lên một hoặc nhiều tệp bạn muốn chuyển đổi. Bạn có thể kéo và thả các tệp WEB của mình hoặc chỉ cần nhấp vào bên trong vùng màu trắng. Sau đó, nhấp vào nút 'Chuyển đổi' và ứng dụng chuyển đổi trực tuyến của chúng tôi sẽ nhanh chóng xử lý các tệp đã tải lên.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Phải mất bao lâu để chuyển đổi các tập tin WEB?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ứng dụng chuyển đổi này hoạt động nhanh chóng. Có thể mất vài giây hoặc lâu hơn tùy thuộc vào kích thước tài liệu để tải lên và lưu chúng theo định dạng yêu cầu.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

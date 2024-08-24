@@ -1,77 +1,175 @@
 ---
-title: Extrahera webbplatsdata och konvertera webbsidor HTML till Excel-fil med C#
-description: Skrapa webbsidor och exportera HTML till Microsoft Excel-dokument. Utveckla .NET-applikationer för att skrapa webbplatsdata till XLS-, XLSX-format.
+title: Online WEB till Excel-konvertering eller bygg .NET-baserad applikation för att konvertera WEB-filer
+description: Gratis onlineapp för att konvertera WEB till Excel-filer. .NET C#-konverteringsbibliotekskod för WEB-dokument.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera webbsidor till Excel via C#" h2="Extrahera webbsidors data från HTML. Importera HTML till Microsoft Excel XLS, XLSX-format i .NET-applikationer." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB till Excel-konverteringsapp och .NET-kod för att konvertera WEB-filer" h2="Utveckla kraftfull .NET-baserad WEB-omvandlings- och exportapplikation.  Konvertera enstaka eller flera WEB-filer till Excel och andra format via .NET automation API.  Konvertera fritt WEB-filer online via app med omedelbar nedladdning." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Webbsidor är en viktig del av internet, och de innehåller en mängd information som är användbar för individer och organisationer. Vissa användare kan dock tycka att det är svårt att extrahera data från webbsidor, särskilt när informationen är spridd över flera sidor. I sådana fall kan det vara en användbar lösning att konvertera webbsidor till Excel-format.</p><br />
-<p>Att konvertera webbsidor till Excel-format innebär att omvochla data på en webbsida till ett strukturerat format som enkelt kan importeras till Excel. Denna process kan automatiseras med hjälp av mjukvaruverktyg som är speciellt utformade för detta ändamål. Dessa verktyg kan extrahera data från flera webbsidor och konvertera dem till en enda Excel-fil, som kan analyseras och manipuleras efter behov.</p><br />
-
-<p>Det är dock viktigt att betona vikten av ansvarsfulla och etiska metoder när det gäller webbskrapning. Att respektera användarvillkoren för webbplatser, följa lagliga regler och avstå från att delta i aktiviteter som kan inkräkta på integritet eller immateriella rättigheter är alla viktiga aspekter att överväga.</p>
-
-<h2 class="heading-border">Använder Aspose.HTML som ett Scraper API</h2>
-
-<p>Genom att använda Aspose.HTML for .NET API, som är en komponent i Aspose.Total för .NET, kan du sömlöst skapa dina egna applikationer utformade för att analysera och extrahera data från HTML-dokument. Detta API tillhochahåller en omfattoche uppsättning verktyg som avsevärt förenklar detta uppdrag, vilket ger dig möjlighet att effektivt arbeta med HTML-innehåll.</p><br />
-
-<p>I processen att utveckla en skrapa har dataväljare en enorm betydelse för att identifiera och extrahera den önskade informationen från HTML-filer. Dessa väljare, som vanligtvis använder XPath, CSS-väljare eller en blochning av båda, fungerar som värdefulla verktyg för att lokalisera specifika dataelement i HTML-strukturen. Dessa väljare fungerar som en navigeringsmekanism och underlättar den exakta inriktningen och extraheringen av den data du vill hämta.</p>
-
-<h2 class="heading-border">Uppgifter man kan utföra för webbskrotning</h2>
-
-<p>Genom att använda Aspose.HTML för .NET kan utvecklare utan ansträngning automatisera processen för datautvinning från webbsidor, vilket gör det möjligt för dem att effektivt utföra följoche webbskrapningsuppgifter.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Analysera HTML-dokument och deras element grundligt. Dra nytta av funktioner som detaljerad analys, anpassad filtrering för elementiteration och sömlös navigering med CSS Selectors eller XPath.
-2. [Ladda ner webbplats](https://docs.aspose.com/html/net/download-website/) - Ladda ner webbplatser effektivt från webbadresser och anpassa nedladdningsprocessen. Välj att ladda ner hela webbplatsen eller specifika webbsidor enligt dina specifika krav.
-3. [Ladda ner filer från URL](https://docs.aspose.com/html/net/download-file-from-url/) - Ladda enkelt ner filer från en URL.
-4. [Ladda ner bilder från hemsidan](https://docs.aspose.com/html/net/download-images-from-website/) - Ladda ner olika typer av bilder från webbplatser.
-5. [Ladda ner SVG från webbplatsen](https://docs.aspose.com/html/net/download-svg-from-website/) - Hämta Scalable Vector Graphics-filer (SVG) från en webbplats med C#.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hur extraherar man webbdata med C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis onlinekonverteringsapp från WEB till Excel" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera WEB till Excel-filer online med app" %}}
+
+1. Ladda upp WEB-filer för att konvertera
+1. Vänta i några sekunder eller mer beroende på storleken på WEB
+1. Håll ett öga på uppladdningsstatusfältet
+1. Klicka på knappen "Konvertera".
+1. WEB kommer att konverteras till Excel-dokument
+1. Ladda ner den konverterade Excel-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera WEB till Excel via .NET Automation API" %}}
+
+
 
 1. Initiera ett HTML-dokument från en URL genom att använda [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktör.
 2. Ange en väljare med hjälp av [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metod för att hämta alla element som matchar väljaren.
 3. Gå igenom listan med element och formatera utdata enligt dina specifika krav.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Krav för webbskrotning och konvertering" %}}
-Installera från kommochoraden som ```nuget install Aspose.Total``` eller installera direkt från Package Manager Console i Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konvertera WEB till Excel via C# .NET" offSpacer="" %}}
 
-Två [Aspose.Total for .NET](https://products.aspose.com/total/net/) underordnade API:er, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) och [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) kommer att integreras.
-
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Använda Aspose.Cells för HTML till Excel-konvertering" %}}
-<p>För att konvertera HTML till XLS kan du använda Aspose.Cells for .NET API, som låter dig utföra denna uppgift programmatiskt med bara några rader kod. Med API:t kan du utveckla plattformsoberoende applikationer som har förmågan att generera, modifiera, konvertera, rendera och skriva ut olika Excel-filer. .NET Excel API går utöver enkel formatkonvertering, eftersom det också kan återge Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer. Denna omfattoche funktionalitet gör den till ett utmärkt val för utbyte av dokument i industristochardformat.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Att konvertera HTML till Microsoft Excel XLS, XLSX i C# är en enkel process för .NET-utvecklare. Du kan uppnå detta med bara några rader kod:</p><br />
-
-1. Ladda HTML-filen genom att skapa en instans av Workbook-klassen.
-1. Konvertera den inlästa HTML-koden till Excel genom att anropa Save-metoden i Workbook-instansen.
+Få fler fall för att spara WEB till Excel med andra funktioner som Använda Aspose.Cells för HTML till Excel-konvertering.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Utveckla WEB filkonverteringsapplikation med .NET</h2>
+
+Behöver du utveckla .NET-baserad programvara för att enkelt spara och exportera WEB-filer till Excel-dokument?  Med [Aspose.Total for .NET](https://products.aspose.com/total/sv/net/) kan alla .NET-utvecklare integrera ovanstående API-kod för att programmera konverteringsapplikationen i olika format inklusive Microsoft Word, Excel, Powerpoint, PDF, e-postfiler, bilder och andra format.  Kraftfullt .NET-bibliotek för dokumentkonvertering, stöder många populära format inklusive WEB-format.  Genom att exportera dokument till andra format kan programmerare använda Aspose.Total för .NET underordnade API:er inklusive [Aspose.Words for .NET](https://products.aspose.com/words/sv/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/sv/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/sv/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/sv/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/sv/net/) och mer.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Conversion Library för .NET" %}}
+
+Det finns tre alternativa alternativ för att installera Aspose.Total för .NET på ditt system.  Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
+
+- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Se [Dokumentation](https://docs.aspose.com/total/net/)
+- Installera biblioteket med Package Manager Console från dess underordnade API-val i Visual Studio IDE som [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc.
+- Installera biblioteket manuellt med Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Sparar WEB till Excel appkrav" %}}
+
+Vår produkt är helt plattformsoberoende och stöder alla större .NET-implementationer enligt '.NET Standard 2.0'-specifikationen:<br /><br />
+
+- Microsoft .NET Framework, från den tidigaste 2.0-versionen och slutar med den senaste '.NET Framework 4.8'
+- .NET Core, från den tidigaste 2.0 och slutar med den senaste '.NET 6'
+- Mono >= 2.6.7
+<br />
+Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.  Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br />
+Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Vanliga frågor" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Vanliga frågor</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kan jag använda ovanstående .NET-kod i min applikation?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, du är välkommen att ladda ner den här koden. Man kan enkelt utveckla en professionell lösning för att exportera och spara WEB till Excel-fil med .NET.  Använd Aspose WEB till Excel konverterings-API för att utveckla plattformsoberoende programvara på hög nivå i .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Fungerar detta dokumentexporterande app bara på Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du har flexibiliteten att initiera export av dokument från WEB till Excel från vilken enhet som helst, oavsett vilket operativsystem den körs på, oavsett om det är Windows, Linux, Mac OS eller Android.  Allt som krävs är en modern webbläsare och en aktiv internetanslutning.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Är det säkert att använda onlineappen för att konvertera flera WEB-dokument?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Naturligtvis! Utdatafilerna som genereras genom vår tjänst kommer säkert och automatiskt att tas bort från våra servrar inom en 24-timmars tidsram.  Som ett resultat kommer de nedladdningslänkar som är kopplade till dessa filer att upphöra att fungera efter denna period.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Vilken webbläsare ska man använda appen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du kan använda vilken modern webbläsare som helst som Google Chrome, Firefox, Opera eller Safari för onlinekonvertering av WEB-dokument.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur kan jag exportera flera WEB-filer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Börja med att ladda upp en eller flera filer du vill konvertera. Du kan antingen dra och släppa dina WEB-filer eller helt enkelt klicka i det vita området.  Därefter klickar du på knappen "Konvertera", så kommer vår onlinekonverteringsapp att snabbt bearbeta de uppladdade filerna.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur lång tid tar det att konvertera WEB-filerna?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Denna konverteringsapplikation fungerar snabbt, det kan ta några sekunder eller mer beroende på dokumentstorleken att ladda upp och spara dem i önskat format.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

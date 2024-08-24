@@ -1,6 +1,7 @@
 ---
-title: Převod webových stránek na soubory PDF pomocí C#
-description: Seškrábejte webové stránky a exportujte HTML do PDF dokumentů. Vyvíjejte aplikace .NET pro seškrabování dat webových stránek do PDF. 
+title: Online převod WEB na PDF nebo sestavení aplikace založené na .NET pro převod souborů WEB
+description: Bezplatná online aplikace pro převod souborů WEB na soubory PDF. Kód převodní knihovny .NET C# pro dokumenty WEB.  
+
 family: total
 platformtag: net
 feature: conversion
@@ -9,69 +10,166 @@ outformat: PDF
 otherformats: WORD EXCEL POWERPOINT IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převod webových stránek do PDF přes C#" h2="Extrahujte data webových stránek z webových stránek HTML. Importujte HTML do dokumentů PDF v rámci aplikací .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Online aplikace pro převod WEB na PDF a kód .NET pro převod souborů WEB" h2="Vyvíjejte výkonnou aplikaci pro převod a export WEB na bázi .NET.  Převeďte jeden nebo více souborů WEB do formátu PDF a dalších formátů pomocí automatizačního rozhraní .NET API.  Zdarma převádějte soubory WEB online prostřednictvím aplikace s okamžitým stažením." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Převod webových stránek do souborů PDF se stal základním úkolem mnoha podniků i jednotlivců. To může být užitečné pro archivaci důležitých informací, sdílení obsahu s ostatními nebo jednoduše pro osobní potřebu. S pomocí různých rozhraní .NET API mohou vývojáři vytvářet robustní a efektivní řešení pro konverzi webových stránek, která lze upravit tak, aby splňovala specifické požadavky.</p><br />
-
-<p>Je důležité zdůraznit význam provádění odstraňování webových stránek odpovědným a etickým způsobem. Je nanejvýš důležité dodržovat podmínky služeb webových stránek, dodržovat právní předpisy a zdržet se jakýchkoli aktivit, které by mohly potenciálně porušovat soukromí nebo práva duševního vlastnictví.</p>
-
-<h2 class="heading-border">Použití Aspose.HTML jako HTML Parser API</h2>
-
-<p>Jedno z nejpopulárnějších API pro analýzu webových stránek přes C# je Aspose.HTML for .NET, podřízené API Aspose.Total pro .NET. Je to jednoduché a snadno použitelné API pro analýzu HTML a CSS v aplikacích .NET. Poskytuje řadu funkcí, které usnadňují extrahování dat ze souborů HTML a snadnou manipulaci se strukturou dokumentu</p><br />
-
-<p>Při vývoji webového škrabáku se výběr dat stává klíčovým pro efektivní identifikaci a extrahování požadovaných informací ze souborů HTML. Datové selektory, často využívající XPath, CSS selektory nebo kombinaci obou, hrají zásadní roli při lokalizaci přesných datových prvků ve struktuře HTML. Tyto selektory fungují jako navigační nástroje v dokumentu a umožňují vám přesně určit a extrahovat data, která potřebujete.</p>
-
-<h2 class="heading-border">Úkoly, které lze provádět pro Web Scrapping</h2>
-
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
-
-1. [HTML navigace](https://docs.aspose.com/html/net/html-navigation/) - Provádějte komplexní kontroly HTML dokumentů a jejich prvků. Tato funkce usnadňuje podrobnou analýzu, vlastní filtrování pro iteraci prvků a bezproblémovou navigaci pomocí selektorů CSS nebo XPath.
-2. [Stáhnout webové stránky](https://docs.aspose.com/html/net/download-website/) - Stahujte webové stránky z adres URL a přizpůsobte proces stahování. Máte možnost si stáhnout celý web nebo konkrétní webové stránky a přizpůsobit proces tak, aby vyhovoval vašim konkrétním požadavkům.
-3. [Stáhnout soubory z adresy URL](https://docs.aspose.com/html/net/download-file-from-url/) - Efektivně stahujte soubory z URL pomocí Aspose.HTML pro .NET.
-4. [Stáhněte si obrázky z webu](https://docs.aspose.com/html/net/download-images-from-website/) - Bezproblémově stahujte různé typy obrázků z webových stránek pomocí funkcí poskytovaných Aspose.HTML pro .NET.
-5. [Stáhněte si SVG z webu](https://docs.aspose.com/html/net/download-svg-from-website/) - Získejte soubory Scalable Vector Graphics (SVG) z webových stránek pomocí C# s pomocí Aspose.HTML pro .NET.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak extrahovat data webových stránek pomocí C #?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Bezplatná online aplikace pro převod WEB na PDF" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na PDF soubory online pomocí aplikace App" %}}
+
+1. Nahrajte soubory WEB, které chcete převést
+1. Počkejte několik sekund nebo déle v závislosti na velikosti WEB
+1. Sledujte stavový řádek nahrávání
+1. Klikněte na tlačítko "Převést".
+1. WEB bude převeden na dokument PDF
+1. Stáhněte si převedený soubor PDF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na PDF pomocí rozhraní .NET Automation API" %}}
+
+
 
 1. Inicializujte dokument HTML z adresy URL pomocí [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktér.
 2. Zaměstnávejte [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metoda k definování selektoru a načtení všech prvků, které selektoru odpovídají.
 3. Iterujte seznam prvků a formátujte výstup podle vašich specifických požadavků.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Požadavky na odstranění webu a převod PDF" %}}
-Nainstalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo nainstalujte přímo z konzoly Package Manager Console sady Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Převeďte WEB na PDF přes C# .NET" offSpacer="" %}}
 
-Dva [Aspose.Total for .NET](https://products.aspose.com/total/net/) dětská rozhraní API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) a [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) bude integrován.
-
-Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Použití Aspose.PDF pro převod HTML do PDF" %}}
-<p>Aspose.PDF API nabízí komplexní řešení pro vývojáře, které jim umožňuje bezproblémově převádět HTML do PDF pomocí .NET. Díky jeho schopnostem můžete efektivně zvládnout proces převodu a získat přesné a vizuálně přitažlivé výstupy PDF. Tento proces zahrnuje napsání pouze několika řádků kódu C#, což vám umožní dosáhnout vysoce kvalitního převodu.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>API zajišťuje vysoce kvalitní a přesnou konverzi, zachovává strukturu, formátování a prvky původního obsahu HTML. Podporuje styly CSS, obrázky, hypertextové odkazy, tabulky a další prvky HTML, což vám umožňuje vytvářet profesionálně vypadající dokumenty PDF ze zdrojů HTML.</p><br />
-
-<p>Zde je příklad úryvku kódu, který ilustruje, jak převést HTML do PDF pomocí C#. Pomocí těchto jednoduchých kroků můžete bez námahy převést soubor HTML do formátu PDF:</p><br />
-
-<p>V tomto kódu musíte nahrát svůj soubor HTML a zadat plně kvalifikované názvy souborů pro čtení HTML i zápis do PDF. Výsledný soubor PDF bude mít stejný obsah a formátování jako původní dokument HTML. Tento jednoduchý přístup vám umožňuje rychle a přesně převádět HTML do PDF pomocí Aspose.PDF ve vaší C# aplikaci.</p><br />
+Několik dalších případů pro uložení WEB do PDF s dalšími funkcemi, jako je Použití Aspose.PDF pro převod HTML do PDF.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Vyvíjejte aplikaci pro konverzi souborů WEB pomocí .NET</h2>
+
+Potřebujete vyvinout softwarovou aplikaci založenou na .NET pro snadné ukládání a export souborů WEB do dokumentu PDF?  S [Aspose.Total for .NET](https://products.aspose.com/total/cs/net/) může kterýkoli vývojář .NET integrovat výše uvedený kód API pro naprogramování konverzní aplikace napříč různými formáty včetně Microsoft Word, Excel, Powerpoint, PDF, e-mailové soubory, obrázky a další formáty.  Výkonná knihovna .NET pro konverzi dokumentů, podporuje mnoho oblíbených formátů včetně formátu WEB.  Export dokumentů do jiných formátů, programátoři mohou používat Aspose.Total pro .NET dítě API včetně [Aspose.Words for .NET](https://products.aspose.com/words/cs/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/cs/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/cs/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/cs/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/cs/net/) a další.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Knihovna konverzí pro .NET" %}}
+
+Existují tři alternativní možnosti instalace Aspose.Total for .NET do vašeho systému.  Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
+
+- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Viz [Dokumentace](https://docs.aspose.com/total/net/)
+- Nainstalujte knihovnu pomocí konzoly Package Manager Console podle výběru jejího podřízeného rozhraní API v rámci Visual Studio IDE, jako je [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) atd.
+- Nainstalujte knihovnu ručně pomocí Instalační služby systému Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Ukládání WEB do PDF Požadavky na aplikaci" %}}
+
+Náš produkt je plně multiplatformní a podporuje všechny hlavní implementace .NET podle specifikace '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, počínaje nejstarší verzí 2.0 a konče nejnovějším '.NET Framework 4.8'
+- .NET Core, počínaje nejstarší verzí 2.0 a konče nejnovější verzí '.NET 6'
+- Mono >= 2.6.7
+<br />
+Protože kód .NET se nespoléhá na základní hardware nebo operační systém, ale pouze na virtuální počítač, můžete tedy volně vyvíjet jakýkoli druh softwaru pro Windows, macOS, Android, iOS a Linux.  Jen se ujistěte, že máte nainstalovanou odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.<br />
+K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visual Studio, Xamarin a MonoDevelop IDE.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Nejčastější dotazy" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Nejčastější dotazy</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mohu použít výše uvedený kód .NET ve své aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ano, tento kód si můžete stáhnout. Lze snadno vyvinout profesionální řešení pro export a uložení WEB do souboru PDF pomocí .NET.  Použijte rozhraní API pro převod Aspose WEB na PDF k vývoji softwaru na vysoké úrovni, nezávislého na platformě v .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funguje tato aplikace pro export dokumentu pouze v systému Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Máte možnost zahájit export dokumentu z WEB do PDF z libovolného zařízení, bez ohledu na operační systém, na kterém běží, ať už je to Windows, Linux, Mac OS nebo Android.  Vše, co potřebujete, je moderní webový prohlížeč a aktivní připojení k internetu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné používat online aplikaci ke konverzi více dokumentů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Výstupní soubory generované prostřednictvím naší služby budou bezpečně a automaticky odstraněny z našich serverů během 24 hodin.  V důsledku toho po uplynutí této doby přestanou být odkazy ke stažení spojené s těmito soubory funkční.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč by měl používat aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod dokumentů WEB můžete použít jakýkoli moderní webový prohlížeč, jako je Google Chrome, Firefox, Opera nebo Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu exportovat více souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Začněte nahráním jednoho nebo více souborů, které chcete převést. Soubory WEB můžete buď přetáhnout myší, nebo jednoduše kliknout do bílé oblasti.  Poté klikněte na tlačítko „Převést“ a naše online konverzní aplikace rychle zpracuje nahrané soubory.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tato konverzní aplikace funguje rychle, v závislosti na velikosti dokumentu může nahrání a uložení do požadovaného formátu trvat několik sekund nebo déle.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

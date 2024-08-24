@@ -1,7 +1,7 @@
 ---
-title: แปลง MHTML เป็น XLTX ผ่าน C# API
-description: C# API เพื่อแปลงไฟล์ MHTML เป็น XLTX โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url_ignore: /th/net/conversion/mhtml-to-xltx/
+title: การแปลง MHTML ออนไลน์เป็น XLTX หรือสร้างแอปพลิเคชันที่ใช้ .NET เพื่อแปลงไฟล์ MHTML
+description: แอปออนไลน์ฟรีสำหรับแปลงไฟล์ MHTML เป็น XLTX รหัสไลบรารีการแปลง .NET C# สำหรับเอกสาร MHTML 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,55 +10,169 @@ outformat: XLTX
 otherformats: XLTM XLT TXT XLTX EXCEL FODS ODS TSV SXC DIF XLSB XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API เพื่อแสดงผล MHTML เป็น XLTX" h2="ส่งออกไฟล์ MHTML เป็น XLTX ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ Adobe<sup>&reg;</sup> Acrobat Reader" >}}
+{{< blocks/products/pf/feature-page-header h1="แอปแปลง MHTML เป็น XLTX ออนไลน์และโค้ด .NET เพื่อแปลงไฟล์ MHTML" h2="พัฒนาแอปพลิเคชั่นการแปลงและการส่งออก MHTML ที่มีประสิทธิภาพบนพื้นฐาน .NET แปลงไฟล์ MHTML เดียวหรือหลายไฟล์เป็น XLTX และรูปแบบอื่นๆ ผ่านทาง API อัตโนมัติของ .NET แปลงไฟล์ MHTML ออนไลน์ได้อย่างอิสระผ่านแอปพร้อมดาวน์โหลดทันที" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-การใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถแปลงไฟล์ MHTML เป็น XLTX ได้อย่างง่ายดายภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ประการแรก ด้วยการใช้ [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) คุณสามารถส่งออก MHTML ไปยัง XLSX ได้ หลังจากนั้น คุณสามารถใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API เพื่อแปลง XLSX เป็น XLTX
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง MHTML เป็น XLTX" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="แอปแปลง MHTML เป็น XLTX ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=mhtml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="แปลงไฟล์ MHTML เป็น XLTX ออนไลน์โดยใช้แอป" %}}
+
+1. อัพโหลดไฟล์ MHTML เพื่อแปลง
+1. รอสักครู่หรือมากกว่านั้น ขึ้นอยู่กับขนาดของ MHTML
+1. คอยดูแถบสถานะการอัปโหลด
+1. คลิกปุ่ม "แปลง"
+1. MHTML จะถูกแปลงเป็นเอกสาร XLTX
+1. ดาวน์โหลดไฟล์ XLTX ที่แปลงแล้ว
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="แปลง MHTML เป็น XLTX ผ่านทาง .NET Automation API" %}}
+
+
 1. เปิดไฟล์ MHTML โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. แปลง MHTML เป็น XLSX โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. โหลดเอกสาร XLSX โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
 4. บันทึกเอกสารในรูปแบบ XLTX โดยใช้เมธอด [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `Xltx' เป็น SaveFormat
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.Total``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total```
-
-หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/net)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/agp/code-block title="แปลง MHTML เป็น XLTX ผ่าน C# .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel.cs" >}}
 
+{{% /blocks/products/pf/agp/code-block %}}
 
-{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-C#
-{{% blocks/products/pf/feature-page-section  h2="แปลง MHTML ที่ได้รับการป้องกันเป็น XLTX ผ่าน C#" %}}
-หากเอกสาร MHTML ของคุณมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น XLTX ได้หากไม่มีรหัสผ่าน เมื่อใช้ API คุณสามารถเปิดเอกสารที่มีการป้องกันโดยใช้รหัสผ่านที่ถูกต้องและแปลงหลังจากนั้น ในการเปิดไฟล์ที่เข้ารหัส คุณสามารถเริ่มต้นอินสแตนซ์ใหม่ของคลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และส่งชื่อไฟล์และรหัสผ่านเป็นอาร์กิวเมนต์ได้  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก MHTML ไปยัง XLTX พร้อมด้วยฟีเจอร์อื่นๆ เช่น แปลง MHTML ที่ได้รับการป้องกันเป็น XLTX ผ่าน C#, แปลงไฟล์ MHTML เป็น XLTX พร้อมลายน้ำผ่าน C#
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-password-protected-pdf-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}C#
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ MHTML เป็น XLTX พร้อมลายน้ำผ่าน C#" %}}
-ในขณะที่แปลงไฟล์ MHTML เป็น XLTX คุณยังสามารถเพิ่มลายน้ำให้กับรูปแบบไฟล์ XLTX เอาต์พุตของคุณ ในการเพิ่มลายน้ำ คุณสามารถสร้างวัตถุสมุดงานใหม่และเปิดเอกสาร XLSX ที่แปลงแล้ว เลือกแผ่นงานผ่านดัชนี สร้างรูปร่าง และใช้ฟังก์ชัน AddTextEffect หลังจากนั้น คุณสามารถบันทึกเอกสาร XLSX ของคุณเป็น XLTX ด้วยลายน้ำ 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>พัฒนาแอปพลิเคชันการแปลงไฟล์ MHTML โดยใช้ .NET</h2>
 
-{{< gist "aspose-com-gists" "0739adc8c301dc024f48b96d37b23dd7" "convert-pdf-to-excel-with-watermark.cs" >}}
+ต้องการพัฒนาแอปพลิเคชันซอฟต์แวร์บนพื้นฐาน .NET เพื่อบันทึกและส่งออกไฟล์ MHTML ไปยังเอกสาร XLTX ได้อย่างง่ายดายหรือไม่ ด้วย [Aspose.Total for .NET](https://products.aspose.com/total/th/net/) นักพัฒนา .NET ทุกคนสามารถรวมโค้ด API ข้างต้นเพื่อเขียนโปรแกรมแอปพลิเคชันการแปลงไฟล์ในรูปแบบต่างๆ รวมถึง Microsoft Word, Excel, Powerpoint, PDF, ไฟล์อีเมล, รูปภาพ และรูปแบบอื่นๆ ไลบรารี .NET ที่ทรงพลังสำหรับการแปลงเอกสาร รองรับรูปแบบยอดนิยมมากมาย รวมถึงรูปแบบ MHTML ในการส่งออกเอกสารไปยังรูปแบบอื่น โปรแกรมเมอร์สามารถใช้ Aspose.Total สำหรับ API ย่อยของ .NET รวมถึง [Aspose.Words for .NET](https://products.aspose.com/words/th/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/th/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/th/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/th/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/th/net/) และอื่นๆ อีกมากมาย<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการแปลง MHTML สำหรับ .NET" %}}
+
+มีสามทางเลือกในการติดตั้ง Aspose.Total สำหรับ .NET ลงบนระบบของคุณ กรุณาเลือกสิ่งที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
+
+- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) ดู [เอกสารประกอบ](https://docs.aspose.com/total/net/)
+- ติดตั้งไลบรารีโดยใช้ Package Manager Console เมื่อเลือก API ย่อยใน Visual Studio IDE เช่น [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) เป็นต้น
+- ติดตั้งไลบรารีด้วยตนเองโดยใช้ Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="การบันทึก MHTML ไปยังข้อกำหนดแอป XLTX" %}}
+
+ผลิตภัณฑ์ของเรารองรับหลายแพลตฟอร์มและรองรับการใช้งาน .NET หลักทั้งหมดตามข้อกำหนด '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET Framework 4.8' ล่าสุด
+- .NET Core เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET 6' ล่าสุด
+- โมโน >= 2.6.7
+<br />
+เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ขึ้นอยู่กับเครื่องเสมือนเท่านั้น ดังนั้นคุณจึงสามารถพัฒนาซอฟต์แวร์ประเภทใดก็ได้สำหรับ Windows, macOS, Android, iOS และ Linux เพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่สอดคล้องกันแล้ว<br />
+เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE ในการสร้างแอปพลิเคชัน C#, F#, VB.NET
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="คำถามที่พบบ่อย" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>คำถามที่พบบ่อย</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันสามารถใช้โค้ด .NET ข้างต้นในแอปพลิเคชันของฉันได้หรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">ใช่ คุณสามารถดาวน์โหลดโค้ดนี้ได้ คุณสามารถพัฒนาโซลูชันระดับมืออาชีพเพื่อส่งออกและบันทึก MHTML ไปยังไฟล์ XLTX โดยใช้ .NET ได้อย่างง่ายดาย ใช้ Aspose MHTML เป็น API การแปลง XLTX เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน .NET</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>เอกสารนี้ส่งออกงานแอปเฉพาะบน Windows เท่านั้นใช่หรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณมีความยืดหยุ่นในการเริ่มส่งออกเอกสารจาก MHTML ไปยัง XLTX จากอุปกรณ์ใดๆ โดยไม่คำนึงถึงระบบปฏิบัติการที่ใช้งาน ไม่ว่าจะเป็น Windows, Linux, Mac OS หรือ Android สิ่งที่ต้องมีคือเว็บเบราว์เซอร์สมัยใหม่และการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>การใช้แอปออนไลน์เพื่อแปลงเอกสาร MHTML หลายเอกสารปลอดภัยหรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แน่นอน! ไฟล์เอาท์พุตที่สร้างขึ้นผ่านบริการของเราจะถูกลบออกจากเซิร์ฟเวอร์ของเราอย่างปลอดภัยและอัตโนมัติภายในระยะเวลา 24 ชั่วโมง ส่งผลให้ลิงก์ดาวน์โหลดไฟล์เหล่านี้จะไม่สามารถใช้งานได้อีกหลังจากช่วงเวลานี้</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ควรใช้แอปผ่านเบราว์เซอร์ใด?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณสามารถใช้เว็บเบราว์เซอร์สมัยใหม่ เช่น Google Chrome, Firefox, Opera หรือ Safari เพื่อแปลงเอกสาร MHTML ออนไลน์</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันจะส่งออกไฟล์ MHTML หลายไฟล์ได้อย่างไร</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">เริ่มต้นโดยอัปโหลดไฟล์หนึ่งไฟล์หรือมากกว่านั้นที่คุณต้องการแปลง คุณสามารถลากและวางไฟล์ MHTML ของคุณหรือเพียงแค่คลิกภายในพื้นที่สีขาว จากนั้นคลิกปุ่ม 'แปลง' แล้วแอปแปลงออนไลน์ของเราจะประมวลผลไฟล์ที่อัปโหลดอย่างรวดเร็ว</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ใช้เวลาในการแปลงไฟล์ MHTML นานเท่าใด/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แอปพลิเคชันการแปลงนี้ทำงานได้อย่างรวดเร็ว อาจใช้เวลาไม่กี่วินาทีหรือมากกว่านั้น ขึ้นอยู่กับขนาดเอกสารในการอัปโหลดและบันทึกเป็นรูปแบบที่ต้องการ</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

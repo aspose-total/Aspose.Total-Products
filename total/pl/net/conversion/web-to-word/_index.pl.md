@@ -1,89 +1,175 @@
 ---
-title: Web Scraping przy użyciu C# - Konwertuj HTML na plik Word 
-description: Zeskrobuj strony internetowe, a także eksportuj HTML do dokumentów Microsoft Word za pośrednictwem aplikacji .NET, integrując interfejsy API Aspose. 
+title: Konwersja online WEB do Word lub budowa aplikacji opartej na .NET do konwersji plików WEB
+description: Darmowa aplikacja online do konwersji plików WEB na Word. Kod biblioteki konwersji .NET C# dla dokumentów WEB. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Skrobanie sieci za pomocą C#" h2="Wyodrębniaj dane ze stron internetowych w aplikacjach .NET i konwertuj HTML na pliki Microsoft Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikacja do konwersji plików WEB do Word online i kod .NET do konwersji plików WEB" h2="Opracuj wydajną aplikację konwersji i eksportu WEB opartą na platformie .NET. Konwertuj pojedyncze lub wiele plików WEB do formatu Word i innych formatów za pomocą interfejsu API automatyzacji .NET. Bezpłatna konwersja plików WEB online za pomocą aplikacji z natychmiastowym pobraniem." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">Co to jest złomowanie stron internetowych?</h2>
-
-<p>Skrobanie sieci, określane również jako zbieranie sieci, zbieranie danych, ekstrakcja danych z sieci lub indeksowanie sieci, to technika używana do wydobywania danych ze stron internetowych. Obejmuje zautomatyzowany proces pobierania określonych informacji ze stron internetowych za pomocą specjalistycznego oprogramowania lub narzędzi.</p><br />
-<p>Oprogramowanie lub skrypty do skrobania stron internetowych są przeznaczone do symulowania zachowania przeglądania przez ludzi i interakcji ze stronami internetowymi w celu gromadzenia danych. Narzędzia te wysyłają żądania HTTP do serwerów WWW, pobierają odpowiedzi w formacie HTML lub XML, a następnie wyodrębniają żądane elementy danych z pobranej treści.</p><br />
-
-<p>Wyodrębnione dane mogą zawierać różne rodzaje informacji, takie jak tekst, obrazy, tabele, linki, ceny, szczegóły produktu, recenzje i inne, w zależności od konkretnych wymagań. Wyodrębnione dane są zwykle zapisywane w formacie strukturalnym, takim jak DOC, DOCX, CSV, JSON lub baza danych, w celu dalszej analizy, przechowywania lub integracji z innymi systemami.</p><br />
-
-<p>Skrobanie sieci ma wiele zastosowań i jest wykorzystywane w różnych branżach. Można go wykorzystać do badań rynku, analizy konkurencji, analizy nastrojów, monitorowania cen, agregacji danych, skrobania treści, generowania leadów i wielu innych.</p><br />
-
-<p>Należy jednak pamiętać, że web scraping powinien być prowadzony w sposób odpowiedzialny i etyczny. Konieczne jest przestrzeganie regulaminów serwisów internetowych, przestrzeganie przepisów prawa oraz niepodejmowanie działań, które mogą naruszać prywatność lub prawa własności intelektualnej.</p>
-
-<h2 class="heading-border">Używanie Aspose.HTML jako interfejsu API do scrapowania stron internetowych</h2>
-
-<p>Za pomocą Aspose.HTML for .NET API, podrzędnego API Aspose.Total dla .NET, możesz bez wysiłku tworzyć własne aplikacje, które obejmują analizę i wyodrębnianie informacji z dokumentów HTML. API oferuje solidny zestaw narzędzi, który ułatwia ten proces.</p><br />
-
-<p>Podczas budowania skrobaka selektory danych odgrywają kluczową rolę w identyfikowaniu i wydobywaniu pożądanych informacji z plików HTML. Zazwyczaj selektory te wykorzystują XPath, selektory CSS lub ich kombinację, aby zlokalizować określone elementy danych w strukturze HTML. Te selektory służą do poruszania się po dokumencie i wskazywania danych, które zamierzasz wyodrębnić.</p>
-
-<h2 class="heading-border">Zadania, które można wykonać w ramach Web Scrapping</h2>
-
-<p>Wykorzystując Aspose.HTML dla .NET do łatwego automatyzowania ekstrakcji danych ze stron internetowych, a programiści mogą skutecznie wykonywać następujące zadania związane z przeglądaniem sieci.</p><br />
-
-1. [Nawigacja HTML](https://docs.aspose.com/html/net/html-navigation/) - Przeprowadź dokładną kontrolę dokumentów HTML i ich elementów. Zapewnia funkcjonalność do szczegółowej analizy, niestIardowe filtrowanie iteracji elementów i bezproblemową nawigację za pomocą selektorów CSS lub XPath.
-2. [Pobierz stronę internetową](https://docs.aspose.com/html/net/download-website/) - Pobieraj strony internetowe z adresów URL i dostosuj proces pobierania. Dzięki temu możesz wybrać pomiędzy pobraniem całej witryny lub określonych stron internetowych, dostosowując proces do swoich wymagań.
-3. [Pobierz pliki z adresu URL](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [Pobierz obrazy ze strony internetowej](https://docs.aspose.com/html/net/download-images-from-website/) - Pobierz różne rodzaje obrazów ze stron internetowych.
-5. [Pobierz SVG ze strony internetowej](https://docs.aspose.com/html/net/download-svg-from-website/) - Pobierz pliki SVG skalowalnej grafiki wektorowej ze strony internetowej przy użyciu języka C#
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak wyodrębnić dane sieciowe za pomocą C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Darmowa aplikacja do konwersji WEB na Word online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj pliki WEB do Word online za pomocą aplikacji" %}}
+
+1. Prześlij pliki WEB do konwersji
+1. Poczekaj kilka sekund lub dłużej, w zależności od rozmiaru WEB
+1. Zwróć uwagę na pasek stanu przesyłania
+1. Kliknij przycisk „Konwertuj”
+1. WEB zostanie przekonwertowany na dokument Word
+1. Pobierz przekonwertowany plik Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj WEB na Word za pomocą interfejsu API automatyzacji .NET" %}}
+
+
 
 1. Wykorzystaj [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor do zainicjowania dokumentu HTML z adresu URL
 2. Użyj [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metodę, aby określić selektor i pobrać wszystkie elementy pasujące do selektora.
 3. Przejrzyj listę elementów i wyślij wynik do wymaganego formatu.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące usuwania i konwersji stron internetowych" %}}
-Zainstaluj z linii poleceń jako ```nuget install Aspose.Total``` lub zainstaluj bezpośrednio z konsoli Menedżera pakietów Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konwertuj WEB na Word przez C# .NET" offSpacer="" %}}
 
-Dwa [Aspose.Total for .NET](https://products.aspose.com/total/net/) potomne API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) I [Aspose.Words for .NET](https://products.aspose.com/words/net/) zostanie zintegrowany.
-
-Ewentualnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Używanie Aspose.Words do konwersji HTML na Word" %}}
-<p>Jeśli potrzebujesz programowo przekonwertować pliki HTML do formatu Word, Aspose.Words dla .NET, inny potomny interfejs API Aspose.Total zapewnia proste i wydajne rozwiązanie. Za pomocą zaledwie kilku wierszy kodu w języku C# programiści mogą z łatwością przekonwertować kod HTML na format Word przy użyciu tego nowoczesnego interfejsu API do przetwarzania dokumentów.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Aspose.Words for .NET oferuje szybką konwersję HTML do Word, zapewniając doskonałą jakość wyników. Możesz nawet przetestować konwersję HTML na Word bezpośrednio w przeglądarce. Ta potężna biblioteka C# obsługuje konwersję plików HTML do różnych popularnych formatów.</p><br />
-
-<p>Dzięki możliwościom zapewnianym przez Aspose.Words programiści mogą bezproblemowo konwertować pliki HTML do formatu Word, upraszczając proces konwersji w swoich aplikacjach.</p><br />
-
-<p>Aby przekonwertować HTML na Word w języku C#, możesz wykonać następujące proste kroki:</p><br />
-
-1. Przeczytaj usunięty plik HTML z dysku lokalnego.
-1. Zapisz plik jako Word, określając żądany format pliku za pomocą rozszerzenia Word.
-1. Zarówno do odczytywania kodu HTML, jak i pisania dokumentu programu Word można używać w pełni kwalifikowanych nazw plików.
-1. Wynikowy dokument programu Word zachowa zawartość i formatowanie oryginalnego pliku HTML.
+Jeszcze kilka przypadków zapisania WEB w Word przy użyciu innych funkcji, takich jak Używanie Aspose.Words do konwersji HTML na Word.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Opracuj aplikację konwersji plików WEB przy użyciu .NET</h2>
+
+Musisz opracować aplikację bazującą na technologii .NET, która umożliwi łatwe zapisywanie i eksportowanie plików WEB do dokumentu Word? Dzięki [Aspose.Total for .NET](https://products.aspose.com/total/pl/net/) każdy programista .NET może zintegrować powyższy kod API w celu zaprogramowania aplikacji konwertującej w różnych formatach, w tym Microsoft Word, Excel, PowerPoint, PDF, plikach e-mail, obrazach i innych formatach. Potężna biblioteka .NET do konwersji dokumentów, obsługuje wiele popularnych formatów, w tym format WEB. Eksportując dokumenty do innych formatów, programiści mogą używać Aspose.Total dla podrzędnych interfejsów API .NET, w tym [Aspose.Words for .NET](https://products.aspose.com/words/pl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/pl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/pl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/pl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/pl/net/) i innych.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Biblioteka konwersji dla .NET" %}}
+
+Istnieją trzy alternatywne opcje instalacji Aspose.Total dla .NET w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcją krok po kroku:<br /><br />
+
+- Zainstaluj [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zobacz [Dokumentacja](https://docs.aspose.com/total/net/)
+- Zainstaluj bibliotekę za pomocą konsoli Menedżera pakietów jako jej podrzędny interfejs API w środowisku IDE programu Visual Studio, np. [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) itd.
+- Zainstaluj bibliotekę ręcznie, korzystając z Instalatora systemu Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Zapisywanie WEB do wymagań aplikacji Word" %}}
+
+Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne implementacje .NET zgodnie ze specyfikacją „.NET Standard 2.0”:<br /><br />
+
+- Microsoft .NET Framework, począwszy od najwcześniejszej wersji 2.0, a skończywszy na najnowszej „.NET Framework 4.8”
+- .NET Core, począwszy od najwcześniejszej wersji 2.0 i kończąc na najnowszej „.NET 6”
+- Mono >= 2.6.7
+<br />
+Ponieważ kod .NET nie wymaga użycia sprzętu ani systemu operacyjnego, lecz wyłącznie maszyny wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux. Upewnij się, że zainstalowałeś odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br />
+Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów Microsoft Visual Studio, Xamarin i środowiska IDE MonoDevelop.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Często zadawane pytania" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Często zadawane pytania</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy mogę wykorzystać powyższy kod .NET w swojej aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tak, możesz pobrać ten kod. Można łatwo opracować profesjonalne rozwiązanie do eksportowania i zapisywania pliku WEB do pliku Word przy użyciu .NET. Użyj interfejsu API konwersji WEB do Word Aspose, aby tworzyć niezależne od platformy oprogramowanie wysokiego poziomu w środowisku .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy ten dokument eksportuje pracę aplikacji tylko w systemie Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Masz możliwość zainicjowania eksportu dokumentu z WEB do Word z dowolnego urządzenia, niezależnie od systemu operacyjnego, na którym jest uruchomiony, czy jest to Windows, Linux, Mac OS czy Android. Potrzebna jest jedynie nowoczesna przeglądarka internetowa i aktywne połączenie z internetem.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy używanie aplikacji online do konwersji wielu dokumentów WEB jest bezpieczne?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Oczywiście! Pliki wyjściowe wygenerowane za pośrednictwem naszej usługi zostaną bezpiecznie i automatycznie usunięte z naszych serwerów w ciągu 24 godzin. W związku z tym linki do pobierania tych plików przestaną działać po upływie tego okresu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Z jakiej przeglądarki powinienem korzystać w aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Do konwersji dokumentów WEB online możesz użyć dowolnej nowoczesnej przeglądarki internetowej, np. Google Chrome, Firefox, Opera lub Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mogę wyeksportować wiele plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Zacznij od przesłania jednego lub więcej plików, które chcesz przekonwertować. Możesz przeciągnąć i upuścić pliki WEB lub po prostu kliknąć w biały obszar. Następnie kliknij przycisk „Konwertuj”, a nasza aplikacja do konwersji online szybko przetworzy przesłane pliki.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ile czasu zajmuje konwersja plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ta aplikacja do konwersji działa szybko. Może to potrwać kilka sekund lub dłużej, zależnie od rozmiaru dokumentu, zanim zostanie on przesłany i zapisany w wymaganym formacie.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

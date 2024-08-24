@@ -1,89 +1,175 @@
 ---
-title: Web Scraping pomocí C# - Převod HTML do souboru aplikace Word 
-description: Seškrabujte webové stránky webových stránek a také exportujte HTML do dokumentů Microsoft Word prostřednictvím svých aplikací .NET integrací rozhraní API Aspose. 
+title: Online převod WEB na Word nebo sestavení aplikace založené na .NET pro převod souborů WEB
+description: Bezplatná online aplikace pro převod souborů WEB na soubory Word. Kód převodní knihovny .NET C# pro dokumenty WEB.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Web scraping přes C#" h2="Extrahujte data z webových stránek v aplikacích .NET a převádějte HTML do souborů Microsoft Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Online aplikace pro převod WEB na Word a kód .NET pro převod souborů WEB" h2="Vyvíjejte výkonnou aplikaci pro převod a export WEB na bázi .NET.  Převeďte jeden nebo více souborů WEB do formátu Word a dalších formátů pomocí automatizačního rozhraní .NET API.  Zdarma převádějte soubory WEB online prostřednictvím aplikace s okamžitým stažením." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">Co je to Web Scrapping?</h2>
-
-<p>Web scraping, také označovaný jako web harvesting, data scraping, extrakce webových dat nebo procházení webu, je technika používaná k extrakci dat z webových stránek. Zahrnuje automatizovaný proces získávání konkrétních informací z webových stránek pomocí specializovaného softwaru nebo nástrojů.</p><br />
-<p>Software nebo skripty pro stírání webu jsou navrženy tak, aby simulovaly lidské chování při procházení a interakci s webovými stránkami za účelem shromažďování dat. Tyto nástroje odesílají požadavky HTTP na webové servery, získávají odpovědi HTML nebo XML a poté extrahují požadované datové prvky z načteného obsahu.</p><br />
-
-<p>Extrahovaná data mohou zahrnovat různé typy informací, jako je text, obrázky, tabulky, odkazy, ceny, podrobnosti o produktu, recenze a další, v závislosti na konkrétních požadavcích. Extrahovaná data jsou obvykle uložena ve strukturovaném formátu, jako je DOC, DOCX, CSV, JSON nebo databáze, pro další analýzu, ukládání nebo integraci s jinými systémy.</p><br />
-
-<p>Web scraping má četné aplikace a používá se v různých průmyslových odvětvích. Může být použit pro průzkum trhu, analýzu konkurence, analýzu sentimentu, sledování cen, agregaci dat, škrábání obsahu, generování potenciálních zákazníků a mnoho dalšího.</p><br />
-
-<p>Je však důležité poznamenat, že odstraňování webu by mělo být prováděno zodpovědně a eticky. Je nezbytné respektovat podmínky služeb webových stránek, dodržovat právní předpisy a nezapojovat se do činností, které mohou porušovat soukromí nebo práva duševního vlastnictví.</p>
-
-<h2 class="heading-border">Použití Aspose.HTML jako Web Scrapping API</h2>
-
-<p>S pomocí Aspose.HTML for .NET API, podřízeného API Aspose.Total pro .NET, můžete bez námahy vyvíjet své vlastní aplikace, které zahrnují analýzu a extrahování informací z HTML dokumentů. API nabízí robustní sadu nástrojů, která tento proces usnadňuje.</p><br />
-
-<p>Při vytváření scraperu hrají selektory dat klíčovou roli při identifikaci a extrahování požadovaných informací ze souborů HTML. Tyto selektory obvykle využívají XPath, selektory CSS nebo kombinaci obou k vyhledání konkrétních datových prvků ve struktuře HTML. Tyto selektory fungují jako prostředek k procházení dokumentu a určení dat, která chcete extrahovat.</p>
-
-<h2 class="heading-border">Úkoly, které lze provádět pro Web Scrapping</h2>
-
-<p>Využitím Aspose.HTML for .NET k snadné automatizaci extrakce dat z webových stránek a vývojáři mohou efektivně provádět následující úkoly seškrabávání webu.</p><br />
-
-1. [HTML navigace](https://docs.aspose.com/html/net/html-navigation/) - Proveďte důkladnou kontrolu dokumentů HTML a jejich prvků. Poskytuje funkce pro podrobnou analýzu, vlastní filtrování pro iteraci prvků a bezproblémovou navigaci pomocí selektorů CSS nebo XPath.
-2. [Stáhnout webové stránky](https://docs.aspose.com/html/net/download-website/) - Stahujte webové stránky z adres URL a přizpůsobte proces stahování. To vám umožní vybrat si mezi stažením celého webu nebo konkrétních webových stránek a přizpůsobit proces vašim požadavkům.
-3. [Stáhnout soubory z adresy URL](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [Stáhněte si obrázky z webu](https://docs.aspose.com/html/net/download-images-from-website/) - Stáhněte si různé typy obrázků z webových stránek.
-5. [Stáhněte si SVG z webu](https://docs.aspose.com/html/net/download-svg-from-website/) - Stáhněte si soubory Scalable Vector Graphics SVG z webu pomocí C#
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak extrahovat webová data pomocí C #?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Bezplatná online aplikace pro převod WEB na Word" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na Word soubory online pomocí aplikace App" %}}
+
+1. Nahrajte soubory WEB, které chcete převést
+1. Počkejte několik sekund nebo déle v závislosti na velikosti WEB
+1. Sledujte stavový řádek nahrávání
+1. Klikněte na tlačítko "Převést".
+1. WEB bude převeden na dokument Word
+1. Stáhněte si převedený soubor Word
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte WEB na Word pomocí rozhraní .NET Automation API" %}}
+
+
 
 1. Využijte [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor pro inicializaci dokumentu HTML z adresy URL
 2. Použijte [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metoda k určení selektoru a načtení všech prvků, které selektoru odpovídají.
 3. Projděte seznam prvků a výsledek vytiskněte do požadovaného formátu.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Požadavky na odstranění a konverzi webu" %}}
-Nainstalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo nainstalujte přímo z konzole Správce balíčků sady Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Převeďte WEB na Word přes C# .NET" offSpacer="" %}}
 
-Dva [Aspose.Total for .NET](https://products.aspose.com/total/net/) dětská rozhraní API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) a [Aspose.Words for .NET](https://products.aspose.com/words/net/) bude integrován.
-
-Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Použití Aspose.Words pro převod HTML do Wordu" %}}
-<p>Pokud potřebujete programově převést soubory HTML do formátu Word, Aspose.Words for .NET, další podřízené API Aspose.Total poskytuje jednoduché a efektivní řešení. Pomocí několika řádků kódu C# mohou vývojáři snadno převést HTML do Wordu pomocí tohoto moderního API pro zpracování dokumentů.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Aspose.Words for .NET nabízí vysokorychlostní převod HTML do Wordu, což zajišťuje vynikající kvalitu výsledků. Můžete dokonce otestovat převod HTML do Wordu přímo v prohlížeči. Tato výkonná knihovna C# podporuje převod souborů HTML do různých populárních formátů.</p><br />
-
-<p>Díky možnostem, které poskytuje Aspose.Words, mohou vývojáři hladce převádět soubory HTML do formátu Word, což zjednodušuje proces převodu v rámci jejich aplikací.</p><br />
-
-<p>Chcete-li převést HTML na Word v C#, můžete postupovat podle těchto jednoduchých kroků:</p><br />
-
-1. Přečtěte si odstraněný soubor HTML z místní jednotky.
-1. Uložte soubor jako Word a určete požadovaný formát souboru pomocí přípony Word.
-1. Pro čtení HTML a psaní dokumentu Word můžete použít plně kvalifikované názvy souborů.
-1. Výsledný dokument aplikace Word si zachová obsah a formátování původního souboru HTML.
+Několik dalších případů pro uložení WEB do Word s dalšími funkcemi, jako je Použití Aspose.Words pro převod HTML do Wordu.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Vyvíjejte aplikaci pro konverzi souborů WEB pomocí .NET</h2>
+
+Potřebujete vyvinout softwarovou aplikaci založenou na .NET pro snadné ukládání a export souborů WEB do dokumentu Word?  S [Aspose.Total for .NET](https://products.aspose.com/total/cs/net/) může kterýkoli vývojář .NET integrovat výše uvedený kód API pro naprogramování konverzní aplikace napříč různými formáty včetně Microsoft Word, Excel, Powerpoint, PDF, e-mailové soubory, obrázky a další formáty.  Výkonná knihovna .NET pro konverzi dokumentů, podporuje mnoho oblíbených formátů včetně formátu WEB.  Export dokumentů do jiných formátů, programátoři mohou používat Aspose.Total pro .NET dítě API včetně [Aspose.Words for .NET](https://products.aspose.com/words/cs/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/cs/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/cs/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/cs/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/cs/net/) a další.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Knihovna konverzí pro .NET" %}}
+
+Existují tři alternativní možnosti instalace Aspose.Total for .NET do vašeho systému.  Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
+
+- Nainstalujte [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Viz [Dokumentace](https://docs.aspose.com/total/net/)
+- Nainstalujte knihovnu pomocí konzoly Package Manager Console podle výběru jejího podřízeného rozhraní API v rámci Visual Studio IDE, jako je [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) atd.
+- Nainstalujte knihovnu ručně pomocí Instalační služby systému Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Ukládání WEB do Word Požadavky na aplikaci" %}}
+
+Náš produkt je plně multiplatformní a podporuje všechny hlavní implementace .NET podle specifikace '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, počínaje nejstarší verzí 2.0 a konče nejnovějším '.NET Framework 4.8'
+- .NET Core, počínaje nejstarší verzí 2.0 a konče nejnovější verzí '.NET 6'
+- Mono >= 2.6.7
+<br />
+Protože kód .NET se nespoléhá na základní hardware nebo operační systém, ale pouze na virtuální počítač, můžete tedy volně vyvíjet jakýkoli druh softwaru pro Windows, macOS, Android, iOS a Linux.  Jen se ujistěte, že máte nainstalovanou odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.<br />
+K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visual Studio, Xamarin a MonoDevelop IDE.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Nejčastější dotazy" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Nejčastější dotazy</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mohu použít výše uvedený kód .NET ve své aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ano, tento kód si můžete stáhnout. Lze snadno vyvinout profesionální řešení pro export a uložení WEB do souboru Word pomocí .NET.  Použijte rozhraní API pro převod Aspose WEB na Word k vývoji softwaru na vysoké úrovni, nezávislého na platformě v .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funguje tato aplikace pro export dokumentu pouze v systému Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Máte možnost zahájit export dokumentu z WEB do Word z libovolného zařízení, bez ohledu na operační systém, na kterém běží, ať už je to Windows, Linux, Mac OS nebo Android.  Vše, co potřebujete, je moderní webový prohlížeč a aktivní připojení k internetu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné používat online aplikaci ke konverzi více dokumentů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Výstupní soubory generované prostřednictvím naší služby budou bezpečně a automaticky odstraněny z našich serverů během 24 hodin.  V důsledku toho po uplynutí této doby přestanou být odkazy ke stažení spojené s těmito soubory funkční.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč by měl používat aplikaci?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod dokumentů WEB můžete použít jakýkoli moderní webový prohlížeč, jako je Google Chrome, Firefox, Opera nebo Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu exportovat více souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Začněte nahráním jednoho nebo více souborů, které chcete převést. Soubory WEB můžete buď přetáhnout myší, nebo jednoduše kliknout do bílé oblasti.  Poté klikněte na tlačítko „Převést“ a naše online konverzní aplikace rychle zpracuje nahrané soubory.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod souborů WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tato konverzní aplikace funguje rychle, v závislosti na velikosti dokumentu může nahrání a uložení do požadovaného formátu trvat několik sekund nebo déle.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,121 +1,179 @@
 ---
-title: .NET API เพื่อแปลง WORD เป็น XLSX หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C# API เพื่อแปลง WORD เป็น XLSX หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง WORD เป็น XLSX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
-url_ignore: /th/net/conversion/word-to-xlsx/
+title: การแปลง Word ออนไลน์เป็น XLSX หรือสร้างแอปพลิเคชันที่ใช้ .NET เพื่อแปลงไฟล์ Word
+description: แอปออนไลน์ฟรีสำหรับแปลงไฟล์ Word เป็น XLSX รหัสไลบรารีการแปลง .NET C# สำหรับเอกสาร Word 
+
 family: total
 platformtag: net
 feature: conversion
-informat: WORD
+informat: Word
 outformat: XLSX
 otherformats: SXC XLSX ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API เพื่อแปลง WORD เป็น XLSX หรือแอพออนไลน์" h2="ส่งออก WORD เป็น XLSX ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แอปแปลง Word เป็น XLSX ออนไลน์และโค้ด .NET เพื่อแปลงไฟล์ Word" h2="พัฒนาแอปพลิเคชั่นการแปลงและการส่งออก Word ที่มีประสิทธิภาพบนพื้นฐาน .NET แปลงไฟล์ Word เดียวหรือหลายไฟล์เป็น XLSX และรูปแบบอื่นๆ ผ่านทาง API อัตโนมัติของ .NET แปลงไฟล์ Word ออนไลน์ได้อย่างอิสระผ่านแอปพร้อมดาวน์โหลดทันที" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-ด้วยการใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถรวมคุณลักษณะการแปลง WORD เป็น XLSX ภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ใดก็ได้ สองขั้นตอนง่ายๆ ประการแรก ด้วยการใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) คุณสามารถส่งออก WORD เป็น HTML หลังจากนั้น การใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API จะช่วยให้คุณแปลง HTML เป็น XLSX ได้
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API เพื่อแปลง WORD เป็น XLSX" %}}
-1. เปิดไฟล์ WORD โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
-2. แปลง WORD เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
-3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. บันทึกเอกสารในรูปแบบ XLSX โดยใช้วิธี [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `XLSX' เป็น SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.Total``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total```
-
-หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/net)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>ตัวแปลงออนไลน์ฟรีสำหรับ WORD เป็น XLSX</h3>
-
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น xlsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="แอปแปลง Word เป็น XLSX ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="โหลดเอกสาร WORD จากสตรีมผ่าน C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ยังอนุญาตให้คุณโหลดเอกสาร WORD ผ่านสตรีม หากต้องการเปิดเอกสารจากสตรีม เพียงส่งออบเจ็กต์สตรีมที่มีเอกสารไปยังตัวสร้าง [Document](https://reference.aspose.com/words/net/aspose.words/document) ตัวอย่างโค้ดต่อไปนี้แสดงวิธีการเปิดเอกสารจากสตรีม:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="แปลงไฟล์ Word เป็น XLSX ออนไลน์โดยใช้แอป" %}}
+
+1. อัพโหลดไฟล์ Word เพื่อแปลง
+1. รอสักครู่หรือมากกว่านั้น ขึ้นอยู่กับขนาดของ Word
+1. คอยดูแถบสถานะการอัปโหลด
+1. คลิกปุ่ม "แปลง"
+1. Word จะถูกแปลงเป็นเอกสาร XLSX
+1. ดาวน์โหลดไฟล์ XLSX ที่แปลงแล้ว
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="แปลง Word เป็น XLSX ผ่านทาง .NET Automation API" %}}
+
+
+1. เปิดไฟล์ WORD โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. แปลง WORD เป็น HTML โดยใช้วิธีการ [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. บันทึกเอกสารในรูปแบบ XLSX โดยใช้วิธี [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) และตั้งค่า `XLSX' เป็น SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="แปลง Word เป็น XLSX ผ่าน C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก Word ไปยัง XLSX พร้อมด้วยฟีเจอร์อื่นๆ เช่น โหลดเอกสาร WORD จากสตรีมผ่าน C#, เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ XLSX ผ่าน C#
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-protected-word-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="เพิ่มคุณสมบัติที่กำหนดเองในไฟล์ XLSX ผ่าน C#" %}}
-ขณะแปลง WORD เป็น XLSX [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) ช่วยให้คุณเพิ่มคุณสมบัติที่กำหนดเองในเอกสาร XLSX ได้ ในการเพิ่มคุณสมบัติที่กำหนดเอง คุณสามารถใช้ [เพิ่ม](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index)เมธอดสำหรับ [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) คลาส วิธีการเพิ่มจะเพิ่มคุณสมบัติลงในไฟล์ Excel และส่งคืนข้อมูลอ้างอิงสำหรับคุณสมบัติเอกสารใหม่เป็น [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty) วัตถุ 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-protected-excel.cs" >}}
+<h2>พัฒนาแอปพลิเคชันการแปลงไฟล์ Word โดยใช้ .NET</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+ต้องการพัฒนาแอปพลิเคชันซอฟต์แวร์บนพื้นฐาน .NET เพื่อบันทึกและส่งออกไฟล์ Word ไปยังเอกสาร XLSX ได้อย่างง่ายดายหรือไม่ ด้วย [Aspose.Total for .NET](https://products.aspose.com/total/th/net/) นักพัฒนา .NET ทุกคนสามารถรวมโค้ด API ข้างต้นเพื่อเขียนโปรแกรมแอปพลิเคชันการแปลงไฟล์ในรูปแบบต่างๆ รวมถึง Microsoft Word, Excel, Powerpoint, PDF, ไฟล์อีเมล, รูปภาพ และรูปแบบอื่นๆ ไลบรารี .NET ที่ทรงพลังสำหรับการแปลงเอกสาร รองรับรูปแบบยอดนิยมมากมาย รวมถึงรูปแบบ Word ในการส่งออกเอกสารไปยังรูปแบบอื่น โปรแกรมเมอร์สามารถใช้ Aspose.Total สำหรับ API ย่อยของ .NET รวมถึง [Aspose.Words for .NET](https://products.aspose.com/words/th/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/th/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/th/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/th/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/th/net/) และอื่นๆ อีกมากมาย<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการแปลง Word สำหรับ .NET" %}}
+
+มีสามทางเลือกในการติดตั้ง Aspose.Total สำหรับ .NET ลงบนระบบของคุณ กรุณาเลือกสิ่งที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
+
+- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) ดู [เอกสารประกอบ](https://docs.aspose.com/total/net/)
+- ติดตั้งไลบรารีโดยใช้ Package Manager Console เมื่อเลือก API ย่อยใน Visual Studio IDE เช่น [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) เป็นต้น
+- ติดตั้งไลบรารีด้วยตนเองโดยใช้ Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="การบันทึก Word ไปยังข้อกำหนดแอป XLSX" %}}
+
+ผลิตภัณฑ์ของเรารองรับหลายแพลตฟอร์มและรองรับการใช้งาน .NET หลักทั้งหมดตามข้อกำหนด '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET Framework 4.8' ล่าสุด
+- .NET Core เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET 6' ล่าสุด
+- โมโน >= 2.6.7
+<br />
+เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ขึ้นอยู่กับเครื่องเสมือนเท่านั้น ดังนั้นคุณจึงสามารถพัฒนาซอฟต์แวร์ประเภทใดก็ได้สำหรับ Windows, macOS, Android, iOS และ Linux เพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่สอดคล้องกันแล้ว<br />
+เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE ในการสร้างแอปพลิเคชัน C#, F#, VB.NET
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="คำถามที่พบบ่อย" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
               <h2>คำถามที่พบบ่อย</h2>
-              <ul>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>ฉันจะแปลง WORD เป็น XLSX ออนไลน์ได้อย่างไร</b></span>
+                          <span itemprop="name"><b>ฉันสามารถใช้โค้ด .NET ข้างต้นในแอปพลิเคชันของฉันได้หรือไม่</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">แอพออนไลน์สำหรับการแปลง WORD ถูกรวมไว้ด้านบน ประการแรก คุณต้องเพิ่มไฟล์ WORD สำหรับการแปลงโดยการลาก &amp; วางหรือคลิกภายในพื้นที่สีขาวเพื่อนำเข้าเอกสาร จากนั้นคลิกปุ่มแปลง เมื่อการแปลง WORD เป็น XLSX เสร็จสิ้น คุณสามารถดาวน์โหลดไฟล์ที่แปลงแล้วได้ ดังนั้นคุณจะได้ไฟล์ XLSX ที่ส่งออกด้วยการคลิกเพียงครั้งเดียว</span>
+                          <span itemprop="text">ใช่ คุณสามารถดาวน์โหลดโค้ดนี้ได้ คุณสามารถพัฒนาโซลูชันระดับมืออาชีพเพื่อส่งออกและบันทึก Word ไปยังไฟล์ XLSX โดยใช้ .NET ได้อย่างง่ายดาย ใช้ Aspose Word เป็น API การแปลง XLSX เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน .NET</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>การแปลง WORD ใช้เวลานานเท่าไหร่?</b></span>
+                          <span itemprop="name"><b>เอกสารนี้ส่งออกงานแอปเฉพาะบน Windows เท่านั้นใช่หรือไม่</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ตัวแปลงออนไลน์นี้ทำงานได้อย่างรวดเร็ว แต่ขึ้นอยู่กับขนาดของไฟล์ WORD เป็นหลัก คุณสามารถเรนเดอร์ไฟล์ WORD ขนาดเล็กเป็น XLSX ได้ในไม่กี่วินาที ยิ่งไปกว่านั้น หากคุณได้รวมรหัสการแปลงภายในแอปพลิเคชัน .NET ขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับกระบวนการแปลงอย่างไร</span>
+                          <span itemprop="text">คุณมีความยืดหยุ่นในการเริ่มส่งออกเอกสารจาก Word ไปยัง XLSX จากอุปกรณ์ใดๆ โดยไม่คำนึงถึงระบบปฏิบัติการที่ใช้งาน ไม่ว่าจะเป็น Windows, Linux, Mac OS หรือ Android สิ่งที่ต้องมีคือเว็บเบราว์เซอร์สมัยใหม่และการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>การแปลง WORD เป็น XLSX ปลอดภัยหรือไม่โดยใช้ตัวแปลง Aspose.Total ฟรี</b></span>
+                          <span itemprop="name"><b>การใช้แอปออนไลน์เพื่อแปลงเอกสาร Word หลายเอกสารปลอดภัยหรือไม่</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">แน่นอน! ลิงค์ดาวน์โหลดไฟล์ XLSX จะใช้งานได้ทันทีหลังจากการแปลง เราลบไฟล์ที่อัปโหลดหลังจาก 24 ชั่วโมง และลิงก์ดาวน์โหลดจะหยุดทำงานหลังจากช่วงเวลานี้ ไม่มีใครสามารถเข้าถึงไฟล์ของคุณได้ การแปลงไฟล์ (รวมถึง WORD) นั้นปลอดภัยอย่างยิ่ง แอพฟรีส่วนใหญ่ถูกรวมเข้าด้วยกันเพื่อจุดประสงค์ในการทดสอบเพื่อให้สามารถตรวจสอบผลลัพธ์ก่อนที่จะรวมรหัส</span>
+                          <span itemprop="text">แน่นอน! ไฟล์เอาท์พุตที่สร้างขึ้นผ่านบริการของเราจะถูกลบออกจากเซิร์ฟเวอร์ของเราอย่างปลอดภัยและอัตโนมัติภายในระยะเวลา 24 ชั่วโมง ส่งผลให้ลิงก์ดาวน์โหลดไฟล์เหล่านี้จะไม่สามารถใช้งานได้อีกหลังจากช่วงเวลานี้</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>ฉันควรใช้เบราว์เซอร์ใดในการแปลง WORD</b></span>
+                          <span itemprop="name"><b>ควรใช้แอปผ่านเบราว์เซอร์ใด?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">คุณสามารถใช้เบราว์เซอร์สมัยใหม่ใดก็ได้สำหรับการแปลงออนไลน์นี้ เช่น Google Chrome, Firefox, Opera, Safari แต่ในกรณีที่คุณกำลังพัฒนาแอปพลิเคชันบนเดสก์ท็อป Aspose.Total WORD Conversion API จะทำงานได้อย่างราบรื่น</span>
+                          <span itemprop="text">คุณสามารถใช้เว็บเบราว์เซอร์สมัยใหม่ เช่น Google Chrome, Firefox, Opera หรือ Safari เพื่อแปลงเอกสาร Word ออนไลน์</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันจะส่งออกไฟล์ Word หลายไฟล์ได้อย่างไร</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">เริ่มต้นโดยอัปโหลดไฟล์หนึ่งไฟล์หรือมากกว่านั้นที่คุณต้องการแปลง คุณสามารถลากและวางไฟล์ Word ของคุณหรือเพียงแค่คลิกภายในพื้นที่สีขาว จากนั้นคลิกปุ่ม 'แปลง' แล้วแอปแปลงออนไลน์ของเราจะประมวลผลไฟล์ที่อัปโหลดอย่างรวดเร็ว</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ใช้เวลาในการแปลงไฟล์ Word นานเท่าใด/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แอปพลิเคชันการแปลงนี้ทำงานได้อย่างรวดเร็ว อาจใช้เวลาไม่กี่วินาทีหรือมากกว่านั้น ขึ้นอยู่กับขนาดเอกสารในการอัปโหลดและบันทึกเป็นรูปแบบที่ต้องการ</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
-title: .NET-API zum Konvertieren von OTT in XLTX oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von OTT in XLTX oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen OTT-zu-XLTX-Online-Konverter, bevor Sie den Code integrieren. 
-url_ignore: /de/net/conversion/ott-to-xltx/
+title: Online-Konvertierung von OTT zu XLTX oder Erstellen einer .NET-basierten Anwendung zum Konvertieren von OTT-Dateien
+description: Kostenlose Online-App zum Konvertieren von OTT- in XLTX-Dateien. .NET C#-Konvertierungsbibliothekscode für OTT-Dokumente. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,64 +10,104 @@ outformat: XLTX
 otherformats: FODS DIF XLAM XLTX XLSX SXC ODS TSV XLSM EXCEL XLS XLTM XLT XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#-API zum Konvertieren von OTT in XLTX oder Online-App" h2="OTT über C# in XLTX exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Online-Konvertierungs-App von OTT zu XLTX und .NET-Code zum Konvertieren von OTT-Dateien" h2="Entwickeln Sie eine leistungsstarke .NET-basierte OTT-Konvertierungs- und Exportanwendung. Konvertieren Sie einzelne oder mehrere OTT-Dateien über die .NET-Automatisierungs-API in XLTX und andere Formate. Konvertieren Sie OTT-Dateien kostenlos online per App mit sofortigem Download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie die OTT-zu-XLTX-Konvertierungsfunktion in jede .NET-, C#-, ASP.NET- und VB.NET-Anwendung integrieren zwei einfache Schritte. Erstens können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) OTT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in XLTX konvertieren.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET-API zum Konvertieren von OTT in XLTX" %}}
-1. Öffnen Sie die OTT-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document).
-2. Konvertieren Sie OTT in HTML, indem Sie die Methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
-3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im XLTX-Format und legen Sie „XLTX“ als SaveFormat fest
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
-
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/total/net) herunterladen.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Kostenloser Online-Konverter für OTT zu XLTX</h3>
-
-<iframe title="xltx bis ott Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Kostenlose Online-App zur Konvertierung von OTT in XLTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="OTT-Dokument aus Stream über C# laden" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) ermöglicht es Ihnen auch, OTT-Dokumente per Stream zu laden. Um ein Dokument aus einem Stream zu öffnen, übergeben Sie einfach ein Stream-Objekt, das das Dokument enthält, an den Konstruktor [Document](https://reference.aspose.com/words/net/aspose.words/document). Das folgende Codebeispiel zeigt, wie Sie ein Dokument aus einem Stream öffnen:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie OTT- in XLTX-Dateien online mithilfe der App" %}}
+
+1. Laden Sie zum Konvertieren OTT-Dateien hoch
+1. Warten Sie je nach OTT-Größe einige Sekunden oder länger
+1. Behalten Sie die Upload-Statusleiste im Auge
+1. Klicken Sie auf die Schaltfläche "Konvertieren"
+1. OTT wird in ein XLTX-Dokument umgewandelt
+1. Laden Sie die konvertierte XLTX-Datei herunter
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie OTT in XLTX über die .NET Automation API" %}}
+
+
+1. Öffnen Sie die OTT-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document).
+2. Konvertieren Sie OTT in HTML, indem Sie die Methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) verwenden
+3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook).
+4. Speichern Sie das Dokument mit der Methode [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) im XLTX-Format und legen Sie „XLTX“ als SaveFormat fest
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Konvertieren Sie OTT in XLTX über C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Noch einige Fälle zum Speichern von OTT in XLTX mit anderen Funktionen wie OTT-Dokument aus Stream über C# laden, Benutzerdefinierte Eigenschaften in XLTX-Datei über C# hinzufügen.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Benutzerdefinierte Eigenschaften in XLTX-Datei über C# hinzufügen" %}}
-Beim Konvertieren von OTT in XLTX können Sie mit [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Ihren XLTX-Dokumenten benutzerdefinierte Eigenschaften hinzufügen. Um eine benutzerdefinierte Eigenschaft hinzuzufügen, können Sie die Methode [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) für die [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) Klasse. Die Add-Methode fügt die Eigenschaft zur Excel-Datei hinzu und gibt eine Referenz für die neue Dokumenteigenschaft als [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties/documentproperty)-Objekt. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Entwickeln Sie eine OTT-Dateikonvertierungsanwendung mit .NET</h2>
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+Müssen Sie eine .NET-basierte Softwareanwendung entwickeln, um OTT-Dateien einfach in XLTX-Dokumente zu speichern und zu exportieren? Mit [Aspose.Total for .NET](https://products.aspose.com/total/de/net/) kann jeder .NET-Entwickler den oben genannten API-Code integrieren, um die Konvertierungsanwendung für verschiedene Formate zu programmieren, darunter Microsoft Word, Excel, Powerpoint, PDF, E-Mail-Dateien, Bilder und andere Formate. Leistungsstarke .NET-Bibliothek zur Dokumentkonvertierung, unterstützt viele gängige Formate, einschließlich des OTT-Formats. Beim Exportieren von Dokumenten in andere Formate können Programmierer Aspose.Total für untergeordnete .NET-APIs verwenden, darunter [Aspose.Words for .NET](https://products.aspose.com/words/de/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/de/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/de/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/de/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/de/net/) und mehr.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="OTT Konvertierungsbibliothek für .NET" %}}
+
+Es gibt drei alternative Möglichkeiten, Aspose.Total für .NET auf Ihrem System zu installieren. Wählen Sie bitte eine Option aus, die Ihren Anforderungen entspricht, und folgen Sie den Schritt-für-Schritt-Anweisungen:<br /><br />
+
+- Installieren Sie ein [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Siehe [Dokumentation](https://docs.aspose.com/total/net/)
+- Installieren Sie die Bibliothek mithilfe der Package Manager Console ab der Auswahl der untergeordneten API in der Visual Studio IDE wie [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) usw.
+- Installieren Sie die Bibliothek manuell mit dem Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Speichern von OTT in XLTX App-Anforderungen" %}}
+
+Unser Produkt ist vollständig plattformübergreifend und unterstützt alle wichtigen .NET-Implementierungen gemäß der Spezifikation „.NET Standard 2.0“:<br /><br />
+
+- Microsoft .NET Framework, beginnend mit der frühesten Version 2.0 und endend mit der neuesten Version „.NET Framework 4.8“
+- .NET Core, beginnend mit der frühesten Version 2.0 und endend mit dem neuesten „.NET 6“
+- Mono >= 2.6.7
+<br />
+Da .NET-Code nicht von der zugrunde liegenden Hardware oder dem Betriebssystem, sondern nur von einer virtuellen Maschine abhängt, können Sie jede Art von Software für Windows, macOS, Android, iOS und Linux entwickeln. Stellen Sie einfach sicher, dass Sie die entsprechende Version von .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin installiert haben.<br />
+Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelop IDE zum Erstellen von C#-, F#- und VB.NET-Anwendungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -77,44 +117,61 @@ Beim Konvertieren von OTT in XLTX können Sie mit [Aspose.Cells for .NET](https:
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Häufig gestellte Fragen</h2>
-              <ul>
+              <h2>FAQs</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Wie kann ich OTT in XLTX Online konvertieren?</b></span>
+                          <span itemprop="name"><b>Kann ich den obigen .NET-Code in meiner Anwendung verwenden?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Online-App für die OTT-Konvertierung ist oben integriert. Zuerst müssen Sie eine OTT-Datei für die Konvertierung per Drag &amp; Lassen Sie den weißen Bereich fallen oder klicken Sie darauf, um das Dokument zu importieren. Klicken Sie dann auf die Schaltfläche Konvertieren. Wenn die Konvertierung von OTT zu XLTX abgeschlossen ist, können Sie Ihre konvertierte Datei herunterladen. So erhalten Sie mit nur einem Klick ausgegebene XLTX-Dateien.</span>
+                          <span itemprop="text">Ja, Sie können diesen Code gerne herunterladen. Mit .NET lässt sich ganz einfach eine professionelle Lösung zum Exportieren und Speichern von OTT in einer XLTX-Datei entwickeln. Verwenden Sie die Aspose OTT-zu-XLTX-Konvertierungs-API, um plattformunabhängige Software auf hoher Ebene in .NET zu entwickeln.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Wie lange dauert die Konvertierung von OTT?</b></span>
+                          <span itemprop="name"><b>Funktioniert diese App zum Exportieren von Dokumenten nur unter Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Dieser Online-Konverter arbeitet schnell, hängt aber hauptsächlich von der Größe der OTT-Datei ab. Sie können kleine OTT-Dateien in wenigen Sekunden in XLTX rendern. Wenn Sie den Konvertierungscode in die .NET-Anwendung integriert haben, hängt dies außerdem davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Sie haben die Flexibilität, den Dokumentenexport von OTT nach XLTX von jedem Gerät aus zu starten, unabhängig vom Betriebssystem, auf dem es läuft, sei es Windows, Linux, Mac OS oder Android. Alles was Sie brauchen ist ein aktueller Webbrowser und eine aktive Internetverbindung.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Ist es sicher, OTT mit dem kostenlosen Aspose.Total-Konverter in XLTX umzuwandeln?</b></span>
+                          <span itemprop="name"><b>Ist es sicher, mit der Online-App mehrere OTT-Dokumente zu konvertieren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Natürlich! Der Download-Link von XLTX-Dateien ist sofort nach der Konvertierung verfügbar. Wir löschen hochgeladene Dateien nach 24 Stunden und die Download-Links funktionieren nach diesem Zeitraum nicht mehr. Niemand hat Zugriff auf Ihre Dateien. Die Dateikonvertierung (einschließlich OTT) ist absolut sicher. Zum Testen wird hauptsächlich eine kostenlose App integriert, damit man das Ergebnis überprüfen kann, bevor man den Code einbindet.</span>
+                          <span itemprop="text">Natürlich! Die von unserem Service generierten Ausgabedateien werden innerhalb von 24 Stunden sicher und automatisch von unseren Servern entfernt. Dies hat zur Folge, dass die mit diesen Dateien verknüpften Download-Links nach diesem Zeitraum nicht mehr funktionieren.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Welchen Browser sollte ich verwenden, um OTT zu konvertieren?</b></span>
+                          <span itemprop="name"><b>Welcher Browser wird für die Nutzung der App benötigt?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Sie können jeden modernen Browser für diese Online-Konvertierung verwenden, zum Beispiel Google Chrome, Firefox, Opera, Safari. Aber falls Sie eine Desktop-Anwendung entwickeln. Aspose.Total OTT Conversion API wird reibungslos funktionieren.</span>
+                          <span itemprop="text">Sie können jeden modernen Webbrowser wie Google Chrome, Firefox, Opera oder Safari für die Online-Konvertierung von OTT-Dokumenten verwenden.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie kann ich mehrere OTT-Dateien exportieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Beginnen Sie mit dem Hochladen einer oder mehrerer Dateien, die Sie konvertieren möchten. Sie können Ihre OTT-Dateien entweder per Drag & Drop verschieben oder einfach in den weißen Bereich klicken. Klicken Sie anschließend auf die Schaltfläche „Konvertieren“ und unsere Online-Konvertierungs-App verarbeitet die hochgeladenen Dateien schnell.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie lange dauert die Konvertierung der OTT-Dateien?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Diese Konvertierungsanwendung arbeitet schnell. Das Hochladen und Speichern im erforderlichen Format kann je nach Dokumentgröße einige Sekunden oder länger dauern.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

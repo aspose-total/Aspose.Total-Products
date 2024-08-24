@@ -1,7 +1,7 @@
 ---
-title: Converti POT in XLT tramite C# o App online
-description: Converti POT in XLT in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da POT a XLT prima di integrare il codice. o con il convertitore online gratuito
-url_ignore: /it/net/conversion/pot-to-xlt/
+title: Conversione online da POT a XLT o creazione di un'applicazione basata su .NET per convertire i file POT
+description: Applicazione online gratuita per convertire file POT in XLT. Codice della libreria di conversione .NET C# per documenti POT. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,112 +10,170 @@ outformat: XLT
 otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT EXCEL XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POT in XLT tramite C# o App online" h2="API .NET per la conversione da POT a XLT senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="App di conversione online da POT a XLT e codice .NET per convertire i file POT" h2="Sviluppare potenti applicazioni di conversione ed esportazione POT basate su .NET. Converti uno o più file POT in XLT e altri formati tramite l'API di automazione .NET. Converti liberamente i file POT online tramite app con download immediato." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi convertire il file POT in XLT all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puoi esportare POT in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in XLT.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Come convertire POT in XLT tramite C#" %}}
-1. Aprire il file POT utilizzando la classe [Presentazione](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
-2. Esporta POT come HTML utilizzando il metodo [Salva](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Caricare il documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
-4. Salvare il documento in XLT utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Installa dalla riga di comando come ```nuget install Aspose.Total``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.Total```.
-
-In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Convertitore online gratuito da POT a XLT</h3>
-
-<iframe title="Strumento di conversione gratuito da pot a xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="App gratuita di conversione online da POT a XLT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converti POT protetto in XLT tramite C#" %}}
-Durante la conversione del file POT in XLT, se il documento POT di input è protetto da password non è possibile convertirlo in XLT senza decrittografare il documento. Quando il tuo documento è protetto da password, significa che impone determinate restrizioni alla presentazione. Per rimuovere le restrizioni, è necessario inserire la password. Una presentazione protetta da password è considerata una presentazione bloccata. L'API consente di aprire il documento crittografato passando la password corretta in un oggetto LoadOptions.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti i file POT in XLT online utilizzando l'app" %}}
+
+1. Carica i file POT da convertire
+1. Attendi qualche secondo o più a seconda della dimensione di POT
+1. Tieni d'occhio la barra di stato del caricamento
+1. Fare clic sul pulsante "Converti"
+1. POT verrà convertito nel documento XLT
+1. Scarica il file XLT convertito
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converti POT in XLT tramite .NET Automation API" %}}
+
+
+1. Aprire il file POT utilizzando la classe [Presentazione](https://apiference.aspose.com/slides/net/aspose.slides/presentation)
+2. Esporta POT come HTML utilizzando il metodo [Salva](https://apiference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Caricare il documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/net/aspose.cells/workbook)
+4. Salvare il documento in XLT utilizzando il metodo [Salva](https://apiference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Convertire POT in XLT tramite C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Altri casi in cui è possibile salvare POT in XLT con altre funzionalità come Converti POT protetto in XLT tramite C#, Converti POT in XLT con Watermark tramite C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Converti POT in XLT con Watermark tramite C#" %}}
-Durante la conversione del file POT in XLT, puoi anche aggiungere una filigrana al formato del file XLT di output. Per aggiungere una filigrana, puoi creare un nuovo oggetto Cartella di lavoro e aprire il documento HTML convertito, selezionare Foglio di lavoro tramite il suo indice, creare una forma e utilizzare la sua funzione AddTextEffect. Successivamente puoi salvare il tuo documento HTML come XLT con Watermark. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Sviluppare un'applicazione di conversione file POT utilizzando .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+Hai bisogno di sviluppare un'applicazione software basata su .NET per salvare ed esportare facilmente i file POT in documenti XLT? Con [Aspose.Total for .NET](https://products.aspose.com/total/it/net/), qualsiasi sviluppatore .NET può integrare il codice API di cui sopra per programmare l'applicazione di conversione in vari formati, tra cui Microsoft Word, Excel, Powerpoint, PDF, file di posta elettronica, immagini e altri formati. Potente libreria .NET per la conversione di documenti, supporta molti formati popolari, incluso il formato POT. Per esportare documenti in altri formati, i programmatori possono utilizzare Aspose.Total per le API figlio .NET, tra cui [Aspose.Words for .NET](https://products.aspose.com/words/it/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/it/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/it/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/it/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/it/net/) e altri.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="POT Libreria di conversione per .NET" %}}
+
+Esistono tre opzioni alternative per installare Aspose.Total per .NET sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo dopo passo:<br /><br />
+
+- Installa un [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Vedi [Documentazione](https://docs.aspose.com/total/net/)
+- Installare la libreria utilizzando Package Manager Console a partire dalla selezione API figlio all'interno di Visual Studio IDE come [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) ecc.
+- Installare la libreria manualmente utilizzando Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvataggio di POT in XLT Requisiti dell'app" %}}
+
+Il nostro prodotto è completamente multipiattaforma e supporta tutte le principali implementazioni .NET secondo le specifiche '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, a partire dalla prima versione 2.0 e terminando con l'ultima '.NET Framework 4.8'
+- .NET Core, a partire dalla prima versione 2.0 e terminando con l'ultima '.NET 6'
+- Mono >= 2.6.7
+<br />
+Poiché il codice .NET non si basa sull'hardware o sul sistema operativo sottostante, ma solo su una macchina virtuale, sei libero di sviluppare qualsiasi tipo di software per Windows, macOS, Android, iOS e Linux. Assicurati solo di aver installato la versione corrispondente di .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.<br />
+Consigliamo di utilizzare Microsoft Visual Studio, Xamarin e MonoDevelop IDE per creare applicazioni C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Domande frequenti" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
               <h2>Domande frequenti</h2>
-              <ul>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Come posso convertire POT in XLT online?</b></span>
+                          <span itemprop="name"><b>Posso utilizzare il codice .NET sopra riportato nella mia applicazione?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">L'app online per la conversione POT è integrata sopra. Per avviare il processo di conversione da POT a XLT, aggiungi semplicemente il file POT trascinandolo nell'area designata o facendo clic su di esso per importare il documento. Successivamente, fai clic sul pulsante "Converti". Una volta completata la conversione da POT a XLT, puoi scaricare il file convertito. Con un solo clic, riceverai i tuoi file XLT di output.</span>
+                          <span itemprop="text">Sì, sei il benvenuto a scaricare questo codice. Si può facilmente sviluppare una soluzione professionale per esportare e salvare POT in un file XLT usando .NET. Utilizzare l'API di conversione da Aspose POT a XLT per sviluppare software di alto livello, indipendente dalla piattaforma in .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Quanto tempo ci vuole per convertire POT?</b></span>
+                          <span itemprop="name"><b>Questa app per l'esportazione di documenti funziona solo su Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file POT. Se il file POT è di piccole dimensioni, la conversione in XLT può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
+                          <span itemprop="text">Hai la flessibilità di avviare l'esportazione del documento da POT a XLT da qualsiasi dispositivo, indipendentemente dal sistema operativo su cui è in esecuzione, sia Windows, Linux, Mac OS o Android. Tutto ciò che serve è un browser web moderno e una connessione Internet attiva.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>È sicuro convertire POT in XLT utilizzando il convertitore Aspose.Total gratuito?</b></span>
+                          <span itemprop="name"><b>È sicuro utilizzare l'app online per convertire più documenti POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ovviamente! Non appena la conversione da POT a XLT sarà completa, avrai accesso immediato al link per il download dei file XLT convertiti. Tieni presente che eliminiamo automaticamente tutti i file caricati dopo 24 ore e che i link per il download non saranno più attivi dopo questo periodo di tempo. I tuoi file sono completamente sicuri e privati, poiché nessun altro può accedervi. Il processo di conversione dei file, inclusa la conversione POT, è assolutamente sicuro da usare. Offriamo questa app gratuita principalmente a scopo di test in modo da poter valutare i risultati prima di integrare il codice.</span>
+                          <span itemprop="text">Certamente! I file di output generati tramite il nostro servizio verranno rimossi in modo sicuro e automatico dai nostri server entro un lasso di tempo di 24 ore. Di conseguenza, i link per il download associati a questi file non saranno più funzionanti dopo tale periodo.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Quale browser devo usare per convertire POT?</b></span>
+                          <span itemprop="name"><b>Quale browser dovrei usare per l'app?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Questo strumento di conversione online è compatibile con qualsiasi browser moderno, come Google Chrome, Firefox, Opera o Safari. Tuttavia, se stai sviluppando un'applicazione desktop, l'API Aspose.Total POT Conversion è un'opzione affidabile per un'integrazione fluida.</span>
+                          <span itemprop="text">Per la conversione online dei documenti POT è possibile utilizzare qualsiasi browser web moderno, come Google Chrome, Firefox, Opera o Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Come posso esportare più file POT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Inizia caricando uno o più file che vuoi convertire. Puoi trascinare e rilasciare i tuoi file POT o semplicemente cliccare all'interno dell'area bianca. Successivamente, fai clic sul pulsante "Converti" e la nostra app di conversione online elaborerà rapidamente i file caricati.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Quanto tempo ci vuole per convertire i file POT?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Questa applicazione di conversione funziona rapidamente. Potrebbero essere necessari alcuni secondi o più, a seconda delle dimensioni del documento, per caricarlo e salvarlo nel formato richiesto.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

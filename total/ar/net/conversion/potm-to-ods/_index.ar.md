@@ -1,120 +1,177 @@
 ---
-title: تحويل POTM إلى ODS عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل POTM إلى ODS في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POTM إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
-url_ignore: /ar/net/conversion/potm-to-ods/
+title: تحويل ملفات POTM إلى ODS عبر الإنترنت أو إنشاء تطبيق قائم على .NET لتحويل ملفات POTM
+description: تطبيق مجاني عبر الإنترنت لتحويل ملفات POTM إلى ملفات ODS. كود مكتبة تحويل .NET C# لمستندات POTM. 
+
 family: total
 platformtag: net
 feature: conversion
-informat: POTMM
+informat: POTM
 outformat: ODS
 otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS SXC XLTM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POTM إلى ODS عبر C# أو التطبيق عبر الإنترنت" h2="NET API لتحويل POTM إلى ODS بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تطبيق تحويل POTM إلى ODS عبر الإنترنت ورمز .NET لتحويل ملفات POTM" h2="تطوير تطبيق قوي للتحويل والتصدير POTM يعتمد على .NET. تحويل ملفات POTM الفردية أو المتعددة إلى ODS وغيرها من التنسيقات عبر واجهة برمجة تطبيقات الأتمتة .NET. قم بتحويل ملفات POTM بحرية عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك تحويل ملف POTM إلى ODS ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تصدير POTM إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى ODS.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POTM إلى ODS عبر C# أو التطبيق عبر الإنترنت" %}}
-1. افتح ملف POTM باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. تصدير POTM بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. احفظ المستند في ملف ODS باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
-
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>محول مجاني على الإنترنت لـ POTM إلى ODS</h3>
-
-<iframe title="ods to potm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل POTM إلى ODS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل المحمية POTM إلى ODS عبر C#" %}}
-أثناء تحويل ملف POTM إلى ODS ، إذا كان مستند POTM الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى ODS بدون فك تشفير المستند. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مغلقًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ملفات POTM إلى ODS عبر الإنترنت باستخدام التطبيق" %}}
+
+1. قم بتحميل ملفات POTM للتحويل
+1. انتظر بضع ثوانٍ أو أكثر حسب حجم POTM
+1. راقب شريط حالة التحميل
+1. انقر على زر "تحويل"
+1. سيتم تحويل POTM إلى مستند ODS
+1. تنزيل الملف المُحوَّل ODS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="تحويل POTM إلى ODS عبر واجهة برمجة تطبيقات .NET Automation" %}}
+
+
+1. افتح ملف POTM باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. تصدير POTM بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. احفظ المستند في ملف ODS باستخدام طريقة [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="تحويل POTM إلى ODS عبر C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+هناك حالات قليلة أخرى لحفظ POTM في ODS باستخدام ميزات أخرى مثل تحويل المحمية POTM إلى ODS عبر C#, تحويل POTM إلى ODS مع علامة مائية عبر C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="تحويل POTM إلى ODS مع علامة مائية عبر C#" %}}
-أثناء تحويل ملف POTM إلى ODS ، يمكنك أيضًا إضافة علامة مائية إلى تنسيق ملف ODS الناتج. لإضافة علامة مائية ، يمكنك إنشاء كائن مصنف جديد وفتح مستند HTML المحول ، وتحديد ورقة العمل عبر الفهرس الخاص به ، وإنشاء شكل واستخدام وظيفة AddTextEffect الخاصة به. بعد ذلك يمكنك حفظ مستند HTML كملف ODS مع علامة مائية. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>تطوير تطبيق تحويل الملفات POTM باستخدام .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+هل تحتاج إلى تطوير تطبيق برمجي قائم على .NET لحفظ وتصدير ملفات POTM إلى مستند ODS بسهولة؟ باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/ar/net/)، يمكن لأي مطور .NET دمج كود API أعلاه لبرمجة تطبيق التحويل عبر مجموعة متنوعة من التنسيقات بما في ذلك Microsoft Word وExcel وPowerpoint وPDF وملفات البريد الإلكتروني والصور وغيرها من التنسيقات. مكتبة .NET قوية لتحويل المستندات، وتدعم العديد من التنسيقات الشائعة بما في ذلك تنسيق POTM. عند تصدير المستندات إلى تنسيقات أخرى، يمكن للمبرمجين استخدام Aspose.Total لواجهات برمجة التطبيقات الفرعية لـ .NET بما في ذلك [Aspose.Words for .NET](https://products.aspose.com/words/ar/net/) و[Aspose.Cells for .NET](https://products.aspose.com/cells/ar/net/) و[Aspose.Slides for .NET](https://products.aspose.com/slides/ar/net/) و[Aspose.PDF for .NET](https://products.aspose.com/pdf/ar/net/) و[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ar/net/) والمزيد.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="مكتبة التحويل POTM لـ .NET" %}}
+
+هناك ثلاثة خيارات بديلة لتثبيت Aspose.Total لـ .NET على نظامك. الرجاء اختيار ما يشبه احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
+
+- قم بتثبيت [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). راجع [التوثيق](https://docs.aspose.com/total/net/)
+- قم بتثبيت المكتبة باستخدام Package Manager Console من خلال اختيار واجهة برمجة التطبيقات الفرعية الخاصة بها داخل Visual Studio IDE مثل [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui) و[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui) و[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) وما إلى ذلك
+- قم بتثبيت المكتبة يدويًا باستخدام Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="حفظ POTM في ODS متطلبات التطبيق" %}}
+
+منتجنا متعدد المنصات بالكامل ويدعم جميع تنفيذات .NET الرئيسية وفقًا لمواصفات '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework، بدءًا من الإصدار 2.0 الأقدم، وانتهاءً بالإصدار الأحدث '.NET Framework 4.8'
+- .NET Core، بدءًا من الإصدار 2.0 الأقدم، وانتهاءً بأحدث إصدار '.NET 6'
+- مونو >= 2.6.7
+<br />
+نظرًا لأن كود .NET لا يعتمد على الأجهزة الأساسية أو نظام التشغيل، ولكن فقط على آلة افتراضية، فأنت حر في تطوير أي نوع من البرامج لأنظمة Windows وmacOS وAndroid وiOS وLinux. تأكد فقط من أنك قمت بتثبيت الإصدار المقابل من .NET Framework، أو .NET Core، أو Windows Azure، أو Mono، أو Xamarin.<br />
+نوصي باستخدام Microsoft Visual Studio، وXamarin، وMonoDevelop IDE لإنشاء تطبيقات C#، وF#، وVB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="الأسئلة الشائعة" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>أسئلة مكررة</h2>
-              <ul>
+              <h2>الأسئلة الشائعة</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كيف يمكنني تحويل POTM إلى ODS Online؟</b></span>
+                          <span itemprop="name"><b>هل يمكنني استخدام الكود .NET أعلاه في تطبيقي؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل POTM أعلاه. لبدء عملية تحويل POTM إلى ODS ، ما عليك سوى إضافة ملف POTM إما عن طريق سحبه وإفلاته في المنطقة المخصصة أو النقر فوقه لاستيراد المستند. بعد ذلك ، انقر فوق الزر "تحويل". بمجرد اكتمال تحويل POTM إلى ODS ، يمكنك تنزيل الملف المحول. بنقرة واحدة فقط ، ستتلقى ملفات ODS الخاصة بك.</span>
+                          <span itemprop="text">نعم، يمكنك تنزيل هذا الكود. يمكنك بسهولة تطوير حل احترافي لتصدير وحفظ POTM إلى ملف ODS باستخدام .NET. استخدم واجهة برمجة تطبيقات تحويل Aspose POTM إلى ODS لتطوير برامج عالية المستوى ومستقلة عن المنصة في .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كم من الوقت يستغرق تحويل POTM؟</b></span>
+                          <span itemprop="name"><b>هل يعمل تطبيق تصدير المستند هذا على نظام Windows فقط؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POTM. إذا كان ملف POTM صغير الحجم ، فيمكن إتمام التحويل إلى ODS في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
+                          <span itemprop="text">لديك المرونة اللازمة لبدء تصدير المستندات من POTM إلى ODS من أي جهاز، بغض النظر عن نظام التشغيل الذي يعمل عليه، سواء كان Windows أو Linux أو Mac OS أو Android. كل ما هو مطلوب هو متصفح ويب حديث واتصال نشط بالإنترنت.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>هل من الآمن تحويل POTM إلى ODS باستخدام محول Aspose.Total المجاني؟</b></span>
+                          <span itemprop="name"><b>هل من الآمن استخدام التطبيق عبر الإنترنت لتحويل مستندات POTM متعددة؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">بالطبع! بمجرد اكتمال تحويل POTM إلى ODS ، سيكون لديك وصول فوري إلى رابط التنزيل لملفات ODS المحولة. يرجى ملاحظة أننا نحذف تلقائيًا أي ملفات تم تحميلها بعد 24 ساعة ، ولن تكون روابط التنزيل نشطة بعد هذه الفترة الزمنية. ملفاتك آمنة وخصوصية تمامًا ، حيث لا يمكن لأي شخص آخر الوصول إليها. عملية تحويل الملف ، بما في ذلك تحويل POTM ، آمنة تمامًا للاستخدام. نحن نقدم هذا التطبيق المجاني في المقام الأول لأغراض الاختبار حتى تتمكن من تقييم النتائج قبل دمج الكود.</span>
+                          <span itemprop="text">بالطبع! سيتم إزالة ملفات الإخراج التي تم إنشاؤها من خلال خدمتنا بشكل آمن وتلقائي من خوادمنا في غضون 24 ساعة. وكنتيجة لذلك، فإن روابط التنزيل المرتبطة بهذه الملفات سوف تتوقف عن العمل بعد هذه الفترة.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>ما المتصفح الذي يجب أن أستخدمه لتحويل POTM؟</b></span>
+                          <span itemprop="name"><b>ما هو المتصفح الذي يجب استخدامه للتطبيق؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تتوافق أداة التحويل عبر الإنترنت هذه مع أي متصفح حديث ، مثل Google Chrome أو Firefox أو Opera أو Safari. ومع ذلك ، إذا كنت تقوم بتطوير تطبيق سطح مكتب ، فإن Aspose.Total POTM Conversion API هو خيار موثوق به لتحقيق تكامل سلس.</span>
+                          <span itemprop="text">يمكنك استخدام أي متصفح ويب حديث مثل Google Chrome أو Firefox أو Opera أو Safari لتحويل المستندات POTM عبر الإنترنت.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>كيف يمكنني تصدير ملفات POTM متعددة؟</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">ابدأ بتحميل ملف واحد أو أكثر تريد تحويله. يمكنك إما سحب ملفات POTM وإفلاتها أو النقر ببساطة داخل المنطقة البيضاء. بعد ذلك، انقر فوق الزر "تحويل"، وسوف يقوم تطبيق التحويل عبر الإنترنت لدينا بمعالجة الملفات التي تم تحميلها بسرعة.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>كم من الوقت يستغرق تحويل ملفات POTM؟/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">يعمل تطبيق التحويل هذا بسرعة، فقد يستغرق الأمر بضع ثوانٍ أو أكثر اعتمادًا على حجم المستند لتحميله وحفظه بالتنسيق المطلوب.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

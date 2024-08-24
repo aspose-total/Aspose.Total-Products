@@ -1,64 +1,178 @@
 ---
-title: A DOCM konvertálása JSON formátumba .NET-en keresztül
-description: Konvertálja a DOCM-t JSON-ba C#-ban Microsoft Excel vagy Adobe Reader használata nélkül
-url_ignore: /hu/net/conversion/docm-to-json/
+title: Online DOCM konvertálás JSON formátumba vagy .NET alapú alkalmazás létrehozása DOCM fájlok konvertálásához
+description: Ingyenes online alkalmazás az DOCM fájl JSON fájlokká konvertálásához. .NET C# konverziós könyvtár kódja az DOCM dokumentumokhoz.  
+
 family: total
 platformtag: net
 feature: conversion
-informat: DOCMM
+informat: DOCM
 outformat: JSON
 otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A DOCM konvertálása JSON formátumba a C# segítségével" h2="Elemezze a DOCM-t JSON-ba C#-on keresztül Microsoft<sup>&reg;</sup> Word vagy Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Online DOCM konvertáló alkalmazás JSON formátumba és .NET kód az DOCM fájlok konvertálásához" h2="Hatékony .NET alapú DOCM konvertáló és exportáló alkalmazás fejlesztése.  Egyetlen vagy több DOCM fájl konvertálása JSON és más formátumokba a .NET automatizálási API-n keresztül.  Ingyenesen konvertálhat DOCM fájlokat online az alkalmazáson keresztül, azonnali letöltéssel." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül a DOCM-t JSON formátumba konvertálhatja két részből egyszerű lépéseket. Először is, az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával exportálhatja a DOCM-t HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t JSON-ba.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="A DOCM konvertálása JSON formátumba a C# segítségével" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ingyenes online DOCM–JSON konverziós alkalmazás" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=json&from=docm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertálja az DOCM fájlokat JSON fájlokká online az alkalmazás segítségével" %}}
+
+1. Töltse fel a konvertálandó DOCM fájlokat
+1. Várjon néhány másodpercet vagy többet az DOCM méretétől függően
+1. Tartsa szemmel a feltöltési állapotsort
+1. Kattintson a "Konvertálás" gombra
+1. Az DOCM JSON dokumentummá lesz konvertálva
+1. Töltse le a konvertált JSON fájlt
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) DOCM konvertálása JSON-re a .NET Automation API-n keresztül" %}}
+
+
 1. Nyissa meg a DOCM-fájlt a [Document](https://reference.aspose.com/words/net/aspose.words/document osztály használatával
 2. Alakítsa át a DOCM-t HTML-vé a [Save](https://reference.aspose.com/words/net/aspose.words.documentsave/methods/4) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) osztály használatával
 4. Mentse a dokumentumot JSON formátumba a [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) módszerrel
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
-
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://releases.aspose.com/total/net) webhelyről.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/agp/code-block title="Konvertálja az DOCM-t JSON-re C# .NET-en keresztül" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json.cs" >}}
 
+{{% /blocks/products/pf/agp/code-block %}}
 
-{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="A védett DOCM konvertálása JSON formátumba a C# segítségével" %}}
-Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt DOCM-dokumentum jelszóval védett, nem konvertálhatja azt JSON-formátumba a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban. A következő kódpélda bemutatja, hogyan próbáljon meg jelszóval megnyitni egy titkosított dokumentumot:  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Még néhány eset a(z) DOCM elmentésére a(z) JSON állományba más funkciókkal, mint például az A védett DOCM konvertálása JSON formátumba a C# segítségével, Konvertálja a DOCM-t JSON-ba a tartományban C#-on keresztül.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Konvertálja a DOCM-t JSON-ba a tartományban C#-on keresztül" %}}
-Miközben a DOCM-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátum tartományát is. A tartomány beállításához megnyithatja a konvertált HTML-t a Workbook osztály segítségével, lekérheti az adatokat tartalmazó munkalap CellsCollection-jét, létrehozhat egy tartományt a CellsCollection-ből sor- és oszlopindexek megadásával, és meghívhatja az ExportRangeToJson metódust Range & ExportRangeToJsonOptions objektumokra való hivatkozásokkal. Végül a JSON-adatokat fájlba mentheti a File.WriteAllText metódussal. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>DOCM fájlkonverziós alkalmazás fejlesztése .NET használatával</h2>
 
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
+.NET-alapú szoftveralkalmazást kell fejlesztenie az DOCM fájlok egyszerű mentéséhez és exportálásához JSON dokumentumba?  A [Aspose.Total for .NET](https://products.aspose.com/total/hu/net/) segítségével bármely .NET fejlesztő integrálhatja a fenti API-kódot, hogy programozza a konvertáló alkalmazást különféle formátumokban, beleértve a Microsoft Word, Excel, Powerpoint, PDF, e-mail fájlokat, képeket és más formátumokat.  Erőteljes .NET-könyvtár a dokumentumok konvertálásához, számos népszerű formátumot támogat, beleértve az DOCM formátumot.  A dokumentumok más formátumokba exportálásakor a programozók használhatják az Aspose.Total-t a .NET gyermek API-khoz, beleértve a [Aspose.Words for .NET](https://products.aspose.com/words/hu/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/hu/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/hu/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/hu/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/hu/net/) és egyéb formátumokat.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="DOCM Konverziós könyvtár a .NET-hez" %}}
+
+Három alternatív lehetőség van az Aspose.Total for .NET telepítésére a rendszerre.  Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
+
+- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)-et. Lásd [Dokumentáció](https://docs.aspose.com/total/net/)
+- Telepítse a könyvtárat a Package Manager Console használatával a Visual Studio IDE-ben, például [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) stb.
+- Telepítse a könyvtárat manuálisan a Windows Installer segítségével
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) DOCM mentése a(z) JSON alkalmazáskövetelmények közé" %}}
+
+Termékünk teljes mértékben többplatformos, és támogatja az összes főbb .NET implementációt a „.NET Standard 2.0” specifikációt követve:<br /><br />
+
+- Microsoft .NET-keretrendszer, a legkorábbi 2.0-s verziótól kezdve a legújabb „.NET-keretrendszer 4.8”-ig
+- .NET Core, a legkorábbi 2.0-tól kezdve és a legújabb „.NET 6”-ig
+- Mono >= 2.6.7
+<br />
+Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.  Csak győződjön meg arról, hogy telepítette a .NET-keretrendszer, a .NET Core, a Windows Azure, a Mono vagy a Xamarin megfelelő verzióját.<br />
+C#, F#, VB.NET alkalmazások létrehozásához javasoljuk a Microsoft Visual Studio, Xamarin és MonoDevelop IDE használatát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="GYIK" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>GYIK</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Használhatom a fenti .NET kódot az alkalmazásomban?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Igen, nyugodtan letöltheti ezt a kódot. Könnyen fejleszthet professzionális megoldást az DOCM exportálására és JSON fájlba való mentésére .NET használatával.  Használja az Aspose DOCM to JSON konverziós API-t magas szintű, platformfüggetlen szoftverek fejlesztéséhez .NET-ben.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ez az alkalmazást exportáló dokumentum csak Windows rendszeren működik?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rugalmasan kezdeményezheti a dokumentum exportálását DOCM-ről JSON-re bármilyen eszközről, függetlenül attól, hogy melyik operációs rendszeren fut, legyen az Windows, Linux, Mac OS vagy Android.  Mindössze egy modern webböngészőre és egy aktív internetkapcsolatra van szükség.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Biztonságos az online alkalmazás használata több DOCM dokumentum konvertálására?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Természetesen! A szolgáltatásunkon keresztül generált kimeneti fájlokat 24 órás időkereten belül biztonságosan és automatikusan eltávolítjuk szervereinkről.  Ennek eredményeként az ezekhez a fájlokhoz kapcsolódó letöltési hivatkozások ezen időszak letelte után nem működnek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Milyen böngészőt kell használni az alkalmazáshoz?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bármely modern webböngészőt, például a Google Chrome-ot, a Firefoxot, az Opera-t vagy a Safarit használhatja az online DOCM dokumentumok konvertálásához.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hogyan exportálhatok több DOCM fájlt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Kezdje egy vagy több konvertálni kívánt fájl feltöltésével. Áthúzhatja DOCM fájljait, vagy egyszerűen kattintson a fehér területre.  Ezután kattintson a „Konvertálás” gombra, és online konvertáló alkalmazásunk gyorsan feldolgozza a feltöltött fájlokat.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mennyi ideig tart az DOCM fájlok konvertálása?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ez a konvertáló alkalmazás gyorsan működik, a dokumentum méretétől függően néhány másodpercig vagy tovább is eltarthat a feltöltése és a szükséges formátumba mentése.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

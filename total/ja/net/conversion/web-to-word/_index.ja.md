@@ -1,91 +1,177 @@
 ---
-title: C# を使用した Web スクレイピング - HTML を Word ファイルに変換する 
-description: Aspose API を統合することで、Web サイトの Web ページをスクレイピングし、.NET アプリケーション経由で HTML を Microsoft Word ドキュメントにエクスポートします。 
+title: オンラインで WEB から Word への変換、または WEB ファイルを変換するための .NET ベースのアプリケーションの構築
+description: WEB を Word ファイルに変換する無料オンライン アプリ。WEB ドキュメント用の .NET C# 変換ライブラリ コード。 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による Web スクレイピング" h2=".NET アプリケーション内の Web ページからデータを抽出し、HTML を Microsoft Word ファイルに変換します。" >}}
+{{< blocks/products/pf/feature-page-header h1="オンラインの WEB から Word への変換アプリと WEB ファイルを変換する .NET コード" h2="強力な .NET ベースの WEB 変換およびエクスポート アプリケーションを開発します。 .NET オートメーション API を使用して、単一または複数の WEB ファイルを Word およびその他の形式に変換します。 アプリ経由で即座にダウンロードして、WEB ファイルをオンラインで自由に変換します。" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">Webスクラッチとは何ですか?</h2>
-
-<p>Web スクレイピングは、Web ハーベスティング、データ スクレイピング、Web データ抽出、または Web クローリングとも呼ばれ、Web サイトからデータを抽出するために使用される技術です。 これには、専用のソフトウェアまたはツールを利用して、Web ページから特定の情報を取得する自動プロセスが含まれます。</p><br />
-<p>Web スクレイピング ソフトウェアまたはスクリプトは、人間の閲覧動作をシミュレートし、Web サイトと対話してデータを収集するように設計されています。 これらのツールは、HTTP リクエストを Web サーバーに送信し、HTML または XML レスポンスを取得し、取得したコンテンツから必要なデータ要素を抽出します。</p><br />
-
-<p>抽出されたデータには、特定の要件に応じて、テキスト、画像、表、リンク、価格、製品の詳細、レビューなど、さまざまな種類の情報を含めることができます。 抽出されたデータは通常、さらなる分析、保存、または他のシステムとの統合のために、DOC、DOCX、CSV、JSON、データベースなどの構造化形式で保存されます。</p><br />
-
-<p>Web スクレイピングには多数の用途があり、さまざまな業界で使用されています。 市場調査、競合分析、センチメント分析、価格監視、データ集約、コンテンツスクレイピング、見込み客発掘などに使用できます。</p><br />
-
-<p>ただし、Web スクレイピングは責任を持って倫理的に実行する必要があることに注意することが重要です。 Web サイトの利用規約を尊重し、法的規制を遵守し、プライバシーや知的財産権を侵害する可能性のある活動に従事しないことが重要です。</p>
-
-<h2 class="heading-border">Aspose.HTML を Web スクレイピング API として使用する</h2>
-
-<p>Aspose.Total for .NET の子 API である Aspose.HTML for .NET API を利用すると、HTML ドキュメントからの情報の分析と抽出を伴う独自のアプリケーションを簡単に開発できます。 API は、このプロセスを容易にする堅牢なツールセットを提供します。</p><br />
-
-<p>スクレイパーを構築する場合、データ セレクターは、HTML ファイルから必要な情報を識別して抽出する上で重要な役割を果たします。 通常、これらのセレクターは XPath、CSS セレクター、またはその両方の組み合わせを利用して、HTML 構造内の特定のデータ要素を見つけます。 これらのセレクターは、ドキュメント内を移動し、抽出するデータを正確に指定する手段として機能します。</p>
-
-<h2 class="heading-border">Webスクレイピングのために実行できるタスク</h2>
-
-<p>Aspose.HTML for .NET を利用すると、Web ページからのデータ抽出が簡単に自動化され、開発者は次の Web スクレイピング タスクを効果的に実行できます。</p><br />
-
-1. [HTMLナビゲーション](https://docs.aspose.com/html/net/html-navigation/) - HTML ドキュメントとその要素を徹底的に検査します。 詳細な分析、要素反復のカスタム フィルタリング、CSS セレクターまたは XPath を使用したシームレスなナビゲーションのための機能を提供します。
-2. [ダウンロードウェブサイト](https://docs.aspose.com/html/net/download-website/) - URL から Web サイトをダウンロードし、ダウンロード プロセスをカスタマイズします。 これにより、Web サイト全体をダウンロードするか、特定の Web ページをダウンロードするかを選択し、要件に合わせてプロセスを適応させることができます。
-3. [URLからファイルをダウンロード](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [ウェブサイトから画像をダウンロード](https://docs.aspose.com/html/net/download-images-from-website/) - Web サイトからさまざまな種類の画像をダウンロードします。
-5. [ウェブサイトから SVG をダウンロード](https://docs.aspose.com/html/net/download-svg-from-website/) - C# を使用して Web サイトからスケーラブル ベクター グラフィックス SVG ファイルをダウンロードする
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# を使用して Web データを抽出するにはどうすればよいですか?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="無料のオンライン WEB から Word への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインでWEBをWordファイルに変換する" %}}
+
+1. 変換するWEBファイルをアップロードします
+1. WEBのサイズに応じて数秒以上待ちます
+1. アップロードステータスバーに注意してください
+1. 「変換」ボタンをクリックします
+1. WEB は Word ドキュメントに変換されます
+1. 変換されたWordファイルをダウンロードする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title=".NET Automation API 経由で WEB を Word に変換する" %}}
+
+
 
 1. を活用してください。 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) URL から HTML ドキュメントを初期化するコンストラクター
 2. 使用 [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) メソッドを使用してセレクターを指定し、セレクターに一致するすべての要素を取得します。
 3. 要素のリストをループし、結果を必要な形式で出力します。
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web スクラッチと変換の要件" %}}
-``nuget install Aspose.Total`` としてコマンド ラインからインストールするか、Visual Studio のパッケージ マネージャー コンソールから直接インストールします。
+{{% blocks/products/pf/agp/code-block title="C# .NET 経由で WEB を Word に変換する" offSpacer="" %}}
 
-二 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 子API、 [Aspose.HTML for .NET](https://products.aspose.com/html/net/) と [Aspose.Words for .NET](https://products.aspose.com/words/net/) 統合されることになります。
-
-または、オフライン MSI インストーラーまたは ZIP ファイル内の DLL を次のサイトから入手します。 [ダウンロード](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Words を使用した HTML から Word への変換" %}}
-<p>HTML ファイルをプログラムで Word 形式に変換する必要がある場合は、Aspose.Total の別の子 API である Aspose.Words for .NET がシンプルで効率的なソリューションを提供します。 開発者は、この最新の文書処理 API を使用して、わずか数行の C# コードで HTML を Word に簡単に変換できます。</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Aspose.Words for .NET は、HTML から Word への高速変換を提供し、優れた品質の結果を保証します。ブラウザで直接 HTML から Word への変換をテストすることもできます。 この強力な C# ライブラリは、HTML ファイルのさまざまな一般的な形式への変換をサポートします。</p><br />
-
-<p>Aspose.Words が提供する機能を使用すると、開発者は HTML ファイルを Word 形式にシームレスに変換でき、アプリケーション内の変換プロセスを簡素化できます。</p><br />
-
-<p>C# で HTML を Word に変換するには、次の簡単な手順に従います。:</p><br />
-
-1. スクラップされた HTML ファイルをローカル ドライブから読み取ります。
-1. Word 拡張子を使用して目的のファイル形式を指定し、ファイルを Word として保存します。
-1. HTML の読み取りと Word ドキュメントの書き込みの両方で、完全修飾ファイル名を使用できます。
-1. 作成された Word 文書には、元の HTML ファイルの内容と書式設定が保持されます。
+Aspose.Words を使用した HTML から Word への変換 などの他の機能を使用して WEB を Word に保存するケースがさらにいくつかあります。
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET を使用して WEB ファイル変換アプリケーションを開発する</h2>
+
+WEB ファイルを Word ドキュメントに簡単に保存およびエクスポートするための .NET ベースのソフトウェア アプリケーションを開発する必要がありますか? [Aspose.Total for .NET](https://products.aspose.com/total/ja/net/) を使用すると、.NET 開発者は誰でも上記の API コードを統合して、Microsoft Word、Excel、Powerpoint、PDF、電子メール ファイル、画像、その他の形式を含むさまざまな形式にわたる変換アプリケーションをプログラムできます。 ドキュメント変換用の強力な .NET ライブラリ。WEB 形式を含む多くの一般的な形式をサポートします。 ドキュメントを他の形式にエクスポートする場合、プログラマーは [Aspose.Words for .NET](https://products.aspose.com/words/ja/net/)、[Aspose.Cells for .NET](https://products.aspose.com/cells/ja/net/)、[Aspose.Slides for .NET](https://products.aspose.com/slides/ja/net/)、[Aspose.PDF for .NET](https://products.aspose.com/pdf/ja/net/)、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ja/net/) などの Aspose.Total for .NET 子 API を使用できます。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET 用変換ライブラリ" %}}
+
+Aspose.Total for .NET をシステムにインストールするには、3 つの代替オプションがあります。 ニーズに似たものを選択し、ステップバイステップの指示に従ってください。<br /><br />
+
+- [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)をインストールします。[ドキュメント](https://docs.aspose.com/total/net/)を参照してください
+- Visual Studio IDE 内で [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) などの子 API を選択して、パッケージ マネージャー コンソールを使用してライブラリをインストールします。
+- Windowsインストーラーを使用してライブラリを手動でインストールする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB を Word に保存するアプリの要件" %}}
+
+当社製品は完全にクロスプラットフォームであり、「.NET Standard 2.0」仕様に準拠したすべての主要な .NET 実装をサポートしています。<br /><br />
+
+- Microsoft .NET Framework、最も古いバージョン 2.0 から始まり、最新の「.NET Framework 4.8」まで
+- .NET Core は、最も古い 2.0 から始まり、最新の '.NET 6' で終わります。
+- モノラル >= 2.6.7
+<br />
+.NET コードは基盤となるハードウェアやオペレーティング システムに依存せず、仮想マシンのみに依存するため、Windows、macOS、Android、iOS、Linux 向けのあらゆる種類のソフトウェアを自由に開発できます。 .NET Framework、.NET Core、Windows Azure、Mono、または Xamarin の対応するバージョンがインストールされていることを確認してください。<br />
+C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visual Studio、Xamarin、MonoDevelop IDE を使用することをお勧めします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="よくある質問" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>よくある質問</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>上記の .NET コードをアプリケーションで使用できますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">はい、このコードをダウンロードしていただけます。.NET を使用して、WEB を Word ファイルにエクスポートして保存するプロフェッショナルなソリューションを簡単に開発できます。 Aspose WEB から Word への変換 API を使用して、.NET で高レベルのプラットフォームに依存しないソフトウェアを開発します。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>このドキュメントエクスポートアプリは Windows でのみ動作しますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Windows、Linux、Mac OS、Android など、どのオペレーティング システムで実行されているかに関係なく、どのデバイスからでも WEB から Word へのドキュメントのエクスポートを開始できる柔軟性があります。 必要なのは、最新の Web ブラウザとアクティブなインターネット接続だけです。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>オンライン アプリを使用して複数の WEB ドキュメントを変換するのは安全ですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">もちろんです! 当社のサービスを通じて生成された出力ファイルは、24 時間以内に当社サーバーから安全かつ自動的に削除されます。 その結果、これらのファイルに関連付けられたダウンロード リンクは、この期間を過ぎると機能しなくなります。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>アプリを使用するにはどのブラウザが必要ですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">オンラインでの WEB ドキュメント変換には、Google Chrome、Firefox、Opera、Safari などの最新の Web ブラウザを使用できます。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>複数の WEB ファイルをエクスポートするにはどうすればよいですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">まず、変換したい 1 つ以上のファイルをアップロードします。WEB ファイルをドラッグ アンド ドロップするか、白い領域内をクリックするだけです。 その後、「変換」ボタンをクリックすると、オンライン変換アプリがアップロードされたファイルをすぐに処理します。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB ファイルの変換にはどのくらい時間がかかりますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">この変換アプリケーションは高速に動作しますが、ドキュメントのサイズによっては、アップロードして必要な形式で保存するまでに数秒以上かかる場合があります。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

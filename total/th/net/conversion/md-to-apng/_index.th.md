@@ -1,7 +1,7 @@
 ---
-title: แปลง MD เป็น APNG ผ่าน C# API
-description: ส่งออก MD เป็น APNG ในแอปพลิเคชัน .NET ของคุณโดยไม่ต้องใช้แอปพลิเคชันของบุคคลที่สาม
-url_ignore: /th/net/conversion/md-to-apng/
+title: การแปลง MD ออนไลน์เป็น APNG หรือสร้างแอปพลิเคชันที่ใช้ .NET เพื่อแปลงไฟล์ MD
+description: แอปออนไลน์ฟรีสำหรับแปลงไฟล์ MD เป็น APNG รหัสไลบรารีการแปลง .NET C# สำหรับเอกสาร MD 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,56 +10,169 @@ outformat: APNG
 otherformats: IMAGE WMZ WMF SVGZ  TGA JPEG2000 DXF EMZ PSD DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลงไฟล์ MD เป็น APNG ผ่าน C#" h2="ส่งออก MD เป็น APNG ภายในแอปพลิเคชัน .NET โดยไม่ต้องใช้ Adobe<sup>&reg;</sup> Acrobat Reader หรือแอปพลิเคชันบุคคลที่สามอื่นๆ" >}}
+{{< blocks/products/pf/feature-page-header h1="แอปแปลง MD เป็น APNG ออนไลน์และโค้ด .NET เพื่อแปลงไฟล์ MD" h2="พัฒนาแอปพลิเคชั่นการแปลงและการส่งออก MD ที่มีประสิทธิภาพบนพื้นฐาน .NET แปลงไฟล์ MD เดียวหรือหลายไฟล์เป็น APNG และรูปแบบอื่นๆ ผ่านทาง API อัตโนมัติของ .NET แปลงไฟล์ MD ออนไลน์ได้อย่างอิสระผ่านแอปพร้อมดาวน์โหลดทันที" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-การใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถส่งออก MD ไปยังรูปภาพ APNG ภายในแอปพลิเคชัน .NET ได้ง่ายๆ ในสองขั้นตอนง่ายๆ ก่อนอื่น ด้วยการใช้ [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) คุณสามารถส่งออก MD เป็น JPEG ได้ หลังจากนั้น ด้วยการใช้ [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API คุณสามารถแปลง JPEG เป็น APNG ได้
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="แปลงไฟล์ MD เป็น APNG ผ่าน .NET" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="แอปแปลง MD เป็น APNG ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=apng&from=md" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="แปลงไฟล์ MD เป็น APNG ออนไลน์โดยใช้แอป" %}}
+
+1. อัพโหลดไฟล์ MD เพื่อแปลง
+1. รอสักครู่หรือมากกว่านั้น ขึ้นอยู่กับขนาดของ MD
+1. คอยดูแถบสถานะการอัปโหลด
+1. คลิกปุ่ม "แปลง"
+1. MD จะถูกแปลงเป็นเอกสาร APNG
+1. ดาวน์โหลดไฟล์ APNG ที่แปลงแล้ว
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="แปลง MD เป็น APNG ผ่านทาง .NET Automation API" %}}
+
+
 1. เปิดไฟล์ MD โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. เริ่มต้น [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) วัตถุคลาสและแสดง MD เป็น JPEG โดยใช้ [กระบวนการ](https://apireference.aspose com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) วิธี
 3. โหลดไฟล์ JPEG โดยใช้คลาส [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
 4. บันทึกเอกสารในรูปแบบ APNG โดยใช้วิธี [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.Total``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total```
-
-หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/net)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/agp/code-block title="แปลง MD เป็น APNG ผ่าน C# .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-image.cs" >}}
 
+{{% /blocks/products/pf/agp/code-block %}}
 
-{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-C#
-{{% blocks/products/pf/feature-page-section  h2="แปลงไฟล์ MD เป็น APNG ในไฟล์เดียวผ่าน C#" %}}
-เมื่อใช้ API คุณยังสามารถแปลงไฟล์ MD เป็น APNG เป็นไฟล์รูปภาพเดียวได้ ในการแปลงหน้าทั้งหมด ก่อนอื่นคุณสามารถแสดงเอกสาร MD ของคุณเป็นไฟล์ TIFF หนึ่งไฟล์ และหลังจากนั้นคุณสามารถส่งออกไฟล์ TIFF ไปยัง APNG ได้ คุณสามารถเปิดไฟล์อินพุตได้โดยใช้คลาส [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) และสร้างอ็อบเจ็กต์อุปกรณ์ Resolution, TiffSettings และ TIFF คุณสามารถรับรูปภาพ TIFF เดียวได้โดยใช้วิธี [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.documentdevice/process/methods/3) ของวิธี [TiffDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/tiffdevice) คลาส สุดท้าย คุณสามารถโหลดไฟล์ TIFF โดยใช้คลาส [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)
-และบันทึกเป็นรูปแบบ APNG โดยใช้วิธี [บันทึก](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก MD ไปยัง APNG พร้อมด้วยฟีเจอร์อื่นๆ เช่น แปลงไฟล์ MD เป็น APNG ในไฟล์เดียวผ่าน C#, แปลงและหมุนไฟล์ MD เป็น APNG ผ่าน C#
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-pdf-to-single-file.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}C#
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="แปลงและหมุนไฟล์ MD เป็น APNG ผ่าน C#" %}}
-เมื่อใช้ API คุณยังสามารถหมุนอิมเมจ APNG ที่ส่งออกได้ตามความต้องการของคุณ วิธี Image.RotateFlip สามารถใช้หมุนภาพได้ 90/180/270 องศา แล้วพลิกภาพในแนวนอนหรือแนวตั้ง คุณสามารถระบุประเภทของการหมุนและพลิกเพื่อใช้กับรูปภาพได้ ในการหมุนและพลิกภาพ คุณสามารถโหลดภาพ JPEG ที่แปลงแล้วโดยใช้วิธีการจากโรงงานที่แสดงโดยคลาส [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) และเรียก Image วิธี .RotateFlip ขณะระบุ [RotateFlipType](https://reference.aspose.com/imaging/net/aspose.imaging/rotatefliptype) ที่เหมาะสม 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>พัฒนาแอปพลิเคชันการแปลงไฟล์ MD โดยใช้ .NET</h2>
 
-{{< gist "aspose-com-gists" "2f2f0deee186feb29f805d4b26625caf" "convert-and-rotate-pdf-to-image.cs" >}}
+ต้องการพัฒนาแอปพลิเคชันซอฟต์แวร์บนพื้นฐาน .NET เพื่อบันทึกและส่งออกไฟล์ MD ไปยังเอกสาร APNG ได้อย่างง่ายดายหรือไม่ ด้วย [Aspose.Total for .NET](https://products.aspose.com/total/th/net/) นักพัฒนา .NET ทุกคนสามารถรวมโค้ด API ข้างต้นเพื่อเขียนโปรแกรมแอปพลิเคชันการแปลงไฟล์ในรูปแบบต่างๆ รวมถึง Microsoft Word, Excel, Powerpoint, PDF, ไฟล์อีเมล, รูปภาพ และรูปแบบอื่นๆ ไลบรารี .NET ที่ทรงพลังสำหรับการแปลงเอกสาร รองรับรูปแบบยอดนิยมมากมาย รวมถึงรูปแบบ MD ในการส่งออกเอกสารไปยังรูปแบบอื่น โปรแกรมเมอร์สามารถใช้ Aspose.Total สำหรับ API ย่อยของ .NET รวมถึง [Aspose.Words for .NET](https://products.aspose.com/words/th/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/th/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/th/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/th/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/th/net/) และอื่นๆ อีกมากมาย<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการแปลง MD สำหรับ .NET" %}}
+
+มีสามทางเลือกในการติดตั้ง Aspose.Total สำหรับ .NET ลงบนระบบของคุณ กรุณาเลือกสิ่งที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
+
+- ติดตั้ง [NuGet Package](https://www.nuget.org/packages/Aspose.Total/) ดู [เอกสารประกอบ](https://docs.aspose.com/total/net/)
+- ติดตั้งไลบรารีโดยใช้ Package Manager Console เมื่อเลือก API ย่อยใน Visual Studio IDE เช่น [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) เป็นต้น
+- ติดตั้งไลบรารีด้วยตนเองโดยใช้ Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="การบันทึก MD ไปยังข้อกำหนดแอป APNG" %}}
+
+ผลิตภัณฑ์ของเรารองรับหลายแพลตฟอร์มและรองรับการใช้งาน .NET หลักทั้งหมดตามข้อกำหนด '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET Framework 4.8' ล่าสุด
+- .NET Core เริ่มตั้งแต่เวอร์ชัน 2.0 แรกสุดและลงท้ายด้วย '.NET 6' ล่าสุด
+- โมโน >= 2.6.7
+<br />
+เนื่องจากโค้ด .NET ไม่ต้องพึ่งพาฮาร์ดแวร์หรือระบบปฏิบัติการพื้นฐาน แต่ขึ้นอยู่กับเครื่องเสมือนเท่านั้น ดังนั้นคุณจึงสามารถพัฒนาซอฟต์แวร์ประเภทใดก็ได้สำหรับ Windows, macOS, Android, iOS และ Linux เพียงตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin เวอร์ชันที่สอดคล้องกันแล้ว<br />
+เราขอแนะนำให้ใช้ Microsoft Visual Studio, Xamarin และ MonoDevelop IDE ในการสร้างแอปพลิเคชัน C#, F#, VB.NET
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="คำถามที่พบบ่อย" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>คำถามที่พบบ่อย</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันสามารถใช้โค้ด .NET ข้างต้นในแอปพลิเคชันของฉันได้หรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">ใช่ คุณสามารถดาวน์โหลดโค้ดนี้ได้ คุณสามารถพัฒนาโซลูชันระดับมืออาชีพเพื่อส่งออกและบันทึก MD ไปยังไฟล์ APNG โดยใช้ .NET ได้อย่างง่ายดาย ใช้ Aspose MD เป็น API การแปลง APNG เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน .NET</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>เอกสารนี้ส่งออกงานแอปเฉพาะบน Windows เท่านั้นใช่หรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณมีความยืดหยุ่นในการเริ่มส่งออกเอกสารจาก MD ไปยัง APNG จากอุปกรณ์ใดๆ โดยไม่คำนึงถึงระบบปฏิบัติการที่ใช้งาน ไม่ว่าจะเป็น Windows, Linux, Mac OS หรือ Android สิ่งที่ต้องมีคือเว็บเบราว์เซอร์สมัยใหม่และการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>การใช้แอปออนไลน์เพื่อแปลงเอกสาร MD หลายเอกสารปลอดภัยหรือไม่</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แน่นอน! ไฟล์เอาท์พุตที่สร้างขึ้นผ่านบริการของเราจะถูกลบออกจากเซิร์ฟเวอร์ของเราอย่างปลอดภัยและอัตโนมัติภายในระยะเวลา 24 ชั่วโมง ส่งผลให้ลิงก์ดาวน์โหลดไฟล์เหล่านี้จะไม่สามารถใช้งานได้อีกหลังจากช่วงเวลานี้</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ควรใช้แอปผ่านเบราว์เซอร์ใด?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">คุณสามารถใช้เว็บเบราว์เซอร์สมัยใหม่ เช่น Google Chrome, Firefox, Opera หรือ Safari เพื่อแปลงเอกสาร MD ออนไลน์</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ฉันจะส่งออกไฟล์ MD หลายไฟล์ได้อย่างไร</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">เริ่มต้นโดยอัปโหลดไฟล์หนึ่งไฟล์หรือมากกว่านั้นที่คุณต้องการแปลง คุณสามารถลากและวางไฟล์ MD ของคุณหรือเพียงแค่คลิกภายในพื้นที่สีขาว จากนั้นคลิกปุ่ม 'แปลง' แล้วแอปแปลงออนไลน์ของเราจะประมวลผลไฟล์ที่อัปโหลดอย่างรวดเร็ว</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>ใช้เวลาในการแปลงไฟล์ MD นานเท่าใด/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">แอปพลิเคชันการแปลงนี้ทำงานได้อย่างรวดเร็ว อาจใช้เวลาไม่กี่วินาทีหรือมากกว่านั้น ขึ้นอยู่กับขนาดเอกสารในการอัปโหลดและบันทึกเป็นรูปแบบที่ต้องการ</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

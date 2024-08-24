@@ -1,89 +1,175 @@
 ---
-title: Webkaparás C# használatával - HTML konvertálása Word fájlba 
-description: Az Aspose API-k integrálásával .NET-alkalmazásai segítségével weboldalak weboldalait kaparhatja ki, valamint HTML-t exportálhat Microsoft Word dokumentumokba. 
+title: Online WEB konvertálás Word formátumba vagy .NET alapú alkalmazás létrehozása WEB fájlok konvertálásához
+description: Ingyenes online alkalmazás az WEB fájl Word fájlokká konvertálásához. .NET C# konverziós könyvtár kódja az WEB dokumentumokhoz.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: WORD
+outformat: Word
 otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Webkaparás C#-on keresztül" h2="Kivonja az adatokat a weboldalakról a .NET-alkalmazásokon belül, és konvertálja a HTML-t Microsoft Word-fájlokká." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB konvertáló alkalmazás Word formátumba és .NET kód az WEB fájlok konvertálásához" h2="Hatékony .NET alapú WEB konvertáló és exportáló alkalmazás fejlesztése.  Egyetlen vagy több WEB fájl konvertálása Word és más formátumokba a .NET automatizálási API-n keresztül.  Ingyenesen konvertálhat WEB fájlokat online az alkalmazáson keresztül, azonnali letöltéssel." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2 class="heading-border">Mi az a webes selejtezés?</h2>
-
-<p>A webkaparás, más néven webbegyűjtés, adatlekopás, webes adatkinyerés vagy webes feltérképezés, egy olyan technika, amellyel adatokat nyernek ki a webhelyekről. Ez magában foglalja a konkrét információk weboldalakról történő lekérésének automatizált folyamatát speciális szoftverek vagy eszközök használatával.</p><br />
-<p>A webkaparó szoftvereket vagy szkripteket úgy tervezték, hogy szimulálják az emberi böngészési viselkedést, és interakcióba lépjenek a webhelyekkel, hogy adatokat gyűjtsenek. Ezek az eszközök HTTP-kéréseket küldenek a webszervereknek, lekérik a HTML- vagy XML-válaszokat, majd kivonják a kívánt adatelemeket a letöltött tartalomból.</p><br />
-
-<p>A kinyert adatok a konkrét követelményektől függően különféle típusú információkat tartalmazhatnak, például szöveget, képeket, táblázatokat, linkeket, árakat, termékadatokat, véleményeket stb. A kinyert adatokat jellemzően strukturált formátumban, például DOC, DOCX, CSV, JSON vagy adatbázisban mentik el további elemzés, tárolás vagy más rendszerekkel való integráció céljából.</p><br />
-
-<p>A webkaparásnak számos alkalmazása van, és számos iparágban használják. Használható piackutatáshoz, versenyelemzéshez, hangulatelemzéshez, árfigyeléshez, adatösszesítéshez, tartalom lekaparásához, lead generálásához és még sok máshoz.</p><br />
-
-<p>Fontos azonban megjegyezni, hogy a webkaparást felelősségteljesen és etikusan kell végezni. Alapvető fontosságú a webhelyek szolgáltatási feltételeinek tiszteletben tartása, a törvényi előírások betartása, és nem szabad olyan tevékenységeket folytatni, amelyek sérthetik a magánélethez vagy a szellemi tulajdonhoz fűződő jogokat.</p>
-
-<h2 class="heading-border">Az Aspose.HTML használata Web Scrapping API-ként</h2>
-
-<p>Az Aspose.HTML for .NET API segítségével, amely az Aspose.Total .NET-hez alárendelt API-ja, könnyedén fejlesztheti saját alkalmazásait, amelyek magukban foglalják a HTML-dokumentumok elemzését és kinyerését. Az API egy robusztus eszközkészletet kínál, amely megkönnyíti ezt a folyamatot.</p><br />
-
-<p>A lehúzó felépítése során az adatválasztók döntő szerepet játszanak a kívánt információk azonosításában és HTML-fájlokból való kinyerésében. Ezek a szelektorok általában XPath-ot, CSS-szelektorokat vagy mindkettő kombinációját használják az adott adatelemek megtalálásához a HTML-struktúrán belül. Ezek a kiválasztók a dokumentumban való navigáláshoz és a kivonni kívánt adatok pontos meghatározásához szolgálnak.</p>
-
-<h2 class="heading-border">A webes selejtezéshez végrehajtható feladatok</h2>
-
-<p>Az Aspose.HTML for .NET használatával könnyedén automatizálhatja az adatok kinyerését a weboldalakról, és a fejlesztők hatékonyan hajthatják végre a következő webkaparási feladatokat.</p><br />
-
-1. [HTML navigáció](https://docs.aspose.com/html/net/html-navigation/) - Végezze el a HTML dokumentumok és elemeik alapos vizsgálatát. Funkciókat biztosít a részletes elemzéshez, egyéni szűrést az elemek iterációjához, és zökkenőmentes navigációt CSS Selectors vagy XPath segítségével.
-2. [Webhely letöltése](https://docs.aspose.com/html/net/download-website/) - Webhelyek letöltése URL-ekről, és testreszabhatja a letöltési folyamatot. Ez lehetővé teszi, hogy a teljes webhely vagy bizonyos weboldalak letöltése között válasszon, a folyamatot az Ön igényeihez igazítva.
-3. [Fájlok letöltése az URL-ről](https://docs.aspose.com/html/net/download-file-from-url/) 
-4. [Képek letöltése a webhelyről](https://docs.aspose.com/html/net/download-images-from-website/) - Különféle képek letöltése webhelyekről.
-5. [Töltse le az SVG-t a webhelyről](https://docs.aspose.com/html/net/download-svg-from-website/) - Scalable Vector Graphics SVG fájlok letöltése egy webhelyről C# használatával
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet webes adatokat kivonni C# használatával?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ingyenes online WEB–Word konverziós alkalmazás" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertálja az WEB fájlokat Word fájlokká online az alkalmazás segítségével" %}}
+
+1. Töltse fel a konvertálandó WEB fájlokat
+1. Várjon néhány másodpercet vagy többet az WEB méretétől függően
+1. Tartsa szemmel a feltöltési állapotsort
+1. Kattintson a "Konvertálás" gombra
+1. Az WEB Word dokumentummá lesz konvertálva
+1. Töltse le a konvertált Word fájlt
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) WEB konvertálása Word-re a .NET Automation API-n keresztül" %}}
+
+
 
 1. Használja ki a [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor HTML-dokumentum URL-ből történő inicializálásához
 2. Használja a [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) módszerrel megadhat egy választót, és lekérheti a választónak megfelelő összes elemet.
 3. Lapozzon át az elemek listáján, és adja ki az eredményt a kívánt formátumban.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Webes selejtezési és átalakítási követelmények" %}}
-Telepítse parancssorból ```nuget install Aspose.Total``` néven, vagy telepítse közvetlenül a Visual Studio Package Manager konzoljából.
+{{% blocks/products/pf/agp/code-block title="Konvertálja az WEB-t Word-re C# .NET-en keresztül" offSpacer="" %}}
 
-Kettő [Aspose.Total for .NET](https://products.aspose.com/total/net/) gyermek API-k, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) és [Aspose.Words for .NET](https://products.aspose.com/words/net/) integrálni fogják.
-
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Az Aspose.Words használata a HTML-ből Word-be való konvertáláshoz" %}}
-<p>Ha programozottan kell konvertálnia a HTML-fájlokat Word formátumba, az Aspose.Words for .NET, az Aspose.Total másik gyermek API-ja egyszerű és hatékony megoldást kínál. Néhány sornyi C# kóddal a fejlesztők könnyedén konvertálhatják a HTML-t Word-be ezzel a modern dokumentum-feldolgozó API-val.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Az Aspose.Words for .NET nagysebességű HTML-formátumú konvertálást kínál Word-be, kiváló minőségű eredményeket biztosítva. Akár közvetlenül a böngészőben is tesztelheti a HTML-Word konvertálást. Ez a nagy teljesítményű C#-könyvtár támogatja a HTML-fájlok különféle népszerű formátumokba konvertálását.</p><br />
-
-<p>Az Aspose.Words által biztosított lehetőségekkel a fejlesztők zökkenőmentesen konvertálhatják a HTML fájlokat Word formátumba, leegyszerűsítve az átalakítási folyamatot alkalmazásaikban.</p><br />
-
-<p>Ha a HTML-t Word-be szeretné konvertálni C# nyelven, kövesse ezeket az egyszerű lépéseket:</p><br />
-
-1. Olvassa el a kiselejtezett HTML-fájlt a helyi meghajtóról.
-1. Mentse el a fájlt Word néven, és adja meg a kívánt fájlformátumot a Word kiterjesztéssel.
-1. Mind a HTML olvasásához, mind a Word-dokumentum írásához használhat teljesen minősített fájlneveket.
-1. Az eredményül kapott Word-dokumentum megőrzi az eredeti HTML-fájl tartalmát és formázását.
+Még néhány eset a(z) WEB elmentésére a(z) Word állományba más funkciókkal, mint például az Az Aspose.Words használata a HTML-ből Word-be való konvertáláshoz.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>WEB fájlkonverziós alkalmazás fejlesztése .NET használatával</h2>
+
+.NET-alapú szoftveralkalmazást kell fejlesztenie az WEB fájlok egyszerű mentéséhez és exportálásához Word dokumentumba?  A [Aspose.Total for .NET](https://products.aspose.com/total/hu/net/) segítségével bármely .NET fejlesztő integrálhatja a fenti API-kódot, hogy programozza a konvertáló alkalmazást különféle formátumokban, beleértve a Microsoft Word, Excel, Powerpoint, PDF, e-mail fájlokat, képeket és más formátumokat.  Erőteljes .NET-könyvtár a dokumentumok konvertálásához, számos népszerű formátumot támogat, beleértve az WEB formátumot.  A dokumentumok más formátumokba exportálásakor a programozók használhatják az Aspose.Total-t a .NET gyermek API-khoz, beleértve a [Aspose.Words for .NET](https://products.aspose.com/words/hu/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/hu/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/hu/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/hu/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/hu/net/) és egyéb formátumokat.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Konverziós könyvtár a .NET-hez" %}}
+
+Három alternatív lehetőség van az Aspose.Total for .NET telepítésére a rendszerre.  Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
+
+- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)-et. Lásd [Dokumentáció](https://docs.aspose.com/total/net/)
+- Telepítse a könyvtárat a Package Manager Console használatával a Visual Studio IDE-ben, például [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) stb.
+- Telepítse a könyvtárat manuálisan a Windows Installer segítségével
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) WEB mentése a(z) Word alkalmazáskövetelmények közé" %}}
+
+Termékünk teljes mértékben többplatformos, és támogatja az összes főbb .NET implementációt a „.NET Standard 2.0” specifikációt követve:<br /><br />
+
+- Microsoft .NET-keretrendszer, a legkorábbi 2.0-s verziótól kezdve a legújabb „.NET-keretrendszer 4.8”-ig
+- .NET Core, a legkorábbi 2.0-tól kezdve és a legújabb „.NET 6”-ig
+- Mono >= 2.6.7
+<br />
+Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.  Csak győződjön meg arról, hogy telepítette a .NET-keretrendszer, a .NET Core, a Windows Azure, a Mono vagy a Xamarin megfelelő verzióját.<br />
+C#, F#, VB.NET alkalmazások létrehozásához javasoljuk a Microsoft Visual Studio, Xamarin és MonoDevelop IDE használatát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="GYIK" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>GYIK</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Használhatom a fenti .NET kódot az alkalmazásomban?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Igen, nyugodtan letöltheti ezt a kódot. Könnyen fejleszthet professzionális megoldást az WEB exportálására és Word fájlba való mentésére .NET használatával.  Használja az Aspose WEB to Word konverziós API-t magas szintű, platformfüggetlen szoftverek fejlesztéséhez .NET-ben.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ez az alkalmazást exportáló dokumentum csak Windows rendszeren működik?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rugalmasan kezdeményezheti a dokumentum exportálását WEB-ről Word-re bármilyen eszközről, függetlenül attól, hogy melyik operációs rendszeren fut, legyen az Windows, Linux, Mac OS vagy Android.  Mindössze egy modern webböngészőre és egy aktív internetkapcsolatra van szükség.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Biztonságos az online alkalmazás használata több WEB dokumentum konvertálására?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Természetesen! A szolgáltatásunkon keresztül generált kimeneti fájlokat 24 órás időkereten belül biztonságosan és automatikusan eltávolítjuk szervereinkről.  Ennek eredményeként az ezekhez a fájlokhoz kapcsolódó letöltési hivatkozások ezen időszak letelte után nem működnek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Milyen böngészőt kell használni az alkalmazáshoz?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bármely modern webböngészőt, például a Google Chrome-ot, a Firefoxot, az Opera-t vagy a Safarit használhatja az online WEB dokumentumok konvertálásához.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hogyan exportálhatok több WEB fájlt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Kezdje egy vagy több konvertálni kívánt fájl feltöltésével. Áthúzhatja WEB fájljait, vagy egyszerűen kattintson a fehér területre.  Ezután kattintson a „Konvertálás” gombra, és online konvertáló alkalmazásunk gyorsan feldolgozza a feltöltött fájlokat.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mennyi ideig tart az WEB fájlok konvertálása?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ez a konvertáló alkalmazás gyorsan működik, a dokumentum méretétől függően néhány másodpercig vagy tovább is eltarthat a feltöltése és a szükséges formátumba mentése.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

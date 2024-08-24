@@ -1,7 +1,7 @@
 ---
-title: API .NET para convertir MOBI a DIF o con el convertidor en línea gratuito
-description: API de C# para convertir MOBI a DIF o aplicación en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de MOBI a DIF rápidamente antes de integrar el código. 
-url_ignore: /es/net/conversion/mobi-to-dif/
+title: Conversión en línea de MOBI a DIF o creación de una aplicación basada en .NET para convertir archivos MOBI
+description: Aplicación en línea gratuita para convertir archivos MOBI a DIF. Código de biblioteca de conversión .NET C# para documentos MOBI. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,111 +10,168 @@ outformat: DIF
 otherformats: XLTM DIF XLSB FODS TSV XLS XLAM XLT XLSX SXC XLSM ODS XLTX EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir MOBI a DIF o aplicación en línea" h2="Exporte MOBI a DIF a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Aplicación de conversión de MOBI a DIF en línea y código .NET para convertir archivos MOBI" h2="Desarrollar una potente aplicación de conversión y exportación MOBI basada en .NET. Convierta archivos MOBI individuales o múltiples a DIF y otros formatos a través de la API de automatización .NET. Convierta libremente archivos MOBI en línea a través de la aplicación con descarga instantánea." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), puede incluir la función de conversión de MOBI a DIF dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos sencillos pasos. En primer lugar, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede exportar MOBI a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a DIF.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API .NET para convertir MOBI a DIF" %}}
-1. Abra el archivo MOBI usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)
-2. Convierta MOBI a HTML usando el método [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
-3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Guarde el mobiumento en formato DIF usando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `DIF` como SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Instale desde la línea de comandos como ```nuget install Aspose.Total``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total```.
-
-Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Convertidor en línea gratuito para MOBI a DIF</h3>
-
-<iframe title="Herramienta de conversión de dif a mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Aplicación gratuita de conversión de MOBI a DIF en línea" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cargar mobiumento MOBI desde Stream a través de C#" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar mobiumentos MOBI a través de la transmisión. Para abrir un mobiumento desde una secuencia, simplemente pase un objeto de secuencia que contenga el mobiumento al constructor [Document](https://reference.aspose.com/words/net/aspose.words/mobiument). El siguiente ejemplo de código muestra cómo abrir un mobiumento desde una secuencia:  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convierte archivos MOBI a DIF en línea usando la aplicación" %}}
+
+1. Subir archivos MOBI para convertir
+1. Espere unos segundos o más según el tamaño de MOBI
+1. Esté atento a la barra de estado de carga
+1. Haga clic en el botón "Convertir"
+1. MOBI se convertirá en un documento DIF
+1. Descargue el archivo DIF convertido
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convertir MOBI a DIF mediante la API de automatización .NET" %}}
+
+
+1. Abra el archivo MOBI usando la clase [Document](https://reference.aspose.com/words/net/aspose.words/mobiument)
+2. Convierta MOBI a HTML usando el método [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4)
+3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Guarde el mobiumento en formato DIF usando el método [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) y configure `DIF` como SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Convertir MOBI a DIF mediante C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Algunos casos más para guardar MOBI en DIF con otras funciones como Cargar mobiumento MOBI desde Stream a través de C#, Agregue propiedades personalizadas en un archivo DIF a través de C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Agregue propiedades personalizadas en un archivo DIF a través de C#" %}}
-Al convertir MOBI a DIF, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) le permite agregar propiedades personalizadas en sus mobiumentos DIF. Para agregar una propiedad personalizada, puede usar el método [Add](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection/methods/add/index) para la [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection) clase. El método Add agrega la propiedad al archivo de Excel y devuelve una referencia para la propiedad del nuevo mobiumento como [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties /propiedadmobiumento) objeto. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Desarrollar una aplicación de conversión de archivos MOBI utilizando .NET</h2>
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+¿Necesita desarrollar una aplicación de software basada en .NET para guardar y exportar fácilmente archivos MOBI a documentos DIF? Con [Aspose.Total for .NET](https://products.aspose.com/total/es/net/), cualquier desarrollador .NET puede integrar el código API anterior para programar la aplicación de conversión en una variedad de formatos, incluidos Microsoft Word, Excel, Powerpoint, PDF, archivos de correo electrónico, imágenes y otros formatos. Potente biblioteca .NET para conversión de documentos, admite muchos formatos populares, incluido el formato MOBI. Al exportar documentos a otros formatos, los programadores pueden usar Aspose.Total para las API secundarias de .NET, incluidas [Aspose.Words for .NET](https://products.aspose.com/words/es/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/es/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/es/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/es/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/es/net/) y más.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Biblioteca de conversión MOBI para .NET" %}}
+
+Hay tres opciones alternativas para instalar Aspose.Total para .NET en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:<br /><br />
+
+- Instalar una [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Ver [Documentación](https://docs.aspose.com/total/net/)
+- Instale la biblioteca mediante la consola del administrador de paquetes a partir de su selección de API secundaria dentro de Visual Studio IDE como [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), etc.
+- Instalar la biblioteca manualmente usando Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de la aplicación para guardar MOBI en DIF" %}}
+
+Nuestro producto es totalmente multiplataforma y admite todas las principales implementaciones de .NET que siguen la especificación '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, desde la primera versión 2.0 hasta la última versión .NET Framework 4.8
+- .NET Core, desde la primera versión 2.0 hasta la última versión .NET 6
+- Mono >= 2.6.7
+<br />
+Como el código .NET no depende del hardware ni del sistema operativo subyacente, sino únicamente de una máquina virtual, usted es libre de desarrollar cualquier tipo de software para Windows, macOS, Android, iOS y Linux. Solo asegúrate de tener instalada la versión correspondiente de .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.<br />
+Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para crear aplicaciones C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Preguntas frecuentes" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
               <h2>Preguntas frecuentes</h2>
-              <ul>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>¿Cómo puedo convertir MOBI a DIF en línea?</b></span>
+                          <span itemprop="name"><b>¿Puedo utilizar el código .NET anterior en mi aplicación?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La aplicación en línea para la conversión de MOBI está integrada arriba. En primer lugar, debe agregar el archivo MOBI para la conversión arrastrando y amp; suelte o haga clic dentro del área blanca para importar el documento. Luego haga clic en el botón Convertir. Cuando se completa la conversión de MOBI a DIF, puede descargar su archivo convertido. Entonces obtendrá archivos DIF de salida con solo un clic.</span>
+                          <span itemprop="text">Sí, puedes descargar este código. Se puede desarrollar fácilmente una solución profesional para exportar y guardar MOBI en un archivo DIF usando .NET. Utilice la API de conversión de Aspose MOBI a DIF para desarrollar software de alto nivel independiente de la plataforma en .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>¿Cuánto tiempo lleva convertir MOBI?</b></span>
+                          <span itemprop="name"><b>¿Esta aplicación de exportación de documentos funciona solo en Windows?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este convertidor en línea funciona rápido pero depende principalmente del tamaño del archivo MOBI. Puede convertir archivos MOBI de tamaño pequeño a DIF en unos segundos. Además, si ha integrado el código de conversión dentro de la aplicación .NET, depende de cómo haya optimizado su aplicación para el proceso de conversión.</span>
+                          <span itemprop="text">Tiene la flexibilidad de iniciar la exportación de documentos de MOBI a DIF desde cualquier dispositivo, independientemente del sistema operativo en el que se ejecute, ya sea Windows, Linux, Mac OS o Android. Todo lo que se requiere es un navegador web moderno y una conexión a Internet activa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>¿Es seguro convertir MOBI a DIF usando el convertidor gratuito Aspose.Total?</b></span>
+                          <span itemprop="name"><b>¿Es seguro utilizar la aplicación en línea para convertir varios documentos MOBI?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">¡Por supuesto! El enlace de descarga de archivos DIF estará disponible instantáneamente después de la conversión. Eliminamos los archivos cargados después de 24 horas y los enlaces de descarga dejarán de funcionar después de este período de tiempo. Nadie tiene acceso a sus archivos. La conversión de archivos (incluyendo MOBI) es absolutamente segura. La aplicación principalmente gratuita está integrada con el propósito de probar para que uno pueda verificar el resultado antes de integrar el código.</span>
+                          <span itemprop="text">¡Por supuesto! Los archivos de salida generados a través de nuestro servicio se eliminarán de forma segura y automática de nuestros servidores en un plazo de 24 horas. Como resultado, los enlaces de descarga asociados a estos archivos dejarán de ser funcionales después de este período.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>¿Qué navegador debo usar para convertir MOBI?</b></span>
+                          <span itemprop="name"><b>¿Qué navegador debería utilizar la aplicación?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Puede usar cualquier navegador moderno para esta conversión en línea, por ejemplo, Google Chrome, Firefox, Opera, Safari. Pero en caso de que estés desarrollando una aplicación de escritorio. La API de conversión de Aspose.Total MOBI funcionará sin problemas.</span>
+                          <span itemprop="text">Puede utilizar cualquier navegador web moderno como Google Chrome, Firefox, Opera o Safari para la conversión de documentos MOBI en línea.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>¿Cómo puedo exportar varios archivos MOBI?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Comience cargando uno o más archivos que desee convertir. Puede arrastrar y soltar los archivos MOBI o simplemente hacer clic dentro del área blanca. Luego, haga clic en el botón “Convertir” y nuestra aplicación de conversión en línea procesará rápidamente los archivos cargados.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>¿Cuánto tiempo se tarda en convertir los archivos MOBI?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Esta aplicación de conversión funciona rápidamente. Puede tomar unos segundos o más, dependiendo del tamaño del documento, para cargarlos y guardarlos en el formato requerido.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

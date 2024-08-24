@@ -1,120 +1,177 @@
 ---
-title: Convertir PPSX en EXCEL via C# ou application en ligne
-description: Convertir PPSX en EXCEL en C# sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne PPSX vers EXCEL gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
-url_ignore: /fr/net/conversion/ppsx-to-excel/
+title: Conversion en ligne de PPSX en Excel ou création d'une application basée sur .NET pour convertir des fichiers PPSX
+description: Application en ligne gratuite pour convertir des fichiers PPSX en Excel. Code de bibliothèque de conversion .NET C# pour les documents PPSX. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: PPSX
-outformat: EXCEL
+outformat: Excel
 otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM EXCEL FODS XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSX en EXCEL via C# ou application en ligne" h2="API .NET pour la conversion PPSX en EXCEL sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Application de conversion en ligne PPSX en Excel et code .NET pour convertir les fichiers PPSX" h2="Développer une puissante application de conversion et d'exportation PPSX basée sur .NET. Convertissez un ou plusieurs fichiers PPSX en Excel et d'autres formats via l'API d'automatisation .NET. Convertissez librement les fichiers PPSX en ligne via l'application avec téléchargement instantané." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPSX en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en EXCEL.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Comment convertir PPSX en EXCEL via C#" %}}
-1. Ouvrez le fichier PPSX à l'aide de la classe [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. Exportez PPSX au format HTML en utilisant la méthode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Enregistrez le document au format EXCEL à l'aide de la méthode [Enregistrer](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Total``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Total```.
-
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Convertisseur en ligne gratuit pour PPSX en EXCEL</h3>
-
-<iframe title="Outil en ligne de conversion xlsx en ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Application de conversion en ligne gratuite PPSX vers Excel" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convertir PPSX protégé en EXCEL via C#" %}}
-Lors de la conversion du fichier PPSX en EXCEL, si votre document PPSX d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir en EXCEL sans déchiffrer le document. Lorsque votre document est protégé par un mot de passe, cela signifie qu'il applique certaines restrictions sur la présentation. Pour supprimer les restrictions, le mot de passe doit être saisi. Une présentation protégée par un mot de passe est considérée comme une présentation verrouillée. L'API vous permet d'ouvrir le document chiffré en passant le mot de passe correct dans un objet LoadOptions.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convertissez des fichiers PPSX en Excel en ligne à l'aide de l'application" %}}
+
+1. Téléchargez les fichiers PPSX à convertir
+1. Attendez quelques secondes ou plus selon la taille de PPSX
+1. Gardez un œil sur la barre d'état de téléchargement
+1. Cliquez sur le bouton « Convertir »
+1. PPSX sera converti en document Excel
+1. Téléchargez le fichier Excel converti
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convertir PPSX en Excel via l'API d'automatisation .NET" %}}
+
+
+1. Ouvrez le fichier PPSX à l'aide de la classe [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Exportez PPSX au format HTML en utilisant la méthode [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Enregistrez le document au format EXCEL à l'aide de la méthode [Enregistrer](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Convertir PPSX en Excel via C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Quelques cas supplémentaires pour enregistrer PPSX dans Excel avec d'autres fonctionnalités comme Convertir PPSX protégé en EXCEL via C#, Convertir PPSX en EXCEL avec filigrane via C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convertir PPSX en EXCEL avec filigrane via C#" %}}
-Lors de la conversion du fichier PPSX en EXCEL, vous pouvez également ajouter un filigrane au format de votre fichier EXCEL de sortie. Pour ajouter un filigrane, vous pouvez créer un nouvel objet Workbook et ouvrir le document HTML converti, sélectionner Worksheet via son index, créer une Shape et utiliser sa fonction AddTextEffect. Après cela, vous pouvez enregistrer votre document HTML au format EXCEL avec filigrane. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Développer une application de conversion de fichiers PPSX à l'aide de .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+Besoin de développer une application logicielle basée sur .NET pour enregistrer et exporter facilement des fichiers PPSX vers un document Excel ? Avec [Aspose.Total for .NET](https://products.aspose.com/total/fr/net/), tout développeur .NET peut intégrer le code API ci-dessus pour programmer l'application de conversion dans divers formats, notamment Microsoft Word, Excel, Powerpoint, PDF, fichiers de courrier électronique, images et autres formats. Puissante bibliothèque .NET pour la conversion de documents, prend en charge de nombreux formats populaires, y compris le format PPSX. En exportant des documents vers d'autres formats, les programmeurs peuvent utiliser Aspose.Total pour les API enfants .NET, notamment [Aspose.Words for .NET](https://products.aspose.com/words/fr/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/fr/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/fr/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/fr/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/fr/net/) et plus.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPSX Bibliothèque de conversion pour .NET" %}}
+
+Il existe trois options alternatives pour installer Aspose.Total pour .NET sur votre système. Veuillez choisir celui qui correspond à vos besoins et suivez les instructions étape par étape :<br /><br />
+
+- Installer un [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Voir [Documentation](https://docs.aspose.com/total/net/)
+- Installez la bibliothèque à l'aide de la console du gestionnaire de packages à partir de sa sélection d'API enfant dans Visual Studio IDE comme [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), etc.
+- Installer la bibliothèque manuellement à l'aide de Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Enregistrement de PPSX dans les exigences de l'application Excel" %}}
+
+Notre produit est entièrement multiplateforme et prend en charge toutes les principales implémentations .NET conformément à la spécification « .NET Standard 2.0 » :<br /><br />
+
+- Microsoft .NET Framework, à partir de la première version 2.0 et jusqu'à la dernière version « .NET Framework 4.8 »
+- .NET Core, à partir du premier 2.0 et jusqu'au dernier « .NET 6 »
+- Mono >= 2.6.7
+<br />
+Comme le code .NET ne repose pas sur le matériel ou le système d'exploitation sous-jacent, mais uniquement sur une machine virtuelle, vous êtes libre de développer tout type de logiciel pour Windows, macOS, Android, iOS et Linux. Assurez-vous simplement d'avoir installé la version correspondante de .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.<br />
+Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelop IDE pour créer des applications C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQ" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Questions fréquemment posées</h2>
-              <ul>
+              <h2>FAQ</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Comment puis-je convertir PPSX en EXCEL en ligne ?</b></span>
+                          <span itemprop="name"><b>Puis-je utiliser le code .NET ci-dessus dans mon application ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">L'application en ligne pour la conversion PPSX est intégrée ci-dessus. Pour lancer le processus de conversion PPSX en EXCEL, ajoutez simplement le fichier PPSX en le faisant glisser et en le déposant dans la zone désignée ou en cliquant dessus pour importer le document. Ensuite, cliquez sur le bouton "Convertir". Une fois la conversion PPSX en EXCEL terminée, vous pouvez télécharger le fichier converti. En un seul clic, vous recevrez vos fichiers EXCEL de sortie.</span>
+                          <span itemprop="text">Oui, vous pouvez télécharger ce code. Il est facile de développer une solution professionnelle pour exporter et enregistrer un fichier PPSX vers Excel à l'aide de .NET. Utilisez l'API de conversion Aspose PPSX en Excel pour développer des logiciels de haut niveau indépendants de la plate-forme dans .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Combien de temps faut-il pour convertir PPSX ?</b></span>
+                          <span itemprop="name"><b>Cette application d'exportation de documents fonctionne-t-elle uniquement sous Windows ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier PPSX. Si le fichier PPSX est de petite taille, la conversion en EXCEL peut être effectuée en quelques secondes. De plus, si vous avez intégré le code de conversion dans une application .NET, la vitesse du processus de conversion dépendra de la façon dont vous avez optimisé votre application à cette fin.</span>
+                          <span itemprop="text">Vous avez la possibilité de lancer l'exportation de documents de PPSX vers Excel à partir de n'importe quel appareil, quel que soit le système d'exploitation sur lequel il s'exécute, qu'il s'agisse de Windows, Linux, Mac OS ou Android. Tout ce dont vous avez besoin est un navigateur Web contemporain et une connexion Internet active.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Est-il sûr de convertir PPSX en EXCEL en utilisant le convertisseur gratuit Aspose.Total ?</b></span>
+                          <span itemprop="name"><b>Est-il sûr d’utiliser l’application en ligne pour convertir plusieurs documents PPSX ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bien sûr! Dès que la conversion PPSX en EXCEL est terminée, vous aurez un accès instantané au lien de téléchargement des fichiers EXCEL convertis. Veuillez noter que nous supprimons automatiquement tous les fichiers téléchargés après 24 heures et que les liens de téléchargement ne seront plus actifs après cette période. Vos fichiers sont entièrement sécurisés et privés, car personne d'autre n'y a accès. Le processus de conversion de fichiers, y compris la conversion PPSX, est absolument sûr à utiliser. Nous proposons cette application gratuite principalement à des fins de test afin que vous puissiez évaluer les résultats avant d'intégrer le code.</span>
+                          <span itemprop="text">Bien sûr ! Les fichiers de sortie générés via notre service seront supprimés de nos serveurs de manière sécurisée et automatique dans un délai de 24 heures. Par conséquent, les liens de téléchargement associés à ces fichiers cesseront d’être fonctionnels après cette période.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Quel navigateur dois-je utiliser pour convertir PPSX ?</b></span>
+                          <span itemprop="name"><b>Quel navigateur dois-je utiliser pour l'application ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Cet outil de conversion en ligne est compatible avec tous les navigateurs modernes, tels que Google Chrome, Firefox, Opera ou Safari. Cependant, si vous développez une application de bureau, l'API Aspose.Total PPSX Conversion est une option fiable pour une intégration fluide.</span>
+                          <span itemprop="text">Vous pouvez utiliser n’importe quel navigateur Web moderne comme Google Chrome, Firefox, Opera ou Safari pour la conversion de documents PPSX en ligne.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Comment puis-je exporter plusieurs fichiers PPSX ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Commencez par télécharger un ou plusieurs fichiers que vous souhaitez convertir. Vous pouvez soit glisser-déposer vos fichiers PPSX, soit simplement cliquer à l'intérieur de la zone blanche. Ensuite, cliquez sur le bouton « Convertir » et notre application de conversion en ligne traitera rapidement les fichiers téléchargés.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Combien de temps faut-il pour convertir les fichiers PPSX ?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Cette application de conversion fonctionne rapidement. Cela peut prendre quelques secondes ou plus selon la taille du document pour le télécharger et l'enregistrer au format requis.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

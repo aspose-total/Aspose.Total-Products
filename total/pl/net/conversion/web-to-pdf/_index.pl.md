@@ -1,6 +1,7 @@
 ---
-title: Konwertuj strony internetowe na pliki PDF za pomocą C#
-description: Zeskrobuj strony internetowe i eksportuj dokumenty HTML do PDF. Twórz aplikacje .NET, aby pobierać dane z witryn internetowych do formatu PDF. 
+title: Konwersja online WEB do PDF lub budowa aplikacji opartej na .NET do konwersji plików WEB
+description: Darmowa aplikacja online do konwersji plików WEB na PDF. Kod biblioteki konwersji .NET C# dla dokumentów WEB. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -9,69 +10,166 @@ outformat: PDF
 otherformats: WORD EXCEL POWERPOINT IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj strony internetowe do formatu PDF za pomocą C#" h2="Wyodrębnij dane witryny ze stron internetowych HTML. Importuj HTML do dokumentów PDF w aplikacjach .NET." >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikacja do konwersji plików WEB do PDF online i kod .NET do konwersji plików WEB" h2="Opracuj wydajną aplikację konwersji i eksportu WEB opartą na platformie .NET. Konwertuj pojedyncze lub wiele plików WEB do formatu PDF i innych formatów za pomocą interfejsu API automatyzacji .NET. Bezpłatna konwersja plików WEB online za pomocą aplikacji z natychmiastowym pobraniem." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Konwersja stron internetowych do plików PDF stała się podstawowym zadaniem dla wielu firm i osób prywatnych. Może to być przydatne do archiwizowania ważnych informacji, udostępniania treści innym osobom lub po prostu w celach osobistych. Za pomocą różnych interfejsów API platformy .NET programiści mogą tworzyć solidne i wydajne rozwiązania do konwersji stron internetowych, które można dostosować do określonych wymagań.</p><br />
-
-<p>Ważne jest, aby podkreślić znaczenie przeprowadzania web scrapingu w odpowiedzialny i etyczny sposób. Niezwykle ważne jest przestrzeganie warunków korzystania ze stron internetowych, przestrzeganie przepisów prawa oraz powstrzymywanie się od jakichkolwiek działań, które mogłyby potencjalnie naruszyć prywatność lub prawa własności intelektualnej.</p>
-
-<h2 class="heading-border">Używanie Aspose.HTML jako API parsera HTML</h2>
-
-<p>Jednym z najpopularniejszych interfejsów API do analizowania stron internetowych za pośrednictwem języka C# jest Aspose.HTML dla .NET, podrzędny interfejs API Aspose.Total dla .NET. Jest to prosty i łatwy w użyciu interfejs API do analizowania HTML i CSS w aplikacjach .NET. Zapewnia szereg funkcji, które ułatwiają wyodrębnianie danych z plików HTML i łatwe manipulowanie strukturą dokumentu</p><br />
-
-<p>Podczas opracowywania skrobaka internetowego wybór danych staje się kluczowy dla skutecznego identyfikowania i wydobywania pożądanych informacji z plików HTML. Selektory danych, często wykorzystujące XPath, selektory CSS lub ich kombinację, odgrywają fundamentalną rolę w lokalizowaniu precyzyjnych elementów danych w strukturze HTML. Działając jako narzędzia nawigacyjne w dokumencie, te selektory pozwalają wskazać i wyodrębnić potrzebne dane.</p>
-
-<h2 class="heading-border">Zadania, które można wykonać w ramach Web Scrapping</h2>
-
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
-
-1. [Nawigacja HTML](https://docs.aspose.com/html/net/html-navigation/) - Przeprowadzaj kompleksowe inspekcje dokumentów HTML i ich elementów. Ta funkcja ułatwia szczegółową analizę, niestIardowe filtrowanie iteracji elementów i bezproblemową nawigację za pomocą selektorów CSS lub XPath.
-2. [Pobierz stronę internetową](https://docs.aspose.com/html/net/download-website/) - Pobieraj strony internetowe z adresów URL i dostosuj proces pobierania. Masz swobodę pobierania całej witryny lub określonych stron internetowych, dostosowując proces do swoich specyficznych wymagań.
-3. [Pobierz pliki z adresu URL](https://docs.aspose.com/html/net/download-file-from-url/) - Efektywnie pobieraj pliki z adresów URL za pomocą Aspose.HTML dla .NET.
-4. [Pobierz obrazy ze strony internetowej](https://docs.aspose.com/html/net/download-images-from-website/) - Bezproblemowo pobieraj różne typy obrazów ze stron internetowych, korzystając z możliwości zapewnianych przez Aspose.HTML dla .NET.
-5. [Pobierz SVG ze strony internetowej](https://docs.aspose.com/html/net/download-svg-from-website/) - Pobieraj pliki Scalable Vector Graphics (SVG) ze stron internetowych przy użyciu języka C# z pomocą Aspose.HTML dla platformy .NET.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Jak wyodrębnić dane witryny za pomocą C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Darmowa aplikacja do konwersji WEB na PDF online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj pliki WEB do PDF online za pomocą aplikacji" %}}
+
+1. Prześlij pliki WEB do konwersji
+1. Poczekaj kilka sekund lub dłużej, w zależności od rozmiaru WEB
+1. Zwróć uwagę na pasek stanu przesyłania
+1. Kliknij przycisk „Konwertuj”
+1. WEB zostanie przekonwertowany na dokument PDF
+1. Pobierz przekonwertowany plik PDF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj WEB na PDF za pomocą interfejsu API automatyzacji .NET" %}}
+
+
 
 1. Zainicjuj dokument HTML z adresu URL, używając metody [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktor.
 2. Zatrudnij [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metodę definiowania selektora i pobierania wszystkich elementów odpowiadających selektorowi.
 3. Przejrzyj listę elementów i sformatuj dane wyjściowe zgodnie z własnymi wymaganiami.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące złomowania stron internetowych i konwersji plików PDF" %}}
-Zainstaluj z linii poleceń jako ```nuget install Aspose.Total``` lub zainstaluj bezpośrednio z konsoli Menedżera pakietów Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konwertuj WEB na PDF przez C# .NET" offSpacer="" %}}
 
-Dwa [Aspose.Total for .NET](https://products.aspose.com/total/net/) potomne API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) I [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) zostanie zintegrowany.
-
-Ewentualnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Używanie Aspose.PDF do konwersji HTML na PDF" %}}
-<p>Aspose.PDF API oferuje kompleksowe rozwiązanie dla programistów, umożliwiając im bezproblemową konwersję HTML do PDF za pomocą .NET. Dzięki jego możliwościom możesz wydajnie obsługiwać proces konwersji i uzyskiwać dokładne i atrakcyjne wizualnie pliki PDF. Proces ten polega na napisaniu zaledwie kilku wierszy kodu C#, co pozwala uzyskać konwersję wysokiej jakości.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>Interfejs API zapewnia wysoką jakość i dokładność konwersji, zachowując strukturę, formatowanie i elementy oryginalnej treści HTML. Obsługuje style CSS, obrazy, hiperłącza, tabele i inne elementy HTML, umożliwiając generowanie profesjonalnie wyglądających dokumentów PDF ze źródeł HTML.</p><br />
-
-<p>Oto przykładowy fragment kodu, który ilustruje sposób konwersji HTML na PDF przy użyciu C#. Wykonując te proste kroki, można bez wysiłku przekonwertować plik HTML do formatu PDF:</p><br />
-
-<p>W tym kodzie musisz przesłać swój plik HTML i określić w pełni kwalifikowane nazwy plików do odczytu HTML i zapisu PDF. Wynikowy plik PDF będzie miał taką samą zawartość i formatowanie jak oryginalny dokument HTML. To proste podejście pozwala szybko i dokładnie przekonwertować HTML na PDF przy użyciu Aspose.PDF w aplikacji C#.</p><br />
+Jeszcze kilka przypadków zapisania WEB w PDF przy użyciu innych funkcji, takich jak Używanie Aspose.PDF do konwersji HTML na PDF.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Opracuj aplikację konwersji plików WEB przy użyciu .NET</h2>
+
+Musisz opracować aplikację bazującą na technologii .NET, która umożliwi łatwe zapisywanie i eksportowanie plików WEB do dokumentu PDF? Dzięki [Aspose.Total for .NET](https://products.aspose.com/total/pl/net/) każdy programista .NET może zintegrować powyższy kod API w celu zaprogramowania aplikacji konwertującej w różnych formatach, w tym Microsoft Word, Excel, PowerPoint, PDF, plikach e-mail, obrazach i innych formatach. Potężna biblioteka .NET do konwersji dokumentów, obsługuje wiele popularnych formatów, w tym format WEB. Eksportując dokumenty do innych formatów, programiści mogą używać Aspose.Total dla podrzędnych interfejsów API .NET, w tym [Aspose.Words for .NET](https://products.aspose.com/words/pl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/pl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/pl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/pl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/pl/net/) i innych.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Biblioteka konwersji dla .NET" %}}
+
+Istnieją trzy alternatywne opcje instalacji Aspose.Total dla .NET w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcją krok po kroku:<br /><br />
+
+- Zainstaluj [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zobacz [Dokumentacja](https://docs.aspose.com/total/net/)
+- Zainstaluj bibliotekę za pomocą konsoli Menedżera pakietów jako jej podrzędny interfejs API w środowisku IDE programu Visual Studio, np. [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) itd.
+- Zainstaluj bibliotekę ręcznie, korzystając z Instalatora systemu Windows
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Zapisywanie WEB do wymagań aplikacji PDF" %}}
+
+Nasz produkt jest w pełni wieloplatformowy i obsługuje wszystkie główne implementacje .NET zgodnie ze specyfikacją „.NET Standard 2.0”:<br /><br />
+
+- Microsoft .NET Framework, począwszy od najwcześniejszej wersji 2.0, a skończywszy na najnowszej „.NET Framework 4.8”
+- .NET Core, począwszy od najwcześniejszej wersji 2.0 i kończąc na najnowszej „.NET 6”
+- Mono >= 2.6.7
+<br />
+Ponieważ kod .NET nie wymaga użycia sprzętu ani systemu operacyjnego, lecz wyłącznie maszyny wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla systemów Windows, macOS, Android, iOS i Linux. Upewnij się, że zainstalowałeś odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.<br />
+Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów Microsoft Visual Studio, Xamarin i środowiska IDE MonoDevelop.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Często zadawane pytania" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Często zadawane pytania</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy mogę wykorzystać powyższy kod .NET w swojej aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tak, możesz pobrać ten kod. Można łatwo opracować profesjonalne rozwiązanie do eksportowania i zapisywania pliku WEB do pliku PDF przy użyciu .NET. Użyj interfejsu API konwersji WEB do PDF Aspose, aby tworzyć niezależne od platformy oprogramowanie wysokiego poziomu w środowisku .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy ten dokument eksportuje pracę aplikacji tylko w systemie Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Masz możliwość zainicjowania eksportu dokumentu z WEB do PDF z dowolnego urządzenia, niezależnie od systemu operacyjnego, na którym jest uruchomiony, czy jest to Windows, Linux, Mac OS czy Android. Potrzebna jest jedynie nowoczesna przeglądarka internetowa i aktywne połączenie z internetem.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Czy używanie aplikacji online do konwersji wielu dokumentów WEB jest bezpieczne?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Oczywiście! Pliki wyjściowe wygenerowane za pośrednictwem naszej usługi zostaną bezpiecznie i automatycznie usunięte z naszych serwerów w ciągu 24 godzin. W związku z tym linki do pobierania tych plików przestaną działać po upływie tego okresu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Z jakiej przeglądarki powinienem korzystać w aplikacji?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Do konwersji dokumentów WEB online możesz użyć dowolnej nowoczesnej przeglądarki internetowej, np. Google Chrome, Firefox, Opera lub Safari.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mogę wyeksportować wiele plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Zacznij od przesłania jednego lub więcej plików, które chcesz przekonwertować. Możesz przeciągnąć i upuścić pliki WEB lub po prostu kliknąć w biały obszar. Następnie kliknij przycisk „Konwertuj”, a nasza aplikacja do konwersji online szybko przetworzy przesłane pliki.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ile czasu zajmuje konwersja plików WEB?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ta aplikacja do konwersji działa szybko. Może to potrwać kilka sekund lub dłużej, zależnie od rozmiaru dokumentu, zanim zostanie on przesłany i zapisany w wymaganym formacie.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

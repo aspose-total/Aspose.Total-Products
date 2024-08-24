@@ -1,7 +1,7 @@
 ---
-title: Chuyển đổi PPTM sang DIF qua C# hoặc Ứng dụng trực tuyến
-description: Chuyển đổi PPTM sang DIF trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPTM sang DIF miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
-url_ignore: /vi/net/conversion/pptm-to-dif/
+title: Chuyển đổi trực tuyến PPTM sang DIF hoặc xây dựng ứng dụng dựa trên .NET để chuyển đổi tệp PPTM
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp PPTM sang DIF. Mã thư viện chuyển đổi .NET C# cho tài liệu PPTM. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,111 +10,168 @@ outformat: DIF
 otherformats: XLSB MHTML XLSM SXC FODS TSV DIF XLS XLAM XLTM XLTX EXCEL XLSX MARKDOWN XLT ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTM sang DIF qua C# hoặc Ứng dụng trực tuyến" h2=".NET API để chuyển đổi PPTM sang DIF mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi PPTM sang DIF trực tuyến và mã .NET để chuyển đổi tệp PPTM" h2="Phát triển ứng dụng chuyển đổi và xuất PPTM mạnh mẽ dựa trên .NET. Chuyển đổi một hoặc nhiều tệp PPTM sang DIF và các định dạng khác thông qua API tự động hóa .NET. Chuyển đổi miễn phí các tệp PPTM trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp PPTM thành DIF trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), bạn có thể xuất PPTM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang DIF.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Cách chuyển đổi PPTM sang DIF qua C#" %}}
-1. Mở tệp PPTM bằng lớp [Trình bày](https://reference.aspose.com/slides/net/aspose.slides/presentation)
-2. Xuất PPTM dưới dạng HTML bằng cách sử dụng phương pháp [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
-3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
-4. Lưu tài liệu vào DIF bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total``` hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.Total```.
-
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>Công cụ chuyển đổi trực tuyến miễn phí cho PPTM sang DIF</h3>
-
-<iframe title="Công cụ trực tuyến chuyển đổi từ pptm sang dif" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Ứng dụng chuyển đổi PPTM sang DIF trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPTM được bảo vệ sang DIF qua C#" %}}
-Trong khi chuyển đổi tệp PPTM sang DIF, nếu tài liệu PPTM đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó thành DIF mà không giải mã tài liệu. Khi tài liệu của bạn được bảo vệ bằng mật khẩu, điều đó có nghĩa là nó thực thi các hạn chế nhất định đối với bản trình bày. Để loại bỏ các hạn chế, mật khẩu phải được nhập. Bản trình bày được bảo vệ bằng mật khẩu được coi là bản trình bày bị khóa. API cho phép bạn mở tài liệu được mã hóa bằng cách chuyển mật khẩu chính xác vào đối tượng LoadOptions.  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp PPTM sang DIF trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp PPTM để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước PPTM
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. PPTM sẽ được chuyển đổi thành tài liệu DIF
+1. Tải xuống tệp DIF đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi PPTM sang DIF thông qua .NET Automation API" %}}
+
+
+1. Mở tệp PPTM bằng lớp [Trình bày](https://reference.aspose.com/slides/net/aspose.slides/presentation)
+2. Xuất PPTM dưới dạng HTML bằng cách sử dụng phương pháp [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
+3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)
+4. Lưu tài liệu vào DIF bằng phương pháp [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi PPTM sang DIF thông qua C# .NET" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Một số trường hợp khác để lưu PPTM vào DIF với các tính năng khác như Chuyển đổi PPTM được bảo vệ sang DIF qua C#, Chuyển đổi PPTM sang DIF với Watermark qua C#.
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-protected-powerpoint-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi PPTM sang DIF với Watermark qua C#" %}}
-Trong khi chuyển đổi tệp PPTM sang DIF, bạn cũng có thể thêm hình mờ vào định dạng tệp DIF đầu ra của mình. Để thêm hình mờ, bạn có thể tạo một đối tượng Sổ làm việc mới và mở tài liệu HTML đã chuyển đổi, chọn Trang tính thông qua chỉ mục của nó, tạo Hình dạng và sử dụng chức năng AddTextEffect của nó. Sau đó, bạn có thể lưu tài liệu HTML của mình dưới dạng DIF với Hình mờ. 
-{{% blocks/products/pf/feature-page-code %}}
+<h2>Phát triển ứng dụng chuyển đổi tệp PPTM bằng .NET</h2>
 
-{{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel-with-watermark.cs" >}}
+Bạn có cần phát triển ứng dụng phần mềm dựa trên .NET để dễ dàng lưu và xuất tệp PPTM sang tài liệu DIF không? Với [Aspose.Total for .NET](https://products.aspose.com/total/vi/net/), bất kỳ nhà phát triển .NET nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word, Excel, Powerpoint, PDF, tệp Email, Hình ảnh và các định dạng khác. Thư viện .NET mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng PPTM. Khi xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng Aspose.Total cho các API con .NET bao gồm [Aspose.Words for .NET](https://products.aspose.com/words/vi/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/vi/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/vi/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/vi/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/vi/net/), v.v.<br /><br />
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PPTM Thư viện chuyển đổi cho .NET" %}}
+
+Có ba tùy chọn thay thế để cài đặt Aspose.Total cho .NET vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Xem [Tài liệu](https://docs.aspose.com/total/net/)
+- Cài đặt thư viện bằng Package Manager Console khi lựa chọn API con của nó trong Visual Studio IDE như [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), v.v.
+- Cài đặt thư viện thủ công bằng Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu PPTM vào DIF Yêu cầu ứng dụng" %}}
+
+Sản phẩm của chúng tôi hoàn toàn tương thích với nhiều nền tảng và hỗ trợ tất cả các triển khai .NET chính theo thông số kỹ thuật '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET Framework 4.8' mới nhất
+- .NET Core, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET 6' mới nhất
+- Đơn sắc >= 2.6.7
+<br />
+Vì mã .NET không phụ thuộc vào phần cứng hoặc hệ điều hành cơ bản mà chỉ phụ thuộc vào Máy ảo, nên bạn có thể thoải mái phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux. Chỉ cần đảm bảo bạn đã cài đặt phiên bản .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin tương ứng.<br />
+Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Câu hỏi thường gặp" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>Các câu hỏi thường gặp</h2>
-              <ul>
+              <h2>Câu hỏi thường gặp</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Làm cách nào tôi có thể chuyển đổi PPTM sang DIF trực tuyến?</b></span>
+                          <span itemprop="name"><b>Tôi có thể sử dụng mã .NET ở trên trong ứng dụng của mình không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">App chuyển đổi PPTM Online đã được tích hợp bên trên. Để bắt đầu quá trình chuyển đổi PPTM sang DIF, chỉ cần thêm tệp PPTM bằng cách kéo và thả tệp vào khu vực được chỉ định hoặc nhấp vào tệp đó để nhập tài liệu. Tiếp theo, nhấp vào nút "Chuyển đổi". Khi quá trình chuyển đổi PPTM sang DIF hoàn tất, bạn có thể tải xuống tệp đã chuyển đổi. Chỉ với một cú nhấp chuột, bạn sẽ nhận được các tệp DIF đầu ra của mình.</span>
+                          <span itemprop="text">Vâng, bạn được phép tải xuống mã này. Người ta có thể dễ dàng phát triển một giải pháp chuyên nghiệp để xuất và lưu PPTM vào tệp DIF bằng .NET. Sử dụng API chuyển đổi Aspose PPTM sang DIF để phát triển phần mềm cấp cao, độc lập với nền tảng trong .NET.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Mất bao lâu để chuyển đổi PPTM?</b></span>
+                          <span itemprop="name"><b>Tài liệu xuất ứng dụng này chỉ hoạt động trên Windows phải không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp PPTM. Nếu tệp PPTM có kích thước nhỏ, quá trình chuyển đổi sang DIF có thể hoàn tất trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình cho mục đích này.</span>
+                          <span itemprop="text">Bạn có thể linh hoạt bắt đầu xuất tài liệu từ PPTM sang DIF từ bất kỳ thiết bị nào, bất kể thiết bị đó chạy hệ điều hành nào, có thể là Windows, Linux, Mac OS hoặc Android. Tất cả những gì bạn cần là một trình duyệt web hiện đại và kết nối internet đang hoạt động.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Có an toàn khi chuyển đổi PPTM sang DIF bằng trình chuyển đổi Aspose.Total miễn phí không?</b></span>
+                          <span itemprop="name"><b>Có an toàn khi sử dụng ứng dụng trực tuyến để chuyển đổi nhiều tài liệu PPTM không?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tất nhiên rồi! Ngay sau khi quá trình chuyển đổi PPTM sang DIF hoàn tất, bạn sẽ có quyền truy cập ngay vào liên kết tải xuống cho các tệp DIF đã chuyển đổi. Xin lưu ý rằng chúng tôi sẽ tự động xóa mọi tệp đã tải lên sau 24 giờ và các liên kết tải xuống sẽ không còn hoạt động sau khoảng thời gian này. Các tệp của bạn hoàn toàn an toàn và riêng tư vì không ai khác có quyền truy cập vào chúng. Quá trình chuyển đổi tệp, bao gồm chuyển đổi PPTM, hoàn toàn an toàn khi sử dụng. Chúng tôi cung cấp ứng dụng miễn phí này chủ yếu cho mục đích thử nghiệm để bạn có thể đánh giá kết quả trước khi tích hợp mã.</span>
+                          <span itemprop="text">Tất nhiên rồi! Các tập tin đầu ra được tạo ra thông qua dịch vụ của chúng tôi sẽ được xóa an toàn và tự động khỏi máy chủ của chúng tôi trong vòng 24 giờ. Do đó, các liên kết tải xuống liên quan đến các tệp này sẽ không còn hoạt động sau thời gian này.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>Tôi nên sử dụng trình duyệt nào để chuyển đổi PPTM?</b></span>
+                          <span itemprop="name"><b>Nên sử dụng ứng dụng trên trình duyệt nào?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Công cụ chuyển đổi trực tuyến này tương thích với bất kỳ trình duyệt hiện đại nào, chẳng hạn như Google Chrome, Firefox, Opera hoặc Safari. Tuy nhiên, nếu bạn đang phát triển một ứng dụng dành cho máy tính để bàn, API chuyển đổi Aspose.Total PPTM là một tùy chọn đáng tin cậy để tích hợp trơn tru.</span>
+                          <span itemprop="text">Bạn có thể sử dụng bất kỳ trình duyệt web hiện đại nào như Google Chrome, Firefox, Opera hoặc Safari để chuyển đổi tài liệu PPTM trực tuyến.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Làm thế nào tôi có thể xuất nhiều tệp PPTM?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bắt đầu bằng cách tải lên một hoặc nhiều tệp bạn muốn chuyển đổi. Bạn có thể kéo và thả các tệp PPTM của mình hoặc chỉ cần nhấp vào bên trong vùng màu trắng. Sau đó, nhấp vào nút 'Chuyển đổi' và ứng dụng chuyển đổi trực tuyến của chúng tôi sẽ nhanh chóng xử lý các tệp đã tải lên.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Phải mất bao lâu để chuyển đổi các tập tin PPTM?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ứng dụng chuyển đổi này hoạt động nhanh chóng. Có thể mất vài giây hoặc lâu hơn tùy thuộc vào kích thước tài liệu để tải lên và lưu chúng theo định dạng yêu cầu.</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,7 @@
 ---
-title: Converteer webpagina's naar PDF-bestEnen met C#
-description: Schraap webpagina's van websites en exporteer HTML naar PDF-documenten. Ontwikkel .NET-applicaties om websitegegevens naar PDF te schrapen. 
+title: Online WEB naar PDF conversie of bouw een .NET-gebaseerde applicatie om WEB bestanden te converteren
+description: Gratis online app om WEB naar PDF bestanden te converteren. .NET C# conversiebibliotheekcode voor WEB documenten. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -9,69 +10,166 @@ outformat: PDF
 otherformats: WORD EXCEL POWERPOINT IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer webpagina's naar PDF via C#" h2="Extraheer websitegegevens uit HTML-webpagina's. Importeer HTML in PDF-documenten binnen .NET-toepassingen." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB naar PDF conversie-app en .NET-code om WEB-bestanden te converteren" h2="Ontwikkel een krachtige .NET-gebaseerde WEB conversie- en exportapplicatie. Converteer één of meerdere WEB-bestanden naar PDF en andere formaten via de .NET-automatiserings-API. Converteer WEB-bestanden gratis online via een app met directe download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Het converteren van webpagina's naar PDF-bestEnen is voor veel bedrijven en particulieren een essentiële taak geworden. Dit kan hEnig zijn voor het archiveren van belangrijke informatie, het delen van inhoud met Eneren of gewoon voor persoonlijke referentie. Met behulp van verschillende .NET API's kunnen ontwikkelaars robuuste en efficiënte oplossingen voor webpaginaconversie creëren, die kunnen worden aangepast aan specifieke eisen.</p><br />
-
-<p>Het is belangrijk om te benadrukken hoe belangrijk het is om webscraping op een verantwoorde en ethische manier uit te voeren. Het is van het grootste belang om de servicevoorwaarden van websites na te leven, zich te houden aan wettelijke voorschriften en zich te onthouden van activiteiten die mogelijk inbreuk kunnen maken op privacy of intellectuele eigendomsrechten.</p>
-
-<h2 class="heading-border">Aspose.HTML gebruiken als HTML-parser-API</h2>
-
-<p>Een van de meest populaire API's voor het parseren van webpagina's via C# is Aspose.HTML voor .NET, een onderliggende API van Aspose.Total voor .NET. Het is een eenvoudige en gebruiksvriendelijke API voor het ontleden van HTML en CSS in .NET-toepassingen. Het biedt een reeks functies die het gemakkelijk maken om gegevens uit HTML-bestEnen te extraheren en de documentstructuur gemakkelijk te manipuleren</p><br />
-
-<p>Bij het ontwikkelen van een webschraper wordt de selectie van gegevens cruciaal voor het effectief identificeren en extraheren van de gewenste informatie uit HTML-bestEnen. Gegevenskiezers, vaak gebruikmakend van XPath, CSS-kiezers of een combinatie van beide, spelen een fundamentele rol bij het lokaliseren van de precieze gegevenselementen binnen de HTML-structuur. Door als navigatietools binnen het document te fungeren, kunt u met deze selectors de gegevens die u nodig hebt lokaliseren en extraheren.</p>
-
-<h2 class="heading-border">Taken die men kan uitvoeren voor Web Scrapping</h2>
-
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
-
-1. [HTML-navigatie](https://docs.aspose.com/html/net/html-navigation/) - Voer uitgebreide inspecties uit van HTML-documenten en hun elementen. Deze functie vergemakkelijkt gedetailleerde analyse, aangepaste filtering voor elementiteratie en naadloze navigatie met behulp van CSS-kiezers of XPath.
-2. [Website downloaden](https://docs.aspose.com/html/net/download-website/) - Download websites van URL's en pas het downloadproces aan. U hebt de flexibiliteit om de volledige website of specifieke webpagina's te downloaden, waarbij u het proces afstemt op uw specifieke vereisten.
-3. [Bestanden downloaden van URL](https://docs.aspose.com/html/net/download-file-from-url/) - Download efficiënt bestEnen van URL's met Aspose.HTML voor .NET.
-4. [Download afbeeldingen van de website](https://docs.aspose.com/html/net/download-images-from-website/) - Download naadloos verschillende soorten afbeeldingen van websites met behulp van de mogelijkheden van Aspose.HTML voor .NET.
-5. [Download SVG van website](https://docs.aspose.com/html/net/download-svg-from-website/) - Haal SVG-bestEnen (Scalable Vector Graphics) op van websites met behulp van C# met behulp van Aspose.HTML voor .NET.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hoe websitegegevens extraheren met C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis online WEB naar PDF conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converteer WEB naar PDF bestanden online met behulp van de app" %}}
+
+1. Upload WEB-bestanden om te converteren
+1. Wacht enkele seconden of langer, afhankelijk van de grootte van WEB
+1. Houd de uploadstatusbalk in de gaten
+1. Klik op de knop "Converteren"
+1. WEB wordt omgezet in een PDF-document
+1. Download het geconverteerde PDF-bestand
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converteer WEB naar PDF via .NET Automation API" %}}
+
+
 
 1. Initialiseer een HTML-document van een URL door gebruik te maken van de [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructeur.
 2. Gebruik de [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) methode om een selector te definiëren en alle elementen op te halen die overeenkomen met de selector.
 3. Doorloop de lijst met elementen en formatteer de uitvoer volgens uw specifieke vereisten.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor webscraping en PDF-conversie" %}}
-Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total``` of installeer rechtstreeks vanuit de Package Manager-console van Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Converteer WEB naar PDF via C# .NET" offSpacer="" %}}
 
-Twee [Aspose.Total for .NET](https://products.aspose.com/total/net/) onderliggende API's, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) En [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) zal worden geïntegreerd.
-
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestEn downloaden van [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.PDF gebruiken voor conversie van HTML naar PDF" %}}
-<p>Aspose.PDF API biedt een uitgebreide oplossing voor ontwikkelaars, waarmee ze HTML naadloos naar PDF kunnen converteren met behulp van .NET. Met zijn mogelijkheden kunt u het conversieproces efficiënt afhEnelen en nauwkeurige en visueel aantrekkelijke PDF-uitvoer verkrijgen. Het proces omvat het schrijven van slechts een paar regels C#-code, zodat u een conversie van hoge kwaliteit kunt bereiken.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>De API zorgt voor hoogwaardige en nauwkeurige conversie, waarbij de structuur, opmaak en elementen van de originele HTML-inhoud behouden blijven. Het ondersteunt CSS-stijlen, afbeeldingen, hyperlinks, tabellen en Enere HTML-elementen, zodat u professioneel ogende PDF-documenten kunt genereren op basis van HTML-bronnen.</p><br />
-
-<p>Hier is een voorbeeld van een codefragment dat illustreert hoe u HTML naar PDF kunt converteren met C#. Door deze eenvoudige stappen te volgen, kan men moeiteloos uw HTML-bestEn naar PDF-indeling converteren:</p><br />
-
-<p>In deze code moet u uw HTML-bestEn uploaden en de volledig gekwalificeerde bestEnsnamen opgeven voor zowel het lezen van HTML als het schrijven van PDF's. Het resulterende PDF-bestEn heeft dezelfde inhoud en opmaak als het originele HTML-document. Met deze eenvoudige aanpak kunt u snel en nauwkeurig HTML naar PDF converteren met Aspose.PDF in uw C#-toepassing.</p><br />
+Nog een paar voorbeelden voor het opslaan van WEB in PDF met andere functies, zoals Aspose.PDF gebruiken voor conversie van HTML naar PDF.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Ontwikkel een WEB-bestandsconversietoepassing met behulp van .NET</h2>
+
+Moet u een op .NET gebaseerde softwaretoepassing ontwikkelen waarmee u WEB-bestanden eenvoudig kunt opslaan en exporteren naar PDF-documenten? Met [Aspose.Total for .NET](https://products.aspose.com/total/nl/net/) kan iedere .NET-ontwikkelaar de bovenstaande API-code integreren om de conversietoepassing te programmeren voor diverse formaten, waaronder Microsoft Word, Excel, Powerpoint, PDF, e-mailbestanden, afbeeldingen en andere formaten. Krachtige .NET-bibliotheek voor documentconversie, ondersteunt veel populaire formaten, waaronder het WEB-formaat. Programmeurs kunnen Aspose.Total gebruiken voor .NET-onderliggende API's, waaronder [Aspose.Words for .NET](https://products.aspose.com/words/nl/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/nl/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/nl/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/nl/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/nl/net/) en meer, om documenten naar andere formaten te exporteren.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Conversiebibliotheek voor .NET" %}}
+
+Er zijn drie alternatieve opties om Aspose.Total voor .NET op uw systeem te installeren. Kies er een die het beste bij uw behoeften past en volg de stapsgewijze instructies:<br /><br />
+
+- Installeer een [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Zie [Documentatie](https://docs.aspose.com/total/net/)
+- Installeer de bibliotheek met behulp van Package Manager Console vanaf de selectie van de onderliggende API binnen Visual Studio IDE, zoals [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), enz.
+- Installeer de bibliotheek handmatig met behulp van Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor het opslaan van WEB in PDF-app" %}}
+
+Ons product is volledig platformonafhankelijk en ondersteunt alle belangrijke .NET-implementaties volgens de specificatie '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, beginnend bij de vroegste versie 2.0 en eindigend met de nieuwste versie '.NET Framework 4.8'
+- .NET Core, beginnend bij de vroegste versie 2.0 en eindigend met de laatste versie '.NET 6'
+- Monomeer >= 2.6.7
+<br />
+Omdat .NET-code niet afhankelijk is van de onderliggende hardware of het besturingssysteem, maar alleen van een virtuele machine, kunt u elk soort software ontwikkelen voor Windows, macOS, Android, iOS en Linux. Zorg ervoor dat u de juiste versie van .NET Framework, .NET Core, Windows Azure, Mono of Xamarin hebt geïnstalleerd.<br />
+Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken om C#-, F#- en VB.NET-toepassingen te maken.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Veelgestelde vragen" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Veelgestelde vragen</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kan ik bovenstaande .NET-code in mijn toepassing gebruiken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, u bent van harte welkom om deze code te downloaden. U kunt eenvoudig een professionele oplossing ontwikkelen om WEB te exporteren en op te slaan naar PDF-bestand met behulp van .NET. Gebruik de conversie-API van Aspose WEB naar PDF om hoogwaardige, platformonafhankelijke software te ontwikkelen in .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Exporteert dit document alleen apps die op Windows werken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">U kunt het exporteren van documenten van WEB naar PDF vanaf elk apparaat starten, ongeacht het besturingssysteem waarop het draait: Windows, Linux, Mac OS of Android. Het enige dat u nodig hebt, is een moderne webbrowser en een actieve internetverbinding.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Is het veilig om de online app te gebruiken om meerdere WEB-documenten te converteren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Natuurlijk! De outputbestanden die via onze service worden gegenereerd, worden binnen 24 uur veilig en automatisch van onze servers verwijderd. Als gevolg hiervan zullen de downloadlinks die aan deze bestanden gekoppeld zijn, na deze periode niet meer werken.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Welke browser moet ik gebruiken om de app te gebruiken?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">U kunt elke moderne webbrowser gebruiken, zoals Google Chrome, Firefox, Opera of Safari, voor online WEB-documentconversie.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe kan ik meerdere WEB-bestanden exporteren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Begin met het uploaden van een of meer bestanden die u wilt converteren. U kunt uw WEB-bestanden slepen en neerzetten of gewoon in het witte gebied klikken. Klik vervolgens op de knop 'Converteren'. Onze online conversie-app verwerkt de geüploade bestanden dan snel.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hoe lang duurt het om de WEB-bestanden te converteren?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Deze conversietoepassing werkt snel. Het kan enkele seconden of langer duren om de documenten te uploaden en op te slaan in het gewenste formaat, afhankelijk van de grootte van het document.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

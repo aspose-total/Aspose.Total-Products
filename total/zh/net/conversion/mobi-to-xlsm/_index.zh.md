@@ -1,7 +1,7 @@
 ---
-title: .NET API 将 MOBI 转换为 XLSM 或使用免费的在线转换器
-description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 MOBI 转换为 XLSM 的 C# API 或在线应用程序 或在线。在集成代码之前快速测试免费的 MOBI 到 XLSM 在线转换器。 
-url_ignore: /zh/net/conversion/mobi-to-xlsm/
+title: 在线将 MOBI 转换为 XLSM 或构建基于 .NET 的应用程序来转换 MOBI 文件
+description: 免费在线应用程序将 MOBI 转换为 XLSM 文件。用于 MOBI 文档的 .NET C# 转换库代码。 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,111 +10,168 @@ outformat: XLSM
 otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="将 MOBI 转换为 XLSM 的 C# API 或在线应用程序" h2="通过 C# 将 MOBI 导出为 XLSM，无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="在线 MOBI 到 XLSM 转换应用程序和 .NET 代码以转换 MOBI 文件" h2="开发强大的基于.NET 的MOBI 转换和导出应用程序。 通过 .NET 自动化 API 将单个或多个 MOBI 文件转换为 XLSM 和其他格式。 通过应用程序在线自由转换 MOBI 文件并即时下载。" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-通过使用 [Aspose.Total for .NET](https://products.aspose.com/total/net/)，您可以在任何 .NET、C#、ASP.NET 和 VB.NET 应用程序中包含 MOBI 到 XLSM 的转换功能两个简单的步骤。首先，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 MOBI 导出为 HTML。之后，通过使用 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 电子表格编程 API，您可以将 HTML 转换为 XLSM。
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API 将 MOBI 转换为 XLSM" %}}
-1. 用[Document](https://reference.aspose.com/words/net/aspose.words/mobiument)类打开MOBI文件
-2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) 方法将 MOBI 转换为 HTML
-3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
-4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLSM 格式，并将 `XLSM` 设置为 SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-从命令行安装为 ```nuget install Aspose.Total``` 或通过 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total```。
-
-或者，从 [下载](https://releases.aspose.com/total/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
-
-
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费的 MOBI 到 XLSM 在线转换器</h3>
-
-<iframe title="mobi 到 xlsm 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="免费在线 MOBI 至 XLSM 转换应用程序" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 MOBI 文档" %}}
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 MOBI 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://reference.aspose.com/words/net/aspose.words/mobiument) 构造函数。以下代码示例显示了如何从流中打开文档：  
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="使用应用程序在线将 MOBI 文件转换为 XLSM 文件" %}}
+
+1. 上传 MOBI 文件进行转换
+1. 等待几秒钟或更长时间，具体取决于 MOBI 大小
+1. 留意上传状态栏
+1. 点击“转换”按钮
+1. MOBI 将转换为 XLSM 文档
+1. 下载转换后的XLSM文件
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="通过 .NET 自动化 API 将 MOBI 转换为 XLSM" %}}
+
+
+1. 用[Document](https://reference.aspose.com/words/net/aspose.words/mobiument)类打开MOBI文件
+2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.mobiument/save/methods/4) 方法将 MOBI 转换为 HTML
+3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
+4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLSM 格式，并将 `XLSM` 设置为 SaveFormat
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="通过 C# .NET 将 MOBI 转换为 XLSM" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "convert-word-to-excel.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+使用其他功能（如 通过 C# 从 Stream 加载 MOBI 文档, 通过 C# 在 XLSM 文件中添加自定义属性）将 MOBI 保存为 XLSM 的情况较少。
+
 {{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "load-word-via-stream.cs" >}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="通过 C# 在 XLSM 文件中添加自定义属性" %}}
-在将 MOBI 转换为 XLSM 时，[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 允许您在 XLSM 文档中添加自定义属性。为了添加自定义属性，您可以对 [CustomDocumentPropertyCollection](https://reference.aspose.com/cells/net/aspose.cells.properties/custommobiumentpropertycollection)类。 Add 方法将属性添加到 Excel 文件，并以 [Aspose.Cells.Properties.DocumentProperty](https://reference.aspose.com/cells/net/aspose.cells.properties) 的形式返回新文档属性的引用/mobiumentproperty) 对象。 
-{{% blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-summary %}}
 
-{{< gist "aspose-com-gists" "7a952faebcdf859aef38480f2fabc0dc" "manage-custom-properties-in-excel.cs" >}}
+<h2>使用 .NET 开发 MOBI 文件转换应用程序</h2>
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+需要开发基于 .NET 的软件应用程序来轻松保存和导出 MOBI 文件到 XLSM 文档吗？ 借助 [Aspose.Total for .NET](https://products.aspose.com/total/zh/net/)，任何 .NET 开发人员都可以集成上述 API 代码来编写跨多种格式的转换应用程序，包括 Microsoft Word、Excel、Powerpoint、PDF、电子邮件文件、图像和其他格式。 强大的.NET 文档转换库，支持许多流行格式，包括 MOBI 格式。 将文档导出为其他格式，程序员可以使用 Aspose.Total 的 .NET 子 API，包括 [Aspose.Words for .NET](https://products.aspose.com/words/zh/net/)、[Aspose.Cells for .NET](https://products.aspose.com/cells/zh/net/)、[Aspose.Slides for .NET](https://products.aspose.com/slides/zh/net/)、[Aspose.PDF for .NET](https://products.aspose.com/pdf/zh/net/)、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/zh/net/) 等。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="MOBI .NET 转换库" %}}
+
+有三种可选方法可以将 Aspose.Total for .NET 安装到您的系统上。 请选择一个符合您需求的方案并按照分步说明进行操作：<br /><br />
+
+- 安装 [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)。参见 [文档](https://docs.aspose.com/total/net/)
+- 使用包管理器控制台安装库，并在 Visual Studio IDE 中选择其子 API，如 [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) 等
+- 使用 Windows Installer 手动安装库
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="正在将 MOBI 保存至 XLSM 应用要求" %}}
+
+我们的产品是完全跨平台的，并支持遵循“.NET Standard 2.0”规范的所有主要.NET 实现：<br /><br />
+
+- Microsoft .NET Framework，从最早的2.0版本开始，到最新的“.NET Framework 4.8”结束
+- .NET Core，从最早的2.0开始，到最新的‘.NET 6’结束
+- Mono >= 2.6.7
+<br />
+由于 .NET 代码不依赖于底层硬件或操作系统，而只依赖于虚拟机，因此您可以自由地为 Windows、macOS、Android、iOS 和 Linux 开发任何类型的软件。 只需确保您已安装相应版本的.NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br />
+我们建议使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 来创建 C#、F#、VB.NET 应用程序。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
       <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="常见问题解答" width="335" height="283">
       </div>
       <div class="howtosection col-md-8">
           <div>
-              <h2>经常问的问题</h2>
-              <ul>
+              <h2>常见问题解答</h2>
+               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>如何在线将 MOBI 转换为 XLSM？</b></span>
+                          <span itemprop="name"><b>我可以在我的应用程序中使用上述.NET 代码吗？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">上面集成了用于 MOBI 转换的在线应用程序。首先，您需要通过拖拽添加MOBI文件进行转换。在白色区域内拖放或单击以导入文档。然后单击转换按钮。 MOBI 到 XLSM 转换完成后，您可以下载转换后的文件。因此，您只需单击一下即可获得输出 XLSM 文件。</span>
+                          <span itemprop="text">是的，欢迎您下载此代码。可以轻松开发专业解决方案，使用 .NET 将 MOBI 导出并保存到 XLSM 文件。 使用 Aspose MOBI 到 XLSM 转换 API 在 .NET 中开发高级、独立于平台的软件。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>转换 MOBI 需要多长时间？</b></span>
+                          <span itemprop="name"><b>这个文档导出应用程序只在 Windows 上有效吗？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器运行速度很快，但主要取决于 MOBI 文件的大小。您可以在几秒钟内将小型 MOBI 文件渲染为 XLSM。此外，如果您在 .NET 应用程序中集成了转换代码，这取决于您如何针对转换过程优化您的应用程序。</span>
+                          <span itemprop="text">您可以灵活地从任何设备启动将文档从 MOBI 导出到 XLSM，无论它运行的操作系统是什么，无论是 Windows、Linux、Mac OS 还是 Android。 所需的只是一个现代的网络浏览器和一个有效的互联网连接。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 MOBI 转换为 XLSM 是否安全？</b></span>
+                          <span itemprop="name"><b>使用在线应用程序转换多个 MOBI 文档是否安全？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">当然！ XLSM 文件的下载链接将在转换后立即可用。我们会在 24 小时后删除上传的文件，下载链接将在这段时间后停止工作。没有人可以访问您的文件。文件转换（包括 MOBI）绝对安全。主要是为了测试目的集成免费应用程序，以便在集成代码之前可以检查结果。</span>
+                          <span itemprop="text">当然！通过我们的服务生成的输出文件将在 24 小时内安全自动地从我们的服务器中删除。 因此，在此期间之后，与这些文件相关的下载链接将不再起作用。</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>我应该使用什么浏览器来转换 MOBI？</b></span>
+                          <span itemprop="name"><b>应该使用什么浏览器来使用App？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">您可以使用任何现代浏览器进行此在线转换，例如 Google Chrome、Firefox、Opera、Safari。但如果您正在开发桌面应用程序。 Aspose.Total MOBI Conversion API 将工作顺利。</span>
+                          <span itemprop="text">您可以使用任何现代网络浏览器（如 Google Chrome、Firefox、Opera 或 Safari）进行在线 MOBI 文档转换。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我如何导出多个 MOBI 文件？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">首先上传一个或多个要转换的文件。您可以拖放 MOBI 文件，也可以直接单击白色区域。 然后，单击“转换”按钮，我们的在线转换应用程序将快速处理上传的文件。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>转换 MOBI 文件需要多长时间？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">该转换应用程序运行迅速，可能需要几秒钟或更长时间，具体取决于文档大小上传并保存为所需格式。</span>
                       </div>
                   </li>
               </ul>
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

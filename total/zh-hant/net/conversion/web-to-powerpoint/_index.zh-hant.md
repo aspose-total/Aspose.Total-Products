@@ -1,80 +1,177 @@
 ---
-title: 使用 C# 提取網站數據並將網頁 HTML 轉換為 PowerPoint
-description: 在 .NET 應用程序中抓取網站網頁以及將 HTML 導出到 Microsoft Powerpoint 演示文稿
+title: 線上 WEB 到 Powerpoint 轉換或建立基於 .NET 的應用程式來轉換 WEB 文件
+description: 免費線上應用程式可將 WEB 檔案轉換為 Powerpoint 檔案。 WEB 文件的 .NET C# 轉換程式庫程式碼。  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: POWERPOINT
+outformat: Powerpoint
 otherformats: WORD EXCEL PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C# 將網頁轉換為 PowerPoint" h2="從 HTML 中提取網頁數據。在 .NET 應用程序中將 HTML 導入 Microsoft PowerPoint PPT、PPTX 格式。" >}}
+{{< blocks/products/pf/feature-page-header h1="線上 WEB 到 Powerpoint 轉換應用程式和用於轉換 WEB 檔案的 .NET 程式碼" h2="開發強大的基於 .NET 的 WEB 轉換和導出應用程式。  透過 .NET 自動化 API 將單一或多個 WEB 檔案轉換為 Powerpoint 和其他格式。  透過應用程式在線自由轉換 WEB 文件，並可即時下載。" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>網頁是我們日常生活的重要組成部分，它們用於各種目的。 然而，有時，我們可能需要以不同的格式呈現網頁，例如 PowerPoint 演示文稿。 您不再需要手動將網頁內容複製並粘貼到演示幻燈片中。 相反，您可以使用 .NET API 自動執行該過程，並專注於為您的具有專業外觀的演示文稿創建引人入勝的內容，這些演示文稿既引人入勝又信息豐富。</p><br />
-
-<p>然而，至關重要的是要強調在參與網絡抓取時實踐負責任和道德方法的重要性。 重視網站概述的服務條款、遵守法律規定以及避免可能侵犯隱私或知識產權的活動都是需要仔細考慮的關鍵因素。</p>
-
-<h2 class="heading-border">使用 Aspose.HTML 作為 Scraper API</h2>
-
-<p>借助強大的 Aspose.HTML for .NET API（Aspose.Total for .NET 的組成部分），您可以毫不費力地開發自己的應用程序，這些應用程序專為從 HTML 文檔中進行數據分析和提取而量身定制。 此 API 提供了範圍廣泛的工具，可大大簡化此過程，使您能夠以最高效率有效地處理 HTML 內容。</p><br />
-
-<p>
-在構建爬蟲時，數據選擇器在從 HTML 文件中識別和提取所需信息方面起著關鍵作用。 這些選擇器通常使用 XPath、CSS 選擇器或兩者的組合，作為在 HTML 結構中定位特定數據元素的寶貴工具。 作為導航機制，這些選擇器可以精確定位和提取您打算檢索的所需數據。</p>
-
-<h2 class="heading-border">Web Scrapping 可以執行的任務</h2>
-
-<p>通過使用 Aspose.HTML for .NET，開發人員可以簡化和簡化他們的網頁抓取工作流程，節省時間和精力，同時確保從網頁中準確可靠地提取數據。</p><br />
-
-1. [HTML 導航](https://docs.aspose.com/html/net/html-navigation/) - 使用詳細分析、元素迭代的自定義過濾以及使用 CSS 選擇器或 XPath 的無縫導航等功能全面分析 HTML 文檔。
-2. [下載網址](https://docs.aspose.com/html/net/download-website/) -  從 URL 高效地下載網站並自定義下載過程。 根據您的要求選擇下載整個網站或特定網頁。
-3. [從 URL 下載文件](https://docs.aspose.com/html/net/download-file-from-url/) - 從 URL 輕鬆下載文件。
-4. [從網站下載圖像](https://docs.aspose.com/html/net/download-images-from-website/) - 從網站下載各種類型的圖像。
-5. [從網站下載 SVG](https://docs.aspose.com/html/net/download-svg-from-website/) - 使用 C# 從網站檢索可縮放矢量圖形 (SVG) 文件。
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何使用 C# 提取 Web 數據？" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="免費在線 WEB 到 Powerpoint 轉換應用程序" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="使用應用程式在線將 WEB 轉換為 Powerpoint 文件" %}}
+
+1. 上傳要轉換的 WEB 文件
+1. 等待幾秒鐘或更長時間，取決於 WEB 大小
+1. 留意上傳狀態列
+1. 點選“轉換”按鈕
+1. WEB將轉換為Powerpoint文檔
+1. 下載轉換後的Powerpoint文件
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="透過 .NET Automation API 將 WEB 轉換為 Powerpoint" %}}
+
+
 
 1. 使用 URL 從 URL 初始化 HTML 文檔 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) 構造函數。
 2. 通過使用檢索匹配特定選擇器的元素 [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) 方法。
 3. 遍曆元素列表並根據您的特定要求自定義輸出格式。
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="網頁抓取和轉換要求" %}}
-從命令行安裝為 ```nuget install Aspose.Total``` 或直接從 Visual Studio 的包管理器控制台安裝。
+{{% blocks/products/pf/agp/code-block title="透過 C# .NET 將 WEB 轉換為 Powerpoint" offSpacer="" %}}
 
-二 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 子 API， [Aspose.HTML for .NET](https://products.aspose.com/html/net/) 和 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) 將被整合。
-
-或者，從 ZIP 文件中獲取脫機 MSI 安裝程序或 DLL [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Slides 將 HTML 轉換為 PowerPoint" %}}
-<p>Aspose.Slides for .NET 是一個強大的 .NET 庫，提供創建、轉換和操作 PowerPoint 演示文稿、PDF、HTML 文檔和其他文件格式的功能。 將 HTML 轉換為 PowerPoint 涉及將 HTML 文檔的內容轉換為 PowerPoint 演示文稿中的幻燈片。</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>在 C# 中將 HTML 轉換為 Microsoft PowerPoint 演示文稿 PPT、PPTX 對於 .NET 開發人員來說是一個簡單的過程。 您只需幾行代碼即可實現它：:</p><br />
-
-1. 創建 Presentation 類的實例。
-1. 使用適當的方法或構造函數加載要轉換為 Presentation 的 HTML 文檔。
-1. 使用 Save 方法將生成的文件保存為相關的 Powerpoint 演示文稿格式。
+使用 使用 Aspose.Slides 將 HTML 轉換為 PowerPoint 等其他功能將 WEB 保存到 Powerpoint 的情況很少見。
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>使用.NET開發WEB檔案轉換應用程式</h2>
+
+需要開發基於 .NET 的軟體應用程式以輕鬆保存 WEB 文件並將其匯出到 Powerpoint 文件？  借助 [Aspose.Total for .NET](https://products.aspose.com/total/zh-hant/net/)，任何 .NET 開發人員都可以整合上述 API 程式碼來編寫跨各種格式的轉換應用程序，包括 Microsoft Word、Excel、Powerpoint、PDF、電子郵件文件、圖像和其他格式。  強大的.NET文件轉換庫，支援許多流行的格式，包括WEB格式。  將文件匯出為其他格式，程式設計師可以將 Aspose.Total 用於 .NET 子 API，包括 [Aspose.Words for .NET](https://products.aspose.com/words/zh-hant/net/)、[Aspose.Cells for .NET](https://products.aspose.com/cells/zh-hant/net/)、[Aspose.Slides for .NET](https://products.aspose.com/slides/zh-hant/net/)、[Aspose.PDF for .NET](https://products.aspose.com/pdf/zh-hant/net/)、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/zh-hant/net/) 等。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET 轉換函式庫" %}}
+
+可以透過三種替代選項將 Aspose.Total for .NET 安裝到您的系統上。  請選擇符合您需求的一項並按照逐步說明進行操作：<br /><br />
+
+- 安裝 [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)。參見 [文件](https://docs.aspose.com/total/net/)
+- 使用套件管理器控制台在 Visual Studio IDE 中選擇其子 API（如 [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) 等）來安裝程式庫
+- 使用 Windows Installer 手動安裝函式庫
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="將 WEB 儲存到 Powerpoint 應用程式要求" %}}
+
+我們的產品完全跨平台，支援遵循「.NET Standard 2.0」規範的所有主要 .NET 實作：<br /><br />
+
+- Microsoft .NET Framework，從最早的2.0版本開始，到最新的「.NET Framework 4.8」結束
+- .NET Core，從最早的2.0開始，到最新的「.NET 6」結束
+- 單聲道 >= 2.6.7
+<br />
+由於 .NET 程式碼不依賴底層硬體或作業系統，而僅依賴虛擬機，因此您可以自由地為 Windows、macOS、Android、iOS 和 Linux 開發任何類型的軟體。  只要確保您已安裝對應版本的 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin。<br />
+我們建議使用 Microsoft Visual Studio、Xamarin 和 MonoDevelop IDE 建立 C#、F#、VB.NET 應用程式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="常見問題解答" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>常見問題解答</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我可以在我的應用程式中使用上述 .NET 程式碼嗎？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">是的，歡迎您下載此程式碼。人們可以輕鬆開發專業的解決方案，使用 .NET 將 WEB 匯出並儲存到 Powerpoint 檔案。  使用 Aspose WEB 到 Powerpoint 轉換 API 在 .NET 中開發高階、平台無關的軟體。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>這個導出App的文檔只能在Windows上運作嗎？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以靈活地從任何裝置開始將文件從 WEB 匯出到 Powerpoint，無論其運行何種作業系統，無論是 Windows、Linux、Mac OS 還是 Android。  所需要的只是一個現代的網路瀏覽器和一個活躍的網路連線。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>使用線上應用程式轉換多個 WEB 文件是否安全？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">當然！透過我們的服務產生的輸出檔案將在 24 小時內安全、自動地從我們的伺服器中刪除。  因此，與這些文件關聯的下載連結將在此期限後停止運行。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>App該用什麼瀏覽器？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以使用任何現代網頁瀏覽器（例如 Google Chrome、Firefox、Opera 或 Safari）進行線上 WEB 文件轉換。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>如何匯出多個 WEB 檔案？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">首先上傳您要轉換的一個或多個檔案。您可以拖曳 WEB 文件，也可以直接點選白色區域。  然後，點擊“轉換”按鈕，我們的線上轉換應用程式將快速處理上傳的檔案。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>轉換 WEB 檔案需要多長時間？/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">此轉換應用程式運行速度很快，根據文件大小，可能需要幾秒鐘或更長時間才能上傳並將其儲存為所需的格式。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,78 +1,175 @@
 ---
-title: C# を使用して Web サイトデータを抽出し、Web ページの HTML を PowerPoint に変換する
-description: Web サイトの Web ページをスクレイピングし、.NET アプリケーション内で HTML を Microsoft Powerpoint プレゼンテーションにエクスポートします
+title: オンラインで WEB から Powerpoint への変換、または WEB ファイルを変換するための .NET ベースのアプリケーションの構築
+description: WEB を Powerpoint ファイルに変換する無料オンライン アプリ。WEB ドキュメント用の .NET C# 変換ライブラリ コード。 
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: POWERPOINT
+outformat: Powerpoint
 otherformats: WORD EXCEL PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# 経由で Web ページを PowerPoint に変換する" h2="HTML から Web ページのデータを抽出します。 .NET アプリケーション内で HTML を Microsoft PowerPoint PPT、PPTX 形式にインポートします。" >}}
+{{< blocks/products/pf/feature-page-header h1="オンラインの WEB から Powerpoint への変換アプリと WEB ファイルを変換する .NET コード" h2="強力な .NET ベースの WEB 変換およびエクスポート アプリケーションを開発します。 .NET オートメーション API を使用して、単一または複数の WEB ファイルを Powerpoint およびその他の形式に変換します。 アプリ経由で即座にダウンロードして、WEB ファイルをオンラインで自由に変換します。" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Web ページは私たちの日常生活に欠かせないものであり、さまざまな目的で使用されています。 ただし、場合によっては、PowerPoint プレゼンテーションなど、Web ページを別の形式で表示する必要がある場合があります。 Web ページからコンテンツを手動でコピーしてプレゼンテーション スライドに貼り付ける必要はなくなりました。 代わりに、.NET API を使用してプロセスを自動化し、魅力的で有益なプロフェッショナルなプレゼンテーション用の魅力的なコンテンツの作成に集中できます。</p><br />
-
-<p>それにもかかわらず、Web スクレイピングに取り組む際には、責任ある倫理的なアプローチを実践することの重要性を強調することが重要です。 Web サイトに記載されている利用規約を尊重し、法的規制を遵守し、プライバシーや知的財産権を侵害する可能性のある活動を避けることはすべて、慎重な検討が必要な重要な要素です。</p>
-
-<h2 class="heading-border">Aspose.HTML をスクレイパー API として使用する</h2>
-
-<p>Aspose.Total for .NET の不可欠な部分である強力な Aspose.HTML for .NET API を使用すると、HTML ドキュメントからのデータ分析と抽出に特化した独自のアプリケーションを簡単に開発できます。 この API は、このプロセスを大幅に合理化する広範なツールを提供し、HTML コンテンツを最大限の効率で効果的に処理できるようにします。</p><br />
-
-<p>
-スクレイパーを構築する場合、データ セレクターは、HTML ファイルから必要な情報を識別して抽出する上で重要な役割を果たします。 これらのセレクターは、多くの場合 XPath、CSS セレクター、またはその両方の組み合わせを利用し、HTML 構造内の特定のデータ要素を見つけるための貴重な手段として機能します。 これらのセレクターはナビゲーション メカニズムとして機能し、取得する目的のデータを正確にターゲティングして抽出することができます。</p>
-
-<h2 class="heading-border">Webスクレイピングのために実行できるタスク</h2>
-
-<p>Aspose.HTML for .NET を利用することで、開発者は Web スクレイピング ワークフローを合理化および簡素化し、時間と労力を節約しながら、Web ページからの正確かつ信頼性の高いデータ抽出を保証できます。</p><br />
-
-1. [HTMLナビゲーション](https://docs.aspose.com/html/net/html-navigation/) - 詳細な分析、要素反復のカスタム フィルタリング、CSS セレクターまたは XPath を使用したシームレスなナビゲーションなどの機能を使用して、HTML ドキュメントを包括的に分析します。
-2. [ダウンロードウェブサイト](https://docs.aspose.com/html/net/download-website/) -  URL から Web サイトを効率的にダウンロードし、ダウンロード プロセスをカスタマイズします。 要件に応じて、Web サイト全体をダウンロードするか、特定の Web ページをダウンロードするかを選択します。
-3. [URLからファイルをダウンロード](https://docs.aspose.com/html/net/download-file-from-url/) - URLからファイルを簡単にダウンロードできます。
-4. [ウェブサイトから画像をダウンロード](https://docs.aspose.com/html/net/download-images-from-website/) - Web サイトからさまざまな種類の画像をダウンロードします。
-5. [ウェブサイトから SVG をダウンロード](https://docs.aspose.com/html/net/download-svg-from-website/) - C# を使用して Web サイトからスケーラブル ベクター グラフィックス (SVG) ファイルを取得します。
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# を使用して Web データを抽出するにはどうすればよいですか?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="無料のオンライン WEB から Powerpoint への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="アプリを使用してオンラインでWEBをPowerpointファイルに変換する" %}}
+
+1. 変換するWEBファイルをアップロードします
+1. WEBのサイズに応じて数秒以上待ちます
+1. アップロードステータスバーに注意してください
+1. 「変換」ボタンをクリックします
+1. WEB は Powerpoint ドキュメントに変換されます
+1. 変換されたPowerpointファイルをダウンロードする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title=".NET Automation API 経由で WEB を Powerpoint に変換する" %}}
+
+
 
 1. を利用して URL から HTML ドキュメントを初期化します。 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) コンストラクタ。
 2. を使用して、特定のセレクターに一致する要素を取得します。 [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) 方法。
 3. 要素のリストを繰り返し処理し、特定の要件に応じて出力形式をカスタマイズします。
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Web スクラッチと変換の要件" %}}
-``nuget install Aspose.Total`` としてコマンド ラインからインストールするか、Visual Studio のパッケージ マネージャー コンソールから直接インストールします。
+{{% blocks/products/pf/agp/code-block title="C# .NET 経由で WEB を Powerpoint に変換する" offSpacer="" %}}
 
-二 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 子API、 [Aspose.HTML for .NET](https://products.aspose.com/html/net/) と [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) 統合されることになります。
-
-または、オフライン MSI インストーラーまたは ZIP ファイル内の DLL を次のサイトから入手します。 [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Slides を使用した HTML から PowerPoint への変換" %}}
-<p>Aspose.Slides for .NET は、PowerPoint プレゼンテーション、PDF、HTML ドキュメント、およびその他のファイル形式を作成、変換、操作する機能を提供する堅牢な .NET ライブラリです。 HTML を PowerPoint に変換するには、HTML ドキュメントのコンテンツを PowerPoint プレゼンテーション内のスライドに転送する必要があります。</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>C# での HTML から Microsoft PowerPoint プレゼンテーション PPT、PPTX への変換は、.NET 開発者にとって簡単なプロセスです。 わずか数行のコードでこれを実現できます。:</p><br />
-
-1. Presentation クラスのインスタンスを作成します。
-1. 適切なメソッドまたはコンストラクターを使用して、プレゼンテーションに変換する HTML ドキュメントを読み込みます。
-1. Save メソッドを使用して、結果のファイルを関連する Powerpoint プレゼンテーション形式として保存します。
+Aspose.Slides を使用した HTML から PowerPoint への変換 などの他の機能を使用して WEB を Powerpoint に保存するケースがさらにいくつかあります。
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET を使用して WEB ファイル変換アプリケーションを開発する</h2>
+
+WEB ファイルを Powerpoint ドキュメントに簡単に保存およびエクスポートするための .NET ベースのソフトウェア アプリケーションを開発する必要がありますか? [Aspose.Total for .NET](https://products.aspose.com/total/ja/net/) を使用すると、.NET 開発者は誰でも上記の API コードを統合して、Microsoft Word、Excel、Powerpoint、PDF、電子メール ファイル、画像、その他の形式を含むさまざまな形式にわたる変換アプリケーションをプログラムできます。 ドキュメント変換用の強力な .NET ライブラリ。WEB 形式を含む多くの一般的な形式をサポートします。 ドキュメントを他の形式にエクスポートする場合、プログラマーは [Aspose.Words for .NET](https://products.aspose.com/words/ja/net/)、[Aspose.Cells for .NET](https://products.aspose.com/cells/ja/net/)、[Aspose.Slides for .NET](https://products.aspose.com/slides/ja/net/)、[Aspose.PDF for .NET](https://products.aspose.com/pdf/ja/net/)、[Aspose.Imaging for .NET](https://products.aspose.com/imaging/ja/net/) などの Aspose.Total for .NET 子 API を使用できます。<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB .NET 用変換ライブラリ" %}}
+
+Aspose.Total for .NET をシステムにインストールするには、3 つの代替オプションがあります。 ニーズに似たものを選択し、ステップバイステップの指示に従ってください。<br /><br />
+
+- [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)をインストールします。[ドキュメント](https://docs.aspose.com/total/net/)を参照してください
+- Visual Studio IDE 内で [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui)、[Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) などの子 API を選択して、パッケージ マネージャー コンソールを使用してライブラリをインストールします。
+- Windowsインストーラーを使用してライブラリを手動でインストールする
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="WEB を Powerpoint に保存するアプリの要件" %}}
+
+当社製品は完全にクロスプラットフォームであり、「.NET Standard 2.0」仕様に準拠したすべての主要な .NET 実装をサポートしています。<br /><br />
+
+- Microsoft .NET Framework、最も古いバージョン 2.0 から始まり、最新の「.NET Framework 4.8」まで
+- .NET Core は、最も古い 2.0 から始まり、最新の '.NET 6' で終わります。
+- モノラル >= 2.6.7
+<br />
+.NET コードは基盤となるハードウェアやオペレーティング システムに依存せず、仮想マシンのみに依存するため、Windows、macOS、Android、iOS、Linux 向けのあらゆる種類のソフトウェアを自由に開発できます。 .NET Framework、.NET Core、Windows Azure、Mono、または Xamarin の対応するバージョンがインストールされていることを確認してください。<br />
+C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visual Studio、Xamarin、MonoDevelop IDE を使用することをお勧めします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="よくある質問" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>よくある質問</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>上記の .NET コードをアプリケーションで使用できますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">はい、このコードをダウンロードしていただけます。.NET を使用して、WEB を Powerpoint ファイルにエクスポートして保存するプロフェッショナルなソリューションを簡単に開発できます。 Aspose WEB から Powerpoint への変換 API を使用して、.NET で高レベルのプラットフォームに依存しないソフトウェアを開発します。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>このドキュメントエクスポートアプリは Windows でのみ動作しますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Windows、Linux、Mac OS、Android など、どのオペレーティング システムで実行されているかに関係なく、どのデバイスからでも WEB から Powerpoint へのドキュメントのエクスポートを開始できる柔軟性があります。 必要なのは、最新の Web ブラウザとアクティブなインターネット接続だけです。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>オンライン アプリを使用して複数の WEB ドキュメントを変換するのは安全ですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">もちろんです! 当社のサービスを通じて生成された出力ファイルは、24 時間以内に当社サーバーから安全かつ自動的に削除されます。 その結果、これらのファイルに関連付けられたダウンロード リンクは、この期間を過ぎると機能しなくなります。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>アプリを使用するにはどのブラウザが必要ですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">オンラインでの WEB ドキュメント変換には、Google Chrome、Firefox、Opera、Safari などの最新の Web ブラウザを使用できます。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>複数の WEB ファイルをエクスポートするにはどうすればよいですか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">まず、変換したい 1 つ以上のファイルをアップロードします。WEB ファイルをドラッグ アンド ドロップするか、白い領域内をクリックするだけです。 その後、「変換」ボタンをクリックすると、オンライン変換アプリがアップロードされたファイルをすぐに処理します。</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>WEB ファイルの変換にはどのくらい時間がかかりますか?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">この変換アプリケーションは高速に動作しますが、ドキュメントのサイズによっては、アップロードして必要な形式で保存するまでに数秒以上かかる場合があります。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

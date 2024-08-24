@@ -1,77 +1,175 @@
 ---
-title: A webhelyadatok kibontása és a weboldalak HTML-jének konvertálása Excel-fájlba a C# használatával
-description: Weboldalak kaparása, valamint HTML exportálása Microsoft Excel dokumentumokba. .NET-alkalmazások fejlesztése a webhelyadatok XLS, XLSX formátumba kaparásához.
+title: Online WEB konvertálás Excel formátumba vagy .NET alapú alkalmazás létrehozása WEB fájlok konvertálásához
+description: Ingyenes online alkalmazás az WEB fájl Excel fájlokká konvertálásához. .NET C# konverziós könyvtár kódja az WEB dokumentumokhoz.  
+
 family: total
 platformtag: net
 feature: conversion
 informat: WEB
-outformat: EXCEL
+outformat: Excel
 otherformats: WORD POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Weboldalak konvertálása Excelbe C# segítségével" h2="Kivonja a weboldalak adatait a HTML-ből. Importáljon HTML-t Microsoft Excel XLS, XLSX formátumokba a .NET alkalmazásokon belül." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB konvertáló alkalmazás Excel formátumba és .NET kód az WEB fájlok konvertálásához" h2="Hatékony .NET alapú WEB konvertáló és exportáló alkalmazás fejlesztése.  Egyetlen vagy több WEB fájl konvertálása Excel és más formátumokba a .NET automatizálási API-n keresztül.  Ingyenesen konvertálhat WEB fájlokat online az alkalmazáson keresztül, azonnali letöltéssel." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>A weboldalak az internet elengedhetetlen részét képezik, és rengeteg olyan információt tartalmaznak, amely egyének és szervezetek számára hasznos. Egyes felhasználók azonban kihívást jelenthetnek az adatok kinyerése a weboldalakról, különösen akkor, ha az információ több oldalon van elosztva. Ilyen esetekben hasznos megoldás lehet a weboldalak Excel formátumba átalakítása.</p><br />
-<p>A weboldalak Excel formátumba konvertálása magában foglalja a weboldalon lévő adatok strukturált formátumba történő átalakítását, amely könnyen importálható az Excelbe. Ez a folyamat automatizálható olyan szoftvereszközökkel, amelyeket kifejezetten erre a célra terveztek. Ezek az eszközök több weboldalról is képesek adatokat kinyerni, és egyetlen Excel-fájllá konvertálni, amely szükség szerint elemezhető és módosítható.</p><br />
-
-<p>Fontos azonban hangsúlyozni a felelősségteljes és etikus gyakorlatok fontosságát, amikor a webkaparásról van szó. A weboldalak szolgáltatási feltételeinek tiszteletben tartása, a törvényi előírások betartása, valamint a magánélethez vagy a szellemi tulajdonhoz fűződő jogok sérelmét sértő tevékenységektől való tartózkodás mind létfontosságú szempont, amelyet figyelembe kell venni.</p>
-
-<h2 class="heading-border">Az Aspose.HTML használata Scraper API-ként</h2>
-
-<p>Az Aspose.HTML for .NET API felhasználásával, amely az Aspose.Total for .NET összetevője, zökkenőmentesen létrehozhatja saját alkalmazásait, amelyek adatok elemzésére és HTML-dokumentumok kinyerésére szolgálnak. Ez az API átfogó eszközkészletet kínál, amely nagyban leegyszerűsíti ezt a vállalkozást, és lehetővé teszi a HTML-tartalommal való hatékony munkavégzést.</p><br />
-
-<p>A lehúzó fejlesztése során az adatválasztóknak óriási jelentősége van a kívánt információ azonosításában és HTML-fájlokból való kinyerésében. Ezek a szelektorok, amelyek általában XPath-ot, CSS-szelektorokat vagy mindkettő keverékét alkalmazzák, értékes eszközökként szolgálnak a HTML-struktúrán belüli meghatározott adatelemek megtalálásához. Ezek a navigációs mechanizmusként működve megkönnyítik a lekérni kívánt adatok pontos célzását és kinyerését.</p>
-
-<h2 class="heading-border">A webes selejtezéshez végrehajtható feladatok</h2>
-
-<p>Az Aspose.HTML for .NET használatával a fejlesztők könnyedén automatizálhatják a weboldalakról történő adatkinyerési folyamatot, lehetővé téve számukra a következő webkaparási feladatok hatékony végrehajtását.</p><br />
-
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Alaposan elemezze a HTML dokumentumokat és azok elemeit. Használja ki az olyan funkciók előnyeit, mint a részletes elemzés, az elemiteráció egyéni szűrése, valamint a CSS Selectors vagy XPath segítségével történő zökkenőmentes navigáció.
-2. [Webhely letöltése](https://docs.aspose.com/html/net/download-website/) - Hatékonyan tölthet le webhelyeket az URL-ekről, és testreszabhatja a letöltési folyamatot. Válassza ki, hogy a teljes webhelyet vagy bizonyos weboldalakat tölti le saját igényei szerint.
-3. [Fájlok letöltése az URL-ről](https://docs.aspose.com/html/net/download-file-from-url/) - Könnyen letölthet fájlokat egy URL-ről.
-4. [Képek letöltése a webhelyről](https://docs.aspose.com/html/net/download-images-from-website/) - Különféle képek letöltése webhelyekről.
-5. [Töltse le az SVG-t a webhelyről](https://docs.aspose.com/html/net/download-svg-from-website/) - Scalable Vector Graphics (SVG) fájlok lekérése egy webhelyről C# használatával.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet webes adatokat kivonni C# használatával?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ingyenes online WEB–Excel konverziós alkalmazás" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertálja az WEB fájlokat Excel fájlokká online az alkalmazás segítségével" %}}
+
+1. Töltse fel a konvertálandó WEB fájlokat
+1. Várjon néhány másodpercet vagy többet az WEB méretétől függően
+1. Tartsa szemmel a feltöltési állapotsort
+1. Kattintson a "Konvertálás" gombra
+1. Az WEB Excel dokumentummá lesz konvertálva
+1. Töltse le a konvertált Excel fájlt
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) WEB konvertálása Excel-re a .NET Automation API-n keresztül" %}}
+
+
 
 1. Inicializáljon egy HTML-dokumentumot egy URL-ből a következő használatával [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktőr.
 2. Adjon meg egy választót a gombbal [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) módszert a választónak megfelelő összes elem lekéréséhez.
 3. Ismételje meg az elemek listáját, és formázza a kimenetet sajátos igényei szerint.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Webes selejtezési és átalakítási követelmények" %}}
-Telepítse parancssorból ```nuget install Aspose.Total``` néven, vagy telepítse közvetlenül a Visual Studio Package Manager konzoljából.
+{{% blocks/products/pf/agp/code-block title="Konvertálja az WEB-t Excel-re C# .NET-en keresztül" offSpacer="" %}}
 
-Kettő [Aspose.Total for .NET](https://products.aspose.com/total/net/) gyermek API-k, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) és [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) integrálni fogják.
-
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Az Aspose.Cells használata a HTML-ből Excelbe való konvertálásához" %}}
-<p>A HTML XLS-re konvertálásához használhatja az Aspose.Cells for .NET API-t, amely lehetővé teszi, hogy ezt a feladatot programozottan, néhány sornyi kóddal hajtsa végre. Az API-val többplatformos alkalmazásokat fejleszthet, amelyek képesek különféle Excel-fájlok generálására, módosítására, konvertálására, renderelésére és nyomtatására. A .NET Excel API túlmutat az egyszerű formátumátalakításon, hiszen képes Excel-fájlokat is megjeleníteni képként, PDF-ként, HTML-ként, ODS-ként, CSV-ként, SVG-ként, JSON-ként, WORD-ként, PPT-ként stb. Ez az átfogó funkció kiváló választássá teszi a szabványos formátumú dokumentumok cseréjéhez.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>A HTML konvertálása Microsoft Excel XLS, XLSX C# nyelven egyszerű folyamat a .NET fejlesztők számára. Ezt csak néhány sornyi kóddal érheti el:</p><br />
-
-1. Töltse be a HTML-fájlt a Workbook osztály példányának létrehozásával.
-1. Konvertálja a betöltött HTML-kódot Excelbe a Mentés metódus meghívásával a munkafüzet példányon.
+Még néhány eset a(z) WEB elmentésére a(z) Excel állományba más funkciókkal, mint például az Az Aspose.Cells használata a HTML-ből Excelbe való konvertálásához.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-excel.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>WEB fájlkonverziós alkalmazás fejlesztése .NET használatával</h2>
+
+.NET-alapú szoftveralkalmazást kell fejlesztenie az WEB fájlok egyszerű mentéséhez és exportálásához Excel dokumentumba?  A [Aspose.Total for .NET](https://products.aspose.com/total/hu/net/) segítségével bármely .NET fejlesztő integrálhatja a fenti API-kódot, hogy programozza a konvertáló alkalmazást különféle formátumokban, beleértve a Microsoft Word, Excel, Powerpoint, PDF, e-mail fájlokat, képeket és más formátumokat.  Erőteljes .NET-könyvtár a dokumentumok konvertálásához, számos népszerű formátumot támogat, beleértve az WEB formátumot.  A dokumentumok más formátumokba exportálásakor a programozók használhatják az Aspose.Total-t a .NET gyermek API-khoz, beleértve a [Aspose.Words for .NET](https://products.aspose.com/words/hu/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/hu/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/hu/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/hu/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/hu/net/) és egyéb formátumokat.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Konverziós könyvtár a .NET-hez" %}}
+
+Három alternatív lehetőség van az Aspose.Total for .NET telepítésére a rendszerre.  Kérjük, válasszon egyet, amely megfelel az Ön igényeinek, és kövesse a lépésről lépésre található utasításokat:<br /><br />
+
+- Telepítsen egy [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)-et. Lásd [Dokumentáció](https://docs.aspose.com/total/net/)
+- Telepítse a könyvtárat a Package Manager Console használatával a Visual Studio IDE-ben, például [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) stb.
+- Telepítse a könyvtárat manuálisan a Windows Installer segítségével
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="A(z) WEB mentése a(z) Excel alkalmazáskövetelmények közé" %}}
+
+Termékünk teljes mértékben többplatformos, és támogatja az összes főbb .NET implementációt a „.NET Standard 2.0” specifikációt követve:<br /><br />
+
+- Microsoft .NET-keretrendszer, a legkorábbi 2.0-s verziótól kezdve a legújabb „.NET-keretrendszer 4.8”-ig
+- .NET Core, a legkorábbi 2.0-tól kezdve és a legújabb „.NET 6”-ig
+- Mono >= 2.6.7
+<br />
+Mivel a .NET kód nem a mögöttes hardverre vagy operációs rendszerre támaszkodik, hanem csak egy virtuális gépre, így szabadon fejleszthet bármilyen szoftvert Windowsra, macOS-re, Androidra, iOS-re és Linuxra.  Csak győződjön meg arról, hogy telepítette a .NET-keretrendszer, a .NET Core, a Windows Azure, a Mono vagy a Xamarin megfelelő verzióját.<br />
+C#, F#, VB.NET alkalmazások létrehozásához javasoljuk a Microsoft Visual Studio, Xamarin és MonoDevelop IDE használatát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="GYIK" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>GYIK</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Használhatom a fenti .NET kódot az alkalmazásomban?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Igen, nyugodtan letöltheti ezt a kódot. Könnyen fejleszthet professzionális megoldást az WEB exportálására és Excel fájlba való mentésére .NET használatával.  Használja az Aspose WEB to Excel konverziós API-t magas szintű, platformfüggetlen szoftverek fejlesztéséhez .NET-ben.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ez az alkalmazást exportáló dokumentum csak Windows rendszeren működik?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rugalmasan kezdeményezheti a dokumentum exportálását WEB-ről Excel-re bármilyen eszközről, függetlenül attól, hogy melyik operációs rendszeren fut, legyen az Windows, Linux, Mac OS vagy Android.  Mindössze egy modern webböngészőre és egy aktív internetkapcsolatra van szükség.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Biztonságos az online alkalmazás használata több WEB dokumentum konvertálására?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Természetesen! A szolgáltatásunkon keresztül generált kimeneti fájlokat 24 órás időkereten belül biztonságosan és automatikusan eltávolítjuk szervereinkről.  Ennek eredményeként az ezekhez a fájlokhoz kapcsolódó letöltési hivatkozások ezen időszak letelte után nem működnek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Milyen böngészőt kell használni az alkalmazáshoz?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bármely modern webböngészőt, például a Google Chrome-ot, a Firefoxot, az Opera-t vagy a Safarit használhatja az online WEB dokumentumok konvertálásához.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hogyan exportálhatok több WEB fájlt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Kezdje egy vagy több konvertálni kívánt fájl feltöltésével. Áthúzhatja WEB fájljait, vagy egyszerűen kattintson a fehér területre.  Ezután kattintson a „Konvertálás” gombra, és online konvertáló alkalmazásunk gyorsan feldolgozza a feltöltött fájlokat.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Mennyi ideig tart az WEB fájlok konvertálása?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ez a konvertáló alkalmazás gyorsan működik, a dokumentum méretétől függően néhány másodpercig vagy tovább is eltarthat a feltöltése és a szükséges formátumba mentése.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

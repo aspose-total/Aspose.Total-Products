@@ -1,6 +1,7 @@
 ---
-title: Konvertera webbsidor till PDF-filer med C#
-description: Skrapa webbsidor och exportera HTML till PDF-dokument. Utveckla .NET-applikationer för att skrapa webbplatsdata till PDF. 
+title: Online WEB till PDF-konvertering eller bygg .NET-baserad applikation för att konvertera WEB-filer
+description: Gratis onlineapp för att konvertera WEB till PDF-filer. .NET C#-konverteringsbibliotekskod för WEB-dokument.  
+
 family: total
 platformtag: net
 feature: conversion
@@ -9,69 +10,166 @@ outformat: PDF
 otherformats: WORD EXCEL POWERPOINT IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera webbsidor till PDF via C#" h2="Extrahera webbplatsdata från HTML-webbsidor. Importera HTML till PDF-dokument i .NET-applikationer." >}}
+{{< blocks/products/pf/feature-page-header h1="Online WEB till PDF-konverteringsapp och .NET-kod för att konvertera WEB-filer" h2="Utveckla kraftfull .NET-baserad WEB-omvandlings- och exportapplikation.  Konvertera enstaka eller flera WEB-filer till PDF och andra format via .NET automation API.  Konvertera fritt WEB-filer online via app med omedelbar nedladdning." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-<p>Att konvertera webbsidor till PDF-filer har blivit en viktig uppgift för många företag och privatpersoner. Detta kan vara användbart för att arkivera viktig information, dela innehåll med ochra eller helt enkelt för personlig referens. Med hjälp av olika .NET API:er kan utvecklare skapa robusta och effektiva lösningar för webbsidekonvertering, som kan anpassas för att möta specifika krav.</p><br />
-
-<p>Det är viktigt att betona vikten av att bedriva webbskrapning på ett ansvarsfullt och etiskt sätt. Det är av yttersta vikt att respektera användarvillkoren för webbplatser, följa lagliga regler och avstå från att delta i aktiviteter som potentiellt skulle kunna göra intrång i integritet eller immateriella rättigheter.</p>
-
-<h2 class="heading-border">Använder Aspose.HTML som HTML Parser API</h2>
-
-<p>En av de mest populära API:erna för att analysera webbsidor via C# är Aspose.HTML för .NET, ett underordnat API för Aspose.Total för .NET. Det är ett enkelt och lättanvänt API för att analysera HTML och CSS i .NET-applikationer. Den tillhochahåller en rad funktioner som gör det enkelt att extrahera data från HTML-filer och manipulera dokumentstrukturen med lätthet</p><br />
-
-<p>När man utvecklar en webbskrapa blir valet av data avgöroche för att effektivt identifiera och extrahera den önskade informationen från HTML-filer. Dataväljare, som ofta använder XPath, CSS-väljare eller en kombination av båda, spelar en grundläggoche roll för att lokalisera de exakta dataelementen i HTML-strukturen. Genom att fungera som navigeringsverktyg i dokumentet låter dessa väljare dig lokalisera och extrahera den data du behöver.</p>
-
-<h2 class="heading-border">Uppgifter man kan utföra för webbskrotning</h2>
-
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
-
-1. [HTML-navigering](https://docs.aspose.com/html/net/html-navigation/) - Genomför omfattoche inspektioner av HTML-dokument och deras delar. Den här funktionen underlättar detaljerad analys, anpassad filtrering för elementiteration och sömlös navigering med CSS Selectors eller XPath.
-2. [Ladda ner webbplats](https://docs.aspose.com/html/net/download-website/) - Ladda ner webbplatser från webbadresser och anpassa nedladdningsprocessen. Du har flexibiliteten att ladda ner hela webbplatsen eller specifika webbsidor, skräddarsy processen för att möta dina specifika krav.
-3. [Ladda ner filer från URL](https://docs.aspose.com/html/net/download-file-from-url/) - Ladda ner filer effektivt från URL:er med Aspose.HTML för .NET.
-4. [Ladda ner bilder från hemsidan](https://docs.aspose.com/html/net/download-images-from-website/) - Ladda ner olika typer av bilder sömlöst från webbplatser med hjälp av funktionerna som tillhochahålls av Aspose.HTML för .NET.
-5. [Ladda ner SVG från webbplatsen](https://docs.aspose.com/html/net/download-svg-from-website/) - Hämta Scalable Vector Graphics-filer (SVG) från webbplatser som använder C# med hjälp av Aspose.HTML för .NET.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hur extraherar man webbplatsdata med C#?" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis onlinekonverteringsapp från WEB till PDF" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=web" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera WEB till PDF-filer online med app" %}}
+
+1. Ladda upp WEB-filer för att konvertera
+1. Vänta i några sekunder eller mer beroende på storleken på WEB
+1. Håll ett öga på uppladdningsstatusfältet
+1. Klicka på knappen "Konvertera".
+1. WEB kommer att konverteras till PDF-dokument
+1. Ladda ner den konverterade PDF-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera WEB till PDF via .NET Automation API" %}}
+
+
 
 1. Initiera ett HTML-dokument från en URL genom att använda [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) konstruktör.
 2. Anställa [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) metod för att definiera en väljare och hämta alla element som motsvarar väljaren.
 3. Gå igenom listan med element och formatera utdata enligt dina specifika krav.
  
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Krav för webbskrotning och PDF-konvertering" %}}
-Installera från kommochoraden som ```nuget install Aspose.Total``` eller installera direkt från Package Manager Console i Visual Studio.
+{{% blocks/products/pf/agp/code-block title="Konvertera WEB till PDF via C# .NET" offSpacer="" %}}
 
-Två [Aspose.Total for .NET](https://products.aspose.com/total/net/) underordnade API:er, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) och [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) kommer att integreras.
-
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "extract-data-using-csharp.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Använda Aspose.PDF för HTML till PDF-konvertering" %}}
-<p>Aspose.PDF API erbjuder en heltäckoche lösning för utvecklare som gör det möjligt för dem att sömlöst konvertera HTML till PDF med .NET. Med dess kapacitet kan du effektivt hantera konverteringsprocessen och få korrekta och visuellt tilltaloche PDF-utdata. Processen innebär att du bara skriver några rader C#-kod, vilket gör att du kan uppnå en konvertering av hög kvalitet.</p><br />
+{{% blocks/products/pf/feature-page-summary %}}
 
-<p>API:et säkerställer högkvalitativ och korrekt konvertering, bevarar strukturen, formateringen och delarna av det ursprungliga HTML-innehållet. Den stöder CSS-stilar, bilder, hyperlänkar, tabeller och ochra HTML-element, så att du kan skapa professionella PDF-dokument från HTML-källor.</p><br />
-
-<p>Här är ett exempel på kodavsnitt som illustrerar hur man konverterar HTML till PDF med C#. Genom att följa dessa enkla steg kan du enkelt konvertera din HTML-fil till PDF-format:</p><br />
-
-<p>I den här koden måste du ladda upp din HTML-fil och ange de fullt kvalificerade filnamnen för både HTML-läsning och PDF-skrivning. Den resulteroche PDF-filen kommer att ha samma innehåll och formatering som det ursprungliga HTML-dokumentet. Detta enkla tillvägagångssätt låter dig snabbt och exakt konvertera HTML till PDF med Aspose.PDF i din C#-applikation.</p><br />
+Få fler fall för att spara WEB till PDF med andra funktioner som Använda Aspose.PDF för HTML till PDF-konvertering.
 
 {{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-html-to-pdf.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Utveckla WEB filkonverteringsapplikation med .NET</h2>
+
+Behöver du utveckla .NET-baserad programvara för att enkelt spara och exportera WEB-filer till PDF-dokument?  Med [Aspose.Total for .NET](https://products.aspose.com/total/sv/net/) kan alla .NET-utvecklare integrera ovanstående API-kod för att programmera konverteringsapplikationen i olika format inklusive Microsoft Word, Excel, Powerpoint, PDF, e-postfiler, bilder och andra format.  Kraftfullt .NET-bibliotek för dokumentkonvertering, stöder många populära format inklusive WEB-format.  Genom att exportera dokument till andra format kan programmerare använda Aspose.Total för .NET underordnade API:er inklusive [Aspose.Words for .NET](https://products.aspose.com/words/sv/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/sv/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/sv/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/sv/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/sv/net/) och mer.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="WEB Conversion Library för .NET" %}}
+
+Det finns tre alternativa alternativ för att installera Aspose.Total för .NET på ditt system.  Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
+
+- Installera en [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Se [Dokumentation](https://docs.aspose.com/total/net/)
+- Installera biblioteket med Package Manager Console från dess underordnade API-val i Visual Studio IDE som [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc.
+- Installera biblioteket manuellt med Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Sparar WEB till PDF appkrav" %}}
+
+Vår produkt är helt plattformsoberoende och stöder alla större .NET-implementationer enligt '.NET Standard 2.0'-specifikationen:<br /><br />
+
+- Microsoft .NET Framework, från den tidigaste 2.0-versionen och slutar med den senaste '.NET Framework 4.8'
+- .NET Core, från den tidigaste 2.0 och slutar med den senaste '.NET 6'
+- Mono >= 2.6.7
+<br />
+Eftersom .NET-kod inte förlitar sig på den underliggande hårdvaran eller operativsystemet, utan bara på en virtuell maskin, så är du fri att utveckla vilken typ av programvara som helst för Windows, macOS, Android, iOS och Linux.  Se bara till att du har installerat motsvarande version av .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin.<br />
+Vi rekommenderar att du använder Microsoft Visual Studio, Xamarin och MonoDevelop IDE för att skapa C#, F#, VB.NET-applikationer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Vanliga frågor" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Vanliga frågor</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kan jag använda ovanstående .NET-kod i min applikation?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, du är välkommen att ladda ner den här koden. Man kan enkelt utveckla en professionell lösning för att exportera och spara WEB till PDF-fil med .NET.  Använd Aspose WEB till PDF konverterings-API för att utveckla plattformsoberoende programvara på hög nivå i .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Fungerar detta dokumentexporterande app bara på Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du har flexibiliteten att initiera export av dokument från WEB till PDF från vilken enhet som helst, oavsett vilket operativsystem den körs på, oavsett om det är Windows, Linux, Mac OS eller Android.  Allt som krävs är en modern webbläsare och en aktiv internetanslutning.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Är det säkert att använda onlineappen för att konvertera flera WEB-dokument?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Naturligtvis! Utdatafilerna som genereras genom vår tjänst kommer säkert och automatiskt att tas bort från våra servrar inom en 24-timmars tidsram.  Som ett resultat kommer de nedladdningslänkar som är kopplade till dessa filer att upphöra att fungera efter denna period.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Vilken webbläsare ska man använda appen?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Du kan använda vilken modern webbläsare som helst som Google Chrome, Firefox, Opera eller Safari för onlinekonvertering av WEB-dokument.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur kan jag exportera flera WEB-filer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Börja med att ladda upp en eller flera filer du vill konvertera. Du kan antingen dra och släppa dina WEB-filer eller helt enkelt klicka i det vita området.  Därefter klickar du på knappen "Konvertera", så kommer vår onlinekonverteringsapp att snabbt bearbeta de uppladdade filerna.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Hur lång tid tar det att konvertera WEB-filerna?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Denna konverteringsapplikation fungerar snabbt, det kan ta några sekunder eller mer beroende på dokumentstorleken att ladda upp och spara dem i önskat format.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
