@@ -1,7 +1,7 @@
 ---
-title: C#-API zum Exportieren von PDF nach GIF
-description: Konvertieren Sie PDF in GIF, ohne Microsoft Word zu verwenden
-url_ignore: /de/net/conversion/pdf-to-gif/
+title: Online-Konvertierung von PDF zu GIF oder Erstellen einer .NET-basierten Anwendung zum Konvertieren von PDF-Dateien
+description: Kostenlose Online-App zum Konvertieren von PDF- in GIF-Dateien. .NET C#-Konvertierungsbibliothekscode für PDF-Dokumente. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,27 +10,49 @@ outformat: GIF
 otherformats: DOTM ODT XAMLFLOW GIF DOT RTF MHTML WORDML PS OTT MARKDOWN PCL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Rendern Sie PDF über .NET in GIF" h2=".NET-API zum Exportieren von PDF nach GIF unter Windows, macOS und Linux, ohne Microsoft Word zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Online-Konvertierungs-App von PDF zu GIF und .NET-Code zum Konvertieren von PDF-Dateien" h2="Entwickeln Sie eine leistungsstarke .NET-basierte PDF-Konvertierungs- und Exportanwendung. Konvertieren Sie einzelne oder mehrere PDF-Dateien über die .NET-Automatisierungs-API in GIF und andere Formate. Konvertieren Sie PDF-Dateien kostenlos online per App mit sofortigem Download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) ist eine leistungsstarke API zum Hinzufügen von Funktionen zur Dokumentbearbeitung und -konvertierung in Ihrer .NET-Anwendung. Durch die Verwendung der erweiterten PDF-Verarbeitungs-API [Aspose.PDF für .NET](https://products.aspose.com/pdf/net/) können Sie das PDF-Dateiformat in DOC konvertieren. Danach können Sie mit der leistungsstarken Dokumentenverarbeitungs-API [Aspose.Words for .NET](https://products.aspose.com/words/net/) DOC in GIF rendern.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C#-API zum Konvertieren von PDF in GIF" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Kostenlose Online-App zur Konvertierung von PDF in GIF" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=gif&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie PDF- in GIF-Dateien online mithilfe der App" %}}
+
+1. Laden Sie zum Konvertieren PDF-Dateien hoch
+1. Warten Sie je nach PDF-Größe einige Sekunden oder länger
+1. Behalten Sie die Upload-Statusleiste im Auge
+1. Klicken Sie auf die Schaltfläche "Konvertieren"
+1. PDF wird in ein GIF-Dokument umgewandelt
+1. Laden Sie die konvertierte GIF-Datei herunter
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie PDF in GIF über die .NET Automation API" %}}
+
+
 1. Öffnen Sie die PDF-Datei mit der Klasse [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document).
 2. Konvertieren Sie PDF mit der Methode [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) in Doc
 3. Laden Sie die Doc-Datei mithilfe der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document) von Aspose.Words
 4. Speichern Sie das Dokument im GIF-Format mit der Methode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) und legen Sie Gif als SaveFormat fest
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
+{{% blocks/products/pf/agp/code-block title="Konvertieren Sie PDF in GIF über C# .NET" offSpacer="" %}}
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/total/net) herunterladen.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 
 ```cs
 
@@ -43,12 +65,18 @@ var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 outputDocument.Save("output.gif", SaveFormat.Gif);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Entschlüsseln Sie die PDF-Datei mit dem Besitzerkennwort über .NET" %}}
-Wenn Sie Ihr Dokument vor der Konvertierung von PDF in GIF entschlüsseln möchten, können Sie dies mithilfe der API tun. Um die PDF-Datei zu entschlüsseln, müssen Sie zuerst ein [Dokument](https://reference.aspose.com/pdf/net/aspose.pdf/document)-Objekt erstellen und das PDF mit dem Passwort des Besitzers öffnen. Danach müssen Sie die Methode [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) des Document-Objekts aufrufen. Speichern Sie schließlich die aktualisierte Datei mit der Save-Methode des Document-Objekts.  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Noch einige Fälle zum Speichern von PDF in GIF mit anderen Funktionen wie Entschlüsseln Sie die PDF-Datei mit dem Besitzerkennwort über .NET, ReadOnly GIF-Datei über .NET erstellen.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -59,12 +87,10 @@ document.Decrypt();
 document.Save("Decrypt_out.doc");
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="ReadOnly GIF-Datei über .NET erstellen" %}}
-Um Ihr GIF vor Bearbeitung zu schützen und zu verhindern, dass andere Personen sensible und vertrauliche Informationen in Ihrem Dokument bearbeiten, können Sie den Schutz des Document auch über die API festlegen. Sie können die Bearbeitung eines Document einschränken und nur bestimmte Aktionen damit zulassen. Dies kann mit der [Aspose.Words for .NET](https://products.aspose.com/words/net/)-API erfolgen. Sie können damit steuern, wie Sie den Inhalt mithilfe des Aufzählungsparameters [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) einschränken. Sie können Ihr Dokument mit den folgenden Codezeilen schreibgeschützt machen. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -75,12 +101,112 @@ document.Protect(ProtectionType.ReadOnly, "password");
 document.Save("output.gif", SaveFormat.Gif);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Entwickeln Sie eine PDF-Dateikonvertierungsanwendung mit .NET</h2>
+
+Müssen Sie eine .NET-basierte Softwareanwendung entwickeln, um PDF-Dateien einfach in GIF-Dokumente zu speichern und zu exportieren? Mit [Aspose.Total for .NET](https://products.aspose.com/total/de/net/) kann jeder .NET-Entwickler den oben genannten API-Code integrieren, um die Konvertierungsanwendung für verschiedene Formate zu programmieren, darunter Microsoft Word, Excel, Powerpoint, PDF, E-Mail-Dateien, Bilder und andere Formate. Leistungsstarke .NET-Bibliothek zur Dokumentkonvertierung, unterstützt viele gängige Formate, einschließlich des PDF-Formats. Beim Exportieren von Dokumenten in andere Formate können Programmierer Aspose.Total für untergeordnete .NET-APIs verwenden, darunter [Aspose.Words for .NET](https://products.aspose.com/words/de/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/de/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/de/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/de/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/de/net/) und mehr.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PDF Konvertierungsbibliothek für .NET" %}}
+
+Es gibt drei alternative Möglichkeiten, Aspose.Total für .NET auf Ihrem System zu installieren. Wählen Sie bitte eine Option aus, die Ihren Anforderungen entspricht, und folgen Sie den Schritt-für-Schritt-Anweisungen:<br /><br />
+
+- Installieren Sie ein [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Siehe [Dokumentation](https://docs.aspose.com/total/net/)
+- Installieren Sie die Bibliothek mithilfe der Package Manager Console ab der Auswahl der untergeordneten API in der Visual Studio IDE wie [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) usw.
+- Installieren Sie die Bibliothek manuell mit dem Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Speichern von PDF in GIF App-Anforderungen" %}}
+
+Unser Produkt ist vollständig plattformübergreifend und unterstützt alle wichtigen .NET-Implementierungen gemäß der Spezifikation „.NET Standard 2.0“:<br /><br />
+
+- Microsoft .NET Framework, beginnend mit der frühesten Version 2.0 und endend mit der neuesten Version „.NET Framework 4.8“
+- .NET Core, beginnend mit der frühesten Version 2.0 und endend mit dem neuesten „.NET 6“
+- Mono >= 2.6.7
+<br />
+Da .NET-Code nicht von der zugrunde liegenden Hardware oder dem Betriebssystem, sondern nur von einer virtuellen Maschine abhängt, können Sie jede Art von Software für Windows, macOS, Android, iOS und Linux entwickeln. Stellen Sie einfach sicher, dass Sie die entsprechende Version von .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin installiert haben.<br />
+Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelop IDE zum Erstellen von C#-, F#- und VB.NET-Anwendungen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>FAQs</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Kann ich den obigen .NET-Code in meiner Anwendung verwenden?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ja, Sie können diesen Code gerne herunterladen. Mit .NET lässt sich ganz einfach eine professionelle Lösung zum Exportieren und Speichern von PDF in einer GIF-Datei entwickeln. Verwenden Sie die Aspose PDF-zu-GIF-Konvertierungs-API, um plattformunabhängige Software auf hoher Ebene in .NET zu entwickeln.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Funktioniert diese App zum Exportieren von Dokumenten nur unter Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie haben die Flexibilität, den Dokumentenexport von PDF nach GIF von jedem Gerät aus zu starten, unabhängig vom Betriebssystem, auf dem es läuft, sei es Windows, Linux, Mac OS oder Android. Alles was Sie brauchen ist ein aktueller Webbrowser und eine aktive Internetverbindung.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ist es sicher, mit der Online-App mehrere PDF-Dokumente zu konvertieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Natürlich! Die von unserem Service generierten Ausgabedateien werden innerhalb von 24 Stunden sicher und automatisch von unseren Servern entfernt. Dies hat zur Folge, dass die mit diesen Dateien verknüpften Download-Links nach diesem Zeitraum nicht mehr funktionieren.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Welcher Browser wird für die Nutzung der App benötigt?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Sie können jeden modernen Webbrowser wie Google Chrome, Firefox, Opera oder Safari für die Online-Konvertierung von PDF-Dokumenten verwenden.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie kann ich mehrere PDF-Dateien exportieren?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Beginnen Sie mit dem Hochladen einer oder mehrerer Dateien, die Sie konvertieren möchten. Sie können Ihre PDF-Dateien entweder per Drag & Drop verschieben oder einfach in den weißen Bereich klicken. Klicken Sie anschließend auf die Schaltfläche „Konvertieren“ und unsere Online-Konvertierungs-App verarbeitet die hochgeladenen Dateien schnell.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Wie lange dauert die Konvertierung der PDF-Dateien?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Diese Konvertierungsanwendung arbeitet schnell. Das Hochladen und Speichern im erforderlichen Format kann je nach Dokumentgröße einige Sekunden oder länger dauern.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

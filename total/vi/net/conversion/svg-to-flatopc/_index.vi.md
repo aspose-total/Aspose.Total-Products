@@ -1,7 +1,7 @@
 ---
-title: API C# để xuất SVG sang FLATOPC
-description: Chuyển đổi SVG sang FLATOPC mà không cần sử dụng Microsoft Word
-url_ignore: /vi/net/conversion/svg-to-flatopc/
+title: Chuyển đổi trực tuyến SVG sang FLATOPC hoặc xây dựng ứng dụng dựa trên .NET để chuyển đổi tệp SVG
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp SVG sang FLATOPC. Mã thư viện chuyển đổi .NET C# cho tài liệu SVG. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,27 +10,49 @@ outformat: FLATOPC
 otherformats: ODT DOT FLATOPC PCL RTF DOTX OTT PS MHTML MARKDOWN DOTM WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Kết xuất SVG sang FLATOPC qua .NET" h2=".NET API để xuất SVG sang FLATOPC trên Windows, macOS và Linux mà không cần sử dụng Microsoft Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi SVG sang FLATOPC trực tuyến và mã .NET để chuyển đổi tệp SVG" h2="Phát triển ứng dụng chuyển đổi và xuất SVG mạnh mẽ dựa trên .NET. Chuyển đổi một hoặc nhiều tệp SVG sang FLATOPC và các định dạng khác thông qua API tự động hóa .NET. Chuyển đổi miễn phí các tệp SVG trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) là một API mạnh mẽ để thêm các tính năng chuyển đổi và thao tác tài liệu bên trong ứng dụng .NET của bạn. Bằng cách sử dụng API xử lý PDF nâng cao [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), bạn có thể chuyển đổi định dạng tệp SVG thành DOC. Sau đó, bằng cách sử dụng API xử lý tài liệu mạnh mẽ [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể kết xuất DOC tới FLATOPC.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API để chuyển đổi SVG sang FLATOPC" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ứng dụng chuyển đổi SVG sang FLATOPC trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=svg" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp SVG sang FLATOPC trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp SVG để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước SVG
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. SVG sẽ được chuyển đổi thành tài liệu FLATOPC
+1. Tải xuống tệp FLATOPC đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi SVG sang FLATOPC thông qua .NET Automation API" %}}
+
+
 1. Mở tệp SVG bằng lớp [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Chuyển đổi SVG thành Doc bằng phương pháp [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Tải tệp Tài liệu bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/net/aspose.words/document) của Aspose.Words
 4. Lưu tài liệu sang định dạng FLATOPC bằng phương pháp [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) và đặt Flatopc thành SaveFormat
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total``` hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.Total```.
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi SVG sang FLATOPC thông qua C# .NET" offSpacer="" %}}
 
-Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 
 ```cs
 
@@ -43,12 +65,18 @@ var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Giải mã tệp SVG bằng Mật khẩu chủ sở hữu qua .NET" %}}
-Trước khi chuyển đổi SVG thành FLATOPC, nếu bạn muốn giải mã tài liệu của mình, bạn có thể thực hiện bằng cách sử dụng API. Để giải mã tệp PDF, trước tiên bạn cần tạo đối tượng [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) và mở SVG bằng mật khẩu của chủ sở hữu. Sau đó, bạn cần gọi phương thức [Giải mã](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) của đối tượng Document. Cuối cùng, lưu tệp đã cập nhật bằng cách sử dụng phương thức Lưu của đối tượng Tài liệu.  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Một số trường hợp khác để lưu SVG vào FLATOPC với các tính năng khác như Giải mã tệp SVG bằng Mật khẩu chủ sở hữu qua .NET, Tạo ReadOnly FLATOPC- Tệp qua .NET.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -59,12 +87,10 @@ document.Decrypt();
 document.Save("Decrypt_out.doc");
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Tạo ReadOnly FLATOPC- Tệp qua .NET" %}}
-Để bảo vệ FLATOPC của bạn khỏi chỉnh sửa và ngăn người khác chỉnh sửa thông tin nhạy cảm và bí mật trong tài liệu của bạn, bạn cũng có thể đặt bảo vệ tài liệu bằng cách sử dụng API. Bạn có thể giới hạn khả năng chỉnh sửa tài liệu và chỉ cho phép một số hành động với nó. Điều này có thể được thực hiện bằng cách sử dụng API [Aspose.Words for .NET](https://products.aspose.com/words/net/). Nó cho phép bạn kiểm soát cách bạn hạn chế nội dung bằng cách sử dụng tham số liệt kê [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype). Bạn có thể đặt tài liệu của mình thành chỉ đọc bằng cách sử dụng các dòng mã sau. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -75,12 +101,112 @@ document.Protect(ProtectionType.ReadOnly, "password");
 document.Save("output.flatopc", SaveFormat.FlatOpc);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Phát triển ứng dụng chuyển đổi tệp SVG bằng .NET</h2>
+
+Bạn có cần phát triển ứng dụng phần mềm dựa trên .NET để dễ dàng lưu và xuất tệp SVG sang tài liệu FLATOPC không? Với [Aspose.Total for .NET](https://products.aspose.com/total/vi/net/), bất kỳ nhà phát triển .NET nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word, Excel, Powerpoint, PDF, tệp Email, Hình ảnh và các định dạng khác. Thư viện .NET mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng SVG. Khi xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng Aspose.Total cho các API con .NET bao gồm [Aspose.Words for .NET](https://products.aspose.com/words/vi/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/vi/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/vi/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/vi/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/vi/net/), v.v.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="SVG Thư viện chuyển đổi cho .NET" %}}
+
+Có ba tùy chọn thay thế để cài đặt Aspose.Total cho .NET vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Cài đặt [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Xem [Tài liệu](https://docs.aspose.com/total/net/)
+- Cài đặt thư viện bằng Package Manager Console khi lựa chọn API con của nó trong Visual Studio IDE như [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), v.v.
+- Cài đặt thư viện thủ công bằng Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu SVG vào FLATOPC Yêu cầu ứng dụng" %}}
+
+Sản phẩm của chúng tôi hoàn toàn tương thích với nhiều nền tảng và hỗ trợ tất cả các triển khai .NET chính theo thông số kỹ thuật '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET Framework 4.8' mới nhất
+- .NET Core, bắt đầu từ phiên bản 2.0 sớm nhất và kết thúc bằng phiên bản '.NET 6' mới nhất
+- Đơn sắc >= 2.6.7
+<br />
+Vì mã .NET không phụ thuộc vào phần cứng hoặc hệ điều hành cơ bản mà chỉ phụ thuộc vào Máy ảo, nên bạn có thể thoải mái phát triển bất kỳ loại phần mềm nào cho Windows, macOS, Android, iOS và Linux. Chỉ cần đảm bảo bạn đã cài đặt phiên bản .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin tương ứng.<br />
+Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và MonoDevelop IDE để tạo các ứng dụng C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Câu hỏi thường gặp" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Câu hỏi thường gặp</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Tôi có thể sử dụng mã .NET ở trên trong ứng dụng của mình không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Vâng, bạn được phép tải xuống mã này. Người ta có thể dễ dàng phát triển một giải pháp chuyên nghiệp để xuất và lưu SVG vào tệp FLATOPC bằng .NET. Sử dụng API chuyển đổi Aspose SVG sang FLATOPC để phát triển phần mềm cấp cao, độc lập với nền tảng trong .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Tài liệu xuất ứng dụng này chỉ hoạt động trên Windows phải không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bạn có thể linh hoạt bắt đầu xuất tài liệu từ SVG sang FLATOPC từ bất kỳ thiết bị nào, bất kể thiết bị đó chạy hệ điều hành nào, có thể là Windows, Linux, Mac OS hoặc Android. Tất cả những gì bạn cần là một trình duyệt web hiện đại và kết nối internet đang hoạt động.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Có an toàn khi sử dụng ứng dụng trực tuyến để chuyển đổi nhiều tài liệu SVG không?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tất nhiên rồi! Các tập tin đầu ra được tạo ra thông qua dịch vụ của chúng tôi sẽ được xóa an toàn và tự động khỏi máy chủ của chúng tôi trong vòng 24 giờ. Do đó, các liên kết tải xuống liên quan đến các tệp này sẽ không còn hoạt động sau thời gian này.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Nên sử dụng ứng dụng trên trình duyệt nào?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bạn có thể sử dụng bất kỳ trình duyệt web hiện đại nào như Google Chrome, Firefox, Opera hoặc Safari để chuyển đổi tài liệu SVG trực tuyến.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Làm thế nào tôi có thể xuất nhiều tệp SVG?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bắt đầu bằng cách tải lên một hoặc nhiều tệp bạn muốn chuyển đổi. Bạn có thể kéo và thả các tệp SVG của mình hoặc chỉ cần nhấp vào bên trong vùng màu trắng. Sau đó, nhấp vào nút 'Chuyển đổi' và ứng dụng chuyển đổi trực tuyến của chúng tôi sẽ nhanh chóng xử lý các tệp đã tải lên.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Phải mất bao lâu để chuyển đổi các tập tin SVG?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ứng dụng chuyển đổi này hoạt động nhanh chóng. Có thể mất vài giây hoặc lâu hơn tùy thuộc vào kích thước tài liệu để tải lên và lưu chúng theo định dạng yêu cầu.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

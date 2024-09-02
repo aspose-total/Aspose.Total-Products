@@ -1,45 +1,58 @@
 ---
-title: C# API to Export OFT to WORD
-description: Convert OFT to WORD without using Microsoft Word or Outlook on .NET
-url_ignore: /net/conversion/oft-to-word/
+title: Online OFT to Word Conversion or Build .NET based Application to Convert OFT Files
+description: Free online app to convert OFT to Word files. .NET C# conversion library code for OFT documents. 
+
 family: total
 platformtag: net
 feature: conversion
 informat: OFT
-outformat: WORD
+outformat: Word
 otherformats: WORDML ODT TIFF BMP JPEG PDF DOCM DOCX XPS MD DOC PNG GIF EPUB EMF TEXT DOTX RTF FLATOPC DOTM SVG DOT OTT PS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Export OFT to WORD via .NET" h2=".NET API to Render OFT to WORD on Windows, macOS, and Linux without using Word or Outlook" >}}
+{{< blocks/products/pf/feature-page-header h1="Online OFT to Word Conversion App and .NET Code to Convert OFT Files" h2="Develop powerful .NET based OFT conversion and exporting application. Convert single or multiple OFT files to Word and other formats via .NET automation API. Freely convert OFT files online via app with instant download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-As a .NET developer, you may need to add OFT to WORD conversion features inside your applications. To do this, you can use the powerful file format manipulation APIs provided by Aspose.Total for .NET. Aspose.Total for .NET is a suite of APIs that provides a comprehensive set of features for manipulating various file formats.
-
-Aspose.Email for .NET is one of the components of Aspose.Total for .NET. It provides the ability to convert OFT file format to HTML. This API is designed to be easy to use and provides a wide range of features for manipulating emails. It also supports various email formats such as MSG, EML, MHTML, and OFT.
-
-Once you have converted the OFT file to HTML, you can use Aspose.Words for .NET to render HTML to WORD. Aspose.Words for .NET is a powerful API for manipulating Word documents. It supports a wide range of features such as creating, editing, and converting Word documents. It also supports various file formats such as DOC, DOCX, RTF, HTML, and PDF.
-
-By using Aspose.Total for .NET, you can easily add OFT to WORD conversion features inside your applications. Aspose.Email for .NET can be used to convert OFT file format to HTML and Aspose.Words for .NET can be used to render HTML to WORD. This makes it easy to add OFT to WORD conversion features in your applications.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API to Convert OFT to WORD" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Free Online OFT to Word Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=oft" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert OFT to Word Files Online using App" %}}
+
+1. Upload OFT files to convert
+1. Wait for few seconds or more depending on OFT size
+1. Keep an eye on uploading status bar
+1. Click the "Convert" button
+1. OFT will be converted into Word document
+1. Download the converted Word file
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convert OFT to Word via .NET Automation API" %}}
+
+
 1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
 4. Save the document to DOCX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docx as SaveFormat
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+{{% blocks/products/pf/agp/code-block title="Convert OFT to Word via C# .NET" offSpacer="" %}}
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 ```cs// load the OFT file to be converted
 MailMessage message = MailMessage.Load("sourceFile.oft");
 // save OFT as a HTML 
@@ -49,12 +62,18 @@ Document document = new Document("HtmlOutput.html");
 // call save method while passing SaveFormat.Docx
 document.Save("output.docx", SaveFormat.Docx); 
 ```
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Parse OFT File via .NET" %}}
-Before converting OFT to WORD, if you want to make sure that you are converting the correct email, you can load OFT document, parse it and have a look at your desired property. By using [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
+{{% blocks/products/pf/feature-page-summary %}}
+
+Few more cases for saving OFT to Word with other features like Parse OFT File via .NET, Restrict WORD Document Editing via .NET.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs// instantiate MapiMessage to load an OFT file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.oft");
 // check for SenderName 
@@ -62,12 +81,10 @@ if(outlookMessageFile.SenderName == "John"){
     //proceed with conversion process
 }
 ```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Restrict WORD Document Editing via .NET" %}}
-While saving the document from OFT to WORD, you might need to protect your output document. Sometimes you may need to limit the ability to edit a document and only allow certain actions with it. This can be useful to prevent other people from editing sensitive and confidential information in your document. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API, enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 ```cs// load HTML with an instance of Document
 Document document = new Document("HtmlOutput.html");
 // apply document protection and set protection password
@@ -75,10 +92,111 @@ doc.Protect(ProtectionType.ReadOnly, "password");
 // call save method while passing SaveFormat.Docx
 document.Save("output.docx", SaveFormat.Docx);  
 ```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Develop OFT File Conversion Application using .NET</h2>
+
+Need to develop .NET based software application to easily save and export OFT files to Word document ? With BMP1, any .NET developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word, Excel, Powerpoint, PDF, Email files, Images and other formats. Powerful .NET library for document conversion, supports many popular formats including OFT format. Exporting documents to other formats, programmers can use Aspose.Total for .NET child APIs inlcluding BMP2, BMP3, BMP4, BMP5, BMP6 and more.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="OFT Conversion Library for .NET" %}}
+
+There are three alternative options to install Aspose.Total for .NET onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
+
+- Install a BMP7. See BMP8
+- Install the library using Package Manager Console as of its child API selection within Visual Studio IDE like BMP9, GIF1, GIF2 etc
+- Install the library manually using Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Saving OFT to Word App Requirements" %}}
+
+Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
+
+- Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest '.NET Framework 4.8'
+- .NET Core, starting from the earliest 2.0, and ending with the latest '.NET 6'
+- Mono >= 2.6.7
+<br />
+As .NET code doesn't rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br />
+We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>FAQs</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Can I use above .NET code in my application?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to export and save OFT to Word file using .NET. Use Aspose OFT to Word conversion API to develop high-level, platform independent software in .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Is this document exporting App work only on Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">You have the flexibility to initiate exporting document from OFT to Word from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Is it safe to use the online app to convert multiple OFT documents?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>What browser should to use App?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online OFT document conversion.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>How can I export multiple OFT files?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Start by uploading one or more files you want to convert. You can either drag and drop your OFT files or simply click inside the white area. Afterward, click the 'Convert' button, and our online conversion app will quickly process the uploaded files.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>How long does it take to convert the OFT files?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">This conversion application operates quickly, It may take a few seconds or more depending on the document size to upload and save them to required format.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

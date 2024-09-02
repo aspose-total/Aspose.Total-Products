@@ -1,7 +1,7 @@
 ---
-title: OFT을 FLATOPC로 내보내는 C# API
-description: .NET에서 Microsoft Word 또는 Outlook을 사용하지 않고 OFT을 FLATOPC로 변환
-url_ignore: /ko/net/conversion/oft-to-flatopc/
+title: 온라인 OFT에서 FLATOPC로 변환 또는 OFT 파일을 변환하기 위한 .NET 기반 애플리케이션 구축
+description: OFT를 FLATOPC 파일로 변환하는 무료 온라인 앱입니다. OFT 문서를 위한 .NET C# 변환 라이브러리 코드입니다. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,27 +10,49 @@ outformat: FLATOPC
 otherformats: JPEG MD DOCX RTF PCL TIFF DOT PS PNG EMF DOTM OTT GIF PDF TEXT DOCM FLATOPC WORDML DOTX EPUB ODT DOC XPS SVG
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1=".NET을 통해 이메일을 FLATOPC로 내보내기" h2="Word 또는 Outlook을 사용하지 않고 Windows, macOS 및 Linux에서 OFT을 FLATOPC로 렌더링하는 .NET API" >}}
+{{< blocks/products/pf/feature-page-header h1="온라인 OFT에서 FLATOPC로 변환 앱 및 OFT 파일을 변환하는 .NET 코드" h2="강력한 .NET 기반 OFT 변환 및 내보내기 애플리케이션을 개발합니다. .NET 자동화 API를 통해 하나 또는 여러 개의 OFT 파일을 FLATOPC 및 기타 형식으로 변환합니다. 앱을 통해 OFT 파일을 온라인으로 자유롭게 변환하고 즉시 다운로드하세요." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-애플리케이션 내부에 OFT을 FLATOPC로 변환 기능을 추가하려는 .NET 개발자라면 [Aspose.Total for .NET](https://products.aspose.com/total/net/) 파일 형식 조작 API를 사용하는 것이 좋습니다. 앞으로. [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)을 사용하여 OFT 파일 형식을 HTML로 변환할 수 있습니다. 그런 다음 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 HTML을 FLATOPC로 렌더링할 수 있습니다.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="OFT을 FLATOPC로 변환하는 C# API" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="무료 온라인 OFT에서 FLATOPC로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=oft" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 OFT를 FLATOPC 파일로 온라인으로 변환" %}}
+
+1. 변환할 OFT 파일 업로드
+1. OFT 크기에 따라 몇 초 이상 기다리십시오.
+1. 업로드 상태 표시줄을 주시하세요
+1. "변환" 버튼을 클릭하세요
+1. OFT가 FLATOPC 문서로 변환됩니다.
+1. 변환된 FLATOPC 파일을 다운로드하세요
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title=".NET 자동화 API를 통해 OFT를 FLATOPC로 변환" %}}
+
+
 1. [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) 클래스를 사용하여 OFT 파일을 엽니다.
 2. [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) 방법을 사용하여 OFT을 HTML로 변환합니다.
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
 4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 FLATOPC 형식으로 저장하고 Flatopc를 SaveFormat으로 설정합니다.
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-명령줄에서 ```nuget install Aspose.Total```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.Total```로 설치합니다.
+{{% blocks/products/pf/agp/code-block title="C# .NET을 통해 OFT를 FLATOPC로 변환" offSpacer="" %}}
 
-또는 [downloads](https://releases.aspose.com/total/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 
 ```cs
 MailMessage message = MailMessage.Load("sourceFile.oft");
@@ -42,12 +64,18 @@ Document document = new Document("HtmlOutput.html");
 document.Save("output.flatopc", SaveFormat.FlatOpc); 
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2=".NET을 통해 OFT 파일 구문 분석" %}}
-OFT을 FLATOPC로 변환하기 전에 올바른 이메일을 변환하고 있는지 확인하려면 OFT 문서를 로드하고 구문 분석한 다음 원하는 속성을 살펴보세요. [Aspose.Cells for .NET](https://products.aspose.com/email)의 [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) 클래스를 사용하여 /net/) API를 사용하여 발신자 및 수신자 정보를 얻을 수 있습니다. 예를 들어 [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) 속성을 사용하여 변환할 특정 발신자 이메일을 확인할 수 있습니다.  
+{{% blocks/products/pf/feature-page-summary %}}
+
+.NET을 통해 OFT 파일 구문 분석, .NET을 통한 FLATOPC 문서 편집 제한와 같은 다른 기능을 사용하여 OFT를 FLATOPC로 저장하는 몇 가지 사례가 더 있습니다.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs// instantiate MapiMessage to load an OFT file from disk
 var outlookMessageFile = MapiMessage.FromFile("message.oft");
@@ -57,12 +85,10 @@ if(outlookMessageFile.SenderName == "John"){
 }
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2=".NET을 통한 FLATOPC 문서 편집 제한" %}}
-OFT에서 FLATOPC로 문서를 저장하는 동안 출력 문서를 보호해야 할 수 있습니다. 문서 편집 기능을 제한하고 문서에 대한 특정 작업만 허용해야 하는 경우가 있습니다. 이는 다른 사람이 문서에서 민감한 기밀 정보를 편집하는 것을 방지하는 데 유용할 수 있습니다. [Aspose.Words for .NET](https://products.aspose.com/words/net/) API를 사용하면 [ProtectionType](https://apireference.aspose.net)을 사용하여 콘텐츠를 제한하는 방식을 제어할 수 있습니다. com/words/net/aspose.words/protectiontype) 열거 매개변수. 다음 코드 줄을 사용하여 문서를 읽기 전용으로 설정할 수 있습니다. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 Document document = new Document("HtmlOutput.html");
@@ -72,11 +98,113 @@ document.Protect(ProtectionType.ReadOnly, "password");
 document.Save("output.flatopc", SaveFormat.FlatOpc);  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>.NET을 사용하여 OFT 파일 변환 응용 프로그램 개발</h2>
+
+OFT 파일을 FLATOPC 문서로 쉽게 저장하고 내보낼 수 있는 .NET 기반 소프트웨어 애플리케이션을 개발해야 합니까? [Aspose.Total for .NET](https://products.aspose.com/total/ko/net/)을 사용하면 모든 .NET 개발자가 위의 API 코드를 통합하여 Microsoft Word, Excel, Powerpoint, PDF, 이메일 파일, 이미지 및 기타 형식을 포함한 다양한 형식으로 변환 응용 프로그램을 프로그래밍할 수 있습니다. 문서 변환을 위한 강력한 .NET 라이브러리로, OFT 형식을 포함한 여러 인기 형식을 지원합니다. 문서를 다른 형식으로 내보내기 위해 프로그래머는 [Aspose.Words for .NET](https://products.aspose.com/words/ko/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/ko/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/ko/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/ko/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/ko/net/) 등을 비롯한 .NET 자식 API에 대해 Aspose.Total을 사용할 수 있습니다.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title=".NET용 OFT 변환 라이브러리" %}}
+
+시스템에 Aspose.Total for .NET을 설치하는 데에는 세 가지 대체 옵션이 있습니다. 귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르세요.<br /><br />
+
+- [NuGet Package](https://www.nuget.org/packages/Aspose.Total/)을 설치합니다. [선적 서류 비치](https://docs.aspose.com/total/net/)을 참조하세요.
+- Visual Studio IDE 내에서 [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) 등과 같은 자식 API 선택을 통해 패키지 관리자 콘솔을 사용하여 라이브러리를 설치합니다.
+- Windows Installer를 사용하여 라이브러리를 수동으로 설치합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="OFT를 FLATOPC 앱 요구 사항에 저장합니다." %}}
+
+당사 제품은 완벽한 크로스 플랫폼이며 '.NET Standard 2.0' 사양을 따르는 모든 주요 .NET 구현을 지원합니다.<br /><br />
+
+- Microsoft .NET Framework는 최초 버전 2.0부터 시작하여 최신 버전인 '.NET Framework 4.8'로 끝납니다.
+- .NET Core는 최초 2.0부터 시작하여 최신 '.NET 6'으로 끝납니다.
+- 모노 >= 2.6.7
+<br />
+.NET 코드는 기본 하드웨어나 운영 체제에 의존하지 않고 가상 머신에만 의존하므로 Windows, macOS, Android, iOS 및 Linux에서 모든 종류의 소프트웨어를 자유롭게 개발할 수 있습니다. .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 중 해당 버전을 설치했는지 확인하세요.<br />
+C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamarin 및 MonoDevelop IDE를 사용하는 것이 좋습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="자주 묻는 질문" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>자주 묻는 질문</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>위의 .NET 코드를 내 애플리케이션에서 사용할 수 있나요?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">네, 이 코드를 다운로드해도 좋습니다. .NET을 사용하여 OFT를 FLATOPC 파일로 내보내고 저장하는 전문적인 솔루션을 쉽게 개발할 수 있습니다. Aspose OFT에서 FLATOPC로 변환 API를 사용하여 .NET에서 플랫폼에 독립적인 고수준 소프트웨어를 개발합니다.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>이 문서는 Windows에서만 앱으로 작업할 수 있도록 내보내는 건가요?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Windows, Linux, Mac OS, Android 등 운영체제에 관계 없이 모든 기기에서 OFT에서 FLATOPC로 문서 내보내기를 시작할 수 있는 유연성이 제공됩니다. 필요한 것은 최신 웹 브라우저와 활성화된 인터넷 연결뿐입니다.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>온라인 앱을 사용하여 여러 개의 OFT 문서를 변환하는 것이 안전합니까?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">물론입니다! 당사 서비스를 통해 생성된 출력 파일은 24시간 이내에 당사 서버에서 안전하고 자동으로 제거됩니다. 따라서, 이 기간 이후에는 이 파일과 관련된 다운로드 링크가 더 이상 작동하지 않게 됩니다.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>어떤 브라우저에서 앱을 사용해야 하나요?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Google Chrome, Firefox, Opera, Safari 등 최신 웹 브라우저를 사용하여 온라인 OFT 문서 변환이 가능합니다.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>OFT 파일을 여러 개 내보내려면 어떻게 해야 하나요?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">변환하려는 하나 이상의 파일을 업로드하여 시작합니다. OFT 파일을 끌어서 놓거나 흰색 영역 내부를 클릭하기만 하면 됩니다. 그런 다음 '변환' 버튼을 클릭하면 온라인 변환 앱이 업로드된 파일을 빠르게 처리합니다.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>OFT 파일을 변환하는데 얼마나 걸리나요?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">이 변환 응용 프로그램은 빠르게 작동합니다. 문서 크기에 따라 업로드하고 필요한 형식으로 저장하는 데 몇 초 이상 걸릴 수 있습니다.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
-
 {{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

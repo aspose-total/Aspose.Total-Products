@@ -1,7 +1,7 @@
 ---
-title: C# API untuk Mengekspor XPS ke GIF
-description: Konversi XPS ke GIF tanpa menggunakan Microsoft Word
-url_ignore: /id/net/conversion/xps-to-gif/
+title: Konversi XPS ke GIF Online atau Bangun Aplikasi berbasis .NET untuk Mengonversi File XPS
+description: Aplikasi daring gratis untuk mengonversi file XPS ke GIF. Kode pustaka konversi .NET C# untuk dokumen XPS. 
+
 family: total
 platformtag: net
 feature: conversion
@@ -10,27 +10,49 @@ outformat: GIF
 otherformats: FLATOPC OTT DOTM DOT WORDML RTF XAMLFLOW PS GIF MARKDOWN DOTX MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Render XPS ke GIF melalui .NET" h2=".NET API untuk Mengekspor XPS ke GIF di Windows, macOS, dan Linux tanpa menggunakan Microsoft Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikasi Konversi XPS ke GIF Online dan Kode .NET untuk Mengonversi File XPS" h2="Mengembangkan aplikasi konversi dan ekspor XPS berbasis .NET yang canggih. Konversi satu atau beberapa file XPS ke GIF dan format lainnya melalui API otomatisasi .NET. Konversi file XPS secara bebas secara daring melalui aplikasi dengan unduhan instan." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) adalah API yang kuat untuk menambahkan fitur manipulasi dan konversi dokumen di dalam aplikasi .NET Anda. Dengan menggunakan API Pemrosesan PDF lanjutan [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), Anda dapat mengonversi format file XPS ke DOC. Setelah itu, dengan menggunakan API Pemrosesan Dokumen yang kuat [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat merender DOC ke GIF.
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API untuk Mengonversi XPS ke GIF" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplikasi Konversi XPS ke GIF Online Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=gif&from=xps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konversi File XPS ke GIF Online menggunakan Aplikasi" %}}
+
+1. Unggah file XPS untuk dikonversi
+1. Tunggu beberapa detik atau lebih tergantung pada ukuran XPS
+1. Perhatikan status bar unggahan
+1. Klik tombol "Konversi"
+1. XPS akan diubah menjadi dokumen GIF
+1. Unduh file GIF yang dikonversi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konversi XPS ke GIF melalui .NET Automation API" %}}
+
+
 1. Buka file XPS menggunakan kelas [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Konversi XPS ke Dokumen dengan menggunakan metode [Simpan](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Muat file Doc dengan menggunakan [Document](https://reference.aspose.com/words/net/aspose.words/document) kelas Aspose.Words
 4. Simpan dokumen ke format GIF menggunakan metode [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) dan atur Gif sebagai SaveFormat
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Instal dari baris perintah sebagai ```nuget install Aspose.Total``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total```.
+{{% blocks/products/pf/agp/code-block title="Konversi XPS ke GIF melalui C# .NET" offSpacer="" %}}
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 
 ```cs
 
@@ -43,12 +65,18 @@ var outputDocument = new Aspose.Words.Document("DocOutput.doc");
 outputDocument.Save("output.gif", SaveFormat.Gif);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Dekripsi File XPS menggunakan Kata Sandi Pemilik melalui .NET" %}}
-Sebelum mengkonversi XPS ke GIF, jika Anda ingin mendekripsi dokumen Anda, Anda dapat melakukannya dengan menggunakan API. Untuk mendekripsi file PDF, Anda harus terlebih dahulu membuat objek [Dokumen](https://reference.aspose.com/pdf/net/aspose.pdf/document) dan membuka XPS menggunakan sandi pemilik. Setelah itu, Anda perlu memanggil metode [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) dari objek Dokumen. Terakhir, simpan file yang diperbarui menggunakan metode Simpan dari objek Dokumen.  
+{{% blocks/products/pf/feature-page-summary %}}
+
+Beberapa kasus lagi untuk menyimpan XPS ke GIF dengan fitur lain seperti Dekripsi File XPS menggunakan Kata Sandi Pemilik melalui .NET, Buat ReadOnly GIF- File melalui .NET.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -59,12 +87,10 @@ document.Decrypt();
 document.Save("Decrypt_out.doc");
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Buat ReadOnly GIF- File melalui .NET" %}}
-Untuk melindungi GIF Anda dari pengeditan dan untuk mencegah orang lain mengedit informasi sensitif dan rahasia dalam dokumen Anda, Anda juga dapat mengatur perlindungan dokumen menggunakan API. Anda dapat membatasi kemampuan untuk mengedit dokumen dan hanya mengizinkan tindakan tertentu dengannya. Ini dapat dilakukan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. Ini memungkinkan Anda mengontrol cara Anda membatasi konten menggunakan parameter enumerasi [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype). Anda dapat mengatur dokumen Anda menjadi baca-saja dengan menggunakan baris kode berikut. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 
@@ -75,12 +101,112 @@ document.Protect(ProtectionType.ReadOnly, "password");
 document.Save("output.gif", SaveFormat.Gif);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Mengembangkan Aplikasi Konversi File XPS menggunakan .NET</h2>
+
+Perlu mengembangkan aplikasi perangkat lunak berbasis .NET untuk dengan mudah menyimpan dan mengekspor file XPS ke dokumen GIF? Dengan [Aspose.Total for .NET](https://products.aspose.com/total/id/net/), setiap pengembang .NET dapat mengintegrasikan kode API di atas untuk memprogram aplikasi konversi di berbagai format termasuk Microsoft Word, Excel, Powerpoint, PDF, file Email, Gambar, dan format lainnya. Pustaka .NET yang tangguh untuk konversi dokumen, mendukung banyak format populer termasuk format XPS. Mengekspor dokumen ke format lain, programmer dapat menggunakan Aspose.Total untuk API anak .NET termasuk [Aspose.Words for .NET](https://products.aspose.com/words/id/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/id/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/id/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/id/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/id/net/) dan banyak lagi.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Pustaka Konversi XPS untuk .NET" %}}
+
+Ada tiga pilihan alternatif untuk menginstal Aspose.Total for .NET ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
+
+- Instal [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). Lihat [Dokumentasi](https://docs.aspose.com/total/net/)
+- Instal pustaka menggunakan Konsol Manajer Paket sebagai pilihan API anaknya dalam Visual Studio IDE seperti [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui), dll.
+- Instal perpustakaan secara manual menggunakan Windows Installer
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Aplikasi Menyimpan XPS ke GIF" %}}
+
+Produk kami sepenuhnya lintas platform dan mendukung semua implementasi .NET utama mengikuti spesifikasi '.NET Standard 2.0':<br /><br />
+
+- Microsoft .NET Framework, mulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET Framework 4.8' terbaru
+- .NET Core, dimulai dari versi 2.0 paling awal, dan diakhiri dengan '.NET 6' terbaru
+- Mono >= 2.6.7
+<br />
+Karena kode .NET tidak bergantung pada perangkat keras atau sistem operasi yang mendasarinya, tetapi hanya pada Mesin Virtual, maka Anda bebas mengembangkan perangkat lunak apa pun untuk Windows, macOS, Android, iOS, dan Linux. Pastikan Anda telah menginstal versi .NET Framework, .NET Core, Windows Azure, Mono, atau Xamarin yang sesuai.<br />
+Kami menyarankan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop IDE untuk membuat aplikasi C#, F#, VB.NET.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-autogen-total >}}
 
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="Tanya Jawab Umum" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Tanya Jawab Umum</h2>
+               <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Dapatkah saya menggunakan kode .NET di atas dalam aplikasi saya?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Ya, Anda dipersilakan mengunduh kode ini. Seseorang dapat dengan mudah mengembangkan solusi profesional untuk mengekspor dan menyimpan file XPS ke GIF menggunakan .NET. Gunakan API konversi Aspose XPS ke GIF untuk mengembangkan perangkat lunak tingkat tinggi dan independen platform di .NET.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Apakah dokumen ini mengekspor pekerjaan Aplikasi hanya pada Windows?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Anda memiliki fleksibilitas untuk memulai ekspor dokumen dari XPS ke GIF dari perangkat apa pun, apa pun sistem operasi yang dijalankan, baik itu Windows, Linux, Mac OS, atau Android. Yang diperlukan hanyalah browser web kontemporer dan koneksi internet aktif.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Apakah aman menggunakan aplikasi daring untuk mengonversi beberapa dokumen XPS?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tentu saja! File output yang dihasilkan melalui layanan kami akan dihapus secara aman dan otomatis dari server kami dalam jangka waktu 24 jam. Akibatnya, tautan unduhan yang terkait dengan berkas-berkas ini tidak akan berfungsi lagi setelah periode ini.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Browser apa yang harus digunakan untuk menggunakan Aplikasi ini?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Anda dapat menggunakan peramban web modern seperti Google Chrome, Firefox, Opera, atau Safari untuk konversi dokumen XPS daring.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Bagaimana cara mengekspor beberapa file XPS?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Mulailah dengan mengunggah satu atau beberapa file yang ingin Anda konversi. Anda dapat menyeret dan melepas file XPS atau cukup klik di dalam area putih. Setelah itu, klik tombol 'Konversi', dan aplikasi konversi daring kami akan segera memproses file yang diunggah.</span>
+                      </div>
+                  </li>
+ 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Berapa lama waktu yang dibutuhkan untuk mengonversi file XPS?/b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Aplikasi konversi ini beroperasi dengan cepat. Mungkin memerlukan waktu beberapa detik atau lebih tergantung pada ukuran dokumen untuk mengunggah dan menyimpannya ke format yang diperlukan.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
