@@ -76,32 +76,10 @@ document.Save("output.gif", SaveFormat.Gif);
 Mais alguns casos para salvar OFT em GIF com outros recursos como Analisar arquivo OFT via .NET, Restringir a edição de documentos GIF via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-
-document.Save("output.gif", SaveFormat.Gif);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

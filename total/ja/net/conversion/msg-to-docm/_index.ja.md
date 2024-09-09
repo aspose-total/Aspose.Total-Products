@@ -31,35 +31,15 @@ otherformats: DOCM SVG DOC DOT PCL XPS MD EPUB RTF GIF DOTX PS TEXT FLATOPC WORD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-MailMessage message = MailMessage.Load("sourceFile.msg");
- 
-message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-
-Document document = new Document("HtmlOutput.html");
-
-document.Save("output.docm", SaveFormat.Docm); 
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET経由でMSGファイルを解析する" %}}(
 MSGをDOCMに変換する前に、正しい電子メールを変換していることを確認したい場合は、MSGドキュメントをロードして解析し、目的のプロパティを確認できます。 [Aspose.Email for .NET](https://products.aspose.com/msg)の[MapiMessage](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage)クラスを使用する/ net /)API、送信者と受信者の情報を取得できます。たとえば、[SenderName](https://reference.aspose.com/msg/net/aspose.msg.mapi/mapimessage/properties/sendername)プロパティを使用して、変換用の特定の送信者メールを確認できます。  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-var outlookMessageFile = MapiMessage.FromFile("message.msg");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 ((
 {{% blocks/products/pf/feature-page-section  h2=".NETを介したDOCMドキュメントの編集を制限する" %}}

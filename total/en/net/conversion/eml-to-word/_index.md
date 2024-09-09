@@ -38,29 +38,15 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// load the EML file to be converted
-MailMessage message = MailMessage.Load("sourceFile.eml");
-// save EML as a HTML 
-message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.Docx
-document.Save("output.docx", SaveFormat.Docx); 
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parse EML File via .NET" %}}
 Before converting EML to WORD, if you want to make sure that you are converting the correct email, you can load EML document, parse it and have a look at your desired property. By using [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// instantiate MapiMessage to load an EML file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.eml");
-// check for SenderName 
-if(outlookMessageFile.SenderName == "John"){
-    //proceed with conversion process
-}
-```
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restrict WORD Document Editing via .NET" %}}

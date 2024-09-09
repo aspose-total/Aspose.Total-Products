@@ -31,35 +31,15 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-MailMessage message = MailMessage.Load("sourceFile.eml");
- 
-message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-
-Document document = new Document("HtmlOutput.html");
-
-document.Save("output.tiff", SaveFormat.Tiff); 
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing File EML melalui .NET" %}}
 Sebelum mengonversi EML ke TIFF, jika Anda ingin memastikan bahwa Anda mengonversi eml yang benar, Anda dapat memuat dokumen EML, menguraikannya dan melihat properti yang Anda inginkan. Dengan menggunakan kelas [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) dari [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, Anda bisa mendapatkan informasi pengirim dan penerima. Misalnya, Anda dapat memeriksa eml pengirim tertentu untuk konversi dengan menggunakan properti [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername).  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-// instantiate MapiMessage to load an EML file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.eml");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Batasi Pengeditan Dokumen TIFF melalui .NET" %}}

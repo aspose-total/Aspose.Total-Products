@@ -75,30 +75,10 @@ document.Save("output.text", SaveFormat.Text);
 Еще несколько случаев сохранения OFT в TEXT с другими функциями, такими как Разобрать файл OFT через .NET, Ограничить редактирование документов TEXT через .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-var outlookMessageFile = MapiMessage.FromFile("message.msg");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-
-document.Save("output.text", SaveFormat.Text);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

@@ -76,32 +76,10 @@ document.Save("output.bmp", SaveFormat.Bmp);
 使用其他功能（如 通过 .NET 解析 OFT 文件, 通过 .NET 限制 BMP 文档编辑）将 OFT 保存为 BMP 的情况较少。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-var outlookMessageFile = MapiMessage.FromFile("message.msg");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-
-document.Save("output.bmp", SaveFormat.Bmp);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

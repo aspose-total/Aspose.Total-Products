@@ -58,46 +58,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="此代码示例展示了如何使用 C# 将 DOTM 转换为 POT 或在线" offSpacer="" %}}
-
-```cs
-// 加载单页 Microsoft Word DOTM 文件
-Aspose.Words.Document dotm = new Aspose.Words.Document("sourceWordFile.dotm");
-
-// 将 DOTM 文件保存为 HTML 
-dotm.Save("filepath\\test.html", SaveFormat.Html);
-
-// 要转换多页 DOTM 文档，请使用 Aspose.Words 分别将每个页面导出为 HTML，然后使用以下代码转换为 POT。
-
-using (Presentation pot = new Presentation()){
-
-	// 访问演示文稿的默认第一张幻灯片
-	ISlide slide = pres.Slides[0];
-
-	// 添加自选图形以适应 HTML 内容 
-	// 根据需要调整
-	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
-
-	ashape.FillFormat.FillType = FillType.NoFill;
-
-	// 将文本框添加到形状
-	ashape.AddTextFrame("");
-
-	// 清除添加的文本框中的所有段落
-	ashape.TextFrame.Paragraphs.Clear();
-
-	// 使用流阅读器加载 HTML 文件
-	TextReader tr = new StreamReader("filepath\\test.html");
-
-	// 在文本框中添加来自 HTML 流阅读器的文本
-	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
-
-	// 保存 POT 演示文稿
-	pot.Save("filepath\\pres.pot", Aspose.Slides.Export.SaveFormat.Pot);
-}
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "298cd7c728aee26901d4d6b8626cd3f6" "convert-docx-to-pptx.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

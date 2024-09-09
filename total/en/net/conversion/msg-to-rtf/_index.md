@@ -39,29 +39,15 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// load the MSG file to be converted
-MailMessage message = MailMessage.Load("sourceFile.msg");
-// save MSG as a HTML 
-message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.Rtf
-document.Save("output.rtf", SaveFormat.Rtf); 
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parse MSG File via .NET" %}}
 Before converting MSG to RTF, if you want to make sure that you are converting the correct email, you can load MSG document, parse it and have a look at your desired property. By using [MapiMessage](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage) class of [Aspose.Email for .NET](https://products.aspose.com/email/net/) API, you can get sender and recipients information. For example, you can check for a specific sender email for the conversion by using [SenderName](https://reference.aspose.com/email/net/aspose.email.mapi/mapimessage/properties/sendername) property. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// instantiate MapiMessage to load an MSG file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.msg");
-// check for SenderName 
-if(outlookMessageFile.SenderName == "John"){
-    //proceed with conversion process
-}
-```
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Restrict RTF Document Editing via .NET" %}}

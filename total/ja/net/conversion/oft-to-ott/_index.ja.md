@@ -76,32 +76,10 @@ document.Save("output.ott", SaveFormat.Ott);
 .NET経由でOFTファイルを解析するAspose.Cells, .NETを介したOTTドキュメントの編集を制限する などの他の機能を使用して OFT を OTT に保存するケースがさらにいくつかあります。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-
-document.Save("output.ott", SaveFormat.Ott);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

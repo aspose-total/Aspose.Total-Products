@@ -57,45 +57,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This code sample shows how to convert a DOTM to PPTM using C#" offSpacer="" %}}
-
-```cs// Load the Single Page Microsoft Word DOTM file
-Aspose.Words.Document dotm = new Aspose.Words.Document("sourceWordFile.dotm");
-
-// Save DOTM file to HTML 
-dotm.Save("filepath\\test.html", SaveFormat.Html);
-
-// To convert multi pages DOTM documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPTM.
-
-using (Presentation pptm = new Presentation()){
-
-	// Access the default first slide of presentation
-	ISlide slide = pres.Slides[0];
-
-	// Adding the AutoShape to accomodate the HTML content 
-	// Adjust it as of your need
-	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
-
-	ashape.FillFormat.FillType = FillType.NoFill;
-
-	// Adding text frame to the shape
-	ashape.AddTextFrame("");
-
-	// Clearing all paragraphs in added text frame
-	ashape.TextFrame.Paragraphs.Clear();
-
-	// Loading the HTML file using stream reader
-	TextReader tr = new StreamReader("filepath\\test.html");
-
-	// Adding text from HTML stream reader in text frame
-	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
-
-	// Save the PPTM Presentation
-	pptm.Save("filepath\\pres.pptm", Aspose.Slides.Export.SaveFormat.Pptm);
-}
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "298cd7c728aee26901d4d6b8626cd3f6" "convert-docx-to-pptx.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

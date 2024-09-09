@@ -73,26 +73,10 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 Few more cases for saving OFT to FLATOPC with other features like Parse OFT File via .NET, Restrict FLATOPC Document Editing via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
-// check for SenderName 
-if(outlookMessageFile.SenderName == "John"){
-    //proceed with conversion process
-}
-```
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// apply document protection and set protection password
-doc.Protect(ProtectionType.ReadOnly, "password");
-
-document.Save("output.flatopc", SaveFormat.FlatOpc);  
-```
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

@@ -76,32 +76,10 @@ document.Save("output.png", SaveFormat.Png);
 Λίγες ακόμη περιπτώσεις για αποθήκευση του OFT στο Image με άλλες λειτουργίες όπως το Ανάλυση αρχείου OFT μέσω .NET, Περιορίστε την επεξεργασία εγγράφων IMAGE μέσω .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.Png
-document.Save("output.png", SaveFormat.Png);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

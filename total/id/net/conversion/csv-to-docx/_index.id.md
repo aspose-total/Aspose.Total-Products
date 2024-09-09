@@ -30,17 +30,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code untuk Konversi CSV ke DOCX" gistPath="" %}}
-```cs
-// load the CSV file using Workbook class
-var book = new Aspose.Cells.Workbook("input.csv");
-// save CSV as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Document class
-var document = new Aspose.Pdf.Document("pdfOutput.pdf");
-// save document in DOCX format
-document.Save("output.docx", SaveFormat.Docx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "c5bc14165a763147e3589f90a1af0959" "convert-csv-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

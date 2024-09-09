@@ -76,32 +76,10 @@ document.Save("output.png", SaveFormat.Png);
 Még néhány eset a(z) OFT elmentésére a(z) Image állományba más funkciókkal, mint például az Az OFT fájl elemzése .NET-en keresztül, A IMAGE-dokumentumszerkesztés korlátozása .NET-en keresztül.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("HtmlOutput.html");
-
-document.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.Png
-document.Save("output.png", SaveFormat.Png);  
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

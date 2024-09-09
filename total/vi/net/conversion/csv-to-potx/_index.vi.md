@@ -30,17 +30,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code cho chuyển đổi CSV sang POTX" gistPath="" %}}
-```cs
-// load the CSV file using Workbook class
-var book = new Aspose.Cells.Workbook("input.csv");
-// save CSV as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Pptxument class
-var pptxument = new Aspose.Pdf.Pptxument("pdfOutput.pdf");
-// save pptxument in POTX format
-pptxument.Save("output.pptx", SaveFormat.Pptx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "c5bc14165a763147e3589f90a1af0959" "convert-csv-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -51,22 +51,10 @@ otherformats: SVG DOT PS OTT EMF DOCX MD PCL TEXT ODT PDF WORDML PNG EPUB FLATOP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# .NET을 통해 OFT를 OTT로 변환" offSpacer="" %}}
 
-
-```cs
-MailMessage message = MailMessage.Load("sourceFile.oft");
- 
-message.Save("HtmlOutput.html", SaveOptions.DefaultHtml);
-
-Document document = new Document("HtmlOutput.html");
-
-document.Save("output.ott", SaveFormat.Ott); 
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-word.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +63,7 @@ document.Save("output.ott", SaveFormat.Ott);
 .NET을 통해 OFT 파일 구문 분석, .NET을 통한 OTT 문서 편집 제한와 같은 다른 기능을 사용하여 OFT를 OTT로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
- 
-if(outlookMessageFile.SenderName == "John"){
-    
-}
-```
-
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

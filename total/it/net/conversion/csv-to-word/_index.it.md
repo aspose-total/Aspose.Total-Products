@@ -30,17 +30,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Codice .NET C# per la conversione da CSV a WORD" gistPath="" %}}
-```cs
-// load the CSV file using Workbook class
-var book = new Aspose.Cells.Workbook("input.csv");
-// save CSV as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Wordument class
-var wordument = new Aspose.Pdf.Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.Save("output.word", SaveFormat.Word); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "c5bc14165a763147e3589f90a1af0959" "convert-csv-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

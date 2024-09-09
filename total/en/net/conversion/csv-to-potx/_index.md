@@ -40,16 +40,8 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for CSV to POTX Conversion" gistPath="" %}}
-```cs// load the CSV file using Workbook class
-var book = new Aspose.Cells.Workbook("input.csv");
-// save CSV as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Document class
-var document = new Aspose.Pdf.Document("pdfOutput.pdf");
-// save document in PPTX format
-document.Save("output.pptx", SaveFormat.Pptx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "c5bc14165a763147e3589f90a1af0959" "convert-csv-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -73,26 +73,10 @@ document.Save("output.png", SaveFormat.Png);
 Few more cases for saving OFT to PNG with other features like Parse OFT File via .NET, Restrict PNG Document Editing via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// instantiate MapiMessage to load an OFT file from disk
-var outlookMessageFile = MapiMessage.FromFile("message.oft");
-// check for SenderName 
-if(outlookMessageFile.SenderName == "John"){
-    //proceed with conversion process
-}
-```
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "convert-email-formats-to-images.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// apply document protection and set protection password
-doc.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.Png
-document.Save("output.png", SaveFormat.Png);  
-```
-
+{{< gist "aspose-com-gists" "5a9fece649991cb4d3f82988b0979ef7" "parse-email-files.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 
