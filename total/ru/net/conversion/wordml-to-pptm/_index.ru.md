@@ -57,45 +57,8 @@ Aspose.Total for .NET поддерживается во всех основны�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать WORDML в PPTM с помощью C#." offSpacer="" %}}
-
-```cs// Загрузите одностраничный файл Microsoft Word WORDML
-Aspose.Words.Document wordml = new Aspose.Words.Document("sourceWordFile.wordml");
-
-// Сохраняем файл WORDML в HTML
-wordml.Save("filepath\\test.html", SaveFormat.Html);
-
-// Чтобы преобразовать многостраничные документы WORDML, экспортируйте каждую страницу в HTML отдельно, используя Aspose.Words, а затем используйте приведенный ниже код для преобразования в PPTM.
-
-using (Presentation pptm = new Presentation()){
-
-	// Доступ к первому слайду презентации по умолчанию
-	ISlide slide = pres.Slides[0];
-
-	// Добавление автофигуры для размещения содержимого HTML
-	// Отрегулируйте его по своему усмотрению
-	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
-
-	ashape.FillFormat.FillType = FillType.NoFill;
-
-	// Добавляем текстовую рамку к фигуре
-	ashape.AddTextFrame("");
-
-	// Очистка всех абзацев в добавленном текстовом фрейме
-	ashape.TextFrame.Paragraphs.Clear();
-
-	// Загрузка HTML-файла с помощью потокового считывателя
-	TextReader tr = new StreamReader("filepath\\test.html");
-
-	// Добавление текста из программы чтения потока HTML в текстовом фрейме
-	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
-
-	// Сохраняем презентацию PPTM
-	pptm.Save("filepath\\pres.pptm", Aspose.Slides.Export.SaveFormat.Pptm);
-}
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "298cd7c728aee26901d4d6b8626cd3f6" "convert-docx-to-pptx.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

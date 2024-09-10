@@ -53,43 +53,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Bu kod örneği, C# kullanarak bir WORDML'nin PPT'ye nasıl dönüştürüleceğini gösterir." offSpacer="" %}}
-
-```cs
-// Load the Single Page Microsoft Word WORDML file
-Aspose.Words.Document wordml = new Aspose.Words.Document("sourceWordFile.wordml");
-
-// Save WORDML file to HTML 
-wordml.Save("filepath\\test.html", SaveFormat.Html);
-
-// To convert multi pages WORDML documents, export each page to HTML separately using Aspose.Words and then use the below code to convert to PPT.
-
-using (Presentation ppt = new Presentation()){
-
-	// Access the default first slide of presentation
-	ISlide slide = pres.Slides[0];
-
-	// Adding the AutoShape to accomodate the HTML content 
-	// Adjust it as of your need
-	IAutoShape ashape = slide.Shapes.AddAutoShape(ShapeType.Rectangle, 10, 10, pres.SlideSize.Size.Width - 20, pres.SlideSize.Size.Height - 10);
-
-	ashape.FillFormat.FillType = FillType.NoFill;
-
-	// Adding text frame to the shape
-	ashape.AddTextFrame("");
-
-	// Clearing all paragraphs in added text frame
-	ashape.TextFrame.Paragraphs.Clear();
-
-	// Loading the HTML file using stream reader
-	TextReader tr = new StreamReader("filepath\\test.html");
-
-	// Adding text from HTML stream reader in text frame
-	ashape.TextFrame.Paragraphs.AddFromHtml(tr.ReadToEnd());
-
-	// Save the PPT Presentation
-	ppt.Save("filepath\\pres.ppt", Aspose.Slides.Export.SaveFormat.Ppt);
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "298cd7c728aee26901d4d6b8626cd3f6" "convert-docx-to-pptx.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
