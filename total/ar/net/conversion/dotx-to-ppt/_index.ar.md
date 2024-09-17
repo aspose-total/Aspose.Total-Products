@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Total
 
 <h3>محول عبر الإنترنت لـ DOTX إلى PPT</h3>
 
-<iframe title="ppt to dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt to dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

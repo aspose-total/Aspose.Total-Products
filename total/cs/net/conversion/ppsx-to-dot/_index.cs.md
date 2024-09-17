@@ -83,7 +83,7 @@ dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 
 <h3>Online převodník PPSX na DOT</h3>
 
-<iframe title="Online nástroj dot až ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj dot až ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

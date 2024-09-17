@@ -20,7 +20,7 @@ otherformats: PPT XAML SWF POWERPOINT PPSX PPSM PPTM POT PPS POTX POTM OTP
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="App gratuita di conversione online da XPS a XAML" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xaml&from=xps" id="child-iframe" width="80%"></iframe>
+<iframe title="App gratuita di conversione online da XPS a XAML" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xaml&from=xps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

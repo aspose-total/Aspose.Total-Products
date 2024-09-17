@@ -50,7 +50,7 @@ wordument.Save("output.word", SaveFormat.Word);
 
 <h3>Convertidor en línea gratuito para XLTX a WORD</h3>
 
-<iframe title="Herramienta de conversión de docx a xltx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de docx a xltx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

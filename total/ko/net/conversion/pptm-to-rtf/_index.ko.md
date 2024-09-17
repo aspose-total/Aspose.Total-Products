@@ -83,7 +83,7 @@ rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
 
 <h3>PPTM에서 RTF로 온라인 변환기</h3>
 
-<iframe title="rtf에서 pptm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf에서 pptm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

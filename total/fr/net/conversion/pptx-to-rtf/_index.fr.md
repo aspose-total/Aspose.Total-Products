@@ -83,7 +83,7 @@ rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
 
 <h3>Convertisseur en ligne pour PPTX en RTF</h3>
 
-<iframe title="Outil en ligne de conversion rtf en pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion rtf en pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

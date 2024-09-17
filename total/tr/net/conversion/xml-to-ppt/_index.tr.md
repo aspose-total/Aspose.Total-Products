@@ -20,7 +20,7 @@ otherformats: POT POTM POWERPOINT OTP PPSM PPSX PPTM PPT POTX XAML PPS SWF
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Ücretsiz Çevrimiçi XML - PPT Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=xml" id="child-iframe" width="80%"></iframe>
+<iframe title="Ücretsiz Çevrimiçi XML - PPT Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=xml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

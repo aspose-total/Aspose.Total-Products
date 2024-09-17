@@ -83,7 +83,7 @@ docx.Save("output.docx", Aspose.Words.SaveFormat.Docx);
 
 <h3>Online konverter PPS-hez DOCX-be</h3>
 
-<iframe title="pps-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

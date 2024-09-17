@@ -53,7 +53,7 @@ document.Save("output.pptx", SaveFormat.Pptx);
 
 <h3>Бесплатный онлайн-конвертер ODS в PPTX</h3>
 
-<iframe title="Онлайн-инструмент от pptx до ods долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pptx до ods долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=ods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

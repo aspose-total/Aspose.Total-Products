@@ -83,7 +83,7 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 
 <h3>PPTX'den TXT'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="pptx'dan txt'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=txt&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx'dan txt'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=txt&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

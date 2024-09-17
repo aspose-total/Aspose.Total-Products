@@ -86,7 +86,7 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
 
 <h3>Онлайн-конвертер PPTX в DOC</h3>
 
-<iframe title="Онлайн-инструмент от doc до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от doc до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
