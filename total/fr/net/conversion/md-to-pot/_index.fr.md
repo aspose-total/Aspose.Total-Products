@@ -31,35 +31,15 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("input.md");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.pot", SaveFormat.Pot);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "convert-md-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Obtenir les métadonnées XMP du fichier MD via .NET" %}}
 Lors de la conversion de MD en POT, vous aurez peut-être besoin d'informations de métadonnées XMP supplémentaires pour hiérarchiser votre processus de conversion par lots. Par exemple, vous pouvez obtenir et trier vos documents de conversion en fonction de la date de création et traiter les documents en conséquence. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) vous permet d'accéder aux métadonnées XMP d'un fichier MD. Pour obtenir les métadonnées d'un fichier MD, vous pouvez créer un objet [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) et ouvrir le fichier MD d'entrée. Après cela, vous pouvez obtenir les métadonnées du fichier à l'aide de la propriété [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.md");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "decrypt-md-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Créer un fichier POT en lecture seule via .NET" %}}

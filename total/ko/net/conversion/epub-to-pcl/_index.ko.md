@@ -31,33 +31,15 @@ otherformats: DOTX ODT PS DOT RTF MHTML PCL OTT FLATOPC DOTM WORDML XAMLFLOW
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-Document document = new Document("template.epub");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 소유자 암호를 사용하여 EPUB 파일 암호 해독" %}}
 EPUB을 PCL으로 변환하기 전에 문서의 암호를 해독하려면 API를 사용하면 됩니다. PDF 파일을 복호화하기 위해서는 먼저 [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 객체를 생성하고 소유자의 비밀번호로 EPUB을 열어야 합니다. 이후 Document 객체의 [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) 메소드를 호출해야 합니다. 마지막으로 Document 개체의 Save 메서드를 사용하여 업데이트된 파일을 저장합니다.  
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-
-Document document = new Document("Decrypt.epub", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2=".NET을 통해 읽기 전용 PCL 파일 만들기" %}}

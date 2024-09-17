@@ -31,35 +31,15 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("template.md");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "convert-md-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Entschlüsseln Sie die MD-Datei mit dem Besitzerkennwort über .NET" %}}
 Wenn Sie Ihr Dokument vor der Konvertierung von MD in PCL entschlüsseln möchten, können Sie dies mithilfe der API tun. Um die PDF-Datei zu entschlüsseln, müssen Sie zuerst ein [Dokument](https://reference.aspose.com/pdf/net/aspose.pdf/document)-Objekt erstellen und das MD mit dem Passwort des Besitzers öffnen. Danach müssen Sie die Methode [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) des Document-Objekts aufrufen. Speichern Sie schließlich die aktualisierte Datei mit der Save-Methode des Document-Objekts.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.md", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "decrypt-md-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="ReadOnly PCL-Datei über .NET erstellen" %}}

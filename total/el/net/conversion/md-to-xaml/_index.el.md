@@ -31,35 +31,15 @@ otherformats: PPSX POTM OTP POT PPSM POWERPOINT PPS POTX PPT XAML PPTM SWF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("input.md");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.xaml", SaveFormat.Xaml);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "convert-md-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Λάβετε μεταδεδομένα XMP από το αρχείο MD μέσω .NET" %}}
 Κατά τη μετατροπή του MD σε XAML, ενδέχεται να χρειαστείτε επιπλέον πληροφορίες μεταδεδομένων XMP για να δώσετε προτεραιότητα στη διαδικασία ομαδικής μετατροπής. Για παράδειγμα, μπορείτε να λάβετε και να ταξινομήσετε τα έγγραφα μετατροπής με βάση την ημερομηνία δημιουργίας και να επεξεργαστείτε τα έγγραφα ανάλογα. Το [Aspose.PDF για .NET](https://products.aspose.com/pdf/net/) σάς επιτρέπει να έχετε πρόσβαση στα μεταδεδομένα XMP ενός αρχείου MD. Για να λάβετε τα μεταδεδομένα ενός αρχείου MD, μπορείτε να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) και να ανοίξετε το αρχείο εισόδου MD. Μετά από αυτό, μπορείτε να λάβετε τα μεταδεδομένα του αρχείου χρησιμοποιώντας την ιδιότητα [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.md");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "decrypt-md-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Δημιουργία αρχείου XAML μόνο για ανάγνωση μέσω .NET" %}}

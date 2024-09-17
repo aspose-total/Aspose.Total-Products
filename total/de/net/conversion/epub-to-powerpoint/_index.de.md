@@ -31,35 +31,15 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("input.epub");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// call save method while passing SaveFormat.Ppt
-presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Holen Sie sich XMP-Metadaten aus der EPUB-Datei über .NET" %}}
 Während der Konvertierung von EPUB in POWERPOINT benötigen Sie möglicherweise zusätzliche XMP-Metadateninformationen, um Ihren Batch-Konvertierungsprozess zu priorisieren. Beispielsweise können Sie Ihre Konvertierungsdokumente nach Erstellungsdatum abrufen und sortieren und die Dokumente entsprechend verarbeiten. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) ermöglicht Ihnen den Zugriff auf die XMP-Metadaten einer EPUB-Datei. Um die Metadaten einer EPUB-Datei abzurufen, können Sie ein [Dokument](https://reference.aspose.com/pdf/net/aspose.pdf/document)-Objekt erstellen und die Eingabe-EPUB-Datei öffnen. Danach können Sie die Metadaten der Datei mit der Eigenschaft [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) abrufen.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.epub");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Erstellen Sie eine schreibgeschützte POWERPOINT-Datei über .NET" %}}

@@ -31,35 +31,15 @@ otherformats: PPSM POTX OTP PPTM SWF POWERPOINT XAML PPT POTM PPS PPSX POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("input.epub");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsm", SaveFormat.Ppsm);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Λάβετε μεταδεδομένα XMP από το αρχείο EPUB μέσω .NET" %}}
 Κατά τη μετατροπή του EPUB σε PPSM, ενδέχεται να χρειαστείτε επιπλέον πληροφορίες μεταδεδομένων XMP για να δώσετε προτεραιότητα στη διαδικασία ομαδικής μετατροπής. Για παράδειγμα, μπορείτε να λάβετε και να ταξινομήσετε τα έγγραφα μετατροπής με βάση την ημερομηνία δημιουργίας και να επεξεργαστείτε τα έγγραφα ανάλογα. Το [Aspose.PDF για .NET](https://products.aspose.com/pdf/net/) σάς επιτρέπει να έχετε πρόσβαση στα μεταδεδομένα XMP ενός αρχείου EPUB. Για να λάβετε τα μεταδεδομένα ενός αρχείου EPUB, μπορείτε να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) και να ανοίξετε το αρχείο εισόδου EPUB. Μετά από αυτό, μπορείτε να λάβετε τα μεταδεδομένα του αρχείου χρησιμοποιώντας την ιδιότητα [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.epub");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Δημιουργία αρχείου PPSM μόνο για ανάγνωση μέσω .NET" %}}

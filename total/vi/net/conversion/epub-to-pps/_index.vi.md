@@ -31,35 +31,15 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("input.epub");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.pps", SaveFormat.Pps);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Nhận siêu dữ liệu XMP từ tệp EPUB qua .NET" %}}
 Trong khi chuyển đổi EPUB sang PPS, bạn có thể cần thêm thông tin siêu dữ liệu XMP để ưu tiên quá trình chuyển đổi hàng loạt của mình. Ví dụ: bạn có thể lấy và sắp xếp các tài liệu chuyển đổi của mình dựa trên ngày tạo và xử lý tài liệu cho phù hợp. [Aspose.PDF dành for .NET](https://products.aspose.com/pdf/net/) cho phép bạn truy cập siêu dữ liệu XMP của tệp EPUB. Để nhận siêu dữ liệu của tệp EPUB, bạn có thể tạo đối tượng [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) và mở tệp EPUB đầu vào. Sau đó, bạn có thể lấy siêu dữ liệu của tệp bằng thuộc tính [Siêu dữ liệu](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata).  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.epub");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Tạo tệp PPS chỉ đọc qua .NET" %}}

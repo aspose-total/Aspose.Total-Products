@@ -40,29 +40,15 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// load EPUB file with an instance of Document class
-Document document = new Document("template.epub");
-// save EPUB as a DOC 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-// load Doc with an instance of Document
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.Markdown
-outputDocument.Save("output.markdown", SaveFormat.Markdown);   
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Decrypt EPUB File using Owner Password via .NET" %}}
 Before converting EPUB to MARKDOWN, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the EPUB using the owner’s password. After that, you need to call [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// open document
-Document document = new Document("Decrypt.epub", "password");
-// decrypt EPUB
-document.Decrypt();
-// save the decrypted document as doc 
-document.Save("Decrypt_out.doc");
-```
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Create ReadOnly MARKDOWN- File via .NET" %}}

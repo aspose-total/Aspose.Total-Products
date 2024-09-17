@@ -31,35 +31,15 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("template.epub");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WordML
-outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="A EPUB-fájl visszafejtése tulajdonosi jelszó használatával .NET-en keresztül" %}}
 A EPUB WORDML-re konvertálása előtt, ha vissza szeretné fejteni a dokumentumot, megteheti az API használatával. A PDF-fájl visszafejtéséhez először létre kell hoznia egy [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) objektumot, és meg kell nyitnia a EPUB-et a tulajdonos jelszavával. Ezt követően meg kell hívnia a Dokumentum objektum [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) metódust. Végül mentse a frissített fájlt a Dokumentum objektum Mentés metódusával.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.epub", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Csak olvasható WORDML-fájl létrehozása .NET-en keresztül" %}}

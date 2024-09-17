@@ -31,33 +31,15 @@ otherformats: PCL ODT RTF WORDML FLATOPC PS DOTM MARKDOWN DOTX XAMLFLOW DOT MHTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-Document document = new Document("template.epub");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.odt", SaveFormat.Odt);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "convert-epub-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Расшифровать файл EPUB с помощью пароля владельца через .NET" %}}
 Перед преобразованием EPUB в ODT, если вы хотите расшифровать свой документ, вы можете сделать это с помощью API. Чтобы расшифровать файл PDF, сначала необходимо создать объект [Документ](https://reference.aspose.com/pdf/net/aspose.pdf/document) и открыть EPUB, используя пароль владельца. После этого необходимо вызвать метод [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) объекта Document. Наконец, сохраните обновленный файл, используя метод Save объекта Document.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-Document document = new Document("Decrypt.epub", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0e51da16990d47103fac757919644478" "decrypt-epub-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Создать ODT-файл только для чтения через .NET" %}}

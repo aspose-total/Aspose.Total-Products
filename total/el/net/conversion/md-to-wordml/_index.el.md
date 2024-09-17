@@ -31,35 +31,15 @@ otherformats: DOTX PCL PS OTT FLATOPC MARKDOWN RTF ODT DOT XAMLFLOW MHTML DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("template.md");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WordML
-outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "convert-md-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αποκρυπτογραφήστε το αρχείο MD χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου μέσω .NET" %}}
 Πριν μετατρέψετε το MD σε WORDML, εάν θέλετε να αποκρυπτογραφήσετε το έγγραφό σας, μπορείτε να το κάνετε χρησιμοποιώντας το API. Για να αποκρυπτογραφήσετε το αρχείο PDF, πρέπει πρώτα να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) και να ανοίξετε το MD χρησιμοποιώντας τον κωδικό πρόσβασης του κατόχου. Μετά από αυτό, πρέπει να καλέσετε τη μέθοδο [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) του αντικειμένου Document. Τέλος, αποθηκεύστε το ενημερωμένο αρχείο χρησιμοποιώντας τη μέθοδο Save του αντικειμένου Document.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.md", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "7ecbbfdbaa20b684f7fe108b8da68d71" "decrypt-md-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Δημιουργία αρχείου WORDML μόνο για ανάγνωση μέσω .NET" %}}
