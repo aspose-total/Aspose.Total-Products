@@ -31,35 +31,15 @@ otherformats: WORDML DOT XAMLFLOW OTT RTF MHTML ODT PCL FLATOPC DOTM MARKDOWN DO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("template.ps");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.markdown", SaveFormat.Markdown);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "03ca9b446f7a7fc78d49a01c742a2540" "convert-ps-to-docm.cs" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αποκρυπτογραφήστε το αρχείο PS χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου μέσω .NET" %}}
 Πριν μετατρέψετε το PS σε MARKDOWN, εάν θέλετε να αποκρυπτογραφήσετε το έγγραφό σας, μπορείτε να το κάνετε χρησιμοποιώντας το API. Για να αποκρυπτογραφήσετε το αρχείο PDF, πρέπει πρώτα να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) και να ανοίξετε το PS χρησιμοποιώντας τον κωδικό πρόσβασης του κατόχου. Μετά από αυτό, πρέπει να καλέσετε τη μέθοδο [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) του αντικειμένου Document. Τέλος, αποθηκεύστε το ενημερωμένο αρχείο χρησιμοποιώντας τη μέθοδο Save του αντικειμένου Document.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.ps", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "03ca9b446f7a7fc78d49a01c742a2540" "decrypt-ps-file.cs" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Δημιουργία αρχείου MARKDOWN μόνο για ανάγνωση μέσω .NET" %}}
