@@ -52,22 +52,8 @@ otherformats: PPSX PPT PPSM PPS OTP SWF POT POWERPOINT POTM XAML POTX PPTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="通过 C# .NET 将 SVG 转换为 ODP" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.svg");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.odp", SaveFormat.Odp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.odp", SaveFormat.Odp);
 使用其他功能（如 通过 .NET 从 SVG 文件中获取 XMP 元数据, 通过 .NET 创建只读 ODP 文件）将 SVG 保存为 ODP 的情况较少。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.svg");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

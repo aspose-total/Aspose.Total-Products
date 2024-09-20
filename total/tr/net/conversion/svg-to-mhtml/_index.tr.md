@@ -52,22 +52,8 @@ otherformats: DOTM DOTX XAMLFLOW DOT MHTML MARKDOWN PS FLATOPC PCL RTF OTT WORDM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="SVG'yi C# .NET ile MHTML'ye dönüştürün" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.mhtml", SaveFormat.Mhtml);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-mhtml.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.mhtml", SaveFormat.Mhtml);
 SVG dosyasını MHTML dosyasına .NET aracılığıyla Sahip Parolasını kullanarak SVG Dosyasının Şifresini Çözme[Document], .NET üzerinden ReadOnly MHTML- Dosyası Oluşturun gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

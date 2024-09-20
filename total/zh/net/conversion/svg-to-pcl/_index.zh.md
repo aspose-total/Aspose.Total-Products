@@ -52,22 +52,8 @@ otherformats: DOTM OTT MHTML DOTX PCL MARKDOWN DOT FLATOPC WORDML ODT PS XAMLFLO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="通过 C# .NET 将 SVG 转换为 PCL" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.pcl", SaveFormat.Pcl);
 使用其他功能（如 通过 .NET 使用所有者密码解密 SVG 文件, 通过 .NET 创建只读 PCL- 文件）将 SVG 保存为 PCL 的情况较少。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

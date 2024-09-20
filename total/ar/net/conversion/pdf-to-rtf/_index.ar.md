@@ -52,22 +52,8 @@ otherformats: PS ODT DOT PCL MHTML DOTX FLATOPC DOTM MARKDOWN WORDML XAMLFLOW RT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="تحويل PDF إلى RTF عبر C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.pdf");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.rtf", SaveFormat.Rtf);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.rtf", SaveFormat.Rtf);
 هناك حالات قليلة أخرى لحفظ PDF في RTF باستخدام ميزات أخرى مثل فك تشفير ملف PDF باستخدام كلمة مرور المالك عبر .NET, إنشاء ReadOnly RTF- ملف عبر .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.pdf", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

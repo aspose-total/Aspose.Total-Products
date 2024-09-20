@@ -52,22 +52,8 @@ otherformats: OTP POWERPOINT POTM PPT PPSM PPSX POTX XAML SWF POT PPTM PPS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Chuyển đổi PDF sang POTM thông qua C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.pdf");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.potm", SaveFormat.Potm);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.potm", SaveFormat.Potm);
 Một số trường hợp khác để lưu PDF vào POTM với các tính năng khác như Nhận siêu dữ liệu XMP từ tệp PDF qua .NET, Tạo tệp POTM chỉ đọc qua .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.pdf");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

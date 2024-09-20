@@ -52,22 +52,8 @@ otherformats: FLATOPC DOT DOTX MHTML WORDML ODT OTT DOTM PS PCL RTF XAMLFLOW
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Převeďte PDF na PCL přes C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.pdf");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.pcl", SaveFormat.Pcl);
 Několik dalších případů pro uložení PDF do PCL s dalšími funkcemi, jako je Dešifrovat soubor PDF pomocí hesla vlastníka přes .NET, Vytvořte soubor PCL pouze pro čtení přes .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.pdf", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

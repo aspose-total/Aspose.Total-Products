@@ -52,22 +52,8 @@ otherformats: DOT WORDML DOTM MHTML PCL OTT PS FLATOPC XAMLFLOW ODT DOTX RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="TEX'yi C# .NET ile PS'ye dönüştürün" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.tex");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.ps", SaveFormat.Ps);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.ps", SaveFormat.Ps);
 TEX dosyasını PS dosyasına .NET aracılığıyla Sahip Parolasını kullanarak TEX Dosyasının Şifresini Çözme[Document], .NET üzerinden ReadOnly PS- Dosyası Oluşturun gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.tex", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

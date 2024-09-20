@@ -52,21 +52,8 @@ otherformats: OTP POTM POTX POT SWF PPTM PPT PPSM PPSX POWERPOINT XAML PPS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET을 통해 TEX를 OTP로 변환" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("input.tex");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.otp", SaveFormat.Otp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ presentation.Save("output.otp", SaveFormat.Otp);
 .NET을 통해 TEX 파일에서 XMP 메타데이터 가져오기, .NET을 통해 읽기 전용 OTP 파일 생성와 같은 다른 기능을 사용하여 TEX를 OTP로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.tex");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

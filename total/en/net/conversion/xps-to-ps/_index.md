@@ -52,19 +52,8 @@ otherformats: FLATOPC RTF ODT PCL DOTM MHTML DOT DOTX OTT DOCM XAMLFLOW WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert XPS to PS via C# .NET" offSpacer="" %}}
-
-```cs// load XPS file with an instance of Document class
-Document document = new Document("template.xps");
-// save XPS as a DOC 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-// load Doc with an instance of Document
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.Ps
-outputDocument.Save("output.ps", SaveFormat.Ps);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ outputDocument.Save("output.ps", SaveFormat.Ps);
 Few more cases for saving XPS to PS with other features like Decrypt XPS File using Owner Password via .NET, Create ReadOnly PS- File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open document
-Document document = new Document("Decrypt.xps", "password");
-// decrypt XPS
-document.Decrypt();
-// save the decrypted document as doc 
-document.Save("Decrypt_out.doc");
-```
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

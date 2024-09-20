@@ -52,19 +52,8 @@ otherformats: PPT ODP POTM PPSM PPSX XAML PPTM SWF POTX POT OTP POWERPOINT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert SVG to PPS via C# .NET" offSpacer="" %}}
-
-```cs// load SVG file with an instance of Document class
-Document document = new Document("input.svg");
-// save SVG as a PPTX 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-// load PPTX with an instance of Presentation
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// call save method while passing SaveFormat.Pps
-presentation.Save("output.pps", SaveFormat.Pps);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ presentation.Save("output.pps", SaveFormat.Pps);
 Few more cases for saving SVG to PPS with other features like Get XMP Metadata from SVG File via .NET, Create Read Only PPS File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open SVG document
-Document doc = new Document("input.svg");
-// get SVG XMP properties
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

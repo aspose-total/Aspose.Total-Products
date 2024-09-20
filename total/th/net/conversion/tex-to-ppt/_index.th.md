@@ -52,22 +52,8 @@ otherformats: OTP XAML PPT PPS POWERPOINT PPTM PPSX POTX POTM SWF POT PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="แปลง TEX เป็น PPT ผ่าน C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.tex");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก TEX ไปยัง PPT พร้อมด้วยฟีเจอร์อื่นๆ เช่น รับข้อมูลเมตา XMP จากไฟล์ TEX ผ่าน .NET, สร้างไฟล์ PPT แบบอ่านอย่างเดียวผ่าน .NET
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.tex");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

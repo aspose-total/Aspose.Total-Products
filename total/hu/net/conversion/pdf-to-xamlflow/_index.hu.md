@@ -52,22 +52,8 @@ otherformats: DOTX XAMLFLOW DOT ODT PCL OTT PS DOTM FLATOPC MARKDOWN RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konvertálja az PDF-t XAMLFLOW-re C# .NET-en keresztül" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.pdf");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);
 Még néhány eset a(z) PDF elmentésére a(z) XAMLFLOW állományba más funkciókkal, mint például az A PDF-fájl visszafejtése tulajdonosi jelszó használatával .NET-en keresztül, Csak olvasható XAMLFLOW-fájl létrehozása .NET-en keresztül.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.pdf", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

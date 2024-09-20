@@ -52,22 +52,8 @@ otherformats: PPSM POTX PPT XAML PPTM PPS OTP POWERPOINT PPSX POT SWF POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Converter TEX para PPSX via C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.tex");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 Mais alguns casos para salvar TEX em PPSX com outros recursos como Obtenha metadados XMP do arquivo TEX via .NET, Criar arquivo PPSX somente leitura via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.tex");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

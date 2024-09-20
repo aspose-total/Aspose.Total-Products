@@ -52,19 +52,8 @@ otherformats: OTP XAML ODP PPS PPT POT PPSM POWERPOINT POTM POTX SWF PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert PDF to PPTM via C# .NET" offSpacer="" %}}
-
-```cs// load PDF file with an instance of Document class
-Document document = new Document("input.pdf");
-// save PDF as a PPTX 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-// load PPTX with an instance of Presentation
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// call save method while passing SaveFormat.Pptm
-presentation.Save("output.pptm", SaveFormat.Pptm);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ presentation.Save("output.pptm", SaveFormat.Pptm);
 Few more cases for saving PDF to PPTM with other features like Get XMP Metadata from PDF File via .NET, Create Read Only PPTM File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open PDF document
-Document doc = new Document("input.pdf");
-// get PDF XMP properties
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -52,22 +52,8 @@ otherformats: XAML PPSX PPS PPT SWF PPSM POTM PPTM POWERPOINT POT OTP POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convertir XPS a OTP mediante C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.xps");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.otp", SaveFormat.Otp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.otp", SaveFormat.Otp);
 Algunos casos más para guardar XPS en OTP con otras funciones como Obtenga metadatos XMP del archivo XPS a través de .NET, Crear archivo OTP de solo lectura a través de .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.xps");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

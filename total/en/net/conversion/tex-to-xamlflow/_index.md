@@ -52,19 +52,8 @@ otherformats: PCL MARKDOWN DOTM DOCM DOT ODT MHTML OTT DOTX WORDML PS FLATOPC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert TEX to XAMLFLOW via C# .NET" offSpacer="" %}}
-
-```cs// load TEX file with an instance of Document class
-Document document = new Document("template.tex");
-// save TEX as a DOC 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-// load Doc with an instance of Document
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.Xamlflow
-outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ outputDocument.Save("output.xamlflow", SaveFormat.Xamlflow);
 Few more cases for saving TEX to XAMLFLOW with other features like Decrypt TEX File using Owner Password via .NET, Create ReadOnly XAMLFLOW- File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open document
-Document document = new Document("Decrypt.tex", "password");
-// decrypt TEX
-document.Decrypt();
-// save the decrypted document as doc 
-document.Save("Decrypt_out.doc");
-```
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

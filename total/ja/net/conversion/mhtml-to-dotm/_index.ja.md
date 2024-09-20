@@ -52,22 +52,8 @@ otherformats: XAMLFLOW OTT ODT FLATOPC PCL DOTX DOTM WORDML MARKDOWN RTF PS DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET 経由で MHTML を DOTM に変換する" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.mhtml");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.dotm", SaveFormat.Dotm);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.dotm", SaveFormat.Dotm);
 .NET経由で所有者パスワードを使用してMHTMLファイルを復(化する, .NET経由で読み取り専用DOTM-ファイルを作成 などの他の機能を使用して MHTML を DOTM に保存するケースがさらにいくつかあります。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.mhtml", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

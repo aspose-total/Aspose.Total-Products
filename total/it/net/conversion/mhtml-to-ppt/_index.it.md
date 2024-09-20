@@ -52,22 +52,8 @@ otherformats: PPTM PPSX PPS POTX SWF XAML PPSM POTM POT OTP POWERPOINT PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convertire MHTML in PPT tramite C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.mhtml");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 Altri casi in cui è possibile salvare MHTML in PPT con altre funzionalità come Ottieni metadati XMP dal file MHTML tramite .NET, Crea file PPT di sola lettura tramite .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.mhtml");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

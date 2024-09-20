@@ -52,22 +52,8 @@ otherformats: DOTX RTF DOTM MARKDOWN PCL ODT PS FLATOPC MHTML XAMLFLOW OTT DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konvertera XPS till ODT via C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.xps");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.odt", SaveFormat.Odt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.odt", SaveFormat.Odt);
 Få fler fall för att spara XPS till ODT med andra funktioner som Dekryptera XPS-fil med ägarlösenord via .NET, Skapa skrivskyddad ODT-fil via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.xps", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

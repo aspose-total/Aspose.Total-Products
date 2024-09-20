@@ -52,22 +52,8 @@ otherformats: PCL RTF ODT WORDML MHTML DOTX FLATOPC MARKDOWN OTT XAMLFLOW PS DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convertir SVG a MARKDOWN mediante C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.markdown", SaveFormat.Markdown);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.markdown", SaveFormat.Markdown);
 Algunos casos más para guardar SVG en MARKDOWN con otras funciones como Descifre el archivo SVG usando la contraseña del propietario a través de .NET, Crear archivo MARKDOWN de solo lectura a través de .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

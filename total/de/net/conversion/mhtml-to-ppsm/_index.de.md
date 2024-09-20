@@ -52,22 +52,8 @@ otherformats: POTX PPS PPSM POWERPOINT POTM PPSX POT PPT SWF PPTM XAML OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konvertieren Sie MHTML in PPSM über C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.mhtml");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsm", SaveFormat.Ppsm);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppsm", SaveFormat.Ppsm);
 Noch einige Fälle zum Speichern von MHTML in PPSM mit anderen Funktionen wie Holen Sie sich XMP-Metadaten aus der MHTML-Datei über .NET, Erstellen Sie eine schreibgeschützte PPSM-Datei über .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.mhtml");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -52,22 +52,8 @@ otherformats: POWERPOINT SWF OTP POTM PPTM PPT PPSM PPSX POT POTX XAML PPS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XPS'yi C# .NET ile PPT'ye dönüştürün" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.xps");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 XPS dosyasını PPT dosyasına .NET aracılığıyla XPS Dosyasından XMP Meta Verilerini Alın[Document], .NET üzerinden Salt Okunur PPT Dosyası Oluşturun gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.xps");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

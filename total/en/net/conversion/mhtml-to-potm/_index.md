@@ -52,19 +52,8 @@ otherformats: SWF PPT ODP OTP PPS PPSX POT PPTM XAML POTX POWERPOINT PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to POTM via C# .NET" offSpacer="" %}}
-
-```cs// load MHTML file with an instance of Document class
-Document document = new Document("input.mhtml");
-// save MHTML as a PPTX 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-// load PPTX with an instance of Presentation
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// call save method while passing SaveFormat.Potm
-presentation.Save("output.potm", SaveFormat.Potm);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ presentation.Save("output.potm", SaveFormat.Potm);
 Few more cases for saving MHTML to POTM with other features like Get XMP Metadata from MHTML File via .NET, Create Read Only POTM File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open MHTML document
-Document doc = new Document("input.mhtml");
-// get MHTML XMP properties
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

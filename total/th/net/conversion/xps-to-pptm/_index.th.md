@@ -52,22 +52,8 @@ otherformats: POT PPSM POTX PPS XAML PPT SWF PPTM OTP POTM POWERPOINT PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="แปลง XPS เป็น PPTM ผ่าน C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.xps");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.pptm", SaveFormat.Pptm);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.pptm", SaveFormat.Pptm);
 มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก XPS ไปยัง PPTM พร้อมด้วยฟีเจอร์อื่นๆ เช่น รับข้อมูลเมตา XMP จากไฟล์ XPS ผ่าน .NET, สร้างไฟล์ PPTM แบบอ่านอย่างเดียวผ่าน .NET
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.xps");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -52,22 +52,8 @@ otherformats: RTF OTT MARKDOWN DOT WORDML MHTML ODT XAMLFLOW PCL FLATOPC PS DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convertire SVG in WORDML tramite C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WordML
-outputDocument.Save("output.wordml", SaveFormat.WordML);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.wordml", SaveFormat.WordML);
 Altri casi in cui è possibile salvare SVG in WORDML con altre funzionalità come Decrittografare il file SVG utilizzando la password del proprietario tramite .NET, Crea file WORDML di sola lettura tramite .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

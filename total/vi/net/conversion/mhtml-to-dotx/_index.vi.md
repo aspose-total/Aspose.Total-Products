@@ -52,22 +52,8 @@ otherformats: PS MARKDOWN DOTM DOTX OTT WORDML FLATOPC XAMLFLOW DOT ODT PCL RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Chuyển đổi MHTML sang DOTX thông qua C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.mhtml");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.dotx", SaveFormat.Dotx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.dotx", SaveFormat.Dotx);
 Một số trường hợp khác để lưu MHTML vào DOTX với các tính năng khác như Giải mã tệp MHTML bằng Mật khẩu chủ sở hữu qua .NET, Tạo ReadOnly DOTX- Tệp qua .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.mhtml", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

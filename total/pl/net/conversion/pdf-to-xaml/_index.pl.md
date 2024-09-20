@@ -52,22 +52,8 @@ otherformats: POWERPOINT POT XAML POTX SWF PPSM PPSX PPT POTM PPS PPTM OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj PDF na XAML przez C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.pdf");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.xaml", SaveFormat.Xaml);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.xaml", SaveFormat.Xaml);
 Jeszcze kilka przypadków zapisania PDF w XAML przy użyciu innych funkcji, takich jak Uzyskaj metadane XMP z pliku PDF przez .NET, Utwórz plik XAML tylko do odczytu przez .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.pdf");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -52,21 +52,8 @@ otherformats: PPTM PPSX PPS POTX SWF XAML PPSM POTM POT OTP POWERPOINT PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET을 통해 MHTML를 PPT로 변환" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("input.mhtml");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ presentation.Save("output.ppt", SaveFormat.Ppt);
 .NET을 통해 MHTML 파일에서 XMP 메타데이터 가져오기, .NET을 통해 읽기 전용 PPT 파일 생성와 같은 다른 기능을 사용하여 MHTML를 PPT로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.mhtml");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

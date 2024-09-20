@@ -52,21 +52,8 @@ otherformats: DOTM OTT MHTML ODT RTF PCL DOT FLATOPC DOTX PS WORDML MARKDOWN
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Конвертировать TEX в RTF через C# .NET" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("template.tex");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.rtf", SaveFormat.Rtf);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ outputDocument.Save("output.rtf", SaveFormat.Rtf);
 Еще несколько случаев сохранения TEX в RTF с другими функциями, такими как Расшифровать файл TEX с помощью пароля владельца через .NET, Создать RTF-файл только для чтения через .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-Document document = new Document("Decrypt.tex", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

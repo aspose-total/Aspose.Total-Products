@@ -52,21 +52,8 @@ otherformats: ODT DOTX OTT MARKDOWN PCL RTF DOTM DOT GIF WORDML XAMLFLOW MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET을 통해 TEX를 GIF로 변환" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("template.tex");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.gif", SaveFormat.Gif);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-images.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ outputDocument.Save("output.gif", SaveFormat.Gif);
 .NET을 통해 소유자 암호를 사용하여 TEX 파일 암호 해독, .NET을 통해 읽기 전용 GIF 파일 만들기와 같은 다른 기능을 사용하여 TEX를 GIF로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.tex", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

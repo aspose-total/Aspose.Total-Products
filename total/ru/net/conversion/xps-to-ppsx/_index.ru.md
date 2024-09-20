@@ -52,21 +52,8 @@ otherformats: PPT SWF OTP POWERPOINT POTM PPS PPTM PPSX POTX XAML PPSM POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Конвертировать XPS в PPSX через C# .NET" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("input.xps");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 Еще несколько случаев сохранения XPS в PPSX с другими функциями, такими как Получить метаданные XMP из файла XPS через .NET, Создать файл PPSX только для чтения через .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-Document doc = new Document("input.xps");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "decrypt-xps-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

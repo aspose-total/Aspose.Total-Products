@@ -52,21 +52,8 @@ otherformats: RTF PS WORDML FLATOPC DOTX PCL MARKDOWN DOTM XAMLFLOW ODT OTT MHTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Конвертировать SVG в DOT через C# .NET" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.dot", SaveFormat.Dot);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ outputDocument.Save("output.dot", SaveFormat.Dot);
 Еще несколько случаев сохранения SVG в DOT с другими функциями, такими как Расшифровать файл SVG с помощью пароля владельца через .NET, Создать DOT-файл только для чтения через .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

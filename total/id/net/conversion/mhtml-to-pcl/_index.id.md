@@ -52,22 +52,8 @@ otherformats: XAMLFLOW ODT OTT WORDML FLATOPC DOT PS PCL MARKDOWN RTF DOTX DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konversi MHTML ke PCL melalui C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.mhtml");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.pcl", SaveFormat.Pcl);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.pcl", SaveFormat.Pcl);
 Beberapa kasus lagi untuk menyimpan MHTML ke PCL dengan fitur lain seperti Dekripsi File MHTML menggunakan Kata Sandi Pemilik melalui .NET, Buat ReadOnly PCL- File melalui .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.mhtml", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

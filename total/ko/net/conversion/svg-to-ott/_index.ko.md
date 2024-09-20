@@ -52,21 +52,8 @@ otherformats: MARKDOWN DOTM MHTML PS XAMLFLOW FLATOPC WORDML DOT ODT OTT RTF PCL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET을 통해 SVG를 OTT로 변환" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("template.svg");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.ott", SaveFormat.Ott);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ outputDocument.Save("output.ott", SaveFormat.Ott);
 .NET을 통해 소유자 암호를 사용하여 SVG 파일 암호 해독, .NET을 통해 읽기 전용 OTT 파일 만들기와 같은 다른 기능을 사용하여 SVG를 OTT로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document document = new Document("Decrypt.svg", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 

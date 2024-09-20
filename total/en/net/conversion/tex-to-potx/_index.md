@@ -52,19 +52,8 @@ otherformats: XAML PPT OTP SWF PPS ODP POT PPSM PPSX PPTM POWERPOINT POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert TEX to POTX via C# .NET" offSpacer="" %}}
-
-```cs// load TEX file with an instance of Document class
-Document document = new Document("input.tex");
-// save TEX as a PPTX 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-// load PPTX with an instance of Presentation
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// call save method while passing SaveFormat.Potx
-presentation.Save("output.potx", SaveFormat.Potx);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ presentation.Save("output.potx", SaveFormat.Potx);
 Few more cases for saving TEX to POTX with other features like Get XMP Metadata from TEX File via .NET, Create Read Only POTX File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open TEX document
-Document doc = new Document("input.tex");
-// get TEX XMP properties
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

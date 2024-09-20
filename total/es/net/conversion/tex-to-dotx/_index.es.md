@@ -52,22 +52,8 @@ otherformats: OTT DOT MARKDOWN ODT PS DOTM MHTML XAMLFLOW DOTX PCL WORDML FLATOP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convertir TEX a DOTX mediante C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.tex");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.dotx", SaveFormat.Dotx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "convert-tex-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.dotx", SaveFormat.Dotx);
 Algunos casos más para guardar TEX en DOTX con otras funciones como Descifre el archivo TEX usando la contraseña del propietario a través de .NET, Crear archivo DOTX de solo lectura a través de .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.tex", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "a6dae6c5c55b323227bb50f16238d65d" "decrypt-tex-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

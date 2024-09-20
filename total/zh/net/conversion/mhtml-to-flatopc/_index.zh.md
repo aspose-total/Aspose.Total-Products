@@ -52,22 +52,8 @@ otherformats: RTF XAMLFLOW MARKDOWN WORDML DOTM ODT PCL DOT PS OTT DOTX FLATOPC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="通过 C# .NET 将 MHTML 转换为 FLATOPC" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.mhtml");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.FlatOpc
-outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);
 使用其他功能（如 通过 .NET 使用所有者密码解密 MHTML 文件, 通过 .NET 创建只读 FLATOPC- 文件）将 MHTML 保存为 FLATOPC 的情况较少。
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.mhtml", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

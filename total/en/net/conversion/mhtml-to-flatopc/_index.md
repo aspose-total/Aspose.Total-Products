@@ -52,19 +52,8 @@ otherformats: RTF XAMLFLOW MARKDOWN WORDML DOTM ODT PCL DOT PS OTT DOTX DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to FLATOPC via C# .NET" offSpacer="" %}}
-
-```cs// load MHTML file with an instance of Document class
-Document document = new Document("template.mhtml");
-// save MHTML as a DOC 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-// load Doc with an instance of Document
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -73,15 +62,7 @@ outputDocument.Save("output.flatopc", SaveFormat.FlatOpc);
 Few more cases for saving MHTML to FLATOPC with other features like Decrypt MHTML File using Owner Password via .NET, Create ReadOnly FLATOPC- File via .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs// open document
-Document document = new Document("Decrypt.mhtml", "password");
-// decrypt MHTML
-document.Decrypt();
-// save the decrypted document as doc 
-document.Save("Decrypt_out.doc");
-```
-
+{{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "decrypt-mhtml-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

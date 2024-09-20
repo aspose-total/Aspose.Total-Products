@@ -52,21 +52,8 @@ otherformats: OTP PPT POTX POTM PPSX PPTM POWERPOINT POT XAML PPSM PPS SWF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# .NET을 통해 SVG를 SWF로 변환" offSpacer="" %}}
-
-
-```cs
-Document document = new Document("input.svg");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.swf", SaveFormat.Swf);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,17 +62,7 @@ presentation.Save("output.swf", SaveFormat.Swf);
 .NET을 통해 SVG 파일에서 XMP 메타데이터 가져오기, .NET을 통해 읽기 전용 SWF 파일 생성와 같은 다른 기능을 사용하여 SVG를 SWF로 저장하는 몇 가지 사례가 더 있습니다.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-
-Document doc = new Document("input.svg");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 
 
