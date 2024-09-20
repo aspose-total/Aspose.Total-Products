@@ -52,22 +52,8 @@ otherformats: PPSX PPT POWERPOINT POT OTP POTX SWF PPTM PPS PPSM POTM XAML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Μετατρέψτε το PDF σε PPSX μέσω C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.pdf");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 Λίγες ακόμη περιπτώσεις για αποθήκευση του PDF στο PPSX με άλλες λειτουργίες όπως το Λάβετε μεταδεδομένα XMP από το αρχείο PDF μέσω .NET, Δημιουργία αρχείου PPSX μόνο για ανάγνωση μέσω .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.pdf");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

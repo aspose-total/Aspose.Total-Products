@@ -52,22 +52,8 @@ otherformats: DOTM XAMLFLOW WORDML DOT PCL FLATOPC RTF DOTX ODT OTT MHTML MARKDO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Μετατρέψτε το PDF σε MHTML μέσω C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.pdf");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.mhtml", SaveFormat.Mhtml);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-mhtml.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.mhtml", SaveFormat.Mhtml);
 Λίγες ακόμη περιπτώσεις για αποθήκευση του PDF στο MHTML με άλλες λειτουργίες όπως το Αποκρυπτογραφήστε το αρχείο PDF χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου μέσω .NET, Δημιουργία αρχείου MHTML μόνο για ανάγνωση μέσω .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.pdf", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -52,22 +52,8 @@ otherformats: POT PPSM PPTM SWF POTX PPT PPS PPSX XAML OTP POTM POWERPOINT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konvertieren Sie SVG in PPSX über C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.svg");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 Noch einige Fälle zum Speichern von SVG in PPSX mit anderen Funktionen wie Holen Sie sich XMP-Metadaten aus der SVG-Datei über .NET, Erstellen Sie eine schreibgeschützte PPSX-Datei über .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.svg");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "decrypt-svg-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

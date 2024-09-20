@@ -52,22 +52,8 @@ otherformats: DOTX DOT PCL DOTM PS WORDML MHTML RTF FLATOPC ODT MARKDOWN XAMLFLO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Μετατρέψτε το PDF σε OTT μέσω C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("template.pdf");
- 
-document.Save("DocOutput.doc", SaveFormat.Doc); 
-
-var outputDocument = new Aspose.Words.Document("DocOutput.doc");
-
-outputDocument.Save("output.ott", SaveFormat.Ott);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-docm.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ outputDocument.Save("output.ott", SaveFormat.Ott);
 Λίγες ακόμη περιπτώσεις για αποθήκευση του PDF στο OTT με άλλες λειτουργίες όπως το Αποκρυπτογραφήστε το αρχείο PDF χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου μέσω .NET, Δημιουργία αρχείου OTT μόνο για ανάγνωση μέσω .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document document = new Document("Decrypt.pdf", "password");
-
-document.Decrypt();
- 
-document.Save("Decrypt_out.doc");
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 

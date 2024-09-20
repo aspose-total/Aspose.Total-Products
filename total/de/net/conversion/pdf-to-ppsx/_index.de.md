@@ -52,22 +52,8 @@ otherformats: PPSX PPT POWERPOINT POT OTP POTX SWF PPTM PPS PPSM POTM XAML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Konvertieren Sie PDF in PPSX über C# .NET" offSpacer="" %}}
-
-
-```cs
-
-Document document = new Document("input.pdf");
- 
-document.Save("PptxOutput.pptx", SaveFormat.Pptx); 
-
-Presentation presentation = new Presentation("PptxOutput.pptx");
-
-presentation.Save("output.ppsx", SaveFormat.Ppsx);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "convert-pdf-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -76,18 +62,7 @@ presentation.Save("output.ppsx", SaveFormat.Ppsx);
 Noch einige Fälle zum Speichern von PDF in PPSX mit anderen Funktionen wie Holen Sie sich XMP-Metadaten aus der PDF-Datei über .NET, Erstellen Sie eine schreibgeschützte PPSX-Datei über .NET.
 
 {{% blocks/products/pf/feature-page-code %}}
-
-
-```cs
-
-Document doc = new Document("input.pdf");
-
-Console.WriteLine(doc.Metadata["xmp:CreateDate"]);
-Console.WriteLine(doc.Metadata["xmp:Nickname"]);
-Console.WriteLine(doc.Metadata["xmp:CustomProperty"]);
-```
-
-
+{{< gist "aspose-com-gists" "3b92848992edf03485a46dc339d576b7" "decrypt-pdf-file.cs" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{% blocks/products/pf/feature-page-code %}}
 
