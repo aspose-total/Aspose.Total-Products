@@ -51,9 +51,9 @@ otherformats: PPS XAML PPSX OTP POTM POT PPSM PPTM POTX SWF PPT POWERPOINT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter SVG para PPTM via C# .NET" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "3126a07d9dfc192a718967f2a5052186" "convert-svg-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

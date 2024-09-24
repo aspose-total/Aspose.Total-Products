@@ -51,9 +51,9 @@ otherformats: PPS PPT POWERPOINT XAML SWF POTM PPSM PPTM OTP POTX PPSX POT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Конвертировать XPS в ODP через C# .NET" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

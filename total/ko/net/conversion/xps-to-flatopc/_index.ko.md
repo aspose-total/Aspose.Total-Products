@@ -51,9 +51,9 @@ otherformats: PS XAMLFLOW MHTML DOTM ODT MARKDOWN OTT WORDML DOTX DOT PCL FLATOP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# .NET을 통해 XPS를 FLATOPC로 변환" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-docm.cs" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

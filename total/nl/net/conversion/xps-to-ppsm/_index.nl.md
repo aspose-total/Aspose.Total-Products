@@ -51,9 +51,9 @@ otherformats: PPT POTM POTX PPSM PPSX PPS SWF POT OTP PPTM XAML POWERPOINT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer XPS naar PPSM via C# .NET" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "54e5a3533ee79b881856b9b1a2c76f16" "convert-xps-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,9 +51,9 @@ otherformats: SWF OTP PPTM POWERPOINT PPS PPSX POTM POT XAML PPSM POTX PPT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir MHTML en PPSX via C# .NET" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "d4eaa546115fdcec08af9d5e34037a17" "convert-mhtml-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
