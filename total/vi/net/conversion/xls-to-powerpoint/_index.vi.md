@@ -30,17 +30,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code cho chuyển đổi XLS sang POWERPOINT" gistPath="" %}}
-```cs
-// load the XLS file using Workbook class
-var book = new Aspose.Cells.Workbook("input.xls");
-// save XLS as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Powerpointument class
-var powerpointument = new Aspose.Pdf.Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.Save("output.pptx", SaveFormat.Pptx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-excel-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -30,17 +30,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Código .NET C# para conversión de TSV a POWERPOINT" gistPath="" %}}
-```cs
-// load the TSV file using Workbook class
-var book = new Aspose.Cells.Workbook("input.tsv");
-// save TSV as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Powerpointument class
-var powerpointument = new Aspose.Pdf.Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.Save("output.pptx", SaveFormat.Pptx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-tsv-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -30,17 +30,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Código .NET C# para conversão de FODS para WORD" gistPath="" %}}
-```cs
-// load the FODS file using Workbook class
-var book = new Aspose.Cells.Workbook("input.fods");
-// save FODS as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Wordument class
-var wordument = new Aspose.Pdf.Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.Save("output.word", SaveFormat.Word); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-fods-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

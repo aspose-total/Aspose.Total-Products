@@ -30,17 +30,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kód pro převod SXC na DOCX" gistPath="" %}}
-```cs
-// load the SXC file using Workbook class
-var book = new Aspose.Cells.Workbook("input.sxc");
-// save SXC as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Document class
-var document = new Aspose.Pdf.Document("pdfOutput.pdf");
-// save document in DOCX format
-document.Save("output.docx", SaveFormat.Docx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-sxc-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

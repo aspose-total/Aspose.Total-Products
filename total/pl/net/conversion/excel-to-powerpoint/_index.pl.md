@@ -30,17 +30,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Kod .NET C# do konwersji EXCEL na POWERPOINT" gistPath="" %}}
-```cs
-// load the EXCEL file using Workbook class
-var book = new Aspose.Cells.Workbook("input.excel");
-// save EXCEL as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Powerpointument class
-var powerpointument = new Aspose.Pdf.Powerpointument("pdfOutput.pdf");
-// save powerpointument in PPTX format
-powerpointument.Save("output.pptx", SaveFormat.Pptx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-excel-to-powerpoint.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

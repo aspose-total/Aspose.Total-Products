@@ -30,17 +30,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C#-Code für die Konvertierung von XLSB in WORD" gistPath="" %}}
-```cs
-// load the XLSB file using Workbook class
-var book = new Aspose.Cells.Workbook("input.xlsb");
-// save XLSB as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Wordument class
-var wordument = new Aspose.Pdf.Wordument("pdfOutput.pdf");
-// save wordument in WORD format
-wordument.Save("output.word", SaveFormat.Word); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-excel-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

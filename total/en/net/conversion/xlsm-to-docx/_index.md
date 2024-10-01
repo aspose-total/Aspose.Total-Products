@@ -41,16 +41,8 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for XLSM to DOCX Conversion" gistPath="" %}}
-```cs// load the XLSM file using Workbook class
-var book = new Aspose.Cells.Workbook("input.xlsm");
-// save XLSM as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Document class
-var document = new Aspose.Pdf.Document("pdfOutput.pdf");
-// save document in DOCX format
-document.Save("output.docx", SaveFormat.DocX); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-excel-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

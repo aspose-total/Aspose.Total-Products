@@ -30,17 +30,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Código .NET C# para conversión de XLSB a DOCX" gistPath="" %}}
-```cs
-// load the XLSB file using Workbook class
-var book = new Aspose.Cells.Workbook("input.xlsb");
-// save XLSB as PDF
-book.Save("pdfOutput.pdf", Aspose.Cells.SaveFormat.Auto); 
-// load the PDF file using Document class
-var document = new Aspose.Pdf.Document("pdfOutput.pdf");
-// save document in DOCX format
-document.Save("output.docx", SaveFormat.Docx); 
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "01e6cc7db886660e361b9d0846b8989b" "convert-excel-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
