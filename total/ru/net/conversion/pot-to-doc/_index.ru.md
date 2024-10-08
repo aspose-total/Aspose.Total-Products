@@ -56,26 +56,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать POT в DOC с помощью C#." offSpacer="" %}}
-
-```cs// Загрузите POT-файл Microsoft PowerPoint
-Aspose.Slides.Presentation pot = new Aspose.Slides.Presentation("source.pot");
-
-var stream = new MemoryStream();
-
-pot.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Загружаем содержимое презентации в документ Word
-var doc = new Aspose.Words.Document(stream);
-      
-// Сохраняем документ Word DOC
-doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

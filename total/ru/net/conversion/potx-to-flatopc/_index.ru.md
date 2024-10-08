@@ -56,26 +56,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать POTX в FLATOPC с помощью C#." offSpacer="" %}}
-
-```cs// Загрузите POTX-файл Microsoft PowerPoint
-Aspose.Slides.Presentation potx = new Aspose.Slides.Presentation("source.potx");
-
-var stream = new MemoryStream();
-
-potx.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Загружаем содержимое презентации в документ Word
-var flatopc = new Aspose.Words.Document(stream);
-      
-// Сохраняем документ Word FLATOPC
-flatopc.Save("output.flatopc", Aspose.Words.SaveFormat.Flatopc);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-flatopc.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

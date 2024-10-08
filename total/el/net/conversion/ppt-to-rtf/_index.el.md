@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Αυτό το δείγμα κώδικα δείχνει πώς να μετατρέψετε ένα PPT σε RTF χρησιμοποιώντας C#" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPT file
-Aspose.Slides.Presentation ppt = new Aspose.Slides.Presentation("source.ppt");
-
-var stream = new MemoryStream();
-
-ppt.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var rtf = new Aspose.Words.Document(stream);
-      
-// Save the Word RTF document
-rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

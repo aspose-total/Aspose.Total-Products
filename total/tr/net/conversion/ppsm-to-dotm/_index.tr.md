@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Bu kod örneği, C# kullanarak bir PPSM'nin DOTM'ye nasıl dönüştürüleceğini gösterir." offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPSM file
-Aspose.Slides.Presentation ppsm = new Aspose.Slides.Presentation("source.ppsm");
-
-var stream = new MemoryStream();
-
-ppsm.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var dotm = new Aspose.Words.Document(stream);
-      
-// Save the Word DOTM document
-dotm.Save("output.dotm", Aspose.Words.SaveFormat.Dotm);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

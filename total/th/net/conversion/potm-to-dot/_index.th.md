@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="ตัวอย่างโค้ดนี้แสดงวิธีการแปลง POTM เป็น DOT โดยใช้ C# หรือทางออนไลน์" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint POTM file
-Aspose.Slides.Presentation potm = new Aspose.Slides.Presentation("source.potm");
-
-var stream = new MemoryStream();
-
-potm.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var dot = new Aspose.Words.Document(stream);
-      
-// Save the Word DOT document
-dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

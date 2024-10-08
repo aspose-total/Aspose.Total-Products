@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية هذا كيفية تحويل PPTX إلى DOTX باستخدام C# أو عبر الإنترنت" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPTX file
-Aspose.Slides.Presentation pptx = new Aspose.Slides.Presentation("source.pptx");
-
-var stream = new MemoryStream();
-
-pptx.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var dotx = new Aspose.Words.Document(stream);
-      
-// Save the Word DOTX document
-dotx.Save("output.dotx", Aspose.Words.SaveFormat.Dotx);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

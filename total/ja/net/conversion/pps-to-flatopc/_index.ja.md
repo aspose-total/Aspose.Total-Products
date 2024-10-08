@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="このコードサンプルは、C＃を使用してPPSをFLATOPCに変換する またはオンライン方法を示しています" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPS file
-Aspose.Slides.Presentation pps = new Aspose.Slides.Presentation("source.pps");
-
-var stream = new MemoryStream();
-
-pps.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var flatopc = new Aspose.Words.Document(stream);
-      
-// Save the Word FLATOPC document
-flatopc.Save("output.flatopc", Aspose.Words.SaveFormat.Flatopc);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-flatopc.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

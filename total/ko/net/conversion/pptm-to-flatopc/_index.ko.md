@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="이 코드 샘플은 C#을 사용하여 PPTM를 FLATOPC로 변환 또는 온라인하는 방법을 보여줍니다." offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPTM file
-Aspose.Slides.Presentation pptm = new Aspose.Slides.Presentation("source.pptm");
-
-var stream = new MemoryStream();
-
-pptm.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var flatopc = new Aspose.Words.Document(stream);
-      
-// Save the Word FLATOPC document
-flatopc.Save("output.flatopc", Aspose.Words.SaveFormat.Flatopc);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-flatopc.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

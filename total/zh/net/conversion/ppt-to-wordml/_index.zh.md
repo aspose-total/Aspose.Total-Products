@@ -57,27 +57,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="此代码示例展示了如何使用 C# 将 PPT 转换为 WORDML 或在线" offSpacer="" %}}
-
-```cs
-// 加载 Microsoft PowerPoint PPT 文件
-Aspose.Slides.Presentation ppt = new Aspose.Slides.Presentation("source.ppt");
-
-var stream = new MemoryStream();
-
-ppt.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// 将演示文稿的内容加载到 Word 文档中
-var wordml = new Aspose.Words.Document(stream);
-      
-// 保存 Word WORDML 文档
-wordml.Save("output.wordml", Aspose.Words.SaveFormat.Wordml);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-wordml.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

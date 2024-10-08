@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="이 코드 샘플은 C#을 사용하여 ODP를 DOCM로 변환 또는 온라인하는 방법을 보여줍니다." offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint ODP file
-Aspose.Slides.Presentation odp = new Aspose.Slides.Presentation("source.odp");
-
-var stream = new MemoryStream();
-
-odp.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var docm = new Aspose.Words.Document(stream);
-      
-// Save the Word DOCM document
-docm.Save("output.docm", Aspose.Words.SaveFormat.Docm);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

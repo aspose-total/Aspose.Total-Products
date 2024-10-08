@@ -56,26 +56,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано, как преобразовать PPS в WORDML с помощью C#." offSpacer="" %}}
-
-```cs// Загрузите PPS-файл Microsoft PowerPoint
-Aspose.Slides.Presentation pps = new Aspose.Slides.Presentation("source.pps");
-
-var stream = new MemoryStream();
-
-pps.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Загружаем содержимое презентации в документ Word
-var wordml = new Aspose.Words.Document(stream);
-      
-// Сохраняем документ Word WORDML
-wordml.Save("output.wordml", Aspose.Words.SaveFormat.Wordml);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-wordml.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

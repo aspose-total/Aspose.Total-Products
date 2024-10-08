@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mẫu mã này cho thấy cách chuyển đổi PPTM sang DOCX bằng C#" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint PPTM file
-Aspose.Slides.Presentation pptm = new Aspose.Slides.Presentation("source.pptm");
-
-var stream = new MemoryStream();
-
-pptm.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var docx = new Aspose.Words.Document(stream);
-      
-// Save the Word DOCX document
-docx.Save("output.docx", Aspose.Words.SaveFormat.Docx);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-word.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
