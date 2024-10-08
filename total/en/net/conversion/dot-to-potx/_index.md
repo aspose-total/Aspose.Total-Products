@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Total
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert DOT to POTX via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOT to POTX via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ PM> Install-Package Aspose.Total
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
