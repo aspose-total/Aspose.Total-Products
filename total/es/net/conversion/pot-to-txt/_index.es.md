@@ -52,27 +52,8 @@ PM> Install-Package Aspose.Total
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este ejemplo de código muestra cómo convertir un POT a TXT usando C#" offSpacer="" %}}
-
-```cs
-// Load the Microsoft PowerPoint POT file
-Aspose.Slides.Presentation pot = new Aspose.Slides.Presentation("source.pot");
-
-var stream = new MemoryStream();
-
-pot.Save(stream, Aspose.Slides.Export.SaveFormat.Html);
-stream.Flush();
-stream.Seek(0, SeekOrigin.Begin);
-// stream.Position = 0;
-
-// Load the content of the presentation to a Word document
-var txt = new Aspose.Words.Document(stream);
-      
-// Save the Word TXT document
-txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "5e83ef28b26d57d7ee7825eeffe231ff" "convert-powerpoint-to-txt.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
