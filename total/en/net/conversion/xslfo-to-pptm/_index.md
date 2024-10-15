@@ -102,7 +102,7 @@ presentation.Save("output.pptm", SaveFormat.Pptm);
 
 <h2>Develop XSLFO File Conversion Application using .NET</h2>
 
-Need to develop .NET based software application to easily save and export XSLFO files to PPTM document ? With BMP1, any .NET developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word, Excel, Powerpoint, PDF, Email files, Images and other formats. Powerful .NET library for document conversion, supports many popular formats including XSLFO format. Exporting documents to other formats, programmers can use Aspose.Total for .NET child APIs inlcluding BMP2, BMP3, BMP4, BMP5, BMP6 and more.<br /><br />
+Need to develop .NET based software application to easily save and export XSLFO files to PPTM document ? With [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word, Excel, Powerpoint, PDF, Email files, Images and other formats. Powerful .NET library for document conversion, supports many popular formats including XSLFO format. Exporting documents to other formats, programmers can use Aspose.Total for .NET child APIs inlcluding [Aspose.Words for .NET](https://products.aspose.com/words/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) and more.<br /><br />
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
@@ -111,8 +111,8 @@ Need to develop .NET based software application to easily save and export XSLFO 
 
 There are three alternative options to install Aspose.Total for .NET onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
 
-- Install a BMP7. See BMP8
-- Install the library using Package Manager Console as of its child API selection within Visual Studio IDE like BMP9, GIF1, GIF2 etc
+- Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). See [Documentation](https://docs.aspose.com/total/net/)
+- Install the library using Package Manager Console as of its child API selection within Visual Studio IDE like [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc
 - Install the library manually using Windows Installer
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
