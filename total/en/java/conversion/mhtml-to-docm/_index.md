@@ -1,47 +1,58 @@
 ---
-title: Java API to Export MHTML to DOCM
-description: Convert MHTML to DOCM using on premise Java API
-url_ignore: /java/conversion/mhtml-to-docm/
+title: Online MHTML to DOCM Conversion or Develop Java based Application to Convert MHTML Files
+description: Free online app to convert MHTML to DOCM files. Java conversion library code for MHTML documents. 
+
 family: total
-platformtag: java
+platformtag: Java
 feature: conversion
 informat: MHTML
 outformat: DOCM
 otherformats: PCL RTF DOTM OTT DOT WORDML PS MARKDOWN ODT FLATOPC DOTX XAMLFLOW
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Transform MHTML to DOCM via Java" h2="On Premise Java API to Render MHTML to DOCM without using any third party application" >}}
+{{< blocks/products/pf/feature-page-header h1="Online MHTML to DOCM Conversion App and Java Code to Convert MHTML Files" h2="Develop powerful Java based MHTML conversion and exporting application. Convert single or multiple MHTML files to DOCM and other formats via Java automation API. Freely convert MHTML files online via app with instant download." >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-Converting MHTML to DOCM is a simple two-step process that can be accomplished using the powerful APIs from Aspose.Total for Java. Aspose.PDF for Java is the first step in the process, allowing you to render MHTML files to DOC. Once the file is in DOC format, Aspose.Words for Java can be used to convert the file to DOCM.
-
-Aspose.PDF for Java is a powerful PDF manipulation API that allows you to render MHTML files to DOC. It is a feature-rich API that provides a wide range of features, including the ability to convert MHTML to DOC. It also supports a variety of other formats, including PDF, XPS, HTML, and more.
-
-Aspose.Words for Java is a powerful document processing API that allows you to convert DOC to DOCM. It is a feature-rich API that provides a wide range of features, including the ability to convert DOC to DOCM. It also supports a variety of other formats, including DOCX, ODT, RTF, and more.
-
-Both Aspose.PDF for Java and Aspose.Words for Java are included in the Aspose.Total for Java package. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for manipulating documents, images, and other file formats. It is a powerful and cost-effective solution for developers who need to work with a variety of file formats.
-
-By using Aspose.Total for Java, you can easily convert MHTML to DOCM in just two simple steps. First, you render MHTML files to DOC using Aspose.PDF for Java. Then, you can use Aspose.Words for Java to convert the DOC file to DOCM. This process is quick and easy, and it allows you to work with a variety of file formats.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API to Convert MHTML to DOCM" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Free Online MHTML to DOCM Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docm&from=mhtml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert MHTML to DOCM Files Online using App" %}}
+
+1. Upload MHTML files to convert
+1. Wait for few seconds or more depending on MHTML size
+1. Keep an eye on uploading status bar
+1. Click the "Convert" button
+1. MHTML will be converted into DOCM document
+1. Download the converted DOCM file
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convert MHTML to DOCM via Java Automation API" %}}
+
+
 1. Open MHTML file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
 2. Convert MHTML to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
 3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
 4. Save the document to DOCM format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set DOCM as SaveFormat
+
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
-You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) and [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) in your pom.xml.
+{{% blocks/products/pf/agp/code-block title="Java Code for MHTML to DOCM Conversion" offSpacer="" %}}
 
-Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
 ```java
 // load MHTML file with an instance of Document class
 Document document = new Document("template.mhtml");
@@ -52,23 +63,27 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.DOCM
 outputDocument.save("output.docm", SaveFormat.DOCM);   
 ```
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Open Password Protected MHTML Document via Java" %}}
-While converting MHTML to DOCM, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the MHTML using the owner’s password. 
+{{% blocks/products/pf/feature-page-summary %}}
+
+Few more cases for saving MHTML to DOCM with other features like Open Password Protected MHTML Document via Java, Save DOCM Document to a Database via Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs// open encrypted document
 Document document = new Document("input.mhtml", "password");
 // save MHTML as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Save DOCM Document to a Database via Java" %}}
-While saving your input document to DOCM file format, you can also save your document to database instead of a file system. You may need to implement storing and retrieving Document objects to and from a database. This would be necessary if you were implementing any type of content management system. In order to save your DOCM to database it is often necessary to serialize the document to obtain a byte array. This can be done using [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. After getting your byte array, you can store it in the database using SQL statement. 
-{{% blocks/products/pf/feature-page-code %}}
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
     // create an output stream which uses byte array to save data
@@ -87,10 +102,43 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
     statement.executeUpdate(commandString);
 }  
 ```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Develop MHTML File Conversion Application using Java</h2>
+
+Need to develop Java based software application to easily save and export MHTML files to DOCM document ? With [Aspose.Total for Java](https://products.aspose.com/total/java/), any Java developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, Email files, Images (JPG, PNG, BMP, GIF) and other formats. Powerful Java library for document conversion, supports many popular formats including MHTML format. Exporting and rendering documents to other formats, programmers can use Aspose.Total for Java child APIs inlcluding [Aspose.Words for Java](https://products.aspose.com/words/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) and more.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="MHTML Conversion Library for Java" %}}
+
+There are alternative options to integrate Aspose.Total for Java onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
+
+- Use Aspose.Total for Java directly from a Maven based project and include relevant child API in pom.xml.
+- Alternatively, one can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Saving MHTML to DOCM App Requirements" %}}
+
+Any Operating System that can run the Java Runtime Environment (JRE) can run Aspose.Total for Java. The following lists mostly, but not all, supported Operating Systems. <br /><br />
+- Microsoft Windows
+- Linux : Ubuntu, OpenSUSE, CentOS and others
+- macOS : 10.9 (Mavericks) and later
+- Mobile : Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
