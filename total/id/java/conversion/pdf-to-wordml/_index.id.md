@@ -1,32 +1,58 @@
 ---
-title: Java API untuk Mengekspor PDF ke WORDML
-description: Konversi PDF ke WORDML menggunakan API Java di tempat
-url_ignore: /id/java/conversion/pdf-to-wordml/
+title: Konversi PDF ke WORDML Online atau Mengembangkan Aplikasi berbasis Java untuk Mengonversi File PDF
+description: Aplikasi daring gratis untuk mengonversi berkas PDF ke WORDML. Kode pustaka konversi Java untuk dokumen PDF. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PDF
-outformat: WORD_ML
+outformat: WORDML
 otherformats: DOTM XAMLFLOW MARKDOWN MHTML OTT FLATOPC DOT PS DOTX PCL ODT RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Ubah PDF ke WORDML melalui Java" h2="On Premise Java API untuk Merender PDF ke WORDML tanpa menggunakan aplikasi pihak ketiga" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Anda dapat mengonversi PDF ke WORDML dengan menggunakan dua langkah sederhana. Pertama, Anda perlu merender file PDF ke DOC menggunakan [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Setelah itu, dengan menggunakan API Pemrosesan Dokumen yang kuat [Aspose.Words for Java](https://products.aspose.com/words/java/), Anda dapat mengonversi DOC ke WORDML. Kedua API berada di bawah paket [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Aplikasi Konversi PDF ke WORDML Online dan Kode Java untuk Mengonversi File PDF" h2="Mengembangkan aplikasi konversi dan ekspor PDF berbasis Java yang canggih. Konversi satu atau beberapa file PDF ke WORDML dan format lainnya melalui API otomatisasi Java. Konversi file PDF secara bebas secara daring melalui aplikasi dengan unduhan instan." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API untuk Mengonversi PDF ke WORDML" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplikasi Konversi PDF ke WORDML Online Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konversi File PDF ke WORDML Online menggunakan Aplikasi" %}}
+
+1. Unggah file PDF untuk dikonversi
+1. Tunggu beberapa detik atau lebih tergantung pada ukuran PDF
+1. Perhatikan status bar unggahan
+1. Klik tombol "Konversi"
+1. PDF akan diubah menjadi dokumen WORDML
+1. Unduh file WORDML yang dikonversi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konversi PDF ke WORDML melalui Java Automation API" %}}
+
+
 1. Buka file PDF menggunakan kelas [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Konversi PDF ke DOC dengan menggunakan [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metode
 3. Muat file DOC dengan menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) dari Aspose.Words
 4. Simpan dokumen ke format WORDML menggunakan metode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) dan set WORDML sebagai SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari proyek berbasis [Maven](https://releases.aspose.com/total/java/) dan sertakan [Aspose.PDF untuk Java](https://docs.aspose.com/pdf/java/installation/) dan [Aspose.Words untuk Java](https://docs.aspose.com/words/java/installation/) di pom.xml Anda.
 
-Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Kode Java untuk Konversi PDF ke WORDML" offSpacer="" %}}
+
 
 ```java
 // load PDF file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
-Saat mengonversi PDF ke WORDML, meskipun dokumen Anda dilindungi kata sandi, Anda masih dapat membukanya menggunakan PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Untuk membuka file terenkripsi, Anda perlu membuat objek [Dokumen](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) dan membuka PDF menggunakan kata sandi pemilik.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Beberapa kasus lagi untuk menyimpan PDF ke WORDML dengan fitur lain seperti Persyaratan Konversi, Buka Dokumen PDF yang Dilindungi Kata Sandi melalui Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.pdf", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Buka Dokumen PDF yang Dilindungi Kata Sandi melalui Java" %}}
-Saat menyimpan dokumen input Anda ke format file WORDML, Anda juga dapat menyimpan dokumen Anda ke database alih-alih sistem file. Anda mungkin perlu menerapkan penyimpanan dan pengambilan objek Dokumen ke dan dari database. Ini akan diperlukan jika Anda menerapkan semua jenis sistem manajemen konten. Untuk menyimpan WORDML Anda ke database, seringkali perlu membuat serial dokumen untuk mendapatkan array byte. Ini dapat dilakukan menggunakan [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. Setelah mendapatkan array byte Anda, Anda dapat menyimpannya di database menggunakan pernyataan SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Mengembangkan Aplikasi Konversi File PDF menggunakan Java</h2>
+
+Perlu mengembangkan aplikasi perangkat lunak berbasis Java untuk dengan mudah menyimpan dan mengekspor file PDF ke dokumen WORDML? Dengan [Aspose.Total for Java](https://products.aspose.com/total/id/java/), pengembang Java mana pun dapat mengintegrasikan kode API di atas untuk memprogram aplikasi konversi di berbagai format termasuk Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, file Email, Gambar (JPG, PNG, BMP, GIF) dan format lainnya. Pustaka Java yang canggih untuk konversi dokumen, mendukung banyak format populer termasuk format PDF. Mengekspor dan merender dokumen ke format lain, programmer dapat menggunakan API anak Aspose.Total for Java termasuk [Aspose.Words for Java](https://products.aspose.com/words/id/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/id/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/id/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/id/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/id/java/) dan banyak lagi.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Pustaka Konversi PDF untuk Java" %}}
+
+Ada pilihan alternatif untuk mengintegrasikan Aspose.Total for Java ke sistem Anda. Silakan pilih salah satu yang sesuai dengan kebutuhan Anda dan ikuti petunjuk langkah demi langkah:<br /><br />
+
+- Gunakan Aspose.Total for Java langsung dari proyek berbasis Maven dan sertakan API anak yang relevan dalam pom.xml.
+- Alternatifnya, seseorang bisa mendapatkan berkas ZIP dari [Unduhan](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Aplikasi Menyimpan PDF ke WORDML" %}}
+
+Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dapat menjalankan Aspose.Total for Java. Berikut ini daftar sebagian besar, tetapi tidak semua, Sistem Operasi yang didukung. <br /><br />
+- Microsoft Windows
+- Linux : Ubuntu, OpenSUSE, CentOS dan lainnya
+- macOS: 10.9 (Mavericks) dan yang lebih baru
+- Seluler: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

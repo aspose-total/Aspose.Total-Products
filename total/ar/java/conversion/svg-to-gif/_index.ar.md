@@ -1,32 +1,58 @@
 ---
-title: Java API لتصدير SVG إلى GIF
-description: قم بتحويل SVG إلى GIF باستخدام Java API في مكان العمل
-url_ignore: /ar/java/conversion/svg-to-gif/
+title: تحويل ملفات SVG إلى GIF عبر الإنترنت أو تطوير تطبيق قائم على Java لتحويل ملفات SVG
+description: تطبيق مجاني عبر الإنترنت لتحويل ملفات SVG إلى ملفات GIF. كود مكتبة تحويل Java لمستندات SVG. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: SVG
 outformat: GIF
 otherformats: WORDML DOTM MHTML ODT DOT FLATOPC DOTX XAMLFLOW MARKDOWN PS PCL RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل SVG إلى GIF عبر Java" h2="في Premise Java API لتقديم SVG إلى GIF دون استخدام أي تطبيق تابع لجهة خارجية" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل SVG إلى GIF باستخدام خطوتين بسيطتين. تحتاج أولاً إلى تقديم ملف SVG إلى DOC باستخدام [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). بعد ذلك ، باستخدام واجهة برمجة تطبيقات معالجة المستندات القوية [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تحويل DOC إلى GIF. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="تطبيق تحويل SVG إلى GIF عبر الإنترنت ورمز Java لتحويل ملفات SVG" h2="تطوير تطبيق قوي لتحويل SVG وتصديره استنادًا إلى Java. تحويل ملفات SVG الفردية أو المتعددة إلى GIF وغيرها من التنسيقات عبر واجهة برمجة تطبيقات أتمتة Java. قم بتحويل ملفات SVG بحرية عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API لتحويل SVG إلى GIF" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل SVG إلى GIF" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=gif&from=svg" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ملفات SVG إلى GIF عبر الإنترنت باستخدام التطبيق" %}}
+
+1. قم بتحميل ملفات SVG للتحويل
+1. انتظر بضع ثوانٍ أو أكثر حسب حجم SVG
+1. راقب شريط حالة التحميل
+1. انقر على زر "تحويل"
+1. سيتم تحويل SVG إلى مستند GIF
+1. تنزيل الملف المُحوَّل GIF
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="تحويل SVG إلى GIF عبر Java Automation API" %}}
+
+
 1. افتح ملف SVG باستخدام فئة [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. تحويل SVG إلى DOC باستخدام [Save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) طريقة
 3. قم بتحميل ملف DOC باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) من Aspose.Words
 4. احفظ المستند بتنسيق GIF باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.int)) وقم بتعيين GIF باسم SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://releases.aspose.com/total/java/) وتشمل [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) و [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="كود جافا لتحويل SVG إلى GIF" offSpacer="" %}}
+
 
 ```java
 // load SVG file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.gif", SaveFormat.GIF);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-أثناء تحويل SVG إلى GIF ، حتى إذا كان المستند محميًا بكلمة مرور ، فلا يزال بإمكانك فتحه باستخدام واجهة برمجة تطبيقات معالجة PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). لفتح الملف المشفر ، تحتاج إلى إنشاء كائن [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) وفتح SVG باستخدام كلمة مرور المالك.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+هناك حالات قليلة أخرى لحفظ SVG في GIF باستخدام ميزات أخرى مثل متطلبات التحويل, افتح مستند SVG المحمي بكلمة مرور عبر Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.svg", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="افتح مستند SVG المحمي بكلمة مرور عبر Java" %}}
-أثناء حفظ مستند الإدخال بتنسيق ملف GIF ، يمكنك أيضًا حفظ المستند في قاعدة البيانات بدلاً من نظام الملفات. قد تحتاج إلى تنفيذ تخزين واسترجاع كائنات المستند من قاعدة البيانات وإليها. سيكون هذا ضروريًا إذا كنت تقوم بتنفيذ أي نوع من أنظمة إدارة المحتوى. من أجل حفظ GIF في قاعدة البيانات ، غالبًا ما يكون من الضروري إجراء تسلسل للوثيقة للحصول على مصفوفة بايت. يمكن القيام بذلك باستخدام واجهة برمجة تطبيقات [Aspose.Words for Java](https://products.aspose.com/words/Java/). بعد الحصول على مصفوفة البايت الخاصة بك ، يمكنك تخزينها في قاعدة البيانات باستخدام جملة SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>تطوير تطبيق تحويل الملفات SVG باستخدام Java</h2>
+
+هل تحتاج إلى تطوير تطبيق برمجي قائم على Java لحفظ وتصدير ملفات SVG إلى مستند GIF بسهولة؟ باستخدام [Aspose.Total for Java](https://products.aspose.com/total/ar/java/)، يمكن لأي مطور Java دمج كود API أعلاه لبرمجة تطبيق التحويل عبر مجموعة متنوعة من التنسيقات بما في ذلك Microsoft Word (DOC، DOCX)، وExcel (XLS، XLSX)، وPowerpoint (PPT، PPTX)، وPDF، وملفات البريد الإلكتروني، والصور (JPG، PNG، BMP، GIF) وغيرها من التنسيقات. مكتبة Java قوية لتحويل المستندات، تدعم العديد من التنسيقات الشائعة بما في ذلك تنسيق SVG. عند تصدير المستندات وتقديمها إلى تنسيقات أخرى، يمكن للمبرمجين استخدام واجهات برمجة التطبيقات الفرعية Aspose.Total for Java بما في ذلك [Aspose.Words for Java](https://products.aspose.com/words/ar/java/) و[Aspose.Cells for Java](https://products.aspose.com/cells/ar/java/) و[Aspose.Slides for Java](https://products.aspose.com/slides/ar/java/) و[Aspose.PDF for Java](https://products.aspose.com/pdf/ar/java/) و[Aspose.Imaging for Java](https://products.aspose.com/imaging/ar/java/) والمزيد.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="مكتبة التحويل SVG لـ Java" %}}
+
+تتوفر خيارات بديلة لدمج Aspose.Total for Java على نظامك. الرجاء اختيار ما يشبه احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
+
+- استخدم Aspose.Total for Java مباشرةً من مشروع قائم على Maven وقم بتضمين واجهة برمجة التطبيقات الفرعية ذات الصلة في pom.xml.
+- وبدلاً من ذلك، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="حفظ SVG في GIF متطلبات التطبيق" %}}
+
+يمكن لأي نظام تشغيل قادر على تشغيل بيئة تشغيل Java (JRE) تشغيل Aspose.Total for Java. تتضمن القوائم التالية معظم أنظمة التشغيل المدعومة، ولكن ليس كلها. <br /><br />
+- مايكروسوفت ويندوز
+- Linux: Ubuntu، OpenSUSE، CentOS وغيرها
+- macOS: 10.9 (Mavericks) والإصدارات الأحدث
+- الجوال : أندرويد، iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

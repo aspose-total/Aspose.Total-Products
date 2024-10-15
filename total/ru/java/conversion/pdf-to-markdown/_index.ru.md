@@ -1,32 +1,58 @@
 ---
-title: Java API для экспорта PDF в MARKDOWN
-description: Преобразование PDF в MARKDOWN с использованием локального Java API
-url_ignore: /ru/java/conversion/pdf-to-markdown/
+title: Онлайн-конвертация PDF в MARKDOWN или разработка приложения на основе Java для конвертации файлов PDF
+description: Бесплатное онлайн-приложение для конвертации файлов PDF в MARKDOWN. Код библиотеки конвертации Java для документов PDF. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PDF
 outformat: MARKDOWN
 otherformats: PS DOTX RTF OTT DOT DOTM PCL XAMLFLOW WORDML FLATOPC ODT MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PDF в MARKDOWN с помощью Java" h2="Локальный Java API для рендеринга PDF в MARKDOWN без использования каких-либо сторонних приложений" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Вы можете преобразовать PDF в MARKDOWN, выполнив два простых шага. Сначала вам нужно преобразовать файл PDF в DOC, используя [Aspose.PDF для Java](https://products.aspose.com/pdf/java/). После этого, используя мощный API обработки документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете преобразовать DOC в MARKDOWN. Оба API входят в пакет [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Онлайн-приложение для преобразования PDF в MARKDOWN и код Java для преобразования файлов PDF" h2="Разработать мощное приложение для преобразования и экспорта PDF на основе Java. Конвертируйте один или несколько файлов PDF в MARKDOWN и другие форматы с помощью API автоматизации Java. Бесплатно конвертируйте файлы PDF онлайн через приложение с мгновенной загрузкой." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования PDF в MARKDOWN" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Бесплатное онлайн-приложение для конвертации PDF в MARKDOWN" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Конвертируйте файлы PDF в MARKDOWN онлайн с помощью приложения" %}}
+
+1. Загрузите файлы PDF для конвертации
+1. Подождите несколько секунд или больше в зависимости от размера PDF
+1. Следите за строкой состояния загрузки.
+1. Нажмите кнопку «Конвертировать».
+1. PDF будет преобразован в документ MARKDOWN
+1. Загрузите преобразованный файл MARKDOWN
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Преобразование PDF в MARKDOWN с помощью Java Automation API" %}}
+
+
 1. Откройте файл PDF, используя класс [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document).
 2. Преобразуйте PDF в DOC, используя [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) метод
 3. Загрузите файл DOC с помощью класса [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words.
 4. Сохраните документ в формате MARKDOWN, используя метод [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) и установите MARKDOWN как СохранитьФормат
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://releases.aspose.com/total/java/). и включите [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/) и [Aspose.Words для Java](https://docs.aspose.com/words/java/installation/) в вашем файле pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Код Java для преобразования PDF в MARKDOWN" offSpacer="" %}}
+
 
 ```java
 // load PDF file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Требования к конвертации" %}}
-При преобразовании PDF в MARKDOWN, даже если ваш документ защищен паролем, вы все равно можете открыть его с помощью API управления PDF [Aspose.PDF для Java](https://docs.aspose.com/pdf/java/installation/). Чтобы открыть зашифрованный файл, вам необходимо создать объект [Документ](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) и открыть PDF, используя пароль владельца.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Еще несколько случаев сохранения PDF в MARKDOWN с другими функциями, такими как Требования к конвертации, Открыть защищенный паролем документ PDF через Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.pdf", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.pdf", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Открыть защищенный паролем документ PDF через Java" %}}
-При сохранении входного документа в формате файла MARKDOWN вы также можете сохранить документ в базе данных, а не в файловой системе. Вам может потребоваться реализовать хранение и извлечение объектов Document в базу данных и из нее. Это было бы необходимо, если бы вы внедряли систему управления контентом любого типа. Чтобы сохранить ваш MARKDOWN в базу данных, часто необходимо сериализовать документ, чтобы получить массив байтов. Это можно сделать с помощью API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Получив массив байтов, вы можете сохранить его в базе данных с помощью оператора SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Разработать приложение для преобразования файлов PDF с использованием Java</h2>
+
+Необходимо разработать программное приложение на базе Java для простого сохранения и экспорта файлов PDF в документ MARKDOWN? С помощью [Aspose.Total for Java](https://products.aspose.com/total/ru/java/) любой разработчик Java может интегрировать вышеуказанный код API для программирования приложения для преобразования в различные форматы, включая Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, файлы электронной почты, изображения (JPG, PNG, BMP, GIF) и другие форматы. Мощная библиотека Java для преобразования документов, поддерживает множество популярных форматов, включая формат PDF. Экспортируя и преобразуя документы в другие форматы, программисты могут использовать дочерние API Aspose.Total for Java, включая [Aspose.Words for Java](https://products.aspose.com/words/ru/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/ru/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/ru/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/ru/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/ru/java/) и другие.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PDF Библиотека преобразования для Java" %}}
+
+Существуют альтернативные варианты интеграции Aspose.Total for Java в вашу систему. Пожалуйста, выберите тот вариант, который соответствует вашим потребностям, и следуйте пошаговым инструкциям:<br /><br />
+
+- Используйте Aspose.Total for Java непосредственно из проекта на базе Maven и включите соответствующий дочерний API в pom.xml.
+- Кроме того, можно получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сохранение PDF в MARKDOWN Требования к приложению" %}}
+
+Любая операционная система, поддерживающая Java Runtime Environment (JRE), может запустить Aspose.Total for Java. Ниже перечислены большинство (но не все) поддерживаемых операционных систем. <br /><br />
+- Майкрософт Виндоус
+- Linux: Ubuntu, OpenSUSE, CentOS и другие
+- macOS: 10.9 (Mavericks) и более поздние версии
+- Мобильные устройства: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

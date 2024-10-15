@@ -1,32 +1,58 @@
 ---
-title: Java API เพื่อส่งออก PDF ไปยัง ODT
-description: แปลง PDF เป็น ODT โดยใช้ Java API . ในตัว
-url_ignore: /th/java/conversion/pdf-to-odt/
+title: การแปลง PDF เป็น ODT ออนไลน์หรือพัฒนาแอปพลิเคชันที่ใช้ Java เพื่อแปลงไฟล์ PDF
+description: แอปออนไลน์ฟรีสำหรับแปลงไฟล์ PDF เป็น ODT รหัสไลบรารีการแปลง Java สำหรับเอกสาร PDF 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PDF
 outformat: ODT
 otherformats: XAMLFLOW DOTX OTT ODT RTF DOTM PCL MARKDOWN FLATOPC MHTML DOT PS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง PDF เป็น ODT ผ่าน Java" h2="บน Premise Java API เพื่อแสดงผล PDF เป็น ODT โดยไม่ต้องใช้แอปพลิเคชันบุคคลที่สาม" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-คุณสามารถแปลง PDF เป็น ODT โดยใช้สองขั้นตอนง่ายๆ ก่อนอื่น คุณต้องแสดงไฟล์ PDF เป็น DOC โดยใช้ [Aspose.PDF สำหรับ Java](https://products.aspose.com/pdf/java/) หลังจากนั้น ด้วยการใช้ API การประมวลผลเอกสารอันทรงพลัง [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะสามารถแปลง DOC เป็น ODT ได้ API ทั้งสองอยู่ภายใต้แพ็คเกจ [Aspose.Total for Java](https://products.aspose.com/total/java/)
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="แอปแปลง PDF เป็น ODT ออนไลน์และโค้ด Java เพื่อแปลงไฟล์ PDF" h2="พัฒนาแอปพลิเคชั่นการแปลงและส่งออก PDF ที่มีประสิทธิภาพโดยใช้ Java แปลงไฟล์ PDF เดียวหรือหลายไฟล์เป็น ODT และรูปแบบอื่นๆ ผ่านทาง API อัตโนมัติของ Java แปลงไฟล์ PDF ออนไลน์ได้อย่างอิสระผ่านแอปพร้อมดาวน์โหลดทันที" >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API เพื่อแปลง PDF เป็น ODT" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="แอปแปลง PDF เป็น ODT ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="แปลงไฟล์ PDF เป็น ODT ออนไลน์โดยใช้แอป" %}}
+
+1. อัพโหลดไฟล์ PDF เพื่อแปลง
+1. รอสักครู่หรือมากกว่านั้น ขึ้นอยู่กับขนาดของ PDF
+1. คอยดูแถบสถานะการอัปโหลด
+1. คลิกปุ่ม "แปลง"
+1. PDF จะถูกแปลงเป็นเอกสาร ODT
+1. ดาวน์โหลดไฟล์ ODT ที่แปลงแล้ว
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="แปลง PDF เป็น ODT ผ่านทาง Java Automation API" %}}
+
+
 1. เปิดไฟล์ PDF โดยใช้คลาส [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. แปลง PDF เป็น DOC โดยใช้ [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) กระบวนการ
 3. โหลดไฟล์ DOC โดยใช้ [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) คลาสของ Aspose.Words
 4. บันทึกเอกสารในรูปแบบ ODT โดยใช้เมธอด [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) และตั้งค่า ODT เป็น SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจากโปรเจ็กต์ที่ใช้ [Maven](https://releases.aspose.com/total/java/) และรวม [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) และ [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) ใน pom.xml ของคุณ
 
-หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/java)
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="รหัส Java สำหรับการแปลง PDF เป็น ODT" offSpacer="" %}}
+
 
 ```java
 // load PDF file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.odt", SaveFormat.ODT);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
-ขณะแปลง PDF เป็น ODT แม้ว่าเอกสารของคุณจะมีการป้องกันด้วยรหัสผ่าน คุณยังสามารถเปิดได้โดยใช้ PDF Manipulation API [Aspose.PDF สำหรับ Java](https://docs.aspose.com/pdf/java/installation/) ในการเปิดไฟล์ที่เข้ารหัส คุณต้องสร้างวัตถุ [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิด PDF โดยใช้รหัสผ่านของเจ้าของ  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+มีกรณีเพิ่มเติมอีกไม่กี่กรณีสำหรับการบันทึก PDF ไปยัง ODT พร้อมด้วยฟีเจอร์อื่นๆ เช่น ข้อกำหนดการแปลง, เปิดเอกสาร PDF ที่ป้องกันด้วยรหัสผ่านผ่าน Java
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.pdf", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.pdf", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="เปิดเอกสาร PDF ที่ป้องกันด้วยรหัสผ่านผ่าน Java" %}}
-ในขณะที่บันทึกเอกสารอินพุตของคุณเป็นรูปแบบไฟล์ ODT คุณยังสามารถบันทึกเอกสารของคุณไปยังฐานข้อมูลแทนระบบไฟล์ คุณอาจต้องใช้การจัดเก็บและเรียกวัตถุเอกสารเข้าและออกจากฐานข้อมูล สิ่งนี้จำเป็นหากคุณใช้ระบบจัดการเนื้อหาประเภทใดก็ตาม ในการบันทึก ODT ลงในฐานข้อมูล จำเป็นต้องทำให้เอกสารเป็นอนุกรมเพื่อรับอาร์เรย์ไบต์ ซึ่งสามารถทำได้โดยใช้ API [Aspose.Words for Java](https://products.aspose.com/words/Java/) หลังจากได้รับอาร์เรย์ไบต์ของคุณแล้ว คุณสามารถจัดเก็บไว้ในฐานข้อมูลโดยใช้คำสั่ง SQL 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>พัฒนาแอปพลิเคชันการแปลงไฟล์ PDF โดยใช้ Java</h2>
+
+ต้องการพัฒนาแอปพลิเคชันซอฟต์แวร์ที่ใช้ Java เพื่อบันทึกและส่งออกไฟล์ PDF ไปยังเอกสาร ODT ได้อย่างง่ายดายหรือไม่ ด้วย [Aspose.Total for Java](https://products.aspose.com/total/th/java/) นักพัฒนา Java ทุกคนสามารถรวมโค้ด API ข้างต้นเพื่อเขียนโปรแกรมแอปพลิเคชันการแปลงไฟล์ในรูปแบบต่างๆ รวมถึง Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, ไฟล์อีเมล, รูปภาพ (JPG, PNG, BMP, GIF) และรูปแบบอื่นๆ ไลบรารี Java อันทรงพลังสำหรับการแปลงเอกสาร รองรับรูปแบบยอดนิยมมากมาย รวมถึงรูปแบบ PDF ในการส่งออกและเรนเดอร์เอกสารเป็นรูปแบบอื่น โปรแกรมเมอร์สามารถใช้ API ย่อย Aspose.Total for Java ได้ ซึ่งได้แก่ [Aspose.Words for Java](https://products.aspose.com/words/th/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/th/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/th/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/th/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/th/java/) และอื่นๆ อีกมากมาย<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="ไลบรารีการแปลง PDF สำหรับ Java" %}}
+
+มีตัวเลือกอื่นในการรวม Aspose.Total for Java เข้ากับระบบของคุณ กรุณาเลือกสิ่งที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:<br /><br />
+
+- ใช้ Aspose.Total for Java โดยตรงจากโปรเจ็กต์ที่ใช้ Maven และรวม API ย่อยที่เกี่ยวข้องใน pom.xml
+- อีกวิธีหนึ่งคือสามารถได้รับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/total/java)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="การบันทึก PDF ไปยังข้อกำหนดแอป ODT" %}}
+
+ระบบปฏิบัติการใดๆ ที่สามารถรัน Java Runtime Environment (JRE) ได้ ก็สามารถรัน Aspose.Total for Java ได้ รายการต่อไปนี้เป็นระบบปฏิบัติการที่รองรับเป็นส่วนใหญ่ แต่ไม่ใช่ทั้งหมด <br /><br />
+- ไมโครซอฟต์ วินโดวส์
+- Linux : Ubuntu, OpenSUSE, CentOS และอื่นๆ
+- macOS : 10.9 (Mavericks) และใหม่กว่า
+- มือถือ : Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

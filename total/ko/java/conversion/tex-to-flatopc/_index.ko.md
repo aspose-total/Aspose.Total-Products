@@ -1,32 +1,58 @@
 ---
-title: TEX을 FLATOPC으로 내보내기 위한 Java API
-description: 온프레미스 Java API를 사용하여 TEX을 FLATOPC으로 변환
-url_ignore: /ko/java/conversion/tex-to-flatopc/
+title: 온라인 TEX에서 FLATOPC로 변환 또는 TEX 파일을 변환하기 위한 Java 기반 애플리케이션 개발
+description: TEX를 FLATOPC 파일로 변환하는 무료 온라인 앱. TEX 문서에 대한 Java 변환 라이브러리 코드. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
-outformat: FLAT_OPC
+outformat: FLATOPC
 otherformats: WORDML DOTM DOTX MHTML PS PCL XAMLFLOW ODT MARKDOWN OTT RTF FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java를 통해 TEX을 FLATOPC으로 변환" h2="타사 응용 프로그램을 사용하지 않고 TEX을 FLATOPC으로 렌더링하는 온프레미스 Java API" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-두 가지 간단한 단계를 사용하여 TEX을 FLATOPC으로 변환할 수 있습니다. 먼저 [Aspose.PDF for Java](https://products.aspose.com/pdf/java/)를 사용하여 TEX 파일을 DOC로 렌더링해야 합니다. 그런 다음 강력한 문서 처리 API [Aspose.Words for Java](https://products.aspose.com/words/java/)를 사용하여 DOC를 FLATOPC으로 변환할 수 있습니다. 두 API 모두 [Java용 Aspose.Total](https://products.aspose.com/total/java/) 패키지에 있습니다.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="온라인 TEX에서 FLATOPC로 변환 앱 및 TEX 파일을 변환하는 Java 코드" h2="강력한 Java 기반 TEX 변환 및 내보내기 애플리케이션을 개발합니다. Java 자동화 API를 통해 하나 또는 여러 개의 TEX 파일을 FLATOPC 및 기타 형식으로 변환합니다. 앱을 통해 TEX 파일을 온라인으로 자유롭게 변환하고 즉시 다운로드하세요." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="TEX을 FLATOPC으로 변환하는 Java API" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="무료 온라인 TEX에서 FLATOPC로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="앱을 사용하여 TEX를 FLATOPC 파일로 온라인으로 변환" %}}
+
+1. 변환할 TEX 파일 업로드
+1. TEX 크기에 따라 몇 초 이상 기다리십시오.
+1. 업로드 상태 표시줄을 주시하세요
+1. "변환" 버튼을 클릭하세요
+1. TEX가 FLATOPC 문서로 변환됩니다.
+1. 변환된 FLATOPC 파일을 다운로드하세요
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Java Automation API를 통해 TEX를 FLATOPC로 변환" %}}
+
+
 1. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 TEX 파일을 엽니다.
 2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) 방법
 3. Aspose.Words의 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 DOC 파일을 로드합니다.
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 메소드를 사용하여 문서를 FLATOPC 형식으로 저장하고 FLATOPC 설정 SaveFormat으로
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://releases.aspose.com/total/java/) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. [Java용 Aspose.PDF](https://docs.aspose.com/pdf/java/installation/) 및 [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) pom.xml에 있습니다.
 
-또는 [다운로드](https://releases.aspose.com/total/java)에서 ZIP 파일을 받을 수 있습니다.
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="TEX에서 FLATOPC로 변환하기 위한 Java 코드" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.flat_opc", SaveFormat.FLAT_OPC);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}
-TEX을 FLATOPC으로 변환하는 동안 문서가 암호로 보호되어 있더라도 PDF 조작 API[Java용 Aspose.PDF](https://docs.aspose.com/pdf/java/installation/)를 사용하여 문서를 열 수 있습니다. 암호화된 파일을 열기 위해서는 [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 객체를 생성하고 소유자의 비밀번호로 TEX을 열어야 합니다.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+변환 요구 사항, Java를 통해 암호로 보호된 TEX 문서 열기와 같은 다른 기능을 사용하여 TEX를 FLATOPC로 저장하는 몇 가지 사례가 더 있습니다.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.tex", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.tex", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Java를 통해 암호로 보호된 TEX 문서 열기" %}}
-입력 문서를 FLATOPC 파일 형식으로 저장하는 동안 문서를 파일 시스템 대신 데이터베이스에 저장할 수도 있습니다. 데이터베이스에서 Document 객체를 저장하고 검색하는 것을 구현해야 할 수도 있습니다. 이는 모든 유형의 콘텐츠 관리 시스템을 구현하는 경우에 필요합니다. FLATOPC을 데이터베이스에 저장하려면 바이트 배열을 얻기 위해 문서를 직렬화해야 하는 경우가 많습니다. 이는 [Aspose.Words for Java](https://products.aspose.com/words/Java/) API를 사용하여 수행할 수 있습니다. 바이트 배열을 가져온 후 SQL 문을 사용하여 데이터베이스에 저장할 수 있습니다. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Java를 사용하여 TEX 파일 변환 애플리케이션 개발</h2>
+
+TEX 파일을 FLATOPC 문서로 쉽게 저장하고 내보낼 수 있는 Java 기반 소프트웨어 애플리케이션을 개발해야 합니까? [Aspose.Total for Java](https://products.aspose.com/total/ko/java/)을 사용하면 모든 Java 개발자가 위의 API 코드를 통합하여 Microsoft Word(DOC, DOCX), Excel(XLS, XLSX), Powerpoint(PPT, PPTX), PDF, 이메일 파일, 이미지(JPG, PNG, BMP, GIF) 및 기타 형식을 포함한 다양한 형식으로 변환 애플리케이션을 프로그래밍할 수 있습니다. 문서 변환을 위한 강력한 Java 라이브러리로, TEX 형식을 포함한 여러 인기 형식을 지원합니다. 프로그래머는 [Aspose.Words for Java](https://products.aspose.com/words/ko/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/ko/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/ko/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/ko/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/ko/java/) 등을 포함한 Aspose.Total for Java 자식 API를 사용하여 문서를 다른 형식으로 내보내고 렌더링할 수 있습니다.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="TEX Java용 변환 라이브러리" %}}
+
+Aspose.Total for Java을 귀하의 시스템에 통합하기 위한 대체 옵션도 있습니다. 귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르세요.<br /><br />
+
+- Maven 기반 프로젝트에서 Aspose.Total for Java을 직접 사용하고 pom.xml에 관련 자식 API를 포함합니다.
+- 혹은 [다운로드](https://releases.aspose.com/total/java)에서 ZIP 파일을 얻을 수도 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="TEX를 FLATOPC 앱 요구 사항에 저장합니다." %}}
+
+Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 Aspose.Total for Java을 실행할 수 있습니다. 다음 목록은 대부분 지원되는 운영 체제이지만, 전부는 아닙니다. <br /><br />
+- 마이크로소프트 윈도우
+- Linux : Ubuntu, OpenSUSE, CentOS 및 기타
+- macOS : 10.9(Mavericks) 이상
+- 모바일 : 안드로이드, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

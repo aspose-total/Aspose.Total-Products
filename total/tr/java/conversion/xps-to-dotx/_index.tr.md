@@ -1,32 +1,58 @@
 ---
-title: XPS'yi DOTX'ye Dışa Aktarmak için Java API
-description: Yerinde Java API kullanarak XPS'yi DOTX'ye dönüştürün
-url_ignore: /tr/java/conversion/xps-to-dotx/
+title: Çevrimiçi XPS'yi DOTX'ye Dönüştürme veya XPS Dosyalarını Dönüştürmek için Java tabanlı Uygulama Geliştirme
+description: XPS dosyalarını DOTX dosyalarına dönüştürmek için ücretsiz çevrimiçi uygulama. XPS belgeleri için Java dönüştürme kitaplığı kodu. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: XPS
 outformat: DOTX
 otherformats: FLATOPC DOTM DOTX PCL DOT XAMLFLOW OTT ODT MARKDOWN MHTML RTF WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java aracılığıyla XPS'yi DOTX'ye dönüştürün" h2="Herhangi bir üçüncü taraf uygulaması kullanmadan XPS'yi DOTX'ye Oluşturmak için Şirket İçi Java API'si" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-İki basit adımı kullanarak XPS'yi DOTX'ye dönüştürebilirsiniz. Öncelikle [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) kullanarak XPS dosyasını DOC'a dönüştürmeniz gerekir. Bundan sonra, güçlü Belge İşleme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak DOC'yi DOTX'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) paketi kapsamında gelir.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Çevrimiçi XPS'den DOTX'ye Dönüştürme Uygulaması ve XPS Dosyalarını Dönüştürmek İçin Java Kodu" h2="Güçlü Java tabanlı XPS dönüştürme ve dışa aktarma uygulaması geliştirin. Java otomasyon API'si aracılığıyla tek veya birden fazla XPS dosyasını DOTX ve diğer formatlara dönüştürün. XPS dosyalarını anında indirerek uygulama aracılığıyla çevrimiçi olarak ücretsiz dönüştürün." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="XPS'yi DOTX'ye Dönüştürmek için Java API" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ücretsiz Çevrimiçi XPS - DOTX Dönüştürme Uygulaması" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=xps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="XPS Dosyalarını Uygulamayı Kullanarak Çevrimiçi Olarak DOTX Dosyalarına Dönüştürün" %}}
+
+1. Dönüştürülecek XPS dosyalarını yükleyin
+1. XPS boyutuna bağlı olarak birkaç saniye veya daha fazla bekleyin
+1. Yükleme durum çubuğunu takip edin
+1. "Dönüştür" butonuna tıklayın
+1. XPS DOTX belgesine dönüştürülecek
+1. Dönüştürülen DOTX dosyasını indirin
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="XPS'yi Java Otomasyon API'si aracılığıyla DOTX'ye dönüştürün" %}}
+
+
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak XPS dosyasını açın
 2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak XPS'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOTX biçiminde kaydedin ve DOTX'yi ayarlayın SaveFormat olarak
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-Aspose.Total for Java'yı doğrudan [Maven](https://releases.aspose.com/total/java/) tabanlı bir projeden kolayca kullanabilirsiniz. ve [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) ve [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) pom.xml dosyanızda.
 
-Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresinden bir ZIP dosyası alabilirsiniz.
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="XPS'den DOTX'ye Dönüşüm için Java Kodu" offSpacer="" %}}
+
 
 ```java
 // load XPS file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.dotx", SaveFormat.DOTX);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
-XPS'yi DOTX'ye dönüştürürken belgeniz parola korumalı olsa bile PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) kullanarak belgeyi açabilirsiniz. Şifrelenmiş dosyayı açmak için bir [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) nesnesi oluşturmanız ve XPS'yi sahibinin parolasını kullanarak açmanız gerekir.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+XPS dosyasını DOTX dosyasına Dönüşüm Gereksinimleri, Java ile Şifre Korumalı XPS Belgesini Açın gibi diğer özelliklerle kaydetmek için birkaç örnek daha.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.xps", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.xps", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Java ile Şifre Korumalı XPS Belgesini Açın" %}}
-Giriş belgenizi DOTX dosya formatına kaydederken, belgenizi dosya sistemi yerine veritabanına da kaydedebilirsiniz. Belge nesnelerini bir veritabanına depolamak ve veritabanından almak için uygulamanız gerekebilir. Herhangi bir içerik yönetim sistemi uyguluyorsanız bu gerekli olacaktır. DOTX'nizi veritabanına kaydetmek için genellikle bir bayt dizisi elde etmek için belgeyi seri hale getirmek gerekir. Bu, [Aspose.Words for Java](https://products.aspose.com/words/Java/) API kullanılarak yapılabilir. Bayt dizinizi aldıktan sonra SQL deyimini kullanarak veritabanında saklayabilirsiniz. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Java kullanarak XPS Dosya Dönüştürme Uygulamasını Geliştirin</h2>
+
+XPS dosyalarını DOTX belgesine kolayca kaydetmek ve dışa aktarmak için Java tabanlı bir yazılım uygulaması geliştirmeye mi ihtiyacınız var? [Aspose.Total for Java](https://products.aspose.com/total/tr/java/) ile herhangi bir Java geliştiricisi, Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, E-posta dosyaları, Görüntüler (JPG, PNG, BMP, GIF) ve diğer formatlar dahil olmak üzere çeşitli formatlarda dönüştürme uygulamasını programlamak için yukarıdaki API kodunu entegre edebilir. Belge dönüştürme için güçlü Java kütüphanesi, XPS formatı da dahil olmak üzere birçok popüler formatı destekler. Programcılar, belgeleri diğer formatlara aktarırken ve işlerken, [Aspose.Words for Java](https://products.aspose.com/words/tr/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/tr/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/tr/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/tr/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/tr/java/) ve daha fazlası dahil olmak üzere Aspose.Total for Java alt API'lerini kullanabilirler.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="XPS Java için Dönüştürme Kütüphanesi" %}}
+
+Aspose.Total for Java'i sisteminize entegre etmek için alternatif seçenekler mevcuttur. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:<br /><br />
+
+- Aspose.Total for Java'i doğrudan Maven tabanlı bir projeden kullanın ve pom.xml'e ilgili alt API'yi ekleyin.
+- Alternatif olarak [indirmeler](https://releases.aspose.com/total/java)'den bir ZIP dosyası da alınabilir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="XPS'yi DOTX'ye Kaydetme Uygulama Gereksinimleri" %}}
+
+Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi Aspose.Total for Java'i çalıştırabilir. Aşağıda çoğunlukla desteklenen işletim sistemleri listelenmiştir, ancak hepsi değil. <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS ve diğerleri
+- macOS : 10.9 (Mavericks) ve üzeri
+- Mobil : Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
- 
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

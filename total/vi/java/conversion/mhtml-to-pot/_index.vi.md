@@ -1,32 +1,58 @@
 ---
-title: Chuyển đổi MHTML sang POT thông qua Java API
-description: Java API để chuyển đổi MHTML sang POT mà không cần sử dụng Microsoft Word
-url_ignore: /vi/java/conversion/mhtml-to-pot/
+title: Chuyển đổi trực tuyến MHTML sang POT hoặc phát triển ứng dụng dựa trên Java để chuyển đổi tệp MHTML
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp MHTML sang POT. Mã thư viện chuyển đổi Java cho tài liệu MHTML. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: MHTML
 outformat: POT
 otherformats: PPTM POT PPSX PPSM POTX POWERPOINT XAML SWF OTP PPS PPT POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API để xuất MHTML sang POT" h2="Xuất MHTML sang POT thông qua API Java tại chỗ mà không sử dụng Microsoft<sup>&reg;</sup> PowerPoint hoặc Adobe <sup> & reg; </sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Sử dụng [Aspose.Total for Java](https://products.aspose.com/total/java/), bạn có thể dễ dàng chuyển đổi MHTML sang POT trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào. Đầu tiên, bằng cách sử dụng [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), bạn có thể xuất MHTML sang PPTX. Sau đó, bằng cách sử dụng API xử lý PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), bạn có thể chuyển đổi PPTX thành POT.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi trực tuyến MHTML sang POT và mã Java để chuyển đổi tệp MHTML" h2="Phát triển ứng dụng chuyển đổi và xuất MHTML mạnh mẽ dựa trên Java. Chuyển đổi một hoặc nhiều tệp MHTML sang POT và các định dạng khác thông qua Java Automation API. Chuyển đổi miễn phí các tệp MHTML trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API để chuyển đổi MHTML sang POT" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ứng dụng chuyển đổi MHTML sang POT trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=mhtml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp MHTML sang POT trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp MHTML để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước MHTML
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. MHTML sẽ được chuyển đổi thành tài liệu POT
+1. Tải xuống tệp POT đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi MHTML sang POT thông qua Java Automation API" %}}
+
+
 1. Mở tệp MHTML bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi MHTML sang PPTX bằng phương pháp [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Tải tài liệu PPTX bằng cách sử dụng lớp [Trình bày](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Lưu tài liệu sang định dạng POT bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) và đặt ` Pot` dưới dạng SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://releases.aspose.com/total/java/) và bao gồm [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) trong pom.xml của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi MHTML sang POT" offSpacer="" %}}
+
 
 ```java
 // load MHTML file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.pot", SaveFormat.Pot);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
-Trong khi tải định dạng tệp MHTML, tài liệu của bạn có thể được bảo vệ bằng mật khẩu. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) cũng cho phép bạn mở các tài liệu được mã hóa. Để mở tệp được mã hóa, bạn có thể khởi tạo phiên bản mới của [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) và chuyển tên tệp và mật khẩu làm đối số.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Một số trường hợp khác để lưu MHTML vào POT với các tính năng khác như Yêu cầu chuyển đổi, Mở tệp MHTML được mã hóa qua Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open MHTML document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Mở tệp MHTML được mã hóa qua Java" %}}
-Sau khi chuyển đổi MHTML sang POT, bạn cũng có thể thêm kiểu xem được xác định trước cho bản trình bày của mình. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) cung cấp một phương tiện để đặt kiểu xem cho bản trình bày đã tạo khi nó được mở trong PowerPoint thông qua [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties) lớp. Thuộc tính [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) được sử dụng để đặt loại chế độ xem bằng cách sử dụng [ViewType](https:/điều tra viên /apireference.aspose.com/slides/java/com.aspose.slides/ViewType). 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.pot", SaveFormat.Pot);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Phát triển ứng dụng chuyển đổi tệp MHTML bằng Java</h2>
+
+Bạn có cần phát triển ứng dụng phần mềm dựa trên Java để dễ dàng lưu và xuất các tệp MHTML sang tài liệu POT không? Với [Aspose.Total for Java](https://products.aspose.com/total/vi/java/), bất kỳ nhà phát triển Java nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, tệp Email, Hình ảnh (JPG, PNG, BMP, GIF) và các định dạng khác. Thư viện Java mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng MHTML. Khi xuất và kết xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng API con Aspose.Total for Java bao gồm [Aspose.Words for Java](https://products.aspose.com/words/vi/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/vi/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/vi/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/vi/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/vi/java/), v.v.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="MHTML Thư viện chuyển đổi cho Java" %}}
+
+Có những lựa chọn thay thế để tích hợp Aspose.Total for Java vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên Maven và bao gồm API con có liên quan trong pom.xml.
+- Ngoài ra, bạn có thể lấy tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu MHTML vào POT Yêu cầu ứng dụng" %}}
+
+Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JRE) đều có thể chạy Aspose.Total for Java. Sau đây là danh sách hầu hết nhưng không phải tất cả các Hệ điều hành được hỗ trợ. <br /><br />
+- Hệ điều hành Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS và các hệ điều hành khác
+- macOS: 10.9 (Mavericks) trở lên
+- Di động: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

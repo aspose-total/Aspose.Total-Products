@@ -1,32 +1,58 @@
 ---
-title: API Java để xuất PDF sang MARKDOWN
-description: Chuyển đổi PDF sang MARKDOWN bằng cách sử dụng API Java tiền đề
-url_ignore: /vi/java/conversion/pdf-to-markdown/
+title: Chuyển đổi trực tuyến PDF sang MARKDOWN hoặc phát triển ứng dụng dựa trên Java để chuyển đổi tệp PDF
+description: Ứng dụng trực tuyến miễn phí để chuyển đổi tệp PDF sang MARKDOWN. Mã thư viện chuyển đổi Java cho tài liệu PDF. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PDF
 outformat: MARKDOWN
 otherformats: PS DOTX RTF OTT DOT DOTM PCL XAMLFLOW WORDML FLATOPC ODT MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PDF sang MARKDOWN qua Java" h2="Trên API Premise Java để kết xuất PDF thành MARKDOWN mà không sử dụng bất kỳ ứng dụng bên thứ ba nào" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Bạn có thể chuyển đổi PDF sang MARKDOWN bằng hai bước đơn giản. Trước tiên, bạn cần kết xuất tệp PDF thành DOC bằng [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Sau đó, bằng cách sử dụng API xử lý tài liệu mạnh mẽ [Aspose.Words for Java](https://products.aspose.com/words/java/), bạn có thể chuyển đổi DOC thành MARKDOWN. Cả hai API đều nằm trong gói [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Ứng dụng chuyển đổi trực tuyến PDF sang MARKDOWN và mã Java để chuyển đổi tệp PDF" h2="Phát triển ứng dụng chuyển đổi và xuất PDF mạnh mẽ dựa trên Java. Chuyển đổi một hoặc nhiều tệp PDF sang MARKDOWN và các định dạng khác thông qua Java Automation API. Chuyển đổi miễn phí các tệp PDF trực tuyến thông qua ứng dụng với khả năng tải xuống tức thì." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API để chuyển đổi PDF sang MARKDOWN" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Ứng dụng chuyển đổi PDF sang MARKDOWN trực tuyến miễn phí" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi tệp PDF sang MARKDOWN trực tuyến bằng ứng dụng" %}}
+
+1. Tải lên các tệp PDF để chuyển đổi
+1. Chờ vài giây hoặc lâu hơn tùy thuộc vào kích thước PDF
+1. Theo dõi thanh trạng thái tải lên
+1. Nhấp vào nút "Chuyển đổi"
+1. PDF sẽ được chuyển đổi thành tài liệu MARKDOWN
+1. Tải xuống tệp MARKDOWN đã chuyển đổi
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi PDF sang MARKDOWN thông qua Java Automation API" %}}
+
+
 1. Mở tệp PDF bằng lớp [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Chuyển đổi PDF sang DOC bằng cách sử dụng [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) phương pháp
 3. Tải tệp DOC bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) của Aspose.Words
 4. Lưu tài liệu ở định dạng MARKDOWN bằng phương pháp [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) và đặt MARKDOWN dưới dạng SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên [Maven](https://releases.aspose.com/total/java/) và bao gồm [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) và [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) trong pom.xml của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi PDF sang MARKDOWN" offSpacer="" %}}
+
 
 ```java
 // load PDF file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
-Trong khi chuyển đổi PDF thành MARKDOWN, ngay cả khi tài liệu của bạn được bảo vệ bằng mật khẩu, bạn vẫn có thể mở nó bằng API thao tác PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Để mở tệp được mã hóa, bạn cần tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở PDF bằng mật khẩu của chủ sở hữu.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Một số trường hợp khác để lưu PDF vào MARKDOWN với các tính năng khác như Yêu cầu chuyển đổi, Mở tài liệu PDF được bảo vệ bằng mật khẩu qua Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.pdf", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.pdf", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Mở tài liệu PDF được bảo vệ bằng mật khẩu qua Java" %}}
-Trong khi lưu tài liệu đầu vào của bạn ở định dạng tệp MARKDOWN, bạn cũng có thể lưu tài liệu của mình vào cơ sở dữ liệu thay vì hệ thống tệp. Bạn có thể cần triển khai việc lưu trữ và truy xuất các đối tượng Tài liệu đến và từ cơ sở dữ liệu. Điều này sẽ cần thiết nếu bạn đang triển khai bất kỳ loại hệ thống quản lý nội dung nào. Để lưu MARKDOWN của bạn vào cơ sở dữ liệu, thông thường cần phải tuần tự hóa tài liệu để có được một mảng byte. Điều này có thể được thực hiện bằng cách sử dụng API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Sau khi nhận được mảng byte của bạn, bạn có thể lưu trữ nó trong cơ sở dữ liệu bằng cách sử dụng câu lệnh SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Phát triển ứng dụng chuyển đổi tệp PDF bằng Java</h2>
+
+Bạn có cần phát triển ứng dụng phần mềm dựa trên Java để dễ dàng lưu và xuất các tệp PDF sang tài liệu MARKDOWN không? Với [Aspose.Total for Java](https://products.aspose.com/total/vi/java/), bất kỳ nhà phát triển Java nào cũng có thể tích hợp mã API ở trên để lập trình ứng dụng chuyển đổi trên nhiều định dạng khác nhau bao gồm Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, tệp Email, Hình ảnh (JPG, PNG, BMP, GIF) và các định dạng khác. Thư viện Java mạnh mẽ để chuyển đổi tài liệu, hỗ trợ nhiều định dạng phổ biến bao gồm định dạng PDF. Khi xuất và kết xuất tài liệu sang các định dạng khác, lập trình viên có thể sử dụng API con Aspose.Total for Java bao gồm [Aspose.Words for Java](https://products.aspose.com/words/vi/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/vi/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/vi/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/vi/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/vi/java/), v.v.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PDF Thư viện chuyển đổi cho Java" %}}
+
+Có những lựa chọn thay thế để tích hợp Aspose.Total for Java vào hệ thống của bạn. Vui lòng chọn một sản phẩm phù hợp với nhu cầu của bạn và làm theo hướng dẫn từng bước:<br /><br />
+
+- Sử dụng Aspose.Total for Java trực tiếp từ dự án dựa trên Maven và bao gồm API con có liên quan trong pom.xml.
+- Ngoài ra, bạn có thể lấy tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Lưu PDF vào MARKDOWN Yêu cầu ứng dụng" %}}
+
+Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JRE) đều có thể chạy Aspose.Total for Java. Sau đây là danh sách hầu hết nhưng không phải tất cả các Hệ điều hành được hỗ trợ. <br /><br />
+- Hệ điều hành Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS và các hệ điều hành khác
+- macOS: 10.9 (Mavericks) trở lên
+- Di động: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

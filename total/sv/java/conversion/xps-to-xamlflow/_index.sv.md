@@ -1,32 +1,58 @@
 ---
-title: Java API för att exportera XPS till XAMLFLOW
-description: Konvertera XPS till XAMLFLOW med hjälp av det lokala Java API
-url_ignore: /sv/java/conversion/xps-to-xamlflow/
+title: Konvertering online från XPS till XAMLFLOW eller utveckla Java-baserad applikation för att konvertera XPS-filer
+description: Gratis onlineapp för att konvertera XPS till XAMLFLOW-filer. Java-konverteringsbibliotekskod för XPS-dokument.  
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: XPS
-outformat: XAML_FLOW
+outformat: XAMLFLOW
 otherformats: MHTML RTF PS FLATOPC PCL WORDML OTT DOT DOTM MARKDOWN XAMLFLOW ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Förvandla XPS till XAMLFLOW via Java" h2="On Premise Java API för att rendera XPS till XAMLFLOW utan att använda någon tredjepartsapplikation" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Du kan konvertera XPS till XAMLFLOW genom att använda två enkla steg. Först måste du rendera XPS-filen till DOC med [Aspose.PDF för Java](https://products.aspose.com/pdf/java/). Efter det, genom att använda kraftfulla Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du konvertera DOC till XAMLFLOW. Båda API:erna kommer under paketet [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Online XPS till XAMLFLOW-konverteringsapp och Java-kod för att konvertera XPS-filer" h2="Utveckla kraftfull Java-baserad XPS konvertering och export applikation.  Konvertera enstaka eller flera XPS-filer till XAMLFLOW och andra format via Java Automation API.  Konvertera fritt XPS-filer online via app med omedelbar nedladdning." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API för att konvertera XPS till XAMLFLOW" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis onlinekonverteringsapp från XPS till XAMLFLOW" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xamlflow&from=xps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera filer från XPS till XAMLFLOW online med appen" %}}
+
+1. Ladda upp XPS-filer för att konvertera
+1. Vänta i några sekunder eller mer beroende på storleken på XPS
+1. Håll ett öga på uppladdningsstatusfältet
+1. Klicka på knappen "Konvertera".
+1. XPS kommer att konverteras till XAMLFLOW-dokument
+1. Ladda ner den konverterade XAMLFLOW-filen
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konvertera XPS till XAMLFLOW via Java Automation API" %}}
+
+
 1. Öppna XPS-filen med klassen [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Konvertera XPS till DOC genom att använda [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metod
 3. Ladda DOC-fil genom att använda klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) av Aspose.Words
 4. Spara dokumentet i XAMLFLOW-format med metoden [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) och ställ in XAMLFLOW som SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://releases.aspose.com/total/java/) baserat projekt och inkludera [Aspose.PDF för Java](https://docs.aspose.com/pdf/java/installation/) och [Aspose.Words för Java](https://docs.aspose.com/words/java/installation/) i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Java-kod för konvertering från XPS till XAMLFLOW" offSpacer="" %}}
+
 
 ```java
 // load XPS file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Konverteringskrav" %}}
-När du konverterar XPS till XAMLFLOW, även om ditt dokument är lösenordsskyddat, kan du fortfarande öppna det med PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). För att öppna den krypterade filen måste du skapa ett [Dokument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) objekt och öppna XPS med ägarens lösenord.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Få fler fall för att spara XPS till XAMLFLOW med andra funktioner som Konverteringskrav, Öppna lösenordsskyddat XPS-dokument via Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.xps", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.xps", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Öppna lösenordsskyddat XPS-dokument via Java" %}}
-Samtidigt som du sparar ditt inmatade dokument i XAMLFLOW-filformat kan du också spara ditt dokument i databasen istället för ett filsystem. Du kan behöva implementera att lagra och hämta dokumentobjekt till och från en databas. Detta skulle vara nödvändigt om du skulle implementera någon typ av innehållshanteringssystem. För att spara din XAMLFLOW i databasen är det ofta nödvändigt att serialisera dokumentet för att få en byte-array. Detta kan göras med [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. Efter att ha fått din byte-array kan du lagra den i databasen med hjälp av SQL-satsen. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Utveckla XPS filkonverteringsapplikation med Java</h2>
+
+Behöver du utveckla Java-baserad programvara för att enkelt spara och exportera XPS-filer till XAMLFLOW-dokument?  Med [Aspose.Total for Java](https://products.aspose.com/total/sv/java/) kan alla Java-utvecklare integrera ovanstående API-kod för att programmera konverteringsapplikationen i olika format inklusive Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, e-postfiler, bilder (JPG, PNG, BMP, GIF) och andra format.  Kraftfullt Java-bibliotek för dokumentkonvertering, stöder många populära format inklusive XPS-format.  Genom att exportera och rendera dokument till andra format kan programmerare använda Aspose.Total for Java underordnade API:er inklusive [Aspose.Words for Java](https://products.aspose.com/words/sv/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/sv/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/sv/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/sv/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/sv/java/) och mer.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="XPS Konverteringsbibliotek för Java" %}}
+
+Det finns alternativa alternativ för att integrera Aspose.Total for Java på ditt system.  Välj en som liknar dina behov och följ steg-för-steg-instruktionerna:<br /><br />
+
+- Använd Aspose.Total for Java direkt från ett Maven-baserat projekt och inkludera relevant underordnad API i pom.xml.
+- Alternativt kan man få en ZIP-fil från [nedladdningar](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Sparar XPS till XAMLFLOW appkrav" %}}
+
+Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspose.Total for Java.  Följande listar de flesta, men inte alla, operativsystem som stöds.  <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS och andra
+- macOS: 10.9 (Mavericks) och senare
+- Mobil: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

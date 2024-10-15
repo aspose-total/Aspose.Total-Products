@@ -1,32 +1,58 @@
 ---
-title: API Java per esportare PDF in DOT
-description: Converti PDF in DOT utilizzando l'API Java locale
-url_ignore: /it/java/conversion/pdf-to-dot/
+title: Conversione online da PDF a DOT o sviluppo di applicazioni basate su Java per convertire i file PDF
+description: Applicazione online gratuita per convertire file PDF in file DOT. Codice della libreria di conversione Java per documenti PDF. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PDF
 outformat: DOT
 otherformats: FLATOPC PCL MHTML WORDML DOTX PS OTT XAMLFLOW RTF ODT DOT MARKDOWN
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Trasforma PDF in DOT tramite Java" h2="API Java On Premise per il rendering da PDF a DOT senza l'utilizzo di applicazioni di terze parti" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire PDF in DOT utilizzando due semplici passaggi. Per prima cosa devi eseguire il rendering del file PDF in DOC utilizzando [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Successivamente, utilizzando la potente API di elaborazione dei documenti [Aspose.Words for Java](https://products.aspose.com/words/java/), puoi convertire DOC in DOT. Entrambe le API rientrano nel pacchetto [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="App di conversione online da PDF a DOT e codice Java per convertire i file PDF" h2="Sviluppare potenti applicazioni di conversione ed esportazione PDF basate su Java. Converti uno o più file PDF in DOT e altri formati tramite l'API di automazione Java. Converti liberamente i file PDF online tramite app con download immediato." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire PDF in DOT" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="App gratuita di conversione online da PDF a DOT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pdf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti i file PDF in DOT online utilizzando l'app" %}}
+
+1. Carica i file PDF da convertire
+1. Attendi qualche secondo o più a seconda della dimensione di PDF
+1. Tieni d'occhio la barra di stato del caricamento
+1. Fare clic sul pulsante "Converti"
+1. PDF verrà convertito nel documento DOT
+1. Scarica il file DOT convertito
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converti PDF in DOT tramite Java Automation API" %}}
+
+
 1. Aprire il file PDF utilizzando la classe [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converti PDF in DOC utilizzando [save](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metodo
 3. Caricare il file DOC utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document) di Aspose.Words
 4. Salvare il documento in formato DOT utilizzando il metodo [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) e impostare DOT come SalvaFormato
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://releases.aspose.com/total/java/) e includono [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/) e [Aspose.Words per Java](https://docs.aspose.com/words/java/installation/) nel tuo pom.xml.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da PDF a DOT" offSpacer="" %}}
+
 
 ```java
 // load PDF file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.dot", SaveFormat.DOT);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-Durante la conversione da PDF a DOT, anche se il documento è protetto da password, è comunque possibile aprirlo utilizzando l'API di manipolazione PDF [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/). Per aprire il file crittografato, è necessario creare un oggetto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) e aprire il PDF utilizzando la password del proprietario.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Altri casi in cui è possibile salvare PDF in DOT con altre funzionalità come Requisiti di conversione, Aprire il documento PDF protetto da password tramite Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.pdf", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Aprire il documento PDF protetto da password tramite Java" %}}
-Durante il salvataggio del documento di input in formato file DOT, puoi anche salvare il documento in un database anziché in un file system. Potrebbe essere necessario implementare l'archiviazione e il recupero di oggetti Document da e verso un database. Ciò sarebbe necessario se stessi implementando qualsiasi tipo di sistema di gestione dei contenuti. Per salvare il DOT nel database è spesso necessario serializzare il documento per ottenere un array di byte. Questo può essere fatto utilizzando l'API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Dopo aver ottenuto il tuo array di byte, puoi memorizzarlo nel database usando l'istruzione SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Sviluppare un'applicazione di conversione file PDF utilizzando Java</h2>
+
+Hai bisogno di sviluppare un'applicazione software basata su Java per salvare ed esportare facilmente i file PDF in documenti DOT? Con [Aspose.Total for Java](https://products.aspose.com/total/it/java/), qualsiasi sviluppatore Java può integrare il codice API di cui sopra per programmare l'applicazione di conversione in vari formati, tra cui Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, file di posta elettronica, immagini (JPG, PNG, BMP, GIF) e altri formati. Potente libreria Java per la conversione di documenti, supporta molti formati popolari, incluso il formato PDF. Per esportare e rendere i documenti in altri formati, i programmatori possono utilizzare le API figlio Aspose.Total for Java, tra cui [Aspose.Words for Java](https://products.aspose.com/words/it/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/it/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/it/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/it/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/it/java/) e altri.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PDF Libreria di conversione per Java" %}}
+
+Esistono opzioni alternative per integrare Aspose.Total for Java nel tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo dopo passo:<br /><br />
+
+- Utilizzare Aspose.Total for Java direttamente da un progetto basato su Maven e includere l'API figlio pertinente in pom.xml.
+- In alternativa, è possibile ottenere un file ZIP da [Scaricare](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvataggio di PDF in DOT Requisiti dell'app" %}}
+
+Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) può eseguire Aspose.Total for Java. Di seguito sono elencati la maggior parte, ma non tutti, dei sistemi operativi supportati. <br /><br />
+- Finestre Microsoft
+- Linux: Ubuntu, OpenSUSE, CentOS e altri
+- macOS: 10.9 (Mavericks) e versioni successive
+- Cellulare: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

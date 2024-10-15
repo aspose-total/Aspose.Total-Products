@@ -1,32 +1,58 @@
 ---
-title: API Java per esportare MHTML in OTT
-description: Converti MHTML in OTT utilizzando l'API Java locale
-url_ignore: /it/java/conversion/mhtml-to-ott/
+title: Conversione online da MHTML a OTT o sviluppo di applicazioni basate su Java per convertire i file MHTML
+description: Applicazione online gratuita per convertire file MHTML in file OTT. Codice della libreria di conversione Java per documenti MHTML. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: MHTML
 outformat: OTT
 otherformats: XAMLFLOW DOTX WORDML ODT DOTM RTF PS OTT FLATOPC PCL MARKDOWN DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Trasforma MHTML in OTT tramite Java" h2="API Java On Premise per il rendering da MHTML a OTT senza l'utilizzo di applicazioni di terze parti" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Puoi convertire MHTML in OTT utilizzando due semplici passaggi. Per prima cosa devi eseguire il rendering del file MHTML in DOC utilizzando [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Successivamente, utilizzando la potente API di elaborazione dei documenti [Aspose.Words for Java](https://products.aspose.com/words/java/), puoi convertire DOC in OTT. Entrambe le API rientrano nel pacchetto [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="App di conversione online da MHTML a OTT e codice Java per convertire i file MHTML" h2="Sviluppare potenti applicazioni di conversione ed esportazione MHTML basate su Java. Converti uno o più file MHTML in OTT e altri formati tramite l'API di automazione Java. Converti liberamente i file MHTML online tramite app con download immediato." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire MHTML in OTT" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="App gratuita di conversione online da MHTML a OTT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=mhtml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti i file MHTML in OTT online utilizzando l'app" %}}
+
+1. Carica i file MHTML da convertire
+1. Attendi qualche secondo o più a seconda della dimensione di MHTML
+1. Tieni d'occhio la barra di stato del caricamento
+1. Fare clic sul pulsante "Converti"
+1. MHTML verrà convertito nel documento OTT
+1. Scarica il file OTT convertito
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converti MHTML in OTT tramite Java Automation API" %}}
+
+
 1. Aprire il file MHTML utilizzando la classe [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converti MHTML in DOC utilizzando [save](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metodo
 3. Caricare il file DOC utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document) di Aspose.Words
 4. Salvare il documento in formato OTT utilizzando il metodo [save](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) e impostare OTT come SalvaFormato
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://releases.aspose.com/total/java/) e includono [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/) e [Aspose.Words per Java](https://docs.aspose.com/words/java/installation/) nel tuo pom.xml.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da MHTML a OTT" offSpacer="" %}}
+
 
 ```java
 // load MHTML file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.ott", SaveFormat.OTT);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-Durante la conversione da MHTML a OTT, anche se il documento è protetto da password, è comunque possibile aprirlo utilizzando l'API di manipolazione PDF [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/). Per aprire il file crittografato, è necessario creare un oggetto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) e aprire il MHTML utilizzando la password del proprietario.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Altri casi in cui è possibile salvare MHTML in OTT con altre funzionalità come Requisiti di conversione, Aprire il documento MHTML protetto da password tramite Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.mhtml", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Aprire il documento MHTML protetto da password tramite Java" %}}
-Durante il salvataggio del documento di input in formato file OTT, puoi anche salvare il documento in un database anziché in un file system. Potrebbe essere necessario implementare l'archiviazione e il recupero di oggetti Document da e verso un database. Ciò sarebbe necessario se stessi implementando qualsiasi tipo di sistema di gestione dei contenuti. Per salvare il OTT nel database è spesso necessario serializzare il documento per ottenere un array di byte. Questo può essere fatto utilizzando l'API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Dopo aver ottenuto il tuo array di byte, puoi memorizzarlo nel database usando l'istruzione SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Sviluppare un'applicazione di conversione file MHTML utilizzando Java</h2>
+
+Hai bisogno di sviluppare un'applicazione software basata su Java per salvare ed esportare facilmente i file MHTML in documenti OTT? Con [Aspose.Total for Java](https://products.aspose.com/total/it/java/), qualsiasi sviluppatore Java può integrare il codice API di cui sopra per programmare l'applicazione di conversione in vari formati, tra cui Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, file di posta elettronica, immagini (JPG, PNG, BMP, GIF) e altri formati. Potente libreria Java per la conversione di documenti, supporta molti formati popolari, incluso il formato MHTML. Per esportare e rendere i documenti in altri formati, i programmatori possono utilizzare le API figlio Aspose.Total for Java, tra cui [Aspose.Words for Java](https://products.aspose.com/words/it/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/it/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/it/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/it/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/it/java/) e altri.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="MHTML Libreria di conversione per Java" %}}
+
+Esistono opzioni alternative per integrare Aspose.Total for Java nel tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo dopo passo:<br /><br />
+
+- Utilizzare Aspose.Total for Java direttamente da un progetto basato su Maven e includere l'API figlio pertinente in pom.xml.
+- In alternativa, è possibile ottenere un file ZIP da [Scaricare](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvataggio di MHTML in OTT Requisiti dell'app" %}}
+
+Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) può eseguire Aspose.Total for Java. Di seguito sono elencati la maggior parte, ma non tutti, dei sistemi operativi supportati. <br /><br />
+- Finestre Microsoft
+- Linux: Ubuntu, OpenSUSE, CentOS e altri
+- macOS: 10.9 (Mavericks) e versioni successive
+- Cellulare: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

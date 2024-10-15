@@ -1,32 +1,58 @@
 ---
-title: Convierta TEX a POTX a través de la API de Java
-description: API de Java para convertir TEX a POTX sin usar Microsoft Word
-url_ignore: /es/java/conversion/tex-to-potx/
+title: Conversión de TEX a POTX en línea o desarrollo de una aplicación basada en Java para convertir archivos TEX
+description: Aplicación gratuita en línea para convertir archivos TEX a POTX. Código de biblioteca de conversión Java para documentos TEX. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
 outformat: POTX
 otherformats: PPSX PPS XAML PPT POTX SWF PPTM POT POWERPOINT OTP PPSM POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar TEX a POTX" h2="Exporte TEX a POTX a través de la API Java local sin usar Microsoft<sup>&reg;</sup> PowerPoint o Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Usando [Aspose.Total para Java](https://products.aspose.com/total/java/) puede convertir fácilmente TEX a POTX dentro de cualquier aplicación Java J2SE, J2EE, J2ME. En primer lugar, al usar [Aspose.PDF para Java](https://products.aspose.com/pdf/java/), puede exportar TEX a PPTX. Después de eso, al usar [Aspose.Slides for Java](https://products.aspose.com/slides/java/) API de procesamiento de PowerPoint, puede convertir PPTX a POTX.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Aplicación de conversión de TEX a POTX en línea y código Java para convertir archivos TEX" h2="Desarrollar una potente aplicación de conversión y exportación TEX basada en Java. Convierta archivos TEX individuales o múltiples a POTX y otros formatos a través de la API de automatización de Java. Convierta libremente archivos TEX en línea a través de la aplicación con descarga instantánea." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir TEX a POTX" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplicación gratuita de conversión de TEX a POTX en línea" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convierte archivos TEX a POTX en línea usando la aplicación" %}}
+
+1. Subir archivos TEX para convertir
+1. Espere unos segundos o más según el tamaño de TEX
+1. Esté atento a la barra de estado de carga
+1. Haga clic en el botón "Convertir"
+1. TEX se convertirá en un documento POTX
+1. Descargue el archivo POTX convertido
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convertir TEX a POTX mediante la API de automatización de Java" %}}
+
+
 1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta TEX a PPTX usando el método [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Cargue el documento PPTX usando la clase [Presentación](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Guarde el documento en formato POTX usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) y establezca ` Potx` como formato guardado
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://releases.aspose.com/total/java/)pdf/java/installation/) y [Aspose.Slides para Java](https://docs.aspose.com/slides/java/installation/) en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Código Java para la conversión de TEX a POTX" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.potx", SaveFormat.Potx);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Al cargar el formato de archivo TEX, su documento puede estar protegido con contraseña. [Aspose.PDF para Java](https://products.aspose.com/pdf/java/) también le permite abrir documentos cifrados. Para abrir el archivo cifrado, puede inicializar una nueva instancia del [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) class y pase el nombre de archivo y la contraseña como argumentos.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Algunos casos más para guardar TEX en POTX con otras funciones como Requisitos de conversión, Abrir archivo TEX cifrado a través de Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open TEX document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Abrir archivo TEX cifrado a través de Java" %}}
-Después de convertir TEX a POTX, también puede agregar un tipo de vista predefinido para su presentación. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) proporciona una función para establecer el tipo de vista para la presentación generada cuando se abre en PowerPoint a través de [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties) clase. La propiedad [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) se usa para establecer el tipo de vista mediante [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType) enumerador. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.potx", SaveFormat.Potx);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Desarrollar una aplicación de conversión de archivos TEX utilizando Java</h2>
+
+¿Necesita desarrollar una aplicación de software basada en Java para guardar y exportar fácilmente archivos TEX a documentos POTX? Con [Aspose.Total for Java](https://products.aspose.com/total/es/java/), cualquier desarrollador Java puede integrar el código API anterior para programar la aplicación de conversión en una variedad de formatos, incluidos Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, archivos de correo electrónico, imágenes (JPG, PNG, BMP, GIF) y otros formatos. Potente biblioteca Java para conversión de documentos, admite muchos formatos populares, incluido el formato TEX. Al exportar y renderizar documentos a otros formatos, los programadores pueden utilizar las API secundarias Aspose.Total for Java, incluidas [Aspose.Words for Java](https://products.aspose.com/words/es/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/es/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/es/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/es/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/es/java/) y más.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Biblioteca de conversión TEX para Java" %}}
+
+Existen opciones alternativas para integrar Aspose.Total for Java en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:<br /><br />
+
+- Utilice Aspose.Total for Java directamente desde un proyecto basado en Maven e incluya la API secundaria relevante en pom.xml.
+- Alternativamente, se puede obtener un archivo ZIP de [Descargas](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de la aplicación para guardar TEX en POTX" %}}
+
+Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) puede ejecutar Aspose.Total for Java. A continuación se enumeran la mayoría de los sistemas operativos compatibles, pero no todos. <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS y otros
+- macOS: 10.9 (Mavericks) y posteriores
+- Móvil: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,32 +1,58 @@
 ---
-title: Converti XPS in PPSM tramite API Java
-description: API Java per convertire XPS in PPSM senza utilizzare Microsoft Word
-url_ignore: /it/java/conversion/xps-to-ppsm/
+title: Conversione online da XPS a PPSM o sviluppo di applicazioni basate su Java per convertire i file XPS
+description: Applicazione online gratuita per convertire file XPS in file PPSM. Codice della libreria di conversione Java per documenti XPS. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: XPS
 outformat: PPSM
 otherformats: SWF PPS PPSM PPTM POT OTP POTX PPSX POTM PPT POWERPOINT XAML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XPS in PPSM" h2="Esporta XPS in PPSM tramite l'API Java locale senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Utilizzando [Aspose.Total per Java](https://products.aspose.com/total/java/) puoi facilmente convertire XPS in PPSM all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME. Innanzitutto, utilizzando [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), puoi esportare XPS in PPTX. Successivamente, utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/) PowerPoint Processing API, puoi convertire PPTX in PPSM.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="App di conversione online da XPS a PPSM e codice Java per convertire i file XPS" h2="Sviluppare potenti applicazioni di conversione ed esportazione XPS basate su Java. Converti uno o più file XPS in PPSM e altri formati tramite l'API di automazione Java. Converti liberamente i file XPS online tramite app con download immediato." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire XPS in PPSM" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="App gratuita di conversione online da XPS a PPSM" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=xps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converti i file XPS in PPSM online utilizzando l'app" %}}
+
+1. Carica i file XPS da convertire
+1. Attendi qualche secondo o più a seconda della dimensione di XPS
+1. Tieni d'occhio la barra di stato del caricamento
+1. Fare clic sul pulsante "Converti"
+1. XPS verrà convertito nel documento PPSM
+1. Scarica il file PPSM convertito
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converti XPS in PPSM tramite Java Automation API" %}}
+
+
 1. Aprire il file XPS utilizzando la classe [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converti XPS in PPTX utilizzando il metodo [save](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Caricare il documento PPTX utilizzando la classe [Presentazione](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Salvare il documento in formato PPSM utilizzando il metodo [save](https://apiference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) e impostare ` Ppsm` come SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://releases.aspose.com/total/java/) e includere [Aspose.PDF per Java](https://docs.aspose.com/pdf/java/installation/) e [Aspose.Slides per Java](https://docs.aspose.com/slides/java/installation/) nel tuo pom.xml.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da XPS a PPSM" offSpacer="" %}}
+
 
 ```java
 // load XPS file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.ppsm", SaveFormat.Ppsm);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
-Durante il caricamento del formato file XPS, il documento potrebbe essere protetto da password. [Aspose.PDF per Java](https://products.aspose.com/pdf/java/) consente di aprire anche documenti crittografati. Per aprire il file crittografato, è possibile inizializzare una nuova istanza di [Document](https://apiference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java .lang.String-) e passare il nome del file e la password come argomenti.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Altri casi in cui è possibile salvare XPS in PPSM con altre funzionalità come Requisiti di conversione, Apri il file XPS crittografato tramite Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open XPS document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Apri il file XPS crittografato tramite Java" %}}
-Dopo aver convertito XPS in PPSM, puoi anche aggiungere un tipo di visualizzazione predefinito per la tua presentazione. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) fornisce una funzione per impostare il tipo di visualizzazione per la presentazione generata quando viene aperta in PowerPoint tramite [ViewProperties](https://apiference.aspose.com/slides/java/com.aspose.slides/ViewProperties). La proprietà [setLastView](https://apiference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) viene utilizzata per impostare il tipo di visualizzazione utilizzando [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType) enumeratore. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.ppsm", SaveFormat.Ppsm);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Sviluppare un'applicazione di conversione file XPS utilizzando Java</h2>
+
+Hai bisogno di sviluppare un'applicazione software basata su Java per salvare ed esportare facilmente i file XPS in documenti PPSM? Con [Aspose.Total for Java](https://products.aspose.com/total/it/java/), qualsiasi sviluppatore Java può integrare il codice API di cui sopra per programmare l'applicazione di conversione in vari formati, tra cui Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, file di posta elettronica, immagini (JPG, PNG, BMP, GIF) e altri formati. Potente libreria Java per la conversione di documenti, supporta molti formati popolari, incluso il formato XPS. Per esportare e rendere i documenti in altri formati, i programmatori possono utilizzare le API figlio Aspose.Total for Java, tra cui [Aspose.Words for Java](https://products.aspose.com/words/it/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/it/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/it/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/it/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/it/java/) e altri.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="XPS Libreria di conversione per Java" %}}
+
+Esistono opzioni alternative per integrare Aspose.Total for Java nel tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo dopo passo:<br /><br />
+
+- Utilizzare Aspose.Total for Java direttamente da un progetto basato su Maven e includere l'API figlio pertinente in pom.xml.
+- In alternativa, è possibile ottenere un file ZIP da [Scaricare](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvataggio di XPS in PPSM Requisiti dell'app" %}}
+
+Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) può eseguire Aspose.Total for Java. Di seguito sono elencati la maggior parte, ma non tutti, dei sistemi operativi supportati. <br /><br />
+- Finestre Microsoft
+- Linux: Ubuntu, OpenSUSE, CentOS e altri
+- macOS: 10.9 (Mavericks) e versioni successive
+- Cellulare: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

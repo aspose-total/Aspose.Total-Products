@@ -1,32 +1,58 @@
 ---
-title: Converter XSLFO para PPTM via API Java
-description: API Java para converter XSLFO para PPTM sem usar o Microsoft Word
-url_ignore: /pt/java/conversion/xslfo-to-pptm/
+title: Conversão online de XSLFO para PPTM ou desenvolvimento de aplicativo baseado em Java para converter arquivos XSLFO
+description: Aplicativo online gratuito para converter arquivos XSLFO para PPTM. Código de biblioteca de conversão Java para documentos XSLFO. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: XSLFO
 outformat: PPTM
 otherformats: POTX POWERPOINT POT PPSM XAML SWF PPTM PPS PPSX PPT OTP POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java para exportar XSLFO para PPTM" h2="Exporte XSLFO para PPTM via API Java local sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Usando [Aspose.Total for Java](https://products.aspose.com/total/java/) você pode facilmente converter XSLFO para PPTM em qualquer aplicativo Java J2SE, J2EE, J2ME. Em primeiro lugar, usando [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), você pode exportar XSLFO para PPTX. Depois disso, usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/) API de processamento do PowerPoint, você pode converter PPTX para PPTM.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Aplicativo de conversão online XSLFO para PPTM e código Java para converter arquivos XSLFO" h2="Desenvolva um poderoso aplicativo de conversão e exportação XSLFO baseado em Java. Converta arquivos XSLFO únicos ou múltiplos para PPTM e outros formatos via API de automação Java. Converta arquivos XSLFO gratuitamente online via aplicativo com download instantâneo." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API Java para converter XSLFO em PPTM" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplicativo de conversão XSLFO para PPTM online gratuito" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptm&from=xslfo" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converta arquivos XSLFO para PPTM online usando o aplicativo" %}}
+
+1. Carregar arquivos XSLFO para converter
+1. Aguarde alguns segundos ou mais dependendo do tamanho do XSLFO
+1. Fique de olho na barra de status do upload
+1. Clique no botão "Converter"
+1. XSLFO será convertido em documento PPTM
+1. Baixe o arquivo PPTM convertido
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converter XSLFO para PPTM via API de automação Java" %}}
+
+
 1. Abra o arquivo XSLFO usando a classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converta XSLFO para PPTX usando o método [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Carregue o documento PPTX usando a classe [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Salve o documento no formato PPTM usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) e defina ` Pptm` como SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://releases.aspose.com/total/java/) e inclua [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) e [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) em seu pom.xml.
 
-Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Código Java para conversão de XSLFO para PPTM" offSpacer="" %}}
+
 
 ```java
 // load XSLFO file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.pptm", SaveFormat.Pptm);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversão" %}}
-Ao carregar o formato de arquivo XSLFO, seu documento pode estar protegido por senha. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) também permite abrir documentos criptografados. Para abrir o arquivo criptografado, você pode inicializar uma nova instância do [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) e passe o nome do arquivo e a senha como argumentos.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Mais alguns casos para salvar XSLFO em PPTM com outros recursos como Requisitos de conversão, Abrir arquivo XSLFO criptografado via Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open XSLFO document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Abrir arquivo XSLFO criptografado via Java" %}}
-Depois de converter XSLFO para PPTM, você também pode adicionar um tipo de visualização predefinido para sua apresentação. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) fornece um recurso para definir o tipo de exibição para a apresentação gerada quando ela é aberta no PowerPoint por meio de [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties). A propriedade [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) é usada para definir o tipo de visualização usando o [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType). 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.pptm", SaveFormat.Pptm);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Desenvolver aplicativo de conversão de arquivo XSLFO usando Java</h2>
+
+Precisa desenvolver um aplicativo de software baseado em Java para salvar e exportar facilmente arquivos XSLFO para um documento PPTM? Com o [Aspose.Total for Java](https://products.aspose.com/total/pt/java/), qualquer desenvolvedor Java pode integrar o código API acima para programar o aplicativo de conversão em vários formatos, incluindo Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, arquivos de e-mail, imagens (JPG, PNG, BMP, GIF) e outros formatos. Poderosa biblioteca Java para conversão de documentos, suporta muitos formatos populares, incluindo o formato XSLFO. Para exportar e renderizar documentos para outros formatos, os programadores podem usar APIs filhas do Aspose.Total for Java, incluindo [Aspose.Words for Java](https://products.aspose.com/words/pt/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/pt/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/pt/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/pt/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/pt/java/) e mais.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="XSLFO Biblioteca de conversão para Java" %}}
+
+Existem opções alternativas para integrar o Aspose.Total for Java ao seu sistema. Escolha uma que se adeque às suas necessidades e siga as instruções passo a passo:<br /><br />
+
+- Use o Aspose.Total for Java diretamente de um projeto baseado em Maven e inclua a API filha relevante em pom.xml.
+- Alternativamente, é possível obter um arquivo ZIP do [baixar](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Salvando XSLFO em PPTM Requisitos do aplicativo" %}}
+
+Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE) pode executar o Aspose.Total for Java. A seguir estão listados os principais sistemas operacionais suportados, mas não todos. <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS e outros
+- macOS: 10.9 (Mavericks) e posterior
+- Móvel: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

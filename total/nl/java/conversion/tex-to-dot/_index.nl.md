@@ -1,32 +1,58 @@
 ---
-title: Java API om TEX naar DOT te exporteren
-description: Converteer TEX naar DOT met behulp van on-premise Java API
-url_ignore: /nl/java/conversion/tex-to-dot/
+title: Online TEX naar DOT conversie of ontwikkel Java-gebaseerde applicatie om TEX bestanden te converteren
+description: Gratis online app om TEX naar DOT bestanden te converteren. Java conversiebibliotheekcode voor TEX documenten. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
 outformat: DOT
 otherformats: OTT PS ODT FLATOPC DOT PCL DOTM DOTX XAMLFLOW RTF MARKDOWN MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Transformeer TEX naar DOT via Java" h2="On Premise Java API om TEX naar DOT te renderen zonder een applicatie van derden te gebruiken" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-U kunt TEX naar DOT converteren met behulp van twee eenvoudige stappen. Eerst moet u het TEX-bestand naar DOC renderen met [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Daarna kunt u met behulp van de krachtige API voor documentverwerking [Aspose.Words for Java](https://products.aspose.com/words/java/) DOC naar DOT converteren. Beide API's vallen onder het pakket [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Online TEX naar DOT conversie-app en Java-code om TEX bestanden te converteren" h2="Ontwikkel een krachtige Java-gebaseerde TEX conversie- en exportapplicatie. Converteer één of meerdere TEX-bestanden naar DOT en andere formaten via de Java-automatiserings-API. Converteer TEX-bestanden gratis online via een app met directe download." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API om TEX naar DOT te converteren" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Gratis online TEX naar DOT conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Converteer TEX naar DOT bestanden online met behulp van de app" %}}
+
+1. Upload TEX-bestanden om te converteren
+1. Wacht enkele seconden of langer, afhankelijk van de grootte van TEX
+1. Houd de uploadstatusbalk in de gaten
+1. Klik op de knop "Converteren"
+1. TEX wordt omgezet in een DOT-document
+1. Download het geconverteerde DOT-bestand
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Converteer TEX naar DOT via Java Automation API" %}}
+
+
 1. Open het TEX-bestand met de klasse [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Converteer TEX naar DOC met behulp van [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) methode:
 3. Laad het DOC-bestand met behulp van de [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) klasse van Aspose.Words
 4. Sla het document op in DOT-formaat met behulp van [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) methode en stel DOT in als OpslaanFormaat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://releases.aspose.com/total/java/) gebaseerd project gebruiken en bevatten [Aspose.PDF voor Java](https://docs.aspose.com/pdf/java/installation/) en [Aspose.Words voor Java](https://docs.aspose.com/words/java/installation/) in uw po.xml.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Java-code voor TEX naar DOT-conversie" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.dot", SaveFormat.DOT);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
-Tijdens het converteren van TEX naar DOT kunt u, zelfs als uw document met een wachtwoord is beveiligd, het nog steeds openen met de PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Om het versleutelde bestand te openen, moet u een [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-object maken en de TEX openen met het wachtwoord van de eigenaar.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Nog een paar voorbeelden voor het opslaan van TEX in DOT met andere functies, zoals Conversievereisten, Open met een wachtwoord beveiligd TEX-document via Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 ```cs
 // open encrypted document
 Document document = new Document("input.tex", "password");
@@ -51,11 +84,10 @@ Document document = new Document("input.tex", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Open met een wachtwoord beveiligd TEX-document via Java" %}}
-Terwijl u uw invoerdocument opslaat in DOT-bestandsindeling, kunt u uw document ook opslaan in een database in plaats van in een bestandssysteem. Mogelijk moet u het opslaan en ophalen van documentobjecten van en naar een database implementeren. Dit zou nodig zijn als u een inhoudsbeheersysteem zou implementeren. Om uw DOT in de database op te slaan, is het vaak nodig om het document te serialiseren om een bytearray te verkrijgen. Dit kan worden gedaan met behulp van [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. Nadat u uw byte-array hebt ontvangen, kunt u deze in de database opslaan met behulp van een SQL-instructie. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -76,10 +108,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Ontwikkel een TEX-bestandsconversietoepassing met behulp van Java</h2>
+
+Moet u een Java-gebaseerde softwaretoepassing ontwikkelen waarmee u TEX-bestanden eenvoudig kunt opslaan en exporteren naar DOT-documenten? Met [Aspose.Total for Java](https://products.aspose.com/total/nl/java/) kan iedere Java-ontwikkelaar de bovenstaande API-code integreren om de conversietoepassing te programmeren voor diverse formaten, waaronder Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, e-mailbestanden, afbeeldingen (JPG, PNG, BMP, GIF) en andere formaten. Krachtige Java-bibliotheek voor documentconversie, ondersteunt veel populaire formaten, waaronder het TEX-formaat. Voor het exporteren en renderen van documenten naar andere formaten kunnen programmeurs gebruikmaken van Aspose.Total for Java-onderliggende API's, waaronder [Aspose.Words for Java](https://products.aspose.com/words/nl/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/nl/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/nl/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/nl/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/nl/java/) en meer.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="TEX Conversiebibliotheek voor Java" %}}
+
+Er zijn alternatieve opties om Aspose.Total for Java in uw systeem te integreren. Kies er een die het beste bij uw behoeften past en volg de stapsgewijze instructies:<br /><br />
+
+- Gebruik Aspose.Total for Java rechtstreeks vanuit een Maven-project en neem de relevante onderliggende API op in pom.xml.
+- Als alternatief kunt u een ZIP-bestand van [downloaden](https://releases.aspose.com/total/java) verkrijgen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Vereisten voor het opslaan van TEX in DOT-app" %}}
+
+Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Aspose.Total for Java draaien. Hieronder vindt u een lijst met de meeste, maar niet alle, ondersteunde besturingssystemen. <br /><br />
+- Microsoft-Windows
+- Linux: Ubuntu, OpenSUSE, CentOS en anderen
+- macOS: 10.9 (Mavericks) en later
+- Mobiel: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,32 +1,58 @@
 ---
-title: تحويل XPS إلى ODP عبر Java API
-description: Java API لتحويل XPS إلى ODP دون استخدام Microsoft Word
-url_ignore: /ar/java/conversion/xps-to-odp/
+title: تحويل ملفات XPS إلى ODP عبر الإنترنت أو تطوير تطبيق قائم على Java لتحويل ملفات XPS
+description: تطبيق مجاني عبر الإنترنت لتحويل ملفات XPS إلى ملفات ODP. كود مكتبة تحويل Java لمستندات XPS. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: XPS
 outformat: ODP
 otherformats: POTM PPT PPS POT SWF PPSM PPTM OTP POWERPOINT PPSX POTX XAML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XPS إلى ODP" h2="قم بتصدير XPS إلى ODP عبر واجهة برمجة تطبيقات Java في الشركة دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-باستخدام [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك بسهولة تحويل XPS إلى ODP داخل أي تطبيق Java J2SE و J2EE و J2ME. أولاً ، باستخدام [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) ، يمكنك تصدير XPS إلى PPTX. بعد ذلك ، باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/) PowerPoint Processing API ، يمكنك تحويل PPTX إلى ODP.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="تطبيق تحويل XPS إلى ODP عبر الإنترنت ورمز Java لتحويل ملفات XPS" h2="تطوير تطبيق قوي لتحويل XPS وتصديره استنادًا إلى Java. تحويل ملفات XPS الفردية أو المتعددة إلى ODP وغيرها من التنسيقات عبر واجهة برمجة تطبيقات أتمتة Java. قم بتحويل ملفات XPS بحرية عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API لتحويل XPS إلى ODP" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل XPS إلى ODP" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=xps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ملفات XPS إلى ODP عبر الإنترنت باستخدام التطبيق" %}}
+
+1. قم بتحميل ملفات XPS للتحويل
+1. انتظر بضع ثوانٍ أو أكثر حسب حجم XPS
+1. راقب شريط حالة التحميل
+1. انقر على زر "تحويل"
+1. سيتم تحويل XPS إلى مستند ODP
+1. تنزيل الملف المُحوَّل ODP
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="تحويل XPS إلى ODP عبر Java Automation API" %}}
+
+
 1. افتح ملف XPS باستخدام فئة [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. تحويل XPS إلى PPTX باستخدام طريقة [Save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. قم بتحميل مستند PPTX باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. احفظ المستند بتنسيق ODP باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) واضبط ``Odp``كـ SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://releases.aspose.com/total/java/) وتشمل [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) و [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="كود جافا لتحويل XPS إلى ODP" offSpacer="" %}}
+
 
 ```java
 // load XPS file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.odp", SaveFormat.Odp);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-أثناء تحميل تنسيق ملف XPS ، قد يكون المستند محميًا بكلمة مرور. يسمح لك [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) بفتح المستندات المشفرة أيضًا. لفتح الملف المشفر ، يمكنك تهيئة مثيل جديد من [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String) فئة وتمرير اسم الملف وكلمة المرور كوسائط.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+هناك حالات قليلة أخرى لحفظ XPS في ODP باستخدام ميزات أخرى مثل متطلبات التحويل, افتح ملف XPS المشفر عبر Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open XPS document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="افتح ملف XPS المشفر عبر Java" %}}
-بعد تحويل XPS إلى ODP ، يمكنك أيضًا إضافة نوع عرض محدد مسبقًا لعرضك التقديمي. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يوفر وسيلة لتعيين نوع العرض للعرض التقديمي الذي تم إنشاؤه عند فتحه في PowerPoint من خلال [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties) فئة. تُستخدم خاصية [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType) لتعيين نوع العرض باستخدام  العداد. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.odp", SaveFormat.Odp);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>تطوير تطبيق تحويل الملفات XPS باستخدام Java</h2>
+
+هل تحتاج إلى تطوير تطبيق برمجي قائم على Java لحفظ وتصدير ملفات XPS إلى مستند ODP بسهولة؟ باستخدام [Aspose.Total for Java](https://products.aspose.com/total/ar/java/)، يمكن لأي مطور Java دمج كود API أعلاه لبرمجة تطبيق التحويل عبر مجموعة متنوعة من التنسيقات بما في ذلك Microsoft Word (DOC، DOCX)، وExcel (XLS، XLSX)، وPowerpoint (PPT، PPTX)، وPDF، وملفات البريد الإلكتروني، والصور (JPG، PNG، BMP، GIF) وغيرها من التنسيقات. مكتبة Java قوية لتحويل المستندات، تدعم العديد من التنسيقات الشائعة بما في ذلك تنسيق XPS. عند تصدير المستندات وتقديمها إلى تنسيقات أخرى، يمكن للمبرمجين استخدام واجهات برمجة التطبيقات الفرعية Aspose.Total for Java بما في ذلك [Aspose.Words for Java](https://products.aspose.com/words/ar/java/) و[Aspose.Cells for Java](https://products.aspose.com/cells/ar/java/) و[Aspose.Slides for Java](https://products.aspose.com/slides/ar/java/) و[Aspose.PDF for Java](https://products.aspose.com/pdf/ar/java/) و[Aspose.Imaging for Java](https://products.aspose.com/imaging/ar/java/) والمزيد.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="مكتبة التحويل XPS لـ Java" %}}
+
+تتوفر خيارات بديلة لدمج Aspose.Total for Java على نظامك. الرجاء اختيار ما يشبه احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
+
+- استخدم Aspose.Total for Java مباشرةً من مشروع قائم على Maven وقم بتضمين واجهة برمجة التطبيقات الفرعية ذات الصلة في pom.xml.
+- وبدلاً من ذلك، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="حفظ XPS في ODP متطلبات التطبيق" %}}
+
+يمكن لأي نظام تشغيل قادر على تشغيل بيئة تشغيل Java (JRE) تشغيل Aspose.Total for Java. تتضمن القوائم التالية معظم أنظمة التشغيل المدعومة، ولكن ليس كلها. <br /><br />
+- مايكروسوفت ويندوز
+- Linux: Ubuntu، OpenSUSE، CentOS وغيرها
+- macOS: 10.9 (Mavericks) والإصدارات الأحدث
+- الجوال : أندرويد، iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,32 +1,58 @@
 ---
-title: API de Java para exportar TEX a DOTX
-description: Convierta TEX a DOTX usando la API de Java en las instalaciones
-url_ignore: /es/java/conversion/tex-to-dotx/
+title: Conversión de TEX a DOTX en línea o desarrollo de una aplicación basada en Java para convertir archivos TEX
+description: Aplicación gratuita en línea para convertir archivos TEX a DOTX. Código de biblioteca de conversión Java para documentos TEX. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
 outformat: DOTX
 otherformats: MARKDOWN FLATOPC DOTX DOT MHTML DOTM XAMLFLOW RTF PCL ODT PS WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Transforme TEX a DOTX a través de Java" h2="API de Java en las instalaciones para renderizar TEX a DOTX sin usar ninguna aplicación de terceros" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Puede convertir TEX a DOTX siguiendo dos simples pasos. Primero debe procesar el archivo TEX en DOC usando [Aspose.PDF para Java](https://products.aspose.com/pdf/java/). Después de eso, al usar la poderosa API de procesamiento de documentos [Aspose.Words for Java](https://products.aspose.com/words/java/), puede convertir DOC a DOTX. Ambas API se incluyen en el paquete [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Aplicación de conversión de TEX a DOTX en línea y código Java para convertir archivos TEX" h2="Desarrollar una potente aplicación de conversión y exportación TEX basada en Java. Convierta archivos TEX individuales o múltiples a DOTX y otros formatos a través de la API de automatización de Java. Convierta libremente archivos TEX en línea a través de la aplicación con descarga instantánea." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir TEX a DOTX" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Aplicación gratuita de conversión de TEX a DOTX en línea" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convierte archivos TEX a DOTX en línea usando la aplicación" %}}
+
+1. Subir archivos TEX para convertir
+1. Espere unos segundos o más según el tamaño de TEX
+1. Esté atento a la barra de estado de carga
+1. Haga clic en el botón "Convertir"
+1. TEX se convertirá en un documento DOTX
+1. Descargue el archivo DOTX convertido
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convertir TEX a DOTX mediante la API de automatización de Java" %}}
+
+
 1. Abra el archivo TEX usando la clase [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convierta TEX a DOC usando [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) método
 3. Cargue el archivo DOC usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) de Aspose.Words
 4. Guarde el documento en formato DOTX usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) y configure DOTX como Guardar formato
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://releases.aspose.com/total/java/)pdf/java/installation/) y [Aspose.Words para Java](https://docs.aspose.com/words/java/installation/) en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Código Java para la conversión de TEX a DOTX" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.dotx", SaveFormat.DOTX);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Requisitos de conversión" %}}
-Mientras convierte TEX a DOTX, incluso si su documento está protegido con contraseña, aún puede abrirlo usando la API de manipulación de PDF [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/). Para abrir el archivo cifrado, debe crear un objeto [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) y abrir el TEX con la contraseña del propietario.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Algunos casos más para guardar TEX en DOTX con otras funciones como Requisitos de conversión, Abrir documento TEX protegido con contraseña a través de Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.tex", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Abrir documento TEX protegido con contraseña a través de Java" %}}
-Mientras guarda su documento de entrada en formato de archivo DOTX, también puede guardar su documento en una base de datos en lugar de un sistema de archivos. Es posible que deba implementar el almacenamiento y la recuperación de objetos de documento hacia y desde una base de datos. Esto sería necesario si estuviera implementando cualquier tipo de sistema de gestión de contenido. Para guardar su DOTX en la base de datos, a menudo es necesario serializar el documento para obtener una matriz de bytes. Esto se puede hacer usando la API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Después de obtener su matriz de bytes, puede almacenarla en la base de datos usando una declaración SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Desarrollar una aplicación de conversión de archivos TEX utilizando Java</h2>
+
+¿Necesita desarrollar una aplicación de software basada en Java para guardar y exportar fácilmente archivos TEX a documentos DOTX? Con [Aspose.Total for Java](https://products.aspose.com/total/es/java/), cualquier desarrollador Java puede integrar el código API anterior para programar la aplicación de conversión en una variedad de formatos, incluidos Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, archivos de correo electrónico, imágenes (JPG, PNG, BMP, GIF) y otros formatos. Potente biblioteca Java para conversión de documentos, admite muchos formatos populares, incluido el formato TEX. Al exportar y renderizar documentos a otros formatos, los programadores pueden utilizar las API secundarias Aspose.Total for Java, incluidas [Aspose.Words for Java](https://products.aspose.com/words/es/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/es/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/es/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/es/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/es/java/) y más.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Biblioteca de conversión TEX para Java" %}}
+
+Existen opciones alternativas para integrar Aspose.Total for Java en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:<br /><br />
+
+- Utilice Aspose.Total for Java directamente desde un proyecto basado en Maven e incluya la API secundaria relevante en pom.xml.
+- Alternativamente, se puede obtener un archivo ZIP de [Descargas](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisitos de la aplicación para guardar TEX en DOTX" %}}
+
+Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) puede ejecutar Aspose.Total for Java. A continuación se enumeran la mayoría de los sistemas operativos compatibles, pero no todos. <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS y otros
+- macOS: 10.9 (Mavericks) y posteriores
+- Móvil: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

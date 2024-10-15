@@ -1,32 +1,58 @@
 ---
-title: Java API pro export PCL do DOT
-description: Převeďte PCL na DOT pomocí on premise Java API
-url_ignore: /cs/java/conversion/pcl-to-dot/
+title: Online konverze PCL na DOT nebo vývoj aplikace založené na Java pro konverzi souborů PCL
+description: Bezplatná online aplikace pro převod souborů PCL na soubory DOT. Kód knihovny konverze Java pro dokumenty PCL.  
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PCL
 outformat: DOT
 otherformats: PS OTT ODT FLATOPC DOTM WORDML MHTML RTF XAMLFLOW DOTX MARKDOWN DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Transformujte PCL na DOT přes Java" h2="On Premise Java API pro vykreslení PCL do DOT bez použití jakékoli aplikace třetí strany" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-PCL můžete převést na DOT pomocí dvou jednoduchých kroků. Nejprve musíte vykreslit soubor PCL do DOC pomocí [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). Poté můžete pomocí výkonného API pro zpracování dokumentů [Aspose.Words for Java](https://products.aspose.com/words/java/) převést DOC na DOT. Obě rozhraní API jsou součástí balíčku [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Online aplikace pro převod PCL na DOT a kód Java pro převod souborů PCL" h2="Vyvíjejte výkonnou aplikaci pro konverzi a export PCL založenou na Javě.  Převeďte jeden nebo více souborů PCL do formátu DOT a dalších formátů pomocí rozhraní Java automation API.  Zdarma převádějte soubory PCL online prostřednictvím aplikace s okamžitým stažením." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API pro převod PCL na DOT" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Bezplatná online aplikace pro převod PCL na DOT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pcl" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte PCL na DOT soubory online pomocí aplikace App" %}}
+
+1. Nahrajte soubory PCL, které chcete převést
+1. Počkejte několik sekund nebo déle v závislosti na velikosti PCL
+1. Sledujte stavový řádek nahrávání
+1. Klikněte na tlačítko "Převést".
+1. PCL bude převeden na dokument DOT
+1. Stáhněte si převedený soubor DOT
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Převeďte PCL na DOT pomocí Java Automation API" %}}
+
+
 1. Otevřete soubor PCL pomocí třídy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Převeďte PCL na DOC pomocí [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- ) metoda
 3. Načtěte soubor DOC pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) třídy Aspose.Words
 4. Uložte dokument do formátu DOT pomocí metody [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) a nastavte DOT jako SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://releases.aspose.com/total/java/) a zahrnují [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) a [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) ve vašem pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Kód Java pro konverzi PCL na DOT" offSpacer="" %}}
+
 
 ```java
 // load PCL file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.dot", SaveFormat.DOT);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
-Při převodu PCL na DOT, i když je váš dokument chráněn heslem, jej stále můžete otevřít pomocí rozhraní API pro manipulaci s PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Chcete-li otevřít zašifrovaný soubor, musíte vytvořit objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřít PCL pomocí hesla vlastníka.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Několik dalších případů pro uložení PCL do DOT s dalšími funkcemi, jako je Požadavky na převod, Otevřete dokument PCL chráněný heslem přes Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.pcl", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Otevřete dokument PCL chráněný heslem přes Java" %}}
-Při ukládání vstupního dokumentu do formátu souboru DOT můžete také dokument uložit do databáze namísto systému souborů. Možná budete muset implementovat ukládání a načítání objektů Document do az databáze. To by bylo nutné, pokud byste implementovali jakýkoli typ systému pro správu obsahu. Aby bylo možné uložit váš DOT do databáze, je často nutné dokument serializovat a získat tak bajtové pole. To lze provést pomocí rozhraní API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Po získání bajtového pole jej můžete uložit do databáze pomocí příkazu SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Vyvíjejte aplikaci pro konverzi souborů PCL pomocí Javy</h2>
+
+Potřebujete vyvinout softwarovou aplikaci založenou na Javě pro snadné ukládání a export souborů PCL do dokumentu DOT?  S [Aspose.Total for Java](https://products.aspose.com/total/cs/java/) může každý vývojář Java integrovat výše uvedený kód API k naprogramování konverzní aplikace v různých formátech včetně Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, e-mailové soubory, obrázky. (JPG, PNG, BMP, GIF) a další formáty.  Výkonná Java knihovna pro konverzi dokumentů, podporuje mnoho oblíbených formátů včetně formátu PCL.  Při exportu a vykreslování dokumentů do jiných formátů mohou programátoři používat podřízená API Aspose.Total for Java, včetně [Aspose.Words for Java](https://products.aspose.com/words/cs/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/cs/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/cs/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/cs/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/cs/java/) a dalších.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="PCL Knihovna konverzí pro Javu" %}}
+
+Existují alternativní možnosti integrace Aspose.Total for Java do vašeho systému.  Vyberte si prosím ten, který odpovídá vašim potřebám, a postupujte podle pokynů krok za krokem:<br /><br />
+
+- Použijte Aspose.Total for Java přímo z projektu založeného na Maven a zahrňte příslušné podřízené API do pom.xml.
+- Alternativně lze získat soubor ZIP z [stahování](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Ukládání PCL do DOT Požadavky na aplikaci" %}}
+
+Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (JRE), může spouštět Aspose.Total for Java.  Následující seznam uvádí většinu, ale ne všechny podporované operační systémy.  <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS a další
+- macOS: 10.9 (Mavericks) a novější
+- Mobil: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

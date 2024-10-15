@@ -1,32 +1,58 @@
 ---
-title: Μετατροπή TEX σε PPSX μέσω Java API
-description: Java API για μετατροπή TEX σε PPSX χωρίς χρήση του Microsoft Word
-url_ignore: /el/java/conversion/tex-to-ppsx/
+title: Διαδικτυακή μετατροπή TEX σε PPSX ή ανάπτυξη εφαρμογής που βασίζεται σε Java για μετατροπή αρχείων TEX
+description: Δωρεάν διαδικτυακή εφαρμογή για τη μετατροπή αρχείων TEX σε PPSX. Κώδικας βιβλιοθήκης μετατροπών Java για έγγραφα TEX.  
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
 outformat: PPSX
 otherformats: PPSM POT SWF POWERPOINT XAML PPTM POTX PPS POTM PPSX PPT OTP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή TEX σε PPSX" h2="Εξαγωγή TEX σε PPSX μέσω API Java χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint ή Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-Χρησιμοποιώντας το [Aspose.Total for Java](https://products.aspose.com/total/java/) μπορείτε εύκολα να μετατρέψετε το TEX σε PPSX σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME. Πρώτον, χρησιμοποιώντας το [Aspose.PDF για Java](https://products.aspose.com/pdf/java/), μπορείτε να εξαγάγετε το TEX σε PPTX. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) PowerPoint Processing API, μπορείτε να μετατρέψετε το PPTX σε PPSX.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Διαδικτυακή εφαρμογή μετατροπής TEX σε PPSX και κώδικας Java για μετατροπή αρχείων TEX" h2="Αναπτύξτε ισχυρή εφαρμογή μετατροπής και εξαγωγής TEX που βασίζεται σε Java.  Μετατρέψτε μεμονωμένα ή πολλαπλά αρχεία TEX σε PPSX και άλλες μορφές μέσω του Java automation API.  Μετατρέψτε ελεύθερα αρχεία TEX στο διαδίκτυο μέσω εφαρμογής με άμεση λήψη." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API για μετατροπή TEX σε PPSX" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Δωρεάν διαδικτυακή εφαρμογή μετατροπής TEX σε PPSX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Μετατρέψτε τα αρχεία TEX σε PPSX Online χρησιμοποιώντας την εφαρμογή" %}}
+
+1. Ανεβάστε αρχεία TEX για μετατροπή
+1. Περιμένετε μερικά δευτερόλεπτα ή περισσότερα ανάλογα με το μέγεθος TEX
+1. Παρακολουθήστε τη γραμμή κατάστασης μεταφόρτωσης
+1. Κάντε κλικ στο κουμπί "Μετατροπή".
+1. Το TEX θα μετατραπεί σε έγγραφο PPSX
+1. Κάντε λήψη του αρχείου PPSX που μετατράπηκε
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Μετατρέψτε το TEX σε PPSX μέσω Java Automation API" %}}
+
+
 1. Ανοίξτε το αρχείο TEX χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Μετατρέψτε το TEX σε PPTX χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Φορτώστε το έγγραφο PPTX χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Αποθηκεύστε το έγγραφο σε μορφή PPSX χρησιμοποιώντας τη μέθοδο [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) και ορίστε « Ppsx` ως SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://releases.aspose.com/total/java/) και περιλαμβάνουν τα [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/) και [Aspose.Slides για Java](https://docs.aspose.com/slides/java/installation/) στο pom.xml σας.
 
-Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή TEX σε PPSX" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.ppsx", SaveFormat.Ppsx);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
-Κατά τη φόρτωση της μορφής αρχείου TEX, το έγγραφό σας ενδέχεται να προστατεύεται με κωδικό πρόσβασης. Το [Aspose.PDF για Java](https://products.aspose.com/pdf/java/) σάς επιτρέπει επίσης να ανοίγετε κρυπτογραφημένα έγγραφα. Για να ανοίξετε το κρυπτογραφημένο αρχείο, μπορείτε να αρχικοποιήσετε νέα παρουσία του [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) κλάση και περάστε το όνομα αρχείου και τον κωδικό πρόσβασης ως ορίσματα.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Λίγες ακόμη περιπτώσεις για αποθήκευση του TEX στο PPSX με άλλες λειτουργίες όπως το Απαιτήσεις μετατροπής, Ανοίξτε το κρυπτογραφημένο αρχείο TEX μέσω Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open TEX document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Ανοίξτε το κρυπτογραφημένο αρχείο TEX μέσω Java" %}}
-Μετά τη μετατροπή του TEX σε PPSX, μπορείτε επίσης να προσθέσετε προκαθορισμένο τύπο προβολής για την παρουσίασή σας. Το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) παρέχει τη δυνατότητα να ορίσετε τον τύπο προβολής για την παρουσίαση που δημιουργείται όταν ανοίγει στο PowerPoint μέσω των [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties). Η ιδιότητα [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) χρησιμοποιείται για τον ορισμό του τύπου προβολής χρησιμοποιώντας το [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType) απαριθμητής. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.ppsx", SaveFormat.Ppsx);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Αναπτύξτε την εφαρμογή μετατροπής αρχείων TEX χρησιμοποιώντας Java</h2>
+
+Χρειάζεστε να αναπτύξετε εφαρμογή λογισμικού βασισμένη σε Java για εύκολη αποθήκευση και εξαγωγή αρχείων TEX στο έγγραφο PPSX;  Με το [Aspose.Total for Java](https://products.aspose.com/total/el/java/), οποιοσδήποτε προγραμματιστής Java μπορεί να ενσωματώσει τον παραπάνω κώδικα API για να προγραμματίσει την εφαρμογή μετατροπής σε διάφορες μορφές, όπως το Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, αρχεία email, εικόνες (JPG, PNG, BMP, GIF) και άλλες μορφές.  Ισχυρή βιβλιοθήκη Java για μετατροπή εγγράφων, υποστηρίζει πολλές δημοφιλείς μορφές, συμπεριλαμβανομένης της μορφής TEX.  Εξάγοντας και αποδίδοντας έγγραφα σε άλλες μορφές, οι προγραμματιστές μπορούν να χρησιμοποιήσουν θυγατρικά API Aspose.Total for Java, συμπεριλαμβανομένων των [Aspose.Words for Java](https://products.aspose.com/words/el/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/el/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/el/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/el/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/el/java/) και άλλων.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Βιβλιοθήκη μετατροπών TEX για Java" %}}
+
+Υπάρχουν εναλλακτικές επιλογές για να ενσωματώσετε το Aspose.Total for Java στο σύστημά σας.  Επιλέξτε αυτό που μοιάζει με τις ανάγκες σας και ακολουθήστε τις οδηγίες βήμα προς βήμα:<br /><br />
+
+- Χρησιμοποιήστε το Aspose.Total for Java απευθείας από ένα έργο που βασίζεται στο Maven και συμπεριλάβετε σχετικό θυγατρικό API στο pom.xml.
+- Εναλλακτικά, μπορεί κανείς να πάρει ένα αρχείο ZIP από το [λήψεις](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Αποθήκευση TEX στις Απαιτήσεις εφαρμογής PPSX" %}}
+
+Οποιοδήποτε λειτουργικό σύστημα που μπορεί να εκτελέσει το Java Runtime Environment (JRE) μπορεί να εκτελέσει Aspose.Total for Java.  Οι παρακάτω λίστες ως επί το πλείστον, αλλά όχι όλα, υποστηριζόμενα λειτουργικά συστήματα.  <br /><br />
+- Microsoft Windows
+- Linux: Ubuntu, OpenSUSE, CentOS και άλλα
+- macOS : 10.9 (Mavericks) και νεότερη έκδοση
+- Κινητό: Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

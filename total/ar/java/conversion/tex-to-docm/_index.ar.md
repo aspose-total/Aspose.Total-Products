@@ -1,32 +1,58 @@
 ---
-title: Java API لتصدير TEX إلى DOCM
-description: قم بتحويل TEX إلى DOCM باستخدام Java API في مكان العمل
-url_ignore: /ar/java/conversion/tex-to-docm/
+title: تحويل ملفات TEX إلى DOCM عبر الإنترنت أو تطوير تطبيق قائم على Java لتحويل ملفات TEX
+description: تطبيق مجاني عبر الإنترنت لتحويل ملفات TEX إلى ملفات DOCM. كود مكتبة تحويل Java لمستندات TEX. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: TEX
 outformat: DOCM
 otherformats: WORDML OTT ODT RTF DOT FLATOPC MHTML XAMLFLOW PS PCL DOTX DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل TEX إلى DOCM عبر Java" h2="في Premise Java API لتقديم TEX إلى DOCM دون استخدام أي تطبيق تابع لجهة خارجية" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-يمكنك تحويل TEX إلى DOCM باستخدام خطوتين بسيطتين. تحتاج أولاً إلى تقديم ملف TEX إلى DOC باستخدام [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). بعد ذلك ، باستخدام واجهة برمجة تطبيقات معالجة المستندات القوية [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تحويل DOC إلى DOCM. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for Java](https://products.aspose.com/total/java/).
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="تطبيق تحويل TEX إلى DOCM عبر الإنترنت ورمز Java لتحويل ملفات TEX" h2="تطوير تطبيق قوي لتحويل TEX وتصديره استنادًا إلى Java. تحويل ملفات TEX الفردية أو المتعددة إلى DOCM وغيرها من التنسيقات عبر واجهة برمجة تطبيقات أتمتة Java. قم بتحويل ملفات TEX بحرية عبر الإنترنت من خلال التطبيق مع التنزيل الفوري." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API لتحويل TEX إلى DOCM" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل TEX إلى DOCM" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docm&from=tex" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="تحويل ملفات TEX إلى DOCM عبر الإنترنت باستخدام التطبيق" %}}
+
+1. قم بتحميل ملفات TEX للتحويل
+1. انتظر بضع ثوانٍ أو أكثر حسب حجم TEX
+1. راقب شريط حالة التحميل
+1. انقر على زر "تحويل"
+1. سيتم تحويل TEX إلى مستند DOCM
+1. تنزيل الملف المُحوَّل DOCM
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="تحويل TEX إلى DOCM عبر Java Automation API" %}}
+
+
 1. افتح ملف TEX باستخدام فئة [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. تحويل TEX إلى DOC باستخدام [Save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) طريقة
 3. قم بتحميل ملف DOC باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) من Aspose.Words
 4. احفظ المستند بتنسيق DOCM باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.int)) وقم بتعيين DOCM باسم SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://releases.aspose.com/total/java/) وتشمل [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) و [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="كود جافا لتحويل TEX إلى DOCM" offSpacer="" %}}
+
 
 ```java
 // load TEX file with an instance of Document class
@@ -39,11 +65,18 @@ Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 outputDocument.save("output.docm", SaveFormat.DOCM);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
-أثناء تحويل TEX إلى DOCM ، حتى إذا كان المستند محميًا بكلمة مرور ، فلا يزال بإمكانك فتحه باستخدام واجهة برمجة تطبيقات معالجة PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). لفتح الملف المشفر ، تحتاج إلى إنشاء كائن [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) وفتح TEX باستخدام كلمة مرور المالك.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+هناك حالات قليلة أخرى لحفظ TEX في DOCM باستخدام ميزات أخرى مثل متطلبات التحويل, افتح مستند TEX المحمي بكلمة مرور عبر Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```cs
 // open encrypted document
@@ -52,11 +85,10 @@ Document document = new Document("input.tex", "password");
 document.save("DocOutput.doc", SaveFormat.DOC);
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="افتح مستند TEX المحمي بكلمة مرور عبر Java" %}}
-أثناء حفظ مستند الإدخال بتنسيق ملف DOCM ، يمكنك أيضًا حفظ المستند في قاعدة البيانات بدلاً من نظام الملفات. قد تحتاج إلى تنفيذ تخزين واسترجاع كائنات المستند من قاعدة البيانات وإليها. سيكون هذا ضروريًا إذا كنت تقوم بتنفيذ أي نوع من أنظمة إدارة المحتوى. من أجل حفظ DOCM في قاعدة البيانات ، غالبًا ما يكون من الضروري إجراء تسلسل للوثيقة للحصول على مصفوفة بايت. يمكن القيام بذلك باستخدام واجهة برمجة تطبيقات [Aspose.Words for Java](https://products.aspose.com/words/Java/). بعد الحصول على مصفوفة البايت الخاصة بك ، يمكنك تخزينها في قاعدة البيانات باستخدام جملة SQL. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
@@ -77,10 +109,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 }  
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>تطوير تطبيق تحويل الملفات TEX باستخدام Java</h2>
+
+هل تحتاج إلى تطوير تطبيق برمجي قائم على Java لحفظ وتصدير ملفات TEX إلى مستند DOCM بسهولة؟ باستخدام [Aspose.Total for Java](https://products.aspose.com/total/ar/java/)، يمكن لأي مطور Java دمج كود API أعلاه لبرمجة تطبيق التحويل عبر مجموعة متنوعة من التنسيقات بما في ذلك Microsoft Word (DOC، DOCX)، وExcel (XLS، XLSX)، وPowerpoint (PPT، PPTX)، وPDF، وملفات البريد الإلكتروني، والصور (JPG، PNG، BMP، GIF) وغيرها من التنسيقات. مكتبة Java قوية لتحويل المستندات، تدعم العديد من التنسيقات الشائعة بما في ذلك تنسيق TEX. عند تصدير المستندات وتقديمها إلى تنسيقات أخرى، يمكن للمبرمجين استخدام واجهات برمجة التطبيقات الفرعية Aspose.Total for Java بما في ذلك [Aspose.Words for Java](https://products.aspose.com/words/ar/java/) و[Aspose.Cells for Java](https://products.aspose.com/cells/ar/java/) و[Aspose.Slides for Java](https://products.aspose.com/slides/ar/java/) و[Aspose.PDF for Java](https://products.aspose.com/pdf/ar/java/) و[Aspose.Imaging for Java](https://products.aspose.com/imaging/ar/java/) والمزيد.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="مكتبة التحويل TEX لـ Java" %}}
+
+تتوفر خيارات بديلة لدمج Aspose.Total for Java على نظامك. الرجاء اختيار ما يشبه احتياجاتك واتبع التعليمات خطوة بخطوة:<br /><br />
+
+- استخدم Aspose.Total for Java مباشرةً من مشروع قائم على Maven وقم بتضمين واجهة برمجة التطبيقات الفرعية ذات الصلة في pom.xml.
+- وبدلاً من ذلك، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="حفظ TEX في DOCM متطلبات التطبيق" %}}
+
+يمكن لأي نظام تشغيل قادر على تشغيل بيئة تشغيل Java (JRE) تشغيل Aspose.Total for Java. تتضمن القوائم التالية معظم أنظمة التشغيل المدعومة، ولكن ليس كلها. <br /><br />
+- مايكروسوفت ويندوز
+- Linux: Ubuntu، OpenSUSE، CentOS وغيرها
+- macOS: 10.9 (Mavericks) والإصدارات الأحدث
+- الجوال : أندرويد، iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,32 +1,58 @@
 ---
-title: Convertir PCL en POTX via l'API Java
-description: API Java pour convertir PCL en POTX sans utiliser Microsoft Word
-url_ignore: /fr/java/conversion/pcl-to-potx/
+title: Conversion en ligne de PCL en POTX ou développement d'une application basée sur Java pour convertir des fichiers PCL
+description: Application en ligne gratuite pour convertir des fichiers PCL en POTX. Code de bibliothèque de conversion Java pour les documents PCL. 
+
 family: total
-platformtag: net
+platformtag: Java
 feature: conversion
 informat: PCL
 outformat: POTX
 otherformats: PPS SWF PPSM PPTM PPSX OTP PPT POTM XAML POT POWERPOINT POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter PCL vers POTX" h2="Exportez PCL vers POTX via l'API Java sur site sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Adobe<sup>&reg;</sup> Acrobat Reader" >}}
-{{% blocks/products/pf/feature-page-summary %}}
-En utilisant [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez facilement convertir PCL en POTX dans n'importe quelle application Java J2SE, J2EE, J2ME. Tout d'abord, en utilisant [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), vous pouvez exporter PCL vers PPTX. Après cela, en utilisant l'API de traitement PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez convertir PPTX en POTX.
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{< blocks/products/pf/feature-page-header h1="Application de conversion en ligne PCL en POTX et code Java pour convertir les fichiers PCL" h2="Développer une puissante application de conversion et d'exportation PCL basée sur Java. Convertissez un ou plusieurs fichiers PCL en POTX et d'autres formats via l'API d'automatisation Java. Convertissez librement les fichiers PCL en ligne via l'application avec téléchargement instantané." >}}
+
+
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir PCL en POTX" %}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Application de conversion en ligne gratuite PCL vers POTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=pcl" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Convertissez des fichiers PCL en POTX en ligne à l'aide de l'application" %}}
+
+1. Téléchargez les fichiers PCL à convertir
+1. Attendez quelques secondes ou plus selon la taille de PCL
+1. Gardez un œil sur la barre d'état de téléchargement
+1. Cliquez sur le bouton « Convertir »
+1. PCL sera converti en document POTX
+1. Téléchargez le fichier POTX converti
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Convertir PCL en POTX via l'API d'automatisation Java" %}}
+
+
 1. Ouvrez le fichier PCL à l'aide de la classe [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Convertissez PCL en PPTX en utilisant la méthode [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. Chargez le document PPTX en utilisant la classe [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 4. Enregistrez le document au format POTX à l'aide de la méthode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) et définissez ` Potx` comme format de sauvegarde
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://releases.aspose.com/total/java/) et inclure [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) et [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) dans votre pom.xml.
 
-Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
+
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/agp/code-block title="Code Java pour la conversion de PCL en POTX" offSpacer="" %}}
+
 
 ```java
 // load PCL file with an instance of Document class
@@ -39,11 +65,18 @@ Presentation presentation = new Presentation("PptxOutput.pptx");
 presentation.save("output.potx", SaveFormat.Potx);   
 ```
 
-{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/agp/code-block %}}
+
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
-Lors du chargement du format de fichier PCL, votre document peut être protégé par un mot de passe. [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) vous permet également d'ouvrir des documents cryptés. Afin d'ouvrir le fichier crypté, vous pouvez initialiser une nouvelle instance du [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#Document-java.lang.String-java.lang.String-) classe et transmettez le nom de fichier et le mot de passe comme arguments.  
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Quelques cas supplémentaires pour enregistrer PCL dans POTX avec d'autres fonctionnalités comme Exigences de conversion, Ouvrir le fichier PCL crypté via Java.
+
 {{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // open PCL document
@@ -53,11 +86,10 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-section  h2="Ouvrir le fichier PCL crypté via Java" %}}
-Après avoir converti PCL en POTX, vous pouvez également ajouter un type de vue prédéfini pour votre présentation. [Aspose.Slides for Java](https://products.aspose.com/slides/java/) fournit une fonction permettant de définir le type d'affichage de la présentation générée lorsqu'elle est ouverte dans PowerPoint via [ViewProperties](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties). La propriété [setLastView](https://reference.aspose.com/slides/java/com.aspose.slides/ViewProperties#setLastView-int-) est utilisée pour définir le type de vue à l'aide de [ViewType](https://reference.aspose.com/slides/java/com.aspose.slides/ViewType) énumérateur. 
-{{% blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{% blocks/products/pf/feature-page-code %}}
+
 
 ```java
 // instantiate a Presentation object that represents a PPTX file
@@ -68,10 +100,45 @@ presentation.getViewProperties().setLastView((byte) ViewType.SlideMasterView);
 presentation.save("output.potx", SaveFormat.Potx);    
 ```
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Développer une application de conversion de fichiers PCL à l'aide de Java</h2>
+
+Besoin de développer une application logicielle basée sur Java pour enregistrer et exporter facilement des fichiers PCL vers un document POTX ? Avec [Aspose.Total for Java](https://products.aspose.com/total/fr/java/), tout développeur Java peut intégrer le code API ci-dessus pour programmer l'application de conversion dans divers formats, notamment Microsoft Word (DOC, DOCX), Excel (XLS, XLSX), Powerpoint (PPT, PPTX), PDF, fichiers de courrier électronique, images (JPG, PNG, BMP, GIF) et d'autres formats. Bibliothèque Java puissante pour la conversion de documents, prend en charge de nombreux formats populaires, y compris le format PCL. Pour exporter et restituer des documents vers d'autres formats, les programmeurs peuvent utiliser les API enfants Aspose.Total for Java, notamment [Aspose.Words for Java](https://products.aspose.com/words/fr/java/), [Aspose.Cells for Java](https://products.aspose.com/cells/fr/java/), [Aspose.Slides for Java](https://products.aspose.com/slides/fr/java/), [Aspose.PDF for Java](https://products.aspose.com/pdf/fr/java/), [Aspose.Imaging for Java](https://products.aspose.com/imaging/fr/java/) et plus.<br /><br />
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Bibliothèque de conversion PCL pour Java" %}}
+
+Il existe des options alternatives pour intégrer Aspose.Total for Java sur votre système. Veuillez choisir celui qui correspond à vos besoins et suivez les instructions étape par étape :<br /><br />
+
+- Utilisez Aspose.Total for Java directement à partir d'un projet basé sur Maven et incluez l'API enfant pertinente dans pom.xml.
+- Alternativement, on peut obtenir un fichier ZIP à partir de [Téléchargements](https://releases.aspose.com/total/java).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Enregistrement de PCL dans les exigences de l'application POTX" %}}
+
+Tout système d’exploitation capable d’exécuter Java Runtime Environment (JRE) peut exécuter Aspose.Total for Java. La liste suivante répertorie principalement, mais pas tous, les systèmes d'exploitation pris en charge. <br /><br />
+- Microsoft Windows
+- Linux : Ubuntu, OpenSUSE, CentOS et autres
+- macOS : 10.9 (Mavericks) et versions ultérieures
+- Mobile : Android, iOS
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< /blocks/products/pf/feature-page-wrap >}}
