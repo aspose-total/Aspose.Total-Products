@@ -31,7 +31,7 @@ Overall, converting an XPS file to a TGA image in Java is a straightforward proc
 4. Save the document to TGA format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java Conversion Automation APIs" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
