@@ -31,7 +31,7 @@ By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can quick
 4. Save the document to JPEG2000 format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Java Conversion Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

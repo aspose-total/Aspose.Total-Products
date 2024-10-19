@@ -32,7 +32,7 @@ By using Aspose.Total for Java, developers can easily convert JSON to DOC format
 4. Save the document to DOC format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Java Conversion Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
