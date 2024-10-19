@@ -27,57 +27,20 @@ otherformats: WORDML XAMLFLOW DOT OTT ODT RTF DOTM MHTML PCL PS FLATOPC DOTX
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-// load CGM file with an instance of Document class
-Document document = new Document("template.cgm");
-// save CGM as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.DOTX
-outputDocument.save("output.dotx", SaveFormat.DOTX);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "cgm-to-docm.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Κατά τη μετατροπή του CGM σε DOTX, ακόμα κι αν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, μπορείτε να το ανοίξετε χρησιμοποιώντας το API χειρισμού PDF [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/). Για να ανοίξετε το κρυπτογραφημένο αρχείο, πρέπει να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) και να ανοίξετε το CGM χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-// open encrypted document
-Document document = new Document("input.cgm", "password");
-// save CGM as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "open-password-protected-cgm.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ανοίξτε το έγγραφο CGM που προστατεύεται με κωδικό πρόσβασης μέσω Java" %}}
 Κατά την αποθήκευση του εγγράφου εισόδου σας σε μορφή αρχείου DOTX, μπορείτε επίσης να αποθηκεύσετε το έγγραφό σας σε βάση δεδομένων αντί για σύστημα αρχείων. Ίσως χρειαστεί να εφαρμόσετε την αποθήκευση και την ανάκτηση αντικειμένων εγγράφου προς και από μια βάση δεδομένων. Αυτό θα ήταν απαραίτητο εάν εφαρμόζατε οποιοδήποτε τύπο συστήματος διαχείρισης περιεχομένου. Για να αποθηκεύσετε το DOTX σας στη βάση δεδομένων, είναι συχνά απαραίτητο να σειριοποιήσετε το έγγραφο για να αποκτήσετε έναν πίνακα byte. Αυτό μπορεί να γίνει χρησιμοποιώντας το [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. Αφού λάβετε τον πίνακα byte, μπορείτε να τον αποθηκεύσετε στη βάση δεδομένων χρησιμοποιώντας την εντολή SQL. 
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
-    // create an output stream which uses byte array to save data
-    ByteArrayOutputStream aout = new ByteArrayOutputStream();
-    // save the document to byte array
-    doc.save(aout, SaveFormat.DOTX);
-    // get the byte array from output steam
-    // the byte array now contains the document
-    byte[] buffer = aout.toByteArray();
-    // get the filename from the document.
-    String fileName = doc.getOriginalFileName();
-    String filePath = fileName.replace("\\", "\\\\");
-    // create the SQL command.
-    String commandString = "INSERT INTO Documents (FileName, FileContent) VALUES('" + filePath + "', '" + buffer + "')";
-    Statement statement = mConnection.createStatement();
-    statement.executeUpdate(commandString);
-}  
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}

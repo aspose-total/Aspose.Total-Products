@@ -27,57 +27,20 @@ Aspose.Total pro Javu můžete snadno používat přímo z projektu založeného
 Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-// load CGM file with an instance of Document class
-Document document = new Document("template.cgm");
-// save CGM as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WORD_ML
-outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "convert-cgm-to-wordml.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}
 Při převodu CGM na WORDML, i když je váš dokument chráněn heslem, jej stále můžete otevřít pomocí rozhraní API pro manipulaci s PDF [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). Chcete-li otevřít zašifrovaný soubor, musíte vytvořit objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřít CGM pomocí hesla vlastníka.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-// open encrypted document
-Document document = new Document("input.cgm", "password");
-// save CGM as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "open-password-protected-cgm.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Otevřete dokument CGM chráněný heslem přes Java" %}}
 Při ukládání vstupního dokumentu do formátu souboru WORDML můžete také dokument uložit do databáze namísto systému souborů. Možná budete muset implementovat ukládání a načítání objektů Document do az databáze. To by bylo nutné, pokud byste implementovali jakýkoli typ systému pro správu obsahu. Aby bylo možné uložit váš WORDML do databáze, je často nutné dokument serializovat a získat tak bajtové pole. To lze provést pomocí rozhraní API [Aspose.Words for Java](https://products.aspose.com/words/Java/). Po získání bajtového pole jej můžete uložit do databáze pomocí příkazu SQL. 
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-public static void StoreToDatabase(Document doc, Connection mConnection) throws Exception {
-    // create an output stream which uses byte array to save data
-    ByteArrayOutputStream aout = new ByteArrayOutputStream();
-    // save the document to byte array
-    doc.save(aout, SaveFormat.WORD_ML);
-    // get the byte array from output steam
-    // the byte array now contains the document
-    byte[] buffer = aout.toByteArray();
-    // get the filename from the document.
-    String fileName = doc.getOriginalFileName();
-    String filePath = fileName.replace("\\", "\\\\");
-    // create the SQL command.
-    String commandString = "INSERT INTO Documents (FileName, FileContent) VALUES('" + filePath + "', '" + buffer + "')";
-    Statement statement = mConnection.createStatement();
-    statement.executeUpdate(commandString);
-}  
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
