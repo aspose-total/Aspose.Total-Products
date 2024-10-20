@@ -25,7 +25,7 @@ Rendering CSV to DOCX is a two step process. You’ll first use [Aspose.Cells fo
 4. Save the document to DOCX format using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Cells](https://docs.aspose.com/cells/java/installation/) and [Aspose.Pdf](https://docs.aspose.com/pdf/java/installation/#installing-asposepdf-for-java-from-aspose-repository) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

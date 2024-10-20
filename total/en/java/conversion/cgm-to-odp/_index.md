@@ -31,7 +31,7 @@ Once the CGM has been converted to ODP, developers can use the various features 
 4. Save the document to ODP format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Odp` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) and [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

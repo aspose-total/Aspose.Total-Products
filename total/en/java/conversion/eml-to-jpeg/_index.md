@@ -23,7 +23,7 @@ Email conversion is a powerful feature that Java developers can integrate within
 4. Save the document to JPEG format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method and set JPEG as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Email for Java](https://docs.aspose.com/email/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
