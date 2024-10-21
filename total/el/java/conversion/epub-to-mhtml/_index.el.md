@@ -27,32 +27,14 @@ otherformats: PS WORDML MARKDOWN PCL ODT RTF FLATOPC OTT XAMLFLOW DOTX MHTML DOT
 Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-// load EPUB file with an instance of Document class
-Document document = new Document("template.epub");
-// save EPUB as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.MHTML
-outputDocument.save("output.mhtml", SaveFormat.MHTML);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "653b558bf7959a8c45b266a48527b17d" "convert-epub-to-mhtml.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Κατά τη μετατροπή του EPUB σε MHTML, ακόμα κι αν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, μπορείτε να το ανοίξετε χρησιμοποιώντας το API χειρισμού PDF [Aspose.PDF για Java](https://docs.aspose.com/pdf/java/installation/). Για να ανοίξετε το κρυπτογραφημένο αρχείο, πρέπει να δημιουργήσετε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) και να ανοίξετε το EPUB χρησιμοποιώντας τον κωδικό πρόσβασης κατόχου.  
 {{% blocks/products/pf/feature-page-code %}}
-
-```cs
-// open encrypted document
-Document document = new Document("input.epub", "password");
-// save EPUB as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC);
-```
-
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< gist "aspose-com-gists" "653b558bf7959a8c45b266a48527b17d" "convert-password-proteted-epub-file.java" >}}
+{{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="Ανοίξτε το έγγραφο EPUB που προστατεύεται με κωδικό πρόσβασης μέσω Java" %}}
 Κατά την αποθήκευση του εγγράφου εισόδου σας σε μορφή αρχείου MHTML, μπορείτε επίσης να αποθηκεύσετε το έγγραφό σας σε βάση δεδομένων αντί για σύστημα αρχείων. Ίσως χρειαστεί να εφαρμόσετε την αποθήκευση και την ανάκτηση αντικειμένων εγγράφου προς και από μια βάση δεδομένων. Αυτό θα ήταν απαραίτητο εάν εφαρμόζατε οποιοδήποτε τύπο συστήματος διαχείρισης περιεχομένου. Για να αποθηκεύσετε το MHTML σας στη βάση δεδομένων, είναι συχνά απαραίτητο να σειριοποιήσετε το έγγραφο για να αποκτήσετε έναν πίνακα byte. Αυτό μπορεί να γίνει χρησιμοποιώντας το [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. Αφού λάβετε τον πίνακα byte, μπορείτε να τον αποθηκεύσετε στη βάση δεδομένων χρησιμοποιώντας την εντολή SQL. 

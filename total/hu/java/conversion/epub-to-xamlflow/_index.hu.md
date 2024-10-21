@@ -27,19 +27,8 @@ Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://re
 Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-
-```java
-// load EPUB file with an instance of Document class
-Document document = new Document("template.epub");
-// save EPUB as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.XAML_FLOW
-outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);   
-```
-
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "653b558bf7959a8c45b266a48527b17d" "convert-epub-to-xaml.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 A EPUB XAMLFLOW-re konvertálása közben még akkor is megnyithatja a PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) segítségével, ha dokumentuma jelszóval védett. A titkosított fájl megnyitásához létre kell hoznia egy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, és meg kell nyitnia a EPUB-et a tulajdonos jelszavával.  
