@@ -52,20 +52,8 @@ otherformats: PPTM ODP PPSX PPSM POTX POWERPOINT XAML SWF OTP PPS PPT POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java Code for MHTML to POT Conversion" offSpacer="" %}}
-
-```java
-// load MHTML file with an instance of Document class
-Document document = new Document("template.mhtml");
-// save MHTML as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Pot format
-presentation.save("output.pot", SaveFormat.Pot);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "89f68c1b3e3c772c46b1f2adbaf240e5" "convert-mhtml-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

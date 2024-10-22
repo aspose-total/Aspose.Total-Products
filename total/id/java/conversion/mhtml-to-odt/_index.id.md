@@ -52,22 +52,8 @@ otherformats: XAMLFLOW OTT ODT FLATOPC DOTX PCL MARKDOWN RTF PS DOT WORDML DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Kode Java untuk Konversi MHTML ke ODT" offSpacer="" %}}
-
-
-```java
-// load MHTML file with an instance of Document class
-Document document = new Document("template.mhtml");
-// save MHTML as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.ODT
-outputDocument.save("output.odt", SaveFormat.ODT);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "89f68c1b3e3c772c46b1f2adbaf240e5" "convert-mhtml-to-docm.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
