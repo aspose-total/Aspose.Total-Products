@@ -52,20 +52,8 @@ otherformats: RTF PS OTT DOTX MARKDOWN XAMLFLOW DOT DOCM MHTML FLATOPC ODT DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java Code for SVG to PCL Conversion" offSpacer="" %}}
-
-```java
-// load SVG file with an instance of Document class
-Document document = new Document("template.svg");
-// save SVG as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.PCL
-outputDocument.save("output.pcl", SaveFormat.PCL);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-docm.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

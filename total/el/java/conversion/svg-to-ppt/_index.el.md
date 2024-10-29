@@ -52,22 +52,8 @@ otherformats: PPSM POTM PPSX POT XAML SWF PPTM POWERPOINT PPS POTX OTP PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή SVG σε PPT" offSpacer="" %}}
-
-
-```java
-// load SVG file with an instance of Document class
-Document document = new Document("template.svg");
-// save SVG as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Ppt format
-presentation.save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

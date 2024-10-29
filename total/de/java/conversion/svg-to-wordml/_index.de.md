@@ -52,22 +52,8 @@ otherformats: XAMLFLOW DOTX ODT MARKDOWN MHTML WORDML RTF FLATOPC PCL OTT PS DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java-Code für die Konvertierung von SVG in WORDML" offSpacer="" %}}
-
-
-```java
-// load SVG file with an instance of Document class
-Document document = new Document("template.svg");
-// save SVG as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WORD_ML
-outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-wordml.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

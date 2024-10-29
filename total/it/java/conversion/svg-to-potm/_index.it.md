@@ -52,22 +52,8 @@ otherformats: PPS OTP POTX PPTM POT XAML PPSM POTM POWERPOINT PPSX SWF PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da SVG a POTM" offSpacer="" %}}
-
-
-```java
-// load SVG file with an instance of Document class
-Document document = new Document("template.svg");
-// save SVG as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Potm format
-presentation.save("output.potm", SaveFormat.Potm);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

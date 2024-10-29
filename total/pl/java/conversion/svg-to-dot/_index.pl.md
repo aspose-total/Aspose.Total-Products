@@ -52,22 +52,8 @@ otherformats: PS WORDML RTF FLATOPC XAMLFLOW ODT MARKDOWN OTT PCL DOTM DOT MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Kod Java dla konwersji SVG do DOT" offSpacer="" %}}
-
-
-```java
-// load SVG file with an instance of Document class
-Document document = new Document("template.svg");
-// save SVG as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.DOT
-outputDocument.save("output.dot", SaveFormat.DOT);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-docm.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
