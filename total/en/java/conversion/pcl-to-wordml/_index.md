@@ -52,20 +52,8 @@ otherformats: RTF ODT XAMLFLOW PS MHTML DOTM OTT DOTX DOCM FLATOPC DOT MARKDOWN
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java Code for PCL to WORDML Conversion" offSpacer="" %}}
-
-```java
-// load PCL file with an instance of Document class
-Document document = new Document("template.pcl");
-// save PCL as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WORD_ML
-outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-wordml.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

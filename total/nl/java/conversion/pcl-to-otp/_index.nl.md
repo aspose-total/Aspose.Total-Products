@@ -52,22 +52,8 @@ otherformats: POTM SWF PPS POT POTX XAML PPSM PPTM POWERPOINT OTP PPSX PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java-code voor PCL naar OTP-conversie" offSpacer="" %}}
-
-
-```java
-// load PCL file with an instance of Document class
-Document document = new Document("template.pcl");
-// save PCL as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Otp format
-presentation.save("output.otp", SaveFormat.Otp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

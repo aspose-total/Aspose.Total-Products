@@ -52,22 +52,8 @@ otherformats: MHTML WORDML DOTM OTT MARKDOWN FLATOPC RTF DOTX XAMLFLOW PS ODT DO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="PCL'den OTT'ye Dönüşüm için Java Kodu" offSpacer="" %}}
-
-
-```java
-// load PCL file with an instance of Document class
-Document document = new Document("template.pcl");
-// save PCL as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.OTT
-outputDocument.save("output.ott", SaveFormat.OTT);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-ott.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

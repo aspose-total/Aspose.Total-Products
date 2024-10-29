@@ -52,22 +52,8 @@ otherformats: MHTML OTT DOTM DOT WORDML ODT DOTX XAMLFLOW FLATOPC GIF PS MARKDOW
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="PCL 到 GIF 转换的 Java 代码" offSpacer="" %}}
-
-
-```java
-// load PCL file with an instance of Document class
-Document document = new Document("template.pcl");
-// save PCL as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.GIF
-outputDocument.save("output.gif", SaveFormat.GIF);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-images.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -52,22 +52,8 @@ otherformats: POTM POWERPOINT OTP PPT POT SWF PPSX PPTM POTX PPS XAML PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da PCL a ODP" offSpacer="" %}}
-
-
-```java
-// load PCL file with an instance of Document class
-Document document = new Document("template.pcl");
-// save PCL as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Odp format
-presentation.save("output.odp", SaveFormat.Odp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
