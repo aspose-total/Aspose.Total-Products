@@ -52,22 +52,8 @@ otherformats: XAML PPTM POT POTM OTP POTX SWF PPSM PPS PPT PPSX POWERPOINT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Codice Java per la conversione da PDF a PPS" offSpacer="" %}}
-
-
-```java
-// load PDF file with an instance of Document class
-Document document = new Document("template.pdf");
-// save PDF as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Pps format
-presentation.save("output.pps", SaveFormat.Pps);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

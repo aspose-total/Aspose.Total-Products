@@ -52,22 +52,8 @@ otherformats: POWERPOINT PPSM OTP POTM SWF POTX XAML PPT PPSX PPTM PPS POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Kode Java untuk Konversi PDF ke OTP" offSpacer="" %}}
-
-
-```java
-// load PDF file with an instance of Document class
-Document document = new Document("template.pdf");
-// save PDF as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Otp format
-presentation.save("output.otp", SaveFormat.Otp);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

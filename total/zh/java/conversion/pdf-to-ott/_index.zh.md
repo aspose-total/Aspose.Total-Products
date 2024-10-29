@@ -52,22 +52,8 @@ otherformats: RTF WORDML ODT OTT FLATOPC DOTM XAMLFLOW DOTX MARKDOWN DOT MHTML P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="PDF 到 OTT 转换的 Java 代码" offSpacer="" %}}
-
-
-```java
-// load PDF file with an instance of Document class
-Document document = new Document("template.pdf");
-// save PDF as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.OTT
-outputDocument.save("output.ott", SaveFormat.OTT);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-ott.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

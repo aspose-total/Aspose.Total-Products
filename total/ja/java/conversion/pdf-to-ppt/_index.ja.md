@@ -52,22 +52,8 @@ otherformats: PPSX PPSM POT PPT SWF PPTM POWERPOINT PPS POTM XAML POTX OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="PDF から PPT への変換のための Java コード" offSpacer="" %}}
-
-
-```java
-// load PDF file with an instance of Document class
-Document document = new Document("template.pdf");
-// save PDF as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Ppt format
-presentation.save("output.ppt", SaveFormat.Ppt);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

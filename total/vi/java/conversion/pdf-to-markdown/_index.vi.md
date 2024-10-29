@@ -52,22 +52,8 @@ otherformats: PS DOTX RTF OTT DOT DOTM PCL XAMLFLOW WORDML FLATOPC ODT MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi PDF sang MARKDOWN" offSpacer="" %}}
-
-
-```java
-// load PDF file with an instance of Document class
-Document document = new Document("template.pdf");
-// save PDF as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.MARKDOWN
-outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-docm.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
