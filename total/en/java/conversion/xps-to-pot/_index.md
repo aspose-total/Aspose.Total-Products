@@ -52,20 +52,8 @@ otherformats: POTM ODP PPS PPTM POTX OTP PPT XAML SWF PPSX POWERPOINT PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java Code for XPS to POT Conversion" offSpacer="" %}}
-
-```java
-// load XPS file with an instance of Document class
-Document document = new Document("template.xps");
-// save XPS as PPTX format 
-document.save("PptxOutput.pptx", SaveFormat.Pptx); 
-// instantiate a Presentation object that represents a PPTX file
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// save the presentation as Pot format
-presentation.save("output.pot", SaveFormat.Pot);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "ff4a1b9329c9c3428525cb1c7b528cc0" "convert-xps-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

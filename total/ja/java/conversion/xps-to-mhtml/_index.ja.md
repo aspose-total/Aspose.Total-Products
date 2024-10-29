@@ -52,22 +52,8 @@ otherformats: XAMLFLOW OTT MHTML DOT MARKDOWN PCL PS RTF ODT FLATOPC DOTX DOTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XPS から MHTML への変換のための Java コード" offSpacer="" %}}
-
-
-```java
-// load XPS file with an instance of Document class
-Document document = new Document("template.xps");
-// save XPS as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.MHTML
-outputDocument.save("output.mhtml", SaveFormat.MHTML);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "ff4a1b9329c9c3428525cb1c7b528cc0" "convert-xps-to-mhtml.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

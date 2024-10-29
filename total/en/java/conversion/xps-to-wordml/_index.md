@@ -52,20 +52,8 @@ otherformats: MHTML PS DOTM PCL MARKDOWN FLATOPC XAMLFLOW DOCM DOTX RTF OTT ODT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Java Code for XPS to WORDML Conversion" offSpacer="" %}}
-
-```java
-// load XPS file with an instance of Document class
-Document document = new Document("template.xps");
-// save XPS as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.WORD_ML
-outputDocument.save("output.word_ml", SaveFormat.WORD_ML);   
-```
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "ff4a1b9329c9c3428525cb1c7b528cc0" "convert-xps-to-wordml.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

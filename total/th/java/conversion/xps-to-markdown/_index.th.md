@@ -52,22 +52,8 @@ otherformats: WORDML RTF MARKDOWN ODT PCL PS MHTML OTT DOTM FLATOPC DOTX DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="รหัส Java สำหรับการแปลง XPS เป็น MARKDOWN" offSpacer="" %}}
-
-
-```java
-// load XPS file with an instance of Document class
-Document document = new Document("template.xps");
-// save XPS as a DOC 
-document.save("DocOutput.doc", SaveFormat.DOC); 
-// load DOC with an instance of Document
-Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
-// call save method while passing SaveFormat.MARKDOWN
-outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
-```
-
-
-
-{{% /blocks/products/pf/agp/code-block %}}
+{{< gist "aspose-com-gists" "ff4a1b9329c9c3428525cb1c7b528cc0" "convert-xps-to-docm.java" >}}
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
