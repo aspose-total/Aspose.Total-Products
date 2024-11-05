@@ -30,16 +30,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for EMLX to DOT Rendering" gistPath="" %}}
-```cs// load the EMLX file to be converted
-MailMessage message = MailMessage.load("sourceFile.emlx"); 
-// save EMLX as a HTML 
-message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.DOT
-document.save("output.dot", SaveFormat.DOT);   
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

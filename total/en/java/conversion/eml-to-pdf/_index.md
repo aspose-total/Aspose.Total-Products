@@ -30,17 +30,8 @@ You can easily use Aspose.Total for Java directly from a [Maven](https://release
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for EML to PDF Rendering" gistPath="" %}}
-```cs
-// load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a HTML 
-message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.PDF
-document.save("output.pdf", SaveFormat.PDF);   
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}

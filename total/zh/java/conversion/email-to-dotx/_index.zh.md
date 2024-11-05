@@ -27,17 +27,8 @@ otherformats: DOCM SVG MD TEXT PDF PNG DOTX OTT DOT ODT FLATOPC WORDML GIF EPUB 
 或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the EMAIL file to be converted
-MailMessage message = MailMessage.load("sourceFile.msg"); 
-// save EMAIL as a HTML 
-message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.DOTX
-document.save("output.dotx", SaveFormat.DOTX);   
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}

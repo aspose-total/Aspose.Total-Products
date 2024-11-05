@@ -27,17 +27,8 @@ otherformats: SVG PDF DOCX JPEG XPS WORDML FLATOPC OTT MD PCL DOC DOT TIFF EPUB 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the MSG file to be converted
-MailMessage message = MailMessage.load("sourceFile.msg"); 
-// save MSG as a HTML 
-message.save("HtmlOutput.html", SaveOptions.getDefaultHtml());
-// load HTML with an instance of Document
-Document document = new Document("HtmlOutput.html");
-// call save method while passing SaveFormat.DOCX
-document.save("output.docx", SaveFormat.DOCX);   
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
