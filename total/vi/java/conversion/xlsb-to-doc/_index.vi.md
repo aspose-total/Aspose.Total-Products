@@ -27,17 +27,8 @@ Bạn phải sử dụng Aspose.Total for Java trực tiếp từ dự án dựa
 Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the XLSB file using Workbook class
-Workbook book = new Workbook("input.xlsb");
-// save XLSB as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in DOC format
-document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -27,17 +27,8 @@ Anda harus menggunakan Aspose.Total untuk Java langsung dari proyek berbasis [Ma
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the XLTX file using Workbook class
-Workbook book = new Workbook("input.xltx");
-// save XLTX as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document Document = new Document("pdfOutput.pdf");
-// save Document in DOCX format
-Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

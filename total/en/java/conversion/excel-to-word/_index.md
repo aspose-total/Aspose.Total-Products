@@ -40,16 +40,8 @@ You can easily use Aspose.Total for Java directly from a [Maven](https://release
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for Excel to Word Conversion" gistPath="" %}}
-```cs// load the Excel file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save Excel as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in DOC format
-document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);  
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -32,16 +32,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for XLT to PPTX Conversion" gistPath="" %}}
-```cs// load the XLT file using Workbook class
-Workbook book = new Workbook("input.xlt");
-// save XLT as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in PPTX format
-document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-powerpoint.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -32,16 +32,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for FODS to WORD Conversion" gistPath="" %}}
-```cs// load the FODS file using Workbook class
-Workbook book = new Workbook("input.fods");
-// save FODS as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in DOC format
-document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);  
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

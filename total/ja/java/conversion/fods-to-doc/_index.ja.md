@@ -27,17 +27,8 @@ FODSをDOCにレンダリングするのは2段階のプロセスです。最初
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the FODS file using Workbook class
-Workbook book = new Workbook("input.fods");
-// save FODS as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in DOC format
-document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
