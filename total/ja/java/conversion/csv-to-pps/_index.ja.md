@@ -27,17 +27,8 @@ CSVをPPSにレンダリングするのは2段階のプロセスです。最初�
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the CSV file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save CSV as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in PPS format
-document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-powerpoint.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

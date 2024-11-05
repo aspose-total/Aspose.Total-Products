@@ -27,17 +27,8 @@ otherformats: WORDX WORD PPTX POWERPOINT
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the CSV file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save CSV as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in WORD format
-document.save("output.word", com.aspose.pdf.SaveFormat.Word);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

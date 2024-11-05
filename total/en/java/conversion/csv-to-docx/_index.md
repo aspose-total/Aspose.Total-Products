@@ -32,16 +32,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for CSV to DOCX Conversion" gistPath="" %}}
-```cs// load the CSV file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save CSV as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in DOCX format
-document.save("output.docx", com.aspose.pdf.SaveFormat.DocX);  
-```
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-word.java" >}}
+{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -27,17 +27,8 @@ CSV를 OTT로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Aspo
 또는 [다운로드](https://releases.aspose.com/total/java)에서 ZIP 파일을 받을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the CSV file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save CSV as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document Document = new Document("pdfOutput.pdf");
-// save Document in OTT format
-Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

@@ -27,17 +27,8 @@ Você precisa usar o Aspose.Total para Java diretamente de um projeto baseado em
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
-```cs
-// load the CSV file using Workbook class
-Workbook book = new Workbook("input.csv");
-// save CSV as PDF
-book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
-// load the PDF file using Document class
-Document Document = new Document("pdfOutput.pdf");
-// save Document in RTF format
-Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
-```
-{{% /blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-word.java" >}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
