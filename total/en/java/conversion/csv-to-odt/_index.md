@@ -31,9 +31,9 @@ You can easily use Aspose.Total for Java directly from a [Maven](https://release
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code for CSV to ODT Conversion" gistPath="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "be3e563f592c650dddf1280d0723c914" "convert-csv-to-word.java" >}}
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">

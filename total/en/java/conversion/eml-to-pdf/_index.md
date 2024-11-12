@@ -29,9 +29,9 @@ By using these two APIs, you can easily convert Email EML to PDF within any Java
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Email for Java](https://docs.aspose.com/email/java/installation/) in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code for EML to PDF Rendering" gistPath="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}

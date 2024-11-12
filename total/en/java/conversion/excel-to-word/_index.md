@@ -39,9 +39,9 @@ Rendering Excel to Word is a two step process. You’ll first use [Aspose.Cells 
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Cells](https://docs.aspose.com/cells/java/installation/) and [Aspose.Pdf](https://docs.aspose.com/pdf/java/installation/#installing-asposepdf-for-java-from-aspose-repository) in your pom.xml. Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code for Excel to Word Conversion" gistPath="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "519fe095c541b608e81b767f65b15915" "convert-excel-to-word.java" >}}
-{{% /blocks/products/pf/agp/code-autogen %}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
