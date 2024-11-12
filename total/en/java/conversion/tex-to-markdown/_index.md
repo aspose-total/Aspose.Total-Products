@@ -51,7 +51,7 @@ otherformats: DOCM DOTM DOT FLATOPC XAMLFLOW PCL DOTX WORDML MHTML ODT RTF PS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for TEX to MARKDOWN Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load TEX file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.markdown", SaveFormat.MARKDOWN);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,9 +51,9 @@ otherformats: DOT PCL ODT MHTML XAMLFLOW PS OTT FLATOPC MARKDOWN DOTX RTF DOTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή SVG σε MARKDOWN" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9d35e538d5c86861600eb8a36ddf2ef2" "convert-svg-to-docm.java" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

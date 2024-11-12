@@ -51,7 +51,7 @@ otherformats: PS DOTX ODT FLATOPC OTT DOCM DOTM MARKDOWN DOT WORDML RTF XAMLFLOW
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for TEX to PCL Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load TEX file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.pcl", SaveFormat.PCL);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

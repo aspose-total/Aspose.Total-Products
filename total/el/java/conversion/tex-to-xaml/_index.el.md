@@ -51,7 +51,7 @@ otherformats: PPT PPTM PPSM POTX OTP XAML PPS POT PPSX POTM SWF POWERPOINT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή TEX σε XAML" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

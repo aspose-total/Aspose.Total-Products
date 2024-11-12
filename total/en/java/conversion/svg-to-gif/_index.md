@@ -51,7 +51,7 @@ otherformats: WORDML DOTM MHTML ODT DOT FLATOPC DOTX XAMLFLOW MARKDOWN PS PCL RT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for SVG to GIF Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load SVG file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

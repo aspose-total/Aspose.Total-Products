@@ -51,7 +51,7 @@ otherformats: POTX POTM PPTM SWF OTP XAML POT PPSX PPS POWERPOINT PPT PPSM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java-code voor XSLFO naar OTP-conversie" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: XAML POWERPOINT POT SWF PPT PPTM POTX OTP PPSM POTM PPSX PPS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kód Java pro konverzi XML na POT" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

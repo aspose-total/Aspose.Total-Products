@@ -51,7 +51,7 @@ otherformats: POT PPTM SWF PPS OTP POWERPOINT POTM XAML PPSM PPSX POTX ODP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for TEX to PPT Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load TEX file with an instance of Document class
@@ -65,7 +65,7 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

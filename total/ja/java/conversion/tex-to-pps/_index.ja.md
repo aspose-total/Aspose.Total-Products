@@ -51,7 +51,7 @@ otherformats: POWERPOINT POTM SWF PPSX OTP PPSM XAML POT PPTM PPS POTX PPT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TEX から PPS への変換のための Java コード" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

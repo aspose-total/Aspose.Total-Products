@@ -51,7 +51,7 @@ otherformats: MARKDOWN DOT OTT ODT PS DOTX PCL XAMLFLOW DOTM FLATOPC RTF MHTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή TEX σε OTT" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.ott", SaveFormat.OTT);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

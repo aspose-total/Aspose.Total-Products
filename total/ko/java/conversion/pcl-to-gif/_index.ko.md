@@ -51,9 +51,9 @@ otherformats: MHTML OTT DOTM DOT WORDML ODT DOTX XAMLFLOW FLATOPC GIF PS MARKDOW
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="PCL에서 GIF로 변환하기 위한 Java 코드" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-images.java" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

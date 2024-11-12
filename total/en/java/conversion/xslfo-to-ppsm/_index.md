@@ -51,7 +51,7 @@ otherformats: POWERPOINT POT ODP OTP PPT PPTM POTX PPS POTM XAML PPSX SWF
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for XSLFO to PPSM Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load XSLFO file with an instance of Document class
@@ -65,7 +65,7 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

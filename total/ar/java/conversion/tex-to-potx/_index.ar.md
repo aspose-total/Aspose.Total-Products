@@ -51,7 +51,7 @@ otherformats: PPSX PPS XAML PPT POTX SWF PPTM POT POWERPOINT OTP PPSM POTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="كود جافا لتحويل TEX إلى POTX" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

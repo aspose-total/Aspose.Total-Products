@@ -51,7 +51,7 @@ otherformats: POTM PPSX POTX OTP XAML PPS POWERPOINT PPSM PPTM POT SWF PPT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XML から PPSX への変換のための Java コード" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

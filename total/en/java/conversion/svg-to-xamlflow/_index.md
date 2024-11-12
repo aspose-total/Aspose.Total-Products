@@ -51,7 +51,7 @@ otherformats: DOTM ODT DOTX RTF MHTML FLATOPC MARKDOWN DOT PS WORDML OTT DOCM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for SVG to XAMLFLOW Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load SVG file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

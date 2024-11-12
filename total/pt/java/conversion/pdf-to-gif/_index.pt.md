@@ -51,7 +51,7 @@ otherformats: DOTM PS MHTML PCL WORDML FLATOPC MARKDOWN DOT GIF RTF XAMLFLOW ODT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Código Java para conversão de PDF para GIF" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

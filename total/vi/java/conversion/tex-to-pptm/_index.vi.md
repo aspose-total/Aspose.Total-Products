@@ -51,7 +51,7 @@ otherformats: PPS PPT POT SWF POTM POTX POWERPOINT PPTM OTP PPSM PPSX XAML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi TEX sang PPTM" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

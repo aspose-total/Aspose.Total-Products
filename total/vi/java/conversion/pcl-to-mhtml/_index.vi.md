@@ -51,9 +51,9 @@ otherformats: FLATOPC MHTML OTT RTF MARKDOWN PS WORDML DOT ODT DOTM XAMLFLOW DOT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi PCL sang MHTML" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bfec283bb7a30344c355fa8754a3e3a7" "convert-pcl-to-mhtml.java" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

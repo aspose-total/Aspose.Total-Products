@@ -51,7 +51,7 @@ otherformats: POTX PPSM POWERPOINT SWF POTM OTP POT XAML PPSX PPT PPS PPTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Код Java для преобразования XML в SWF" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

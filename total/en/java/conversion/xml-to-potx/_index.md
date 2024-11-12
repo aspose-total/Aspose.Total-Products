@@ -51,7 +51,7 @@ otherformats: POWERPOINT SWF PPS POTM ODP PPTM PPSM POT XAML OTP PPT PPSX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for XML to POTX Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load XML file with an instance of Document class
@@ -65,7 +65,7 @@ presentation.save("output.potx", SaveFormat.Potx);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

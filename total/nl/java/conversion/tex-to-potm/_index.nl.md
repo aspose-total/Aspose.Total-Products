@@ -51,7 +51,7 @@ otherformats: POT PPSX POWERPOINT POTX PPSM SWF XAML PPS OTP PPT POTM PPTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java-code voor TEX naar POTM-conversie" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: WORDML OTT ODT RTF DOT FLATOPC MHTML XAMLFLOW PS PCL DOTX DOTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi TEX sang DOCM" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.docm", SaveFormat.DOCM);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

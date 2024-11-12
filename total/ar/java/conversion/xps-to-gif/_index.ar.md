@@ -51,7 +51,7 @@ otherformats: PCL ODT FLATOPC WORDML DOTX GIF MHTML XAMLFLOW DOT OTT MARKDOWN RT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="كود جافا لتحويل XPS إلى GIF" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.gif", SaveFormat.GIF);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

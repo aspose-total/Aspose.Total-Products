@@ -51,7 +51,7 @@ otherformats: FLATOPC MARKDOWN PS DOT XAMLFLOW WORDML DOTM PCL DOTX ODT RTF OTT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TEX から ODT への変換のための Java コード" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.odt", SaveFormat.ODT);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: RTF ODT DOTX MHTML FLATOPC PCL DOT OTT DOTM XAMLFLOW WORDML PS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TEX 到 PS 转换的 Java 代码" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.ps", SaveFormat.PS);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,9 +51,9 @@ otherformats: RTF OTT XAMLFLOW FLATOPC DOTM PCL MHTML DOTX WORDML PS DOT ODT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Κώδικας Java για μετατροπή PDF σε DOTX" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "48b55393e52dd85032905dea500a496b" "convert-pdf-to-docm.java" >}}
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: PPSM PPSX POWERPOINT PPS POTX POTM XAML SWF PPT PPTM OTP POT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Código Java para la conversión de TEX a PPSM" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

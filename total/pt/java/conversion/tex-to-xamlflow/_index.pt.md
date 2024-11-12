@@ -51,7 +51,7 @@ otherformats: MARKDOWN PCL OTT DOTM RTF WORDML XAMLFLOW FLATOPC DOT ODT DOTX PS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Código Java para conversão de TEX para XAMLFLOW" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.xaml_flow", SaveFormat.XAML_FLOW);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: DOTM DOT ODT RTF WORDML MARKDOWN PCL MHTML PS FLATOPC XAMLFLOW DOT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TEX에서 RTF로 변환하기 위한 Java 코드" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.rtf", SaveFormat.RTF);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

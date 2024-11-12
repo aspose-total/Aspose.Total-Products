@@ -51,7 +51,7 @@ otherformats: OTT PS ODT FLATOPC DOT PCL DOTM DOTX XAMLFLOW RTF MARKDOWN MHTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Code Java pour la conversion de TEX en DOT" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.dot", SaveFormat.DOT);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

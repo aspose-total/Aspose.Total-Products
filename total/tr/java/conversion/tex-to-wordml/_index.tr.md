@@ -51,7 +51,7 @@ otherformats: ODT WORDML RTF DOTX MARKDOWN PCL PS DOT XAMLFLOW FLATOPC DOTM MHTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TEX'den WORDML'ye Dönüşüm için Java Kodu" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

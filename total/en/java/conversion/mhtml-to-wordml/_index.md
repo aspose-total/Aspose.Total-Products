@@ -51,7 +51,7 @@ otherformats: DOTX DOTM PCL MARKDOWN XAMLFLOW FLATOPC RTF PS DOT ODT OTT DOCM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for MHTML to WORDML Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load MHTML file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.word_ml", SaveFormat.WORD_ML);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

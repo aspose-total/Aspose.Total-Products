@@ -51,7 +51,7 @@ otherformats: MARKDOWN FLATOPC DOTX DOT MHTML DOTM XAMLFLOW RTF PCL ODT PS WORDM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java-kod för konvertering från TEX till DOTX" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.dotx", SaveFormat.DOTX);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

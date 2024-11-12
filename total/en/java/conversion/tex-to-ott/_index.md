@@ -51,7 +51,7 @@ otherformats: MARKDOWN DOT DOCM ODT PS DOTX PCL XAMLFLOW DOTM FLATOPC RTF MHTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Java Code for TEX to OTT Conversion" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 ```java
 // load TEX file with an instance of Document class
@@ -65,7 +65,7 @@ outputDocument.save("output.ott", SaveFormat.OTT);
 ```
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: XAML SWF OTP PPTM POWERPOINT POT PPSM POTM PPSX PPS POTX PPT
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="รหัส Java สำหรับการแปลง XSLFO เป็น Powerpoint" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -51,7 +51,7 @@ otherformats: POT OTP PPTM POTX SWF PPT POWERPOINT XAML PPSX POTM PPSM PPS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kode Java untuk Konversi XSLFO ke POTM" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

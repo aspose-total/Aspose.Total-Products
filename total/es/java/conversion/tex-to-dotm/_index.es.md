@@ -51,7 +51,7 @@ otherformats: DOT RTF OTT XAMLFLOW FLATOPC ODT DOTX MARKDOWN WORDML PCL MHTML DO
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Código Java para la conversión de TEX a DOTM" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ outputDocument.save("output.dotm", SaveFormat.DOTM);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

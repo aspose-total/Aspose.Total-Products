@@ -51,7 +51,7 @@ otherformats: PPSX POWERPOINT PPSM POTX PPT PPS PPTM XAML SWF OTP POT POTM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Mã Java để chuyển đổi XML sang ODP" offSpacer="" %}}
+{{% blocks/products/pf/feature-page-code %}}
 
 
 ```java
@@ -67,7 +67,7 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 
 
-{{% /blocks/products/pf/agp/code-block %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
