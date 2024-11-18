@@ -44,7 +44,7 @@ API מודרני של C# לעיבוד מסמכים יוצר Image, PNG, BMP, JPG
 
 <h3>ממיר מקוון בחינם להמרת נתוני טקסט המופעלים על ידי AI לפורמט Image, PNG, BMP, JPG, GIF</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
