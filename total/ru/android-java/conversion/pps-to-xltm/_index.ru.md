@@ -45,7 +45,7 @@ otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN X
 
 <h3>Бесплатный онлайн-конвертер PPS в XLTM</h3>
 
-<iframe title="Онлайн-инструмент от xltm до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltm до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

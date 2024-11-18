@@ -45,7 +45,7 @@ otherformats: SXC XLS XLT TSV FODS EXCEL XLSM XLAM ODS CSV XLSX XLSB XLTX DIF
 
 <h3>محول مجاني على الإنترنت لـ DOTM إلى XLTM</h3>
 
-<iframe title="xltm to dotm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltm to dotm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

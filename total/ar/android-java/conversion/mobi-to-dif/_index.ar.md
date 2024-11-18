@@ -45,7 +45,7 @@ otherformats: TSV XLSB XLAM XLT ODS XLTM CSV SXC XLS EXCEL FODS XLSM XLSX XLTX
 
 <h3>محول مجاني على الإنترنت لـ MOBI إلى DIF</h3>
 
-<iframe title="dif to mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="dif to mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

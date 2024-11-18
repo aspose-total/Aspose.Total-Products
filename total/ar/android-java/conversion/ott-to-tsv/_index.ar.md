@@ -45,7 +45,7 @@ otherformats: XLSM XLSX XLSB SXC XLT XLTM XLTX ODS EXCEL XLS XLAM DIF FODS CSV
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى TSV</h3>
 
-<iframe title="tsv to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

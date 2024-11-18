@@ -45,7 +45,7 @@ otherformats: CSV DIF XLSB EXCEL TSV XLSX XLT XLS XLTM FODS ODS SXC XLTX XLSM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOCM เป็น XLAM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLT TSV XLSX FODS EXCEL CSV ODS XLTM SXC XLSB XLS DIF XLAM XLTX
 
 <h3>Бесплатный онлайн-конвертер MOBI в XLSM</h3>
 
-<iframe title="Онлайн-инструмент от xlsm до mobi долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsm до mobi долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

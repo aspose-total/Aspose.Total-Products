@@ -46,7 +46,7 @@ otherformats: POWERPOINT ODP PPT PPS POTX POT POTM PPTM PPTX PPSM
 
 <h3>محول مجاني على الإنترنت لـ DOCX إلى PPSX</h3>
 
-<iframe title="ppsx to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

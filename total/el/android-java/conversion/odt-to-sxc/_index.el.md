@@ -45,7 +45,7 @@ otherformats: CSV XLSB FODS XLTM TSV XLAM ODS DIF XLS XLSM XLTX XLSX EXCEL XLT
 
 <h3>Δωρεάν Online Μετατροπέας για ODT σε SXC</h3>
 
-<iframe title="Εργαλείο μετατροπής sxc σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής sxc σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

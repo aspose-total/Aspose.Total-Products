@@ -45,7 +45,7 @@ otherformats: XLTX SXC XLTM XLT CSV TSV ODS XLAM XLSX FODS DIF EXCEL XLS XLSM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ MOBI เป็น XLSB</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง mobi เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง mobi เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

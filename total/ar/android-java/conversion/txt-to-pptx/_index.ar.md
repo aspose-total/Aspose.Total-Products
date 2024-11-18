@@ -46,7 +46,7 @@ otherformats: POTM ODP PPT POWERPOINT POT PPSX POTX PPS PPSM PPTM CSV DIF FODS O
 
 <h3>محول مجاني على الإنترنت لـ TXT إلى PPTX</h3>
 
-<iframe title="pptx to txt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to txt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

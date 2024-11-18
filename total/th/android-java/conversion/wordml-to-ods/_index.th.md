@@ -45,7 +45,7 @@ otherformats: XLAM EXCEL XLS DIF XLSX XLSM XLTM XLSB XLT TSV FODS XLTX SXC CSV
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ WORDML เป็น ODS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง wordml เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง wordml เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

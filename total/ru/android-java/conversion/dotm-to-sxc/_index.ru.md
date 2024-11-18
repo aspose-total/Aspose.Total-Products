@@ -45,7 +45,7 @@ otherformats: XLSB XLSX DIF TSV XLAM XLT CSV ODS FODS XLSM EXCEL XLTX XLTM XLS
 
 <h3>Бесплатный онлайн-конвертер DOTM в SXC</h3>
 
-<iframe title="Онлайн-инструмент от sxc до dotm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до dotm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -52,7 +52,7 @@ ottument.save("output.ott",SaveFormat.Ott);
 
 <h3>Ingyenes online konverter PPT-hez OTT-be</h3>
 
-<iframe title="ppt-ból ott-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt-ból ott-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

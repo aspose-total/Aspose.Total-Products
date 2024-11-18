@@ -46,7 +46,7 @@ otherformats: PPTM POTM PPSX POTX PPT PPTX POWERPOINT POT ODP PPS CSV DIF FODS O
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ ODT เป็น PPSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง odt เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง odt เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

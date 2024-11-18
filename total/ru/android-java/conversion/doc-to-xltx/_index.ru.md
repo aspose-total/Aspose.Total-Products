@@ -45,7 +45,7 @@ otherformats: EXCEL DIF CSV XLSM XLAM XLTM TSV FODS XLSB XLSX ODS XLT SXC XLS
 
 <h3>Бесплатный онлайн-конвертер DOC в XLTX</h3>
 
-<iframe title="Онлайн-инструмент от xltx до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltx до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

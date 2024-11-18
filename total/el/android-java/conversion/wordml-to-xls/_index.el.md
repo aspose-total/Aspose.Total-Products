@@ -45,7 +45,7 @@ otherformats: SXC TSV EXCEL XLAM XLTM XLSM FODS XLTX XLT DIF XLSB CSV ODS XLSX
 
 <h3>Δωρεάν Online Μετατροπέας για WORDML σε XLS</h3>
 
-<iframe title="Εργαλείο μετατροπής xls σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xls σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

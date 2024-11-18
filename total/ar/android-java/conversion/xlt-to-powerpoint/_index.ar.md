@@ -53,7 +53,7 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 
 <h3>محول مجاني على الإنترنت لـ XLT إلى POWERPOINT</h3>
 
-<iframe title="pptx to xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

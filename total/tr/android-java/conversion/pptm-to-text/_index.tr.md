@@ -52,7 +52,7 @@ textument.save("output.text",SaveFormat.Text);
 
 <h3>PPTM'den TEXT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="pptm'dan text'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=text&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="pptm'dan text'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

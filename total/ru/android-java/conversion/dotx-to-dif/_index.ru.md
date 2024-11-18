@@ -45,7 +45,7 @@ otherformats: TSV SXC EXCEL XLS FODS XLTM XLTX ODS CSV XLT XLSB XLAM XLSM XLSX
 
 <h3>Бесплатный онлайн-конвертер DOTX в DIF</h3>
 
-<iframe title="Онлайн-инструмент от dif до dotx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dif до dotx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLT TSV CSV XLS XLSX XLAM DIF XLSB FODS SXC XLTM XLSM EXCEL ODS
 
 <h3>Бесплатный онлайн-конвертер OTT в XLTX</h3>
 
-<iframe title="Онлайн-инструмент от xltx до ott долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltx до ott долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

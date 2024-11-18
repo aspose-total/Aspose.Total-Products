@@ -45,7 +45,7 @@ otherformats: XLSB XLTM XLTX EXCEL ODS TSV XLS DIF XLT CSV XLAM SXC XLSX XLSM
 
 <h3>DOTMからFODSへの無料オンラインコンバーター</h3>
 
-<iframe title="dotmからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="dotmからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

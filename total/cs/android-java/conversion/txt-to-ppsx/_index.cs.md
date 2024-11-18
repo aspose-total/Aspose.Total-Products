@@ -46,7 +46,7 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 <h3>Zdarma online převodník TXT na PPSX</h3>
 
-<iframe title="Online nástroj ppsx až txt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj ppsx až txt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -46,7 +46,7 @@ otherformats: PPTM PPSX POTM POWERPOINT ODP PPT POT PPTX POTX PPSM CSV DIF FODS 
 
 <h3>Δωρεάν Online Μετατροπέας για OTT σε PPS</h3>
 
-<iframe title="Εργαλείο μετατροπής pps σε ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής pps σε ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

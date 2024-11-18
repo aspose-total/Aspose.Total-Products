@@ -45,7 +45,7 @@ otherformats: XLS SXC XLAM XLSM XLSX CSV EXCEL XLTM DIF XLT XLTX XLSB FODS TSV
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTM เป็น ODS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

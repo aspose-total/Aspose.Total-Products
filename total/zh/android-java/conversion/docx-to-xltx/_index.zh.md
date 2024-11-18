@@ -45,7 +45,7 @@ otherformats: XLAM CSV XLS XLSX EXCEL ODS XLSB XLSM FODS DIF XLTM XLT SXC TSV
 
 <h3>免费的 DOCX 到 XLTX 在线转换器</h3>
 
-<iframe title="docx 到 xltx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx 到 xltx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

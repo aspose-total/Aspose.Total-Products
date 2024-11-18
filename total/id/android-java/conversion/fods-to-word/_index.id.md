@@ -53,7 +53,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 <h3>Konverter Online Gratis untuk FODS ke WORD</h3>
 
-<iframe title="Alat Konversi fods ke docx Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="Alat Konversi fods ke docx Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

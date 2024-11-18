@@ -45,7 +45,7 @@ otherformats: DIF XLS XLSX TSV FODS XLSB XLTM SXC XLT XLAM CSV XLSM XLTX EXCEL
 
 <h3>免费的 OTT 到 ODS 在线转换器</h3>
 
-<iframe title="ott 到 ods 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ott 到 ods 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLSX SXC TSV XLSB XLAM XLSM EXCEL XLS XLT XLTM FODS ODS XLTX DIF
 
 <h3>Δωρεάν Online Μετατροπέας για DOTX σε CSV</h3>
 
-<iframe title="Εργαλείο μετατροπής csv σε dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής csv σε dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
