@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>محول مجاني على الإنترنت لـ POTX إلى TSV</h3>
 
-<iframe title="tsv to potx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv to potx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

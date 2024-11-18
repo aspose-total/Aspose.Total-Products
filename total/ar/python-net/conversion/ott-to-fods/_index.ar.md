@@ -61,7 +61,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى FODS</h3>
 
-<iframe title="fods to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="fods to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

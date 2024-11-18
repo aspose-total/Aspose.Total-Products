@@ -61,7 +61,7 @@ Esas olarak iki adımdadır. XLTM dosyasını HTML'ye dönüştürmek için önc
 
 <h3>XLTM'den MOBI'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="xltm'dan mobi'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mobi&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltm'dan mobi'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mobi&from=xltm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

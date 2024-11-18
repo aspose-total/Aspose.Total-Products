@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Cells for Python via 
 
 <h3>Ingyenes online konverter ODS-hez MOBI-be</h3>
 
-<iframe title="ods-ból mobi-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mobi&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="ods-ból mobi-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mobi&from=ods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

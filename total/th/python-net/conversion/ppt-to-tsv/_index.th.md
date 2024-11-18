@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น TSV</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น tsv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น tsv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

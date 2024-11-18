@@ -61,7 +61,7 @@ Főleg két lépésben. Először használja az [Aspose.Slides for Python via .N
 
 <h3>Ingyenes online konverter PPTX-ből DOC-be</h3>
 
-<iframe title="pptx-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

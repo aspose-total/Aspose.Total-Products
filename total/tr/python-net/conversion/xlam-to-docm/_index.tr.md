@@ -61,7 +61,7 @@ Esas olarak iki adımdadır. XLAM dosyasını HTML'ye dönüştürmek için önc
 
 <h3>XLAM'den DOCM'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="xlam'dan docm'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docm&from=xlam" id="child-iframe" width="80%"></iframe>
+<iframe title="xlam'dan docm'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docm&from=xlam" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

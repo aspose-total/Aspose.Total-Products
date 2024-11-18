@@ -61,7 +61,7 @@ Det är främst i två steg. Använd först [Aspose.Cells for Python via .NET](h
 
 <h3>Gratis onlinekonverterare för DIF till WORD</h3>
 
-<iframe title="dif till docx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=dif" id="child-iframe" width="80%"></iframe>
+<iframe title="dif till docx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=dif" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

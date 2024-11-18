@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>免费的 PPT 到 EXCEL 在线转换器</h3>
 
-<iframe title="ppt 到 xlsx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt 到 xlsx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho WORDML sang PPSM</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ wordml sang ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ wordml sang ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

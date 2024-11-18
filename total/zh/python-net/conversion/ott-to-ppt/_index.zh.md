@@ -60,7 +60,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 <h3>免费的 OTT 到 PPT 在线转换器</h3>
 
-<iframe title="ott 到 ppt 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ott 到 ppt 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

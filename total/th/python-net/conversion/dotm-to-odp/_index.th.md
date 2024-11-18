@@ -60,7 +60,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTM เป็น ODP</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น odp" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odp&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น odp" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

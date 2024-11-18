@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>PPTXからXLSへの無料オンラインコンバーター</h3>
 
-<iframe title="pptxからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptxからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
