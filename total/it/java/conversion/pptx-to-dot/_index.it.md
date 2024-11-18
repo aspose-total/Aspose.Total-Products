@@ -41,7 +41,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 <h3>Convertitore online gratuito da PPTX a DOT</h3>
 
-<iframe title="Strumento di conversione gratuito da pptx a dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da pptx a dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

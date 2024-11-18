@@ -41,7 +41,7 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 <h3>Δωρεάν Online Μετατροπέας για PPSM σε SXC</h3>
 
-<iframe title="Εργαλείο μετατροπής sxc σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής sxc σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

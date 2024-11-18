@@ -41,7 +41,7 @@ otherformats: XLTM DIF TSV XLSB XLTX XLAM FODS XLSM XLS EXCEL XLSX SXC ODS XLT
 
 <h3>免费的 RTF 到 ODS 在线转换器</h3>
 
-<iframe title="rtf 到 ods 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf 到 ods 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

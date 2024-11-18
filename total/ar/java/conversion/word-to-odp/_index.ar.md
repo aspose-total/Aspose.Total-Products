@@ -42,7 +42,7 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 
 <h3>محول مجاني على الإنترنت لـ WORD إلى ODP</h3>
 
-<iframe title="odp to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odp&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="odp to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

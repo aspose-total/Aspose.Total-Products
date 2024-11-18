@@ -42,7 +42,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.a
 
 <h3>Convertidor en línea gratuito para DOT a POTX</h3>
 
-<iframe title="Herramienta de conversión de potx a dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de potx a dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

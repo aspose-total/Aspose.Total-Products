@@ -41,7 +41,7 @@ otherformats: XLTX XLSX XLSB DIF XLS MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 
 <h3>免费的 PPSX 到 XLS 在线转换器</h3>
 
-<iframe title="ppsx 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

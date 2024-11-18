@@ -41,7 +41,7 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM MARKDOWN TSV
 
 <h3>Бесплатный онлайн-конвертер PPSX в MARKDOWN</h3>
 
-<iframe title="Онлайн-инструмент от markdown до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от markdown до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

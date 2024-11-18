@@ -38,7 +38,7 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases
 
 <h3>Công cụ chuyển đổi trực tuyến từ XLSM sang DOC</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ xlsm sang doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ xlsm sang doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=xlsm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsm-to-doc/">Hãy dùng thử ứng dụng miễn phí của chúng tôi để chuyển đổi XLSM sang DOC</a></p>
 </div></div>
 </div></div>

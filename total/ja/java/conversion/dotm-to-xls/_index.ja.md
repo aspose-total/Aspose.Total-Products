@@ -41,7 +41,7 @@ otherformats: TSV XLAM SXC XLS EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 <h3>DOTMからXLSへの無料オンラインコンバーター</h3>
 
-<iframe title="dotmからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="dotmからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

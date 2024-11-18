@@ -41,7 +41,7 @@ otherformats: OTT TEXT WORD ODT RTF WORDML DOTM DOCX DOCM FLATOPC DOT DOTX
 
 <h3>Δωρεάν Online Μετατροπέας για PPSX σε DOC</h3>
 
-<iframe title="Εργαλείο μετατροπής doc σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής doc σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

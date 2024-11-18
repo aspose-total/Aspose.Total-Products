@@ -41,7 +41,7 @@ otherformats: WORD TEXT DOT WORDML DOTX OTT DOTX DOTM FLATOPC DOTM ODT RTF
 
 <h3>Бесплатный онлайн-конвертер POTM в DOT</h3>
 
-<iframe title="Онлайн-инструмент от dot до potm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dot до potm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ POTからDOTXファイルへの変換では、[Maven](https://repository.aspose.
 
 <h3>POTからDOTXへの無料オンラインコンバーター</h3>
 
-<iframe title="potからdotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotx&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="potからdotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

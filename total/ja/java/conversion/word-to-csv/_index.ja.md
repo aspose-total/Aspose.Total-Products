@@ -41,7 +41,7 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 
 <h3>WORDからCSVへの無料オンラインコンバーター</h3>
 
-<iframe title="docxからcsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docxからcsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

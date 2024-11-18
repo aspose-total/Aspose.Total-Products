@@ -41,7 +41,7 @@ otherformats: WORDML DOTX DOTM DOT DOTX DOTM TEXT FLATOPC RTF ODT WORD OTT
 
 <h3>免费的 POT 到 DOT 在线转换器</h3>
 
-<iframe title="pot 到 dot 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="pot 到 dot 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

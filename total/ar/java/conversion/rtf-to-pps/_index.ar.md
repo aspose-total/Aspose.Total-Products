@@ -42,7 +42,7 @@ otherformats: PPSX POWERPOINT PPT PPS POT PPSM PPTX POTM POTX PPTM CSV DIF FODS 
 
 <h3>محول مجاني على الإنترنت لـ RTF إلى PPS</h3>
 
-<iframe title="pps to rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="pps to rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

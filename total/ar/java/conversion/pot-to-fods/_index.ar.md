@@ -41,7 +41,7 @@ otherformats: XLSB EXCEL XLAM XLSX FODS TSV XLTM DIF XLT XLS MHTML SXC XLTX MARK
 
 <h3>محول مجاني على الإنترنت لـ POT إلى FODS</h3>
 
-<iframe title="fods to pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="fods to pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -42,7 +42,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://rele
 
 <h3>Ingyenes online konverter FLATOPC-hez POTM-be</h3>
 
-<iframe title="flatopc-ból potm-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="flatopc-ból potm-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

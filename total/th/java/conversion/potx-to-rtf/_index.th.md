@@ -41,7 +41,7 @@ otherformats: RTF DOTM FLATOPC WORDML WORD TEXT ODT RTFM RTFX DOT DOTX OTT
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ POTX เป็น RTF</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง potx เป็น rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง potx เป็น rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

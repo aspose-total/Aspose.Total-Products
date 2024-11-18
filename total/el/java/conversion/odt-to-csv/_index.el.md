@@ -41,7 +41,7 @@ otherformats: XLTM XLSM XLSX XLT XLS DIF EXCEL SXC ODS XLSB FODS XLAM TSV XLTX
 
 <h3>Δωρεάν Online Μετατροπέας για ODT σε CSV</h3>
 
-<iframe title="Εργαλείο μετατροπής csv σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής csv σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

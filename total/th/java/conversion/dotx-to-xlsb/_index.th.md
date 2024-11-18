@@ -41,7 +41,7 @@ otherformats: XLAM ODS TSV XLT FODS XLSB DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTX เป็น XLSB</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotx เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotx เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -42,7 +42,7 @@ otherformats: PPTX PPSX PPSM POTM POWERPOINT PPTM POT POTX PPS PPT CSV DIF FODS 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOC เป็น PPS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง doc เป็น pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง doc เป็น pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

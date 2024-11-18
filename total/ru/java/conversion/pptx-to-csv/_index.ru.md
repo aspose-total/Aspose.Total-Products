@@ -41,7 +41,7 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 
 <h3>Бесплатный онлайн-конвертер PPTX в CSV</h3>
 
-<iframe title="Онлайн-инструмент от csv до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от csv до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

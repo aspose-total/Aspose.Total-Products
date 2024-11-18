@@ -41,7 +41,7 @@ otherformats: TEXTM TEXTX OTT WORD DOTX RTF DOT FLATOPC TEXT DOTM ODT WORDML
 
 <h3>Δωρεάν Online Μετατροπέας για PPSX σε TEXT</h3>
 
-<iframe title="Εργαλείο μετατροπής text σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=text&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής text σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

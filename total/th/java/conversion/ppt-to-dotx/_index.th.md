@@ -41,7 +41,7 @@ otherformats: DOTXX WORDML DOTXM FLATOPC DOTX DOT DOTM OTT TEXT ODT RTF WORD
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น DOTX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

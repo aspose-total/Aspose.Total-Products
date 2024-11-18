@@ -41,7 +41,7 @@ otherformats: XLTX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 <h3>Δωρεάν Online Μετατροπέας για DOC σε XLTX</h3>
 
-<iframe title="Εργαλείο μετατροπής xltx σε doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xltx σε doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

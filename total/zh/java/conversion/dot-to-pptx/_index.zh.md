@@ -42,7 +42,7 @@ otherformats: PPS PPTX PPTM POTX PPT PPSX POWERPOINT POTM POT PPSM CSV DIF FODS 
 
 <h3>免费的 DOT 到 PPTX 在线转换器</h3>
 
-<iframe title="dot 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dot 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

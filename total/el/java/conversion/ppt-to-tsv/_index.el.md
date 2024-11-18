@@ -41,7 +41,7 @@ otherformats: DIF XLS TSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 
 <h3>Δωρεάν Online Μετατροπέας για PPT σε TSV</h3>
 
-<iframe title="Εργαλείο μετατροπής tsv σε ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής tsv σε ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

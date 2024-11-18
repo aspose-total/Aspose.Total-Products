@@ -38,7 +38,7 @@ otherformats: WORD POWERPOINTX POWERPOINT PPTX
 
 <h3>محول عبر الإنترنت لـ XLTM إلى POWERPOINT</h3>
 
-<iframe title="pptx to xltm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to xltm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xltm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltm-to-pptx/">جرب تطبيقنا المجاني لتحويل XLTM إلى POWERPOINT</a></p>
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS MHTML XLAM XLTM XLSM EXCEL SXC TSV
 
 <h3>محول مجاني على الإنترنت لـ PPTM إلى MHTML</h3>
 
-<iframe title="mhtml to pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="mhtml to pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mhtml&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

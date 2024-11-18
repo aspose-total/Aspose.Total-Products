@@ -41,7 +41,7 @@ otherformats: SXC DIF EXCEL TSV XLSB MARKDOWN XLTX XLSX XLSM XLS ODS XLAM XLTM M
 
 <h3>محول مجاني على الإنترنت لـ PPSM إلى XLSB</h3>
 
-<iframe title="xlsb to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -38,7 +38,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 <h3>Convertisseur en ligne pour XLSB en WORD</h3>
 
-<iframe title="Outil en ligne de conversion docx en xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion docx en xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsb-to-docx/">Essayez notre application gratuite pour la conversion XLSB en WORD</a></p>
 </div></div>
 </div></div>

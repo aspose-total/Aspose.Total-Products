@@ -41,7 +41,7 @@ otherformats: ODS EXCEL XLTM XLT XLTX XLSX XLSM XLSB FODS TSV SXC XLAM DIF XLS
 
 <h3>免费的 RTF 到 XLSB 在线转换器</h3>
 
-<iframe title="rtf 到 xlsb 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf 到 xlsb 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

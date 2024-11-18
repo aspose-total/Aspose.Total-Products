@@ -38,7 +38,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 <h3>Online Converter voor ODS naar DOC</h3>
 
-<iframe title="ods naar doc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="ods naar doc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ods" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/ods-to-doc/">Probeer onze gratis app voor conversie van ODS naar DOC</a></p>
 </div></div>
 </div></div>

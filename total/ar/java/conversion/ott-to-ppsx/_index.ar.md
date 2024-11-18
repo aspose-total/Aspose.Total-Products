@@ -42,7 +42,7 @@ otherformats: PPS POT PPTX POTM PPSX PPT PPSM PPTM POWERPOINT POTX CSV DIF FODS 
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى PPSX</h3>
 
-<iframe title="ppsx to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

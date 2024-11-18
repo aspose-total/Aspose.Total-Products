@@ -41,7 +41,7 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTM เป็น SXC</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

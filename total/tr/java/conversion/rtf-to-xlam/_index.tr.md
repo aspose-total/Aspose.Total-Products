@@ -41,7 +41,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>RTF'den XLAM'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="rtf'dan xlam'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf'dan xlam'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

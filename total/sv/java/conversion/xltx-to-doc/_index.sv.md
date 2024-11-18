@@ -38,7 +38,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.com/
 
 <h3>Online-omvandlare för XLTX till DOC</h3>
 
-<iframe title="xltx till doc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="xltx till doc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=xltx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltx-to-doc/">Prova vår gratisapp för XLTX till DOC-konvertering</a></p>
 </div></div>
 </div></div>

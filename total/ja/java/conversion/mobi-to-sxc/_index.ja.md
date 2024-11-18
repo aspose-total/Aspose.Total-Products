@@ -41,7 +41,7 @@ otherformats: SXC ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 
 <h3>MOBIからSXCへの無料オンラインコンバーター</h3>
 
-<iframe title="mobiからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="mobiからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

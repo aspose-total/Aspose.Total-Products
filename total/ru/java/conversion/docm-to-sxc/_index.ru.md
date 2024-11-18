@@ -41,7 +41,7 @@ otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 
 <h3>Бесплатный онлайн-конвертер DOCM в SXC</h3>
 
-<iframe title="Онлайн-инструмент от sxc до docm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до docm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

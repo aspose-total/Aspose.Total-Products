@@ -41,7 +41,7 @@ otherformats: WORD TEXT WORDMLX WORDML WORDMLM DOTX DOT RTF ODT OTT DOTM FLATOPC
 
 <h3>Бесплатный онлайн-конвертер PPTX в WORDML</h3>
 
-<iframe title="Онлайн-инструмент от wordml до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от wordml до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

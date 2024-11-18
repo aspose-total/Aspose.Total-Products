@@ -41,7 +41,7 @@ otherformats: TEXTX FLATOPC TEXT DOT RTF TEXTM WORDML DOTX OTT ODT DOTM WORD
 
 <h3>Δωρεάν Online Μετατροπέας για POT σε TEXT</h3>
 
-<iframe title="Εργαλείο μετατροπής text σε pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=text&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής text σε pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

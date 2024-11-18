@@ -41,7 +41,7 @@ otherformats: XLS XLSM FODS ODS XLT XLAM XLTM XLSB XLSX MARKDOWN MHTML XLTX EXCE
 
 <h3>محول مجاني على الإنترنت لـ PPT إلى EXCEL</h3>
 
-<iframe title="xlsx to ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

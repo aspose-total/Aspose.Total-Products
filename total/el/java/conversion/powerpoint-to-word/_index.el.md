@@ -41,7 +41,7 @@ otherformats: OTT WORDM DOTM FLATOPC DOTX RTF ODT DOT WORDML WORDX TEXT WORD
 
 <h3>Δωρεάν Online Μετατροπέας για POWERPOINT σε WORD</h3>
 
-<iframe title="Εργαλείο μετατροπής docx σε pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής docx σε pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

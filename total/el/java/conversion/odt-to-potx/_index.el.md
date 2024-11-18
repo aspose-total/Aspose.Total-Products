@@ -42,7 +42,7 @@ otherformats: PPTX PPTM POTM PPSX PPSM PPS POTX POWERPOINT PPT POT CSV DIF FODS 
 
 <h3>Δωρεάν Online Μετατροπέας για ODT σε POTX</h3>
 
-<iframe title="Εργαλείο μετατροπής potx σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής potx σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

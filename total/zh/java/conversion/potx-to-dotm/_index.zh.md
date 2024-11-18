@@ -41,7 +41,7 @@ otherformats: WORD DOT RTF DOTX ODT OTT WORDML DOTM TEXT FLATOPC DOTMX DOTMM
 
 <h3>免费的 POTX 到 DOTM 在线转换器</h3>
 
-<iframe title="potx 到 dotm 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotm&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="potx 到 dotm 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotm&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

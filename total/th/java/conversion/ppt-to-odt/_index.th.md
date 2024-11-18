@@ -41,7 +41,7 @@ otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น ODT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

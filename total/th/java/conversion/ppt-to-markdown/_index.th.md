@@ -41,7 +41,7 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น MARKDOWN</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น markdown" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น markdown" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

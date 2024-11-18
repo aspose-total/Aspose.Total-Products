@@ -41,7 +41,7 @@ otherformats: EXCEL SXC FODS XLSM XLS MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 
 <h3>免费的 POTM 到 XLS 在线转换器</h3>
 
-<iframe title="potm 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="potm 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

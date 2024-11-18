@@ -41,7 +41,7 @@ otherformats: RTFX RTFM TEXT OTT WORDML DOTX WORD RTF ODT FLATOPC DOTM DOT
 
 <h3>Δωρεάν Online Μετατροπέας για PPSM σε RTF</h3>
 
-<iframe title="Εργαλείο μετατροπής rtf σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής rtf σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

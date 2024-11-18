@@ -41,7 +41,7 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ ODT เป็น DIF</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง odt เป็น dif" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง odt เป็น dif" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

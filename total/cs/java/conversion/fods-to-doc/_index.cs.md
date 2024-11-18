@@ -38,7 +38,7 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 <h3>Online převodník FODS na DOC</h3>
 
-<iframe title="Online nástroj doc až fods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj doc až fods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/fods-to-doc/">Vyzkoušejte naši bezplatnou aplikaci pro převod FODS na DOC</a></p>
 </div></div>
 </div></div>

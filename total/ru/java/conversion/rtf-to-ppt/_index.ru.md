@@ -42,7 +42,7 @@ otherformats: POT PPT POWERPOINT PPTX PPS POTM POTX PPTM PPSX PPSM CSV DIF FODS 
 
 <h3>Бесплатный онлайн-конвертер RTF в PPT</h3>
 
-<iframe title="Онлайн-инструмент от ppt до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ppt до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

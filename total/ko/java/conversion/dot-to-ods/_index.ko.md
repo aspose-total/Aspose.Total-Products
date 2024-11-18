@@ -41,7 +41,7 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 <h3>DOT를 ODS로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="ods에서 dot로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="ods에서 dot로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: FLATOPCX RTF DOTX OTT WORDML DOT FLATOPC FLATOPCM DOTM ODT WORD TE
 
 <h3>Δωρεάν Online Μετατροπέας για POT σε FLATOPC</h3>
 
-<iframe title="Εργαλείο μετατροπής flatopc σε pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής flatopc σε pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

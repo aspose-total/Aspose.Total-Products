@@ -41,7 +41,7 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 <h3>محول مجاني على الإنترنت لـ DOCM إلى FODS</h3>
 
-<iframe title="fods to docm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="fods to docm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

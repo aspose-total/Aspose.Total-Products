@@ -41,7 +41,7 @@ otherformats: XLT XLSB XLSM ODS TSV FODS XLS XLAM SXC DIF XLSX XLTM EXCEL XLTX
 
 <h3>DOTからFODSへの無料オンラインコンバーター</h3>
 
-<iframe title="dotからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dotからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

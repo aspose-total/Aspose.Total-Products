@@ -41,7 +41,7 @@ otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 
 <h3>محول مجاني على الإنترنت لـ PPTX إلى OTT</h3>
 
-<iframe title="ott to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="ott to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

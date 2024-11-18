@@ -41,7 +41,7 @@ otherformats: ODS MHTML XLAM XLSB FODS XLTX XLSX XLS TSV XLSM XLT XLTM MARKDOWN 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPSM เป็น CSV</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppsm เป็น csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppsm เป็น csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
