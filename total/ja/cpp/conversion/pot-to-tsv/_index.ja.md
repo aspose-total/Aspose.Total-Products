@@ -45,7 +45,7 @@ otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS 
 
 <h3>POTからTSVへの無料オンラインコンバーター</h3>
 
-<iframe title="potからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="potからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

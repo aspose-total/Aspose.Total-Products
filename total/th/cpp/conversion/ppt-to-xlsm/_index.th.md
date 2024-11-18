@@ -45,7 +45,7 @@ otherformats: SXC XLS XLSX CSV DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT XL
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น XLSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

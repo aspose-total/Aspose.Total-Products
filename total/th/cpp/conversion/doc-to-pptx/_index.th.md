@@ -74,7 +74,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOC เป็น PPTX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง doc เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง doc เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -74,7 +74,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 
 <h3>Gratis onlinekonverterare för DOCX till POWERPOINT</h3>
 
-<iframe title="docx till pptx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx till pptx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

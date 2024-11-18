@@ -74,7 +74,7 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 
 <h3>Konverter Online Gratis untuk DOT ke PPSX</h3>
 
-<iframe title="Alat Konversi dot ke ppsx Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Alat Konversi dot ke ppsx Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

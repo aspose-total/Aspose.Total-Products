@@ -47,7 +47,7 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 
 <h3>Conversor Online de SXC para DOC</h3>
 
-<iframe title="Ferramenta on-line de conversão de doc para sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="Ferramenta on-line de conversão de doc para sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-doc/">Experimente nosso aplicativo gratuito para conversão de SXC para DOC</a></p>
 </div></div>
 </div></div>

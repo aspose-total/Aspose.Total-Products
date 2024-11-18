@@ -45,7 +45,7 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT CSV 
 
 <h3>Бесплатный онлайн-конвертер PPSM в SXC</h3>
 
-<iframe title="Онлайн-инструмент от sxc до ppsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до ppsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

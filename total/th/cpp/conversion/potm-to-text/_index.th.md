@@ -51,7 +51,7 @@ text->Save(u"output.text");
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ POTM เป็น TEXT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง potm เป็น text" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=text&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง potm เป็น text" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

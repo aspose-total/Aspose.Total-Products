@@ -45,7 +45,7 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC C
 
 <h3>Бесплатный онлайн-конвертер PPS в XLAM</h3>
 
-<iframe title="Онлайн-инструмент от xlam до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlam до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

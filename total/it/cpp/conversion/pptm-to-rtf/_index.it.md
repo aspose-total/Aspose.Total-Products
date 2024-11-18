@@ -51,7 +51,7 @@ rtf->Save(u"output.rtf");
 
 <h3>Convertitore online gratuito da PPTM a RTF</h3>
 
-<iframe title="Strumento di conversione gratuito da pptm a rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da pptm a rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

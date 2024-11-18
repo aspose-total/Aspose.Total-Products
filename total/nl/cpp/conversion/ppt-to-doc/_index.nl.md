@@ -51,7 +51,7 @@ doc->Save(u"output.doc");
 
 <h3>Gratis online converter voor PPT naar DOC</h3>
 
-<iframe title="ppt naar doc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt naar doc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

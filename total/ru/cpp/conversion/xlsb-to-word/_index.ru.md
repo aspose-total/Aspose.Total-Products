@@ -47,7 +47,7 @@ word->Save(u"convertedFile.word", SaveFormat::Word);
 
 <h3>Онлайн-конвертер XLSB в WORD</h3>
 
-<iframe title="Онлайн-инструмент от docx до xlsb долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от docx до xlsb долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsb-to-docx/">Попробуйте наше бесплатное приложение для преобразования XLSB в WORD</a></p>
 </div></div>
 </div></div>

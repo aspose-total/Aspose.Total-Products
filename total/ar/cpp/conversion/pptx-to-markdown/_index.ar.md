@@ -45,7 +45,7 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS CSV XLSB MHTML X
 
 <h3>محول مجاني على الإنترنت لـ PPTX إلى MARKDOWN</h3>
 
-<iframe title="markdown to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="markdown to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 
 <h3>Convertidor en línea gratuito para PPSX a XLSB</h3>
 
-<iframe title="Herramienta de conversión de xlsb a ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de xlsb a ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

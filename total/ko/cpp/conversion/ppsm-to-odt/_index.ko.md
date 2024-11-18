@@ -51,7 +51,7 @@ odt->Save(u"output.odt");
 
 <h3>PPSM를 ODT로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="odt에서 ppsm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="odt에서 ppsm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

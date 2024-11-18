@@ -51,7 +51,7 @@ doc->Save(u"output.doc");
 
 <h3>Convertidor en línea gratuito para PPT a DOC</h3>
 
-<iframe title="Herramienta de conversión de doc a ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de doc a ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

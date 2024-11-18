@@ -45,7 +45,7 @@ otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS CSV XLSB MHTML X
 
 <h3>PPTXからMARKDOWNへの無料オンラインコンバーター</h3>
 
-<iframe title="pptxからmarkdownへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptxからmarkdownへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
