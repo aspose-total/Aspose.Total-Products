@@ -20,7 +20,7 @@ otherformats: DIF TXT ODS XLT XLTM EXCEL MD XLSM SXC XLTX XLSB FODS
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Bezplatná online aplikace pro převod XML na ODS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=xml" id="child-iframe" width="80%"></iframe>
+<iframe title="Bezplatná online aplikace pro převod XML na ODS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=xml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

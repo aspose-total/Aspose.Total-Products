@@ -20,7 +20,7 @@ otherformats: WMZ DICOM PSD JPEG2000 TGA EMZ SVGZ WMF IMAGE DXF
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Gratis onlinekonverteringsapp från JSON till APNG" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=apng&from=json" id="child-iframe" width="80%"></iframe>
+<iframe title="Gratis onlinekonverteringsapp från JSON till APNG" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=apng&from=json" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

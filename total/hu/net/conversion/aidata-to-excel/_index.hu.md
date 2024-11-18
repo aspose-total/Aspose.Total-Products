@@ -44,7 +44,7 @@ A következő példa bemutatja, hogyan lehet az AI által generált szöveges ad
 
 <h3>Online ingyenes konverter AI-alapú szöveges adatok Excel formátumba konvertálásához</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

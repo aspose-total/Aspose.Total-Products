@@ -44,7 +44,7 @@ L'esempio seguente mostra come convertire i dati di testo generati dall'intellig
 
 <h3>Convertitore gratuito online per la conversione di dati di testo basati sull'intelligenza artificiale in formato Powerpoint</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=powerpoint&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=powerpoint&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

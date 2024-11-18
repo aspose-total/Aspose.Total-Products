@@ -20,7 +20,7 @@ otherformats: ODS XLTM XLAM FODS DIF XLS XLSM TSV XLTX EXCEL XLSB SXC CSV XLT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Bezplatná online aplikace pro převod DOCM na JSON" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=json&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Bezplatná online aplikace pro převod DOCM na JSON" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=json&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

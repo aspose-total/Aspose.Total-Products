@@ -44,7 +44,7 @@ otherformats: WORD DOC DOCX EPUB GIF HTML IMAGE JPG PDF PNG EXCEL CSV BMP EMF MD
 
 <h3>Бесплатный онлайн-конвертер для преобразования текстовых данных в формат PDF с использованием искусственного интеллекта</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pdf&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pdf&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

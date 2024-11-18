@@ -44,7 +44,7 @@ Följande exempel visar hur man konverterar AI-genererad textdata till Html i C#
 
 <h3>Gratis onlinekonverterare för AI-driven textdatakonvertering till Html-format</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

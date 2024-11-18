@@ -20,7 +20,7 @@ otherformats: TSV SXC DIF XLSM XLAM XLT XLS FODS XLTM XLTX EXCEL XLSX ODS XLSB
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Gratis online RTF naar DIF conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Gratis online RTF naar DIF conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

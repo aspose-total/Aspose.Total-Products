@@ -20,7 +20,7 @@ otherformats: PCL ODT DOCM DOTX PS WORDML MOBI FLATOPC DOT RTF WORD EPUB DOC OTT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Бесплатное онлайн-приложение для конвертации JSON в FLATOPC" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=json" id="child-iframe" width="80%"></iframe>
+<iframe title="Бесплатное онлайн-приложение для конвертации JSON в FLATOPC" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=json" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

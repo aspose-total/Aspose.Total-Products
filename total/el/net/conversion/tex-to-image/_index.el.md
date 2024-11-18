@@ -20,7 +20,7 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  IMAGE DICOM
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Δωρεάν διαδικτυακή εφαρμογή μετατροπής TEX σε IMAGE" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=image&from=tex" id="child-iframe" width="80%"></iframe>
+<iframe title="Δωρεάν διαδικτυακή εφαρμογή μετατροπής TEX σε IMAGE" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=image&from=tex" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

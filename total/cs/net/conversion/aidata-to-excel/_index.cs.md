@@ -44,7 +44,7 @@ Následující příklad ukazuje, jak převést textová data generovaná AI na 
 
 <h3>Online bezplatný převodník pro převod textových dat s podporou AI do formátu Excel</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

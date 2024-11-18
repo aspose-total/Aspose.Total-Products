@@ -20,7 +20,7 @@ otherformats: DIF XLTX XLAM XLSB XLT EXCEL ODS TSV XLTM FODS XLS XLSX XLSM SXC
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Kostenlose Online-App zur Konvertierung von OTT in Excel" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Kostenlose Online-App zur Konvertierung von OTT in Excel" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

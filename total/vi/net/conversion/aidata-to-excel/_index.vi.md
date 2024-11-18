@@ -44,7 +44,7 @@ Ví dụ sau đây minh họa cách chuyển đổi dữ liệu văn bản do AI
 
 <h3>Bộ chuyển đổi trực tuyến miễn phí để chuyển đổi dữ liệu văn bản hỗ trợ AI sang định dạng Excel</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=excel&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

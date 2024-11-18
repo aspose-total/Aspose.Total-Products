@@ -20,7 +20,7 @@ otherformats: FODS XLAM XLSM EXCEL TSV MD DIF XLT SXC XLTM XLSB TXT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Бесплатное онлайн-приложение для конвертации XML в FODS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=xml" id="child-iframe" width="80%"></iframe>
+<iframe title="Бесплатное онлайн-приложение для конвертации XML в FODS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=xml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
