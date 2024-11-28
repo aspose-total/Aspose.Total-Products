@@ -28,12 +28,13 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ APNG DICOM
 
 
 
-1. Upload XSLFO files to convert
-1. Wait for few seconds or more depending on XSLFO size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. XSLFO will be converted into DXF document
-1. Download the converted DXF file
+
+1. Open XSLFO file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render XSLFO to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
+3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+4. Save the document to DXF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+
+
 
 
 

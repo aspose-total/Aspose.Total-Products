@@ -28,12 +28,13 @@ otherformats: XPS DOC EMF RTF GIF MD ODT DOCX BMP DOT DOTX WORDML TIFF JPEG PS E
 
 
 
-1. Upload OFT files to convert
-1. Wait for few seconds or more depending on OFT size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. OFT will be converted into PDF document
-1. Download the converted PDF file
+
+1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
+2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
+3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
+4. Save the document to PDF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pdf as SaveFormat
+
+
 
 
 

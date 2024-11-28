@@ -28,12 +28,13 @@ otherformats: IMAGE  TGA DXF WMF APNG EMZ WMZ SVGZ PSD DICOM
 
 
 
-1. Upload XPS files to convert
-1. Wait for few seconds or more depending on XPS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. XPS will be converted into JPEG2000 document
-1. Download the converted JPEG2000 file
+
+1. Open XPS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render XPS to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
+3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+4. Save the document to JPEG2000 format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+
+
 
 
 

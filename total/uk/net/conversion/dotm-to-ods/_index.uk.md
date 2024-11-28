@@ -28,12 +28,13 @@ otherformats: XLAM CSV XLSB XLTX XLS SXC XLSM XLTM XLT FODS EXCEL TSV DIF XLSX
 
 
 
-1. Upload DOTM files to convert
-1. Wait for few seconds or more depending on DOTM size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOTM will be converted into ODS document
-1. Download the converted ODS file
+
+1. Open DOTM file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOTM to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `ODS` as SaveFormat
+
+
 
 
 

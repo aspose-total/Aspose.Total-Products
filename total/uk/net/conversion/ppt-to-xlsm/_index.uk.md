@@ -28,12 +28,13 @@ otherformats: SXC XLS XLSX CSV DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT XL
 
 
 
-1. Upload PPT files to convert
-1. Wait for few seconds or more depending on PPT size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPT will be converted into XLSM document
-1. Download the converted XLSM file
+
+1. Open PPT file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPT as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSM using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

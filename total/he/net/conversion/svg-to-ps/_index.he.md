@@ -28,12 +28,13 @@ otherformats: RTF WORDML PCL OTT DOTM XAMLFLOW DOTX DOCM MARKDOWN DOT MHTML ODT
 
 
 
-1. Upload SVG files to convert
-1. Wait for few seconds or more depending on SVG size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. SVG will be converted into PS document
-1. Download the converted PS file
+
+1. Open SVG file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert SVG to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to PS format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ps as SaveFormat
+
+
 
 
 

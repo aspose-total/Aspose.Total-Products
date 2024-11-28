@@ -28,12 +28,13 @@ otherformats: POTM PPS ODP POWERPOINT POT OTP PPT POTX PPTM PPSX
 
 
 
-1. Upload JSON files to convert
-1. Wait for few seconds or more depending on JSON size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. JSON will be converted into PPSM document
-1. Download the converted PPSM file
+
+1. Create a new [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object and read valid JSON data from file
+2. Import JSON file to worksheet using [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) class and [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) it as PPTX 
+3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
+4. Save the document to PPSM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+
+
 
 
 

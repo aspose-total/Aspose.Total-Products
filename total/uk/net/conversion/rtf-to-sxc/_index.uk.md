@@ -28,12 +28,13 @@ otherformats: XLT ODS CSV XLAM XLS XLSM TSV EXCEL FODS DIF XLSX XLTM XLSB XLTX
 
 
 
-1. Upload RTF files to convert
-1. Wait for few seconds or more depending on RTF size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. RTF will be converted into SXC document
-1. Download the converted SXC file
+
+1. Open RTF file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert RTF to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `SXC` as SaveFormat
+
+
 
 
 

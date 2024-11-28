@@ -28,12 +28,14 @@ otherformats: EXCEL POWERPOINT PDF IMAGES
 
 
 
-1. Upload WEB files to convert
-1. Wait for few seconds or more depending on WEB size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. WEB will be converted into Word document
-1. Download the converted Word file
+
+
+1. Utilize the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructor to initialize an HTML document from a URL
+2. Use the [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) method to specify a selector and retrieve all elements that match the selector.
+3. Loop through the list of elements and output the result into your required format.
+ 
+
+
 
 
 

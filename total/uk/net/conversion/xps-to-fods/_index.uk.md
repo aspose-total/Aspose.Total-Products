@@ -28,12 +28,13 @@ otherformats: ODS TSV SXC MD XLSB XLT XLSM XLTM DIF XLAM CSV TXT
 
 
 
-1. Upload XPS files to convert
-1. Wait for few seconds or more depending on XPS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. XPS will be converted into FODS document
-1. Download the converted FODS file
+
+1. Open XPS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert XPS to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to FODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Fods` as SaveFormat
+
+
 
 
 

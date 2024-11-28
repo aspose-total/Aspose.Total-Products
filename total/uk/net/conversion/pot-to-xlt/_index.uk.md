@@ -28,12 +28,13 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM CSV E
 
 
 
-1. Upload POT files to convert
-1. Wait for few seconds or more depending on POT size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. POT will be converted into XLT document
-1. Download the converted XLT file
+
+1. Open POT file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export POT as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLT using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

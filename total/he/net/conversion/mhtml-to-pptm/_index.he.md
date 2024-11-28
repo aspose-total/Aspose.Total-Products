@@ -28,12 +28,13 @@ otherformats: POWERPOINT XAML POT PPSM PPSX POTX OTP POTM ODP SWF PPT PPS
 
 
 
-1. Upload MHTML files to convert
-1. Wait for few seconds or more depending on MHTML size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. MHTML will be converted into PPTM document
-1. Download the converted PPTM file
+
+1. Open MHTML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert MHTML to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
+4. Save the document to PPTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pptm` as SaveFormat
+
+
 
 
 

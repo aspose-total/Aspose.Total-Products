@@ -28,12 +28,13 @@ otherformats: EXCEL FODS MD ODS XLT TXT CSV XLTM XLAM XLSM XLTX XLSB
 
 
 
-1. Upload XML files to convert
-1. Wait for few seconds or more depending on XML size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. XML will be converted into SXC document
-1. Download the converted SXC file
+
+1. Open XML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert XML to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Sxc` as SaveFormat
+
+
 
 
 

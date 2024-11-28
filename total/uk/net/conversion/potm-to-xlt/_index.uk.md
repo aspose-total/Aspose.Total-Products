@@ -28,12 +28,13 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM CSV 
 
 
 
-1. Upload POTM files to convert
-1. Wait for few seconds or more depending on POTM size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. POTM will be converted into XLT document
-1. Download the converted XLT file
+
+1. Open POTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export POTM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLT using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

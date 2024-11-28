@@ -28,12 +28,13 @@ otherformats: WORDML PS OTT DOTX MHTML RTF PCL DOTM DOT ODT DOCM XAMLFLOW
 
 
 
-1. Upload TEX files to convert
-1. Wait for few seconds or more depending on TEX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. TEX will be converted into MARKDOWN document
-1. Download the converted MARKDOWN file
+
+1. Open TEX file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert TEX to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to MARKDOWN format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Markdown as SaveFormat
+
+
 
 
 

@@ -28,12 +28,13 @@ otherformats: ODS XLTM CSV XLSB XLAM TSV SXC XLT DIF XLSM XLS XLSX FODS XLTX
 
 
 
-1. Upload WORDML files to convert
-1. Wait for few seconds or more depending on WORDML size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. WORDML will be converted into Excel document
-1. Download the converted Excel file
+
+1. Open WORDML file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert WORDML to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsx` as SaveFormat
+
+
 
 
 

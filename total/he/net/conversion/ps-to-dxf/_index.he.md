@@ -28,12 +28,13 @@ otherformats: SVGZ EMZ PSD IMAGE TGA JPEG2000 WMZ  APNG WMF DICOM
 
 
 
-1. Upload PS files to convert
-1. Wait for few seconds or more depending on PS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PS will be converted into DXF document
-1. Download the converted DXF file
+
+1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render PS to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
+3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+4. Save the document to DXF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+
+
 
 
 

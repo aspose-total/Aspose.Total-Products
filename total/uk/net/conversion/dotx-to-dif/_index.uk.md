@@ -28,12 +28,13 @@ otherformats: FODS SXC XLSM XLSB ODS TSV XLTX EXCEL XLTM XLSX CSV XLAM XLS XLT
 
 
 
-1. Upload DOTX files to convert
-1. Wait for few seconds or more depending on DOTX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOTX will be converted into DIF document
-1. Download the converted DIF file
+
+1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `DIF` as SaveFormat
+
+
 
 
 

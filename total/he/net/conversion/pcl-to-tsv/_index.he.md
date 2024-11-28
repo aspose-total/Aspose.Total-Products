@@ -28,12 +28,13 @@ otherformats: XLT XLTM ODS MD DIF TXT XLAM CSV FODS XLSB EXCEL SXC
 
 
 
-1. Upload PCL files to convert
-1. Wait for few seconds or more depending on PCL size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PCL will be converted into TSV document
-1. Download the converted TSV file
+
+1. Open PCL file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert PCL to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Tsv` as SaveFormat
+
+
 
 
 

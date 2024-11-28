@@ -28,12 +28,14 @@ otherformats: WORD EXCEL PDF IMAGES
 
 
 
-1. Upload WEB files to convert
-1. Wait for few seconds or more depending on WEB size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. WEB will be converted into Powerpoint document
-1. Download the converted Powerpoint file
+
+
+1. Initialize an HTML document from a URL by utilizing the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructor.
+2. Retrieve elements that match a specific selector by using the [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) method.
+3. Iterate through the list of elements and customize the output format according to your specific requirements.
+ 
+
+
 
 
 

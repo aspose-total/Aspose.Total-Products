@@ -28,12 +28,13 @@ otherformats: EMZ WMZ APNG WMF JPEG2000 DXF DICOM IMAGE SVGZ TGA
 
 
 
-1. Upload JSON files to convert
-1. Wait for few seconds or more depending on JSON size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. JSON will be converted into PSD document
-1. Download the converted PSD file
+
+1. Create a new [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object and read JSON data from file
+2. Convert JSON to JPEG using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+3. Load JPEG document by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+4. Save the document to PSD format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+
+
 
 
 

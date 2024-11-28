@@ -28,12 +28,13 @@ otherformats: DOT FLATOPC DOTM MHTML WORDML ODT PS MARKDOWN RTF PCL OTT DOTX
 
 
 
-1. Upload XPS files to convert
-1. Wait for few seconds or more depending on XPS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. XPS will be converted into DOCM document
-1. Download the converted DOCM file
+
+1. Open XPS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert XPS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to DOCM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docm as SaveFormat
+
+
 
 
 

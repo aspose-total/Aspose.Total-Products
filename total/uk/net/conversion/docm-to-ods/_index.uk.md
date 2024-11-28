@@ -28,12 +28,13 @@ otherformats: XLT XLSM SXC XLAM DIF FODS XLSB TSV XLS XLTM XLSX XLTX EXCEL CSV
 
 
 
-1. Upload DOCM files to convert
-1. Wait for few seconds or more depending on DOCM size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOCM will be converted into ODS document
-1. Download the converted ODS file
+
+1. Open DOCM file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `ODS` as SaveFormat
+
+
 
 
 

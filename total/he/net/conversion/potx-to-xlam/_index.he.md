@@ -28,12 +28,13 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL CSV XLT
 
 
 
-1. Upload POTX files to convert
-1. Wait for few seconds or more depending on POTX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. POTX will be converted into XLAM document
-1. Download the converted XLAM file
+
+1. Open POTX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export POTX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLAM using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

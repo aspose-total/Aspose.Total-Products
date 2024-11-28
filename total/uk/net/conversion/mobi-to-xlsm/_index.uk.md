@@ -28,12 +28,13 @@ otherformats: FODS EXCEL XLSX XLAM XLTX XLT SXC XLTM TSV XLS ODS XLSB DIF CSV
 
 
 
-1. Upload MOBI files to convert
-1. Wait for few seconds or more depending on MOBI size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. MOBI will be converted into XLSM document
-1. Download the converted XLSM file
+
+1. Open MOBI file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSM` as SaveFormat
+
+
 
 
 

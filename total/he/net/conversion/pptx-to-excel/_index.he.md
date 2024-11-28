@@ -28,12 +28,13 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 
 
 
-1. Upload PPTX files to convert
-1. Wait for few seconds or more depending on PPTX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPTX will be converted into Excel document
-1. Download the converted Excel file
+
+1. Open PPTX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPTX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to EXCEL using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

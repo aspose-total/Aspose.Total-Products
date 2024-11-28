@@ -28,12 +28,13 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC C
 
 
 
-1. Upload PPS files to convert
-1. Wait for few seconds or more depending on PPS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPS will be converted into XLSB document
-1. Download the converted XLSB file
+
+1. Open PPS file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPS as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSB using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

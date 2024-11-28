@@ -28,12 +28,13 @@ otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM CSV XLTX EXCEL MARKDOWN MHTML X
 
 
 
-1. Upload PPS files to convert
-1. Wait for few seconds or more depending on PPS size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPS will be converted into FODS document
-1. Download the converted FODS file
+
+1. Open PPS file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPS as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to FODS using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

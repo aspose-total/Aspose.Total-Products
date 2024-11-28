@@ -28,12 +28,13 @@ otherformats: PCL ODT MARKDOWN DOCM OTT RTF XAMLFLOW DOT WORDML DOTX PS FLATOPC
 
 
 
-1. Upload MHTML files to convert
-1. Wait for few seconds or more depending on MHTML size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. MHTML will be converted into GIF document
-1. Download the converted GIF file
+
+1. Open MHTML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert MHTML to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to GIF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Gif as SaveFormat
+
+
 
 
 

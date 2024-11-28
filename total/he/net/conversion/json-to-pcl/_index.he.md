@@ -28,12 +28,13 @@ otherformats: PS DOC DOTX DOCM RTF MOBI EPUB CHM OTT WORD ODT FLATOPC WORDML DOT
 
 
 
-1. Upload JSON files to convert
-1. Wait for few seconds or more depending on JSON size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. JSON will be converted into PCL document
-1. Download the converted PCL file
+
+1. Create a new [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object and read valid JSON data from file
+2. Import JSON file to worksheet using [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) class and [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) it as PDF 
+3. Load PDF document by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
+4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) method
+
+
 
 
 

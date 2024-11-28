@@ -28,12 +28,13 @@ otherformats: XLSM XLTX XLAM XLT ODS CSV EXCEL XLS SXC XLSX XLSB XLTM TSV DIF
 
 
 
-1. Upload DOCM files to convert
-1. Wait for few seconds or more depending on DOCM size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOCM will be converted into FODS document
-1. Download the converted FODS file
+
+1. Open DOCM file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to FODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `FODS` as SaveFormat
+
+
 
 
 

@@ -28,12 +28,13 @@ otherformats: XLS XLTM XLTX XLSM SXC XLT DIF TSV CSV XLAM EXCEL ODS XLSB FODS
 
 
 
-1. Upload OTT files to convert
-1. Wait for few seconds or more depending on OTT size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. OTT will be converted into XLSX document
-1. Download the converted XLSX file
+
+1. Open OTT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert OTT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSX` as SaveFormat
+
+
 
 
 

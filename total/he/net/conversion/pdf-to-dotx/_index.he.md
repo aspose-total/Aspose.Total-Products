@@ -28,12 +28,13 @@ otherformats: RTF MHTML DOCM OTT PS DOT MARKDOWN DOTM ODT XAMLFLOW FLATOPC PCL
 
 
 
-1. Upload PDF files to convert
-1. Wait for few seconds or more depending on PDF size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PDF will be converted into DOTX document
-1. Download the converted DOTX file
+
+1. Open PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Convert PDF to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
+4. Save the document to DOTX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotx as SaveFormat
+
+
 
 
 

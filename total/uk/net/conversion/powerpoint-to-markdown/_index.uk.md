@@ -28,12 +28,13 @@ otherformats: EXCEL CSV XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM SXC X
 
 
 
-1. Upload PowerPoint files to convert
-1. Wait for few seconds or more depending on PowerPoint size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PowerPoint will be converted into MARKDOWN document
-1. Download the converted MARKDOWN file
+
+1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export POWERPOINT as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to MARKDOWN using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

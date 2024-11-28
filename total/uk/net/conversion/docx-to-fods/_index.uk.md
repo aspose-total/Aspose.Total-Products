@@ -28,12 +28,13 @@ otherformats: XLT XLTM EXCEL XLS TSV ODS XLSX XLTX XLSM CSV XLAM XLSB DIF SXC
 
 
 
-1. Upload DOCX files to convert
-1. Wait for few seconds or more depending on DOCX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOCX will be converted into FODS document
-1. Download the converted FODS file
+
+1. Open DOCX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to FODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `FODS` as SaveFormat
+
+
 
 
 

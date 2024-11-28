@@ -28,12 +28,13 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 
 
-1. Upload PPSX files to convert
-1. Wait for few seconds or more depending on PPSX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPSX will be converted into XLSX document
-1. Download the converted XLSX file
+
+1. Open PPSX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPSX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLSX using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

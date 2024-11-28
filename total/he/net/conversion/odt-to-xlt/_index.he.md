@@ -28,12 +28,13 @@ otherformats: XLS FODS XLSB EXCEL ODS SXC CSV DIF XLSM XLTX XLSX XLTM XLAM TSV
 
 
 
-1. Upload ODT files to convert
-1. Wait for few seconds or more depending on ODT size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. ODT will be converted into XLT document
-1. Download the converted XLT file
+
+1. Open ODT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLT` as SaveFormat
+
+
 
 
 

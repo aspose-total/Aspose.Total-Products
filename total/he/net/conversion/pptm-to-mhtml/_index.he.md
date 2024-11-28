@@ -28,12 +28,13 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS CSV XLAM XLTM XLSM EXCEL SXC TSV F
 
 
 
-1. Upload PPTM files to convert
-1. Wait for few seconds or more depending on PPTM size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PPTM will be converted into MHTML document
-1. Download the converted MHTML file
+
+1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+2. Export PPTM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to MHTML using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+
+
 
 
 

@@ -28,12 +28,13 @@ otherformats: APNG  EMZ DXF TGA IMAGE JPEG2000 WMF WMZ PSD DICOM
 
 
 
-1. Upload PCL files to convert
-1. Wait for few seconds or more depending on PCL size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. PCL will be converted into SVGZ document
-1. Download the converted SVGZ file
+
+1. Open PCL file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render PCL to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
+3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+4. Save the document to SVGZ format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+
+
 
 
 

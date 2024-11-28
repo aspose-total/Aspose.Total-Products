@@ -28,12 +28,13 @@ otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX CSV XLSM
 
 
 
-1. Upload DOCX files to convert
-1. Wait for few seconds or more depending on DOCX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOCX will be converted into XLAM document
-1. Download the converted XLAM file
+
+1. Open DOCX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+4. Save the document to XLAM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLAM` as SaveFormat
+
+
 
 
 
