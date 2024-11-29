@@ -30,9 +30,9 @@ otherformats: ODP PPT POWERPOINT POT OTP POTX SWF PPTM PPS PPSM POTM XAML
 
 
 1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert PDF to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to PPSX format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppsx` as SaveFormat
+2. Перетворіть PDF на PPTX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл PPTX за допомогою класу [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. Збережіть документ у форматі PPSX за допомогою методу [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) і встановіть `Ppsx` як SaveFormat
 
 
 

@@ -30,9 +30,9 @@ otherformats: POTM POT XAML OTP PPSM POWERPOINT PPTM PPS PPT ODP PPSX SWF
 
 
 1. פתח קובץ SVG באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert SVG to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to POTX format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Potx` as SaveFormat
+2. המר SVG ל-PPTX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. שמור את המסמך בפורמט POTX בשיטת [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) והגדר את 'Potx' בתור SaveFormat
 
 
 

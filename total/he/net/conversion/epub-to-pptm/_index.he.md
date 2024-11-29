@@ -28,9 +28,9 @@ otherformats: PPS SWF POT OTP PPSM POTX PPSX PPT POTM ODP POWERPOINT XAML
 
 
 1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert EPUB to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to PPTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pptm` as SaveFormat
+2. המר EPUB ל-PPTX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. שמור את המסמך בפורמט PPTM בשיטת [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) והגדר את 'Pptm' בתור SaveFormat
 
 
 

@@ -30,8 +30,8 @@ otherformats: POTM PPSM PPSX XAML PPT POTX OTP PPS SWF POT ODP PPTM
 
 
 1. פתח קובץ TEX באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert TEX to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
+2. המר TEX ל-PPTX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
 4. Save the document to PPT format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppt` as SaveFormat
 
 

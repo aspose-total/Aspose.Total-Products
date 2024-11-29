@@ -30,9 +30,9 @@ otherformats: PPT POTM POTX ODP PPSX PPS SWF POT OTP PPTM XAML POWERPOINT
 
 
 1. פתח קובץ XPS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to PPSM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppsm` as SaveFormat
+2. המר XPS ל-PPTX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. שמור את המסמך בפורמט PPSM בשיטת [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) והגדר את 'Ppsm' בתור SaveFormat
 
 
 

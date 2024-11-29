@@ -30,9 +30,9 @@ otherformats: SWF PPT ODP OTP PPS PPSX POT PPTM XAML POTX POWERPOINT PPSM
 
 
 1. פתח קובץ MHTML באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MHTML to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to POTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Potm` as SaveFormat
+2. המר MHTML ל-PPTX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. שמור את המסמך בפורמט POTM בשיטת [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) והגדר את 'Potm' בתור SaveFormat
 
 
 

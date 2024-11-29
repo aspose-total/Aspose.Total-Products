@@ -28,9 +28,9 @@ otherformats: ODP PPSM PPS SWF XAML POWERPOINT POTX POTM PPSX PPTM PPT OTP
 
 
 1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to POT format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pot` as SaveFormat
+2. Перетворіть PS на PPTX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл PPTX за допомогою класу [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 
+4. Збережіть документ у форматі POT за допомогою методу [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) і встановіть `Pot` як SaveFormat
 
 
 
