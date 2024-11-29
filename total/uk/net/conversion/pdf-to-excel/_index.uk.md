@@ -29,7 +29,7 @@ otherformats: MD XLTX DIF ODS SXC TXT XLTM XLSM FODS CSV TSV XLSB
 
 1. Load PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 2. Convert PDF to XLSX by using [Document.Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to CSV format using [Workbook.Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
 
 

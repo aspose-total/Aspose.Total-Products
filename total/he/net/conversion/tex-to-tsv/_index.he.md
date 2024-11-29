@@ -30,9 +30,9 @@ otherformats: TXT XLAM XLTM XLT FODS EXCEL DIF SXC ODS XLSM MD CSV
 
 
 1. פתח קובץ TEX באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert TEX to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Tsv` as SaveFormat
+2. המר TEX ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט TSV בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר את 'Tsv' בתור SaveFormat
 
 
 

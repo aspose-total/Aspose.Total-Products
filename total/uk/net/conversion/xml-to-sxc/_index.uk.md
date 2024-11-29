@@ -30,9 +30,9 @@ otherformats: EXCEL FODS MD ODS XLT TXT CSV XLTM XLAM XLSM XLTX XLSB
 
 
 1. Відкрийте файл XML за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XML to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Sxc` as SaveFormat
+2. Перетворіть XML у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі SXC за допомогою методу GIF і встановіть `Sxc` як SaveFormat
 
 
 

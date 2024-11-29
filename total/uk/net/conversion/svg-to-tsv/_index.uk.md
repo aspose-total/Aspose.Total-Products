@@ -30,9 +30,9 @@ otherformats: SXC FODS ODS XLSM XLTX TXT CSV XLAM XLTM MD XLSB XLT
 
 
 1. Відкрийте файл SVG за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert SVG to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Tsv` as SaveFormat
+2. Перетворіть SVG у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі TSV за допомогою методу GIF і встановіть `Tsv` як SaveFormat
 
 
 

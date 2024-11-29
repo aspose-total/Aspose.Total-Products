@@ -30,8 +30,8 @@ otherformats: XLT XLSB CSV XLTX DIF FODS XLSM ODS SXC XLTM MD XLAM
 
 
 1. פתח קובץ XPS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+2. המר XPS ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
 
 

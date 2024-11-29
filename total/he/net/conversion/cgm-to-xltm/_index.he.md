@@ -28,9 +28,9 @@ otherformats: SXC TSV MD DIF FODS XLSB ODS XLAM XLT XLTX EXCEL TXT
 
 
 1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert CGM to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLTM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xltm` as SaveFormat
+2. המר CGM ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט XLTM בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר את 'Xltm' בתור SaveFormat
 
 
 

@@ -30,9 +30,9 @@ otherformats: XLSB FODS TSV CSV MD DIF XLTM TXT XLTX EXCEL ODS XLAM
 
 
 1. Відкрийте файл MHTML за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MHTML to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlt` as SaveFormat
+2. Перетворіть MHTML у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLT за допомогою методу GIF і встановіть `Xlt` як SaveFormat
 
 
 

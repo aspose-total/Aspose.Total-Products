@@ -30,9 +30,9 @@ otherformats: XLTM EXCEL XLSM DIF SXC XLAM FODS TSV XLT CSV ODS XLSB
 
 
 1. פתח קובץ XPS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to TXT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Txt` as SaveFormat
+2. המר XPS ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט TXT בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר את 'Txt' בתור SaveFormat
 
 
 

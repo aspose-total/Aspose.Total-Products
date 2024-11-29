@@ -30,9 +30,9 @@ otherformats: CSV DIF XLTX MD SXC ODS XLT XLAM XLTM TXT XLSM EXCEL
 
 
 1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert PDF to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsb` as SaveFormat
+2. Перетворіть PDF у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLSB за допомогою методу GIF і встановіть `Xlsb` як SaveFormat
 
 
 

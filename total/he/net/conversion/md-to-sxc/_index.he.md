@@ -30,9 +30,9 @@ otherformats: XLTM DIF XLAM XLTX CSV XLSB XLT TSV EXCEL FODS TXT ODS
 
 
 1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MD to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Sxc` as SaveFormat
+2. המר MD ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט SXC בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר את 'Sxc' בתור SaveFormat
 
 
 

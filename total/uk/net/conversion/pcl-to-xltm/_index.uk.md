@@ -30,9 +30,9 @@ otherformats: TXT TSV XLTX XLSM FODS EXCEL CSV XLSB MD SXC DIF ODS
 
 
 1. Відкрийте файл PCL за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert PCL to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLTM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xltm` as SaveFormat
+2. Перетворіть PCL у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLTM за допомогою методу GIF і встановіть `Xltm` як SaveFormat
 
 
 

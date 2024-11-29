@@ -30,9 +30,9 @@ otherformats: SXC DIF ODS CSV XLTM XLSM FODS XLSB XLT TSV XLTX MD
 
 
 1. Відкрийте файл XSLFO за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XSLFO to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLAM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlam` as SaveFormat
+2. Перетворіть XSLFO у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLAM за допомогою методу GIF і встановіть `Xlam` як SaveFormat
 
 
 
