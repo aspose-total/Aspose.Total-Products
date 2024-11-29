@@ -32,7 +32,7 @@ otherformats: JPEG MD DOCX RTF PCL TIFF DOT PS PNG EMF DOTM OTT GIF PDF TEXT DOC
 1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to FLATOPC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set FlatOpc as SaveFormat
+4. שמור את המסמך בפורמט FLATOPC בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את FlatOpc כ-SaveFormat
 
 
 
