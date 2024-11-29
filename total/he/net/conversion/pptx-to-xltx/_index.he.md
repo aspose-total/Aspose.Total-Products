@@ -31,7 +31,7 @@ otherformats: EXCEL DIF ODS XLSM CSV XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN X
 
 1. Open PPTX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPTX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to XLTX using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 
 

@@ -29,10 +29,10 @@ otherformats: XLAM ODS TSV XLT FODS CSV DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 
 
-1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSM` as SaveFormat
+1. פתח קובץ DOTX באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר DOTX ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט XLSM בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'XLSM' בתור SaveFormat
 
 
 

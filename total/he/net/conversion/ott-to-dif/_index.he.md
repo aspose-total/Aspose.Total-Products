@@ -29,10 +29,10 @@ otherformats: SXC FODS XLSB XLT EXCEL XLSX XLTM ODS CSV XLAM XLSM XLTX XLS TSV
 
 
 
-1. Open OTT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert OTT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `DIF` as SaveFormat
+1. פתח קובץ OTT באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר OTT ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט DIF בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'DIF' בתור SaveFormat
 
 
 

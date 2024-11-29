@@ -29,10 +29,10 @@ otherformats: XLAM CSV FODS XLS SXC XLSX XLTX XLSB TSV XLT XLSM DIF EXCEL XLTM
 
 
 
-1. Open DOC file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `ODS` as SaveFormat
+1. פתח קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר DOC ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט ODS בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'ODS' בתור SaveFormat
 
 
 

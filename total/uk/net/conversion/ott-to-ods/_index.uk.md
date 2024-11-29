@@ -29,10 +29,10 @@ otherformats: FODS XLT DIF XLSM SXC XLSX XLTX CSV EXCEL TSV XLSB XLTM XLS XLAM
 
 
 
-1. Open OTT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert OTT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `ODS` as SaveFormat
+1. Відкрийте файл OTT за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть OTT на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі ODS за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `ODS` як SaveFormat
 
 
 

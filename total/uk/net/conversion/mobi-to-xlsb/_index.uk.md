@@ -29,10 +29,10 @@ otherformats: DIF XLTM XLTX XLSM EXCEL XLS TSV FODS SXC XLT XLAM XLSX CSV ODS
 
 
 
-1. Open MOBI file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSB` as SaveFormat
+1. Відкрийте файл MOBI за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть MOBI на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLSB за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `XLSB` як SaveFormat
 
 
 

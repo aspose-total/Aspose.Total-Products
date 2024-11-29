@@ -31,7 +31,7 @@ otherformats: XLT ODS XLTX XLTM CSV SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV XL
 
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPS as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to EXCEL using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 
 

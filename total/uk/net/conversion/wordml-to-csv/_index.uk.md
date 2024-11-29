@@ -29,10 +29,10 @@ otherformats: XLSX DIF TSV XLS EXCEL XLT SXC FODS XLTM XLSB XLAM XLTX ODS XLSM
 
 
 
-1. Open WORDML file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert WORDML to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
+1. Відкрийте файл WORDML за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть WORDML на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 

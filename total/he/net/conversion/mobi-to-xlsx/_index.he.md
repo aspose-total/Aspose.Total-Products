@@ -29,10 +29,10 @@ otherformats: EXCEL XLAM FODS SXC XLSM TSV XLTX DIF XLS ODS XLTM CSV XLSB XLT
 
 
 
-1. Open MOBI file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSX` as SaveFormat
+1. פתח קובץ MOBI באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר MOBI ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט XLSX בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'XLSX' בתור SaveFormat
 
 
 

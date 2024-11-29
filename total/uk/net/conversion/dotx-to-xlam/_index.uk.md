@@ -29,10 +29,10 @@ otherformats: XLSB XLTM SXC TSV DIF XLTX CSV EXCEL XLSM FODS XLSX XLT XLS ODS
 
 
 
-1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLAM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLAM` as SaveFormat
+1. Відкрийте файл DOTX за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть DOTX на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLAM за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `XLAM` як SaveFormat
 
 
 

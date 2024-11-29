@@ -29,10 +29,10 @@ otherformats: TSV SXC XLTX XLS XLSX XLT XLTM DIF XLSB FODS EXCEL XLSM XLAM ODS
 
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
+1. פתח קובץ DOCX באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר DOCX ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט CSV בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'CSV' בתור SaveFormat
 
 
 

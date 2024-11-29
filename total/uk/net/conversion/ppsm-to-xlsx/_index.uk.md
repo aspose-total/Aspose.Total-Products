@@ -31,7 +31,7 @@ otherformats: XLSM TSV EXCEL ODS XLT SXC XLTX XLTM FODS XLS XLSB MHTML XLAM CSV 
 
 1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPSM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to XLSX using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 
 

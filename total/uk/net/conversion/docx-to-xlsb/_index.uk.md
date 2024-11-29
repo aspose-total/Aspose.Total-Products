@@ -29,10 +29,10 @@ otherformats: CSV SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSB` as SaveFormat
+1. Відкрийте файл DOCX за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть DOCX на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLSB за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `XLSB` як SaveFormat
 
 
 

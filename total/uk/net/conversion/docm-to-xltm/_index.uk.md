@@ -29,10 +29,10 @@ otherformats: XLT XLSB CSV XLTX XLS XLAM SXC ODS XLSX TSV FODS EXCEL DIF XLSM
 
 
 
-1. Open DOCM file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLTM format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLTM` as SaveFormat
+1. Відкрийте файл DOCM за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть DOCM на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLTM за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `XLTM` як SaveFormat
 
 
 

@@ -29,10 +29,10 @@ otherformats: XLTM FODS ODS XLSX EXCEL XLSB SXC DIF XLAM XLT XLSM XLS XLTX TSV
 
 
 
-1. Open ODT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
+1. Відкрийте файл ODT за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть ODT на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 

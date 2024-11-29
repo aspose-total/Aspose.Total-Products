@@ -29,10 +29,10 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB CSV XLS XLTM XLT
 
 
 
-1. Open RTF file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert RTF to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `TSV` as SaveFormat
+1. פתח קובץ RTF באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. המר RTF ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. שמור את המסמך בפורמט TSV בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'TSV' בתור SaveFormat
 
 
 

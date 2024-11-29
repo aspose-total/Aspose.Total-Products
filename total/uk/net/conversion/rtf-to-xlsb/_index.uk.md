@@ -29,10 +29,10 @@ otherformats: ODS XLT FODS XLSX XLTX EXCEL TSV CSV XLAM XLTM DIF SXC XLS XLSM
 
 
 
-1. Open RTF file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert RTF to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSB` as SaveFormat
+1. Відкрийте файл RTF за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
+2. Перетворіть RTF на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
+4. Збережіть документ у форматі XLSB за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `XLSB` як SaveFormat
 
 
 

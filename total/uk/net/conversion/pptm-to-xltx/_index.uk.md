@@ -31,7 +31,7 @@ otherformats: XLSX CSV XLT SXC XLSB EXCEL ODS TSV MARKDOWN XLTM MHTML XLS XLAM X
 
 1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPTM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
 4. Save the document to XLTX using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 
 
