@@ -32,7 +32,7 @@ otherformats: XLTM XLAM XLTX FODS XLT MD ODS TSV TXT DIF XLSB XLSM
 1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Перетворіть PS у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 

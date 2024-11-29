@@ -32,7 +32,7 @@ otherformats: CSV MD XLTX FODS TXT XLSB XLAM XLTM SXC ODS DIF XLT
 1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. המר EPUB ל-XLSX באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
+4. שמור את המסמך בפורמט CSV בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר את 'CSV' בתור SaveFormat
 
 
 

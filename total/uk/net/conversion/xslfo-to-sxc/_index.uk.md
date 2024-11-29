@@ -32,7 +32,7 @@ otherformats: XLSM XLTX TXT FODS XLT TSV MD CSV ODS XLSB EXCEL XLAM
 1. Відкрийте файл XSLFO за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Перетворіть XSLFO у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Збережіть документ у форматі SXC за допомогою методу GIF і встановіть `Sxc` як SaveFormat
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 

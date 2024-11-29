@@ -30,7 +30,7 @@ otherformats: XLSM XLTX FODS TSV XLT XLSB XLAM MD XLTM ODS CSV EXCEL
 1. Відкрийте файл CGM за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Перетворіть CGM у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Збережіть документ у форматі TXT за допомогою методу GIF і встановіть `Txt` як SaveFormat
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 

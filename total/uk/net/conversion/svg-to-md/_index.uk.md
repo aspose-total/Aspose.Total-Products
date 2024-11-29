@@ -32,7 +32,7 @@ otherformats: EXCEL XLSM CSV XLTX SXC FODS XLSB ODS TSV TXT DIF XLT
 1. Відкрийте файл SVG за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Перетворіть SVG у XLSX за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
 3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Збережіть документ у форматі MD за допомогою методу GIF і встановіть `Md` як SaveFormat
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `CSV` як SaveFormat
 
 
 
