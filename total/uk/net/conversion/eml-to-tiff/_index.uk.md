@@ -30,7 +30,7 @@ otherformats: BMP GIF XPS DOTX SVG ODT PCL DOCM PDF DOC PS RTF MD EPUB PNG FLATO
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to TIFF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Tiff as SaveFormat
+4. Збережіть документ у форматі TIFF за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Tiff як SaveFormat
 
 
 

@@ -28,9 +28,9 @@ otherformats: DOT ODT PS MHTML OTT PCL MARKDOWN DOTX RTF DOCM XAMLFLOW WORDML
 
 
 1. Відкрийте файл EPUB за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert EPUB to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to FLATOPC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set FlatOpc as SaveFormat
+2. Перетворіть EPUB у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі FLATOPC за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть FlatOpc як SaveFormat
 
 
 

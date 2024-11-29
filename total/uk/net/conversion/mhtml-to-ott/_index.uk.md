@@ -30,9 +30,9 @@ otherformats: PS MARKDOWN DOCM DOTX DOTM FLATOPC DOT WORDML RTF ODT PCL XAMLFLOW
 
 
 1. Відкрийте файл MHTML за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MHTML to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to OTT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ott as SaveFormat
+2. Перетворіть MHTML у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі OTT за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Ott як SaveFormat
 
 
 

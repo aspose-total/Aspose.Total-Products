@@ -30,9 +30,9 @@ otherformats: OTT DOT ODT FLATOPC DOTM RTF PCL DOTX PS MARKDOWN WORDML DOCM
 
 
 1. Відкрийте файл MHTML за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MHTML to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to XAMLFLOW format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Xamlflow as SaveFormat
+2. Перетворіть MHTML у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі XAMLFLOW за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Xamlflow як SaveFormat
 
 
 

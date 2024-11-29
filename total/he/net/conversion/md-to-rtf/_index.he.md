@@ -28,9 +28,9 @@ otherformats: DOCM DOTM XAMLFLOW DOT FLATOPC ODT WORDML MHTML PCL PS MARKDOWN DO
 
 
 1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MD to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to RTF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Rtf as SaveFormat
+2. המר MD ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט RTF בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Rtf כ-SaveFormat
 
 
 

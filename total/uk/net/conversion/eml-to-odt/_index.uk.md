@@ -30,7 +30,7 @@ otherformats: DOCX TEXT PNG WORDML DOC BMP FLATOPC EMF DOCM DOTM PDF XPS RTF PCL
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to ODT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Odt as SaveFormat
+4. Збережіть документ у форматі ODT за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Odt як SaveFormat
 
 
 

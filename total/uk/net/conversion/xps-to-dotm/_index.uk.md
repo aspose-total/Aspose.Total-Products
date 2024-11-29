@@ -30,9 +30,9 @@ otherformats: OTT DOCM MARKDOWN MHTML PS XAMLFLOW RTF FLATOPC WORDML PCL DOTX OD
 
 
 1. Відкрийте файл XPS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to DOTM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotm as SaveFormat
+2. Перетворіть XPS у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі DOTM за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Dotm як SaveFormat
 
 
 

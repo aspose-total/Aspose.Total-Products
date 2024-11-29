@@ -30,7 +30,7 @@ otherformats: EPUB GIF MD RTF DOCM PCL FLATOPC JPEG PDF EMF WORDML DOTX ODT DOTM
 1. Open EMAIL file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMAIL to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to TEXT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Text as SaveFormat
+4. שמור את המסמך בפורמט TEXT בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Text כ-SaveFormat
 
 
 

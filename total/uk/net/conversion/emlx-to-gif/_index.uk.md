@@ -30,7 +30,7 @@ otherformats: DOTM DOC DOT PS EPUB JPEG PNG FLATOPC EMF OTT DOCX MD PCL TIFF XPS
 1. Open EMLX file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMLX to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to GIF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Gif as SaveFormat
+4. Збережіть документ у форматі GIF за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Gif як SaveFormat
 
 
 

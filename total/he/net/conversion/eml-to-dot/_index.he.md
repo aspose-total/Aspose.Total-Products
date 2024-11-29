@@ -30,7 +30,7 @@ otherformats: GIF EPUB TIFF PCL PNG DOTX PDF ODT RTF MD XPS JPEG OTT BMP WORDML 
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat
+4. שמור את המסמך בפורמט DOT בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Dot כ-SaveFormat
 
 
 

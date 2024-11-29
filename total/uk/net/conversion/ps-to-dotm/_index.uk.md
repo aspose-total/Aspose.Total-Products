@@ -28,9 +28,9 @@ otherformats: DOCM DOTX MARKDOWN PCL XAMLFLOW FLATOPC MHTML RTF DOT ODT WORDML O
 
 
 1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to DOTM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotm as SaveFormat
+2. Перетворіть PS у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі DOTM за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Dotm як SaveFormat
 
 
 

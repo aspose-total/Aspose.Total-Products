@@ -30,7 +30,7 @@ otherformats: PDF TEXT PS EMF OTT DOCM SVG DOCX DOTM MD DOT EPUB WORDML BMP FLAT
 1. Open EMLX file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMLX to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Doc as SaveFormat
+4. שמור את המסמך בפורמט DOC בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Doc כ-SaveFormat
 
 
 

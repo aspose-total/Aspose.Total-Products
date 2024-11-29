@@ -32,7 +32,7 @@ otherformats: EMF DOTM DOC EPUB OTT DOTX TEXT PDF BMP RTF JPEG XPS PCL DOCM FLAT
 1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOCX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docx as SaveFormat
+4. Збережіть документ у форматі DOCX за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Docx як SaveFormat
 
 
 

@@ -30,9 +30,9 @@ otherformats: WORDML PS OTT DOTX MHTML RTF PCL DOTM DOT ODT DOCM XAMLFLOW
 
 
 1. Відкрийте файл TEX за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert TEX to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to MARKDOWN format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Markdown as SaveFormat
+2. Перетворіть TEX у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі MARKDOWN за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Markdown як SaveFormat
 
 
 

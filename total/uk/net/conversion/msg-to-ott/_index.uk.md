@@ -30,7 +30,7 @@ otherformats: FLATOPC DOTX PNG RTF EPUB GIF MD WORDML ODT PS EMF PDF JPEG DOCM D
 1. Open MSG file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert MSG to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to OTT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ott as SaveFormat
+4. Збережіть документ у форматі OTT за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Ott як SaveFormat
 
 
 

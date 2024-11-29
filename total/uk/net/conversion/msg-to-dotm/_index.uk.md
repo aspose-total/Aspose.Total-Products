@@ -30,7 +30,7 @@ otherformats: DOC OTT EPUB JPEG WORDML FLATOPC PDF EMF TIFF DOT ODT DOCM GIF XPS
 1. Open MSG file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert MSG to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOTM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotm as SaveFormat
+4. Збережіть документ у форматі DOTM за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Dotm як SaveFormat
 
 
 

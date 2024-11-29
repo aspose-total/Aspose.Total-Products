@@ -30,9 +30,9 @@ otherformats: MHTML DOTX WORDML ODT FLATOPC OTT DOTM PS MARKDOWN XAMLFLOW RTF DO
 
 
 1. פתח קובץ XPS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat
+2. המר XPS ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט PCL בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Pcl כ-SaveFormat
 
 
 

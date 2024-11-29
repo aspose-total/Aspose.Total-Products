@@ -32,7 +32,7 @@ otherformats: FLATOPC JPEG PDF PCL DOCM PNG GIF OTT BMP SVG DOC MD DOT ODT PS RT
 1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOTX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotx as SaveFormat
+4. שמור את המסמך בפורמט DOTX בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Dotx כ-SaveFormat
 
 
 

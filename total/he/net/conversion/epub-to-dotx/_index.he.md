@@ -28,9 +28,9 @@ otherformats: DOCM DOT ODT OTT PCL RTF XAMLFLOW DOTM MARKDOWN PS FLATOPC WORDML
 
 
 1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert EPUB to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to DOTX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotx as SaveFormat
+2. המר EPUB ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט DOTX בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Dotx כ-SaveFormat
 
 
 

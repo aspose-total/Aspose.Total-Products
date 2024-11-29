@@ -30,7 +30,7 @@ otherformats: RTF BMP ODT DOT TEXT TIFF WORDML PS SVG PNG MD EMF EPUB FLATOPC DO
 1. Open EMLX file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMLX to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to OTT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ott as SaveFormat
+4. שמור את המסמך בפורמט OTT בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Ott כ-SaveFormat
 
 
 

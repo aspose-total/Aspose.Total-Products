@@ -30,7 +30,7 @@ otherformats: DOCM PDF OTT XPS MD PS ODT DOT DOTM EMF DOTX SVG DOC GIF TEXT PCL 
 1. Open EMLX file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMLX to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to JPEG format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Jpeg as SaveFormat
+4. Збережіть документ у форматі JPEG за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Jpeg як SaveFormat
 
 
 

@@ -30,7 +30,7 @@ otherformats: XPS EMF PDF WORDML TEXT EPUB JPEG FLATOPC BMP OTT DOT DOCX PS GIF 
 1. Open EMAIL file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMAIL to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOCM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docm as SaveFormat
+4. Збережіть документ у форматі DOCM за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Docm як SaveFormat
 
 
 

@@ -28,9 +28,9 @@ otherformats: PS OTT WORDML MHTML PCL DOCM MARKDOWN DOT ODT DOTM RTF DOTX
 
 
 1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MD to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to FLATOPC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set FlatOpc as SaveFormat
+2. המר MD ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט FLATOPC בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את FlatOpc כ-SaveFormat
 
 
 

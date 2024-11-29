@@ -30,7 +30,7 @@ otherformats: EPUB DOCM TEXT MD DOC GIF BMP DOTM JPEG ODT PDF XPS PCL DOCX PNG F
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOTX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotx as SaveFormat
+4. Збережіть документ у форматі DOTX за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Dotx як SaveFormat
 
 
 

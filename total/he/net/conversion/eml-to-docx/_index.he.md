@@ -30,7 +30,7 @@ otherformats: PCL PDF TEXT RTF DOTM DOCM DOT MD DOTX TIFF BMP FLATOPC WORDML EMF
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOCX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docx as SaveFormat
+4. שמור את המסמך בפורמט DOCX בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Docx כ-SaveFormat
 
 
 

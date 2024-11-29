@@ -30,7 +30,7 @@ otherformats: PDF DOCX GIF BMP PCL PNG OTT SVG DOTM EMF RTF TIFF DOCM ODT EPUB P
 1. Open EMAIL file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EMAIL to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to DOTX format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotx as SaveFormat
+4. Збережіть документ у форматі DOTX за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Dotx як SaveFormat
 
 
 

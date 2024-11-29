@@ -30,9 +30,9 @@ otherformats: ODT RTF DOTM MARKDOWN PS DOCM OTT WORDML DOT FLATOPC MHTML DOTX
 
 
 1. פתח קובץ TEX באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert TEX to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat
+2. המר TEX ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט PCL בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Pcl כ-SaveFormat
 
 
 

@@ -30,7 +30,7 @@ otherformats: DOCM GIF EPUB RTF ODT TIFF PNG FLATOPC PS XPS DOC EMF DOTM DOT PDF
 1. Open MSG file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert MSG to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to BMP format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Bmp as SaveFormat
+4. Збережіть документ у форматі BMP за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Bmp як SaveFormat
 
 
 

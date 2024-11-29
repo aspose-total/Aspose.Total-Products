@@ -32,7 +32,7 @@ otherformats: DOTM BMP FLATOPC ODT WORDML SVG DOC DOCX EPUB MD DOCM XPS JPEG DOT
 1. Open OFT file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert OFT to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to TIFF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Tiff as SaveFormat
+4. שמור את המסמך בפורמט TIFF בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Tiff כ-SaveFormat
 
 
 

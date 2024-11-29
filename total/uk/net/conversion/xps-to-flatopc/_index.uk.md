@@ -30,9 +30,9 @@ otherformats: PS XAMLFLOW MHTML DOTM ODT MARKDOWN OTT WORDML DOTX DOT PCL DOCM
 
 
 1. Відкрийте файл XPS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert XPS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to FLATOPC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set FlatOpc as SaveFormat
+2. Перетворіть XPS у Doc за допомогою методу [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. Завантажте файл Doc за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document) Aspose.Words 
+4. Збережіть документ у форматі FLATOPC за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть FlatOpc як SaveFormat
 
 
 

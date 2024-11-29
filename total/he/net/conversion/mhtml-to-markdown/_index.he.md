@@ -30,9 +30,9 @@ otherformats: DOTM DOCM DOTX PS ODT DOT RTF OTT FLATOPC PCL XAMLFLOW WORDML
 
 
 1. פתח קובץ MHTML באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
-2. Convert MHTML to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to MARKDOWN format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Markdown as SaveFormat
+2. המר MHTML ל-Doc באמצעות שיטת [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)
+3. טען קובץ Doc באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document) של Aspose.Words 
+4. שמור את המסמך בפורמט MARKDOWN בשיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) והגדר את Markdown כ-SaveFormat
 
 
 

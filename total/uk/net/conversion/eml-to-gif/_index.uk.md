@@ -30,7 +30,7 @@ otherformats: DOTX EPUB DOCM DOCX PS SVG EMF PNG RTF TIFF WORDML JPEG FLATOPC PD
 1. Open EML file using [MailMessage](https://reference.aspose.com/email/net/aspose.email/mailmessage) class
 2. Convert EML to HTML by using [Save](https://reference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) method
 3. Load HTML by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class 
-4. Save the document to GIF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Gif as SaveFormat
+4. Збережіть документ у форматі GIF за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) і встановіть Gif як SaveFormat
 
 
 
