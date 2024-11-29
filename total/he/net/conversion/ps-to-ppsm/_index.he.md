@@ -27,7 +27,7 @@ otherformats: PPSX POTX PPTM POWERPOINT SWF POTM ODP PPS OTP PPT POT XAML
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-PPSM באמצעות .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to PPSM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppsm` as SaveFormat

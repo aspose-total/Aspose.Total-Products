@@ -27,7 +27,7 @@ otherformats: MHTML WORDML MARKDOWN DOTM FLATOPC XAMLFLOW ODT DOTX RTF DOCM OTT 
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-PCL באמצעות .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat

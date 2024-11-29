@@ -29,7 +29,7 @@ otherformats: DOT WORDML DOTM MHTML PCL OTT DOCM FLATOPC XAMLFLOW ODT DOTX RTF
 
 
 
-1. Open TEX file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл TEX за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert TEX to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to PS format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ps as SaveFormat

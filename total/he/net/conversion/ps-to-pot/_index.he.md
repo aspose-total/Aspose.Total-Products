@@ -27,7 +27,7 @@ otherformats: ODP PPSM PPS SWF XAML POWERPOINT POTX POTM PPSX PPTM PPT OTP
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-POT באמצעות .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to POT format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pot` as SaveFormat

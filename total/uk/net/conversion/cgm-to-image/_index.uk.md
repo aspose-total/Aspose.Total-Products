@@ -27,9 +27,9 @@ otherformats: TGA DXF APNG WMZ JPEG2000 WMF SVGZ  PSD EMZ DICOM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть CGM на IMAGE за допомогою .NET Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render CGM to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
+1. Відкрийте файл CGM за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Ініціалізація об’єкта класу [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) і рендеринг CGM у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
 4. Save the document to JPEG2000 format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 
 

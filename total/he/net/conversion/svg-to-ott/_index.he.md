@@ -29,7 +29,7 @@ otherformats: MARKDOWN DOTM MHTML PS XAMLFLOW FLATOPC WORDML DOT ODT DOCM RTF PC
 
 
 
-1. Open SVG file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ SVG באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert SVG to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to OTT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ott as SaveFormat

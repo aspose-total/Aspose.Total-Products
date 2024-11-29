@@ -29,7 +29,7 @@ otherformats: XAMLFLOW OTT ODT FLATOPC PCL DOTX DOCM WORDML MARKDOWN RTF PS DOT
 
 
 
-1. Open MHTML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ MHTML באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MHTML to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to DOTM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotm as SaveFormat

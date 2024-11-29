@@ -27,7 +27,7 @@ otherformats: DOT ODT PS MHTML OTT PCL MARKDOWN DOTX RTF DOCM XAMLFLOW WORDML
 {{% blocks/products/pf/agp/feature-section-col title="המר את EPUB ל-FLATOPC באמצעות .NET Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert EPUB to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to FLATOPC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set FlatOpc as SaveFormat

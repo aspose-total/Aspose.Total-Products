@@ -27,10 +27,10 @@ otherformats: APNG TGA IMAGE SVGZ EMZ WMF JPEG2000 PSD WMZ DICOM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть HTML на DXF за допомогою .NET Automation API" %}}
 
 
-1. Open HTML file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render HTML to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
-4. Save the document to DXF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+1. Відкрийте файл HTML за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Ініціалізація об’єкта класу [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) і рендеринг HTML у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
+4. Збережіть документ у форматі DXF за допомогою методу [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 

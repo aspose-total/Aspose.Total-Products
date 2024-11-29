@@ -29,10 +29,10 @@ otherformats: SVGZ WMF IMAGE APNG  DXF TGA JPEG2000 WMZ PSD DICOM
 
 
 
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render PDF to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
-4. Save the document to EMZ format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. Ініціалізація об’єкта класу [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) і рендеринг PDF у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
+4. Збережіть документ у форматі EMZ за допомогою методу [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 

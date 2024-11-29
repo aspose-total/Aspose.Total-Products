@@ -29,7 +29,7 @@ otherformats: XLT XLAM XLTX CSV SXC EXCEL DIF XLSM XLTM FODS MD TXT
 
 
 
-1. Open XPS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл XPS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert XPS to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
 4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsb` as SaveFormat

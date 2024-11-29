@@ -27,7 +27,7 @@ otherformats: RTF MHTML XAMLFLOW DOCM DOT MARKDOWN OTT ODT FLATOPC DOTX PCL WORD
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PS на GIF за допомогою .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to GIF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Gif as SaveFormat

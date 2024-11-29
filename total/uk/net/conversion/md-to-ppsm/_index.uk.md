@@ -27,7 +27,7 @@ otherformats: ODP POWERPOINT XAML POTM PPSX SWF PPT POTX PPTM PPS POT OTP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на PPSM за допомогою .NET Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл MD за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MD to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to PPSM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppsm` as SaveFormat

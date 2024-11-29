@@ -27,7 +27,7 @@ otherformats: OTT PS DOT DOTX WORDML DOCM MARKDOWN RTF FLATOPC XAMLFLOW MHTML DO
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-PCL באמצעות .NET Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MD to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat

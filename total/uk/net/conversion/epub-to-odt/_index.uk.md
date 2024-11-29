@@ -27,7 +27,7 @@ otherformats: PCL DOCM RTF WORDML FLATOPC PS DOTM MARKDOWN DOTX XAMLFLOW DOT MHT
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть EPUB на ODT за допомогою .NET Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл EPUB за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert EPUB to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to ODT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Odt as SaveFormat

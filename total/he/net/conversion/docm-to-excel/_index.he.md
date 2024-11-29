@@ -32,7 +32,7 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 1. פתח קובץ DOCM באמצעות מחלקת [Document](https://reference.aspose.com/words/net/aspose.words/document)
 2. המר DOCM ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsx` as SaveFormat
+4. פתח קובץשמור את המסמך בפורמט XLSX בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) והגדר 'Xlsx' בתור SaveFormat
 
 
 

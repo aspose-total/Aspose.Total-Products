@@ -27,7 +27,7 @@ otherformats: POT PPTM ODP PPSM PPS PPT POTM XAML POTX POWERPOINT SWF PPSX
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PS на OTP за допомогою .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to OTP format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Otp` as SaveFormat

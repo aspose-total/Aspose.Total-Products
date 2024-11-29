@@ -27,7 +27,7 @@ otherformats: DOCM DOTM XAMLFLOW DOT FLATOPC ODT WORDML MHTML PCL PS MARKDOWN DO
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на RTF за допомогою .NET Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл MD за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MD to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to RTF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Rtf as SaveFormat

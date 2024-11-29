@@ -29,7 +29,7 @@ otherformats: TSV MD ODS XLTX XLAM XLSB SXC XLTM FODS EXCEL CSV TXT
 
 
 
-1. Open SVG file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ SVG באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert SVG to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
 4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlt` as SaveFormat

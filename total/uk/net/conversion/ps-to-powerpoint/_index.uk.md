@@ -27,7 +27,7 @@ otherformats: SWF PPTM XAML OTP PPSX POT PPT PPSM POTM PPS POTX ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PS на Powerpoint за допомогою .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to PPT format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Ppt` as SaveFormat

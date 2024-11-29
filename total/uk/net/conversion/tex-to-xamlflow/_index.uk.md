@@ -29,7 +29,7 @@ otherformats: PCL MARKDOWN DOTM DOCM DOT ODT MHTML OTT DOTX WORDML PS FLATOPC
 
 
 
-1. Open TEX file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл TEX за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert TEX to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to XAMLFLOW format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Xamlflow as SaveFormat

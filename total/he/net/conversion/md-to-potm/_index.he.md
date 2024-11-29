@@ -27,7 +27,7 @@ otherformats: POTX PPTM PPSM PPS POWERPOINT ODP PPT PPSX SWF XAML OTP POT
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-POTM באמצעות .NET Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MD to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
 4. Save the document to POTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Potm` as SaveFormat

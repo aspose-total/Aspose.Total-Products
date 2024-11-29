@@ -27,7 +27,7 @@ otherformats: XAMLFLOW DOT MHTML PCL MARKDOWN RTF PS DOCM OTT WORDML ODT DOTM
 {{% blocks/products/pf/agp/feature-section-col title="המר את CGM ל-GIF באמצעות .NET Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert CGM to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to GIF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Gif as SaveFormat

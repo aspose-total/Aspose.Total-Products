@@ -27,7 +27,7 @@ otherformats: XAMLFLOW DOCM DOTM RTF WORDML FLATOPC DOT ODT DOTX MHTML MARKDOWN 
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-OTT באמצעות .NET Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to OTT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ott as SaveFormat

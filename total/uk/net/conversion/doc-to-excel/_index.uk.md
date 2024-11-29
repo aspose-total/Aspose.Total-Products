@@ -32,7 +32,7 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 1. Відкрийте файл DOC за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
 2. Перетворіть DOC на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsx` as SaveFormat
+4. Збережіть документ у форматі XLSX за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) і встановіть `Xlsx` як SaveFormat
 
 
 

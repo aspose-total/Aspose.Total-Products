@@ -27,7 +27,7 @@ otherformats: FLATOPC ODT WORDML OTT DOT RTF PS MHTML MARKDOWN DOTX DOCM XAMLFLO
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-DOTM באמצעות .NET Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert MD to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to DOTM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dotm as SaveFormat

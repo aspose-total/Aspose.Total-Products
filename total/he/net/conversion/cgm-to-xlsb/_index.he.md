@@ -27,7 +27,7 @@ otherformats: CSV TSV XLTX ODS XLSM XLT XLTM EXCEL SXC TXT FODS MD
 {{% blocks/products/pf/agp/feature-section-col title="המר את CGM ל-XLSB באמצעות .NET Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert CGM to XLSX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
 4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsb` as SaveFormat

@@ -27,7 +27,7 @@ otherformats: WORDML DOTM XAMLFLOW MARKDOWN DOTX DOCM FLATOPC OTT PCL RTF DOT OD
 {{% blocks/products/pf/agp/feature-section-col title="המר את EPUB ל-PS באמצעות .NET Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert EPUB to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to PS format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Ps as SaveFormat

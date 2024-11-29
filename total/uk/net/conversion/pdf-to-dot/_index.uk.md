@@ -29,7 +29,7 @@ otherformats: OTT DOTX PCL MHTML PS ODT RTF FLATOPC WORDML DOTM DOCM MARKDOWN
 
 
 
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PDF to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to DOT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat

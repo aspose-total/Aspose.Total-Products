@@ -29,7 +29,7 @@ otherformats: WORDML MARKDOWN OTT MHTML RTF PS DOTM DOT XAMLFLOW ODT PCL FLATOPC
 
 
 
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+1. פתח קובץ PDF באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Convert PDF to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
 3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
 4. Save the document to DOCM format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Docm as SaveFormat

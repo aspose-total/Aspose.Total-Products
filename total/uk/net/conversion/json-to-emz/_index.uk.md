@@ -32,7 +32,7 @@ otherformats: IMAGE TGA SVGZ JPEG2000 APNG DXF WMZ WMF DICOM PSD
 1. Create a new [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) object and read JSON data from file
 2. Convert JSON to JPEG using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 3. Load JPEG document by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
-4. Save the document to EMZ format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+4. Збережіть документ у форматі EMZ за допомогою методу [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 

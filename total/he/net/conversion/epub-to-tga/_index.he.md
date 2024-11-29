@@ -29,10 +29,10 @@ otherformats:  PSD DXF APNG IMAGE EMZ WMZ WMF JPEG2000 SVGZ DICOM
 
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Initialize [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) class object and render EPUB to JPEG by using [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) class 
-4. Save the document to TGA format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
+2. אתחול אובייקט מחלקת [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) ועיבוד EPUB ל-JPEG באמצעות שיטת [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
+3. טען קובץ JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
+4. שמור את המסמך בפורמט TGA בשיטת [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 
