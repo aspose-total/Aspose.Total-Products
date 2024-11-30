@@ -32,7 +32,7 @@ otherformats: JPEG2000 EMZ  WMZ TGA PSD DXF WMF SVGZ APNG DICOM
 1. פתח קובץ PDF באמצעות מחלקת [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. אתחול אובייקט מחלקת [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) ועיבוד PDF ל-JPEG באמצעות שיטת [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
 3. טען קובץ JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
-4. Save the document to JPEG2000 format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+4. שמור את המסמך בפורמט JPEG2000 בשיטת [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 

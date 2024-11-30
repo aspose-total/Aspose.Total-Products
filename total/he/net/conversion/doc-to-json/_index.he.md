@@ -32,7 +32,7 @@ otherformats: CSV XLAM SXC TSV XLT EXCEL DIF XLSM XLTM XLSX XLSB FODS ODS XLTX
 1. Load DOC file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. המר DOC ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+4. שמור את המסמך בפורמט JSON בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 
 
 

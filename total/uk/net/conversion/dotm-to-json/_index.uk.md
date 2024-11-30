@@ -32,7 +32,7 @@ otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 1. Відкрийте файл DOTM за допомогою класу [Document](https://reference.aspose.com/words/net/aspose.words/document)
 2. Перетворіть DOTM на HTML за допомогою методу [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+4. Збережіть документ у форматі JSON за допомогою методу [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 
 
 

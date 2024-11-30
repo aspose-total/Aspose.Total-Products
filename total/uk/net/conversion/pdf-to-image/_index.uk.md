@@ -32,7 +32,7 @@ otherformats: JPEG2000 EMZ  WMZ TGA PSD DXF WMF SVGZ APNG DICOM
 1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)
 2. Ініціалізація об’єкта класу [JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice) і рендеринг PDF у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1)
 3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 
-4. Save the document to JPEG2000 format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
+4. Збережіть документ у форматі JPEG2000 методом [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)
 
 
 

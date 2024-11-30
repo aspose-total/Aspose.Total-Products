@@ -32,7 +32,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Convert PPTM to HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 
-4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+4. שמור את המסמך בפורמט JSON בשיטת [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)
 
 
 
