@@ -42,7 +42,7 @@ otherformats: POTX PPTM POT POWERPOINT PPTX PPT PPSX PPS POTM PPSM CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Word на ODP за допомогою Java Automation API" %}}
 
 
-1. Open WORD file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. Відкрийте файл WORD за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert WORD file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file

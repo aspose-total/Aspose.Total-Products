@@ -42,10 +42,10 @@ otherformats: EXCEL XLAM XLSM XLSB XLTX TSV DIF XLS XLT SXC FODS XLTM XLSX ODS
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOT ל-CSV באמצעות Java Automation API" %}}
 
 
-1. Open DOT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ DOT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. המר DOT ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט CSV בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

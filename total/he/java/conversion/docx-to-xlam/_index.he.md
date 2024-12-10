@@ -42,10 +42,10 @@ otherformats: CSV EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOCX ל-XLAM באמצעות Java Automation API" %}}
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLAM format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ DOCX באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. המר DOCX ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט XLAM בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

@@ -42,7 +42,7 @@ otherformats: PPSX PPT PPTX ODP PPTM PPSM POT POWERPOINT POTM PPS CSV DIF FODS O
 {{% blocks/products/pf/agp/feature-section-col title="המר את TXT ל-POTX באמצעות Java Automation API" %}}
 
 
-1. Open TXT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ TXT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert TXT file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file

@@ -42,7 +42,7 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS ODP PPT CSV DIF FODS O
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOCM ל-PPSX באמצעות Java Automation API" %}}
 
 
-1. Open DOCM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ DOCM באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert DOCM file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file

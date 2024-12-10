@@ -42,10 +42,10 @@ otherformats: XLSM XLTX SXC XLT ODS CSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOCX на TSV за допомогою Java Automation API" %}}
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл DOCX за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Перетворіть DOCX на HTML за допомогою методу [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі TSV за допомогою методу [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

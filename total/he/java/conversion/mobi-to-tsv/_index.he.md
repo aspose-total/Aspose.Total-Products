@@ -42,10 +42,10 @@ otherformats: EXCEL CSV XLTX ODS SXC FODS XLSX XLT XLTM XLAM XLSM XLS XLSB DIF
 {{% blocks/products/pf/agp/feature-section-col title="המר את MOBI ל-TSV באמצעות Java Automation API" %}}
 
 
-1. Open MOBI file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ MOBI באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. המר MOBI ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט TSV בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

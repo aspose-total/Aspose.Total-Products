@@ -42,7 +42,7 @@ otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS ODP PPSM POTX POT CSV DIF FODS O
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOC на POTM за допомогою Java Automation API" %}}
 
 
-1. Open DOC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. Відкрийте файл DOC за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert DOC file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file

@@ -42,7 +42,7 @@ otherformats: POTM PPSM POTX ODP PPTM PPSX POT POWERPOINT PPS PPTX CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOCX ל-PPT באמצעות Java Automation API" %}}
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ DOCX באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert DOCX file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
 5. Extract content from HTML file using BufferedReader and write the content in your presentation file

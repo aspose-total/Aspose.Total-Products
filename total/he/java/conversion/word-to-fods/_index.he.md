@@ -42,10 +42,10 @@ otherformats: XLTM XLS CSV XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 {{% blocks/products/pf/agp/feature-section-col title="המר את Word ל-FODS באמצעות Java Automation API" %}}
 
 
-1. Open WORD file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert WORD to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to FODS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ WORD באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. המר WORD ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. טען מסמך HTML באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט FODS בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 
