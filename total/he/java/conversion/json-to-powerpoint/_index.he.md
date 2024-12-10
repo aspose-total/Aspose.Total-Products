@@ -42,8 +42,8 @@ otherformats: PPSX PPS POT POTM OTP POTX PPSM PPTM ODP PPT
 {{% blocks/products/pf/agp/feature-section-col title="המר את JSON ל-Powerpoint באמצעות Java Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and open JSON file 
-2. Save JSON as PPTX using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. צור אובייקט [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) חדש ופתח את קובץ JSON 
+2. שמור JSON כ-PPTX בשיטת [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
 4. Save the document to PowerPoint format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method
 

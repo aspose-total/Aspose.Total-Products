@@ -45,7 +45,7 @@ otherformats: JPEG2000 EMZ  WMZ TGA PSD DXF WMF SVGZ APNG DICOM
 1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Ініціалізація об’єкта класу та візуалізація PDF у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
 3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
-4. Save the document to JPEG2000 format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+4. Збережіть документ у форматі JPEG2000 методом [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

@@ -42,9 +42,9 @@ otherformats: APNG SVGZ DXF JPEG2000 PSD WMF WMZ TGA DICOM IMAGE
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть JSON на EMZ за допомогою Java Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and open JSON file 
-2. Save JSON as JPEG using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
-3. Load JPEG document by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
+1. Створіть новий об’єкт [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) і відкрийте файл JSON 
+2. Збережіть JSON як JPEG за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
+3. Завантажте документ JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
 4. Збережіть документ у форматі EMZ за допомогою методу [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 

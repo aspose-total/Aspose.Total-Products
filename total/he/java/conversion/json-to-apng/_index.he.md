@@ -42,9 +42,9 @@ otherformats: JPEG2000 EMZ PSD WMF WMZ DXF IMAGE SVGZ DICOM TGA
 {{% blocks/products/pf/agp/feature-section-col title="המר את JSON ל-APNG באמצעות Java Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and open JSON file 
-2. Save JSON as JPEG using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
-3. Load JPEG document by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
+1. צור אובייקט [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) חדש ופתח את קובץ JSON 
+2. שמור JSON כ-JPEG בשיטת [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
+3. טען מסמך JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
 4. שמור את המסמך בפורמט APNG בשיטת [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 

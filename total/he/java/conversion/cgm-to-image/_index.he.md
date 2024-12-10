@@ -21,7 +21,7 @@ otherformats: TGA DXF APNG WMZ JPEG2000 WMF SVGZ  PSD EMZ DICOM
 1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. אתחול אובייקט מחלקה ועיבוד CGM ל-JPEG באמצעות שיטת [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
 3. טען קובץ JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
-4. Save the document to JPEG2000 format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+4. שמור את המסמך בפורמט JPEG2000 בשיטת [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

@@ -42,10 +42,10 @@ otherformats: PPT POTM PPTM PPS ODP POT POWERPOINT OTP POTX PPSM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть JSON на PPSX за допомогою Java Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and open JSON file 
-2. Save JSON as PPTX using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Створіть новий об’єкт [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) і відкрийте файл JSON 
+2. Збережіть JSON як PPTX за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 3. Завантажте документ PPTX за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
-4. Save the document to PPSX format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method
+4. Збережіть документ у форматі PPSX за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-)
 
 
 
