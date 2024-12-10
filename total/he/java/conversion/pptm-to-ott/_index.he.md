@@ -42,8 +42,8 @@ otherformats: TEXT DOCX FLATOPC DOTX RTF DOTM DOCM WORD ODT DOT WORDML DOC
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPTM ל-OTT באמצעות Java Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+1. פתח קובץ PPTM באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPTM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 4. Save the document to OTT format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
 

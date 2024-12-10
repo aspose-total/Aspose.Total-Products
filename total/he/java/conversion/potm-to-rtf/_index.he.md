@@ -42,8 +42,8 @@ otherformats: DOTM DOTX ODT OTT WORDML DOT DOC DOCM TEXT WORD FLATOPC DOCX
 {{% blocks/products/pf/agp/feature-section-col title="המר את POTM ל-RTF באמצעות Java Automation API" %}}
 
 
-1. Open POTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+1. פתח קובץ POTM באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר POTM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 4. Save the document to RTF format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
 

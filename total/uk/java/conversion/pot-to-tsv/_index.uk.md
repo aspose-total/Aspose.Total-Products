@@ -42,8 +42,8 @@ otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть POT на TSV за допомогою Java Automation API" %}}
 
 
-1. Open POT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл POT за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть POT на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі TSV за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

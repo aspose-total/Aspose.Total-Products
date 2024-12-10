@@ -42,8 +42,8 @@ otherformats: DOC DOT RTF ODT DOCX DOTM WORDML OTT DOCM FLATOPC TEXT DOTX
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPSM ל-Word באמצעות Java Automation API" %}}
 
 
-1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPSM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+1. פתח קובץ PPSM באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPSM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 4. Save the document to DOCX format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
 

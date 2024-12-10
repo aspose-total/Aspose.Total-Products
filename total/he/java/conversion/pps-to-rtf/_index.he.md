@@ -42,8 +42,8 @@ otherformats: DOCM DOCX DOTM FLATOPC OTT DOC ODT WORD TEXT DOT WORDML DOTX
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPS ל-RTF באמצעות Java Automation API" %}}
 
 
-1. Open PPS file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPS to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
+1. פתח קובץ PPS באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPS ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 4. Save the document to RTF format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method
 

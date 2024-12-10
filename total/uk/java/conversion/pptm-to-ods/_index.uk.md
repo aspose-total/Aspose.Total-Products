@@ -42,8 +42,8 @@ otherformats: XLT XLS TSV MHTML XLSX DIF CSV XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPTM на ODS за допомогою Java Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл PPTM за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть PPTM на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі ODS за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

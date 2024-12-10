@@ -42,8 +42,8 @@ otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF CSV XLTX XLS TSV EXC
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PowerPoint на MHTML за допомогою Java Automation API" %}}
 
 
-1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POWERPOINT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл POWERPOINT за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть POWERPOINT на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі MHTML за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

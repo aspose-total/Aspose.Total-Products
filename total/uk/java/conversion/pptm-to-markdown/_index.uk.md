@@ -42,8 +42,8 @@ otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPTM на MARKDOWN за допомогою Java Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл PPTM за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть PPTM на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі MARKDOWN за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
