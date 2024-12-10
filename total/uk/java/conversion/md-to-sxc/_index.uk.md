@@ -19,10 +19,10 @@ otherformats: DIF EXCEL TXT XLTM CSV XLT XLTX XLSM XLSB FODS XLAM TSV
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на SXC за допомогою Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to SXC format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл MD за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть MD у XLSX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі SXC за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

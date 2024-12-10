@@ -18,9 +18,9 @@ otherformats: PS ODT PCL DOTM DOT RTF MARKDOWN FLATOPC WORDML DOCM DOTX OTT
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-XAMLFLOW באמצעות Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר MD ל-DOC באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) של Aspose.Words  
 4. Save the document to XAML_FLOW format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set XAML_FLOW as SaveFormat
 
 

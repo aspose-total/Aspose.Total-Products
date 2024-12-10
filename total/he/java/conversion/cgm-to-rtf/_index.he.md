@@ -18,10 +18,10 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML DOCM 
 {{% blocks/products/pf/agp/feature-section-col title="המר את CGM ל-RTF באמצעות Java Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert CGM to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to RTF format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set RTF as SaveFormat
+1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר CGM ל-DOC באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) של Aspose.Words  
+4. שמור את המסמך בפורמט RTF בשיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) והגדר את RTF כ-SaveFormat
 
 
 

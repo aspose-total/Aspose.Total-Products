@@ -18,10 +18,10 @@ otherformats: SWF POWERPOINT POT POTX ODP PPT PPSM OTP PPS XAML PPTM PPSX
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-POTM באמצעות Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to POTM format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Potm` as SaveFormat
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר MD ל-PPTX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. שמור את המסמך בפורמט POTM בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) והגדר את 'Potm' בתור SaveFormat
 
 
 

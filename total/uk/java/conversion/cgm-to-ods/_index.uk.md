@@ -19,10 +19,10 @@ otherformats: XLTM XLSB XLSM XLT SXC MD DIF EXCEL CSV XLAM TXT FODS
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть CGM на ODS за допомогою Java Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert CGM to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to ODS format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл CGM за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть CGM у XLSX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі ODS за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

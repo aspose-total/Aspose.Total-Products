@@ -19,9 +19,9 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA APNG WMZ DICOM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на IMAGE за допомогою Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize class object and render MD to JPEG by using [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
+1. Відкрийте файл MD за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Ініціалізація об’єкта класу та візуалізація MD у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
+3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
 4. Save the document to JPEG2000 format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 
 

@@ -45,7 +45,7 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF CSV XLTX XLSB FODS XLSX MHTML XLTM XLSM
 1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert PPSM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLT format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+4. שמור את המסמך בפורמט XLT בשיטת [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

@@ -19,10 +19,10 @@ otherformats: POTX PPSM POWERPOINT POT SWF PPS POTM PPT XAML ODP OTP PPTM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на PPSX за допомогою Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to PPSX format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Ppsx` as SaveFormat
+1. Відкрийте файл MD за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть MD на PPTX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. Завантажте документ PPTX за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. Збережіть документ у форматі PPSX за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) і встановіть `Ppsx` як SaveFormat
 
 
 

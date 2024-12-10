@@ -19,10 +19,10 @@ otherformats: DOTX FLATOPC XAMLFLOW RTF DOT DOTM DOCM MARKDOWN OTT MHTML PCL WOR
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PS на ODT за допомогою Java Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PS to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to ODT format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set ODT as SaveFormat
+1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть PS у DOC за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте файл DOC за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words  
+4. Збережіть документ у форматі ODT за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) і встановіть ODT як SaveFormat
 
 
 

@@ -45,7 +45,7 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS CSV FODS TSV XLTM MHTML M
 1. Open POT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to SXC format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+4. Збережіть документ у форматі SXC за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

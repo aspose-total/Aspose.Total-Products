@@ -18,9 +18,9 @@ otherformats: MD XLAM CSV DIF XLSM TSV TXT SXC XLT XLTM XLTX XLSB
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-Excel באמצעות Java Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PS to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר PS ל-XLSX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Save the document to CSV format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 
 

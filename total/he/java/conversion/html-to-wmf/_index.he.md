@@ -42,10 +42,10 @@ otherformats: IMAGE EMZ  APNG SVGZ JPEG2000 DXF TGA WMZ PSD DICOM
 {{% blocks/products/pf/agp/feature-section-col title="המר את HTML ל-WMF באמצעות Java Automation API" %}}
 
 
-1. Open HTML file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize class object and render HTML to JPEG by using [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
-4. Save the document to WMF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+1. פתח קובץ HTML באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. אתחול אובייקט מחלקה ועיבוד HTML ל-JPEG באמצעות שיטת [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
+3. טען קובץ JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
+4. שמור את המסמך בפורמט WMF בשיטת [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

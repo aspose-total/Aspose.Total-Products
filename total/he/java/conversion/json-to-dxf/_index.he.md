@@ -45,7 +45,7 @@ otherformats: APNG WMF WMZ SVGZ TGA JPEG2000 PSD EMZ DICOM IMAGE
 1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and open JSON file 
 2. Save JSON as JPEG using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 3. Load JPEG document by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
-4. Save the document to DXF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+4. שמור את המסמך בפורמט DXF בשיטת [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

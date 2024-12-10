@@ -45,7 +45,7 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS X
 1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POWERPOINT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLTX format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+4. Збережіть документ у форматі XLTX за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

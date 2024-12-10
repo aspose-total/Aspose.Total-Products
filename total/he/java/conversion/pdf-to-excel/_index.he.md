@@ -42,9 +42,9 @@ otherformats: XLTM XLAM XLTX SXC DIF MD XLSB XLT FODS TSV CSV TXT
 {{% blocks/products/pf/agp/feature-section-col title="המר את PDF ל-Excel באמצעות Java Automation API" %}}
 
 
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PDF to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+1. פתח קובץ PDF באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר PDF ל-XLSX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Save the document to CSV format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 
 

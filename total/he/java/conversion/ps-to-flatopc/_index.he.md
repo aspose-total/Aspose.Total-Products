@@ -18,9 +18,9 @@ otherformats: PCL MARKDOWN WORDML XAMLFLOW DOTX DOT DOTM RTF OTT MHTML ODT DOCM
 {{% blocks/products/pf/agp/feature-section-col title="המר את PS ל-FLATOPC באמצעות Java Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PS to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר PS ל-DOC באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) של Aspose.Words  
 4. Save the document to FLAT_OPC format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set FLAT_OPC as SaveFormat
 
 

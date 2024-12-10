@@ -18,10 +18,10 @@ otherformats: PSD WMF TGA WMZ DXF JPEG2000 APNG IMAGE SVGZ EMZ
 {{% blocks/products/pf/agp/feature-section-col title="המר את EPUB ל-DICOM באמצעות Java Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize class object and render EPUB to JPEG by using [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
-4. Save the document to DICOM format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. אתחול אובייקט מחלקה ועיבוד EPUB ל-JPEG באמצעות שיטת [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
+3. טען קובץ JPEG באמצעות מחלקת [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
+4. שמור את המסמך בפורמט DICOM בשיטת [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

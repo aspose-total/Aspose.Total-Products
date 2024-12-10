@@ -19,10 +19,10 @@ otherformats: EMZ TGA JPEG2000 IMAGE PSD WMZ SVGZ  WMF DXF DICOM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть CGM на APNG за допомогою Java Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Initialize class object and render CGM to JPEG by using [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-) method
-3. Load JPEG file by using [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class 
-4. Save the document to APNG format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
+1. Відкрийте файл CGM за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Ініціалізація об’єкта класу та візуалізація CGM у JPEG за допомогою методу [Process](https://reference.aspose.com/pdf/java/com.aspose.pdf.devices/JpegDevice#process-com.aspose.pdf.Page-java.io.OutputStream-)
+3. Завантажте файл JPEG за допомогою класу [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 
+4. Збережіть документ у форматі APNG за допомогою методу [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-)
 
 
 

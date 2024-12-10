@@ -19,10 +19,10 @@ otherformats: PPS PPSM OTP SWF PPSX POT POTX POWERPOINT ODP PPT PPTM POTM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть EPUB на XAML за допомогою Java Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert EPUB to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to XAML format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Xaml` as SaveFormat
+1. Відкрийте файл EPUB за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть EPUB на PPTX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. Завантажте документ PPTX за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. Збережіть документ у форматі XAML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) і встановіть `Xaml` як SaveFormat
 
 
 

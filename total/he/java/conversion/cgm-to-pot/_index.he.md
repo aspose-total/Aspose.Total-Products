@@ -18,10 +18,10 @@ otherformats: PPSM PPT PPTM PPS POTM OTP PPSX SWF POWERPOINT POTX XAML ODP
 {{% blocks/products/pf/agp/feature-section-col title="המר את CGM ל-POT באמצעות Java Automation API" %}}
 
 
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert CGM to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to POT format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Pot` as SaveFormat
+1. פתח קובץ CGM באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר CGM ל-PPTX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. שמור את המסמך בפורמט POT בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) והגדר את 'Pot' בתור SaveFormat
 
 
 

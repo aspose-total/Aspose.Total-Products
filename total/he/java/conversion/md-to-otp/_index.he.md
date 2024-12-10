@@ -18,10 +18,10 @@ otherformats: POWERPOINT PPSM POTX PPSX POTM POT PPTM PPT XAML SWF PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-OTP באמצעות Java Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to OTP format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Otp` as SaveFormat
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר MD ל-PPTX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. שמור את המסמך בפורמט OTP בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) והגדר את 'Otp' בתור SaveFormat
 
 
 

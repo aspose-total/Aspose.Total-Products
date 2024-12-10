@@ -19,10 +19,10 @@ otherformats: PCL DOTX DOCM DOT PS RTF WORDML MARKDOWN XAMLFLOW MHTML FLATOPC OT
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть EPUB на GIF за допомогою Java Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert EPUB to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
-4. Save the document to GIF format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set GIF as SaveFormat
+1. Відкрийте файл EPUB за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть EPUB у DOC за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте файл DOC за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words  
+4. Збережіть документ у форматі GIF за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) і встановіть GIF як SaveFormat
 
 
 

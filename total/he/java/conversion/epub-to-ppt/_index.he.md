@@ -18,10 +18,10 @@ otherformats: POWERPOINT ODP PPS PPTM XAML SWF POT OTP POTX PPSX POTM PPSM
 {{% blocks/products/pf/agp/feature-section-col title="המר את EPUB ל-PPT באמצעות Java Automation API" %}}
 
 
-1. Open EPUB file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert EPUB to PPTX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) method
-3. Load PPTX document by using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class 
-4. Save the document to PPT format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Ppt` as SaveFormat
+1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר EPUB ל-PPTX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
+3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
+4. שמור את המסמך בפורמט PPT בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) והגדר את 'Ppt' בתור SaveFormat
 
 
 
