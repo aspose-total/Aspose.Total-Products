@@ -21,7 +21,7 @@ otherformats: POTX PPS XAML SWF POTM POT PPT PPSM PPTM ODP OTP PPSX
 1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. המר EPUB ל-PPTX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-)
 3. טען מסמך PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 
-4. Save the document to PPT format using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) method and set `Ppt` as SaveFormat
+4. שמור את המסמך בפורמט PPT בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) והגדר 'Ppt' בתור SaveFormat
 
 
 

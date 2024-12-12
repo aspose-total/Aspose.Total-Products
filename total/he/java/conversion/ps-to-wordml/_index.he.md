@@ -21,7 +21,7 @@ otherformats: FLATOPC MARKDOWN XAMLFLOW PCL DOTM DOTX MHTML ODT RTF OTT DOT DOCM
 1. פתח קובץ PS באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. המר PS ל-DOC באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
 3. טען קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) של Aspose.Words  
-4. Save the document to WORD_ML format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set WORD_ML as SaveFormat
+4. שמור את המסמך בפורמט WORD_ML בשיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) והגדר את WORD_ML כ-SaveFormat
 
 
 

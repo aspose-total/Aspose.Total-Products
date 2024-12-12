@@ -43,10 +43,10 @@ otherformats: PPT PPS PPSX POWERPOINT POTM PPTX ODP PPSM POTX PPTM CSV DIF FODS 
 
 
 1. פתח קובץ TXT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert TXT file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to POT using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+2. המר קובץ TXT ל-HTML באמצעות שיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. אתחול אובייקט [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) חדש
+5. חלץ תוכן מקובץ HTML באמצעות BufferedReader וכתוב את התוכן בקובץ המצגת שלך
+6. שמור את המסמך ב-POT בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 

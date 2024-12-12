@@ -21,7 +21,7 @@ otherformats: PS DOT ODT XAMLFLOW RTF OTT DOTX WORDML DOTM PCL MARKDOWN MHTML
 1. פתח קובץ EPUB באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. המר EPUB ל-DOC באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
 3. טען קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) של Aspose.Words  
-4. Save the document to FLAT_OPC format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set FLAT_OPC as SaveFormat
+4. שמור את המסמך בפורמט FLAT_OPC בשיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) והגדר את FLAT_OPC כ-SaveFormat
 
 
 

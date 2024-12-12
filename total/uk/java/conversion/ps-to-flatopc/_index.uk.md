@@ -22,7 +22,7 @@ otherformats: PCL MARKDOWN WORDML XAMLFLOW DOTX DOT DOTM RTF OTT MHTML ODT DOCM
 1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
 2. Перетворіть PS у DOC за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
 3. Завантажте файл DOC за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) Aspose.Words  
-4. Save the document to FLAT_OPC format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set FLAT_OPC as SaveFormat
+4. Збережіть документ у форматі FLAT_OPC за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) і встановіть FLAT_OPC як SaveFormat
 
 
 

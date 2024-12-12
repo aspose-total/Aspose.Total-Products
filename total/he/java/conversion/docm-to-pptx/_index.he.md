@@ -43,10 +43,10 @@ otherformats: PPSX ODP POTX PPTM POTM PPS POT PPT PPSM POWERPOINT CSV DIF FODS O
 
 
 1. פתח קובץ DOCM באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert DOCM file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPTX using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+2. המר קובץ DOCM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. אתחול אובייקט [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) חדש
+5. חלץ תוכן מקובץ HTML באמצעות BufferedReader וכתוב את התוכן בקובץ המצגת שלך
+6. שמור את המסמך ב-PPTX בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 
