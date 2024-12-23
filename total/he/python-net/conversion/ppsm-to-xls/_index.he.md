@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPSM ל-XLS באמצעות Python Automation API" %}}
 
 
-- **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPSM file 
-- Save PPSM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class
+- **Step 1** השתמש במופע מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) כדי לפתוח את קובץ המקור PPSM 
+- שמור קובץ PPSM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
+-  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook
 -  קרא לשיטת 'שמור' תוך ציון נתיב קובץ XLS פלט. אז קובץ ה-PPSM שלך מומר ל-XLS בנתיב שצוין
 
 

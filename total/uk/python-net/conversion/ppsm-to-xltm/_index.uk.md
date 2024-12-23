@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPSM на XLTM за допомогою Python Automation API" %}}
 
 
-- **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPSM file 
-- Save PPSM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class
+- **Step 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл PPSM 
+- Збережіть файл PPSM у HTML за допомогою методу [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), вказавши назву файлу та бажаний шлях до каталогу
+-  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook
 -  Викличте метод `save`, вказуючи вихідний шлях файлу XLTM. Отже, ваш файл PPSM перетворюється на XLTM за вказаним шляхом
 
 

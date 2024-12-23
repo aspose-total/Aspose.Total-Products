@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть POTX на XLSX за допомогою Python Automation API" %}}
 
 
-- **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source POTX file 
-- Save POTX file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class
+- **Step 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл POTX 
+- Збережіть файл POTX у HTML за допомогою методу [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), вказавши назву файлу та бажаний шлях до каталогу
+-  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook
 -  Викличте метод `save`, вказуючи вихідний шлях файлу XLSX. Отже, ваш файл POTX перетворюється на XLSX за вказаним шляхом
 
 

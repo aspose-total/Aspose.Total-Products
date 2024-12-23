@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPTM ל-XLS באמצעות Python Automation API" %}}
 
 
-- **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPTM file 
-- Save PPTM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class
+- **Step 1** השתמש במופע מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) כדי לפתוח את קובץ המקור PPTM 
+- שמור קובץ PPTM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
+-  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook
 -  קרא לשיטת 'שמור' תוך ציון נתיב קובץ XLS פלט. אז קובץ ה-PPTM שלך מומר ל-XLS בנתיב שצוין
 
 
