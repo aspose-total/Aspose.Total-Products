@@ -44,7 +44,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 - **Step 1** Open the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 - Save Word file to HTML by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class with file and LoadOptions as parameters
+-  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook עם קובץ ו-LoadOptions כפרמטרים
 -  Call the `save` method while specifying output CSV file path. So your Word file is converted to CSV at the specified path
 
 

@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-PPSM באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source MD file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save MD file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.PPSM as parameters. So your MD file is converted to PPSM at the specified path.
+- **Step 1** פתח את קובץ ה-MD המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- שמור קובץ MD ל-PDF באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי.
+-  **Step 2** טען קובץ PDF עם מופע של מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ הפלט & SaveFormat.PPSM כפרמטרים. אז קובץ ה-MD שלך מומר ל-PPSM בנתיב שצוין.
 
 
 

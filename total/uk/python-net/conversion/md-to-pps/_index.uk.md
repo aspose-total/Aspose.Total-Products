@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на PPS за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source MD file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save MD file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.PPS as parameters. So your MD file is converted to PPS at the specified path.
+- **Step 1** Відкрийте вихідний файл MD за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- Збережіть файл MD у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
+-  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.PPS як параметри. Отже, ваш файл MD перетворюється на PPS за вказаним шляхом.
 
 
 

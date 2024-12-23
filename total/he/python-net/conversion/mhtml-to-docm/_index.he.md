@@ -43,7 +43,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 
 
-- Open the source MHTML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- פתח את קובץ ה-MHTML המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Call the `save` method while specifying output file path as parameter. So your MHTML file is converted to DOCM at the specified path
 
 

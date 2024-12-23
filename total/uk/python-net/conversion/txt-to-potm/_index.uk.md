@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть TXT на POTM за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source TXT file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save TXT file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.POTM as parameters. So your TXT file is converted to POTM at the specified path.
+- **Step 1** Відкрийте вихідний файл TXT за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- Збережіть файл TXT у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
+-  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.POTM як параметри. Отже, ваш файл TXT перетворюється на POTM за вказаним шляхом.
 
 
 

@@ -42,7 +42,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть POT на DOCX за допомогою Python Automation API" %}}
 
 
--  **Step 1** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
+-  **Step 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your POT file is converted to PDF at the specified path.
 - **Step 2** Open the PDF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 	- Save PDF file to DOCX file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.

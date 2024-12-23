@@ -44,8 +44,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 
 - Open the source EML file using `MailMessage.load` class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your EML file is converted to HTML at the specified path
-- Now Load the saved HTML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- קרא לשיטת 'שמור' תוך ציון נתיב פלט של קובץ HTML ואפשרויות שמירה רלוונטיות של HTML כפרמטר. אז קובץ ה-EML שלך מומר ל-HTML בנתיב שצוין
+- כעת טען את קובץ ה-HTML השמור באמצעות [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - To complete the EML to PDF conversion process, simply call the "save" method and provide the appropriate file path as an argument
 
 

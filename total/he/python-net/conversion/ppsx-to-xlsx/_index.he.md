@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPSX file 
 - Save PPSX file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output XLSX file path. So your PPSX file is converted to XLSX at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ XLSX פלט. אז קובץ ה-PPSX שלך מומר ל-XLSX בנתיב שצוין
 
 
 

@@ -43,10 +43,10 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 
 
-- Open the source XPS file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your XPS file is converted to HTML at the specified path
-- Now Load the saved HTML file using MailMessage.load
-- Call the save method with relevant file path. So finally the XPS is converted
+- Відкрийте вихідний файл XPS за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Викличте метод `save`, вказавши вихідний шлях до файлу HTML і відповідні параметри збереження HTML як параметр. Отже, ваш файл XPS перетворюється на HTML за вказаним шляхом
+- Тепер завантажте збережений файл HTML за допомогою MailMessage.load
+- Викличте метод збереження з відповідним шляхом до файлу. Отже, нарешті XPS перетворено
 
 
 

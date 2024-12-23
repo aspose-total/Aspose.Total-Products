@@ -42,10 +42,10 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="המר את ODT ל-XLSX באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source ODT file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Save ODT file to HTML by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class with file and LoadOptions as parameters
--  Call the `save` method while specifying output XLSX file path. So your ODT file is converted to XLSX at the specified path
+- **Step 1** פתח את קובץ ה-ODT המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- שמור קובץ ODT ב-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
+-  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook עם קובץ ו-LoadOptions כפרמטרים
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ XLSX פלט. אז קובץ ה-ODT שלך מומר ל-XLSX בנתיב שצוין
 
 
 

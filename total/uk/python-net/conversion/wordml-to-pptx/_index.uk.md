@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть WORDML на PPTX за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source WORDML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save WORDML file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.PPTX as parameters. So your WORDML file is converted to PPTX at the specified path.
+- **Step 1** Відкрийте вихідний файл WORDML за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- Збережіть файл WORDML у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
+-  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.PPTX як параметри. Отже, ваш файл WORDML перетворюється на PPTX за вказаним шляхом.
 
 
 

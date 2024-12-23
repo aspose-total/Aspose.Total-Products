@@ -45,7 +45,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **Step 1** Open the source XLS file using Workbook class
 - Save XLS file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
--  Call the `save` method while specifying output RTF file path. So your XLS file is converted to RTF at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ RTF פלט. אז קובץ ה-XLS שלך מומר ל-RTF בנתיב שצוין
 
 
 

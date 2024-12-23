@@ -45,7 +45,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 - Open the source Email file using MailMessage.load class
 - Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your Email file is converted to HTML at the specified path
-- Now Load the saved HTML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Тепер завантажте збережений файл HTML за допомогою [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Call the save method with relevant file path. So finally the Email is converted
 
 

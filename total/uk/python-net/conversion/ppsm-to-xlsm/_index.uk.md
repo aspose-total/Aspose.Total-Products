@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPSM file 
 - Save PPSM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output XLSM file path. So your PPSM file is converted to XLSM at the specified path
+-  Викличте метод `save`, вказуючи вихідний шлях файлу XLSM. Отже, ваш файл PPSM перетворюється на XLSM за вказаним шляхом
 
 
 

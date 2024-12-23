@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="המר את OTT ל-POTX באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source OTT file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save OTT file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.POTX as parameters. So your OTT file is converted to POTX at the specified path.
+- **Step 1** פתח את קובץ ה-OTT המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- שמור קובץ OTT ל-PDF באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי.
+-  **Step 2** טען קובץ PDF עם מופע של מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ הפלט & SaveFormat.POTX כפרמטרים. אז קובץ ה-OTT שלך מומר ל-POTX בנתיב שצוין.
 
 
 

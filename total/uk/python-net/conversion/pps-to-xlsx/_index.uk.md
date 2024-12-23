@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPS file 
 - Save PPS file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output XLSX file path. So your PPS file is converted to XLSX at the specified path
+-  Викличте метод `save`, вказуючи вихідний шлях файлу XLSX. Отже, ваш файл PPS перетворюється на XLSX за вказаним шляхом
 
 
 

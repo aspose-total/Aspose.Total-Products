@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPTM file 
 - Save PPTM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output XLTM file path. So your PPTM file is converted to XLTM at the specified path
+-  Викличте метод `save`, вказуючи вихідний шлях файлу XLTM. Отже, ваш файл PPTM перетворюється на XLTM за вказаним шляхом
 
 
 

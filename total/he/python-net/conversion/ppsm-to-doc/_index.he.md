@@ -42,7 +42,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPSM ל-DOC באמצעות Python Automation API" %}}
 
 
--  **Step 1** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
+-  **Step 1** טען קובץ PDF עם מופע של מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your PPSM file is converted to PDF at the specified path.
 - **Step 2** Open the PDF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 	- Save PDF file to DOC file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.

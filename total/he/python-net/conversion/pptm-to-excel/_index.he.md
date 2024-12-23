@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPTM file 
 - Save PPTM file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output EXCEL file path. So your PPTM file is converted to EXCEL at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ EXCEL פלט. אז קובץ ה-PPTM שלך מומר ל-EXCEL בנתיב שצוין
 
 
 

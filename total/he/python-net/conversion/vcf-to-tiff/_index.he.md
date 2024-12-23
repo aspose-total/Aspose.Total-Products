@@ -43,10 +43,10 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 
 
-- Open the source VCF file using MailMessage.load class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your VCF file is converted to HTML at the specified path
-- Now Load the saved HTML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Call the save method with relevant file path. So finally the VCF is converted
+- פתח את קובץ המקור VCF באמצעות המחלקה MailMessage.load
+- קרא לשיטת 'שמור' תוך ציון נתיב פלט של קובץ HTML ואפשרויות שמירה רלוונטיות של HTML כפרמטר. אז קובץ ה-VCF שלך מומר ל-HTML בנתיב שצוין
+- כעת טען את קובץ ה-HTML השמור באמצעות [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- קרא לשיטת השמירה עם נתיב הקובץ הרלוונטי. אז לבסוף ה-VCF מומר
 
 
 

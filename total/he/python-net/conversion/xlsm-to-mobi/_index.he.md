@@ -45,7 +45,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **Step 1** Open the source XLSM file using Workbook class
 - Save XLSM file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
--  Call the `save` method while specifying output MOBI file path. So your XLSM file is converted to MOBI at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ MOBI פלט. אז קובץ ה-XLSM שלך מומר ל-MOBI בנתיב שצוין
 
 
 

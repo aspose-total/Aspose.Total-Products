@@ -42,9 +42,9 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOC ל-PPT באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source DOC file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save DOC file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
+- **Step 1** פתח את קובץ ה-DOC המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- שמור קובץ DOC ל-PDF באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי.
+-  **Step 2** טען קובץ PDF עם מופע של מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Call the `save` method while specifying output file path & SaveFormat.PPT as parameters
 
 

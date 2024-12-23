@@ -43,10 +43,10 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 
 
-- Open the source PS file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your PS file is converted to HTML at the specified path
-- Now Load the saved HTML file using MailMessage.load
-- Call the save method with relevant file path. So finally the PS is converted
+- פתח את קובץ ה-PS המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- קרא לשיטת 'שמור' תוך ציון נתיב פלט של קובץ HTML ואפשרויות שמירה רלוונטיות של HTML כפרמטר. אז קובץ ה-PS שלך מומר ל-HTML בנתיב שצוין
+- כעת טען את קובץ ה-HTML השמור באמצעות MailMessage.load
+- קרא לשיטת השמירה עם נתיב הקובץ הרלוונטי. אז לבסוף ה-PS מומר
 
 
 

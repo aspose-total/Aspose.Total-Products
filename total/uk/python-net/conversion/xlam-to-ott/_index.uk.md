@@ -45,7 +45,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **Step 1** Open the source XLAM file using Workbook class
 - Save XLAM file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
--  Call the `save` method while specifying output OTT file path. So your XLAM file is converted to OTT at the specified path
+-  Викличте метод `save`, вказуючи вихідний шлях файлу OTT. Отже, ваш файл XLAM перетворюється на OTT за вказаним шляхом
 
 
 

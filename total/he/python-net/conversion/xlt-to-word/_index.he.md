@@ -45,7 +45,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **Step 1** Open the source XLT file using Workbook class
 - Save XLT file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
--  Call the `save` method while specifying output WORD file path. So your XLT file is converted to WORD at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ WORD פלט. אז קובץ ה-XLT שלך מומר ל-WORD בנתיב שצוין
 
 
 

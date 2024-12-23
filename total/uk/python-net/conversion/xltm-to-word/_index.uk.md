@@ -45,7 +45,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 - **Step 1** Open the source XLTM file using Workbook class
 - Save XLTM file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
--  Call the `save` method while specifying output WORD file path. So your XLTM file is converted to WORD at the specified path
+-  Викличте метод `save`, вказуючи вихідний шлях файлу WORD. Отже, ваш файл XLTM перетворюється на WORD за вказаним шляхом
 
 
 

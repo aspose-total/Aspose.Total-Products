@@ -43,10 +43,10 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 
 
-- Open the source PST file using MailMessage.load class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your PST file is converted to HTML at the specified path
-- Now Load the saved HTML file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
-- Call the save method with relevant file path. So finally the PST is converted
+- Відкрийте вихідний файл PST за допомогою класу MailMessage.load
+- Викличте метод `save`, вказавши вихідний шлях до файлу HTML і відповідні параметри збереження HTML як параметр. Отже, ваш файл PST перетворюється на HTML за вказаним шляхом
+- Тепер завантажте збережений файл HTML за допомогою [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Викличте метод збереження з відповідним шляхом до файлу. Отже, нарешті PST перетворено
 
 
 

@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source POTX file 
 - Save POTX file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output CSV file path. So your POTX file is converted to CSV at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ CSV פלט. אז קובץ ה-POTX שלך מומר ל-CSV בנתיב שצוין
 
 
 

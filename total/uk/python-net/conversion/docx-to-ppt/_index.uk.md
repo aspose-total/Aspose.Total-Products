@@ -42,10 +42,10 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOCX на PPT за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source DOCX file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save DOCX file to PDF by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
--  **Step 2** Load PDF file with an instance of [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
-	-  Call the `save` method while specifying output file path & SaveFormat.PPT as parameters. So your DOCX file is converted to PPT at the specified path.
+- **Step 1** Відкрийте вихідний файл DOCX за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- Збережіть файл DOCX у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
+-  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.PPT як параметри. Отже, ваш файл DOCX перетворюється на PPT за вказаним шляхом.
 
 
 

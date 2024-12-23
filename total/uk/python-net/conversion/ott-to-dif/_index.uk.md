@@ -42,10 +42,10 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть OTT на DIF за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source OTT file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Save OTT file to HTML by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of Workbook class with file and LoadOptions as parameters
--  Call the `save` method while specifying output DIF file path. So your OTT file is converted to DIF at the specified path
+- **Step 1** Відкрийте вихідний файл OTT за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Збережіть файл OTT у HTML за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу
+-  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  Викличте метод `save`, вказуючи вихідний шлях файлу DIF. Отже, ваш файл OTT перетворюється на DIF за вказаним шляхом
 
 
 

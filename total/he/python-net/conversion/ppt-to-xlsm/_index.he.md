@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** Use [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class instance to open the source PPT file 
 - Save PPT file to HTML by using [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of Workbook class
--  Call the `save` method while specifying output XLSM file path. So your PPT file is converted to XLSM at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ XLSM פלט. אז קובץ ה-PPT שלך מומר ל-XLSM בנתיב שצוין
 
 
 

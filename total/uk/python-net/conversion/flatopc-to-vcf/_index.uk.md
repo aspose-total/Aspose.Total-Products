@@ -43,10 +43,10 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 
 
-- Open the source FLATOPC file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-- Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your FLATOPC file is converted to HTML at the specified path
-- Now Load the saved HTML file using MailMessage.load
-- Call the save method with relevant file path. So finally the FLATOPC is converted
+- Відкрийте вихідний файл FLATOPC за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- Викличте метод `save`, вказавши вихідний шлях до файлу HTML і відповідні параметри збереження HTML як параметр. Отже, ваш файл FLATOPC перетворюється на HTML за вказаним шляхом
+- Тепер завантажте збережений файл HTML за допомогою MailMessage.load
+- Викличте метод збереження з відповідним шляхом до файлу. Отже, нарешті FLATOPC перетворено
 
 
 
