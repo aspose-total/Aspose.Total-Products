@@ -43,10 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 
 -  **Step 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
-	-  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your PPTX file is converted to PDF at the specified path.
-- **Step 2** Open the PDF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save PDF file to DOC file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
-	- Here is another code snippet for [PowerPoint Presentation to Word](https://products.aspose.com/total/python-net/conversion/) Conversion.
+	-  Викличте метод `save`, вказавши шлях вихідного файлу & SaveFormat.PDF як параметри. Отже, ваш файл PPTX перетворюється на PDF за вказаним шляхом.
+- **Step 2** Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- Збережіть файл PDF у файл DOC за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
+	- Ось ще один фрагмент коду для перетворення [Презентація PowerPoint у Word](https://products.aspose.com/total/python-net/conversion/).
 
 
 

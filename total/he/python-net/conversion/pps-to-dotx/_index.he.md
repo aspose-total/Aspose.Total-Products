@@ -43,10 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 
 -  **Step 1** טען קובץ PDF עם מופע של מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
-	-  Call the `save` method while specifying output file path & SaveFormat.PDF as parameters. So your PPS file is converted to PDF at the specified path.
-- **Step 2** Open the PDF file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
-	- Save PDF file to DOTX file by using [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path.
-	- Here is another code snippet for [PowerPoint Presentation to Word](https://products.aspose.com/total/python-net/conversion/) Conversion.
+	-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ הפלט & SaveFormat.PDF כפרמטרים. אז קובץ ה-PPS שלך מומר ל-PDF בנתיב שצוין.
+- **Step 2** פתח את קובץ ה-PDF באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+	- שמור קובץ PDF לקובץ DOTX באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי.
+	- הנה קטע קוד נוסף להמרת [מצגת PowerPoint ל-Word](https://products.aspose.com/total/python-net/conversion/).
 
 
 
