@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="המר את XLTM ל-RTF באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source XLTM file using Workbook class
-- Save XLTM file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- **Step 1** פתח את קובץ ה-XLTM המקור באמצעות מחלקה Workbook
+- שמור קובץ XLTM ב-HTML על ידי שימוש בשיטת שמירה (קובץ, SaveFormat.HTML) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
+-  **Step 2** טען קובץ HTML עם מופע של מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  קרא לשיטת 'שמור' תוך ציון נתיב קובץ RTF פלט. אז קובץ ה-XLTM שלך מומר ל-RTF בנתיב שצוין
 
 

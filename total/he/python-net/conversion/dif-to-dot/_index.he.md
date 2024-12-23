@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="המר את DIF ל-DOT באמצעות Python Automation API" %}}
 
 
-- **Step 1** Open the source DIF file using Workbook class
-- Save DIF file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- **Step 1** פתח את קובץ ה-DIF המקור באמצעות מחלקה Workbook
+- שמור קובץ DIF ב-HTML על ידי שימוש בשיטת שמירה (קובץ, SaveFormat.HTML) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
+-  **Step 2** טען קובץ HTML עם מופע של מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  קרא לשיטת 'שמור' תוך ציון נתיב קובץ DOT פלט. אז קובץ ה-DIF שלך מומר ל-DOT בנתיב שצוין
 
 

@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть XLTX на DOCX за допомогою Python Automation API" %}}
 
 
-- **Step 1** Open the source XLTX file using Workbook class
-- Save XLTX file to HTML by using save(file, SaveFormat.HTML) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- **Step 1** Відкрийте вихідний файл XLTX за допомогою класу Workbook
+- Збережіть файл XLTX у HTML за допомогою методу save(file, SaveFormat.HTML), вказавши назву файлу та потрібний шлях до каталогу
+-  **Step 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  Викличте метод `save`, вказуючи вихідний шлях файлу DOCX. Отже, ваш файл XLTX перетворюється на DOCX за вказаним шляхом
 
 
