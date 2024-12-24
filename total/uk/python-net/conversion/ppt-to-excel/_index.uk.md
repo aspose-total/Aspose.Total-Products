@@ -42,10 +42,10 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPT на Excel за допомогою Python Automation API" %}}
 
 
-- **Step 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл PPT 
+- **Крок 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл PPT 
 - Збережіть файл PPT у HTML за допомогою методу [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook
--  Call the `save` method while specifying output Excel file path. So your PPT file is converted to Excel at the specified path
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook
+-  Викличте метод `save`, вказуючи вихідний шлях файлу Excel. Отже, ваш файл PPT перетворюється на Excel за вказаним шляхом
 
 
 

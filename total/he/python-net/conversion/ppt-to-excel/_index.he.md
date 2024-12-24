@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 - **Step 1** השתמש במופע מחלקת [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) כדי לפתוח את קובץ המקור PPT 
 - שמור קובץ PPT ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
 -  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook
--  Call the `save` method while specifying output Excel file path. So your PPT file is converted to Excel at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ Excel של פלט. אז קובץ ה-PPT שלך מומר לאקסל בנתיב שצוין
 
 
 

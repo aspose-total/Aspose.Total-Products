@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть ODS на Word за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл ODS за допомогою класу Workbook
+- **Крок 1** Відкрийте вихідний файл ODS за допомогою класу Workbook
 - Збережіть файл ODS у HTML за допомогою методу save(file, SaveFormat.HTML), вказавши назву файлу та потрібний шлях до каталогу
--  **Step 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+-  **Крок 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  Викличте метод `save`, вказуючи вихідний шлях файлу WORD. Отже, ваш файл ODS перетворюється на WORD за вказаним шляхом
 
 

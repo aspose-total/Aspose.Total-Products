@@ -42,9 +42,9 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть MD на Powerpoint за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл MD за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл MD за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 	- Збережіть файл MD у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
--  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+-  **Крок 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.POWERPOINT як параметри. Отже, ваш файл MD перетворюється на POWERPOINT за вказаним шляхом.
 
 

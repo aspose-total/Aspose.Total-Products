@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 - **Step 1** Load the source DOC file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 - Save the DOC file as HTML by using [Document.Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
 -  **Step 2** Load HTML file with an instance of [Workbook](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) class with file and LoadOptions as parameters
--  Call the `save` method while specifying output Excel file path. So your DOC file is converted to Excel at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ Excel של פלט. אז קובץ ה-DOC שלך מומר לאקסל בנתיב שצוין
 
 
 

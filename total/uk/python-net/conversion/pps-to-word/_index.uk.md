@@ -42,9 +42,9 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPS на Word за допомогою Python Automation API" %}}
 
 
--  **Step 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+-  **Крок 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Викличте метод `save`, вказавши шлях вихідного файлу & SaveFormat.PDF як параметри. Отже, ваш файл PPS перетворюється на PDF за вказаним шляхом.
-- **Step 2** Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 2** Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 	- Збережіть файл PDF у файл WORD за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
 	- Ось ще один фрагмент коду для перетворення [Презентація PowerPoint у Word](https://products.aspose.com/total/python-net/conversion/).
 

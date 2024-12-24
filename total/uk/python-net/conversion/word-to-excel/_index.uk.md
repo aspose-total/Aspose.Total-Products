@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Word на Excel за допомогою Python Automation API" %}}
 
 
-- **Step 1** Load the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- **Крок 1** Load the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 - Save Word file to HTML by using [Document.Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
 -  Call the `Workbook.Save` method while specifying output Excel file path. So your Word file is converted to Excel at the specified path using Word to Excel Converter.
 
 

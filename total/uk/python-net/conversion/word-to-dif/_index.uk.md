@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Word на DIF за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл WORD за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл WORD за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Збережіть файл WORD у HTML за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
 -  Викличте метод `save`, вказуючи вихідний шлях файлу DIF. Отже, ваш файл WORD перетворюється на DIF за вказаним шляхом
 
 

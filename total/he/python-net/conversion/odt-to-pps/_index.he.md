@@ -20,7 +20,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online ODT to PPS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרת ODT ל-PPS מקוונת בחינם" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

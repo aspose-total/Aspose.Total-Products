@@ -20,7 +20,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online WORDML to XLT Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення WORDML в XLT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть WORDML на XLT за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл WORDML за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл WORDML за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Збережіть файл WORDML у HTML за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
 -  Викличте метод `save`, вказуючи вихідний шлях файлу XLT. Отже, ваш файл WORDML перетворюється на XLT за вказаним шляхом
 
 

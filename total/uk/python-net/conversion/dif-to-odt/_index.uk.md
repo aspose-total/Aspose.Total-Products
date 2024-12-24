@@ -20,7 +20,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online DIF to ODT Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=dif" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення DIF в ODT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=dif" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DIF на ODT за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл DIF за допомогою класу Workbook
+- **Крок 1** Відкрийте вихідний файл DIF за допомогою класу Workbook
 - Збережіть файл DIF у HTML за допомогою методу save(file, SaveFormat.HTML), вказавши назву файлу та потрібний шлях до каталогу
--  **Step 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+-  **Крок 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  Викличте метод `save`, вказуючи вихідний шлях файлу ODT. Отже, ваш файл DIF перетворюється на ODT за вказаним шляхом
 
 

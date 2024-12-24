@@ -42,9 +42,9 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Excel на PPTM за допомогою Python Automation API" %}}
 
 
-- **Step 1** Use Workbook class instance to open the source EXCEL file 
+- **Крок 1** Use Workbook class instance to open the source EXCEL file 
 - Save EXCEL file to PDF by using save method by providing the file name and desired directory path
--  **Step 2** Load PDF file using [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
+-  **Крок 2** Load PDF file using [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
 -  Call the [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method while specifying output PPTM file path. So your EXCEL file is converted to PPTM at the specified path
 
 

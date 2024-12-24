@@ -20,7 +20,7 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online JPEG to ICS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ics&from=jpeg" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення JPEG в ICS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ics&from=jpeg" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

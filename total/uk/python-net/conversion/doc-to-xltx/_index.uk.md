@@ -20,7 +20,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online DOC to XLTX Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення DOC в XLTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOC на XLTX за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл DOC за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл DOC за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Збережіть файл DOC у HTML за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
 -  Викличте метод `save`, вказуючи вихідний шлях файлу XLTX. Отже, ваш файл DOC перетворюється на XLTX за вказаним шляхом
 
 

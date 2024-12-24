@@ -42,9 +42,9 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PowerPoint на TSV за допомогою Python Automation API" %}}
 
 
-- **Step 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл POWERPOINT 
+- **Крок 1** Використовуйте екземпляр класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), щоб відкрити вихідний файл POWERPOINT 
 - Збережіть файл POWERPOINT у HTML за допомогою методу [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook
 -  Викличте метод `save`, вказуючи вихідний шлях файлу TSV. Отже, ваш файл POWERPOINT перетворюється на TSV за вказаним шляхом
 
 

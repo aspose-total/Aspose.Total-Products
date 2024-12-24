@@ -20,7 +20,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online PPTX to XLS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרת PPTX ל-XLS מקוונת בחינם" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

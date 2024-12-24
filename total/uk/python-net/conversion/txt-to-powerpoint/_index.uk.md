@@ -42,9 +42,9 @@ otherformats: POWERPOINT PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть TXT на Powerpoint за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл TXT за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл TXT за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 	- Збережіть файл TXT у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
--  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+-  **Крок 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Call the `save` method while specifying output file path & SaveFormat.PowerPoint as parameters. So your TXT file is converted to PowerPoint at the specified path.
 
 

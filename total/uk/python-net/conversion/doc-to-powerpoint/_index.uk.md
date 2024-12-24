@@ -42,9 +42,9 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOC на Powerpoint за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл DOC за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл DOC за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 	- Збережіть файл DOC у PDF за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
--  **Step 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+-  **Крок 2** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Викличте метод `save`, вказавши шлях до вихідного файлу & SaveFormat.POWERPOINT як параметри. Отже, ваш файл DOC перетворюється на POWERPOINT за вказаним шляхом.
 
 

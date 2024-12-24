@@ -42,9 +42,9 @@ otherformats: JSON XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XLT
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Word на JSON за допомогою Python Automation API" %}}
 
 
-- **Step 1** Load the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
+- **Крок 1** Load the source Word file using [Document](https://reference.aspose.com/words/python-net/aspose.words/document/) class
 - Save Word file to HTML by using [Document.Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) method by providing the file name and desired directory path
--  **Step 2** Load HTML file with an instance of [Workbook](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) class with file and LoadOptions as parameters
+-  **Крок 2** Load HTML file with an instance of [Workbook](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) class with file and LoadOptions as parameters
 -  Call the [Workbook.save](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/save/) method while specifying output JSON file path
 
 

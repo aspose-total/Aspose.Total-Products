@@ -20,7 +20,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online XLTM to PPS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення XLTM в PPS" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=xltm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть XLTM на PPS за допомогою Python Automation API" %}}
 
 
-- **Step 1** Use Workbook class instance to open the source XLTM file 
+- **Крок 1** Use Workbook class instance to open the source XLTM file 
 - Save XLTM file to PDF by using save method by providing the file name and desired directory path
--  **Step 2** Load PDF file using [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
+-  **Крок 2** Load PDF file using [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class
 -  Call the [save](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) method while specifying output PPS file path. So your XLTM file is converted to PPS at the specified path
 
 

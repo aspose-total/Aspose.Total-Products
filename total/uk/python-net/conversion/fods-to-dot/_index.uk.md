@@ -20,7 +20,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online FODS to DOT Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення FODS в DOT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть FODS на DOT за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл FODS за допомогою класу Workbook
+- **Крок 1** Відкрийте вихідний файл FODS за допомогою класу Workbook
 - Збережіть файл FODS у HTML за допомогою методу save(file, SaveFormat.HTML), вказавши назву файлу та потрібний шлях до каталогу
--  **Step 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+-  **Крок 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  Викличте метод `save`, вказуючи вихідний шлях файлу DOT. Отже, ваш файл FODS перетворюється на DOT за вказаним шляхом
 
 

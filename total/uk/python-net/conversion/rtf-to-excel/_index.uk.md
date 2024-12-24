@@ -42,10 +42,10 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть RTF на Excel за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл RTF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 1** Відкрийте вихідний файл RTF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Збережіть файл RTF у HTML за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу
--  **Step 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
--  Call the `save` method while specifying output Excel file path. So your RTF file is converted to Excel at the specified path
+-  **Крок 2** Завантажте HTML-файл із екземпляром класу Workbook із файлом і параметрами LoadOptions
+-  Викличте метод `save`, вказуючи вихідний шлях файлу Excel. Отже, ваш файл RTF перетворюється на Excel за вказаним шляхом
 
 
 

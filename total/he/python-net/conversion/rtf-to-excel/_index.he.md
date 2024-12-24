@@ -45,7 +45,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 - **Step 1** פתח את קובץ ה-RTF המקור באמצעות מחלקת [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - שמור קובץ RTF ב-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) על ידי מתן שם הקובץ ונתיב הספרייה הרצוי
 -  **Step 2** טען קובץ HTML עם מופע של מחלקה Workbook עם קובץ ו-LoadOptions כפרמטרים
--  Call the `save` method while specifying output Excel file path. So your RTF file is converted to Excel at the specified path
+-  קרא לשיטת 'שמור' תוך ציון נתיב קובץ Excel של פלט. אז קובץ ה-RTF שלך מומר לאקסל בנתיב שצוין
 
 
 

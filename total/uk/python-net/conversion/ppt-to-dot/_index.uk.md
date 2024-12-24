@@ -20,7 +20,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online PPT to DOT Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення PPT в DOT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -42,9 +42,9 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPT на DOT за допомогою Python Automation API" %}}
 
 
--  **Step 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+-  **Крок 1** Завантажте файл PDF із екземпляром класу [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
 	-  Викличте метод `save`, вказавши шлях вихідного файлу & SaveFormat.PDF як параметри. Отже, ваш файл PPT перетворюється на PDF за вказаним шляхом.
-- **Step 2** Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+- **Крок 2** Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 	- Збережіть файл PDF у файл DOT за допомогою методу [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/), вказавши назву файлу та бажаний шлях до каталогу.
 	- Ось ще один фрагмент коду для перетворення [Презентація PowerPoint у Word](https://products.aspose.com/total/python-net/conversion/).
 

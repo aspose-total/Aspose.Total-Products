@@ -42,9 +42,9 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть Excel на DOCM за допомогою Python Automation API" %}}
 
 
-- **Step 1** Відкрийте вихідний файл EXCEL за допомогою класу Workbook
+- **Крок 1** Відкрийте вихідний файл EXCEL за допомогою класу Workbook
 - Збережіть файл EXCEL у HTML за допомогою методу save(file, SaveFormat.HTML), вказавши назву файлу та потрібний шлях до каталогу
--  **Step 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
+-  **Крок 2** Завантажте файл HTML із екземпляром класу [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 -  Викличте метод `save`, вказуючи вихідний шлях файлу DOCM. Отже, ваш файл EXCEL перетворюється на DOCM за вказаним шляхом
 
 
