@@ -42,10 +42,10 @@ otherformats: TSV CSV XLTX MHTML SXC FODS ODS XLAM XLSM EXCEL MARKDOWN XLT XLSB 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть POTM на DIF за допомогою C++ Automation API" %}}
 
 
-1. Open POTM file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert POTM to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+1. Відкрийте файл POTM за допомогою посилання на клас [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. Перетворіть POTM у HTML за допомогою методу [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+4. Збережіть документ у форматі DIF за допомогою методу [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

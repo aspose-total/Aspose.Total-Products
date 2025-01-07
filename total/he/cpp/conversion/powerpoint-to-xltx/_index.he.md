@@ -42,10 +42,10 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS X
 {{% blocks/products/pf/agp/feature-section-col title="המר את PowerPoint ל-XLTX באמצעות C++ Automation API" %}}
 
 
-1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert POWERPOINT to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+1. פתח את קובץ POWERPOINT באמצעות הפניה לכיתה [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. המר POWERPOINT ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to XLTX format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+4. שמור את המסמך בפורמט XLTX בשיטת [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

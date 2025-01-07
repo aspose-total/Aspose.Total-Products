@@ -42,10 +42,10 @@ otherformats: MHTML EXCEL XLS XLSM ODS DIF XLTM XLT MARKDOWN XLTX TSV XLAM FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPTM на CSV за допомогою C++ Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert PPTM to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+1. Відкрийте файл PPTM за допомогою посилання на клас [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. Перетворіть PPTM у HTML за допомогою методу [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+4. Збережіть документ у форматі CSV за допомогою методу [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

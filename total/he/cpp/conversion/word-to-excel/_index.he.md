@@ -45,7 +45,7 @@ otherformats: DIF ODS XLS XLTM TSV CSV XLSM XLSB XLAM XLT FODS XLTX SXC XLSX
 1. Open Word file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert Word to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+4. שמור את המסמך בפורמט XLSX באמצעות פונקציית חבר [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

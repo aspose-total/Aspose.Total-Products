@@ -42,10 +42,10 @@ otherformats: XLTM TSV MARKDOWN EXCEL XLSM XLSB XLAM XLTX FODS SXC XLT MHTML DIF
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPTM ל-XLSX באמצעות C++ Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert PPTM to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+1. פתח את קובץ PPTM באמצעות הפניה לכיתה [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. המר PPTM ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+4. שמור את המסמך בפורמט XLSX בשיטת [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

@@ -45,7 +45,7 @@ otherformats: XLTM XLSX XLT XLSB ODS FODS XLS CSV XLSM DIF TSV SXC XLAM XLTX
 1. פתח את קובץ OTT באמצעות הפניה לכיתה [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. המר OTT ל-HTML באמצעות פונקציית חבר [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+4. שמור את המסמך בפורמט XLSX באמצעות פונקציית חבר [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

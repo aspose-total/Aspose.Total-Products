@@ -42,10 +42,10 @@ otherformats: XLSB EXCEL XLAM XLSX CSV TSV XLTM DIF XLT XLS MHTML SXC XLTX MARKD
 {{% blocks/products/pf/agp/feature-section-col title="המר את POT ל-FODS באמצעות C++ Automation API" %}}
 
 
-1. Open POT file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
-2. Convert POT to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
+1. פתח את קובץ POT באמצעות הפניה לכיתה [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
+2. המר POT ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
-4. Save the document to FODS format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
+4. שמור את המסמך בפורמט FODS בשיטת [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 
