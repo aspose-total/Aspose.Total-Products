@@ -18,10 +18,10 @@ otherformats: XLTX FODS ODS EXCEL XLSM CSV XLSB XLTM DIF XLAM TSV TXT
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-XLT באמצעות C++ Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) class reference
-2. Convert MD to XLSX by using [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db) member function
-3. Load XLSX document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) member function
+1. פתח קובץ MD באמצעות הפניה לכיתה [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)
+2. המר MD ל-XLSX באמצעות פונקציית חבר [Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)
+3. טען מסמך XLSX באמצעות [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) הפניה לכיתה
+4. שמור את המסמך בפורמט XLT באמצעות פונקציית חבר [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 
 
 
