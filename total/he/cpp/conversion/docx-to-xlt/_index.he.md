@@ -42,10 +42,10 @@ otherformats: DIF CSV FODS ODS XLTM XLTX XLAM XLSX XLSM SXC XLSB XLS EXCEL TSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOCX ל-XLT באמצעות C++ Automation API" %}}
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+1. פתח את קובץ DOCX באמצעות הפניה לכיתה [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. המר DOCX ל-HTML באמצעות פונקציית חבר [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. שמור את המסמך בפורמט XLT באמצעות פונקציית חבר [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

@@ -42,10 +42,10 @@ otherformats: DIF XLT XLSM SXC XLTM XLTX XLSX EXCEL FODS TSV XLS ODS CSV XLAM
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOTM ל-XLSB באמצעות C++ Automation API" %}}
 
 
-1. Open DOTM file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOTM to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to XLSB format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+1. פתח את קובץ DOTM באמצעות הפניה לכיתה [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. המר DOTM ל-HTML באמצעות פונקציית חבר [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. טען מסמך HTML באמצעות הפניה לכיתה [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. שמור את המסמך בפורמט XLSB באמצעות פונקציית חבר [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

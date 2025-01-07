@@ -44,7 +44,7 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 1. Open POTM file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
 2. Convert POTM to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
+3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
 
 

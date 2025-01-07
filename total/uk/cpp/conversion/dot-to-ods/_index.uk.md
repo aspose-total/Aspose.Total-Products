@@ -42,10 +42,10 @@ otherformats: DIF EXCEL TSV XLS FODS CSV XLAM XLTX XLTM XLSX XLT XLSM XLSB SXC
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOT на ODS за допомогою C++ Automation API" %}}
 
 
-1. Open DOT file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+1. Відкрийте файл DOT за допомогою посилання на клас [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Перетворіть DOT на HTML за допомогою функції члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Збережіть документ у форматі ODS за допомогою функції члена [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

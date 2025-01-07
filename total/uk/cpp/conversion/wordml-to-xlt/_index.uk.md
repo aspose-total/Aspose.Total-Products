@@ -42,10 +42,10 @@ otherformats: XLTM XLSX ODS TSV XLAM XLTX DIF XLSB XLSM XLS CSV SXC FODS EXCEL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть WORDML на XLT за допомогою C++ Automation API" %}}
 
 
-1. Open WORDML file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert WORDML to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
-4. Save the document to XLT format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) member function
+1. Відкрийте файл WORDML за допомогою посилання на клас [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Перетворіть WORDML на HTML за допомогою функції члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
+4. Збережіть документ у форматі XLT за допомогою функції члена [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e)
 
 
 

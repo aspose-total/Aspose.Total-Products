@@ -44,7 +44,7 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS CSV MHTML ODS X
 
 1. Open PPTX file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
 2. Convert PPTX to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
+3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Save the document to XLSM format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
 
 

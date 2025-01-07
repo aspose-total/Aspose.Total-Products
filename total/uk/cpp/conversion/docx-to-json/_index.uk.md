@@ -42,9 +42,9 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть DOCX на JSON за допомогою C++ Automation API" %}}
 
 
-1. Open DOCX file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
-2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
-3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
+1. Відкрийте файл DOCX за допомогою посилання на клас [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
+2. Перетворіть DOCX на HTML за допомогою функції члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
+3. Завантажте HTML-документ за допомогою посилання на клас [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
 4. Збережіть документ у форматі JSON за допомогою функції-члена [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)
 
 
