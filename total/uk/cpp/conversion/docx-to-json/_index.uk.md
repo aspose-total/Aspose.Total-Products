@@ -61,7 +61,7 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження DOCX у JSON з іншими функціями, такими як Convert Protected DOCX to JSON Format via C++.
+Ще кілька випадків для збереження DOCX у JSON з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS CSV XLAM XLTM XLSM EXCEL SXC TSV F
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPTM ב-MHTML עם תכונות אחרות כמו Convert Protected PPTM to MHTML via C++.
+עוד כמה מקרים לשמירת PPTM ב-MHTML עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

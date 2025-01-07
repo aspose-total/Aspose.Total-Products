@@ -61,7 +61,7 @@ otherformats: XLSM EXCEL XLTX TSV CSV MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPS ב-SXC עם תכונות אחרות כמו Convert Protected PPS to SXC via C++.
+עוד כמה מקרים לשמירת PPS ב-SXC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

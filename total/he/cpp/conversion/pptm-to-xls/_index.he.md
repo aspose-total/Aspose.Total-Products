@@ -61,7 +61,7 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV CS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPTM ב-XLS עם תכונות אחרות כמו Convert Protected PPTM to XLS via C++.
+עוד כמה מקרים לשמירת PPTM ב-XLS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

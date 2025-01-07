@@ -61,7 +61,7 @@ otherformats: XLAM XLTX SXC EXCEL TXT CSV XLSB XLT XLTM MD TSV XLSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת TEX ב-DIF עם תכונות אחרות כמו Get or Set TEX File Information via C++, Save DIF File Format to Stream via C++.
+עוד כמה מקרים לשמירת TEX ב-DIF עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

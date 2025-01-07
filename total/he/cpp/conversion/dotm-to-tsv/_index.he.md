@@ -61,7 +61,7 @@ otherformats: XLAM XLSM XLS SXC FODS DIF XLTM XLSB EXCEL XLSX XLTX XLT ODS CSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת DOTM ב-TSV עם תכונות אחרות כמו Access DOTM Document Properties via C++, Save TSV File to Stream via C++.
+עוד כמה מקרים לשמירת DOTM ב-TSV עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

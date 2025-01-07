@@ -61,7 +61,7 @@ otherformats: ODS XLTX EXCEL XLTM XLSM DIF XLSX FODS XLSB XLT CSV SXC TSV XLAM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת DOCX ב-XLS עם תכונות אחרות כמו Access DOCX Document Properties via C++, Save XLS File to Stream via C++.
+עוד כמה מקרים לשמירת DOCX ב-XLS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

@@ -61,7 +61,7 @@ otherformats: CSV SXC TSV XLT TXT XLSM XLSB DIF EXCEL XLTX XLAM ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PCL ב-XLTM עם תכונות אחרות כמו Get or Set PCL File Information via C++, Save XLTM File Format to Stream via C++.
+עוד כמה מקרים לשמירת PCL ב-XLTM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

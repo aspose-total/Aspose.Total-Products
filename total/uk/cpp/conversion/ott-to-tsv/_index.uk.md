@@ -61,7 +61,7 @@ otherformats: XLT XLTX XLTM XLSX CSV SXC FODS XLAM ODS XLSM EXCEL DIF XLS XLSB
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження OTT у TSV з іншими функціями, такими як Access OTT Document Properties via C++, Save TSV File to Stream via C++.
+Ще кілька випадків для збереження OTT у TSV з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

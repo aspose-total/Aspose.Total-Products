@@ -37,7 +37,7 @@ otherformats: SXC TSV XLAM FODS EXCEL CSV XLSB XLSM TXT XLTX DIF ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження MD у XLTM з іншими функціями, такими як Get or Set MD File Information via C++, Save XLTM File Format to Stream via C++.
+Ще кілька випадків для збереження MD у XLTM з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: EXCEL DIF XLSB CSV XLAM XLTX XLTM TSV FODS XLS XLT XLSM SXC XLSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת OTT ב-ODS עם תכונות אחרות כמו Access OTT Document Properties via C++, Save ODS File to Stream via C++.
+עוד כמה מקרים לשמירת OTT ב-ODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

@@ -61,7 +61,7 @@ otherformats: TSV FODS XLSM ODS CSV XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження POTM у SXC з іншими функціями, такими як Convert Protected POTM to SXC via C++.
+Ще кілька випадків для збереження POTM у SXC з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

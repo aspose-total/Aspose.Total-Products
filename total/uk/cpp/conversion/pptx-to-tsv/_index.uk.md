@@ -61,7 +61,7 @@ otherformats: DIF MARKDOWN XLAM XLSM CSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PPTX у TSV з іншими функціями, такими як Convert Protected PPTX to TSV via C++.
+Ще кілька випадків для збереження PPTX у TSV з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

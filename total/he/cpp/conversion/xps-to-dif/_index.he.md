@@ -61,7 +61,7 @@ otherformats: XLSM MD ODS TSV SXC XLT TXT XLAM XLTM XLTX XLSB EXCEL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת XPS ב-DIF עם תכונות אחרות כמו Get or Set XPS File Information via C++, Save DIF File Format to Stream via C++.
+עוד כמה מקרים לשמירת XPS ב-DIF עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

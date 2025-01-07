@@ -61,7 +61,7 @@ otherformats: MOBI ODT DOTX CHM PCL RTF PS WORDML DOT EPUB OTT WORD FLATOPC DOCM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת JSON ב-DOC עם תכונות אחרות כמו Set Layout & Convert JSON Format to DOC in C++, Convert JSON Format to DOC with Watermark in C++.
+עוד כמה מקרים לשמירת JSON ב-DOC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

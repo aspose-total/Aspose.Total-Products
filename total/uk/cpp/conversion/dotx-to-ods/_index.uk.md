@@ -61,7 +61,7 @@ otherformats: XLTM XLAM SXC TSV XLTX XLS XLSB DIF EXCEL XLSX CSV FODS XLT XLSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження DOTX у ODS з іншими функціями, такими як Access DOTX Document Properties via C++, Save ODS File to Stream via C++.
+Ще кілька випадків для збереження DOTX у ODS з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

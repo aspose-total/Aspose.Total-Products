@@ -61,7 +61,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPS ב-JSON עם תכונות אחרות כמו Convert Protected PPS to JSON Format via C++.
+עוד כמה מקרים לשמירת PPS ב-JSON עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}

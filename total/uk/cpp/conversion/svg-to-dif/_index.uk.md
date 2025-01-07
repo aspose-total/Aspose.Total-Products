@@ -61,7 +61,7 @@ otherformats: XLTX TXT SXC MD XLTM CSV FODS XLAM XLSB ODS TSV XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження SVG у DIF з іншими функціями, такими як Get or Set SVG File Information via C++, Save DIF File Format to Stream via C++.
+Ще кілька випадків для збереження SVG у DIF з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

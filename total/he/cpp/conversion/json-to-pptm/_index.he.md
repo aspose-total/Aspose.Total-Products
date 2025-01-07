@@ -61,7 +61,7 @@ otherformats: PPS PPSM ODP POWERPOINT POT POTX POTM PPT PPSX OTP
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת JSON ב-PPTM עם תכונות אחרות כמו Set Layout and Convert JSON Format to PPTM via C++, Convert JSON Format to PPTM with Watermark in C++.
+עוד כמה מקרים לשמירת JSON ב-PPTM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}

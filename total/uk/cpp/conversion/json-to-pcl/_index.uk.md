@@ -61,7 +61,7 @@ otherformats: ODT RTF DOT DOC EPUB PS OTT WORDML WORD DOTX DOCM MOBI FLATOPC CHM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження JSON у PCL з іншими функціями, такими як Set Layout & Convert JSON Format to PCL in C++, Convert JSON Format to PCL with Watermark in C++.
+Ще кілька випадків для збереження JSON у PCL з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

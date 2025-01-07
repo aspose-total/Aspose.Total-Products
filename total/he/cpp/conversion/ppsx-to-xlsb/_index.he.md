@@ -61,7 +61,7 @@ otherformats: TSV XLAM XLTM MHTML XLSM CSV FODS ODS XLSX DIF XLTX XLT SXC XLS MA
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPSX ב-XLSB עם תכונות אחרות כמו Convert Protected PPSX to XLSB via C++.
+עוד כמה מקרים לשמירת PPSX ב-XLSB עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

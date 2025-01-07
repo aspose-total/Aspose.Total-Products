@@ -37,7 +37,7 @@ otherformats: XLTM TSV XLSM FODS ODS EXCEL XLSB SXC XLT XLTX XLAM CSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת MD ב-TXT עם תכונות אחרות כמו Get or Set MD File Information via C++, Save TXT File Format to Stream via C++.
+עוד כמה מקרים לשמירת MD ב-TXT עם תכונות אחרות כמו.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

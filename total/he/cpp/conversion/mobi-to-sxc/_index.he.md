@@ -61,7 +61,7 @@ otherformats: DIF ODS XLTX XLSX XLTM XLSM CSV FODS TSV XLT XLSB XLAM EXCEL XLS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת MOBI ב-SXC עם תכונות אחרות כמו Access MOBI Document Properties via C++, Save SXC File to Stream via C++.
+עוד כמה מקרים לשמירת MOBI ב-SXC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

@@ -61,7 +61,7 @@ otherformats: FODS XLT TXT MD XLSM XLSB XLTM SXC XLTX CSV XLAM EXCEL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження MHTML у DIF з іншими функціями, такими як Get or Set MHTML File Information via C++, Save DIF File Format to Stream via C++.
+Ще кілька випадків для збереження MHTML у DIF з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

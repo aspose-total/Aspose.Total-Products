@@ -61,7 +61,7 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPT ב-MARKDOWN עם תכונות אחרות כמו Convert Protected PPT to MARKDOWN via C++.
+עוד כמה מקרים לשמירת PPT ב-MARKDOWN עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

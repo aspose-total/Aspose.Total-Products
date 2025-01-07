@@ -61,7 +61,7 @@ otherformats: XLT EXCEL XLSM FODS DIF XLTX XLS XLAM SXC TSV XLTM CSV XLSX XLSB
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת ODT ב-ODS עם תכונות אחרות כמו Access ODT Document Properties via C++, Save ODS File to Stream via C++.
+עוד כמה מקרים לשמירת ODT ב-ODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

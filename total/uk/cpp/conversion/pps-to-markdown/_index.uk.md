@@ -61,7 +61,7 @@ otherformats: XLTM XLSB XLSX FODS XLS XLAM CSV XLTX MHTML SXC XLT TSV ODS EXCEL 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PPS у MARKDOWN з іншими функціями, такими як Convert Protected PPS to MARKDOWN via C++.
+Ще кілька випадків для збереження PPS у MARKDOWN з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

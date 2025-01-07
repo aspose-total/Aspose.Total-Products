@@ -61,7 +61,7 @@ otherformats: XLS CSV DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת POT ב-ODS עם תכונות אחרות כמו Convert Protected POT to ODS via C++.
+עוד כמה מקרים לשמירת POT ב-ODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

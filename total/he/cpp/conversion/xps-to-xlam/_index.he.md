@@ -61,7 +61,7 @@ otherformats: XLT ODS XLTX FODS CSV TSV TXT XLSB DIF MD EXCEL XLSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת XPS ב-XLAM עם תכונות אחרות כמו Get or Set XPS File Information via C++, Save XLAM File Format to Stream via C++.
+עוד כמה מקרים לשמירת XPS ב-XLAM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

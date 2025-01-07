@@ -61,7 +61,7 @@ otherformats: TSV XLT XLSX MARKDOWN XLAM MHTML ODS XLSB XLTM XLS XLSM SXC FODS E
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPTX ב-DIF עם תכונות אחרות כמו Convert Protected PPTX to DIF via C++.
+עוד כמה מקרים לשמירת PPTX ב-DIF עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

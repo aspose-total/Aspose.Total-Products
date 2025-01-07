@@ -61,7 +61,7 @@ otherformats: FODS XLS DIF ODS XLAM SXC XLSB CSV XLSX TSV XLSM EXCEL XLTX XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження Word у XLTM з іншими функціями, такими як Access WORD Document Properties via C++, Save XLTM File to Stream via C++.
+Ще кілька випадків для збереження Word у XLTM з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

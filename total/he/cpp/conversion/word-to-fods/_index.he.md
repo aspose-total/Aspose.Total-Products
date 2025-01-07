@@ -61,7 +61,7 @@ otherformats: EXCEL XLSM XLSX XLSB SXC TSV XLTX DIF XLTM XLS XLT XLAM ODS CSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת Word ב-FODS עם תכונות אחרות כמו Access WORD Document Properties via C++, Save FODS File to Stream via C++.
+עוד כמה מקרים לשמירת Word ב-FODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

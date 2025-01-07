@@ -61,7 +61,7 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF CSV XLSM ODS SXC EXCEL X
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PowerPoint у XLS з іншими функціями, такими як Convert Protected POWERPOINT to XLS via C++.
+Ще кілька випадків для збереження PowerPoint у XLS з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

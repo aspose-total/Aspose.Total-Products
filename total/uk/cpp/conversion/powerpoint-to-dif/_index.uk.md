@@ -61,7 +61,7 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM CSV MARKDOWN 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PowerPoint у DIF з іншими функціями, такими як Convert Protected POWERPOINT to DIF via C++.
+Ще кілька випадків для збереження PowerPoint у DIF з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

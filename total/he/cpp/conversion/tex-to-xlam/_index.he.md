@@ -61,7 +61,7 @@ otherformats: TXT CSV XLTM DIF ODS EXCEL SXC FODS XLSM XLT MD TSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת TEX ב-XLAM עם תכונות אחרות כמו Get or Set TEX File Information via C++, Save XLAM File Format to Stream via C++.
+עוד כמה מקרים לשמירת TEX ב-XLAM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

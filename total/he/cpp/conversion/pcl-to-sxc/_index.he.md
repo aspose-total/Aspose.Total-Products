@@ -61,7 +61,7 @@ otherformats: XLTX CSV DIF FODS EXCEL XLT TXT ODS XLSM XLSB XLTM TSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PCL ב-SXC עם תכונות אחרות כמו Get or Set PCL File Information via C++, Save SXC File Format to Stream via C++.
+עוד כמה מקרים לשמירת PCL ב-SXC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

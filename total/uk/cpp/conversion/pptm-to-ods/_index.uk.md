@@ -61,7 +61,7 @@ otherformats: XLT XLS TSV MHTML XLSX DIF CSV XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PPTM у ODS з іншими функціями, такими як Convert Protected PPTM to ODS via C++.
+Ще кілька випадків для збереження PPTM у ODS з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: PS PCL DOCM WORDML FLATOPC OTT ODT MOBI CHM DOC DOT DOTX EPUB RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження JSON у Word з іншими функціями, такими як Set Layout & Convert JSON Format to WORD in C++, Convert JSON Format to WORD with Watermark in C++.
+Ще кілька випадків для збереження JSON у Word з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

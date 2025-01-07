@@ -61,7 +61,7 @@ otherformats: TXT XLSM ODS XLAM XLTX FODS CSV DIF MD EXCEL XLSB XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת TEX ב-SXC עם תכונות אחרות כמו Get or Set TEX File Information via C++, Save SXC File Format to Stream via C++.
+עוד כמה מקרים לשמירת TEX ב-SXC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

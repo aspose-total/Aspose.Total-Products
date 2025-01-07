@@ -61,7 +61,7 @@ otherformats: XLTM XLSM XLSB MD EXCEL FODS XLT XLAM TXT SXC DIF ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження SVG у CSV з іншими функціями, такими як Get or Set SVG File Information via C++, Save CSV File Format to Stream via C++.
+Ще кілька випадків для збереження SVG у CSV з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

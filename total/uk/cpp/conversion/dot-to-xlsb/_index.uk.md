@@ -61,7 +61,7 @@ otherformats: XLTM XLSM CSV XLAM EXCEL XLS ODS XLTX XLT TSV FODS DIF SXC XLSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження DOT у XLSB з іншими функціями, такими як Access DOT Document Properties via C++, Save XLSB File to Stream via C++.
+Ще кілька випадків для збереження DOT у XLSB з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

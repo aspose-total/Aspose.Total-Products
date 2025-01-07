@@ -61,7 +61,7 @@ otherformats: XLS TSV DIF CSV XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PowerPoint ב-Excel עם תכונות אחרות כמו Convert Protected POWERPOINT to EXCEL via C++.
+עוד כמה מקרים לשמירת PowerPoint ב-Excel עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

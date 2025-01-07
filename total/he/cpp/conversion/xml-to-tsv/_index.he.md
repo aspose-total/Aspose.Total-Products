@@ -61,7 +61,7 @@ otherformats: XLTX FODS XLAM SXC TXT XLTM EXCEL ODS XLSB MD XLSM XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת XML ב-TSV עם תכונות אחרות כמו Get or Set XML File Information via C++, Save TSV File Format to Stream via C++.
+עוד כמה מקרים לשמירת XML ב-TSV עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

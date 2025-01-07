@@ -61,7 +61,7 @@ otherformats: FODS XLSX XLAM XLT ODS XLSB XLTM EXCEL XLTX DIF TSV XLSM SXC CSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження MOBI у XLS з іншими функціями, такими як Access MOBI Document Properties via C++, Save XLS File to Stream via C++.
+Ще кілька випадків для збереження MOBI у XLS з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

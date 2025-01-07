@@ -61,7 +61,7 @@ otherformats: EXCEL CSV XLSM TSV XLTM XLT XLAM XLTX FODS XLSX XLS XLSB DIF ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת DOT ב-SXC עם תכונות אחרות כמו Access DOT Document Properties via C++, Save SXC File to Stream via C++.
+עוד כמה מקרים לשמירת DOT ב-SXC עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

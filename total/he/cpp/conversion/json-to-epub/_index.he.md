@@ -61,7 +61,7 @@ otherformats: DOTX DOCM WORDML OTT WORD MOBI PCL DOT ODT FLATOPC CHM DOC PS RTF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת JSON ב-EPUB עם תכונות אחרות כמו Set Layout & Convert JSON Format to EPUB in C++, Convert JSON Format to EPUB with Watermark in C++.
+עוד כמה מקרים לשמירת JSON ב-EPUB עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

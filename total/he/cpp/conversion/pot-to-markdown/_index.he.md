@@ -61,7 +61,7 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML CSV EXCEL XLAM 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת POT ב-MARKDOWN עם תכונות אחרות כמו Convert Protected POT to MARKDOWN via C++.
+עוד כמה מקרים לשמירת POT ב-MARKDOWN עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: DIF EXCEL TSV XLS FODS CSV XLAM XLTX XLTM XLSX XLT XLSM XLSB SXC
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת DOT ב-ODS עם תכונות אחרות כמו Access DOT Document Properties via C++, Save ODS File to Stream via C++.
+עוד כמה מקרים לשמירת DOT ב-ODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

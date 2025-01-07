@@ -37,7 +37,7 @@ otherformats: ODS TSV XLAM XLSM XLSB CSV XLTM TXT XLT SXC EXCEL DIF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת MD ב-FODS עם תכונות אחרות כמו Get or Set MD File Information via C++, Save FODS File Format to Stream via C++.
+עוד כמה מקרים לשמירת MD ב-FODS עם תכונות אחרות כמו.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

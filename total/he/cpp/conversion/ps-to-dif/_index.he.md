@@ -37,7 +37,7 @@ otherformats: EXCEL SXC MD XLTM XLSM XLTX XLAM XLSB XLT TXT FODS ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PS ב-DIF עם תכונות אחרות כמו Get or Set PS File Information via C++, Save DIF File Format to Stream via C++.
+עוד כמה מקרים לשמירת PS ב-DIF עם תכונות אחרות כמו.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: XLSM TXT DIF XLT FODS SXC CSV TSV EXCEL XLTX XLTM ODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження XML у XLAM з іншими функціями, такими як Get or Set XML File Information via C++, Save XLAM File Format to Stream via C++.
+Ще кілька випадків для збереження XML у XLAM з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

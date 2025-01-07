@@ -61,7 +61,7 @@ otherformats: XLSM XLT ODS CSV SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXCE
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת POTX ב-XLTX עם תכונות אחרות כמו Convert Protected POTX to XLTX via C++.
+עוד כמה מקרים לשמירת POTX ב-XLTX עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

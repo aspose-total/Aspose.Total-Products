@@ -61,7 +61,7 @@ otherformats: XLSM XLT CSV XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF SX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PPSM у XLTM з іншими функціями, такими як Convert Protected PPSM to XLTM via C++.
+Ще кілька випадків для збереження PPSM у XLTM з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

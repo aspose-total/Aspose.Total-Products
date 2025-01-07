@@ -61,7 +61,7 @@ otherformats: EXCEL SXC XLSX XLTX XLSM ODS DIF XLSB XLAM TSV CSV XLS MARKDOWN XL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPT ב-FODS עם תכונות אחרות כמו Convert Protected PPT to FODS via C++.
+עוד כמה מקרים לשמירת PPT ב-FODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

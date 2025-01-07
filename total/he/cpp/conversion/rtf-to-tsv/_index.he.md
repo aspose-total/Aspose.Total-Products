@@ -61,7 +61,7 @@ otherformats: XLSB XLTM XLS DIF FODS XLTX XLSM ODS XLSX EXCEL XLT CSV XLAM SXC
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת RTF ב-TSV עם תכונות אחרות כמו Access RTF Document Properties via C++, Save TSV File to Stream via C++.
+עוד כמה מקרים לשמירת RTF ב-TSV עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

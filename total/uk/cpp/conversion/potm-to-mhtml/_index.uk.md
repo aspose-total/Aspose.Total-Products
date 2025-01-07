@@ -61,7 +61,7 @@ otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS CSV DIF XLT XLTX ODS XLSM XLSB FOD
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження POTM у MHTML з іншими функціями, такими як Convert Protected POTM to MHTML via C++.
+Ще кілька випадків для збереження POTM у MHTML з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

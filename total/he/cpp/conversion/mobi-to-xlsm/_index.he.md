@@ -61,7 +61,7 @@ otherformats: EXCEL DIF XLTM XLAM XLT XLS ODS CSV XLSB FODS TSV SXC XLSX XLTX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת MOBI ב-XLSM עם תכונות אחרות כמו Access MOBI Document Properties via C++, Save XLSM File to Stream via C++.
+עוד כמה מקרים לשמירת MOBI ב-XLSM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

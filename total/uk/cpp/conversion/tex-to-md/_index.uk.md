@@ -61,7 +61,7 @@ otherformats: TXT FODS EXCEL TSV XLT XLSB XLAM XLTX XLSM CSV SXC DIF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження TEX у MD з іншими функціями, такими як Get or Set TEX File Information via C++, Save MD File Format to Stream via C++.
+Ще кілька випадків для збереження TEX у MD з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

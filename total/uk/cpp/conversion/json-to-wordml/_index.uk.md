@@ -61,7 +61,7 @@ otherformats: MOBI ODT DOTX DOT RTF EPUB CHM PCL DOC PS WORD OTT DOCM FLATOPC
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження JSON у WORDML з іншими функціями, такими як Set Layout & Convert JSON Format to WORDML in C++, Convert JSON Format to WORDML with Watermark in C++.
+Ще кілька випадків для збереження JSON у WORDML з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

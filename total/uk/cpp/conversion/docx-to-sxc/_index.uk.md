@@ -61,7 +61,7 @@ otherformats: EXCEL ODS XLSM XLT XLTM CSV XLSX TSV XLAM DIF XLS XLSB XLTX FODS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження DOCX у SXC з іншими функціями, такими як Access DOCX Document Properties via C++, Save SXC File to Stream via C++.
+Ще кілька випадків для збереження DOCX у SXC з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

@@ -61,7 +61,7 @@ otherformats: WORD FLATOPC DOT RTF DOCM WORDML CHM OTT PS DOTX EPUB ODT PCL DOC
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת JSON ב-MOBI עם תכונות אחרות כמו Set Layout & Convert JSON Format to MOBI in C++, Convert JSON Format to MOBI with Watermark in C++.
+עוד כמה מקרים לשמירת JSON ב-MOBI עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}

@@ -61,7 +61,7 @@ otherformats: ODS XLSB EXCEL DIF XLTX CSV XLSM XLSX TSV XLT XLAM XLTM SXC XLS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת WORDML ב-FODS עם תכונות אחרות כמו Access WORDML Document Properties via C++, Save FODS File to Stream via C++.
+עוד כמה מקרים לשמירת WORDML ב-FODS עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

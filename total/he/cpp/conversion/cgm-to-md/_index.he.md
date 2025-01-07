@@ -37,7 +37,7 @@ otherformats: XLTX XLAM XLSB XLSM XLT FODS EXCEL ODS TXT SXC CSV DIF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת CGM ב-MD עם תכונות אחרות כמו Get or Set CGM File Information via C++, Save MD File Format to Stream via C++.
+עוד כמה מקרים לשמירת CGM ב-MD עם תכונות אחרות כמו.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

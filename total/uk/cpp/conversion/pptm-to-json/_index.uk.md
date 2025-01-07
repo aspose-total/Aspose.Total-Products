@@ -61,7 +61,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження PPTM у JSON з іншими функціями, такими як Convert Protected PPTM to JSON Format via C++.
+Ще кілька випадків для збереження PPTM у JSON з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}

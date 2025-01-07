@@ -61,7 +61,7 @@ otherformats: XLTM MARKDOWN FODS CSV XLAM XLTX XLS MHTML DIF XLSX EXCEL XLSB TSV
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PPS ב-XLSM עם תכונות אחרות כמו Convert Protected PPS to XLSM via C++.
+עוד כמה מקרים לשמירת PPS ב-XLSM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}

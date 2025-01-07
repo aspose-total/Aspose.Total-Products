@@ -61,7 +61,7 @@ otherformats: TSV XLAM XLSB ODS EXCEL XLSM CSV XLT FODS TXT SXC XLTM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת PDF ב-MD עם תכונות אחרות כמו Get or Set PDF File Information via C++, Save MD File Format to Stream via C++.
+עוד כמה מקרים לשמירת PDF ב-MD עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}

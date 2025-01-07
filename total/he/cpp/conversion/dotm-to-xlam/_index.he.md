@@ -61,7 +61,7 @@ otherformats: ODS FODS XLSB SXC TSV XLTX DIF XLSX CSV XLT XLSM XLS XLTM EXCEL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עוד כמה מקרים לשמירת DOTM ב-XLAM עם תכונות אחרות כמו Access DOTM Document Properties via C++, Save XLAM File to Stream via C++.
+עוד כמה מקרים לשמירת DOTM ב-XLAM עם תכונות אחרות כמו .
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

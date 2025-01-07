@@ -61,7 +61,7 @@ otherformats: CSV DIF XLSX TSV SXC FODS XLS XLTM XLT XLSM XLAM ODS XLSB EXCEL
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження RTF у XLTX з іншими функціями, такими як Access RTF Document Properties via C++, Save XLTX File to Stream via C++.
+Ще кілька випадків для збереження RTF у XLTX з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

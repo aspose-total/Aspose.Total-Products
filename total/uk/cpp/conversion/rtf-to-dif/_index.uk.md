@@ -61,7 +61,7 @@ otherformats: ODS CSV TSV XLSX XLAM XLS XLSM XLTX SXC XLSB FODS XLTM EXCEL XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Ще кілька випадків для збереження RTF у DIF з іншими функціями, такими як Access RTF Document Properties via C++, Save DIF File to Stream via C++.
+Ще кілька випадків для збереження RTF у DIF з іншими функціями, такими як.
 
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
