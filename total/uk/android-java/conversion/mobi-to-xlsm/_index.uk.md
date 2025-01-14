@@ -44,8 +44,8 @@ otherformats: XLT TSV XLSX FODS EXCEL CSV ODS XLTM SXC XLSB XLS DIF XLAM XLTX
 
 1. Відкрийте файл MOBI за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLSM format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі XLSM за допомогою методу [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

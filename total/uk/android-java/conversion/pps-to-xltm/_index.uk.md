@@ -44,7 +44,7 @@ otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN X
 
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert PPS to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Save the document to XLTM format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 

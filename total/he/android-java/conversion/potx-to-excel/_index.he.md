@@ -44,7 +44,7 @@ otherformats: XLSB MHTML XLAM XLTM XLTX CSV TSV XLSX DIF XLS MARKDOWN XLT SXC XL
 
 1. Open POTX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POTX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
+3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Save the document to EXCEL format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
