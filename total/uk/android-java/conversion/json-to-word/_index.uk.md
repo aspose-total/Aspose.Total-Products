@@ -42,9 +42,9 @@ otherformats: DOT PS RTF MOBI EPUB WORDML DOTX CHM OTT PCL DOCM FLATOPC DOC ODT
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть JSON на Word за допомогою Android Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and read valid JSON data from file
-2. Import JSON file to worksheet using [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) class and [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) it as PDF 
-3. Load PDF document by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class 
+1. Створіть новий [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)-об’єкт і прочитайте дійсні дані JSON із файлу
+2. Імпортуйте файл JSON на аркуш, використовуючи клас [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) і [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) як PDF 
+3. Завантажте PDF-документ за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 
 4. Save the document to DOC format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 
 

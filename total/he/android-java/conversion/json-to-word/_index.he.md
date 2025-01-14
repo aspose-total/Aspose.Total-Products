@@ -42,9 +42,9 @@ otherformats: DOT PS RTF MOBI EPUB WORDML DOTX CHM OTT PCL DOCM FLATOPC DOC ODT
 {{% blocks/products/pf/agp/feature-section-col title="המר את JSON ל-Word באמצעות Android Automation API" %}}
 
 
-1. Create a new [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) object and read valid JSON data from file
-2. Import JSON file to worksheet using [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) class and [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) it as PDF 
-3. Load PDF document by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class 
+1. צור אובייקט [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) חדש וקרא נתוני JSON חוקיים מהקובץ
+2. ייבא קובץ JSON לגיליון עבודה באמצעות מחלקה [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) ו-[Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) כ-PDF 
+3. טען מסמך PDF באמצעות המחלקה [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 
 4. Save the document to DOC format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 
 
