@@ -42,7 +42,7 @@ otherformats: XLSM XLSX XLSB SXC XLT XLTM XLTX ODS EXCEL XLS XLAM DIF FODS CSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את OTT ל-TSV באמצעות Android Automation API" %}}
 
 
-1. Open OTT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ OTT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert OTT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

@@ -17,10 +17,10 @@ otherformats: XLSB FODS EXCEL TXT XLT DIF ODS CSV XLTM TSV XLTX XLSM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PS на SXC за допомогою Android Automation API" %}}
 
 
-1. Open PS file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PS to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to SXC format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл PS за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть PS у XLSX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі SXC за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

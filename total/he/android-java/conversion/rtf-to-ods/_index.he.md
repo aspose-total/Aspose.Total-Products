@@ -42,7 +42,7 @@ otherformats: CSV XLSX XLSB DIF FODS TSV XLAM XLTM SXC XLTX EXCEL XLS XLT XLSM
 {{% blocks/products/pf/agp/feature-section-col title="המר את RTF ל-ODS באמצעות Android Automation API" %}}
 
 
-1. Open RTF file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ RTF באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert RTF to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

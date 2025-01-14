@@ -42,7 +42,7 @@ otherformats: SXC TSV EXCEL XLAM XLTM XLSM FODS XLTX XLT DIF XLSB CSV ODS XLSX
 {{% blocks/products/pf/agp/feature-section-col title="המר את WORDML ל-XLS באמצעות Android Automation API" %}}
 
 
-1. Open WORDML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ WORDML באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert WORDML to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to XLS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

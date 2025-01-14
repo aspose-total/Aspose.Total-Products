@@ -42,11 +42,11 @@ otherformats: ODP POTM POWERPOINT PPTX PPTM PPSM PPS PPSX POT POTX CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть ODT на PPT за допомогою Android Automation API" %}}
 
 
-1. Open ODT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert ODT file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPT using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+1. Відкрийте файл ODT за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Перетворіть файл ODT на HTML за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. Ініціалізація нового об’єкта [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+6. Збережіть документ у PPT за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 

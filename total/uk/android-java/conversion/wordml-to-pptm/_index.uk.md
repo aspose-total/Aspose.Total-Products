@@ -42,11 +42,11 @@ otherformats: POTX PPSM PPS POTM POWERPOINT PPTX ODP POT PPT PPSX CSV DIF FODS O
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть WORDML на PPTM за допомогою Android Automation API" %}}
 
 
-1. Open WORDML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert WORDML file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPTM using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+1. Відкрийте файл WORDML за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Перетворіть файл WORDML на HTML за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. Ініціалізація нового об’єкта [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+6. Збережіть документ у PPTM за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 

@@ -44,9 +44,9 @@ otherformats: POT POTX PPTM PPTX PPT POTM ODP PPS PPSX PPSM
 
 1. Open Word file using [Document](https://reference.aspose.com/Words/java/com.aspose.Words/Document) class
 2. Convert Word file to HTML by using [save](https://reference.aspose.com/Words/java/com.aspose.Words/Document#save(java.lang.String,com.aspose.Words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPTX using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+3. אתחול אובייקט [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) חדש
+5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+6. שמור את המסמך ב-PPTX בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 

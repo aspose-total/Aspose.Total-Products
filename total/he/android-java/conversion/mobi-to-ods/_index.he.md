@@ -42,7 +42,7 @@ otherformats: XLS CSV XLSM XLSB XLTX XLAM XLTM EXCEL XLT FODS XLSX SXC DIF TSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את MOBI ל-ODS באמצעות Android Automation API" %}}
 
 
-1. Open MOBI file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ MOBI באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert MOBI to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

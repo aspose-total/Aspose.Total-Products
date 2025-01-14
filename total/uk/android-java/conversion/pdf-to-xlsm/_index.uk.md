@@ -42,10 +42,10 @@ otherformats: SXC XLSB MD CSV XLTX TXT TSV XLAM DIF XLTM FODS EXCEL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PDF на XLSM за допомогою Android Automation API" %}}
 
 
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PDF to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLSM format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл PDF за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть PDF у XLSX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі XLSM за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

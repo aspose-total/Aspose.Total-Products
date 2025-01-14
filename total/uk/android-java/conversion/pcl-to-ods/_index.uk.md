@@ -42,10 +42,10 @@ otherformats: XLSB XLT CSV TXT MD XLTX XLAM SXC XLSM EXCEL FODS XLTM
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PCL на ODS за допомогою Android Automation API" %}}
 
 
-1. Open PCL file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PCL to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to ODS format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. Відкрийте файл PCL за допомогою класу [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. Перетворіть PCL у XLSX за допомогою методу [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. Завантажте документ XLSX за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. Збережіть документ у форматі ODS за допомогою методу [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

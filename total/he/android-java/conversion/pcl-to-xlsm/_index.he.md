@@ -42,10 +42,10 @@ otherformats: TXT XLT FODS XLSB XLTX SXC MD CSV TSV ODS XLTM XLAM
 {{% blocks/products/pf/agp/feature-section-col title="המר את PCL ל-XLSM באמצעות Android Automation API" %}}
 
 
-1. Open PCL file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert PCL to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to XLSM format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ PCL באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר PCL ל-XLSX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט XLSM בשיטת [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

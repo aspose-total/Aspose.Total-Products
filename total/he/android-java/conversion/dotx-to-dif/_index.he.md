@@ -42,7 +42,7 @@ otherformats: TSV SXC EXCEL XLS FODS XLTM XLTX ODS CSV XLT XLSB XLAM XLSM XLSX
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOTX ל-DIF באמצעות Android Automation API" %}}
 
 
-1. Open DOTX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ DOTX באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

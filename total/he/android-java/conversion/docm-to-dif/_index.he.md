@@ -42,7 +42,7 @@ otherformats: FODS XLT TSV SXC XLAM XLSX XLTM EXCEL XLSB XLSM CSV XLTX XLS ODS
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOCM ל-DIF באמצעות Android Automation API" %}}
 
 
-1. Open DOCM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ DOCM באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

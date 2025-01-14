@@ -42,7 +42,7 @@ otherformats: ODS CSV XLT XLSM XLSB XLSX DIF XLS FODS XLAM EXCEL SXC XLTM TSV
 {{% blocks/products/pf/agp/feature-section-col title="המר את ODT ל-XLTX באמצעות Android Automation API" %}}
 
 
-1. Open ODT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
+1. פתח קובץ ODT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to XLTX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method

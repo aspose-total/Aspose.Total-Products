@@ -42,11 +42,11 @@ otherformats: PPSM POT PPTM POTX POTM PPTX POWERPOINT PPT PPSX ODP CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть FLATOPC на PPS за допомогою Android Automation API" %}}
 
 
-1. Open FLATOPC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert FLATOPC file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPS using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+1. Відкрийте файл FLATOPC за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. Перетворіть файл FLATOPC на HTML за допомогою методу [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. Ініціалізація нового об’єкта [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+6. Збережіть документ у PPS за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 

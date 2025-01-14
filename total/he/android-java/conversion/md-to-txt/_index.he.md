@@ -17,10 +17,10 @@ otherformats: CSV ODS SXC TSV XLTX XLSM EXCEL DIF XLSB XLTM XLT XLAM
 {{% blocks/products/pf/agp/feature-section-col title="המר את MD ל-TXT באמצעות Android Automation API" %}}
 
 
-1. Open MD file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
-2. Convert MD to XLSX by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load XLSX document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
-4. Save the document to TXT format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+1. פתח קובץ MD באמצעות מחלקת [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
+2. המר MD ל-XLSX באמצעות שיטת [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-)
+3. טען מסמך XLSX באמצעות מחלקת [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
+4. שמור את המסמך בפורמט TXT בשיטת [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

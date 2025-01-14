@@ -42,11 +42,11 @@ otherformats: PPTX POTM POWERPOINT POT POTX PPSM ODP PPTM PPS PPT
 {{% blocks/products/pf/agp/feature-section-col title="המר את DOTM ל-PPSX באמצעות Android Automation API" %}}
 
 
-1. Open DOTM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
-2. Convert DOTM file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
-3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object
-5. Extract content from HTML file using BufferedReader and write the content in your presentation file
-6. Save the document to PPSX using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) method
+1. פתח קובץ DOTM באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
+2. המר קובץ DOTM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
+3. אתחול אובייקט [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) חדש
+5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+6. שמור את המסמך ב-PPSX בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 
 
