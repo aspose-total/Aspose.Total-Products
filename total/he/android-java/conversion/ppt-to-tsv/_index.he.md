@@ -42,10 +42,10 @@ otherformats: DIF XLS CSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPT ל-TSV באמצעות Android Automation API" %}}
 
 
-1. Open PPT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ PPT באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPT ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to TSV format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט TSV באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

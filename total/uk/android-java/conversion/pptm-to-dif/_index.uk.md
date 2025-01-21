@@ -42,10 +42,10 @@ otherformats: XLSB MHTML XLSM SXC FODS TSV CSV XLS XLAM XLTM XLTX EXCEL XLSX MAR
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PPTM на DIF за допомогою Android Automation API" %}}
 
 
-1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл PPTM за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть PPTM на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to DIF format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Збережіть документ у форматі DIF за допомогою [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

@@ -42,10 +42,10 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC X
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть PowerPoint на TSV за допомогою Android Automation API" %}}
 
 
-1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POWERPOINT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл POWERPOINT за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть POWERPOINT на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to TSV format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Збережіть документ у форматі TSV за допомогою [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

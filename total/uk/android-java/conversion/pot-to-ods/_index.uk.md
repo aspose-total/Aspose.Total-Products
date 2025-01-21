@@ -42,10 +42,10 @@ otherformats: XLS CSV DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 {{% blocks/products/pf/agp/feature-section-col title="Перетворіть POT на ODS за допомогою Android Automation API" %}}
 
 
-1. Open POT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. Відкрийте файл POT за допомогою класу [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. Перетворіть POT на HTML за допомогою методу [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to ODS format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. Збережіть документ у форматі ODS за допомогою [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

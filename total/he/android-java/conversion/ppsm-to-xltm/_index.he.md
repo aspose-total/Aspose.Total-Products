@@ -42,10 +42,10 @@ otherformats: XLSM XLT CSV XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF SX
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPSM ל-XLTM באמצעות Android Automation API" %}}
 
 
-1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPSM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ PPSM באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPSM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to XLTM format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט XLTM באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

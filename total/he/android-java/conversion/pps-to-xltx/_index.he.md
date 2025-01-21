@@ -42,10 +42,10 @@ otherformats: CSV XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN 
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPS ל-XLTX באמצעות Android Automation API" %}}
 
 
-1. Open PPS file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPS to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ PPS באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPS ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to XLTX format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט XLTX באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

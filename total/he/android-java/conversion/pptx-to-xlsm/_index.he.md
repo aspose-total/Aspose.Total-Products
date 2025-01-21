@@ -42,10 +42,10 @@ otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS CSV MHTML ODS X
 {{% blocks/products/pf/agp/feature-section-col title="המר את PPTX ל-XLSM באמצעות Android Automation API" %}}
 
 
-1. Open PPTX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert PPTX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ PPTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר PPTX ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to XLSM format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט XLSM באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

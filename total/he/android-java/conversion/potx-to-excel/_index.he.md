@@ -42,10 +42,10 @@ otherformats: XLSB MHTML XLAM XLTM XLTX CSV TSV XLSX DIF XLS MARKDOWN XLT SXC XL
 {{% blocks/products/pf/agp/feature-section-col title="המר את POTX ל-Excel באמצעות Android Automation API" %}}
 
 
-1. Open POTX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POTX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ POTX באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר POTX ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to EXCEL format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט EXCEL באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 

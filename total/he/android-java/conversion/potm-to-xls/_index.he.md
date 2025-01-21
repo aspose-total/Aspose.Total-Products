@@ -42,10 +42,10 @@ otherformats: EXCEL SXC FODS XLSM CSV MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 {{% blocks/products/pf/agp/feature-section-col title="המר את POTM ל-XLS באמצעות Android Automation API" %}}
 
 
-1. Open POTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
-2. Convert POTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
+1. פתח קובץ POTM באמצעות מחלקת [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
+2. המר POTM ל-HTML באמצעות שיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-)
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to XLS format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
+4. שמור את המסמך בפורמט XLS באמצעות [save](https://reference.aspose.com/cells/java/com.aspose.cells/)
 
 
 
