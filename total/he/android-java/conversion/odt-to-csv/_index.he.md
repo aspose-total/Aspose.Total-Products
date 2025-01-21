@@ -43,7 +43,7 @@ otherformats: XLT DIF XLS XLTM FODS ODS TSV XLSX SXC XLSM XLAM EXCEL XLSB XLTX
 
 
 1. פתח קובץ ODT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. המר ODT ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. שמור את המסמך בפורמט CSV בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

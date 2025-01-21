@@ -43,7 +43,7 @@ otherformats: XLSB XLTM SXC ODS DIF TSV EXCEL XLSM XLTX CSV FODS XLT XLS XLSX
 
 
 1. Відкрийте файл DOT за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. Перетворіть DOT на HTML за допомогою методу [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі XLAM за допомогою методу [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

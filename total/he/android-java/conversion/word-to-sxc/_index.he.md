@@ -43,7 +43,7 @@ otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 
 
 1. פתח קובץ WORD באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert WORD to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. המר WORD ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. שמור את המסמך בפורמט SXC בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

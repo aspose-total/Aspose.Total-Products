@@ -43,7 +43,7 @@ otherformats: ODS CSV XLT XLSM XLSB XLSX DIF XLS FODS XLAM EXCEL SXC XLTM TSV
 
 
 1. Відкрийте файл ODT за допомогою класу [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. Перетворіть ODT на HTML за допомогою методу [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. Завантажте HTML-документ за допомогою класу [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. Збережіть документ у форматі XLTX за допомогою методу [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

@@ -45,7 +45,7 @@ otherformats: ODP PPS PPSM POTX POWERPOINT PPSX PPT PPTM PPTX POT CSV DIF FODS O
 1. פתח קובץ OTT באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. המר קובץ OTT ל-HTML באמצעות שיטת [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. אתחול אובייקט [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) חדש
-5. Витягніть вміст із файлу HTML за допомогою BufferedReader і запишіть вміст у файл презентації
+5. חלץ תוכן מקובץ HTML באמצעות BufferedReader וכתוב תוכן לקובץ מצגת
 6. שמור את המסמך ב-POTM בשיטת [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 
 

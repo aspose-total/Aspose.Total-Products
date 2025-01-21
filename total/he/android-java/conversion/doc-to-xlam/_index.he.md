@@ -43,7 +43,7 @@ otherformats: XLTX EXCEL SXC ODS XLT DIF XLSB XLSX XLTM CSV TSV XLSM FODS XLS
 
 
 1. פתח קובץ DOC באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. המר DOC ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. שמור את המסמך בפורמט XLAM בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 

@@ -43,9 +43,9 @@ otherformats: DIF XLS XLTM TSV XLT ODS XLSB XLSX FODS CSV XLSM XLTX SXC XLAM
 
 
 1. פתח קובץ WORD באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert WORD to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. המר WORD ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
-4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
+4. שמור את המסמך בפורמט XLSX בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
 
 

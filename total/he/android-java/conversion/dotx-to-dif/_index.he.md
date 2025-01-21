@@ -43,7 +43,7 @@ otherformats: TSV SXC EXCEL XLS FODS XLTM XLTX ODS CSV XLT XLSB XLAM XLSM XLSX
 
 
 1. פתח קובץ DOTX באמצעות מחלקת [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
-2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
+2. המר DOTX ל-HTML באמצעות שיטת [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions))
 3. טען מסמך HTML באמצעות המחלקה [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 4. שמור את המסמך בפורמט DIF בשיטת [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions))
 
