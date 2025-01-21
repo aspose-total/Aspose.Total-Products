@@ -31,6 +31,11 @@ The JavaScript OCR API is versatile, capable of recognizing content from scanned
 {{< /blocks/products/pf/total/product-item >}}
 
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++ offers a range of powerful features to streamline font management. It enables effortless font conversion directly within the browser, supports seamless handling of diverse formats like TTF, EOT, WOFF, CFF, and Type1, and provides comprehensive access to font metadata for detailed insights. 
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
