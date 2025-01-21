@@ -11,25 +11,29 @@ description: Node.js API untuk memanipulasi file PDF serta mengekstrak teks dari
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-nodejs-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejs-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total untuk Node.js melalui C++ adalah kumpulan pustaka Node.js yang mencakup semua.Pustaka ini menawarkan fungsionalitas seperti bekerja langsung dengan PDF dan menyempurnakan aplikasi Anda untuk mengubah gambar menjadi teks.
+Aspose.Total for Node.js via C++ adalah kumpulan pustaka Node.js yang mencakup semua.Pustaka ini menawarkan fungsionalitas seperti bekerja langsung dengan PDF dan menyempurnakan aplikasi Anda untuk mengubah gambar menjadi teks.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total untuk Node.js melalui C++ mencakup pustaka Node.js berikut:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Node.js via C++ mencakup pustaka Node.js berikut:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/nodejs-cpp/" imgSrc="/total/images/aspose_pdf-for-nodejs-cpp.svg" productName="Aspose.PDF for Node.js via C++">}}
 
-Aspose.PDF untuk Node.js melalui C++ memberdayakan Anda untuk menangani file PDF di backend. Dengan menggunakannya, Anda dapat mengoptimalkan PDF, memasukkan dan mengekstrak teks dan gambar, serta menerapkan proses enkripsi dan dekripsi. Selain itu, fungsinya meluas hingga kemampuan untuk dengan mudah membagi dan menggabungkan dokumen PDF, menyediakan perangkat komprehensif untuk manipulasi file PDF yang efisien.
+Aspose.PDF for Node.js via C++ memberdayakan Anda untuk menangani file PDF di backend. Dengan menggunakannya, Anda dapat mengoptimalkan PDF, memasukkan dan mengekstrak teks dan gambar, serta menerapkan proses enkripsi dan dekripsi. Selain itu, fungsinya meluas hingga kemampuan untuk dengan mudah membagi dan menggabungkan dokumen PDF, menyediakan perangkat komprehensif untuk manipulasi file PDF yang efisien.
 
 <br /><br />
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/nodejs-cpp/" imgSrc="/total/images/aspose_ocr-for-nodjs-cpp.svg" productName="Aspose.OCR for Node.js via C++">}}
 
-Aspose.OCR untuk Node.js melalui C++ memungkinkan ekstraksi teks dari gambar seperti halaman yang dipindai dan foto pada platform yang kompatibel dengan Node.js.Tingkatkan produk lokal, layanan web, dan aplikasi tanpa server dengan fungsi pengenalan karakter optik yang kuat, mendukung 28 bahasa termasuk Cina dan Hindi dalam format populer.
+Aspose.OCR for Node.js via C++ memungkinkan ekstraksi teks dari gambar seperti halaman yang dipindai dan foto pada platform yang kompatibel dengan Node.js.Tingkatkan produk lokal, layanan web, dan aplikasi tanpa server dengan fungsi pengenalan karakter optik yang kuat, mendukung 28 bahasa termasuk Cina dan Hindi dalam format populer.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
+
+Aspose.Font for Node.js via C++ memungkinkan pengembang untuk memuat, merender, dan menyimpan berbagai format font, termasuk TrueType, WOFF, EOT, OpenType, CFF, dan Type1. Dirancang untuk menyederhanakan operasi font yang rumit, sehingga pengembang Node.js dapat dengan mudah fokus pada pembuatan aplikasi yang luar biasa tanpa repotnya penanganan font yang rumit.
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

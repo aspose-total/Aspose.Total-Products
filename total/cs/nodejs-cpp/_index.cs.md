@@ -20,17 +20,20 @@ Aspose.Total pro Node.js přes C++ je all-inclusive sada knihoven Node.js.Tyto k
 
 {{< blocks/products/pf/total/product-item href="/pdf/nodejs-cpp/" imgSrc="/total/images/aspose_pdf-for-nodejs-cpp.svg" productName="Aspose.PDF for Node.js via C++">}}
 
-Aspose.PDF pro Node.js přes C++ vám umožňuje zpracovávat soubory PDF na backendu. S jeho využitím můžete optimalizovat soubory PDF, začlenit a extrahovat text a obrázky a také implementovat procesy šifrování a dešifrování. Kromě toho se tato funkce rozšiřuje na schopnost snadno rozdělit a sloučit dokumenty PDF, což poskytuje komplexní sadu nástrojů pro zjednodušenou manipulaci se soubory PDF.
+Aspose.PDF for Node.js via C++ vám umožňuje zpracovávat soubory PDF na backendu. S jeho využitím můžete optimalizovat soubory PDF, začlenit a extrahovat text a obrázky a také implementovat procesy šifrování a dešifrování. Kromě toho se tato funkce rozšiřuje na schopnost snadno rozdělit a sloučit dokumenty PDF, což poskytuje komplexní sadu nástrojů pro zjednodušenou manipulaci se soubory PDF.
 
 <br /><br />
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/nodejs-cpp/" imgSrc="/total/images/aspose_ocr-for-nodjs-cpp.svg" productName="Aspose.OCR for Node.js via C++">}}
 
-Aspose.OCR pro Node.js prostřednictvím C++ umožňuje extrakci textu z obrázků, jako jsou naskenované stránky a fotografie, na platformách kompatibilních s Node.js.Vylepšete místní produkty, webové služby a aplikace bez serveru pomocí výkonné funkce optického rozpoznávání znaků, která podporuje 28 jazyků včetně čínštiny a hindštiny v oblíbených formátech.
+Aspose.OCR for Node.js via C++ umožňuje extrakci textu z obrázků, jako jsou naskenované stránky a fotografie, na platformách kompatibilních s Node.js.Vylepšete místní produkty, webové služby a aplikace bez serveru pomocí výkonné funkce optického rozpoznávání znaků, která podporuje 28 jazyků včetně čínštiny a hindštiny v oblíbených formátech.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
 
+Aspose.Font for Node.js via C++ umožňuje vývojářům načítat, vykreslovat a ukládat různé formáty písem, včetně TrueType, WOFF, EOT, OpenType, CFF a Type1. Navrženo tak, aby zjednodušilo složité operace s písmy, takže vývojáři Node.js se mohou snadno soustředit na vytváření výjimečných aplikací bez potíží se složitou manipulací s písmy.
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

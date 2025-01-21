@@ -11,7 +11,7 @@ description: API של Node.js לתמרן קבצי PDF וכן לחילוץ טקס
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-nodejs-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejs-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total עבור Node.js דרך C++ הוא קבוצה כוללת של ספריות Node.js.  ספריות אלה מציעות פונקציונליות כמו עבודה ישירה עם קובצי PDF ושיפור היישומים שלך להפיכת תמונות לטקסט.
+Aspose.Total for Node.js via C++ הוא קבוצה כוללת של ספריות Node.js.  ספריות אלה מציעות פונקציונליות כמו עבודה ישירה עם קובצי PDF ושיפור היישומים שלך להפיכת תמונות לטקסט.
 
 {{< /blocks/products/pf/total/overview >}}
 
@@ -20,16 +20,20 @@ Aspose.Total עבור Node.js דרך C++ הוא קבוצה כוללת של ספ�
 
 {{< blocks/products/pf/total/product-item href="/pdf/nodejs-cpp/" imgSrc="/total/images/aspose_pdf-for-nodejs-cpp.svg" productName="Aspose.PDF for Node.js via C++">}}
 
-Aspose.PDF עבור Node.js באמצעות C++ מאפשר לך לטפל בקבצי PDF בקצה האחורי.  בעזרתו תוכלו לבצע אופטימיזציה של קובצי PDF, לשלב ולחלץ טקסט ותמונות, כמו גם ליישם תהליכי הצפנה ופענוח.  יתר על כן, הפונקציונליות משתרעת על היכולת לפצל ולמזג ללא מאמץ מסמכי PDF, ומספקת ערכת כלים מקיפה למניפולציה יעילה של קבצי PDF.
+Aspose.PDF for Node.js via C++ מאפשר לך לטפל בקבצי PDF בקצה האחורי.  בעזרתו תוכלו לבצע אופטימיזציה של קובצי PDF, לשלב ולחלץ טקסט ותמונות, כמו גם ליישם תהליכי הצפנה ופענוח.  יתר על כן, הפונקציונליות משתרעת על היכולת לפצל ולמזג ללא מאמץ מסמכי PDF, ומספקת ערכת כלים מקיפה למניפולציה יעילה של קבצי PDF.
 
 <br /><br />
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/nodejs-cpp/" imgSrc="/total/images/aspose_ocr-for-nodjs-cpp.svg" productName="Aspose.OCR for Node.js via C++">}}
 
-Aspose.OCR עבור Node.js באמצעות C++ מאפשר חילוץ טקסט מתמונות כמו דפים סרוקים ותמונות בפלטפורמות תואמות Node.js.  שפר מוצרים מקומיים, שירותי אינטרנט ויישומים ללא שרתים עם פונקציונליות חזקה של זיהוי תווים אופטי, תמיכה ב-28 שפות כולל סינית והינדית בפורמטים פופולריים.
+Aspose.OCR for Node.js via C++ מאפשר חילוץ טקסט מתמונות כמו דפים סרוקים ותמונות בפלטפורמות תואמות Node.js.  שפר מוצרים מקומיים, שירותי אינטרנט ויישומים ללא שרתים עם פונקציונליות חזקה של זיהוי תווים אופטי, תמיכה ב-28 שפות כולל סינית והינדית בפורמטים פופולריים.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
+
+Aspose.Font for Node.js via C++ מאפשר למפתחים לטעון, לרנדר ולשמור פורמטים שונים של גופנים, כולל TrueType, WOFF, EOT, OpenType, CFF ו-Type1. עוצב כדי לפשט פעולות גופנים מורכבות, כך שמפתחי Node.js יכולים להתמקד בקלות ביצירת יישומים יוצאי דופן ללא הטרחה של טיפול מורכב בגופנים.
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

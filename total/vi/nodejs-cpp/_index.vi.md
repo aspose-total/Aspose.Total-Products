@@ -11,23 +11,29 @@ description: API Node.js để thao tác với tệp PDF cũng như trích xuấ
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-nodejs-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejs-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total cho Node.js qua C++ là một bộ thư viện Node.js trọn gói.Các thư viện này cung cấp các chức năng như làm việc trực tiếp với tệp PDF và nâng cao ứng dụng của bạn để chuyển hình ảnh thành văn bản.
+Aspose.Total for Node.js via C++ là một bộ thư viện Node.js trọn gói.Các thư viện này cung cấp các chức năng như làm việc trực tiếp với tệp PDF và nâng cao ứng dụng của bạn để chuyển hình ảnh thành văn bản.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total cho Node.js qua C++ bao gồm các thư viện Node.js sau:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Node.js via C++ bao gồm các thư viện Node.js sau:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/nodejs-cpp/" imgSrc="/total/images/aspose_pdf-for-nodejs-cpp.svg" productName="Aspose.PDF for Node.js via C++">}}
 
-Aspose.PDF dành cho Node.js thông qua C++ cho phép bạn xử lý các tệp PDF ở phần phụ trợ. Bằng cách sử dụng nó, bạn có thể tối ưu hóa các tệp PDF, kết hợp và trích xuất văn bản và hình ảnh cũng như thực hiện các quy trình mã hóa và giải mã. Hơn nữa, chức năng này còn mở rộng đến khả năng phân tách và hợp nhất các tài liệu PDF một cách dễ dàng, cung cấp bộ công cụ toàn diện để thao tác với tệp PDF được sắp xếp hợp lý.
+Aspose.PDF for Node.js via C++ cho phép bạn xử lý các tệp PDF ở phần phụ trợ. Bằng cách sử dụng nó, bạn có thể tối ưu hóa các tệp PDF, kết hợp và trích xuất văn bản và hình ảnh cũng như thực hiện các quy trình mã hóa và giải mã. Hơn nữa, chức năng này còn mở rộng đến khả năng phân tách và hợp nhất các tài liệu PDF một cách dễ dàng, cung cấp bộ công cụ toàn diện để thao tác với tệp PDF được sắp xếp hợp lý.
 
 <br /><br />
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/nodejs-cpp/" imgSrc="/total/images/aspose_ocr-for-nodjs-cpp.svg" productName="Aspose.OCR for Node.js via C++">}}
 
-Aspose.OCR cho Node.js thông qua C++ cho phép trích xuất văn bản từ hình ảnh như các trang và ảnh được quét trên nền tảng tương thích với Node.js.Nâng cao các sản phẩm tại chỗ, dịch vụ web và ứng dụng không có máy chủ với chức năng nhận dạng ký tự quang học mạnh mẽ, hỗ trợ 28 ngôn ngữ bao gồm tiếng Trung và tiếng Hindi ở các định dạng phổ biến.
+Aspose.OCR for Node.js via C++ cho phép trích xuất văn bản từ hình ảnh như các trang và ảnh được quét trên nền tảng tương thích với Node.js.Nâng cao các sản phẩm tại chỗ, dịch vụ web và ứng dụng không có máy chủ với chức năng nhận dạng ký tự quang học mạnh mẽ, hỗ trợ 28 ngôn ngữ bao gồm tiếng Trung và tiếng Hindi ở các định dạng phổ biến.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
+
+Aspose.Font for Node.js via C++ cho phép các nhà phát triển tải, hiển thị và lưu nhiều định dạng phông chữ khác nhau, bao gồm TrueType, WOFF, EOT, OpenType, CFF và Type1. Được thiết kế để đơn giản hóa các thao tác phông chữ phức tạp, do đó các nhà phát triển Node.js có thể dễ dàng tập trung vào việc tạo ra các ứng dụng đặc biệt mà không gặp rắc rối khi xử lý phông chữ phức tạp.
+
 {{< /blocks/products/pf/total/product-item >}}
 
 

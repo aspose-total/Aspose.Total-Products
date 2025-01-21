@@ -30,6 +30,11 @@ Az Aspose.PDF for Node.js C++-on keresztül lehetővé teszi a PDF-fájlok kezel
 Az Aspose.OCR for Node.js a C++ segítségével lehetővé teszi a szövegek kinyerését olyan képekből, mint a beolvasott oldalak és fényképek Node.js-kompatibilis platformokon.Fokozza a helyszíni termékeket, webszolgáltatásokat és kiszolgáló nélküli alkalmazásokat erőteljes optikai karakterfelismerő funkcióval, amely 28 nyelvet támogat, köztük a kínai és a hindi népszerű formátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
+
+Az Aspose.Font for Node.js C++-on keresztül lehetővé teszi a fejlesztők számára, hogy betöltsenek, rendereljenek és mentsenek különféle betűtípusokat, beleértve a TrueType-ot, WOFF-ot, EOT-t, OpenType-ot, CFF-et és Type1-et. Úgy tervezték, hogy leegyszerűsítse az összetett betűtípus-műveleteket, így a Node.js fejlesztői könnyedén összpontosíthatnak kivételes alkalmazások létrehozására a bonyolult betűtípuskezelési gondok nélkül.
+
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">
