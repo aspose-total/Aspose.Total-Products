@@ -77,6 +77,36 @@ Efficiently compress files to create a variety of archive formats or decompress 
 Effortlessly work with XBRL and iXBRL formats using a dedicated Python API that enables easy creation, reading, and validation of eXtensible Business Reporting Language (XBRL) documents directly within your Python applications. Streamline your financial reporting tasks with this seamless Python solution.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/html/python-net/" imgSrc="/total/images/aspose_html-for-python-net.svg" productName="Aspose.HTML for Python via .NET">}}
+
+Aspose.HTML for Python via .NET - HTML processing API, enabling the creation, modification, conversion, and rendering of HTML documents across platforms without external software. It supports formats like EPUB, SVG, and Markdown, and integrates advanced features such as CSS, HTML Canvas, and JavaScript for high-quality manipulation and rendering in Python applications.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/page/python-net/" imgSrc="/total/images/aspose_page-for-python-net.svg" productName="Aspose.Page for Python via .NET">}}
+
+Aspose.Page for Python via .NET is a robust API for creating, editing, and converting EPS, PS, XPS, and OXPS files, offering a reliable solution for rendering and manipulation without additional software. It enables seamless conversion of PS and EPS files to PDF or raster image formats and supports efficient handling of both new and existing XPS documents.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/psd/python-net/" imgSrc="/total/images/aspose_psd-for-python-net.svg" productName="Aspose.PSD for Python via .NET">}}
+
+Aspose.PSD for Python via .NET is a powerful API for creating, reading, editing, and converting PSD, PSB, and AI files without relying on Adobe Photoshop or Illustrator. It supports advanced features like text and shape layer updates, smart objects, blending modes, layer effects, animations, and vector or raster mask handling, enabling seamless manipulation and compression of PSD and PSB images.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/svg/python-net/" imgSrc="/total/images/aspose_svg-for-python-net.svg" productName="Aspose.SVG for Python via .NET">}}
+
+Aspose.SVG for Python via .NET is a comprehensive API for creating, parsing, rendering, and converting SVG files to popular formats like PDF, PNG, JPEG, and GIF without relying on additional tools. This powerful library supports advanced features such as SVG content modification, filter effects, and vectorization, making it ideal for developing high-level applications like SVG editors, converters, and vectorizers.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/tex/python-net/" imgSrc="/total/images/aspose_tex-for-python-net.svg" productName="Aspose.TEX for Python via .NET">}}
+
+Aspose.TeX for Python is a versatile API for manipulating and converting TeX and LaTeX files, supporting output formats like PDF, PNG, JPEG, SVG, and more. With features such as rendering LaTeX fragments, creating custom TeX formats, and intuitive syntax, this library is ideal for integrating TeX and LaTeX functionality into Python applications, from desktop software to web services.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
