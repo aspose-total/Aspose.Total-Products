@@ -26,6 +26,10 @@ PDF Python API to create, edit and manipulate PDF files without any Adobe Acroba
 An Excel Python library to automate processes like generation, manipulation & conversion of spreadsheets. It can also render worksheets to XPS, PDF, MHTML, HTML, Plain Text and images. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+Aspose.Slides for Python via Java is a powerful library for creating, modifying, and converting PowerPoint and OpenOffice presentations without external software. It supports slides, shapes, text, charts, tables, and images, offering advanced features like merging, cloning, splitting, comparing, and printing presentations, all with high performance and no dependencies.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Barcode library to generate and recognize 1D & 2D barcodes from images at any angle from within Python applications by using python-java bridge. Developers can easily add barcode generation and recognition functionality to their own Python Apps. 
 {{< /blocks/products/pf/total/product-item >}}
