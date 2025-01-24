@@ -11,15 +11,15 @@ description: JavaScript API για χειρισμό εγγράφων PDF καθ�
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Το Aspose.Total για JavaScript μέσω C++ είναι ένα πλήρες σύνολο βιβλιοθηκών JavaScript.Αυτές οι βιβλιοθήκες προσφέρουν λειτουργίες όπως η απευθείας εργασία με αρχεία PDF σε προγράμματα περιήγησης ιστού και η βελτίωση των εφαρμογών σας με δυνατότητες οπτικής αναγνώρισης χαρακτήρων.
+Το Aspose.Total for JavaScript via C++ είναι ένα πλήρες σύνολο βιβλιοθηκών JavaScript.Αυτές οι βιβλιοθήκες προσφέρουν λειτουργίες όπως η απευθείας εργασία με αρχεία PDF σε προγράμματα περιήγησης ιστού και η βελτίωση των εφαρμογών σας με δυνατότητες οπτικής αναγνώρισης χαρακτήρων.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Το Aspose.Total για JavaScript μέσω C++ περιλαμβάνει τις ακόλουθες βιβλιοθήκες JavaScript:" >}}
+{{< blocks/products/pf/total/products description="Το Aspose.Total for JavaScript via C++ περιλαμβάνει τις ακόλουθες βιβλιοθήκες JavaScript:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Το Aspose.PDF για JavaScript μέσω C++ είναι μια φιλική προς τον χρήστη και ασφαλή εργαλειοθήκη σχεδιασμένη για εργασία με αρχεία PDF απευθείας σε προγράμματα περιήγησης ιστού.Αυτή η βιβλιοθήκη υποστηρίζει 26 γλώσσες, συμπεριλαμβανομένων λατινικών, κυριλλικών γραμμάτων και κινεζικών χαρακτήρων.<br><br>
+Το Aspose.PDF for JavaScript via C++ είναι μια φιλική προς τον χρήστη και ασφαλή εργαλειοθήκη σχεδιασμένη για εργασία με αρχεία PDF απευθείας σε προγράμματα περιήγησης ιστού.Αυτή η βιβλιοθήκη υποστηρίζει 26 γλώσσες, συμπεριλαμβανομένων λατινικών, κυριλλικών γραμμάτων και κινεζικών χαρακτήρων.<br><br>
 
 Είναι μια ελαφριά λύση που επιτρέπει στους προγραμματιστές να επεξεργάζονται αποτελεσματικά αρχεία PDF με JavaScript.Είναι τόσο επεκτάσιμο όσο και πλούσιο σε δυνατότητες, επιτρέποντας στους προγραμματιστές να δημιουργήσουν τα δικά τους προϊόντα χειρισμού PDF που βασίζονται σε JavaScript και να τα μοιράζονται εύκολα στον ιστό.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
@@ -30,7 +30,11 @@ description: JavaScript API για χειρισμό εγγράφων PDF καθ�
 Το JavaScript OCR API είναι ευέλικτο, ικανό να αναγνωρίζει περιεχόμενο από σαρωμένες εικόνες, φωτογραφίες smartphone, στιγμιότυπα οθόνης, συγκεκριμένες περιοχές εικόνων και σαρωμένα αρχεία PDF.Παρέχει αποτελέσματα σε δημοφιλείς μορφές ανταλλαγής εγγράφων και δεδομένων. Συγκεκριμένα, το API λειτουργεί εκτός σύνδεσης, εξαλείφοντας την ανάγκη για σύνδεση στο διαδίκτυο.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
 
+Το Aspose.Font for JavaScript via C++ προσφέρει μια σειρά ισχυρών δυνατοτήτων για τη βελτιστοποίηση της διαχείρισης γραμματοσειρών. Επιτρέπει την εύκολη μετατροπή γραμματοσειρών απευθείας μέσα στο πρόγραμμα περιήγησης, υποστηρίζει απρόσκοπτη διαχείριση διαφορετικών μορφών όπως TTF, EOT, WOFF, CFF και Type1 και παρέχει ολοκληρωμένη πρόσβαση στα μεταδεδομένα γραμματοσειράς για λεπτομερείς πληροφορίες.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

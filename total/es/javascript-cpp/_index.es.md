@@ -11,25 +11,30 @@ description: API de JavaScript para manipular documentos PDF y agregar función 
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total para JavaScript a través de C++ es un conjunto completo de bibliotecas de JavaScript.Estas bibliotecas ofrecen funcionalidades como trabajar directamente con archivos PDF en navegadores web y mejorar sus aplicaciones con capacidades de reconocimiento óptico de caracteres.
+Aspose.Total for JavaScript via C++ es un conjunto completo de bibliotecas de JavaScript.Estas bibliotecas ofrecen funcionalidades como trabajar directamente con archivos PDF en navegadores web y mejorar sus aplicaciones con capacidades de reconocimiento óptico de caracteres.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total para JavaScript a través de C++ incluye las siguientes bibliotecas de JavaScript:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ incluye las siguientes bibliotecas de JavaScript:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF para JavaScript a través de C++ es un conjunto de herramientas seguro y fácil de usar diseñado para trabajar con archivos PDF directamente en navegadores web.Esta biblioteca admite 26 idiomas, incluidos latín, escritura cirílica y caracteres chinos.<br><br>
+Aspose.PDF for JavaScript via C++ es un conjunto de herramientas seguro y fácil de usar diseñado para trabajar con archivos PDF directamente en navegadores web.Esta biblioteca admite 26 idiomas, incluidos latín, escritura cirílica y caracteres chinos.<br><br>
 
 Es una solución liviana que permite a los desarrolladores procesar archivos PDF de manera eficiente con JavaScript.Es escalable y rico en funciones, lo que permite a los desarrolladores crear sus propios productos de manipulación de PDF basados en JavaScript y compartirlos fácilmente en la web.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR para JavaScript a través de C++ permite a sus aplicaciones un reconocimiento óptico eficiente de caracteres en solo 8 líneas de código.<br><br>
+Aspose.OCR for JavaScript via C++ permite a sus aplicaciones un reconocimiento óptico eficiente de caracteres en solo 8 líneas de código.<br><br>
 
 La API de OCR de JavaScript es versátil y capaz de reconocer contenido de imágenes escaneadas, fotografías de teléfonos inteligentes, capturas de pantalla, áreas de imágenes específicas y archivos PDF escaneados.Ofrece resultados en formatos populares de intercambio de datos y documentos. En particular, la API funciona sin conexión, lo que elimina la necesidad de una conexión a Internet.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++ ofrece una variedad de funciones potentes para optimizar la gestión de fuentes. Permite la conversión de fuentes sin esfuerzo directamente dentro del navegador, admite el manejo sin inconvenientes de diversos formatos como TTF, EOT, WOFF, CFF y Type1, y brinda acceso integral a los metadatos de las fuentes para obtener información detallada.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

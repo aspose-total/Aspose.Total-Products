@@ -15,7 +15,7 @@ Aspose.Total for JavaScript via C++ là một bộ thư viện JavaScript trọn
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total cho JavaScript qua C++ bao gồm các thư viện JavaScript sau:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ bao gồm các thư viện JavaScript sau:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
@@ -25,11 +25,16 @@ Aspose.PDF for JavaScript via C++ là bộ công cụ an toàn và thân thiện
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR dành cho JavaScript thông qua C++ trao quyền cho ứng dụng của bạn khả năng nhận dạng ký tự quang học hiệu quả chỉ trong 8 dòng mã.<br><br>
+Aspose.OCR for JavaScript via C++ trao quyền cho ứng dụng của bạn khả năng nhận dạng ký tự quang học hiệu quả chỉ trong 8 dòng mã.<br><br>
 
 API JavaScript OCR rất linh hoạt, có khả năng nhận dạng nội dung từ hình ảnh được quét, ảnh trên điện thoại thông minh, ảnh chụp màn hình, vùng hình ảnh cụ thể và tệp PDF được quét.Nó cung cấp kết quả ở các định dạng trao đổi dữ liệu và tài liệu phổ biến. Đáng chú ý, API hoạt động ngoại tuyến, loại bỏ nhu cầu kết nối internet.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++ cung cấp một loạt các tính năng mạnh mẽ để hợp lý hóa việc quản lý phông chữ. Nó cho phép chuyển đổi phông chữ dễ dàng trực tiếp trong trình duyệt, hỗ trợ xử lý liền mạch các định dạng đa dạng như TTF, EOT, WOFF, CFF và Type1, và cung cấp quyền truy cập toàn diện vào siêu dữ liệu phông chữ để có thông tin chi tiết.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

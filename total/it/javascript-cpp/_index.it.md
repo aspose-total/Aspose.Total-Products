@@ -11,26 +11,30 @@ description: API JavaScript per manipolare documenti PDF e aggiungere funzionali
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total per JavaScript tramite C++ è un set completo di librerie JavaScript.Queste librerie offrono funzionalità come lavorare direttamente con i PDF nei browser Web e migliorare le tue applicazioni con capacità di riconoscimento ottico dei caratteri.
+Aspose.Total for JavaScript via C++ è un set completo di librerie JavaScript.Queste librerie offrono funzionalità come lavorare direttamente con i PDF nei browser Web e migliorare le tue applicazioni con capacità di riconoscimento ottico dei caratteri.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total per JavaScript tramite C++ include le seguenti librerie JavaScript:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ include le seguenti librerie JavaScript:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF per JavaScript tramite C++ è un toolkit facile da usare e sicuro progettato per lavorare con i PDF direttamente nei browser web.Questa libreria supporta 26 lingue, tra cui latino, cirillico e caratteri cinesi.<br><br>
+Aspose.PDF for JavaScript via C++ è un toolkit facile da usare e sicuro progettato per lavorare con i PDF direttamente nei browser web.Questa libreria supporta 26 lingue, tra cui latino, cirillico e caratteri cinesi.<br><br>
 
 È una soluzione leggera che consente agli sviluppatori di elaborare in modo efficiente i PDF con JavaScript.È scalabile e ricco di funzionalità e consente agli sviluppatori di creare i propri prodotti di manipolazione PDF basati su JavaScript e di condividerli facilmente sul Web.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR per JavaScript tramite C++ potenzia le tue applicazioni con un efficiente riconoscimento ottico dei caratteri in sole 8 righe di codice.<br><br>
+Aspose.OCR for JavaScript via C++ potenzia le tue applicazioni con un efficiente riconoscimento ottico dei caratteri in sole 8 righe di codice.<br><br>
 
 L'API OCR JavaScript è versatile, in grado di riconoscere contenuti da immagini scansionate, foto di smartphone, screenshot, aree specifiche di immagini e PDF scansionati.Fornisce risultati nei formati di scambio di documenti e dati più diffusi. In particolare, l'API funziona offline, eliminando la necessità di una connessione Internet.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
 
+Aspose.Font for JavaScript via C++ offre una gamma di potenti funzionalità per semplificare la gestione dei font. Consente una conversione dei font senza sforzo direttamente all'interno del browser, supporta la gestione fluida di diversi formati come TTF, EOT, WOFF, CFF e Type1 e fornisce un accesso completo ai metadati dei font per approfondimenti dettagliati.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

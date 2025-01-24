@@ -11,25 +11,30 @@ description: API של JavaScript לתפעול מסמכי PDF וכן הוספת �
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total עבור JavaScript באמצעות C++ הוא קבוצה כוללת של ספריות JavaScript. ספריות אלו מציעות פונקציונליות כמו עבודה ישירה עם קובצי PDF בדפדפני אינטרנט ושיפור האפליקציות שלך עם יכולות זיהוי תווים אופטי.
+Aspose.Total for JavaScript via C++ הוא קבוצה כוללת של ספריות JavaScript. ספריות אלו מציעות פונקציונליות כמו עבודה ישירה עם קובצי PDF בדפדפני אינטרנט ושיפור האפליקציות שלך עם יכולות זיהוי תווים אופטי.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total עבור JavaScript באמצעות C++ כולל את ספריות ה-JavaScript הבאות:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ כולל את ספריות ה-JavaScript הבאות:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF עבור JavaScript באמצעות C++ הוא ערכת כלים ידידותית ומאובטחת המיועדת לעבודה עם קובצי PDF ישירות בדפדפני אינטרנט. ספרייה זו תומכת ב-26 שפות, כולל כתבים לטיניים, קיריליים ותווים סיניים.<br><br>
+Aspose.PDF for JavaScript via C++ הוא ערכת כלים ידידותית ומאובטחת המיועדת לעבודה עם קובצי PDF ישירות בדפדפני אינטרנט. ספרייה זו תומכת ב-26 שפות, כולל כתבים לטיניים, קיריליים ותווים סיניים.<br><br>
 
 זהו פתרון קל משקל המאפשר למפתחים לעבד ביעילות קובצי PDF עם JavaScript. זה גם ניתן להרחבה וגם עשיר בתכונות, ומאפשר למפתחים ליצור מוצרי מניפולציה של PDF מבוססי JavaScript משלהם ולשתף אותם בקלות ברחבי האינטרנט.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR עבור JavaScript באמצעות C++ מעצימה את היישומים שלך עם זיהוי תווים אופטי יעיל ב-8 שורות קוד בלבד. <br><br>
+Aspose.OCR for JavaScript via C++ מעצימה את היישומים שלך עם זיהוי תווים אופטי יעיל ב-8 שורות קוד בלבד. <br><br>
 
 ה-JavaScript OCR API הוא רב תכליתי, מסוגל לזהות תוכן מתמונות סרוקות, תמונות סמארטפון, צילומי מסך, אזורי תמונה ספציפיים וקובצי PDF סרוקים. הוא מספק תוצאות בפורמטים פופולריים של חילופי מסמכים ונתונים. יש לציין שה-API פועל במצב לא מקוון, ומבטל את הצורך בחיבור לאינטרנט.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++ מציע מגוון תכונות עוצמתיות לייעול ניהול הגופנים. הוא מאפשר המרת גופנים ללא מאמץ ישירות בתוך הדפדפן, תומך בטיפול חלק בפורמטים מגוונים כמו TTF, EOT, WOFF, CFF ו-Type1, ומספק גישה מקיפה למטא נתונים של גופנים לתובנות מפורטות.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

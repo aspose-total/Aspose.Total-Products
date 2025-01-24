@@ -30,6 +30,11 @@ Aspose.OCR for JavaScript, C++ aracılığıyla uygulamalarınızı yalnızca 8 
 JavaScript OCR API'si çok yönlüdür; taranan görüntülerden, akıllı telefon fotoğraflarından, ekran görüntülerinden, belirli görüntü alanlarından ve taranmış PDF'lerden içerik tanıyabilir.Sonuçları popüler belge ve veri alışverişi formatlarında sunar. API'nin çevrimdışı çalışması, internet bağlantısı ihtiyacını ortadan kaldırıyor.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++, font yönetimini kolaylaştırmak için bir dizi güçlü özellik sunar. Tarayıcı içinde doğrudan zahmetsiz font dönüşümüne olanak tanır, TTF, EOT, WOFF, CFF ve Type1 gibi çeşitli formatların sorunsuz bir şekilde işlenmesini destekler ve ayrıntılı içgörüler için font meta verilerine kapsamlı erişim sağlar.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">

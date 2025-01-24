@@ -11,26 +11,30 @@ description: JavaScript API untuk memanipulasi dokumen PDF serta menambahkan fit
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total untuk JavaScript melalui C++ adalah kumpulan pustaka JavaScript yang mencakup semua.Pustaka ini menawarkan fungsionalitas seperti bekerja langsung dengan PDF di browser web dan menyempurnakan aplikasi Anda dengan kemampuan pengenalan karakter optik.
+Aspose.Total for JavaScript via C++ adalah kumpulan pustaka JavaScript yang mencakup semua.Pustaka ini menawarkan fungsionalitas seperti bekerja langsung dengan PDF di browser web dan menyempurnakan aplikasi Anda dengan kemampuan pengenalan karakter optik.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total untuk JavaScript melalui C++ mencakup pustaka JavaScript berikut:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ mencakup pustaka JavaScript berikut:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF untuk JavaScript melalui C++ adalah toolkit yang ramah pengguna dan aman yang dirancang untuk bekerja dengan PDF langsung di browser web.Perpustakaan ini mendukung 26 bahasa, termasuk skrip Latin, Sirilik, dan karakter Cina.<br><br>
+Aspose.PDF for JavaScript via C++ adalah toolkit yang ramah pengguna dan aman yang dirancang untuk bekerja dengan PDF langsung di browser web.Perpustakaan ini mendukung 26 bahasa, termasuk skrip Latin, Sirilik, dan karakter Cina.<br><br>
 
 Ini adalah solusi ringan yang memungkinkan pengembang memproses PDF secara efisien dengan JavaScript.Ini skalabel dan kaya fitur, memungkinkan pengembang membuat produk manipulasi PDF berbasis JavaScript mereka sendiri dan dengan mudah membagikannya ke seluruh web.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR untuk JavaScript melalui C++ memberdayakan aplikasi Anda dengan pengenalan karakter optik yang efisien hanya dalam 8 baris kode.<br><br>
+Aspose.OCR for JavaScript via C++ memberdayakan aplikasi Anda dengan pengenalan karakter optik yang efisien hanya dalam 8 baris kode.<br><br>
 
 JavaScript OCR API serbaguna, mampu mengenali konten dari gambar yang dipindai, foto ponsel cerdas, tangkapan layar, area gambar tertentu, dan PDF yang dipindai.Ini memberikan hasil dalam format dokumen dan pertukaran data yang populer. Khususnya, API beroperasi secara offline, sehingga menghilangkan kebutuhan akan koneksi internet.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
 
+Aspose.Font for JavaScript via C++ menawarkan serangkaian fitur canggih untuk menyederhanakan pengelolaan font. Aplikasi ini memungkinkan konversi font dengan mudah langsung di dalam browser, mendukung penanganan beragam format seperti TTF, EOT, WOFF, CFF, dan Type1, serta menyediakan akses komprehensif ke metadata font untuk wawasan terperinci.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

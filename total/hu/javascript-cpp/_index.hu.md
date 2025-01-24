@@ -11,26 +11,30 @@ description: JavaScript API PDF dokumentumok kezeléséhez, valamint OCR funkci�
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Az Aspose.Total for JavaScript a C++-on keresztül JavaScript-könyvtárak mindenre kiterjedő készlete.Ezek a könyvtárak olyan funkciókat kínálnak, mint például a PDF-fájlokkal való közvetlen munkavégzés a webböngészőben, és az alkalmazások optikai karakterfelismerő képességekkel való bővítése.
+Az Aspose.Total for JavaScript via C++-on keresztül JavaScript-könyvtárak mindenre kiterjedő készlete.Ezek a könyvtárak olyan funkciókat kínálnak, mint például a PDF-fájlokkal való közvetlen munkavégzés a webböngészőben, és az alkalmazások optikai karakterfelismerő képességekkel való bővítése.
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Az Aspose.Total for JavaScript a C++-on keresztül a következő JavaScript-könyvtárakat tartalmazza:" >}}
+{{< blocks/products/pf/total/products description="Az Aspose.Total for JavaScript via C++-on keresztül a következő JavaScript-könyvtárakat tartalmazza:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Az Aspose.PDF for JavaScript C++-on keresztül egy felhasználóbarát és biztonságos eszközkészlet, amelyet közvetlenül a webböngészőben történő PDF-fájlok kezelésére terveztek.Ez a könyvtár 26 nyelvet támogat, beleértve a latint, a cirill betűket és a kínai karaktereket.<br><br>
+Az Aspose.PDF for JavaScript via C++-on keresztül egy felhasználóbarát és biztonságos eszközkészlet, amelyet közvetlenül a webböngészőben történő PDF-fájlok kezelésére terveztek.Ez a könyvtár 26 nyelvet támogat, beleértve a latint, a cirill betűket és a kínai karaktereket.<br><br>
 
 Ez egy könnyű megoldás, amely lehetővé teszi a fejlesztők számára, hogy hatékonyan dolgozzák fel a PDF-fájlokat JavaScript segítségével.Egyszerre méretezhető és funkciókban gazdag, lehetővé téve a fejlesztők számára, hogy saját JavaScript-alapú PDF-manipulációs termékeket készítsenek, és könnyedén megosszák azokat az interneten.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Az Aspose.OCR for JavaScript C++-on keresztül hatékony optikai karakterfelismerést tesz lehetővé, mindössze 8 kódsorban.<br><br>
+Az Aspose.OCR for JavaScript via C++-on keresztül hatékony optikai karakterfelismerést tesz lehetővé, mindössze 8 kódsorban.<br><br>
 
 A JavaScript OCR API sokoldalú, képes felismerni a tartalmat a beolvasott képekből, okostelefon-fotókból, képernyőképekből, meghatározott képterületekről és beolvasott PDF-fájlokból.Népszerű dokumentum- és adatcsere-formátumokban nyújt eredményeket. Nevezetesen, az API offline módban működik, így nincs szükség internetkapcsolatra.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
 
+Az Aspose.Font for JavaScript via C++ számos hatékony funkciót kínál a betűtípuskezelés egyszerűsítésére. Könnyű betűtípus-konverziót tesz lehetővé közvetlenül a böngészőn belül, támogatja a különböző formátumok, például TTF, EOT, WOFF, CFF és Type1 zökkenőmentes kezelését, és átfogó hozzáférést biztosít a betűtípus-metaadatokhoz a részletes betekintés érdekében.
+ 
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

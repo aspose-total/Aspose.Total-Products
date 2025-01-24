@@ -30,6 +30,11 @@ Aspose.OCR for JavaScript via C++ 只需 8 行程式碼即可為您的應用程�
 JavaScript OCR API 用途廣泛，能夠辨識掃描影像、智慧型手機照片、螢幕截圖、特定影像區域和掃描 PDF 中的內容。它以流行的文檔和資料交換格式提供結果。值得注意的是，該 API 可以離線運行，無需網路連線。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
+
+Aspose.Font for JavaScript via C++ 提供一系列強大的功能來簡化字體管理。它可以直接在瀏覽器中輕鬆轉換字體，支援無縫處理 TTF、EOT、WOFF、CFF 和 Type1 等多種格式，並提供全面存取字體元資料的權限以獲得詳細的見解。
+ 
+{{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">
