@@ -26,6 +26,12 @@ Herhangi bir Adobe Acrobat bağımlılığı olmadan PDF dosyaları oluşturmak,
 Elektronik tabloların oluşturulması, işlenmesi ve dönüştürülmesi gibi süreçleri otomatikleştirmek için bir Excel Python kitaplığı. Ayrıca çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin ve resimlere dönüştürebilir. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/tr/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java, harici yazılım olmadan PowerPoint ve OpenOffice sunumları oluşturmak, değiştirmek ve dönüştürmek için güçlü bir kütüphanedir. Slaytları, şekilleri, metinleri, grafikleri, tabloları ve görüntüleri destekler ve sunumları birleştirme, klonlama, bölme, karşılaştırma ve yazdırma gibi gelişmiş özellikler sunar, hepsi yüksek performansla ve bağımlılık olmadan.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/tr/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python-java köprüsünü kullanarak Python uygulamalarının içinden herhangi bir açıda görüntülerden 1D ve 2D barkodlar oluşturmak ve tanımak için Python Barkod kütüphanesi. Geliştiriciler, kendi Python Uygulamalarına kolayca barkod oluşturma ve tanıma işlevi ekleyebilir. 
 {{< /blocks/products/pf/total/product-item >}}

@@ -26,6 +26,12 @@ PDF Python API voor het maken, bewerken en manipuleren van PDF-bestanden zonder 
 Een Excel Python-bibliotheek om processen zoals het genereren, manipuleren en converteren van spreadsheets te automatiseren. Het kan ook werkbladen renderen naar XPS, PDF, MHTML, HTML, platte tekst en afbeeldingen. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/nl/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java een krachtige bibliotheek voor het maken, wijzigen en converteren van PowerPoint- en OpenOffice-presentaties zonder externe software. Het ondersteunt dia's, vormen, tekst, grafieken, tabellen en afbeeldingen en biedt geavanceerde functies zoals het samenvoegen, klonen, splitsen, vergelijken en afdrukken van presentaties, allemaal met hoge prestaties en zonder afhankelijkheden.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/nl/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Barcode-bibliotheek voor het genereren en herkennen van 1D- en 2D-barcodes van afbeeldingen vanuit elke hoek vanuit Python-applicaties met behulp van python-java bridge. Ontwikkelaars kunnen eenvoudig functionaliteit voor het genereren en herkennen van streepjescodes toevoegen aan hun eigen Python-apps. 
 {{< /blocks/products/pf/total/product-item >}}

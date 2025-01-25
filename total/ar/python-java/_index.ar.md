@@ -26,6 +26,12 @@ PDF Python API لإنشاء ملفات PDF وتحريرها ومعالجتها �
 مكتبة Excel Python لأتمتة العمليات مثل إنشاء جداول البيانات ومعالجتها وتحويلها. يمكنه أيضًا تقديم أوراق العمل إلى XPS و PDF و MHTML و HTML والنص العادي والصور. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/ar/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java هي مكتبة قوية لإنشاء وتعديل وتحويل عروض PowerPoint وOpenOffice دون الحاجة إلى برامج خارجية. وهي تدعم الشرائح والأشكال والنصوص والرسوم البيانية والجداول والصور، وتوفر ميزات متقدمة مثل دمج العروض التقديمية واستنساخها وتقسيمها ومقارنتها وطباعتها، وكل ذلك بأداء عالٍ وبدون أي تبعيات.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ar/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 مكتبة Python Barcode لإنشاء والتعرف على الرموز الشريطية 1D و 2D من الصور بأي زاوية من داخل تطبيقات Python باستخدام جسر python-java. يمكن للمطورين بسهولة إضافة وظيفة إنشاء الرمز الشريطي والتعرف عليه إلى تطبيقات Python الخاصة بهم. 
 {{< /blocks/products/pf/total/product-item >}}

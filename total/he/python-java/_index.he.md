@@ -26,6 +26,12 @@ PDF Python API ליצירה, עריכה ולטפל בקובצי PDF ללא כל 
 ספריית Excel Python לאוטומציה של תהליכים כמו יצירה, מניפולציה והמרה של גיליונות אלקטרוניים.  זה יכול גם לעבד גליונות עבודה ל-XPS, PDF, MHTML, HTML, טקסט רגיל ותמונות.  
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java היא ספרייה רבת עוצמה ליצירה, שינוי והמרה של מצגות PowerPoint ו-OpenOffice ללא תוכנה חיצונית. הוא תומך בשקופיות, צורות, טקסט, תרשימים, טבלאות ותמונות, ומציע תכונות מתקדמות כמו מיזוג, שיבוט, פיצול, השוואה והדפסת מצגות, והכל עם ביצועים גבוהים וללא תלות.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 ספריית ברקוד Python ליצירת וזיהוי ברקודים דו-ממדיים מתמונות בכל זווית מתוך יישומי Python באמצעות גשר python-java. מפתחים יכולים להוסיף בקלות פונקציונליות של יצירת ברקוד וזיהוי לאפליקציות Python משלהם.  
 {{< /blocks/products/pf/total/product-item >}}

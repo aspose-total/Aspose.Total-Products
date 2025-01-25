@@ -26,6 +26,12 @@ Adobe Acrobat に依存せずに PDF ファイルを作成、編集、操作す�
 スプレッドシートの生成、操作、変換などのプロセスを自動化するExcelPythonライブラリ。また、ワークシートをXPS、PDF、MHTML、HTML、プレーンテキストおよび画像にレンダリングすることもできます。 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/ja/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java は、外部ソフトウェアを使用せずに PowerPoint および OpenOffice プレゼンテーションを作成、変更、変換するための強力なライブラリです。スライド、図形、テキスト、グラフ、表、画像をサポートし、プレゼンテーションの結合、複製、分割、比較、印刷などの高度な機能を提供します。これらはすべて、高いパフォーマンスと依存性なしで提供されます。
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ja/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 python-javaブリッジを使用して、Pythonアプリケーション内から任意の角度で画像から1Dおよび2Dバーコードを生成および認識するPythonバーコードライブラリ。開発者は、バーコードの生成および認識機能を独自のPythonアプリに簡単に追加できます。 
 {{< /blocks/products/pf/total/product-item >}}

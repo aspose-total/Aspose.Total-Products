@@ -26,6 +26,12 @@ PDF Python API PDF-fájlok létrehozásához, szerkesztéséhez és kezeléséhe
 Egy Excel Python-könyvtár olyan folyamatok automatizálására, mint a táblázatok generálása, manipulálása és konvertálása. A munkalapokat XPS-re, PDF-re, MHTML-re, HTML-re, egyszerű szövegre és képekre is képes renderelni. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/hu/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Az Aspose.Slides for Python via Java egy hatékony könyvtár PowerPoint és OpenOffice prezentációk létrehozásához, módosításához és konvertálásához külső szoftver nélkül. Támogatja a diákat, alakzatokat, szövegeket, diagramokat, táblázatokat és képeket, olyan fejlett funkciókat kínálva, mint a prezentációk egyesítése, klónozása, felosztása, összehasonlítása és nyomtatása, mindezt nagy teljesítménnyel és függőségek nélkül.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/hu/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python vonalkódkönyvtár 1D és 2D vonalkódok generálására és felismerésére a képekből bármilyen szögben a Python alkalmazásokon belül a python-java bridge használatával. A fejlesztők könnyedén hozzáadhatnak vonalkód-generáló és -felismerési funkciókat saját Python-alkalmazásaikhoz. 
 {{< /blocks/products/pf/total/product-item >}}

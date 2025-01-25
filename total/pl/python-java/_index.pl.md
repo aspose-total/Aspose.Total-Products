@@ -26,6 +26,12 @@ PDF Python API do tworzenia, edytowania i manipulowania plikami PDF bez żadnych
 Biblioteka Excel Python do automatyzacji procesów, takich jak generowanie, manipulacja i konwersja arkuszy kalkulacyjnych. Może również renderować arkusze do XPS, PDF, MHTML, HTML, zwykły tekst i obrazy. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/pl/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java to potężna biblioteka do tworzenia, modyfikowania i konwertowania prezentacji PowerPoint i OpenOffice bez zewnętrznego oprogramowania. Obsługuje slajdy, kształty, tekst, wykresy, tabele i obrazy, oferując zaawansowane funkcje, takie jak scalanie, klonowanie, dzielenie, porównywanie i drukowanie prezentacji, wszystko z wysoką wydajnością i bez zależności.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/pl/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Biblioteka Python Barcode do generowania i rozpoznawania kodów kreskowych 1D i 2D z obrazów pod dowolnym kątem z poziomu aplikacji Pythona za pomocą mostu python-java. Deweloperzy mogą łatwo dodawać funkcje generowania i rozpoznawania kodów kreskowych do swoich własnych aplikacji w języku Python. 
 {{< /blocks/products/pf/total/product-item >}}

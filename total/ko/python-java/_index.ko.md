@@ -26,6 +26,12 @@ PDF Python API는 Adobe Acrobat 종속성 없이 PDF 파일을 생성, 편집 �
 스프레드시트의 생성, 조작 및 변환과 같은 프로세스를 자동화하는 Excel Python 라이브러리입니다. 또한 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트 및 이미지로 렌더링할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/ko/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java 는 외부 소프트웨어 없이 PowerPoint 및 OpenOffice 프레젠테이션을 만들고, 수정하고, 변환하기 위한 강력한 라이브러리입니다. 슬라이드, 도형, 텍스트, 차트, 표 및 이미지를 지원하며, 프레젠테이션 병합, 복제, 분할, 비교 및 ​​인쇄와 같은 고급 기능을 제공하며, 모두 고성능이며 종속성이 없습니다.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ko/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 python-java 브리지를 사용하여 Python 응용 프로그램 내에서 모든 각도의 이미지에서 1D 및 2D 바코드를 생성하고 인식하는 Python 바코드 라이브러리. 개발자는 바코드 생성 및 인식 기능을 자신의 Python 앱에 쉽게 추가할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}

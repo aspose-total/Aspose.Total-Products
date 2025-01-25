@@ -26,6 +26,12 @@ PDF Python API untuk membuat, mengedit, dan memanipulasi file PDF tanpa ketergan
 Pustaka Excel Python untuk mengotomatiskan proses seperti pembuatan, manipulasi & konversi spreadsheet. Itu juga dapat membuat lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa dan gambar. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/id/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java adalah pustaka yang hebat untuk membuat, memodifikasi, dan mengonversi presentasi PowerPoint dan OpenOffice tanpa perangkat lunak eksternal. Mendukung slide, bentuk, teks, bagan, tabel, dan gambar, menawarkan fitur-fitur canggih seperti penggabungan, kloning, pemisahan, pembandingan, dan pencetakan presentasi, semuanya dengan kinerja tinggi dan tanpa ketergantungan.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/id/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Pustaka Python Barcode untuk menghasilkan dan mengenali barcode 1D & 2D dari gambar di setiap sudut dari dalam aplikasi Python dengan menggunakan jembatan python-java. Pengembang dapat dengan mudah menambahkan pembuatan kode batang dan fungsi pengenalan ke Aplikasi Python mereka sendiri. 
 {{< /blocks/products/pf/total/product-item >}}

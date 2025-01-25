@@ -26,6 +26,12 @@ PDF Python API pro vytváření, úpravu a manipulaci se soubory PDF bez jakých
 Knihovna Excel Python pro automatizaci procesů, jako je generování, manipulace a konverze tabulek. Dokáže také vykreslovat pracovní listy do formátu XPS, PDF, MHTML, HTML, prostý text a obrázky. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/cs/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java je výkonná knihovna pro vytváření, úpravy a převod prezentací PowerPoint a OpenOffice bez externího softwaru. Podporuje snímky, tvary, text, grafy, tabulky a obrázky a nabízí pokročilé funkce, jako je slučování, klonování, rozdělování, porovnávání a tisk prezentací, to vše s vysokým výkonem a bez závislostí.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/cs/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Knihovna čárových kódů Python pro generování a rozpoznávání 1D a 2D čárových kódů z obrázků v libovolném úhlu z aplikací Python pomocí python-java bridge. Vývojáři mohou snadno přidat funkci generování a rozpoznávání čárových kódů do svých vlastních aplikací Python. 
 {{< /blocks/products/pf/total/product-item >}}

@@ -26,6 +26,12 @@ PDF Python API เพื่อสร้าง แก้ไข และจัด
 ไลบรารี Excel Python เพื่อทำให้กระบวนการต่างๆ เป็นแบบอัตโนมัติ เช่น การสร้าง การจัดการ และการแปลงสเปรดชีต นอกจากนี้ยังสามารถแสดงเวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดาและรูปภาพ 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/th/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java เป็นไลบรารีอันทรงพลังสำหรับการสร้าง แก้ไข และแปลงงานนำเสนอ PowerPoint และ OpenOffice โดยไม่ต้องใช้ซอฟต์แวร์ภายนอก รองรับสไลด์ รูปร่าง ข้อความ แผนภูมิ ตาราง และรูปภาพ พร้อมฟีเจอร์ขั้นสูง เช่น การผสาน การโคลน การแยก การเปรียบเทียบ และการพิมพ์งานนำเสนอ โดยทั้งหมดนี้มีประสิทธิภาพสูงและไม่ต้องพึ่งพาซอฟต์แวร์อื่น
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/th/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 ไลบรารีบาร์โค้ด Python เพื่อสร้างและจดจำบาร์โค้ด 1D และ 2D จากรูปภาพในทุกมุมจากภายในแอปพลิเคชัน Python โดยใช้บริดจ์ python-java นักพัฒนาสามารถเพิ่มฟังก์ชันการสร้างและจดจำบาร์โค้ดให้กับแอพ Python ของตนเองได้อย่างง่ายดาย 
 {{< /blocks/products/pf/total/product-item >}}

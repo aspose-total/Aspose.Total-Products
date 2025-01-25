@@ -26,6 +26,12 @@ PDF Python API för att skapa, redigera och manipulera PDF-filer utan några Ado
 Ett Excel Python-bibliotek för att automatisera processer som generering, manipulation och konvertering av kalkylblad. Det kan också rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text och bilder. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/sv/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java är ett kraftfullt bibliotek för att skapa, modifiera och konvertera PowerPoint- och OpenOffice-presentationer utan extern programvara. Den stöder bilder, former, text, diagram, tabeller och bilder, och erbjuder avancerade funktioner som sammanslagning, kloning, delning, jämförelse och utskrift av presentationer, allt med hög prestanda och inga beroenden.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/sv/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Streckkodsbibliotek för att generera och känna igen 1D och 2D streckkoder från bilder i alla vinklar från Python-applikationer genom att använda python-java bridge. Utvecklare kan enkelt lägga till streckkodsgenerering och igenkänningsfunktioner till sina egna Python-appar. 
 {{< /blocks/products/pf/total/product-item >}}

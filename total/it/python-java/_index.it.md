@@ -26,6 +26,12 @@ PDF Python API per creare, modificare e manipolare file PDF senza alcuna dipende
 Una libreria Excel Python per automatizzare processi come generazione, manipolazione e conversione di fogli di calcolo. Può anche eseguire il rendering di fogli di lavoro in XPS, PDF, MHTML, HTML, testo normale e immagini. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/it/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java è una potente libreria per creare, modificare e convertire presentazioni PowerPoint e OpenOffice senza software esterno. Supporta diapositive, forme, testo, grafici, tabelle e immagini, offrendo funzionalità avanzate come unione, clonazione, suddivisione, confronto e stampa di presentazioni, il tutto con prestazioni elevate e senza dipendenze.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/it/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Libreria Python Barcode per generare e riconoscere codici a barre 1D e 2D da immagini da qualsiasi angolazione dall'interno delle applicazioni Python utilizzando il bridge python-java. Gli sviluppatori possono facilmente aggiungere funzionalità di generazione e riconoscimento di codici a barre alle proprie app Python. 
 {{< /blocks/products/pf/total/product-item >}}

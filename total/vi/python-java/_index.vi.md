@@ -26,6 +26,12 @@ PDF Python API để tạo, chỉnh sửa và thao tác các tệp PDF mà khôn
 Thư viện Excel Python để tự động hóa các quy trình như tạo, thao tác và chuyển đổi bảng tính. Nó cũng có thể kết xuất trang tính sang XPS, PDF, MHTML, HTML, Văn bản thuần túy và hình ảnh. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/vi/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java là một thư viện mạnh mẽ để tạo, chỉnh sửa và chuyển đổi các bài thuyết trình PowerPoint và OpenOffice mà không cần phần mềm bên ngoài. Nó hỗ trợ các slide, hình dạng, văn bản, biểu đồ, bảng và hình ảnh, cung cấp các tính năng nâng cao như hợp nhất, sao chép, chia tách, so sánh và in các bài thuyết trình, tất cả đều có hiệu suất cao và không phụ thuộc.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/vi/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Thư viện mã vạch Python để tạo và nhận dạng mã vạch 1D & 2D từ hình ảnh ở mọi góc độ từ bên trong các ứng dụng Python bằng cách sử dụng cầu nối python-java. Các nhà phát triển có thể dễ dàng thêm chức năng tạo và nhận dạng mã vạch vào Ứng dụng Python của riêng họ. 
 {{< /blocks/products/pf/total/product-item >}}

@@ -26,6 +26,12 @@ PDF Python API για δημιουργία, επεξεργασία και χει
 Μια βιβλιοθήκη Excel Python για την αυτοματοποίηση διαδικασιών όπως η δημιουργία, ο χειρισμός και η μετατροπή υπολογιστικών φύλλων. Μπορεί επίσης να αποδίδει φύλλα εργασίας σε XPS, PDF, MHTML, HTML, Απλό κείμενο και εικόνες. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/el/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Το Aspose.Slides for Python via Java είναι μια ισχυρή βιβλιοθήκη για τη δημιουργία, την τροποποίηση και τη μετατροπή παρουσιάσεων PowerPoint και OpenOffice χωρίς εξωτερικό λογισμικό. Υποστηρίζει διαφάνειες, σχήματα, κείμενο, γραφήματα, πίνακες και εικόνες, προσφέροντας προηγμένες λειτουργίες όπως συγχώνευση, κλωνοποίηση, διαχωρισμός, σύγκριση και εκτύπωση παρουσιάσεων, όλα με υψηλή απόδοση και χωρίς εξαρτήσεις.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/el/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Βιβλιοθήκη γραμμωτού κώδικα Python για τη δημιουργία και αναγνώριση γραμμωτών κωδίκων 1D και 2D από εικόνες σε οποιαδήποτε γωνία μέσα από τις εφαρμογές Python, χρησιμοποιώντας τη γέφυρα python-java. Οι προγραμματιστές μπορούν εύκολα να προσθέσουν λειτουργίες δημιουργίας και αναγνώρισης γραμμωτού κώδικα στις δικές τους εφαρμογές Python. 
 {{< /blocks/products/pf/total/product-item >}}

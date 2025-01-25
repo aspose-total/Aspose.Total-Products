@@ -26,6 +26,12 @@ PDF Python API для создания, редактирования и упра
 Библиотека Excel Python для автоматизации таких процессов, как создание, обработка и преобразование электронных таблиц. Он также может отображать рабочие листы в XPS, PDF, MHTML, HTML, обычный текст и изображения. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/ru/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java — мощная библиотека для создания, изменения и преобразования презентаций PowerPoint и OpenOffice без внешнего программного обеспечения. Она поддерживает слайды, фигуры, текст, диаграммы, таблицы и изображения, предлагая расширенные функции, такие как слияние, клонирование, разделение, сравнение и печать презентаций, все с высокой производительностью и без зависимостей.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ru/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Библиотека штрих-кодов Python для создания и распознавания 1D- и 2D-штрих-кодов из изображений под любым углом из приложений Python с использованием моста python-java. Разработчики могут легко добавлять функции генерации и распознавания штрих-кодов в свои собственные приложения Python. 
 {{< /blocks/products/pf/total/product-item >}}

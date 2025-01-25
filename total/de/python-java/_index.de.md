@@ -26,9 +26,17 @@ PDF Python API zum Erstellen, Bearbeiten und Manipulieren von PDF-Dateien ohne A
 Eine Excel-Python-Bibliothek zur Automatisierung von Prozessen wie Generierung, Bearbeitung und Konvertierung von Tabellenkalkulationen. Es kann auch Arbeitsblätter in XPS, PDF, MHTML, HTML, Nur-Text und Bilder rendern. 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/de/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java ist eine leistungsstarke Bibliothek zum Erstellen, Ändern und Konvertieren von PowerPoint- und OpenOffice-Präsentationen ohne externe Software. Es unterstützt Folien, Formen, Text, Diagramme, Tabellen und Bilder und bietet erweiterte Funktionen wie Zusammenführen, Klonen, Aufteilen, Vergleichen und Drucken von Präsentationen – alles mit hoher Leistung und ohne Abhängigkeiten.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/de/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python-Barcode-Bibliothek zum Generieren und Erkennen von 1D- und 2D-Barcodes aus Bildern aus beliebigen Winkeln innerhalb von Python-Anwendungen mithilfe von Python-Java Bridge. Entwickler können ihren eigenen Python-Apps ganz einfach Barcode-Generierungs- und Erkennungsfunktionen hinzufügen. 
 {{< /blocks/products/pf/total/product-item >}}
+
+
 
 {{< blocks/products/pf/total/product-item href="/diagram/de/python-java/" imgSrc="/total/images/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python-Diagrammbibliothek, die beim Erstellen, Lesen, Schreiben und Exportieren von Microsoft Visio VSDX, VDX, VSX, VTX und anderen Formaten hilft, ohne Microsoft Visio oder andere Software zu benötigen.

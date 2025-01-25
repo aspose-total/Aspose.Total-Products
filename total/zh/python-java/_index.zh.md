@@ -26,6 +26,12 @@ PDF Python API，无需任何 Adobe Acrobat 依赖项即可创建、编辑和操
 一个 Excel Python 库，用于自动化电子表格的生成、操作和转换等过程。它还可以将工作表呈现为 XPS、PDF、MHTML、HTML、纯文本和图像。 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/slides/zh/python-java/" imgSrc="/total/images/aspose_slides-for-python-java.svg" productName="Aspose.Slides for Python via Java">}}
+
+Aspose.Slides for Python via Java 是一个功能强大的库，无需外部软件即可创建、修改和转换 PowerPoint 和 OpenOffice 演示文稿。它支持幻灯片、形状、文本、图表、表格和图像，提供合并、克隆、拆分、比较和打印演示文稿等高级功能，所有这些功能都具有高性能且无依赖性。
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/zh/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Barcode 库，通过使用 python-java 桥从 Python 应用程序中以任何角度从图像中生成和识别一维和二维条码。开发人员可以轻松地将条码生成和识别功能添加到他们自己的 Python 应用程序中。 
 {{< /blocks/products/pf/total/product-item >}}
