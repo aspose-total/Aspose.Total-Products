@@ -62,6 +62,36 @@ Egy Python 3D API, amely bármilyen függőség nélkül képes Discreet3DS, Wav
 Az XBRL és iXBRL formátumokat feldolgozó API az eXtensible Business Reporting Language dokumentumok egyszerű létrehozásához, olvasásához és érvényesítéséhez közvetlenül a Python alkalmazásokon belül.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/html/hu/python-net/" imgSrc="/total/images/aspose_html-for-python-net.svg" productName="Aspose.HTML for Python via .NET">}}
+
+Aspose.HTML for Python a .NET-en keresztül – HTML-feldolgozó API, amely lehetővé teszi HTML-dokumentumok létrehozását, módosítását, konvertálását és megjelenítését különböző platformokon külső szoftver nélkül. Támogatja az olyan formátumokat, mint az EPUB, SVG és Markdown, és olyan fejlett funkciókat integrál, mint a CSS, a HTML Canvas és a JavaScript a kiváló minőségű manipuláció és megjelenítés érdekében Python alkalmazásokban.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/page/hu/python-net/" imgSrc="/total/images/aspose_page-for-python-net.svg" productName="Aspose.Page for Python via .NET">}}
+
+Az Aspose.Page for Python via .NET egy robusztus API az EPS-, PS-, XPS- és OXPS-fájlok létrehozásához, szerkesztéséhez és konvertálásához, megbízható megoldást kínálva további szoftverek nélkül történő megjelenítéshez és manipulációhoz. Lehetővé teszi a PS és EPS fájlok zökkenőmentes konvertálását PDF vagy raszteres képformátumokká, és támogatja az új és a meglévő XPS dokumentumok hatékony kezelését.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/psd/hu/python-net/" imgSrc="/total/images/aspose_psd-for-python-net.svg" productName="Aspose.PSD for Python via .NET">}}
+
+Az Aspose.PSD for Python via .NET egy hatékony API PSD-, PSB- és AI-fájlok létrehozásához, olvasásához, szerkesztéséhez és konvertálásához anélkül, hogy az Adobe Photoshopra vagy az Illustratorra támaszkodna. Támogatja a fejlett funkciókat, például a szöveg- és alakréteg-frissítéseket, az intelligens objektumokat, a keverési módokat, a rétegeffektusokat, az animációkat és a vektor- vagy rasztermaszkok kezelését, lehetővé téve a PSD- és PSB-képek zökkenőmentes kezelését és tömörítését.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/svg/hu/python-net/" imgSrc="/total/images/aspose_svg-for-python-net.svg" productName="Aspose.SVG for Python via .NET">}}
+
+Az Aspose.SVG for Python via .NET egy átfogó API SVG-fájlok létrehozásához, elemzéséhez, rendereléséhez és olyan népszerű formátumokká konvertálásához, mint a PDF, PNG, JPEG és GIF, további eszközök használata nélkül. Ez a nagy teljesítményű könyvtár olyan fejlett funkciókat támogat, mint az SVG tartalom módosítása, szűrőeffektusok és vektorizálás, így ideális olyan magas szintű alkalmazások fejlesztéséhez, mint az SVG szerkesztők, konverterek és vektorizálók.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/tex/hu/python-net/" imgSrc="/total/images/aspose_tex-for-python-net.svg" productName="Aspose.TEX for Python via .NET">}}
+
+Az Aspose.TeX for Python egy sokoldalú API a TeX és LaTeX fájlok manipulálására és konvertálására, amely támogatja az olyan kimeneti formátumokat, mint a PDF, PNG, JPEG, SVG és egyebek. Az olyan funkciókkal, mint a LaTeX töredékek renderelése, az egyéni TeX formátumok létrehozása és az intuitív szintaxis, ez a könyvtár ideális a TeX és LaTeX funkciók Python alkalmazásokba való integrálásához, az asztali szoftverektől a webszolgáltatásokig.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

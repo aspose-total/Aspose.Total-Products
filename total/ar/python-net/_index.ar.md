@@ -62,6 +62,36 @@ Python Barcode API لإنشاء والتعرف على الرموز الشريط�
 واجهة برمجة تطبيقات معالجة تنسيقات XBRL و iXBRL لإنشاء مستندات لغة تقارير الأعمال القابلة للتمدد وقراءتها والتحقق من صحتها بسهولة داخل تطبيقات Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/html/ar/python-net/" imgSrc="/total/images/aspose_html-for-python-net.svg" productName="Aspose.HTML for Python via .NET">}}
+
+Aspose.HTML for Python via .NET - واجهة برمجة تطبيقات معالجة HTML، مما يتيح إنشاء وتعديل وتحويل وعرض مستندات HTML عبر الأنظمة الأساسية دون الحاجة إلى برامج خارجية. وهو يدعم تنسيقات مثل EPUB وSVG وMarkdown، ويدمج ميزات متقدمة مثل CSS وHTML Canvas وJavaScript للتلاعب والعرض عالي الجودة في تطبيقات Python.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/page/ar/python-net/" imgSrc="/total/images/aspose_page-for-python-net.svg" productName="Aspose.Page for Python via .NET">}}
+
+Aspose.Page for Python via .NET عبارة عن واجهة برمجة تطبيقات قوية لإنشاء وتحرير وتحويل ملفات EPS وPS وXPS وOXPS، مما يوفر حلاً موثوقًا به للرسم والتلاعب دون الحاجة إلى برامج إضافية. فهو يتيح تحويل ملفات PS وEPS بسلاسة إلى تنسيقات PDF أو صور نقطية ويدعم التعامل الفعّال مع مستندات XPS الجديدة والموجودة.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/psd/ar/python-net/" imgSrc="/total/images/aspose_psd-for-python-net.svg" productName="Aspose.PSD for Python via .NET">}}
+
+يعد Aspose.PSD for Python via .NET واجهة برمجة تطبيقات قوية لإنشاء ملفات PSD وPSB وAI وقراءتها وتحريرها وتحويلها دون الاعتماد على Adobe Photoshop أو Illustrator. وهو يدعم ميزات متقدمة مثل تحديثات طبقة النص والشكل، والكائنات الذكية، وأوضاع المزج، وتأثيرات الطبقة، والرسوم المتحركة، ومعالجة قناع المتجهات أو النقطية، مما يتيح معالجة وضغط صور PSD وPSB بسلاسة.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/svg/ar/python-net/" imgSrc="/total/images/aspose_svg-for-python-net.svg" productName="Aspose.SVG for Python via .NET">}}
+
+Aspose.SVG for Python via .NET عبارة عن واجهة برمجة تطبيقات شاملة لإنشاء ملفات SVG وتحليلها وتقديمها وتحويلها إلى تنسيقات شائعة مثل PDF وPNG وJPEG وGIF دون الاعتماد على أدوات إضافية. تدعم هذه المكتبة القوية ميزات متقدمة مثل تعديل محتوى SVG وتأثيرات المرشح والتحويل إلى متجهات، مما يجعلها مثالية لتطوير تطبيقات عالية المستوى مثل محرري SVG ومحولاتها ومحولات المتجهات.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/tex/ar/python-net/" imgSrc="/total/images/aspose_tex-for-python-net.svg" productName="Aspose.TEX for Python via .NET">}}
+
+Aspose.TeX for Python عبارة عن واجهة برمجة تطبيقات متعددة الاستخدامات لمعالجة وتحويل ملفات TeX وLaTeX، وتدعم تنسيقات الإخراج مثل PDF وPNG وJPEG وSVG والمزيد. مع ميزات مثل عرض شظايا LaTeX وإنشاء تنسيقات TeX مخصصة وقواعد نحوية بديهية، تعد هذه المكتبة مثالية لدمج وظائف TeX وLaTeX في تطبيقات Python، من برامج سطح المكتب إلى خدمات الويب.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">

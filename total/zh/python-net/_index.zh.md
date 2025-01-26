@@ -62,6 +62,35 @@ Microsoft Visio 格式操作 Python API，用于在 Python 应用程序中创建
 XBRL 和 iXBRL 格式处理 API 可直接在 Python 应用程序中轻松创建、读取和验证可扩展商业报告语言文档。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/html/zh/python-net/" imgSrc="/total/images/aspose_html-for-python-net.svg" productName="Aspose.HTML for Python via .NET">}}
+
+Aspose.HTML for Python 通过 .NET - HTML 处理 API，无需外部软件即可跨平台创建、修改、转换和渲染 HTML 文档。它支持 EPUB、SVG 和 Markdown 等格式，并集成了 CSS、HTML Canvas 和 JavaScript 等高级功能，可在 Python 应用程序中进行高质量的操作和渲染。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/page/zh/python-net/" imgSrc="/total/images/aspose_page-for-python-net.svg" productName="Aspose.Page for Python via .NET">}}
+
+Aspose.Page for Python via .NET 是一个强大的 API，用于创建、编辑和转换 EPS、PS、XPS 和 OXPS 文件，无需额外软件即可提供可靠的渲染和操作解决方案。它支持将 PS 和 EPS 文件无缝转换为 PDF 或光栅图像格式，并支持高效处理新的和现有的 XPS 文档。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/psd/zh/python-net/" imgSrc="/total/images/aspose_psd-for-python-net.svg" productName="Aspose.PSD for Python via .NET">}}
+
+Aspose.PSD for Python via .NET 是一个功能强大的 API，用于创建、读取、编辑和转换 PSD、PSB 和 AI 文件，而无需依赖 Adob​​e Photoshop 或 Illustrator。它支持文本和形状图层更新、智能对象、混合模式、图层效果、动画以及矢量或光栅蒙版处理等高级功能，可实现 PSD 和 PSB 图像的无缝操作和压缩。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/svg/zh/python-net/" imgSrc="/total/images/aspose_svg-for-python-net.svg" productName="Aspose.SVG for Python via .NET">}}
+
+Aspose.SVG for Python via .NET 是一个全面的 API，用于创建、解析、渲染和将 SVG 文件转换为 PDF、PNG、JPEG 和 GIF 等流行格式，而无需依赖其他工具。这个强大的库支持 SVG 内容修改、滤镜效果和矢量化等高级功能，使其成为开发 SVG 编辑器、转换器和矢量化器等高级应用程序的理想选择。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/tex/zh/python-net/" imgSrc="/total/images/aspose_tex-for-python-net.svg" productName="Aspose.TEX for Python via .NET">}}
+
+Aspose.TeX for Python via .NET 是一个多功能 API，用于处理和转换 TeX 和 LaTeX 文件，支持 PDF、PNG、JPEG、SVG 等输出格式。该库具有渲染 LaTeX 片段、创建自定义 TeX 格式和直观语法等功能，非常适合将 TeX 和 LaTeX 功能集成到 Python 应用程序（从桌面软件到 Web 服务）中。
+
+{{< /blocks/products/pf/total/product-item >}}
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
