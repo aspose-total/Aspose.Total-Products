@@ -24,7 +24,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to DOC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
