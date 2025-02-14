@@ -106,8 +106,22 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
+
+{{% blocks/products/pf/feature-page-section  h2="Transforming MD File to TSV Programmatically : Use Cases" %}}
+**Conversion Guide:**
+
+The conversion of Markdown files (`.md`) into Tab Separated Values (`.tsv`) formats is necessary to unlock the full potential of your data analysis and visualization capabilities. This conversion enables you to:
+
+**Use Cases:**
+
+*   **Data Import and Export**: Convert .md files to .tsv format for seamless integration with other tools and software that support TSV file format.
+*   **Scientific Computing and Research**: Use .tsv format to import and export data from scientific computing frameworks, enabling faster and more efficient analysis.
+*   **Text Analysis and Processing**: Convert .md files to .tsv format for text analysis and processing tasks, such as sentiment analysis and topic modeling.
+*   **Data Visualization and Reporting**: Use .tsv format to create interactive dashboards and reports, providing stakeholders with accurate and reliable insights.
+*   **Machine Learning and AI**: Convert .md files to .tsv format for machine learning model training and testing, enabling faster and more efficient development.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
