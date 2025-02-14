@@ -74,9 +74,7 @@ PM> Install-Package Aspose.Total
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming PPSM File to DOC Programmatically : Use Cases" %}}
 PPSM (Portable Paintball Game Master) files are used to store game settings, rules, and statistics in paintball games, making them ideal for creating organized gameplay experiences. However, when working with digital tools, Microsoft Word documents become essential for collaborative team planning and communication.

@@ -75,9 +75,7 @@ PM> Install-Package Aspose.Total
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming DOC File to POTX Programmatically : Use Cases" %}}
 Converting Microsoft Word Documents (.doc) into PowerPoint Presentations (.potx) files is essential to unlock the full potential of your presentation capabilities. This conversion enables you to:

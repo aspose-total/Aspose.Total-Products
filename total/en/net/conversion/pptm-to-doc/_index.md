@@ -74,9 +74,7 @@ PM> Install-Package Aspose.Total
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming PPTM File to DOC Programmatically : Use Cases" %}}
 PPTM (PowerPoint Metafile) files are used to store presentation information, making them ideal for creating dynamic slide content and multimedia presentations. However, when working with written reports and documents, Microsoft Word (.docx) files become essential for document creation and editing.

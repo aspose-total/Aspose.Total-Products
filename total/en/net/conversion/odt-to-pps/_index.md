@@ -112,9 +112,7 @@ using (Presentation pps = new Presentation()){
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming ODT File to PPS Programmatically : Use Cases" %}}
 ODT (OpenDocument Text) files are used to store plain text information, making them ideal for creating documents with mathematical equations and formulas. However, when working with presentations like PPS (PowerPoint Slides), they become essential for creating engaging and dynamic visual content.

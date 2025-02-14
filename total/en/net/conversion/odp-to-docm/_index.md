@@ -74,9 +74,7 @@ PM> Install-Package Aspose.Total
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming ODP File to DOCM Programmatically : Use Cases" %}}
 ODP (OpenDocument Presentation) files are used to create interactive presentations, making them ideal for engaging audiences and conveying complex information in a clear and concise manner. However, when working with data visualization and analysis requirements, documents like DocM become essential for storing and sharing content.

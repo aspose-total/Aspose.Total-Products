@@ -118,9 +118,7 @@ using (Presentation ppsx = new Presentation()){
 </div></div>
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming TXT File to PPSX Programmatically : Use Cases" %}}
 TXT (Text File) files are used to store plain text information, making them ideal for creating documents and data that require human readability. However, when working with multimedia content, Microsoft Office presentations like PowerPoint become essential for visual storytelling and communication.

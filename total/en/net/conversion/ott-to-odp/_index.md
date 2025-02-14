@@ -111,9 +111,7 @@ using (Presentation odp = new Presentation()){
 </div></div>
 </div></div>
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-{{% /blocks/products/pf/agp/content %}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Transforming OTT File to ODP Programmatically : Use Cases" %}}
 OTF (OpenType Font) files are used to store vector graphics information, making them ideal for creating high-quality typography and logos. However, when working with raster images, formats like ODP become essential for publishing and presentation.
