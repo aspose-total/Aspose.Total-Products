@@ -106,7 +106,17 @@ Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MD-Dateien programmgesteuert in FODS umwandeln: Anwendungsfälle" %}}
+**Benutzungsfälle:**
+
+*   **Dokumentationsanalyse mit Produktunterstützung**: Verwenden Sie MD-Dateien zur Erstellung interaktiver Dokumentation für Produkte, analysieren Sie Benutzerverhalten und identifizieren Sie Bereiche zur Verbesserung.
+*   **Optimierung der Know-how-Basis mit FODS**: Visualisieren und analysieren Sie Daten in der Know-how-Basis mit FODS, optimieren Sie die Inhaltsorganisation und messen Sie den Nutzen von Benutzern.
+*   **Automatisierte Dokumentation und Validierung**: Verwenden Sie MD-Dateien zur Erstellung automatisierter Dokumentation, validieren Sie Inhaltsergänzungen und gewährleisten Sie Konsistenz über die Organisation hinweg.
+*   **Inhaltsstrategie und -planung mit FODS**: Analysieren und visualisieren Sie Inhaltsleistung mit FODS, informieren Sie sich bei Entscheidungen zur Inhaltsstrategie und messen Sie den Rückgang auf Investitionen in Inhalt.
+*   **Kollaborations- und Kommunikationswerkzeuge**: Verwenden Sie MD-Dateien zur Erstellung von kollaborativen Werkzeugen, ermöglichen Sie Echtzeit-Kommentieren und Feedback und verbessern Sie die Teamkommunikation.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,21 @@ Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="OFT-Dateien programmgesteuert in ODT umwandeln: Anwendungsfälle" %}}
+LTI-Dateien werden verwendet, um Bildungsinhalte zu speichern, sodass sie ideal für die Erstellung interaktiver Lernangelegenheiten und Simulationen sind. Allerdings sind bei der Bearbeitung von statischen Inhalten ODT-Format (OpenDocument Text) entscheidend für die Dokumentbearbeitung und -anpassung.
+
+Die Umwandlung von LTI-Dateien in ODT-Format ist erforderlich, um das volle Potenzial Ihrer Bildungsinhalte zu freilegen und eine Zusammenarbeit unter Lehrern und Lernenden zu ermöglichen. Diese Umwandlung ermöglicht es Ihnen:
+
+**Anwendungsfälle:**
+
+*   **Interaktives Lehrplanen erstellen**: Wenden Sie LTI-Dateien in interaktive Lehrpläne um, simulieren Lernprozesse durch und bewerten das Leistungsniveau der Studierenden.
+*   **Ko-Autorenarbeit verwenden**: Verwenden Sie ODT, um koautorisch und die Bildungsinhalte gemeinsam zu bearbeiten, wodurch Konsistenz und Genauigkeit innerhalb von Teams gewährleistet ist.
+*   **Zugänglichkeit verbessern**: Wandeln Sie LTI-Dateien in ODT um, um Bildungsinhalte für Studierende mit Behinderungen zugänglicher zu machen.
+*   **Inhaltsspeicherung und - verteilen**: Verwenden Sie ODT, um die Inhaltsspeicherung und -Verteilung von Bildungs-Inhalten zu erleichtern, was den Lernprozess vereinfacht und die Studierenden verbessert die Ergebnisse erzielen kann.
+*   **Prüfung und Rückmeldung erstellen**: Wandeln Sie LTI-Dateien in ODT um, um interaktive Prüfungen erstellen zu können, Rückmeldung geben und den Fortschritt der Studierenden nachverfolgen.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

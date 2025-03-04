@@ -106,7 +106,15 @@ Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="OTT-Dateien programmgesteuert in XLAM umwandeln: Anwendungsfälle" %}}
+**Verwendungsfälle:**
+
+*   **Logistik-Optimierung**: Verwenden Sie Excel, um ODT-Dateien zu analysieren und die Leistung von Lieferanten einzuschätzen, Inventarvorräte zu verfolgen und Logistikengpässe in der Versorgung zu erkennen.
+*   **E-Mail-Marketing**: Verwenden Sie Excel, um Daten zur E-Mail-Marketing-Analyse, die Zielgruppe zu definieren und Marketingkampagnen anzupassen.
+*   **Projektmanagement**: Verwenden Sie Excel, um Projektziele zu definieren und -termine einzuschätzen, Ressourcenzuweisungen zu simulieren und Projekterfolge zu messen.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

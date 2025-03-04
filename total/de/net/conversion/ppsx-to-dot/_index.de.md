@@ -81,7 +81,13 @@ PM> Install-Package Aspose.Total
 {{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="PPSX-Dateien programmgesteuert in DOT umwandeln: Anwendungsfälle" %}}
+Um den PPSX-Dateien in DOT-Format umzuwandeln, öffneten Sie die Datei im Microsoft PowerPoint-Programm und verwenden Sie das Formatoptionale "Diagramm erstellen" unter dem Menüpunkt "Design". Sie können auch die Option verwenden "Diagrams nach vorherigen Mustern" um neue Diagramme zu erstellen. Alternativ können Sie die PPSX-Dateien in DOT-Format speichern, indem Sie auf "Datei"-Menü und "Speichern unter" klicken und eine Verwender des OpenOffice-Programms auswählen.
+
+Die oben genannten Vorteile einer Umwandlung der Dateien in DOT-Format sind insbesondere im Geschäft und in Bildungsmitteln von großer Bedeutung.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

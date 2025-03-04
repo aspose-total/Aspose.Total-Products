@@ -106,7 +106,17 @@ Wir empfehlen die Verwendung von Microsoft Visual Studio, Xamarin und MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MD-Dateien programmgesteuert in DIF umwandeln: Anwendungsfälle" %}}
+**Benutzeranwendungen:**
+
+*   **Zusammenarbeitstools**: MD-Dateien in Zusammenarbeitsfunktionen einsetzen, um die Effizienz beim Arbeiten an Projekten und Dokumenten zu erhöhen.
+*   **Dokumentationsautomatisierung**: Mit DIF automatisierte Generation von Dokumentation, reduziert manuelle Arbeit und sichert Konsistenz bei unterschiedlichen Versionen.
+*   **Qualitätsprüfung und Testung**: MD-Dateien in automatisierte Tests für Softwareanwendungen einsetzen, um Fehler zu reduzieren und die Gesamtkvalität zu verbessern.
+*   **Wissensbasenverwaltung**: Mit DIF Wissensbasen-Inhalte organisieren und strukturieren, um es Benutzern leichter zu machen, Informationen zu finden und Unterstützungsaufwendungen zu reduzieren.
+*   **Inhaltsgenerierung und -umbaut**: MD-Dateien in neue Inhaltsformate wie Blogs, Artikel oder soziale Medienbeiträge einsetzen, um Reichweite und Engagement zu erhöhen.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -58,7 +58,13 @@ document.Save("output.doc", SaveFormat.Doc);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EMAIL-Dateien programmgesteuert in DOC umwandeln: Anwendungsfälle" %}}
+Umwandeln von E-Mail-Dateien in Microsoft Office-Dokumente (DOC)
+
+E-Mail-Dateien werden weit verbreitet für die Kommunikation verwendet, aber wenn es darum geht, Daten zu teilen und zu analysieren, sind Microsoft Office-Dokumente entscheidend. Die Umwandlung von E-Mail-Dateien in DOC-Format macht die volle Potenz deiner Dokumenterstellung und -analysefähigkeiten frei.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 
