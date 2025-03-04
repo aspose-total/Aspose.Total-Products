@@ -106,7 +106,21 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier MOBI en SXC par programmation : cas d'utilisation" %}}
+La conversion de fichiers Mobi en formats SXC est essentielle pour débloquer la pleine puissance des capacités de conception.
+
+La conversion des fichiers Mobi en formats SXC est nécessaire pour débloquer la pleine puissance de vos capacités de conception. Cette conversion vous permet :
+
+**Cas d'utilisation :**
+
+*   **Publication d'e-books** : Convertir les fichiers Mobi en formats SXC pour créer des e-books professionnels, optimiser l'emplacement et la mise en forme pour les services de commande en ligne.
+*   **Collaboration sur le design** : Utiliser SXC pour partager vos conceptions avec vos collègues et vos parties prenantes, assurant un cycle de retours et de révisions sans faille.
+*   **Fichiers prêts à l'impression** : Convertir les fichiers Mobi en formats SXC pour produire des fichiers imprimables pour l'impression offset, livres imprimés, etc.
+*   **Gestion des actifs numériques** : Stocker et gérer vos actifs de conception dans une plateforme unique, utilisant SXC comme format standard, pour simplifier les flux de travail et améliorer la découverte des actifs.
+*   **Imagologie et identité** : Convertir les fichiers Mobi en formats SXC pour créer des éléments d'identité de marque cohérents, tels que des cartes de visite, des feuillets de lettre et des brochures.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

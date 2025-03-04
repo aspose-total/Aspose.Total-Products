@@ -106,7 +106,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier MD en SXC par programmation : cas d'utilisation" %}}
+La conversion des fichiers MD en formats SXC est nécessaire pour débloquer le plein potentiel de votre document's disposition, conception et capacités de mise en forme. Cette conversion permet :
+
+**Cas d'utilisation :**
+
+*   **Optimisation de la layout du document**: Convertir les fichiers MD afin de créer des documents professionnels, ajuster les marge et maintenir cohérence typographique.
+*   **Consistance de la conception** : Utiliser SXC pour garantir que les directives de marque sont appliquées de manière uniforme sur les documents, en conservant une identité visuelle cohérente.
+*   **Amélioration de la collaboration**: Convertir les fichiers MD afin de faciliter une collaboration réelle à temps réel, permettant aux membres d'équipe de revérifier, éditer et fournir des commentaires sur les documents simultanément.
+*   **Documents prêts à l'impression** : Utiliser SXC afin de créer des documents prêts à l'impression avec une disposition précise, une exactitude de couleur et une résolution d'image réduisant les erreurs de mise en page.
+*   **Publication numérique des documents**: Convertir les fichiers MD pour publier des versions numériques de documents, incorporant des éléments interactifs comme des liens hypertexte, des animations et du contenu multimédia.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

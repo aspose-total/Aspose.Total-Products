@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier CGM en DOT par programmation : cas d'utilisation" %}}
+La conversion des fichiers CGM en formats DOT est nécessaire pour débloquer les capacités de visualisation graphique et d'arrangement complètes. Cette conversion permet :
+
+**Cas d'utilisation :**
+
+*   **Visualisation Graphique** : Convertir des fichiers CGM pour créer des diagrammes, des schémas de flux et des cartes de processus en format DOT, idéal pour illustrer les relations complexes entre les points de données.
+*   **Optimisation de l'arrangement** : Utiliser le format DOT pour optimiser l'arrangement des nœuds et des arêtes dans vos graphiques, assurant la lecture maximale et l'efficacité.
+*   **Carte du processus commercial** : Convertir des fichiers CGM pour créer des cartes de processus commerciaux détaillées, mettant en évidence les flux de travail, les tâches et les points de décision.
+*   **Diagrams techniques** : Utiliser le format DOT pour générer des diagrams techniques, comme les diagrammes UML de classe, les diagrammes de flux de données et les modèles ER.
+*   **Hierarchie et structure du graphique** : Convertir des fichiers CGM pour établir des hiérarchies claires et des structures dans vos graphiques, facilitant la navigation et la compréhension faciles.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

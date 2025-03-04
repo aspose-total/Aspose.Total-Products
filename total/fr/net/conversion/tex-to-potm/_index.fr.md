@@ -115,7 +115,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier TEX en POTM par programmation : cas d'utilisation" %}}
+Pour les cas de conversion :
+
+Cas d'utilisation :
+
+*   Publications de recherche : Convertir des fichiers Tex pour débloquer le plein potentiel des publications de recherches, assurant une mise en forme précise et professionnelle.
+*   Documentation technique et manuels d'utilisateur : Utiliser PotM pour créer des documents interactifs de documentation technique, guides d'utilisateur et manuels pour les logiciels, dispositifs électroniques et systèmes complexes.
+*   Présentations académiques et présentations en spectacle : Convertir des fichiers Tex pour présenter les résultats de recherche, les résultats d'analyse des données et les leçons académiques de manière claire et captivante.
+*   Documentation et commentaires de développement logiciel : Utiliser PotM pour créer une documentation de code lisible et maintenable, des commentaires et un système de contrôle de version pour les projets de développement logiciel.
+*   Écriture technique et articles : Convertir des fichiers Tex pour produire des articles structurés et visuellement attrayants sur divers sujets tels que la technologie, la science et l'ingénierie.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier XSLFO en WMF par programmation : cas d'utilisation" %}}
+La conversion de fichiers XSLFO en formats WMF est nécessaire pour débloquer la pleine puissance de vos capacités de traitement et d'analyse des documents. Cette conversion vous permet :
+
+**Cas d'utilisation :**
+
+*   **Publication numérique** : Convertir les fichiers XSLFO afin d'améliorer l'expérience d' publication numérique, gérer le contenu de manière efficace et assurer une disposition cohérente.
+*   **Amélioration des fonctionnalités d'accèsibilité** : Utiliser WMF pour améliorer les fonctionnalités d accèsibilité comme ajustement de la taille de police, inversion des couleurs et mode contraste haut niveau pour les utilisateurs avec déficience visuelle.
+*   **Conception de page d layout** : Convertir les fichiers XSLFO afin de créer des dispositions professionnelles de pages, y compris les titres, les pieds-de-page et autres éléments d design, en fonction des capacités de WMF.
+*   **Conversion d e-books** : Utiliser WMF pour convertir les fichiers XSLFO en formats d livres électroniques tels que EPUB ou PDF afin de facilité la lecture sur divers appareils.
+*   **Préparation d impressions et pré-press** : Convertir les fichiers XSLFO afin de préparer les documents à l impression, y compris l optimisation des polices, des couleurs et des dispositions en fonction des capacités de WMF.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

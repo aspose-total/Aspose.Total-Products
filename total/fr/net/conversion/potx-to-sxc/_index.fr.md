@@ -106,7 +106,21 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier POTX en SXC par programmation : cas d'utilisation" %}}
+La conversion des fichiers POTX vers les formats SXC est nécessaire pour débloquer l'ensemble de vos capacités d'édition de document.
+
+ La conversion des fichiers POTX en format SXC nécessite la mise à jour de votre logiciel. Le logiciel vous permet d'écrire et d'imprimer des documents avec une qualité optimale, sans avoir à utiliser un autre logiciel.
+
+**Utilisations:**
+
+*   **Développement de présentations commerciales**: Utilisez les fichiers SXC pour créer des présentations professionnelles, complètes avec animations et éléments interactifs.
+*   **Projets de conception graphique**: Utilisez le format SXC pour concevoir et éditer des matériaux visuels, illustrations, etc. pour différents projets.
+*   **Réglage du formatage des documents :** Utilisez les fichiers SXC pour modifier et personnalisé les formats de disposition de document, polices, couleurs et options de formatage.
+*   **Collaboration en temps réel:** Utilisez le format SXC pour collaborer avec d'autres personnes en temps réel, partager et éditer des documents sans problème.
+*   **Features avancées du document :** Utilisez les fichiers SXC pour profiter de fonctionnalités telles que la mise en forme du texte, l'insertion d'images et plus encore.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

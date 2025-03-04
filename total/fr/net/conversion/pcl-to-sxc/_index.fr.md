@@ -106,7 +106,23 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier PCL en SXC par programmation : cas d'utilisation" %}}
+Les fichiers de contrôle logique programmable (PLC) sont utilisés pour stocker l'information de contrôle industriel, ce qui en fait idéal pour créer des solutions d'autonomisation et des optimisations du processus.
+
+Cependant, lorsqu'on travaille avec des données non industrielles, un logiciel de tableur comme SXC devient essentiel pour la visualisation et l'analyse des données.
+
+La conversion de fichiers PLC en formats SXC est nécessaire pour déclencher pleinement les capacités de votre analyse et de votre visualisation des données.
+
+**Cas d'utilisation :**
+
+*   **Optimisation de la chaîne d'approvisionnement** : Convertir des fichiers PLC pour analyser les horaires de production, suivre le niveau de stock et identifier les embuchures dans la chaîne d'approvisionnement.
+*   **Amélioration du processus de fabrication** : Utiliser SXC pour visualiser les données de fabrication, optimiser les flux de production et mesurer l'efficacité des équipements.
+*   **Gestion énergétique** : Convertir des fichiers PLC pour créer un modèle d'utilisation énergétique, simuler le rendement d'un bâtiment et valider les stratégies de économie d'énergie.
+*   **Contrôle qualité et assurance** : Utiliser SXC pour analyser les données de contrôle qualité, suivre les défauts et identifier les domaines à améliorer dans le processus de fabrication.
+*   **Rapports et dashboard interactifs** : Convertir des fichiers PLC pour créer des dashboards interactifs, des rapports et des visualisations visuelles pour les parties prenantes, permettant une prise de décision plus efficace.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

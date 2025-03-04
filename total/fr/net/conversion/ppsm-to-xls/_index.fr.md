@@ -106,7 +106,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier PPSM en XLS par programmation : cas d'utilisation" %}}
+La conversion des fichiers PPSM en formats Excel est nécessaire pour débloquer l'intégralité de vos capacités visuels et analytiques. Cette conversion vous permet de:
+
+**Cas d'utilisation :**
+
+*   **Analyse de la reporting financier**: Convertir les fichiers PPSM afin d'analyser les données financières, suivre les dépenses et identifier les tendances dans les tableaux de bord financiers.
+*   **Optimisation des systèmes de gestion de l'information (SIG)**: Utiliser Excel pour visualiser les données du SIG, optimiser les processus de reporting et mesurer les indicateurs de performance.
+*   **Gestion de projet et planification**: Convertir les fichiers PPSM afin de créer tableaux de bord interactifs de calendriers de projets, simuler la répartition des ressources et valider les calendriers de projets.
+*   **Visualisation des données pour les systèmes d'intelligence business (SIB)**: Utiliser Excel pour visualiser les données complexes du SIB, telles que les indicateurs de performance clés (KPI), les modèles de prévision de ventes et l'analyse des tendances marchandes.
+*   **Systèmes de soutien à la prise de décision d'affaires (SSDA)**: Convertir les fichiers PPSM afin de créer des modèles SSDA interactifs, simuler des scénarios de prise de décision et valider les stratégies commerciales.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

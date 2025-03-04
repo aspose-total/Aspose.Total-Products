@@ -118,7 +118,23 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier OFT en FLATOPC par programmation : cas d'utilisation" %}}
+**Utilisés :**
+
+*   **Développement de jeux :** Utiliser les fichiers OFT pour débloquer les capacités de développement de jeux, permettant de :
+    *   **Moulage et animation des personnages 3D :** Utiliser les fichiers OFT pour créer des modèles 3D, animer les personnages et simuler des mouvements réalistes.
+    *   **Conception de niveaux et prototypage interactif :** Convertir les fichiers OFT pour concevoir des designs de niveaux interactivs, tester des prototypes et itérer sur les mécaniques de gameplay.
+    *   **Effets spéciaux et simulations :** Utiliser les fichiers OFT pour générer des effets spéciaux réalistes, des simulations et des interactions environnementales.
+*   **Architecture et construction :** Convertir les fichiers OFT pour améliorer le processus de conception, de construction et de gestion des projets bâtissants, permettant :
+    *   **Modélisation de l'information de construction (BIM) :** Utiliser les fichiers OFT pour créer des modèles 3D précis des bâtiments, des meubles et des équipements, facilitant la collaboration et l'échange de données.
+    *   **Planification du site et conception paysagère :** Convertir les fichiers OFT pour visualiser les plans de chantier, concevoir des paysages et optimiser les plans de construction pour une efficacité maximale.
+    *   **Gestion de la construction et planification :** Utiliser les fichiers OFT pour gérer les projets de construction, suivre l'avancement, détecter les retards ou les dépassements de coût potentiels.
+*   **Production cinématographique et télévisuelle :** Convertir les fichiers OFT pour simplifier les flux de travail visuels, d'effets spéciaux et post-production, permettant :
+    *   **Effets visuels et motion graphics :** Utiliser les fichiers OFT pour créer des effets visuels complexes, des animations et des motion graphics qui apportent vie à l'histoire.
+    *   **Animation des personnages et conception :** Convertir les fichiers OFT pour concevoir, animator et simuler les personnages de manière plus efficace et réaliste.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

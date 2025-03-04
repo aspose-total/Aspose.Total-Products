@@ -106,7 +106,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier XSLFO en SXC par programmation : cas d'utilisation" %}}
+Les fichiers XSLFO (Extensible Stylesheet Language Formatting Objects) sont utilisés pour décrire la disposition et la mise en forme des documents, ce qui les rend idéaux pour créer et manipuler du texte formatté. Cependant, lorsqu'on travaille avec des données dynamiques, le logiciel de tableur LibreOffice Calc devient essentiel pour l'analyse et la visualisation des données.
+
+La conversion de fichiers XSLFO en formats sxc est nécessaire pour débloquer pleinement les capacités d'édition et de collaboration du document. Cette conversion permet:
+
+*   **Customisation de l'emblématique visuelle des documents**: Convertir des fichiers XSLFO afin de personnaliser la mise en forme, le typographie et les graphismes des documents, créant une identité visuelle unique pour les entreprises ou les organisations.
+*   **Édition collaborative des documents**: Utiliser sxc pour partager et éditer des documents en temps réel avec d'autres, assurant que tout le monde est sur la même page et réduisant les conflits de version.
+*   **Automatisation des tâches de mise en forme documentaire**: Convertir des fichiers XSLFO afin d'automatiser les tâches de mise en forme documentaire, comme l'application de styles et de mises en forme à un grand nombre de documents ou rapports.
+*   **Création de contenu dynamique basé sur des données**: Utiliser sxc pour intégrer des données provenant d'une source externe dans les documents, créant du contenu dynamique qui peut être mis à jour en temps réel.
+*   **Amélioration de l'accessibilité et de la conception inclusive**: Convertir des fichiers XSLFO afin d'améliorer l'accessibilité des documents en convertissant le texte alternatif pour les images et autres éléments multimédias en formats accessibles tels que sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

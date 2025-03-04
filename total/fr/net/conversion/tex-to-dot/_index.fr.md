@@ -115,7 +115,19 @@ Nous vous recommandons d'utiliser Microsoft Visual Studio, Xamarin et MonoDevelo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformation d'un fichier TEX en DOT par programmation : cas d'utilisation" %}}
+La conversion de fichiers TeX en format DOT est nécessaire pour débloquer la pleine puissance de vos capacités de dessin de diagrammes. Cette conversion vous permet:
+
+**Cas d'utilisation:**
+
+*   **Présentations graphiques**: Convertir les fichiers TeX pour créer des diagrams, des flux de présentation et des graphiques visuellement attractifs pour les présentations, les rapports et les matériaux pédagogiques.
+*   **Diagrams scientifiques**: Utiliser les formats DOT pour générer des diagrammes scientifiques complexes, tels que des schémas de circuits, des plans de réseaux et des structures hiérarchiques.
+*   **Documents techniques interactifs**: Convertir les fichiers TeX pour créer des documents techniques interactifs, y compris les schémas système, les emplacements des composants et les processus de flux.
+*   **Recherche académique**: Utiliser les formats DOT pour visualiser les données de recherche, simuler le comportement des systèmes et illustrer les concepts complexes dans les articles et les thèses universitaires.
+*   **Conception collaborative**: Convertir les fichiers TeX pour créer des diagrams éditable qui peuvent être partagés avec les membres d'équipe, permettant une collaboration en temps réel et un contrôle de version.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
