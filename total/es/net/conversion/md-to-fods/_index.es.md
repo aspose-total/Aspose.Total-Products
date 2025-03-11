@@ -106,7 +106,17 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos MD a FODS mediante programación: casos de uso" %}}
+**Uso de Casos:**
+
+*   **Análisis y Optimización de Documentación del Producto**: Convierte archivos MD a crear documentación interactiva del producto, analiza patrones de uso e identifica áreas para la mejora.
+*   **Opción de Búsqueda de Conocimiento y Mejora**: Utiliza FODS para visualizar y analizar datos de la base de conocimiento, organizar contenido y medir el Engagement del usuario.
+*   **Generación y Verificación de Documentación Automatizada**: Convierte archivos MD a generar documentación automatizada, verificar la exactitud del contenido e asegurarse de la consistencia en todo el organización.
+*   **Estrategia y Planificación de Contenido**: Utiliza FODS para analizar y visualizar el desempeño del contenido, tomar decisiones estratégicas sobre el contenido e informar los costos de retorno en inversiones en contenido.
+*   **Herramientas de Colaboración y Comunicación**: Convierte archivos MD a crear herramientas colaborativas, permitir comentarios y retroalimentación en tiempo real e mejorar la comunicación de equipo.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

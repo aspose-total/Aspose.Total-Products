@@ -106,7 +106,19 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a DXF mediante programación: casos de uso" %}}
+La conversión de archivos TeX a formatos DXF es necesaria para desbloquear la potencialidad máxima de tus capacidades de diseño. Esta conversión te permite:
+
+**Usos:**
+
+*   **Modelado arquitectónico**: Convertir archivos TeX para crear diseños precisos 2D y 3D arquitectónicos, permitiendo un búsquedas precisa y visualización.
+*   **Diseño de ingeniería**: Utilizar formatos DXF para importar y editar bosques de diseño de ingeniería, garantizando compatibilidad con software CAD.
+*   **Diseño automotriz**: Convertir archivos TeX para crear diseños detallados del automóvil, facilitando la colaboración entre diseñadores y ingenieros.
+*   **Fabricación de productos**: Utilizar formatos DXF para generar planos imprimibles para la fabricación de productos, reduciendo errores y mejorando el control calidad.
+*   **Cartografía geoespacial**: Convertir archivos TeX para crear mapas vectoriales, ideales para análisis GIS, visualización de datos y aplicaciones de cartografía.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

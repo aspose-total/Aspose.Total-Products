@@ -115,7 +115,23 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos SVG a PCL mediante programación: casos de uso" %}}
+**Conversión a archivos PCL:**
+
+*   **Uso de casos:**
+    *   **Impresión 3D y modelado:** 
+        -  Convertir archivos SVG para desbloquear el máximo potencial de tus capacidades de impresión 3D y modelado, permitiendo la creación de modelos precisos e precisos.
+    *   **Optimización del torno CNC:**
+        -  Utilizar archivos PCL para optimizar procesos de torno CNC, mejorar la eficiencia de producción y reducir costos de producción.
+    *   **Sistemas de información geográfica (GIS):** 
+        -  Convertir archivos SVG para crear mapas GIS interactivos, visualizar datos geoespaciales e analizar relaciones espaciales.
+    *   **Visibilización arquitectónica:** 
+        -  Utilizar archivos PCL para crear modelos precisos de edificios, simular disposiciones de edificios y validar conceptos de diseño.
+    *   **Robótica y automatización:**
+        -  Convertir archivos SVG para permitir el desarrollo de movimientos robóticos precisos, optimizar procesos de automatización e mejorar la calidad de los productos.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

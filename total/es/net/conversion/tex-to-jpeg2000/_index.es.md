@@ -106,7 +106,19 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a JPEG2000 mediante programación: casos de uso" %}}
+La conversión de archivos TeX a imágenes JPEG2000 es necesaria para desbloquear las capacidades completas de la gestión de activos digitales. Esta conversión te permite:
+
+**Uso de casos:**
+
+*   **Publicación de libros electrónicos**: Convierte archivos TeX para crear libros electrónicos interactivos, escalables y zoomables con imágenes de alta calidad.
+*   **Gestión de documentos técnicos**: Utiliza JPEG2000 para almacenar y gestionar la documentación técnica, como manuales, guías y planos.
+*   **Investigación científica y publicación**: Convierte archivos TeX para producir figuras e ilustraciones de alta calidad para publicaciones, garantizando coherencia y calidad en los resultados de investigación.
+*   **Educación en línea y formación**: Crea recursos educativos interactivos convirtiendo archivos TeX a imágenes JPEG2000, lo que permite materiales de aprendizaje flexibles.
+*   **Gestión de activos digitales**: Utiliza JPEG2000 para almacenar y gestionar grandes colecciones de documentos técnicos, imágenes y videos, mejorando la colaboración y accesibilidad.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

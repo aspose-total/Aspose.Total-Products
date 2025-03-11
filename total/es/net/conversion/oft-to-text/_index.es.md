@@ -118,7 +118,17 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos OFT a TEXT mediante programación: casos de uso" %}}
+**Uso de casos:**
+
+*   **Análisis de texto**: Convierte archivos OFT para analizar datos de texto, rastrear tendencias de sentimiento y identificar patrones en el lenguaje.
+*   **Optimización de documentos**: Utiliza el Editor de texto para visualizar la metadata de los documentos, optimizar la formación y medir la lectibilidad.
+*   **Desarrollo de personajes y narrativa**: Convierte archivos OFT para crear perfiles de personajes interactivos, simular interacciones de diálogo y validar estructuras de narrativa.
+*   **Informes y dashboards de datos**: Utiliza el Editor de texto para crear informes interactivos, resúmenes y visualizaciones para los stakeholders, lo que permite una toma de decisiones más efectiva.
+*   **Revisión de código y pruebas**: Convierte archivos OFT para analizar prácticas de codificación, identificar errores y optimizar estrategias de pruebas.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,17 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos POTX a DIF mediante programación: casos de uso" %}}
+**Uso de Casos:**
+
+*   **Análisis financiero**: Utiliza PotX para convertir archivos y analizar datos financieros, rastrear tendencias del mercado y identificar patrones en los datos.
+*   **Gestión de propuestas y contratos**: Utiliza DIF para visualizar la información de las propuestas y contratos, optimizar flujos de trabajo y medir la cumplimiento.
+*   **Colaboración de proyectos y trabajo en equipo**: Utiliza PotX para convertir archivos y crear calendarios de proyecto interactivos, simular interacciones de equipo y validar conceptos de colaboración.
+*   **Inteligencia empresarial y minería de datos**: Utiliza DIF para visualizar datos complejos del negocio, como perfiles de clientes, rendimiento de ventas y perspectivas del mercado.
+*   **Gestión de documentos y archivo**: Utiliza PotX para crear versiones digitales de los documentos, automatizar la organización de archivos y asegurar almacenamiento seguro.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

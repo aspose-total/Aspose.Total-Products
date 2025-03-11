@@ -118,7 +118,23 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos OFT a FLATOPC mediante programación: casos de uso" %}}
+**Uso Caso:**
+
+*   **Desarrollo de Juegos:** Utilizar archivos OFT para desbloquear capacidades de desarrollo de juegos, permitiendo:
+    *   **Animación y Modelado de Personajes:** Usar archivos OFT para crear modelos 3D, animar personajes y simular movimientos realistas.
+    *   **Diseño de Niveles y Prototipos:** Convertir archivos OFT a crear diseños interactivos de niveles, probar prototipos y iterar en mecánicas de juego.
+    *   **Efectos Especiales y Simulaciones:** Usar archivos OFT para generar efectos especiales y simulaciones realistas.
+*   **Arquitectura y Construcción:** Convertir archivos OFT a mejorar el proceso de diseño, construcción e administración de proyectos, permitiendo:
+    *   **Modelado de Información de Edificio (BIM):** Usar archivos OFT para crear modelos 3D precisos de edificios, muebles y equipo, facilitando la colaboración y la intercambio de datos.
+    *   **Planificación del Sitio y Diseño:** Convertir archivos OFT a visualizar planes de sitio, diseñar paisajes y optimizar diseños de edificio para una mayor eficiencia.
+    *   **Gestión de Construcción y Programación:** Usar archivos OFT a gestionar proyectos de construcción, seguir el progreso y identificar posibles retrasos o sobrecostos.
+*   **Producción de Películas y Televisión:** Convertir archivos OFT para mejorar flujos de efectos visuales, animación y pós-producción, permitiendo:
+    *   **Efectos Visuales y Gráficos de Movimiento:** Usar archivos OFT para crear efectos visuales complejos, animaciones y gráficos de movimiento que tragan historias en vida.
+    *   **Animación y Diseño de Personajes:** Convertir archivos OFT a diseñar, animar y simular personajes de una manera más eficiente y realista.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

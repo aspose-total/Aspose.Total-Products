@@ -106,7 +106,23 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PDF a DICOM mediante programación: casos de uso" %}}
+Los archivos de formato Portable Document Format (PDF) se utilizan para almacenar documentos de diseño fijo, lo que los hace ideales para crear informes estáticos, manuales y presentaciones. Sin embargo, cuando trabajas con datos de imágenes médicas, los archivos DICOM (Digital Imaging and Communications in Medicine) se convierten en esenciales para almacenar y gestionar información del paciente.
+
+La conversión de archivos PDF a formatos DICOM es necesaria para desbloquear las capacidades completas de la gestión de datos de imágenes médicas. Esta conversión te permite:
+
+**Casos de Uso:**
+
+*   **Análisis de Imágenes**: Convirtir archivos PDF en análisis de imágenes médicas, como rayos X, tomografías computarizadas y resonancias magnéticas, para extraer información diagnóstica.
+*   **Gestión de Registros del Paciente**: Utilizar DICOM para almacenar y gestionar registros del paciente, incluyendo la historia médica, planes de tratamiento y resultados de imagen.
+*   **Generación de Informes de Radiología**: Convirtir archivos PDF en informes de radiología, incluyendo imágenes, mediciones y diagnósticos, para decisiones clínicas.
+*   **Investigación Médica y Desarrollo**: Utilizar DICOM para analizar grandes conjuntos de datos de imágenes médicas, facilitando la investigación sobre nuevos tratamientos y técnicas diagnósticas.
+*   **Almacenamiento y Retención de Imágenes**: Convirtir archivos PDF en almacenar y retener imágenes médicas de manera eficiente, garantizando el acceso temprano a información crítica del paciente.
+
+Nota: Se ha escrito el texto siguiendo el mismo patrón que se describe para convertir formato fuente (PDF) a formato objetivo (DICOM).
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

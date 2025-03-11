@@ -106,7 +106,19 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos DOCM a XLTM mediante programación: casos de uso" %}}
+La conversión de archivos DCM (Macros de Documento) a XLTMs (Plantillas de Excel para Macros) es fundamental para desbloquear las capacidades macro de tu documento completo. Esta conversión permite que utilices:
+
+**Casos de Uso:**
+
+*   **Actualizaciones Automáticas de Documentos**: Convertir archivos DCM para automatizar actualizaciones de documentos, como actualizar gráficas, tablas y formateo en tiempo real.
+*   **Sistemas de Gestión del Contenido**: Utilizar XLTMs para gestionar contenido en múltiples documentos, asegurando consistencia y eficiencia.
+*   **Flujos de Trabajo de Documentos**: Convertir archivos DCM para automatizar flujos de trabajo de documentes, automatizando tareas como aprobaciones, firmas y distribución.
+*   **Documentos basados en Datos**: Utilizar XLTMs para crear documentos basados en datos, como informes y resúmenes, que puedan actualizarse fácilmente con nuevos datos.
+*   **Automatización Avanzada**: Convertir archivos DCM para automatizar procesos complejos de documento, como combinar múltiples documentos o crear plantillas personalizadas.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

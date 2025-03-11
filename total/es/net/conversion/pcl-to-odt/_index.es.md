@@ -140,7 +140,23 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PCL a ODT mediante programación: casos de uso" %}}
+Los archivos de formato de documento portátil (PCL) se utilizan para almacenar información gráfica vectorial, lo que los hace ideales para crear documentos estáticos e ilustraciones.
+
+Sin embargo, cuando se trabaja con datos dinámicos, OpenDocument Text (ODT) es fundamental para la edición de texto y la colaboración.
+
+La conversión de archivos PCL a formatos ODT es necesaria para desbloquear las capacidades completas de la edición de documentos e la colaboración. Esta conversión permite:
+
+Uso de casos:
+
+*   Edición de documentos comerciales: Convertir archivos PCL para editar documentos comerciales, como informes, propuestas y contratos, utilizando las poderosas herramientas de edición de texto del ODT.
+*   Creación de documentación técnica interactiva: Utilizar el ODT para crear documentación técnica interactiva, como manual de usuario e instrucciones, a partir de archivos PCL.
+*   Edición de gráficos e ilustraciones: Convertir archivos PCL para editar gráficos e ilustraciones, agregando texto, imágenes y otros elementos medios utilizando las herramientas de formateado avanzadas del ODT.
+*   Generación de contenido impulsado por datos: Utilizar el ODT para crear contenido impulsado por datos, como gráficas, gráficos y tablas, a partir de archivos PCL y analizar los resultados en contexto.
+*   Colaboración y revisión: Convertir archivos PCL para colaborar con otros en documentos utilizando las funciones de coautoría en tiempo real del ODT.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

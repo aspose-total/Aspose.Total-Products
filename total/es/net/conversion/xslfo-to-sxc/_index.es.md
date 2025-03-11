@@ -106,7 +106,21 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos XSLFO a SXC mediante programación: casos de uso" %}}
+Los archivos XSLFO (Extensible Stylesheet Language Formatting Objects) se utilizan para describir la disposición y el formato de los documentos, lo que los hace ideales para crear y manipular texto formatado. Sin embargo, cuando se trabaja con datos dinámicos, el software de hoja de cálculo libre como LibreOffice Calc se vuelve esencial para el análisis y visualización de datos.
+
+La conversión de archivos XSLFO a formatos sxc es necesaria para desbloquear las capacidades completas de la edición y colaboración de documentos. Esta conversión permite:
+
+**Caso de uso:**
+
+*   **Customización del layout de los documentos**: Conversar archivos XSLFO para personalizar el layout, tipografía y gráficos de los documentos, creando una identidad visual única para las empresas o organizaciones.
+*   **Edición colaborativa de documentos en tiempo real**: Usar sxc para compartir y editar documentos con otros en tiempo real, garantizando que todos estén al mismo pie y reduciendo conflictos de versiones.
+*   **Automatización de la formatación de documentos**: Conversar archivos XSLFO para automatizar tareas de formatación de documentos, como aplicar estilos y layouts a grandes cantidades de documentos o informes.
+*   **Creación de contenido dinámico basado en datos**: Usar sxc para integrar datos de fuentes externas en los documentos, creando contenido dinámico que puede ser actualizado en tiempo real.
+*   **Diseño accesible e inclusivo**: Conversar archivos XSLFO para mejorar la accesibilidad de los documentos convirtiendo texto alternativo para imágenes y otros elementos multimedia en formatos accesibles como sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

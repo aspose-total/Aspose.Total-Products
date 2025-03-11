@@ -118,7 +118,17 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos OFT a DOCX mediante programación: casos de uso" %}}
+**Uso de Casos:**
+
+*   **Análisis de Proyecto Propuesto**: Convertir archivos OFT para analizar datos del proyecto propuesto, seguir el progreso y identificar posibles problemas.
+*   **Desarrollo de Plan Empresarial**: Utilizar DocX para visualizar los datos del plan empresarial, crear proyectos financieros detallados e validar las suposiciones estratégicas.
+*   **Revisión de Documentos Políticos**: Convertir archivos OFT para revisar los datos de documentos políticos, seguir los cambios y analizar la cumplimiento.
+*   **Preparación de Retorno Tributario**: Utilizar DocX para preparar devoluciones tributarias, reconciliar datos financieros y asegurar la precisión.
+*   **Evaluación de Solicitudes de Ayuda Financiera**: Convertir archivos OFT para evaluar los datos de solicitudes de ayuda financiera, determinar la elegibilidad y identificar áreas de mejora.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

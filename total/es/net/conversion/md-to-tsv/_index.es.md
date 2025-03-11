@@ -106,7 +106,21 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos MD a TSV mediante programación: casos de uso" %}}
+**Guía de conversión**
+
+La conversión de archivos Markdown (`.md`) a formatos de valores separados por tabuladores (`.tsv`) es necesaria para desbloquear las capacidades completas de tu análisis de datos y visualización. Esta conversión te permite:
+
+**Usos**
+
+*   **Importación y exportación de datos**: Convertir archivos .md a formato .tsv para integración suave con otras herramientas y software que admiten formato de archivo TSV.
+*   **Computación científica y investigación**: Utilizar el formato .tsv para importar y exportar datos desde frameworks de computación científica, lo que permite análisis más rápido y eficiente.
+*   **Análisis de texto y procesamiento**: Convertir archivos .md a formato .tsv para tareas de análisis de texto y procesamiento, como análisis de sentimiento y modelado de temas.
+*   **Visualización de datos y informes**: Utilizar el formato .tsv para crear dashboards interactivos y informes, brindando a los stakeholders información precisa y confiable.
+*   **Aprendizaje automático e inteligencia artificial**: Convertir archivos .md a formato .tsv para entrenar y probar modelos de aprendizaje automático, lo que permite un desarrollo más rápido y eficiente.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

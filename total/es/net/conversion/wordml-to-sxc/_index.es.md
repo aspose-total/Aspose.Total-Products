@@ -106,7 +106,21 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos WORDML a SXC mediante programación: casos de uso" %}}
+Los archivos de WordML (Lenguaje de marcado de Microsoft Word) se utilizan para almacenar información de diseño del documento, lo que los hace ideales para crear documentos estáticos y artículos. Sin embargo, al trabajar con contenido dinámico, formatos como Office Open XML (OOXML), como SXC, se convierten en esenciales para la edición y colaboración.
+
+La conversión de archivos de WordML a formats de SXC es necesaria para desbloquear las capacidades completas de edición y colaboración de tu documento. Esta conversión te permite:
+
+**Use Cases:**
+
+*   **Edición de Documentos en Tiempo Real**: Convertir archivos de WordML para editar documentos en tiempo real, independientemente del dispositivo o la ubicación.
+*   **Gestión de Contenido Dinámico**: Utilizar SXC para gestionar contenido dinámico, como tablas, gráficas y imágenes, que se pueden actualizar fácilmente y refrescar.
+*   **Compatibilidad en Plataformas**: Convertir archivos de WordML para garantizar la compatibilidad en diferentes plataformas, incluyendo Windows, macOS y Linux.
+*   **Análisis y Revisión de Documentos**: Utilizar SXC para analizar y revisar documentos, incluyendo editar y comentar cambios en las pistas de seguimiento.
+*   **Integración con Otros Herramientas de Oficina**: Convertir archivos de WordML para integrar con otras herramientas de Microsoft Office, como Excel e PowerPoint.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

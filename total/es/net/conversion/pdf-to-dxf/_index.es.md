@@ -106,7 +106,21 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PDF a DXF mediante programación: casos de uso" %}}
+PDF (Formato de Documento Portátil) se utiliza para almacenar la información del documento, lo que lo hace ideal para crear documentos estáticos y publicaciones. Sin embargo, cuando trabajas con dibujos detallados y diseños, DXF (Formato de Interambio de Dibujos) se vuelve esencial para una representación precisa y manipulación.
+
+La conversión de archivos PDF a formatos DXF es necesaria para desbloquear el potencial completo de tus capacidades de diseño. Esta conversión permite:
+
+**Casos de Uso:**
+
+*   **Diseño Arquitectónico e Ingeniería**: Convertir archivos PDF para crear dibujos detallados, diseños y esquemas que se pueden editar fácilmente y compartir.
+*   **Fabricación de Productos y Prototipado**: Utilizar DXF para generar modelos 2D y 3D a partir de diseños existentes, facilitando la creación de prototipos, moldes y herramientas.
+*   **CADCAM (Diseño Asistido por Computadora/Maquinalización)**: Convertir archivos PDF para crear modelos digitales precisos para máquina de corte CNC, fabricación y ensamblaje.
+*   **Conversión de Datos Geoespaciales**: Utilizar DXF para convertir archivos PDF que contienen datos geoespaciales en un formato que se puede utilizar con software GIS, permitiendo el análisis detallado de cartas y mapas.
+*   **Diseño Automotriz y Aeronáutico**: Convertir archivos PDF para generar modelos 2D y 3D a partir de diseños existentes, facilitando la creación de prototipos, planificación de producción y herramientas.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

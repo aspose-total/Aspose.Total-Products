@@ -106,7 +106,17 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos DOTX a SXC mediante programación: casos de uso" %}}
+**Usos:**
+
+*   **Diseño y Desarrollo de Productos**: Convertir archivos SXC para analizar datos de diseño del producto, simular experiencias de usuario y validar conceptos de diseño.
+*   **Visualización Científica**: Utilizar SXC para visualizar datos científicos complejos, como modelos 3D, resultados de simulación y datos experimentales.
+*   **Reportes y Pantallas Dinámicas**: Convertir archivos SXC para crear pantallas interactivas, informes y visualizaciones para los stakeholders, lo que permite tomar decisiones más informadas.
+*   **Optimización de Campañas de Marketing**: Utilizar SXC para visualizar datos de campaña de marketing, optimizar estrategias y medir el ROI.
+*   **Análisis del Comportamiento del Cliente**: Convertir archivos SXC para analizar el comportamiento del cliente, seguir las tendencias de ventas y identificar patrones en los datos.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

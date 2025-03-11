@@ -115,7 +115,19 @@ Recomendamos utilizar Microsoft Visual Studio, Xamarin y MonoDevelop IDE para cr
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a DOT mediante programación: casos de uso" %}}
+La conversión de archivos TeX a formatos DOT es necesaria para desbloquear el potencial completo de tus capacidades de diagramado. Esta conversión te permite:
+
+**Uso de Casos:**
+
+*   **Presentaciones Gráficas**: Convertir archivos TeX para crear diagramas visuales atractivos, grafochart y gráficos de presentación, informes y materiales educativos.
+*   **Diagramas científicos**: Utilizar formatos DOT para generar diagramas científicos complejos, como circuitos diagramas, diagramas de redes y estructuras jerárquicas.
+*   **Documentación técnica**: Convertir archivos TeX para crear documentación interactiva técnica, incluyendo diagramas de sistemas, diseño de componentes y flujos procesales.
+*   **Investigación académica**: Utilizar formatos DOT para visualizar datos de investigación, simular comportamiento de sistemas y ilustrar conceptos complejos en tesis y artículos académicos.
+*   **Diseño colaborativo**: Convertir archivos TeX para crear diagramas editables que se pueden compartir con miembros del equipo, permitiendo colaboración en tiempo real y control de versiones.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
