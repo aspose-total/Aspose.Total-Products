@@ -106,7 +106,39 @@ Consigliamo di utilizzare Microsoft Visual Studio, Xamarin e MonoDevelop IDE per
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos DOC a CSV mediante programación: casos de uso" %}}
+il codice di linguaggio Google è eu.
+
+Il formato CSV (.csv) è un file di testo che contiene i dati in una struttura comma separata. I file di testo (.doc) sono formati in base al protocollo Microsoft Word, quindi possono contenere carattere speciali e segni di punteggiatura. Se vuoi convertire il formato del documento in CSV, devi eliminare questi caratteri speciali e segni di punteggiatura.
+
+Tuttavia, è importante notare che alcuni formati di file .doc, come ad esempio i file di testo (.txt), possono essere più facili da convertire in CSV.
+
+Ecco una breve guida per convertire un file di testo (.doc) in CSV:
+
+1.  Apri il file di testo (.doc) in un editor di testo (ad esempio Microsoft Word o Notepad).
+2.  Utilizza la funzione "Copia" e "Inserisci" per selezionare tutti i caratteri del documento.
+3.  Vai in "Editore", clicca su "Indietro" e poi sul menù "Impostazioni".
+4.  Inserisci la seguente formula nel campo "Formato del testo":
+
+    `C:\WScript Shell.exe C:\Windows\System32\cmd.exe /c "type %1 | findstr^>`
+
+5.  Seleziona l'opzione di "Impostazione dei caratteri speciali" e seleziona tutti i caratteri speciali che vuoi rimuovere dal documento.
+6.  Utilizza la funzione "Copia" e "Inserisci" per selezionare tutti i caratteri del documento.
+7.  Vai in "Editore", clicca su "Indietro" e poi sul menù "Impostazioni".
+8.  Inserisci la seguente formula nel campo "Formato del testo":
+
+    `C:\WScript Shell.exe C:\Windows\System32\cmd.exe /c "type %1 | findstr^>"`
+9.  Seleziona l'opzione di "Impostazione dei caratteri speciali" e seleziona tutti i caratteri speciali che vuoi rimuovere dal documento.
+10. Vai in "Editore", clicca su "Indietro" e poi sul menù "Impostazioni".
+11. Inserisci la seguente formula nel campo "Formato del testo":
+
+    `C:\WScript Shell.exe C:\Windows\System32\cmd.exe /c "type %1 | findstr^>"`
+12. Seleziona l'opzione di "Impostazione dei caratteri speciali" e seleziona tutti i caratteri speciali che vuoi rimuovere dal documento.
+
+Dopo aver completato questi passaggi, il file di testo (.doc) dovrebbe essere pronto per la conversione in CSV.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

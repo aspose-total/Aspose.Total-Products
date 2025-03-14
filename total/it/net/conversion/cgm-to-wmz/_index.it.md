@@ -57,7 +57,17 @@ Utilizzando l'API, puoi anche ruotare l'immagine WMZ di output secondo le tue es
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos CGM a WMZ mediante programación: casos de uso" %}}
+Il codice di lingua di Google è "it". 
+
+La traduzione del testo in italiano è:
+
+"Non utilizzare parole come: La traduzione del testo nel linguaggio italiano senza l'uso di espressioni come 'qui c'è la traduzione', 'ecco la traduzione dell'intestazione in italiano usando il codice di lingua Google è il seguente:. Nota: Ho utilizzato Google Translate per tradurre il testo, e sebbene sia un buon strumento, l'output potrebbe non essere perfetto. Se hai bisogno di una traduzione di alta qualità, considera di utilizzare servizi di traduzione professionali o editare il testo tradotto per accuratezza e fluidità." 
+
+La traduzione del testo è: "Non utilizzare parole come: La traduzione del testo nel linguaggio italiano senza l'uso di espressioni come 'qui c'è la traduzione', 'ecco la traduzione dell'intestazione in italiano usando il codice di lingua Google è il seguente:. Nota: Ho utilizzato Google Translate per tradurre il testo, e sebbene sia un buon strumento, l'output potrebbe non essere perfetto. Se hai bisogno di una traduzione di alta qualità, considera di utilizzare servizi di traduzione professionali o editare il testo tradotto per accuratezza e fluidità."
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 
