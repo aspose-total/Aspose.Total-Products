@@ -118,7 +118,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos OFT a WORDML mediante programación: casos de uso" %}}
+Arquivos de Reconhecimento de Caracteres Ópticos (OCR) são usados para armazenar imagens digitais de texto, tornando-os ideais para criar documentos editáveis e layouts. No entanto, ao trabalhar com estruturas de documentos complexas, os arquivos WordML se tornam essenciais para a formatação e estilização.
+
+A conversão dos arquivos OCR em formatos WordML é necessária para desbloquear as capacidades completas de formatação e estilização do seu documento. Essa conversão permite que você:
+
+**Casos de Uso:**
+
+*   **Automatização de Documentos**: Converter arquivos OCR para automatizar a criação de documentos, como gerar relatórios, faturas e certificados.
+*   **Relatórios de Inteligência Empresarial**: Usar WordML para criar relatórios interativos de inteligência empresarial, painéis e visualizações visuais para stakeholders.
+*   **Criação de Conteúdo de Aprendizado**: Converter arquivos OCR para criar conteúdo educativo interativo, simulações e avaliações para instituições educacionais.
+*   **Gestão de Registros Médicos**: Usar WordML para formatar e estilizar registros médicos, históricos clínicos e notas clínicas para profissionais de saúde.
+*   **Preparação de Documentos Legais**: Converter arquivos OCR para criar documentos legais padronizados, como contratos, acordos e processamentos judiciais.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

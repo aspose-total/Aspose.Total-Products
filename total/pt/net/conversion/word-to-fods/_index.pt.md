@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos WORD a FODS mediante programación: casos de uso" %}}
+Arquivos (Microsoft Word) são usados para armazenar documentos com texto baseado, tornando-os ideais para criar conteúdo escrito como artigos, relatórios e cartas. No entanto, ao trabalhar com dados multimídia, formatos como FODS se tornam essenciais para preservar artefatos digitais e metadados.
+
+A conversão de arquivos do Microsoft Word para formatos FODS é necessária para desbloquear a potencial completa de capacidades de preservação digital e gestão de metadados. Essa conversão permite:
+
+**Cenários de Uso:**
+
+*   **Preservação Arquivística**: Converter arquivos do Microsoft Word para criar arquivos de longo prazo, estáveis de documentos históricos, garantindo sua integridade para as gerações futuras.
+*   **Análise e Revisão Digital**: Usar FODS para analisar e extrair metadados de documentos digitais suspeitos, ajudando os investigadores a descobrir pistas ocultas e evidências.
+*   Manutenção de Metadados: Converter arquivos do Microsoft Word para criar metadados estruturados, permitindo uma busca, descoberta e reutilização eficientes dos artefatos digitais em diversas repositorios e plataformas.
+*   Migração de Conteúdo: Usar FODS para migrar conteúdo desatualizado ou legado para formatos modernos, preservando seu significado essencial enquanto o adaptando para audiências contemporâneas.
+*   Preservação do Arquiteto Digital: Converter arquivos do Microsoft Word para preservar artefatos digitais, como e-mails, apresentações e relatórios, em um formato estável e acessível para referência futura.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

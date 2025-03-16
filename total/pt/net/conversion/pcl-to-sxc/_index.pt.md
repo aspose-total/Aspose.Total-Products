@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PCL a SXC mediante programación: casos de uso" %}}
+Arquivos de controle lógico programável (PLC) são usados para armazenar informações de controle industrial, tornando-os ideais para criar soluções de automação e otimização de processos. No entanto, ao trabalhar com dados não industriais, software de planilha como o SXC se tornam essenciais para visualização e análise de dados.
+
+A conversão dos arquivos de PLC em formatos SXC é necessária para desbloquear a plena potencialidade das suas capacidades de visualização de dados e análise. Esta conversão permite que você:
+
+**Cenários de Uso:**
+
+*   **Otimização da cadeia de suprimento:** Converter arquivos PLC para analisar programas de produção, rastrear níveis de inventário e identificar pontos de congestão na cadeia de suprime;
+*   **Melhoria do processo de fabricação**: Usar SXC para visualizar dados de fabricação, otimizar fluxos de produção e medir a eficiência dos equipamentos.
+*   **Gestão de energia:** Converter arquivos PLC para criar modelos de uso energético, simular desempenho de edifícios e validar estratégias de economia de energia;
+*   **Controle de qualidade e garantia**: Usar SXC para analisar dados de controle de qualidade, rastrear defeitos e identificar áreas para melhoria no processo de fabricação.
+*   **Relatórios e painéis interativos**: Converter arquivos PLC para criar painéis interativos, relatórios e visualizações para os stakeholders, permitindo decisões mais informadas.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

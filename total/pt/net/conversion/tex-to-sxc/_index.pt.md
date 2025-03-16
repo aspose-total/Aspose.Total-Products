@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a SXC mediante programación: casos de uso" %}}
+Arquivos de texto (tex) são usados para armazenar informações de documentos, tornando-os ideais para criar documentos estáticos e relatórios. No entanto, quando se trabalha com dados dinâmicos, planilhas como o SXC se tornam essenciais para a visualização e análise de dados.
+
+A conversão de arquivos tex em formatos SXC é necessária para desbloquear as capacidades completas da sua visualização e análise de dados. Essa conversão permite que você:
+
+**Cenários de Uso:**
+
+*   **Análise de Documento**: Converter arquivos tex para analisar a estrutura do documento, rastrear mudanças e identificar padrões no conteúdo.
+*   **Geração de Relatórios**: Usar SXC para gerar relatórios, visualizar dados e criar visuais interativos para os stakeholders, permitindo uma tomada de decisão mais eficaz.
+*   **Otimização de Formulas**: Converter arquivos tex para otimizar fórmulas matemáticas, equações e expressões, tornando-as mais eficientes e precisas.
+*   **Integração de Dados**: Usar SXC para integrar arquivos tex com outras fontes de dados, criando uma visão unificada da informação em diferentes documentos e aplicações.
+*   **Gestão de Conteúdo**: Converter arquivos tex para gerenciar conteúdo de documento, rastrear atualizações e automatizar fluxos de trabalho, garantindo colaboração suave e controle de versões.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

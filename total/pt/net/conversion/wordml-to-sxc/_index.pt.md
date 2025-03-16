@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos WORDML a SXC mediante programación: casos de uso" %}}
+Arquivos WordML (Microsoft Word Markup Language) são utilizados para armazenar informações de layout do documento, tornando-os ideais para criar documentos estáticos e artigos. No entanto, quando trabalhamos com conteúdo dinâmico, formatos como OOXML (Open XML), como SXC, se tornam essenciais para a edição e colaboração.
+
+A conversão de arquivos WordML em formatos SXC é necessária para desbloquear as capacidades de edição e colaboração do seu documento. Esta conversão permite que você:
+
+**Casos de Uso:**
+
+*   **Edição de Documentos em Tempo Real**: Converter arquivos WordML para editar documentos em tempo real, independentemente da dispositivo ou localização.
+*   **Gerenciamento de Conteúdo Dinâmico**: Usar SXC para gerenciar conteúdo dinâmico, como tabelas, gráficos e imagens, que podem ser facilmente atualizados e atualizados.
+*   **Compatibilidade em Plataformas Diferentes**: Converter arquivos WordML para garantir compatibilidade em diferentes plataformas, incluindo Windows, macOS e Linux.
+*   **Análise e Revisão de Documentos**: Usar SXC para analisar e revisar documentos, incluindo editar e comentar nos track changes.
+*   **Integração com Outros Ferramentas do Microsoft Office**: Converter arquivos WordML para integrar com outras ferramentas do Microsoft Office, como Excel e PowerPoint.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

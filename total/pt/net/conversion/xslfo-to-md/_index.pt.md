@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos XSLFO a MD mediante programación: casos de uso" %}}
+Arquivos XSLFO (Extensible Styling Language Formatting Objects) são usados para definir a disposição e apresentação de documentos, tornando-os ideais para criar documentos estruturados e publicações. No entanto, ao trabalhar com conteúdo dinâmico, o Markdown (MD) se torna essencial para a formatação e organização do texto.
+
+A conversão de arquivos XSLFO em formatos de Markdown é necessária para desbloquear a potencial total do estrutura e apresentação do documento. Essa conversão permite que você:
+
+**Cenários de Uso:**
+
+*   **Publicação de Livros**: Converter arquivos XSLFO para criar livros interativos, artigos e publicações personalizadas com layouts e formatação personalizáveis.
+*   **Templating de Documentos**: Usar o Markdown para gerar documentos consistentes e visualmente atraentes com conteúdo estruturado e estilização.
+*   **Criar Conteúdo da Internet**: Converter arquivos XSLFO para criar páginas web dinâmicas com texto formatado, imagens e conteúdo multimídia.
+*   **Escrivão Técnica**: Usar o Markdown para criar e formatar documentação técnica, como manuais de usuário, guias e tutoriais.
+*   **Publicação Digital**: Converter arquivos XSLFO para criar revistas digitais interativas, jornais e publicações personalizadas com layouts e formatação personalizáveis.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

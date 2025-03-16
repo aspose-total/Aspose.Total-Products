@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PDF a DICOM mediante programación: casos de uso" %}}
+Arquivos PDF (Formato de Documentos Portátil) são usados para armazenar documentos com layout fixo, tornando-os ideais para criar relatórios estáticos, manuais e apresentações. No entanto, ao trabalhar com dados de imagem médica, arquivos DICOM (Digital Imaging and Communications in Medicine) se tornam essenciais para armazenar e gerenciar informações de paciente.
+
+A conversão de arquivos PDF em formatos DICOM é necessária para desbloquear as capacidades completas do gerenciamento de dados de imagem médica. Essa conversão permite:
+
+**Casos de Uso:**
+
+*   **Análise de Imagens**: Converter arquivos PDF para analisar imagens médicas, como raios-X, ressonância magnética (MRI) e tomografia computadorizada (CT), para extrair informações diagnósticas.
+*   **Gerenciamento de Registros de Paciente**: Usar DICOM para armazenar e gerenciar registros de paciente, incluindo história médica, planos de tratamento e resultados de imagem.
+*   **Geração de Relatórios Radiológicos**: Converter arquivos PDF para gerar relatórios radiológicos, incluindo imagens, medidas e diagnósticos, para tomada de decisão clínica.
+*   **Pesquisa e Desenvolvimento Médico**: Usar DICOM para analisar grandes conjuntos de dados de imagens médicas, facilitando a pesquisa sobre novas tratamentos e técnicas diagnósticas.
+*   **Armazenamento e Recuperação de Imagens**: Converter arquivos PDF para armazenar e recuperar imagens médicas de forma eficiente, garantindo acesso oportuno às informações críticas do paciente.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

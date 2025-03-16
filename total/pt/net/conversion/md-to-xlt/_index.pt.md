@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos MD a XLT mediante programación: casos de uso" %}}
+A conversão de arquivos MD para formatos XLT é necessária para desbloquear o pleno potencial das suas capacidades de visualização e análise de dados.
+
+A conversão de arquivos MD para XLT permite:
+
+**Cenários de Uso:**
+
+*   **Diário de Dados**: Converta arquivos MD para criar diários de dados interativos, rastreie as alterações ao longo do tempo e permita a edição colaborativa.
+*   **Análise de Documentos de Pesquisa**: Use XLT para visualizar os dados dos documentos de pesquisa, identifique conceitos-chave e facilite a partilha de conhecimento entre pesquisadores.
+*   **Livros Científicos Interativos**: Converta arquivos MD para criar livros científicos interativos, simulie experimentos e valide hipóteses.
+*   **Exploração e Visualização de Dados**: Use XLT para explorar e visualizar os dados, identifique padrões e crie dashboards para stakeholders.
+*   **Criação de Documentos Colaborativos**: Converta arquivos MD para colaborar com membros da equipe, rastreie as alterações e mantenha uma compreensão compartilhada de projetos complexos.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

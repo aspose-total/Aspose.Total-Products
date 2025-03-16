@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos WORD a SXC mediante programación: casos de uso" %}}
+Arquivos de palavras (Word files) são usados para armazenar documentos baseados em texto, tornando-os ideais para criar conteúdo escrito como artigos, relatórios e cartas. No entanto, quando você trabalha com visualização de dados e análise, planilhas como o SXC se tornam essenciais para desbloquear o potencial máximo do seu trabalho.
+
+A conversão de arquivos de palavras em formatos SXC é necessária para desbloquear as capacidades de análise de dados e visualização. Essa conversão permite que você:
+
+**Casos de Uso:**
+
+*   **Análise de Dados**: Converter arquivos de palavras para analisar tendências de dados, rastrear indicadores de desempenho chave (KPIs) e identificar padrões em números.
+*   **Relatórios Inteligência Empresarial**: Usar SXC para criar relatórios interativos, painéis de controle e visualizações visuais para os stakeholders, permitindo melhor tomada de decisão.
+*   **Planejamento Financeiro e Orçamento**: Converter arquivos de palavras para simular cenários financeiros, prever receita e otimizar orçamentos.
+*   **Pesquisa Científica e Publicação**: Usar SXC para organizar e visualizar dados de pesquisa, criar figuras e tabelas, e formatar manuscritos.
+*   **Materiais de Aprendizado e Ensino**: Converter arquivos de palavras para criar planilhas interativas, testes e avaliações para alunos.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

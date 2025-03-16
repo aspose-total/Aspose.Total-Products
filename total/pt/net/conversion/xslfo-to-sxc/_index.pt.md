@@ -106,7 +106,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos XSLFO a SXC mediante programación: casos de uso" %}}
+Arquivos XSLFO (Extensible Stylesheet Language Formatting Objects) são usados para descrever a disposição e o formatamento de documentos, tornando-os ideais para criar e manipular texto formatado. No entanto, ao trabalhar com dados dinâmicos, softwares de planilha como o Calc do LibreOffice se tornam essenciais para análise de dados e visualização.
+
+A conversão de arquivos XSLFO em formatos sxc é necessária para desbloquear as capacidades completas de edição e colaboração de documentos. Essa conversão permite que você:
+
+**Cenários de Uso:**
+
+*   **Personalização do Layout de Documento**: Converter arquivos XSLFO para personalizar o layout, tipografia e gráficos dos documentos, criando uma identidade visual única para empresas ou organizações.
+*   **Edição em Tempo Real de Documentos Coletivos**: Usar sxc para compartilhar e editar documentos com outros em tempo real, garantindo que todos estejam na mesma página e reduzindo conflitos de versão.
+*   **Automatização de Formatamento de Documento**: Converter arquivos XSLFO para automatizar tarefas de formatamento de documento, como aplicar estilos e layouts a grandes números de documentos ou relatórios.
+*   **Conteúdo Dinâmico Criado com Dados Externos**: Usar sxc para integrar dados de fontes externas nos documentos, criando conteúdo dinâmico que pode ser atualizado em tempo real.
+*   **Discrição e Design Inclusivo**: Converter arquivos XSLFO para melhorar a acessibilidade dos documentos convertendo texto alternativo de imagens e outros elementos multimídia em formatos acessíveis como sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

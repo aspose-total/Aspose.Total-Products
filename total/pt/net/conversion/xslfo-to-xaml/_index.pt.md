@@ -140,7 +140,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos XSLFO a XAML mediante programación: casos de uso" %}}
+Arquivos XSLFO (Extensible Stylesheet Language Formatting Objects) são usados para armazenar informações de texto formatado, tornando-os ideais para criar documentos com layouts complexos e estilo.
+
+No entanto, quando se trabalha com interfaces de usuário mais dinâmicas e interativas, o XAML (Extensible Application Markup Language) é essencial para construir aplicações robustas e envolventes.
+
+A conversão de arquivos XSLFO em formatos XAML é necessária para desbloquear a plena potencialidade da design visual do seu aplicativo e capacidades interativas. Essa conversão permite que você:
+
+*   **Publicação de Livros Eletrônicos**: Converta arquivos XSLFO para criar livros eletrônicos interativos com layouts dinâmicos, animações e conteúdo multimídia.
+*   **Desenvolvimento de Aplicativos Móveis**: Use XAML para construir interfaces de usuário para aplicações móveis, aproveitando as características e capacidades do dispositivo específico.
+*   **Desenvolvimento de Aplicativos Desktop**: Converta arquivos XSLFO para criar aplicativos visuais atraentes, utilizando os controles de estilo e layout poderosos do XAML.
+*   **Desenvolvimento de Aplicações Web**: Use XAML para construir aplicações web com interfaces de usuário ricas e interativas, aproveitando o potencial do XAML para design visual dinâmico.
+*   **Criação de Experiências AR/VR**: Converta arquivos XSLFO para criar experiências AR/VR imersivas, utilizando as capacidades do XAML para modelagem 3D e animação.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

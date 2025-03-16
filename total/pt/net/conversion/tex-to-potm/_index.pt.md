@@ -115,7 +115,19 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a POTM mediante programación: casos de uso" %}}
+**Conversão de Casos:**
+
+**Usos:**
+
+*   **Publicação de Artigo de Investigação**: Converte arquivos TeX para desbloquear o potencial máximo da publicação de artigos de investigação, garantindo uma formatação precisa e profissional.
+*   **Documentação Técnica e Guías de Uso**: Utilize formatos PotM para criar documentação interativa de técnicas, guias de uso e manuais para aplicações de software, dispositivos de hardware e sistemas complexos.
+*   **Presentações Acadêmicas e Slideshows**: Converte arquivos TeX para apresentar resultados de investigação, análise de dados e palestras acadêmicas de forma clara e atraente.
+*   **Documentação de Desenvolvimento de Software e Código**: Utilize formatos PotM para criar documentação de código lendo e mantivélis, comentários e sistemas de controle de versão para projetos de desenvolvimento de software.
+*   **Escrivão Técnico e Artigos**: Converte arquivos TeX para produzir artigos bem estruturados e visuais atraentes sobre diversos tópicos como tecnologia, ciência e engenharia.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

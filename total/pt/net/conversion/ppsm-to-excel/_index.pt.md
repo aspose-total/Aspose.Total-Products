@@ -106,7 +106,23 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos PPSM a EXCEL mediante programación: casos de uso" %}}
+Arquivos de formato PPSM (Formato de Mapeamento da Balística Portátil) são usados para armazenar mapas topológicos, tornando-os ideais para criar mapas detalhados e planos.
+
+No entanto, ao trabalhar com dados dinâmicos, planilhas como Excel se tornam essenciais para a visualização de dados e análise.
+
+A conversão de arquivos PPSM em formatos do Excel é necessária para desbloquear o potencial máximo da sua análise e planejamento de mapas. Essa conversão permite:
+
+**Caso de Uso:**
+
+*   **Planejamento Tático**: Converter arquivos PPSM para analisar características de território, identificar rotas ótimas e criar planos detalhados de batalha.
+*   **Análise e Documentação de Mapas:** Utilizar o Excel para visualizar dados do mapa, rastrear alterações e documentar eventos históricos.
+*   **Gestão de Propriedades e Territórios:** Converter arquivos PPSM para criar mapas interativos de propriedade, gerenciar uso do solo e otimizar alocação de recursos.
+*   **Planejamento de Resposta de Emergência**: Utilizar o Excel para visualizar cenários de resposta às emergências, identificar perigos potenciais e desenvolver planos eficazes de evacuação.
+*   **Levantamento Geográfico e Cartografia:** Converter arquivos PPSM para criar mapas topográficos precisos, realizar análise espacial e apoiar esforços de levantamento.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

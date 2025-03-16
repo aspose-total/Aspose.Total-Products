@@ -115,7 +115,21 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a OTP mediante programación: casos de uso" %}}
+Arquivos de TeX (Tiposetado Expresso com LaTeX) são usados para armazenar informações do documento, tornando-os ideais para criar documentos técnicos e artigos acadêmicos. No entanto, ao trabalhar com dados multimídia, o formato Portable Document Format (PDF) se torna essencial para apresentação e compartilhamento.
+
+A conversão de arquivos TeX em formatos PDF é necessária para desbloquear a potência visual do seu documento e capacidades de acessibilidade. Esta conversão permite que você:
+
+**Cenários de Uso:**
+
+*   **Publicações de Pesquisa Acadêmica**: Converter arquivos TeX para criar documentos acadêmicos visuais, artigos e teses, garantindo formatação e layout precisos.
+*   **Criação de Documentação Técnica**: Usar PDF para apresentar informações técnicas, como manuals do usuário, guias de instrução e especificações de produtos, de forma clara e concisa.
+*   **Desenvolvimento de Materiais de Aprendizado Eletrônico**: Converter arquivos TeX para criar conteúdo educativo interativo, incluindo apresentações, provas e avaliações, para instituições de ensino.
+*   **Integração com Plataformas de Publicação Digital**: Usar PDF para publicar documentos em plataformas digitais, como revistas online, livrarias digitais e bibliotecas digitais, alcançando um público mais amplo.
+*   **Acessibilidade e Inclusão**: Converter arquivos TeX para criar documentos acessíveis, utilizando recursos como ajuste de tamanho de fonte, contraste de cores e modos de alta-contraste, para pessoas com deficiência.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

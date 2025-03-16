@@ -106,7 +106,18 @@ Recomendamos usar o Microsoft Visual Studio, Xamarin e MonoDevelop IDE para cria
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Transformación de archivos TEX a WMF mediante programación: casos de uso" %}}
+A conversão de arquivos TeX para formatos WMF (Metafile do Windows) é necessária para desbloquear a plena potencialidade das suas capacidades gráficas e ilustrativas. Essa conversão permite que você:
+
+**Casos de Uso:**
+
+*   **Ilustração de Documentos**: Converter arquivos TeX para visualizar expressões matemáticas complexas, equações e fórmulas interativas em ilustrações interativas.
+*   **Publicação Técnica**: Usar WMF para criar desenhos técnicos envolventes, diagramas e gráficos que são adequados para publicações como revistas acadêmicas, livros-texto e whitepapers.
+*   **Design Gráfico e Animação**: Converter arquivos TeX para gerar gráficos dinâmicos, animações e simulações dinâmicas para apresentações, materiais de marketing e conteúdo educacional.
+*   **Visualização de Pesquisa Científica**: Usar WMF para visualizar dados científicos complexos como modelos 3D, resultados de simulação e dados experimentais em gráficos interativos e gráficos de barra.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
