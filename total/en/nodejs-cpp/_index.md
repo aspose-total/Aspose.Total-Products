@@ -22,7 +22,12 @@ Aspose.Total for Node.js via C++ is an all-inclusive set of Node.js libraries. T
 
 Aspose.PDF for Node.js via C++ empowers you to handle PDF files on the backend. Utilizing it, you can optimize PDFs, incorporate and extract text and images, as well as implement encryption and decryption processes. Furthermore, the functionality extends to the ability to effortlessly split and merge PDF documents, providing a comprehensive toolkit for streamlined PDF file manipulation.
 
-<br /><br />
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/nodejs-cpp/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via C++">}}
+
+Handle Excel files efficiently using Node.js via C++ APIs without requiring Microsoft Excel, enabling operations like generation, modification, conversion, and rendering. API offers high performance and scalability, making it suitable for automation, cloud applications, and enterprise-level data processing.
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/nodejs-cpp/" imgSrc="/total/images/aspose_ocr-for-nodjs-cpp.svg" productName="Aspose.OCR for Node.js via C++">}}
