@@ -33,7 +33,7 @@ The API supports exporting Visio files to widely used image formats such as PNG,
 
 {{% blocks/products/pf/feature-page-code h3="Node.js - Visio Formats Processing" %}}
 
-{{< gist "aspose-com-gists" "7ec04b775b208175a41a3c108a6587d1" "convert-visio-vsdx-to-svg.js" >}}
+{{< gist "aspose-com-gists" "e04458d2b20ddce3f899d2324e95e1b4" "convert-visio-to-svg.js" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
