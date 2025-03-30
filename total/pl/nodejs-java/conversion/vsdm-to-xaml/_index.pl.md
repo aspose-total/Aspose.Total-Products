@@ -1,0 +1,94 @@
+---
+title: Konwersja online VSDM do XAML lub zbudowanie aplikacji opartej na Node.js w celu konwersji plików VSDM
+description: Darmowa aplikacja online do konwersji plików VSDM na XAML. Kod biblioteki konwersji Node.js dla dokumentów Microsoft Visio VSDM. 
+
+family: total
+platformtag: Node
+feature: conversion
+informat: VSDM
+outformat: XAML
+otherformats: HTML PDF IMAGES BMP JPG SVG GIF PNG
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Aplikacja do konwersji online VSDM do XAML i kod Node.js do konwersji plików VSDM" h2="Opracuj wydajną aplikację konwersji i eksportu VSDM opartą na Node.js. Konwertuj pojedyncze lub wiele plików Microsoft Visio VSDM do formatu XAML i innych formatów za pomocą interfejsu API automatyzacji Node.js. Bezpłatna konwersja plików VSDM online za pomocą aplikacji z natychmiastowym pobraniem." >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<iframe title="Darmowa aplikacja do konwersji VSDM na XAML online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xaml&from=vsdm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj pliki VSDM do XAML online za pomocą aplikacji" %}}
+
+1. Prześlij pliki Microsoft Visio VSDM do konwersji
+1. Poczekaj kilka sekund lub dłużej, w zależności od rozmiaru VSDM
+1. Zwróć uwagę na pasek stanu przesyłania
+1. Kliknij przycisk „Konwertuj”
+1. VSDM zostanie przekonwertowany na dokument XAML
+1. Pobierz przekonwertowany plik XAML
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Konwertuj VSDM na XAML za pomocą interfejsu API automatyzacji Node.js" %}}
+
+- Utwórz instancję klasy Diagram.
+- Zainicjuj go za pomocą ścieżki pliku Visio XAML.
+- Zapisz diagram w formacie HTML za pomocą metody Diagram.save(string, SaveFileFormat).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Konwertuj VSDM na XAML przez Node.js" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "e04458d2b20ddce3f899d2324e95e1b4" "convert-visio-to-xaml.js" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2>Opracuj aplikację konwersji plików VSDM przy użyciu Node.js</h2>
+
+Musisz stworzyć aplikację opartą na Node js, która umożliwi łatwe zapisywanie i eksportowanie plików VSDM do dokumentu XAML? Dzięki [Aspose.Total for Node.js via Java](https://products.aspose.com/total/pl/nodejs-java/) każdy programista Node może zintegrować powyższy kod API w celu zaprogramowania aplikacji konwersji w różnych formatach, w tym Microsoft Excel, PowerPoint, PDF, plikach e-mail, obrazach i innych formatach. Potężna biblioteka Node do konwersji dokumentów, obsługuje wiele popularnych formatów, w tym format VSDM. Eksportując dokumenty do innych formatów, programiści mogą korzystać z podrzędnych interfejsów API Aspose.Total, w tym [Aspose.Cells for Node.js via Java](https://products.aspose.com/cells/pl/nodejs-java/), [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/pl/nodejs-java/), [Aspose.BarCode for Node.js via Java](https://products.aspose.com/barcode/pl/nodejs-java/), [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/pl/nodejs-java/), [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/pl/nodejs-java/) i innych. 
+ 
+ 
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="VSDM Biblioteka konwersji dla Node.js" %}}
+
+Istnieją alternatywne opcje instalacji Aspose.Total dla Node.js za pośrednictwem Java w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcją krok po kroku:<br /><br />
+
+- Instalacja za pomocą npm: Zainstaluj wymagane interfejsy API Aspose dla Node.js za pomocą Java, używając poleceń Node, takich jak ```npm i aspose.diagram```
+- Możesz też pobrać biblioteki ręcznie ze strony Aspose Downloads i zintegrować je ze swoim projektem Node.js.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Zapisywanie VSDM do XAML Platformy aplikacji i wymagania" %}}
+
+- Windows, Linux, Mac OS X
+- W systemie musi być zainstalowany Node.js.
+- Wymagany jest Oracle JDK (wersja 7 lub nowsza).
+- Pakiet node-java musi być skonfigurowany.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
