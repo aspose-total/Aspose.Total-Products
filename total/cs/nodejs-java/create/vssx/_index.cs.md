@@ -12,7 +12,7 @@ informat: VSSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Pro vývojáře, který se snaží vytvořit soubory VSSX prostřednictvím aplikace Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/cs/nodejs-java/) API může pomoci automatizovat proces vytváření.  Je to úplný balík různých rozhraní API zabývajících se různými formáty, včetně souborů Microsoft Office a obrázků.  [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/cs/nodejs-java/) API, které je součástí balíčku [Aspose.Total for Node.js via Java](https://products.aspose.com/total/cs/nodejs-java/), tento proces generování usnadňuje.  Kromě toho mohou vývojáři snadno vylepšit aplikaci pro úpravu souboru VSSX.  
+Pro vývojáře, který se snaží vytvořit soubory VSSX prostřednictvím aplikace Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/cs/nodejs-java/) API může pomoci automatizovat proces vytváření.  Je to úplný balík různých rozhraní API zabývajících se různými formáty, včetně souborů Microsoft Office a obrázků.  [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/cs/nodejs-java/) API, které je součástí balíčku [Aspose.Total for Node.js via Java](https://products.aspose.com/total/cs/nodejs-java/), tento proces generování usnadňuje.  Kromě toho mohou vývojáři snadno vylepšit aplikaci pro úpravu souboru VSSX.  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

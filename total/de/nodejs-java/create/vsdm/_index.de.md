@@ -12,7 +12,7 @@ informat: VSDM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Für einen Entwickler, der versucht, VSDM-Dateien über eine Node.js-Anwendung zu erstellen? Die [Aspose.Total for Node.js via Java](https://products.aspose.com/total/de/nodejs-java/)-API kann bei der Automatisierung des Erstellungsprozesses helfen. Es handelt sich um ein vollständiges Paket verschiedener APIs, die unterschiedliche Formate verarbeiten, darunter Microsoft Office-Dateien und Bilder. Die [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/de/nodejs-java/)-API, die Teil des [Aspose.Total for Node.js via Java](https://products.aspose.com/total/de/nodejs-java/)-Pakets ist, vereinfacht diesen Generierungsprozess. Darüber hinaus können Entwickler die Anwendung zur Änderung der VSDM-Datei problemlos erweitern. 
+Für einen Entwickler, der versucht, VSDM-Dateien über eine Node.js-Anwendung zu erstellen? Die [Aspose.Total for Node.js via Java](https://products.aspose.com/total/de/nodejs-java/)-API kann bei der Automatisierung des Erstellungsprozesses helfen. Es handelt sich um ein vollständiges Paket verschiedener APIs, die unterschiedliche Formate verarbeiten, darunter Microsoft Office-Dateien und Bilder. Die [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/de/nodejs-java/)-API, die Teil des [Aspose.Total for Node.js via Java](https://products.aspose.com/total/de/nodejs-java/)-Pakets ist, vereinfacht diesen Generierungsprozess. Darüber hinaus können Entwickler die Anwendung zur Änderung der VSDM-Datei problemlos erweitern. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

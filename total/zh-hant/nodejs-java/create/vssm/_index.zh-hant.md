@@ -12,7 +12,7 @@ informat: VSSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-對於開發人員來說，誰試圖透過 Node.js 應用程式建立 VSSM 檔案？  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh-hant/nodejs-java/) API 可以幫助自動化建立流程。  它是處理不同格式（包括 Microsoft Office 檔案和映像）的各種 API 的完整套件。  作為 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh-hant/nodejs-java/) 套件一部分的 [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/zh-hant/nodejs-java/) API 使得這個生成過程變得簡單。  此外，開發人員可以輕鬆增強應用程式以修改VSSM檔案。  
+對於開發人員來說，誰試圖透過 Node.js 應用程式建立 VSSM 檔案？  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh-hant/nodejs-java/) API 可以幫助自動化建立流程。  它是處理不同格式（包括 Microsoft Office 檔案和映像）的各種 API 的完整套件。  作為 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh-hant/nodejs-java/) 套件一部分的 [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/zh-hant/nodejs-java/) API 使得這個生成過程變得簡單。  此外，開發人員可以輕鬆增強應用程式以修改VSSM檔案。  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -12,7 +12,7 @@ informat: VSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Egy fejlesztő számára ki próbál VSX fájlokat létrehozni a Node.js alkalmazáson keresztül?  A [Aspose.Total for Node.js via Java](https://products.aspose.com/total/hu/nodejs-java/) API segíthet a létrehozási folyamat automatizálásában.  Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak, beleértve a Microsoft Office fájlokat és képeket.  A [Aspose.Total for Node.js via Java](https://products.aspose.com/total/hu/nodejs-java/) csomag részét képező [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/hu/nodejs-java/) API megkönnyíti ezt a generálási folyamatot.  Ezenkívül a fejlesztők egyszerűen javíthatják az alkalmazást az VSX fájl módosítására.  
+Egy fejlesztő számára ki próbál VSX fájlokat létrehozni a Node.js alkalmazáson keresztül?  A [Aspose.Total for Node.js via Java](https://products.aspose.com/total/hu/nodejs-java/) API segíthet a létrehozási folyamat automatizálásában.  Különféle API-k teljes csomagja, amelyek különböző formátumokkal foglalkoznak, beleértve a Microsoft Office fájlokat és képeket.  A [Aspose.Total for Node.js via Java](https://products.aspose.com/total/hu/nodejs-java/) csomag részét képező [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/hu/nodejs-java/) API megkönnyíti ezt a generálási folyamatot.  Ezenkívül a fejlesztők egyszerűen javíthatják az alkalmazást az VSX fájl módosítására.  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

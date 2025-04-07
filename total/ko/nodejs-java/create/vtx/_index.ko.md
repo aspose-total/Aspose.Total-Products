@@ -12,7 +12,7 @@ informat: VTX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-개발자의 경우, Node.js 애플리케이션을 통해 VTX 파일을 만들려고 하는 사람은 누구입니까? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ko/nodejs-java/) API는 생성 프로세스를 자동화하는 데 도움이 될 수 있습니다. 여기에는 Microsoft Office 파일과 이미지를 포함한 다양한 형식을 처리하는 다양한 API의 전체 패키지가 포함됩니다. [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ko/nodejs-java/) 패키지의 일부인 [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/ko/nodejs-java/) API를 사용하면 이러한 생성 과정이 쉬워집니다. 게다가 개발자는 VTX 파일을 수정하여 애플리케이션을 쉽게 개선할 수 있습니다. 
+개발자의 경우, Node.js 애플리케이션을 통해 VTX 파일을 만들려고 하는 사람은 누구입니까? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ko/nodejs-java/) API는 생성 프로세스를 자동화하는 데 도움이 될 수 있습니다. 여기에는 Microsoft Office 파일과 이미지를 포함한 다양한 형식을 처리하는 다양한 API의 전체 패키지가 포함됩니다. [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ko/nodejs-java/) 패키지의 일부인 [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/ko/nodejs-java/) API를 사용하면 이러한 생성 과정이 쉬워집니다. 게다가 개발자는 VTX 파일을 수정하여 애플리케이션을 쉽게 개선할 수 있습니다. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

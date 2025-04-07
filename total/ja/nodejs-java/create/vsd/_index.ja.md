@@ -12,7 +12,7 @@ informat: VSD
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-開発者にとって、Node.js アプリケーション経由で VSD ファイルを作成しようとしているのは誰でしょうか? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ja/nodejs-java/) API は作成プロセスの自動化に役立ちます。 これは、Microsoft Office ファイルや画像など、さまざまな形式を扱うさまざまな API の完全なパッケージです。 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ja/nodejs-java/) パッケージの一部である [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/ja/nodejs-java/) API を使用すると、この生成プロセスが容易になります。 さらに、開発者は VSD ファイルの変更のためにアプリケーションを簡単に拡張できます。 
+開発者にとって、Node.js アプリケーション経由で VSD ファイルを作成しようとしているのは誰でしょうか? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ja/nodejs-java/) API は作成プロセスの自動化に役立ちます。 これは、Microsoft Office ファイルや画像など、さまざまな形式を扱うさまざまな API の完全なパッケージです。 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ja/nodejs-java/) パッケージの一部である [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/ja/nodejs-java/) API を使用すると、この生成プロセスが容易になります。 さらに、開発者は VSD ファイルの変更のためにアプリケーションを簡単に拡張できます。 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

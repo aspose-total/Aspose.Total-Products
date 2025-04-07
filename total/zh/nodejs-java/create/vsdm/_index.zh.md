@@ -12,7 +12,7 @@ informat: VSDM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-对于开发人员来说，谁试图通过 Node.js 应用程序创建 VSDM 文件？ [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh/nodejs-java/) API 可以帮助自动化创建过程。 它是处理不同格式（包括 Microsoft Office 文件和图像）的各种 API 的完整包。 作为 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh/nodejs-java/) 包一部分的 [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/zh/nodejs-java/) API 使得这一生成过程变得简单。 此外，开发人员可以轻松增强应用程序以修改VSDM文件。 
+对于开发人员来说，谁试图通过 Node.js 应用程序创建 VSDM 文件？ [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh/nodejs-java/) API 可以帮助自动化创建过程。 它是处理不同格式（包括 Microsoft Office 文件和图像）的各种 API 的完整包。 作为 [Aspose.Total for Node.js via Java](https://products.aspose.com/total/zh/nodejs-java/) 包一部分的 [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/zh/nodejs-java/) API 使得这一生成过程变得简单。 此外，开发人员可以轻松增强应用程序以修改VSDM文件。 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

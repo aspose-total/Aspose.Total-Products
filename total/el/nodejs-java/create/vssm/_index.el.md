@@ -12,7 +12,7 @@ informat: VSSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Για έναν προγραμματιστή, ποιος προσπαθεί να δημιουργήσει αρχεία VSSM μέσω της εφαρμογής Node.js;  Το [Aspose.Total for Node.js via Java](https://products.aspose.com/total/el/nodejs-java/) API μπορεί να βοηθήσει στην αυτοματοποίηση της διαδικασίας δημιουργίας.  Είναι ένα πλήρες πακέτο διαφόρων API που αφορούν διαφορετικές μορφές, συμπεριλαμβανομένων αρχείων και εικόνων του Microsoft Office.  Το [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/el/nodejs-java/) API που αποτελεί μέρος του πακέτου [Aspose.Total for Node.js via Java](https://products.aspose.com/total/el/nodejs-java/) κάνει αυτή τη διαδικασία δημιουργίας εύκολη.  Επιπλέον, οι προγραμματιστές μπορούν εύκολα να βελτιώσουν την εφαρμογή για τροποποίηση του αρχείου VSSM.  
+Για έναν προγραμματιστή, ποιος προσπαθεί να δημιουργήσει αρχεία VSSM μέσω της εφαρμογής Node.js;  Το [Aspose.Total for Node.js via Java](https://products.aspose.com/total/el/nodejs-java/) API μπορεί να βοηθήσει στην αυτοματοποίηση της διαδικασίας δημιουργίας.  Είναι ένα πλήρες πακέτο διαφόρων API που αφορούν διαφορετικές μορφές, συμπεριλαμβανομένων αρχείων και εικόνων του Microsoft Office.  Το [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/el/nodejs-java/) API που αποτελεί μέρος του πακέτου [Aspose.Total for Node.js via Java](https://products.aspose.com/total/el/nodejs-java/) κάνει αυτή τη διαδικασία δημιουργίας εύκολη.  Επιπλέον, οι προγραμματιστές μπορούν εύκολα να βελτιώσουν την εφαρμογή για τροποποίηση του αρχείου VSSM.  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -12,7 +12,7 @@ informat: VSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Đối với một nhà phát triển, ai đang cố gắng tạo các tệp VSX thông qua ứng dụng Node.js? API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/vi/nodejs-java/) có thể giúp tự động hóa quá trình tạo. Đây là một gói đầy đủ các API xử lý nhiều định dạng khác nhau, bao gồm cả tệp Microsoft Office và Hình ảnh. [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/vi/nodejs-java/) API là một phần của gói [Aspose.Total for Node.js via Java](https://products.aspose.com/total/vi/nodejs-java/) giúp cho quá trình tạo này trở nên dễ dàng. Hơn nữa, các nhà phát triển có thể dễ dàng cải tiến ứng dụng để sửa đổi tệp VSX. 
+Đối với một nhà phát triển, ai đang cố gắng tạo các tệp VSX thông qua ứng dụng Node.js? API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/vi/nodejs-java/) có thể giúp tự động hóa quá trình tạo. Đây là một gói đầy đủ các API xử lý nhiều định dạng khác nhau, bao gồm cả tệp Microsoft Office và Hình ảnh. [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/vi/nodejs-java/) API là một phần của gói [Aspose.Total for Node.js via Java](https://products.aspose.com/total/vi/nodejs-java/) giúp cho quá trình tạo này trở nên dễ dàng. Hơn nữa, các nhà phát triển có thể dễ dàng cải tiến ứng dụng để sửa đổi tệp VSX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -12,7 +12,7 @@ informat: VTX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-עבור מפתח, מי מנסה ליצור קבצי VTX באמצעות אפליקציית Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/he/nodejs-java/) API יכול לעזור להפוך את תהליך היצירה לאוטומטי.  זוהי חבילה מלאה של ממשקי API שונים העוסקים בפורמטים שונים כולל קבצי Microsoft Office ותמונות.  [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/he/nodejs-java/) API שהוא חלק מחבילת [Aspose.Total for Node.js via Java](https://products.aspose.com/total/he/nodejs-java/) מקל על תהליך הדור הזה.  יתר על כן, מפתחים יכולים בקלות לשפר את האפליקציה לשינוי קובץ VTX.  
+עבור מפתח, מי מנסה ליצור קבצי VTX באמצעות אפליקציית Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/he/nodejs-java/) API יכול לעזור להפוך את תהליך היצירה לאוטומטי.  זוהי חבילה מלאה של ממשקי API שונים העוסקים בפורמטים שונים כולל קבצי Microsoft Office ותמונות.  [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/he/nodejs-java/) API שהוא חלק מחבילת [Aspose.Total for Node.js via Java](https://products.aspose.com/total/he/nodejs-java/) מקל על תהליך הדור הזה.  יתר על כן, מפתחים יכולים בקלות לשפר את האפליקציה לשינוי קובץ VTX.  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

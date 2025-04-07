@@ -12,7 +12,7 @@ informat: VSDX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Para un desarrollador, ¿quién intenta crear archivos VSDX a través de la aplicación Node.js? La API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/es/nodejs-java/) puede ayudar a automatizar el proceso de creación. Es un paquete completo de varias API que manejan diferentes formatos, incluidos archivos e imágenes de Microsoft Office. La API [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/es/nodejs-java/) que forma parte del paquete [Aspose.Total for Node.js via Java](https://products.aspose.com/total/es/nodejs-java/) facilita este proceso de generación. Además, los desarrolladores pueden mejorar fácilmente la aplicación para modificar el archivo VSDX. 
+Para un desarrollador, ¿quién intenta crear archivos VSDX a través de la aplicación Node.js? La API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/es/nodejs-java/) puede ayudar a automatizar el proceso de creación. Es un paquete completo de varias API que manejan diferentes formatos, incluidos archivos e imágenes de Microsoft Office. La API [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/es/nodejs-java/) que forma parte del paquete [Aspose.Total for Node.js via Java](https://products.aspose.com/total/es/nodejs-java/) facilita este proceso de generación. Además, los desarrolladores pueden mejorar fácilmente la aplicación para modificar el archivo VSDX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

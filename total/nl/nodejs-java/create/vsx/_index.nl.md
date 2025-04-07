@@ -12,7 +12,7 @@ informat: VSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Voor een ontwikkelaar die VSX-bestanden probeert te maken via een Node.js-applicatie? Met de [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nl/nodejs-java/) API kunt u het creatieproces automatiseren. Het is een volledig pakket met verschillende API's voor verschillende formaten, waaronder Microsoft Office-bestanden en afbeeldingen. De [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/nl/nodejs-java/) API, die deel uitmaakt van het [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nl/nodejs-java/)-pakket, maakt dit generatieproces eenvoudig. Bovendien kunnen ontwikkelaars de applicatie eenvoudig verbeteren voor het aanpassen van het VSX-bestand. 
+Voor een ontwikkelaar die VSX-bestanden probeert te maken via een Node.js-applicatie? Met de [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nl/nodejs-java/) API kunt u het creatieproces automatiseren. Het is een volledig pakket met verschillende API's voor verschillende formaten, waaronder Microsoft Office-bestanden en afbeeldingen. De [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/nl/nodejs-java/) API, die deel uitmaakt van het [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nl/nodejs-java/)-pakket, maakt dit generatieproces eenvoudig. Bovendien kunnen ontwikkelaars de applicatie eenvoudig verbeteren voor het aanpassen van het VSX-bestand. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

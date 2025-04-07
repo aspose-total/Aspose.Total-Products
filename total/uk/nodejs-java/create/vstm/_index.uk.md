@@ -12,7 +12,7 @@ informat: VSTM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Для розробника, який намагається створити файли VSTM за допомогою програми Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/uk/nodejs-java/) API може допомогти автоматизувати процес створення.  Це повний пакет різних API, що працюють з різними форматами, включаючи файли Microsoft Office і зображення.  API [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/uk/nodejs-java/), який є частиною пакета [Aspose.Total for Node.js via Java](https://products.aspose.com/total/uk/nodejs-java/), полегшує процес створення.  Крім того, розробники можуть легко вдосконалити додаток для модифікації файлу VSTM.  
+Для розробника, який намагається створити файли VSTM за допомогою програми Node.js?  [Aspose.Total for Node.js via Java](https://products.aspose.com/total/uk/nodejs-java/) API може допомогти автоматизувати процес створення.  Це повний пакет різних API, що працюють з різними форматами, включаючи файли Microsoft Office і зображення.  API [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/uk/nodejs-java/), який є частиною пакета [Aspose.Total for Node.js via Java](https://products.aspose.com/total/uk/nodejs-java/), полегшує процес створення.  Крім того, розробники можуть легко вдосконалити додаток для модифікації файлу VSTM.  
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

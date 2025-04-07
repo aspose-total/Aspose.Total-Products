@@ -12,7 +12,7 @@ informat: VSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Untuk pengembang, siapa yang mencoba membuat file VSX melalui aplikasi Node.js? API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/id/nodejs-java/) dapat membantu mengotomatiskan proses pembuatan. Ini adalah paket lengkap berbagai API yang menangani berbagai format termasuk file Microsoft Office dan Gambar. API [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/id/nodejs-java/) yang merupakan bagian dari paket [Aspose.Total for Node.js via Java](https://products.aspose.com/total/id/nodejs-java/) memudahkan proses pembuatan ini. Selain itu, pengembang dapat dengan mudah meningkatkan aplikasi untuk modifikasi file VSX. 
+Untuk pengembang, siapa yang mencoba membuat file VSX melalui aplikasi Node.js? API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/id/nodejs-java/) dapat membantu mengotomatiskan proses pembuatan. Ini adalah paket lengkap berbagai API yang menangani berbagai format termasuk file Microsoft Office dan Gambar. API [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/id/nodejs-java/) yang merupakan bagian dari paket [Aspose.Total for Node.js via Java](https://products.aspose.com/total/id/nodejs-java/) memudahkan proses pembuatan ini. Selain itu, pengembang dapat dengan mudah meningkatkan aplikasi untuk modifikasi file VSX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

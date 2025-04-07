@@ -12,7 +12,7 @@ informat: VSSX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-بالنسبة للمطور الذي يحاول إنشاء ملفات VSSX عبر تطبيق Node.js؟ يمكن أن تساعد واجهة برمجة التطبيقات [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ar/nodejs-java/) في أتمتة عملية الإنشاء. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة بما في ذلك ملفات Microsoft Office والصور. تجعل واجهة برمجة التطبيقات [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/ar/nodejs-java/) التي تعد جزءًا من حزمة [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ar/nodejs-java/) عملية التوليد هذه سهلة. علاوة على ذلك، يمكن للمطورين تحسين التطبيق بسهولة لتعديل ملف VSSX. 
+بالنسبة للمطور الذي يحاول إنشاء ملفات VSSX عبر تطبيق Node.js؟ يمكن أن تساعد واجهة برمجة التطبيقات [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ar/nodejs-java/) في أتمتة عملية الإنشاء. إنها حزمة كاملة من واجهات برمجة التطبيقات المختلفة التي تتعامل مع تنسيقات مختلفة بما في ذلك ملفات Microsoft Office والصور. تجعل واجهة برمجة التطبيقات [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/ar/nodejs-java/) التي تعد جزءًا من حزمة [Aspose.Total for Node.js via Java](https://products.aspose.com/total/ar/nodejs-java/) عملية التوليد هذه سهلة. علاوة على ذلك، يمكن للمطورين تحسين التطبيق بسهولة لتعديل ملف VSSX. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

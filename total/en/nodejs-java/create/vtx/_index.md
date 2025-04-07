@@ -12,7 +12,7 @@ informat: VTX
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a developer, who is trying to create VTX files via Node.js application? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nodejs-java/) API can help to automate the create process. It's a full package of various APIs dealing different formats including Microsoft Office files and Images. [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/nodejs-java/) API that is part of [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nodejs-java/) package makes this generation process easy. Moreover, developers can easily enhance the application for modification of VTX file. 
+For a developer, who is trying to create VTX files via Node.js application? [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nodejs-java/) API can help to automate the create process. It's a full package of various APIs dealing different formats including Microsoft Office files and Images. [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/nodejs-java/) API that is part of [Aspose.Total for Node.js via Java](https://products.aspose.com/total/nodejs-java/) package makes this generation process easy. Moreover, developers can easily enhance the application for modification of VTX file. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

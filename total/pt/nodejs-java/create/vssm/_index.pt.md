@@ -12,7 +12,7 @@ informat: VSSM
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Para um desenvolvedor que está tentando criar arquivos VSSM por meio do aplicativo Node.js? A API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/pt/nodejs-java/) pode ajudar a automatizar o processo de criação. É um pacote completo de várias APIs que lidam com diferentes formatos, incluindo arquivos e imagens do Microsoft Office. A API [Aspose.Slides for Node.js via Java](https://products.aspose.com/slides/pt/nodejs-java/) que faz parte do pacote [Aspose.Total for Node.js via Java](https://products.aspose.com/total/pt/nodejs-java/) facilita esse processo de geração. Além disso, os desenvolvedores podem facilmente aprimorar o aplicativo para modificação do arquivo VSSM. 
+Para um desenvolvedor que está tentando criar arquivos VSSM por meio do aplicativo Node.js? A API [Aspose.Total for Node.js via Java](https://products.aspose.com/total/pt/nodejs-java/) pode ajudar a automatizar o processo de criação. É um pacote completo de várias APIs que lidam com diferentes formatos, incluindo arquivos e imagens do Microsoft Office. A API [Aspose.Diagram for Node.js via Java](https://products.aspose.com/diagram/pt/nodejs-java/) que faz parte do pacote [Aspose.Total for Node.js via Java](https://products.aspose.com/total/pt/nodejs-java/) facilita esse processo de geração. Além disso, os desenvolvedores podem facilmente aprimorar o aplicativo para modificação do arquivo VSSM. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
