@@ -106,7 +106,21 @@ otherformats: WMF PSD DXF IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PDF 文件转换为 DXF：用例" %}}
+PDF（便携式文档格式）文件用于存储文档信息，是创建静态文档和出版物的理想选择。然而，在处理详细绘图和设计时，DXF（绘图交换格式）成为精确表示和操作的必要工具。
+
+将 PDF 文件转换为 DXF 格式是解锁您设计潜力的必然选择。这项转换使您能够：
+
+**应用场景：**
+
+*   **建筑和工程设计**：将 PDF 文件用于创建可编辑和共享的详细图纸、设计和原理图。
+*   **产品制造与原型制作**：使用 DXF 格式生成 2D 和 3D 模型，从现有设计中创建原型、模具和工具。
+*   **CADCAM（计算机辅助设计/计算机辅助制造）**：将 PDF 文件转换为精确的数字模型，以便用于 CNC 加工、焊接和装配。
+*   **地理信息系统（GIS）数据转换**：使用 DXF 格式将包含地理空间数据的 PDF 文件转换为可与 GIS 软件配合使用的格式，从而进行详细地图绘制和分析。
+*   **航空航天设计**：将 PDF 文件用于生成 2D 和 3D 模型，从现有设计中创建原型、工具和制造计划。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

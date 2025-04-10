@@ -106,7 +106,21 @@ otherformats: OTT FLATOPC PS DOTX RTF WORDML ODT WORD EPUB DOC DOT PCL MOBI DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 JSON 文件转换为 CHM：用例" %}}
+JSON（JavaScript Object Notation）文件用于存储数据的轻量级且易于阅读的格式，使其成为创建配置文件、数据交换协议和API的理想选择。然而，在处理静态内容交付和离线访问时，CHM（Compact HTML）文件成为了存储和分发信息的关键。
+
+将JSON文件转换为CHM格式是必要的，以充分发挥您静态内容交付和离线访问功能的潜力。这一转换使您能够：
+
+**用途：**
+
+* **离线访问**：将JSON文件转换为自包含、可用于离线访问的内容，例如用户手册、技术指南和电子书。
+* **静态内容交付**：使用CHM文件分发静态内容，如图片、视频和音频文件，通过互联网或企业网络。
+* **安全性与合规性**：将JSON文件转换为加密的、抗篡改的CHM文件，以保护敏感信息，如金融数据、个人可识别信息（PII）或机密商业文件。
+* **遗留系统集成**：使用CHM文件将旧有系统整合，例如将旧型网页应用兼容的JSON配置文件转换为适用于旧有软件的格式。
+* **数字forensics和调查**：将JSON文件转换为不可变的、版本控制的CHM存档，以支持数字forensics和调查，确保链证据文档和证据完整性。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

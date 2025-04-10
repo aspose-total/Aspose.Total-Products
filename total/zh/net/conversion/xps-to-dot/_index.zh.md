@@ -115,7 +115,21 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 DOT：用例" %}}
+XPS (XML Paper Specification) 文件用于存储位图图像信息，因此非常适合创建印刷就绪的文档。然而，在处理向量数据时，像Adobe Illustrator这样的图片编辑软件就变得至关重要，以实现精确控制和灵活性。
+
+将 XPS 文件转换为向量格式是必要的，以充分发挥你的图形设计能力。这一转换使你能够：
+
+**用途：**
+
+*   **品牌设计与品牌定位**：将 XPS 文件转换为可缩放的向量 logo，确保在各个平台上保持品牌的一致性，并维持高质量的视觉效果。
+*   **信息图制作**：使用向量软件来可视化数据，创建吸引人的信息图，并以易于理解的方式传达复杂的信息。
+*   **宣传册和传单设计**：将 XPS 文件转换为设计印刷就绪的宣传册、传单和商业卡，保留清晰的图形和精确的字体。
+*   **UI/UX 设计与原型制作**：使用向量软件创建交互式原型，模拟用户交互，并在最终开发之前测试设计概念。
+*   **向量绘图与插画**：将 XPS 文件转换为原始向量艺术、插画和图形，以适用于各种媒体平台。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

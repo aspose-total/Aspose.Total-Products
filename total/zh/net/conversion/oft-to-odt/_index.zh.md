@@ -118,7 +118,21 @@ document.Save("output.odt", SaveFormat.Odt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 ODT：用例" %}}
+LTI（学习理论接口）文件用于存储教育内容，是创建交互式学习体验和模拟的理想工具。然而，当处理静态内容时，开放文档格式（ODT）成为必要的文档编辑和格式化工具。
+
+将LTI文件转换为ODT格式是为了充分发挥您的教育内容潜力，并促进学生与教师之间的协作。这一转换使您能够：
+
+**应用场景：**
+
+*   **交互式教学设计**：将LTI文件转换为ODT格式以创建交互式教学计划，模拟学习体验并评估学生表现。
+*   **协作内容开发**：使用ODT格式进行联合撰写和编辑教育内容，确保团队间的一致性和准确性。
+*   **可访问性与包容性**：将LTI文件转换为ODT格式以使教育内容更易于残障学习者访问。
+*   **内容管理与分发**：使用ODT格式管理和分发教育内容，简化学习过程并改善学生成果。
+*   **评估与反馈**：将LTI文件转换为ODT格式以创建交互式评估、提供反馈并追踪学习进度。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

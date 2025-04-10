@@ -106,7 +106,21 @@ otherformats: DXF  PSD SVGZ EMZ JPEG2000 TGA WMZ WMF IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EPUB 文件转换为 APNG：用例" %}}
+电子出版（EPUB）文件用于存储基于文本的内容，是制作电子书和数字出版物的理想格式。但当处理基于图像的数据时，PNG（可移植网络图形）文件就变得至关重要，以保留视觉质量和细节。
+
+将电子出版（EPUB）文件转换为动态PNG（APNG）格式是为了释放多媒体展示和交互式内容的最大潜力。这种转换使你能够：
+
+**用途：**
+
+*   **电子书动画**：将EPUB文件转换以创建具有生动视觉效果的电子书体验，让故事更有吸引力。
+*   **数字出版**：使用APNG来可视化数据驱动的叙事，简化复杂信息，使读者体验更加丰富。
+*   **交互式故事讲述**：将EPUB文件转换以创建交互式漫画、图像小说或其他多媒体故事形式。
+*   **科学插图**：使用APNG来可视化科学过程，模拟实验，并传达复杂的数据见解。
+*   **营销材料**：将EPUB文件转换以创建动态营销材料，如产品演示、教程或解释视频。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

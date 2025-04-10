@@ -106,7 +106,21 @@ otherformats: IMAGE DXF TGA WMF WMZ EMZ PSD JPEG2000 SVGZ  DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 PSD：用例" %}}
+XPS (XML纸张规格文件)用于存储文档信息，是创建电子文档和演示文稿的理想选择。然而，在进行图形设计时，PSD（Photoshop文档）成为了必不可少的工具，以便对图像进行编辑和操作。
+
+将XPS文件转换为PSD格式是必要的，以充分发挥您的图形设计能力。这一转换使您能够：
+
+**用途：**
+
+*   **图形设计与编辑**：将XPS文件转换为PSD以编辑和操作图像元素，调整颜色并应用效果。
+*   **数字图像操作**：使用PSD创建并增强数字图像，包括调整亮度、对比度和饱和度等参数。
+*   **位图图形的设计**：将XPS文件转换为设计和创建位图图形，如标志、图标和纹理。
+*   **预印与打印准备**：使用PSD准备用于打印生产的文档，确保颜色准确无误并提供高质量输出。
+*   **数字资产管理**：将XPS文件转换为管理数字资产，包括图像、向量和其他图形元素，以便在多个项目和平台上跨项目管理。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

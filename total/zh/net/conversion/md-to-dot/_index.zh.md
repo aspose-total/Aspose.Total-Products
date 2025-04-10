@@ -58,7 +58,24 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 DOT：用例" %}}
+**转换案例:**  
+Markdown（MD）文件用于存储基于文字的信息，是创建简单文档和内容的理想选择。然而，当需要处理复杂格式和布局要求时，DOT（图表交换文件格式）文件成为可视化表示的必要文件。
+
+将MD文件转换为DOT格式是为了充分发挥你的视觉表示能力。这一转换使你能够:
+
+**用途:**
+
+*   **技术文档:** 将MD文件转换为创建交互式图表和流程图以便于技术文档的理解和导航。
+*   **业务流程建模:** 使用DOT文件来可视化复杂的业务流程，创建交互式动态模型以进行分析和优化。
+*   **软件开发与架构:** 将MD文件转换为详细的软件架构图、UML类图以及系统架构模型，以便于项目规划和执行。
+*   **教育和培训材料:** 使用DOT文件创建交互式教程、指南和教学材料，使复杂信息更易于学习者理解和参与。
+*   **研究与学术展示:** 将MD文件转换为视觉吸引人的学术演示文稿、海报和研究论文，以清晰简洁地展示研究成果和数据。
+
+通过将MD文件转换为DOT格式，你可以充分发挥你的视觉表示能力，创建交互式和动态图表，从而增强沟通、协作和决策力。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

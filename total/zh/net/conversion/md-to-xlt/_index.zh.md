@@ -106,7 +106,21 @@ otherformats: XLAM ODS XLSM SXC DIF TXT XLTX FODS TSV EXCEL XLSB XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 XLT：用例" %}}
+将MD文件转换为XLT格式是必要的，以充分发挥您的数据可视化和分析能力。
+
+将MD文件转换为XLT格式使您能够：
+
+**用途：**
+
+* **数据日志记录**：将MD文件转换为交互式数据日志，跟踪时间变化，并支持协作编辑。
+* **研究文档分析**：使用XLT可视化研究文档数据，识别关键概念，并促进研究人员之间的知识共享。
+* **科学笔记本**：将MD文件转换为交互式科学笔记本，模拟实验并验证假设。
+* **数据探索与可视化**：使用XLT探索和可视化数据，识别模式，并为利益相关者创建仪表盘。
+* **协作文档创建**：将MD文件转换为协作文档，与团队成员合作，跟踪变更，并维护复杂项目的共有理解。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -115,7 +115,21 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 PCL：用例" %}}
+XPS (XML Paper Specification) 文件用于存储布局信息，因此它们是创建数字文档和演示文稿的理想选择。然而，在处理向量图形数据时，PCL（Programming CAD Language）文件变得至关重要，因为它们用于输出精确的形状和设计。
+
+将 XPS 文件转换为 PCL 格式是必要的，以充分发挥您向量图形功能的潜力。此次转换使您能够：
+
+**应用场景：**
+
+* **自动化打印生产**：将 XPS 文件转换为生成精确打印模板，自动化打印工作流程，并降低生产成本。
+* **CAD 模型输出**：使用 PCL 将 2D 和 3D CAD 模型从 XPS 文件中导出，使其能够与工程软件无缝集成。
+* **向量图形编辑**：将 XPS 文件转换以创建向量图形资产，编辑标志、图标和图片，并优化文件大小以适合网络使用。
+* **文档转换**：使用 PCL 将 XPS 文件转换为位图格式，从而在流行图像编辑器中进行文档编辑和操作。
+* **机器学习模型训练**：将 XPS 文件转换为生成二维形状和图案，用于如物体识别和分类等应用的机器学习模型训练。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ otherformats: XLS DIF XLSB TSV FODS XLSM EXCEL XLT SXC XLSX XLTM XLAM XLTX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 WORD 文件转换为 SXC：用例" %}}
+文档文件用于存储基于文字的文档，使其成为创建文章、报告和信件等书面内容的理想工具。然而，在与数据可视化和分析工作相关时，电子表格（如SXC）成为了解数据可视化和分析潜力全能性的必需工具。
+
+将Word文件转换为SXC格式是必要的，以充分发挥您在数据可视化和分析方面的能力。这种转换使您能够：
+
+**用途：**
+
+*   **数据分析**：将Word文件用于分析数据趋势、跟踪关键绩效指标（KPIs），并识别数字中的模式。
+*   **商业智能报告**：使用SXC创建交互式报告、仪表盘和可视化工具，以便利决策者做出更好的决策。
+*   **财务规划与预算管理**：将Word文件用于模拟财务情景、预测收入并优化预算。
+*   **科学研究与出版**：使用SXC组织和可视化研究数据，创建图表和表格，并格式化手稿。
+*   **教育与培训材料**：将Word文件用于创建交互式教学计划、测验和评估以供学生使用。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

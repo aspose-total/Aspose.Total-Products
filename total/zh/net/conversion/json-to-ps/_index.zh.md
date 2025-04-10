@@ -106,7 +106,21 @@ otherformats: PCL RTF EPUB DOT OTT DOC WORD DOTX MOBI DOCM PS ODT WORDML FLATOPC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 JSON 文件转换为 PS：用例" %}}
+JSON（JavaScript对象表示法）文件用于以轻量级且易于阅读的格式存储数据，这使其成为应用程序和系统之间交换数据的理想选择。然而，在处理矢量图形和图片时，PDF文件变得至关重要，因为它们在打印方面具有高质量的输出能力。
+
+将JSON文件转换为PDF格式是必要的，以充分发挥您在图形设计和出版方面的潜力。这项转换使您能够：
+
+**用途：**
+
+* **图形设计与插画**：将JSON文件转换为专业级别的图形、插画和动画，使其适用于印刷和数字媒体。
+* **图片和照片编辑**：使用PDF编辑并增强图片，移除噪音和瑕疵，并调整亮度和对比度。
+* **文档出版**：将JSON文件转换为交互式和动态文档，如宣传册、传单和杂志，使其完美适合印刷定制服务。
+* **数字资产管理**：使用PDF管理数字资产，如标志、图标和图像，并确保所有营销材料的一致性。
+* **数据可视化与报告**：将JSON文件转换为交互式和动态报告、仪表盘和可视化图表，使其适用于商业智能和数据分析。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

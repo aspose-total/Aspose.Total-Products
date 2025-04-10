@@ -78,7 +78,19 @@ document.Save("output.pcl", SaveFormat.Pcl);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EMAIL 文件转换为 PCL：用例" %}}
+将电子邮件文件转换为PCL（打印控制语言）格式是实现您打印能力最大化利用的必要步骤。
+
+**用途：**
+
+*   **自动化打印任务安排**：通过将电子邮件文件转换为PCL格式，可以自动安排打印任务，确保文档按时打印并减少人工操作。
+*   **定制打印设置**：使用PCL格式可以应用个性化的打印设置，如纸张大小、方向和字体样式，以提升打印体验。
+*   **实时打印监控**：将电子邮件文件转换为实时打印监控系统，实现对打印任务的即时跟踪并优化打印资源。
+*   **安全文档打印**：使用PCL格式可以实施安全文档打印功能，如加密和身份验证，以保护敏感信息。
+*   **优化打印工作流程**：将电子邮件文件转换为PCL格式，可以简化打印工作流程，减少手动准备打印任务的时间并提高生产力。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

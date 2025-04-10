@@ -115,7 +115,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 TEX 文件转换为 DOT：用例" %}}
+将TeX文件转换为DOT格式是为了充分发挥您的图表化能力。这一转换使您能够：
+
+**用途：**
+
+*   **视觉呈现：** 将TeX文件转换为可视化的图表、流程图和图表，以制作用于演示、报告和教育材料的视觉化图表。
+*   **科学图表：** 使用DOT格式生成复杂的科学图表，例如电路图、网络图表和层级结构图。
+*   **技术文档：** 将TeX文件转换为交互式技术文档，包括系统图表、组件布局和流程图。
+*   **学术研究：** 使用DOT格式可视化研究数据，模拟系统行为，并在学术论文和硕士论文中说明复杂概念。
+*   **协作设计：** 将TeX文件转换为可编辑的图表，以便与团队成员共享，实现实时协作和版本控制。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

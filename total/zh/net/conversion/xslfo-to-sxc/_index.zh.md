@@ -106,7 +106,21 @@ otherformats: XLSM XLTX TXT FODS XLT TSV MD SXC ODS XLSB EXCEL XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 SXC：用例" %}}
+XSLFO（可扩展样式表语言格式对象）文件用于描述文档的布局和格式，因此在创建和管理格式化文本方面非常理想。然而，在处理动态数据时，像 LibreOffice Calc 这样的电子表格软件就变得至关重要了，以进行数据分析和数据可视化。
+
+将 XSLFO 文件转换为 sxc 格式是必要的，以充分发挥您在文件编辑和协作方面的潜力。这种转换使您能够：
+
+**用途：**
+
+*   **文档布局定制**：将 XSLFO 文件转换为 sxc 格式以自定义文档的布局、字体样式和图形，赋予企业或组织独特的视觉身份。
+*   **实时协作文档编辑**：使用 sxc 格式与其他人共享和实时编辑文档，确保所有人都在同一页，并减少版本冲突。
+*   **自动化文档格式化**：将 XSLFO 文件转换为 sxc 格式以自动应用样式和布局于大量文档或报告中。
+*   **数据驱动的内容创建**：使用 sxc 格式将外部数据源集成到文档中，创建实时更新的动态内容。
+*   **可访问性和包容性设计**：将 XSLFO 文件转换为 sxc 格式以提高文档的可访问性，通过将图像等多媒体元素的替代文字转换为可访问格式。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

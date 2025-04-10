@@ -106,7 +106,11 @@ otherformats: XLSM XLT XLS TSV XLTX DIF SXC XLAM XLTM XLSX XLSB ODS FODS MHTML E
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PPT 文件转换为 XLSB：用例" %}}
+将PPT文件转换为XLSB格式是解锁演示文稿和数据分析潜力的关键。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

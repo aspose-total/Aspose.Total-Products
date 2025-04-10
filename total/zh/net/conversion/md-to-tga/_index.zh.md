@@ -106,7 +106,23 @@ otherformats: IMAGE WMF TGA WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 TGA：用例" %}}
+将Markdown文件（.md）转换为TGA图像格式
+
+Markdown文件(.md)主要用于创建静态文本内容，如文档、教程和文章。然而，在处理图像时，像标签图像文件格式(TGA)这样的格式对于专业级图像编辑和操作至关重要。
+
+将MD文件转换为TGA格式是必要的，以充分发挥您在图像编辑和操作方面的潜力。此次转换使您能够：
+
+**应用场景：**
+
+* **数字摄影**：将MD文件转换以创建高质量图像、编辑和操作照片，并与他人分享。
+* **图形设计**：使用TGA创建详细的图形、标志、图标等视觉元素，以满足各种项目需求。
+* **医学成像**：将MD文件转换以分析医学成像数据、创建可视化效果并报告结果。
+* **科学可视化**：使用TGA来可视化复杂的科学数据，如3D模型、模拟结果和实验数据。
+* **数字艺术与插画**：将MD文件转换以创建交互式数字艺术作品、动画和插画，以满足多个平台的需求。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

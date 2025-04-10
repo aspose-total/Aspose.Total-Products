@@ -106,7 +106,19 @@ otherformats: XLTM DIF XLAM XLTX SXC XLSB XLT TSV EXCEL FODS TXT ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 SXC：用例" %}}
+将MD文件转换为SXC格式是为了充分发挥文档的布局、设计和格式能力。这一转换使你能够:
+
+**用途：**
+
+*   **文档布局优化**：将MD文件转换以创建专业外观的文档，调整边距并保持字体一致性。
+*   **设计一致性**：使用SXC确保品牌指南在文档中一致应用，从而维持统一的视觉身份。
+*   **协作增强**：将MD文件转换以便于实时协作，使团队成员能够同时查看、编辑和提供反馈意见。
+*   **打印准备性文档**：利用SXC格式创建精确布局、准确颜色和高分辨率图像的打印准备文档，减少打印错误。
+*   **数字文档出版**：将MD文件转换以发布带有交互元素（如超链接、动画和多媒体内容）的数字版本文档。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

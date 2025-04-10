@@ -118,7 +118,21 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 TIFF：用例" %}}
+OFT（对象文件格式）文件用于存储3D模型信息，是创建详细模型和设计的理想选择。然而，在视觉化和演示中，TIFF（标签图像文件格式）变得至关重要，因为它能显示高质量图片。
+
+将OFT文件转换为TIFF格式是必要的，以充分发挥你的视觉化和演示能力。这一转换使你能够：
+
+**用途：**
+
+* **建筑与工程可视化**：将OFT文件转换为TIFF格式以显示详细的建筑模型、建筑设计和施工计划。
+* **产品渲染与动画**：使用TIFF格式来可视化3D产品模型，创建动画并展示设计概念。
+* **医疗成像与诊断分析**：将OFT文件转换为TIFF格式以查看医疗成像数据，分析患者信息并支持诊断决策。
+* **科学可视化与研究**：使用TIFF格式显示复杂的科学数据，如3D模拟、实验结果和可视化内容。
+* **营销与广告视觉化**：将OFT文件转换为TIFF格式以创建交互式演示、产品展示和营销材料。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

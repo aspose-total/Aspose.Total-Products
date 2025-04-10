@@ -115,7 +115,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 TEX 文件转换为 PS：用例" %}}
+将TEX文件转换为PS格式是为了充分发挥您文档出版和打印功能的潜力。这种转换使您能够:
+
+**用途:**
+
+*   **学术出版**: 将TEX文件用于在学术期刊和会议上发表研究论文、硕士论文和博士论文。
+*   **书籍印刷**: 使用PS格式创建专业看起来的印刷出版物，如书籍、杂志和新闻简报。
+*   **技术文档的创建**: 将TEX文件转换为生成用户手册、指南和技术规格说明书，用于各行各业。
+*   **艺术表达**: 使用PS格式制作高质量的绘画、插图和图形，可进行打印或数字显示。
+*   **保存和存档**: 将TEX文件转换为长久的数字存档，保存历史性文件、文本和多媒体内容。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

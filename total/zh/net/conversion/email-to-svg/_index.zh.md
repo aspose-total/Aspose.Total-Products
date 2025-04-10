@@ -78,7 +78,21 @@ document.Save("output.svg", SaveFormat.Svg);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EMAIL 文件转换为 SVG：用例" %}}
+电子邮件文件用于存储基于文本的消息，因此在创建定制化通信和新闻简报方面非常理想。然而，当处理视觉内容时，像SVG（可缩放向量图形）这样的图片就变得至关重要，以实现有效的沟通和品牌建设。
+
+将电子邮件文件转换为SVG格式是必要的，以充分发挥你在视觉通信和品牌方面的潜力。这种转换使你能够：
+
+**应用场景：**
+
+* **品牌与Logo**：将电子邮件模板转换以创建可缩放、基于向量的logo和品牌资产，使其在各种媒介上保持一致性。
+* **信息图表与视觉化**：使用SVG来可视化数据，创建交互式信息图表，并以清晰简洁的方式呈现复杂信息。
+* **网络与移动设计**：将电子邮件新闻-letter转换以创建响应式、基于向量的网络和移动设计，使其能够无缝适应不同屏幕尺寸和设备。
+* **社交媒体与营销材料**：使用SVG创建可缩放的社交媒体图标、图像和广告物料，以在各种平台上保持品牌一致性。
+* **电子商务与在线商店**：将电子邮件模板转换以创建交互式、基于向量的产品图像，模拟3D产品并展示详细产品信息。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

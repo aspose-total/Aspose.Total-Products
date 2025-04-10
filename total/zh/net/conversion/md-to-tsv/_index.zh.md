@@ -106,7 +106,21 @@ otherformats: FODS EXCEL XLSM DIF XLTX ODS TSV XLAM XLTM XLT TXT SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 TSV：用例" %}}
+**转换指南：**
+
+将Markdown文件（`.md`）转换为Tab Separated Values（`.tsv`）格式，是为了充分发挥您数据分析和可视化能力的关键步骤。这一转换使您能够：
+
+**应用场景：**
+
+*   **数据导入与导出**：将Markdown文件转换为.tsv格式，以实现与支持.tsv文件格式的其他工具和软件的无缝集成。
+*   **科学计算与研究**：使用.tsv格式导入和导出数据，从科学计算框架中进行更快捷、高效的分析。
+*   **文本分析与处理**：将Markdown文件转换为.tsv格式，以用于文本分析和处理任务，如情感分析和主题建模。
+*   **数据可视化与报告**：使用.tsv格式创建交互式仪表盘和报告，为利益相关者提供准确可靠的见解。
+*   **机器学习与人工智能**：将Markdown文件转换为.tsv格式，以用于机器学习模型训练和测试，实现更快捷、高效的开发。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

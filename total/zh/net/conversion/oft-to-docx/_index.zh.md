@@ -118,7 +118,17 @@ document.Save("output.docx", SaveFormat.Docx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 DOCX：用例" %}}
+**应用场景：**
+
+*   **项目提案分析**：将OFT文件转换为分析项目提案数据、跟踪进度并识别潜在问题。  
+*   **商业计划制定**：使用DocX工具来可视化商业计划数据，创建详细的财务预测，并验证战略假设。  
+*   **政策文件审查**：将OFT文件转换为审查政策文件数据，跟踪变更并分析合规性。  
+*   **税务申报**：使用DocX工具来准备税务申报，调和财务数据并确保准确性。  
+*   **资助申请评估**：将OFT文件转换为评估资助申请数据，评估资助资格并识别改进领域。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

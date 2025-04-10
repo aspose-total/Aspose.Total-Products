@@ -106,7 +106,19 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ DXF  EMZ PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 TEX 文件转换为 DXF：用例" %}}
+将TeX文件转换为DXF格式是解锁您设计潜力的必要步骤。这一转换使您能够:
+
+**用途:**
+
+*   **建筑建模**: 将TeX文件转换以创建精确的2D和3D建筑设计，允许准确绘图和可视化。
+*   **工程设计**: 使用DXF格式导入并编辑工程绘图，以确保与CAD软件的兼容性。
+*   **汽车设计**: 将TeX文件转换以创建详细的汽车设计，促进设计师与工程师之间的协作。
+*   **产品制造**: 使用DXF格式生成可打印的产品布局以减少错误并提高质量控制。
+*   **地理空间映射**: 将TeX文件转换以创建向量地图，这对于GIS分析、数据可视化和映射应用非常有用。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

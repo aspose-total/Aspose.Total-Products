@@ -106,7 +106,21 @@ otherformats: TGA PSD DXF WMF DICOM SVGZ JPEG2000 EMZ WMZ IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 DICOM：用例" %}}
+**案例:** 医疗文档（MD）文件用于存储医学影像数据，是创建详细的患者信息记录的理想选择。然而，在与放射科部门和医疗机构合作时，DICOM（数字化医学通信，Digital Imaging and Communications in Medicine）文件变得至关重要，以实现高效的图像共享和存储。
+
+将MD文件转换为 DICOM 格式是必要的，以充分发挥您的医疗影像能力。这种转换使您能够：
+
+**用途:**
+
+*   **医学图像共享**: 将 MD 文件转换为 DICOM 格式，共享医疗影像之间的医院、诊所和放射科医生之间，确保准确的诊断和治疗。
+*   **放射科部门管理**: 使用 DICOM 管理患者记录，跟踪图像订单，并优化工作流程。
+*   **图像存储与检索**: 将 MD 文件转换为 DICOM 格式以安全地存储医疗影像，使其在未来参考或分析时可用。
+*   **临床决策支持系统**: 使用 DICOM 将医学影像与临床决策支持系统集成，帮助医疗专业人员做出明智的决定。
+*   **法规合规**: 将 MD 文件转换为 DICOM 格式以满足法规要求，如 HIPAA，通过安全且符合规定的方式存储和共享医疗影像。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

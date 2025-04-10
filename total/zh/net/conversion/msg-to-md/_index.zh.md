@@ -78,7 +78,21 @@ document.Save("output.md", SaveFormat.Md);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MSG 文件转换为 MD：用例" %}}
+MSG（消息）文件用于存储纯文本信息，是发送简单消息和通知的理想格式。然而，当处理更结构化的数据时，Markdown 文件就变得不可或缺了，因为它们在格式化和展示信息方面提供了更多可能性。
+
+将 MSG 文件转换为 Markdown 格式是必要的，以充分发挥您对消息格式和展示的潜力。这项转换使您能够：
+
+**用途：**
+
+*   **博客文章格式**：将 MSG 文件转换为包含标题、段落和列表的格式化的博客文章。
+*   **邮件模板**：使用 Markdown 格式来制作邮件模板，使其易于发送专业看起来的消息。
+*   **聊天机器人消息**：将 MSG 文件转换为有趣的聊天机器人对话，使用 Markdown 格式显示聊天记录和回复。
+*   **技术文档编写**：使用 Markdown 格式撰写和格式化技术文档，包括指南、教程和用户手册。
+*   **社交媒体帖子**：将 MSG 文件转换为包含图片、链接和标签的格式化社交媒体帖子。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -78,7 +78,21 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MSG 文件转换为 PS：用例" %}}
+MSG (信息文件)用于存储基于文本的信息，适合创建简单的文本消息和电子邮件。然而，当处理多媒体数据时，PDF格式成为展示视觉吸引人的文档的必要选择。
+
+将MSG文件转换为PDF格式是实现您文档交付功能全潜力的必要步骤。这项转换使您能够：
+
+**用途：**
+
+*   **电商订单确认**：将MSG文件转换为专业看起来的订单确认，包括产品详细信息和配送信息。
+*     **医疗记录共享**：使用PDF交付敏感的医疗记录，确保安全且符合法规的数据交流。
+*   **活动邀请设计**：将MSG文件转换为吸引眼球的活动邀请函，包括RSVP信息和住宿详情。
+*   **技术手册分发**：使用PDF分发技术手册，为客户或终端用户提供易于阅读的文档。
+*   **新闻简报发布**：将MSG文件转换为视觉吸引人的新闻简报，包含公司更新、促销活动和行业见解。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

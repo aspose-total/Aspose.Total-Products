@@ -58,7 +58,21 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EPUB 文件转换为 PS：用例" %}}
+电子书（Electronic Publication，简称e-book）文件用于存储数字内容，是制作交互式书籍和出版物的理想选择。然而，在处理静态文档时，通用文档格式（Portable Document Format，PDF）成为保留和分发的关键。
+
+将电子书文件转换为PDF格式是必要的，以充分发挥您在保留和分发方面的功能。这一转换使您能够：
+
+**应用场景：**
+
+*   **保存历史文献**：将电子书文件转换为PDF，确保历史文献得到保存并保护好以供后代未来使用。
+*   **分发技术手册**：使用PDF格式分发技术手册、操作指南和文档，使其易于全球用户访问。
+*   **创建数字档案库**：将电子书文件转换为PDF，创建可以安全存储和检索的数字档案库。
+*   **为视障用户提供平等访问**：使用PDF使出版物对视障用户更具可访问性，确保信息获取的平等性。
+*   **与利益相关者共享**：将电子书文件转换为PDF，与利益相关者共享，以促进协作和决策-making。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

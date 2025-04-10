@@ -106,7 +106,21 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD DICOM IMAGE WMZ JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 DICOM：用例" %}}
+XPS（XML Paper Specification）文件用于存储位图图像信息，因此非常适合制作静态文档和图片。但当处理医学影像数据时，DICOM（Digital Imaging and Communications in Medicine，即数字医学成像与通信）文件就变得至关重要了，因为它们在图像可视化和分析中起着关键作用。
+
+将XPS文件转换为 DICOM 格式是必要的，以充分发挥您在医学影像数据可视化和分析方面的潜力。这种转换使您能够：
+
+**应用场景：**
+
+*   **放射学图像分析**：将 XPS 文件用于对 X 射线、CT 扫描和 MRI 等放射学图像进行诊断性分析。
+*   **医疗设备数据交换**：利用 DICOM 格式交换医疗设备数据，如患者记录和影像结果，之间的医疗服务提供者和设备制造商之间。
+*   **研发工作**：将 XPS 文件用于创建医疗设备的数字模型，模拟设备性能，并验证设计概念。
+*   **图像处理与增强**：利用 DICOM 格式对医学图像进行处理、去噪并提高图像质量。
+*   **数据存储与存档**：将 XPS 文件用于安全存储医疗图像和数据，符合监管要求。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

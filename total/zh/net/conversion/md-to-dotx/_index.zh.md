@@ -58,7 +58,19 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 DOTX：用例" %}}
+将 Markdown 文件（MD）转换为 DOTX（Microsoft Word XML）格式，有助于充分发挥您的文档出版和编辑功能。这种转换使您能够：
+
+**用途：**
+
+*   **技术写作与文档编写**：将 MD 文件转换为 DOTX 格式，创建易于阅读、可分享的文档，以满足技术受众，如用户手册、指南和产品文档。
+*   **博客文章与文章**：使用 DOTX 格式来格式化博客文章和文章，使其具有专业布局、标题和格式，使其更具吸引力和可读性。
+*   **演示与幻灯片展示**：将 MD 文件转换为 DOTX 格式，创建交互式幻灯片展示、演示和推销，适用于商务会议、产品发布会和营销活动。
+*   **手册与指南**：使用 DOTX 格式来格式化技术手册和指南，使其具有清晰的说明、图表和插图，更易于理解和遵循。
+*   **学术论文与期刊**：将 MD 文件转换为 DOTX 格式，创建格式规范的学术论文和期刊，以便在有声望的科学数据库中发表。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

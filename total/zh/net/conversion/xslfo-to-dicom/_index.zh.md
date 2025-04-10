@@ -106,7 +106,21 @@ otherformats: EMZ WMF SVGZ DXF DICOM IMAGE WMZ PSD JPEG2000 TGA
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 DICOM：用例" %}}
+XSLFO（可扩展样式表语言格式对象）文件用于存储布局信息，因此在创建打印就绪的文档方面非常理想。然而，在处理医学影像数据时，DICOM（数字化医学成像与通信在医学中的作用）文件变得至关重要，以便进行图像处理和分析。
+
+将XSLFO文件转换为 DICOM 格式是必要的，以充分发挥您在医学影像方面的能力。这种转换使您能够：
+
+**用途：**
+
+*   **图像处理和增强**：将 XSLFO 文件用于分析和增强医学影像，如胸片和乳腺摄影。
+*   **医疗设备集成**：使用 DICOM 格式将医疗设备与其他医疗系统集成，以实现实时监控和数据交换。
+*   **临床试验和研究**：将 XSLFO 文件用于可视化和分析临床试验数据，跟踪患者结果，并识别医学研究中的趋势。
+*   **影像引导治疗**：使用 DICOM 格式来提供放射治疗，跟踪治疗反应，并优化患者预后。
+*   **远程医疗和远程监控**：将 XSLFO 文件用于实现远程患者监护，确保数据传输的安全性，并简化临床决策过程。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

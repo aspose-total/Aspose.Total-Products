@@ -115,7 +115,21 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 WORDML：用例" %}}
+XPS（XML Paper Specification）文件用于存储位图信息，因此非常适合制作印刷就绪的文档。但在与交互式内容和网页应用进行工作时，WordML（微软Word标记语言）成为了必不可少的文档标记和渲染工具。
+
+将XPS文件转换为WordML格式是必要的，以充分发挥您的文档标记和渲染功能。这项转换使您能够：
+
+**用途：**
+
+*   **文档编辑和校对**：将XPS文件转换为WordML以进行编辑和校对，确保布局和格式的一致性和准确性。
+*   **网页内容分发**：使用WordML来分发网页内容，如文章、博客帖子等，以确保精确的标记和渲染。
+*   **印刷制作与排版**：将XPS文件转换为WordML以创建印刷就绪的布局，模拟纸张尺寸和方向，并优化图像的位置和分辨率。
+*   **可访问性与包容性设计**：使用WordML添加可访问性功能，如替代文本和描述性元数据，以确保文档对有残疾用户也能使用。
+*   **协作与版本控制**：将XPS文件转换为WordML以跟踪变更，协作与团队成员合作，并管理不同文档版本。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

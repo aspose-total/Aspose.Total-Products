@@ -118,7 +118,17 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 RTF：用例" %}}
+**用途:**
+
+*   **文档编辑与审阅**: 利用开放文档格式文件创建、编辑并审阅文档，实现精准的格式与布局控制，增强协作和生产力。
+*   **商业智能与报告生成**: 使用富文本格式文件分析业务绩效数据，生成报告并可视化关键指标，支持明智决策。
+*   **内容创建与管理**: 将开放文档格式文件转换为创建、管理并发布内容的工具，确保格式和布局的一致性与精准性。
+*   **技术文档与支持**: 使用富文本格式文件生成技术文档、用户手册及支持材料，为客户和利益相关者提供准确及时的信息。
+*   **表格与模板自动化**: 将开放文档格式文件转换为创建和分发表格及模板的工具，简化流程并减少人为错误。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

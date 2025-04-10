@@ -106,7 +106,17 @@ otherformats: TXT EXCEL DIF XLSB ODS FODS TSV XLSM XLT XLAM XLTM SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 DIF：用例" %}}
+**应用场景：**
+
+*   **协作工具**：通过将Markdown文件转换为DIF格式，解锁协作功能，使团队能够更加高效地共同参与项目和文档工作。
+*   **文档自动化生成**：利用DIF格式自动化生成文档，减少手动劳动并确保不同版本之间的一致性。
+*   **质量保证与测试**：将Markdown文件转换为自动化测试脚本，以减少错误并提高软件整体质量。
+*   **知识库管理**：使用DIF格式对知识库内容进行组织和结构化，使用户更容易查找信息，从而减少支持查询的数量。
+*   **内容生成与重用**：将Markdown文件转换为多种格式的新内容，如博客、文章或社交媒体帖子，以扩大内容的触达范围并提升互动效果。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

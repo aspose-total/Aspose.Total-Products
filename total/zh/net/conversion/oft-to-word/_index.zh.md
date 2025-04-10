@@ -118,7 +118,21 @@ document.Save("output.word", SaveFormat.Word);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 WORD：用例" %}}
+OTT (开放文本模板)文件用于存储文本信息，是创建文档、文章和报告的理想选择。然而，当与静态图形和插图进行工作时，PDF格式就变得至关重要，以便保留视觉内容。
+
+将OTT文件转换为PDF格式是必要的，以充分发挥您文档保存和呈现能力的潜力。这项转换使您能够：
+
+**用途：**
+
+*   **文档保存**：将OTT文件转换以保存文档、文章和报告，以便未来参考和存档。
+*   **数字出版**：使用PDF创建电子书籍、杂志和报纸，这些内容可以轻松在线分享和访问。
+*   **展示设计**：将OTT文件转换以创建交互式展示，添加视觉效果并对文本、图像和视频进行动画，以吸引观众。
+*   **图形设计**：使用PDF来可视化图形设计概念，模拟颜色变化并测试布局设计，以在最终艺术作品之前测试设计。
+*   **即时打印**：将OTT文件转换以创建即时打印产品，如名片、宣传册和传单，这些内容可以轻松在线定制和下单。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

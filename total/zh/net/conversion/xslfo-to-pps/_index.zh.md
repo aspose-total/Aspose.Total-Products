@@ -140,7 +140,21 @@ presentation.Save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 PPS：用例" %}}
+XSLFO（可扩展样式语言格式输出文件）用于存储格式化输出信息，是创建交互式和动态文档的理想选择。然而，在使用传统演示格式时，PowerPoint 演示文稿（.pps）成为必不可少的工具，以支持演示和基于幻灯片的内容。
+
+将 XSLFO 文件转换为 PowerPoint 演示文稿是必要的，以充分发挥您的文档设计和布局能力。这项转换使您能够：
+
+**应用场景：**
+
+*   **企业演示**: 将 XSLFO 文件用于创建吸引人的企业演示，包括公司标志、品牌信息和关键信息传达。
+*   **培训材料**: 利用 PowerPoint 视化复杂的培训内容、模拟和交互式教程。
+*   **营销材料**: 将 XSLFO 文件转换为令人印象深刻的营销材料，如手册、传单和销售单页。
+*   **技术文档**: 用 PowerPoint 视化复杂的技术数据，包括图表、图表和流程图。
+*   **公开演讲活动**: 将 XSLFO 文件用于创建精致的公开演讲演示，包括演讲笔记、手册和视觉辅助工具。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

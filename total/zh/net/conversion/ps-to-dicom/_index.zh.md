@@ -106,7 +106,23 @@ otherformats: TGA DICOM JPEG2000 IMAGE WMF PSD WMZ DXF EMZ SVGZ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PS 文件转换为 DICOM：用例" %}}
+**转换指南：**
+
+PS（Portable Sketcher）文件用于存储向量图形信息，是创建静态图形和插图的理想选择。但在处理医学成像数据时，DICOM（数字化医学成像与通信在医学中的应用）格式成为存储、共享和分析的关键。
+
+将PS文件转换为 DICOM 格式是必要的，以充分发挥您在医学成像方面的潜力。这种转换使您能够：
+
+**使用场景：**
+
+*   **医疗图像分析**：将 PS 文件用于分析医疗图像数据，跟踪患者进展，并识别诊断结果中的模式。
+*   **放射学报告与协作**：利用 DICOM 共享和比较放射学影像，以加速诊断和治疗。
+*   **医学设备集成**：将 PS 文件转换为与CT或MRI扫描仪等医疗设备的无缝数据交换。
+*   **研发与合作**：使用 DICOM 视化复杂的医疗研究数据，模拟临床试验，并验证新治疗方法。
+*   **临床试验与监管合规性**：将 PS 文件用于创建符合要求的临床试验数据集、报告和可视化图表，以便提交给监管部门。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

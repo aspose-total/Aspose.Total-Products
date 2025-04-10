@@ -115,7 +115,21 @@ document.Save("output.flatopc", SaveFormat.FlatOpc);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 FLATOPC：用例" %}}
+SVG（Scalable Vector Graphics，可缩放向量图形）文件用于存储向量图形信息，是创建可缩放的图形和插图的理想选择。然而，当处理位图数据时，Flat OPC等格式成为优化图像并进行压缩的关键。
+
+将 SVG 文件转换为 Flat OPC 格式是解锁您图像优化和压缩功能全能性的必要步骤。这一转换使您能够：
+
+**用途：**
+
+*   **网页设计优化**：将 SVG 文件转换为较小文件大小，改善页面加载时间，并提升用户体验。
+*   **印刷媒介准备**：使用 Flat OPC 优化用于印刷媒介的图像，减少文件大小并提高打印质量。
+*   **文档编辑和审阅**：将 SVG 文件转换为以 Adobe Acrobat 等工具更高效地编辑和审阅文档。
+*   **向量图形冗余数据移除**：消除不必要的向量图形数据，减少文件大小并改善图像性能。
+*   **数字资产管理**：使用 Flat OPC 对大型图像文件进行压缩和优化，从而简化数字资产管理。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

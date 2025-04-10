@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 CGM 文件转换为 DOT：用例" %}}
+将CGM文件转换为DOT格式...是必要的，以充分发挥您图表可视化和布局能力的潜力。通过此转换，您可以:
+
+**用途:**
+
+*   **图表可视化**: 将CGM文件转换为DOT格式，创建示意图、流程图和过程图，以展示数据点之间复杂关系的图表。
+*   **布局优化**: 使用DOT格式优化节点和边在图表中的排列方式，使其更易读且高效。
+*   **业务流程图表**: 将CGM文件转换为详细的业务流程图，突出工作流程、任务和决策点。
+*   **技术图表**: 使用DOT格式生成技术图表，如UML类图、数据流图和ER模型。
+*   **图表层次结构和结构**: 将CGM文件转换为图表，以建立清晰的层次结构，使其易于导航和理解。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

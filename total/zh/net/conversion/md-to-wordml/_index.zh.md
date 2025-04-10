@@ -58,7 +58,19 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 WORDML：用例" %}}
+Markdown 文件（MD）的转换为 WordML 格式是必要的，以充分发挥文档的表现和格式能力。这一转换使你能够：
+
+**用途：**
+
+* **技术写作与文档编写**：将 MD 文件转换为 WordML 格式以创建符合 Microsoft Office 要求的技术文档、用户手册和指南。
+* **商务沟通**：使用 WordML 格式生成兼容于 Microsoft Office 应用程序的商务报告、提案和演示文稿。
+* **学术出版**：将 MD 文件转换为 WordML 格式以提交用于同行评审和发表的学术论文和文章。
+* **营销与销售材料**：创建如宣传册、传单和销售单页等营销材料，展示产品信息和促销活动，以 WordML 格式制作。
+* **电子学习内容开发**：使用 WordML 格式创建教育内容、课程材料和培训文档，便于导入 Microsoft Office 应用程序。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

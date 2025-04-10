@@ -106,7 +106,21 @@ otherformats: SVGZ TGA JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PDF 文件转换为 TGA：用例" %}}
+PDF（便携文档格式）文件用于存储静态文档信息，使其成为分享和打印的理想格式。然而，当处理图像数据时，TGA（真视图像适配器）（TGA）成为了存储像素数据的必要格式。
+
+将 PDF 文件转换为 TGA 格式是解锁您图像分析能力的关键。这项转换使您能够：
+
+**用途：**
+
+*   **图像编辑和增强**：将 PDF 图像转换为分析像素值、进行图像增强以及调整亮度/对比度。
+*   **医疗影像分析**：使用 TGA 文件来视觉化医疗影像数据，如 X 射线扫描、CT 扫描和 MRI 扫描，以进行诊断和治疗计划。
+*   **科学图像处理**：将 PDF 图像转换为创建科学可视化、分析图像模式并验证结果。
+*   **游戏开发和图形**：使用 TGA 文件存储 2D 和 3D 图形数据、动画精灵并创建交互式游戏环境。
+*   **数据存档和压缩**：将 PDF 图像转换为 TGA 格式以供存档，减少存储空间同时保持图像质量。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

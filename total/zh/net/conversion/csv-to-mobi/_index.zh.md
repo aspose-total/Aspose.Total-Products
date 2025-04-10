@@ -78,7 +78,21 @@ document.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 CSV 文件转换为 MOBI：用例" %}}
+CSV（逗号分隔值）文件广泛用于存储和交换表格数据，是进行数据分析和处理的理想选择。然而，当涉及到多媒体内容时，EPUB（.mobi）电子书格式就变得尤为重要了，它在电子书出版和发行方面发挥着关键作用。
+
+将CSV文件转换为.mobi格式是充分发挥您数字书籍出版能力的必要步骤。这种转换使您能够：
+
+**使用场景：**
+
+*   **书籍出版与发行**：将CSV文件转换为创建交互式电子书、定制布局并添加多媒体内容。
+*   **数据新闻与研究**：使用.mobi文件发布研究成果，创建交互式数据可视化，并分享以数据为基础的故事。
+*   **电子学习与教育内容**：将CSV文件转换为开发交互式学习材料、测验和评估工具，以服务于教育目的。
+*   **数字出版平台**：使用.mobi格式将内容上传到流行的数字出版平台，如Amazon Kindle Direct Publishing或Apple Books。
+*   **可访问性与包容性设计**：将CSV文件转换为创建可访问格式的电子书，确保视力障碍的读者能够享用您的出版物。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

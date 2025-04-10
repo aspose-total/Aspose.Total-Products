@@ -58,7 +58,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 PS：用例" %}}
+将MD文件转换为PS格式是为了充分发挥您的桌面出版能力。这种转换使您能够:
+
+**用途:**
+
+*   **杂志排版设计**: 将MD文件转换以创建专业看起来的杂志排版，管理内容组织，并优化图片。
+*   **宣传册和传单开发**: 使用PS格式设计吸引眼球的宣传册、传单以及其他营销材料。
+*   **文档布局和格式设置**: 将MD文件转换以创建视觉上吸引人的文档，包括简历、证书等专业文档。
+*   **可打印的艺术作品和插图**: 使用PS格式创建复杂的可打印艺术作品、插图以及图形，以满足各种应用需求。
+*   **网页和在线内容发布**: 将MD文件转换以发布在线内容，包括文章、博客帖子等数字媒体。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

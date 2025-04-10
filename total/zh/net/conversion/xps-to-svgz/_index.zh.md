@@ -106,7 +106,21 @@ otherformats: TGA PSD IMAGE EMZ WMZ JPEG2000  WMF SVGZ DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 SVGZ：用例" %}}
+XPS（XML Paper Specification）文件用于存储位图图像信息，因此是创建静态文档和图像的理想选择。然而，在处理动态数据时，SVGZ（Scalable Vector Graphics Zip）文件变得至关重要，因为它们能够高效地存储和传输向量图形。
+
+将XPS文件转换为SVGZ格式是必要的，以充分发挥您在图形设计方面的潜力。这种转换使您能够：
+
+**应用场景：**
+
+*   **动态文档创建**：将XPS文件转换为SVGZ格式以创建动态文档，如交互式演示、报告和宣传册。
+*   **向量图形优化**：使用SVGZ来优化向量图形，减少文件大小而不降低质量，使其适合用于网络和移动应用。
+*   **图像压缩与分享**：将XPS文件转换为SVGZ格式以高效地进行图像压缩和在各种平台和设备上共享。
+*   **基于网的图形设计**：使用SVGZ创建友好网页的图形设计，确保其与在线内容管理系统无缝集成。
+*   **电子书和杂志出版**：将XPS文件转换为SVGZ格式以制作交互式电子书和杂志，增强读者的参与感和体验。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

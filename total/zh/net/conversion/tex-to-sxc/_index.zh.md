@@ -106,7 +106,21 @@ otherformats: ODS XLTM TXT FODS XLAM SXC EXCEL DIF TSV MD XLSM XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 TEX 文件转换为 SXC：用例" %}}
+TeX文件用于存储文档信息，非常适合用于创建静态文档和报告。然而，当处理动态数据时，SXC表格成为数据可视化和分析的重要工具。
+
+将TeX文件转换为SXC格式是必要的，以充分发挥您数据可视化和分析能力的潜力。这种转换使您能够：
+
+**应用场景：**
+
+* **文档分析**：将TeX文件转换以分析文档结构，跟踪变更并识别内容中的模式。
+* **报告生成**：使用SXC表格生成报告、可视化数据并创建交互式可视化，以便利决策者做出更好的决策。
+* **公式优化**：将TeX文件转换以优化数学公式、方程和表达式，使其更加高效和准确。
+* **数据整合**：使用SXC表格将TeX文件与其他数据源集成，创建多个文档和应用程序的统一信息视图。
+* **内容管理**：将TeX文件转换以管理文档内容、跟踪更新并自动化工作流程，以确保无缝协作和版本控制。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

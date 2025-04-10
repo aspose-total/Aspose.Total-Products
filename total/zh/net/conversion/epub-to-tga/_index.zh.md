@@ -106,7 +106,21 @@ otherformats: PSD DXF TGA IMAGE EMZ WMZ WMF JPEG2000 SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EPUB 文件转换为 TGA：用例" %}}
+EPUB（电子出版）文件用于存储数字内容，是制作书籍、文章等写作材料的理想格式。但当处理基于图像的数据时，TGA（Truevision TGA文件格式）等格式变得至关重要，以存储位图图形信息。
+
+将EPUB文件转换为TGA格式是为了充分发挥您在图像处理和分析方面的潜力。这种转换使您能够：
+
+**应用场景：**
+
+*   **图片编辑**：将EPUB文件转换以编辑图片，调整亮度、对比度和饱和度，并去噪。
+*   **艺术拼贴创作**：使用TGA格式创建拼贴，由多个图像组合，应用滤镜并调整色彩方案。
+*   **科学图像分析**：将EPUB文件转换以分析科学数据，如医学图像、卫星图像或天文观测结果，并提取相关信息。
+*   **游戏资产优化**：使用TGA格式优化游戏资产，包括纹理、精灵和其他图形元素，以提高性能和兼容性。
+*   **数字forensics分析**：将EPUB文件转换以分析数字证据，如图片、视频或文档，在forensics语境下提取相关信息。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

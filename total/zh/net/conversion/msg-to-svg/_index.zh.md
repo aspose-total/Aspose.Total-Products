@@ -78,7 +78,23 @@ document.Save("output.svg", SaveFormat.Svg);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MSG 文件转换为 SVG：用例" %}}
+**消息文件转换（MSG）**
+
+MSG 文件用于存储基于文本的信息，使其成为创建简单文本文档和消息的理想选择。然而，在处理动态内容时，图形用户界面（GUI）如 SVG 成为视觉表示的必要工具。
+
+将 MSG 文件转换为 SVG 格式是解锁您视觉表示和布局能力的关键。这一转换使您能够：
+
+**用途：**
+
+* **数字广告牌和宣传物料**：将 MSG 文件转换为动态数字广告牌、广告和促销材料。
+* **电子学习平台**：利用 SVG 可视化交互式电子学习内容、模拟和教程以吸引学生。
+* **移动应用开发**：将 MSG 文件转换为直观的移动应用用户界面、导航菜单和反馈机制。
+* **用户界面（UI）设计**：使用 SVG 设计并原型制作复杂的 UI 组件，如图标、按钮和布局。
+* **网络和桌面出版**：将 MSG 文件转换为视觉吸引人的网络和桌面内容，包括电子邮件新闻稿、宣传册和演示文稿。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

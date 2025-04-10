@@ -106,7 +106,19 @@ otherformats: ODS FODS MD XLSB TSV DIF XLAM EXCEL XLTM XLT XLTX XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 SXC：用例" %}}
+将svg文件转换为sxc格式是为了充分发挥您向量图形数据可视化和分析能力的最大潜力。这种转换使您能够:
+
+**用途:**
+
+*   **图形设计与插画**: 将svg文件用于创建专业级别的插画、标志和图标，以满足营销材料、网站和出版物的需求。
+*   **网页开发与用户体验优化**: 使用sxc进行设计响应式网页、交互式用户界面和移动应用程序，要求精确的向量图形。
+*   **印刷与媒体制作**: 将svg文件用于高质量的印刷品、宣传册和杂志，以实现复杂细节和对字体排版和布局的精准控制。
+*   **三维建模与动画**: 使用sxc创建复杂的三维模型、动画和特效，用于电影、视频游戏和建筑可视化等领域。
+*   **数据可视化与分析**: 将svg文件用于分析客户行为、追踪销售趋势、识别数据模式并可视化复杂的科学信息。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

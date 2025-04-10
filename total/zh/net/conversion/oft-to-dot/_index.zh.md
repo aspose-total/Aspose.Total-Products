@@ -118,7 +118,21 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 DOT：用例" %}}
+OTF（开放字体文件）用于存储字体信息，是设计字体和数字化经典字体的理想选择。然而，在使用现代设计应用时，EPS（包装后的PostScript格式）变得至关重要，以确保兼容性和可扩展性。
+
+将OTF文件转换为EPS格式是必要的，以充分发挥您的设计潜力。这种转换使您能够：
+
+**用途：**
+
+*   **Logo设计和品牌建设**：将OTF文件转换为向量logo，确保在各种媒介上呈现清晰度和可缩放性。
+*   **字体创作和Typography**：使用EPS数字化经典字体，优化字体渲染，并提升整体字体效果。
+*   **图形设计和插画**：将OTF文件转换为复杂的设计，模拟特效，并验证色彩配色方案。
+*   **数字出版和即打印**：使用EPS确保与各种打印格式兼容，从而生产高质量的印刷物品。
+*   **字体编辑和定制**：将OTF文件转换为编辑字体特性，如凸起、行距和连字符，以实现精准的字体设置。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

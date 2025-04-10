@@ -106,7 +106,17 @@ otherformats: XLAM XLTM ODS TSV XLT XLTX TXT XLSB SXC DIF EXCEL FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 FODS：用例" %}}
+**用途说明：**
+
+*   **产品文档分析**: 将Markdown文件转换为交互式产品文档，分析使用模式，识别改进领域。
+*   **知识库优化**: 使用FODS工具可视化并分析知识库数据，优化内容组织，衡量用户参与度。
+*   **文档生成与验证**: 将Markdown文件转换为自动化文档，校对内容准确性，确保企业内一致性。
+*   **内容战略与规划**: 通过FODS分析和可视化内容表现，指导策略决策，衡量内容投资回报率。
+*   **协作与沟通工具**: 将Markdown文件转换为协作工具，支持实时评论和反馈，改善团队沟通。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

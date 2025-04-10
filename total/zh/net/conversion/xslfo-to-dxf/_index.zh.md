@@ -106,7 +106,21 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 DXF：用例" %}}
+XSLFO（可扩展样式语言格式对象）文件用于存储布局信息，因此在创建格式化文档和出版物方面非常有用。但在处理3D建模和CAD数据时，DXF（绘图交换格式）成为数据交换和可视化的必需工具。
+
+将XSLFO文件转换为DXF格式是必要的，以充分发挥您在3D建模和CAD方面的潜力。这种转换使您能够：
+
+**应用场景：**
+
+* **CAD数据导入**：将XSLFO文件转换为DXF格式以导入布局信息、尺寸和注释到CAD软件中。
+* **2D-to-3D转换**：使用DXF将2D布局转换为3D模型，从而创建复杂的CAD设计。
+* **设计验证与验证**：将XSLFO文件转换为DXF格式以验证设计规格、确保符合标准，并检测CAD模型中的潜在错误。
+* **数据迁移与集成**：使用DXF将布局数据从旧系统迁移，集成到CAD软件中，并同步多个项目的数据。
+* **自动化设计生成**：将XSLFO文件转换为DXF格式以生成自动化设计模板，减少手动劳动并提高工程师和建筑师的生产力。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

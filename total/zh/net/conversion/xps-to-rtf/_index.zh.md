@@ -115,7 +115,21 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 RTF：用例" %}}
+XPS (XML Paper Specification) 文件用于存储位图图像信息，因此非常适合用于创建印刷物和数字杂志。然而，当处理基于文本的数据时，RTF（Rich Text Format，即富文本格式）就成为了文档编辑和格式化的必需工具。
+
+将 XPS 文件转换为 RTF 格式是必要的，以充分发挥您在文档编辑和格式化方面的能力。这种转换使得：
+
+**应用场景：**
+
+*   **文档编辑**：将 XPS 文件转换为 RTF 格式以编辑文件，添加页眉、页脚和水印。
+*   **书籍和宣传册设计**：使用 RTF 格式设计书籍和宣传册，自定义布局、字体样式和格式选项。
+*   **印刷物制作**：将 XPS 文件转换为 RTF 格式以创建印刷物，如传单、海报和目录。
+*   **基于文本的文档自动化**：使用 RTF 格式来自动化基于文本的文档任务，例如数据插入和格式更新。
+*   **PDF 和 RTF 的互操作性**：将 XPS 文件转换为 PDF 文件以包含可编辑的文本内容，从而促进协作和版本控制。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

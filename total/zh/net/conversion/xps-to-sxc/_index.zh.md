@@ -106,7 +106,21 @@ otherformats: XLAM TSV FODS XLTM XLSB TXT XLT SXC XLSM DIF ODS XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XPS 文件转换为 SXC：用例" %}}
+XPS (XML Paper Specification) 文件用于存储位图图像信息，因此它们非常适合创建静态文档和图像。然而，当处理动态数据时，电子表格软件如 LibreOffice Calc 成为数据可视化和分析的必需工具。
+
+将 XPS 文件转换为 SXC (OpenDocument Spreadsheet) 格式是必要的，以释放您数据可视化和分析潜力。这项转换使您能够：
+
+**用途：**
+
+*   **商业智能分析**：将 XPS 文件用于分析企业性能、跟踪关键指标并识别数据趋势。
+*   **数据驱动决策制定**：使用 LibreOffice Calc 可视化销售数据、创建预测模型并优化战略。
+*   **市场研究与分析**：将 XPS 文件转换以创建交互式市场研究报告、模拟客户行为并验证营销假设。
+*   **财务报告与规划**：使用 LibreOffice Calc 创建财务模型、跟踪支出并预测收入。
+*   **科学计算与建模**：将 XPS 文件转换以创建计算模型、可视化仿真结果并分析实验数据。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

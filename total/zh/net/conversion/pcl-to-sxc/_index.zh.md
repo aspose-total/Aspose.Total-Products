@@ -106,7 +106,21 @@ otherformats: FODS DIF MD ODS XLTM SXC EXCEL XLAM XLTX XLSM TSV TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PCL 文件转换为 SXC：用例" %}}
+PLC (可编程逻辑控制器)文件用于存储工业控制信息，因此非常适合创建自动化解决方案和优化流程。然而，当处理非工业数据时，电子表格软件如SXC就变得至关重要，用以进行数据可视化和分析。
+
+将PLC文件转换为SXC格式是必要的，以充分发挥您的数据可视化和分析能力。这一转换使您能够：
+
+**应用场景：**
+
+*   **供应链优化**：通过将PLC文件转换为SXC格式，分析生产计划、跟踪库存水平并识别供应链中的瓶颈。
+*   **制造过程改进**：使用SXC进行制造数据的可视化，优化生产流程，并衡量设备效率。
+*   **能源管理**：将PLC文件转换为SXC格式，以创建能源使用模型、模拟建筑性能并验证节能策略。
+*   **质量控制与保证**：通过SXC分析质量控制数据，跟踪缺陷并识别制造过程中的改进点。
+*   **数据报告和仪表盘化**：将PLC文件转换为SXC格式，以创建交互式仪表盘、报告和可视化工具，使利益相关者能够做出更明智的决策。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

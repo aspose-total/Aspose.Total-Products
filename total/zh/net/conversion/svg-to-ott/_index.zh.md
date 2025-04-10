@@ -115,7 +115,25 @@ document.Save("output.ott", SaveFormat.Ott);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 OTT：用例" %}}
+将 SVG 文件转换为 OTT 格式是为了充分发挥数据可视化和分析的潜力。以下是详细步骤说明：
+
+1. **识别需求**：明确需要将 SVG 转换为 OTT 的具体原因，例如是否用于与支持 OTT 格式的数据可视化工具集成，或是为了在办公文件中整合图形以便于协作和编辑。
+
+2. **研究工具**：查找能够同时支持 SVG 和 OTT 格式的工具、库或在线服务。可以使用特定的转换工具或编程库（如 Python 的 `libreoffice` 或 `pywin32`）来实现这一目标。
+
+3. **测试文件**：从小规模的 SVG 文件开始进行测试，确保在转换过程中图形元素、文本和图片都能准确无误地呈现。检查 OTT 文件中的元数据是否完整，包括绘图信息、层次结构等。
+
+4. **解决问题**：如果在转换过程中发现任何问题，如文本不正确或图像缩放失效，需要及时修复。可以通过调整格式设置或修改代码来解决这些问题。
+
+5. **实施方法**：根据测试结果选择合适的转换方法。如果使用脚本处理多个文件，可以编写自动化脚本以提高效率。
+
+6. **验证功能**：确保转换后的 OTT 文件在主要应用程序中正常运行，包括打开、编辑和保存功能。特别是要注意图像是否按比例缩放，以及文本是否正确显示。
+
+通过以上步骤，您可以有效地将 SVG 文件转换为 OTT 格式，并确保最终文件的质量和兼容性。这对于创建交互式报表或仪表盘尤其有用，方便用户在办公环境中轻松编辑和更新可视化内容。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

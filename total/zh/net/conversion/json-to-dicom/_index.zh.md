@@ -106,7 +106,21 @@ otherformats: DICOM IMAGE SVGZ TGA WMZ WMF PSD EMZ DXF JPEG2000
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 JSON 文件转换为 DICOM：用例" %}}
+JSON文件在应用间数据交换中因其轻量级和易解析的特点而广泛使用。然而，在处理医学影像数据时，DICOM（数字化医学图像通信与医学）成为了更为倾向的标准。
+
+将JSON文件转换为DICOM格式对于充分发挥您医疗影像数据能力至关重要。这一转换使您能够：
+
+**应用场景：**
+
+*   **医学影像分析**：将JSON文件转换为 DICOM 格式以分析医学影像数据、分割肿瘤并检测异常。
+*   **图像处理与增强**：利用 DICOM 格式来提高图像质量，去噪和进行图像修复技术。
+*   **放射学报告与工作流程**：将JSON文件转换为 DICOM 格式以创建标准化报告、生成处方并自动化放射科部门的工作流程。
+*   **医疗设备集成**：利用 DICOM 格式将医疗设备与电子健康记录（EHR）系统集成，以实现实时患者监测和数据交换。
+*   **临床试验管理**：将JSON文件转换为 DICOM 格式以管理临床试验、收集患者数据并分析结果，使用标准化的 DICOM 吻合格式。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

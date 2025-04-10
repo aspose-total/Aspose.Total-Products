@@ -78,7 +78,19 @@ document.Save("output.epub", SaveFormat.Epub);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EML 文件转换为 EPUB：用例" %}}
+电子邮件（EML）文件用于存储基于文本的信息，使其成为个人通信和协作的理想选择。然而，在处理结构化数据和多媒体内容时，电子出版物（EPUB）格式变得对于数字出版和分发至关重要。
+
+**用途：**
+
+* **数字出版**：将EML文件转换为创建交互式数字出版物、杂志和新闻简报，使其在各种设备上可用。
+* **电子书制作**：使用EPUB将EML文件转换为电子书，适合在电子书阅读器、平板电脑和智能手机上阅读。
+* **博客文章发布**：将EML文件转换为以结构化格式发布博客文章，提高可发现性和可访问性。
+* **研究文章**：使用EPUB将EML文件转换为研究文章，使其易于分享和引用。
+* **文档协作**：将EML文件转换为可编辑的文档，共享给他人，以促进协作和反馈。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

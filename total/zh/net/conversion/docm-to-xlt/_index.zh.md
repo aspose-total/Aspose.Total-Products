@@ -106,7 +106,19 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 DOCM 文件转换为 XLT：用例" %}}
+DOCM 文件向 XLT 格式的转换是为了解锁文件编辑和分析功能的全力以赴。这一转换使您能够：
+
+**用途：**
+
+*   **文档协作**：将 DOCM 文件转换为分析协作数据、追踪文件修订版本并识别文档使用模式。
+*   **内容优化**：利用 XLT 可视化内容指标，优化文件策略并衡量参与度。
+*   **模板开发**：将 DOCM 文件转换为创建交互式模板设计、模拟用户体验并验证模板概念。
+*   **文档自动化**：使用 XLT 自动化文件格式，确保一致性并简化工作流程。
+*   **数据报告与仪表盘**：将 DOCM 文件转换为创建交互式仪表盘、报告和可视化工具，以便利决策者做出更好的决策。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

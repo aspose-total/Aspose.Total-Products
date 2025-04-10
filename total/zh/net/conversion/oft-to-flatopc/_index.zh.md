@@ -118,7 +118,26 @@ document.Save("output.flatopc", SaveFormat.Flatopc);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 FLATOPC：用例" %}}
+**用途：**
+
+* **游戏开发**：将OFT文件转换以解锁游戏开发功能，实现以下功能：
+    * **角色动画与建模**：利用OFT文件创建3D模型，animate角色并模拟真实的移动。
+    * **场景设计与原型制作**：将OFT文件转换用于创建交互式场景设计，测试原型并优化游戏机制。
+    * **特效与仿真**：使用OFT文件生成真实的特效、仿真和环境交互。
+
+* **建筑与施工**：将OFT文件转换以提升建筑设计、施工和项目管理流程，实现以下功能：
+    * **建筑信息模型（BIM）**：利用OFT文件创建精确的3D建筑模型、家具和设备模型，以促进协作与数据交换。
+    * **场地规划与设计**：将OFT文件转换用于视觉化场地规划，设计景观并优化建筑布局以提高效率。
+    * **施工管理与进度计划**：使用OFT文件管理施工项目，跟踪进度并识别潜在延误或成本超支。
+
+* **电影与电视制作**：将OFT文件转换以简化视觉特效、动画和后期制作流程，实现以下功能：
+    * **视觉特效与动态图形**：使用OFT文件创建复杂的视觉特效、动画和动态图形，使故事情节更生动。
+    * **角色动画与设计**：将OFT文件转换用于高效且真实地设计并animate角色。
+    * **后期制作与色彩grading**：使用OFT文件提升色彩grading，添加视觉特效并完成电影的后期工作。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,19 @@ document.Save("output.pdf", SaveFormat.Pdf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 PDF：用例" %}}
+将ODF（开放文档格式）文件转换为PDF格式是为了充分发挥您在文档共享和协作方面的潜力。这种转换使您能够：
+
+**用途：**
+
+* **学术研究合作**：将ODF文件用于分析研究数据、跟踪进展并识别协作模式。
+* **商业文档自动化**：使用PDF创建标准化商业文档、自动化工作流程并减少错误。
+* **政府政策制定**：将ODF文件转换以制定有依据的政策决策、与利益相关者协作并分享知识。
+* **教育和培训材料**：使用PDF提供交互式学习体验、跟踪学生进度并验证学习成果。
+* **非营利组织出版物**：将ODF文件转换以创建可分享的出版物、分发信息并吸引受众。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

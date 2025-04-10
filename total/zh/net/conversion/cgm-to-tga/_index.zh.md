@@ -57,7 +57,21 @@ otherformats: EMZ TGA SVGZ IMAGE WMF  JPEG2000 WMZ DXF PSD DICOM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 CGM 文件转换为 TGA：用例" %}}
+将CGM（计算机图形元文件）文件转换为TGA（Truevision TGA图像文件格式），可以打开一片创意的新世界，使其成为各种应用的理想选择。然而，当处理动态内容时，像GIMP这样的图像编辑器就变得不可或缺了，以进行编辑和操作。
+
+将CGM文件转换为TGA格式是为了解锁您编辑能力的全部潜力。这项转换使您能够：
+
+**用途：**
+
+*   **图片编辑**：将CGM文件转换为编辑图像，调整亮度、对比度和饱和度。
+*   **图形设计**：使用TGA创建和操作图形、标志、图标等视觉元素。
+*   **数字绘画**：将CGM文件用于数字绘画，创作色彩丰富的艺术作品并应用多种效果。
+*   **建筑可视化**：使用TGA来可视化3D模型，创建具有摄影现实感的图像，以供建筑师、设计师和建造者使用。
+*   **医疗成像分析**：将CGM文件转换为用于医疗成像分析，详细检查器官、组织和细胞的图像。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

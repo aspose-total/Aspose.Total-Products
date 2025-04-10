@@ -106,7 +106,21 @@ otherformats: FODS TSV XLSB XLAM MD XLT SXC XLSM DIF XLTX XLTM TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 MD：用例" %}}
+XSLFO（可扩展样式语言格式对象文件）用于定义文档的布局和呈现方式，是创建结构化文档和出版物的理想选择。然而，当处理动态内容时，Markdown（MD）成为必不可少的文本格式化和组织工具。
+
+将XSLFO文件转换为Markdown格式是必要的，以充分发挥您的文档结构和呈现方式能力的潜力。这项转换使您能够：
+
+**用途：**
+
+*   **出版物制作**：将XSLFO文件转换为创建交互式电子书、文章和具有可定制布局和格式的出版物。
+*   **文档模板化**：使用Markdown生成一致且专业看起来的文档，包含结构化内容和样式。
+*   **网络内容创作**：将XSLFO文件转换为动态网页，包含格式化文本、图像和多媒体内容。
+*   **技术写作**：使用Markdown撰写并格式化技术文档，如用户手册、指南和教程。
+*   **数字出版物制作**：将XSLFO文件转换为创建可定制布局和格式的交互式数字杂志、报纸和出版物。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ otherformats: TGA WMZ IMAGE JPEG2000 SVGZ EMZ  WMF DXF PSD DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 EMZ：用例" %}}
+XSLOFO（Extensible Style Sheet Formatting Object）文件用于定义XML文档的布局和结构，是创建动态和交互式内容的理想选择。然而，当与像图像这样的位图图形进行工作时，XSLOFO文件因其基于向量的性质而效果不佳。
+
+将XSLOFO文件转换为EMZ（Encapsulated Metafile）格式是必要的，以充分发挥您在图片编辑和操作方面的能力。这种转换使您能够：
+
+**使用场景：**
+
+*   **图像编辑**：将XSLOFO文件用于编辑图像、处理图形并创建复杂视觉效果。
+*   **位图图形创建**：利用EMZ生成高质量的位图图形，适用于打印、屏幕显示或网络使用。
+*   **图形设计与布局**：将XSLOFO文件转换为交互式图形设计、布局和组合。
+*   **文档转换与发布**：利用EMZ将XSLOFO文件转换为可打印的文档、新闻简报或其他媒体格式。
+*   **协作与工作流程**：将XSLOFO文件转换为分享图形、跟踪变更并在设计项目中协作。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,21 @@ document.Save("output.epub", SaveFormat.Epub);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EMAIL 文件转换为 EPUB：用例" %}}
+电子邮件文件用于存储基于文本的信息，非常适合创建定制化的通信和新闻简报。然而，当处理多媒体内容时，电子出版（EPUB）格式成为数字出版和书籍分发的重要工具。
+
+将电子邮件文件转换为 EPUB 格式是必要的，以充分利用您的数字出版能力。这一转换使您能够：
+
+**用途：**
+
+*   **定制化电子新闻简报**：将电子邮件文件转换为定制化的电子新闻简报，带有订阅者姓名和兴趣。
+*   **数字杂志出版**：使用 EPUB 格式发布杂志、报纸和期刊，使其在各种设备上易于阅读。
+*   **电子书出版**：将电子邮件文件转换为富有交互性的电子书，包含超链接、图片和多媒体内容。
+*   **企业通信**：使用 EPUB 分布公司报告、政策和程序，使其可供员工和利益相关者访问。
+*   **数字内容分发**：将电子邮件文件转换为发布在各种平台上的数字内容，如博客文章、文章和视频。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

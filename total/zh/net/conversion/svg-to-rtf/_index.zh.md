@@ -115,7 +115,21 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 RTF：用例" %}}
+SVG（可缩放向量图形）文件用于存储向量图形信息，非常适合创建静态图形、插图和标志。然而，当处理动态数据时，富文本格式（RTF）文件成为发布和分享内容的重要工具。
+
+将 SVG 文件转换为 RTF 格式是必要的，以充分发挥您的发布和分享功能。这种转换使您能够：
+
+**用途：**
+
+*   **Logo 和标志发布**：将 SVG 文件转换为 RTF 文件以创建专业看起来的 logo、标志和图形。
+*   **网络内容分享**：使用 RTF 格式发布包含基于 SVG 的图形的网页内容，如文章、博客帖子和社交媒体更新。
+*   **文档模板和样式表**：将 SVG 文件转换为可重用 RTF 格式的文档模板和样式表。
+*   **可访问性和屏幕阅读器集成**：使用 RTF 格式提高可访问性，将基于 SVG 的图形转换为可以供屏幕读取器读取的文字格式。
+*   **图形设计和编辑**：将 SVG 文件转换为与 Adobe Illustrator 或 Inkscape 等图形设计软件兼容的 RTF 模板。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

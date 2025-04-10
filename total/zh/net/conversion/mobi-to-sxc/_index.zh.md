@@ -106,7 +106,21 @@ otherformats: XLTM XLSM TSV FODS XLSX XLS XLSB DIF EXCEL ODS XLAM XLTX SXC XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MOBI 文件转换为 SXC：用例" %}}
+将 Mobi 文件转换为 SXC 格式是解锁设计潜力的关键。
+
+将 Mobi 文件转换为 SXC 格式是解锁您设计能力的关键。这一转换使您能够：
+
+**应用场景：**
+
+*   **电子书出版**：将 Mobi 文件转换为 SXC 格式以创建专业看起来的电子书，优化印刷前排版和格式，以适用于即时印刷服务。
+*   **设计协作**：使用 SXC 共享设计与同事和利益相关者，确保反馈和修订循环无缝进行。
+*   **印刷就绪文件**：将 Mobi 文件转换为 SXC 格式以生产适用于offset印刷、精装书籍等类型的印刷材料。
+*   **数字资产管理**：将设计资产存储在一个平台上，使用 SXC 作为标准文件格式，以简化工作流程并提高资产发现性。
+*   **品牌和身份**：将 Mobi 文件转换为 SXC 格式以创建一致的品牌材料，如名片、信笺和宣传册。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

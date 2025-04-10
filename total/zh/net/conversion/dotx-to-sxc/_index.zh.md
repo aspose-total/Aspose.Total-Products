@@ -106,7 +106,17 @@ otherformats: FODS XLS TSV XLSM ODS EXCEL SXC XLAM DIF XLSB XLSX XLT XLTX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 DOTX 文件转换为 SXC：用例" %}}
+**应用场景：**
+
+*   **产品设计与开发**：将SXC文件用于分析产品设计数据，模拟用户体验，并验证设计概念。
+*   **科学可视化**：利用SXC对复杂的科学数据进行可视化，如3D模型、仿真结果和实验数据。
+*   **数据报告与仪表盘**：将SXC文件转换为交互式仪表盘、报告和可视化工具，以便利决策者做出更好的决策。
+*   **营销活动优化**：使用SXC来可视化营销活动数据，优化策略并衡量ROI。
+*   **客户行为分析**：将SXC文件用于分析客户行为，追踪销售趋势，并识别数据中的模式。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

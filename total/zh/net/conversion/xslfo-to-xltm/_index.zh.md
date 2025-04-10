@@ -106,7 +106,11 @@ otherformats: MD TSV XLTM XLSB XLAM XLT DIF SXC XLTX FODS TXT ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 XSLFO 文件转换为 XLTM：用例" %}}
+XSLFO（可扩展样式语言格式对象）文件用于定义XML文档的结构、布局和视觉外观，使其成为创建格式化文档的理想选择，但在处理动态内容时，如Microsoft Word这样的XLTMs（如Word）成为编辑和发布所必需。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

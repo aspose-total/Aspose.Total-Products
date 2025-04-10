@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EPUB 文件转换为 DOT：用例" %}}
+将 EPUB 文件转换为 DOT 格式是充分发挥您图表化能力的关键。
+
+EPUB 文件到 DOT 格式的转换对于以下用途至关重要：
+
+* **技术文档生成**：通过将 EPUB 文件转换为 DOT 格式，创建详细且视觉吸引人的技术文档，如用户手册和操作指南。
+* **学术研究报告制作**：使用 DOT 格式可视化复杂的研究数据，制作用于发表的图表，并与同事和同行分享研究成果。
+* **营销传播材料设计**：将 EPUB 文件转换为 DOT 格式以创建吸引眼球的营销材料，如宣传册、传单和演示文稿。
+* **业务流程图绘制**：使用 DOT 格式创建详细的业务流程图，展示复杂的商业操作，并突出改进的领域。
+* **图形叙事**：将 EPUB 文件转换为 DOT 格式以制作引人入胜的图形叙事，通过图表将您的思想付诸纸上。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

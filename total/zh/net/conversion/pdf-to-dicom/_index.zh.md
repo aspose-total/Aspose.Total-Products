@@ -106,7 +106,23 @@ otherformats: WMZ JPEG2000 SVGZ WMF TGA PSD DXF DICOM EMZ IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PDF 文件转换为 DICOM：用例" %}}
+PDF（便携文档格式）文件用于存储固定布局文档，因此它们是创建静态报告、手册和演示文稿的理想选择。然而，在处理医学影像数据时，DICOM（数字化医学通信与计算机系统）文件变得至关重要，因为它们用于存储和管理患者信息。
+
+将PDF文件转换为DICOM格式是必要的，以充分发挥您在医疗影像数据管理方面的潜力。这种转换使您能够：
+
+**用途：**
+
+*   **图像分析**：将PDF文件转换以分析医学影像，如X射线、CT扫描和MRI，提取诊断信息。
+*   **患者记录管理**：使用DICOM存储和管理患者记录，包括医疗史、治疗计划和影像结果。
+*   **放射学报告生成**：将PDF文件转换以生成放射学报告，包括图像、测量和诊断，以支持临床决策。
+*   **医学研究与开发**：使用DICOM分析大量医疗影像数据，促进对新治疗和诊断技术的研究。
+*   **图像存储与检索**：将PDF文件转换以高效存储和检索医学影像，确保关键患者信息能够及时访问。
+
+注意：我以相同的模式撰写了从源格式（PDF）到目标格式（DICOM）的文本。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

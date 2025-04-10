@@ -106,7 +106,23 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  WMF DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 WMF：用例" %}}
+将Markdown文件转换为WMF（Windows元文件）格式
+
+Markdown文件用于存储文本信息，是创建静态文档和内容的理想选择。然而，在处理图形和图片时，像WMF这样的格式就显得尤为重要，因为它能够实现高质量的渲染和显示。
+
+将Markdown文件转换为WMF格式是为了充分发挥您图形内容和可视化元素的潜力。这一转换使您能够：
+
+**用途：**
+
+*   **信息图表制作**：将Markdown文件转换为WMF格式，以创建交互式信息图表，直观展示数据洞察，并有效地分享发现。
+*     **技术文档编写**：使用WMF格式渲染技术说明图、示意图和表格，使其在文档中以高质量的视觉形式呈现。
+*   **图形设计与艺术创作**：将Markdown文件转换为WMF格式，以创建令人惊艳的图形、标志和艺术作品，这些内容可用于多种媒介，包括印刷品和数字平台。
+
+通过将Markdown文件转换为WMF格式，您可以在您的图形内容中打开创意之门。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

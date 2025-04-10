@@ -58,7 +58,19 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EPUB 文件转换为 RTF：用例" %}}
+将EPUB文件转换为RTF格式：解锁文档编辑功能的全潜力。
+
+**用途：**
+
+* **文档审阅与编辑**：将EPUB文件转换为RTF以便于与同事或客户协作。
+* **可访问性优化**：通过RTF转换字体、格式和布局，提升文档可读性。
+* **与旧有软件的兼容性**：将EPUB文件转换为RTF，以支持仅支持RTF格式的旧有软件，确保工作流程不受影响。
+* **生成电子书**：将EPUB文件转换为RTF以创建定制化电子书，添加书签、超链接和注释等功能。
+* **发布与分发**：使用RTF格式分发文档，以触及更广泛的受众，他们可能更喜欢或需要RTF格式进行编辑和格式化。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

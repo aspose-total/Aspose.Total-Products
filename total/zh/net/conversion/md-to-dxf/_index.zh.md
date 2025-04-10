@@ -106,7 +106,27 @@ otherformats: JPEG2000 PSD WMF DXF IMAGE WMZ SVGZ EMZ TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MD 文件转换为 DXF：用例" %}}
+**用途：**
+
+*   **设计制造**：将MD文件转换为精确且准确的设计以满足生产规范，确保成品符合严格要求。
+
+*   **建筑建模**：使用DXF文件可视化建筑模型，与建筑师合作优化设计布局。
+
+*   **计算机辅助设计（CAD）**：将MD文件转换为DXF格式，以便在2D/3D设计中整合，并验证制造流程，提升产品开发效果。
+
+将MD文件转换为DXF格式是释放您设计能力的关键环节。通过这种转换，您可以：
+
+*   **提高设计精度**：确保模型精准无误，为制造提供可靠依据。
+
+*   **简化协作**：使用DXF文件与建筑师、工程师和制造商分享设计，减少沟通错误。
+
+*   **优化产品开发**：创建2D/3D设计文件，便于在CAD软件中导入，并验证制造流程以提升产品质量。
+
+通过将MD文件转换为DXF格式，您可以充分释放设计潜能，提高精度，简化协作，并优化产品开发。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

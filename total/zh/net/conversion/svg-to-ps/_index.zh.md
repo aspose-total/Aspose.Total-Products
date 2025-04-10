@@ -115,7 +115,21 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 PS：用例" %}}
+svg（可缩放向量图形）文件用于存储向量图形信息，是创建可缩放和灵活图形的理想选择。然而，在准备印刷材料时，ps 文件变得至关重要，以生产高质量、专业看起来的文档。
+
+将 svg 文件转换为 ps 格式是必要的，以充分发挥你的打印能力。这项转换使你能够：
+
+**用途：**
+
+*   **专业印刷设计**：将 svg 文件转换为专业级印刷设计，确保精准的颜色复制和准确的向量绘图。
+*   **宣传册和手册制作**：使用 ps 文件创建高质量的宣传册和手册，清晰的文字和图片完美适合营销材料和广告活动。
+*   **标签和路牌生产**：将 svg 文件转换为准确的标签设计、信号牌和其他需要精确向量图形的视觉元素。
+*   **包装设计**：使用 ps 文件生成印刷就绪的包装设计，包括logo、标签和品牌元素。
+*   **建筑可视化**：将 svg 文件转换为专业级建筑可视化，包括楼平图、楼高图和3D模型。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,21 @@ document.Save("output.image", SaveFormat.Image);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 IMAGE：用例" %}}
+OFT文件（向量图形信息存储文件）用于存储矢量图形数据，因此非常适合用于创建静态的图标和插图。但当处理动态数据时，像JPEG这样的图片格式对于视觉表示和分享变得至关重要。
+
+将OFT文件转换为JPEG格式是必要的，以充分发挥您的图像可视化和分享功能。这种转换使您能够：
+
+**用途：**
+
+*   **Logo设计与品牌定位**：将OFT文件转换为创建可缩放的logo、图标和品牌识别，方便在各种平台上共享。
+*   **信息图表制作**：使用JPEG进行数据可视化，创建吸引人的信息图表，并与更大范围的受众分享信息。
+*   **游戏开发与动画**：将OFT文件转换为2D图形、动画和特别效果，以用于游戏和交互式应用程序。
+*   **网络设计与UI元素**：使用JPEG集成向量图形到网页中，创建视觉吸引人的用户界面和体验。
+*   **印刷广告与宣传册**：将OFT文件转换为高质量图片，以用于印刷广告、宣传册和其他营销材料。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -140,7 +140,21 @@ document.Save("output.svg", SaveFormat.Svg);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 SVG：用例" %}}
+OFT（对象模板文件）文件用于存储2D和3D对象数据，是创建复杂模型和设计的理想选择。然而，在处理图形表示时，SVG（可缩放向量图形）格式变得至关重要，因为它们具有可缩放性、灵活性和可访问性。
+
+将OFT文件转换为SVG格式是必要的，以充分发挥您的设计能力。这一转换使您能够：
+
+**用途：**
+
+* **Logo设计与品牌识别**：将OFT文件转换为可缩放的logo、图标和图形，适用于跨平台使用。
+* **信息图表制作**：利用SVG进行数据可视化，创建交互式且吸引人的图表、图表和图表。
+* **3D建模与动画**：将OFT文件转换为2D表示，然后通过SVG进行动画，创建复杂的运动图形。
+* **UI/UX设计**：使用SVG创建响应式图标、按钮等交互元素，可在多种设备和平台上使用。
+* **游戏开发与模拟**：将OFT文件转换为2D或3D表示，然后通过SVG在游戏和模拟中进行集成。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

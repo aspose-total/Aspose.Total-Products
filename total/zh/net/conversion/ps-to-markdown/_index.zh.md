@@ -58,7 +58,21 @@ document.Save("output.markdown", SaveFormat.Markdown);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PS 文件转换为 MARKDOWN：用例" %}}
+**PS格式（Portable Document Format，缩写为PDF）文件主要用于存储位图图像信息，因此非常适合用于制作静态图片和文档。但当处理动态数据时，Markdown就成为了文档和演示的必需工具。
+
+将PS文件转换为Markdown格式是必要的，以充分发挥你在文档和演示中的潜力。这种转换使得你能够：
+
+**应用场景：**
+
+* **文档与博客写作**：通过将PS文件转换为Markdown，创建包含高质量图片和格式化内容的交互式文档、博客文章和技术说明。
+* **演示与幻灯片展示**：利用Markdown创建吸引人的演示、幻灯片展示和讲座，充分发挥基于文字格式的多样性。
+* **图片优化与压缩**：将PS文件转换为适合网络的格式，减少文件大小并提高页面加载速度，从而提升用户体验。
+* **内容管理与发布**：使用Markdown管理和发布内容，涵盖网站、博客以及社交媒体等多个平台。
+* **可访问性与包容性设计**：将PS文件转换为Markdown格式，确保你的文档和演示对更多人群都有可访问性，并符合包容性设计标准。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

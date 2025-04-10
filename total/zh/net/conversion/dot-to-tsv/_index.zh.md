@@ -106,7 +106,19 @@ otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF TSV XLSX ODS XLSB FODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 DOT 文件转换为 TSV：用例" %}}
+将 .Dot 文件格式转换为 TSV（Tab Separated Values，分隔符为制表符的文本文件）格式，是为了充分发挥数据导出功能的必要步骤。这种转换使得你可以：
+
+**用途：**
+
+* **数据导入与整合**：将 .Dot 文件转换为 TSV 格式，以便将数据导入其他应用程序，如数据库或业务智能工具中。
+* **业务智能报告**：使用 TSV 格式创建交互式报告、仪表盘和可视化图表，以便向利益相关者提供更清晰的决策支持。
+* **机器学习模型训练**：将 .Dot 文件转换为 TSV 格式，为机器学习模型训练提供数据输入，从而提高模型的准确性和效率。
+* **数据共享与协作**：将 .Dot 文件导出为 TSV 格式，以便与团队成员、合作伙伴或客户分享数据，促进协作和反馈。
+* **自动化脚本处理**：使用 TSV 格式来自动化数据处理任务，如数据清洗、转换和分析，利用编程语言如 Python 或 R 进行操作。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -140,7 +140,19 @@ document.Save("output.ott", SaveFormat.Ott);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PCL 文件转换为 OTT：用例" %}}
+将PCL文件转换为OTT格式是为了充分发挥您数据可视化和分析能力的潜力。这种转换使您能够：
+
+**应用场景：**
+
+* **建筑可视化**：将PCL文件转换为以分析建筑设计，跟踪施工进度并识别设计缺陷。
+* **产品开发**：使用OTT格式创建交互式3D模型，模拟产品性能，并验证工程设计。
+* **地理空间分析**：将PCL文件转换为可视化地理空间数据，如地形模型、基础设施网络和环境危险。
+* **机器人学和数控加工**：使用OTT格式分析并优化机器人的运动，模拟数控加工过程，并提高制造效率。
+* **医疗成像和手术规划**：将PCL文件转换为交互式3D模型，以进行手术规划、可视化医疗植入物以及放射治疗方案的制定。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

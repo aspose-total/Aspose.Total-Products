@@ -115,7 +115,19 @@ document.Save("output.markdown", SaveFormat.Markdown);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 TEX 文件转换为 MARKDOWN：用例" %}}
+将TeX文件转换为Markdown格式是解锁您文档编辑能力的全能性的必要手段。这种转换使你能够:
+
+**用途：**
+
+*   **学术研究出版**：将TeX文件转换以创建结构良好的文档，编写参考文献和生成目录。
+*   **技术文档撰写**：使用Markdown视觉化复杂的技术信息，创建用户手册并开发指南教程。
+*   **博客文章撰写与编辑**：将TeX文件转换以创建美观的博客文章，优化格式并提高可读性。
+*   **提案和报告开发**：使用Markdown组织数据，跟踪引用并以清晰简洁的方式呈现发现。
+*   **开源项目协作**：将TeX文件转换以促进协作，记录文档变更并分享团队成员之间的知识。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

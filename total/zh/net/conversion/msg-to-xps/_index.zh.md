@@ -58,7 +58,19 @@ document.Save("output.xps", SaveFormat.Xps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 MSG 文件转换为 XPS：用例" %}}
+将 MSG 文件转换为 XPS 格式是为了解锁文件编辑和管理的全套功能。这一转换使您能够：
+
+**用途：**
+
+*   **文档编辑**：将 MSG 文件转换以编辑文档，添加新内容或修改现有信息。
+*   **信息保存**：使用 XPS 格式来保留信息，确保数据完整性并防止数据损坏。
+*   **文件安全**：将 MSG 文件转换为安全的文档，以加密敏感信息并保护免受未经授权的访问。
+*   **兼容性增强**：使用 XPS 格式创建兼容文档，确保在不同平台之间无缝共享和协作。
+*   **数据存档**：将 MSG 文件转换为存档文件，以存储历史数据并保存过去的通信记录。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

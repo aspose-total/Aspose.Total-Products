@@ -56,7 +56,19 @@ otherformats: TSV XLTX DIF ODS XLTM SXC TXT XLSM XLT EXCEL MD XLSB
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 CGM 文件转换为 SXC：用例" %}}
+将CGM文件转换为SXC格式是必要的，以充分发挥您的数据可视化和分析能力。以下是其用途：
+
+**用途：**
+
+* **业务运营优化**：通过分析业务流程、跟踪关键绩效指标（KPIs），并识别改进领域，进行CGM文件到SXC格式的转换。
+* **财务分析与规划**：利用SXC进行财务数据可视化、趋势预测，并为利益相关者创建交互式仪表板。
+* **供应链管理**：将CGM文件用于供应链模拟、物流优化及需求预测等场景。
+* **环境影响评估**：通过SXC可视化环境数据，模型情景并预测不同政策的影响。
+* **医疗数据分析**：分析患者数据，追踪疾病进程，并识别医疗结果趋势。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

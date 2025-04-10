@@ -118,7 +118,21 @@ document.Save("output.xps", SaveFormat.Xps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 XPS：用例" %}}
+OGA (开放组架构)文件用于存储元数据信息，因此它们是创建文档和配置指南的理想选择。然而，当处理受版权保护的数据时，微软 Office 图像文件格式 (.XPS) 成为保存文档并提供安全性的必要工具。
+
+将 OGA 文件转换为 XPS 格式是实现您文档管理功能全潜力的关键步骤。这项转换使您能够：
+
+**用途：**
+
+*   **文档生成**：将 OGA 文件转换以创建全面且详尽的文档指南，包括用户手册、技术规格说明和配置指令。
+*   **数字版权管理 (DRM)**：使用 XPS 格式保护敏感文件，通过先进的安全功能（如加密、访问控制和水印）来确保文件的安全性。
+*   **与旧系统兼容**：将 OGA 文件转换以确保与依赖 XPS 格式保存文档的旧系统和应用程序的兼容性。
+*   **协作与分享**：使用 XPS 格式安全地共享和协作文档，使多个利益相关者能够在不影响数据完整性的情况下共同参与项目。
+*   **存档与保存**：将 OGA 文件转换以创建长期存档副本，确保关键文件的可用性和可访问性。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

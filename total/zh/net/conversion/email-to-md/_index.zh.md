@@ -78,7 +78,21 @@ document.Save("output.md", SaveFormat.Md);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 EMAIL 文件转换为 MD：用例" %}}
+将电子邮件文件转换为Markdown（MD）格式是为了充分发挥内容撰写和发布的潜力。这种转换使你能够：
+
+**用途：**
+
+*   **内部沟通分析**：将电子邮件转换以分析内部沟通，跟踪团队协作，并识别改进的机会。
+*   **营销活动策略**：使用Markdown可视化营销活动数据，优化策略并衡量参与度指标。
+*   **文档和指南**：将电子邮件转换以创建交互式文档、指南和教程，以提供更好的用户入门体验。
+*   **客户反馈分析**：使用Markdown分析客户反馈，识别趋势并提高客户满意度。
+*   **内容发布与协作**：将电子邮件转换以创建交互式内容，协作并发布吸引人的故事。
+
+注意：模式与原始格式的转换相同，即从源格式Email到目标格式MD。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

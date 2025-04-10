@@ -118,7 +118,17 @@ document.Save("output.text", SaveFormat.Text);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 OFT 文件转换为 TEXT：用例" %}}
+**用途：**
+
+*   **文本分析**：将OFT文件转换以分析文本数据，追踪情感趋势并识别语言模式。
+*   **文档优化**：使用文本编辑器可视化文档元数据，优化格式并衡量可读性。
+*   **角色发展与叙事编写**：将OFT文件转换以创建交互式角色资料，模拟对话互动并验证叙事结构。
+*   **数据报告与仪表盘**：使用文本编辑器创建交互式报告、摘要和可视化工具，以便利决策者做出更好的决策。
+*   **代码审查与测试**：将OFT文件转换以分析编码实践，识别错误并优化测试策略。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

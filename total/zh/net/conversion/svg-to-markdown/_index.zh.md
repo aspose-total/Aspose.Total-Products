@@ -115,7 +115,21 @@ document.Save("output.markdown", SaveFormat.Markdown);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 SVG 文件转换为 MARKDOWN：用例" %}}
+**SVG (可缩放向量图形)文件用于存储向量图形信息，使其成为创建可缩放插图和图形的理想工具。然而，当处理基于文本的数据时，Markdown成为了必不可少的工具，用于文档编写和通信。
+
+将SVG文件转换为Markdown格式是必要的，以充分发挥您文档和通信能力的潜力。这一转换使您能够：
+
+**用途：**
+
+*   **文档生成**：将SVG文件转换以创建交互式且可自定义的文档，例如用户手册、指南和教程。
+*   **静态网站生成**：使用Markdown生成静态网站，展示产品、服务或公司信息，以清晰且有序的方式呈现。
+*   **内容管理**：将SVG文件转换以创建可编辑的内容用于博客、新闻文章或社交媒体帖子，使更新和修订变得轻松。
+*   **信息图表制作**：使用Markdown创建视觉吸引人的信息图表，直观地展示复杂数据点和统计信息。
+*   **可访问性和可读性**：将SVG文件转换以创建可读且可访问的文字版本的图形，提高用户体验和理解力。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

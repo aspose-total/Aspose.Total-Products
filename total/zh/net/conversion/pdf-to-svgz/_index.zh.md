@@ -106,7 +106,21 @@ otherformats: EMZ PSD TGA SVGZ JPEG2000 DXF  WMZ WMF IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="以编程方式将 PDF 文件转换为 SVGZ：用例" %}}
+PDF（便携式文档格式）文件用于存储静态文档，是分享和分发信息的理想选择。然而，当处理交互性和动态内容时，SVGZ（可缩放向量图形压缩包）成为创建矢量图形和动画的必需工具。
+
+将PDF文件转换为SVGZ格式是解锁您的交互式内容和动画能力的关键。这项转换使您能够：
+
+**用途：**
+
+*   **基于网络的交互式内容**：将PDF文件用于创建交互式网页、模拟和游戏。
+*   **移动应用开发**：使用SVGZ创建向量图形、动画和插图以便于在移动应用中使用，减少文件大小并提高性能。
+*   **可打印的艺术与设计**：将PDF文件用于创建可以轻松分享和分发的可打印艺术、海报和设计。
+*   **数据可视化**：利用SVGZ来可视化复杂数据，如图表、图形和其他统计信息。
+*   **动态图形和动画**：将PDF文件用于创建动态图形、动画和交互式演示，以满足企业、教育机构和专业艺术家等客户的需求。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
