@@ -57,7 +57,11 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла MSG в DOTX: примеры использования" %}}
+Преобразование файлов MSG в формат DOTX идеально подходит для создания презентаций с динамическим содержимым.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

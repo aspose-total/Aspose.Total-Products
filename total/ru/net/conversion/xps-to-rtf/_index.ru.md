@@ -114,7 +114,19 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XPS в RTF: примеры использования" %}}
+Файлы XPS (XML Paper Specification) предназначены для хранения информации о растровых изображениях, что делает их идеальным выбором для создания печатных документов и цифровых журналов. Однако при работе с текстовой информацией формат RTF (Rich Text Format) становится необходимым для редактирования и оформления документов.
+
+Конверсия файлов XPS в форматы RTF позволяет вам:
+
+* Редактировать документы: преобразовать файлы XPS для добавления заголовков, подписи и водяных знаков.
+* Создавать брошюры и буклеты: использовать RTF для разработки персонализированных layouts, стиля шрифтов и опций оформления.
+* Создавать печатные материалы: преобразовать файлы XPS в такие документы, как-flyеры, постеры и каталоги.
+* Автоматизировать текстовые задачи: использовать RTF для вставки данных и обновления форматирования в текстовых документах.
+* Обеспечить совместимость с PDF и RTF: преобразовать файлы XPS в PDF, где текст editableн.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

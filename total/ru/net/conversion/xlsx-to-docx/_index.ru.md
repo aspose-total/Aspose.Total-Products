@@ -10,7 +10,11 @@ outformat: DOCX
 otherformats: DOC PPTX POWERPOINT WORD
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XLSX в DOCX: примеры использования" %}}
+Преобразование файлов XLSX в формат DOCX является необходимым шагом для раскрытия полной потенциалности ваших способностей в написании текста.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Конвертировать XLSX в DOCX через C# или онлайн-приложение" h2="Экспорт Excel<sup>&reg;</sup> XLSX в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.">}}
 {{< blocks/products/pf/main-container >}}
 
@@ -46,7 +50,11 @@ otherformats: DOC PPTX POWERPOINT WORD
 <iframe title="Онлайн-инструмент от docx до xlsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XLSX в DOCX: примеры использования" %}}
+Преобразование файлов XLSX в формат DOCX является необходимым шагом для раскрытия полной потенциалности ваших способностей в написании текста.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

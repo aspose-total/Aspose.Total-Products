@@ -57,7 +57,11 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла EPUB в DOT: примеры использования" %}}
+Преобразование файлов EPUB в форматы DOT позволяет раскрыть полную функциональность возможностей вашего инструментария для создания диаграмм.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

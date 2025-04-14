@@ -114,7 +114,19 @@ document.Save("output.markdown", SaveFormat.Markdown);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла TEX в MARKDOWN: примеры использования" %}}
+Обязательна конверсия файлов TeX в форматы Markdown является важным шагом для раскрытия полной функциональности вашего документа. Это преобразование позволяет:
+
+**Примеры использования:**
+
+*   **Научные публикации и издания академических работ**: Создание структурированных документов, компиляция библиографий и генерация таблиц содержаний.
+*   **Создание технической документации**: Визуализация сложной технической информации, создание пользовательских руководств и разработка инструкций.
+*   **Публикация блог-статей**: Преобразование TeX-файлов в привлекательные блоги, оптимизация форматирования и улучшение читаемости.
+*   **Разработка предложений и отчетов**: Организация данных, отслеживание ситил, и представление фактов в ясной и краткой форме.
+*   **Сотрудничество в открытом源 проектах**: Преобразование TeX-файлов для упрощения teamwork, документирования изменений и распространения знаний среди команды.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

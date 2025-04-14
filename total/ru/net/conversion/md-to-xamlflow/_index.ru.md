@@ -57,7 +57,11 @@ document.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла MD в XAMLFLOW: примеры использования" %}}
+Переведение файлов MD в форматы XAMLFlow является важным шагом для раскрытия полной потенциалит性 возможностей дизайна интерфейсов.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

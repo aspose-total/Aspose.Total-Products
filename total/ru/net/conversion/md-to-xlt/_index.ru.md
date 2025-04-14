@@ -106,7 +106,23 @@ otherformats: XLAM ODS XLSM SXC DIF TXT XLTX FODS TSV EXCEL XLSB XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла MD в XLT: примеры использования" %}}
+Перевод на русский:
+
+Преобразование файлов MD в форматы XLT позволяет раскрыть полную потенциалитет своих возможностей в области визуализации данных и анализа.
+
+Преобразование MD-файлов в форматы XLT позволяет вам:
+
+**Использования:**
+
+* **Журнал данных**: Преобразовать MD-файлы для создания интерактивных журналов данных, отслеживания изменений во времени и enable collaborative editing.
+* **Анализ документа исследования**: Использовать XLT для визуализации данных документа исследования, выявления ключевых концепций и facilitation знаний между исследователями.
+* **Научные тетради**: Преобразовать MD-файлы для создания интерактивных научных тетрадей, симуляции экспериментов и проверки гипотез.
+* **Использование данных и визуализация**: Использовать XLT для изучения и визуализации данных, выявления паттернов и создания дашбордов для стейкхолдеров.
+* **Создание документов в команде**: Преобразовать MD-файлы для сотрудничества с командными членами, отслеживания изменений и поддержки общего понимания сложных проектов.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

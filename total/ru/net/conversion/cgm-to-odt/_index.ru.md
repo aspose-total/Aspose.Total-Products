@@ -57,7 +57,11 @@ document.Save("output.odt", SaveFormat.Odt);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла CGM в ODT: примеры использования" %}}
+Преобразование файлов CGM в форматы ODT позволяет раскрыть полную функциональность возможностей вашей системы визуализации и анализа документов.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -106,7 +106,11 @@ otherformats: EXCEL SXC XLSM XLSX XLAM XLTX DIF XLSB XLTM XLS ODS TSV XLT FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла MOBI в CSV: примеры использования" %}}
+Преобразование файлов MOBI в формат CSV необходимо для разблокирования полной возможностей анализа данных.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

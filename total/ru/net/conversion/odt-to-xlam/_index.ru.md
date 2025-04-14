@@ -106,7 +106,25 @@ otherformats: XLTM DIF TSV XLS ODS XLSM XLAM XLT XLTX EXCEL SXC XLSB FODS XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла ODT в XLAM: примеры использования" %}}
+To convert an ODT file into an XLM template, follow these organized steps:
+
+1. **Open the ODT File**: Use LibreOffice or Apache OpenOffice to open the ODT file.
+
+2. **Export Data**: Export the data from the ODT file in a format compatible with Excel. Consider using CSV (Comma-Separated Values) if the data is simple, or XLSX for more complex structures.
+
+3. **Import Data into Excel**: Create a new Excel file and import the exported data. This will allow you to work with the data within Excel.
+
+4. **Create Macros in XLM**: Write macros using VBA (Visual Basic for Applications) within Excel to automate processing of the imported data. This can include data transformation, analysis, or visualization tasks.
+
+5. **Save as XLM Template**: Save your Excel file as an XLM template by enabling macros and saving with the .xlsm extension. This will allow others to use the template with embedded macros.
+
+6. **Test and Use**: Open the XLM template in Excel to ensure macros execute correctly and data is processed as intended.
+
+This approach ensures that you can utilize Excel's features while maintaining automation through macros, enhancing your workflow efficiency.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

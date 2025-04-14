@@ -106,7 +106,17 @@ otherformats: FODS XLS TSV XLSM ODS EXCEL SXC XLAM DIF XLSB XLSX XLT XLTX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла DOTX в SXC: примеры использования" %}}
+**Использования СХЦ файлов:**
+
+*   **Проектное проектирование и разработка**: Преобразование файлов SXC для анализа данных дизайна продукта, симуляции пользовательского опыта и валидации концепций дизайна.  
+*   **Научная визуализация**: Использование файлов SXC для визуализации сложных научных данных, таких как 3D-модели, результаты симуляций и экспериментальные данные.  
+*   **Отчетность и создание дашбордов**: Преобразование файлов SXC для создания интерактивных дашбордов, отчетов и визуализаций для стейкхолдеров, что способствует лучему принятию решений.  
+*   **Оптимизация кампаний по маркетингу**: Использование файлов SXC для визуализации данных кампаний по маркетингу, оптимизации стратегий и оценки ROI.  
+*   **Анализ поведения клиентов**: Преобразование файлов SXC для анализа поведения клиентов, отслеживания тенденций продаж и выявления паттернов в данных.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

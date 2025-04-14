@@ -106,7 +106,21 @@ otherformats: DICOM IMAGE SVGZ TGA WMZ WMF PSD EMZ DXF JPEG2000
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла JSON в DICOM: примеры использования" %}}
+JSON (JavaScript Object Notation) файлы широко используются для обмена данными между приложениями благодаря их легкому формату и простоте парсинга. Однако, когда речь идет с медицинской имагинкой, предпочтение отдается стандарту DICOM (Digital Imaging and Communications in Medicine).
+
+Переведение JSON файлов в формат DICOM позволяет раскрыть полную функциональность возможностей вашей медицинской данных:
+
+**Примеры использования:**
+
+*   **Анализ медицинских изображений**: Переведение файлов в формат DICOM для анализа медицинской имагинки, сегментации опухол и детекции анатомических дефектов.  
+*   **Обработка и улучшение изображений**: Использование DICOM для повышения качества изображений, удаления шумов и выполнения техник восстановления изображений.  
+*   **Отчеты по радиологии и процессы работы**: Переведение файлов в формат DICOM для создания стандарт化 отчетов, генерации рецептов и автоматизации процессов в отделах радиологии.  
+*   **Включение медицинских устройств**: Использование DICOM для интеграции медицинских устройств с системами электронной здоровья (EHRs), что позволяет进行 реальное время мониторинг пациентов и обмен данными.  
+*   **Управление клиническими испытаниями**: Переведение файлов в формат DICOM для управления клиническими испытаниями, сбору данных о患者х и анализе результатов в стандартных DICOM-комплиментных форматах.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

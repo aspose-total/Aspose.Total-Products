@@ -106,7 +106,19 @@ otherformats: XLTX SXC EXCEL FODS XLTM MD XLSB DIF XLT TXT TSV XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла TEX в MD: примеры использования" %}}
+Создание документации: преобразование файлов TeX в читаемые документы с форматом Markdown для технической написания, учебных пособий и инструкций.
+
+Создание презентаций: использование формата Markdown для создания привлекательных слайд-шоу, диаграмм и визуализированных данных для академических, профессиональных или личных целей.
+
+Совместимость и управление версиями: преобразование файлов TeX в формат Markdown, что упрощает сотрудничество с командами, отслеживание изменений и управление разными версиями документов.
+
+Доступность и совместимость: использование формата Markdown для создания документов, доступных на различных устройствах, платформах и браузерах, что снижает необходимость борьбы с проблемами совместимости конкретного софта или форматов.
+
+Блогирование и маркетинг контента: преобразование файлов TeX в формат Markdown, что позволяет легко поддерживать блог, публиковать статьи и продвигать контент на большее аудитории.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

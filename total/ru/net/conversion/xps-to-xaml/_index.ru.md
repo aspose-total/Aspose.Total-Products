@@ -114,7 +114,19 @@ presentation.Save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XPS в XAML: примеры использования" %}}
+XML Paper Specification (XPS) файлы используются для хранения информации о растерной графике, что делает их идеальным выбором для создания документов с сложными макетами и дизайнами. Однако при работе со динамическими элементами интерфейса пользователя (UI) и интерактивными пользовательскими опыта (UX), XAML (Extensible Application Markup Language) становится необходимым.
+
+Примеры использования:
+
+* **Мобильное приложение разработка**: Переведите на русский как "Мобильное приложение разработка".  
+* **Дesktop приложение разработка**: Переведите на русский как "Desktop приложение разработка".  
+* **Игра разработка**: Переведите на русский как "Игра разработка". Укажите, что используется XAML для создания игр с интерактивными элементами и анимациями.  
+* **Виртуальная реальность (VR) и增强енная реальность (AR)**: Переведите на русский как "Виртуальная реальность (VR) и Augmented Reality (AR)". Укажите, что используется XAML для создания иммерсивных VR/AR опытов с динамическими 3D моделями.  
+* **Веб приложение разработка**: Переведите на русский как "Веб приложение разработка". Укажите, что используется XAML для создания веб-приложений с динамическими UI элементами и анимациями.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
