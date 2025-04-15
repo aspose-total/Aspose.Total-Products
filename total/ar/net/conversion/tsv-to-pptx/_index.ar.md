@@ -10,7 +10,11 @@ outformat: PPTX
 otherformats: DOC DOCX POWERPOINT WORD
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف TSV إلى PPTX برمجيًا: حالات الاستخدام" %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="تحويل TSV إلى PPTX عبر C# أو التطبيق عبر الإنترنت" h2="تصدير Excel & reg ؛ TSV إلى PPTX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
@@ -45,7 +49,11 @@ otherformats: DOC DOCX POWERPOINT WORD
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف TSV إلى PPTX برمجيًا: حالات الاستخدام" %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

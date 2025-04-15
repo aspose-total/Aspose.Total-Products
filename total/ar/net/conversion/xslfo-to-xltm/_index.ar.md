@@ -106,7 +106,39 @@ otherformats: MD TSV XLTM XLSB XLAM XLT DIF SXC XLTX FODS TXT ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف XSLFO إلى XLTM برمجيًا: حالات الاستخدام" %}}
+الملخص:
+
+الملفات XSLFO (Extensible Style Language Formatting Objects) تستخدم لتعريف بنية، التنسيق، و 外观 الحد الأنيق للوثائق XML. فهناك ما من أهمية في إنشاء الوثائق formatted، لكن عند التعامل مع محتوى 动态، مثل Microsoft Word (XLTMs)، يصبحوا أساسيين في تحرير النصوص و出版ها.
+
+الترجمة:
+
+الملفات XSLFO هي مفتاحية لتعريف بنية وتنسيق الوثائق XML. وتستخدم هذه الملفات بشكل مثير لإنشاء وثائق formatted، لكن عند التعامل مع المحتوى المتحرك، مثل Microsoft Word (XLTMs)، يصبحون أساسيين في تحرير النصوص و出版ها.
+
+الاستخدامات:
+
+*   **تحرير الوثائق المهنية**: تحويل الملفات XSLFO إلى تحرير وتعديل الوثائق formatted، مثل السير الذاتية، الرسائل، والتقارير.
+*   **出版 الكتب الإلكترونية**: استخدام XLTMs لإنشاء الكتب الإلكترونية المتفاعلة، مع إمكانية تعديل حجم الخط، لون الخط، وتنسيق الصفحات.
+*   **كتابة النصوص الفنية**: تحويل الملفات XSLFO إلى كتابة وتنسيق الوثائق الفنية، مثل الدليلات المستخدمين، الإرشادات، والهدايا.
+*   **إنشاء المواد التسويقية**: استخدام XLTMs لتصميم المواد التسويقية، مثل brochures، leaflets، ومحافظات.
+*   **تحسين الموصفات**: تحويل الملفات XSLFO إلى إنشاء الوثائق التي تتميز ب特征 مثل تعديل حجم النص،模式 العلامات الحمراء، و دعم محركات القراءة.
+
+الترجمة:
+
+المُلخص:
+
+ملفات XSLFO (Extensible Style Language Formatting Objects) تستخدم لتعريف بنية، التنسيق، و 外观 الحد الأنيق للوثائق XML. فهناك ما من أهمية في إنشاء الوثائق formatted، لكن عند التعامل مع محتوى 动态، مثل Microsoft Word (XLTMs)، يصبحوا أساسيين في تحرير النصوص و出版ها.
+
+الاستخدامات:
+
+*   **تحرير الوثائق المهنية**: تحويل الملفات XSLFO إلى تحرير وتعديل الوثائق formatted، مثل السير الذاتية، الرسائل، والتقارير.
+*   **出版 الكتب الإلكترونية**: استخدام XLTMs لإنشاء الكتب الإلكترونية المتفاعلة، مع إمكانية تعديل حجم الخط، لون الخط، وتنسيق الصفحات.
+*   **كتابة النصوص الفنية**: تحويل الملفات XSLFO إلى كتابة وتنسيق الوثائق الفنية، مثل الدليلات المستخدمين، الإرشادات، والهدايا.
+*   **إنشاء المواد التسويقية**: استخدام XLTMs لتصميم المواد التسويقية، مثل brochures، leaflets، ومحافظات.
+*   **تحسين الموصفات**: تحويل الملفات XSLFO إلى إنشاء الوثائق التي تتميز ب特征 مثل تعديل حجم النص،模式 العلامات الحمراء، و دعم محركات القراءة.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ otherformats: XLAM ODS XLSM SXC DIF TXT XLTX FODS TSV EXCEL XLSB XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف MD إلى XLT برمجيًا: حالات الاستخدام" %}}
+تحويل ملفات MD إلى格式 XLT:
+
+تتيح التحويل من ملفات MD إلى formato XLT لك:
+
+**الاستخدامات:**
+
+*   **المنجزات البيانية**: تحويل ملفات MD إلى إنشاء مجللات بيانات تفاعلية لfollow the changes over time وتمكين التعديل المشاركة.
+*   **تحليل الوثائق البحثية**: استخدام XLT لتحليل البيانات من الوثائق البحثية وتحديد مفاهيم أساسية وفعيلت分享 المعرفة بين الباحثين.
+*   **المجلات العلمية**: تحويل ملفات MD إلى إنشاء مجللات علمية تفاعلية لتنفيذ تجارب و验证 الأ假设.
+*   **استكشاف البيانات وتعزيزها**: استخدام XLT للتحليل والرؤية البيانية للبيانات لتعرف على النمطين وتقديم الدashboards للمتفرقين.
+*   **إنشاء الوثائق المشاركة**: تحويل ملفات MD إلى إنشاء وثائق تفاعلية للعمل مع أعضاء الفريق لتتبع التغيرات وتحافظ على فهم متشابه للمشاريع المعقدة.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

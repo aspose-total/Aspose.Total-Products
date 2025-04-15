@@ -106,7 +106,23 @@ otherformats: FODS TSV XLSB XLAM MD XLT SXC XLSM DIF XLTX XLTM TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف XSLFO إلى MD برمجيًا: حالات الاستخدام" %}}
+الملخص:
+
+الملفوف (Extensible Styling Language Formatting Objects) هو ملفات تستخدم لتعريف التنسيق والنظافة في الوثائق، مما يجعلها مثالية لإنشاء وثائق مكتوبة بنظام هرجلي ومجلد. ومع ذلك، عندما نعمل مع محتوى ديناميكي، يصبح مركب (Markdown) أداة أساسية لفصلة التنسيق النصي والتنظيم.
+
+التحويل من ملفات XSLFO إلى تنسيقات Markdown هو عملية هامة لتمكين إمكانيات البنية التحتية والتنسيق في وثائقك. هذه التحويل تتيح لك:
+
+**الاستخدامات:**
+
+*   **出版 الكتب**: تحويل الملفات XSLFO إلى إنشاء كتب إلكترونية تفاعلية، مقالات، ومجلدات مع تنسيق مخصص وتنظيم.
+*   **模板 الوثائق**: استخدام Markdown لإنشاء وثائق专业ة بناءً على محتوى متميز وتنسيق متكرر.
+*   **إنشاء محتوى ويب**: تحويل الملفات XSLFO إلى إنشاء صفحات ويب تفاعلية مع نصوص بتنسيق، صور، و内容 چندمیدیا.
+*   **الكتابة الفنية**: استخدام Markdown لكتابة وثائق تقنية مثل دلائل المستخدمين، الخرط الأطلسية، والمنشورات التعليمية.
+*   **出版 الرقمية**: تحويل الملفات XSLFO إلى إنشاء مجلات رقمية تفاعلية، صحف، ومجلدات مع تنسيق مخصص وتنظيم.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

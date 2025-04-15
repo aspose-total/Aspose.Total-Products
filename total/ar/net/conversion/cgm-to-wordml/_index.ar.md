@@ -77,7 +77,35 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف CGM إلى WORDML برمجيًا: حالات الاستخدام" %}}
+The translation of "None" into Arabic depends on the context:
+
+1. **Technical Context (Programming, Logic):**  
+   - Translation: "null"  
+   - Example: In programming, "null" indicates the absence of a value.
+
+2. **Everyday Use:**  
+   - Translation: "لا يوجد" (La yujud)  
+   - Example: "There are none left." becomes "لا يوجد من هذه الأشياء" (La yujud min hena al-ayshayya).
+
+3. **Logical Expressions:**  
+   - Translation: "لا يوجد من كل XY" (La yujud min kull XY)  
+   - Example: "None of all X are Y."
+
+4. **Dialects:**  
+   - In Egyptian Arabic, "عدى" (Adi) might be used, though it's more of a negation.
+
+5. **Formal Writing:**  
+   - Use "null" for technical documents.
+
+6. **Sentences with "None" as Subject:**  
+   - Translation: "لا يوجد من الطلاب حاضرين" (La yujud min al-talibboon hadireen)  
+   - Example: "None of the students are present."
+
+Choose the translation based on the intended audience and context.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

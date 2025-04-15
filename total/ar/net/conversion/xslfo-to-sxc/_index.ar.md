@@ -106,7 +106,26 @@ otherformats: XLSM XLTX TXT FODS XLT TSV MD SXC ODS XLSB EXCEL XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف XSLFO إلى SXC برمجيًا: حالات الاستخدام" %}}
+الملخص:
+المستندات XSLFO (Extensible Stylesheet Language Formatting Objects) تستخدم لوصف التنسيق وال格式 للوثائق، مما يجعلها مثالية لإنتاج وتحكم في النصوص الم formatted. ومع ذلك، عندما نعمل مع البيانات المتحركة، فإن برامج spreadsheets مثل Calc LibreOffice تصبح أساسية في تحليل البيانات وتريخيزها.
+
+الاستبدال ملفات XSLFO ب格式 sxc هو من الضرورة لتمكين إمكانيات تحرير وتعاونك الكاملة. هذا الاستبدال يتيح لك:
+
+** استخدامات:**
+
+*   **تعديل التنسيق الداخلي للوثائق**: استبدال الملفات XSLFO بformat sxc لتعديل التنسيق، والطباعة، والرسوم البيانية للوثائق، مما يساهم في تحديد الهوية视觉 للمنظمات أو العلامات التجارية.
+
+*   **التعاون في تحرير الوثائق**: استخدام format sxc ل分享 وتحرير الوثائق مع الآخرين بوقت زمني حقيقي، مما يقلل من نزاعات الإصدارات.
+
+*   **تنفيذFormat自动化**: استبدال الملفات XSLFO بformat sxc لتنفيذ المهام المتعلقة بتنفيذ التنسيق تطبيقها على أعداد كبيرة من الوثائق أو التقارير.
+
+*   **إنشاء محتوى بناءً على البيانات**: استخدام format sxc لدمج البيانات من مصادر خارجية في الوثائق، مما يؤدي إلى محتوى دинاميكي يمكن تحديثه بوقت حقيقي.
+
+*   **الوصولية والتصميم包容ي**: استبدال الملفات XSLFO بformat sxc لتحسين الوصولية من خلال تحويل النص البديل للصور إلى formats متاحة مثل format sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

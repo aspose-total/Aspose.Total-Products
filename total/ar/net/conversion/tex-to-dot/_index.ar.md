@@ -115,7 +115,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="تحويل ملف TEX إلى DOT برمجيًا: حالات الاستخدام" %}}
+التحويل من ملفات TeX إلى صيغات DOT يساعد في تفعيل القدرات الكاملة في إنشاء الرسوم البيانية.
+
+**الاستخدامات:**
+
+* **الرسوم البيانية للعروض التمثيلية**: تحويل ملفات TeX إلى رسوم بيانية جذابة للعرض في presentations، التقارير، والمواد التعليمية.
+* **الرسوم البيانية العلمية**: استخدام صيغات DOT لإنشاء رسوم بيانية معقدة مثل الشبكات والهيكالات الإدارية.
+* **الوثائق الفنية**: تحويل ملفات TeX إلى وثائق تفاعلية، مثل الرسوم البيانية للأنظمة والهيكالات الصناعية.
+* **المواد الأكاديمية**: استخدام صيغات DOT لتمثيل البيانات البحثية وتحليل السلوك النظامي.
+* **التعاون الفني**: تحويل ملفات TeX إلى رسوم يمكن تعديله وتعاونها بين الأعضاء الفريق، مما يساعد على التعاون المباشر والمراقبة بالversions.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
