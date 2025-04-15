@@ -24,7 +24,7 @@ Aspose.PDF for Node.js via C++ empowers you to handle PDF files on the backend. 
 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/nodejs-cpp/" imgSrc="/total/images/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/nodejs-cpp/" imgSrc="/total/images/aspose_cells-for-nodejs-cpp.svg" productName="Aspose.Cells for Node.js via C++">}}
 
 Handle Excel files efficiently using Node.js via C++ APIs without requiring Microsoft Excel, enabling operations like generation, modification, conversion, and rendering. API offers high performance and scalability, making it suitable for automation, cloud applications, and enterprise-level data processing.
 
