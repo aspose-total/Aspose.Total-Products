@@ -67,6 +67,10 @@ Manipulate Excel Spreadsheets, PowerPoint and OpenOffice Presentations as well a
 Develop applications with OCR and PDF manipulation functionalities using a JavaScript API.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Go via C++" imgSrc="/total/images/aspose_total-for-go-cpp.svg" productLink="/total/go-cpp" >}}
+Build robust, document-centric applications in Go that demand reliability, scalability, and advanced PDF as well as Excel Spreadsheets processing features.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
