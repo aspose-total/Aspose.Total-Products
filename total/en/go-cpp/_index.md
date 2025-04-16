@@ -4,7 +4,7 @@ description: GO API to manipulate PDF files as well as create, read, write and p
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Go API for Excel Spreadsheet Manipulation and PDF Processing" h2="Create, Update and Convert PDF documents as well as manipulate Microsoft Excel Spreadsheets within Go applications without any other software dependencies" logoImageSrc="/total/images/aspose_total-for-go-cpp-header.svg" pfName="Aspose.Total" subTitlepfName="for Go via C++" downloadUrl="https://releases.aspose.com/total/go-cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Go API for Excel Spreadsheet Manipulation and PDF Processing" h2="Create, Update and Convert PDF documents as well as manipulate Microsoft Excel Spreadsheets within Go applications without any other software dependencies" logoImageSrc="/total/images/aspose_total-for-go-cpp.svg" pfName="Aspose.Total" subTitlepfName="for Go via C++" downloadUrl="https://releases.aspose.com/total/go-cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Go via C++" >}}
 
