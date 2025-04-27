@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru RTF do XLT: Případy použití" %}}
+Konvertování souborů RTF (Formát bohatý na text) do formátu XLT (Šablonový formát Excelu) je nezbytné, aby se mohlo maximálně využít schopnosti svého Excelu.
+
+**Use Cases:**
+
+* **Import a integrace dat:** Konvertování souborů RTF do šablonových formátů XLT pro import dat do Excelu, jež usnadňuje procesy pro firmy.
+* **Analyza a úprava dokumentů:** Výužití formátu XLT pro analýzu a úpravu souborů RTF, jež zajišťuje přesnost a konzistencí ve formátování.
+* **Získávání podnikatelských informací a hlášení:** Konvertování souborů RTF na tvorbu interaktivních zprávy, dashboardů a vizualizací pomocí formátu XLT.
+* **Vytváření a správa obsahu:** Výužití formátu XLT pro správu a organizaci obsahu založeného na souborech RTF po různých platformách, jež zvýšila produktivitu.
+* **Integrace starších systémů:** Konvertování souborů RTF na integraci se staršími systémy, využívající schopnosti formátu XLT pro bezchybní výměny dat.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

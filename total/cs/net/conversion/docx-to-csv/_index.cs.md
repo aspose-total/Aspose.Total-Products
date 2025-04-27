@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOCX do CSV: Případy použití" %}}
+Užití datových souborů:  
+
+* **Import a integrace dat**: Převést DOCX soubory pro analýzu dat, sledování trendů a identifikace vzorů v různých odvětvích.  
+* **Analyza vědeckých článků**: Použít formáty CSV pro vizualizaci dat z vědeckých článků, analýzu výsledků a validaci konkluzií.  
+* **Optimalizace podnikových procesů**: Převést DOCX soubory pro vytvoření interaktivních modelů podnikových procesů, simulaci scénářů a validaci optimalizačních strategií.  
+* **Správa vědecké výzkumné práce**: Použít formáty CSV pro správu dat z vědecké výzkumné práce, sledování postupu a identifikaci oblastí pro zlepšení.  
+* **Zprávy o konformitě a auditování**: Převést DOCX soubory pro vytvoření detailních zpráv o konformitě, sledování auditů a identifikace oblastí pro zlepšení.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

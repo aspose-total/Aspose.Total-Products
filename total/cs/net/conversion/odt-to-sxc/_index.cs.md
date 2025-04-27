@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru ODT do SXC: Případy použití" %}}
+Rozluštit plnou potenciál vašeho dokumentového编辑u a spolupracovníku je nezbytná konverze souborů ODT na formáty SXC. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Spolupráce na dokumentech**: Konvertovat soubory ODT pro editování a správu dokumentů s více subjekty, zajistit bezproblatný průběh komunikace a zpětný odběr připomínek.  
+*   **Profesionální úroveň dokumentů**: Použít SXC pro vytvoření vysoce kvalitních dokumentů, jako jsou životopisy, zprávy a návrhy, které vyhovují standardům profesionálního vydavatelství.  
+*   **Správa obsahu firmy**: Konvertovat soubory ODT pro usnadnění správy obsahu, sledování verzí dokumentů a uplatňování jednotnosti značky na všech dokumentech.  
+*   **Výzkum a akademie**: Použitím SXC formátujete vědecké články, disertace a habilitační práce pro podání, s ohledem na pravidla stylu a požadavky instituce.  
+*   **Uložení a převést obsah dokumentů**: Konvertovat ODT soubory pro přechod dokumentů mezi různými platformami, jako je přechod z OpenOffice na Microsoft Office.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

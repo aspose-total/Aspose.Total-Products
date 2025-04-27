@@ -118,7 +118,26 @@ Kami menyarankan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop ID
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Mengubah File OFT ke FLATOPC Secara Terprogram : Contoh Penggunaan" %}}
+**Penggunaan Kasus:**
+
+* **Pengembangan Permainan**: Mengkonversi berkas OFT untuk memberikan kemampuan pengembangan permainan, antara lain:
+    * **Animasi Karakter dan Pembuatan Model**: Menggunakan berkas OFT untuk membuat model 3D, menganimasikan karakter, dan meniru gerakan yang nyata.
+    * **Desain Level dan Prototip**: Mengkonversi berkas OFT untuk membuat desain level interaktif, memtest prototip, dan mengiterasi mekanika permainan.
+    * **Efek Khusus dan Simulasi**: Menggunakan berkas OFT untuk menghasilkan efek khusus nyata, simulasi, dan interaksi lingkungan yang realistis.
+
+* **Arsitektur dan Konstruksi**: Mengkonversi berkas OFT untuk meningkatkan proses desain bangunan, konstruksi, dan pengelolaan proyek, antara lain:
+    * **Model Informasi Bangunan (BIM)**: Menggunakan berkas OFT untuk membuat model 3D yang akurat dari bangunan, furniture, dan peralatan, sehingga memungkinkan kolaborasi dan pertukaran data.
+    * **Perencanaan Situs dan Desain**: Mengkonversi berkas OFT untuk mengvisualisasikan rencana situs, merancang lingkungan, dan mengoptimalisasi layout bangunan untuk efisiensi maksimum.
+    * **Pengelolaan Konstruksi dan Jadwal**: Menggunakan berkas OFT untuk mengelola proyek konstruksi, mencatatkan progress, dan memidentifikasi potensi keterlambatan atau anggaran yang melebihi batas.
+
+* **Produksi Film dan Televisi**: Mengkonversi berkas OFT untuk menyederhanakan alur efek visual, animasi, dan post-produksi, antara lain:
+    * **Efek Visual dan Grafik Gerak**: Menggunakan berkas OFT untuk membuat efek visual yang rumit, animasi, dan grafik gerak yang meningkatkan cerita.
+    * **Animasi Karakter dan Desain**: Mengkonversi berkas OFT untuk mendesain, menganimasikan, dan meniru karakter dalam cara yang lebih efisien dan nyata.
+    * **Post-Produksi dan Grading Warna**: Menggunakan berkas OFT untuk meningkatkan grading warna, menambahkan efek visual, dan memperbaiki post-produksi untuk tayangan sinema.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

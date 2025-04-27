@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do DXF: Případy použití" %}}
+XSLFO soubory jsou využívány pro ukládání informací o formátování, což je ideální pro tvorbu formátovaných dokumentů a publikací. Nicméně při práci s 3D modelováním a daty CAD se stává DXF (Drawing Exchange Format) nezbytným pro výměnu dat a vizualizaci.
+
+Konverze XSLFO souborů do DXF formátu je nezbytná, aby jste mohli rozvířit plný potenciál vašeho 3D modelování a kapacit CAD. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Import CAD data**: Konvertovat XSLFO soubory pro import informací o layoutu, rozměrech a poznámkách do CAD softwaru.
+*   **2D na 3D konverze**: Použít DXF pro konverzi 2D layoutů na 3D modely, což umožňuje tvorbu komplexních CAD designů.
+*   **Validace a verifikace návrhů**: Konvertovat XSLFO soubory pro validaci specifikací návrhu, zajištění shody se standardy a detekci potenciálních chyb v CAD modelu.
+*   **Migrace dat a integrace**: Použít DXF pro migraci layoutových dat z archivních systémů, integraci se CAD softwarem a synchronizaci dat mezi různými projekty.
+*   **Automatizované generování designů**: Konvertovat XSLFO soubory pro generování automatických designových šablon, což snižuje manuální práci a zvyšuje produktivitu inženýrům a architektům.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

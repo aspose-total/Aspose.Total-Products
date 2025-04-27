@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru JSON do TGA: Případy použití" %}}
+JSON soubory jsou využívány pro ukládání strukturované data, což je ideální pro tvorbu dynamických datových vizualizací a analýzy. Nicméně, při práci se statickými obrázky se formáty TGA (Truevision TGA) stávají nezbytnými pro účinnou ukládání a manipulaci s obrážkami.
+
+Konverze JSON souborů do formátu TGA je nezbytná, aby jste mohli rozvířit plnou potenciálku svých schopností v oblasti zpracování a manipulace s obrázky. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Automatizované zpracování obráků**: Konvertování JSON souborů pro vytvoření automatizovaných workflowů, optimalizaci úkolů v oblasti zpracování obráků a zrychlení výroby.
+*   **Vytváření obráků na základě dat**: Použití TGA pro generování obráků z dat, jako je textová syntéza obráků, a aplikování modelů strojového učení pro tvorbu obráků.
+*   **Analytická analýza vědeckých obráků**: Konvertování JSON souborů pro analýzu vědeckého obrazu, jako je satelitní fotografie, lékařské zobrazování a astronomické data.
+*   **Vývoj her a renderingu**: Užití TGA pro ukládání 2D a 3D herních assetů, textur a renderovaných obráků s optimalizací výkonu.
+*   **Manipulace a editace obráků**: Konvertování JSON souborů pro aplikování efektů, filtrů a úprav na obrázky, čímž se umožní pokročilá zpracování obráků.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

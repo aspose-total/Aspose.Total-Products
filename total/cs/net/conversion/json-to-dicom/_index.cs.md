@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru JSON do DICOM: Případy použití" %}}
+JavaScriptový obecný náhradní (JSON) soubory jsou široce používány pro výměnu dat mezi aplikacemi díky své lehkosti a snadné dekodování. Nicméně, při práci s medicinskou obrazovou datou se DICOM (Digitální obrazová medicína a komunikace v lékařství) stává oblíbeným standardem.
+
+Výkon převéře souborů JSON na formáty DICOM je nezbytný pro využívání plného potenciálu vašich schopností zpracovávání medicinských dat. Tento převér umožňuje:
+
+**Užití:**
+
+*   **Analyza medicinského obrazu**: Převéřeť soubory JSON, aby jste mohli analyzovat medicinskou obrazovou data, segmentovat nádory a detekovat abnormality.
+*   **Obrazová procesing a zkreslení**: Použijte DICOM pro zlepšení kvality obrazu, odstránění šumu a provedení technických restaurátorских postupů.
+*   **Radiologie – zpráva a workflow**: Převéřeť soubory JSON na standardizovanou zprávu, vygenerujte recepty a automatizujte pracovní postupy v radiologické oddělení.
+*   **Integrace lékařského zařízení se systémem EHR**: Použijte DICOM pro integraci lékařských zařízení se systémy elektronického zdravotního záznamu (EHR), čímž umožníte reálnou monitoringu pacientů a výměnu dat.
+*   **Správa klinických zkoušek a analýza výsledků**: Převéřeť soubory JSON na správu klinických zkoušek, sbíření pacientských dat a analýzu výsledků pomocí standardizovaných DICOM-kompatibilních formátů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -115,7 +115,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do DOT: Případy použití" %}}
+Rozložití plného potenciálu vašeho diagrammingu je nezbytné pro převěření TeX souborů do formátu DOT. Toto převěření vám umožňuje:
+
+**Užití:**
+
+*   **Vizuální prezentace**: Převěříte TeX soubory a vytvoříte krásně vypadající diagramy, flowcharty, graphy pro prezentace, zprávy a vzděláníní materiál.
+
+*   **Scientific Diagrams**: Použijte DOT formáty k vytvoření komplexních vědeckých diagramů, jako jsou obvody, sítě a hierarchické struktury.
+
+*   **Technická dokumentace**: Převěříte TeX soubory a vytvoříte interaktivní technickou dokumentaci, jako jsou systémy diagramů, komponenty layouty a procesní toky.
+
+*   **Akademický výzkum**: Použijte DOT formáty k vizualizaci výzkumných dat, simulaci systému chování a ilustraci komplexních pojetí v akademických článcích a disertacích.
+
+*   **Kolaborativní návrh**: Převěříte TeX soubory a vytvoříte editelné diagramy, které můžete sdílet s týmovými členy, umožňující reálnou spolupráci a kontrolu verzí.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

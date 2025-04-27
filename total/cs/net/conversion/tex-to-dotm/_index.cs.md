@@ -115,7 +115,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do DOTM: Případy použití" %}}
+Konvertování texových souborů do dotm formátů je nezbytné pro uvolnění plného potenciálu vašeho dokumentu vizualizace a analýzy schopností. Toto konvertování umožňuje:
+
+**Užití:**
+
+*   **Dokumentní publikace**: Konvertovat texové soubory na interaktivní dokumenty, skompilovat bibliografie a vygenerovat citáty.
+*   **Akadémická spolupráce mezi vědeckými kolegy**: Použít dotm pro sdílení dokumentů a sledování verzí.
+*   **Technický psaní a redigering**: Konvertovat texové soubory na formátované dokumenty, automatizovat úpravy a zajistit konzistenci.
+*   **Vědecké generování dokumentů**: Použít dotm pro tvorbu profesionálních vědeckých dokumentů, jako jsou zprávy, disertace a habilitační práce.
+*   **Revize a schválení dokumentů**: Konvertovat texové soubory na editelné šablony, umožnit reálnou dobu zpětný průtok a usnadnit proces revize.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do TGA: Případy použití" %}}
+Markdown soubory (.md) jsou ideální pro vytvoření statičného textu, jako je dokumentace, návody a články. Nicméně, když pracujeme s obrázky, formáty jako Tagged Image File Format (TGA) jsou klíčové pro profesionálkou úpravu a manipulaci s obrázky.
+
+**Nástupní body:**
+
+*   **Digitální fotografie**: Převést MD soubory do vysokokvalitních obrázků, upravit a manipulovat fotografiemi a sdílit je ostatním.
+*   **Vizuální design**: Použít TGA pro vytvoření podrobných grafik, logotypů, ikon a dalších vizuálních prvků pro různé projekty.
+*   **Medicínská zobrazování**: Převést MD soubory pro analýzu medicinského obrázkového dat, vytvoření vizualizací a zpracování výsledků.
+*   **Vědecké vizualizace**: Použít TGA pro vizualizaci komplexních vědeckých dat, jako jsou 3D modely, výsledky simulace a experimentální data.
+*   **Digitální umění a ilustrace**: Převést MD soubory do interaktivních digital artových děl, animací a ilustrací pro různé platformy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

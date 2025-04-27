@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do XLTM: Případy použití" %}}
+XSLFO (Extensible Style Language Formatting Objects) soubory slouží k definování struktury, layoutu a vizuální podoby XML dokumentů. Z tohoto důvodu jsou idealní pro tvorbu formátovaných dokumentů, nicméně při práci s dynamickým obsahem se stávají XLTMs jako Microsoft Word nezbytnými pro editaci a publikování.
+
+Konverze XSLFO souborů do XLTMs je nezbytná, aby jste mohli rozkrýt celou potenciál své dokumentace formátování a editace. Toto konverze vám umožňuje:
+
+**Užití:**
+
+*   **Profesní úpravení dokumentů**: Konvertujte XSLFO soubory pro úpravu a přizpůsobení formátovaných dokumentů, jako jsou resumé, dopisy a zprávy.
+*   **Vydání e-booků**: Používáte XLTMs pro tvorbu interaktivních e-booků s možností úpravy velikosti písma, barvy a layoutu.
+*   **Technická psaní**: Konvertujte XSLFO soubory pro psaní a formátování technických dokumentů, jako jsou uživatelská pravidla, instrukce a návody.
+*   **Vytváření marketingových materiálů**: Používáte XLTMs pro návrh a formátování marketingových materiálů, jako jsou letáky, prospekty a prezentace.
+*   **Zlepšování přístupnosti**: Konvertujte XSLFO soubory pro tvorbu dokumentů se funkcionalitou jako je úprava velikosti písma, vysoký kontrast a podpora pro čteče na obrazovce.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

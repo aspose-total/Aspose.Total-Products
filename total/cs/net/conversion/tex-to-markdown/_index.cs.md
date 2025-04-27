@@ -115,7 +115,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do MARKDOWN: Případy použití" %}}
+Konvertování TeX souborů do Markdown formátů je nezbytné pro rozvíjet plnou potenciál svého dokumentu při redigování. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Publikování vědeckých výzkumů**: Převést TeX soubory na dobře strukturované dokumenty, složit bibliografii a vygenerovat seznam obsiahů.
+*   **Vytváření technické dokumentace**: Použít Markdown pro vizualizaci komplexních technických informací, vytvořit uživatelské manuály a vývojovské průvodce.
+*   **Redigování blogových článků a článků**: Převést TeX soubory na krásně vypadající blogové články, optimalizovat formátování a zvýšit čitelnost.
+*   **Vývoj návrhů a zpráv**: Použít Markdown pro organizaci dat, sledování citat a prezentaci findings v jednoduchém a stručném způsobu.
+*   **Spoložení na otevřený zdroj**: Převést TeX soubory pro usnadnění spolupráce, dokumentování změn a sdílení znalostí mezi členy týmu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

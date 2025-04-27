@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do DICOM: Případy použití" %}}
+**Páť:** Soubory MD (Medical Document) jsou používány pro ukládání dat z lékařských obrazových snímků, čímž se stávají ideálními pro vytvoření podrobných záznamů o pacientových informacích. Nicméně při práci s oddělením radiologie a lékařskými zařízeními se stává DICOM (Digital Imaging and Communications in Medicine) nezbyknutým pro eficientní sdílení a ukládání obrazových dat.
+
+Konverze souborů MD na formáty DICOM je nezbytná, aby se uvolnilo plné potenciál vašeho lékařského systému pro obrázky. Tato konverze vám umožňuje:
+
+**Nástupky použití:**
+
+*   **Sdílení lékařských obrazů**: Konvertujte soubory MD na DICOM pro sdílení lékařských snímků mezi nemocnicemi, klinikami a radiology, čímž se zajišťuje správně diagnózování a léčbu.
+*   **Řízení oddělením radiologie**: Používáte DICOM pro řízení pacientových záznamů, sledování objednavání snímků a optimalizaci toku práce.
+*   **Ukládání a hledání obrazů**: Konvertujte soubory MD na DICOM pro bezpečné ukládání lékařských snímků, aby byli přístupní pro budoucí referenci nebo analýzu.
+*   **Systemy podpory klinického rozhodování**: Používáte DICOM pro integraci lékařských snímků se systemy podpory klinického rozhodování, čímž vám umožňují zdravotníci vykonávat informované rozhodnutí.
+*   **Obyčajné požadavky na regulace**: Konvertujte soubory MD na DICOM pro splnění požadavků na regulaci, jako je HIPAA, tím, že ukladáte a sdílíte lékařské snímky v bezpečném a konformním způsobem.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

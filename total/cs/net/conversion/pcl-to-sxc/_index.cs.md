@@ -106,7 +106,25 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PCL do SXC: Případy použití" %}}
+Soubory PLC (Programmable Logic Controller) jsou využity pro ukládání průmyslových kontrolních informací, což je ideální pro tvorbu automatizačních řešení a optimalizace procesů. Nicméně při práci s non-industrialními daty se stává tabulkařským softwarem jako SXC nezbytným pro vizualizaci a analýzu dat.
+
+Konverze PLC souborů do formátů SXC je nezbytná, aby jste mohli uvolnit plný potenciál svých schopností ve vizualizaci a analýze dat. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Optimizace supply chainu**: Konvertování PLC souborů pro analýzu výrobních plánů, sledování úrovně inventáře a identifikace překážek v supply chainu.
+
+*   **Zlepšení výrobního procesu**: Vizualizace výrobní data pomocí SXC, optimalizace výrobních toků a měření účinnosti zařízení.
+
+*   **Řízení energetiky**: Konvertování PLC souborů pro tvorbu modelů použití energie, simulaci výkonnosti budov a validaci strategií na ušetření energie.
+
+*   **Kvalitní kontrola a zajištění kvality**: Analyza dat o kontrole kvality, sledování vadů a identifikace oblastí pro zlepšení výrobního procesu.
+
+*   **Vytváření hlásených tabulok a dashboardů**: Konvertování PLC souborů pro tvorbu interaktivních dashboardů, zpráv a vizualizací pro zástupce, čímž se zlepšuje rozhodování.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

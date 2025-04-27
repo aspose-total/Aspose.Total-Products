@@ -115,7 +115,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do POTX: Případy použití" %}}
+Konverze TeX souborů do formátu PowerPoint (.potx) je nezbytná pro maximální využití schopností vašeho návrhového designu. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Obchodní prezentace**: Vytvořit krásné prezentace, prezentace a infografiky pro zákazníky, partnery nebo vnitřní stakeholdery.
+*   **Akademická výzkumová prezentace**: Použít PowerPoint na vizualizaci komplexních dat výzkumu, ilustrování výsledků a prezentování researchových findings ve čisté a stručné formě.
+*   **Technická písanost a dokumentace**: Konvertovat TeX soubory na profesionálně vypadající dokumentaci, uživatelské manuály a průvodce pro softwarové aplikace, hardwarové zařízení nebo technické procesy.
+*   **Umělecké a designové projekty**: Použít PowerPoint na realizaci uměleckých vizíonů, vytvoření interaktivních multimediálních prezentací a sdružování kreativních ideas s diváky po celém světě.
+*   **Vývoj výchovného obsahu**: Konvertovat TeX soubory na engaging výchovné materiály, kurikuly a učebnice, které vyhovují různým způsobům učení a učení.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XPS do DICOM: Případy použití" %}}
+XPS (XML Paper Specification) soubory jsou využity pro ukládání informací o rastrové grafice, což je ideální pro tvorbu statických dokumentů a obrazců. Nicméně při práci s medicínskou zobrazovacími daty se DICOM (Digital Imaging and Communications in Medicine) soubory stávají nezbytnými pro vizualizaci a analýzu obrazů.
+
+Konverze XPS souborů na formáty DICOM je nezbytná, aby jste mohli rozluštit plný potenciál svých schopností ve vizualizaci a analýze medicínských dat. Tato konverze vám umožňuje:
+
+**Užití:**
+
+* **Analyza radiologických obrazců**: Konvertování XPS souborů pro analýzu radiologických obrazů, jako jsou rentgenové snímky, CT scany a MRI, pro diagnostické účely.
+* **Výměna dat mezi zdravotními poskytovateli a výrobcemi lékařských zařízení**: Použití DICOM pro výměnu dat o pacientech a jejich výsledcích mezi zdravotnickými zařízeními a výrobci lékařského vybора.
+* **Výzkum a vývoj**: Konvertování XPS souborů pro tvorbu digitálních modelů lékařských zařízení, simulaci jejich chování a validaci návrhů konstrukcí.
+* **Obražová procesing a zkreslení**: Použití DICOM pro zkreslení medicínských obrazů, odstranění šumu a zlepšení jejich kvality.
+* **Ukládání dat a archivování**: Konvertování XPS souborů pro ukládání medicínských obrazů a dat bezpečně a v soulhnutí se zákonovými požadavky.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -58,7 +58,25 @@ document.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do XAMLFLOW: Případy použití" %}}
+Konvertování MD souborů na XAMLFlow formáty je nezbytné pro uvolnění plného potenciálu schopností UI designu.
+
+Toto konvertování umožňuje:
+
+**Použití případů:**
+
+*   **Vývoj knihovny použitelných UI komponent**: Konvertování MD souborů na vytvoření úplné knihovny UI komponent，které lze použít opakovaně a snižuje vývojový čas，zvyšuje konzistentnost mezi aplikacemi.
+
+*   **Kustomizace aplikace**: Použití XAMLFlow pro kustomizaci aplikace，umožňuje vývojářům vytvářet jedinečné vzhledy bez změny základního kódu.
+
+*   **Křížkový návrh UI**: Konvertování MD souborů pro návrh prvků，které lze použít na různých platformách，如 Windows, Web a Mobile.
+
+*   **Implementace designového systému**: Použití XAMLFlow pro实施设计系统，uzpůsobování procesu a zajištění konzistentnosti během celého života aplikace。
+
+*   **Prototýpy UI a testy**: Konvertování MD souborů na interaktivní prototýpy，umožňuje vývojářům testovat a opracovávat návrhy před implementací do produkčního kódu。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

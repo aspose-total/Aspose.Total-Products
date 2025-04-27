@@ -118,7 +118,26 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do FLATOPC: Případy použití" %}}
+**Užití:
+
+*   **Vývoj her**: Přepoznámání OFT souborů k enableingu schopností ve vývoji her, což zahrnuje:
+    *   **Charakterní animace a modelování**: Použití OFT souborů pro vytvoření 3D modelů, animaci characterů a simulaci realistních pohybů.
+    *   **Návrh úrovní a prototýpy**: Přepoznámání OFT souborů pro tvorbu interaktivních návrhů úrovní, testování prototýpů a iteraci herních mechanismů.
+    *   **Speciální efekty a simulace**: Použití OFT souborů pro generování realistických speciálních efektů, simulací a interakcí prostředí.
+
+*   **Architektura a stavební práce**: Přepoznámání OFT souborů k zlepšení procesu architektonického návrhu, stavebních prací a řízení projektů, což zahrnuje:
+    *   **Vytvoření informačních modelů budov (BIM)**: Použití OFT souborů pro vytvoření přesných 3D modelů budov, mobiliáře a zařízení, které usnadňuje spolupráci a výměnu dat.
+    *   **Plánování místa a design**: Přepoznámání OFT souborů pro vizualizaci plánů místa, návrh krajiny a optimalizaci layoutu staveb pro maximální účinnost.
+    *   **Řízení projektů a plánování času**: Použití OFT souborů pro řízení stavebních projektů, sledování progressu a identifikaci potenciálních zpoždění nebo přebytků nákladů.
+
+*   **Filmové a televizní výroba**: Přepoznámání OFT souborů k usnadnění toku pracovního procesu ve vývoji vizualních efektů, animace a postprodukce, což zahrnuje:
+    *   **Vizuální efekty a motion graphics**: Použití OFT souborů pro tvorbu komplexních vizualních efektů, animací a motion graphiců, které životy příběhů uvazují naživu.
+    *   **Charakterní animace a design**: Přepoznámání OFT souborů pro návrh, animaci a simulaci characterů v mnohem efektivnější a realistnější ways.
+    *   **Postprodukce a barvíření**: Použití OFT souborů pro zlepšení barvíření, přidání vizualních efektů a finalizování postprodukčních prací pro kinofilmové vydání.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

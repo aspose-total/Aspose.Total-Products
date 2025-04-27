@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOTX do TSV: Případy použití" %}}
+Výkladem z .dotx souborů do formátu TSV (Tab Separated Values) je nezbytné pro maximální využití vašeho potenciálu v oblasti analýzy dat a vizualizace. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Integrace a slučování dat**: Převést .dotx soubory do TSV formátu pro integraci a slučování dat z různých zdrojů, což usnadňuje rozhodování na základě dat.
+*   **Výzkumná spolupráce**: Použití TSV formátu pro sdílení výzkumných dat s kolaborátory v jiných institucích a zařízeních, čímž se zvýší objevení vědecké discoveries.
+*   **Business Intelligence a reporting**: Převést .dotx soubory do TSV formátu pro vytvoření interaktivních hláseků, dashboardů a vizualizací pro podnikatelské zákazníky, čímž se zvýší informované rozhodování.
+*   **Automatizované zpracování dat**: Použití TSV formátu pro automatizované úpravy, transformace a validaci dat, čímž se zlepší kvalita a přesnost dat.
+*   **Kompatibilita mezi platformami**: Převést .dotx soubory do TSV formátu pro zajištění kompatibility dat na různých platformách, softwaru a zařízeních.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

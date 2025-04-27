@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOTM do FODS: Případy použití" %}}
+**Režimová použitelnost a vydavatelství dokumentů:**
+
+*   **Publikování dokumentů**: Převést .fájn soubory na FODS pro publikování dokumentů, jako jsou zprávy, katalogy a prezentace ve various formáty.
+
+*   **Kooperativní práce a sdílení**: Použití FODS pro spolupráci se ostatními při editaci dokumentů, sdílení souborů a práci s více verzijemi jednoho dokumentu.
+
+*   **Režimová použitelnost dokumentů**: Převést .fájn soubory na tvorbu režírujících šablon, motivů a návrhů layoutu pro budoucí dokumenty, čímž se sníží návrhový čas a zvýší produktivitu.
+
+*   **Analyza dat a vizualizace**: Použití FODS pro vizualizaci dat v dokumentech, tvorbu interaktívních grafů, tabulek a dalších vizuaлизációv pro ziskání vhledu a rozhodování.
+
+*   **Integrace se staršími systémy**: Převést .fájn soubory na integraci se staršími systémy, čímž umožní použití .fájn souborů v starších aplikacích nebo platformách.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

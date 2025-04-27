@@ -118,7 +118,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do TIFF: Případy použití" %}}
+Soubory OFT (Object File Format) slouží ke uloženiu informací o 3D modelách, což je ideální pro tvorbu podrobných modelů a návrhů. Nicméně, když pracujeme s vizualizacemi a prezentacemi, stává se TIFF (Tagged Image File Format) nezbytným pro zobrazení vysokokvalitních obrázků.
+
+Konverze souborů OFT na formáty TIFF je nezbytná, aby jste mohli rozvířit plnou potentialitu svých schopností vizualizace a prezentace. Tato konverze vám umožňuje:
+
+**Některé použití:**
+
+*   **Architektura a výstavba – vizualizace**: Převést soubory OFT na TIFF pro zobrazení podrobných architektonických modelů, návrhů budov a plánů výstavby.  
+*   **Výrobní tisk a animace**: Použít TIFF pro vizualizaci 3D modelů výrobků, tvorbu animací a prezentaci designových konceptů.  
+*   **Medicínská zobrazování a diagnostická analýza**: Převést soubory OFT na TIFF pro sledování medicínských obrazů, analýzu pacientních údajů a podporu rozhodování při diagnózách.  
+*   **Vědecká vizualizace a výzkum**: Použít TIFF pro zobrazení komplexních vědeckých dat, jako jsou 3D simulace, experimentální výsledky a vizualizace.  
+*   **Marketing a reklama – vizualizace**: Převést soubory OFT na TIFF pro tvorbu interaktivních prezentací,展示 výrobků a marketingových materiálů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

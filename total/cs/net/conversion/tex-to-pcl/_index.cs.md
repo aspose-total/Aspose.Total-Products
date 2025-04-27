@@ -115,7 +115,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do PCL: Případy použití" %}}
+Texové soubory jsou určeny pro ukládání textu, což je ideální pro tvorbu technických dokumentů a publikací. Nicméně při práci s grafickými daty se stává formáty jako PCL (Printer Command Language) nezbytnými pro výstup vysoké kvality.
+
+Konverze Texových souborů do PCLových forem je nezbytná, aby se využilo plná potence vašeho tiskového vybavení. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Vytváření technického dokumentu**: Konvertování Texových souborů pro analýзу a optimalizaci obsahu technického dokumentu, zajišťující přesnou formátování a úpravy.
+*   **Optimalizace výstupu grafických dat**: Použití PCL pro vizualizaci grafických dat, simulaci tiskového procesu a validaci návrhů designu pro vysoké kvality tisku.
+*   **Formátování vědeckých publikací**: Konvertování Texových souborů pro tvorbu formátovaných vědeckych článků, časopisů a publikací, včetně obrázků, tabulek a figur.
+*   **Integrace se systémy automatického tisku**: Konvertování Texových souborů pro integraci se systémy automatického tisku, umožňující efektivní a vysoké kvality výrobu tisku.
+*   **Vývoj a vývoj layoutu**: Použití PCL pro vizualizaci návrhů layoutu, optimalizaci tipografie a měření přesnosti formátování a prostoru.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

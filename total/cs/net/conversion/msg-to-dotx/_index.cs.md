@@ -58,7 +58,19 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MSG do DOTX: Případy použití" %}}
+Rozkrýt potenciál vašeho prezentaceho obsahu a formátování je základním důvodem pro konverzi souborů MSG na formáty DOTX.
+
+**Use Cases:**
+
+* **Obchodní zpráva**: Výroba profesionálních vyhlášek, prezentací a slайдů, které zobrazují společnostnu informaci, finanční data a klíčové ukazatele výkonu.
+* **Marketingové materiály**: Vý用 DOTX pro návrh atraktivních marketingových materiálů, jako jsou letáky, plakáty a prodejní listy s dynamickým obsahem a formátováním.
+* **Akce a propagační materiál**: Výroba vidětelných propagandních materiálů na akce, jako jsou pozvánky, programy a rozvrhy, které uchovají pozornost účastníků.
+* **Školení a manuál**: Výroba interaktických školení a průvodců, jako jsou uživatelské manuály, návody a průvodce, využívající formáty DOTX s dynamickým obsahem a multimediální prvky.
+* **Osobní projekty**: Vý用 DOTX pro návrh osobních projektů, jako jsou rodinné dědičky, albomky a scarpbuky, s dynamickým obsahem a možnostmi úpravy layoutu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

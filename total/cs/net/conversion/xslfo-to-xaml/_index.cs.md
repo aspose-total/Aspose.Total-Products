@@ -140,7 +140,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do XAML: Případy použití" %}}
+**XSLFO (Extenzivní stylové formátovací objekty) soubory jsou určeny pro ukládání formátovaného textu, což je ideální pro tvorbu dokumentů s komplexními layouty a stylizací. Nicméně při práci s více dynamickými a interaktivními uživatelskými rozhraními se stává XAML (Extenzivní aplikační markup语言) nezbytným pro výstavbu silných a吸引jících aplikací.
+
+Výkon převodu XSLFO souborů na formáty XAML je nezbytný, aby bylo možné uvolnit plnou potenciál vizuální designu a interaktivních schopností vašeho aplikace. Tento převod umožňuje:
+
+**Němoci:**
+
+*   **Publikování e-booků**: Převést XSLFO soubory na tvorbu interaktivních e-booků s dynamickými layouty, animacemi a multimediálními obsahy.
+*   **Vývoj mobilních aplikací**: Použití XAML pro výstavbu uživatelských rozhraní pro mobilní aplikace, využívajících zařízenípecifických funkcí a schopností.
+*   **Vývoj desktopových aplikací**: Převést XSLFO soubory na tvorbu vizálně přitažlivých desktopových aplikаций, využívajících silných stylů a layoutních kontrol XAML.
+*   **Vývoj webových aplikací**: Použití XAML pro výstavbu webových aplikаций s bohatými, interaktivními uživatelskými rozhraními, využívajícími sílu XAML pro dynamickou tvorbu vizuální designu.
+*   **Vytváření AR/VR zážitků**: Převést XSLFO soubory na tvorbu imersivních AR/VR zážitků, využívaliXAML的3D modelování a animace.**
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

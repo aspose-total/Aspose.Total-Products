@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOTX do SXC: Případy použití" %}}
+**Užití:**
+
+*   **Vývoj a analýza produktů**: Převést SXC soubory pro analýzu dat v rámci vývoje produktů, simulaci uživatelských zkušeností a validaci konceptů designu.  
+*   **Vědecká vizualizace**: Použít SXC k vizualizaci komplexních vědeckých dat, jako jsou 3D modely, výsledky simulačních běží a experimentální data.  
+*   **Zpráva dat a tvorba dashboardů**: Převést SXC soubory pro vytvoření interaktivních dashboardů, zpráv a vizualizací pro zákazníky, čímž se zlepšuje rozhodování.  
+*   **Optimizace marketingových kampaní**: Použít SXC k vizualizaci dat o marketingových kampaních, optimalizaci strategií a měření návratnosti na investici.  
+*   **Analyza chování zákazníků**: Převést SXC soubory pro analýzu chování zákazníků, sledování prodejních trendů a identifikace模式。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

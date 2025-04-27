@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru POTM do XLT: Případy použití" %}}
+Pro plné využití potenciálu vašeho nástroje pro vizualizaci a analýzu dat je nezbytná konverze souborů POTM na formáty Excel, konkrétně na XLT formáty. Konverze POTM na XLT umožňuje využívat pokročilé funkce jako podmíněné formátování, grafy a formule.
+
+**Nástupní body:**
+
+* **Finanční analýza**: Převést POTM soubory na XLT pro analýzu finančních dat, sledování trendů rozpočtu a identifikace oblastí, kde je možné ušetřit náklady.
+* **Predikce prodeje**: Použít XLT k vytvoření interaktivní prediky prodeje, vizualizaci dat prodeje a učítění podnikových rozhodnutí.
+* **Vývoj marketingové strategie**: Převést POTM soubory na XLT pro vytvoření vlastních dashboardů, hláseků a vizualizací pro týmy marketingu, čímž se zlepšuje vývoj strategie.
+* **Business Intelligence.Reporting**: Použít XLT k vytvoření interaktivních hláseků Business Intelligence, vizualizaci klíčových ukazatečů (KPI) a metrik.
+* **Vizualizace dat a příběhy**: Převést POTM soubory na XLT pro vytvoření přívětu dat s použitím grafů, diagramů a dalších elementů vizualizace.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

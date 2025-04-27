@@ -115,7 +115,17 @@ presentation.Save("output.potm", SaveFormat.Potm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου TEX σε POTM μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Για Πωλήσεις Μετατροπών:
+
+- Εκδοση Ακαδημαϊκών Πρακτικών ή Σπουδών
+- Τεχνική Υποδοχή και Οδηγοί Χρήστη
+- Ακαδημαϊκές Παρουσιάσεις ή Σλάιντ-Σόου
+- Συνοδική Υποδοχή σε Προγραμμάτα Ανάπτυξης
+- Γραπτή Επιστήμη ή Τεχνικά Συγγράφοι
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

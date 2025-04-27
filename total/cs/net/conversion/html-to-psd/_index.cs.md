@@ -106,7 +106,24 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru HTML do PSD: Případy použití" %}}
+Vývoj a identifikace značky:  
+Vývoj a identifikace značky a barvy je klíčový krok pro vytvoření jednotného vizuálního zážitku na všech platformách.  
+
+Návrh UI/UX:  
+PSD formáty umožňují návrh interaktivejších uživatelských rozhraní, prototypování webových aplikací a testování scénářů použití.  
+
+Vytvoření layoutu webové stránky:  
+Konverze HTML souborů do PSD formatů umožňuje vytvoření krásných layouts webových stránek, rozmístění obsahu se bílým prostorem a stanovení hierarchie informace.  
+
+Kampány na digitální marketing:  
+PSD formáty jsou vhodná pro návrh očarovaných emailových newsletter, sociálních médií a online reklam, které chytí pozornost uživatele a vyvolají jeho účast.  
+
+Webová dostupnost a inkluzivnost:  
+Konverze HTML souborů do PSD formatů umožňuje vytvoření webových stránek přístupných všem, včetně lidí se zdravotními omezeními, a tím podporuje inkluzivní návrh v digitálním designu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

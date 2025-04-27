@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do MD: Případy použití" %}}
+XSLFO (Extenzivní stylové formátovací objekty) soubory jsou určeny pro definování layoutu a prezentace dokumentů, což je ideální pro tvorbu strukturovaných dokumentů a publikací. Nicméně, když pracujeme se dynamickým obsahem, Markdown (MD) stává se nezbytným pro textové formátování a organizaci.
+
+Konverze XSLFO souborů do Markdownových forem je nezbytná, aby se uvolnilo plná potence struktury a schopnosti vašeho dokumentu v oblasti prezentace. Tato konverze vám umožňuje:
+
+**Některé použití:**
+
+*   **Knihovní vydavatelství**: Převést XSLFO soubory na tvorbu interaktivních e-knih, článků a publikací s personalizovanými layouty a formátováním.
+*   **Dokumentový šablonování**: Použít Markdown pro generování konsistentních, profesionálně vypadajících dokumentů s strukturovaným obsahem a stylízacími možnostmi.
+*   **Vytváření webových obsazení**: Převést XSLFO soubory na tvorbu dynamických webových stránek s formátovaným textem, obrázky a multimediálními obsahy.
+*   **Technická písanost**: Použít Markdown pro autorskou a formátovací práci na technickou dokumentaci, jako jsou uživatelská pravidla, návody a tutoriály.
+*   **Digitální vydavatelství**: Převést XSLFO soubory na tvorbu interaktivních digitálních časopisů, novin a publikací s personalizovanými layouty a formátováním.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

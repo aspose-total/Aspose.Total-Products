@@ -140,7 +140,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do SWF: Případy použití" %}}
+Soubory XSLFO (Extensible Stylesheet Language Formatting Objects) jsou určeny pro ukládání informací o formátování dokumentů a proto jsou nejlepší pro vytvoření hotových kopiček pro tisk. Nicméně, když se jedná o interaktivní obsah, stává se nezbytné použití Adobe Flash souborů pro zvýšení účasti a zlepšení uživatelského zážitku.
+
+Převést soubory XSLFO na formáty SWF je nezbytné, aby se dosáhl plného potenciálu vašeho interaktčního obsahu. Toto převést vám umožní:
+
+**Výrazy webové obsahy:** Převést soubory XSLFO na tvorbu interaktivních stránek s animacemi, přechody a efekty.
+
+**Vzdělání a e-learning:** Použitie SWF pro interaktivní kurzy, kvízy a hodnocení.
+
+**Mobilní aplikace:** Vytvoření aplikací s dynamickým obsahem jako jsou grafika, videa a zvukové záznamy.
+
+**Ludobranství a simulace:** Tvorba interaktivních simulací a her pro zvýšení účasti.
+
+**Řičné média prezentace:** Použitie SWF pro tvorbu multimédiálních prezentací s animacemi, videozáznamy a zvukovými klipy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -115,7 +115,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru SVG do DOT: Případy použití" %}}
+SVG (Scalable Vector Graphics) soubory jsou využívány pro ukládání informací o vektorových obrácích, což je ideální pro tvorbu statických grafik a ilustrací. Nicméně, když pracujeme s dynamickými údajemi, programy jako Adobe Illustrator jsou nezbytné pro data visualizaci a analýzu.
+
+Konverze SVG souborů do formátu DOT je nezbytná, aby se mohlo využít plné potenciál network topology a layoutových schopností. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Visualizace síťové topologie**: Konvertování SVG souborů pro vizualizaci síťových topologií, zobrazující upevnené uzly a jejich rozložení.
+*   **Analyza layoutu pro návrh sítí**: Využití DOT pro analýzu a optimalizaci layoutů sítí, identifikování účinných trasových cest a snižování koncentrace.
+*   **Modelování dat na základě grafů**: Konvertování SVG souborů pro modelování komplexních vztahů mezi údajemi ve formě grafů, což usnadňuje identifikaci模式和聚类。
+*   **Detekce společenství v sociálních sítích**: Využití DOT pro vizualizaci struktur společenství v sociálních sítích, odhalování skrytých vzorů a spojek.
+*   **Clusterizace hierarchická analýza**: Konvertování SVG souborů pro provádění hierarchické clusterizace na uzlech síťí, odhalování skupin se podobnými vlastnostmi.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

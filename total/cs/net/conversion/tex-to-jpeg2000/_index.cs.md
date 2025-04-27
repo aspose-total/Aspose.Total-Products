@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do JPEG2000: Případy použití" %}}
+Výkon konverze TeX souborů na JPEG2000 obrázky je nezbytný pro maximální využití schopností svého systému digitálního správy aktív. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Publikování e-booků**: Konvertovat TeX soubory na interaktivní, zoomovací a skalární e-books se vysokou kvalitou obráků.
+*   **Správa technického dokumentu**: Použít JPEG2000 pro ukládání a správu technických dokumentů, jako jsou manuály, průvodci a blueprints.
+*   **Vědecká výzkum a publikování**: Konvertovat TeX soubory na publikacihotepné obrázky a ilustrace, zajistit jednotnost a kvalitu výstupních materiálů pro výzkum.
+*   **Online vzdělávání a školení**: Vytvořit interaktivní vzdělávací zdroje konverzí TeX souborů na JPEG2000 obríky, umožňující flexibilní tvorbu učebních materiálů.
+*   **Digitální správa aktív**: Použít JPEG2000 pro ukládání a správu velkých sbírů technických dokumentů, obráků a videozáznamů, zlepšující spolupráci a přístupnost.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

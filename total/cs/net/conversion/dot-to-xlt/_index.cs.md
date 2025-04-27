@@ -106,7 +106,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOT do XLT: Případy použití" %}}
+Výkon konverze soubor DOT na formáty XLT umožňuje rozložit potenciál vašeho data vizualizace a analýzy. Tato konverze vám umožní:
+
+**Užití:**
+
+*   **Vytváření interaktických prezentací pro marketing**: Konvertovat DOT soubory do interaktivních návrhů prezentací, přidávat multimediální prvky a animovat layouty.
+
+*   **Modelování podnikatelských procesů**: Používat XLT k vizualizaci složitých podnikatelských procesů, modelování toku práce a dokumentování rozhodujících postupů.
+
+*   **Technická psaní a dokumentace**: Konvertovat DOT soubory do technické dokumentace, vytvářet tabulky obsahu a spravovat odkazy.
+
+*   **Vizualizace dat a reporting**: Používat XLT k vytvoření interaktivních vizualizací dat, zpráv a dashboardů pro zástupce, čímž se zlepšuje rozhodování.
+
+*   **Správa spolupracujících dokumentů**: Konvertovat DOT soubory ke spolupráci s týmovými členy, sledování verzí dokumentu a udržení historie dokumentace.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

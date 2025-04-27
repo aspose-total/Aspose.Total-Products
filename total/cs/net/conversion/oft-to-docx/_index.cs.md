@@ -118,7 +118,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do DOCX: Případy použití" %}}
+**Use Cases:**
+
+*   **Analyzing project proposal data using OFT files**: Convert OFT files to analyze project proposal data, track progress, and identify potential issues.  
+*   **Vývoj podnikatelského plánu – použití DocX pro vizualizaci dat a tvorbu podrobných finančních prognóz**: Use DocX to visualize business plan data, create detailed financial projections, and validate strategy assumptions.  
+*   **Revize politického dokumentu – konverze OFT souborů pro sledování změn a analýзу soulhodu**: Convert OFT files to review policy document data, track changes, and analyze compliance.  
+*   **Příprava daňových přiznání – použití DocX pro zjednodušení finančních dat a zajištění přesnosti**: Use DocX to prepare tax returns, reconcile financial data, and ensure accuracy.  
+*   **Výběr žádostí o granty – konverze OFT souborů pro hodnocení údajů a identifikaci oblastí pro zlepšení**: Convert OFT files to evaluate grant application data, assess eligibility, and identify areas for improvement.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

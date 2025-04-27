@@ -115,7 +115,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do POTM: Případy použití" %}}
+**Pro konverzní případy:**
+
+*   **Výzkum a publikace článků**: Překladat Texové soubory tak, aby bylo možné uvolnit plnou potenciálku publikace vědeckých článků s přesným a profesním formátováním.  
+*   **Technická dokumentace a průvodce uživatelem**: Použít formáty PotM pro vytvoření interaktivní technické dokumentace, průvodců uživatelem a manuálů pro softwarové aplikace, hardwarové zařízení a složité systémy.  
+*   **Akademické prezentace a prezentace v PowerPoint**: Překladat Texové soubory tak, aby bylo možné představit výzkum, analýzy dat a akademické přednášky v čitelném a přívodném způsobu.  
+*   **Vývoj softwaru a dokumentace kódu**: Použít formáty PotM pro vytvoření čitelné a udržetelné dokumentace kódu, komentářů a systémů kontroly verzí pro vývoj softwaru.  
+*   **Technická tvorba a články**: Překladat Texové soubory tak, aby bylo možné vytvořit dobře strukturované a vizuálně přívodné články, blogy a technickou tvorbu na různá témata jako jsou technologie, věda a inženýrství.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

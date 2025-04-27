@@ -106,7 +106,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOT do JSON: Případy použití" %}}
+Konverze DOT souborů do formátu JSON je nezbytná pro uvedení na maximum vašich schopností vizualizace a analýzy dat.
+
+**Use Cases:**
+
+1. **Import a integrace dat**: Konvertujte DOT soubory do formátu JSON pro bezprostřední integraci se všemi nástroji a systémy, které podporují formát JSON.
+   
+2. **Výstupu DOT souborů jako REST API**: Use JSON to expose DOT file data as a RESTful API, facilitating data exchange between applications and services.
+
+3. **Ukládání, sdílení a spolupracování na DOT souborech v cloudech**: Convert DOT files to JSON, making it easy to store, share, and collaborate on DOT files in cloud storage solutions like AWS S3 or Google Cloud Storage.
+
+4. **Výstupy strojového učení z DOT souborů jako API**: Use JSON to deploy DOT file-based machine learning models as APIs, enabling model deployment on various platforms that support JSON data format.
+
+5. **Vázání dat z DOT souborů do uživatelských rozložení webové aplikace**: Convert DOT files to JSON, allowing web applications to bind DOT file data directly to user interfaces, enhancing the overall user experience.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

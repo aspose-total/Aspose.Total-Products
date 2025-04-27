@@ -58,7 +58,23 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do WORDML: Případy použití" %}}
+Výkon konverze souborů Markdown (MD) na formát WordML je nezbytný pro využívání plného potenciálu vašeho dokumentu ve formátování a úpravách. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Technická písanost a dokumentace**: Konvertovat MD soubory na vytvoření technických dokumentů, uživatelských návodu a průvodců, které vyhovují požadavkům Microsoft Office.
+
+*   **Obchodní komunikace**: Použít WordML na vytvoření obchodních zpráv, návrhů a prezentací, které jsou kompatibilní s aplikacemi Microsoft Office.
+
+*   **Akadémická publikace**: Konvertovat MD soubory na podání vědeckých článků a článků v formátu WordML pro recenzování a publikování.
+
+*   **Marketink a prodejní materiál**: Vytvořit marketingový materiál, jako jsou letáky, prospekty a prodejní listy v formátu WordML, aby bylo možné prezentovat informaci o produktech a akcích.
+
+*   **Vývoj e-learningového obsahu**: Použít WordML na vytvoření vzdělávacího obsahu, materiálů pro kurzy a školení, které lze snadno importovat do aplikací Microsoft Office.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

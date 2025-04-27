@@ -140,7 +140,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do SVG: Případy použití" %}}
+Soubory OFT (Object Template File) slouží ke skladování dat objektů 2D i 3D, což je ideální pro tvorbu složitých modelů a návrhů. Nicméně, když pracujeme s grafickými představitelkami, formáty SVG (Scalable Vector Graphics) získávají na důležitost díky své skaly, flexibiliti a přístupnosti.
+
+Konverze souborů OFT na formáty SVG je nezbytná pro uvolnění plného potenciálu vašich schopností v oblasti designu. Tato konverze vám umožňuje:
+
+**Němoci:**
+
+*   **Vytváření logotypů a brandingu**: Konvertujte soubory OFT na skaláblní logoty, ikony i grafiky, které lze využívat na各种平台.
+*   **Vytváření infografik**: Použijte SVG pro vizualizaci dat v zábavné a interaktivní podobě, což je ideální pro infografiky, diagramy a graphy.
+*   **3D modelování a animace**: Konvertujte soubory OFT na 2D představy, které lze animovat pomocí SVG a vytvořit složité motion graphics.
+*   **UI/UX design**: Použijte SVG pro tvorbu responsivních ikon, tlačítků i jiných interaktivních prvků, které lze využívat na各种 zařízení a platformy.
+*   **Vývoj her a simulací**: Konvertujte soubory OFT na 2D nebo 3D představy, které lze integrovat do her a simulací pomocí SVG.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

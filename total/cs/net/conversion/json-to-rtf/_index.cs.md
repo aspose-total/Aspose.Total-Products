@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru JSON do RTF: Případy použití" %}}
+JSON (JavaScript Object Notation) soubory jsou používány pro ukládání dat v lehkém, člověčném formátu, čímž se stávají ideálem pro výměnu dat mezi webovými serveri a aplikacemi. Nicméně, když pracujeme s desktop publishing a tvorbou dokumentů, stává se RTF (Rich Text Format) nezbyknutím pro tvorbu složitých dokumentů a layouts.
+
+Konverze JSON souborů do RTF formátů je nezbyknutá, pokud chceme využít plnou kapacitu našich schopností ve tvorbě dokumentů. Tato konverze nám umožňuje:
+
+**Užití:**
+
+*   **Automatizace dokumentů**: Konvertovat JSON soubory pro tvorbu dynamických dokumentů, automatizaci pracovních postupů a integraci dat ze různých zdrojů.
+*   **Spoluautorská tvorba textu**: Použít RTF pro spolupráci se týmy při tvorbě složitých textových projektů, sledování změn a řízení revizií.
+*   **Vytváření e-booků**: Konvertovat JSON soubory pro tvorbu interaktivních e-booků, simulaci čtenářských zkušeností a validaci formátů obsahu.
+*   **Vydavatelství vědeckých publikací**: Použít RTF pro vizualizaci vědeckých dat, jako jsou matematická rovnání, diagramy a tabulky, v profesionálním formátu.
+*   **Vytváření šablon dokumentů**: Konvertovat JSON soubory pro tvorbu přizpůsobivých dokumentových šablon, automatizaci formátování a integraci pravidelných prvků.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

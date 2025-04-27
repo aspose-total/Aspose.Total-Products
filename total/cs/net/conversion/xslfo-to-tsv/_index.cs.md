@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do TSV: Případy použití" %}}
+XSLFO (Extensible Stylesheet Language Formatting Objects) soubory jsou určeny pro definování layoutu a formátování dokumentů, což je ideální pro tvorbu strukturovaného obsahu. Nicméně, když pracujeme s tabulárními daty, TSV (Tab Separated Values) hraje klíčovou úlohu při výměně a analýze dat.
+
+Konverze XSLFO souborů do formátů TSV je nezbytná pro uvolnění plného potenciálu vašeho systému v oblasti výměny a analýzy dat. Tato konverze vám umožňuje:
+
+**Nástupní body:**
+
+*   **Migrace dat**: Konvertování XSLFO souborů do TSV formátu pro migraci strukturovaného obsahu z archaicních systémů, zajistí hladkou integraci se současnými aplikacemi.
+*   **Sběr obsahu**: Použití TSV pro sběr strukturovaného obsahu z několika zdrojů, vytvoření jednotného pohledu na data pro analýzu a generování hlásených zpráv.
+*   **Business Intelligence Reporting**: Konvertování XSLFO souborů do interaktivních hlásených zpráv pro business intelligence, využívání TSV pro vizualizaci dat a jejich analýzu.
+*   **Automatizované testování**: Použití TSV pro automatizované testování procesů, konvertování XSLFO souborů do strukturovaného testovacího data pro efektivní a spolehlivé testovací procesy.
+*   **Integrace dat**: Konvertování XSLFO souborů pro integraci strukturovaného obsahu se jinými zdroji dat, umožnění reálné synchronizace dat včítajících k rozhodnutí.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

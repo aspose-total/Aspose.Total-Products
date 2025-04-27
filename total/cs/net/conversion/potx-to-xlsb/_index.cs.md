@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru POTX do XLSB: Případy použití" %}}
+**Užití případů:**
+
+* **Optimalizace návrhu**: Přeměnit POTX soubory na uvolnění plného potenciálu vašeho návrhových schopností, umožňující analýzu a opracování layouts, šablon a formátů.  
+* **Příprava na tisk a publikování**: Použití XLBS na přípravu návrhů pro tisk, zajištění vysoké kvality výstupu a přesného zobrazení barvy.  
+* **Kolaborace a spolupráce**: Přeměnit POTX soubory na vytvoření interaktických dokumentů, povolení reálného komentování večným týmu a podporu spolupráce.  
+* **Správa digitálních aktiv**: Použití XLBS pro ukládání a správu digitálních aktiv, jako jsou obrázky, grafy a čísla, do jednoho přístupného místa.  
+* **Business intelligence a reporting**: Přeměnit POTX soubory na generování podrobných zprávy, sledování klíčových ukazatelů (KPI) a analýzu podnikatelských informací.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

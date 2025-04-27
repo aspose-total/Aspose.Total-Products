@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru POT do XLTX: Případy použití" %}}
+**Užití kase:**  
+
+*   **Validace návrhu produktu**: Převést POT soubory pro analýzu návrhů produktů, validaci uživatelských zkušeností a optimalizaci konceptů designu.  
+*   **Spoluúčast na technické dokumentaci**: Použít XLTX k spolupráci se stakeholdery na technickou dokumentaci, vytvoření interaktivních průvodců a sledování změn.  
+*   **Vývoj prezentací**: Převést POT soubory pro tvorbu osvědčivých prezentací, zahrnutí multimédia a efektivní přednesení obsahu.  
+*   **Vytvoření obchodních návrhů**: Použít XLTX k vytvoření přesvědčivých obchodních návrhů, prezentaci datových argumentů a získání financování.  
+*   **Vývoj učebních manuálů**: Převést POT soubory pro tvorbu interaktivních učebních manuálů, simulaci reálného světa a zvýšení profičenosti uživatele.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

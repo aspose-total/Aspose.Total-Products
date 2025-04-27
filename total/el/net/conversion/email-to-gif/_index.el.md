@@ -58,7 +58,11 @@ document.Save("output.gif", SaveFormat.Gif);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου EMAIL σε GIF μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Η μετατροπή εμαιλών σε μορφή GIF είναι απαραίτηλη για να αποκλειστεί η πλήρη δυναμική των δυνατοτήτων σας για το περιεχόμενο σας.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -118,7 +118,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do PDF: Případy použití" %}}
+Výkladem ODF (OpenDocument Format) souborů do PDF formátů je nezbytné pro maximální využití vašeho sdílení a spolupráce s dokumenty. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Akadematická výzkumná spolupráce**: Převést ODF soubory pro analýzu výzkumných dat, sledování pokroku a identifikace vzorů ve spolupráci.
+*   **Automatizované podnikové dokumenty**: Použít PDF pro vytvoření standardizovaných podnikových dokumentů, automatizaci pracovních postupů a snížení chybí.
+*   **Vývoj vládních politik**: Převést ODF soubory pro tvorbu informovaných rozhodnutí, spolupráci se zainteresovanými stranami a sdílení znalostí.
+*   **Vzdělání a školení materiálů**: Použít PDF pro distribuci interaktivních učebních materiálů, sledování pokroku studentů a validaci výstupu.
+*   **Nesociální organizace publikování**: Převést ODF soubory pro vytvoření sdílných publikací, rozdělení informací a zapojení veřejnosti.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

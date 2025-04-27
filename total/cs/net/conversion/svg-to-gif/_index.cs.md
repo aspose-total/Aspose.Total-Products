@@ -115,7 +115,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru SVG do GIF: Případy použití" %}}
+SVG (Scalable Vector Graphics) soubory jsou určeny pro ukládání informací o vektorových grafikách, což je ideální pro tvorbu skaláblných a pružných grafických ilustrací. Nicméně, když se jedná o rasterovou data, pak se GIF (Graphics Interchange Format) stává nezbytným pro uchování rychlých pohybů a animací.
+
+Konverze SVG souborů do formátu GIF je nezbytná, aby bylo možné uvolnit plnou potenciál vaší vizuální obsahové a animační schopnosti. Toto konverze umožňuje:
+
+**Užití:**
+
+*   **Animační branding**: Konvertování SVG souborů pro tvorbu animovaných logotypů, ikon a prvků značky, které chytí pozornost a předají poselství.
+*   **Vytváření obsahu pro sociální média**: Použití GIFů pro vizualizaci a sdílení angažujících obsahů na platformách jako jsou Twitter, Instagram a Facebook.
+*   **Kampány marketingu a reklamy**: Konvertování SVG souborů pro tvorbu animovaných GIFů, které propagují produkty, služby a události, vytvářející buzz a excitament mezi cílovou veřejností.
+*   **Animační stránky webu**: Použití GIFů pro přidání interaktivních a angažujících animací na webech, zvýšení užívání a zlepšení celkové online zkušenosti.
+*   **Motion graphics a filmový obsah**: Konvertování SVG souborů pro tvorbu motion graphiců, animací a filmového obsahu, který chytí diváky a předá komplexní informace zábavnou formou.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

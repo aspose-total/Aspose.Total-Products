@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PCL do PSD: Případy použití" %}}
+Vytváření loga a brandingu: Vytváříme skalární vektorové loga, která jsou udržitelná na různých médiích, zajistující konzistenci.
+
+Infografiky: Používáme PSD formáty pro vytvoření interaktivních infografik, které jsou dokonalým způsobem prezentace složitých dat.
+
+Optimalizace tiskových materiálů: Konvertujeme PCL soubory na PSD formáty pro optimalizaci tiskových materiálů jako jsou business karty, brožury a letáky, čímž snižujeme výrobní náklady.
+
+3D modelování a animace: Používáme PSD soubory pro tvorbu 3D modelů, animací a speciálních efektů pro kinematické zážitky.
+
+Vývoj obalového designu: Konvertujeme PCL soubory na PSD formáty pro vývoj unikátních obalových řešení, která se liší na pobočkách obchodních regálů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

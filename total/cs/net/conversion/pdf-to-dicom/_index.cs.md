@@ -106,7 +106,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PDF do DICOM: Případy použití" %}}
+PDF (Portréfní Dokumentní Formát) soubory jsou určeny pro ukládání a správu fixních layoutových dokumentů, což je ideální pro tvorbu statických hlásených zpráv, manuálů a prezentací. Nicméně při práci s médickým obrazovým datem se DICOM (Digital Imaging and Communications in Medicine) soubory stávají nezbytnými pro ukládání a správu údajů o pacientech.
+
+Konverze PDF souborů na DICOM formáty je nezbytná, aby jste mohli rozvířit plný potenciál svých schopností v oblasti správy médického obrazového data. Tato konverze vám umožňuje:
+
+**Němoci:**
+
+*   **Analyza obrazů**: Konvertování PDF souborů pro analýzu mediczských obrazů, jako jsou X-ray, CT skánce a MRI, k extrakci diagnostických informací.
+*   **Správa záznamu pacienta**: Použití DICOM pro ukládání a správu záznamu pacienta, včetně lékařského dědictví, plánů léčby a výsledků obrazových studií.
+*   **Vytváření radiologického hlášení**: Konvertování PDF souborů pro tvorbu radiologických hlášení, která obsahuje obrázky, měření a diagnózy, potřebné pro klinickou rozhodování.
+*   **Medicínská výzkum a vývoj**: Použití DICOM pro analýzu velkých souborů mediczských obrazů, což usnadňuje výzkum nových léčebních metod a diagnostických technik.
+*   **Ukládání a hledání obrazů**: Konvertování PDF souborů pro ukládání a hledání mediczských obrazů eficientně, zajišťující rychlý přístup k klíčovým informacím o pacientech.
+
+Poznámka: Text byl napsán stejným模式_ jako popsáno v popisu konverze zdrojního formátu (PDF) na cílový formát (DICOM).
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

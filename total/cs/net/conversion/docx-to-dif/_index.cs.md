@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOCX do DIF: Případy použití" %}}
+**Use Cases:**
+
+*   **Analyza dokumentu**: Převést soubor DocX k analýze obsahu dokumentu, sledování změn a identifikace vzorů ve datech.  
+*   **Optimalizace podnikových procesů**: Použití DIF k vizualizaci údajů o podnikových procesech, optimalizaci toku úpravení a měření produktivity.  
+*   **Odpovědnost a správní hlásení**: Převést soubor DocX k vytvoření konformních zpráv, sledování pravidel regulace a ověřování přesnosti dat.  
+*   **Správa obsahu a archivování**: Použití DIF ke správě a archivování obsahu, zajištění uchování a přístupnosti dat.  
+*   **Integrace a výměna dat**: Převést soubor DocX k integraci dat ze různých zdrojů, umožnění bezúdržbové výměny mezi různými systémy a aplikacemi.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

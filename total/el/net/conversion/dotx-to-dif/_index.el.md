@@ -106,7 +106,19 @@ otherformats: FODS SXC XLSM XLSB ODS TSV XLTX EXCEL XLTM XLSX DIF XLAM XLS XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου DOTX σε DIF μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Για να ενημερωθείτε για τη μετάδοση αυτών των αρχιφών (.dif) σε μορφή Excel, παρακαλώ δείτε τα παρακάτω σημεία:
+
+**Περιπτώσεις χρήσης:**
+
+*   **Διεθνής Οικονομική Προγραμματισμός και Ανάλυση**: Μετατροπή αρχιφών .dif για να αναλύσετε τη οικονομική επίδοση, να跟踪σετε κρίσιμες μετρικές και να εντοπίσετε τάσεις σε δεδομένα.
+*   **Διεθνής Ερευνητική και Опτιμαλιστική Μεθοδολογία**: Χρήση Excel για να vizualίζητε δεδομένα επιχειρησιακά, να optimizeσετε διαδικτυρικούς εγκεφάλους και να μετράσετε Κλάσσεις Ποιότητας (KPIs).
+*   **Διεθνής Διαχείριση Αλυσίδων Προμηθευτών**: Μετατροπή αρχιφών .dif για να δημιουργήσετε διαδραματικούς μοντέλους αλυσίδας προμηθευτών, να simulateσετε λογιστικές σεναριολογίες και να ελεγχάνετε τα αποθέματα.
+*   **Διεθνής Ερευνητική και Δεκαπανέλη Μεθοδολογία**: Χρήση Excel για να vizualίζητε σύνθετα ερευνητικά δεδομένα, όπως αποτελέσματα πειραμάτων, outputs από simulacje και αναλύσεις βιβλίων.
+*   **Διεθνής Βιομηχανική Πληροφορισμός και Εκθεση**: Μετατροπή αρχιφών .dif για να δημιουργήσετε διαδραματικούς πίνακες δελτίου, εκθέσεις και vizualισμό για τους stakeholders, ενισχύοντας τη λήψη αποφασών.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

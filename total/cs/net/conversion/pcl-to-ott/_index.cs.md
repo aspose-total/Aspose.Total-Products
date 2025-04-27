@@ -140,7 +140,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PCL do OTT: Případy použití" %}}
+Konverze PCL souborů do formátů OTT je nezbytná pro uvolnění plného potenciálu vašeho datových vizualizací a analýz. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Architektonická vizualizace**: Konvertovat PCL soubory pro analýzu návrhů staveb, sledování postupu výstavby a identifikaci závadů ve designu.
+*   **Vývoj produktů**: Využívat formáty OTT pro vytvoření interaktivních 3D modelů, simulaci výkonu výrobku a validaci ingženérských návrhů.
+*   **Geospatiální analýza**: Konvertovat PCL soubory pro vizualizaci geospatiálních dat, jako jsou terénní modely, infrastruktury a environmentální rizika.
+*   **Robotika a CNC obrábění**: Využívat formáty OTT pro analýzu a optimalizaci robotických pohybů, simulaci procesu CNC obrábění a zvýšení efektivnosti výroby.
+*   **Medicínská zobrazování a chirurgická plánování**: Konvertovat PCL soubory pro vytvoření interaktivních 3D modelů pro chirurgické plánování, vizualizaci medicinských implantátů a plánování radiační terapie.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

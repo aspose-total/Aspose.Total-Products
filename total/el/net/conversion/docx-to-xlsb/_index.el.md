@@ -106,7 +106,11 @@ otherformats: XLSB SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου DOCX σε XLSB μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Η μετατροπή αρχιπέσων Docx σε μορφή Xlsb είναι απαραίτηλη για να ενεργοποιήσετε πλήρως τις δυνατότητες σας στην ανάλυση δεδομένων και την δημιουργία εικονικών εντυπωσεων.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

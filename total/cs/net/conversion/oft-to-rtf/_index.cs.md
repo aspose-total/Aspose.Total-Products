@@ -118,7 +118,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do RTF: Případy použití" %}}
+**Užití:
+
+*   **Upravené a schválené dokumenty**: Převést OFT soubory pro vytvoření, editování a revizi dokumentů s přesnou formátováním a kontrolou layoutu, čímž se zvýší spolupráce a produktivita.
+*   **Business Intelligence a zprávy**: Použít RTF soubory pro analýzu podnikatelských údajů, generování zpráv a vizualizaci klíčových metrik, což usnadňuje rozhodování na základě správních informací.
+*   **Vytváření a správa obsahu**: Převést OFT soubory pro vytvoření, správu a publikování obsahu přes různé platformy, čímž se zajišťuje konzistentnost a准确nost formátování a layoutu.
+*   **Technická dokumentace a support**: Použít RTF soubory pro generování technické dokumentace, uživatelských manuálů a materiálů pro podporu, které nabídnou přesné a aktuálnější informace pro zákazníky a stakeholdery.
+*   **Automatizace formulářů a šablon**: Převést OFT soubory pro automatizaci tvorby a distribuce formulářů a šablon, čímž se zjednoduší procesy a sníží chyby manuální práce.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

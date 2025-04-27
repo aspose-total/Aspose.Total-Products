@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do XLT: Případy použití" %}}
+Konverze MD souborů do formátu XLT je nezbytná pro rozlučit plnou potenciál vaší schopnosti vyhledávat a analyzovat data i pro jejich vizualizaci.
+
+Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Data Journaling**: Konvertování MD souborů na interaktivní data journaly, sledování změn po času a podporu spolupracující redakce.  
+*   **Analyza researchových dokumentů**: Použití XLT pro vizualizaci dat z researchových dokumentů, identifikaci klíčových pojetí a podporu sdílení知识 among researchers.  
+*   **Vytváření interaktivních vědeckých笔记bku**: Konvertování MD souborů na interaktivní vědecké笔记bky, simulaci experimentů a validaci hypotéz.  
+*   **Exploration a vizualizace dat**: Použití XLT pro探索 a vizualizaci dat, identifikaci模式和创建databoards pro zákazníky.  
+*   **Vytváření dokumentů pro spolupráci**: Konvertování MD souborů na dokumenty, které podporují spolupráci s týmovými členy, sledování změn a udržení sdruženého pojetí složitých projektů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

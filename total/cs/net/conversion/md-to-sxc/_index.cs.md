@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do SXC: Případy použití" %}}
+Výkladem MD souborů do formátu SXC je nezbytné, aby vaše dokumenty vyuzily plnou kapacitu svého layoutu, designu a formátování. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Optimizing Document Layout**: Přepisování MD souborů pro vytvoření profesionálních dokumentů se správním rozměrem okénku a udržení konsistence tipografie.
+*   **Consistent Design Application**: Použití SXC pro zajištění, že barvy a vizuální identity vašeho dokumentu jsou konzistentní po celém dokumentu.
+*   **Enhanced Collaboration**: Přepisování MD souborů pro usnadnění spolupráce mezi týmovými členy, kteří mohou současně review, editovat a poskytovat zpětnou vazbu.
+*   **Print-ready Documents**: Užívání SXC formátu pro vytvoření hotových na tisk dokumentů se přesnými layouty, správním barvám a rozlišením obrazu, čímž se snižuje počet chybí při tisku.
+*   **Publishing Digital Documents**: Přepisování MD souborů pro publikování digitálních verzí dokumentů s interaktivními prvky jako jsou odkazy, animace a multimédia.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

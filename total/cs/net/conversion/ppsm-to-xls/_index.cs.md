@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PPSM do XLS: Případy použití" %}}
+Převést soubor PPSM do formátu Excel je nezbytné pro uvolnění plného potenciálu vašeho datového vizualizace a analýzy. Toto převést umožňuje:
+
+**Užití:**  
+
+* **Analyza finančního hlášení**: Převést soubory PPSM k analýze finančních údajů, sledování výdajů a identifikace trendů v příjmovém hlášení.  
+* **Optimalizace systému správy informací (MIS)**: Použití Excel pro vizualizaci dat z MIS, optimalizaci procesu报告和优化报告过程，测量绩效指标。  
+* **Projektový管理和规划**: Převést soubory PPSM k vytvoření interaktivní časové osmy pro projekty, simulování alokání prostředků a validace plánů projektů.  
+* **Vizualizace dat pro podnikovou inteligenci**: Použití Excel pro vizualizaci složitých dat podnikové inteligence, jako jsou klíčové ukazateři (KPIs), modely predikce prodeje a analýza trendů trhu。  
+* **Systémy podpory podnikových rozhodnutí (BDSS)**: Převést soubory PPSM k vytvoření interaktivních modelů BDSS, simulování scénářů rozhodování a validaci podnikových strategií。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

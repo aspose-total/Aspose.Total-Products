@@ -106,7 +106,25 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do SXC: Případy použití" %}}
+XSLFO (Extensible Stylesheet Language Formatting Objects) soubory jsou určeny pro popis layoutu a formátování dokumentů, čímž jsou ideální pro tvorbu a manipulaci se formátovaným textem. Nicméně, když pracujeme s dynamickými údajemi, jako je LibreOffice Calc, stává se nezbytnou součástí pro analýzu a vizualizaci údajů.
+
+Konverze XSLFO souborů do formátu sxc je nezbytná, aby jste mohli rozvířit plnou potenciálku svého dokumentu a možností spolupracování. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Customizaci layoutu dokumentů**: Konvertujte XSLFO soubory, aby jste mohli customizeovat layout, typografii a grafiku dokumentů, vytvářející unikátní vizuální identitu pro firmy nebo organizace.
+
+*   **Soprávněné spolupracování na dokumentech**: Používáte-li sxc, můžete sdílet a editovat dokumenty s ostatními osobami v reálném čase, zajistíte, že všichni jsou na stejné stránce a snižujete verze konflikty.
+
+*   **Automatizovanou formátování dokumentů**: Konvertujte XSLFO soubory, aby jste mohli automaticky aplikovat styly a layouty na velké počty dokumentů nebo zpráv.
+
+*   **Vytváření obsažného obsahu z externích údajů**: Používáte-li sxc, můžete integrovat údaje z externích zdrojů do dokumentů, vytvářející dynamický obsah, který lze aktualizovat v reálném čase.
+
+*   **Zlepšení přístupnosti a inkluzního designu**: Konvertujte XSLFO soubory, aby jste mohli zlepšit přístupnost dokumentů tím, že byste konvertovali alternativní text pro obrázky a ostatní multimediální prvky do přístupného formátu jako je sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

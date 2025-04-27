@@ -106,7 +106,19 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ DXF  EMZ PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου TEX σε DXF μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Η μετατροπή αρχιτεκτονικών ή άλλων τύπου αρχείου TeX σε DXF μορφή είναι απαραίτησιμη για να αποκαλυφθεί η πλήρης δυναμικότητα των δυνατοτήτων σας. Αυτό το κομμάκι:
+
+**Use Cases:**
+
+*   **Αρχιτεκτονική Μονάδα**: Μετατροπή αρχιτεκτονικών αρχειών TeX προς δημιουργία ακριβών 2D και 3D σχεδίων, επιτρέποντας ακριβές εγγραφές και vizualιζάντιο.
+*   **Σχεδίαση Μηχανικων**: Χρήσιμοποίηση DXF μορφών για εισαγωγή και επεξεργασία μηχανικών σχεδίων, εξασφαλίζοντας συμβατότητα με λογισμικό CAD.
+*   **Αυτοκινητική Σχεδίαση**: Μετατροπή αρχιτεκτονικών αρχειών TeX προς δημιουργία λεπτομερών αυτοκινητικών σχεδίων, ενισχύοντας συνεργασία μεταξύ σχεδιαστών και μηχανικών.
+*   **Προϊόντα Παραγωγή**: Χρήσιμοποίηση DXF μορφών για δημιουργία εκτυπώσιμων σχεδίων προιόντων, μείωση τυχοπαθειών και βελτιστοποίηση ελέγχου ποιότητας.
+*   **Γεωσπάτιαλες Αнаλύσεις**: Μετατροπή αρχιτεκτονικών αρχειών TeX προς δημιουργία βεκτορικών χάρτων, ιδανικά για GIS αναλυτικές, vizualιζάντιο δεδομένων και εφαρμογές χάρτου.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru JSON do PS: Případy použití" %}}
+JSON (JavaScriptové objektní notace) soubory jsou využívány pro ukládání dat v lehkém a čitelném formátu, čímž se stávají ideálem pro výměnu dat mezi aplikacemi a systémy. Nicméně, když pracujeme s vektorovými obrázky a obrazími, stává se PDF (Portable Document Format) nezbytným pro svoji výbornou tiskovou kvalitou.
+
+Konverze JSON souborů do formátu PDF je nezbytná, aby se vyuzvala plná potence vašeho grafického designu a publikování. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Grafické designy a ilustrace**: Konvertujte JSON soubory na profesionálne obrázky, ilustrace a animace, vhodné pro tisk a digitální média.
+*   **Obrážení a editování obrazů**: Používáte PDF pro editování a zdokonalování obrazů, odstraňování šumu a vady, i jako upravování jasu a kontrastu.
+*   **Vydavatelství dokumentů**: Konvertujte JSON soubory na interaktivní a dynamické dokumenty, jako jsou letáky, propusky a časopisy, vhodné pro služby "na objednávku tisku."
+*   **Správa digitálních aktiv**: Používáte PDF pro správu digitálních aktiv, jako jsou loga, ikony a obrázky, a zajišťujete jednotnost všech marketingových materiálů.
+*   **Data visualization a reporting**: Konvertujte JSON soubory na interaktivní a dynamické hlášky a vizualizace, vhodné pro podnikatelské informační služby a analýzy dat.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

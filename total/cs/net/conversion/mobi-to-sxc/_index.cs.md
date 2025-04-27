@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MOBI do SXC: Případy použití" %}}
+Konvertování Mobi souborů do formátů SXC je nezbytné pro uvolnění plného potenciálu vašich designových schopností. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Publikování e-booků**: Konvertujte Mobi soubory do formátů SXC a vytvoříte profesionálně vypadající e-books, optimalizujete layout a formát pro služby na tisk po objednávce (POD).  
+*   **Sdílení designu**: Používáte SXC k sdíření designových projektů s kolegy a zainteresovanými stranami, zajistíte bezchybnou zpětnou vazbu a cyklus opravy.  
+*   **Tiskové soubory hotové na tisk**: Konvertujte Mobi soubory do formátů SXC a vytvoříte tiskové soubory připravené pro offsetový tisk, knižní vázny a jiné druhy tištěných materiálů.  
+*   **Správa digitálních aktiv**: Uchovávejte a spravujte designové aktivity na jednom platformu, využíváte SXC jako standardní formát souborů, čímž zrychlovujete tok práce a zlepšujete objevování aktiv.  
+*   **Vytváření značních a identity**: Konvertujte Mobi soubory do formátů SXC a vytvoříte konzistentní materiál pro branding, jako jsou business karty, dopisy a brožury.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -115,7 +115,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do OTP: Případy použití" %}}
+TeX (Typizované pomocí LaTeX) jsou využívány pro ukládání informací v dokumentech, což je ideální pro tvorbu technických dokumentů a akademických článků. Nicméně, když se jedná o práci s multimediálními daty, pak je Portrétní dokumentový formát (PDF) klíčovým pro prezentaci a sdílení.
+
+Konverze TeXových soubor do PDF формátu je nezbytná, aby bylo možné rozvířit plnou potential documentu jeho vizuální přitažlivost a schopnost přístupnosti. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Vydavatelství akademického výzkumu**: Konvertovat TeX soubory do PDF pro tvorbu krásných akademických článků, článků a disertací, udržitelsi přesné formátování a rozložení.  
+*   **Vytváření technické dokumentace**: Použití PDF pro prezentaci technického informátu, jako jsou uživatelská pravidla, instrukce a specifikace produktu v čisté a stručné podobě.  
+*   **Vývoj e-learningových materiálů**: Konvertovat TeX soubory do PDF pro tvorbu interaktívního e-learningového obsahu, včetně prezentací, kvízů a hodnocení na školách.  
+*   **Integrace do digitálních vydavatelství**: Použití PDF pro publikování dokumentů na digitálních platformách, jako jsou online žurnály, knihovny a e-shopé, dosahující širšího čtenáře.  
+*   **Přístupnost a inkluzi**: Konvertovat TeX soubory do PDF pro tvorbu přístupných dokumentů, využívajících funkcí jako je velikost písma nastavená, kontrastní barvy a vysoký kontrast, pro lidi se zdravotními omezeními.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

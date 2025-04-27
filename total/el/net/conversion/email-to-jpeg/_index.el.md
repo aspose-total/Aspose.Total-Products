@@ -58,7 +58,11 @@ document.Save("output.jpeg", SaveFormat.Jpeg);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου EMAIL σε JPEG μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Η μετατροπή αρχιφάιλ email σε εικόνες JPEG είναι μια ανάγκα για να αποκλειστεί η δυναμική της οπτικής αντιπροσώπευσης.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

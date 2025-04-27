@@ -115,7 +115,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MHTML do ODT: Případy použití" %}}
+Converting MHTML (MIME HTML) files into ODT (OpenDocument Text) files unlocks the full potential of your text-based data visualization and analysis capabilities. This conversion enables you to:
+
+**Use Cases:**
+
+*   **Příprava vědeckých článků a publikací**: Convert MHTML files to create professional-looking research papers, journals, and publications.
+*   **Technická dokumentace a manuály pro uživatele**: Use ODT to write and edit technical documentation, user manuals, and guides for stakeholders.
+*   **Akadémické vydavatelství**: Convert MHTML files to prepare manuscripts, theses, and dissertations for academic publishing.
+*   **Business Communication**: Use ODT to create effective business communications, such as meeting notes, reports, and proposals.
+*   **Uchovávání a archivování**: Convert MHTML files to preserve historical documents, web pages, and other digital artifacts in a readable format.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

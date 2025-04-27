@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOC do SXC: Případy použití" %}}
+Konvertování souborů Microsoft Word (.doc) na soubory LibreOffice Writer (.sxc) je nezbytné pro uvolnění plného potenciálu vašeho dokumentu při editaci a spolupráci. Tato konverze umožňuje:
+
+**Užití:**
+
+*   **Spuštění spolupráce ve týmu**: Konvertovat .doc soubory na .sxc formáty pro bezproblémovou spolupráci se členy týmu pomocí LibreOffice, čímž se zvyšuje produktivita a snižuje chyby.
+*   **Standardizace dokumentů**: Použití konverze k standardizaci šablon mezi týmy, čímž se zajišťuje konzistentnost formátování a stylu.
+*   **Vytváření obsahu**: Konvertovat .doc soubory na .sxc formáty pro tvorbu nových dokumentů ze stávajících šablon, což usnadňuje opakovatelnost a úpravu obsahu.
+*   **Kompatibilita se jiným software**: Exportovat .doc soubory do .sxc formatu pro použití LibreOffice Writeru v různých profesionálních prostředí.
+*   **Ekonomičtější řešení**: Konvertovat .doc soubory na .sxc formáty jako alternativu k Microsoft Word, čímž se snižují náklady na softwarové licenze a zlepšuje správu rozpočtů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

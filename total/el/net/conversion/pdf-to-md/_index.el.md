@@ -106,7 +106,11 @@ otherformats: XLSB TXT TSV XLAM SXC MD XLT DIF FODS EXCEL XLSM XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου PDF σε MD μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Η μετατροπή αρχιφάιλα σε μορτκνλ格式 είναι κρίσιμη για να αποκαλυφθεί η πλήρη δυναμικότητα των δυνατοτήτων vizualizzation και analysis του περιεχομένου.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

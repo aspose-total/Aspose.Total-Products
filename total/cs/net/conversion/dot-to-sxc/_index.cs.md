@@ -106,7 +106,27 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOT do SXC: Případy použití" %}}
+Converting .dot Files into SXC Formats is Essential for Unlocking Full Potential of Your Presentations.
+
+The conversion of .dot files into SXC formats is necessary to unlock the full potential of your presentation capabilities. This conversion enables you:
+
+**Use Cases:**
+
+*   **Slideshow design a layout**: Přepisovat .dot soubory do vytvářet profesionálně vypadající slajdy, experimentovat s layoutem a přizpůsobit šablony.
+
+*   **Visualization of charts and graphs**: Použít SXC pro vizualizaci dat ve formě grafů a tabulok, identifikovat trendy a analyzovat ukazate performanci.
+
+*   **Editing of images and icons**: Přepisovat .dot soubory pro editování obrazců a ikon, přidání textu, tvarů a dalších grafických prvků a zvýšení vizuální přitažlivosti.
+
+*   **Text formatting and styling**: Použít SXC pro formátování a stylizaci textu, aplikování písem, barvy a efektů a vytvoření atraktivních slайдů.
+
+*   **Collaboration and sharing presentations**: Přepisovat .dot soubory pro sdílení prezentací s ostatními lidmi, spolupráci v reálném čase a sledování změn provedených členy týmu.
+
+By converting your .dot files into SXC formats, you can unlock a range of benefits, including improved design flexibility, enhanced collaboration capabilities, and increased presentation effectiveness.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

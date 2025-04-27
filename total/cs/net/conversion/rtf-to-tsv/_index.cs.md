@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru RTF do TSV: Případy použití" %}}
+RTF (Říčenské textové formáty) soubory jsou určeny pro ukládání textu v rámci dokumentů a jsou ideální pro tvorbu dokumentů se formátovaným textem. Nicméně, při práci s tabulárními údajemi se TSV (Tabulo-separované hodnoty) soubory stávají nezbytnými pro vizualizaci a analýzu údajů.
+
+Konverze RTF souborů do TSV formátu je nezbytná, aby jste mohli rozložit potenciál vaší schopnosti vizualizovat a analyzovat data. Tato konverze vám umožňuje:
+
+**Použití:**
+
+*   **Import a export údajů**: Převést RTF soubory do TSV formátu pro import a export údajů mezi různými aplikacemi, aby bylo možné usnadnit spolupráci a automatizovat tok práce.
+*   **Analyza ve vědeckém výzkumu**: Použít TSV pro analýzu velkých sadů údajů, identifikaci模式，a vizualizaci výsledků ve vědeckých studiích.
+*   **Business Intelligence Reporting**: Převést RTF soubory do TSV formátu pro tvorbu interaktivních dashboardů, zprávy a vizualizací pro Business Intelligence a rozhodování.
+*   **Analyza textu a sentimentní analýza**: Použít TSV pro analýzu textových údajů, identifikaci tendencí v sentimentu a extrakci informací z nestrukturovaného textu.
+*   **Integrace a migrace údajů**: Převést RTF soubory do TSV formátu pro integraci a migraci údajů mezi různými systémy, aplikacemi a platformami.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

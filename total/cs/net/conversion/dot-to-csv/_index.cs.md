@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOT do CSV: Případy použití" %}}
+**Use Cases:**
+
+*   **Import dat**: Přeposlat DOT soubory pro analýzu prodejních dat, sledování vzájemných interakcí zákazníků a identifikaci trendů v trhu.  
+*   **Mapování podnikových procesů**: Použít CSV soubory pro vizualizaci toku podnikových procesů, optimalizaci pracovních postupů a měření produktivity.  
+*   **Sjednocení dokumentů**: Přeposlat DOT soubory pro tvorbu interaktивních šablon dokladů, spolupráci se členy týmu a sdílení plánů projektů.  
+*   **Vydavatelství vědeckých publikací**: Použít CSV soubory pro formátování dat ve vědeckých publikacích, analýzu výzkumných výsledků a vizualizaci složitých zjištění.  
+*   **Zprávy podnikového intelektu**: Přeposlat DOT soubory pro tvorbu interaktивních zpráv, dashboardů a vizualizací, aby bylo lépe rozhodovat.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

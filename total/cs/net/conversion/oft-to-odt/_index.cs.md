@@ -118,7 +118,27 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do ODT: Případy použití" %}}
+Are you a translation assistant? Yes, I am.
+
+LTI (Učitelství teorie učení) soubory jsou určeny pro uložení vzdělávacích obsahů, což je ideální pro vytvoření interaktivityních učení a simulací. Nicméně, při práci s statickým obsahem jsou formáty ODT (OpenDocument Text) klíčovými pro úpravu a formátování dokumentů.
+
+Tato konverze LTI souborů do formátu ODT umožňuje:
+
+**Use Cases:**
+
+- **Interaktivní plánování lekcí**: Konvertace LTI souborů na tvorbu interaktivityních plánů lekcí, simulaci učení a získání informaci o výkonu studentů.
+  
+- **Vývoj共同ného obsahu**: Použití formátu ODT pro společné autorské a úpravy vzdělávacích obsahů, zajišťující jednotnost a správnost mezi týmy.
+
+- **Dostupnost a rozměršování**: Konvertace LTI souborů do formátu ODT pro získání větší přístupnosti vzdělávacích obsahů pro studenty se zdravotními omezeními.
+
+- **Správa a distribuce obsahu**: Použití formátu ODT pro správu a distribuci vzdělávacích obsahů, zjednodušení procesu učení a zlepšení výsledků studentů.
+
+- **Ověření a zpětná vazba**: Konvertace LTI souborů do formátu ODT pro vytvoření interaktivní zkoučkových testů, poskytování zpětné vazby a sledování pokroků studentů.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

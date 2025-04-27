@@ -115,7 +115,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do DOCM: Případy použití" %}}
+Konverza TeX souborů do formátu DOCM uvolňuje plný potenciál vašich schopností tvorby a redakce dokumentů. Toto procesu má následující použití:
+
+* **Technická tvorba**: Přeměnit TeX soubory na profesionálně vypadající technické dokumenty, jako jsou uživatelská pravidla, instrukce a technické zprávy.
+* **Výzkum a akademická publikace**: Použít DOCM na formátování vědeckých článků, disertací a habilitačních práce pro publikaci v akademických časopisech a konferencích.
+* **Technická redakce**: Přeměnit TeX soubory na revizi a úpravu technických dokumentů, zajistit správnost, konzistencii a dodržení průmyslových standardů.
+* **Vzdelání a didaktická materiály**: Vytvořit interaktivní vzdelávací materiály přes konverzi TeX souborů do DOCM, učiniv komplexní informace přístupnější studentům.
+* **Byznysová a korporativní komunikace**: Použít DOCM na formátování vnitřních zpráv, prezentací a návrhů, udržovat profesionální tón a styl.
+
+Konverza vašich TeX souborů do formátu DOCM vám umožní uvolnit plný potenciál vašich dokumentů a zlepšit spolupráci, produktivitu i celkovou kvalitu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

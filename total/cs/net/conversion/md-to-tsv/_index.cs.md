@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do TSV: Případy použití" %}}
+**Průvodce konverzí:**
+
+Konvertování souborů Markdown (`.md`) na formát Tab Separated Values (`.tsv`) je nezbytné pro rozkrývání plného potenciálu vašeho datového分析u a vizualizace. Toto konvertování umožňuje:
+
+**Nástupky použití:**
+
+*   **Import a export dat**: Konvertujte soubory .md na formát .tsv pro bezprostřední integraci se softwarem, který podporuje formát .tsv.
+*   **Výpočty a výzkum**: Použijte formát .tsv pro import a export dat z výpočtových frameworků, čímž umožníte rychlejší a účinnější analýzu.
+*   **Analyza textu a zpracování**: Konvertujte soubory .md na formát .tsv pro analýzu textu a zpracování, jako je sentimentální analýza a modelování témat.
+*   **Vizualizace dat a reporting**: Použijte formát .tsv pro vytvoření interaktívých dashboardů a zprávy, které poskytují spravedlivé a spolehlivé informace svým zákazníkům.
+*   **Učení strojového typu a umělecké inteligence**: Konvertujte soubory .md na formát .tsv pro učení strojového typu a testování modelů, čímž umožníte rychlejší a účinnější vývoj.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

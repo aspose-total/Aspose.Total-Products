@@ -140,7 +140,23 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OFT do MD: Případy použití" %}}
+# Soubory ODF (OpenDocument Format) jsou určeny pro ukládání informací o dokumentech, čímž umožňují vytvoření editovatelných dokumentů a prezentací.
+
+Nicméně při práci s grafickými daty se stávají obrázky jako PNG nezbytnými pro zobrazení a zobrazování obrazu.
+
+Konverze souborů ODF na formáty PNG je nezbytná, aby jste mohli rozvířit plný potenciál vašeho grafického zobrazení a zobrazování. Tato konverze vám umožňuje:
+
+## **Užití:**
+
+*   **Vytvoření grafického návrhu**: Konvertovat soubory ODF pro vytvoření editovatelného grafického návrhu, simulaci vizuálních efektů a validaci konceptů návrhu.
+*   **Úprava a zkreslení obrázku**: Použít PNG pro zobrazení dat obrázku, upravování obrázku a zvýšení jeho kvality.
+*   **Uložení textu a grafiky v dokumentu**: Konvertovat soubory ODF pro vytvoření interaktivních dokumentů, ułožení textu a grafiky a měření přesnosti formátování.
+*   **Vývětvá data a reporting**: Použít PNG pro zobrazení komplexních datových vývětvých, zpráv a grafů pro zákazníky, čímž se zlepšuje rozhodování.
+*   **Vytvoření mediálních prezentací**: Konvertovat soubory ODF pro vytvoření interaktivních mediálních prezentací, simulaci hraní a validaci konceptů prezentací.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,38 @@ otherformats: XLTX SXC EXCEL FODS XLTM MD XLSB DIF XLT TXT TSV XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου TEX σε MD μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+To convert TeX files to Markdown, follow these steps:
+
+1. **Mathematical Expressions**: 
+   - Use tools like KaTeX or render LaTeX equations as images. Embed these images into your Markdown using `![Equation](path/to/image)`.
+
+2. **Structural Elements**:
+   - Convert TeX sections (\section, \subsection) into Markdown headers. For example, `\section{Header}` becomes `# Header`.
+
+3. **Special Characters and Escaping**:
+   - Ensure special characters are properly escaped or handled according to Markdown syntax.
+
+4. **Use of Tools**:
+   - Utilize existing tools like `tex2mark` or command-line scripts for automation. Online converters can also facilitate this process.
+
+5. **Metadata Handling**:
+   - Place author names, dates, and references in a front matter section or as separate paragraphs in Markdown.
+
+6. **Lists Conversion**:
+   - Convert TeX itemize environments into unordered lists using Markdown syntax (e.g., `* bullet point`).
+
+7. **Preserving Formatting**:
+   - Include CSS classes or custom markdown syntax to replicate any original styles or templates from the TeX file.
+
+8. **Edge Cases and Testing**:
+   - Test conversion with sample files containing nested structures, equations, and special characters.
+   - Address potential issues in maintaining structure and correct syntax for different audiences or parsers.
+
+By following these steps, you can effectively convert TeX content into a well-structured Markdown format, ensuring readability and compatibility across various platforms.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

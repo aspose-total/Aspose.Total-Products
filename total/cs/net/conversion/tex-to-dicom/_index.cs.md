@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do DICOM: Případy použití" %}}
+Konverzační proces TEXových souborů na DICOM obrázky představuje klíčový krok pro využívání mediczského zobrazování k maximálnímu využití dat. Toto převést umožňuje:
+
+**Užití:**
+
+*   **Analyza mediczských obrazů**: Převést TEX soubory na DICOM, aby mohli analyzovat mediczské obrázky, jako jsou MRI a CT scény, a identifikovat vzory a trendy ve vlastnostech pacientových dat.
+*   **Výzkum založených na obrazech**: Použít DICOM k vizualizaci složitých mediczských dat, simulování klinických pokusů a validaci výzkumných závěrů.
+*   **Radiologické hlášení a diagnostické nástroje**: Převést TEX soubory na DICOM pro vytvoření interaktivních radiologických hlášených listů, diagnostických nástrojů a vizualizací pro lékaře, čímž se zrychlostí a přesností diagnózy zvýší.
+*   **Vývoj a validace mediczských zařízení**: Použít DICOM k převést TEX soubory pro testování a schvalování výrobků při vývoji nových lékařských přístrojů.
+*   **Spoluúčastní výzkumy a vzdělávání**: Převést TEX soubory na DICOM pro vytvoření sdílených kolekcí mediczských dat, vzdělávacích materiálů a nástrojů pro spolupráci mezi výzkumníky a zdravotními odborníky.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

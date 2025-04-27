@@ -10,7 +10,11 @@ outformat: PPTX
 otherformats: DOC DOCX POWERPOINT WORD
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου XLSX σε PPTX μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Αξιοπιστία και Διαχείριση Δεσπότερων Υποθέσεων με τη Χρήση της Βάσης Δεδομένων Excel.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Μετατροπή XLSX σε PPTX μέσω C# ή Online App" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSX σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
@@ -45,7 +49,11 @@ otherformats: DOC DOCX POWERPOINT WORD
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Μετατροπή αρχείου XLSX σε PPTX μέσω προγραμματισμού: Περιπτώσεις χρήσης" %}}
+Αξιοπιστία και Διαχείριση Δεσπότερων Υποθέσεων με τη Χρήση της Βάσης Δεδομένων Excel.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

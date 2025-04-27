@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do DICOM: Případy použití" %}}
+XSLFO (Extensible Stylesheet Language Formatting Objects) soubory jsou určeny pro ukládání layoutových informací, což je ideální pro tvorbu dokumentů připravených na tisk. Nicméně, když se jedná o data z lékařského zobrazování, DICOM (Digital Imaging and Communications in Medicine) soubory získají klíčový význam pro zpracování a analýzu obrázků.
+
+Výkon převéře XSLFO souborů na DICOM formáty je nezbytný, aby se mohlo využít plné potenciálu vašich schopností v oblasti lékařského zobrazování. Toto převéření vám umožní:
+
+**Nástupky použití:**
+
+*   **Zpracování a zkreslení obrázků**: Převést XSLFO soubory pro analýzu a zkreslení lékařských obrázků, jako jsou rentgenové snímky a mamografie.
+*   **Integrace lékařských zařízení**: Použití DICOM pro integraci lékařských zařízení se jinými zdravotními systémy, což umožňuje reálnou monitoringu a výměnu dat v reálném čase.
+*   **Klinické zkoušky a výzkumy**: Převést XSLFO soubory pro vizualizaci a analýzu dat klinických zkoušek, sledování výsledků pacientů a identifikace trendů ve výzkumu.
+*   **Lékařská terapie řízená obrázkem**: Použití DICOM pro dodání záření, sledování odpovědí pacientů na léčbu a optimalizaci výsledků léčby.
+*   **Telemedicína a dálkový monitoring**: Převést XSLFO soubory pro podporu dálkového monitoringu pacientů, bezpečnou výměnu dat a snazší rozhodování o léčbě v klinickém prostředí.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

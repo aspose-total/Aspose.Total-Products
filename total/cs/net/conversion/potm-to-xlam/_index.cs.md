@@ -106,7 +106,15 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru POTM do XLAM: Případy použití" %}}
+- **Analyzing product development data using POTM files**: Analyzování dat na vývoj produktů pomocí souborů POTM.  
+- **Collaboration and sharing using XLAM files for project template distribution**: Spolupráce a sdílení souborů XLAM pro sdílení šablon projektů.  
+- **Creating interactive business intelligence reports and visualizations from POTM files**: Vytváření interaktivních zprávy o podnikatelských informacích a vizualizacích pomocí konvertování souborů POTM.  
+- **Using XLAM files for creating interactive training simulations and presentations**: Výučba a vzdělávání prostřednictvím interaktivních simulací a prezentací v formátu XLAM.  
+- **Backing up data using POTM file conversions for data management**: Správa dat a záloha pomocí konvertování souborů POTM.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

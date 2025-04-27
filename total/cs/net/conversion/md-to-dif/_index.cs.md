@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru MD do DIF: Případy použití" %}}
+**Použití:
+
+*   **Nástroje pro spolupráci**: Převést MD soubory a povolit týmům spolupracovat efektivněji na projektech a dokumentech.
+
+*   **Automatizace tvorby dokumentace**: Použít DIF k automatizaci procesu generování dokumentace, snížit manuální práci a zajistit konzistenci mezi různými verzijemi.
+
+*   **Kvalita a testování**: Převést MD soubory a vytvořit automatické testy pro softwarové aplikace, snížit chyby a zlepšit celkovou kvalitu.
+
+*   **Správa znalostí**: Použít DIF k organizaci a strukturizaci obsahu知识库，učinít snadnější hledání informací pro uživatele a snížit数量 dotazů na podporu。
+
+*   **Vytváření obsahu a repurposing**: Převést MD soubory a vytvořit nové formáty obsahu，jako články，články或社交媒体 příspěvky，zvýšit dosah a angažovanost。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

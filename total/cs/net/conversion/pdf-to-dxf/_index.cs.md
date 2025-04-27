@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru PDF do DXF: Případy použití" %}}
+PDF (Portrétní dokumentní formát) soubory jsou určeny pro ukládání informací o dokumentech, což je ideální pro tvorbu statických dokumentů a publikací. Nicméně při práci s podrobnými kreslenými schéma a designy se stává DXF (Kreslené výměnné formáty) nezbytným pro přesnou představu a manipulaci.
+
+Konverze PDF souborů na DXF formáty je nezbytná, aby se vyuzvala plná potence vašich návrhů. Tato konverze vám umožňuje:
+
+**Použití:**
+
+*   **Architektonické a inženýrské designy**: Konvertovat PDF soubory na detailizované kreslené schéma, designs a diagramy, které lze snadno editovat a sdílet.
+*   **Výroba a prototýpy pro výrobky**: Použít DXF pro tvorbu 2D a 3D modelů z existujících návrhů, což usnadňuje výrobu prototýpů, formelor a nástřů.
+*   **CAD/CAM (Computer-Aided Design/Computer-Aided Manufacturing)**: Konvertovat PDF soubory na přesné digitální modely pro CNC obrábění, výrobu a montáž.
+*   **Konverze geospatiálních dat**: Použít DXF pro konverzi PDF souborů obsahujících geospatiální data na formát použitelný se softwarem GIS, čímž umožní detailizovanou mapování a analýzu.
+*   **Automotivní a letecké designy**: Konvertovat PDF soubory na 2D a 3D modely z existujících návrhů, což usnadňuje výrobu prototýpů, formelor a výrobního plánu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOT do TSV: Případy použití" %}}
+přepoznámky .Dot souborů do formátu TSV (Tab Separated Values) je nezbytné uvolnit plnou potenciál vašeho exportu dat. Tato konverze vám umožňuje:
+
+**Use Cases:**
+
+*   **Import a .Dot files do jiných aplikací, jako jsou databáze nebo nástroje pro business intelligence**: Konvertovat .Dot soubory do TSV formátu pro import dat do jiných systémů.
+*   **Vytvořit interaktivní zprávy, dashboards a vizualizace pro zákazníky, čímž se zlepšuje rozhodování**: Použít TSV formáty pro vytváření reportů a vizualizací dat pro lepší rozhodnutí.
+*   **Nakopírovat .Dot soubory do TSV formátu pro trénink strojového učení modelů, čímž se zlepší přesnost a efektivita**: Zpracovávat data pro trénink ML modelů v TSV formátu.
+*   **Exportovat .Dot soubory jako TSV formáty ke sdružování dat mezi členy týmu, partnery nebo zákazníky**: Snadidelně sdílet data ve formátu TSV.
+*   **Použít TSV formáty pro automatizaci zpracování dat, jako ječi cleaning, transformace a analýza pomocí jazyků jako Python nebo R**: Automatizovat procesy zpracování dat s využitkem TSV formátu.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

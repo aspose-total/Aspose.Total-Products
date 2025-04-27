@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do IMAGE: Případy použití" %}}
+Výkladem TeX souborů do formátů obrazových dat je nezbytné pro maximální využití vašich kapacit na vizuální prezentaci a publikování. Toto převést umožňuje:
+
+**Užití:**
+
+*   **Akadémická publikace**: Převést TeX soubory na vidětky akadémických článků, článků a výzkumných zpráv pro publikování v nejvyšších časopisech.  
+*   **Technická dokumentace**: Použít obrazové formáty pro vizualizaci komplexních technických dat, jako jsou proudové diagramy, schémy a infografiky, pro účel dokumentace.  
+*   **Prezentace a slajdy**: Převést TeX soubory na angažující prezentace, slajdy a materiály na pitch, které uchovají pozornost publika.  
+*   **Manuály a průvodce**: Použít obrazové formáty pro vytvoření interaktivních a stručných technických manuálů, uživatelových průvodců a instrukcí, které snižují chyby a zvyknou k přijetí.  
+*   **Marketingové materiály a letáky**: Převést TeX soubory na vizually krásné marketingové materiály, letáky a propagační listy, které účinně komunikují vaši značku.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

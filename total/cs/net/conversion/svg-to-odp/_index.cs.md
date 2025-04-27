@@ -115,7 +115,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru SVG do ODP: Případy použití" %}}
+SVG (Scalálové vektorové obrázky) soubory jsou určeny pro ukládání informací o vectorových graficích, čímž se stávají ideálními pro tvorbu statických logotypů, ikon a ilustrací. Nicméně při práci s dynamickými údajemi je nutno využít software jako OpenDocument Presentation pro vytvoření engagingových prezentací.
+
+Konverze SVG souborů do formátu OpenDocument Presentation je nezbytná, aby se vyuzvala plná potence vašeho schopnosti vytvářet prezentace. Tato konverze vám umožňuje:
+
+**Užití:**  
+
+*   **Korporátní branding**: Konvertování SVG souborů pro tvorbu profesionálních logotypů, ikon a grafik na korporátní úrovni, čímž se zajišťuje konzistentnost všech marketingových materiálů.  
+*   **Vytvoření e-learningového obsahu**: Využití OpenDocument Presentation pro návrh interaktívního e-learningu, animací a simulací, které zapálí zájem studentů a zlepší jejich schopnost uchovávat informace.  
+*   **Technické dokumentace**: Konvertování SVG souborů pro tvorbu podrobné technické dokumentace, včetně diagramů, flowchartů a infografik, jež činí komplexní informace více pochopitelnými.  
+*   **Marketingový materiál**: Využití OpenDocument Presentation pro vytvoření očarovujících marketingových materiálů, jako jsou letáky, plakáty a posteru, které prezentují produkty či služby v吸引čím způsobem.  
+*   **Graphic Novels a Comics**: Konvertování SVG souborů pro tvorbu vizually bohatých graphic novelů a komiksů, kde se využívají vectorové grafiky k podání příběhů a uchválení diváků.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

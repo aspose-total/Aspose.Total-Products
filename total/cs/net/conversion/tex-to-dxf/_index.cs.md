@@ -106,7 +106,19 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru TEX do DXF: Případy použití" %}}
+Konverze TeX souborů do formátu DXF je nezbytná pro uvedení vašeho designových schopností do plného provozu. Toto převést umožňuje:
+
+**Užití:**
+
+*   **Architektonické modelování**: Konvertujte TeX soubory na vytvoření přesných architektonických návrhů v 2D a 3D formátu, umožňující přesnou kreslení a vizualizaci.  
+*   **Inženýrské designy**: Používáte DXF formáty pro import a editování inženýrských schémat, zajišťujících kompatibilitu se softwarem CAD.  
+*   **Automobilní design**: Konvertujte TeX soubory na vytvoření podrobných automobilních návrhů, usnadňující spolupráci mezi navrhovači a inženýři.  
+*   **Výroba výrobků**: Používáte DXF formáty pro generování tiskoprintů na layouty výrobků, snižující chyby a zlepšující kontrolu kvality.  
+*   **Geospatiální mapování**: Konvertujte TeX soubory na vytvoření vektorových map, ideálních pro analýzu GIS, vizualizaci dat a aplikace mapování.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

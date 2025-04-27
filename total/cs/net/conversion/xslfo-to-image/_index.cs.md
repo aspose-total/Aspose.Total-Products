@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XSLFO do IMAGE: Případy použití" %}}
+XSLFO (Extensible Stylesheet Language Formatting Objects) soubory jsou využity k definování layoutu a formátování XML dokumentů, čímž se stávají ideálem pro tvorbu komplexních struktur a návrhů. Nicméně, když pracujeme s statickými vizualizacemi, stává se nezbytné použití obrázků.
+
+Konverza XSLFO souborů do obrázkových formátů uvolňuje plnou potentialsvou kapacitu návrhu.
+
+**Užití:**
+
+* **Digitální publikace**: Konverza XSLFO souborů na tvorbu interaktivních a dynamických digitálních publikací, jako jsou e-knihy a časopisy.  
+* **Dokumentový design a layout**: Použití obrázkové konverze na úpravu dokumentových layoutů, zvýšení čitelnosti a zkreslení vizuální přitažnosti.  
+* **Technická ilustrace**: Konverza XSLFO souborů na tvorbu ilustrací pro technické dokumenty, uživatelské návody a instrukční manuály.  
+* **Graphický design a branding**: Použití obrázkové konverze na tvorbu konzistentních brandingových materiálů, jako jsou loga, obchodní karty a dopisy.  
+* **Přístupnost a inkluzivní design**: Konverza XSLFO souborů na zlepšení přístupnosti a inkluzivity v digitálních obsahech, zajišťujícího použití tímto obsahem všemi.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

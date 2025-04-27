@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru JSON do WMZ: Případy použití" %}}
+JSON (JavaScript Object Notation) soubory jsou lehké, čitelné a lidsky přívětivé formáty pro výměnu dat, které jsou ideální pro ukládání konfigurace, data exchange a žádosti o API. Nicméně, když se jedná o geospatiální data vizualizaci a analýzu, stává se nezbytné použití souborů WMZ (Web Mercator Zoomable Vector Layers).
+
+Konverze JSON souborů do WMZ formátu je nezbytná pro uvolnění plného potenciálu vaší geospatiální data vizualizace a analýzy. Tato konverze vám umožňuje:
+
+**Němoci:**
+
+*   **Geografické informační systémy (GIS)**: Konvertovat JSON soubory do interaktivních a dynamických map, analyzovat prostorové vztahy a provádět geografické výpočty.  
+*   **Kartografie a mapová vizualizace**: Použít WMZ pro vizualizaci a prezentaci mapových dat ve čitelné a stručné formě, což je ideální pro publikace, zprávy a prezentace.  
+*   **Lokalizované služby (LBS)**: Konvertovat JSON soubory do služeb lokalizace, které nabízejí přesné a aktuálně aktualizované informace uživatelům, zlepšující jejich celkový zážitek.  
+*   **Geospatiální analýza a modelování**: Použít WMZ pro analýzu komplexních geospatiálních dat, provádět simulace a validovat výsledky modelů, což je klíčové pro urbanistické plánování, response na katastrofické situace a studie klimatických změn.  
+*   **Mobilní mapování a navigace**: Konvertovat JSON soubory do mobilních aplikací, které uživatelům nabízejí přesné ačasné informace o lokalizaci, směr a pomoc při navigaci.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

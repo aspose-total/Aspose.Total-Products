@@ -106,7 +106,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru OTT do XLAM: Případy použití" %}}
+**Use Cases:**
+
+*   **Optimizace dodavatelského řetězku**: Převeřít ODT soubory k analýze výkonu dodavatelů, sledování úroveň zásob a identifikace překážek v logistice.  
+*   **Analyza e-commerce**: Použít Excel pro vizualizaci dat z e-commerce, optimalizaci položky produktů a měření angažmáno kupců.  
+*   **Projektový management**: Převeřít ODT soubory pro vytvoření interaktivní plánů projektů, simulování přidělení zdrojů a validaci projektových milníků.  
+*   **Analyza trhu**: Použít Excel pro analýzu průzkumních dat, identifikovat trhové trendy a informovat podnikovou strategii.  
+*   **Finanční modelování**: Převeřít ODT soubory pro vytvoření dynamických finančních modelů, předpovědu růstu příjmku a optimalizaci investičních strategií.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

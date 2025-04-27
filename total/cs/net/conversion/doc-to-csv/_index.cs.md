@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru DOC do CSV: Případy použití" %}}
+Converting Microsoft Word documents (.doc) into Comma Separated Values (CSV) files is a crucial step in unlocking the full potential of your data analysis and visualization capabilities.
+
+The conversion of .doc files into CSV formats is necessary to unlock the full potential of your data analysis and visualization capabilities. This conversion enables you to:
+
+**Use Cases:**
+
+*   **Import dat pro analýzu**: Přepřihodit .doc soubory do CSV formátu pro analýzu a zpracování velkých dat, aby bylo snazší identifikovat trendy a vzory.
+*   **Import dat do tabulky**: Použít CSV formáty k importu obsahu .doc souborů do oblíbených aplikací jako Excel nebo Google Sheets.
+*   **Automatizace generace hlášení**: Přepřihodit .doc soubory do CSV formátu pro automatizovanou výrobu hlášení, čímž se snižuje manuální vstupní práce a zvyšují produktivitu.
+*   **Data Visualization with Matplotlib/Pandas**: Použít CSV formáty k importu obsahu .doc souborů do oblíbených knihoven pro data visualization jako Matplotlib nebo Pandas.
+*   **Integrace se business intelligence nástroji**: Přepřihodit .doc soubory do CSV formátu pro integraci se nástroji jako Tableau či Power BI, čímž se zlepšuje rozhodování.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru POT do SXC: Případy použití" %}}
+Soubory XML (Extensible Markup Language) jsou využívány pro ukládání strukturované data, což je ideální pro tvorbu dynamického obsahu a dokumentů. Nicméně, když pracujeme s statickými médii, formáty jako PDF se stávají nezbytnými pro prezentaci a distribuci.
+
+Konverze souborů XML na formáty PDF je nezbytná, aby jste mohli využít plnou potenciálku svého dokumentu při prezentaci. Tato konverze vám umožňuje:
+
+**Užití:**
+
+*   **Digitální publikování**: Konvertovat soubory XML na interaktivní digitální publikace, články a e-knihy se multimédia obsahem.
+*   **Data-driven reporting**: Použít PDF pro prezentaci komplexních datových informací v jednoduchém a stručném způsobem, což usnadňuje lepší rozhodování mezi zainteresovanými stranami.
+*   **Přístupnost a inkluzi**: Konvertovat soubory XML na přístupné dokumenty, které vyhovují mezinárodním standardům přístupnosti a jsou využívány lidmi se zdravotními omezeními.
+*   **Systémy správy obsahu (CMS)**: Použít PDF pro předávání strukturovaného obsahu a zajistit integritu vašeho metadata na webu.
+*   **Kampány marketingu**: Konvertovat soubory XML na interaktivní marketingové materiály, jako jsou letáky, prospekty a katalogy, které lze rozdelit na různé kanály.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

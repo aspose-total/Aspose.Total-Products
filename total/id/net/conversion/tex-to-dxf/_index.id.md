@@ -106,7 +106,23 @@ Kami menyarankan penggunaan Microsoft Visual Studio, Xamarin, dan MonoDevelop ID
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Mengubah File TEX ke DXF Secara Terprogram : Contoh Penggunaan" %}}
+Pengkonversi TeX ke DXF diperlukan untuk mengaktifkan potensi desain penuh Anda. Ini memungkinkan beberapa aplikasi yang berarti:
+
+**Aplikasi:**
+
+* **Arsitektur Modeling**: Mengkonversi file TeX untuk membuat desain arsitektur yang presisi dalam 2D dan 3D, memungkinkan sketsa akurat dan visualisasi.
+  
+* **Perancangan Teknik**: Menggunakan format DXF untuk mengimpor dan menyunting gambar teknik, memastikan kompatibilitas dengan software CAD.
+
+* **Perancangan Kenderaan**: Mengkonversi file TeX untuk membuat desain kenderaan detail, memfasilitasi kolaborasi antara perancang dan insinyur.
+
+* **Manufaktur Produk**: Menggunakan format DXF untuk menghasilkan layout yang dapat dicetak untuk manufaktur produk, mengurangi kesalahan dan meningkatkan pengawalan kualitas.
+
+* **Peta Geospatial**: Mengkonversi file TeX untuk membuat peta vektor, yang ideal untuk analisis GIS, visualisasi data, dan aplikasi peta.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

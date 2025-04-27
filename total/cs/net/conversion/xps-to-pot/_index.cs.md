@@ -115,7 +115,17 @@ K vytváření aplikací C#, F#, VB.NET doporučujeme používat Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Programová transformace souboru XPS do POT: Případy použití" %}}
+Soubory XPS (XML Paper Specification) jsou určeny pro ukládání informací o rasterových grafických datech, čímž se stávají ideálním řešením pro tvorbu tiskoprintních dokumentů a obrazů. Nicméně, při práci s vectorovými grafikami nebo interaktivními vizualizacemi se stávají soubory v formátu .pot nezbytnými pro vizualizaci a analýzu dat.
+
+*Vytváření vectorových grafik*: Převést XPS soubory na tvorbu vectorových grafik, úpravy obrazů a manipulaci s formami a textem.  
+*Interaktivní vizualizace*: Použití souborů .pot pro vizualizaci interaktivní data, jako jsou panely řídicí, zprávy a grafy.  
+*Import do PDF a jeho úprava*: Převést XPS soubory pro import do PDF editorů, povolit úpravu a modifikaci obsahu dokumentu.  
+*Digitální podpisy a bezpečnost*: Použití souborů .pot pro přidání digitálních podpisek, šifrování dokumentů a zajištění bezpečného sdílení.  
+*Výstup do webu a mobilních zařízení*: Převést XPS soubory pro výstup do formátů užitečných pro web, jako jsou HTML a CSS, a pro mobilní zařízení.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
