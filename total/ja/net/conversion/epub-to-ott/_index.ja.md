@@ -58,7 +58,21 @@ document.Save("output.ott", SaveFormat.Ott);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをOTTに変換する：ユースケース" %}}
+電子書（EPUB）ファイルは、デジタルコンテンツを保存するために使用され、読みやすいドキュメントやパブリケーションを作成するのに適しています。しかし、メディア内容と関わる場合には、HTML ファイルが作り出すインテラクティブな体験を実現する必要があります。
+
+電子書ファイルをHTML形式に変換することは、インタラクティブなコンテンツの完全な可能性を引き出し、以下のような利益があるためです：
+
+**用途（Use Cases):**
+
+* **デジタル出版**: インタラクティブな電子書籍や雑誌、新聞をオンラインで簡単に共有できるようにするために、電子書ファイルをHTML形式に変換します。
+* **メディア芸術のストーリーテリング**: イメージ、ビデオ、オーディオ、アンیمーションを含む多媒体ストーリーを生まれ変わらせるために、HTML を活用します。
+* **eラーニングコンテンツ**: クイズ、ゲーム、シミュレーションなどのインタラクティブなeラーニングマテリアルを作成するために、電子書ファイルをHTML 形式に変換します。这些材料は容易に更新と共有が可能です。
+* **ウェブパブリッシング**: HTML を使用してウェブサイトやブログにデジタルコンテンツを公開し、読者やビューヤー向けにエンゲージングなオンライン体験を作成します。
+* **アクセス性向上**: 電子書ファイルをHTML 形式に変換することで、障碍を有するユーザーも利用できるようなアクセス可能なデジタルコンテンツを作成し、助適技術を活用することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

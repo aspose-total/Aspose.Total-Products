@@ -140,7 +140,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPCLファイルをXAMLFLOWに変換する：ユースケース" %}}
+PCL（ポータブル ドキュメント フォーマット）ファイルは、ベクター グラフィックス情報を保存するために使用され、静的なドキュメントやイラストレーションを作成するのに適しています。しかし、ダイナミックなUI要素と働く場合には、XAMLFlowフォーマットがデザインと開発に不可欠になります。
+
+PCLファイルをXAMLFlowフォーマットに変換する必要があります。これにより、ユーウィー デザインと開発の完全な可能性を引き出すことができます。この変換によって次のような利益があるです：
+
+**用途：**
+
+* **モバイル アプリケーション デザイン**: モバイル アプリのインタラクティブなデザインを作成し、ユーザー体験のプロトタイプを制作し、デザインコンセプトを検証することができます。
+* **デスクトップ アプリケーション開発**: XAMLFlowを使用してデスクトップアプリのデータを可視化し、ワークフローを最適化し、UIパフォーマンスを測定することができます。
+* **ゲーム デベロッピング**: PCLファイルをXAMLFlowに変換して、インマーシ브なゲーム エンベリティを制作し、ゲームプレイ体験をシミュレートし、プレヤー ビハインドを分析することができます。
+* **バーチャル レアルティ (VR)とオーグメンテッド レアルティ (AR) デザイン**: XAMLFlowを使用してインタラクティブなVR/AR エクスペリエンスをデザインし、ユーザー インターフェースのプロトタイプを作成し、利用可能性を検証することができます。
+* **データ ドライブン UI デザイン**: PCLファイルをXAMLFlowに変換して、データドライブンなUI コンポーネントを作成し、リアルタイムにデータバインディング을実現し、ユーザー エンゲージメントを最適化することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

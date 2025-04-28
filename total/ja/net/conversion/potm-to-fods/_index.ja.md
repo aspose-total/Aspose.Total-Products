@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPOTMファイルをFODSに変換する：ユースケース" %}}
+PDF (ポータブル ドキュメント フォーマット) ファイルは、静的なコンテンツを保存するために適しています。これにより、レイアウトとフォーマットが保たれるドキュメントを作成することが理想的です。
+
+しかし、ダイナミックなデータと働く場合、ツールとしてAdobe Acrobatのようなものが必要になります。PDF ファイルをFODS (オープンドキュメント スプレッドシート 形式) に変換することは、ドキュメントのエディットや注釈作成能力を最大限度活用するために必須です。この変換により、次のようなことが可能になります：
+
+**用途：**
+
+*   **データドライブン ドキュメント作成**: PDF ファイルを交互的なテーブル、グラフなどを作成し、データドライブンの情報を分析しプレゼンテーションするのに容易くなします。
+*   **共同作成**: FODS を用いて、他人とリアルタイムで共著作を行うことができます。また、変更履歴やバージョンハイストリを管理することが可能です。
+*   **自動化ドキュメント処理**: PDF ファイルを変換し、データ抽取、テンプレートの適用、ヘッダー挿入など自動化されたタスクを行うことができます。
+*   **アクセス性と包容性**: FODS を用いて、alt text、説明ラベル、ナビゲーションが向きやすいようにすることで、障碍者に配布するドキュメントのアクセス性を向上させることができます。
+*   **他のツールとの統合**: PDF ファイルを変換し、データベース、CRM システム、プロジェクト管理ソフトウェアなど他のツールと連携することが可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

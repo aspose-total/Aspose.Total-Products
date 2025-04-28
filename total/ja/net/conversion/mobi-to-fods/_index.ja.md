@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMOBIファイルをFODSに変換する：ユースケース" %}}
+MOBI ファイルは、電子書の内容を保存するために使用され、デジタル出版物を作成するための理想的な形式です。しかし、多メディア データを扱う際には、フォーマット オブ データ ストリーム (FODS) などの形式がデータ交換と協働作業に不可欠になります。
+
+MOBI ファイルから FODS 形式へのコンバージョンは、自分のコンテンツのデータ交換や協働作業の限界を解き開くために必要です。このコンバージョンにより、次のような利益があると言います：
+
+**用途:**
+
+* **電子書出版:** MOBI ファイルを電子書として発行し、デジタル配布し、より広範な読者に達することができます。
+* **デジタル アセット マネージメント:** FODS を使用して、電子書や記事、ドキュメントなどのデジタル アセットを管理し、チームメンバーやクライアントと協働作業することができます。
+* **コンテンツ シンジケーション:** MOBI ファイルを多くのプラットフォーム、ウェブサイト、デバイスに配布するために使用します。
+* **アクセスビリティー ソリューション:** FODS を使用して、障碍者（スクリーン リーダーやブラaille ディスプレイなど）が利用できるように電子書をアクセス化することができます。
+* **データ インテグレーションと アナリティックス:** MOBI ファイルからデータを取り出して、電子出版related データを統合し、読者行動を追跡し、売り上げトレンドを分析することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

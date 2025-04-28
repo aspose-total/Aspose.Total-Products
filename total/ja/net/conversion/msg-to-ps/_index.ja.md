@@ -78,7 +78,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMSGファイルをPSに変換する：ユースケース" %}}
+MSG（メッセージ）ファイルは、テキストベースの情報を保存するために使用され、シンプルなテキストメッセージやメールで適したものです。しかし、多媒体データと関わる場合には、視覚的に魅力あるドキュメントを配送するためにPDFフォーマットは不可欠です。
+
+MSGファイルのPDFフォーマットへの変換は、ドキュメント配送能力を最大限活用するために必要です。この変換により、次のような事が可能になります：
+
+* **EC商店での注文確認**: プロフェッショナルな注文確認を作成し、商品詳細や配送情報を含むものです。
+* **医療記録の共有**: 敏感な医療記録を配送し、セキュアで合法的なデータ交換を確保します。
+* **イベント招待券のデザイン**: 観客を引きつけそうなイベント招待券を作成し、RSVP情報や宿泊案内情報を含むものです。
+* **技術手册の配送**: 技術手册を配送し、顧客やエンドユーザーに読みやすいドキュメントを提供します。
+* **ニュースレターの発行**: 観感的に魅力あるニュースレターを作成し、会社の最新情報、プロモーション、業界見聞を含むものです。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

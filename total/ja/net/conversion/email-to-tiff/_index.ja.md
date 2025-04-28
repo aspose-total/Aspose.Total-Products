@@ -58,7 +58,19 @@ document.Save("output.tiff", SaveFormat.Tiff);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEMAILファイルをTIFFに変換する：ユースケース" %}}
+メールファイルのTIFF形式への変換は、文書保存・アーカイブ機能の完全な潜力を引き出すために必須です。この変換が可能になることで、以下のような利益があると考えられます：
+
+**用途:**
+
+*   **アーカイブ目的**: メールファイルをTIFF形式で保存し、歴史的文書を保全することができるようになります。また、法規要件に適合するようにするための措置も可能です。また、企業の記憶を維持することができます。
+*   **ドキュメントリトリーブ**: TIFF形式を使用して、特定のドキュメントを効率的にリカレントすることができるようになります。欠落した情報を追跡し、ドキュメントマネージメントプロセスをstreamlineすることが可能です。
+*   **セキュリティ要件**: メールファイルをTIFF形式で保護し、機密情報を紛失防止や非正当なアクセスを防ぐことができるようになります。政府の規制に適合するようにすることができます。
+*   **訴訟に適合する**: TIFF形式で不可変な記録を作成し、法律に適合していることを示すことができるようになります。また、文書破壊や改変の疑いを払うことができる証拠として使用することが可能です。
+*   **長期的なドキュメント保存**: メールファイルをTIFF形式で保存し、長期間にわたるデータ保持が可能となり、重要なビジネスインTELリンスを維持することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

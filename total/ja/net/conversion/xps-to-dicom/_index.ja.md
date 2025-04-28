@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXPSファイルをDICOMに変換する：ユースケース" %}}
+XPS (XML Paper Specification) ファイルは、ラスターグラフィックス情報を保存するために使用され、静止型ドキュメントやイメージを作成するのに適しています。しかし、医療画像データを扱う場合には、DICOM (デジタルイメージングと通信医療) ファイルが必要となり、イメージのビジュアル化とアナリзаに用いられます。
+
+XPS ファイルから DICOM フォーマットへの変換は、医療画像データのビジュアル化とアナリザーの可能性を完全に活用するために必要です。この変換により、次のようなことが可能になります：
+
+**用途（Use Cases):**
+
+* **レジラリーイメージ・アナリза**: XPS ファイルを分析し、X線、CTスキャン、MRIなどのレジラリー イメージを診断目的で使用することができます。
+* **医療機器データの交換**: DICOM を用いて、医療機器とヘルスケア プロバイダー間で患者情報やイメージ 결과を交換することができます。
+* **研究開発**: XPS ファイルをDICOMに変換し、医療機器のデジタル モデルを作成し、デバイスの性能をシミュレーションし、デザイン コンセプトを検証することができます。
+* **画像処理と向上生産**: DICOM を用いて、医療イメージを加工し、ノイズを削除し、イメージの品質を向上させることができます。
+* **データの保存とアーカイブ化**: XPS ファイルをDICOMに変換し、医療画像やデータを安全に保存し、規制的な要件に適合するようにすることができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

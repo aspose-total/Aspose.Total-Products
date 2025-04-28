@@ -57,7 +57,21 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをDXFに変換する：ユースケース" %}}
+CGM（コンピュータ・グラフィックス・メタファイル）をDXF（ドレイング・エクスチェンジ・フォーマット）に変換することは、CADデザインと製造能力を最大限度発揮するための重要な手段です。この変換により、以下のような利益があるため、次の用途で役立ちます。
+
+**用途:**
+
+* **CADデザイン統合**: CGMファイルをDXFに変換し、CADソフトウェアと平滑にデータを交換できるようにすることで、設計協力とデータ交換がスムーズになります。
+* **製造工程最適化**: DXFファイルを使用して、製造工程を最適化し、生産コストを低減し、製品の品質を向上させることができます。
+* **設計可能性性向上（DFM）:** CGMファイルをDXFに変換し、材料特性、工具要求、組み立て制約などを考慮したDFMデザインを作成することができます。
+* **CNCマシンとのデータ交換**: DXFファイルを使用して、設計データをCNCマシンと通信し、部品の切削や溶接を精确に実現できるようにします。
+* **製品開発とテスト**: CGMファイルをDXFに変換し、プロトタイプを作成し、デザインをテストし、製品の機能性を検証することができます。
+
+注意：CGMからDXFへの変換パターンについては、同じ方法が使用されています。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

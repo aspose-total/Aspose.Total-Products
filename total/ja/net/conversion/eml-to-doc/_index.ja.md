@@ -58,7 +58,21 @@ document.Save("output.doc", SaveFormat.Doc);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEMLファイルをDOCに変換する：ユースケース" %}}
+メールファイルは、テキストベースの情報通信を保存するために使用され、読みやすいドキュメントを作成するのに適しています。しかし、プレゼンテーションデータと仕事をする場合、ミクロソフト オフィス ドキュメント（ワードなど）が必要となり、フォーマットとレイアウトに重要です。
+
+メールファイルをワード形式へ変換することが必要となります。これにより、以下の用途で役立つようにします：
+
+**用途:**
+
+* **ビジネス通信:** メールファイルを読みやすいビジネスドキュメント、レポート、提案を作成するために。
+* **会議資料とメモ:** ワードでフォーマットされた会議資料、メモ、行動項目を作成し、チームメンバーや他者が明確に理解できるようにします。
+* **個人用通信:** メールファイルを個人的なドキュメントとして利用し、手書きの手紙、証明書、招待状などを作成するために。
+* **マーケティングコラテラル:** ワードでエンゲージングなマーケティングマテリアルを作成し、flyer、広告、プレスリリースなどを制作するために。
+* **プロフェッショナルライтинグ:** メールファイルをポーライシュド プロフェッショナルコンテンツとして利用し、小説、ブログ記事、キャセスタディーなどを作成するために。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

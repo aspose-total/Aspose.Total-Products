@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでJSONファイルをRTFに変換する：ユースケース" %}}
+JSON (JavaScript Object Notation) ファイルは、軽量で人間が読めるフォーマットとしてデータを保存するために使用され、ウェブサーバーとウェブアプリケーション間でデータの交換に適しています。しかし、デスクトップパブリッシングや文書作成においては、RTF (Rich Text Format) が必要となり、複雑なドキュメントやレイアウトを作成するために使用されます。
+
+JSON ファイルを RTF 形式に変換することが求められます。これにより、以下の機能が実現されます：
+
+**用途:**
+
+*   **文档自動化**: JSON ファイルを利用して動的なドキュメントを作成し、ワークフローを自動化し、さまざまなソースからデータを取り込むことができます。
+*   **共同作成**: RTF を使用してチームと共に複雑な書き物を行い、変更を追跡し、修正を管理することができます。
+*   **電子書籍の作成**: JSON ファイルを利用してインタクティブな電子書籍を作成し、読者体験をシミュレートし、フォーマットを検証することができます。
+*   **科学技術出版**: RTF を使用して科学データを視覚化することができるようになります。例えば、数学方程式や図表をプロフェッショナルなフォーマットで表示することができます。
+*   **文档テンプレート**: JSON ファイルを利用してカスタマイズ可能な文档テンプレートを作成し、フォーマットを自動化し、ブランド要素を統合することができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -115,7 +115,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXPSファイルをRTFに変換する：ユースケース" %}}
+XPS (XML Paper Specification) ファイルは、ラスター グラフィックス情報を保存するために使用され、印刷されたドキュメントやデジタル マガジンを作成するのに適しています。しかし、テキストベースのデータと関わる場合には、RTF (Rich Text Format) が文書編集とフォーマットに必要なります。
+
+XPS ファイルを RTF 形式に変換することが求められます。これにより、以下のような利益があるためです：
+
+**用途:**
+
+* **文書編集**: XPS ファイルを RTF に変換して、ドキュメントを編集し、ヘッダー、フッター、ウォーターマークを追加することができます。
+* **ブックレットやブローシャーのデザイン**: RTF を使って、カスタムレイアウト、フォントスタイル、フォーマット オプションでブックレットやブローシャーを設計することができます。
+* **印刷物の作成**: XPS ファイルを RTF に変換して、フライヤー、ポスター、カタログなど印刷物を作成することができます。
+* **テキストベースのドキュメント オートメーション**: RTF を使って、テキストベースのドキュメント タスク（データ挿入やフォーマット更新）を自動化することができます。
+* **PDF と RTF の相互運用性**: XPS ファイルを PDF に変換して、編集可能なテキスト コンテンツを持つ PDF を作成し、協力とバージョン管理を容易にします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

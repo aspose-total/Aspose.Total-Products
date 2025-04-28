@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPCLファイルをSXCに変換する：ユースケース" %}}
+PLC（プログラマブル・ロジック・コントローラー）ファイルは、産業制御情報を保存するために使用され、自動化ソリューションやプロセス最適化を実現するのに適しています。しかし、非産業データと仕事をする場合には、スプレッドシートソフトウェアであるSXCが必要で、データ可視化や分析に活用されます。
+
+PLCファイルをSXCフォーマットに変換することが必要です。これにより、データ可視化や分析の潜在的な可能性を引き出すことができます。この変換によって、以下のような用途を実現できます：
+
+**用途（Use Cases）：**
+
+*   **供給チェーン最適化**: 製造スケジュールを分析し、入庫レベルを追跡し、供給チェーンでのバットループを識別するためにPLCファイルをSXCに変換します。
+*   **製造プロセス改善**: 製造データを可視化し、生産ワークフローを最適化し、機械効率を測定するためにSXCを使用します。
+*   **エネルギー管理**: PLCファイルをSXCに変換し、エネルギー消耗モデルを作成し、建物の性能をシミュレーションし、エネルギー節約策を検証することができます。
+*   **品質管理と保証**: 品質管理データを分析し、欠陀を追跡し、製造プロセスでの改善点を識別するためにSXCを使用します。
+*   **データレポートとダッシュボード作成**: PLCファイルをSXCに変換し、インタクティブなダッシュボード、レポート、可視化を作成し、利益関係者に提供し、better decision-makingを支援することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

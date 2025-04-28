@@ -58,7 +58,23 @@ document.Save("output.text", SaveFormat.Text);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEMAILファイルをTEXTに変換する：ユースケース" %}}
+メールからテキストへの変換は、メール内の情報を抜き出すために最適な手段です。これらは、記録や要約作成に適したものです。
+
+長いメールチェーンを扱う場合、メールクライアントのようなツールが、整理やトラッキングに必要なものです。
+
+メールをテキストファイルに変換することは、記録作成と要約能力の限界を引き出し、さらに発揮するために必要なことです。
+
+以下の用途で役立ちます：
+
+* **メールアーカイブング：** メールをテキスト形式で記録、 アーカイブ、 要約を作成し、 歴史的な参照に適したものです。
+* **顧客コミュニケーション・アナリза：** テキストファイルを用いて、 顧客とのメールでの会話を分析し、 問題を追跡し、 コミュニケーションの傾向を把握することができます。
+* **ミーティングノートと要約作成：** メールをテキスト形式で、 ミーティングのノート、 要約、 行動項目を作成し、 チームや利害関係者向けに簡潔な情報提供することができます。
+* **マーケティングキャンペーンモニターimg：** テキストファイルを用いて、 マーケティングキャンペーンの会話を監視し、 応答を追跡し、 エンゲージメントを測定することがありません。
+* **法的記録作成：** メールをテキスト形式で、 公式的な記録、証拠、 トランスクリプトを作成し、 法的目的のために利用することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

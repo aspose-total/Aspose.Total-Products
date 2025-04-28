@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMOBIファイルをXLSBに変換する：ユースケース" %}}
+モービー ファイルを エクセルへ：モバイル データの 力を 解き出す。
+
+モービー ファイルは、モバイル コンテンツ（例えば電子書籍や多メディア アプリケーション）を保存するためのフォーマットです。しかし、データの分析に適したものではありません。そんなモービー ファイルを エクセル 形式に変換することで、データの ビジュアリゼ이션と 分析の 丰富な機能を 活用することができます。
+
+以下の用途を実現することが可能です：
+
+* **モバイル アプリ パフォーマンス 分析**：モービー ファイルを エクセル 形式に変換し、 アプリの パフォーマンス メトリクスを分析し、ユーザーの エンゲージメント을 トラッキングし、改善点を見つけることができます。
+* **マーケティング キャンペーン トラッキング**：XLSB 形式でキャンペーンの メトリクスを ビジュアリゼーションし、ユーザーとの インタラクション을 トラッキングし、モバイル マーケティング ストラテジーの 효과를測定することができます。
+* **モバイル ゲーム デベロップメント オプティマイゼーション**：モービー ファイルを XLSB 形式に変換し、詳細な アナリティクス レポートを作成し、ゲーム レベルを 最適化し、プレイ エクスペリエンスをUFFIXすることができます。
+* **モバイル ヘルス＆フィットネス データ 分析**：XLSB 形式で ヘルスと フィットネス データ를分析し、進捗を トラッキングし、ユーザー ビハビオリットの トレンドを 観察することができます。
+* **モバイル セキュリティ スパイダー探索**：モービー ファイルを XLSB 形式に変換し、モバイル セキュリティ スパイダーを 検測し、脆弱性の パターン을 分析し、プロアクティブな対策을実施することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

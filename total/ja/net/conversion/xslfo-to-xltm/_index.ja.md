@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXSLFOファイルをXLTMに変換する：ユースケース" %}}
+XSLFO（Extensible Style Language Formatting Objects）ファイルは、XMLドキュメントの構成、レイアウト、ビジュアル・アペナシーを定義するために使用されます。これにより、形式化されたドキュメントの作成に適したものですが、ダイナミックなコンテンツに対応する際には、Microsoft WordのようなXLTMsが必要となり、エディット・パブリッシュするのに最適です。
+
+XSLFOファイルをXLTMsに変換することは、ドキュメントのフォーマット能力やエディット能力を最大限発揮するための重要な手段です。この変換により、次のような利益があると言います：
+
+**用途：**
+
+* **プロフェッショナルな文書エディット**: XSLFOファイルをエディットし、カスタマイズできる形式化されたドキュメントを作成することができます（例:リゾーム、手紙、レポートなど）。
+* **電子書籍の出版**: XLTMsを使用して、フォントサイズ、色、レイアウトが調節可能なインタラクティブな電子書籍を作成することができます。
+* **テクニカルライティング**: XSLFOファイルを利用して、ユーザーマニュアル、インストゥーショナル、ガイドなどのテクニカルドキュメントを作成し、フォーマットすることができます。
+* **マーケティングマテリアルの作成**: XLTMsを使用して、宣伝物（ブロシュール、フライヤー、プレゼンテーションなど）をデザインし、フォーマットすることができます。
+* **アクセス性向上**: XSLFOファイルを利用して、テキストサイズ調節、高反差モード、スクリーンリーダー対応などのアクセス性向上の機能を実現することができるです。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

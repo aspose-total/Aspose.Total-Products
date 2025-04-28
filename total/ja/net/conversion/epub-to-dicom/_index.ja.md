@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをDICOMに変換する：ユースケース" %}}
+EPUB（電子パブリケーション）ファイルは、デジタルコンテンツを保存するための設計であり、医療用イメージングデータの出版や雑誌、他種類のデジタルパブリケーションに適しています。しかし、医療画像データの処理においてDICOM（Digital Imaging and Communications in Medicine）ファイルは、正確な診断と治療を実現するための重要な資料となります。
+
+EPUBファイルをDICOMフォーマットに変換する必要があります。これにより、以下のような利益があるため、医療画像処理の能力を最大限で活用することが可能になります：
+
+**用途（Use Cases):**
+
+* **医療画像解析**: EPUBファイルを DICOM に変換し、患者の治療結果を追跡することや診断パターンを認識することができるようにします。
+* **イメージプロセッシングとエンハンスメント**: DICOM を通じて医療画像をシャープにし、ノイズを削除し、対比度を向上させることができます。
+* **テレメディックンとリモントヘルスケア**: EPUBファイルを DICOM に変換し、安全なリモント診療を実現し、患者の画像を専門医に共有することができるようにします。また、患者状態をモニターすることができます。
+* **メディカルデバイスの統合**: DICOM を通じて医療機器をヘルスケア体系に組み込むことができるようになり、臨床ワークフローをスムーズ化し、患者の治療を向上させることができます。
+* **研究開発**: EPUBファイルを DICOM に変換し、医療データを分析し、疾病進展の傾向を把握し、新しい治療法を開発することができるようにします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCMファイルをCSVに変換する：ユースケース" %}}
+ドキュメント形式（DOCM）からCSV 形式への変換が、データのアクセシビリティと分析能力を向上させる必要があります。  
+
+以下に、該当の変換が実現できる用途を示します：  
+
+* **ビジネス・インテリジェンス**：ドキュメント形式からCSV 形式で、ビジネスパフォーマンスを分析し、主要なメトリックを追跡し、財務データでのトレンドを把握することが可能になります。  
+* **マーケティング データ アナリза**：CSV 形式で、マーケティング キャンペーン データを可視化し、顧客とのインタラクションを分析し、キャンペーンの効果を測定することができます。  
+* **オペレーショナル レポート**：ドキュメント形式からCSV 形式で、interactive レポートを作成し、キープイット（KPIs）を追跡し、運営性能をモニターすることが可能になります。  
+* **リサーチ データ インテグレーション**：CSV 形式で、さまざまなソースからのリサーチ データを統合し、データ クリーンイングを行い、発見をバリデーションすることができます。  
+* **データ ビジュアライゼーションとダッシュボード作成**：ドキュメント形式からCSV 形式で、interactive ダッシュボードやレポート、ビジュアライゼーションを作成し、利益関係者に提供することができるため、より良い決策-making を支援します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

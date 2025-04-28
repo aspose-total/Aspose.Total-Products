@@ -115,7 +115,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXPSファイルをSWFに変換する：ユースケース" %}}
+XPS (XML Paper Specification) ファイルは、パワフルな方法でデジタルドキュメントを保存し管理することができるが、その制限を克服するためにSWF（Shockwave Flash）に変換することが可能です。この変換により、以下のような活躍的なコンテンツを作成することができます。
+
+**用途:**
+
+* **電子教材向きの学習アプリ:** XPS ファイルを SWF に変換して、シミュレーション、クイズ、ゲーム化要素を含むエンターテインメント的な学習コンテンツを作成することができます。
+* **デジタルサインेजやキオスク:** SWF を利用して、ダイナミックなコンテンツを表示することができるデジタルサインेज、キオスク、またはインタラクティブなディスプレイで活躍します。
+* **オンラインプレゼンションやスライドショー:** XPS ファイルを SWF に変換して、キャプテイヴォン、トランジション、メディア要素を含む魅力あるオンラインプレゼンションを作成することができます。
+* **モバイルアプリやゲーム:** SWF を利用して、モバイルアプリやゲームにライフ感を込めることができるので、リッチなグラフィックスとインタラクティビティーでユーザーを引き込むことができます。
+* **ウェブコンテンツ向きのインタラクティブな内容:** XPS ファイルを SWF に変換して、スクローリングギャラリー、インタクティブなストーリー、または他の面白い体験を作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

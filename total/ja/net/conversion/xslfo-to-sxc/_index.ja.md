@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXSLFOファイルをSXCに変換する：ユースケース" %}}
+XSLFO (Extensible Stylesheet Language Formatting Objects) ファイルは、ドキュメントのレイアウトとフォーマットを記述するために使用され、テキストの形式化 작업에適しています。ただし、ダイナミックなデータと仕事をする場合には、スプレッドシートソフトウェアであるLibreOffice Calcが必要となり、データ分析やビジュアル化が行えるようになります。
+
+XSLFO ファイルを sxc 形式に変換することは、ドキュメントのエディットとコラボレーション能力を最大限に活用するために必要です。この変換により、次のような利益があるためです：
+
+**用途（Use Cases）：**
+
+*   **ドキュメントレイアウトカスタマイズ**: XSLFO ファイルを sxc 形式に変換し、ドキュメントのレイアウト、フォント、グラフィックスをカスタマイズすることができるようになります。企業や組織にとってユニークなビジュアルアイデンティティを創造することが可能です。
+*   **リアルタイム共同エディット**: sxc を使用し、他人とドキュメントを共有してリアルタイムでエディットが行えるようになります。すべての人が同じページにいることを確保し、バージョン間の衝突を減少することができます。
+*   **自動化されたフォーマット作業**: XSLFO ファイルを sxc 形式に変換することで、大量のドキュメントやレポートにスタイルやレイアウトを自動的に適用することができるようになります。
+*   **データ駆動型のコンテンツ作成**: sxc を使用して、外部ソースからデータを取り込むことができるようになり、リアルタイムで更新可能なダイナミックなコンテンツを作成することができます。
+*   **アクセシビリティと包容性設計**: XSLFO ファイルを sxc 形式に変換することで、画像やメディア要素の代替テキストを含むドキュメントのアクセシビリティを向上させることができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

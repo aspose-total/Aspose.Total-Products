@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをSVGZに変換する：ユースケース" %}}
+マークダウン (MD) ファイルを SVGZ 形式に変換することが、データ可視化と分析の限界を解除する必要があります。以下の用途が可能になります：
+
+**用途:**
+
+* **静的ウェブサイト生成**: MD ファイルを SVGZ に変換して、サーバー側レンダリングを必要とせず、ページロード時間を短められる。
+* **技術ドキュメントとオンボーディング**: SVGZ を使用して、interactive 技術ドキュメント、オンボーディングガイド、ユーザーマニュアルを作成し、より良いユーザー体験を提供する。
+* **アクセス性と包容的なデザイン**: MD ファイルを SVGZ に変換して、障碍者でも利用できるdigital プロダクトを作成し、inclusive デザインのプロセスを向上させる。
+* **eラーニングと教育コンテンツ**: SVGZ を使用して、interactive eラーニングモジュールやチュートリアル、教育コンテンツを作成し、学習者を引き込むことができる。
+* **プロトタイプ作成とユーザビリティテスト**: MD ファイルを SVGZ に変換して、interactive プロトタイプやユーザビリティテストを作成し、デザイナーがアイデアを検証し、設計プロセスを効率的に進めることができる。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

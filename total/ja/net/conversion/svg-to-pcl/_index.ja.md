@@ -115,7 +115,23 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでSVGファイルをPCLに変換する：ユースケース" %}}
+**PCL ファイルへの変換:**
+
+* **用途:**
+
+  * **3D印刷とモデリング:** SVGファイルを変換して、3D印刷とモデリングの完全な可能性を引き出すことができます。
+  
+  * **ＣＮＣ加工工程最適化:** PCLファイルを使用して、ＣＮＣ加工工程の最適化を実現することができます。
+  
+  * **地理情報システム（GIS）:** SVGファイルを変換して、インタラクティブな地理情報システム（GIS）マップを作成することができます。
+  
+  * **建築視覚化:** PCLファイルを使用して、正確な建築模型を作成することができます。
+  
+  * **ロボティックと自動化:** SVGファイルを変換して、精密なロボティック動作の開発を支援することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

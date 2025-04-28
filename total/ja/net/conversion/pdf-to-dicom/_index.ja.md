@@ -106,7 +106,23 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPDFファイルをDICOMに変換する：ユースケース" %}}
+PDF（ポータブルドキュメントフォーマット）ファイルは、固定レイアウトのドキュメントを保存するために使用され、静的なレポート、手册、プレゼンテーションなどに適した形式です。しかし、医療画像データと仕事する場合には、DICOM（デジタルイメージング・アンド・コミュニケーションズ・イン・メディシン）ファイルが必要となり、患者情報の保存と管理に使用されます。
+
+PDFファイルをDICOM形式に変換することが必要です。これにより、次のような利益があるためなります：
+
+**用途：**
+
+* **イメージ・アナリза**: 医療画像（X-ray、CTスキャン、MRIなど）を分析し、診断情報を取り出すためにPDFファイルをDICOM形式に変換します。
+* **パティエント・レコード・マネージメント**: 患者レコードにDICOMを使用して、医療歴、治療プラン、イメージング結果などを保存하고管理します。
+* **ラジオロジー・レポートの生成**: PDFファイルをDICOM形式に変換し、ラジオロジーレポートを作成するために画像、測量値、診断情報を含むレポートを生成します。
+* **メディカル・リサーチ・アンド・デベロップメント**: DICOMを使用して大量の医療画像データを分析し、新しい治療法や診断技法に関する研究を行うために利用します。
+* **イメージ・ストレージ・アンド・リカレント**: PDFファイルをDICOM形式に変換し、効率的に医療画像を保存し、重要な患者情報にアクセスすることができるようにします。
+
+注意：このテキストは、ソースフォーマット（PDF）からターゲットフォーマット（DICOM）への変換に関するパターンを取り入れています。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

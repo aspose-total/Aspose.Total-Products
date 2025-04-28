@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCMファイルをXLTXに変換する：ユースケース" %}}
+DOCM ファイルを XLTX 形式に コンバートすることは、データ ビジュアライゼーションと アナリзаの 完全な ポテンシャル을 活用するための 必要な プロセスです。
+
+以下の 用途で 次のような アプリケーションが可能になります：
+
+* **マーケットリサーチ・アナリザ**：DOCM ファイルを アナライズ하여 マーケット トレンド、消費者 ビハビオリポート、データ内の パターンを 抽象することができます。
+* **ビジネス ストリート ジームプティマイゼーション**：XLTX を 通じて ビジネス パフォーマンス メトリク、戦略 最適化、ROI を 측定することができます。
+* **プロダクト ディベロッパメント ドキュメンテ이션**：DOCM ファイルを XLTX に コンバートして、インタラクティブな プロダクト ドキュメンテーションを作成し、ユーザー エクスペリエンスの シミュレーション、デザイン コンセプトの バリデーションができます。
+* **テクニカル ライターングと レポーティング**：XLTX を 通じて 3D モデル、シミュレーション 結果、実験 データなどの複雑な テクニカル データ를 ビジュアライゼーションすることができます。
+* **データ ビジュアライゼーションと ダッシュボード作成**：DOCM ファイルを XLTX に コンバートして、ステークホルダー 向に インタラクティブな ダッシュボード、レポート、ビジュアライゼーションを作成し、ベターな决策을 지원することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

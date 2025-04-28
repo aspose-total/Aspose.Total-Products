@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでRTFファイルをSXCに変換する：ユースケース" %}}
+RTF (リッチ テキ스트 フォーマット) ファイルを SXC (OpenDocument スプレッドシート テンプレート) ファイルに コンバージョンする必要があります。これにより、スプレッド シートの機能を 最大限度で 活用することができます。この コンバージョンによって 次のような 用途が実現されます：
+
+**用途:**
+
+* **データ アナリзаと ビジュアライゼ이션**: RTF ファイルを 分析하고 チャ트을 만드는 등、より インタク티ブ하고 협력的な環境で トレンド를 観察することができるようにします。
+* **マーケティング キャンペーンの トラッキング**: SXC ファイルを 使用して、マーケティング キャンペーンの パフォーマンスを 监視し ROI を 評価하고 改善点을 指出することができます。
+* **プロダクト ディベロッパーと デザイン**: RTF ファイルを 使用して、 インタク티ブな プロダクト デザイン을 만드는 등、ユーザー エクスペリエンスを シミュレート하고 デザイン コンセプトを 椿legalArgumentException( validate)することができます。
+* **科学적 研究と レポート**: SXC ファイルを 使用して、複雑な 科学データ를 ビジュアライゼし、 レポートを作成하고 結果을 清潔に 表示することが 됩니다。
+* **ビジネス에서의 決定-making**: RTF ファイルを 使用して、 インタクティブな ダッシュボードや レポート를 만드는 등、 ステーケホルダー에게 제공하여 ベター한 결정을 내릴 수 있도록 합니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -58,7 +58,21 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをRTFに変換する：ユースケース" %}}
+EPUBファイルをRTFに変換する：文書編集能力の完全活用。
+
+EPUBファイルをRTF形式に変換する必要があります。これにより、以下のような利点を実現できます：
+
+**利用例：**
+
+* **文書レビューとエディット**: EPUBファイルをRTFに変換し、文書をレビューし、エディットすることが容易になり、同僚やクライアントとの協力作業がスムースに進むことができます。
+* **アクセシビリティーの向上**: RTF形式でフォント、フォーマット、レイアウトを設定し、文書の可読性を向上させることで、障碍者へのアクセシビリティーを改善することが可能です。
+* **旧版ソフトウェアとの互換性**: 旧版ソフトウェアがRTF形式のみをサポートしている場合でも、EPUBファイルをRTFに変換し、古着化されたワークフローに適応することができます。
+* **電子書籍の作成**: EPUBファイルをRTFに変換し、カスタム電子書籍を作成することができるようになります。注釈、ハイパーリンクなど追加的な機能を追加することが可能です。
+* **出版と配布**: RTF形式で文書を配布すると、RTF形式をサポートする読者にも配布が容易になり、幅広い受け入れられてもいます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -140,7 +140,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでXSLFOファイルをXAMLに変換する：ユースケース" %}}
+**XSLFO (エクステンシブル スタイル シート ランゲージ フォーマット オブジェクト) ファイルは、フォーマットされたテキスト情報を保存するために使用され、複雑なレイアウトとスタイリングを実現するのに適しています。しかし、よりダイナミックでインタクティ브なユーザー インターフェースを扱う場合には、XAML (エクステンシブル アプリケーション マークアップ ランゲージ) が強力で役立つためのアプリケーションの構築に不可欠です。
+
+XSLFO ファイルから XAML 形式への変換は、ユーザー インターフェースのビジュアル デザインとインタクティビティーの限りを引き出すために必要です。この変換により、次のような利益があると言います：
+
+**用途 (Use Cases):**
+
+* **エブック パブリッシング**: XSLFO ファイルを XAML 形式に変換して、ダイナミックなレイアウト、アンimatons、そしてメディア コンテンツを含むインタクティ브なエブックを作成することができます。
+* **モバイル アプリケーション開発**: XAML を利用して、モバイル アプリのユーザー インターフェースを構築し、デバイス固有の機能とキャパシティーを活用することができます。
+* **デスクトップ アプリケーション開発**: XSLFO ファイルを XAML 形式に変換して、ビジュアル적으로魅力あるデスクトップ アプリケーションを作成し、XAML の強力なスタイリングとレイアウト コントロールを活用することができます。
+* **ウェブ アプリケーション開発**: XAML を利用して、リッチでインタクティ브なユーザー インターフェースを持つ ウェブ アプリケーション을構築し、XAML で実現可能なダイナミックなビジュアル デザインを活用することができます。
+* **AR/VR エクスペリエンスのクリエイション**: XSLFO ファイルを XAML 形式に変換して、-immersiveな AR/VR エクスペリエンスを作成し、XAML で実現可能な 3D モデリングとアニメーションを活用することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -56,7 +56,19 @@ CGMファイルをMDに変換するときに、出力MDファイル形式に透�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをMDに変換する：ユースケース" %}}
+CGM ファイルのフォーマットをMarkdown（MD）に変換する必要があります。これにより、自分の文書能力を最大限発揮することが可能になります。
+
+**用途：**
+
+* **技術情報のドキュメント作成**：CGM ファイルを Markdown でユーザーマニュアル、技術ガイド、ソフトウェア、アプリケーション、複合システム向けのドキュメンテーションを作成する。
+* **デザインコンセプトの共有**：Markdown を用いてデザインコンセプトを視覚化し、製品の特徴を説明し、設計プロジェクトで利益相反する関係者と協力する。
+* **インタラクティブコンテンツの作成**：CGM ファイルを Markdown に変換して、チュートリアル、シミュレーション、体験的な内容を作成し、製品、サービスの活性を示す。
+* **技術ブログの執筆**：Markdown を用いてソフトウェア開発、プロダクトマネージメント、業界のトレンドについての技術記事やガイドを執筆し、公開する。
+* **知識ベース記事の作成**：CGM ファイルを Markdown に変換して、ユーザー、従業員、パートナー向けにわたる完全な知識ベース記事、指南、FAQを作成する。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

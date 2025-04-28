@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMOBIファイルをXLTXに変換する：ユースケース" %}}
+モビーファイルをXLTXフォーマットに変換する必要があります。これにより、出版機能の完全な活用が可能になります。
+
+**用途:**
+
+* **電子書籍出版**: モビーファイルをXLTXフォーマットに変換し、視覚的に魅力ある電子書籍を作成できます。
+* **デジタル雑誌や新聞**: XLTXを利用して、interactive elements（アニメーション、動画、リンクなど）が含まれるデジタルコンテンツを発信することが可能です。
+* **interactive content creation**: モビーファイルをXLTXに変換し、immersive experiences（ゲーム、クイズ、ストーリーなど）を作成することができます。
+* **アクセシビリティーシステム**: XLTXを利用して、テキストを声に変える機能、フォントサイズ調節、ハイコントラストモードなどのアクセシビリティーフィーチャーを追加することが可能です。
+* **クロスプラットフォームの互換性**: モビーファイルをXLTXに変換し、さまざまなデバイス（スマートフォン、タブレット、電子書籍リーダーなど）で互換性を確保することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -140,7 +140,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPCLファイルをOTTに変換する：ユースケース" %}}
+PCL ファイルを OTT 形式に変換する必要があります。これにより、データ可視化と分析の限界を引き出し、以下のような用途が実現されます。
+
+**用途:**
+
+* **建築可視化**: PCL ファイルを分析し、建物設計を確認、建設進度を追跡、設計欠陥を識別することが可能になります。
+* **製品開発**: インタクティブな 3D モデルを作成し、製品性能をシミュレート、工程設計を検証することができます。
+* **地理空間分析**: PCL ファイルを用いて、地理空間データ（地形モデル、基礎设施ネットワーク、環境ホザードなど）を可視化することが可能になります。
+* **ロボティクスと CNC 加工**: ロボットの動作を分析し最適化、CNC 加工 プロセスをシミュレートし、製造効率を向上させることができます。
+* **医療画像と手術計画**: PCL ファイルを用いて、手術計画に用いるinteractive 3D モデルを作成、医療機械の可視化、放射治療の治療計画を確認することが可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

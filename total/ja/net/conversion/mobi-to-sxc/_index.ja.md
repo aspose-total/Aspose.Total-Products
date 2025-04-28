@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMOBIファイルをSXCに変換する：ユースケース" %}}
+モビーファイルをSXCフォーマットに変換することは、デザインの潜在能力を最大限活用するための重要な手段です。
+
+以下の用途で役立つ場合があります：
+
+* **電子書籍出版**: モビーファイルをSXCフォーマットに変換して、プロフェッショナルな電子書籍を作成し、印刷後配送サービス向きに最適化されたレイアウトとフォーマットを実現します。
+* **デザイン協力**: SXCを使用して、同僚や利害関係者との間でデザインを共有し、フィードバックや修正がスムーズに行われるようにします。
+* **印刷準備ファイル**: モビーファイルをSXCフォーマットに変換して、オフセット印刷、perfect bound本、などの印刷物向きに適した印刷準備ファイルを作成します。
+* **デジタルアセットマネージメント**: デザインアセットを一元管理するために、SXCを標準フォーマットとして使用し、ワークフローをスムーズ化し、アセット発見を容易くします。
+* **ブランドとアイデンティティ**: モビーファイルをSXCフォーマットに変換して、一貫性あるブランドマテリアルを作成し、ビジネスカード、名刺、通帳、etc.を作成します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

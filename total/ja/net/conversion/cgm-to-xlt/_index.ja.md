@@ -56,7 +56,19 @@ CGMファイルをXLTに変換するときに、出力XLTファイル形式に�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをXLTに変換する：ユースケース" %}}
+CGM ファイルを XLT 形式に変換する必要があります。これにより、データ可視化と分析の限界を引き出し、以下のような用途を実現できます。
+
+**用途:**
+
+* **プロジェクト・マネージメント・アナリза**: XLM ファイルを分析し、プロジェクトのタイムラインを確認し、進捗を追跡し、依存関係を識別することができるようにします。
+* **マーケット・リサーチ・データ・アナリза**: XLT を用いて、マーケット・リサーチ データ（例：顧客の demography と購買パターン）を可視化し、分析することができます。
+* **フィナンシャル・プランニングとバックグラウンド**: XLT ファイルを使用して、interactive フィナンシャル モデルを作成し、バックグラウンドシナリオをシミュレーションし、収益の予測を行うことができます。
+* **エンジニアリング・デザインと開発**: XLT を用いて、エンジニアリング デザインを可視化し、システムのパフォーマンスをシミュレーションし、デザイン コンセプトを検証することができるようにします。
+* **セールス パフォーマンス トラッキング**: XLT ファイルを使用して、セールス パフォーマンスを追跡し、セールス トレンズを分析し、改善の可能性を識別することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

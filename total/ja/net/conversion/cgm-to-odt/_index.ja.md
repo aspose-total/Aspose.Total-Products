@@ -58,7 +58,23 @@ document.Save("output.odt", SaveFormat.Odt);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをODTに変換する：ユースケース" %}}
+CGM ファイルを ODT 形式に 导入することは、 あなたのドキュメント ビジュアライゼーション および 分析 能力を 最大限 活用するための 必要な 作行です。
+
+CGM ファイルを ODT 形式に 导入することで、 次のような 利用 事例が 行えるようになります：
+
+**利用 事例:**
+
+* **ドキュメント デザイン および 編集:** CGM ファイルを ODT 形式に 导入し、 インタラクティブな ドキュメント デザイン を 作成し、 テキスト レイアウト을 編集し、 フォーマット コンセプトを 検証することができます。
+* **ビジネス レポート および ダッシュボード:** ODT を 利用して ビジネス データを ビジュアライゼーションし、 売り チャート、 クラスターマー ビハーフ、 市場 分析など を 表示することができます。
+* **テクニカル ライティング および ドキュメンテ이션:** CGM ファイルを ODT 形式に 导入し、 インタラクティブな ドキュメント을 作成하고、 コンテンツ ライブラリ를 管理し、 バージョン 히スト리를 チェックすることができます。
+* **E-ラーニング 開発:** ODT を 利用して インタラクティブな E-レーニング マテリアルを開発し、 ユーザー エクスペリエンス을 シミュレートし、 学習 결과를 検証することができます。
+* **データ レポート および ビジュアライゼーション:** CGM ファイルを ODT 形式に 导入し、 データ ドライブンな レポート、 ダッシュボード、 ヴィジュアル을 作成하고、 ステークホルダー에게 제공し、Better Decision-Making を 실現することができます。
+
+CGM ファイルを ODT 形式に 导入することで、あなたのドキュメント ビジュアライゼーション および 分析 能력을 最大限 活用することが 됩니다。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

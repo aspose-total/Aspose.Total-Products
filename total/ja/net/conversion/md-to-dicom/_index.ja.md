@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをDICOMに変換する：ユースケース" %}}
+**ケース:** MD (Medical Document) ファイルは、医療画像データを保存するために使用されます。これにより、患者に関する詳細な情報を記録するための優れたレコードを作成することができます。しかし、ラジオロジー部門や医療施設と仕事をする際には、DICOM (Digital Imaging and Communications in Medicine) 形式が効率的な画像共有と保存に必要なきょうせきです。
+
+MD ファイルを DICOM 形式に変換することは、医療画像の機能を最大限に活用するための必須措置です。この変換により、次のようなことが可能になります:
+
+**用途:**
+
+* **医療画像の共有**: MD ファイルをDICOM形式でラジオロジストや病院、クリニック間で医療画像を共有し、正確な診断と治療を実現します。
+* **ラジオロジー部門の管理**: DICOM を用いて患者情報を管理し、イメージオーダーを追跡し、ワークフローを最適化することができます。
+* **画像の保存と検索**: MD ファイルをDICOM形式で医療画像を安全に保存し、将来の参照や分析に利用できるようにします。
+* **クリニカルディシジョンスポートシステム**: DICOM を用いて医療画像をクリニカルディションスポートシステムと統合し、医療従事者が判断을 지원することができます。
+* **規制的な適合性**: MD ファイルをDICOM形式で規制的な要件（例：HIPAA）に適合するように保存し、共有します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

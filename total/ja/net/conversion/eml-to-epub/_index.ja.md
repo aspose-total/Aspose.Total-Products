@@ -78,7 +78,21 @@ document.Save("output.epub", SaveFormat.Epub);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEMLファイルをEPUBに変換する：ユースケース" %}}
+EML（電子メールファイル）は、テキストベースの情報を保存するために使用され、個人通信や協働作業に適しています。しかし、構成済みデータと多媒体コンテンツを扱う場合には、EPUB（電子出版フォーマット）が必要となり、デジタルパブリッシングや配布に適したものになります。
+
+EMLファイルをEPUBフォーマットに変換することは、自分のデジタルコンテンツやパブリッシング能力を最大限発揮するための重要な手段です。この変換により、次のような利益があるとおりです：
+
+**用途（Use Cases):**
+
+* **デジタル出版**: EMLファイルをEPUBフォーマットに変換し、interactiveなデジタルパブリケーション、雑誌、ニュースレターなどの作成が可能になり、さまざまなデバイスでアクセスできるようにします。
+* **電子書籍作成**: EPUBを使用してEMLファイルを電子書籍に変換し、エレクトリックリーダー、タブレット、スマートフォンなどで読める形式にすることができます。
+* **ブログ記事出版**: EMLファイルをEPUBフォーマットに変換し、構成済みのフォーマットでブログ記事を公開することができるようにします。これにより発見性やアクセス性が向上します。
+* **研究記事作成**: EMLファイルをEPUBフォーマットに変換して研究記事を作成し、容易に共有や引用が可能になるようにします。
+* **ドキュメント協働作業**: EMLファイルをEPUBフォーマットに変換し、編集可能なドキュメントを作成し、他人と共有し、フィードバックを受けることができるようにします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

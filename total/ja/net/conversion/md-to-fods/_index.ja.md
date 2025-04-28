@@ -106,7 +106,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをFODSに変換する：ユースケース" %}}
+**用途:**
+
+* **製品ドキュメント分析**: マークダウンファイルを変換し、インタラクティブな製品ドキュメントを作成し、利用パターンを分析し、改善点を識別する。
+* **知識ベース最適化**: フォードス（FODS）を使用して知識ベースデータを視覚的に表現し、コンテンツの組織化を最適化し、ユーザーとのエンゲージメントを測定する。
+* **ドキュメント生成とバリデーション**: マークダウンファイルを変換して自動化されたドキュメントを生成し、コンテンツの正確性を確認し、組織内での一貫性を確保する。
+* **コンテンツ戦略とプランning**: コンテンツパフォーマンスを分析し、視覚的に表現し、コンテンツ戦略の決定に影響を及ぼし、コンテンツ投資のROIを測定する。
+* **協作と通信ツール**: マークダウンファイルを変換して協作ツールを創造し、リアルタイムのコメントやフィードバックを可能にし、チームでのコミュニケーションを向上させる。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

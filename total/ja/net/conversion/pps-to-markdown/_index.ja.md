@@ -106,7 +106,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPPSファイルをMARKDOWNに変換する：ユースケース" %}}
+PPS ファイルを マークダウン 形式に コンバージョンすることで、ドキュメントとプレゼンテーションの可能性を 丰く活用することができるようになります。以下の 用途があります：
+
+* **ブログ ポスト 書き方**: PPS ファイルを マークダウン で エンゲージングな ブログ ポスト を 書き、構成が整いやすい コンテンツ、画像、メディア要素を含む内容を作成することができます。
+* **ドキュメント 作成**: マークダウン を 利用して プロフェッショナルな ドキュメントを作成することができるようになります。例えば レポート、提案、プレゼンテーションなどの various industries および 用途 で 使用できる ドキュメントを 作成することができます。
+* **テクニカル ウェiting**: PPS ファイルを マークダウン で 高品質な テクニカル ドキュメントを作成することができるようになります。例えばユーザーマニュアル、ガイド、指示書などの 技術文書 を 作成することができます。
+* **オンライン コンテンツの 作成**: マークダウン を 利用して インター・アクティブな オンライン コンテンツを作成することができるようになります。例えばチュートリアル、ウェビナー、eラーニング リソースなどの コンテンツを 開発することができます。
+* **ノウズベース マネージメント**: PPS ファイルを マークダウン で 大規模な ノウズベースを作成することができるようになります。ユーザーが プロダクト、サービスの 情報や会社の ポリシーについて アクセスすることができる リソースを 作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

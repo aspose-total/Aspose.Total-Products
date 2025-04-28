@@ -140,7 +140,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをEPUBに変換する：ユースケース" %}}
+OFTファイルをEPUBフォーマットに変換する必要があります。これにより、デジタル出版と配布の限界を超える可能性を活用することができます。以下の用途を実現することが可能になります。
+
+**用途:**
+
+* **電子書籍出版**: Various devices and platformsで利用できるプロフェッショナルな電子書籍を作成するためにOFTファイルをEPUBに変換します。
+* **デジタル雑誌・新聞の出版**: EPUBを活用して、広範な受賞者に向けて雑誌や新聞を配布し、収益源を増やすことができます。
+* **オンラインコンテンツの配布**: OFTファイルをEPUBに変換して、グローバルなアウディエンスまで到達するオンラインコンテンツを配布することができます。
+* **アクセス性と包容性**: テキストを音に変える機能やフォントサイズ調整、ハイコントラストモードなど、障碍者でも利用できるようにするためにEPUBを活用します。
+* **データドライブン스토ーリーテリング**: インターグラビ브なストーリーを作成するためにOFTファイルをEPUBに変換し、データベースから得た情報を可視化し、アニメーションやその他メディア要素を追加して読者を魅せることができます。
+
+OFTファイルをEPUBフォーマットに変換することで、デジタル出版と配布の新しい機会を活用し、ビジネス成長と成功を実現することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

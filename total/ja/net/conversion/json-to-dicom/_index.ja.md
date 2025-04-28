@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでJSONファイルをDICOMに変換する：ユースケース" %}}
+JSON (JavaScript Object Notation) ファイルは、応用 프로그램間でデータを交換するために広く使用されています。これは、軽量性とパースリングの容易さによるものです。しかし、医療画像データを扱う場合には、DICOM (Digital Imaging and Communications in Medicine)が優先的な標準となります。
+
+JSON ファイルを DICOM 形式に変換する必要があります。この変換により、医療画像データの機能を完全に活用することが可能になります。以下に、この変換が実現できる用途を示します。
+
+**用途:**
+
+* **医療画像解析**: 医療画像データを分析し、腫瘤を分割し、異常を検出するために JSON ファイルを DICOM 形式に変換します。
+* **画像処理と向上加工**: DICOM を利用して、画像の質を向上させるための処理、ノイズを削除し、像再生技術を行うことができます。
+* **放射科レポート作成とワークフロー**: JSON ファイルを DICOM 形式に変換することで、標準化されたレポートを作成し、治療指令を生成し、放射科部門のワークフローを自動化することができます。
+* **医療機器の統合**: DICOM を利用して、医療機器と電子健康記録 (EHR) システムを統合し、リアルタイムでの患者モニターimgngとデータ交換が可能になります。
+* **臨床試験管理**: JSON ファイルを DICOM 形式に変換することで、臨床試験を管理し、患者データの収集と分析を行うことができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

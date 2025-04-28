@@ -58,7 +58,19 @@ document.Save("output.dotm", SaveFormat.Dotm);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをDOTMに変換する：ユースケース" %}}
+PS ファイルの DOTM 形式への変換は、ドキュメント エディットや アナリза 能力を最大限活用するために必要です。この変換により、次のような機能が利用可能になります：
+
+**用途:**
+
+* **文档管理**: PS ファイルを分析し、バージョン追跡を行うほか、コンテンツ内のパターンを識別することができます。
+* **デザイン コラボレーション**: DOTM を通じて デザイン データを視覚化し、チームと協力し、デザインの一貫性を測定することができます。
+* **PDF生成**: PS ファイルを通じて プロフェッショナル ライカンの PDF を作成し、レイアウトを最適化し、ファイル サイズを最小化することができます。
+* **印刷準備**: DOTM を用いて オンデマンド プリント サービスのために ドキュメントをプリント レディーにし、レイアウトをカスタマイズし、正確な色表示を保つことができます。
+* **レガシー システム インテグレーション**: PS ファイルを通じて レガシー システムと インターグレーションし、ワークフローをスピードアップし、ドキュメント プロセ싱을自動化することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

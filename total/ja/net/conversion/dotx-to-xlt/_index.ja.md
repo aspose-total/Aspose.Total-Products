@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOTXファイルをXLTに変換する：ユースケース" %}}
+ドットx ファイルを エックスエルティ ファイルに 変換する必要があります。これにより、スプレッドシートの機能を 活用することが可能になります。
+
+**使用例：**
+
+* **ビジネス プロセス オプティマイゼーション**: ドットx ファイルを アナリзаすることで ビジネス プロ세スの 流れ、キー パフォーマンス インデクサー（KPIs）を トラッキングし、改善点을 議論することができます。
+* **フィナンシャル アナリзаと プランニング**: エックスエルティ ファイルで フィナンシャル データを ビジュアライズし、バックетを作成し、将来の 経費を 前 観測することができます。
+* **マーケット リサーチと 競争相手 アナリза**: ドットx ファイルを 使用して マーケット トレンドを 分析し、競争相手との 比較を行い、ビジネス 決定に 도움이 되ます。
+* **ヒューマン リソース マネージメント**: エックスエルティ ファイルで エmployee パフォーマンス를 トラッキングし、福利厚くを 管理し、HR プロセ스를 最適化することができます。
+* **サプライ チェーン マネージメント**: ドットx ファイルを 使用して サプライ チェーン 運営을 ビジュアライズし、インベントリ를 管理し、ロジスティクスを 最適化することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

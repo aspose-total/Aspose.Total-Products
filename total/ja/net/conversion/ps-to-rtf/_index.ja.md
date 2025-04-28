@@ -58,7 +58,21 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをRTFに変換する：ユースケース" %}}
+**PS (ポータブル ドキュメント フォーマット) ファイルは、ドキュメント情報を保存するために使用され、プロフェッショナルな見た目を持つドキュメントやプレゼンテーションを作成するのに適しています。しかし、メディア内容と関わる作業においては、リッチ テキスト フォーマット (RTF) ファイルがテキストのフォーマットとエディットに不可欠なものになります。
+
+PS ファイルを RTF 形式に変換する必要があります。これにより、次のような利益があるためです：
+
+**用途:**
+
+* **ドキュメント エディット:** PS ファイルを テキスト、レイアウト、フォーマットをより直観的にエディットすることができるようにします。
+* **PDF 作成:** RTF を使用して プロフェッショナルな見た目を持つ PDF ドキュメントを作成し、正確なフォント レンダリングとレイアウトを保つことができます。
+* **テキスト インポート:** PS ファイルを 他の アプリケーション に 大量の テキスト コンテンツを インポートするために利用します。
+* **フォーマット 保持:** RTF を使用して ドキュメントの フォント、スペース、_ALIGN>などのフォーマット을 共有や協力中に 保持することができます。
+* **互相 导出 向けの 相容性向上:** PS ファイルを RTF に変換することで、さまざまな アプリケーションと プラットフォームとの 相容性を向上させることが 됩니다。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

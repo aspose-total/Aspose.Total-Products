@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをTSVに変換する：ユースケース" %}}
+**コンバージョン ガイド:**
+
+Markdown ファイル（`.md`）を Tab Separated Values（`.tsv`）形式に変換する必要があります。これにより、データ分析と可視化の機能を最大限発揮できるようになります。以下に、該当形式の利益点を説明します。
+
+**利用事例:**
+
+* **データ インポートと エクスポート:** `.md` ファイルを `.tsv` 形式に変換し、他のツールやソフトウェアとのシームレスな連携を実現できます。
+* **科学的 コンピューティングと 研究:** 科学的 コンピューティング フレームワークで `.tsv` 形式のデータ インポートと エクスポートが、高速で効率的な分析을 실現します。
+* **テキスト アナリзаと プロセッシング:** `.md` ファイルを `.tsv` 形式に変換し、テキスト アナリザや トピック モデリングなどのタスクに 適用できます。
+* **データ ビジュアライゼーションと レポート作成:** `.tsv` 形式で インタクティブな ダッシュボードや レポートを作成し、 ステークホルダー에게 정확な洞察を 提供することができます。
+* **マシーン ラーニングと AI:** `.md` ファイルを `.tsv` 形式に変換し、マシーン ラーニング モデルの トレーニングや テスト에 適用し、高速で効率的な開発が可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

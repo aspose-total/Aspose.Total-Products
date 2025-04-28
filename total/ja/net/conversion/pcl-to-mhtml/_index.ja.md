@@ -140,7 +140,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPCLファイルをMHTMLに変換する：ユースケース" %}}
+PCL（ポストスクリプト・ランゲージ、PS）ファイルは、グラフィックス情報の保存に適したものです。  
+しかし、ダイナミックなデータと働く場合には、HTMLのようなウェブページが不可欠になります。
+
+PCL ファイルを MHTML 形式に変換することが必要となります。これにより、デザインの可能性を完全に活用することができます。この変換は以下のような用途で役立ちます：
+
+**用途:**
+
+* デジタルサイネージと広告: PCL ファイルを利用してインタクティブなデジタルサイネージや広告を作成し、観客との関りを深めることができます。
+* プリント・トゥ・ウェブのソリューション: MHTML を用いてウェブブラウザー上で印刷準備状態のドキュメントを直接配送し、印刷費を節約し効率を高めることができます。
+* 技術文書とガイド: PCL ファイルを利用して技術文書やユーザーマニュアル、ソフトウェア アプリケーションのガイドを作成し、インタクティブなドキュメントを提供することができます。
+* オンライン教育とコース: MHTML を用いてオンライン コースに埋め込むプレゼンテーション、シミュレーション、チュートリアルを作成し、学生の関りを高めることができます。
+* デジタルパブリッシングと雑誌: PCL ファイルを利用してデジタル雑誌や新聞、ペリオディカルを作成し、読者体験を向上させたり、メニエーション機会を活用することができるようにします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

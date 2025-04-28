@@ -58,7 +58,19 @@ document.Save("output.docm", SaveFormat.Docm);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをDOCMに変換する：ユースケース" %}}
+CGM ファイルを DOCM 形式に変換する必要があります。これにより、ドキュメントの編集や協力作業機能を最大限に活用することが可能になります。以下に具体的な用途を挙げております。
+
+**用途：**
+
+* **協力型文書編集**: CGM ファイルを DOCM 形式に変換し、編集可能なドキュメントを作成し、チームメンバーや他人との共同作業を行うことができます。またリアルタイムで変更を追跡することができます。
+* **スマート型文書管理**: DOCM を使用して、セキュリティ設定を適用し、編集権限を制限し、ドキュメントの正確性を保つことができます。
+* **プロフェッショナル向きの文書デザイン**: CGM ファイルを DOCM 形式に変換し、視覚的に魅力あるドキュメントを作成し、メディアコンテンツを追加し、読者との関りを深めることができます。
+* **法規遵守報告**: DOCM を使用して、規制に適したレポートを生成し、変更を追跡し、監査に耐えられる状態を保つことができます。
+* **マイクロソフト オフィスツールとの統合**: CGM ファイルを DOCM 形式に変換し、Word、Excel、PowerPoint などのマイクロソフト オフィスツールとシームレスに連携することができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

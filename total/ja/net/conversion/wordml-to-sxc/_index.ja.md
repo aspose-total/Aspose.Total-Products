@@ -106,7 +106,30 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでWORDMLファイルをSXCに変換する：ユースケース" %}}
+ワードML（Microsoft Wordのマークアップ言語）は、文書レイアウト情報を保存するために使用され、静的なドキュメントや記事を作成するのに適しています。しかし、動態的コンテンツと働く場合には、OOXML形式であるSXCのようなフォーマットが必要となり、編集や協力作業に使われます。
+
+ワードMLファイルをSXC形式へ変換する必要があります。これにより、ドキュメントの編集や協力作業の機能を完全に活用することが可能になります。以下の用途が実現できます：
+
+**用途:**
+
+* **共同編集:**
+  ワードMLファイルを通じて、端末や場所を問わずリアルタイムでドキュメントを編集することができます。
+
+* **ダイナミックコンテンツ管理:**
+  テーブル、グラフ、画像など、容易に更新やリフレッシュが可能なダイナミックコンテンツを管理するためにSXCを使用します。
+
+* **クロスプラットフォーム互換性:**
+  ワードMLファイルを変換し、Windows、macOS、Linuxなどの異なるプラットフォームで共通性を確保することができます。
+
+* **ドキュメントの分析とレビュー:**
+  SXCを使用してドキュメントを分析し、トラックチェンジなど注釈や編集を施すことができます。
+
+* **他のオフィスツールとのインテグレーション:**
+  ワードMLファイルを変換し、ExcelやPowerPointなどのMicrosoft Officeのツール들과連携することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

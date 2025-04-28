@@ -58,7 +58,19 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをDOTXに変換する：ユースケース" %}}
+CGM（コンピュータグラフィックスメタファイル）をDOTX（マイクロソフトワード マクロ有効ドキュメント テンプレート形式）に変換する必要があります。これにより、文書作成や編集能力を最大限度発揮できるようになります。以下の用途が可能です。
+
+**用途:**
+
+* **ビジネスレポートとプレゼンテーション**: CGM ファイルをDOTX 形式に変換し、ステーケホルダー向きのインタラクティブなビジネス レポートやプレゼンテーション、視覚化情報を含む資料を作成し、利益関係者への决策支援を促進することができます。
+* **マーケティング素材設計**: DOTX を用いて、マーケティング素材である宣伝冊子、フライヤー、セールスシートなどのレイアウト作成に容易にできるようにします。
+* **技術ドキュメント作成**: CGM ファイルをDOTX 形式に変換し、ユーザーマニュアル、インストラクションガイド、製品仕様書など技術的なドキュメントを作成することができます。
+* **科学出版と研究**: DOTX を用って、科学紙、記事、研究報告等を作成・編集し、知識の伝播を支援することができます。
+* **教育とトレーニング材料開発**: CGM ファイルをDOTX 形式に変換し、インタラクティブな教育材料を作成することができるようにします。例えば、チュートリアル、ワークブック、テストなど教育用資料を設計することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

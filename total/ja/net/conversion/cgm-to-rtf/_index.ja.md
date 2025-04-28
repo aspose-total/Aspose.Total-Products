@@ -58,7 +58,21 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをRTFに変換する：ユースケース" %}}
+CGM (コンピュータグラフィックスメタファイル) ファイルは、ベクター グラフィックス情報を保存するために使用され、静的なグラフィックやイラストレーションを作成するのに適しています。しかし、ダイナミックなデータと仕事をする場合には、スプレッドシートのようなエクセルが必要で、データの可視化や分析に使用されます。
+
+CGM ファイルを RTF (リッチテキストフォーマット) 形式に変換することは、テキストベースの機能を完全に活用するために必要です。この変換により、次のようなことが可能になります：
+
+**用途:**
+
+* **文書作成**: CGM ファイルを RTF 形式に変換して、プロフェッショナル的にフォーマットされたドキュメント、レポート、プレゼンテーションを作成することができます。
+* **テキストエディットとフォーマット**: RTF を用いて、文字のフォントスタイル、サイズ、色、レイアウトについて精确に制御できるテキストを編集し、フォーマットすることができます。
+* **メールや手書きレター テンプレート**: CGM ファイルを RTF 形式に変換して、カスタマイズ可能なメールテンプレート、レター、ビジネス-correspondenceを作成することができます。
+* **デスクトップパUBLISHING**: RTF を用いて、高品質のドキュメント、ブロシャー、または他の出版物材料を制作し、内部または外部で配布することができます。
+* **テクニカルライティング**: CGM ファイルを RTF 形式に変換して、技術的なドキュメント、ユーザーマニュアル、ガイドを作成し、正確なフォーマットとレイアウト制御が可能です。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -78,7 +78,21 @@ document.Save("output.epub", SaveFormat.Epub);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMSGファイルをEPUBに変換する：ユースケース" %}}
+メッセージファイル（MSG）は、プレインテキストデータの保存に適した形式で、応用プログラム間でメッセージを送受けするのに最適しています。特に、デジタル出版ツールであるEPUB（電子出版）との組み合わせにおいては、変換と配布が必要な役割を果たします。
+
+MSGファイルをEPUB形式に変換することは、自分のデジタルコンテンツの完全活用を可能にする重要な手段です。この変換により、以下のような用途で利用できます：
+
+**用途（Use Cases）：**
+
+* **電子書の出版**: MSGファイルを電子書籍や記事、ブログ記事として交互的に作成し、オンラインで容易に共有することが可能になります。
+* **デジタル雑誌**: EPUBを使用して雑誌の内容を視覚化し、記事、画像、動画などを含むmagazineのオンラインサブスクリプション管理が可能です。
+* **ニュースレターとプレスリリース**: MSGファイルを利用してターゲット向きにニュースレターやプレスリリースを送り出すことができます。
+* **学術的な研究出版物**: 研究論文、学位論文などをEPUB形式で公開することが可能になります。
+* **デジタルアセット管理**: MSGファイルを利用して、画像、動画、音声などのデジタルアセットを中心にした中央izedリポジトリを作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

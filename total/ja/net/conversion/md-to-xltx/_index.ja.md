@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをXLTXに変換する：ユースケース" %}}
+マークダウン ファイルを XLSX 形式に 変換する必要があります。全てのデータ分析能力を引き出すため、以下のような用途があります。
+
+* **データ可視化とレポート作成**: マークダウン ファイルを XLSX 形式で インター・アクティブな ダッシュボードや レポートを作成し、 ステーケホルダーに 向きつくり伝え、 決定-making を 改善することができます。
+* **自動化されたドキュメンテ이션 ジェネレーショ**: XLSX 形式を 利用して 技術ドキュメンテ이션を 自動生成し、 手作業を 減少し 生産性を 增加します。
+* **コラボレーションと コミュニケーション**: マークダウン ファイルを XLSX 形式に 変換し、 同僚や クライアントと データのインスाइटを 共有し、協働作業을促進し、 誤解を減らすことができます。
+* **科学研究と 公開**: XLSX 形式で 研究 論文、 シミュレーション、実験 結果などを 作成し、 信頼性 있는 ワークを 公開することが 됩니다。
+* **データ ストーリーテリングと プレゼンテーション**: マークダウン ファイルを XLSX 形式に 変換し、 インター・アクティブな ビジュアライゼーション을 통해 触れつくりの データ 스토リーテリング과 プレゼンテーションを作成し、 アウディエンスを魅覚することが 됩니다。
+
+マークダウン ファイルを XLSX 形式に 変換することで、新たな データ分析能力을 解放し、 ワークフローを高速化し、協働作業을さらに促進します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -56,7 +56,19 @@ CGMファイルをDIFに変換するときに、出力DIFファイル形式に�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをDIFに変換する：ユースケース" %}}
+CGM ファイルを DIF 形式に変換する必要があります。これにより、ベクター・グラフィックスやイラストレーション能力を最大限度発揮できるようになります。この変換が可能にする理由は以下の通りです：
+
+**用途:**
+
+* **ベクター・グラフィックス エディット:** CGM ファイルを DIF 形式に変換し、ベクター・グラフィックスをエディット、プロミネントな形やラインを作成することができます。
+* **イラストレーション デザイン:** DIF 形式を利用して、高品質のイラストレーションを作成し、ラインの太さ、スタイル、色など詳細に制御することができます。
+* **建築視覚化:** CGM ファイルを DIF 形式に変換し、建築設計を視覚的に表現し、2D および 3D モデルの作成や設計意図の伝達が可能になります。
+* **グラフィック デザイン 및 プリンティング:** DIF 形式を利用して、高品質なプリント出力を実現し、精密なラインワークを行うことができます。
+* **CAD (コンピュータ・アシストド・デザイン):** CGM ファイルを DIF 形式に変換し、CAD ワークフローを向上させることができるようになります。自動化されたタスクとしてデータの変換とファイル管理が可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -58,7 +58,19 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをWORDMLに変換する：ユースケース" %}}
+Markdown ファイル（MD）を WordML 形式に コンバージョンする必要があります。これにより、以下のような用途で 利用可能なります。
+
+**用途:**
+
+* **技術書作成とドキュメント作成:** Microsoft Office 要求に適した 技術ドキュメントやユーザーマニュアル、ガイドを 作成するために MD ファイルを WordML 形式に コンバージョンします。
+* **ビジネスコミュニケーション:** ビジネスレポート、提案、プレゼンテーションなどのドキュメントを WordML 形式で 作成し、Microsoft Office アプリケーション で 利用可能にするために MD ファイルを コンバージョンします。
+* **学術出版:** 学会論文や記事を WordML 形式で 提出するために MD ファイルを コンバージョンします。
+* **マーケティングとセールス・マテリアル:** プロモーション情報を含む ブロシャー、フライヤー、セールスシートなどのマーケティングマテリアルを WordML 形式で 作成するために MD ファイルを コンバージョンします。
+* **オンライン学習コンテンツの開発:** Microsoft Office アプリケーション で 显に提出可能な 教育コンテンツや カースワード材を WordML 形式で 作成するために MD ファイルを コンバージョンします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

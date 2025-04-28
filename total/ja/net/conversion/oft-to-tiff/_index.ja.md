@@ -118,7 +118,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをTIFFに変換する：ユースケース" %}}
+OFT (オブジェクト ファイル フォーマット) ファイルは、3D モデルの情報を保存するために使用され、詳細なモデルの作成や設計に適しています。しかし、ビジュアライゼーションやプレゼンテーションにおいては、高品質の画像表示が必要となり、TIFF (タグged イメージ ファイル フォーマット) が不可欠になります。
+
+OFT ファイルを TIFF 形式へ変換することが求められます。これにより、ビジュアライゼーションやプレゼンテーションの可能性を完全に活用することが可能になります。この変換が実現できる機能は次の用途で役立つします：
+
+**用途:**
+
+* **建築・構造物視覚化**: 詳細な建築モデル、建物設計、施工計画を表示するために OBT ファイルを TIFF 形式へ変換します。
+* **製品レンダリングとアニメーション**: 3D プロダクト モデルを視覚化し、アニメーションを作成し、デザインコンセプトを示すために TIFF を使用します。
+* **医療画像と診断分析**: OBT ファイルを医療画像データとして閲覧し、患者情報の分析を行い、診断判断に支援するために TIFF を利用します。
+* **科学視覚化と研究**: 複雑な科学データ、例えば 3D シミュレーションや実験結果を表示するために TIFF を使用します。
+* **マーケティング・アドверタイジング ビジュアライゼーション**: OBT ファイルをインタクティブなプレゼンテーション、製品ショーケース、メーグニング マテリアル作成에 使用するために TIFF に変換します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

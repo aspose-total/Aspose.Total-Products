@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをDOTに変換する：ユースケース" %}}
+CGM ファイルを DOT 形式に変換する必要があります。これにより、グラフ ビジュアライゼーションやレイアウト capabilities を最大限度で活用することが可能になります。以下の用途が実現されます：
+
+**用途:**
+
+* **グラフ ビジュアライゼーション**: CGM ファイルを DOT 形式に変換し、ダイアグラム、フローチャート、プロセス マップなどの複雑なデータ ポイント間の関係を示すための図表を作成することができます。
+* **レイアウト オプティマイゼーション**: DOT 形式を使用して、ノードとエッジの配置を最適化し、グラフの可読性と効率性を最大限度で高めることができます。
+* **ビジネス プロセス マップ**: CGM ファイルを DOT 形式に変換し、詳細なビジネス プロ세ス マップを作成することができるようになります。ワークフロー、タスク、決定点などを示すことができます。
+* **テクニカル ダイアグラム**: DOT 形式を使用して、UML クラス ダイアグラム、データ フロウ ダイアグラム、ER モデルなどの技術的図表を作成することができるようになります。
+* **グラフの階層と構造**: CGM ファイルを DOT 形式に変換し、グラフの明確な階層と構造を定義することができるようになります。これにより、容易にナビゲートし、理解することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

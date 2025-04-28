@@ -115,7 +115,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでTEXファイルをDOTに変換する：ユースケース" %}}
+テキスファイルをDOTフォーマットに変換する必要があります。これにより、次のような利益点が実現されます。
+
+**用途:**
+
+* **ビジュアルプレゼンテーション:** テキスファイルをDOTフォーマットに変換して、視覚的に魅力あるダイアグラム、フローチャート、グラフを作成し、プレゼンテーション、レポート、教育材料などで使用することが可能です。
+* **科学的ダイアグラム:** DOTフォーマットを利用して、複雑な科学的ダイアグラムを作成することができます。例えば、回路図、ネットワークダイアグラム、階層的な構造を表現することができます。
+* **技術文档作成:** テキスファイルをDOTフォーマットに変換して、インタクティブな技術文档を作成することができるようになります。例えば、システムダイアグラム、コンポーネントレイアウト、プロセスフローなどが含まれています。
+* **学術研究:** 研究データを可視化し、システムの挙動をシミュレートする、または複雑な概念を示すためにDOTフォーマットを利用することができます。学術論文や博士論文で使用することが可能です。
+* **共同設計:** テキスファイルをDOTフォーマットに変換して、編集可能なダイアグラムを作成し、チームメンバーや他者とリアルタイムで共同作業、バージョン管理が可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

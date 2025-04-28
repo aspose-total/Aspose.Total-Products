@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでODTファイルをSXCに変換する：ユースケース" %}}
+ODT 形式を SXC 形式に変換する必要があります。これにより、ドキュメントのエディットや協力作業機能を完全に活用することが可能になります。
+
+**用途:**
+
+* **共同作成と管理:** ODT 形式から SXC 形式への変換を通じて、多くの関係者が共同でドキュメントを編集し、連絡やフィードバックを円滑に行うことができます。
+* **プロフェッショナル用ドキュメント:** 高品質なドキュメントを作成することができるようになります。例えば、リザーム、レポート、提案などのプロジェクトで使用することができます。
+* **ビジネスコンテンツマネージメント:** ODT 形式を SXC 形式に変換することで、コンテンツの管理をスムーズに行うことができるようになります。バージョン管理やブランド一致性を維持することができます。
+* **研究と学術:** 研究報告書、博士論文などを SXC 形式でフォーマットし、提出に適した形式にすることができます。
+* **コンテンツの移管と転送:** ODT 形式から SXC 形式への変換を通じて、異なるプラットフォーム間でドキュメントを移すことができるようになります。例えば、OpenOffice から Microsoft Office に転送することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

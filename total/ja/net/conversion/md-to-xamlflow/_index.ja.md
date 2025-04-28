@@ -58,7 +58,19 @@ document.Save("output.xamlflow", SaveFormat.Xamlflow);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをXAMLFLOWに変換する：ユースケース" %}}
+MD ファイルを XAMLFlow 形式に変換することが、UI デザインの完全な潜力を引き出すための重要な手段です。
+
+以下の用途を実現することが可能になります：
+
+* **UI コンポーネント ライブラリの開発**：MD ファイルを XAMLFlow 形式に変換して、再利用可能な UI コンポーネントを収集し、開発時間を短縮し、アプリケーション間で一貫性を高めることができます。
+* **アプリケーション テーマ カスタマイゼーション**：XAMLFlow を使用して、テーマをカスタマイズすることができるため、開発者が容易に独自の外観を制作することができるようになります。
+* **クロス プラットフォーム UI デザイン**：MD ファイルを XAMLFlow 形式に変換して、Windows、Web、Mobile 等多くのプラットフォームで使用可能な UI 要素を設計することができます。
+* **デザイン システムの実装**：XAMLFlow を使用して、デザイン システムを実装し、開発 プロセスをstreamlineし、一生にわたる一貫性を確保することができます。
+* **UI デザインのプロトタイプとテスト**：MD ファイルを XAMLFlow 形式に変換して、interactive プロトタイプを作成し、開発者が設計をテストし、実装前に改善することができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

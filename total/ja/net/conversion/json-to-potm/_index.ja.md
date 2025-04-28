@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでJSONファイルをPOTMに変換する：ユースケース" %}}
+JSON (JavaScript Object Notation) ファイルは、データを構造化された形式で保存するために広く使用され、Web アプリケーションやモバイル アプリケーションにおいて便利なデータの格納と閲覧に適しています。しかし、デスクトップ パブリッシングやレイアウト マネージメントに関与する場合には、POTM (Office Open XML Template) ファイルがプロフェッショナルなドキュメントを作成するための重要なツールとなります。
+
+JSON ファイルを POTM 形式に変換する必要があります。これにより、次のような利益があるためです：
+
+**用途：**
+
+*   **レイアウト マネージメント**: JSON ファイルを利用して複雑なレイアウトを作成し、コンテンツの構造を管理し、正確なタイポグラフィーを実現することができます。
+*   **ドキュメント テンプレートの作成**: POTM を用いてプロフェッショナルな見た目を備したテンプレートを作成し、文書、宣伝冊、チラシなど多様な出版物向きに適したデザインを実現することができます。
+*   **デスクトップ パブリッシング プロジェクト**: JSON データを Microsoft Word または Excel 等のエディタブル形式に変換し、共同作業やドキュメント エディットを容易くすることができます。
+
+JSON ファイルを POTM 形式に変換することで、デスクトップ パブリッシング の可能性を完全に活用できるようになります。さまざまな文書向きで高品質の出力を実現することが可能です。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

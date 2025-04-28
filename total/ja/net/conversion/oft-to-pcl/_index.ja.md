@@ -140,7 +140,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをPCLに変換する：ユースケース" %}}
+OFT ファイルを PCL 形式に変換する必要があります。これにより、印刷データ処理能力の完全な活用を可能にすることがになります。
+
+以下の用途が実現できます：
+
+* **自動化された文書印刷**：OFT ファイルを PCL 形式に変換し、自動化された印刷作業を作成し、生産ワークフローを流れやすくするほか、人工介入を最小限に抑えることができます。
+* **印刷品質の向上**：PCL 形式を使用して、印刷品質を最適化し、高い画像解決度を実現し、文書レンダリングにおける誤差を軽減することができます。
+* **ジョブ管理とスケジューリング**：OFT ファイルを PCL 形式に変換し、印刷ジョブをスケジューリングし、多台のデバイスを管理し、印刷キューの性能をモニターすることができます。
+* **セキュリティとアクセス制御**：PCL 形式を使用して、robustなセキュリティ措置を実施し、機密性の高い文書へのアクセスを制限し、法規要件に適合することを確保することができます。
+* **データ統合と相互運用性**：PCL 形式を使用して、印刷データを既存のワークフローに統合し 他のシステムとのデータ交換を行い、全体的な印刷操作の効率性を向上させることができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

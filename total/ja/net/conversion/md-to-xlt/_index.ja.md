@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをXLTに変換する：ユースケース" %}}
+MD ファイルを XLT 形式に変換する必要があります。これにより、データ可視化と分析の限界を引き出し、データ活用をさらに進めることが可能になります。
+
+MD ファイルを XLT 形式に変換することで、次のような機能を活用することができます。
+
+**用途:**
+
+* **データジャーニング**: インタラクティブなデータジュアルを作成し、時間経過での変更を追跡し、共同編集が可能になる。
+* **研究文書分析**: XLT を用いて研究文書のデータを可視化し、重要な概念を識別し、研究者間で知識を共有することができるようにします。
+* **科学ノートブック**: MD ファイルを XLT 形式に変換して、インタラクティブな科学ノートブックを作成し、実験のシミュレーションを行い、仮説を検証することができます。
+* **データ探索と可視化**: XLT を用いてデータを探索し、パターンを識別し、ステークホルダー向けのダッシュボードを作成することができるようにします。
+* **共同文書作成**: MD ファイルを XLT 形式に変換して、チームメンバーや共有プロジェクトの理解を維持したまま、共同で文書作成が可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

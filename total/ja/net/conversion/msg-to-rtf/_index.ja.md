@@ -58,7 +58,19 @@ document.Save("output.rtf", SaveFormat.Rtf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMSGファイルをRTFに変換する：ユースケース" %}}
+MSG ファイルを RTF 形式に変換する必要があります。これにより、以下の用途を実現できます。
+
+**用途:**
+
+*   **文書編集とレビュー**: MSG ファイルを Microsoft Office アプリケーションで効率的にレビュー、編集、管理することができるようにします。
+*   **ビジネスコミュニケーション最適化**: RTF を使用してプロフェッショナルなビジネスコミュニケーションを作成し、同僚やクライアントに容易に共有することができます。
+*   **旧システムの互換性**: MSG ファイルを RTF 形式に変換することで、古いシステムと組み合わせることができるので、歴史的な文書にアクセスしやすくなります。
+*   **言語翻訳とローカリゼーション**: RTF を使用してグローバルな受け者向きに翻訳とローカリゼーションを行うことができるので、文化的に適した正確な内容を配送することができます。
+*   **アーカイヴと保存**: MSG ファイルを RTF 形式に変換することで、長期的な保存にとどまるし重要なビジネス文書を失敗防ぐことができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

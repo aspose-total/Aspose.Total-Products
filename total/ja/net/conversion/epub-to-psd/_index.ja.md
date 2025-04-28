@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをPSDに変換する：ユースケース" %}}
+EPUB ファイルを PSD 形式に変換する必要があります。これにより、視覚設計の完全な潜力を引き出すことができます。
+
+**用途:**
+
+* **ブランドとアイデンティティー**: ブランド ロゴ、アイコン、グラフィックスなどプロフェッショナルなビジュアルを作成するために EPUB を PSD 形式に変換します。
+* **デジタル出版物**: PSD を使用して デジタル マガジンや新聞、ジャーナルを設計し、EPUB で実装できるインタクティブな機能を活用することができます。
+* **電子書籍のデザイン**: EPUB を PSD 形式に変換し、イラストレーション、インフォグラフィックスなど視覚的な要素を含む電子書籍のデザインを作成することができます。
+* **ウェブ デザインと開発**: PSD を使用して レスポンシブな ウェブ レイアウトを設計し、インタクティブな要素や アニメーションを含むユーザー エンジンメント向上させることができます。
+* **プリント オン デマンド**: EPUB を PSD 形式に変換し、テキスト、画像、レイアウト情報を引き取って プロフェッショナルな印刷物を作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

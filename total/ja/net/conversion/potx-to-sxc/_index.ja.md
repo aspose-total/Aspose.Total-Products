@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPOTXファイルをSXCに変換する：ユースケース" %}}
+将 POTX ファイルを SXC 形式に変換することは、ドキュメントエディット能力を最大限活用するための必要な手段です。
+
+**用途:**
+
+* **ビジネスプレゼンテーション開発**: プロフェッショナルなビジネスプレゼンテーションを作成し、アンimationやインタラクティブ要素を含む内容を実現するために POTX ファイルを SXC 形式に変換します。
+* **グラフィックデザインプロジェクト**: SXC を用いてグラフィックス、イラストレーション、ビジュアル材料等のデザインとエディットを行うことが可能になります。
+* **ドキュメントレイアウトとフォーマットting**: POTX ファイルを SXC 形式に変換し、ドキュメントのレイアウト、フォント、色、フォーマットting オプションをカスタマイズすることができます。
+* **協力とシェアリング**: SXC を用いて他人とリアルタイムで協力し、ドキュメントをシェアしてエディットすることが可能になります。
+* **高度なドキュメント機能**: POTX ファイルを SXC 形式に変換すると、テキストフォーマットting、イメージ挿入、他種類の進化された機能を活用することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

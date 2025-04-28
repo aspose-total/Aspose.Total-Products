@@ -118,7 +118,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをRTFに変換する：ユースケース" %}}
+**用途:**
+
+*   **文档編集とレビュー**: précision et contrôle de la mise en page pour créer, éditer et réviser les documents avec une collaboration et une productivité améliorées.  
+*   **ビジネスインテリジェンスとレポート作成**: 分析業績データ、生成レポート並で視覚化の重要メトリックを支援し、意思決定に基づいた情報提供。  
+*   **コンテンツクリエーションとマネージメント**: コンテンツの創作、管理及び発信を実現し、フォーマットとレイアウトの精度と一致性を確保します。  
+*   **技術ドキュメンテーションとサポート**: 技術的なドキュメント、ユーザーマニュアルやサポート材料を作成し、最新で正確な情報提供を行います。  
+*   **フォームとテンプレートの自動化**: フォームやテンプレートの作成と配布を自動化し、プロセスを高速化し誤差を最小限に抑えます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

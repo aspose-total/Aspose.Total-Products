@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでJSONファイルをSVGZに変換する：ユースケース" %}}
+JSON (JavaScript Object Notation) ファイルは、データを軽量で容易に交換できる形式で保存するために使用されます。したがって、応用範囲が広く、さまざまなサービスやアプリケーション間でデータの交流が可能になります。しかし、静的なビジュアル化（SVGZ (SVG Zip) ファイル）を用いたり、複雑なグラフィックスやイラストレーションを作成する必要がある場合には、JSON ファイルから SVGZ 形式への変換が不可欠です。
+
+以下の用途で、このような変換が役立つ理由があります：
+
+* **ウェブサイトのイラストレーション**: JSON ファイルを利用して、インタラクティブなウェブサイトのイラストレーションやアニメーション、微小なインタラクションを作成することができます。
+* **Web デベロッパー向きのデータビジュアル化**: SVGZ を用いて、ウェブページ上でデータを視覚的に表現し、ユーザーに馨覚感ある体験を提供することができます。
+* **インフォグラフィックやブルーチレット**: JSON ファイルを利用して、インタラクティブなインフォグラフィックやマーケティング材を作成し、ブランドのストーリーテリングとユーザーとのエンゲージメントを向上させることができます。
+* **科学的なパブリケーションや研究**: SVGZ を用いて、分子構造や3D モデルのビジュアル化、実験結果などの複雑な科学データをパブリケーションや研究紙に表現することができます。
+* **インタラクティブなエBOOKやドキュメンテ이션**: JSON ファイルを利用して、インタラクティブなエBOOK チャプター、記事、またはドキュメンテイションを作成し、ユーザーにインナービューと呼ばれる体験を提供することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

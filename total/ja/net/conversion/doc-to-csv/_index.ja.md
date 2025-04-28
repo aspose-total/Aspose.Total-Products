@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCファイルをCSVに変換する：ユースケース" %}}
+マイクロソフト・ワード ファイル（.doc）をカンマ・セパレートッド・ヴァリュー（CSV）ファイルに変換することは、データの分析と可視化能力を最大限度に活用するための重要な手段です。
+
+以下の用途を実現できます：
+
+* **データインポートと分析**：.doc ファイルを CSV 形式に変換し、大量のデータセットを分析し、トレンドやパターンを把握することが容易になります。
+* **スプレッドシートへのデータインポート**：CSV 形式で .doc ファイルの内容を エクセルや Google Sheets などの人気のスプレッドシート アプリケーションにインポートすることができます。
+* **レポートの自動生成**：.doc ファイルを CSV 形式に変換し、レポートの自動生成を実現し、手動でのデータ入力を減らし、生産性を向上させることができます。
+* **マットリプLOT/パンダスとデータ可視化**：CSV 形式で .doc ファイルの内容を マットリプLOT 或者 パンダス などの人気のデータ可視化 ライブラリにインポートすることができます。
+* **ビジネス・インテリジェンス・ツールとの統合**：.doc ファイルを CSV 形式に変換し、ターベルや Power BI などの ビジネス・インテリジェンス・ツールと統合し、より良い決策-making を実現することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

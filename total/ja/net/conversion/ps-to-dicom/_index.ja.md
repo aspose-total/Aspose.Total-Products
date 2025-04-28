@@ -106,7 +106,23 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをDICOMに変換する：ユースケース" %}}
+**変換ガイド:**
+
+PS（ポータブルスケッチャー・ファイル）形式は、ベクターグラフィックス情報を保存するために使用され、静的なグラフィックやイラストレーションを作成するのに適しています。しかし、医療画像データの扱いにおいてDICOM（Digital Imaging and Communications in Medicine, ディコム） 形式が必要となり、保存、共有、分析に用いられることが多いわけです。
+
+PS ファイルを DICOM 形式に変換することは、医療画像機能を最大限活用するための重要な手段です。この変換により、以下のような機能が実現されます:
+
+**用途:**
+
+* **医療画像分析**: 医療画像データを分析し、患者状態の追跡や診断結果におけるパターンを识別するために PS ファイルを DICOM 形式に変換します。
+* **放射科報告と共同作業**: DICOM を用いて放射科画像を共有し、比較を行い、迅速な診断と治療を支援します。
+* **医療機器との統合**: PS ファイルを DICOM 形式に変換し、CT スキャナーやMRI スキャナーなどの医療機器とデータを交換するために使用します。
+* **研究開発**: 複雑な医療研究データを可視化し、臨床試験のシミュレーションを行うことができるように DICOM を用います。
+* **臨床試験と規制適合性**: PS ファイルを DICOM 形式に変換し、規制申請用に適した臨床試験データセットや報告書を作成するために使用します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -58,7 +58,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをPSに変換する：ユースケース" %}}
+MDファイルのPSフォーマットへの変換は、デスクトップパブリッシングの完全な潜力を引き出すために必要です。この変換により、次のような用途が実現されます：
+
+**用途:**
+
+*   **雑誌レイアウトデザイン**: プロフェッショナルな見栽とコンテンツの管理、画像の最適化を行うためのMDファイルのPSフォーマットへの変換。
+*   **ブロチールやフライヤーの開発**: 吸引的なブロチール、フライヤー、そしてマーケティング材料を設計するためにPSフォーマットを使用します。
+*   **ドキュメントレイアウトとフォーマット**: 観感的に魅力あるドキュメントを作成するためのMDファイルのPSフォーマットへの変換。例えばレジュメ、証明書などプロフェッショナルなドキュメント。
+*   **プリント可能なアートワークやイラストレーション**: 複雑なプリント可能なアートワークやイラストレーションを作成するためにPSフォーマットを使用します。
+*   **ウェブページやオンラインコンテンツの発信**: MDファイルをPSフォーマットに変換し、オンラインコンテンツとして記事、ブログポストなどを公開することが可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

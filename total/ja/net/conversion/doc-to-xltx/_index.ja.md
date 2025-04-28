@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCファイルをXLTXに変換する：ユースケース" %}}
+Microsoft Word ファイル（.docx）を XPS（.xltx）に変換する必要があります。これにより、ドキュメントのフォーマット能力を完全に活用することが可能になります。
+
+**用途：**
+
+* **プロフェッショナル出版**: プロフェッショナルな見た目を持つドキュメントを出版するために .docx ファイルを XPS に変換します。例えば、リザーム、ビジネス レポート、または記事など。
+* **ビジネス プレゼンテーション デザイン**: ビジュアルに魅力があるプレゼンテーションを作成するために XPS を使用します。ロゴ、チャート、画像などの要素を含むプレゼンテーション。
+* **デジタル コンテンツ クレーション**: 高品質なデジタル コンテンツを作成するために .docx ファイルを XPS に変換します。例えば、ニュースレター、ブロシュア、カタログなど。
+* **エブック パブリッシング**: プロフェッショナルなレイアウトとフォーマットを持つエブックを作成するために XPS を使用します。これはオンラインで配布されるため。
+* ** アーカイヴ プPOSES**: アーカイヴの目的で .docx ファイルを XPS に変換します。この変換により、ドキュメントが長期にわたる保存と読取に耐えられる状態になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCMファイルをXLTMに変換する：ユースケース" %}}
+DOCM (ドキュメント・マクロ・ファイル)からXLTMs (エクセル・テンプレート・マクロ・ファイル)へのコンバージョンは、文档のマクロ機能を最大限度で活用するために不可欠です。この変換により、次のような利益点が実現されます：
+
+**使用例：**
+
+* **自動化された文档更新**: チャート、テーブル、フォーマットなどリアルタイムで更新できるようにする。
+* **コンテンツ・マネージメント・システム**: 複数のドキュメントを管理し、一貫性と効率性を確保する。
+* **文档ワークフロー**: 承認、署名、配布などのタスクを自動化し、流れをスムーズに進める。
+* **データドライブンド・ドキュメント**: 新しいデータで容易に更新できるデータドライブンド・ドキュメントを作成する。
+* **高度な自動化**: 複数のドキュメントをマージするやカスタム テンプレートを作成するような複雑なプロセスを自動化する。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCファイルをJSONに変換する：ユースケース" %}}
+ドキュメント（DOC）をJSON形式のファイルに変換することで、情報を抽出し、データドライブンド・コンテンツクリエーションやビジネスインテリジェンス、レポート作成、機械学習、自然言語処理（NLP）分析、デジタルアセットマネージメント等に活用できるようになります。
+
+複雑なドキュメント構造を管理するために、ミクロソフト・ワードなどのツールが必要となり、コンテンツの作成と管理が可能になります。
+
+以下の用途があります：
+
+* **データドライブンド・コンテンツクリエーション**：DOCファイルから情報を抽出し、トレンドやパターンを分析し、データ駆動型の内容作成を行う。
+* **ビジネスインテリジェンスとレポート作成**：JSONでビジネスデータを可視化し、インタラクティブなレポートを作成し、決策-makingを改善する。
+* **機械学習とAIモデルのトレーニング**：DOCファイルからデータを取り出し、機械学習モデルをトレーニングし、精度や性能を向上させる。
+* **自然言語処理（NLP）分析**：JSONでテキストデータを分析し、要約と_insightsを得るため、スマートなアプリケーションを開発する。
+* **デジタルアセットマネージメント**：DOCファイルをデジタルリポジトリに格納し、資産管理を行い、ワークフローをスピードアップする。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

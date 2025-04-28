@@ -58,7 +58,21 @@ presentation.Save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをXAMLに変換する：ユースケース" %}}
+PS (ポータブル ドキュメント フォーマット) ファイルは、ベクター グラフィックス情報を保存するために使用され、静的なグラフィック、ロゴ、イラストレーションなどを作成するのに適しています。しかし、ダイナミックなデータと働く場合には、XAML (エクステンシブル アプリケーション マークアップ ランゲージ) がユーザー インターフェースやアプリケーションのビルディング에必要になります。
+
+PS ファイルを XAML 形式に変換することが求められます。これにより、your application development capabilities を完全に活用することが可能になります。この変換が許可することは：
+
+**Use Cases:**
+
+*   **モバイル アプリケーション開発**: PS ファイルを XAML で変換し、直感的なユーザー インターフェースをもつネイティブ モバイル アプリを作成することができます。XAML を活用して、ユーザー エクスペリエンスに隙がなくなるようにします。
+*   **デスクトップ アプリケーション開発**: XAML を使って、データ バインディング、アンimatiosn、テンプレートなどの強みところを活用して、レスポジィブでスケーラブルなデスクトップ アプリを作成することができます。
+*   **UI コンポーネント ライブラリ**: PS ファイルを XAML で変換し、再利用可能な UI コンポーネント（ボタン、テキスト フィールド、メニューなど）を作成することができます。XAML を使って、高効率でメンテナブルなデザインができるようにします。
+*   **3D グラフィックスとアニメーション**: XAML を活用して、your アプリケーションに 3D グラフィックスとアニメーションを加えることができます。ベクター グラフィックスの力とマークアップ言語の柔軟性を組み合わせています。
+*   **アクセスिबリティーとカスタマイゼーション**: PS ファイルを XAML で変換し、 アクセスिबリティーとカスタマイゼーションが可能な UI 要素を作成することができます。your アプリケーションが多様なユーザー ニーズと プレファレンスに応じて作り出すようにします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

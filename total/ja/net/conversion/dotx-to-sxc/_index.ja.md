@@ -106,7 +106,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOTXファイルをSXCに変換する：ユースケース" %}}
+**用途:**
+
+* **製品設計と開発**: SXCファイルを分析し、製品データを確認し、ユーザー体験をシミュレートし、デザインコンセプトを検証する。
+* **科学的可視化**: SXCを使用して複雑な科学データをビジュアル化し、3Dモデル、シミュレーション結果、実験データを表示する。
+* **データレポートとダッシュボード作成**: SXCファイルをコンバートし、インタクティブなダッシュボード、レポートを作成し、利益関係者に伝え、決策を助ける。
+* **マーケティングキャンペーン最適化**: SXCを使用してマーケティングキャンペーンデータをビジュアル化し、戦略を最適化し、ROIを測定する。
+* **顧客行動分析**: SXCファイルを分析し、顧客行動を確認し、売り上げトレンドを追跡し、データのパターンを识別する。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

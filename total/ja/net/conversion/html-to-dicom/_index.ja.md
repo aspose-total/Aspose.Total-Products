@@ -106,7 +106,23 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでHTMLファイルをDICOMに変換する：ユースケース" %}}
+HTML ファイルを DICOM 形式に変換する：医療画像能力の向上
+
+HTML（ヒュープテキストマークアップランゲージ）は、ウェブベースのコンテンツを保存と表示に使用される汎用的なフォーマットです。しかし、医療画像応用においては、DICOM（デジタルイメージングと通信の医学用途向き合意）が医療画像データの保存と共有にとって不可欠なフォーマットとなります。
+
+HTML ファイルを DICOM 形式に変換することは、医療画像機能の完全な活用を実現するために必要です。この変換により、以下のようなことが可能になります：
+
+**用途:**
+
+*   **医療画像の保存と共有**: HTML ファイルを DICOM イメージに変換し、安全な保存、伝送、共有を行うことができます。
+*   **画像解析と処理**: DICOM を利用して医療画像（MRI（磁共振成像）とCTスキャンなど）を解析、加工、強化し、診断目的で使用することができます。
+*   **放射科ソフトウェアとの統合**: HTML ファイルを DICOM 形式に変換し、放射科ソフトウェアと統合し、流れの円滑な実現と患者ケアの向上を目指すことができます。
+*   **医療研究と開発**: 大量の医療画像データを管理、分析し、研究の突破と革新を推進するために DICOM を使用することができます。
+*   **品質管理と保証**: HTML ファイルを DICOM イメージに変換し、品質管理と保証を行うことができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

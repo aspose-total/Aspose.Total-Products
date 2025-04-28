@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOTファイルをXLTに変換する：ユースケース" %}}
+DOT ファイルの XLT 形式への変換は、データ可視化と分析能力を最大限度に活用するために必要です。この変換が可能にする理由は次の通りです：
+
+**用途:**
+
+* **マーケティングプレゼンテーションデザイン**: DOT ファイルを XLT 形式に変換し、interactive プレゼンテーションデザインを作成し、メディア要素を追加し、レイアウトをアニメーション化することが可能になります。
+* **ビジネスプロセスマイーニング**: XLT を用いて複雑なビジネスプロセスを可視化し、ワークフローをモデル化し、決定作きの手順を文書化することができます。
+* **テクニカルライティングとドキュメンテーション**: DOT ファイルを XLT 形式に変換し、テクニカルドキュメンテーションを作成し、目次を生成し、ハイパーリンクを管理することができます。
+* **データ可視化とレポート作成**: XLT を用いてinteractive データ可視化、レポート、ダッシュボードを作成し、利益関係者に提供し、より良い決策を支援することが可能です。
+* **協力的なドキュメンテーション管理**: DOT ファイルを XLT 形式に変換し、チームメンバーや他人と協力して文書修正を追跡し、ドキュメンテーションの歴史を維持することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

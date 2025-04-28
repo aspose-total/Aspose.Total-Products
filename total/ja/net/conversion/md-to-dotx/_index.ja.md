@@ -58,7 +58,19 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをDOTXに変換する：ユースケース" %}}
+マークダウン（MD）ファイルの変換が必要です。これにより、ドキュメントパブリッシングやエディット capabilitiesを最大限活用することが可能になります。この変換により、以下のような用途があります：
+
+**用途：**
+
+* **技術文書作成**: MD ファイルを DOTX 形式に変換し、技術的なアウデンシャス向きに読みやすく共有できるドキュメントを作成することができます（ユーザーマニュアル、インストラクションガイド、製品情報）。
+* **ブログ記事やレポート**: DOTX を用いて、プロフェッショナルなレイアウト、ヘッダー、フォーマットとともにブログポストや記事を制作し、読者に魅力あるものとして提供することができます。
+* **プレゼンテーションやスライドショー**: MD ファイルを DOTX 形式に変換し、インタラクティブなスライドショー、プレゼンテーション、ピッチを作成することができるようになります。これはビジネスミーティング、製品ランチャー、メーグニングキャンペーンなどで活用可能です。
+* **マニュアルやガイド**: DOTX を用いて、技術的なマニュアルやガイドに清晰な指示、図表、イラスト레이ションとともに作成し、容易く理解できるものとして提供することができます。
+* **学術研究紙やジャーナル**: MD ファイルを DOTX 形式に変換し、学術的な研究紙やジャーナルを作成し、有名な科学データベースなどで公開可能です。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをWMZに変換する：ユースケース" %}}
+**PS (ポータブルシェアードドキュメントフォーマット) ファイルは、イメージデータの保存に適した形式で、 高品質な印刷やグラフィックス作成に最適しています。しかし、インタラクティブでダイナミックなビジュアル化現実（VR）体験においては、WMZ (Web Mixed Reality) 形式が必要となります。これにより、次のような利益があると言えるです。
+
+**用途:**
+
+* **インタラクティブな3Dモデルの作成:** PS ファイルを WMZ 形式に変換することで、ユーザーが複雑な幾何学を操作し、探索することができるinteractive 3D モデルを作成できます。
+* **バーチャルリアリティー (VR) および拡張現実 (AR) 体験:** WMZ を用いて、ユーザーがinteractive 3D コンテンツと直接的な関与を可能にするVRやAR体験を開発することができます。
+* **ミックスドリアリティー コンテンツの作成:** PS ファイルを WMZ 形式に変換することで、 ミックスドリアリティー コンテンツを作成することができる、包括interactive シミュレーション、ゲーム、教育材料など。
+* **イマーゼشن_ENVIRONMENT でのデータ可視化:** WMZ を用いて、VRやARの空間で複雑なデータを視覚的に表現し、ユーザーが理解と分析に活用することができるデータ可視化を行うことができます。
+* **ダイナミックなグラフィックスとアニメーション:** PS ファイルを WMZ 形式に変換することで、ユーザーがinteractive シミュレーションや体験をすることができるダイナミックなグラフィックスとアニメーションを作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

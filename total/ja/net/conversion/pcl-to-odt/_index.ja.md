@@ -140,7 +140,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPCLファイルをODTに変換する：ユースケース" %}}
+**PCL (ポータブルドキュメントフォーマット) ファイルは、ベクタグラフィックス情報を保存するために使用され、静的なドキュメントやイラスト레이션を作成するのに適しています。しかし、ダイナミックなデータと仕事をする場合には、テキストエディットと協作に必要なOpenDocument Text (ODT) 形式が重要になります。
+
+PCL ファイルを ODT 形式に変換することは、ドキュメントのエディットや協作 機能を最大限活用するために必要です。この変換により、次のようなことができます:
+
+**用途:**
+
+* **ビジネス文書編集**: PCL ファイルを ODT で 編集することで、レポート、提案、契約などのビジネスドキュメントをエディットすることが可能になります。
+* **技術ドキュメント作成**: ODT を使用して、ユーザーマニュアルやインストラクションガイドなどインタクティブな技術ドキュメントを作成することができます。
+* **グラフィックスやイラストレイションのエディット**: PCL ファイルを ODT で グラフィックスやイラストレイションを エディットし、テキスト、画像、メディア要素などを追加することができます。
+* **データ駆動型のコンテンツ生成**: ODT を使用して、チャート、グラフ、テーブルなどのデータドリブンなコンテンツを作成し、分析結果を Kontext で確認することができます。
+* **協作とレビュー**: PCL ファイルを ODT で 編集すると、他人とリアルタイムで共同作成できるため、協作とレビューが容易になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

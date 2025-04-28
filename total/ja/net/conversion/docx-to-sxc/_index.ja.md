@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでDOCXファイルをSXCに変換する：ユースケース" %}}
+DOCXファイルをSXC形式に変換する必要があります。これにより、ドキュメントの編集やフォーマット能力を最大限活用することが可能になります。以下の用途が実現できます。
+
+**用途:**
+
+* **文档协作**: DOCXファイルを他人（チームメンバーや利害関係者、または顧客）に共有し、ドキュメントを円滑に共同編集やバージョン管理を行うことが可能になります。
+* **コンテンツクリエーションとエディティング**: SXC形式で魅力あるコンテンツを作成し、既存のドキュメントを編集することができます。また、画像、オーディオ、ビデオなどのメディア要素を追加することが可能です。
+* **ブランド一致性管理**: DOCXファイルを共有し、組織または会社の全てのドキュメントで一貫したビジュアルアイデンティティを保つことができます。
+* **アクセス性と互相兼容性**: SXC形式で、さまざまなデバイス、プラットフォーム、そしてオペラティングシステム上でドキュメントがアクセス可能になります。特にOpenOffice Calcとの互相兼容性が高まります。
+* **高度なフォーマットとスタイル適用**: DOCXファイルを共有し、条件的なスタイル、ハイパーリンク、そして表格_of_contents 等の高度なフォーマットオプションを適用することが可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをODTに変換する：ユースケース" %}}
+LTI（ラーニング・センス・インターフェース）ファイルは、教育内容の保存と管理に適した形式です。interactiveな学習体験やシミュレーションを実現するための理想的なツールとなります。
+
+**用途：**
+
+*   **interactiveなレッスン計画作成**: LTI ファイルを ODT 形式へ変換し、interactive なレッスン プランを作成し、学習体験をシミュレーションizeし、学生の性能を評価することができます。
+*   **共同で内容の開発と編集**: ODT を用いて、教育内容を共有して共同で開発や編集が可能になり、チーム間での一致性と正確性を保つことができます。
+*   **アクセシビリティーと包容性を高めるために**: LTI ファイルを ODT 形式へ変換し、教育内容をアクセシブルな形式で提供することで、障碍者でも利用できるようにします。
+*   **コンテンツマネージメントと配布**: ODT を用いて、教育内容を管理し、学習者に配布することが容易になり、学習プロセスをスムースに進めることができます。
+*   **評価とフィードバック**: LTI ファイルを ODT 形式へ変換し、interactive アサエッションを作成し、学生へのフィードバックと進捗追跡が可能になります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

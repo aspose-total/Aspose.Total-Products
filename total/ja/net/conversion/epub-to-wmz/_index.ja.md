@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをWMZに変換する：ユースケース" %}}
+EPUB（電子パブリケーション）ファイルは、デジタルパブリケーションを保存するために使用され、さまざまなデバイスで読むことができるのが特徴です。しかし、地理空間データの取り扱いに必要な形態として、シェープファイルであるWMZが欠不可なります。  
+
+EPUBファイルからWMZ形式への変換は、データビジュアライゼーションと分析の限界を掲げることができるようになります。この変換により、以下のような用途を実現できます：  
+
+**用途：**
+
+* **地理情報システム（GIS）分析**: EPUBファイルを地理空間データとして分析し、位置ベースなデータを追跡し、空間的なデータのパターンを識別することができるようにします。  
+* **スペシャルモデリングとシミュレーション**: WMZ形式でスペシャルモデルをビジュアライゼーゼし、環境現象のシミュレーションを行うことができるようになります。また、モデルの仮設を検証することができます。  
+* **ウェブマップとビジュアライゼーション**: EPUBファイルをインタクティブなウェブマップに変換し、地理空間データを可視化し、ステークホルダーへの情報共有を行うことができるようになります。  
+* **データ統合とマージング**: WMZ形式で地理空間データセットを統合し、位置的な不一致を解消し、総合的なスペシャルデータベースを作成することができるようになります。  
+* **フィールドデータ収集とレポート作成**: EPUBファイルを利用してフィールドデータを収集し、資産の位置を追跡し、ステークホルダーにリアルタイムな更新を行うことができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

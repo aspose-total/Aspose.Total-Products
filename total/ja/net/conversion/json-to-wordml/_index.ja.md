@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでJSONファイルをWORDMLに変換する：ユースケース" %}}
+JSON (JavaScript Object Notation) ファイルは、軽量でテキストベースなフォーマットを使用し、ウェブサーバーとウェブアプリケーション間でのデータ交換に適した形式です。しかし、構成されたドキュメントフォーマットを扱う場合には、WordML (Word Markup Language) がプロフェッショナルなドキュメントを作成するための重要なツールとなります。
+
+JSON ファイルから WordML 形式への変換は、自分の文書作成能力を最大限に活用するために必要です。この変換により、次のような用途が可能になります：
+
+**用途:**
+
+* **文書生成**: JSON ファイルをプロフェッショナルなフォーマットで作成し、簡単に共有や印刷できるリザーム、手紙、レポートなどのドキュメントを作成することができます。
+* **データドライブン コンテンツ作成**: WordML を利用して、ニュース記事、製品説明、ソーシャルメディア投稿など動態的にコンテンツを生成することができるように、JSON ソースから構造化されたデータを活用します。
+* **電子商売 プロダクトインフォメーション マネージメント**: JSON ファイルを利用して、価格、在庫量、製品説明などの情報を管理し、構造化されたアクセス可能なフォーマットで容易に扱うことができるようにします。
+* **科学技術分野の執筆**: 研究紙、学位論文、博士論文など高度のフォーマット制御と精确性が要求されるテクニカル ドキュメントを作成するために WordML を利用します。
+* **自動化されたドキュメント アセンブリ**: JSON ファイルを利用して、前作られたテンプレートからドキュメントを組み合わせることができるようにし、手動での努力を最小限に抑えつつ、一貫性とプロフェッショナルな見た目を実現することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

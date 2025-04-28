@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPDFファイルをJPEG2000に変換する：ユースケース" %}}
+PDF (ポータブル ドキュメント フォーマット) ファイルは、グラフィックスやイラストレーションを含む文書の保存と共有に広く使用されます。しかし、イメージ データとの仕事においては、JPEG 2000 (ジョイエージ 2000)が最適な選択となります。これは、高い圧縮比と大きなイメージを扱うことができるためです。
+
+PDF ファイルを JPEG 2000 形式に変換することは、視覚コンテンツの完全な潜在を引き出すための必要な手段であり、効率的な保存と共有を可能にするために行われます。この変換により、次のような利益があるとします：
+
+**用途:**
+
+* **イメージ アーカイヴィング**: 历史的文書やイメージ、グラフィックスを将来の世代に残すために PDF ファイルを JPEG 2000 形式に変換することができます。
+* **デジタル インゲージング**: 高品質なデジタル イメージを作成し、印刷、ウェブ使用、またはデジタル アーカイヴ에適したJPEG 2000 を利用することができます。
+* **サイエンティフィック ビジュアリゼ이션**: 天文学的対象、医療スキャン、3D モデルなどの複雑な科学データを可視化するために PDF ファイルを JPEG 2000 形式に変換することができます。
+* **セキュリティとアクセス コントロール**: 敏感なドキュメントを JPEG 2000 で 圧縮し、セキュリティを確保し、ストレージ 要求を低減することができます。
+* **イ-コンテンツ デリバリー**: インタク티ブなコンテンツ，如電子書籍や雑誌、オンラインパブリケーションを実現するために PDF ファイルを JPEG 2000 形式に変換し、高品質なイメージを維持しつつ行うことができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

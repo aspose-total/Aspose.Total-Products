@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでPSファイルをSXCに変換する：ユースケース" %}}
+PS ファイルを SXC 形式 (OpenDocument Format) に変換する必要があります。これにより、ドキュメントの編集やフォーマット能力が完全に活用できるようになります。以下にその利用例を示します。
+
+**利用例:**
+
+* **ビジネス文書の編集**: PS ファイルを編集し、変更を追跡し、チームメンバーや共有者と協力することができます。
+* **グラフィックデザインとイラストレーション**: SXC を用いて、グラフィックデザイン、イラストレーション、ビジュアルコンテンツなどの出版物やプレゼンテションで使用できる作成と編集が可能です。
+* **テクニカルドキュメントの管理**: PS ファイルを用いて、ユーザーマニュアル、インストラクションユーガー、ソフトウェアドキュメントなどテクニカルドキュメントの管理が可能になります。
+* **出版とレイアウトデザイン**: SXC を用いて、レイアウトデザインやマニュスクリプトの編集とフォーマットが可能になります。
+* **研究と学術執筆**: PS ファイルを用いて、共同研究報告書、論文、博士論文など学術執筆で協力し、修正や更新を追跡することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

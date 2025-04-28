@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMOBIファイルをTSVに変換する：ユースケース" %}}
+Mobi ファイルを TSV (タブ スペリッド バリュー) 形式に コンバージョンすることが、データ アナリティックスと ビジュアライゼ이션の限界를 開き出すのに 必要です。この コンバージョンが possible になることで、次のような用途で 利用できます。
+
+**用途:**
+
+* **ウェイブ・アナリティックス**: Mobi ファイルを アナリズすることで ウェブ ビハビアー、ユーザー インタラクションを トラックし ウェブ データの トレンドを 分析できます。
+* **モバイル アプリ パフォーマンス トラッキング**: TSV を 用いて モバイル アプリの パフォーマンス メトリクスを ビジュアライゼンし、ユーザー エンゲージメント을 モニターし、アプリ エクスペリエンスを 最適化できます。
+* **電子書籍 コンテンツ アナリティックス**: Mobi ファイルから 電子書籍 コンテンツ를 アナリズし、メタデータを 抽出して 感性 アナリティックス을 실시할 수 있습니다。
+* **デジタル パブリッシング データ インテグレーション**: Various sources からの デジタル パブリッシング データを TSV で統合し、セールス トレンドを 分析し コンテンツ ストリエティ를 最適化할 수 있습니다。
+* **研究と開発**: Mobi ファイルから ユーザー ビハビアー、 プリファレンス、 モバイル アプリとの インタラクション을 분석한 데이터를 集め、 R&D에 활용할 수 있습니다。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

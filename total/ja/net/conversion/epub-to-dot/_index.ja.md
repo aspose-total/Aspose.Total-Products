@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをDOTに変換する：ユースケース" %}}
+EPUB ファイルを DOT 形式に変換することは、自分の図表作成能力を最大限発揮するために必須です。  
+
+この変換が可能なことで、以下のような用途で役立つようになります:  
+
+* **技術的なドキュメントの生成**: EPUB ファイルを DOT に変換して、詳細で視覚的に魅力ある技術ドキュメントを作成することができます（ユーザーマニュアルや手順書など）。  
+* **学術研究のプレゼンテーション**: 研究データを DOT で視覚化し、出版-ready な図表を作成し、同僚やペアと共有することができます。  
+* **マーケティング コミュニケーションズ マテリアル**: EPUB ファイルを DOT に変換して、引人なマーケティング資料（ブロシュール、フライヤー、プレゼンテーションなど）を作成することができます。  
+* **ビジネス プロセス マップ**: 詳細なプロセスマップを作成し、複雑なビジネス オペレーションを視覚的に表現し、改善点を強調することができます。  
+* **グラフィカル ストーリーテリング**: EPUB ファイルを DOT に変換して、グラフィカルにストーリーを表現し、アイデアを生まれつくします。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

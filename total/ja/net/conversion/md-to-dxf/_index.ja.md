@@ -106,7 +106,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをDXFに変換する：ユースケース" %}}
+**用途:**
+
+* **設計製造**: 将MDファイルを精确で正確な設計に使用し、生産に正確な仕様を達成する。
+* **建築モデル化**: DXFファイルを使用してビルディングモデルの視覚化と修正を行い、建築家やエンジニアーと協力し、設計レイアウトの最適化を実現する。
+* **CAD:**
+  - MDファイルをDXF形式に変換し、2D/3Dの設計を統合し、製造工程の検証を行い、製品開発を向上させる。
+
+MDファイルからDXF形式への変換は、貴社のCADや設計能力を最大限活用するために必要です。この変換により、以下のような利益を実現できます:
+
+* **設計の精度向上**: MDファイルをDXF形式に変換し、設計者が製造-readyなモデルの作成を行うことが可能になります。
+* **協力のスムース化**: DXFファイルを使用して設計を建築家、エンジニアー、または製造業者と共有し、ミスレーションを最小限に抑えつつ、協力を円滑に進めることが可能になります。
+* **製品開発の向上**: MDファイルをDXF形式に変換し、CADソフトウェアに容易にインポートできる2D/3D設計を作成し、製造工程の検証を行い、製品の品質を向上させることが可能になります。
+
+MDファイルからDXF形式への変換により、貴社の設計能力を最大限活用し、精度を高めるだけでなく、協力を円滑に進めつつ、製品開発を向上させることができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOFTファイルをFLATOPCに変換する：ユースケース" %}}
+**用途:**
+
+* **ゲーム開発**: 将OFTファイルを使用して、以下の機能を実現する:
+  * **キャラクターアニメーションとモデリング**: OFTファイルを利用して3Dモデルを作成し、キャラクターをアニメーション化し、リアルな動作をシミュレートする。
+  * **レイヤーデザインとプロトタイプ制作**: OFTファイルを使用してインタクティブなレイヤー設計を行い、プロトタイプをテストし、ゲームプレイのメカニクを調整する。
+  * **特殊効果とシミュレーション**: OFTファイルを利用してリアルな特殊効果や環境交互作用を生成し、シミュレーションを行う。
+
+* **建築と建設**: OFTファイルを使用して、以下のプロセスを向上させる:
+  * **ビル情報モデリング（BIM）**: OFTファイルを利用して建物、家具、機械などの3Dモデルを作成し、協力作業とデータ交換を容易くする。
+  * **サイトプランningとランドスケープ設計**: OFTファイルを使用してサイトプランをビジュアル化し、ランドスケープをデザインし、建物のレイアウトを最適化する。
+  * **建設管理と進度調整**: OFTファイルを利用して施工管理を行い、進度を追跡し、予定外の遅延や費用上昇を発見する。
+
+* **映画とテレビ制作**: OFTファイルを使用して、以下のビジュアル効果をスムーズに実現する:
+  * **ビジュアルエフェクトとモーショングラフィックス**: OFTファイルを利用して複雑なビジュアルエフェクトやアニメーション、モーショングラフィックスを作成し、物語を生気付ける。
+  * **キャラクターアニメーションとデザイン**: OFTファイルを利用してキャラクターを効率的にデザインし、リアルなアニメーションを行う。
+  * **ポストプロダクションと色彩管理**: OFTファイルを利用して色彩管理を向上させ、ビジュアル効果を追加し、映画版のポストプロダクションを終了する。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

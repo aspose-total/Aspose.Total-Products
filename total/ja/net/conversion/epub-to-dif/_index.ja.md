@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをDIFに変換する：ユースケース" %}}
+EPUB ファイルは、プレイン テキスト データを保存するために使用され、静的テキスト ドキュメントやプレイン テキスト ファイルとして最適に適合しています。ただし、動的データを扱う場合には、プログラミング言語であるPythonなどが必要になります。これにより、データのマニピュレーションや分析が可能となります。
+
+EPUB ファイルを DIF 形式に変換することは、自分のテキスト マニピュレーションや分析能力を最大限度を活用するために必要です。この変換により、次のようなことができます：
+
+**使用例:**
+
+* **テキスト エディット イン プローファイティング:** EPUB ファイルを分析し、テキスト コンテンツを追跡し、データのパターンを識別することが可能になります。
+* **ドキュメント マネージメント:** DIF 形式でドキュメント メタデータを視覚化し、ストレージ オプティマイズやファイル サイズを測定することができます。
+* **データ インプورت・アンド・エクスポート:** EPUB ファイルを利用して、データ アナリスタ向けのインタクティブなデータ インプورت、エクスポート、そしてマニピュレーションを作成することが可能になります。
+* **テキスト アナリティックス・アンド・セントメント・アナリシス:** DIF 形式を利用して、複雑なテキスト データ（例えば セントメント アナリシス、トピック モデリング、エンティティ リコレクション）を分析することができます。
+* **ドキュメント ジェネレーション・アンド・フォーマット:** EPUB ファイルを利用して、フォーマットされた ドキュメント、レポート、ビジュアライゼーションを作成し、ステークホルダー向けに伝え、より良い決策-making을支援することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

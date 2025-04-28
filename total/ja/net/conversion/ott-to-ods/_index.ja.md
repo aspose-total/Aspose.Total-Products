@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでOTTファイルをODSに変換する：ユースケース" %}}
+OTT (OpenDocument スプレッドシート ファイル) は、テーブル形式のデータを保存するために使用され、インタクティブなスプレッドシートやビジネス インテリジェンス アプリケーションで適用です。しかし、静的な グラフィックス 情報を扱う場合には、CGM (コンピュータグラフィックス メタファイル) ファイルがデータ ビジュアライゼ이션と 分析に欠けない重要な 形式となります。
+
+OTT ファイルから CGM 形式への コンバージョンは、自分の グラフィック デザイン 能力を 最大限 活用するための 必要な プロセスです。この コンバージョンにより、次のようなことができます:
+
+**使用事例:**
+
+* **グラフィック デザインと イラストレーション:** OTT ファイルをベクタ グラフィックス、イラストレーション、静的な イメージとしてコンバージョンし、宣伝材、プレゼンテーション、出版物などに 使用することができます。
+* **パブリッシングと プリンティング:** CGM を用いて、印刷雑誌、新聞、フォルマーなどのページレイアウトを デザインし、高品質な イメージ レンダリングを 利用して出版물을 제작することが 됩니다。
+* **ウェブ デザインと ウェブ デヴォップメント:** OTT ファイルを インター・アクティ브な ウェブ グラフィックス、アンimatons、シミュレーションとしてコンバージョンし、ユーザー エクスペリエンスを 增強하고_Content를 엔가ージングすることができます。
+* **グラフック プロトタイプ作成と モックアップ:** CGM を用いて、リアルイスティックな デザイン プロトタイプを作成し、デザイン プロセスを ストリームライン化し、クリエイティブ チームの ワークフロー를 整理することが 됩니다。
+* **芸術적 표현と デザイン:** OTT ファイルをベクタ グラフィックス、イラストレーションなどの芸術的な メディアに コンバージョンし、新しい芸術적인 アプリケーション을 탐索することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

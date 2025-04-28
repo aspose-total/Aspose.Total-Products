@@ -106,7 +106,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをSXCに変換する：ユースケース" %}}
+MDファイルをSXCフォーマットに変換することが必要です。これにより、ドキュメントのレイアウト、デザイン、フォーマット能力を最大限活用することが可能になります。以下の用途があります。
+
+**用途:**
+
+* **ドキュメントレイアウト最適化**: マークダウンファイルをSXCフォーマットに変換して、プロフェッショナルな見た目を持つドキュメントを作成し、辺幅を調整し、文字型を一貫的に保つことができます。
+* **デザインの一貫性**: SXCフォーマットを使用することで、ブランドガイドラインが一貫的に適用され、視覚的同一性を維持することができます。
+* **協力の向上**: マークダウンファイルをSXCフォーマットに変換して、リアルタイムでの協力を可能にし、チームメンバーや他人が同時にレビュー、エディット、フィードバックを提供することができるようにします。
+* **印刷用ドキュメント**: SXCフォーマットを利用して、精确なレイアウト、色彩の正確性、画像解決度を保つため、印刷前の準備が可能です。
+* **デジタル版出版**: マークダウンファイルをSXCフォーマットに変換して、ハイパーリンク、アンimatons、メディア内容を含むinteractiveな要素を取り入れることができるので、デジタル版のドキュメントを公開することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

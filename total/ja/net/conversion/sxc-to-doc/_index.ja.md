@@ -10,7 +10,19 @@ outformat: DOC
 otherformats: WORD PPTX DOCX POWERPOINT
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでSXCファイルをDOCに変換する：ユースケース" %}}
+SXC（StarOfficeプレゼンテーションテンプレート）ファイルは、プロフェッショナルなプレゼンテーションやドキュメントを作成するための理想的なテンプレートです。しかし、他のツールやフォーマット（例：Microsoft Word（.doc））との共同作業やエディットで必要となる内容を活用するために、この変換が役立つようになります。
+
+**利用事例：**
+
+* **ビジネスコミュニケーション**: カレガー、クライアント、パートナーと共に働くためのSXCファイルをDOCに変換し、ビジネス提案、契約、または契約書等の共同作業を行うことが可能です。
+* **マーケティングコンテンツのクリエーション**: DOCで編集可能な宣伝材料（例：配布冊子、フライヤー、セールスシート）を作成し、すべてのマーケティングチャンネルにおいて一貫性を保つことができます。
+* **教育とトレーニング**: SXCファイルをDOCに変換し、学生や従業員向けのinteractiveな授業計画、チュートリアル、またはトレーニングマテリアルを作成することが可能です。
+* **提案と価格見込みのテンプレート**: DOCで開発された標準化された提案や見込み価格のテンプレートを容易に編集し、クライアントに共有することができるようになります。
+* **共同作業可能なドキュメントエディット**: SXCファイルをDOCに変換し、チーム間でリアルタイムで共同作業が行えるようになり、通信とフィードバックがスムーズに行われます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="C＃経由でSXCをDOCに変換 またはオンラインアプリ" h2="Excelをエクスポート＆reg; .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでのSXCからDOCへ">}}
 {{< blocks/products/pf/main-container >}}
 
@@ -45,7 +57,19 @@ otherformats: WORD PPTX DOCX POWERPOINT
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでSXCファイルをDOCに変換する：ユースケース" %}}
+SXC（StarOfficeプレゼンテーションテンプレート）ファイルは、プロフェッショナルなプレゼンテーションやドキュメントを作成するための理想的なテンプレートです。しかし、他のツールやフォーマット（例：Microsoft Word（.doc））との共同作業やエディットで必要となる内容を活用するために、この変換が役立つようになります。
+
+**利用事例：**
+
+* **ビジネスコミュニケーション**: カレガー、クライアント、パートナーと共に働くためのSXCファイルをDOCに変換し、ビジネス提案、契約、または契約書等の共同作業を行うことが可能です。
+* **マーケティングコンテンツのクリエーション**: DOCで編集可能な宣伝材料（例：配布冊子、フライヤー、セールスシート）を作成し、すべてのマーケティングチャンネルにおいて一貫性を保つことができます。
+* **教育とトレーニング**: SXCファイルをDOCに変換し、学生や従業員向けのinteractiveな授業計画、チュートリアル、またはトレーニングマテリアルを作成することが可能です。
+* **提案と価格見込みのテンプレート**: DOCで開発された標準化された提案や見込み価格のテンプレートを容易に編集し、クライアントに共有することができるようになります。
+* **共同作業可能なドキュメントエディット**: SXCファイルをDOCに変換し、チーム間でリアルタイムで共同作業が行えるようになり、通信とフィードバックがスムーズに行われます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -58,7 +58,19 @@ presentation.Save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMDファイルをSWFに変換する：ユースケース" %}}
+マークダウン ファイルを SWF 形式に コンバージョンすることは、プレゼンテーションの フル ポテンシャル을 解放するのに 必要な 事です。この コンバージョンにより、次のような 用途에서 利用できるようになります。
+
+**用途:**
+
+* **企業 プレゼンテーション:** マークダウン ファイルを SWF 形式に コンバージョンし、魅力ある且インタラクティブなプレゼンテーションを作成することができます。これは、企業の イベント、ミーティング、コンファレンスなどで 利用できるものです。
+* **e-ラーニング コンテンツの 作成:** SWF 形式を 활용して、-immersive な e-ラーニング モジュール、シミュレーション、インタクティブな タートリアルを作成し、知識の保持とスキルの向上을 增進することができます。
+* **モバイル アプリ開発:** マークダウン ファイルを SWF 形式に コンバージョンし、モバイル アプリに インタラクティブな 要素、アンimatiosn、ダイナミックな コンテンツ를 포함한 앱을 만들 수 있습니다。
+* **ゲーム 및 インタラクティ브 エクスペリエンス:** SWF 形式を 활용して、2D および 3D 環境で インマーシ브な ゲームや エクスペリエンスを作成し、プレイヤーが 탐索できるようにすることができます。
+* **デジタル パブリッシング 및 マガジン:** マークダウン ファイルを SWF 形式に コンバージョンし、アンimatiosn、サウンド エフェクト、モーション グラフィックスと 함께蘇る インタラクティブな デジタル マガジン、コミック、グラフィック ノベルを作成することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

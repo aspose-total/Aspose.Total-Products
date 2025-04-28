@@ -78,7 +78,19 @@ presentation.Save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでCGMファイルをXAMLに変換する：ユースケース" %}}
+CGMファイルの変換がXAML形式に必要です。これにより、UIデザインの能力を最大限度を活用することが可能になります。
+
+**用途:**
+
+* **UIコンポーネントライブラリの開発**: CGMファイルをXAML形式に変換し、再利用可能なUIコンポーネントを作成し、開発時間を短く、一貫性を高めることができます。
+* **デザインシステムの実装**: XAMLを使用してデザインシステムを視覚化し、多プラットフォームでの一貫性あるユーザー体験を実現することができます。
+* **プロトタイピングとユーザビリティーテスト**: CGMファイルをXAML形式に変換し、interactive prototypesを作成し、ユーザビリティーテストを行うことで、デザイン決定に影響を及ぼし、総体的なユーザーエンゲージメントを向上させることができます。
+* **アクセスिबリティー最適化**: XAMLを使用してUIのアクセスibillityを分析し、障碍を克服し、誰も利用できるようにすることができます。
+* **データドライブンデザイン**: CGMファイルをXAML形式に変換し、データ駆動型のデザインを作成し、アンリーチやユーザー反馈から設計決定をinformし、ビジネス 結果を向上させることができるようになります。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

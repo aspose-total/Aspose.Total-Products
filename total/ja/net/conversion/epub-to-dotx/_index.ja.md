@@ -58,7 +58,21 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでEPUBファイルをDOTXに変換する：ユースケース" %}}
+EPUB（電子出版）ファイルは、電子書籍や記事などデジタルコンテンツを保存するための設計です。しかし、データドライブされたコンテンツの作業において、Microsoft Office 形式（Word：.docx）のファイルが必要となり、エディットと共同作業を行うために利用されます。
+
+EPUB ファイルを Word（.docx）形式に変換することは、自分の執筆やエディット能力を最大限活用するための重要な手段です。この変換により、以下の用途が実現されます：
+
+**用途：**
+
+* **文書共同作業**: 他人と共有し、デバイスやOS に関係なく文書を編集できるようにします。
+* **コンテンツエディットと校正**: Word を使用して、デジタルコンテンツをレビューし、正確性や明瞭さを確保することができます。
+* **研究と文献管理**: EPUB ファイルを Word 形式に変換し、研究紙や記事を組織化し、出版前に適切なフォーマットで整理することができます。
+* **オンラインパブリッシングと配布**: プロフェッショナル的にフォーマットされた文書を作成し、オンラインで広範な読者に配布することができます。
+* **アクセス性と包容的なコンテンツ作成**: EPUB ファイルを Word 形式に変換し、障碍者との共有을目的として、フォントサイズ調整や高反差モードなどの機能を活用することができます。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

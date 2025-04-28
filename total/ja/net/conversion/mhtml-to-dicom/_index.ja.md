@@ -106,7 +106,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="プログラムでMHTMLファイルをDICOMに変換する：ユースケース" %}}
+MHTML (MIME HTML) ファイルは、ウェブページのコンテンツを保存するために使用され、オンラインドキュメントの保存と保全に適しています。しかし、医療画像データの扱いにおいてDICOM（Digital Imaging and Communications in Medicine） 形式が必要となり、イメージの保存、処理、配布にとって重要な役割を果たします。
+
+MHTML ファイルから DICOM 形式への変換は、医療画像機能のフルパotentialを活用するために必須です。この変換により、次のような利益があると言います：
+
+**Use Cases:**
+
+*   **イメージ アーカイブ マネージメント**: MHTML ファイルを DICOM 形式に変換し、医療画像を集積した中央リポジトリを作成することができます。医療従事者による容易なアクセスとリカレントが可能になります。
+*   **ラジオロジー イメージ アナリза**: DICOM を用いて 医療イメージ データを分析し、患者さんの進捗を追跡し、潜在的な健康リスクを把握することができます。
+*   **メディカル デバイス インテグレーション**: MHTML ファイルを DICOM 形式に変換し、医療機器とデジタルイメージング システムとの統合が可能になります。リアルタイムのモニターimgngとコントロールが実現されます。
+*   **クリニック トライアル データ マネージメント**: DICOM を用いて クリニック トライアル データを管理し、イメージ、患者情報、治療結果などを分析することができます。
+*   **テレメディシン イメージ シェアリング**: MHTML ファイルを DICOM 形式に変換し、医療従事者と患者さん 間でのセキュアなイメージ シェアリングが可能になります。リモートの医療相談が向上します。
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
