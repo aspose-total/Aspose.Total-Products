@@ -117,7 +117,19 @@ using (Presentation potx = new Presentation()){
 {{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 ODT 파일을 POTX로 변환: 사용 사례" %}}
+오토텍스(Opendocument Text)파일을 POTX(PowerPoint 파일 포맷)으로 변환하는 것은你的Presentation 기능을 전적으로 활용할 수 있도록 합니다. 이 변환은 다음과 같은 용도로 사용할 수 있습니다:
+
+**사용자례:**
+
+*   **기업 내부 발표**: 기업 내부에서 사용할 강렬한 CORPORATE PRESENTATIONS을 만들기 위해 ODT파일을 POTX로 변환합니다.
+*   **교육 및培训**: 교육 자료나 튜토리얼 등 INTERACTIVE EDUCATIONAL MATERIALS을 개발하기 위해 POTX를 활용합니다.
+*   **비즈니스 제안과 보고서**: 비즈니스 제안서, 보고서 등을 만들 때 PROFESSIONAL한 BUSINESS PROPOSALS AND REPORTS를 생성할 수 있습니다.
+*   **非営利 및 社区 활동**: NON-PROFIT 단체나 COMMUNITY PROJECTS에 사용할 eye-catching PRESENTATIONS을 만듭니다.
+*   **정부 및公共 기관**: GOVERNMENT AGENCIES, PUBLIC INSTITUTIONS에서 사용할 INFORMATIVE AND ENGAGING PRESENTATIONS을 개발합니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

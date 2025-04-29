@@ -106,7 +106,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 DOCM 파일을 XLTM로 변환: 사용 사례" %}}
+DOCM 파일을 XLTMs로 전환하는 것은 문서의 매크로 기능을 최대한 활용하기 위해 필수적입니다. 이 전환을 통해 다음 사용자 케이스들을 실현할 수 있습니다:
+
+* **자동화된 문서 업데이트**: 차트, 표, 및 서식 등实시간으로 자동更新
+* **컨텐츠 관리 시스템**: 다수의 문서에 걸쳐 내용을 관리하고 일관성을 유지
+* **문서 워크플로우**: 승인, 서명, 및 분배etc.任务을 단순화
+* **데이터驱动된 문서**: 보고서, 요약 등 데이터가 새롭게 들어갈 수 있는 문서를 만들기
+* **고급 자동化**: 복잡한 문서 프로세스를 자동화(다수의 문서 합병, 커스터마이즈드 템플릿etc.)
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

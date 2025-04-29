@@ -106,7 +106,21 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 MD 파일을 DICOM로 변환: 사용 사례" %}}
+**Case:** MD (Medical Document) 파일은 의료 이미지를 저장하기 위해 사용되는 파일로, 이를 통해 환자 정보에 대한详细한 기록을 만들기 적합합니다. 그러나 라디올로지 부서와 의료 기관과 함께 작업할 때, DICOM (Digital Imaging and Communications in Medicine, DICOM) 파일이 효율적인 이미지를 공유하고 저장하기 위해 필수적이 되었습니다.
+
+MD 파일을 DICOM 형식으로 변환하는 것은 의료 이미지를 활용하는 데 필요한 모든 가능성을 풀어주는 것입니다. 이 변환은 다음과 같은 용도로 사용될 수 있습니다:
+
+**Use Cases:**
+
+*   **의료 이미지 공유**: MD 파일을 DICOM으로 변환하여 병원, 클리닉, 라디올로지스트 사이에서 의료 이미지를 공유하고, 정확한 진단과 치료를 위해 필요한 정보를 제공합니다.
+*   **라디올로지 부서 관리**: DICOM을 통해 환자 기록을 관리하고, 이미지 주문 상태를 추적하며 워크플로우를 최적화할 수 있습니다.
+*   **이미지 저장 및 검색**: MD 파일을 DICOM으로 변환하여 의료 이미지를 안전하게 저장하고, 차후에 참조나 분석하기 위해 언제든지 접근할 수 있도록 합니다.
+*   **临床결정 지원 시스템**: DICOM을 통해 의료 이미지를临床결정 지원 시스템과 통합하여, 의료 전문가들이 잘못된 결정을 피하고, 최적의 치료를 선택할 수 있도록합니다.
+*   **법規 준수**: MD 파일을 DICOM으로 변환하여 HIPAA와 같은 법규에 따른 안전한 저장과 공유을 제공합니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

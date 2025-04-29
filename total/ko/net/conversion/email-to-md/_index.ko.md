@@ -73,7 +73,21 @@ document.Save("output.md", SaveFormat.Md);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 EMAIL 파일을 MD로 변환: 사용 사례" %}}
+이메일 파일을 Markdown (MD) 형식으로 변환하는 것은 당신의 콘텐츠 작성과 발행 능력을 최대한 활용하기 위해 必須的 것입니다.
+
+**사용 사례:**
+
+* 내부 커뮤니케이션 분석: 이메일을 분석하여 팀 협업 추적 및 개선점识别가 가능합니다.
+* 마케팅 캠페ーン 전략: Markdown를 통해 마케팅 데이터 시각화, 전략 최적화 및 참여율 측정이 가능합니다.
+* 문서화 및 안내서: 이메일을 통해 인터랙티브한 문서, 안내서 및 튜토리얼 만들기 위해 사용할 수 있습니다.
+* 고객 피드백 분석: Markdown를 통해 고객 피드백 trend识别 및 만족도 개선이 가능합니다.
+* 콘텐츠 발행 및 협업: 이메일을 통해 인터랙티브한 콘텐츠 만들기, 팀 협업 및 흥미로운 스토리 게시가 가능합니다.
+
+注意：이模式与원본格式转换案例（소스 포맷：이메일， 타겟 포맷：MD）完全相同합니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

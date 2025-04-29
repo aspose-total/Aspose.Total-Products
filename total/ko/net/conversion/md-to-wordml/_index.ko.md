@@ -55,7 +55,19 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 MD 파일을 WORDML로 변환: 사용 사례" %}}
+마크다운 파일을 워드ML로 변환하는 것은 그 문서의 표현과 양식 기능을 최대한 활용할 수 있도록 해준다. 이 변환은 다음用途를 제공합니다:
+
+**사용자 케이스:**
+
+* **기술 문서 작성 및 문서화**: 마크다운 파일을 워드ML로 변换하여 기술 문서, 사용자 매뉴얼, 및 안내서를 제작할 수 있습니다.
+* **비즈니스 커뮤니케이션**: 워드ML로 생산된 문서는 마이크로소프트 오피스 앱들과 호환됩니다. 이를 통해 비즈니스 보고서, 제안서, 및 프레젠테이션을 만들 수 있습니다.
+* **학术 논문 작성**: 마크다운 파일을 워드ML로 변换하여 학术 논문을 제출할 수 있도록 해준다.
+* **마케팅 및 판매 자료**: 상품 정보를 명확하게 표현할 수 있는 워드ML로 마케팅 자료를 제작할 수 있습니다.
+* **e-learning 콘텐츠 개발**: 워드ML로 생성된 교육 콘텐츠는 마이크로소프트 오피스 앱들과 쉽게 임포트할 수 있습니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

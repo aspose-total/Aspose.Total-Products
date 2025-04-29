@@ -106,7 +106,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 JSON 파일을 RTF로 변환: 사용 사례" %}}
+JSON (자바스크립트 개체 표기법) 파일은 데이터를轻량하고 인간이 읽을 수 있는 형식으로 저장하는 데 적합하며, 웹 서버와 웹 애플리케이션 간에 데이터를 교환하기 위해 사용됩니다. 그러나 데스크톱 퍼블리싱과 문서 생성 작업에서, 복잡한 문서 레이아웃을 만들기 위해 RTF (리치 텍스트 포맷)가 필수적이 됩니다.
+
+JSON 파일을 RTF 형식으로 변환하는 것은 문서 생성 능력을 최대한 활용할 수 있도록 합니다. 이 변환은 다음用途을 제공합니다:
+
+* **문서 자동화**: JSON 파일을 통해 동적 문서를 만들고 워크플로우를 자동화하고 다양한 데이터源에서 데이터를 통합할 수 있습니다.
+* **협업 작성**: RTF를 통해 팀과 협업하는 복잡한 글작업에 참여하고 변경사항을 추적하고 버전을 관리할 수 있습니다.
+* **전자책 생성**: JSON 파일을 통해 인터랙티브한 전자책을 만들고 읽어주는 경험을 시�치고 콘텐츠 포맷을 검증할 수 있습니다.
+* **과학 문헌 발행**: RTF를 통해 과학적 데이터를 시각화하고, 특히 수학적 등式, 다이어그램, 및 테이블을 프로페셔널한 형식으로 표현할 수 있습니다.
+* **문서 틀기 만들기**: JSON 파일을 통해 커스터마이즈able한 문서 템플릿을 만들고 포맷팅을 자동화하고 브랜드 요소를 통합할 수 있습니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

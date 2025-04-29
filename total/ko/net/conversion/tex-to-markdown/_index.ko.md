@@ -101,7 +101,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 TEX 파일을 MARKDOWN로 변환: 사용 사례" %}}
+TeX 파일을 Markdown 형식으로 변환하는 것은 문서 편집 능력을 최대한 활용할 수 있도록 해준다. 이 변환은 다음과 같은 기능을 제공한다:
+
+**사용 사례:**
+
+* **학术 연구 출판**: TeX 파일을 구조화된 문서로 변换하여 문헌목록, 색인 등을 생성할 수 있다.
+* **기술 문서 작성**: 복잡한 기술 정보를 시각적으로 표현하고 사용자 매뉴얼, 교육 안내서 등을 만들 수 있다.
+* **블로그 글 작성 및 편집**: TeX 파일을 통해 시각적 아름다움과 읽기 편리를 극대화한 블로그 포스트를 생성할 수 있다.
+* **提案과 보고서 개발**: Markdown로 자료를 조직하고 문헌 참조를 추적하며 결과를 명확하게 표현할 수 있다.
+* **오픈 소스 프로젝트 협업**: TeX 파일을 통해 협업을 지원하고 문서 변경사항을 기록하고 팀원들과 공유할 수 있다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

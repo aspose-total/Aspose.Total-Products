@@ -55,7 +55,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 MD 파일을 PS로 변환: 사용 사례" %}}
+MD 파일을 PS 포맷으로 변환하는 것은 데스크톱 퍼블리싱 능력의 완전한 잠재력을 끌어올리기 위해 必요합니다. 이 변환은以下 목표를 달성할 수 있도록 합니다:
+
+**사용목적:**
+
+* **잡지 레이아웃 디자인**: MD 파일을 PS 포맷으로 변환하여 프로페셔널한 잡지 레이아웃을 만들고 콘텐츠 조직을 관리하고 이미지 최적화를 진행합니다.
+* **브로셔 및 플라이어 개발**: PS 포맷을 활용하여 집중력을 끌리는 브로셔, 플라이어, 그리고 마케팅 자료를 디자인할 수 있습니다.
+* **문서 레이아웃 및 서식**: MD 파일을 PS 포맷으로 변환하여 시각적으로 아름다운 문서를 만들고 프로페셔널한 문서(예: 이력서, 인증서 등)에서 사용할 수 있습니다.
+* **프린터블 아트워크 및 일러스트**: PS 포맷을 활용하여 복잡한 프린터블 아트워크, 일러스트, 그래픽스를 만드는 데 사용할 수 있습니다.
+* **웹 페이지 및 온라인 콘텐츠 게시**: MD 파일을 PS 포맷으로 변환하여 온라인 콘텐츠(예: 기사, 블로그 게시물 등)를 게시하고 발신할 수 있습니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

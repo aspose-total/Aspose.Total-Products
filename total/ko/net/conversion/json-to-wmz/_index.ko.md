@@ -106,7 +106,35 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 JSON 파일을 WMZ로 변환: 사용 사례" %}}
+{
+  "description": "JSON (JavaScript Object Notation) files are lightweight, human-readable data interchange formats ideal for storing configuration information, data exchange, and API requests. However, when working with geospatial data visualization and analysis capabilities,WMZ (Web Mercator Zoomable Vector Layers) files become essential.",
+  "use_cases": [
+    {
+      "title": "Geographic Information Systems (GIS)",
+      "description": "Convert JSON files to create interactive and dynamic maps, analyze spatial relationships, and perform geographic calculations."
+    },
+    {
+      "title": "Cartography and Map Visualization",
+      "description": "Use WMZ to visualize and present map data in a clear and concise manner, making it ideal for publications, reports, and presentations."
+    },
+    {
+      "title": "Location-Based Services (LBS)",
+      "description": "Convert JSON files to create location-based services that provide accurate and up-to-date information to users, enhancing their overall experience."
+    },
+    {
+      "title": "Geospatial Analysis and Modeling",
+      "description": "Use WMZ to analyze complex geospatial data, perform simulations, and validate model results, making it essential for urban planning, disaster response, and climate change studies."
+    },
+    {
+      "title": "Mobile Mapping and Navigation",
+      "description": "Convert JSON files to create mobile applications that provide users with accurate and timely location information, directions, and navigation assistance."
+    }
+  ]
+}
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

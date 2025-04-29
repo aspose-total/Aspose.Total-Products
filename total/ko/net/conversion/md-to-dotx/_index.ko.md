@@ -55,7 +55,19 @@ document.Save("output.dotx", SaveFormat.Dotx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 MD 파일을 DOTX로 변환: 사용 사례" %}}
+파일 확장자 MD(Markdown)에서 DOTX(Microsoft Word XML)格式으로의 전환은 문서 발간과 편집 기능을 최대한 활용할 수 있도록 합니다. 이 전환을 통해 다음과 같은 사용 사례를 실현할 수 있습니다:
+
+**사용 사례:**
+
+* **기술 문서 작성 및 설명서 작성**: MD 파일을 DOTX로 변환하여 기술 관众에게 읽기 쉬운, 공유 가능한 문서를 생성합니다(예: 사용자 매뉴얼, 설치 가이드, 제품 설명서).
+* **블로그 글 및 기사**: DOTX格式으로 블로그 글이나 기사를 작성하여 프로페셔널한 레이아웃, 헤딩, 포맷팅과 함께할 수 있습니다. 더 읽기 쉬운, 유용한 문서를 만듭니다.
+* **시연 및 슬라이드 쇼**: MD 파일을 DOTX로 변환하여 시연, 슬라이드 쇼, pitches 등 비즈니스 미팅, 제품 런칭, 마케팅 캠펍에 적합한 인터랙티브한 슬라이드 쇼를 만듭니다.
+* **매뉴얼 및 안내서**: DOTX로 기술 매뉴얼, 안내서 등을 작성하여 명확한 지침과 다이어그램, 삽화와 함께할 수 있습니다. 더 쉽게 이해할 수 있는 문서를 만듭니다.
+* **학术 논문 및 학지논문**: MD 파일을 DOTX로 변환하여 학术 논문, 학지논문을 잘格式화한 상태로 출판할 수 있습니다. 유명 과학 데이터베이스에 발행하기 적합한 문서를 만듭니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

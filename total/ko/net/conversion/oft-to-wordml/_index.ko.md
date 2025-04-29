@@ -100,7 +100,21 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 OFT 파일을 WORDML로 변환: 사용 사례" %}}
+OCR 파일은 텍스트 이미지를 저장하는 데 사용되는 파일로, 편집 가능한 문서와 레이아웃을 만들기 위해 이상적입니다. 그러나 복잡한 문서 구조를 처리할 때, WordML 파일은 스타일링과 포맷ting에 있어 필수적이 됩니다.
+
+OCR 파일에서 WordML 형식으로의 전환은 문서의 포맷팅과 스타일링 능력을 극대화하는 데 필요한 것입니다. 이 전환을 통해 다음用途를 실현할 수 있습니다:
+
+**用途:**
+
+* **문서 자동화**: OCR 파일을 활용하여 보고서, 청구서, 인증서 등 자동으로 생성할 수 있습니다.
+* **비즈니스 인텔리전스 보고서**: WordML을 통해 인터렉티브한 비즈니스 인텔리전스 보고서, 대시보드, 시각화 등을 작성할 수 있습니다.
+* **e-learning 콘텐츠 제작**: OCR 파일을 통해 인터액티브한 e-learning 콘텐츠, 시�션, 평가를 만드는 데 사용할 수 있습니다.
+* **의료 기록 관리**: WordML을 통해 의료 기록, 환자 병력,临床笔记 등을 포맷팅하고 스타일링할 수 있습니다.
+* **법務문서准备**: OCR 파일을 통해 표준화된 법務 문서，如 계약, 협약, 법원 소송 서류를 만들 수 있습니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

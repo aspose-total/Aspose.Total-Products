@@ -106,7 +106,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 TEX 파일을 XLTM로 변환: 사용 사례" %}}
+TEX 파일을 XLTML 포맷으로 변환하는 것은 문서의 표현 및 분석 기능을 최대한 활용할 수 있도록 합니다. 이 변환은以下用途를 제공합니다:
+
+**사용케이스:**
+
+* **학术出版**: 연구자료를 분석하고 시각화하여 문헌引用 트렌드를 분석하고 출판 역사에 대한 패턴을 식별합니다.
+* **기술문서**: XLTML로 인터랙티브한 문서를 만들어서 사용자 경험을 시�션하고 디자인 개념을 검증할 수 있습니다.
+* **교육 및 훈련**: 인터액티브한 교육 콘텐츠를 만들어서 학생의进歩을 추적하고教学 방법의 효과를 평가할 수 있습니다.
+* **과학적 글작업**: 연구자료를 시각화하여 인프라그래픽을 만드는 데 사용할 수 있습니다.
+* **출판 및 인쇄**: 고품질의 인쇄용 문서를 만들어서 레이아웃과 디자인을 최적화하고 생산 과정에 유연성을 제공합니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

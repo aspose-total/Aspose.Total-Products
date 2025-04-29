@@ -106,7 +106,21 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 XSLFO 파일을 SXC로 변환: 사용 사례" %}}
+엑스엘एФО (Extensible Stylesheet Language Formatting Objects) 파일은 문서 레이아웃과 포맷팅을 설명하는 데 사용됩니다. 이 파일들은 텍스트를格式화하고, 동적 데이터와 함께 작업할 때 Calc 같은 스프레드시트 소프트웨어가 필요합니다.
+
+엑스엘एФО 파일을 sxc 형식으로 변환하는 것은 문서 편집과 협업 기능을 최대한 활용할 수 있도록 합니다. 이 변환은 다음用途를 제공합니다:
+
+**사용 사례:**
+
+*   **문서 레이아웃 맞춤**: 엏씨로 레이아웃, 타이포그래피, 그리고 그래픽스를 맞춤으로 문서에 유일한 시각적 인식성을 창출합니다.
+*   **실시간 협업 편집**: sxc를 통해 다른 사람들과 실시간에 문서를 편집하고, 버전 충돌을 줄이면서 같은 페이지에서 일할 수 있습니다.
+*   **자동화된 문서 포맷팅**: 엏씨로 대량의 문서나 보고서에 스타일과 레이아웃을 자동으로 적용할 수 있습니다.
+*   **데이터驱动 콘텐츠 생성**: sxc를 통해 외부 데이터源에서 내용을 통합하여 动态적인 콘텐츠를 창출합니다.
+*   **접근성 및包容적 디자인**: 엏씨로 이미지를 위한 대체 텍스트나 멀티미디어 요소들을 접근성을 향상시키기 위해 sxc 형식으로 변환할 수 있습니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="프로그래밍 방식으로 DOC 파일을 XLTX로 변환: 사용 사례" %}}
+미크로소프트 원도キュ먼트(.docx)에서 엱엑스포트(.xltx)으로 변환하는 것은あなた의 문서 포맷能力을 완전히 활용할 수 있도록 해줍니다. 이 변환은 다음을 달성할 수 있습니다:
+
+**사용 케이스:**
+
+* **프로페셔널 퍼블리싱**: 프로페셔널한 문서로 보이는 резю메, 비즈니스 리포트, 기사를 위한 .docx 파일을 엱엑스로 변환합니다.
+* **비즈니스 프레젠테이션 디자인**: 로고, 차트, 이미지와 함께 시각적으로 아름다운 프레젠테이션을 만들기 위해 엱엑스를 사용합니다.
+* **디지털 콘텐츠 제작**: 뉴스레터, 브로셔, 카탈로그 같은 고质量의 디지털 콘텐츠를 생산하기 위해 .docx 파일을 엱엑스로 변환합니다.
+* **이북 퍼블리싱**: 온라인으로 배포할 이북에 프로페셔널한 레이아웃과 포맷팅을 제공하기 위해 엱엑스를 사용합니다.
+* **아카이브 목적**: 아카이브를 위해 .docx 파일을 엱엑스로 변환하여 문서가 오래동안 읽을 수 있도록 보냅니다.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
