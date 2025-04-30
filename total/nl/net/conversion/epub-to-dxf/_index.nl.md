@@ -106,7 +106,25 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EPUB-bestand programmatisch naar DXF transformeren: gebruiksscenario's" %}}
+Ebook (EPUB)-bestanden worden gebruikt om digitale boekinhoud te bewaren, waardoor ze ideaal zijn voor het lezen op e-readers en mobiele apparaten. Tijdens het werken met productiegegevens echter, worden DXF (Drawing Exchange Format)-bestanden essentieel voor het maken van precieze bladen en instructies.
+
+De omzetting van EPUB-bestanden naar DXF-formaten is nodig om volledige capaciteit van je productiecapaciteiten te benutten. Dit kan worden gebruikt voor:
+
+**Gebruikscases:**
+
+- **Produktieplanning:** Omzetten van EPUB-bestanden naar gedetailleerde bladen, deelijsten en montage-instructies voor de productie, zodat de productie accuraat en efficiënt verloopt.
+  
+- **CNC-machines:** Gebruik van DXF-bestanden om preciße snijdata te genereren voor CNC-machines, waardoor complexe delen met hoog accuraatheid kunnen worden gemaakt.
+
+- **Omgekeerde ingenieurstechniek:** Omzetten van EPUB-bestanden om complexe ontwerpen te herstellen uit 2D-tekeningen of andere bronnen, wat tijd en middelen bespaart in de productieontwikkeling.
+
+- **CAD-ontwerp:** Gebruik van DXF-bestanden als ingang voor CAD-software, waardoor gedetailleerde modellen kunnen worden gemaakt en productieklaar gereedde delen kunnen worden geproduceerd.
+
+- **Kwaliteitscontrole:** Omzetten van EPUB-bestanden naar inspectietemplates en controlelijsten, zodat producten tijdens de productie aan kwaliteitseisen worden beheersd.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

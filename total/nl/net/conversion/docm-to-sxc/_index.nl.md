@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="DOCM-bestand programmatisch naar SXC transformeren: gebruiksscenario's" %}}
+Het omzetten van DOCM-bestanden naar SXC-formaten is ideaal voor het ontsluiten van de volledige potentie van je documentenanalysetalen.  
+
+Deze conversie maakt het mogelijk om:
+
+**Gebruiksdoelen:**
+
+* **Documentaire redactie en annoteren**: Om gevoelige informatie te analyseren, te markeren en aan te tonen, wijzigingen te volgen en de integriteit van de data te behouden.  
+* **Samenwerken en co-auteurijzen**: Om met anderen in real-time samen te werken, versies te volgen en consistentheid te waarborgen in de documenten.  
+* **Gegevenisgedreven besluitvorming**: Om gegevens te extraheren en visueel te presenteren, documentenwalslagen te optimaliseren en het inhoudelijke beleid te verbeteren.  
+* **Toegankelijkheid en inclusieve ontwerp**: Om toegankelijke documenten te creëren die verschillende gebruikers behagen, leesbaarheid te verbeteren en digitale inclusiviteit te bevorderen.  
+* **Documentenbeheersing en archiveren**: Om efficiënte documentenbeheersingssystemen te creëren, versiegeschieden te volgen en waardevolle informatie voor de toekomst te bewaren.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

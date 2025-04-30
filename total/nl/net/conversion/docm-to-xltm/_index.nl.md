@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="DOCM-bestand programmatisch naar XLTM transformeren: gebruiksscenario's" %}}
+Het omzetten van DOCM-bestanden naar XLTMs (Excel-sjablonen met macro's) is essentieel om de volledige potentie van de macro- mogelijkheden van uw document te onthullen. Dit kan bijvoorbeeld gebruikt worden voor:
+
+**Geautomateerde document-updates**: Om charts, tabellen en formaten in real-time te updaten.
+
+**Inhoudbeheersystemen**: Gebruik XLTMs om inhoud over meerdere documenten te beheren, waardoor consistentie en efficiëntie worden gewaarborgd.
+
+**Document workflows**: Om documentprocessen te streamlijnen, zoals goedkeuringen, handtekeningen en distributie automatiseren.
+
+**Gegevenisgedreven documenten**: Om makkelijk met nieuwe gegevens bij te werken in verslagen en samenvattingen.
+
+**Avancéerde automatisering**: Om complexe documentprocessen te automatiseren, zoals meerdere documenten samenkoppelen of eigen templates creëren.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MD-bestand programmatisch naar DICOM transformeren: gebruiksscenario's" %}}
+**Geval:** MD (Medical Document)-bestanden worden gebruikt om medische afbeeldingen te bewaren, waardoor ze ideaal zijn voor het maken van gedetailleerde patiëntinformatie-records. Echter, wanneer men werkt met radiologieafdelingen en medische instellingen, worden DICOM (Digital Imaging and Communications in Medicine)-bestanden essentieel voor het doeltreffende delen van afbeeldingen en het opslaan ervan.
+
+Het omzetten van MD-bestanden naar DICOM-formaten is nodig om de volledige capaciteit van uw medische afbeeldingenmogelijkheden te onthullen. Dit geeft u de mogelijkheid tot:
+
+**Gebruikscases:**
+
+* **Medische afbeeldingen delen**: MD-bestanden om medische afbeeldingen te delen tussen ziekenhuizen, klinieken en radiologen, waardoor een juuste diagnose en behandeling wordt gewaarborgd.
+* **Beheersing van de radiologieafdeling**: DICOM gebruiken om patiëntrecords te beheersen, afbeeldingen te volgen en het werkstromen te optimaliseren.
+* **Opslag en herhalen van afbeeldingen**: MD-bestanden om medische afbeeldingen veilig op te slagen, zodat ze toegankelijk zijn voor de toekomstige referentie of analyse.
+* **Klinische beslissystemen**: DICOM gebruiken om medische afbeeldingen te integreren met klinische beslissystemen, waardoor gezondheidswerkers bij de maak van geïnformeerde beslissingen worden geholpen.
+* **Voldoen aan regelgeving**: MD-bestanden om regelgevingseisverplichtingen te voldoen, zoals HIPAA, door medische afbeeldingen veilig en volgens de regels op te slagen en te delen.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

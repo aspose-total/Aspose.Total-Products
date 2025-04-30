@@ -118,7 +118,19 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="OFT-bestand programmatisch naar PDF transformeren: gebruiksscenario's" %}}
+De omzetting van bestanden in het OpenDocument-formaat naar PDF-formaten maakt het mogelijk om de volledige potentie van delen en samenwerken met documenten te benutten. Dit kan worden gebruikt voor:
+
+**Gebruikscases:**
+
+* **Académische onderzoeksamenwerking**: Omzetten van ODF-bestanden om wetenschappelijke gegevens te analyseren, het verloop te volgen en patronen in samenwerking te identificeren.  
+* **Bedrijfsdocumentatie automatisering**: Gebruik van PDF om gestandaardiseerde bedrijfsdocumenten te creëren, werkschema's te automatiseren en fouten te minimaliseren.  
+* **Regeringsbeleid ontwikkeling**: Omzetten van ODF-bestanden om beleidsbeslissingen te maken, met belanghebbers samen te werken en kennis te delen.  
+* **Onderwijs- en opleidingsmateriaal**: Gebruik van PDF om interactieve leerervaringen te bieden, het verloop van studenten te volgen en leerresultaten te valideren.  
+* **Niet winstgevende organisatie publiceren**: Omzetten van ODF-bestanden om publicaties te maken die gedeeld kunnen worden, informatie te verspreiden en met de doelgroep te verbinden.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

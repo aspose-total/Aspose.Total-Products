@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="PDF-bestand programmatisch naar DXF transformeren: gebruiksscenario's" %}}
+PDF (Portable Document Format) bestaat voor het opslaan van documentinformatie en is ideaal voor het maken van statische documenten en publicaties. Toch worden PDF-bestanden, wanneer detailschema's en ontwerpen worden bewerkt, ongeveerlijk gemaakt door DXF (Drawing Exchange Format) om precies te kunnen worden vertegenwoordigd en gemanipuleerd te worden.
+
+Het omzetten van PDF-bestanden naar DXF-formaten is nodig om volledige ontwerpkracht te benutelen. Dit omzetten maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Architectuur en Engineering Ontwerp**: PDF-bestanden omzetten naar DXF voor het maken van gedetailleerde tekeningen, ontwerpen en schematische vermeldingen die gemakkelijk kunnen worden bewerkt en gedeeld worden.
+* **Productie en Prototyping in de Industrie**: DXF gebruiken om 2D- en 3D-modellen te creëren van bestaande ontwerpen, waardoor prototypen, vormen en tooling kunnen worden gemaakt.
+* **CADCAM (Computer-Aided Design/Computer-Aided Manufacturing)**: PDF-bestanden omzetten naar DXF voor het maken van precieze digitale modellen die kunnen worden gebruikt voor CNC-maak machines, fabricage en montage.
+* **Geospatial Data Conversion**: DXF gebruiken om PDF-bestanden met geospatiale data te omzetten naar een formaat dat kan worden gebruikt met GIS-software, waardoor gedetailleerde kaarten en analyse kunnen worden gemaakt.
+* **Automotive en Aerospace Ontwerp**: PDF-bestanden omzetten naar DXF voor het maken van 2D- en 3D-modellen van bestaande ontwerpen, waardoor prototypen, tooling en productieplannen kunnen worden gemaakt.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

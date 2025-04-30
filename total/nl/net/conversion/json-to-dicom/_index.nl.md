@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="JSON-bestand programmatisch naar DICOM transformeren: gebruiksscenario's" %}}
+JSON-bestandjes worden breed gebruikt voor het delen van gegevens tussen toepassingen, mede door hun lichte aard en gemakkelijke parse. Tijdens het werken met medische beeldgegevens wordt DICOM (Digital Imaging and Communications in Medicine) echter de favoriete standaard.
+
+Het omzetten van JSON-bestandjes naar DICOM-formaten is nodig om volledige capaciteiten van uw medische beeldgegevens te ontsluiten. Dit omzetten maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Medische afbeeldingsanalyse**: JSON-bestandjes omzetten naar medische afbeelding gegevens analyseren, tumorsegmentatie en abnormaaltjes detecteren.
+* **Beeldverwerking en verbetering**: DICOM gebruiken voor beeldkwaliteit verbeteren, ruis vermijden en beeldhersteltechnieken uitvoeren.
+* **Radiologie rapporten en workflows**: JSON-bestandjes omzetten naar gestandaardiseerde rapporten maken, recepten genereren en radiologie afdelingen workflows automatiseren.
+* **Medische apparatuur integratie**: DICOM gebruiken voor medische apparaten met elektronische gezondheidsgegevensystemen (EHR) integreren, waardoor real-time patiëntmonitring en gegevensuitwisseling mogelijk worden.
+* **Klinische proeven beheersing**: JSON-bestandjes omzetten naar klinische proeven beheersen, patiëntgegevens verzamelen en resultaten analyseren met gestandaardiseerde DICOM-compatibele formaten.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

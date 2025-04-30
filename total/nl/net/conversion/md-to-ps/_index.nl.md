@@ -58,7 +58,19 @@ document.Save("output.ps", SaveFormat.Ps);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MD-bestand programmatisch naar PS transformeren: gebruiksscenario's" %}}
+De omzetting van MD-bestanden naar PS-formaten is nodig om volledige gebruik te maken van je desktoppublicatiecapaciteiten. Deze omzetting maakt het mogelijk:
+
+**Toepassingsgebieden:**
+
+*   **Magazijn-lay-out ontwerpen**: Om professioneel uitziende magazine-uitgaven te creëren, inhoudelijke organisatie te beheersen en afmetingen van afbeeldingen te optimaliseren.
+*   **Brochure en flyerontwikkeling**: Gebruik van PS-formaten om aantrekkelijke brochures, flyers en marketingmateriaals te ontwerpen dat aandacht trekt.
+*   **Document-lay-out en formattings**: Om zichtbaarlelijke documenten te creëren, inclusief curriculum vitae's, certificaten en andere professionele documenten.
+*   **Printbare kunst en illustraties**: Gebruik van PS-formaten om complexe printbare kunst, illustraties en grafieken te maken voor diverse toepassingen.
+*   **Webpagina's en online-inhoud publiceren**: Om MD-bestanden te omzetten naar webcontent, inclusief artikelen, blogposts en andere digitale media.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

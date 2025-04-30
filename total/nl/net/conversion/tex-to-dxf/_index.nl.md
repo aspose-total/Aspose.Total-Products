@@ -106,7 +106,19 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="TEX-bestand programmatisch naar DXF transformeren: gebruiksscenario's" %}}
+De omzetting van TeX-bestanden naar DXF-formaten is nodig om:
+
+**Gebruikscases:**
+
+* **Architectuurmodellering**: Converteer TeX-bestanden om precieze 2D en 3D architectuurontwerpen te maken, waardoor accuraat ontwerpen en visualiseren mogelijk wordt.
+* **Technisch Ontwerp**: Gebruik DXF-formaten om technische tekeningen te importeren en bewerken, zodat deze compatibel zijn met CAD-software.
+* **Automobielontwerp**: Converteer TeX-bestanden om detailgele automobielontwerpen te maken, waardoor samenwerking tussen ontwerpers en ingenieurs wordt bevorderd.
+* **Productie van Producten**: Gebruik DXF-formaten om printbare ontwerpen voor productie te genereren, wat fouten vermindert en kwaliteit controle verbetert.
+* **Geospatiale Kaartografie**: Converteer TeX-bestanden om vectorkaarten te maken, die ideaal zijn voor GIS-analyse, datavisualisatie en kaartapplicaties.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

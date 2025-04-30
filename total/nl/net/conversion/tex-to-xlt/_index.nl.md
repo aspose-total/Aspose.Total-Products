@@ -106,7 +106,25 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="TEX-bestand programmatisch naar XLT transformeren: gebruiksscenario's" %}}
+De omzetting van TeX-bestandjes naar Excel-formaten is noodzakelijk om de volle potentie van je gegevensvisualisatie- en analysecapaciteiten te ontkiemen.
+
+ Dit proces maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Analyse van Wetenschappelijke Papers**: TeX-bestandjes omzetten naar Excel voor het analyseren van inhoud, het volgen van citaten en het herkennen van patronen in gegevens.
+  
+* **Mathematische Modellering**: Gebruik van Excel om wiskundige modellen te visualiseren, complexe systemen te simuleren en gelijkheden te valideren.
+
+* **Data-Journalistiek**: TeX-bestandjes omzetten naar interactieve gegevensvisualisaties, verhalen en rapporten voor publicaties maken, waardoor betere verhalen kunnen worden verteld.
+
+* **Academisch Publiceren**: Gebruik van Excel om academisch papieren gegevens te analyseren en te visualiseren, publicatiepatronen te volgen en gebieden voor verbetering te identificeren.
+
+* **Bedrijfsintelliëntie**: TeX-bestandjes omzetten naar interactieve dashboards, rapporten en visualisaties voor stakeholders maken, waardoor betere beslissingen kunnen worden genomen en bedrijfsresultaten verbeterd worden.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

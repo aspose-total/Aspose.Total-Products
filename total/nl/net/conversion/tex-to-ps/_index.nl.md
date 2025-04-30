@@ -115,7 +115,19 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="TEX-bestand programmatisch naar PS transformeren: gebruiksscenario's" %}}
+De omzetting van TEX-bestanden naar PS-formaten is nodig om volledige gebruikswijze van je documentenpubliceren en drukken te ontdekken. Deze omzetting maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Academisch publiceren**: Om wetenschappelijke artikelen, dissertaties en thesis's te publiceren in academische tijdschriften en conferenties.  
+* **Boekdrukken**: Om professioneel uitzichtende drukwerken te maken, zoals boeken, tijdschriften en nieuwsbrieven.  
+* **Technische documenten creëren**: Om gebruikershandleidingen, instructieve gidsen en technische specificaties te genereren voor bedrijven en organisaties.  
+* **Kunstmatige expressie**: Om hoogkwalitatieve kunstwerken, illustraties en grafiekken te maken die kunnen worden gedrukt of digitaal worden weergezet.  
+* **Behoud en archiveren**: Om duurzame digitale archieven te creëren van historische documenten, teksten en multimediacontent.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

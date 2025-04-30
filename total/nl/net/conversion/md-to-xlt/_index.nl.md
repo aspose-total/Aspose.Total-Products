@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MD-bestand programmatisch naar XLT transformeren: gebruiksscenario's" %}}
+De omzetting van MD-bestanden naar XLT-formats is nodig om volledige gebruik te maken van je gegevensvisualisatie- en analysecapaciteiten.
+
+Met de omzetting van MD-bestanden naar XLT-formats kun je:
+
+**Toepassingsgebieden:**
+
+* **Gegevensbladen maken**: Om interactieve gegevensbladen te creëren, doorloopbare wijzigingen te volgen en samenwerking in real-time te faciliteren.  
+* **Onderzoekdocumentanalyse**: Gebruik van XLT om onderzoekdocumenten te visualiseren, belangrijk concepten te identificeren en kennis te delen tussen onderzoekers.  
+* **Wetenschappelijke noteboboeken maken**: Om interactieve wetenschappelijke noteboboeken te creëren, simulaties van experimenten uit te voeren en hypothesen te valideren.  
+* **Gegevensonderzoek en visualisatie**: Gebruik van XLT om gegevens te ontdekken en te visualiseren, patronen te identificeren en dashboards te maken voor belanghebende partijen.  
+* **Samenwerking in documenten**: Om met teamleden samen te werken, wijzigingen te volgen en een gedeelde begrip van complexe projecten te behouden.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

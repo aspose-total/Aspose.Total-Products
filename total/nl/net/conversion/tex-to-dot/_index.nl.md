@@ -115,7 +115,19 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="TEX-bestand programmatisch naar DOT transformeren: gebruiksscenario's" %}}
+De omzetting van TeX-bestanden naar DOT-formaten is noodzaak om de volle potentie van je diagrammerug capabilities te ontdekken. Dit proces maakt het mogelijk om:
+
+**Gebruiken (bijv.):**
+
+* **Graphische presentaties:** Omzetten van TeX-bestanden om zichtbaar en aantrekkelijk te maken voor presentaties, rapporten en leer materiaal.
+* **Wetenschappelijke diagrammen:** Gebruik van DOT-formaten om complexe wetenschappelijke diagrammen te genereren, zoals circuitdiagrammen, netwerkdagrammen en hiërarchische structuren.
+* **Technische documentatie:** Omzetten van TeX-bestanden naar interactieve technische documentatie, inclusief systeemdiagrammen, component-layouts en processstromen.
+* **Academisch onderzoek:** Gebruik van DOT-formaten om wetenschappelijke data te visualiseren, systemen te simuleren en complexe concepten in academische papers en dissertaties te illustreren.
+* **Collaboratieve ontwerp:** Omzetten van TeX-bestanden naar bewerkbare diagrammen die kunnen worden gedeeld met teamleden, waardoor realtime samenwerken en versiebeheersing mogelijk wordt.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -58,7 +58,19 @@ document.Save("output.docx", SaveFormat.Docx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="MSG-bestand programmatisch naar WORD transformeren: gebruiksscenario's" %}}
+Het omzetten van MSG-bestanden naar Word-dossiers is nodig om volledige gebruik te maken van de capaciteiten voor documenten bewerken en analyseren. Dit omzetten maakt het mogelijk om:
+
+**Gebruiken van het bestek:**
+
+* **Inhoud bewerken:** Om het inhoud te bewerken, sporen te houden en samen te werken met teamleden.
+* **Onderzoek analyseren:** Gebruik Word om onderzoek gegevens te analyseren en visueel te maken, referenties te maken en citaten op te nemen.
+* **Zaken communiqueren:** Om professionele zakencommunicaties te creëren, aanbiedingen en rapporten te schrijven.
+* **Onderwijs en onderzoek schrijven:** Gebruik Word om academisch werk te schrijven, syllabi te maken en referenties voor studenten en onderzoekers te formateren.
+* **Gegevensgestuurde inhoud creëren:** Om gegevensgestuurde infografieken en presentaties te maken voor een breed publiek.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

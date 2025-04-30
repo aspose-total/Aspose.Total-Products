@@ -58,7 +58,19 @@ document.Save("output.odt", SaveFormat.Odt);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EPUB-bestand programmatisch naar ODT transformeren: gebruiksscenario's" %}}
+Het omzetten van EPUB-bestanden naar ODT-formaten maakt het mogelijk om volledige gebruik te maken van je documenten editcapaciteiten. Dit kan onder andere gebruikt worden voor:
+
+**Gebruikscases:**
+
+* **Academisch onderzoek**: Om wetenschappelijk materiaal te analyseren en te bewerken, samen te werken met collega's en artikelen te submitten.  
+* **Nijverheidssector**: Voor het maken en bewerken van e-books, manuscripten en andere geschreven content voor publicatie in druk- of digitale vorm.  
+* **Leerbronnen op maandag**: Om interactieve leerlingenmateriaal te creëren, zoals tekstgebaseerde tutorials, quizzen en assessments.  
+* **Digitale publicatie**: Voor het bewerken en publiceren van online-artikelen, blogs en andere digitale content op platformen zoals Medium of WordPress.  
+* **Toegankelijkheidsverbetering**: Om toegankelijkheid te verbeteren door alternatieve formaten aan te bieden voor zienschadelijke gebruikers.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="XML-bestand programmatisch naar MD transformeren: gebruiksscenario's" %}}
+XML (Extensible Markup Language)-bestanden worden gebruikt om gegevensinformatie op te slaan, waardoor ze ideaal zijn voor het maken van gestructureerde documenten en webcontent. Toch wordt Markdown essentieel als middel voor het schrijven en publiceren van dynamisch tekst.
+
+De conversie van XML-bestanden naar Markdown-formaten is nodig om volledige schrijfmogelijkheden te benutten. Dit proces maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Inhoudsgeneratie**: XML-bestanden omzetten naar gestructureerde inhoud, zoals artikelen, blogposts en documentatie.
+* **Documentatiegeneratie**: Markdown gebruiken voor het genereren van gebruikershandleidingen, gidsen en technische documentatie uit XML-bestanden.
+* **Gegevensgestuurde schrijven**: XML-bestanden omzetten naar gegevensgestuurde inhoud, zoals infografieken, statistieken en gegevensvisualisaties.
+* **Samenwerkingsschrijven**: Markdown gebruiken voor het samenwerken aan schrijvertaken met teamleden, waardoor real-time bewerken en opmerkingen mogelijk worden.
+* **Toegankelijkheid en SEO**: XML-bestanden omzetten naar inhoud die toegankelijk is en doorzoekbaar is voor zoekmachines, wat de online zichtbaarheid en ontdekbaarheid verbetert.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,23 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="PS-bestand programmatisch naar DICOM transformeren: gebruiksscenario's" %}}
+**Conversiehandleiding:**
+
+PS (Portable Sketcher)-bestanden worden gebruikt om vectorgrafische informatie op te slagen, waardoor ze ideaal zijn voor het maken van statische afmetingen en illustraties. Tijdens het werken met medischbeeldgevens wordt echter het DICOM-formaat (Digital Imaging and Communications in Medicine) essentieel voor de opslag, deling en analyse.
+
+De conversie van PS-bestanden naar DICOM-formaten is nodig om volledige medische beeldvermogens te ontwikkelen. Deze conversie maakt het mogelijk:
+
+**Toepassingen:**
+
+* **Medische afmetingsanalyse**: Converteer PS-bestanden om medische afmetingsgevens te analyseren, patiëntvorderingen te volgen en patronen in diagnostische resultaten te identificeren.
+* **Radicologie rapporten en samenwerking**: Gebruik DICOM voor het delen en vergelijken van radiologische afmetingen, waardoor snellere diagnose en behandeling worden versneld.
+* **Medische apparatuur integratie**: Converteer PS-bestanden om te integreren met medische apparaten, zoals CT- of MRI-scanners, voor een vloeiende gegevensuitwisseling.
+* **Onderzoek en ontwikkeling**: Gebruik DICOM om complexe medischonderzoeksgevens te visualiseren, simuleren van klinische proeven en valideren van nieuwe behandelingen.
+* **Klinische trials en regulatorenverplichtingen**: Converteer PS-bestanden om compliante klinische trial-gegevenssets, rapporten en visualisaties te creëren voor regulatorensubmissies.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

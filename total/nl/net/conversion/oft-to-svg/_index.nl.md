@@ -140,7 +140,23 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="OFT-bestand programmatisch naar SVG transformeren: gebruiksscenario's" %}}
+Beste,
+
+De OFT (Object Template File)-bestanden worden gebruikt om 2D- en 3D-geometriepatronen te bewaren, waardoor ze ideaal zijn voor het maken van complexe modellen en ontwerpen. Tijdens het werken met graphische vertoningen worden echter SVG-formaten (Scalable Vector Graphics) essentieel omwille van hun schaalbaarheid, flexibiliteit en toegankelijkheid.
+
+Het omzetten van OFT-bestanden naar SVG-formaten is nodig om volledige gebruikswijze van je ontwerpvermogens te unlocken. Dit omzettingsproces maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Logodesign en Merkbeleving**: Omzetten van OFT-bestanden naar schaalbare logos, iconen en grafieken die op meerdere platforms kunnen worden gebruikt.
+* **Infografica**: Gebruiken van SVG voor het visualiseren van gegevens in een interactieve en aantrekkelijke manier, waardoor het ideaal is voor infografica, diagrammen en graafschermen.
+* **3D-Modellering en Animatie**: Omzetten van OFT-bestanden naar 2D-vertoningen, die vervolgens kunnen worden aangevuld met SVG-animaties om complexe bewegende grafieken te maken.
+* **UI/UX Ontwerp**: Gebruiken van SVG voor het maken van responsieve iconen, knoppen en andere interactieve elementen die op meerdere apparaten en platforms kunnen worden gebruikt.
+* **Spelontwikkeling en Simulatie**: Omzetten van OFT-bestanden naar 2D- of 3D-vertoningen, die vervolgens kunnen worden geintegreerd in spellen en simulaties met behulp van SVG.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

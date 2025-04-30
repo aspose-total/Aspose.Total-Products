@@ -58,7 +58,21 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EPUB-bestand programmatisch naar DOT transformeren: gebruiksscenario's" %}}
+Het omzetten van EPUB-bestanden naar DOT-formaten is essentieel om de volledige potentie van je diagrammercapaciteiten te ontsluiten.  
+
+Deze omzetting maakt het mogelijk om:
+
+**Gebruikscases:**
+
+* **Technische documentatie genereren**: Omzetten van EPUB-bestanden naar gedetailleerde en aantrekkelijke technische documentatie, zoals gebruikershandleidingen en instructiegidsen.  
+* **Academisch onderzoek presenteren**: Gebruik van DOT om complexe researchgegevens te visualiseren, diagrammen te maken die klaar zijn voor publicatie, en bevindingen te delen met medecollega's en peers.  
+* **Marketingcommunicatiematerialen ontwikkelen**: Omzetten van EPUB-bestanden naar aantrekkelijke marketingmaterialen, zoals folders, flyers en presentaties, die de aandacht van de doelgroep trekken.  
+* **Bedrijfsprocessen op tekening brengen**: Gebruik van DOT om detailre processkaarten te maken, waarbij complexe bedrijfsoperaties worden gevisualiseerd en gebieden voor verbetering worden benadrukt.  
+* **Graphische verhalen vertellen**: Omzetten van EPUB-bestanden naar verhalend diagrammen, waarmee ideeën worden omgezet in levense wijzen.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

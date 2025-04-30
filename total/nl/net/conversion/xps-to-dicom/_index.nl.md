@@ -106,7 +106,21 @@ Wij raden aan Microsoft Visual Studio, Xamarin en MonoDevelop IDE te gebruiken o
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="XPS-bestand programmatisch naar DICOM transformeren: gebruiksscenario's" %}}
+XPS (XML Paper Specification)-bestanden worden gebruikt om rastergrafische gegevens op te slagen, waardoor ze ideaal zijn voor het maken van statische documenten en afbeeldingen. Tijdens het werken met medische beeldgegevens wordt echter DICOM (Digital Imaging and Communications in Medicine)-bestanden essentieel voor beeldvisualisatie en analyse.
+
+De omzetting van XPS-bestanden naar DICOM-formaten is nodig om de volledige capaciteit van uw medische beeldgegevens te ontsluiten, waardoor u kunt:
+
+**Toepassingen:**
+
+*   **Analyse van stralingsafbeeldingen in de radiologie**: Omzetten van XPS-bestanden naar DICOM voor het analyseren van röntgenfoto's, CT-scan en MRI's voor diagnostische doeleinden.
+*   **Gegevensuitwisseling tussen medisch apparatuur en apparatenfabrikanten**: Gebruik van DICOM voor het delen van gegevens over patiënten, zoals patiëntrecords en beeldresultaten, tussen zorgverleners en apparatenfabrikanten.
+*   **Onderzoek en ontwikkeling**: Omzetten van XPS-bestanden naar DICOM om digitale modellen van medische apparaten te maken, simulatie van apparaatprestaties door te doen en ontwerpconcepten te valideren.
+*   **Beeldverwerking en verbetering**: Gebruik van DICOM voor het versterken en verwerken van medische afbeeldingen, het wegnemen van ruis en het verbeteren van de kwaliteit van de beelden.
+*   **Opslag en archiveren van gegevens**: Omzetten van XPS-bestanden naar DICOM om medische afbeeldingen en gegevens veilig te opslagen, conform wet- en regelgeving.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

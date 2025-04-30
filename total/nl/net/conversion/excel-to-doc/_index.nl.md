@@ -10,7 +10,17 @@ outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EXCEL-bestand programmatisch naar DOC transformeren: gebruiksscenario's" %}}
+De omzetting van Excel-bestanden naar Word-dossiers maakt het mogelijk om volledige schrijfgaven te benutten. Hier zijn enkele gebruikscases:
+
+* **Samenwerken met documenten**: Om samenwerken met documenten te maken, omzetten van Excel-bestanden naar Word-dossiers.  
+* **Optimale versie voor je Cv en sollicitatiebrief**: Gebruik Word om een gepolijste Cv te maken dat je skills en ervaring benadrukt.  
+* **Ontwikkeling van zakelijke voorstellen**: Om professionele zakelijke voorstellen te maken, omzetten van Excel-bestanden naar Word-dossiers.  
+* **Hulp bij academisch schrijven**: Gebruik Word om wetenschappelijke artikelen en dissertaties te organiseren, zodat je schrijfwerk duidelijk en coherent is.  
+* **Bedrijfscommunicatie**: Om aantrekkelijke bedrijfsrapporten te maken, omzetten van Excel-bestanden naar Word-dossiers.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Converteer EXCEL naar DOC via C# of online-app" h2="Excel exporteren&reg; EXCEL naar DOC op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
 {{< blocks/products/pf/main-container >}}
 
@@ -45,7 +55,17 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EXCEL-bestand programmatisch naar DOC transformeren: gebruiksscenario's" %}}
+De omzetting van Excel-bestanden naar Word-dossiers maakt het mogelijk om volledige schrijfgaven te benutten. Hier zijn enkele gebruikscases:
+
+* **Samenwerken met documenten**: Om samenwerken met documenten te maken, omzetten van Excel-bestanden naar Word-dossiers.  
+* **Optimale versie voor je Cv en sollicitatiebrief**: Gebruik Word om een gepolijste Cv te maken dat je skills en ervaring benadrukt.  
+* **Ontwikkeling van zakelijke voorstellen**: Om professionele zakelijke voorstellen te maken, omzetten van Excel-bestanden naar Word-dossiers.  
+* **Hulp bij academisch schrijven**: Gebruik Word om wetenschappelijke artikelen en dissertaties te organiseren, zodat je schrijfwerk duidelijk en coherent is.  
+* **Bedrijfscommunicatie**: Om aantrekkelijke bedrijfsrapporten te maken, omzetten van Excel-bestanden naar Word-dossiers.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
