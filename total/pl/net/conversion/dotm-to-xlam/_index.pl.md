@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku DOTM w XLAM programowo: przypadki użycia" %}}
+Przekształcenie plików DotM (Microsoft Office Macro-Enabled Template) na formaty XLA (Excel Add-in) jest niezbędne, aby wykorzystać pełną funkcjonalność swoich szablonów z wbudowanymi makrami i dodatkach. To przekształcenie umożaliwość:
+
+**Wyznania przypadków użycia:**
+
+*   **Rozwożenie makroów**: Przekształć pliki DotM, aby rozwinąć makra, które mogą automatisować powtarzające się zadania, analizować dane oraz tworzyć własne funkcje.  
+*   **Analiza danych i wizualizacja**: Wykorzystać XLA do wizualizacji skomplikowanych danych, tworzenia interaktywnych wykresów końcowych i przeprowadzenia zaawansowanej analizy danych za pomocą makroów.  
+*   **Biznesanaliza i raportowanie**: Przekształć pliki DotM do tworzenia indywidualnych raportów, tabeli odwrótnej oraz wykresów, które dają rzeczywistą wiedzę o performancie firmy w czasie rzeczywistym.  
+*   **Rozwożenie dodatków customowych**: Wykorzystać XLA do rozwożenia własnych dodatków dla Excelu, które mogą się połączyć z innymi aplikacjami, automatisować zadania lub poprawić doznania użytkownika.  
+*   **Nauczanie i szkolenia**: Przekształć pliki DotM do tworzenia interaktywnych materiałów nauczających, kwestii i oczeń, które wykorzystują makra oraz techniki analizy danych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

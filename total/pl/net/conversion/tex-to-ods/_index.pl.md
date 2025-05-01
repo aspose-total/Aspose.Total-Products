@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w ODS programowo: przypadki użycia" %}}
+Ta konwersja pozwala ci na wykorzystać swoją pełną potęgę w zakresie wizualizacji i analizy danych. W ten sposób możesz:
+
+**Przykłady użycia:**
+
+* **Analiza badań naukowych**: Badanie wyników badań, śledzenie cytacji i identyfikacja tendencji w danych akademickich.
+* **Optymizacja pisania technicznych dokumentów**: Wizualizacja danych z dokumentacji technicznej oraz optimizacja strategii pisarskich i pomiaru czytelności.
+* **Tworzenie interaktywnych projektów publikacji**: Tworzenie projektów publikacji, symulacja doświadczenia układu oraz weryfikacja koncepcji projektowych.
+* **Business Intelligence i Raportowanie**: Wizualizacja skomplikowanych danych biznesowych (np. trendy sprzedaży, zachowania klientów i analiza rynku).
+* **Tworzenie interaktywnych dashboardów oraz raportów**: Tworzenie dashboardów i raportów dla interesujących stron, co umożliwia lepsze podejmowanie decyzji.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

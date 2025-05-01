@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku OTT w DIF programowo: przypadki użycia" %}}
+Pliki Ott (plik z tabelą przejściową obiektywnej orientacji) są wykorzystywane do przechowywania logiki przejściowej, czyniąc je idealnymi narzędziami dla tworzenia systemów decyzyjnych oraz przepłyów. Jednak gdy pracujemy z formatami danych takimi jak DIF (Data Interchange Format), tabelary są niezbędne do przetworzenia i analizy danych.
+
+Przekształcenie plików Ott na formaty DIF jest konieczne, aby wykorzystać pełną funkcjonalność Twoich umiejętności w zakresie przetwarzania i analizy danych. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+* **Automatyczne przetwarzanie procesów**: Przekształć pliki Ott do automatycznego przetwarzania biznesowych procesów, przepłyów i systemów decyzyjnych.  
+* **Mapowanie danych i integracja**: Wykorzystać DIF do integracji danych z różnych źródłów, stworzyć mapę danych oraz przekształbić dane na potrzeby analizy.  
+* **Systemy oparte na zasadach**: Przekształcić pliki Ott do implementowania systemów opartych na zasadach, walidacji reguł i optymalizacji wydajności systemu.  
+* **Migracja danych i wdrożenie**: Wykorzystać DIF do migracji danych między aplikacjami, wdrażania przekształceń danych oraz zapewnienia bezpiecznej integracji danych.  
+* **Biznesowa inteligencja i raportowanie**: Przekształcić pliki Ott do tworzenia interaktywnych dashboardów biznesowej inteligencji, raportów i wizualizacji dla interesariuszy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

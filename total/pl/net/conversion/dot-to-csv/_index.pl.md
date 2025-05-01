@@ -106,7 +106,17 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku DOT w CSV programowo: przypadki użycia" %}}
+**Przypadek Użycia:**
+
+*   **Importowanie Danych**: Przekonwertować pliki DOT na potrzeby analizy danych handlowych, śledzenie interakcji klientów oraz identyfikacja trendów w badaniach rynkowych.  
+*   **Mapowanie Procesów Biznesowych**: Wykorzystać pliki CSV do wizualizacji przepływania procesów biznesowych, optymalizacji przepływ i pomiaru wydajności.  
+*   **Współpraca na Dokumentach**: Przekonwertować pliki DOT na interaktywne szablony dokumentów, współpracować z członkami zespołu oraz udostępniać plany projektowe.  
+*   **Publikacja Naukowa**: Wykorzystać pliki CSV do formatowania danych dla publikacji naukowych, analizy wyników badawczych oraz wizualizacji skomplikowanych znaczeń badawczych.  
+*   **Generowanie Raportów Biznesowych**: Przekonwertować pliki DOT na interaktywne raporty, dashbordy oraz wyobrażenia, umożliwiające lepsze podejmowanie decyzji przez interesariuszy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

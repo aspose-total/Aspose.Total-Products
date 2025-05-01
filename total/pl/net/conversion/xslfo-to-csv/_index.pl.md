@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XSLFO w CSV programowo: przypadki użycia" %}}
+Pliki XSLFO (Extensible Stylesheet Language Formatting Objects) są używane do opisania układu i formatowania plików XML, czyniąc je idealnymi dla tworzenia dokumentów gotowych do druku z precyzyjną kontrolą typografii, marginesów oraz innych elementów wizualnych. Jednak przy pracy z dynamiką danych CSV (Comma Separated Values) staje się niezbędne dla importu, eksportu i analizy danych.
+
+Konwersja plików XSLFO na formaty CSV jest niezbędna, aby wykorzystać pełną potęgę możliwości analizy danych. Ta konwersja umożliwia:
+
+**Użycia przypadków:**
+
+* **Analiza danych i wizualizacja**: Przekonwertowanie plików XSLFO na format CSV pozwala na analizę wzorców układu, identyfikację trendów formatowania oraz wizualizację struktur dokumentów.
+* **Import i eksport dokumentów**: Użycie CSV umożliwia importowanie i eksportowanie plików XSLFO, co umożliwia bezpośrednią współpracę i wymianę danych między aplikacjami.
+* **Automatyczne tworzenie raportów i dokumentów**: Konwersja plików XSLFO na format CSV pozwala na tworzenie raportów, faktur czy innych dokumentów z dostosowanym układem i formatowaniem.
+* **Data Mining i Machine Learning**: Użycie CSV do kierowania danych z plików XSLFO do algorytmów machine learning umożliwia odkrycie ukrytych wzorców i relacji między danymi.
+* **Zarządzanie digitalnymi aktywami**: Konwersja plików XSLFO na format CSV pozwala na zarządzanie digitalnymi aktywami, takimi jak zdjęcia, filmy czy dokumenty, oraz na analizę ich wzorców użytkowania.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

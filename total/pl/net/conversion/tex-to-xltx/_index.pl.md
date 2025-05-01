@@ -106,7 +106,23 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w XLTX programowo: przypadki użycia" %}}
+**Przekształcenie plików TeX na format XlTx**
+
+Pliki TeX są szeroko wykorzystywane w środowisku akademickim i zawodowym do zapisywania zawartości dokumentu, czyniąc je idealnym narzędziem do tworzenia skomplikowanych dokumentów. Jednak przy pracy z dynamiką danych formaty XlTx (opartione na XML) stają się niezbędne do wizualizacji i analizy danych.
+
+Przekształcenie plików TeX na format XlTex pozwala wykorzystać pełną możliwość funkcji układu i projektowania dokumentów. To przekształcenie umożliwia:
+
+**Użycia przypadków:**
+
+*   **Optymizacja układu dokumentu**: Przekształć pliki TeX aby tworzyć niestandardowe układy dokumentu, konfigurować marginesy i dostosować wielkość czcionki dla lepszej czytelności.
+*   **Wyświetlanie skomplikowanych równaniach matematycznych**: Wykorzystać format XlTex aby pokazywać skomplikowane równania w czytelnej i czytelnej formie, poprawiając wygląd dokumentu.
+*   **Dostosowanie tabeli i rysunków**: Przekształć pliki TeX aby dostosować design tabeli, dodać obrazy lub tworzyć interaktywne rysunki które mogą być łatwo aktualizowane.
+*   **Przekształcenie dokumentu na potrzeby cyfrowej publikacji**: Wykorzystać format Xltex aby przekształcić pliki TeX na formaty cyfrowe, ułatwiając publikację online lub w platformach e-book.
+*   **Dostępność i równości**: Przekształć pliki TeX aby tworzyć dokumenty dostępne z poprawioną wielkością czcionki, kontrastem kolorów i strukturą, zapewniając że zawartość jest użyteczna dla wszystkich.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -118,7 +118,17 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku OFT w RTF programowo: przypadki użycia" %}}
+**Przypisy do użytku:**
+
+*   **Edyting i przegląd dokumentów**: Przekształcanie plików OFT w celu tworzenia, edytowania i przeglądu dokumentów z dokładną kontrolą formatowania i układu, co umożliwia wzrost wydajności współpracy i produktywności.
+*   **analiza biznesowa i raportowanie**: Wykorzystanie plików RTF do analizy danych dotyczących wyników biznesowych, tworzenia raportów oraz wizualizacji kluczowych metryk, co umożliwia podejmowanie wysoce informowanych decyzji.
+*   **tworzenie i zarządzanie zawartością**: Przekształcanie plików OFT do tworzenia, zarządzania i publikowania zawartości na różnych platformach, zapewnejąc spójność i dokładność w formatowaniu i układzie.
+*   **dokumentacja techniczna i obsługa**: Wykorzystanie plików RTF do tworzenia dokumentacji technicznej, poradników użytkowników oraz materiałów obsługowych, zapewnejąc dokładność informacji dla klientów i interesariuszy.
+*   **automatyzacja formularzy i szablonów**: Przekształcanie plików OFT do automatycznego tworzenia i rozłożenia formularzy oraz szablonów, co uprościć procesy i zmniejszy podstawowe błędy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

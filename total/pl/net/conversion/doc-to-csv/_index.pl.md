@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku DOC w CSV programowo: przypadki użycia" %}}
+Przekształcenie plików Microsoft Word (.doc) na format Comma Separated Values (CSV) jest kluczowym krokiem w wykorzystaniu pełnego potencjala możliwości analizy i wizualizacji danych.
+
+Przekształcenie plików .doc na format CSV umożliwia:
+
+**Użytki:**
+
+- **Importowanie danych do analizy**: Przekształć pliki .doc aby analizować i przetwarzać duże zbiory danych, co ułatwia wykrycie wzorców i względności.
+- **Importowanie danych do tabelarycznych aplikacji**: Zaimportować zawartość plików .doc na format CSV do popularnych aplikacji takich jak Excel lub Google Sheets.
+- **Automatyzacja generowania raportów**: Przekształcić pliki .doc aby automatycznie generować raporty, zmniejszając ilość ręcznej pracy i zwiększając wydajność.
+- **Wizualizacja danych za pomocą Matplotlib/Pandas**: Zaimportować zawartość plików .doc do popularnych bibliotek wizualizacji danych takich jak Matplotlib lub Pandas.
+- **Integracja z narzędziami business intelligence**: Przekształcić pliki .doc aby integrację z narzędziami takimi jak Tableau lub Power BI, co ułatwia podejmowanie decyzji.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

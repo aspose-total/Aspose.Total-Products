@@ -115,7 +115,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w PPSM programowo: przypadki użycia" %}}
+Przekonwertowanie plików TeX na formaty PPSM jest niezbędne do wykorzystania pełnych możliwości Twoich umiejętności prezentacji.
+
+Przykłady użycia:
+
+*   **Publikacja prac badawczych**: Przekonwertuj pliki TeX na formaty PPSM, aby stworzyć wizualnie atrakcyjne i profesjonalne publikacje badawcze, umożliwiające autorom składanie wysokiej jakości prac do publikacji.
+*   **Prezentacje akademickie**: Wykorzystaj formaty PPSM do realizacji zaangazujących i informacyjnych prezentacji na konferencjach naukowych, seminariach i warsztwach.
+*   **Tworzenie dokumentów technicznych**: Przekonwertuj pliki TeX na formaty PPSM, aby łatwo tworzyć dokumenty użytkownika, instrukcje obsługi i raporty techniczne.
+*   **Generowanie raportów biznesowych**: Wykorzystaj formaty PPSM do tworzenia profesjonalnych raportów biznesowych z wykorzystaniem wykresów, diagramów i tabeli dla klientów, akcjonariuszy lub zarządców.
+*   **Publikacja cyfrowa**: Przekonwertuj pliki TeX na formaty wydawnictwa cyfrowego, aby publikować atrakcyjną zawartość w formacie wizualnie przyjaznym.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

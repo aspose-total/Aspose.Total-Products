@@ -115,7 +115,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w DOT programowo: przypadki użycia" %}}
+Przekonwertowanie plików TeX na format DOT jest niezbędne, aby wykorzystać pełny potencjal możliwości tworzenia diagramów. To przeprowadzenie umożliwia:
+
+**Przykłady użycia:**
+
+*   **Wizualizacje graficzne**: Przekonwertowanie plików TeX na format DOT pozwala tworzyć wyjątkowo atrakcyjne diagramy, fluki gramaticzne oraz wykresy dla prezentacji, raportów i materiałów edukacyjnych.
+*   **Diagramy naukowe**: Użycie formatu DOT umożliwia tworzenie skomplikowanych diagramów naukowych, takich jak schematy obwodowe, diagramy sieciowe oraz hierarchie strukturalne.
+*   **Dokumentacja techniczna**: Konwersja plików TeX na format DOT pozwala tworzyć interaktywną dokumentację technologiczną, w tym diagramy układu systemu, układ komponentów oraz przepły procesowe.
+*   **Badania akademickie**: Wykorzystanie formatu DOT umożliwia wizualizację danych badawczych, symulację zachowania systemów oraz ilustrację skomplikowanych pojęć w artykułach i pracach doktorskich.
+*   **Projektowanie współpracy**: Konwersja plików TeX na format DOT umożliwia tworzenie edytowalnych diagramów, które mogą być udostępnione dla członków zespołu, co umożliwia współpracę w czasie rzeczywistym oraz zarządzanie wersjami.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

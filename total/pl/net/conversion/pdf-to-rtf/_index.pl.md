@@ -115,7 +115,23 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku PDF w RTF programowo: przypadki użycia" %}}
+Plik PDF (Formatu Portable Document) jest przeznaczone do zapisywania dokumentów o stałej układance, czyniącymi ich idealnymi dla tworzenia profesjonalnie wyglądnących raportów, prezentacji i ebooków. Jednak gdy pracujemy z edytowalnymi danymi, format RTF staje się niezbędny dla redakcji i formowania tekstu.
+
+**Użycia:**
+
+* **Redakcja dokumentów**: Przekonwertowanie plików PDF do edytowania dokumentów takich jak CV, listy motywujace i projekty, oraz aktualizacja ich dla potrzeb aplikacji pracy lub możliwości biznesowych.
+
+* **Formatowanie i stylowanie tekstu**: Wykorzystanie formatu RTF do formowania i stylowania tekstu, w tym wyboru czcionek, wielkości, kolorów i przyporządkowania, co ułatwia tworzenie wyglądnących atrakcyjnie dokumentów.
+
+* **Konwersja na ebook**: Przekonwertowanie plików PDF do formatu RTF dla potrzeb edytowania i publikacji ebooków, co pozwala autorom na wprowadzenie zmian i aktualizacje.
+
+* **Korespondencja biznesowa**: Wykorzystanie formatu RTF do wysyłki profesjonalnie wyglądnących emaili, memorandów i listów, aby zapewnić jasność i precyzję w korespondencji biznesowej.
+
+* **Korekta i redakcja**: Przekonwertowanie plików PDF do formatu RTF dla potrzeb zadań korekty i redakcji, co ułatwia sprawdzanie i poprawę błędów w tekście.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

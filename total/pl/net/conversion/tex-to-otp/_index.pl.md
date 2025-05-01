@@ -115,7 +115,25 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w OTP programowo: przypadki użycia" %}}
+Pliki TeX (Typowanie i Formatowanie za pomocą LaTeX) są używane do zapisywania informacji dokumentu, czyniąc ich idealnymi dla tworzenia technicznych dokumentów i artykułów akademickich. Jednak przy pracowaniu z danymi multimedialnymi PDF staje się nieoczekiwaniem potrzebne do prezentacji i udostępniania.
+
+Przekształcenie plików TeX na format PDF jest niezbędne, aby wykorzystać pełną potęgę wizualnej przystępności i możliwości dostępu. To przekształcenie pozwala na:
+
+**Użycia przypadków:**
+
+*   **Publikacja naukowych artykułów**: Przekształcenie plików TeX do formatu PDF tworzy wyjątkowo piękne i dokładnie formowane akademickie artykuły, przepisy i przedsiebienia, zapewniając prawidłowe układanie.
+
+*   **Tworzenie dokumentacji technicznej**: Wykorzystanie formatu PDF do prezentacji technologicznych informacji, takich jak instrukcje użytkownika, przewodniki instrukcjami i specyfikacje produktów w sposób jasny i skrótki.
+
+*   **Rozwój materiałów edukacyjnych**: Przekształcenie plików TeX do formatu PDF tworzy interaktywną zawartość edukacyjną, taką jak prezentacje, kwestie i oceny dla szkoły.
+
+*   **Integracja z platformami cyfrowymi do publikacji**: Wykorzystanie formatu PDF do publikowania dokumentów na platformach cyfrowych, takich jak elektroniczne czasopisma, księgnicy online czy biblioteki cyfrowe, docierając do szerszego odbiorcy.
+
+*   **Dostępność i włączanie**: Przekształcenie plików TeX tworzy dostępne dokumenty wykorzystując cechy takie jak możliwość dostosowania wielkości czcionki, kontrastu kolorów oraz trybów wysiłku dla osób z niepełnosprawnością.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

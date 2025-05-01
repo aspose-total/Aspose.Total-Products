@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku MD w CSV programowo: przypadki użycia" %}}
+Przekształcenie plików MD na format CSV jest niezbędne, aby rozwinąć pełny potencjal swoich możliwości analizy danych. W następujących obszarach może być wykorzystane:
+
+**Użycia:**
+
+* **Analiza danych i wizualizacja**: Przekształcenie plików MD pozwala na analizę danych naukowych, takich jak wyrażenie genów, struktura białków oraz inne typy danych molekularnych.
+* **Przegląd literatury i podsumowanie badania**: Wykorzystanie formatu CSV do podsumowania artykułów badawczych, wyjęcia istotnej informacji oraz tworzenia baz danych bibliograficznych.
+* **Naukowa obliczeń i symulacje**: Przekształcenie plików MD do analizy wyników symulacji, wizualizacji trójwymiarowych modeli oraz optymalizacji przepływności obliczeń.
+* **Machine Learning i przewidywalne modele**: Wykorzystanie formatu CSV do przygotowania zbiorów danych dla modeł machine learning, przeprowadzenia operacji preprocessingu oraz dostosowania hiperparametrów.
+* **Łączenie danych i współpraca**: Przekształcenie plików MD do tworzenia udostępnianych zbiorów danych, ułatwienia współpracy między badaczami oraz umożliwienia powtórzenia danych w różnych projektach.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

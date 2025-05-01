@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w WMZ programowo: przypadki użycia" %}}
+Pliki TeX (Typeset Excerpt) są używane do zapisywania informacji dokumentu, czyniąc ich idealnym narzędziem dla tworzenia skomplikowanych dokumentów matematycznych oraz piszących technologicznych. Jednak przy pracy z danymi w formacie wektorowym, pliki WMZ (Web Map Tiles) stają się nieocenioną pomocniczym narzędziem dla dynamicznego wyświetlania i analizy.
+
+Przekonwertowanie plików TeX na format WMZ jest konieczne, aby rozwinąć pełną funkcjonalność swoich umiejętności w zakresie dynamicznego wyświetlania i analizy. Ta konwersja pozwala Ci:
+
+**Użycia przypadków:**
+
+*   **Interaktywne mapy**: Przekonwertować pliki TeX na format WMZ, aby tworzyć interaktywne mapy z wektorowymi grafikami, umożliwiając użytkownikom badanie i wyświetlanie danych przestrzennych.
+*   **Analiza geospatialna**: Wykorzystać format WMZ do analizy danych geospatialnych, takich jak koordynaty, wysokości oraz dane demograficzne, aby rozpoznawać wzory w danych.
+*   **Opowiadania oparte na danych**: Przekonwertować pliki TeX na format WMZ, aby tworzyć interaktywne historie z wektorowymi grafikami, umożliwiając użytkownikom badanie i wyświetlanie skomplikowanych zbiorów danych.
+*   **Projektowanie kartograficzne**: Wykorzystać format WMZ do tworzenia i rozwoju map z wektorowymi grafikami, w tym znaczkami, wielogranicami i symbolami.
+*   **Wizualizacja czasowa**: Przekonwertować pliki TeX na format WMZ, aby tworzyć czasowe wyświetlania danych geospatialnych, takie jak trendy ruchu lub przepowiedni pogody.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

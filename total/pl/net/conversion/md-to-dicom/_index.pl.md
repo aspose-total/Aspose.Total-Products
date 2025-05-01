@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku MD w DICOM programowo: przypadki użycia" %}}
+**Przypadek:** Pliki MD (Medical Document) są używane do zapisywania danych dotyczących zobrazienia medycznego, czyniąc ich idealnymi dla tworzenia szczegółowych rekordów informacji pacjenta. Jednak gdy pracujemy z działami radiologii i instytucjami medycznymi, pliki DICOM (Digital Imaging and Communications in Medicine) stają się niezbędni w celu wygodnej wzajętkowej wymiany i zapisywania obrazów.
+
+Przekonwertowanie plików MD na formaty DICOM jest konieczne, aby rozwinąć pełną możliwość Twoich umiejętności w dziedzinie zobrazienia medycznego. Ta konwersja pozwala Ci:
+
+**Użycia przypadków:**
+
+*   **Wymiana obrazów medycznych**: Przekonwertuj pliki MD na format DICOM do wzajętkowej wymiany obrazów między szpitalami, klinikami a radiologami, zapewnejąc dokładną diagnozę i leczenie.
+*   **Zarządzanie działem radiologii**: Wykorzystuj DICOM do zarządzania rekordami pacjentów, śledzenia zamówek obrazów i optymalizacji przepływa.
+*   **Zapisywanie i wyszukiwanie obrazów**: Przekonwertuj pliki MD na format DICOM do bezpiecznego zapisywania obrazów medycznych, czyniąc je dostępne dla przyszłego odwołania lub analizy.
+*   **Systemy wsparcia decyzji klinicznych**: Wykorzystuj DICOM do integracji obrazów medycznych ze systemami wsparcia decyzji klinicznych, umożliwiając pracownikom zdrowotnym podejmowanie wyraźnych decyzji.
+*   **Zgodność regulatorowa**: Przekonwertuj pliki MD na format DICOM do spełniania wymagań dotyczących zgodności regulatorowej, takie jak HIPAA, poprzez bezpieczne zapisywanie i wzajętkowe udostępnianie obrazów medycznych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

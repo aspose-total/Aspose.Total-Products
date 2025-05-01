@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XPS w DICOM programowo: przypadki użycia" %}}
+Pliki XPS (XML Paper Specification) są wykorzystywane do zapisywania informacji o rasterowych układach graficznych, co czyni je idealnymi dla tworzenia statycznych dokumentów i obrazów. Jednak gdy mamy do czynienia z danymi dotyczącymi medycznego zobraziania, pliki DICOM (Digital Imaging and Communications in Medicine) stają się niezbędne dla wizualizacji i analzyi obrazów.
+
+Przekształceniu plików XPS na formaty DICOM jest potrzebne, aby wykorzystać pełną możliwość swoich umiejętności wizualizacji i analizy danych medycznych. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+*   **Analiza obrazów radiologii**: Przekształć pliki XPS do formatu DICOM, aby analizować radiologiczne zdjęcia, takie jak röntgeny, rezony CT i MRI, na potrzeby diagnozy.
+*   **Przekazywanie danych medycznych urządzeń**: Wykorzystać DICOM do przekazywania danych medycznych urządzeń między dostawcami usług zdrowotnych a wytwórcami sprzętu medycznego.
+*   **Badania i rozwój**: Przekształć pliki XPS aby stworzyć cyfrowych modeli urządzeń medycznych, simulować zachowanie urządzenia oraz zweryfikować pomysły projektowe.
+*   **Procesowanie obrazów i poprawę jakości**: Wykorzystać DICOM do procesowania i poprawy jakości medycznych obrazów, usuwania hałasów oraz ulepszenia wyglądu.
+*   **Zapisanie danych i archiwizacja**: Przekształć pliki XPS aby zapisować dane medyczne i zapisać je bezpiecznie zgodnie z wymiarami przepisowymi.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

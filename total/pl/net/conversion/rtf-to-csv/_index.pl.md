@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku RTF w CSV programowo: przypadki użycia" %}}
+RTF (Rich Text Format) pliki są wykorzystywane do przechowywania informacji z formatowania, co czyni je idealnymi dla tworzenia dokumentów z precyzyjną kontrolą nad układem i formatowaniem. Jednak gdy mamy do czynienia z tabelarycznym danymi, CSV (Comma Separated Values) staje się nieoczekiwanym narzędziem dla operacji takich jak importowanie, eksportowanie oraz analiza danych.
+
+Przekształcenie plików RTF na format CSV jest konieczne aby wykorzystać pełną możliwość funkcji analizy danych. To przekształcenie pozwala na:
+
+**Użycia przypadków:**
+
+*   **Import i eksport danych**: Przekształć pliki RTF na format CSV aby importować dane do popularnych aplikacji takich jak Microsoft Excel lub Google Sheets.
+*   **Analiza i wizualizacja danych**: Skorzystać z formatu CSV aby przeprowadzić analizę tabelarycznych danych, rozpoznawać wzory i tworzyć raporty.
+*   **Automatyzacja przepły danych**: Przekształć pliki RTF na format CSV aby automatyzować przepły danych między różnymi aplikacjami np. z dokumentu do tabelary.
+*   **Naukowa badania i udostępnianie danych**: Skorzystać z formatu CSV aby udostępnić dane do współpracy i analizy wielkich zbiorów danych.
+*   **Business Intelligence i tworzenie raportów**: Przekształć pliki RTF na format CSV aby tworzyć interaktywne raporty, dashbordy oraz wizualizacje dla potrzeb interesariuszy biznesowych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

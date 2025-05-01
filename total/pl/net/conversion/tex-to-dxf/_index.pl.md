@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w DXF programowo: przypadki użycia" %}}
+Przekonwertowanie plików TeX na formaty DXF pozwala wykorzystać pełne możliwości Twoich umiejętności projektowania:
+
+**Użycia:**
+
+* **Modelowanie architektoniczne**: Tworzenie dokładnych projektów architektonicznych w układance 2D i 3D, umożliwiających dokładną projekcię i wizualizację.  
+* **Projektowanie inżynierskie**: Wykorzystaj formaty DXF do importowania i edytowania rysunków technicznych, zapewnejąc kompatybilność z oprogramą CAD.  
+* **Projektowanie samochodów**: Przekonwertuj pliki TeX na tworzenie szczegółowych projektów samochodowych, umożliwiających współpracę między projektownikami a inżynierami.  
+* **Produkcja produktów**: Wykorzystaj formaty DXF do generowania drukowalnych schematów produkcji produktów, zmniejszając błędy i poprawiając kontrolę jakości.  
+* **Mapowanie geoprzestrzenne**: Przekonwertuj pliki TeX na tworzenie wektorowych map, idealnych dla analizy GIS, wizualizacji danych i aplikacji mapowych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

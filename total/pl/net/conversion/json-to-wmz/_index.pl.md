@@ -106,7 +106,25 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku JSON w WMZ programowo: przypadki użycia" %}}
+Pliky JSON (JavaScript Object Notation) są lekkościstymi i ludzkopoznawczymi formatami wymiany danych idealnie nadającymi się do zapisywania informacji o konfiguracji, wymiany danych oraz żądań API. Jednak gdy pracujemy z funkcjami wizualizacji i analizy geoprzestrzennej,dane WMZ (Web Mercator Zoomable Vector Layers) stają się niezbędne.
+
+Przekształcenie plików JSON na format WMZ jest konieczne, aby rozwiązać pełną potęgę swoich funkcji wizualizacji i analizy geoprzestrzennej. To przekształcenie umożliwia:
+
+**Użytki:**
+
+* **Systemy Informacji Geograficznej (GIS)**: Przekształć pliki JSON na format WMZ, aby stworzyć interaktywną i dynamiczną mapę, analizować przemienne relacje przestrzenne oraz wykonywać geograficzne obliczenia.
+
+* **Wizualizacja kart i map**: Wykorzystać format WMZ do wizualizacji i prezentacji danych na mapie w sposób jasny i skondensowany, czyniąc go idealnym dla publikacji, raportów oraz prezentacji.
+
+* **Usługę Lokalizacji opartą na miejscu (LBS)**: Przekształć pliki JSON na format WMZ, aby stworzyć usługę bazującą na miejscu, która dostarcza użytkownikowi dokładnych i aktualnych informacji, poprawiając jego doświadczenie.
+
+* **Analiза i modelowanie geoprzestrzenne**: Wykorzystać format WMZ do analizy skomplikowanych danych geoprzestrzennych, przeprowadzenia symulacji oraz weryfikacji wyników modelowania, co jest ważne dla planowania miasta, reagowania na katastrofy oraz badań nad zmianami klimatem.
+
+* **Mobilna mapa i nawigacja**: Przekształć pliki JSON na format WMZ, aby stworzyć aplikację mobilną, która dostarcza użytkownikowi dokładnych informacji o miejscu, kierunków i pomocy w nawigacji.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

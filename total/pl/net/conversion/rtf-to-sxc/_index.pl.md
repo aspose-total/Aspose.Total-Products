@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku RTF w SXC programowo: przypadki użycia" %}}
+Przekształcenie plików RTF (Rich Text Format) na pliki SXC (OpenDocument Spreadsheet Template) jest niezbędne, aby wykorzystać pełne możliwości funkcji tabelarycznych. To przekształcenie umożliwia:
+
+**Użycia:**
+
+* **Analiza danych i wizualizacja**: Przekształć pliki RTF, aby analizować dane, tworzyć wykresy i widocznie prezentować trendy w bardziej interaktywnym i współpracyjnym środowisku.
+* ** Śledzenie kampanii marketingowych**: Wykorzystać pliki SXC do śledzenia wyników inwestycji w kampanie marketingowe, monitorowania zwrotu względnej wartości (ROI) oraz identyfikacji obszarów na poprawienie.
+* **Rozwoju produktów i projektowania**: Przekształć pliki RTF do tworzenia interaktywnych projektów produktowych, simulacji doświadczeń użytkowników oraz weryfikacji koncepcji projektu za pomocą narzędzi tabelarycznych.
+* **Badania naukowe i raportowanie**: Wykorzystać pliki SXC do wizualizacji skomplikowanych danych naukowych, tworzenia raportów oraz prezentowania wyników w sposób wyraźny i krótki.
+* **Świadome podejmowanie decyzji w biznesie**: Przekształć pliki RTF do tworzenia interaktywnych dashboardów, raportów i wykresów dla interesujących stron, co umożliwia lepsze podejmowanie decyzji oraz planowanie strategiczne.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

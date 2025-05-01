@@ -58,7 +58,19 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku MD w WORDML programowo: przypadki użycia" %}}
+Konwersja plików Markdown (MD) na format WordML pozwala wykorzystać całą funkcjonalność prezentacji i możliwości formatowania swojego dokumentu. W następujących obszarach może być szczególnie przydatna:
+
+**Użycia:**
+
+* **Pisownictwo techniczne i dokumentacja**: Przekształcenie plików MD na format WordML pozwala tworzyć techniczne dokumenty, instrukcje dla użytkowników oraz przewodniki, które będą spełniać wymiary wymagania Microsoft Office.  
+* **Kommunikacja w biznesie**: Wykorzystać format WordML do tworzenia raportów biznesowych, propozycji i prezentacji kompatybilnych z aplikacjami Microsoft Office.  
+* **Publikacja naukowa**: Przekształć pliki MD na format WordML dla potrzeb publikowania prac naukowych i artykułów w procesie recenzowania i druku.  
+* **Dokumenty marketingowe i sprzedażowe**: Stworzyć materiały reklamowe takie jak ulotki, plakaty i kartony sprzedażowe w formacie WordML dla pokazania informacji o produktach i promocji.  
+* **Rozwożenie zawartości e-learningu**: Wykorzystać format WordML do tworzenia treści edukacyjnych, materiałów kursowych oraz dokumentów szkoleniowych, które mogą być łatwo zaimportowane do aplikacji Microsoft Office.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

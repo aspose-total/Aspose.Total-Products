@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XML w XLT programowo: przypadki użycia" %}}
+Plik XML (Extensible Markup Language) jest wykorzystywany do przechowywania danych strukturyzowanych, czyniąc go idealnym dla tworzenia dynamicznych aplikacji webowych i integracji. Jednak przy pracy z wizualizacją danych oraz analizą, arkusze kalkulacyjne takie jak XLT stają się niezbędne do wykorzystania pełnego potencjalu Twoich przepisów.
+
+Przekształcenie plików XML na formaty XLT jest konieczne do wykorzystania pełnego potencjalu Twoich umiejętności wizualizacji i analizy danych. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+*   **Integracja i scalenie danych**: Przekształć pliki XML do formatów XLT, aby integrować i scalić dane z różnych źródłów, tworząc jedną ogólną widzę dla lepszych decyzji.
+*   **Zarządzanie konfiguracją**: Wykorzystać XLT do zarządzania i śledzenia danych konfiguracyjnych, takich jak ustawienia i opcje, w różnych systemach i aplikacjach.
+*   **Implementacja silnika zasad dla przepisów biznesowych**: Przekształć pliki XML do tworzenia silników zasad dla przepisów biznesowych, automatyzując skomplikowane logiki i procesy decyzji.
+*   **Annotacja i etykietowanie danych**: Wykorzystać XLT do annotowania i etykietowania danych, umożliwiając tworzenie wysokiej jakości zestawów szkoleniowych dla modeli uczenia maszynowego.
+*   **Automatyzacja i zarządzanie przepisami**: Przekształć pliki XML do automatyzacji przepisów i przepływania procesów biznesowych, zwiększając wydajność i zmniejszając błędy ruchowe.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

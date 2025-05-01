@@ -118,7 +118,17 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku OFT w DOCX programowo: przypadki użycia" %}}
+**Przypadek użycia:**
+
+*   **Analiza projektu wniosku**: Przekonwertowanie plików OFT do analizy danych dotyczących projektu wniosku, śledzenia postępu i identyfikacji potencjalnych problemów.  
+*   **Rozwój planu biznesowego**: Wykorzystanie pliku DocX do wizualizacji danych planu biznesowego, tworzenia szczegółowych przepowiedni finansowych oraz walidacji założeń strategicznych.  
+*   **Przegląd dokumentów politycznych**: Przekonwertowanie plików OFT do przeglądu danych dotyczących dokumentów politycznych, śledzenia zmian i analizy zgodności z przepisami.  
+*   **Prigotowanie deklaracji podatkowych**: Wykorzystanie pliku DocX do przygotowania deklaracji podatkowych, przejaśnienia danych finansowych oraz zapewnienia prawidłowości.  
+*   **Ewaluacja wniosku na granty**: Przekonwertowanie plików OFT do ewaluacji danych wniosku na granty, oceny przystępielności i identyfikacji obszarów do poprawki.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

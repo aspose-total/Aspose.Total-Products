@@ -58,7 +58,19 @@ document.Save("output.dot", SaveFormat.Dot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku CGM w DOT programowo: przypadki użycia" %}}
+Przekształcenie plików CGM na format DOT pozwala wykorzystać pełne możliwości wizualizacji i układu grafów. Ten przekształcenie umożliwia:
+
+**Użycia:**
+
+* **Wizualizacja grafu**: Przekształć pliki CGM na format DOT, aby tworzyć diagramy, schematy przepłyowe i mapy procesów, idealnie ilustrujące złożone relacje między danymi.
+* **Optymizacja układu**: Wykorzystać format DOT do optimalizacji układu węzłów i krawędzi w grafach, aby zapewnić najlepszą czytelność i wydajność.
+* **Przekształcenia procesów biznesowych**: Przekształcić pliki CGM na format DOT, aby stworzyć szczegółowe mapy procesów biznesowych, wskazujące na przepływy, zadania i punkty decyzji.
+* **Diagramy techniczne**: Wykorzystać format DOT do tworzenia diagramów technicznych, takich jak diagramy klas UML, diagramy przepły danych oraz modeli ER.
+* **Hierarchia i struktura grafu**: Przekształć pliki CGM na format DOT, aby ustalić wyraźną hierarchię i strukturę w grafach, ułatwiającą łatwe nawigowanie i rozumienie.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

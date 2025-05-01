@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w SXC programowo: przypadki użycia" %}}
+Pliki TeX są wykorzystywane do przechowania informacji w dokumentach, czyniąc je idealnymi dla tworzenia statycznych dokumentów i raportów. Jednak przy pracy z danymi dynamicznymi, takie jak arkuszka kalkulacyjna SXC, staje się niezbędne do wizualizacji danych i analizy.
+
+Przekształcenie plików TeX na format SXC jest konieczne, aby wykorzystać pełną możliwość Twoich umiejętności w zakresie wizualizacji danych i analizy. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+* **Analiza dokumentu**: Przekształć pliki TeX do analizy struktury dokumentu, śledzenia zmian i identyfikacji wzorców w treści.
+* **Generacja raportów**: Wykorzystać SXC do tworzenia raportów, wizualizacji danych i tworzenia interaktywnych wizualizacji dla interesariuszy, co poprawia proces podejmowania decyzji.
+* **Optymizacja formuły**: Przekształć pliki TeX do optimalizacji matematycznych wzorców równań i wyrażeni, czyniąc je bardziej wydajne i dokładne.
+* **Integracja danych**: Wykorzystać SXC do integracji plików TeX z innych źródłów danych, tworząc jedną przeglądniejąceą wiedzę o informacjach zawartych w różnych dokumentach i aplikacjach.
+* **Zarządzanie treścią**: Przekształć pliki TeX do zarządzania zawartością dokumentów, śledzenia aktualizacji i automatycznego przepływań, zapewnejąc bezpośrednią współpracę i kontrolę wersji.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

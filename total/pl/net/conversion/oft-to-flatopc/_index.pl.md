@@ -118,7 +118,26 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku OFT w FLATOPC programowo: przypadki użycia" %}}
+**Przypadek użycia:**
+
+*   **Rozwoju gier**: Przekonwertowanie plików OFT do wykorzystania możliwości rozwoju gier, tj.:
+    *   **Animacja postaci i modelowanie**: Wykorzystujmy pliki OFT do tworzenia trójwymiarowych modeli, animacji postaci oraz simulacji prawdziwie realistycznych ruchów.
+    *   **Projektowanie poziomów i prototypowanie**: Przekonwertujmy pliki OFT do tworzenia interaktywnych projektów poziomów, testowania prototypów oraz iteracji mechanik gier.
+    *   **Specjalne efekty i symulacje**: Wykorzystujmy pliki OFT do generowania prawdziwie realistycznych specjalnych efektów, symulacji oraz interakcji środowiskowych.
+
+*   **Architektura i budownictwo**: Przekonwertowanie plików OFT do poprawienia procesów projektowania architektonicznego, budownictwa oraz zarządzania projektem, co pozwoli na:
+    *   **Modelowanie informacji o budynkach (BIM)**: Wykorzystujmy pliki OFT do tworzenia dokładnych trójwymiarowych modeli budynków, mebli i urządzeń, co ułatwi kooperację i wymiana danych.
+    *   **Projektowanie miejsca i projektowanie krajobrazu**: Przekonwertujmy pliki OFT do wizualizacji planów miejsca, projektowania krajobrazu oraz optimalizacji układu budynków dla maksymalnej wydajności.
+    *   **Zarządzanie projektem i planowanie czasu**: Wykorzystujmy pliki OFT do zarządzania projektami budowlymi, śledzenia postępu oraz identyfikacji potencjalnych opóźnień lub przekształceń kosztowych.
+
+*   **Produkcja filmowa i telewizyjna**: Przekonwertowanie plików OFT do ułatwiania procesów wizualizacji specjalnych, animacji oraz postprodukcyjnego montażu, co pozwoli na:
+    *   **Wizualizacje specjalne i animacja ruchowa**: Wykorzystujmy pliki OFT do tworzenia skomplikowanych wizualizacji specjalnych, animacji oraz animacji ruchowej, która przyniesie historię do życia.
+    *   **Projektowanie postaci i animacja**: Przekonwertujmy pliki OFT do projektowania, animacji oraz simulacji postaci w bardziej wydajny i prawdziwie realistyczny sposób.
+    *   **Postprodukcyjna kolorowanie i dodatkowe efekty**: Wykorzystujmy pliki OFT do poprawienia kolorowania, dodania wizualizacji specjalnych oraz finalizacji postprodukcyjnego procesu filmowego.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

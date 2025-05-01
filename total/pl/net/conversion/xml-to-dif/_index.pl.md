@@ -106,7 +106,25 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XML w DIF programowo: przypadki użycia" %}}
+Pliki XML (Extensible Markup Language) są wykorzystywane do zapisywania danych strukturyzowanych, czyniąc je idealnym narzędziem dla tworzenia elastycznych i rozszerzalnych formatów danych. Jednak przy pracy z dynamikznymi danymi, plawe tekstowe stają się niezbędne do wizualizacji danych oraz analizy.
+
+Przekształcenie plików XML na formaty DIF (Data Interchange Format) pozwala wykorzystać pełną możliwość funkcji wizualizacji i analizy danych. To przekształcenie umożliwia:
+
+**Użytki:**
+
+* **Zarządzanie katalogiem produktów**: Przekształcenie plików XML do formatu DIF pozwala zarządzować katalogami produktów, śledzić poziom magazyny i optimalizować logistykę dostaw.
+
+* **Świat badawczy – udostępnianie danych**: Wykorzystanie formatu DIF do udostępniania danych badawczych, współpracy z kolegami oraz publikacji wyników w czasopismach naukowych.
+
+* **Automatyzacja procesów biznesowych**: Przekształcenie plików XML do formatu DIF umożliwia automatyzację procesów biznesowych, integrację systemów i ułożenie przepływania.
+
+* **Cyfrowe podpisy i autentykacja identyfikacji**: Wykorzystanie formatu DIF do tworzenia cyfrowych podpisy, autentykacji identyfikacji oraz weryfikacji integralności dokumentów.
+
+* **Magazyny danych i analiza**: Przekształcenie plików XML na format DIF pozwala tworzyć magazyny danych, wykonywać analizę i uzyskiwać informacje o performancie firmy.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

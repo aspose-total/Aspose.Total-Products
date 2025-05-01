@@ -115,7 +115,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XPS w RTF programowo: przypadki użycia" %}}
+Pliki XPS (XML Paper Specification) są wykorzystywane do przechowania informacji o rasterowych grafikach, czyniąc ich idealnymi do tworzenia dokumentów drukowych oraz magazynów cyfrowych. Jednak przy pracy z danymi tekstowymi, format RTF (Rich Text Format) staje się niezbędne dla edytowania i formowania dokumentów.
+
+Przekształcenie plików XPS na format RTF jest konieczne, aby wykorzystać pełne możliwości funkcji edytowania i formowania dokumentów. To przekształcenie pozwala na:
+
+**Użycia:**
+
+*   **Edytkowanie dokumentów**: Przekształć pliki XPS do formatu RTF, aby edytować dokumenty, dodawać nagłówki, stopki oraz wodoletki.
+*   **Projekowanie ulotnych materiałów i broszur**: Wykorzystać RTF do tworzenia ulotnych materiałów z wymiennymi układami i możliwością dostosowania stylu pisma i formatowania.
+*   **Tworzenie drukowych materiałów**: Przekształć pliki XPS do formatu RTF, aby stworzyć drukowe materiały takie jak ulotne, posteri i katalogi.
+*   **Automatyzacja zadań opartych na tekście**: Wykorzystać RTF do automatycznego dodawania danych oraz aktualizacji formatowania w dokumentach tekstowych.
+*   **Przekształcenie między PDF a RTF**: Przekształcić pliki XPS do PDF z możliwością edytowania treści, co ułatwia współpracę i zarządzanie wersjami.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

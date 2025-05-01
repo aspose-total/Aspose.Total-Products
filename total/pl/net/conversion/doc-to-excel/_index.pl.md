@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku DOC w EXCEL programowo: przypadki użycia" %}}
+Przekształcanie plików DOC na formaty Excel jest kluczowe dla wykorzystania możliwości tworzenia wizualizacji danych.
+
+**Użycia:**
+
+* Analiza danych oraz wyodrębnianie wniosków  
+* Raportowanie oraz tworzenie dashboardów  
+* Świadomość biznesowa oraz wizualizacja danych  
+* Optymizacja strategii marketingowych  
+* Badania naukowe oraz publikacja  
+
+Przekształcanie plików DOC na formaty Excel pozwala wykorzystać pełne możliwości tworzenia wizualizacji i analizy danych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

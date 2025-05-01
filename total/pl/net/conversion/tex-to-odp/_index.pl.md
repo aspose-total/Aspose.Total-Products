@@ -115,7 +115,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w ODP programowo: przypadki użycia" %}}
+Pliki TeX są wykorzystywane do zapisywania informacji opartych na tekście, co czyni je idealnymi dla tworzenia prac akademickich, dokumentów badawczych oraz pisownictwa technologicznego. Jednak przy pracy z multimediowymi danymi pliki prezentacji OpenDocument (OPD) stają się niezbędni dla wizualizacji i analzy presentations. Konwersja plików TeX na formaty OPD jest konieczna, aby wykorzystać pełną funkcjonalność możliwości wizualizacji i analizy.
+
+**Użycia:**
+
+* **Akademiczne prezentacje**: Tworzenie atrakcyjnych akademickich presentations z uwagi na slajdy, animacje oraz multimediowe treści.  
+* **Biznesowe propozycje i raporty**: Wykorzystanie OPD do wizualizacji danych biznesowych, optymalizacji strategii oraz pomiaru ROI w interaktywnych presentations.  
+* **Techniczna pisownictwo i dokumentacja**: Konwersja plików TeX na interaktywne techniczne dokumenty z uwagi na ilustracje, diagramy oraz screenshoty.  
+* **Konferencje i wydarzenia**: Tworzenie profesjonalnych prezentacji konferencyjnych z uwagi na multimediowe treści, animacje oraz interaktywne elementy.  
+* **Szkolenia i materiały edukacyjne**: Konwersja plików TeX na atrakcyjne materiały szkoleniowe z uwagi na interaktywne slajdyshowy, quizy oraz oceny.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

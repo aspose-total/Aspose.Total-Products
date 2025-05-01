@@ -106,7 +106,25 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XSLFO w SXC programowo: przypadki użycia" %}}
+Pliki XSLFO (Extensible Stylesheet Language Formatting Objects) są używane do opisania układu i formatowania dokumentów, czyniąc je idealnym narzędziem do tworzenia i manipulacji tekstem formatowanym. Jednak gdy pracujemy z dynamicznymi danymi, takie jak kalkulatory arkutowe np. LibreOffice Calc stają się niezbędne do analizy danych i wizualizacji.
+
+Przekształcenie plików XSLFO na format sxc jest koniecznym krokiem, aby wykorzystać pełną funkcjonalność Twoich możliwości edycji i współpracy z dokumentami. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+* **Dostosowanie układu dokumentu**: Przekształć pliki XSLFO na format sxc, aby dostosować układ, typografię i grafikę dokumentów, tworząc unikalną identyfikację wizualną dla przedsiębiorstw lub organizacji.
+
+* **Współpraca w edycji dokumentu**: Wykorzystać format sxc do udostępniania i redakcji dokumentów w czasie rzeczywistym, aby wszyscy byli na jednym boku i zmniejszyć konflikty wersji.
+
+* **Automatyczna formowanie dokumentów**: Przekształć pliki XSLFO na format sxc, aby automatyzować zadania formowania dokumentów, takie jak stosowanie stylów i układów do wielu dokumentów lub raportów.
+
+* **Tworzenie zawartości opartych na danych**: Wykorzystać format sxc do integracji danych zewnętrznych z dokumentami, tworząc dynamiczną zawartość, która może być aktualizowana w czasie rzeczywistym.
+
+* **Dostępność i projektowanie inkluzyjne**: Przekształć pliki XSLFO na format sxc, aby poprawić dostępność dokumentów poprzez przekształcenie alternatywnego tekstu dla zdjęć i innych elementów multimedialnych na formaty takie jak sxc.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

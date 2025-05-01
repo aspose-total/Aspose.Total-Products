@@ -106,7 +106,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku MD w TSV programowo: przypadki użycia" %}}
+**Przewodnik Konwersji:**
+
+Konwersja plików Markdown (`.md`) na format Tab Separated Values (`.tsv`) jest niezbędna, aby wykorzystać pełne możliwości analizy danych i wizualizacji. Ta konwersja pozwala na:
+
+**Użycia:**
+
+*   **Import i Eksport Danych**: Konwersja plików .md na format .tsv umożliwia bezpośredni import do innych narzędzi i programów, które obsługują format TSV.  
+*   **Naukowa Obliczenia i Badania**: Używanie formatu .tsv do importu i eksportu danych z frameworków naukowych pozwala na szybsze i bardziej wydajne analizy.  
+*   **Analiza Tekstu i Obszarów**: Konwersja plików .md na format .tsv jest potrzebna dla analizy tekstu i obszarów, takie jak analiza sentimentu i modelowanie tematów.  
+*   **Wizualizacja Danych i Raportowanie**: Format .tsv może być użyty do tworzenia interaktywnych dashboardów i raportów, dzieląc dane na tablicach, co umożliwia dostarczenie wyważonych i sprawdzonych informacji interesantom.  
+*   **Machine Learning i AI**: Konwersja plików .md na format .tsv jest potrzebna dla szkolenia modeli machine learning oraz testowania, co przyspiesza i ułatwia rozwój.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

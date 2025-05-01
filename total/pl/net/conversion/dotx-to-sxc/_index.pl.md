@@ -106,7 +106,17 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku DOTX w SXC programowo: przypadki użycia" %}}
+**Przypadek Użycia:**
+
+*   **Projektowanie i rozwój produktu**: Przekształcanie plików SXC do analizy danych projektu, simulacji doświadczeń użytkowników oraz weryfikacji koncepcji projektowych.
+*   **Wizualizacja naukowa**: Wykorzystanie plików SXC do wizualizacji skomplikowanych danych naukowych, takich jak modele tridimensionsalne, wyniki symulacji oraz dane doświadczalne.
+*   **Generowanie raportów i dashboardów interaktywnych**: Przekształcanie plików SXC do tworzenia interaktywnych dashboardów, raportów i wizualizacji dla interesariuszy, co umożliwia lepsze podejmowanie decyzji.
+*   **Optymizacja kampanii marketingowej**: Wykorzystanie plików SXC do wizualizacji danych kampanii marketingowych, optymizacji strategii oraz pomiaru zwrotu na investycję (ROI).
+*   **Analiza zachowania klienta**: Przekształcanie plików SXC do analizy zachowania klienta, śledzenia tendencji sprzedażnych oraz identyfikacji wzorców w danych.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

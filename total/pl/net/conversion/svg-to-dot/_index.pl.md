@@ -115,7 +115,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku SVG w DOT programowo: przypadki użycia" %}}
+Pliki SVG (Scalable Vector Graphics) są używane do zapisywania informacji o układzie wektorowym, czyniąc ich idealnymi dla tworzenia statycznych grafik i ilustracji. Jednak gdy pracujemy z dynamicznymi danymi, programy takie jak Adobe Illustrator stają się niezbędne dla wizualizacji i analizy danych.
+
+Przekształcenie plików SVG na format DOT jest konieczne, aby wykorzystać pełną potęgę możliwości układu topologycznego i layoutu. To przekształcenie pozwala Ci:
+
+**Użycia przypadków:**
+
+*   **Wizualizacja układu topologycznego sieci**: Przekształć pliki SVG, aby widzieć układ topologii sieci, pokazując połączenia między węzлами i układ przestrzeni.
+*   **Analiza układu dla projektowania sieci**: Wykorzystać format DOT do analizy i optimizacji układów sieci, identyfikując wygodne ścieżki przepły i zmniejszając zagmatkowanie.
+*   **Modelowanie danych opartych na grafach**: Przekształć pliki SVG, aby modelować skomplikowane relacje między danymi w formie grafów, ułatwiając identyfikację wzorców i klastrowania.
+*   **Wykrycie wspólnot w sieciach społecznych**: Wykorzystać format DOT do wizualizacji struktur wspólnot w sieciach społecznych, odkrywając ukryte wzorce i połączenia.
+*   **Grupowanie hierarchiczne i analiza sieci**: Przekształć pliki SVG do przeprowadzenia hierarchicznego grupowania węzłów sieci, ujawniając grupy o podobnych właściwościach.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

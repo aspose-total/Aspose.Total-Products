@@ -140,7 +140,21 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XSLFO w XAML programowo: przypadki użycia" %}}
+**Pliki XSLFO (Extensible Stylesheet Language Formatting Objects) są używane do przechowywania informacji o formacie tekstu, co czyni je idealnymi dla tworzenia dokumentów z zaawansowanymi układami i stylizacjami. Jednak przy pracy z bardziej dynamicznymi i interaktywnymi użytkownikami界面 XAML (Extensible Application Markup Language) staje się niezbędne do budowania wydajnych i przyciągających aplikacji.
+
+Przekształcenie plików XSLFO na formaty XAML pozwala wykorzystać pełną potęgę układu wzornego oraz możliwości interaktywności Twoich aplikacji. To przekształcenie umożliwia:
+
+**Użycia**:  
+
+* **Publikacja e-booków**: Przekształć pliki XSLFO do tworzenia interaktywnych e-booków z dynamicznymi układami, animacjami i multimedią.  
+* **Rozwożenie aplikacji mobilnych**: Wykorzystać XAML do budowy интерfejsu użytkownika dla aplikacji mobilnych, wykorzystując możliwości specjalistycznych urządzeń.  
+* **Rozwożenie aplikacji desktopowych**: Przekształć pliki XSLFO do tworzenia wyjątkowo wyglądnego desktopowych aplikacji, korzystając z mocnego narzędzia stylowania i układu w XAML.  
+* **Rozwożenie aplikacji webowych**: Wykorzystać XAML do budowy przepięknych i interaktywnych интерfejsów dla stron internetowych, wykorzystując siłę XAML w zakresie dynamycznego wzornictwa.  
+* **Tworzenie doświadczeń AR/VR**: Przekształć pliki XSLFO do tworzenia immersivezych doświadczeń AR/VR, wykorzystując możliwości modelowania w 3D i animacji w XAML.**
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

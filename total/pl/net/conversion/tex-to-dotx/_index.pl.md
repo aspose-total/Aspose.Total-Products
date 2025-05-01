@@ -115,7 +115,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w DOTX programowo: przypadki użycia" %}}
+Przekształcanie plików TeX w formę .dotx umożliwia wykorzystać całą możliwość edytowania dokumentów. To conversion pozwala:
+
+**Użytki:**
+
+*   **Współpraca i Udostępnianie**: Przekształcanie plików TeX w formę .dotx umożliwia udostępnianie dokumentów innym osobom, współpracę na projekcie oraz zapewnienie się o bezpośredniej komunikacji.
+*   **Edytowanie i Formatowanie Dokumentów**: Wykorzystanie formatów .dotx do edytowania i formatowania dokumentów, zastosowanie własnych szablonów oraz dostosowanie układu dokumentu.
+*   **Dostępność i Włączanie**: Przekształcanie plików TeX w formę .dotx umożliwia tworzenie dostępnych dokumentów, zapewnienie się o zgodności z różnymi urządzeniami i aplikacjami, zwłaszcza dla osób ze słabym wzrokiem.
+*   **Analiza Danych i Wyobrażenia**: Wykorzystanie formatów .dotx do wstawiania danych w dokumentach oraz tworzenia interaktywnych wyobrażeń, które pomagają w analizie skomplikowanych informacji.
+*   **Integracja z Narzędziami Biurowymi**: Przekształcanie plików TeX w formę .dotx umożliwia integrację z narzędziami Microsoft Office, takimi jak Word, Excel i PowerPoint, co poprawia możliwości tworzenia i edytowania dokumentów.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

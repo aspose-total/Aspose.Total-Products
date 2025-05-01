@@ -106,7 +106,19 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku TEX w MD programowo: przypadki użycia" %}}
+Ta konwersja pozwala ci na:
+
+**Użycia przypadków:**
+
+*   **Generacja dokumentacji**: Przekształcenie plików TeX w format Markdown tworzy czytelne i profesjonalnie sformatowane dokumenty dla potrzeb pisania technicznych, poradników i przewodników.  
+*   **Tworzenie prezentacji**: Wykorzystanie formatu Markdown do tworzenia atrakcyjnych prezentacji, slajdów i wykresów na potrzeby akademickie, zawodowe lub osobiste.  
+*   **Współpraca i zarządzanie wersjami**: Przekształcenie plików TeX w format Markdown ułatwia współpracę z drużbowymi kolegami, śledzenie zmian oraz zarządzanie różnymi wersjami dokumentów.  
+*   **Dostępność i kompatybilność**: Używanie formatu Markdown do tworzenia dokumentów dostępnych na różnych urządzeniach, platformach i przeglądarkach, co zmniejsza potrzebę rozwiązania problemów z kompatybilnością.  
+*   **Blogging i marketing zawodowy**: Przekształcenie plików TeX w format Markdown umożliwia łatwe utrzymanie blogu, publikację artykułów oraz promocję treści na większą audytorię.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

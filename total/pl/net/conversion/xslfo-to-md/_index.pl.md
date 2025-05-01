@@ -106,7 +106,25 @@ Do tworzenia aplikacji w językach C#, F#, VB.NET zalecamy używanie programów 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Przekształcanie pliku XSLFO w MD programowo: przypadki użycia" %}}
+Pliki XSLFO (Extensible Styling Language Formatting Objects) są używane do definiowania układu i prezentacji dokumentów, czyniąc ich idealnymi dla tworzenia strukturyzowanych dokumentów i publikacji. Jednak przy pracy z dynamickim zawartościem Markdown (MD) staje się nieoczekiwanym narzędziem do formatowania i organizacji tekstu.
+
+Przekształcenie plików XSLFO na formaty Markdown jest konieczne, aby wykorzystać pełną potęgę struktury i możliwości układu Twoich dokumentów. To przekształcenie umożliwia:
+
+**Użycia:**
+
+*   **Publikacja książek**: Przekształcenie plików XSLFO do tworzenia interaktywnych e-booków, artykułów i publikacji z możliwością dostosowania układu i formatowania.
+
+*   **Tworzenie szablonów dokumentów**: Wykorzystanie Markdown do generowania spójnych, profesjonalnie wyglądających dokumentów ze strukturyzowanym zawartościem i stylizacją.
+
+*   **Tworzenie zawartości webowej**: Przekształcenie plików XSLFO do tworzenia dynamicznych stron internetowych z formatowaniem tekstu, zdjęciami i multimedią.
+
+*   **Pisanie technicznych dokumentacji**: Wykorzystanie Markdown do autoryzacji i formatowania technologicznego dokumentu, takiego jak użytkowe instrukcje lub przewodniki.
+
+*   **Publikacja cyfrowa**: Przekształcenie plików XSLFO do tworzenia interaktywnych cyfrowych gazet, magazynów i publikacji z możliwością dostosowania układu i formatowania.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
