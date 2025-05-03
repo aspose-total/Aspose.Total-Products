@@ -58,7 +58,11 @@ document.Save("output.wordml", SaveFormat.WordML);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="EMAIL Dosyasını Programatik Olarak WORDML'e Dönüştürme: Kullanım Örnekleri" %}}
+E-posta dosyası, metin bazlı iletişim bilgilerini depolar. Onların gönderilmesine ideal bir şekilde uygun.Ancak, sunum verileri ile çalışan durumlarda WordML (Word Markup Dili) dosyaları esaslamağa gelir. Mükemel görünümli belgeler ve sunumlar oluşturmak için temel bir gereksinim. E-posta dosyalarının WordML formatına çevirmesi, belgenizi tamamlamağa yardımcı olur. E-posta dosyalarını formel iş raporları, öneriler ve toplantı daktilozi oluşturmak için çevirirsiniz. Sunum tasarımı için WordML kullanılır. E-posta dosyalarını tekrar kullanabilir şablonlar oluşturmak için çevirirsiniz. Araştırma sonuçlarını paylaşmak için WordML kullanılır. Pazarlama malzemepleri oluşturmak için WordML kullanılır. E-postanızı WordML formatına çevirmeniz, yeni olanakları açar. Belge oluşturma, sunum tasarımı ve iş birliği için WordML kullanılır.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 

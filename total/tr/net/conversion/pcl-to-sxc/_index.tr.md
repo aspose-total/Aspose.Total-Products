@@ -106,7 +106,21 @@ C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, Xamarin 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="PCL Dosyasını Programatik Olarak SXC'e Dönüştürme: Kullanım Örnekleri" %}}
+PLC (Makines�arjı Kontrolörü) dosyası, endüstriyel kontrol bilgileri kaydetmek için kullanılır ve bu nedenle otomatikasyon çözümleri oluşturmak ve süreç optimizasyonu sağlamak için ideal bir araçtır. Ancak, endüstri dışı verileri işlerken tablo yazılımı gibi araçlar，如 SXC，data vizualizasyonu ve analiz için zorunlu hale gelir.
+
+PLC dosyasının SXC formatına çevirmek gerekiyor ki data vizualizasyon ve analiz yeteneklerinizi tam olarak kullanabilesiniz. Bu çeviri，yorumcularda：
+
+**Kullanım Durumları:**
+
+* **Tedarik Zinciri Optimizasyonu**: Üretim takvimi analizi，ham madde seviyelerinin izlenmesi ve tedarik zinciri中的 çatlak noktalarının belirlenmesi için PLC dosyasını SXC formatına çevirebilirsiniz.
+* **İmalat Süreci İmprovisasyonu**: İmalat verileri vizualize ederek üretim akışlarını optimize edebilir ve makine verimliliyini ölçebilirsiniz.
+* **Enerji Yönetimi**: PLC dosyasını SXC formatına çevirerek enerji kullanımlarını modellemek，bina performansını simüle etmek ve enerji tasarruf stratejilerini doğrulamak için kullanılabilirsiniz.
+* **Kalite Kontrolü ve Güvenilirlik**: Kalite kontrol verileri analizi yaparak缺陷ları izleyebilir ve imalat sürecinde iyileşmeler elde edebilirsiniz.
+* **Data Raporlama ve Dashböard Oluşturma**: PLC dosyasını SXC formatına çevirerek etkileşimli dashböardlar，raporlar ve vizualizasyonlar oluşturabilir ve karar verme yeteneklerini güçlendirebilirsiniz.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
