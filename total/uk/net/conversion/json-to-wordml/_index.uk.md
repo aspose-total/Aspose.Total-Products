@@ -96,7 +96,37 @@ otherformats: PS OTT FLATOPC DOCM EPUB RTF DOTX ODT PCL CHM DOC WORD DOT MOBI
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Програмне перетворення файлу JSON у WORDML: варіанти використання" %}}
+```json
+{
+  "description": "Файлы в формате JSON (JavaScript Object Notation) используются для存储 данных в轻量ном, текстовом формате, что делает их идеальным для обмена данными между веб-серверами и приложениями. Однако при работе с структурированными документными форматами формат WordML (Word Markup Language) становится необходимым для создания профессионально выглядящих документов.",
+  "use_cases": [
+    {
+      "title": "Создание документа",
+      "description": "Преобразование файлов JSON в формат WordML позволяет создавать профессионально оформленные документы, такие как резюме, письма и отчеты, которые можно легко передавать или печатать."
+    },
+    {
+      "title": "Создание содержимого на основе данных",
+      "description": "Использование WordML для создания динамического содержимого, таких как статьи новостей, описания продуктов и посты в соцсетях, основываясь на структурированных данных из файлов JSON."
+    },
+    {
+      "title": "Управление информацией о продуктах",
+      "description": "Преобразование файлов JSON для управления информацией о продуктах, такими как цены, уровни запасов и описания продуктов, в структурированном и легко доступном формате."
+    },
+    {
+      "title": "Научно-техническая работа",
+      "description": "Создание технических документов, таких как исследования, тезисы и диссертации, с использованием WordML для обеспечения высокого уровня контроля форматирования и точности."
+    },
+    {
+      "title": "Сборка документа",
+      "description": "Преобразование файлов JSON для сборки документов из шаблонов, что упрощает создание последовательных и профессионально оформленных документов с минимальным вмешательством человека."
+    }
+  ]
+}
+```
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

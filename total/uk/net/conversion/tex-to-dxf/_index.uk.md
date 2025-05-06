@@ -99,7 +99,19 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ APNG  EMZ PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Програмне перетворення файлу TEX у DXF: варіанти використання" %}}
+Переведение файлов TeX в форматы DXF позволяет раскрыть полную потенциалитет ваших возможностей в проектировании.
+
+**Использование:**
+
+* **Архитектурное моделирование:** Создание точных 2Д и 3Д архитектурных проектов для точного чертежа и визуализации.  
+* **Инженерное проектирование:** Импорт и редактирование инженерских чертежей с использованием программного обеспечения CAD.  
+* **Автомобильное проектирование:** Создание детализированных автомобильных проектов для сотрудничества между проектировщиками и инженерами.  
+* **Производственная обработка:** Создание печатаемых чертежей для производства с уменьшением ошибок.  
+* **Геоспациональная картография:** Создание векторных карт для анализа данных GIS и визуализации информации.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
