@@ -106,7 +106,30 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi tệp ODT sang XLAM theo chương trình: Các trường hợp sử dụng" %}}
+To convert an ODT file to an XLM format, follow these organized steps:
+
+1. **Export Data**: 
+   - Open the ODT file in a text editor or software that supports ODT files.
+   - Export the data into a comma-separated values (CSV) or tab-delimited text (TXT) format for Excel compatibility.
+
+2. **Import into Excel**:
+   - Open Microsoft Excel and create a new blank workbook.
+   - Import the exported CSV/TXT file into Excel by selecting "File > Open" and choosing the exported file.
+
+3. **Create Macros (if needed)**:
+   - If macros are required to automate tasks, record or write them in Excel using the macro recorder or VBA scripting.
+   - Ensure macros are correctly linked to the imported data for functionality.
+
+4. **Save as XLM**:
+   - After setting up the data and macros, save the Excel file by selecting "File > Save As".
+   - In the Save dialog, choose "Excel Macro-Enabled Workbook (*.xlm)" from the "Save as type" dropdown.
+   - Provide a name for the new file and click "Save".
+
+This method ensures that data and formatting are accurately transferred, preserving key information such as tables, charts, and macros.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

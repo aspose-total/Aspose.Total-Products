@@ -106,7 +106,40 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-section  h2="Chuyển đổi tệp DOC sang CSV theo chương trình: Các trường hợp sử dụng" %}}
+Để chuyển file Microsoft Word (.doc) thành các tệp CSV (Comma-Separated Values), bạn có thể thực hiện các bước sau:
+
+1. **Mở file .doc**: Bạn cần mở file Word để xem nội dung.
+
+2. **Chuyển sang dạng text**: Trước khi chuyển, bạn nên sao chép hoặc lưu lại nội dung của file Word dưới dạng text để tránh mất thông tin quan trọng.
+
+3. **Sử dụng công cụ chuyển đổi**:
+   - **Công cụ trực tuyến**: Bạn có thể tải lên file .doc vào một trang web chuyển đổi và下载 resulting CSV file.
+   - **Mã nguồn Python**: Nếu bạn熟悉 Python, bạn có thể sử dụng thư viện `csv` để đọc file Word và viết ra file CSV. Dưới đây là một đoạn mã mẫu:
+     ```python
+     import csv
+
+     def convert_doc_to_csv():
+         # Tải file Word
+         word_file = "your_word_document.doc"
+         text = open(word_file, encoding='utf-8').read()
+
+         # Tạo tệp CSV
+         with open('output.csv', 'w') as csvfile:
+             writer = csv.writer(csvfile)
+             writer.writerow(text.splitlines())
+     convert_doc_to_csv()
+     ```
+   - **Trang spreadsheet**: Bạn có thể sao chép nội dung từ file Word vào một ứng dụng như Excel hoặc Google Sheets, sau đó lưu lại dưới dạng CSV.
+
+4. **Chú ý các thành phần đặc biệt**: Nếu file Word có các bảng hoặc dữ liệu phức tạp, bạn cần kiểm tra xem chuyển đổi có giữ nguyên được cấu trúc dữ liệu không.
+
+5. **Kết quả**: Bạn sẽ có một tệp CSV chứa nội dung của file Word, sẵn sàng để sử dụng trong các ứng dụng phân tích dữ liệu như Excel, Google Sheets hoặc các công cụ khác.
+
+Lưu ý: Phương pháp nào cũng có thể gặp phải những hạn chế nhất định, do đó bạn cần thử và xem xét kỹ lưỡng trước khi áp dụng.
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
