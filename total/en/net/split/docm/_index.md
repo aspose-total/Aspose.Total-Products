@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .docm File — Use Cases for Document Splitting
+
+- Separate macro-enabled documents to isolate complex automation from editable content.  
+- Facilitate secure sharing by splitting macro sections from the main document.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOCM File Splitter Application using .NET</h2>
 

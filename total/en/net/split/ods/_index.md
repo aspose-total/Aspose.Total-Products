@@ -41,6 +41,12 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .ods (OpenDocument Spreadsheet) — Use Cases for Splitting 
+- Separate large ODS files for open-source spreadsheet applications like LibreOffice.  
+- Assign distinct parts of a dataset to individual contributors for streamlined teamwork. 
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODS File Splitter Application using .NET</h2>

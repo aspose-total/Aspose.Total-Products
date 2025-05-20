@@ -42,6 +42,12 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Microsoft PowerPoint Presentation .pptx Format — Use Cases for Splitting  
+- Split modern PowerPoint presentations into smaller slide decks for modular use.  
+- Enable collaboration by assigning slide groups to different editors.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PPTX File Splitter Application using .NET</h2>
 

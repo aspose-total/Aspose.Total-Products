@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .rtf (Rich Text Format) File — Use Cases for Document Splitting
+
+- Break RTF files into smaller parts for compatibility with various text editors.  
+- Share partial content without converting to proprietary formats.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop RTF File Splitter Application using .NET</h2>
 

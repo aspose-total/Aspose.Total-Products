@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .doc File — Use Cases for Document Splitting
+
+- Manage older Word documents by splitting large files into smaller, easier-to-edit parts.  
+- Collaborate on legacy files by distributing sections to team members.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOC File Splitter Application using .NET</h2>
 

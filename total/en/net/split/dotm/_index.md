@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .dotm File — Use Cases for Document Splitting
+
+- Manage macro-enabled templates by isolating specific sections for automation control.  
+- Distribute parts of macro templates to relevant departments for targeted use.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOTM File Splitter Application using .NET</h2>
 

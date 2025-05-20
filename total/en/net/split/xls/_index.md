@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+####  Microsoft Excel Spreadsheet .xls Formats — Use Cases for Splitting
+
+- Split legacy Excel spreadsheets to improve performance and simplify editing.  
+- Share portions of financial or data models with different team members. 
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLS File Splitter Application using .NET</h2>

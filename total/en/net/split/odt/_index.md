@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .odt (OpenDocument Text) File — Use Cases for Document Splitting
+
+- Divide OpenDocument text files for compatibility and easier editing in open-source suites.  
+- Facilitate collaboration by distributing specific sections to multiple contributors.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop ODT File Splitter Application using .NET</h2>
 

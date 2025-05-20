@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .docx File — Use Cases for Document Splitting
+ 
+- Split modern Word documents for improved navigation and modular editing.  
+- Generate personalized documents from a master .docx file by extracting sections.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOCX File Splitter Application using .NET</h2>
 

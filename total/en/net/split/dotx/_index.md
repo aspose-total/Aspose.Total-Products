@@ -41,6 +41,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### .dotx File — Use Cases for Document Splitting
+
+- Split modern Word templates for easier modification and section-based collaboration.  
+- Create smaller template files to streamline document creation processes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOTX File Splitter Application using .NET</h2>
 
