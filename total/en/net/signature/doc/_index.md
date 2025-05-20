@@ -40,6 +40,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing DOC Files with Digital or Electronic Signatures
+
+Microsoft Word DOC files are still widely used in legacy systems and law firms. Applying a digital signature to a DOC file authenticates its source and ensures the content hasn’t been tampered with.
+
+
+- Legal contracts and agreements shared in DOC format.
+- HR forms and internal company memos.
+- Government documentation drafted in older Microsoft Office versions.
+- Formal correspondence in businesses that retain legacy software.
+- Confidential proposals requiring digital verification.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop E-Signature Application using .NET</h2>
 

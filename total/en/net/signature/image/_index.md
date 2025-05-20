@@ -39,6 +39,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing Image Files with Electronic Signatures
+
+## Scanned Legal Documents
+Scans of handwritten agreements or notarized documents in JPG, PNG, or TIFF format can be digitally signed to validate authenticity.
+
+## ID Verification and Personal Records
+Images of passports, ID cards, and utility bills used for KYC or onboarding can be electronically signed to ensure they haven’t been altered.
+
+## Medical Imaging
+Scans such as X-rays or test results in TIFF or PNG can be digitally signed to confirm their origin from a certified medical facility.
+
+## Artwork and Creative Submissions
+Designs, illustrations, or marketing graphics in image formats can be signed to assert intellectual property rights.
+
+## Inspection and Compliance Photos
+Photos taken during audits, inspections, or compliance checks are often signed digitally to certify location, time, and authenticity of evidence.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

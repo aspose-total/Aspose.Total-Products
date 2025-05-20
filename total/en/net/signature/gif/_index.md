@@ -39,6 +39,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing GIF Files with Digital or Electronic Signatures
+
+While not typical for documents, GIFs with diagrams or instructions can be signed electronically to certify origin and credibility.
+
+
+- Animated step-by-step processes in training.
+- Instructional materials for customer support.
+- Medical imaging clips in telehealth.
+- Product demonstrations in onboarding.
+- Educational micro-animations requiring validation.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

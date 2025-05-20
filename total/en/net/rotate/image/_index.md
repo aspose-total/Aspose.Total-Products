@@ -43,6 +43,21 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for Image Rotation
+
+- Correct the orientation of images captured in landscape or portrait mode.
+- Adjust scanned documents or photos that appear sideways or upside down.
+- Align visuals properly for consistent display in galleries, presentations, or reports.
+- Rotate design assets such as icons, UI components, or diagrams to fit layout needs.
+- Prepare images for printing or publishing with the correct orientation.
+- Standardize image orientation when importing from different sources or devices.
+- Enhance readability of content in eBooks, documentation, or web pages.
+- Rotate product or catalog images to match the required aspect ratio.
+- Improve user experience by automatically fixing image orientation based on metadata.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop Image Rotation Application via .NET</h2>
 

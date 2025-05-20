@@ -39,6 +39,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing JPEG and JPG Files with Digital or Electronic Signatures
+
+JPEG/JPG images are used for scanned documents, photos, and ID proofs. Signing them digitally ensures security and proof of origin.
+
+
+- Scanned contracts and signed documents.
+- Identity documents in KYC processes.
+- Visual reports with embedded observations.
+- Medical imaging shared for remote consultations.
+- Land ownership records in visual format.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

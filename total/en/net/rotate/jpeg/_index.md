@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for JPEG Rotation
+
+- Rotate incorrectly captured mobile photos (e.g., sideways selfies).
+- Align product photos for eCommerce listings.
+- Fix orientation of scanned JPEG receipts or documents.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop JPEG Rotation Application via .NET</h2>
 

@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for BMP Rotation
+
+- Rotate scanned engineering blueprints or architectural plans stored in BMP format.
+- Adjust orientation of legacy Windows-generated images for proper viewing.
+- Prepare BMP images for insertion into documentation or reports.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop BMP Rotation Application via .NET</h2>
 

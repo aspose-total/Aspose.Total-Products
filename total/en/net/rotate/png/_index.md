@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for PNG Rotation
+
+- Adjust orientation of UI/UX design elements (e.g., buttons, icons).
+- Reorient screenshots for documentation or slide decks.
+- Align marketing banners for vertical or horizontal display.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PNG Rotation Application via .NET</h2>
 

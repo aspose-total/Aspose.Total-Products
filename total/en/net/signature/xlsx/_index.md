@@ -43,6 +43,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing XLSX Files with Digital or Electronic Signatures
+
+XLSX is the current standard Excel format and fully supports electronic and digital signatures for financial and operational data.
+
+
+- Financial reports and balance sheets.
+- Departmental budgets and forecasts.
+- Performance dashboards shared for executive review.
+- HR records and attendance summaries.
+- Procurement and vendor costing sheets requiring approvals.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

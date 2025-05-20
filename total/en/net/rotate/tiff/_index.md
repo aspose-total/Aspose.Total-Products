@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for TIFF Rotation
+
+- Rotate high-resolution scans of legal or archival documents.
+- Correct orientation of medical images (e.g., X-rays).
+- Prepare TIFF pages for consistent order in multi-page scanning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop TIFF Rotation Application via .NET</h2>
 

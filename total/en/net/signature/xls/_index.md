@@ -43,6 +43,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing XLS Files with Digital or Electronic Signatures
+
+XLS is an older Excel format still used for backward compatibility. Adding a digital signature secures financial data and version integrity.
+
+
+- Legacy financial reports and payroll spreadsheets.
+- Investment plans shared in early Excel format.
+- Procurement data and vendor submissions in XLS.
+- Government audit reports using old spreadsheet templates.
+- Employee salary statements requiring signature validation.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

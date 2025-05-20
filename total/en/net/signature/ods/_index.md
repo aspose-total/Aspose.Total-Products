@@ -43,6 +43,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases of Signing ODS Files with Digital or Electronic Signatures
+
+ODS is the spreadsheet format for open-source office suites. Digitally signing ODS files helps protect financial and operational data in non-Microsoft environments.
+
+
+- Open-source project budgets and reporting.
+- Educational institutions tracking student data.
+- Government agencies in cost-sensitive regions.
+- NGOs compiling donor and project reports.
+- Departmental planning documents requiring secure e-signatures.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop E-Signature Application using .NET</h2>

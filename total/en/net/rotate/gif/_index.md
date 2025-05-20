@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for GIF Rotation
+
+- Correct the orientation of vertical animated instructions or tutorials.
+- Rotate banner ads to fit layout constraints without re-exporting.
+- Reorient meme-based GIFs for mobile-friendly display.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop GIF Rotation Application via .NET</h2>
 

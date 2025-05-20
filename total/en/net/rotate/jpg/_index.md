@@ -43,6 +43,14 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for JPG Rotation
+
+- Normalize orientation of image galleries uploaded by users.
+- Rotate landscape shots for consistent social media presentation.
+- Adjust real estate photo orientation for virtual tours.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop JPG Rotation Application via .NET</h2>
 

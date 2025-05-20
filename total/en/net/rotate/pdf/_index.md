@@ -44,6 +44,14 @@ otherformats: PDF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for PDF Rotation
+
+- Rotate scanned PDF contracts or invoices for correct viewing.
+- Adjust orientation of certificates and licenses in portfolio documents.
+- Rotate pages for optimized print layout in booklets or manuals.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PDF Rotation Application via .NET</h2>
 
