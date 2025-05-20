@@ -46,6 +46,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases: Merge XLSM Files for Macro-Enabled Excel Workflows
+
+XLSM files are macro-enabled Excel workbooks. Merging `.xlsm` files must preserve both data and embedded macros used for automation or calculations.
+
+
+
+- **Automated Task Reports**  
+  Merge macro-enabled sheets that automate reporting or validation tasks into a central file.
+
+- **Consolidating Workflow Templates**  
+  Combine `.xlsm` templates used across departments into one workbook for streamlined automation.
+
+- **Centralized VBA Code Repository**  
+  Merge files with similar macros to unify logic and reduce duplication across departments.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLSM File Merger using .NET</h2>

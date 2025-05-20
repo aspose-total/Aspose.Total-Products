@@ -46,6 +46,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases: Merge DOC Files for Legacy Word Document Management
+
+DOC files are the older binary format used by Microsoft Word. Merging `.doc` files is typically necessary for consolidating legacy documents, archiving, or transitioning to newer formats.
+
+
+
+- **Merging Historical Reports**  
+  Combine older `.doc` reports for archival purposes or to create a unified document for printing or sharing.
+
+- **Legacy Document Updates**  
+  Merge multiple `.doc` files containing project information or business documents into a master document for updating.
+
+- **Document Conversion to Modern Formats**  
+  Merge `.doc` files before converting them to `.docx` for improved compatibility with modern systems.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOC File Merger using .NET</h2>
