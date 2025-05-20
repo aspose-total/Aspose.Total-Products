@@ -46,6 +46,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📽️ Redaction in .ppt / .pptx (Microsoft PowerPoint)
+
+- Redact confidential project names or financial figures in presentations.
+- Redact strategic content or private visuals in executive briefings.
+- Redact client references or sensitive visuals before public sharing.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PPT Redaction Application via .NET</h2>
 

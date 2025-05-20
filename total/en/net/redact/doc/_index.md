@@ -49,6 +49,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Redaction in .doc
+
+- Redact names, addresses, and confidential clauses in legal agreements.
+- Redact privileged content in court filings or legal disclosures.
+- Redact internal data from HR documents, contracts, or reports before sharing.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOC Redaction Application via .NET</h2>
 

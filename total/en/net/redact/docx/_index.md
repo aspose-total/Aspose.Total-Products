@@ -49,6 +49,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Redaction in .docx (Microsoft Word)
+
+- Redact personal names, contact information, and identification numbers in HR documents.
+- Redact sensitive case details or client information in legal contracts and court submissions.
+- Redact confidential sections in internal reports, meeting minutes, or project documents.
+- Redact proprietary methods or research results in academic or scientific papers.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOCX Redaction Application via .NET</h2>
 

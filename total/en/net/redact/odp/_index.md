@@ -46,6 +46,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📽️ Redaction in .odp (OpenDocument Presentation)
+
+- Redact identifying visuals or data in academic or public presentations.
+- Redact internal metrics or confidential annotations before export.
+- Redact project or organization names from slides used externally.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop ODP Redaction Application via .NET</h2>
 

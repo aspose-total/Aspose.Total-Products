@@ -49,6 +49,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📊 Redaction in .xlsx (Microsoft Excel)
+
+- Redact employee salaries, bonuses, or personal details in payroll files.
+- Redact customer or vendor information in sales or procurement reports.
+- Redact internal budget allocations or profit margins in financial workbooks.
+- Redact confidential data in performance dashboards or KPI tracking sheets.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLSX Redaction Application via .NET</h2>
 

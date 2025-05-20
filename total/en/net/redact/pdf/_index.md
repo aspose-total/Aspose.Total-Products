@@ -49,6 +49,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Redaction in .pdf (Portable Document Format)
+
+- Redact sensitive text in legal, medical, and financial documents.
+- Redact confidential data before public disclosures or press releases.
+- Redact restricted content in FOIA or compliance-related publications.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PDF Redaction Application via .NET</h2>
 

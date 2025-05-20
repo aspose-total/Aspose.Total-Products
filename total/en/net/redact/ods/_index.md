@@ -49,6 +49,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📊 Redaction in .ods (OpenDocument Spreadsheet)
+
+- Redact survey responses or statistical data before external publication.
+- Redact confidential financials in internal planning spreadsheets.
+- Redact user-identifiable information in shared datasets.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop ODS Redaction Application via .NET</h2>
 

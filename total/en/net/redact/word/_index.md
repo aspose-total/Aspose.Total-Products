@@ -49,6 +49,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Redaction in Microsoft Word
+
+- Redact names, addresses, and identification numbers in official documents.
+- Redact confidential legal content before submitting court documents or contracts.
+- Redact internal communication and sensitive business information in shared reports.
+- Redact personal or medical information in HR files, patient summaries, or academic records.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop Word Redaction Application via .NET</h2>
 

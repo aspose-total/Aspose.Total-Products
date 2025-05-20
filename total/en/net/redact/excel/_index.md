@@ -49,6 +49,15 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📊 Redaction in Microsoft Excel
+
+- Redact financial data such as salaries, budgets, or revenue figures before distribution.
+- Redact customer or employee data in sales, HR, or audit spreadsheets.
+- Redact private entries in operational or administrative data logs.
+- Redact confidential metrics in planning sheets or strategy dashboards.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop Excel Redaction Application via .NET</h2>
 
