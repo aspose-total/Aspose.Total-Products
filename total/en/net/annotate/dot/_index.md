@@ -87,6 +87,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 
 
 {{% blocks/products/pf/feature-page-summary %}}
+DOT (Word 97–2003 Template) files define reusable document structures. Annotations in DOT files help clarify template purpose, usage instructions, and customization notes for users.
+
+#### DOT File Annotation for Template Documentation and Feedback Use Cases:
+
+- **Template Customization Guidance**  
+  Annotate fields and placeholders to guide users on how and where to insert content.
+
+- **Workflow Instructions**  
+  Add comments explaining automated behaviors, macros, or conditional formatting embedded in the template.
+
+- **Branding and Style Reviews**  
+  Highlight areas that must align with corporate branding guidelines or document standards.
+
+- **Feedback Collection from Users**  
+  Allow users to insert comments about template usability, simplifying iterative improvements.
+
+- **Regulatory Compliance Templates**  
+  Provide regulatory or compliance-related notes directly in the template for legal documentation processes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOT Document Annotation Application via .NET</h2>

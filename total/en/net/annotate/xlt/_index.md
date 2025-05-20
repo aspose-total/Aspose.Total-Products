@@ -45,6 +45,16 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+XLT (Excel Template) files provide predefined structures for spreadsheets. Annotations help identify placeholders, provide instructions, or capture feedback during template customization.
+
+#### Annotate XLT Files for Template Customization - Use Cases:
+
+- **Template Instructions**: Add comments to guide end users on input fields.
+- **Template Review**: Annotate formulas or layout suggestions for improvement.
+- **Team Notes**: Collaborate on initial drafts of templates with contextual notes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLT Document Annotation Application via .NET</h2>
 

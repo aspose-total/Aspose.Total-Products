@@ -45,6 +45,16 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+XLTM (Macro-Enabled Template) files support reusability with macros. Annotations provide essential insights on automation points, expected inputs, or macro outcomes.
+
+#### Annotate XLTM Files for Macro Template Workflows - Use Cases:
+
+- **Macro Documentation**: Explain macro triggers and intended effects.
+- **User Guidance**: Annotate sections users must not alter to preserve automation.
+- **Testing Notes**: Mark areas under QA review during template testing.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLTM Document Annotation Application via .NET</h2>
 

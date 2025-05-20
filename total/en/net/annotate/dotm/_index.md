@@ -87,6 +87,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 
 
 {{% blocks/products/pf/feature-page-summary %}}
+DOTM (Word Macro-Enabled Template) files contain automation scripts to enhance productivity. Annotating DOTM files ensures documentation of macro behaviors and facilitates error tracking and feedback collection.
+
+#### DOTM File Annotation for Macro-Enabled Template Review Use Cases:
+
+- **Macro Instruction and Logic Documentation**  
+  Annotate macro-triggered fields to clarify functionality and expected outcomes.
+
+- **Automation Review and Testing**  
+  Insert notes to flag successful or failing macro executions during testing.
+
+- **Template Behavior Explanation**  
+  Comment on automated layout or formatting sections to help users understand template flow.
+
+- **User Training Material Embedding**  
+  Add learning prompts directly into templates to ease user onboarding.
+
+- **Error Isolation**  
+  Use annotations to isolate and explain bugs caused by macro execution.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOTM Document Annotation Application via .NET</h2>

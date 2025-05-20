@@ -45,6 +45,16 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) supports automation through macros. Annotating these files helps teams flag macro results, document automated changes, and validate logic outcomes.
+
+#### Annotate XLSM Files for Macro-Driven Workflows - Use Cases:
+
+- **Macro Result Analysis**: Comment on auto-generated data for validation.
+- **Automation Feedback**: Annotate outputs to indicate successful or failed executions.
+- **Code Review**: Add notes related to macro logic or its effects on data.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLSM Document Annotation Application via .NET</h2>
 

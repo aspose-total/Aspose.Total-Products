@@ -45,6 +45,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+TSV (Tab-Separated Values) files are common in data science and system exports. Annotations help mark specific records, explain field values, or highlight transformation needs.
+
+#### Annotate TSV Files for Structured Data Collaboration - Use Cases:
+
+- **Data Cleaning Notes**: Highlight rows needing manual correction or exclusion.
+- **Model Training Datasets**: Flag special cases for downstream ML logic.
+- **ETL Workflow Comments**: Annotate fields requiring mapping or schema changes.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop TSV Document Annotation Application via .NET</h2>
 

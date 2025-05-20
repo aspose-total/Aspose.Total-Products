@@ -38,6 +38,21 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### DOTM File Comparison for Macro-Enabled Template Validation Use Cases:
+
+DOTM files combine reusable document templates with embedded macros. Comparing DOTM versions reveals both layout and macro logic changes, crucial for automation integrity.
+
+- **Macro Workflow Monitoring**  
+  Validate whether template automation logic has been altered or deprecated.
+
+- **Template Standardization Checks**  
+  Track visual or structural updates in reusable templates across teams.
+
+- **Automation Audit Trails**  
+  Maintain records of what changed between automated template versions.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOTM File Comparison Application using .NET</h2>
