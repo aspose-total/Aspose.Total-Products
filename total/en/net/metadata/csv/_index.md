@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📋 Use Cases for Comma-Separated Values (`.csv`)
+
+- Use sidecar metadata files (YAML/JSON/XML) for field-level documentation.
+- Tag CSVs with data source, update frequency, or sensitivity classification.
+- Support metadata-driven data import/export automation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop CSV Metadata Management Application via .NET</h2>
 

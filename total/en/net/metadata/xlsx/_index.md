@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📗 Use Cases for Excel Open XML Workbook (`.xlsx`)
+
+- Embed metadata fields for owner, department, and data categories.
+- Enable discovery, tagging, and categorization in DMS or BI systems.
+- Provide structured metadata for data lineage tracking.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLSX Metadata Management Application via .NET</h2>
 

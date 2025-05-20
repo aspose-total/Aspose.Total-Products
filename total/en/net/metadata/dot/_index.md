@@ -46,6 +46,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📂 Use Cases for Word Template (`.dot`)
+
+- Define reusable metadata patterns for recurring documents.
+- Help categorize templates by department, format, or use-case.
+- Track usage and ownership of core templates.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOT Metadata Management Application via .NET</h2>
 

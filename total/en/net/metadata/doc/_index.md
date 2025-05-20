@@ -46,6 +46,16 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Use Cases for Microsoft Word Document (`.doc`)
+
+- Track authorship and creation/modification history.
+- Enhance document searchability via title, subject, and keywords.
+- Embed legal or licensing metadata for document protection.
+- Automate workflows based on metadata fields (e.g., archiving rules).
+- Assist in content classification and retention management.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOC Metadata Management Application via .NET</h2>
 

@@ -46,6 +46,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 🛠️ Use Cases for Macro-Enabled Template (`.dotm`)
+
+- Enable macro metadata storage for advanced automation logic.
+- Assign categories, risk levels, or departments to the template.
+- Help IT and compliance teams track automation origin and purpose.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOTM Metadata Management Application via .NET</h2>
 

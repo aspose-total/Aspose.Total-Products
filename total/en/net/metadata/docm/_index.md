@@ -46,6 +46,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📝 Use Cases for Word Macro-Enabled Document (`.docm`)
+
+- Include macro-related metadata for automation tracking.
+- Manage document security policies linked to embedded macros.
+- Enable automated risk classification based on embedded scripts.
+- Aid in identifying document purpose and associated business process.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop DOCM Metadata Management Application via .NET</h2>
 

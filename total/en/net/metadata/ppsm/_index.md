@@ -46,6 +46,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 🎥 Use Cases for PowerPoint Macro Show (`.ppsm`)
+
+- Embed presentation logic metadata for triggered events.
+- Classify for high-interactivity or automated slideshow usage.
+- Track show authorship and use cases for enterprise presentations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PPSM Metadata Management Application via .NET</h2>
 

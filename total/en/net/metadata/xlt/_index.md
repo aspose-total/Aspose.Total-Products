@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Use Cases for Excel Template (`.xlt`)
+
+- Store predefined formulas and usage intent.
+- Enable classification for recurring reports or department-specific templates.
+- Aid in versioning and ownership tracking.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLT Metadata Management Application via .NET</h2>
 

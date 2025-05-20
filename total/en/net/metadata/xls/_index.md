@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📊 Use Cases for Excel Spreadsheet (`.xls`)
+
+- Store document purpose and ownership metadata.
+- Improve internal file tracking and retrieval.
+- Automate financial or project-based workflows via metadata rules.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLS Metadata Management Application via .NET</h2>
 

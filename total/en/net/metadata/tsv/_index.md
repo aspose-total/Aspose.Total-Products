@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📋 Use Cases for Tab-Separated Values (`.tsv`)
+
+- Describe column structure, encoding, or delimiter logic using metadata.
+- Track data ownership and update frequency.
+- Classify datasets in catalogs for integration or sharing.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop TSV Metadata Management Application via .NET</h2>
 

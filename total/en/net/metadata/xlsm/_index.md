@@ -52,6 +52,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 🧠 Use Cases for Macro-Enabled Workbook (`.xlsm`)
+
+- Identify workbooks with active scripts using embedded metadata.
+- Help compliance teams classify and audit macro usage.
+- Support metadata-triggered alerts for sensitive financial models.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLSM Metadata Management Application via .NET</h2>
 

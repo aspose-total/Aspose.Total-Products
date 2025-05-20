@@ -46,6 +46,14 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 Use Cases for Rich Text Format (`.rtf`)
+
+- Store basic metadata like title and author in lightweight format.
+- Classify RTF documents for transfer, publishing, or archiving.
+- Preserve metadata across systems that don’t support full XML formats.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop RTF Metadata Management Application via .NET</h2>
 

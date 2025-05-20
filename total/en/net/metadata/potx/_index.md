@@ -46,6 +46,13 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 🧩 Use Cases for PowerPoint Template XML (`.potx`)
+
+- Store theme, purpose, and department metadata.
+- Classify presentation templates for consistent branding and use.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop POTX Metadata Management Application via .NET</h2>
 
