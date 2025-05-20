@@ -57,6 +57,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for Parsing .dot Files
+
+- 📝 Process legacy Word template files for batch document generation.
+- 🔁 Automate filling templates with dynamic data in bulk document creation.
+- 📚 Archive `.dot` templates by converting to modern template formats.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOT File Parser Application via .NET</h2>

@@ -52,6 +52,25 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📄 PDF Parsing Use Cases
+
+- 🔍 **Text and Table Extraction**  
+  Extract paragraphs, tables, or form values from PDFs for reporting or search indexing.
+
+- 🧾 **Invoice and Form Processing**  
+  Parse structured forms and invoices to auto-fill databases or accounting systems.
+
+- 🎨 **Layout Analysis**  
+  Detect visual structure (columns, sections) for accurate conversion to HTML or Markdown.
+
+- 🧠 **OCR and Searchability**  
+  Convert scanned PDFs to searchable text using OCR before parsing.
+
+- 🗂️ **Digital Archiving and Compliance**  
+  Archive and audit PDF documents by extracting and tagging relevant content or metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop PDF File Parser Application via .NET</h2>
 

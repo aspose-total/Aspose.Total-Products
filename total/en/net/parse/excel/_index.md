@@ -53,6 +53,25 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📊 Microsoft Excel Files (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Parsing Use Cases
+
+- 📈 **Data Extraction**  
+  Parse cell values, formulas, and ranges from spreadsheets for analytics or dashboards.
+
+- 🧮 **Template Processing**  
+  Use `.xlt`, `.xltx`, `.xltm` templates to fill out reports, financial statements, or forecasts.
+
+- 🤖 **Macro-Aware Parsing**  
+  Handle `.xlsm` and `.xltm` formats with macro-awareness to avoid or preserve automation logic.
+
+- 🔍 **Structured Data Import**  
+  Import `.csv`, `.tsv`, or `.xlsx` content into databases, apps, or APIs.
+
+- 🗃️ **Data Migration**  
+  Convert `.xls`, `.xlsb`, and `.xlsx` sheets to JSON, XML, or other structured formats for integration.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop Excel File Parser Application via .NET</h2>
 

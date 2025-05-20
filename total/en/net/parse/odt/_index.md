@@ -57,6 +57,14 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### Use Cases for Parsing .odt Files
+
+- 📄 Extract text, images, and metadata from OpenDocument Text files.
+- 🧾 Convert `.odt` files to HTML, Markdown, or PDF for publishing.
+- 📚 Archive open-source document formats by converting and indexing content.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODT File Parser Application via .NET</h2>

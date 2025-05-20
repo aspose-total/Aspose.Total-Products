@@ -57,6 +57,25 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+#### 📘 Microsoft Word Document (doc, docm, docx, dot, dotm, dotx, odt, rtf) Parsing Use Cases
+
+- 📄 **Content Extraction**  
+  Extract text, tables, and images from Word documents for web display, search indexing, or text analysis.
+
+- 📰 **Template Processing**  
+  Use `.dot`, `.dotx`, `.dotm` templates for auto-generating documents with dynamic data in workflows.
+
+- 🔁 **Automation Workflows**  
+  Automate parsing and content replacement in `.docm` or `.dotm` files that include embedded macros.
+
+- 🧾 **Report Conversion**  
+  Convert `.doc`, `.odt`, or `.rtf` files to clean HTML, Markdown, or PDF for publishing or documentation.
+
+- 📚 **Digital Archiving**  
+  Archive legacy formats like `.doc` and `.rtf` by converting and indexing them for modern platforms.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop Word File Parser Application via .NET</h2>
