@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 🧾 Merge ODT (OpenDocument Text) for Open Collaboration and Document Assembly
 
 ODT files are open-source word processor documents (LibreOffice, OpenOffice). Merging them supports open-format content collaboration.
 
-
+#### Use Cases: 🧾 Merge ODT (OpenDocument Text) for Open Collaboration and Document Assembly
 
 - **Open-Source Collaboration**  
   Merge contributions from different authors in ODT format into a single document.

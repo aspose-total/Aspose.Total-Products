@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 📄 Microsoft Word Documents (DOC, DOCX, DOT, DOTX, DOCM)
 
 Microsoft Word is the go-to format for text-heavy documentation. Merging Word files simplifies workflows involving multiple contributors, templates, or versions.
 
-
+#### Use Cases: 📄 Microsoft Word Documents (DOC, DOCX, DOT, DOTX, DOCM)
 
 - **Unified Report Compilation**  
   Merge multiple departmental or project reports into a single, professional document for submission or archiving.

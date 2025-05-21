@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLT Files for Template-Based Excel Workflows
 
 XLT is the Excel Template format for `.xls` (Excel 97-2003). Merging `.xlt` files helps standardize and update legacy templates into a unified structure.
 
-
+#### Use Cases: Merge XLT Files for Template-Based Excel Workflows
 
 - **Legacy Template Unification**  
   Combine multiple `.xlt` templates into a master template for backward compatibility.

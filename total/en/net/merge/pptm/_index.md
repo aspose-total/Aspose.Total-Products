@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge PPTM Files for Macro-Enabled PowerPoint Presentation Workflows
 
 PPTM files are PowerPoint presentations that contain macros. Merging `.pptm` files allows the consolidation of automation and advanced functionality used in presentations.
 
-
+#### Use Cases: Merge PPTM Files for Macro-Enabled PowerPoint Presentation Workflows
 
 - **Automated Presentation Generation**  
   Combine `.pptm` files that use macros to generate reports, charts, or slides dynamically into a single automated presentation.

@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLS Files for Legacy Excel Data Integration
 
 XLS is the binary format used by older versions of Microsoft Excel. Merging multiple `.xls` files helps consolidate historical data into modern systems for analysis or archival.
 
-
+#### Use Cases: Merge XLS Files for Legacy Excel Data Integration
 
 - **Legacy Financial Reports**  
   Combine old Excel financial reports for historical trend analysis or audit preparation.

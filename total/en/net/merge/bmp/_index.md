@@ -47,11 +47,11 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge BMP Files for Bitmap Image Processing
+
 
 BMP (Bitmap) is an uncompressed image format commonly used for high-quality, detailed images. Merging `.bmp` files is necessary when working with pixel-based graphics, art, or scanned images that need to be unified.
 
-
+#### Use Cases: Merge BMP Files for Bitmap Image Processing
 
 - **High-Quality Image Restoration**  
   Merge `.bmp` images that represent different parts of a high-resolution image into a single composite image.

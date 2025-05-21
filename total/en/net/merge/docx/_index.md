@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge DOCX Files for Modern Word Document Consolidation
 
 DOCX is the default XML-based format used by Microsoft Word for modern documents. Merging `.docx` files is essential for collaboration, content aggregation, and centralized documentation.
 
-
+#### Use Cases: Merge DOCX Files for Modern Word Document Consolidation
 
 - **Project Documentation**  
   Merge `.docx` files from different team members or departments into one comprehensive project document.

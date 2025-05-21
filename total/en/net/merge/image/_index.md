@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 🖼️ Image Files (JPG, PNG, BMP, GIF, TIFF, WEBP)
 
 Merging image files into a single visual output or structured format (e.g., PDF, collage, or sprite) supports design, documentation, and digital publishing workflows.
 
-
+#### Use Cases: 🖼️ Image Files (JPG, PNG, BMP, GIF, TIFF, WEBP)
 
 - **Digital Album Creation**  
   Merge vacation, event, or portfolio images into a single gallery or photo book.

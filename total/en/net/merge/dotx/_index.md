@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge DOTX Files for Modern Template Management
 
 DOTX is the XML-based format used for Word templates. Merging `.dotx` files helps unify templates across teams or departments while maintaining modern compatibility.
 
-
+#### Use Cases: Merge DOTX Files for Modern Template Management
 
 - **Unified Template Management**  
   Merge `.dotx` templates from various teams to establish consistent branding, formatting, and document structure.

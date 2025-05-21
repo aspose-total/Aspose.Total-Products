@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 📊 Merge ODP (OpenDocument Presentation) for Unified Slide Delivery in Open Formats
 
 ODP files are the presentation format for LibreOffice and OpenOffice. Merging ODP files enables open-format delivery of unified slides.
 
-
+#### Use Cases: 📊 Merge ODP (OpenDocument Presentation) for Unified Slide Delivery in Open Formats
 
 - **Public Sector Presentation Merging**  
   Combine slide decks from various departments into a comprehensive presentation.

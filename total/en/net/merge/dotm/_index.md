@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge DOTM Files for Macro-Enabled Template Integration
 
 DOTM files are macro-enabled Word templates. Merging `.dotm` files is useful when integrating templates that rely on macros for document automation.
 
-
+#### Use Cases: Merge DOTM Files for Macro-Enabled Template Integration
 
 - **Macro-Enabled Template Unification**  
   Merge `.dotm` templates used across multiple departments to standardize formatting and macro functionality.

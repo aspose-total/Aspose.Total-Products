@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge TIFF Files for High-Quality Image Merging
 
 TIFF (Tagged Image File Format) is widely used for high-quality images that require lossless compression or no compression at all. Merging `.tiff` files is useful for combining scans, multi-page documents, or large images.
 
-
+#### Use Cases: Merge TIFF Files for High-Quality Image Merging
 
 - **Multi-Page Document Creation**  
   Merge multiple `.tiff` files that represent pages of a document into a single multi-page file for easier viewing or printing.

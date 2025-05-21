@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 📽️ Merge PPSM (PowerPoint Show with Macros) for Interactive Presentations and Automation
 
 PPSM files are PowerPoint slideshows that include macros. Merging them can consolidate macro-enabled presentations for automation or interactive delivery.
 
-
+#### Use Cases: 📽️ Merge PPSM (PowerPoint Show with Macros) for Interactive Presentations and Automation
 
 - **Interactive Training Delivery**  
   Merge training modules with automation scripts for streamlined learning sessions.

@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLTX Files for Modern Excel Template Management
 
 XLTX is the default Excel template format without macros. Merging `.xltx` files ensures consistent formatting and layout across standardized documents.
 
-
+#### Use Cases: Merge XLTX Files for Modern Excel Template Management
 
 - **Branding & Format Consistency**  
   Merge templates from different teams to align formatting and corporate style.

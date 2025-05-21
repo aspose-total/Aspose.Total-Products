@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge DOT Files for Legacy Template Management
 
 DOT files are Word templates used with older versions of Microsoft Word (prior to DOCX). Merging `.dot` files helps standardize document formatting and ensures compatibility with legacy systems.
 
-
+#### Use Cases: Merge DOT Files for Legacy Template Management
 
 - **Template Consolidation**  
   Merge different `.dot` templates used by various teams to create a single, unified template for document creation.

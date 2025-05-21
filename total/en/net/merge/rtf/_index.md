@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 📝 Merge RTF (Rich Text Format) for Platform-Independent Document Compilation
 
 RTF files are used for platform-independent, formatted text documents. Merging RTF files allows combining content while maintaining formatting across systems.
 
-
+#### Use Cases: 📝 Merge RTF (Rich Text Format) for Platform-Independent Document Compilation
 
 - **Formatted Text Compilation**  
   Merge reports or notes from different systems into one formatted document.

@@ -47,11 +47,11 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge PPSX Files for Modern Slide Show Presentation Integration
+
 
 PPSX is the modern XML-based format used for PowerPoint Slide Shows. Merging `.ppsx` files helps centralize presentations into one automated slide show format.
 
-
+#### Use Cases: Merge PPSX Files for Modern Slide Show Presentation Integration
 
 - **Automated Marketing Campaigns**  
   Merge `.ppsx` presentations from different campaigns into a unified show for automated client presentations.

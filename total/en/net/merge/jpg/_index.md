@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 🖼️ Merge JPG (JPEG Image Format) for Visual Archiving and Design Consolidation
 
 JPG is a compressed image format widely used for photographs and web graphics. Merging JPG files supports presentation, archival, and visual documentation.
 
-
+#### Use Cases: 🖼️ Merge JPG (JPEG Image Format) for Visual Archiving and Design Consolidation
 
 - **Photo Album Creation**  
   Merge vacation or event images into a single collage or slideshow.

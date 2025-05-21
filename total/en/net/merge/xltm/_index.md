@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLTM Files for Macro-Enabled Templates
 
 XLTM files are macro-enabled templates used for automating recurring tasks in Excel. Merging them is useful when unifying automation logic or migrating workflows.
 
- 
+#### Use Cases: Merge XLTM Files for Macro-Enabled Templates
 
 - **Workflow Automation Libraries**  
   Merge `.xltm` templates containing different macros for various functions into one centralized template.

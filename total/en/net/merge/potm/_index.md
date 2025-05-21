@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge POTM Files for Macro-Enabled PowerPoint Template Integration
 
 POTM files are PowerPoint templates that contain macros. Merging `.potm` files helps integrate automated template creation across various presentations and workflows.
 
-
+#### Use Cases: Merge POTM Files for Macro-Enabled PowerPoint Template Integration
 
 - **Macro-Enabled Template Standardization**  
   Merge `.potm` templates used across different teams to create a consistent macro-enabled template for repeated use.

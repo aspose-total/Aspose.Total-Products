@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLSB Files for Efficient Large-Scale Excel Data Handling
 
 XLSB (Excel Binary Workbook) format stores data in a binary form, offering faster performance with large datasets. Merging `.xlsb` files ensures efficient handling of enterprise-scale data.
 
-
+#### Use Cases: Merge XLSB Files for Efficient Large-Scale Excel Data Handling
 
 - **Performance-Critical Reporting**  
   Merge large `.xlsb` datasets for faster loading and processing in high-performance environments.

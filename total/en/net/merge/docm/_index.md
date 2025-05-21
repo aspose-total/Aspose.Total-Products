@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge DOCM Files for Macro-Enabled Word Documents
 
 DOCM files are macro-enabled Word documents. Merging `.docm` files is useful when combining documents that contain embedded macros for automation or processing.
 
-
+#### Use Cases: Merge DOCM Files for Macro-Enabled Word Documents
 
 - **Automated Reporting Consolidation**  
   Merge `.docm` reports that use macros to automate the generation of formatted data, charts, or tables into a central document.

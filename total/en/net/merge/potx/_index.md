@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge POTX Files for Modern PowerPoint Template Management
 
 POTX is the modern XML-based format used for PowerPoint templates. Merging `.potx` files centralizes template content, ensuring consistency across presentations.
 
-
+#### Use Cases: Merge POTX Files for Modern PowerPoint Template Management
 
 - **Cross-Department Template Standardization**  
   Merge `.potx` templates used by different departments to create a unified, company-wide PowerPoint template library.

@@ -46,11 +46,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Merge XLSX Files for Modern Excel Workflows
 
 XLSX is the default format for modern Excel workbooks. Merging `.xlsx` files is the most common practice for unified reporting, data analysis, and collaboration.
 
-
+#### Use Cases: Merge XLSX Files for Modern Excel Workflows
 
 - **Monthly Department Reports**  
   Merge departmental `.xlsx` reports into a single dashboard-ready workbook.

@@ -47,11 +47,10 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: 📊 Microsoft PowerPoint Presentations (PPT, PPTX, POT, POTX, PPTM)
 
 PowerPoint presentations are widely used in business, education, and training. Merging slides enables unified delivery and storytelling.
 
-
+#### Use Cases: 📊 Microsoft PowerPoint Presentations (PPT, PPTX, POT, POTX, PPTM)
 
 - **Presentation Consolidation**  
   Merge individual slide decks from multiple presenters into one cohesive presentation for seamless delivery.
