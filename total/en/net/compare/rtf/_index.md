@@ -38,9 +38,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### RTF File Comparison for Cross-Platform Document Audits Use Cases:
 
 RTF (Rich Text Format) files are widely used for lightweight document exchange. Comparing RTF files supports validation of content and formatting changes in environments where platform neutrality matters.
+
+#### RTF File Comparison for Cross-Platform Document Audits Use Cases:
 
 - **Cross-Platform Content Validation**  
   Detect formatting or wording changes across different systems or tools.

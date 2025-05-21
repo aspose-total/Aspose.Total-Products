@@ -42,11 +42,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress XLS Files for Legacy Excel Workbook Optimization
 
 XLS (Excel 97–2003 Workbook) files can become large due to embedded charts, formulas, or large datasets. Compressing XLS files ensures smoother handling and compatibility across older systems.
 
-
+#### Use Cases: Compress XLS Files for Legacy Excel Workbook Optimization
 
 - **Archiving Financial Records**  
   Reduce storage footprint of historic XLS files containing fiscal data or reports.

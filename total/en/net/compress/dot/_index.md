@@ -43,11 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress DOT Files for Legacy Word Template Management
 
 DOT (Word 97–2003 Template) files are older Word templates that may include rich formatting or images. Compressing DOT files makes legacy template systems more efficient and portable.
 
-
+#### Use Cases: Compress DOT Files for Legacy Word Template Management
 
 - **Template Library Cleanup**  
   Reduce DOT file sizes to maintain a compact and organized template repository.

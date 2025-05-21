@@ -43,11 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress ODT Files for Lightweight OpenDocument Text Management
 
 ODT (OpenDocument Text) files, often used in open-source office suites like LibreOffice, can grow in size due to embedded images, tables, and advanced formatting. Compressing ODT files ensures better portability and performance across systems.
 
-
+#### Use Cases: Compress ODT Files for Lightweight OpenDocument Text Management
 
 - **Optimized Document Sharing**  
   Reduce ODT file size for faster uploads, email attachments, and seamless online collaboration.

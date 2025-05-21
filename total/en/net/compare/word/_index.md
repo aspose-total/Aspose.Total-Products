@@ -38,9 +38,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Microsoft Word File Comparison for Document Version Control and Collaboration
 
 Microsoft Word formats—including DOC, DOCX, DOCM, DOT, DOTM, and DOTX—support comprehensive document creation and formatting. Comparing Word documents enables detailed analysis of textual, formatting, and structural changes, making it essential for collaborative editing, legal review, and compliance workflows.
+
+#### Use Cases: Microsoft Word File Comparison for Document Version Control and Collaboration
 
 - **Collaborative Editing and Redlining**  
   Identify insertions, deletions, formatting changes, and comments made by multiple authors during the review cycle.

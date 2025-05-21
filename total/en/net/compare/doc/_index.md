@@ -38,10 +38,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### DOC File Comparison for Document Version Control and Collaboration Use Cases:
+
 
 DOC (Microsoft Word Binary File Format) files are commonly used for professional documents. Comparing DOC files is essential for tracking content edits, formatting updates, and collaborative contributions in workflows involving multiple authors or review cycles.
 
+#### DOC File Comparison for Document Version Control and Collaboration Use Cases:
 
 - **Version Tracking in Legal and Business Documents**  
   Identify added, deleted, or modified content between original and revised versions of contracts, reports, or proposals.

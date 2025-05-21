@@ -38,9 +38,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: PPSM File Comparison for Macro-Enabled Slide Show Review
+
 
 PPSM (PowerPoint Macro-Enabled Show) files are used for viewing presentations with automation enabled. Comparing PPSM files helps identify changes in macro behavior, timing sequences, and interactive content.
+
+#### Use Cases: PPSM File Comparison for Macro-Enabled Slide Show Review
 
 - **Macro Comparison Across Presentations**  
   Detect differences in automation routines triggered during slide shows.

@@ -38,9 +38,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### DOCX File Comparison for Modern Document Collaboration Use Cases:
+
 
 DOCX files are the default format for Microsoft Word documents, offering advanced formatting and XML-based structure. Comparing DOCX files ensures clear visibility of changes, supporting version control and editorial review.
+
+#### DOCX File Comparison for Modern Document Collaboration Use Cases:
 
 - **Team Editing Oversight**  
   Review edits made by different users during collaborative document development.

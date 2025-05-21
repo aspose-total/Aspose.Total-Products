@@ -42,11 +42,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress XLT Files for Legacy Excel Template Optimization
 
 XLT (Excel 97–2003 Template) files can become large due to embedded elements or sample data. Compressing XLT files makes template libraries leaner and easier to distribute.
 
-
+#### Use Cases: Compress XLT Files for Legacy Excel Template Optimization
 
 - **Legacy Template Portability**  
   Send standard templates compressed for faster distribution in older enterprise systems.

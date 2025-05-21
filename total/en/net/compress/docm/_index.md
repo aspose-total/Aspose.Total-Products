@@ -43,11 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress DOCM Files for Streamlined Macro-Enabled Document Automation
 
 DOCM (Macro-Enabled Word Document) files can grow large with embedded macros, scripts, and media. Compressing DOCM files ensures smoother automation workflows and easier collaboration.
 
-
+#### Use Cases: Compress DOCM Files for Streamlined Macro-Enabled Document Automation
 
 - **Automated Document Distribution**  
   Reduce file sizes to enable quick sharing of macro-enabled templates.

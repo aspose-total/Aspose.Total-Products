@@ -43,11 +43,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress DOC Files for Efficient Legacy Word Document Handling
+
 
 DOC (Microsoft Word 97–2003 Document) files can become bulky over time, especially with embedded images or extensive formatting. Compressing DOC files helps improve compatibility, transferability, and storage efficiency.
 
-
+#### Use Cases: Compress DOC Files for Efficient Legacy Word Document Handling
 
 - **Legacy Document Optimization**  
   Reduce DOC file sizes for faster access and sharing across older systems.

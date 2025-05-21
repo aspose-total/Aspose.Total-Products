@@ -43,11 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress DOTM Files for Macro-Enabled Word Template Efficiency
 
 DOTM (Macro-Enabled Word Template) files contain scripts and formatting that increase file size. Compressing DOTM files ensures faster access and easier management of automated templates.
 
-
+#### Use Cases: Compress DOTM Files for Macro-Enabled Word Template Efficiency
 
 - **Macro Template Distribution**  
   Share DOTM templates organization-wide with reduced file size for faster deployment.

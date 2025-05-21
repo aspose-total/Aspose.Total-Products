@@ -38,10 +38,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### DOTX File Comparison for Clean Template Revision Control Use Cases:
 
 DOTX files are modern Word templates without macros. Comparison helps manage changes in layout, instructional content, or placeholder text across template revisions.
 
+#### DOTX File Comparison for Clean Template Revision Control Use Cases:
 
 - **Template Governance**  
   Ensure approved formats are consistently used across departments.

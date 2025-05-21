@@ -43,11 +43,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: Compress JPEG Files for Balance Between Quality and Size
 
 JPEG (Joint Photographic Experts Group) is a widely-used compressed format, but even JPEGs can be optimized further without significant quality loss.
 
-
+#### Use Cases: Compress JPEG Files for Balance Between Quality and Size
 
 - **Web Page Speed Optimization**  
   Compress JPEGs to reduce page weight and improve SEO ranking and user experience.

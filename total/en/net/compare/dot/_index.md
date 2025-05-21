@@ -38,9 +38,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### DOT File Comparison for Template Change Tracking Use Cases:
+
 
 DOT (Word 97–2003 Template) files store reusable formatting and boilerplate content. Comparing DOT templates helps detect unauthorized or unintended modifications before reuse.
+
+#### DOT File Comparison for Template Change Tracking Use Cases:
 
 - **Brand Consistency Verification**  
   Ensure logos, fonts, and styles remain consistent across template revisions.

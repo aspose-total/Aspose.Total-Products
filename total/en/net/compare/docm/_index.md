@@ -38,9 +38,11 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### DOCM File Comparison for Macro-Aware Document Auditing Use Cases:
+
 
 DOCM (Microsoft Word Macro-Enabled Document) files support embedded macros. Comparing two DOCM files enables users to detect not only content changes but also potential macro logic updates, making it essential for security, compliance, and development workflows.
+
+#### DOCM File Comparison for Macro-Aware Document Auditing Use Cases:
 
 - **Macro Change Detection**  
   Identify when macros have been added, removed, or modified across versions.

@@ -42,9 +42,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### Use Cases: TSV File Compression for Efficient Storage and Transfer
 
 TSV (Tab-Separated Values) files are another format used for structured data, especially where tab characters are preferred over commas for delimiting. Like CSV, large TSV files can be storage-intensive and slow to transfer or process. Compressing TSV files provides essential advantages for performance, scalability, and interoperability.
+
+#### Use Cases: TSV File Compression for Efficient Storage and Transfer
 
 - **Research Data Packaging**  
   Compress TSV files generated from lab experiments or surveys to make them easier to share or submit for peer review.

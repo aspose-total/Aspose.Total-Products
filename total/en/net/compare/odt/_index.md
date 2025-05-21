@@ -38,9 +38,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### ODT File Comparison for Open Document Collaboration Use Cases:
 
 ODT (OpenDocument Text) is the standard for open-source word processors like LibreOffice and OpenOffice. Comparing ODT files provides transparency in collaborative writing, particularly in open environments.
+
+#### ODT File Comparison for Open Document Collaboration Use Cases:
 
 - **Open Collaboration Auditing**  
   Track revisions made by contributors in open-source documentation.

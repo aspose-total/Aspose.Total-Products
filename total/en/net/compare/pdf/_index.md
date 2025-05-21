@@ -42,9 +42,10 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-#### PDF File Comparison for Document Integrity and Revision Control Use Cases:
 
 PDF (Portable Document Format) files are a standard for secure and consistent document sharing. Comparing PDF files is essential for identifying textual, layout, or annotation differences between versions—especially in legal, financial, or publishing environments.
+
+#### PDF File Comparison for Document Integrity and Revision Control Use Cases:
 
 - **Contract and Legal Document Review**  
   Highlight changes in clauses, terms, or formatting across different versions of contracts, agreements, or policies.
