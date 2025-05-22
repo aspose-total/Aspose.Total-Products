@@ -48,6 +48,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The `.doc` format is the legacy binary format used by Word versions prior to Word 2007. While older, it still supports the core search functionality.
+
+#### Use Cases
+- **Finding specific text or terms** in legacy documents archived for compliance or legal use.  
+- **Locating and updating outdated references** in older templates or resumes.  
+- **Scanning long business reports** without converting to `.docx`.  
+- **Maintaining compatibility with older systems** while still using search to navigate content.  
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOC File Search Engine via .NET</h2>

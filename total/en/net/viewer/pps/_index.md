@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.pps` — PowerPoint Slide Show (Legacy) - A legacy format from PowerPoint 97–2003 that opens directly in slideshow mode rather than in edit mode.
+
+**Use Cases:**
+
+- Viewing archived training or demo presentations.
+- Displaying legacy company updates stored in `.pps` format.
+- Playing full-screen product presentations in kiosks.
+- Accessing old conference slides without conversion.
+- Preserving historical presentations in document libraries.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop PPS File Viewer Application via .NET</h2>

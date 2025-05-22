@@ -43,6 +43,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+XLS is the legacy binary spreadsheet format used by early Excel versions.
+
+**Common use cases include:**
+
+- Labeling spreadsheets as Outdated, For Archive, or Draft
+- Adding owner identity or creation date
+- Warning against unauthorized modifications
+- Marking data as internal use only
+- Identifying spreadsheets for audit submission
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLS File Watermarking Application using .NET</h2>
 

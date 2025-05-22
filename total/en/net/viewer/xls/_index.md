@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xls` — Excel 97–2003 Workbook - The legacy binary file format used by Excel versions prior to 2007. Still used in some organizations with older systems or long-term archives.
+
+**Use Cases:**
+
+- Viewing archived financial reports in legacy business systems.
+- Accessing old budget files stored in internal repositories.
+- Ensuring compatibility in government or enterprise portals.
+- Previewing historical project data without conversion.
+- Supporting HR systems with legacy employee records in `.xls`.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLS File Viewer Application via .NET</h2>

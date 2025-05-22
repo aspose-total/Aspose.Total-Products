@@ -43,6 +43,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+ODS is the open-source spreadsheet format used by LibreOffice and OpenOffice.
+
+**Common use cases include:**
+
+- Indicating data as Public, Under Review, or Internal
+- Watermarking for data source attribution
+- Labeling for multi-user collaboration
+- Including licensing info or authorship
+- Flagging content for open data publishing
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop ODS File Watermarking Application using .NET</h2>
 

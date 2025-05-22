@@ -47,6 +47,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The `.xls` format is the older binary file format used by Excel versions prior to 2007. Although legacy, it supports essential search capabilities.
+
+#### Use Cases
+- **Locating specific data entries** in archived financial spreadsheets.  
+- **Finding formulas or values** in legacy models without upgrading the file.  
+- **Searching for outdated product codes or pricing** in historical datasets.  
+- **Reviewing and auditing old reports** while maintaining backward compatibility.  
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLS File Search Engine via .NET</h2>

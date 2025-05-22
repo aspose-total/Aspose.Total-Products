@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xltx` — Excel Template - A non-macro Excel template format used to create standardized spreadsheets without embedded scripts.
+
+**Use Cases:**
+
+- Previewing company-branded Excel templates for budget planning.
+- Displaying standardized reports and forms for departments.
+- Viewing templated checklists or trackers in operational systems.
+- Sharing reusable planning documents in project management tools.
+- Maintaining consistency in spreadsheet structure across teams.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLTX File Viewer Application via .NET</h2>

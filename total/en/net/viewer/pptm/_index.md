@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+A `.pptm` — PowerPoint Macro-Enabled Presentation format that includes macros for interactivity, automation, or embedded logic.
+
+**Use Cases:**
+
+- Viewing interactive presentations with quiz logic or automated slides.
+- Displaying internal dashboards with macro-driven charts or visuals.
+- Previewing templates with dynamic slide generation.
+- Sharing auto-advancing content in compliance training.
+- Reviewing marketing or financial presentations with embedded scripts.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop PPTM File Viewer Application via .NET</h2>

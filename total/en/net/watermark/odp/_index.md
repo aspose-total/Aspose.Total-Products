@@ -48,6 +48,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+ODP is the open presentation format used by LibreOffice Impress and other open-source tools.
+
+**Common use cases :**
+
+- Marking slides for open forums, internal reviews, or restricted use
+- Embedding creative commons licenses or organizational tags
+- Supporting public transparency in NGO or government presentations
+- Adding presenter credentials or project affiliations
+- Preventing misuse by marking drafts or non-final versions
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODP File Watermarking Application using .NET</h2>

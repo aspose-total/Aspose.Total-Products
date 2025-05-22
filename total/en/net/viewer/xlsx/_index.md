@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xlsx` — Excel Workbook (Open XML) - The standard and most widely used format for modern Excel workbooks. It supports rich features like formulas, charts, and conditional formatting without macros.
+
+**Use Cases:**
+
+- Displaying dashboards, sales reports, or KPIs in CRM platforms.
+- Sharing budget or forecast spreadsheets in project management tools.
+- Viewing inventory lists or product catalogs in e-commerce systems.
+- Previewing performance reports in analytics portals.
+- Reading shared Excel workbooks in cloud collaboration apps.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLSX File Viewer Application via .NET</h2>

@@ -46,6 +46,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.dotm` — Word Macro-Enabled Template - A macro-enabled template format used to generate multiple Word documents with reusable structure and embedded automation.
+
+**Use Cases:**
+
+- Previewing invoice or report templates with automation.
+- Displaying legal or HR templates in internal portals.
+- Reviewing macro-based templates for document generation systems.
+- Managing reusable compliance forms.
+- Showing templated structures in enterprise document libraries.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOTM File Viewer Application via .NET</h2>

@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.ppsm` — PowerPoint Macro-Enabled Slide Show - A macro-enabled slide show format that runs VBA scripts during the presentation, useful for interactive content.
+
+**Use Cases:**
+
+- Previewing automated product demos with slide transitions and logic.
+- Viewing interactive training modules with embedded quizzes.
+- Displaying self-running presentations in marketing portals.
+- Reviewing VBA-driven slide content in a secure, read-only format.
+- Sharing macro-enhanced instructional content in LMS platforms.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop PPSM File Viewer Application via .NET</h2>

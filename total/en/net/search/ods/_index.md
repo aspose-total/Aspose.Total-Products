@@ -47,6 +47,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The `.ods` (OpenDocument Spreadsheet) format is used by open-source spreadsheet programs like LibreOffice Calc but can be opened in Excel.
+
+#### Use Cases
+- **Searching open-standard spreadsheets** shared between different office suites.  
+- **Locating data points or formulas** in multi-platform environments.  
+- **Verifying consistent terminology and formatting** before conversion to `.xlsx`.  
+- **Tracking changes or comments** in `.ods` files exchanged with collaborators.  
+- **Finding specific rows or columns for data extraction or reporting.**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODS File Search Engine via .NET</h2>

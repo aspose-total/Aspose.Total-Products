@@ -43,6 +43,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+XLSX is the standard format for modern Excel spreadsheets.
+
+**Common use cases include:**
+
+- Displaying Draft, Confidential, or Verified Data
+- Embedding branding or ownership details
+- Protecting models with Do Not Distribute warnings
+- Flagging data for regulatory compliance
+- Identifying versions for collaboration or client review
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 <h2>Develop XLSX File Watermarking Application using .NET</h2>
 

@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xlsb` — Excel Binary Workbook - A binary version of the `.xlsx` format optimized for performance with large datasets and faster load times.
+
+**Use Cases:**
+
+- Viewing large datasets or pivot tables in performance monitoring tools.
+- Previewing complex financial models in real-time reporting systems.
+- Reading big data exports in internal analytics platforms.
+- Displaying raw data dumps for IT or DevOps analysis.
+- Integrating fast-loading spreadsheets in web-based viewers.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLSB File Viewer Application via .NET</h2>

@@ -48,6 +48,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The `.odt` (OpenDocument Text) format is used in open-source word processors like LibreOffice but is also supported by Microsoft Word.
+
+#### Use Cases
+- **Searching open-standard documents** shared across mixed software environments.  
+- **Finding technical or academic terms** in documents exchanged with non-Microsoft tools.  
+- **Navigating multilingual documents** prepared in LibreOffice or OpenOffice.  
+- **Ensuring consistency in formatting** before converting to `.docx`.  
+- **Identifying specific terms or placeholders** in template-based `.odt` files.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODT File Search Engine via .NET</h2>

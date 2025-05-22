@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xltm` — Excel Macro-Enabled Template - A macro-enabled template format used to generate new workbooks with predefined structure and automated logic.
+
+**Use Cases:**
+
+- Viewing templated forecasting models with macro functionality.
+- Displaying reusable financial or audit templates in enterprise tools.
+- Previewing HR forms with embedded automation.
+- Managing macro-enabled invoice templates in accounting platforms.
+- Showing predefined templates with logic-driven fields in CRM tools.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLTM File Viewer Application via .NET</h2>

@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.xlsm` — Excel Macro-Enabled Workbook - A format similar to `.xlsx` but includes support for VBA macros. Used for interactive spreadsheets with automation and logic.
+
+**Use Cases:**
+
+- Viewing macro-enabled budget templates in ERP systems.
+- Previewing forms with embedded calculations or conditional logic.
+- Displaying automated dashboards in compliance or HR portals.
+- Reviewing script-enabled workbooks in secure, read-only mode.
+- Sharing auto-generated reports with embedded logic in business workflows.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop XLSM File Viewer Application via .NET</h2>

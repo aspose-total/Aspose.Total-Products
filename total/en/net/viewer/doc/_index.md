@@ -46,6 +46,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.doc` — Word 97–2003 Document - An older binary file format used by Microsoft Word before 2007. Though less common today, many legacy systems still rely on `.doc`.
+
+**Use Cases:**
+
+- Viewing archived legal documents in legacy systems.
+- Accessing old business records in document repositories.
+- Supporting backward compatibility in government portals.
+- Previewing `.doc` resumes in recruitment software.
+- Displaying early 2000s reports in internal knowledge bases.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOC File Viewer Application via .NET</h2>

@@ -47,6 +47,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.ppsx` — PowerPoint Slide Show - A modern version of `.pps` that opens in presentation mode and is used for non-editable viewing of slides.
+
+**Use Cases:**
+
+- Viewing presentations shared with clients or partners in view-only mode.
+- Embedding company-wide updates in intranet portals.
+- Playing automated slideshows for display screens or lobbies.
+- Sharing non-editable decks in webinars or sales kits.
+- Previewing informational content in corporate learning tools.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop PPSX File Viewer Application via .NET</h2>

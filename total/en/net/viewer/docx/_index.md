@@ -46,6 +46,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.docx` — Word Document (Open XML) - The default and most widely used Word file format since Word 2007. It uses the Open XML standard and is the primary format for modern document creation and sharing.
+
+**Use Cases:**
+
+- Viewing business proposals, reports, and memos online.
+- Embedding user manuals and policy documents in portals.
+- Sharing team documents in collaboration platforms.
+- Reviewing whitepapers in academic or corporate libraries.
+- Displaying drafts or articles in content management systems.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOCX File Viewer Application via .NET</h2>

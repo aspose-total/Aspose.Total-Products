@@ -46,6 +46,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.docm` — Word Macro-Enabled Document - This format is similar to `.docx` but includes support for embedded macros, making it suitable for automated document processes.
+
+**Use Cases:**
+
+- Viewing macro-enabled forms in enterprise systems.
+- Previewing templated HR or finance documents with VBA logic.
+- Safely opening macro reports in compliance dashboards (read-only).
+- Reviewing scripts or automated templates in workflow tools.
+- Displaying forms that trigger calculations or business rules.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOCM File Viewer Application via .NET</h2>

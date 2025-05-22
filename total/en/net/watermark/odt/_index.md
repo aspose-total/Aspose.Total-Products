@@ -48,6 +48,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+ODT is an open-source word processor format used in LibreOffice and similar tools.
+
+**Common use cases include:**
+
+- Indicating public, private, or internal-only documents
+- Showing collaborative ownership or review cycles
+- Embedding organization name or open license info
+- Identifying documents for public sector release
+- Supporting version control in multi-author documents
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODT File Watermarking Application using .NET</h2>

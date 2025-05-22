@@ -48,6 +48,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The DOC format is the legacy Microsoft Word binary file type, still used in older systems.
+
+**Common use cases include:**
+
+- Labeling documents as Archived, Legacy, or Outdated
+- Embedding author or department name
+- Applying legal disclaimers or compliance messages
+- Preventing editing or reuse by marking as Final Copy
+- Supporting recordkeeping and audit trails
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOC File Watermarking Application using .NET</h2>

@@ -47,6 +47,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+The `.odp` (OpenDocument Presentation) format is used by open-source presentation tools.
+
+#### Use Cases
+- **Searching text and notes** in presentations shared across different office suites.  
+- **Locating key messages or terminology** in open-standard slide decks.  
+- **Reviewing multilingual presentations** created in LibreOffice or other open tools.  
+- **Verifying content before converting to `.pptx` for wider distribution.**  
+- **Finding placeholders or template elements** for consistent branding. 
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop ODP File Search Engine via .NET</h2>

@@ -46,6 +46,18 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+`.dotx` — Word Template - A standard Word template format without macro functionality. Ideal for consistent formatting across documents.
+
+**Use Cases:**
+
+- Viewing branding templates for letters, reports, and proposals.
+- Displaying standardized content for team use.
+- Previewing legal or HR templates in onboarding portals.
+- Sharing design-compliant document shells in creative teams.
+- Managing document consistency in enterprise environments.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop DOTX File Viewer Application via .NET</h2>

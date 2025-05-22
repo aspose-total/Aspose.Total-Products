@@ -48,6 +48,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
+PPT is the legacy presentation format used in older versions of Microsoft PowerPoint.
+
+**Common use cases include:**
+
+- Labeling slides as Confidential, Training Only, or Internal
+- Embedding presenter name, organization, or event
+- Warning against distribution with Do Not Share
+- Branding with corporate logos or project names
+- Flagging content for review or approval
+{{% /blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/feature-page-summary %}}
+
 
 
 <h2>Develop PPT File Watermarking Application using .NET</h2>
