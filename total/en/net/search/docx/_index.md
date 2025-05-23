@@ -51,6 +51,7 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 The `.docx` format is the modern XML-based standard for Word documents. It offers better performance, reduced file size, and advanced search capabilities.
 
 #### Use Cases
+
 - **Quickly locating terms, headings, or comments** in large multi-author documents.  
 - **Searching and replacing formatting or styles** using advanced find tools.  
 - **Filtering content via Navigation Pane** for chapters or section titles.  
@@ -145,7 +146,7 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
