@@ -75,7 +75,14 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Microsoft Excel 文件格式 .xlsx —— 分割的使用场景
+
+- 将大型现代Excel工作簿分解以提高可管理性和协作性。  
+- 通过将主Excel文件拆分成定制化工作表，创建个性化报告。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

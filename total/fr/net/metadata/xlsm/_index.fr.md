@@ -84,7 +84,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧠 Cas d'utilisation pour un livre de travail avec macros activés (.xlsm)
+
+- **Identifier les livres de calcul avec des scripts actifs en utilisant des méta données embeddées.**  
+- **Aider les équipes de conformité à classer et à auditer l'utilisation des macros.**  
+- **Soutenir les alertes déclenchés par la méta données pour les modèles financiers sensibles.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

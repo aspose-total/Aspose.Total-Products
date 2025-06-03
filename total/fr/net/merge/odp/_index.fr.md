@@ -78,7 +78,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Mêler des fichiers ODP (Présentation OpenDocument) pour une livraison unifiée de diapositives dans les formats ouverts
+
+Les fichiers ODP sont le format de présentation pour LibreOffice et OpenOffice. La mise en œuvre de la fusion de fichiers ODP permet une livraison ouverte de diapositives unifiés.
+
+#### Cas d'utilisation :
+
+- **Présentations publiques :** Mélanger des déossages de différentes divisions dans un document de présentation global.  
+- **Intégration de diapositives éducatives :** Fusionner les slides d'un cours dans un document de livraison.  
+- **Collaboration à des déossages de conférence :** Mêler les fichiers ODP des orateurs pour des presentations organisées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

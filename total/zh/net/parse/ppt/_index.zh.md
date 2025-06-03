@@ -87,7 +87,16 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 解析PPT文件的用途
+
+- 🖼️ 从旧版PowerPoint文件中提取幻灯片内容，如文字、图片及媒体。
+- 🔁 将.ppt演示文稿转换为现代格式的.pptx或PDF格式。
+- 📽️存档旧有的演示文稿，或将其整合到更新后的幻灯片中。
+- 🧩 在企业环境中自动化演示文稿内容的迁移。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

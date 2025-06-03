@@ -123,7 +123,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier de document Microsoft Word avec macro (DOCM) : ces fichiers supportent l'intégration de macros pour l'automatisation. L'annotation de fichiers DOCM fournit un contexte essentiel concernant les processus automatisés, permettant de suivre les changements apportés par les macros et de faciliter la revue collégiale.
+
+#### Annotation de Fichiers DOCM pour les Use Cases de Collaboration avec des Documents à Macro :
+
+- **Documentation de Flux de Macro**  
+  Annoter les fichiers pour expliquer le but de chaque macro, le résultat attendu, ainsi que son rôle dans l'automatisation du document.
+
+- **Instructions d'Utilisateur pour les Fonctionnalités des Macros**  
+  Ajouter des commentaires dans les documents pour guider les utilisateurs sur la manière de s'y connecter ou les entrées nécessaires pour les actions automatisées.
+
+- **Débogage et Suivi des Erreurs**  
+  Insérer des commentaires pour mettre en évidence les sections où les macros échouent ou où les données sont saisies incorrectement, aidant au débogage.
+
+- **Feedback sur l'Automatisation**  
+  Donner des retours sur l'efficacité des macros dans la création automatisée de tableaux, le formatage ou le remplissage du contenu.
+
+- **Révision du Contenu Généré par les Macros**  
+  Annoter les zones où le contenu généré par les macros nécessite une révision manuelle ou une modification.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

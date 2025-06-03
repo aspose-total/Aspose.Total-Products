@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+幻灯片（PPT）是微软 PowerPoint 旧版中的演示文稿格式。
+
+**常见用途包括：**
+
+- 标记幻灯片为“机密”、“仅限培训”或“内部使用”
+- 嵌入主讲人的姓名、组织名称或事件名称
+- 警告“不分享”（Do Not Share）
+- 在幻灯片中进行品牌化使用，如公司标志或项目名称
+- 标注内容以供审查或批准
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

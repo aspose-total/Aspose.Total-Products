@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mise en œuvre des fichiers XLSX pour les flux de travail Excel modernes
+
+Le format **XLSX** est le format par défaut pour les feuillets de tableur Excel moderne. La mise en œuvre de fichiers `.xlsx` est la pratique courante pour obtenir des rapports unifiés, pour l'analyse de données et pour la collaboration.
+
+#### Cas d'utilisation :
+
+- **Rapports mensuels des départements**  
+  Miser sur un tableau de bord prêt à l'emploi en combinant les fichiers `.xlsx` des rapports départementaux.
+
+- **Consolidation des soumissions de données**  
+  Unifier les formulaires ou les modèles `.xlsx` soumis par plusieurs utilisateurs ou bureaux dans un seul livre d'élèves complet.
+
+- **Compilation des documents de projet**  
+  Miser les feuilles de suivi ou les budgets de projets `.xlsx` dans un seul tableau de travail complet.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

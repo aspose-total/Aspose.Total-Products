@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX 是现代 PowerPoint 演示文稿的格式。
+
+**常见用途包括：**
+
+- 应用品牌和专业标志
+- 表示幻灯片集的状态，如草稿、最终或机密
+- 展示受众细分（例如“给客户”或“内部使用”）
+- 防止滥用以水印标注“请勿分发”
+- 标记幻灯片并附上主讲人详情或批准状态
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

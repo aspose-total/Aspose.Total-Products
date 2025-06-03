@@ -73,7 +73,20 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сравнение файлов формата RTF для аудитов документів на різних платформах з використанням уcases:
+
+- **Переконвертация вмісту на різні платформи**  
+  Виявлення форматних або текстових змін, які можуть статисотворити різні системи чи інструменти.
+
+- **Перегляд редакцій документації**  
+  Сравнення версій навчальних посилань чи допомоги від різних авторів.
+
+- **Auditi щодо сумісності з попередньою версією**  
+  Підтримка структури та стилі у старих системах.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,28 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Объединение файлов XLSM в Excel
+
+Файлы с расширением `.xlsm` — это макросовместимые книги Excel. Объединение таких файлов необходимо выполнять так, чтобы сохранить данные и встроенные макросы, используемые для автоматизации или вычислений.
+
+#### Примеры использования:
+
+- **Автоматизированные отчеты**  
+  Объедините макросовместимые листа, используемые для автоматизации отчетов или проверки данных, в одну центральную книгу.
+
+- **Снижение разрывов между отделами**  
+  Комбинировать `.xlsm` шаблоны, используемые в разных отделах, в один workbook для упрощенной автоматизации.
+
+- **Централизованное хранение макросов VBA**  
+  Объединить файлы с похожими макросами, чтобы объединить логику и сократить дублирование данных между отделами.
+
+Для выполнения операции объединения можно использовать функцию `WorkbookCopy`, доступную в Excel 2007 и newer versions. Эта функция позволяет скопировать данные из одного файла в другой без повторного кодирования макросов или других элементов.
+
+Важно убедиться, что оба файла используют совместимую версию Excel, чтобы избежать проблем с функцией `WorkbookCopy`. Также при объединении необходимо учитывать размер файлов и безопасность, чтобы предотвратить инфицирование макросами из непроверенных источников.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

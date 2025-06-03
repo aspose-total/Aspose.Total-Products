@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы DOT (шаблоны Word 97–2003) определяют реузuable структуры документов. Аннотации в файлах DOT помогают разъяснить цели шаблона, инструкции по использованию и примечания к настройке для пользователей.
+
+#### Аннотация шаблона DOT для документации и сбора обратной связи:
+
+- **Руководство по настройке шаблона**  
+  Нанесите аннотации на поля и места для элементов, чтобы показать пользователям, как и где вставить содержимое.
+
+- **Инструкции по workflow**  
+  Добавьте комментарии, объясняющие автоматические действия, макросы или условные форматы, встроенные в шаблон.
+
+- **Отзывы на стиль и брендинг**  
+  Выделите области, которые должны соответствовать корпоративным стандартам брендинга или документационным требованиям.
+
+- **Сбор обратной связи от пользователей**  
+  Позволяйте пользователям вставлять комментарии о удобстве шаблона, упрощая процесс последовательных улучшений.
+
+- **Шаблоны для регуляторных требований**  
+  Укажите регуляторные или соответствующие备注ки прямо в шаблоне для документации юридических процессов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

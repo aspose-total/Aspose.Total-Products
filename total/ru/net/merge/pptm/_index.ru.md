@@ -78,7 +78,28 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge PPTM files in PowerPoint, follow these organized steps:
+
+1. **Understand Your Goal**: Determine if you're combining slides for automated reports, integrating macros from different teams, or creating a custom presentation with embedded macros.
+
+2. **Use Built-In Features**:
+   - **Import Slides**: Select the "Import" option and choose specific slides to merge, ensuring all macros are included.
+   - **Package Feature**: Use PowerPoint's "Package" feature to combine files, which might be useful for handling larger or more complex presentations.
+
+3. **Check for Conflicts**:
+   - Be aware that conflicting macros can cause issues. PowerPoint may overwrite one with the other or result in errors. Plan to address these conflicts if they arise.
+
+4. **Test the Merge**: After merging, test the final presentation to ensure all macros function correctly and no functionalities are lost.
+
+5. **Backup and Best Practices**:
+   - Always back up your files before merging.
+   - Consider using third-party tools or scripts for more complex tasks, but prioritize built-in features first if possible.
+
+By following these steps, you can effectively merge PPTM files while preserving macros and functionality.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

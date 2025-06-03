@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 RTF（富文本格式）合并，用于跨平台文档编译
+
+RTF 文件用于跨平台的格式化文本文件。合并 RTF 文件可以在不同系统中保持格式，同时结合内容。
+
+#### 用途：
+
+- **格式化文本汇总**  
+  将来自不同系统的报告或笔记合并成一个格式化的文档。
+
+- **跨平台文档聚合**  
+  将从不同文字处理软件创建的内容整合到一个统一文件中。
+
+- **项目文档编制汇集**  
+  将多个 RTF 笔记或交付物合并成一个最终报告。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

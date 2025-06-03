@@ -75,7 +75,28 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Открытие файлов .odp позволяет пользователям модифицировать, переиспользовать или преобразовать презентации OpenDocument, обычно создаваемые в LibreOffice или OpenOffice. Эти файлы могут быть ограничены из-за защиты паролем или встроенных настройек прав доступа. Открытие позволяет редактировать данные файлы на разных платформах, особенно при миграции контента в Microsoft PowerPoint или Google Slides, и является важным для образованных, государственных учреждений и организаций, раздающих материалы в открытом формате.
+
+#### **ODP (OpenDocument Presentation)**
+
+- **Раскрывание на разных платформах**  
+  Открыть файлы .odp, созданные в LibreOffice или OpenOffice, для редактирования в Microsoft PowerPoint или Google Slides.
+
+- **Примерирование между офисными пакетами**  
+  Удалить ограничения при работе с разными офисными пакетами (LibreOffice ↔ MS Office).
+
+- **Извлечение відкритого контента**  
+  Получить доступ к встроенным изображениям, тексту или диаграммам для образовательных материалов или публічних документів.
+
+- **Создание публічних версий**  
+  Открыть академічні або державні файли ODP для форматування, перекладу чи публічної розподілки.
+
+- **Відновлення некомпетентно доступних даних**  
+  Полезно при роботі з паролованими файлами ODP, де оригінальні автори або ключі втрачені.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

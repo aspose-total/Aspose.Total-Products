@@ -81,7 +81,30 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Bilddateiformate (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Die Verknüpfung von Bilddateien zu einer einzigen visuellen Ausgabe oder einer strukturierten Formatierung (wie PDF, Collage oder Sprite) unterstützt Design-, Dokumentations- und digitale Veröffentlichungsworkflows.
+
+#### Anwendungsfälle:
+
+- **Digitales Album erstellen**  
+  Verknüpfen von Urlaub, Ereignis- oder Porträtbilder zu einem einzigen Galeriebundlauf oder Fotoalbum.
+
+- **Konsolidierung von Design-Auswahl**  
+  Verknüpfen von UI-Mockups, Social-Media-Grafiken oder Markenassets zu einem Referenzdateiformat für den Client.
+
+- **Gruppieren von geskanierten Dokumenten**  
+  Verbünden von Bildern in ein Archiv oder Dokument zur Lagerung oder Weitergabe.
+
+- **Visuelle Vergleichsarbeit und Vorher-Nachter-Diashows**  
+  Verknüpfen von Bildern zu Vergleichsausgaben in Berichten oder Marketingmaterialien.
+
+- **Bildungs- oder Produktanleitungen**  
+  Verbünden von annotierten Screenshots oder Produktfotos zu sequentiellen Anleitungen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des fichiers TIFF signés numériquement ou par signature électronique
+
+Le format TIFF est préféré pour la documentation d'images à haute résolution. L'signature numérique des fichiers TIFF est essentielle dans les secteurs juridiques, médicaux et archivistiques.
+
+## Utilisations courantes
+- Preuves légales et scans admissibles en justice.
+- Résultats de tests médicaux et images radiologiques.
+- Plans d'ingénierie et documents architecturaux.
+- Préservez les documents historiques.
+- Preuves de réclamations d'assurance dans format image.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

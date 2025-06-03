@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 RTF 文件以实现简化的丰富文本存储和传输
+
+RTF (富文本格式) 文件用于跨不同平台的文本文档进行基本格式化。然而，当嵌入图像或扩展格式化时，文件大小可能会增加。压缩 RTF 文件有助于在系统间流程中简化使用。
+
+#### 使用场景：
+
+- **跨平台兼容性**  
+  减少 RTF 文件大小以确保在不同系统之间快速传输，同时保持格式不变。
+
+- **遗留系统兼容性**  
+  对老旧应用程序或系统进行压缩处理，以便更顺畅地处理文档。
+
+- **嵌入资源优化**  
+  通过压缩 RTF 文档，减少嵌入媒体（如标志或图表）的影响，使文件更加轻量化。
+
+- **高效的电子邮件和表格提交**  
+  压缩后的 RTFs符合大小限制，可用于上传到表单或作为电子邮件附件发送。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

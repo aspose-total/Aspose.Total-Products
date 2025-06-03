@@ -80,7 +80,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Merge ODT (OpenDocument-Text) für offene Zusammenarbeit und Dokumentenversammlung
+
+ODT-Dateien sind offene Word-Verarbeitungsdateien (LibreOffice, OpenOffice). Das Mergen von ihnen unterstützt die offene Formatkollaboration.
+
+#### Nutzungsfälle:
+
+- **Offene Quellen-Kollaboration**  
+  Mergen Sie Beiträge von verschiedenen Autoren in ODT-Format zu einem einzigen Dokument.
+
+- **Dokumentationsbereitung**  
+  Kombinieren Sie Kapitel oder Abschnitte von Handbüchern oder Büchern, die in ODT-Format geschrieben wurden.
+
+- **Regierungs- oder NGOs-Berichterstellung**  
+  Konsolidieren Sie Berichte, die in offenen Standards formatiert wurden, für die Einreichung.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

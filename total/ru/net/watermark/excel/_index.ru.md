@@ -76,7 +76,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Эксель широко используется для работы с данными на основе данных. Водяные марки для Excel-сетей помогают передать конфиденциальность и контекст, особенно во время обзора данных или финансовых раскрытий.
+
+**Настоящие примеры использования:**
+
+- Определение spreadsheet как предварительных, конфиденциальных или подтвержденных  
+- Превенция использование собственных расчетов или прогнозов  
+- Метки для внутреннего аудита или финансовой отчетности  
+- Водяные марки для dashboards для контроля распределения  
+- Тегирование данных как устаревших, архивных или находящихся в тестировании  
+- Обозначение владения финансовыми моделями или аналитики
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

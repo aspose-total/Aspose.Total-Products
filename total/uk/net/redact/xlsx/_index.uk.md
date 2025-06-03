@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Редактирование в .xlsx (Microsoft Excel)
+
+- Редактировать данные о зарплатах сотрудников и бонусах в файлах учета отчетов по зарплатам.  
+- Редактировать информацию о клиентах или поставщиках в отчетах по продажам и закупкам.  
+- Редактировать данные о внутренних бюджетных распределениях или прибыль в финансовых таблицах.  
+- Редактировать конфиденциальную информацию в дашбордах выполнения задач или таблицах отслеживания КПИ.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

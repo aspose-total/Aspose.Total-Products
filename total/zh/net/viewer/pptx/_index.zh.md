@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+默认且最广泛使用的`.pptx`——演示文稿（Open XML）格式，自2007年以来为PowerPoint设计。该格式不支持宏，并旨在供现代编辑和查看。
+
+**用途：**
+
+- 查看推演包、网络研讨会和营销展示。
+- 在电子学习平台中嵌入培训材料。
+- 在协作工具中预览会议幻灯片。
+- 在知识管理系统中展示团队或公司更新。
+- 在SaaS平台上分享客户教育材料。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

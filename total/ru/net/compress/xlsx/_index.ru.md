@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы XLSX для управления портативными и масштабируемыми таблицами Excel
+
+Файлы XLSX (Excel Open XML Workbook) — самая распространённая форма Excel, но они могут увеличиваться за счёт вставки изображений, сложных формул и пивотных таблиц. Сжатие обеспечивает удобство использования и быструю совместимость.
+
+#### Примеры применения:
+
+- **Легкий обмен данными**  
+  Поделяйтесь сжатыми файлами XLSX в коллаборативных средах, таких как Teams или Google Drive.
+
+- **Совместимость с электронной почтой и хранением в облаке**  
+  Избегайте ограничений по размеру файла, не уменьшая качество финансовых или операционных отчетов.
+
+- **Быстрая загрузка и вычисления**  
+  Улучшите откликновение больших файлов XLSX на низкосpec машинах.
+
+- **Efficient Archival**  
+  Храните сотни отчетов с сжатыми версиями, чтобы сократить нагрузку на хранение.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

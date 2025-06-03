@@ -78,7 +78,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Fichiers de présentation Microsoft PowerPoint : Utilisations des champs de métadonnées
+
+- Déscrire l'objet, le public ou le thème d'une présentation à l'aide des champs de métadonnées.  
+- Suivre les versions et les auteurs pour des déossages de présentations corporatives.  
+- Classer en fonction du caractère interne/externe et confidentiel/public des diapositives.  
+- Automatiser les approuvés de flux de travail pour des présentations marquées ou exécutives.  
+- Inclure les droits d'auteur, les licences et les droits d'utilisation pour les actifs visuels et les modèles.  
+- Améliorer la recherche et l'indexation de présentations clés au niveau de l'organisation.  
+- Faciliter l'organisation du contenu par des gestionnaires de présentations tiers ou des plateformes LMS.  
+- Aider l'IA à recommander les modèles de diapositives, à réutiliser les déossages ou à marquer automatiquement les présentations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

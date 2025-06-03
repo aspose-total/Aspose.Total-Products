@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Документ Microsoft Word 97–2003 — Примеры использования
+
+- Используется в устаревших системах, где редактирование должно быть ограничено для обеспечения совместимости.  
+- Защитяет от случайных изменений в архивных правовых или исторических документах.  
+- Прерывает несанкционированные изменения содержимого в устаревших государственных или корпоративных процессах.  
+- Полезно в настройках соответствия, где критична целостность файла исходного формата.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

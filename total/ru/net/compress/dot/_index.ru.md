@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы DOT для управления шаблонами Word legacy
+
+Файлы DOT (шаблоны Word 97–2003) — это более старые шаблоны Word, которые могут включать разнообразную форматирование или изображения. Сжатием файлов DOT делается более эффективной и переносимой систем управления наследными шаблонами.
+
+#### Примеры использования:
+
+- **Очистка библиотеки шаблонов**  
+  Уменьшение размера файлов DOT для поддержания компактного и организованного репозитория шаблонов.
+
+- **Быстрее загрузка на старых системах**  
+  Меньшие размеры файлов DOT улучшают время отклика на более старых машинах или в виртуальных средах.
+
+- **Компактное хранение архива**  
+  Архивирование наследных шаблонов в сжатой форме для снижения долгосрочных расходов на хранение данных.
+
+- **Шаблоны политик предприятия**  
+  Ускорение раздачи стандартных шаблонов DOT между отделами.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

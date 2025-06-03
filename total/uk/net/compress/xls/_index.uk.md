@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжати файлы XLS для оптимизации старых工作буковок Excel
+
+Файлы XLS (Работа簿 Excel 97–2003) могут становиться слишком большими из-за встроенных диаграмм, формул или больших наборов данных. Сжати такие файлы способствует лучшему обрабатыванию и совместимости с более старыми системами.
+
+#### Примеры использования:
+
+- **Архивирование финансовых записей**  
+  Уменьшение размера исторических файлов XLS, содержащих данные по финансам или отчеты.
+
+- **Быстрее интеграция с устаревшими системами**  
+  Ускорение обработки больших файлов XLS в более старых версиях Excel.
+
+- **Оптимизированное обмен документами**  
+  Сжати файлы XLS для соблюдения ограничений размера при отправке по электронной почте или загрузке на сервер shares.
+
+- **Портативность данных для работы в офисе**  
+  Перевозка компактных файлов XLS на USB или портативные устройства для использования на полях или на аудиториях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

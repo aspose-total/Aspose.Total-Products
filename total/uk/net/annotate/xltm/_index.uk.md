@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы XLTM (Macro-ENABLED Template) поддерживают повторное использование с макросами. Аннотации предоставляют важные сведения о точках автоматизации, ожидаемых вводах или результатах макроса.
+
+#### Обозначение XLTM-файлов для работы с макросными шаблонами — примеры использования:
+
+- **Документация макроса**: объяснение тригеров и предполагаемого действия.
+- **Руководство для пользователей**: обозначение разделов, которые пользователи не должны изменять, чтобы сохранить автоматизацию.
+- **Замечания по тестированию**: отметка区域, которые подвергаются проверке качества во время тестирования XLTM-файлов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

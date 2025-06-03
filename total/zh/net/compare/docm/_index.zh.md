@@ -73,7 +73,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM文件对带有宏的文档审计用例进行比较：
+
+- **宏变更检测**：识别宏在不同版本中添加、移除或修改的情况。
+
+- **文档完整性审计**：确保文档内容和宏行为在受监管环境中保持一致。
+
+- **自动化项目中的版本审查**：跟踪带有宏的报告、发票或表单生成器的更新。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

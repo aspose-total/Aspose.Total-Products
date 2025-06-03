@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel таблицы в формате XLSX являются современным стандартом. Обновление файлов XLSX обеспечивает разные комментарии и обзоры в контексте данных, диаграмм и выравнивания данных.
+
+#### Обновление файлов XLSX для динамического анализа бизнеса — примеры использования:
+
+- **Обзор КПИ**: Маркировать значения для более глубокого анализа или обсуждения на dashboards.
+- **Совместная работа команды**: Предоставлять встроенные комментарии во время создания совместной отчетности.
+- **Проверка данных**: Значительно отметить подозрительные тенденции или расхождения в реальном времени.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

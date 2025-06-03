@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сценарии использования подписания файлов ODP с цифровыми или электронными подписями
+
+Файлы ODP предпочтительно используют пользователи LibreOffice Impress или OpenOffice. Цифровое подписание ODP обеспечивает нерепутацию в открытом源ных средах презентаций.
+
+## Common Use Cases
+- Академические слайды лекций и сертификаты.
+- Проекты НПО для валидации доноров.
+- Политические предложения в правительственных офисах с использованием ODP.
+- Вебинары технического характера, распространяемые через платформы开放ного источника.
+- Доклады сообщества, требующие электронной верификации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

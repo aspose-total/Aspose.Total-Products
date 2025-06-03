@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) поддерживает автоматизацию через макросы. Обновление этих файлов помогает командам флагировать результаты макроса, документировать автоматические изменения и проверять выводы логики.
+
+#### Обновление файлов XLSM для макрос驱ной работы - примеры использования:
+
+- **Анализ результатов макроса**: Комментариев на автоматически сгенерированные данные для валидации.
+- **Ответственность за автоматизацию**: Обновления выводов для указания успешных или неудачных запусков.
+- **Проверка кода**: Примечания, связанные с логикой макроса или его влиянием на данные.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

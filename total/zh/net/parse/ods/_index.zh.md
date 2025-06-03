@@ -87,7 +87,16 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 解析 .ods 文件的用途
+
+- 📊 从 OpenDocument 电子表格中提取结构化数据、公式和图表。
+- 🔁 将 .ods 文件转换为格式如 .xlsx、CSV 或 JSON 的文件。
+- 🧮 自动化从开源电子表格工具中提取和转换数据。
+- 📚 将开放格式迁移至企业应用程序或分析流水线中。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

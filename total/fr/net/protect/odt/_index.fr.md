@@ -79,7 +79,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | OpenDocument Text — Cas d'utilisation pour la protection
+
+- Utilisé dans les environnements open-source (par exemple, LibreOffice).  
+- Exige une protection pour garantir la cohérence à travers plusieurs plateformes logicielles.  
+- Utile dans le traitement des documents collaboratifs interplateformes.  
+- Aide à éviter les modifications structurales non autorisées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

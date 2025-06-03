@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#  使用电子签名签署XLS文件的用途
+
+XLS 是一种较旧的 Excel 格式，仍然用于保持向后兼容性。添加数字签名可以加密财务数据和版本完整性。
+
+## 常见用途
+- 传统财务报告和工资表格。
+- 早期 Excel 格式下的投资计划。
+- 采购数据及供应商提交文件中的 XLS 文件。
+- 政府审计报告使用旧的 spreadsheet 模板。
+- 员工薪水说明书，需要签名验证。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

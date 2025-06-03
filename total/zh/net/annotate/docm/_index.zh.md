@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM (带有宏的文档)文件支持集成宏以实现自动化。对DOCM文件进行注释能够为自动化过程提供重要背景信息，跟踪由宏产生的变更，并促进协作审阅。
+
+#### 带有宏的文档文件注释的协作用途：
+
+- **宏工作流程文档**  
+  对带有宏的文档进行注释，以解释每个宏的目的、预期输出以及其在文档自动化中的作用。
+
+- **用户操作宏功能指南**  
+  在文档中添加注释，指导用户如何与宏交互，或输入所需用于自动化操作的数据。
+
+- **调试和错误跟踪**  
+  在文档中插入注释，以突出宏在哪里会失败或数据输入错误的地方，从而帮助调试。
+
+- **宏自动化反馈**  
+  对宏在自动化文档任务（如表格创建、格式设置或内容填充）中的有效性提供反馈。
+
+- **对由宏生成的内容进行审阅**  
+  对需要手动审阅或修改的由宏生成的内容区域进行注释。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

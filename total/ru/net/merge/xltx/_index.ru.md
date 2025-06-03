@@ -79,7 +79,38 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge XLTX files in Excel, follow these organized steps:
+
+1. **Open Excel**: Start by launching Microsoft Excel on your device.
+
+2. **Access Multiple Files**:
+   - Open the primary template file you want to merge into.
+   - Use the "File" menu to open another XLTX file or group of files using the "Open and Merge" option if available.
+
+3. **Merge Functionality**:
+   - Utilize Excel's built-in "Import" function or explore add-ins for more advanced merging capabilities.
+   - Ensure that when importing, styles and layouts are merged without conflicts. Check for any style issues post-merge.
+
+4. **Style Management**:
+   - Be prepared to manage conflicting styles during the merge process to maintain consistency across documents.
+
+5. **Testing**:
+   - Test the merging process with simple templates to ensure functionality.
+   - Verify that the merged template is compatible with older Excel versions if necessary.
+
+6. **Considerations**:
+   - Use a centralized location for updates to streamline template management.
+   - Explore third-party tools or add-ins for efficient template merging, especially in larger organizations.
+
+7. **Documentation and Support**:
+   - Consult Microsoft guides or forums for detailed instructions if needed.
+   - Seek help from support channels if issues arise during the process.
+
+By following these steps, you can effectively merge XLTX files to maintain consistent formatting and streamline your document creation process.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.doc` est le format de fichier binaire ancien utilisé par Microsoft Word, principalement avant 2007.
+
+## **Cas d'utilisation: Désbloquer le format `.doc`**
+
+- **Éditer des documents d'affaires anciens**  
+  Les rapports et mémoires d'affaires dans le format `.doc` peuvent être bloqués ; le désbloque permet de les mettre à jour ou de les réadapter.  
+
+- **Extraire le contenu pour migrer**  
+  Nécessaire lors du transfert du contenu depuis `.doc` vers des formats modernes comme `.docx` ou Google Docs.  
+
+- **Récupérer des contrats ou des politiques archivés**  
+  Permet de'accéder à des documents juridiques ou HR anciens pour les examiner ou se conformer aux normes légales.  
+
+- **Supprimer les macros restrictifs ou les mots de passe oubliés**  
+  Aide les utilisateurs à contourner la protection par macros ou les mots de passe oubliés dans les documents anciens.  
+
+- **Convertir en formats accessibles**  
+  Permet de convertir les documents en HTML, PDF ou en texte brut pour une utilisation plus large ou pour être publiés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

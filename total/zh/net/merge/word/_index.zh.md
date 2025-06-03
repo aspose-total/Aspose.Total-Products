@@ -80,7 +80,30 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Microsoft Word 文档 (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word 是处理文本密集型文档的首选格式。合并 Word 文件简化了涉及多个贡献者、模板或版本的工作流程。
+
+#### 用途：
+
+- **统一报告汇编**  
+  将部门内或项目中的多份报告合并成一个专业的单一文件，用于提交或存档。
+
+- **合同和法律文档归集**  
+  将各种合同版本、附件和法律文件合并到一个主合同文件中。
+
+- **团队协作**  
+  将来自多个作者的贡献合并到一个单一文件中，以便进行协同编辑和审阅。
+
+- **提案和RFP集合**  
+  从不同来源汇总范围、价格和技术部分，组成一份连贯的提案或响应文件。
+
+- **政策和手册编写**  
+  将分开的政策文档合并到一个全面员工手册或操作手册中。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

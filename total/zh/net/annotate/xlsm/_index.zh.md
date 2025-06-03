@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM（带宏的 Excel 工作簿）支持通过宏进行自动化。注释这些文件有助于团队标记宏结果、记录自动化更改，并验证逻辑结果。
+
+#### 用案例说明如何为基于宏的工作流程注释 XLSM 文件：
+
+- **宏结果分析**：对自动生成的数据进行评论以进行验证。
+- **自动化反馈**：在输出中标记以指示执行成功或失败。
+- **代码审查**：添加有关宏逻辑或其对数据影响的注释。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

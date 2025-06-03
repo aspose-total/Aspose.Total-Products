@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Слияние файлов DOCX для современной документации в Word
+
+DOCX — это стандартный формат XML, используемый Microsoft Word для современных документов. Слияние файлов `.docx` важно для сотрудничества, агрегации содержимого и централизованной документации.
+
+#### Примеры использования:
+
+- **Документация проекта**  
+  Слияние файлов `.docx`, созданных разными участниками команды или отделом, в один обширный проектный документ.
+
+- **Сборка отчетов**  
+  Объединение месячных, квартальных или годовых отчетов из разных источников в единый файл для распределения.
+
+- **Взаимодействие с авторами**  
+  Слияние файлов `.docx`, содержащих черновые версии или вклады различных писателей, в один документ для последнего просмотра и публикации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

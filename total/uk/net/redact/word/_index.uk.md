@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Редактирование в Microsoft Word
+
+- Редактировать имена, адреса и номера идентификации в официальных документах.  
+- Редактировать конфиденциальную правовую информацию перед подачей судебных документов или контрактов.  
+- Редактировать внутреннюю коммуникацию и конфиденциальную бизнес-информацию в совместенных отчетах.  
+- Редактировать персональную или медицинскую информацию в файлах HR, суммарных отчетах о пациентах или академических записях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы ODT для лёгкой системы управления текстом OpenDocument
+
+Файлы ODT (OpenDocument Text), часто используемые в открытом офисном софте, такие как LibreOffice, могут увеличиваться размером из-за встроенных изображений, таблиц и продвинутой форматирования. Сжатием файлов ODT обеспечивается лучшая переносимость и производительность на разных системах.
+
+#### Примеры применения:
+
+- **Оптимизированное обмен документами**  
+  Уменьшение размера файла ODT для быстрого загрузки, отправки по электронной почте и безболезненной онлайнинской совместной работы.
+
+- **Эффективность хранения на облачных серверах**  
+  Сжатие документов ODT для сохранения места в общих папах и репозиториях документов.
+
+- **Повышение производительности на низкопотоленных устройствах**  
+  Меньшие файлы ODT загружаются быстрее на устройства с ограниченными ресурсами, улучшая пользовательский опыт.
+
+- **Простота архивирования**  
+  Хранение больших объёмов отчетов или руководств в компрессionedокументах.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

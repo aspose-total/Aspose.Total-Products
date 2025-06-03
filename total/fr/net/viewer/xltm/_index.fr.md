@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xltm` — Modèle de gabarit avec macros activés dans Excel - Un format de gabarit utilisé pour générer des livres de travail nouvelles avec une structure prédéfinie et une logique automatisée intégrée.
+
+**Cas d'utilisation :**
+
+- Affichage des modèles prédictifs avec fonctionnalités de macros.
+- Affichage des gabarits financiers ou auditables dans des outils d'entreprise.
+- Présentation des formulaires HR avec automation intégré.
+- Gestion des gabarits de factures avec macros dans des plateformes comptables.
+- Affichage des gabarits prédéfinis avec des champs logiques dans des outils CRM.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

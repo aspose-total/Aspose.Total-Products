@@ -75,7 +75,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compression des fichiers XLT M pour des modèles Excel optimisés avec des macros
+
+Les fichiers XLT M (modèles Excel avec macros) incluent des macro pour une automation réutilisable. Lorsqu'ils contiennent de la logique intégrée ou des données d'essai, ils peuvent devenir volumineux. La compression les rend plus facile à partager et à archiver de manière sécurisée.
+
+#### Cas d'utilisation :
+
+- **Partage de modèles d'automatisation**  
+  Distribuer des modèles avec macros à des équipes ou à des clients en utilisant des versions compressées XLT M.
+
+- **Travailflows de test plus efficaces**  
+  Compresser différentes versions de modèles XLT M pour un déploiement rapide et une mise à jour plus facile.
+
+- **Bibliothèques centrales de modèles**  
+  Maintenir une bibliothèque réduite de modèles avec macros en utilisant des formats compressés.
+
+- **Backup DevOps plus efficace**  
+  Stocker des versions compressées d'automatisation de modèles pour des rollbacks et un versionnement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

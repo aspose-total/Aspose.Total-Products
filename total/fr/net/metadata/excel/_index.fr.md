@@ -84,7 +84,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Utilisations des Métadonnées dans les Fichiers Excel de Microsoft
+
+- Stocker le contexte, la finalité et les détails des projets pour les ensembles de données à travers les propriétés du document.  
+- Identifier les propriétaires et contributeurs de données pour le suivi des versions et l'audit.  
+- Classer les tableaux de données financières, opérationnelles ou RH pour le contrôle de l'accès.  
+- Définir les cycles de vie du document (par exemple : actif, archivé, obsolète) à l'aide des métadonnées.  
+- Permettre des flux de travail automatisés pour les approbations financières ou les rapports de prévisions.  
+- Liener les données des tableaux avec des systèmes externs comme les ERP ou les bases de données à l'aide des métadonnées.  
+- Utiliser les métadonnées pour les tableaux de bord, la lignée des données ou les pipelines d'informations d'affaires.  
+- Aider l'IA à déterminer la structure, l'intention et l'importance du contenu des tableaux.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Использование сценариев подписи файлов PPTX с цифрами или электронными подписями
+
+Формат PPTX — современный формат PowerPoint, идеально подходящий для применения цифровых подписей для подтверждения собственности и точности содержания.
+
+## Общие сценарии использования
+- Советские собрания и презентации стратегии.
+- Образовательные и обучающие модули.
+- ПITCH-деки для инвесторов и презентации стартапов.
+- Деки обзора внутреннего с разрешением на распространение.
+- Прложения маркетинга, требующие авторизированной передачи.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

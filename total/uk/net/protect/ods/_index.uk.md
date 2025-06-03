@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | OpenDocument Spreadsheet — Use Cases for Protection
+
+- Используется в открытом源ных средах, таких как LibreOffice, для отслеживания бюджета и обмена данными.  
+- Защитывает формулы ячеек и вычисления в пересечных платформных процессах.  
+- Prevents structural changes in collaborative financial models or public-sector documents.  
+- Убережет согласованность при передаче между несколькими заинтересованными сторонами или отделами.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

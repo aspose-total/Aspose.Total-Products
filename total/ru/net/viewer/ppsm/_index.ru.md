@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsm` — PowerPoint Macro-Enabled Slide Show - Формат слайд-шоу, который запускает скрипты VBA во время презентации, полезный для интерактивного контента.
+
+**Примеры использования:**
+
+- Просмотр автоматизированных демонстраций продуктов с переходами и логикой.
+- Просмотр интерактивных модулей обучения с встроенными тестами.
+- Отображение самостоятельных презентаций, которые бегут самые.
+- Проверка контента слайдов, управляемого ВБА, в безопасном, только для чтения формате.
+- Сочетание макроса с контентом инструктивным в платформах LMS для деления.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы POTX (PowerPoint Template) используются для создания шаблонов презентаций без макро. Аннотация файлов POTX обеспечивает ясность в стандартах дизайна и способствует согласованности команды в использовании повторно используемых шаблонов презентаций.
+
+#### Использование аннотации файлов POTX для обратной связи по стандартному шаблону презентации:
+
+- **Проверка соответствия брендинга**  
+  Вставление аннотаций для проверки использования шрифтов, цветов и структуры слайдов в соответствии с руководством по брендингу.
+
+- **Инструкции по использованию placeholder**  
+  Добавление注释 о том, как использовать или заполнить конкретные области содержания для пользователей.
+
+- **Совместное создание шаблона**  
+  Предложение улучшений дизайна или определения зон содержания во время совместного设计а шаблона.
+
+- **Шаблоны образовательных слайдов**  
+  Добавление注释 или инструкций для образовательных шаблонов.
+
+- **Руководство по локализации**  
+  Аннотация секций для перевода или адаптации к регионным особенностям.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

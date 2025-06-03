@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Les fichiers Excel contiennent souvent des contenus basés sur les données, comme des modèles financiers, des tableaux d'analytiques et des feuilles de stocks. Un seul outil de visualisation permet aux utilisateurs d'examiner ces documents de manière sécurisée et efficace.
+
+**Cas d'utilisation :**
+
+- Consultation des tableaux de performance dans les systèmes CRM ou ERP.
+- Partage des budgets ou prévisions par l'intermédiaire de portails internes.
+- Aperçu des fichiers Excel dans les outils de gestion de projets.
+- Affichage des journaux d'audit ou listes de contrôle de conformité dans des applications réglementaires.
+- Révision des rapports de ventes dans les plateformes de gestion de l'intelligence d'affaires.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

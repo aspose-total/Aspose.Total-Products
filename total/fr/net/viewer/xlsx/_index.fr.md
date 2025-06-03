@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsx` — Fichier de travail Excel (format Open XML) - Le format standard et le plus utilisé pour les fichiers de travail Excel modernes. Il supporte des fonctionnalités riches comme les formules, les graphiques et la conditionnelle de formatage sans macro.
+
+**Utilisations :**
+
+- Affichage de tableaux de bord, des rapports de ventes ou des indicateurs clés performants dans les plateformes de gestion de clients.
+- Partage de tableaux de budgets ou de prévisions dans outils de gestion de projets.
+- Consultation des listes d'inventaire ou des catalogues de produits dans les systèmes de commerce électronique.
+- Prévisualisation des rapports de performance dans des portails d'analytiques.
+- Consultation de fichiers Excel partagés dans des applications de collaboration cloud.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

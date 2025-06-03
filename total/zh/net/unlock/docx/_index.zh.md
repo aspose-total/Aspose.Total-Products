@@ -78,7 +78,28 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` 格式是微软 Word 2007 引入的基于 XML 的文件格式，目前也广泛使用。
+
+#### **用途：解锁 `.docx` 格式**
+
+- **编辑只读文档**  
+  启用用户更新已默认锁定了的简历、报告或表格。
+
+- **团队协作**  
+  移除保护以允许跟踪更改、注释和共同作者。
+
+- **校正分发模板中的错误**  
+  方便校正模板中可能存在的错别字或格式问题。
+
+- **访问嵌入式媒体和数据**  
+  解锁结构化内容，如图表、图片和表格，以供重用。
+
+- **重新利用政府或企业文件**  
+  让用户根据指南、表格或政策进行调整，而无需手动复制。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

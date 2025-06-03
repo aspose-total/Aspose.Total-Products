@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 Excel 工作簿文件
+
+Excel 中，XLSX 是默认的工作簿格式。合并 `.xlsx` 文件是现代 Excel 工作流程中的常见实践，以实现统一报告、数据分析和协作。
+
+#### 用途：
+
+- **部门每月报告**  
+  将部门内的 `.xlsx` 报告合并到一个可直接用于仪表盘的工作簿中。
+
+- **数据提交汇总**  
+  从多个用户或办公室汇总提交的 `.xlsx` 表格或模板。
+
+- **项目文档编译**  
+  将包含项目跟踪或预算的 `.xlsx` 工作表合并到一个完整的工作簿中。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование сценариев подписи файлов ODS с цифровыми или электронными подписями  
+
+Файлы ODS — это формат spreadsheet, используемый в офисных приложениях open source. Подписание файлов ODS цифровой или электронной подписью помогает защищать финансовую и операционную информацию в средах, не использующих Microsoft.  
+
+## Общие сценарии использования  
+- Бюджеты и отчеты открыточных проектов.  
+- Учебные заведения, отслеживание данных о студентах.  
+- Государственные агентства в регионах с ограниченными затратами.  
+- НПО, составляющие отчеты доноров и проектов.  
+- Документы по планированию, требующие безопасных электронных подписей.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

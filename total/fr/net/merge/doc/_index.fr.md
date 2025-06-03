@@ -80,7 +80,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pour fusionner les fichiers DOC, il est recommandé d'utiliser Microsoft Word, qui dispose de la fonctionnalité de fusion de fichiers. Voici les étapes à suivre :
+
+1. **Ouvrir le fichier principal** : Dans Word, sélectionnez "Fichier" puis "Ouvrir", et choisissez le document principal que vous souhaitez fusionner.
+
+2. **Sélectionner les fichiers à fusionner** : Utilisez la barre de menus dérouillante "File" et choisissez "Ouvre dans une nouvelle fenêtre". Cela permettra d'ouvrir plusieurs fichiers DOC simultanément.
+
+3. **Fusionner les fichiers** : Après avoir ouvert tous les fichiers, vous pouvez utiliser la fonction "Consolidater" dans l'onglet "File". Cela fusionnera tous les fichiers sélectionnés dans le document principal.
+
+4. **Vérifier le format et le contenu** : Assurez-vous que le formatage est préservé et que tout le contenu a été correctement intégré. Si des problèmes de format sont détectés, vérifiez l'installation de Word pour s'assurer qu'elle est à jour.
+
+5. **Gérer les fichiers volumineux** : Si les fichiers sont volumineux, vérifiez que vous avez suffisamment d'espace sur votre disque dur et que vos systèmes de traitement de texte sont capables de gérer ce volume.
+
+6. **Conservation des métadonnées** : Les informations comme l'auteur, la date et les données intégrées doivent être préservées pendant la fusion. Utilisez Word pour s'assurer que ces détails sont correctement conservés.
+
+7. **Gestion des erreurs** : Si un ou plusieurs fichiers sont endommagés ou corrompus, Word vous informera probablement et ignorera les sections affectées. Prévoyez donc du temps pour gérer ces situations éventuelles.
+
+En cas de difficulté, considérez l'utilisation d'outils alternatifs ou de services en ligne spécialisés dans la conversion et la fusion de fichiers DOC.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

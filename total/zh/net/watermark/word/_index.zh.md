@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+微软Word广泛用于创建合同、提案、报告和政策等文本文件。在这些文档中添加水印有助于建立上下文并确保文件的完整性。
+
+**常见用途包括：**
+
+- 将文件标记为机密、草稿或仅限内部使用。
+- 识别内容的作者或部门。
+- 添加法律免责声明或版权说明。
+- 防止敏感文件未经授权的共享。
+- 在协作编辑中跟踪版本控制。
+- 遵守监管或审计要求。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

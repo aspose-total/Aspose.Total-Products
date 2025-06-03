@@ -90,7 +90,17 @@ There are three alternative options to install "Aspose.Slides for .NET" or "Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат `.ppt` — это более старый бинарный файловый формат, используемый версиями PowerPoint до 2007 года. Он поддерживает базовые функции поиска для устаревших презентаций.
+
+#### Примеры применения
+- **Поиск конкретного текста или фразы** в архивных презентациях без конвертации файлов.  
+- **Нахождение устаревших названий брендов или продуктов** в старых слайд-шках.  
+- **Проверка длинных презентаций на ключевые пункты или разделы.**  
+- **Навигация по комментариям и примечаниям** во время ручного обзора.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

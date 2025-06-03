@@ -80,7 +80,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Mise en œuvre du format RTF (Rich Text Format) pour l'assemblage de documents multidocumentaires sur des plateformes indépendantes
+
+Les fichiers RTF sont utilisés pour créer des documents de texte formatés qui sont compatibles avec différentes plateformes. La mise en œuvre de fichiers RTF permet de combiner le contenu tout en préservant les formats d'origine à travers les systèmes.
+
+#### Cas d'utilisation :
+
+- **Compilation de textes formatés**  
+  Assembler des rapports ou des notes provenant de différents systèmes dans un document formaté unique.
+
+- **Aggregation de documents cross-platforme**  
+  Unifier le contenu généré par des logiciels différents dans un fichier unique.
+
+- **Assemblage de documentation de projet**  
+  Miser sur plusieurs fichiers RTF ou notes pour créer un rapport final consolidé.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

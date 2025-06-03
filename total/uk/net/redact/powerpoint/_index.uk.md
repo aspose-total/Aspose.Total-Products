@@ -78,7 +78,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Редакция в Microsoft PowerPoint
+
+- Редактировать стратегический контент, хронологию или неопубликованные планы в презентациях для бизнеса.  
+- Редактировать конфиденциальные изображения, диаграммы или заметки из слайдов маркетинга или обучения.  
+- Редактировать имена клиентов, финансовые данные или внутренние показатели KPI перед наружной распределкой.  
+- Редактировать чувствительные визуальные элементы в презентациях для pitch-советов, предложений или кратких заметок для инвесторов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

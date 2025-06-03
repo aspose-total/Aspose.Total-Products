@@ -81,7 +81,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge PNG files losslessly, follow these organized steps:
+
+1. **Choose Software**: Use GIMP, an open-source image editor, as it supports multiple layers and is user-friendly.
+
+2. **Import Images**: Open each PNG file individually in GIMP, treating each as a separate layer.
+
+3. **Merge Layers**: Utilize the "Merge Layers" feature or layer menu to combine all images into one.
+
+4. **Optimize Files**: Before merging, ensure each PNG is trimmed of unnecessary metadata to minimize file size.
+
+5. **Save Result**: After merging, save the combined image as a single PNG file, maintaining lossless quality.
+
+This method ensures high-quality results using free tools, ideal for web design or branding needs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

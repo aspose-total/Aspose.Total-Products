@@ -80,7 +80,28 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Для объединения файлов формата RTF (Rich Text Format) на платформу-independent документацию можно использовать следующие методы:
+
+1. **Использование редакторов текста с функциями merge RTF:**
+   - Некоторые редакторы, такие как Microsoft Word, могут открыть и объединить несколько файлов RTF в один документ, сохраняя форматирование.
+
+2. **Скриптовое решение:**
+   - Если требуется более гибкая настройка, можно использовать скрипты, написанные на языке Python или другом. Например, библиотеки для парсинга RTF, такие как `python-docx`, могут помочь в этом процессе.
+
+3. **Обходные методы:**
+   - Если важно сохранить форматирование, можно использовать преобразование в другие форматы, например, HTML или Markdown, а затем обратно экспортировать в RTF.
+
+4. **Учет конфликтов форматирования:**
+   - При объединении файлов необходимо учитывать возможные конфликты в настройках шрифтов и стилях, чтобы избежать ошибок при отображении документа на разных платформах.
+
+5. **Проверка на различных системах:**
+   - После объединения файла важно протестировать его на разных операционных системах и редакторах, чтобы убедиться в корректном отображении форматирования.
+
+Эти методы позволяют создать документ, который будет выглядеть одинаково и форматироваться правильно на любом устройстве, независимо от используемого слова processors.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

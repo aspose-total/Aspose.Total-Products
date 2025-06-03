@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并宏启用文档文件（DOCM）
+
+DOCM 文件是支持宏的 Word 文档。合并 `.docm` 文件非常有用，尤其是在结合包含嵌入宏以实现自动化或处理的文档时。
+
+#### 使用场景：
+
+- **自动化报告汇总**  
+  将使用宏自动生成格式化数据、图表或表格的 `.docm` 报告合并到一个中心文档中。
+
+- **支持宏的文档创建**  
+  将具有不同报告或文档但保持和统一自动化功能的 `.docm` 文件合并。
+
+- **文档工作流程集成**  
+  合并具有相似宏功能的文档以改善跨团队的文档创建工作流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

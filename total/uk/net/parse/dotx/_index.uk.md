@@ -93,7 +93,17 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Использование файлов .dotx для создания стандартных документов
+
+- **Программное создание документов**: Используйте файлы `.dotx` (в формате XML) как шаблоны для автоматизированного заполнения формул и создания документов.
+- **Автоматизация заполнения**: Напишите скрипты или программы, чтобы заменять placeholders на реальные данные, что позволит массово производить документы.
+- **Извлечение текста и структуры**: Используйте библиотеки для парсинга XML, чтобы извлечь текст и структуру шаблона для интеграции с СМИ или системами управления документами.
+
+Эти шаги позволят вам эффективно работать с файлами `.dotx`, автоматизируя процесс создания стандартных документов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

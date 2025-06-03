@@ -81,7 +81,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧩 Cas d'utilisation pour les Modèles XML de Documents (.dotx)
+
+- **Intégrer les métadonnées du modèle dans les systèmes de génération de documents.**  
+- **Classer les modèles en fonction des besoins en matière de marquage, juridiques ou RH.**  
+- **Permettre aux systèmes d'IA de recommander des modèles dans un contexte spécifique.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

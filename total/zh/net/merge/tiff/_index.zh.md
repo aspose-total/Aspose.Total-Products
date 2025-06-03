@@ -81,7 +81,22 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+TIFF（标签图像文件格式）广泛用于需要无损压缩或完全不压缩的高质量图片。将`.tiff`文件合并非常有用，特别是当你需要组合扫描件、多页文档或大型图片时。
+
+#### 使用场景：
+
+- **创建多页文档**  
+  将多个`.tiff`文件（每个文件代表一个文档页面）合并成一个单一的多页文件，以便于更方便地查看或打印。
+
+- **高分辨率扫描**  
+  将包含绘画、文件或蓝图各部分扫描内容的`.tiff`文件合并成一个高分辨率图片。
+
+- **存档和保存**  
+  合并`.tiff`文件以供存档，其中图片质量和细节保留至关重要。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

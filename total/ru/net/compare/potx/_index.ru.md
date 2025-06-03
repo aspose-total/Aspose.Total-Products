@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Использования POTX-файлов для сравнения версий шаблонов дизайна
+
+POTX (PowerPoint Open XML Template) - файлы с повторно используемыми слайдами без поддержки макросов. Сравнение POTX-шаблонов обеспечивает визуальную одинакую и помогает отслеживать изменения в брендинге и обновлениях дизайна за время.
+
+- **Отслеживание изменений бренд-шаблонов**  
+  Определите изменения тем, цветовых схем и шрифтов для поддержки корпоративного брендинга.
+
+- **Обновление и оценка дизайна**  
+  Сравните старые и новые версии для одобрения изменений в мастер-слайдах, placeholder'ах и общем оформлении.
+
+- **Одинаковая тема презентаций**  
+  Убедитесь, что стандартные шаблоны均匀 применяются внутри отделов или проектов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

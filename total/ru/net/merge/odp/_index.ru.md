@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Объединение файлов ODP (OpenDocument Presentation) для единого представления слайдов в открытом формате
+
+Файлы ODP — это формат презентаций, используемый LibreOffice и OpenOffice. Объединение файлов ODP позволяет предоставлять единые слайды в открытом формате.
+
+#### Примеры использования:
+
+- **Презентации для государственного сектора**  
+  Сочетание презентаций из разных отделов в единую презентацию.
+
+- ** Интеграция учебных слайдов**  
+  Объединение лекционных слайдов в один документ для курса.
+
+- **Коллаборативные презентации на конференциях**  
+  Объединение файлов ODP участников для организованного представления на мероприятиях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

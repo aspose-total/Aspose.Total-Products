@@ -93,7 +93,18 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Die `.xlsx`-Dateiformat ist das moderne, auf XML basierte Excel-Dateiformat, das verbesserte Leistung und neue Funktionen bietet.
+
+#### Anwendungszwecke
+1. **Schnell suchen von spezifischen Werten oder Texten** in großen Datensätzen oder mehreren Blättern.
+2. **Finden und Ersetzen von Formeln oder benenneter Bereiche** für Modellaktualisierungen.
+3. **Identifizieren von Datendifferenzen oder Fehlern** durch gezielte Suchen.
+4. **Navigieren von Kommentaren oder Notizen** in kollaborativen Arbeitsbüchern.
+5. **Suchen von Platzhalter in Vorlagen-Exceldateien** für automatisierte Prozesse.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

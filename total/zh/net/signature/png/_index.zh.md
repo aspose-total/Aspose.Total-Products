@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#  PNG文件的电子签名或数字签名用途
+
+PNG文件通常用于清晰且无损的文档扫描。PNG图像上的数字签名有助于防止未经授权的编辑。
+
+## 常见用途
+-身份验证文件。
+-印章、标志和水印认证。
+-法律证据中的扫描信件。
+-房地产交易中的财产图片。
+-以图像形式存在的公司信笺文件。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

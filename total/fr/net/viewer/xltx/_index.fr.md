@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xltx` — Modèle Excel - Format de modèles Excel non contenant des macros utilisés pour créer des tableaux de feuilles excel standardisés sans scripts intégrés.
+
+**Utilisations :**
+
+- Prévisualisation de modèles Excel portant la marque de l'entreprise pour l'élaboration de budgets.
+- Affichage de rapports et de formulaires standardisés dans les départements.
+- Visionnage de listes modulées ou de suivi opérationnel dans les systèmes fonctionnels.
+- Partage de documents de planification réutilisables dans des outils de gestion de projets.
+- Maintien de la cohérence dans la structure des tableaux à travers les équipes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы XLTX для линейного использования современных шаблонов Excel
+
+XLTX (Excel Open XML Template) — современный формат шаблонов, используемый для однакового оформления и структурирования. Сжатие полезно, когда файлы XLTX содержат предзагруженные данные или графики.
+
+#### Примеры использования:
+
+- **Раздача стандартных шаблонов**  
+  Сжать файлы шаблонов для быстрого развертывания в отделах или системах.
+
+- **Оптимизация доступа на сетевых дисках**  
+  Уменьшить размер koleksiyonu шаблонов, чтобы ускорить доступ к ним на сетевых дисках.
+
+- **Доступность на мобильных и удаленных устройствах**  
+  Ускорить загрузку и доступ к шаблонам в сценариях удаленной или полевой работы.
+
+- **Совместимость с электронной почтой и порталом web**  
+  Убедиться, что шаблоны соответствуют ограничениям размера при загрузке или отправке в электронную почту.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

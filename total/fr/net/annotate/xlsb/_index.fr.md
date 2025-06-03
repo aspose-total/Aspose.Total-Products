@@ -78,7 +78,17 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier de travail Excel binaire (XLSB) sont optimisés pour des données d'entreprise à grande échelle. L'annotation permet aux équipes de fournir du contexte sur les cellules critiques, aidant ainsi à une collaboration en équipe sans perte de performance.
+
+#### Annoter les fichiers XLSB pour un traitement efficace des données d'entreprise - Cas d'utilisation :
+
+- **Pipelines de données d'entreprise** : Insérer des commentaires pendant les étapes ETL pour suivre les modifications.
+- **Collaboration des équipes BI** : Annoter les indicateurs clés (KPI) et les tableaux de bord avec des informations ou des questions.
+- **Suivi des modifications** : Mettre en surbrillance des lignes ou des cellules mises à jour pour le contrôle de version.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,26 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 微软Word文档（`.doc`）的用途
+
+- **追踪作者身份和创建或修改历史**：  
+  追踪文件的作者身份以及记录其创建或修改的时间戳。
+
+- **通过标题、主题和关键词增强文档可搜索性**：  
+  提高文件在基于这些元数据进行检索时的可访问性。
+
+- **嵌入法律或许/licenses信息以保护文档**：  
+  为文件添加与版权相关的元数据，以确保其安全性和合规性。
+
+- **根据元数据字段自动化工作流程（例如归档规则）**：  
+  利用文件中的元数据字段来设置自动化处理流程，如自动归档或分类。
+
+- **协助内容分类和保留管理**：  
+  帮助对文档内容进行分类，并根据保留政策执行管理措施。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

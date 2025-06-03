@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Les présentations PowerPoint sont essentielles pour la communication d'affaires, le marketing et la formation. Une visionneuse unique permet aux utilisateurs de s'engager avec le contenu des diapositives sans avoir à lancer PowerPoint.
+
+**Cas d'utilisation :**
+
+- Intégrer des diapositives de formation dans les systèmes d'entrée en fonction.
+- Partager des pitch decks ou des présentations marketing avec les clients.
+- Prévisualiser des présentations pour investisseurs sur des sites web financiers.
+- Permettre aux éducateurs de présenter des slides de cours dans des salles virtuelles de classe.
+- Afficher des agendas d'événements ou des démos de produits dans des applications de conférence.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

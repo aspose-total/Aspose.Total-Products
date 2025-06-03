@@ -80,7 +80,32 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Слияние файлов RTF для платформонезависимой компиляции документа:
+
+RTF (Rich Text Format) — это формат текста, который позволяет создавать документы с форматированием, совместимыеacross разными системами. Слияние файлов RTF позволяет объединить содержание, сохраняя форматирование на разных платформах.
+
+#### Пример использования:
+
+1. **Слияние форматированного текста**  
+   Объедините отчеты или заметки из разных систем в один форматированный документ.
+
+2. **Совместимое агрегирование документа**  
+   Объедините содержание, созданное разными редакторами, в единый файл.
+
+3. **Сборка проектной документации**  
+   Объедините несколько RTF-значений или результаты в один окончательный отчет.
+
+Для выполнения этого действия можно использовать различные инструменты:
+
+- **Пандок (pandoc)**: Универсальный инструмент для преобразования между разными форматами, включая RTF.
+- **Скрипты на Python**: Используйте библиотеки для обработки текста, такие как `python-docx`, но убедитесь, что они поддерживают RTF.
+- **Онлайн-конвертеры**: Некоторные веб-сайты предлагают функцию слияния RTF-файлов.
+
+Важно учитывать совместимость форматирования и использовать подходящий инструмент для каждого случая.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

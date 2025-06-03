@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩带有宏的文档文件以实现流程化的文档自动化
+
+带有嵌入宏、脚本和媒体的 DOCM (支持宏的 Word 文档) 文件可能会变得非常大。压缩这些 DOCM 文件可以确保自动化工作流程更加顺畅，并促进协作。
+
+#### 用途：
+
+- **自动文档分发**  
+  减少文件大小以实现快速共享宏支持的模板。
+
+- **系统性能优化**  
+  压缩大型 DOCM 文件以减少内存使用和打开时间。
+
+- **安全的云上传**  
+  使用压缩来确保宏-heavy 文件更快、更可靠地上传到云存储中。
+
+- **宏库存档**  
+  高效存储嵌入宏的文档版本，而无需过多占用存储空间。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

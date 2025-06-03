@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mêler les fichiers XLSM pour des flux de travail Excel avec macros
+
+Les fichiers `.xlsm` sont des feuillis de tableur Excel avec des macros. La fusion de fichiers `.xlsm` doit préserver les données ainsi que les macros intégrés utilisés pour l'automatisation ou les calculs.
+
+#### Cas d'utilisation :
+
+- **Rapports d'automatisation de tâches**  
+  Fonder des feuillis macro-allowé qui automatisent la génération de rapports ou les vérifications dans un fichier central.
+
+- **Centralisation de modèles de flux de travail**  
+  Combiner des fichiers `.xlsm` utilisés dans différentes départements dans un tableur unique pour une automatisation plus fluide.
+
+- **Répertoire centralisé de code VBA**  
+  Fonder des fichiers contenant le même code VBA pour unifier la logique et réduire la duplication entre les départements.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

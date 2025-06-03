@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать JPG-файлы для портативного и быстрого передачи изображений
+
+Файлы с расширением JPG (JPEG) выигрывают от дополнительной компрессии, особенно при их повторном использовании в цифровых медиа или массовой дистрибуции.
+
+#### Примеры использования:
+
+- **Массовая загрузка изображений**  
+  Сжать несколько JPG одновременно для ускорения загрузки контента на платформах CMS.
+
+- **Снижение затрат на хранение в облаке**  
+  Уменьшить размер JPG в hosted медиа-библиотеках, чтобы снизить расходы на хранение.
+
+- **Улучшение загрузки приложений**  
+  Использовать более мелкие файлы JPG в галереях товаров или мобильных приложениях для лучшего UX.
+
+- **Оптимизация под низкоскоростные соединения**  
+  Передавать версии JPG в удаленные области или пользователям с медленными соединениями.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

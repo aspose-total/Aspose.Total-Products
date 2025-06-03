@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 DOTM 文件用于宏启用模板集成
+
+DOTM 文件是支持宏的 Word 模板。合并 .dotm 文件在整合依赖宏进行文档自动化的模板时非常有用。
+
+#### 用途：
+
+- **宏启用模板统一**  
+  合并多个部门使用的 .dotm 模板，以标准化格式和宏功能。
+
+- **模板创建中的自动化**  
+  结合使用依赖宏进行文档自动填充的 .dotm 模板，如发票生成或报告格式化。
+
+- **更新宏逻辑**  
+  合并 .dotm 模板以审阅和更新嵌入的宏，以提高自动化或功能增强。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

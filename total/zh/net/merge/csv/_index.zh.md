@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 合并 CSV（逗号分隔值）
+
+CSV 是一种文本格式，用于表格数据。合并 CSV 文件支持数据聚合、报告生成和自动化流程。
+
+#### 用途：
+
+- **统一数据报告**  
+  将销售、库存或交易数据合并到一个 CSV 文件中进行分析。
+
+- **ETL 和数据仓储**  
+  将日志文件或数据集合并成一致的格式以供 ingestion。
+
+- **调查和民意调查结果**  
+  合并已导出的调查响应以便综合评估。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

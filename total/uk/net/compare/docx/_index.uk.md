@@ -73,7 +73,20 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Документы в формате DOCX являются стандартным форматом для Microsoft Word, предлагающих продвинутые возможности по оформлению и XML-структуру. Сравнение файлов DOCX позволяет получать четкую видимость изменений, что способствует поддержке системы контроля версий и редакторской проверки.
+
+- **Супервизорство над редактированием командой**  
+  Проверка изменений, внесенных разными пользователями во время совместной разработки документа.
+
+- **Циклы одобрения содержания**  
+  Убедиться, что ключевые разделы были проверены и утверждены, сравнив версии "до" и "после".
+
+- **Обновления документов политического характера**  
+  Выделение изменений в руководствах, инструкциях или юридических текстах.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

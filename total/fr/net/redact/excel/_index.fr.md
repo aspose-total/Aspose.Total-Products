@@ -82,7 +82,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Éditation dans Microsoft Excel
+
+- Éditer les données financières telles que les salaires, les budgets ou les recettes de ventes avant leur diffusion.  
+- Éditer les données clients ou employés dans des tableurs relatifs à la vente, à la ressource humaine (RH) ou à l'audit.  
+- Éditer les entrées privées dans des journaux de données opérationnels ou administratifs.  
+- Éditer des indicateurs confidentiels dans des feuilles de planification ou des tableaux de stratégie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

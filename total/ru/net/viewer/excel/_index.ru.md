@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel файлы часто содержат данные-драйвенные контенты, такие как финансовые модели, аналитические диспетчеры и листы инвентаря. Одноактный просмотр позволяет пользователям безопасно и эффективно исследовать эти документы.
+
+**Использования:**
+
+- Просмотр диспетчеров производительности в системах КРМ или ЭРП.
+- Удостоверение бюджетов или прогнозов через внутренние порталы.
+- Привязка просмотра приложений управления проектами с Excel файлами.
+- Отображение журналов аудита или списков проверок соответствия в регуляторных приложениях.
+- Ревизия отчетов о продажах в платформах бизнес-аналитики.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

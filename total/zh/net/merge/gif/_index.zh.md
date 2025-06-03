@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并GIF文件用于动画或故事板制作
+
+GIF（Graphics Interchange Format）是一种流行的动画和简单图形格式。合并多个`.gif`文件是创建多帧动画、故事板或将多个动画元素合并为一个文件的关键步骤。
+
+#### 用途：
+
+- **创建动态GIF**  
+  将多个`.gif`文件合并成一个连续的动画，用于网络使用、广告或社交媒体。
+
+- **合并故事板**  
+  将代表动画不同帧的`.gif`图像合并为一个文件，以便进行审阅或分析。
+
+- **复杂动画多场景**  
+  合并包含不同动画场景的`.gif`文件，创建更复杂的项目。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

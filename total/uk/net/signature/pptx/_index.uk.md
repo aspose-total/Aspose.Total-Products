@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Примеры использования подписи PPTX-файлов с цифровыми или электронными подписями
+
+PPTX — современный формат презентаций Microsoft PowerPoint, который идеально подходит для применения цифровых подписей для подтверждения владения и достоверности содержания.
+
+## Общие примеры использования
+- Презентации на собраниях директивного состава и стратегические презентации.
+- Образовательные и обучающие модули.
+- ПITCH-деcky для инвесторов и презентации стартапов.
+- Деки обзора внутреннего审нения с одобрением руководителей.
+- Прosals по маркетингу, требующие авторизированного распределения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

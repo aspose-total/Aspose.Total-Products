@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS — это开放源代码 spreadsheet формат, используемый LibreOffice и OpenOffice.
+
+**Настоящие случаи по-умению включают:**
+
+- Показывать данные как Общественный, В отзыве или Внутренний
+- Водяная печать для указания источника данных
+- Метки для многопользовательской collaborate
+- Указание информации о лицензиях или авторстве
+- Флагирование данных для публикации в открытом формате
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

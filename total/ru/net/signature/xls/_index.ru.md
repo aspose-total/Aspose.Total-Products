@@ -76,7 +76,19 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование подписей для файлов XLS с цифровыми или электронными подписями  
+
+Файлы XLS — это старый формат Excel, используемый для обеспечения обратной совместимости. Добавление цифровой подписи защищает финансовую информацию и целостность версий.  
+
+## Несовременные финансовые отчеты и расчетники зарплат  
+Инвестиционные планы, передаваемые в 旧ом формате Excel  
+Данные о закупках и подаче заявок поставщиками в формате XLS  
+Государственные отчеты аудита, используемые с旧ыми шаблонами таблиц  
+Сведения о зарплатах сотрудников, требующие подтверждения подписи
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

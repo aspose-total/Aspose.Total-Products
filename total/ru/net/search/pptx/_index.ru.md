@@ -90,7 +90,18 @@ There are three alternative options to install "Aspose.Slides for .NET" or "Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат `.pptx` — современный стандарт на основе XML для презентаций в Microsoft PowerPoint, предоставляющий улучшенные функции и способности поиска.  
+
+#### Примеры использования  
+- **Быстрый поиск заголовков слайдов, текстовых коробок и заметок** в больших презентациях.  
+- **Найти и заменить названия брендов или термины продукции** во всех слайдах.  
+- **Находить комментарии и注释** для процесса ревизии на основе сотрудничества.  
+- **Убедиться в единстве терминологии и предупреждений** по всей презентации.  
+- **Перейти к определённым разделам или ключевым словам** во время редактирования или подготовки презентации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

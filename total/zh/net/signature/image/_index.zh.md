@@ -71,7 +71,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 电子签名图像文件的用途
+
+## 法律文件扫描件
+以 JPG、PNG 或 TIFF 格式存在的手写协议或公证文件可以通过电子签名来验证其真实性。
+
+## 身份验证与个人档案
+用于 KYC 或入户的护照、身份证和水电费账单等图片文件可用电子签名确保它们未被篡改。
+
+## 医疗影像
+以 TIFF 或 PNG 格式存在的 X 射线片或测试结果可以通过电子签名确认其来自认证医疗机构。
+
+## 艺术作品与创意提交
+设计、插图或营销图形等图片文件可用电子签名来声明知识产权。
+
+## 检查与合规照片
+在审计、检查或合规检查期间拍摄的照片通常会用电子签名来确认地点、时间和证据的真实性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

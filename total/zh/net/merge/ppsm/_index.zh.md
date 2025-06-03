@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ 合并带有宏的PPT（PowerPoint演示文稿）
+
+PPSM文件是包含宏的PowerPoint幻灯片展示文件。合并它们可以整合宏驱动的演示文稿，以实现自动化或交互式呈现。
+
+#### 用途：
+
+- **交互式培训交付**  
+  将培训模块与自动化脚本合并，简化学习流程。
+
+- **销售演示幻灯片集**  
+  将产品幻灯片展示与自动转换和交互元素结合，制作出更具吸引力的演示文稿。
+
+- **流程自动化演示文稿**  
+  合并多个带有宏的幻灯片文件，制作内部流程教程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

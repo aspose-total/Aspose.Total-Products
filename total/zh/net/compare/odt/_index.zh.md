@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 开放文档协作用例的ODT文件比较：
+
+开放文档格式（ODT，OpenDocument Text）是自由软件办公室套件如LibreOffice和OpenOffice的标准。通过对比ODT文件，可以在协作写作过程中实现透明化，尤其是在开放环境下。
+
+- **开放协作审计**  
+  跟踪在开放源代码文档中由贡献者所做的修订。
+
+- **政府和学术文件审查**  
+  比较官方表格、政策或研究草案，这些文件以ODT格式共享。
+
+- **公共工作流程中的透明度展示**  
+  展示对比，用于公开维护的文件和提案。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

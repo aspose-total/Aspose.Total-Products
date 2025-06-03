@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docm` — Word-Dokument mit Makrosupport - Dieses Format ist ähnlich wie `.docx`, aber enthält es eingebettete Makros für automatisierte Dokumentenprozesse.
+
+**Anwendungsbereiche:**
+
+1. Anzeige von makro-befähigten Formularen in Unternehmenssystemen.
+2. Vorschau von Vorlagen für Personal- oder Finanzdokumente mit VBA-Logik.
+3. Sichere Öffnung von Makroberichten in Konformitätsdashboards (lesendurch).
+4. Übersicht von Skripts oder automatisierten Vorlagen in Workflow-Tools.
+5. Anzeige von Formularen, die Berechnungen oder Geschäftsregeln auslösen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Rédaction dans .docx (Microsoft Word)
+
+- Rédiger à effacer les noms personnels, les informations de contact et les numéros d'identité dans les documents du personnel.  
+- Rédiger à effacer les détails sensibles des dossiers ou les informations sur les clients dans les contrats juridiques et les soumissions en justice.  
+- Rédiger à effacer les sections confidentielles dans les rapports internes, les minutes de réunion ou les documents de projet.  
+- Rédiger à effacer les méthodes propriétaires ou les résultats de recherche dans les articles savants ou scientifiques.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

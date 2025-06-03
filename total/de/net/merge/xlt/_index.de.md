@@ -79,7 +79,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Vergrenzen von XLT-Dateien für Excel-Basisworkflows  
+
+XLT ist das Excel-Vorlagformat für `.xls` (Excel 97-2003). Das Vergrenzen von `.xlt`-Dateien hilft, ältere Vorlagen in ein einheitiges Format zu integrieren und zu aktualisieren.  
+
+#### Anwendungsfälle:  
+
+- **Rückwärtskompatible Vorlagendurchführung**  
+  Kombiniert man mehrere `.xlt`-Vorlagen zu einer Hauptvorlage, um ältere Versionen zu unterstützen.  
+
+- **Standardisierung von Abteilungsvorlagen**  
+  Indem alte Vorlagen zusammenführen, kann man eine moderne `.xltx`-Alternative entwickeln und bewerten.  
+
+- **Historische Vorlagensammlung**  
+  Konsolidiert man ältere `.xlt`-Versionen, um sie für Einhaltsnahme oder als historische Referenz zu archivieren.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

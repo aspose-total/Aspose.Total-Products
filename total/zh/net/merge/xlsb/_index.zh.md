@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 XLSB 文件以高效处理大规模 Excel 数据
+
+XLSB（Excel 二进制工作簿）格式将数据以二进制形式存储，能够在处理大量数据时提供更快的性能。合并 `.xlsb` 文件可以确保企业级数据的高效处理。
+
+#### 用途：
+
+- **性能关键报告**  
+  合并大型 `.xlsb` 数据集以便于在高性能环境中快速加载和处理。
+
+- **BI 系统集成**  
+  将 `.xlsb` 文件合并后，用于向业务智能工具或仪表盘输入。
+
+- **传感器或机器数据的整合**  
+  综合由工业或实验室设备生成的二进制 Excel 日志文件，以实现中心化监控和自动化。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

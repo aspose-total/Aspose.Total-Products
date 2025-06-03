@@ -71,7 +71,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Cas d'utilisation du signautage de fichiers BMP avec des signatures numériques ou électroniques
+
+Les fichiers BMP sont utilisés pour le scanning et l'archivage. En signant numériquement les fichiers BMP, on garantit l'authenticité des documents et images scannés.
+
+## Cas d'utilisation courants
+- Documents juridiques numérisés ou conventions manuscrites.
+- Archives de signatures homologuées.
+- Diagrammes techniques nécessitant une approbation du technicien.
+- Documents immobiliers numérisés.
+- Planissoles avec authentification de la signature.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

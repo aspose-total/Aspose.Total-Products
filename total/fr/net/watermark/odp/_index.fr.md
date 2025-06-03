@@ -80,7 +80,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format de présentation ouvert utilisé par LibreOffice Impress et d'autres outils logiciels libres.  
+
+**Utilisations courantes :**  
+
+- Marquer les diapositives pour des forums publics, des examens internes ou un usage restreint  
+- Intégrer des licences Creative Commons ou des balises organisationnelles  
+- Soutenir la transparence publique dans les présentations des ONG ou du gouvernement  
+- Ajouter les crédits du présentateur ou les affiliations du projet  
+- Prévenir l'utilisation non autorisée en marquant les épreuves ou les versions non définitives
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

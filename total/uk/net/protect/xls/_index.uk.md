@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Мicrosoft Excel 97–2003 — Примеры использования защиты:
+
+- Часто используется в устаревших корпоративных системах — защита предотвращает коррупцию старых файлов.  
+- Защита сохраняет конфиденциальную финансовую информацию, формулы и макросы от несанкционированных изменений.  
+- Предотвращает случайное удаление данных, используемых другими системами.  
+- Используется в процессах аудита и отчетности, которые опираются на статическую историческую данные.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

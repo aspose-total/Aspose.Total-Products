@@ -78,7 +78,20 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 `.pdf` 文件的用途（元数据）
+
+- 嵌入文档标题、主题、关键词和作者以提高可发现性。
+- 保留符合规定的元数据，如文件版本、批准和分类。
+- 维护出版物或手册的数字版权信息。
+- 利用元数据自动化归档、删除或标记内容系统中内容。
+- 在法律、医疗或学术领域，实现安全的文档跟踪。
+- 与内容平台集成，以元数据为基础进行排序或筛选。
+- 将元数据馈送给AI系统，用于总结、分类或聚类。
+- 支持如语言、文档结构和替代文本提示等可访问性元数据。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

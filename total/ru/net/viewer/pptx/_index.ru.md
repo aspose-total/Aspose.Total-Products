@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Слайды .pptx — это стандартный и наиболее распространенный формат презентаций для PowerPoint с 2007 года. Это формат Open XML, без макросов и предназначенный для современного редактирования и просмотра.
+
+**Примеры использования:**
+
+- Просмотр pitch-deк, вебинаров и маркетинговых презентаций.
+- Включение учебных материалов в платформах e-learning.
+- Превью слайдов наcollaboration tools.
+- Отображение информации о команде или компании в системах знаний.
+- Разделение образовательных материалов для платформ SaaS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

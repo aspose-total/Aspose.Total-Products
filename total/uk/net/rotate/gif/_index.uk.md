@@ -73,7 +73,27 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To rotate a GIF effectively, follow these organized steps:
+
+1. **Choose Your Tool**: Select an image editing software like Photoshop for advanced options or use free tools such as GIMP or Adobe Express for user-friendly interfaces.
+
+2. **Upload the GIF**: Open your chosen tool and upload the GIF file you wish to rotate.
+
+3. **Select Rotation Angle**: Look for a rotation feature that allows you to choose from common angles (e.g., 90°, 180°) or custom degrees if needed.
+
+4. **Apply Rotation**: Once the angle is selected, apply the rotation. Be cautious with transparency and quality, especially if text or images are involved.
+
+5. **Adjust Settings**: Use settings like "Maintain Aspect Ratio" to ensure proportions remain consistent after rotation.
+
+6. **Test Safely**: Work on a duplicate copy of your GIF in a temporary folder before making permanent changes.
+
+7. **Explore Additional Features**: Some tools offer mirroring or flipping post-rotation, which can be beneficial for specific projects.
+
+By following these steps, you can rotate your GIF efficiently while considering quality and customization needs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

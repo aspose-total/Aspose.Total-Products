@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC（Microsoft Word二进制文档）文件是广泛使用的遗留格式，仍然在文档工作流程中发挥着关键作用。对DOC文件进行注释可以增强团队协作、遗留文档审查以及变更跟踪，而无需改变原始内容。
+
+#### 用途：
+
+- **遗留文档审查**  
+  对旧的DOC文件中的部分进行注释，以标记过时的内容、格式不一致或需要现代化的区域。
+
+- **合规和法律备注**  
+  添加注释以提供法律背景或法规参考信息，用于合同、政策和文档中。
+
+- **编辑协作**  
+  在文档编辑周期中插入审阅建议或编辑标记，特别是在变更跟踪功能未启用的情况下。
+
+- **培训文档更新**  
+  突出需要更新的指令性内容，以与当前程序或指导方针保持一致。
+
+- **版本控制洞察**  
+  用注释标注版本或审阅历史，跟踪文档在审阅周期中的变更。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

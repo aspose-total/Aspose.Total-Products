@@ -123,7 +123,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier DOTM (Modèles Word avec macros activées) contient des scripts d'automatisation pour améliorer la productivité. L'annotation des fichiers DOTM permet de documenter les comportements des macros et facilite l'identification des erreurs ainsi que la collecte de retours.
+
+#### Utilisations de l'Annotation dans les Fichiers DOTM pour l'examen des Modèles Activés par Macros :
+
+- **Documentation des Instructions et de la Logique des Macro**  
+  Annoter les champs déclenchés par des macros pour préciser la fonctionnalité et les résultats attendus.
+
+- **Examen et Test de l'Automation**  
+  Insérer des notes pour signaler les macro qui réussissent ou échouent pendant les tests.
+
+- **Explication du Comportement du Modèle**  
+  Commenter les sections de mise en page ou de formatage automatisées pour aider les utilisateurs à comprendre le flux des modèles.
+
+- **Intégration de Matériaux d'Apprentissage**  
+  Ajouter des prompts d'apprentissage directement dans les modèles pour faciliter l'intégration d'un nouveau utilisateur.
+
+- **Isolation et Explication des Erreurs**  
+  Utiliser des annotations pour isoler et expliquer les bugs causés par l'exécution des macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Zavírzenie plików ODP (OpenDocument Presentation) dla jednofайлової презентacji w otворених форматах
+
+Пlikи ODP — це формат презентacji для LibreOffice та OpenOffice. Завírzenie plików ODP дозволяє надавати відкритим форматом з уніфікованих слайдів.
+
+#### Применування:
+
+- **Презентации для публічного сектора**  
+  З'єднання презентаций різних відділів у єдину повну презентацію.
+
+- **Intеграція слайдів для навчальних занять**  
+  Z'єднання слайдів з лекцій у jeden курсовий документ.
+
+- **Завírzenie презентаций для колаборативних конференцій**  
+  Z'єднання plików ODP виставлень говорящих для організованих presentations на події.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

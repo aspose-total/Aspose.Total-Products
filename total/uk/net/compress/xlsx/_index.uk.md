@@ -75,7 +75,29 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжмите файлы XLSX для масштабируемой и портативной управление книгами
+
+Файл XLSX (Excel Open XML Workbook) — это наиболее распространённый формат Excel, но при этом он может увеличиваться за счёт изображений, сложных формул и таблиц с пионированием. Сжмение обеспечивает удобство и быструю совместимость.
+
+#### Применение:
+
+- **Легкий сотрудничество**  
+  Поделите сжатые файлы XLSX в коллаборативных средах, таких как Teams или Google Drive.
+
+- **Совместимость с электронной почтой и хранением в облаке**  
+  Соблюдайте размер файла без уменьшения качества финансовых или оперативных отчетов.
+
+- **Быстрая загрузка и вычисления**  
+  Ускорите загрузку и вычисления больших файлов XLSX на машинах с ограниченными характеристиками.
+
+- **Efficient Archival**: "Store hundreds of reports with compressed versions to reduce storage overhead." Translated as "Храните сотни отчетов с сжатыми версиями для уменьшения нагрузки на хранение."
+
+- **Работа с архивом**  
+  Храните сотни отчетов с сжатыми версиями для уменьшения нагрузки на хранение.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

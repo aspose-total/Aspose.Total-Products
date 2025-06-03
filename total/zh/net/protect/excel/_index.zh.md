@@ -78,7 +78,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — 工作簿保护的用途
+
+- 保护公式、计算和财务模型免受意外或故意更改。
+- 锁定特定的单元格或工作表，同时允许用户在指定区域输入数据。
+- 保护敏感业务数据，如预算、预测和客户信息。
+- 通过密码保护和加密控制访问，以符合数据隐私政策的要求。
+- 防止团队共享的仪表盘和关键绩效指标（KPIs）被篡改。
+- 保护由宏驱动的自动化工具以及在操作流程中使用的动态电子表格。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

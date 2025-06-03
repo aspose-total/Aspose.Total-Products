@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Merging XLTM Files for Macro-Enabled Templates
+
+XLTM files are macro-enabled templates used in Excel for automating recurring tasks. Merging them is useful when consolidating automation logic or migrating workflows.
+
+#### Use Cases: 
+
+- **Workflow Automation Libraries**  
+  Merge `.xltm` templates containing different macros for various functions into one centralized template.
+
+- **Department-Specific Template Integration**  
+  Combine macro-enabled templates from different departments to standardize process automation.
+
+- **Audit of Macro-Based Processes**  
+  Merge `.xltm` templates to review embedded macros for compliance and optimization.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

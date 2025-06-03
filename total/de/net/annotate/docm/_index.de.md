@@ -123,7 +123,28 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM-Dateien (Dokumente, die Microsoft Word mit Makros unterstützen) ermöglichen die Integration von Makros für automatisierte Prozesse. Die Annotierung von DOCM-Dateien liefert wichtige Kontextinformationen zu automatisierten Vorgängen, ermöglicht das Verfolgen von Änderungen, die durch Makros vorgenommen werden, und fördert die Zusammenarbeit bei der Überprüfung.
+
+#### Annotieren von DOCM-Dateien für makro-basierte Dokumentenkollaboration:
+
+- **Dokumentation der Makro-Workflow**  
+  Annotieren Sie DOCM-Dateien, um zu erklären, was jeder Makro für einen bestimmten Zweck bewirkt, welche Ausgangsdaten er benötigt und wie er in den automatisierten Prozess einzugriffen ist.
+
+- **Anweisungen für die Benutzung von Makro-Funktionen**  
+  Fügen Sie Annotierungen hinzu, um Benutzer daran zu leiten, wie sie mit den Makros interagieren oder welche Eingaben benötigt werden, um automatisierte Aktionen durchzuführen.
+
+- **Fehlersuche und Fehlerverfolgung**  
+  Setzen Sie Kommentare ein, um Bereiche hervorzuheben, in denen Makros versagen oder bei denen falsche Eingaben gemacht werden, was zur Debugging hilft.
+
+- **Rückmeldung zu automatisierten Prozesse**  
+  Teilen Sie Feedback dazu, wie effektiv Makros sind, automatische Aufgaben wie Tabelle erstellen, formatieren oder Inhalte füllen.
+
+- **Überprüfung von Inhalten, die durch Makros generiert werden**  
+  Annotieren Sie Bereiche, in denen der Inhalt, den Makros generiert wird, manuell überprüft oder angepasst werden muss.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Word Document (Modern) — Use Cases for Protection
+
+- Common in contracts, reports, and HR documentation where editing must be limited.  
+- Protects structured content like TOCs, headers, and legal terms from being changed.  
+- Enables tracked changes in collaborative editing while locking key sections.  
+- Used for distributing finalized documents where only comments are allowed.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,18 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — Cas d'utilisation pour la protection des documents
+
+- Prévenir l'édition non autorisée de contrats juridiques, politiques de ressources humaines ou articles académiques.  
+- Sécuriser des parties d'un document (telles que les en-têtes, les clauses juridiques ou les tableaux de contenu) contre les modifications.  
+- Faciliter l'édition collégale avec un accès restreint à certaines zones (par exemple, des sections réservées aux commentaires).  
+- Protéger les modèles ou les formulaires qui automatisent les flux de travail et sont capables d'exécution de macros.  
+- Bloquer les éléments de marquage (telles que les logos et les mentions légales de l'entreprise) dans des modèles normalisés.  
+- Prévenir les inconsistances de format lors du partage de documents au sein d'un département ou externement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

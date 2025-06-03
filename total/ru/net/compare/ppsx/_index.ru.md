@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Примеры использования: Проверка точности презентаций с использованием файлов PPSX
+
+Файлы PPSX (PowerPoint Show) — это читаемые форматы презентаций. Сравнение файлов PPSX помогает в следующих задачах:
+
+- **Проверка последовательности и времени слайдов**  
+  Detect alterations in how slides are sequenced or timed during playback.
+
+- **Отслеживание изменений содержимого слайдов**  
+  Track differences in text, images, and embedded media.
+
+- **Проверка обновлений мультимедийных элементов**  
+  Validate updated video, audio, and embedded objects across versions.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 用途：用于比较宏启用演示文稿文件的模板一致性
+
+POTM（PowerPoint 宏启用模板）文件存储了带有嵌入 VBA 宏的可重用演示文稿模板。比较 POTM 文件对于识别不同版本模板中的布局、设计和自动化逻辑的变化至关重要。
+
+- **宏工作流程更新跟踪**  
+  检测嵌入宏中的修改，确保自动化序列遵循预定逻辑。
+
+- **模板版本验证**  
+  比较更新后的模板与原始版本，以验证结构和视觉的一致性。
+
+- **标准化幻灯片变更审计**  
+  突出所有基于模板的演示文稿中主幻灯片或布局配置的变化。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

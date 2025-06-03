@@ -78,7 +78,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Fichier de calcul en Excel (moderne) — Utilisations du protection
+
+- **Courant dans les rapports d’entreprise, les prévisions et les tableaux de pilotage des indicateurs clés – la protection garde la logique des formules en sécurité.**  
+- Prévente les modifications accidentelles de données critiques ou de graphiques.  
+- Utilisé dans des environnements collaboratifs pour restreindre l’accès à la modification tout en permettant l’entrée de données dans des cellules spécifiques.  
+- Supporte le cryptage du livre de calcul pour gérer des informations confidentielles ou réglementées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

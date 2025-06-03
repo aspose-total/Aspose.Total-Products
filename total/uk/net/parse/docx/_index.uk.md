@@ -93,7 +93,80 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Для работы с файлами .docx можно использовать библиотеку python-docx, которая позволяет читать и записывать данные из и в формат DOCX. Вот основные шаги:
+
+1. **Установите библиотеку**:
+   Используйте pip для установки python-docx:
+   ```bash
+   pip install python-docx
+   ```
+
+2. **Читаются файлы**:
+   Откройте документ и получите доступ к его содержимому:
+   ```python
+   from docx import Document
+
+   document = Document("sample.docx")
+   text_content = document.text # получает все текстовые данные
+   ```
+   
+3. **Извлечение структурированного контента**:
+   - **Текст**: Используйте `document.text` для получения полного текста.
+   - **Таблицы**: Итерируйте по таблицам с помощью `document.tables`:
+     ```python
+     for table in document.tables:
+         print(f"Table with {len(table.rows)} строками")
+     ```
+   - **Метаданные**: Получите информацию о документе через `document.properties`:
+     ```python
+     print(document.properties.title)
+     print(document.properties.created_time)
+     ```
+
+4. **Извлечение изображений**:
+   Если документ содержит встроенные изображения, их можно получить через `document.images`:
+   ```python
+   for image in document.images:
+       print(f"Image with id: {image.id}")
+   ```
+
+5. **Конвертация в HTML или Markdown**:
+   - Для HTML:
+     ```python
+     from docx import convert_to_html
+
+     html_content = convert_to_html(document)
+     ```
+   - Для Markdown:
+     ```python
+     from docx import convert_to_markdown
+
+     markdown_content = convert_to_markdown(document)
+     ```
+
+6. **Автоматизация отчетов**:
+   - Создайте функцию для обработки нескольких файлов:
+     ```python
+     def process_document(doc_file):
+         document = Document(doc_file)
+         # Здесь можно обрабатывать содержимое документа
+
+         return processed_data
+
+     reports = [process_document(f) for f in document_files]
+     ```
+
+7. **Обработка ошибок**:
+   Убедитесь, что ваш код может справиться с ошибками, такие как некорректные файлы или неожиданные структуры.
+
+8. **Интеграция с другими системами**:
+   Экспортируйте данные в форматы, подходящие для вашей системы, например, в базу данных или другие инструменты.
+
+Этот подход позволит вам эффективно работать с DOCX файлами, извлекая необходимую информацию и автоматизируя различные задачи.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

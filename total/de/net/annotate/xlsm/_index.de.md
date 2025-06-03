@@ -78,7 +78,17 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM-Datei (Excel-Bearbeitungsprogramm mit Makrounterstützung) unterstützt die Automatisierung durch Makros. Annotieren dieser Dateien hilft es Teams, Makroergebnisse zu markieren und automatisch vorzunehmen.
+
+#### Annotieren von XLSM-Dateien für makrogetriebene Workflows – Nutzungsfälle:
+
+- **Analyse der Ergebnisse von Makros**: Kommentieren Sie automatisch generierte Daten zur Validierung.
+- **Rückmeldung zu erfolgreichen oder fehlgeschlagenen Makroausführungen**: Annotieren Sie die Ausgaben, um anzugeben, ob die Aktion erfolgreich war oder nicht.
+- **Überprüfung der Makrologik oder ihrer Auswirkungen auf die Daten**: Fügen Sie Hinweise hinzu, die sich mit der Logik eines Makros oder seinen Auswirkungen auf die Daten befassen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

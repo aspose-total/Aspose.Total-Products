@@ -74,7 +74,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimer les fichiers TIFF pour une archivage et partage efficace d'images haute résolution
+
+Le format TIFF (Tagged Image File Format) est utilisé pour stocker des images sans perte, ce qui peut générer des fichiers très volumineux. La compression garantit un utilisation pratique sans sacrifier la qualité.
+
+#### Cas d'utilisation :
+
+- **Imagerie médicale et scientifique**  
+  Comprimer les TIFF pour gérer les scans diagnostiques et les images de laboratoire sans perdre de précision.
+
+- **Travail de publication numérique**  
+  Partager des fichiers TIFF compressés parmi les équipes dans les workflows éditoriaux ou de publication sans des temps d'envoi trop longs.
+
+- **Stockage à long terme d'images**  
+  Archiver des images de haute fidélité en utilisant des TIFF compressés pour économiser l'espace tout en préservant la qualité.
+
+- **Travail à distance et transferts**  
+  Permettre un accès et des transferts rapides de grands fichiers TIFF across les équipes ou les clients dans le monde entier.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

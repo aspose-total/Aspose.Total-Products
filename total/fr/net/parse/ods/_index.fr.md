@@ -87,7 +87,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation pour l'analyse des fichiers .ods
+
+- 📊 Extraire les données structurées, les formules et les diagrammes des tableurs OpenDocument.
+- 🔁 Convertir les fichiers .ods en formats comme .xlsx, CSV ou JSON pour l'intégration.
+- 🧮 Automatiser l'extraction et la transformation des données à partir d'outils de tableurs open-source.
+- 📚 Migrer les formats ouverts dans des applications d'entreprise ou dans des pipelines d'analytique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩PNG文件以实现高质量的透明度和轻量级图形
+
+PNG（便携式网络图形）支持透明度并提供无损质感，但可能导致文件较大。压缩对于性能优先的使用场景至关重要。
+
+#### 使用场景：
+
+- **透明的网页图标和Logo**  
+  压缩PNG以保持清晰视觉，同时减少网页加载时间。
+
+- **应用界面资产**  
+  在按钮、图标和UI组件中使用压缩后的PNG，以减小应用包大小。
+
+- **设计师数字作品集**  
+  在数字作品集中优化PNG，以便快速预览而不妨碍视觉质量。
+
+- **电子商务缩略图**  
+  在产品页面中使用轻量级的PNG以加快加载速度，同时保留细节。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

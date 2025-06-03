@@ -90,7 +90,18 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.pptx-Format ist der moderne XML-basierte Standard für PowerPoint-Präsentationen, der verbesserte Funktionen und bessere Suchfähigkeiten bietet.
+
+#### Nutzungszwecke
+- **Schnell suchen von Titeln, Textboxen und Sprechernoten** in großen Präsentationen.
+- **Finden und Ersetzen von Markennamen oder Produktbegriffen** in allen Slides.
+- **Ortung von Kommentaren und Annotaten** für kooperative Review-Prozesse.
+- **Sichern der Konsistenz von Terminologie und Abstimmungen** im Deck.
+- **Springen zu bestimmten Abschnitten oder Schlüsselwörtern** während der Bearbeitung oder Vorbereitung der Präsentation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

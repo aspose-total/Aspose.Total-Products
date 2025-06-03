@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы DOTX для лёгкого обмена шаблонами в современных рабочих процессах
+
+Файлы DOTX (Word Open XML Template) часто используются и передаются в бизнес-окружении. Сжатием файлов DOTX упрощается управление шаблонами, версиями и сотрудничество.
+
+#### Примеры использования:
+
+- **Уменьшение нагрузки на сеть**  
+  Сжать файлы DOTX для быстрого обмена в内部ных системах или через платформы для сотрудничества.
+
+- **Управление вериями шаблонов**  
+  Хранить несколько сжатых версий шаблонов для лёгкого возврата к предыдущим версиям или ссылок на них.
+
+- **Распределение шаблонов через электронную почту или порталы**  
+  Убедиться, что файлы соответствуют ограничениям по размеру при отправке на электронную почту или загрузке на порталы, не теряя качества.
+
+- **Улучшенная использование на мобильных устройствах**  
+  Позволить пользователям открывать и применять шаблоны в мобильных приложениях Word с уменьшённым временем загрузки.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

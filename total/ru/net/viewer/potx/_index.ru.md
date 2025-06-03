@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.potx` — Шаблон презентации PowerPoint — это формат шаблона без макросов, используемый для создания последовательных, предизначённых презентаций для команд и отделов.
+
+**Применения:**
+
+- Просмотр шаблонов слайдов, утверждённых брендом, для корпоративных презентаций.
+- Превью структуры презентаций для маркетинга или продаж, которые можно использовать снова.
+- Поделитесь шаблонами тренинговыми в внутренних порталах.
+- Отображение структуры слайдов для образовательного контента.
+- Убедитесь в единстве между отделами с использованием стандартных дизайнов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

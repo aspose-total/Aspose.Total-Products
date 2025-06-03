@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Документ Word (современный) — Примеры использования защиты
+
+- Часто встречается в договорах, отчетах и документации по персоналу, где редактирование должно быть ограничено.  
+- Защитает структурированную информацию, такую как таблицы содержания, заголовки и правовые термины от редактирования.  
+- Включает след踪 изменений при совместном редактировании, одновременно заключивая ключевые разделы.  
+- Используется для распределения утвержденных документов, где только комментарии разрешены.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

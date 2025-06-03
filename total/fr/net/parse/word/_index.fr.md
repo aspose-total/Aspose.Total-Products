@@ -93,7 +93,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Fichier Word de Microsoft (doc, docm, docx, dot, dotm, dotx, odt, rtf) Cas d'utilisation pour le déchargement
+
+- 📄 **Extração de conteúdo**  
+  Extraire le texte, les tableaux et les images des fichiers Word pour affichage web, indexation de recherche ou analyse de texte.
+
+- 📰 **Traitement des modèles**  
+  Utiliser les modèles `.dot`, `.dotx`, `.dotm` pour générer automatiquement des documents avec des données dynamiques dans les workflows.
+
+- 🔁 **Automatisation des workflows**  
+  Automatiser le déchargement et la remplacement du contenu dans les fichiers `.docm` ou `.dotm` contenant des macroscopiques intégrés.
+
+- 🧾 **Conversion de rapports**  
+  Convertir les fichiers `.doc`, `.odt` ou `.rtf` en HTML propre, Markdown ou PDF pour publication ou documentation.
+
+- 📚 **Archivage numérique**  
+  Archiver les formats légendaires comme `.doc` et `.rtf` en les convertissant et en les indexant pour des plateformes modernes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

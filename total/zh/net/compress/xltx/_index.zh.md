@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩XLTX文件以实现简洁现代Excel模板使用
+
+XLTX（Excel Open XML 模板）是一种用于保持一致格式和布局的现代模板格式。压缩XLTX文件在包含预加载数据或图表的情况下非常有用。
+
+#### 用途：
+
+- **标准化模板分发**  
+  压缩XLTX模板以便快速在部门或系统之间推广。
+
+- **优化共享驱动器**  
+  减少模板集合的大小，以提高网络驱动器上的访问速度。
+
+- **移动和远程访问**  
+  使模板在遥远或现场工作场景中的下载和访问更快捷。
+
+- **电子邮件和网端门户兼容性**  
+  确保在分发模板时符合上传或附件大小限制的要求。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

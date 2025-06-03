@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование подписи электронной или цифровой для оформления файлов DOC  
+
+Файлы Microsoft Word DOC пока продолжают использоваться в устаревших системах и юридических фирмах. Приложение цифровой подписи к файлу DOC подтверждает его источник и гарантирует, что содержимое не было изменено.  
+
+## Общие случаи использования  
+- Юридические контракты и соглашения, передаваемые в формате DOC.  
+- Формы для сотрудников и внутренние компании-мемо.  
+- Документация правительственная, созданная в более старых версиях Microsoft Office.  
+- Формальная переписка в компаниях, использующих устаревшую программу.  
+- Конфиденциальные предложения, требующие электронной подписи.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

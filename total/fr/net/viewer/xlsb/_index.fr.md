@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsb` — Fichier de travail Excel en format binaire - Une version binaire du format `.xlsx` optimisée pour des performances avec des données volumineuses et des chargements plus rapides.
+
+**Cas d'utilisation :**
+
+- Affichage de grandes données ou tableaux de pivot dans des outils de surveillance de performance.
+- Aperçu de modèles financiers complexes dans des systèmes de rapport en temps réel.
+- Lecture d'exportations de données volumineuses dans des plates-formes d'analytiques internes.
+- Affichage de dumps de données bruts pour analyse IT ou DevOps.
+- Intégration de tableaux de feuilles Excel chargables rapidement dans des visionneurs web.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

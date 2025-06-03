@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+压缩XLTM文件以优化带有宏的Excel模板
+
+XLTM（带有宏的Excel模板）文件包含用于可重用自动化的宏。当嵌入逻辑或测试数据时，这些文件可能会变得很大。压缩可以加快共享速度并提供安全的备份。
+
+#### 用途：
+
+- **自动化模板共享**  
+  使用压缩后的XLTM版本将宏模板分发给团队或客户。
+
+- **优化测试工作流程**  
+  压缩不同版本的XLTM模板以加快测试速度和部署。
+
+- **集中化的模板库**  
+  使用压缩格式维护一个简洁的宏模板库。
+
+- **高效的DevOps备份**  
+  存储压缩后的自动化模板以便回滚和版本控制。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

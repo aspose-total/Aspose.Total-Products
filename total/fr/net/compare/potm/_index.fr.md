@@ -71,7 +71,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Cas d'utilisation : Comparaison des fichiers POTM pour le contrôle du consensus dans les présentations macro-activées
+
+Les fichiers POTM (PowerPoint Macro-Enabled Template) stockent des modèles de présentation réutilisables avec des macros VBA intégrés. La comparaison des fichiers POTM est essentielle pour identifier les modifications dans l'architecture, le design et la logique d'automatisation entre différentes versions du modèle.
+
+- **Suivi des mises à jour des flux de macros**  
+  Détection des modifications dans les macros intégrés et assurance que les séquences d'automatisation suivent la logique prévue.
+
+- **Vérification des versions du modèle**  
+  Comparaison des modèles mis à jour avec les versions originales pour valider la cohérence structurale et visuelle.
+
+- **Contrôle des changements pour les diapositives standard**  
+  Mise en évidence des altérations dans les slides maîtresses ou les configurations de mise en page qui affectent toutes les présentations basées sur le modèle.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.docx` est le format de fichier par défaut introducit en 2007 par Microsoft Word et largement utilisé aujourd'hui.  
+
+#### **Cas d'utilisation : Décrypter le format `.docx`**  
+
+- **Éditer des documents en lecture seule**  
+  Permet aux utilisateurs de mettre à jour des CV, des rapports ou des formulaires qui étaient bloqués par défaut.  
+
+- **Collaborer dans un groupe**  
+  Supprime la protection pour permettre le suivi des modifications, les commentaires et la coauteur.  
+
+- **Corriger les erreurs dans les modèles distribués**  
+  Facilite la correction des fautes de frappe ou des problèmes de format dans les modèles bloqués.  
+
+- **Accéder aux médias et données embeddés**  
+  Décrypte le contenu structuré comme les diagrammes, les images et les tableaux pour être réutilisé.  
+
+- **Reprioter les documents gouvernementaux ou corporationnels**  
+  Permet aux utilisateurs d'adapter les directives, les formulaires ou les politiques sans les recréer manuellement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

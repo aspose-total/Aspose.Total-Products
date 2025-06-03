@@ -81,7 +81,30 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Fichiers d'images (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+L'assemblage de fichiers d'images dans un sortie visuelle unique ou format structuré (par exemple, PDF, collage ou sprite) soutient les flux de travail de design, de documentation et de publication numérique.
+
+#### Utilisations :
+
+- **Création d'album photo numérique**  
+  Mélange d'images de vacances, événements ou portefeuilles dans un galerie ou un livre photo.
+
+- **Consolidisation d'actifs de design**  
+  Mélange de maquettes d'interface, graphiques sociaux ou actifs de marquage dans un fichier de référence pour le compte du client.
+
+- **Groupeurs de documents numériques**  
+  Mélange d'images scanées dans un archive ou un document unique pour le stockage ou la partage.
+
+- **Comparaisons visuelles et diapositives avant-après**  
+  Mélange d'ensembles d'images pour créer des visualisations de comparaison dans des rapports ou des supports de marketing.
+
+- **Formation ou manuels de produits**  
+  Mélange d'écrans captures annotés ou photos de produits dans un contenu instructif séquentiel.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

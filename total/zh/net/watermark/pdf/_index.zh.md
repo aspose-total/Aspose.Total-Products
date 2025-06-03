@@ -72,7 +72,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDF 是标准化的文件格式，确保文档安全、便携和可以直接打印。以下是一些常见用途：
+
+- 在文档中添加“机密”、“已批准”或“最终版本”的水印；
+- 包含品牌标志、对公司或联系方式进行标注；
+- 标记文件以符合监管提交要求；
+-嵌入时间戳、电子签名或二维码；
+-区分公开发行和内部使用版本；
+-强化法律或版权所有权。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

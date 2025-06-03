@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsx` — PowerPoint Slide Show - 现代版本的 `.pps`，用于在演示模式下打开，并用于不可编辑的视图来查看幻灯片。
+
+**用途：**
+
+- 与客户或合作伙伴共享并以只读模式查看演示。
+- 在企业内网门户中嵌入公司整体更新信息。
+- 为显示屏或大厅自动播放幻灯片制作成幻灯片循环。
+- 在网络研讨会或销售套件中分享不可编辑的演示文稿。
+- 在企业学习工具中预览信息内容。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

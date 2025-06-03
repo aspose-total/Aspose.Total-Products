@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsm` — PowerPoint Macro-Enabled Slide Show - Un format de présentation de diapositives qui exécute des scripts VBA pendant la projection, utile pour le contenu interactif.
+
+**Cas d'utilisation :**
+
+- Prévisualisation de démos de produits automatisés avec des transitions et une logique.
+- Consultation de modules d'entrainement interactifs avec des quiz incorporés.
+- Affichage de présentations auto-écoulantes dans des portails marketing.
+- Révision du contenu de diapositives gérées par VBA dans un format sécurisé, lecture seule.
+- Partage de contenus instructifs enrichis avec macros dans les plateformes LMS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

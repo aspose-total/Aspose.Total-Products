@@ -71,7 +71,18 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Скачанные документы в формате PNG часто используются для чёткости и без потери информации. Электронные подписи на PNG-файлах защищают от несанкционированных изменений.
+
+## Общие случаи использования
+- Документы подтверждения личности.
+- Гербы, логотипы и водяные знаки с сертификатами.
+- Сканированные письма для юридических доказательств.
+- Изображения имущества в сделках по недвижимости.
+- Документы на letterhead корпоративных организаций в виде изображений.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

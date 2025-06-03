@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы TIFF для эффективного архивирования и распространения высококачественных изображений
+
+Файл TIFF (Tagged Image File Format) используется для хранения изображений без потери информации, что часто приводит к созданию очень больших файлов. Сжатие обеспечивает удобство использования без уменьшения качества.
+
+#### Примеры применения:
+
+- **Медицинская и научная имагинирование**  
+  Сжать TIFF для управления диагностическими снимками и лабораторными изображениями без потери точности.
+
+- **Работыflows в издательских процессах**  
+  Поделиться сжатыми файлами TIFF между командами в редакционных или издательских процессах без долгих времени на передачу.
+
+- **Долгосрочное хранение изображений**  
+  Архивировать высококачественные изображения, используя сжатые TIFF, чтобы сохранить место, не уменьшивая качество.
+
+- **Ремотные работы и передачи**  
+  Ускорить доступ и передачу больших файлов TIFF между командами или клиентами в глобальном масштабе.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

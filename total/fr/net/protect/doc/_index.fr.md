@@ -79,7 +79,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Document Microsoft Word 97–2003 — Utilisations pour la protection
+
+- Utilisé dans des systèmes héréditaires où l'édition doit être restreinte pour garantir la compatibilité.  
+- Protège contre les changements accidentels dans des documents juridiques ou historiques archivés.  
+- Prévient les modifications non autorisées du contenu dans des flux de travail gouvernementaux ou d'entreprise anciens.  
+- Utile dans des paramètres de conformité où l'intégrité du fichier dans son format original est critique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

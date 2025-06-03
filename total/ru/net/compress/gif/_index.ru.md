@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы GIF для лёгкого анимации и деления изображений静ических
+
+GIF (Graphics Interchange Format) поддерживает простые анимации и прозрачность, но может расти в размере при сложных кадрах. Сжатие помогает сохранить производительность и консистентность визуальной.
+
+#### Примеры применения:
+
+- **Оптимизация веб-анимаций**  
+  Уменьшение размера GIF для быстрого загруза на веб-сайтах и мобильных приложениях.
+
+- **Совместимость с социальными сетями**  
+  Сжатие GIF для соответствия ограничениям платформ, таких как Twitter или приложения для сообщений.
+
+- **Приятные к отправке по электронной почте анимации**  
+  Использование уменьшенных GIF в маркетинговых или инструктивных изображениях.
+
+- **Снижение времени загрузки приложений**  
+  Внедрение сжатых GIF в мобильных и десктопных приложениях для улучшения отзывности.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

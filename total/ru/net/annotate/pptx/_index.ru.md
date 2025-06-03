@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX (PowerPoint Presentation) — стандартный формат для редактируемых слайдов презентации. Анонсирование файлов PPTX поддерживает совместную разработку слайдов, отслеживание версий и сбор обратной связи.
+
+#### Анонсирование файлов PPTX для совместной разработки презентации — примеры использования:
+
+- **Ответственность за содержание слайда**  
+  Вставлять комментарии по точности текста, соответствию дизайну или улучшению визуализации данных.
+
+- **Разработка командой презентации**  
+  Использовать анонсирования для назначения ответственности за слайды или отметки неполненных разделов.
+
+- **Улучшение обучения и обучения**  
+  Добавлять руководство для изучающих, примечания инструктора или обратную связь с оценками.
+
+- **Адаптация дизайна и оформления**  
+  Маркировать области, требующие единого визуального стиля, настройки пробелов или обновления стилей.
+
+- **Проверка на разных языках**  
+  Анонсировать разделы, требующие перевода или проверки локализации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

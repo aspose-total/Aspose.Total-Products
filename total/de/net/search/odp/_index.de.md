@@ -90,7 +90,18 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.sodp-Format (OpenDocument Presentation) wird von offenen Präsentationstools verwendet.
+
+#### Einsatzfälle
+- **Suchen von Texten und Notizen** in Präsentationen, die über verschiedene Bürosuiten geteilt werden.
+- **Ortung von wichtigen Nachrichten oder Terminologien** in offenen Standardslidesets.
+- **Überprüfung von mehrsprachigen Präsentationen**, die in LibreOffice oder anderen offenen Tools erstellt werden.
+- **Überprüfung der Inhalte vor der Umwandlung in .pptx für eine breitere Verbreitung.**
+- **Finden von Platzhalter oder Templatelementen zur konsistenten Markenpflege.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDF — это стандартный формат для безопасных, портативных и готовых к печати документов.  
+
+**Начало использования:**  
+
+- Приложение водяных знаков "Секретно," "Согласовано" или "Окончательная версия";  
+- Включение брендинга, логотипа или информации о контактах;  
+- Обозначение документов для подачи на регулирование;  
+- Внедрение временных меток, подписей или QR-кодов;  
+- Разделение между публичными и внутренними версиями;  
+- Уngthening правовой или авторской собственности.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

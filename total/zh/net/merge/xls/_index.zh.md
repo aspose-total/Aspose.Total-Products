@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 XLS 文件进行 Excel 旧版本数据集成
+
+XLS 是微软公司旧版 Excel 软件使用的二进制格式。合并多个 `.xls` 文件有助于将历史数据集中到现代系统中，以便进行分析或存档。
+
+#### 用途：
+
+- **旧款财务报告**  
+  将历史趋势分析或审计准备工作中的旧 Excel 财务报告合并起来。
+
+- **历史人力资源记录**  
+  将 `.xls` 格式下保存的员工记录或工资文件进行合并，形成一个统一的文件。
+
+- **升级数据存档**  
+  在将 `.xls` 文件转换为 `.xlsx` 或其他现代格式之前，先进行合并，以提高兼容性和处理效率。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

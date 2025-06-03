@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsx` — Excel 2010 и выше.xlsx (Открытый формат XML) - стандартный и наиболее распространённый формат для современных Excel книг. Он поддерживает богатые функции, такие как формулы, графики и условное форматирование, без использования макросов.
+
+**Применение:**
+
+- Отображение дашбордов, отчетов о продажах или ключевых показателей (KPI) в платформах CRM.
+- Разделение бюджета или прогноза в инструментах управления проектами.
+- Просмотр списков запасов или каталогов товаров в системах электронной коммерции.
+- Примерок отчетов о производительности в порталах аналитики.
+- Чтение общих Excel книг в облачных приложениях для совместной работы.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

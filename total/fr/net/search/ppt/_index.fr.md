@@ -90,7 +90,17 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.ppt` est l'ancien format de fichier binaire utilisé par les versions du logiciel PowerPoint antérieures à 2007. Il supporte des fonctionnalités de recherche basiques pour les presentations anciennes.
+
+#### Cas d'utilisation
+- **Rechercher des textes ou des phrases spécifiques** dans des presentations archivées sans convertir les fichiers.  
+- **Localiser des marques ou des noms de produits obsolètes** dans des déossages de slides.  
+- **Passer en revue des presentations longues pour repérer des points clés ou des sections.**  
+- **Naviguer entre commentaires et notes du speaker** pendant des revues manuelles.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

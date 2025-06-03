@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Использование подписи BMP-файлов с цифровыми или электронными подписями
+
+BMP-файлы применяются в сканировании и архивировании. Цифровое подписание BMP обеспечивает достоверность сканированных документов и изображений.
+
+## Общие случаи использования
+- Digitized legal forms or handwritten agreements.
+- Архив неотъемлемых подписей.
+- Технические схемы, требующие подписи инженера.
+- Сканированные акты имущества.
+- Схемы с аутентификацией подписи.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.doc` — Word 97–2003 文档 - 这是一个早期的二进制文件格式，由微软Word在2007年前使用。尽管现在不那么常见，但许多遗留系统仍然依赖于`.doc`格式。
+
+**用途：**
+
+- 查看存档的法律文件在遗留系统中。
+- 访问旧业务记录在文档仓库中。
+- 支持政府门户网站的向后兼容。
+- 预览招聘软件中的`.doc`简历。
+- 展示早2000年代的报告在内部知识库中。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

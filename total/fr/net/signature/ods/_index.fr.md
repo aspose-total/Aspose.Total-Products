@@ -76,7 +76,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des fichiers ODS signés avec des signatures numériques ou électroniques
+
+Le format ODS est le format de feuille de calcul pour les logiciels bureautiques open-source. Signer numériquement des fichiers ODS aide à protéger les données financières et opérationnelles dans des environnements non Microsoft.
+
+## Utilisations courantes
+- Budgets et rapports d'projets open-source.
+- Institutions scolaires suivant les données des étudiants.
+- Agences gouvernementales dans des régions sensibles aux coûts.
+- ONG compilant des rapports donateurs et de projets.
+- Documents de planification départementale exigeant des signatures électroniques sécurisées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат DOC — это legacy бинарный файл Microsoft Word, который еще используется на старых системах.  
+
+**Начальные случаи использования включают:**  
+
+- Метки документа как Архивный, Legacy или Обsolete  
+- Включение имени автора или отдела  
+- Применение юридических предупреждений или сообщений о соответствии  
+- Заблокирование редактирования или повторного использования, обозначив как Final Copy  
+- Поддержка учета и трассировки документов
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

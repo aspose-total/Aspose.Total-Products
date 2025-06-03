@@ -83,7 +83,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Word est souvent utilisé pour créer des documents textuels tels que les contrats, les propositions, les rapports et les politiques. L'ajout d'un marquage d'eau à ces documents aide à établir le contexte et à renforcer l'intégrité du document.
+
+**Cas d'utilisation courants incluent :**
+
+- Marquer les documents comme Confidentiel, Projet ou Usage interne uniquement  
+- Identifier l'auteur ou le service responsable du contenu  
+- Ajouter des mentions légales de non-responsabilité ou des mentions d'autorité d'origine  
+- Prévenir la diffusion non autorisée de documents sensibles  
+- Suivre le contrôle de version dans l'édition collégiale  
+- Conformer aux exigences réglementaires ou des audits
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

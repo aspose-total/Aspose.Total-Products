@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 在 .xlsx（Microsoft Excel）中进行红action
+
+- 在报销文件中隐藏员工的薪酬、奖金或个人信息。
+- 在销售或采购报告中隐藏客户或供应商的信息。
+- 在财务工作簿中隐藏内部预算分配或利润率。
+- 在绩效仪表盘或KPI跟踪表格中隐藏机密数据。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

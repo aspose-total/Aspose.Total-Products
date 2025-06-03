@@ -75,7 +75,20 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — 工作表拆分的用途
+
+- 将大型工作簿拆分为更小的表格，以简化数据管理并提高性能。  
+- 为不同团队成员分配特定的工作表，实现同时编辑。  
+- 通过将部分拆分为单独分析或报告的节区，自动化数据处理。  
+- 分享工作簿的相关部分，而无需暴露整个数据集。  
+- 将主文件拆分为定制版本，从中创建个性化报告。  
+- 管理大型财务模型或库存，将其拆分为可管理的块。  
+- 通过将敏感数据放在独立且受保护的表格中，改善协作。  
+- 将历史数据单独存档，以优化当前文件大小和访问速度。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

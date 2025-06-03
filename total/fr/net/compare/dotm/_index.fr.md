@@ -73,7 +73,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparaison de fichiers DOTM pour la validation des modèles avec macro :
+
+Les fichiers DOTM combinent des modèles de documents réutilisables avec des macros intégrés. La comparaison des versions DOTM révèle les modifications tant dans l'aspect visuel que dans la logique des macros, ce qui est essentiel pour maintenir l'intégrité de l'automatisation.
+
+- **Surveillance des flux de macros**  
+  Vérifier si la logique d'automatisation du modèle a été modifiée ou dépréciée.
+
+- **Vérification des normes de modèles**  
+  Surveiller les mises à jour visuelles ou structurales dans les modèles réutilisables entre équipes.
+
+- **Traçages d'audits en matière d'automatisation**  
+  Garder un enregistrement des modifications intervenues entre les versions des modèles automatisés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

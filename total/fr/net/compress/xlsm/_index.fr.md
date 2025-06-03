@@ -75,7 +75,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimer les fichiers XLSM pour une partage de livrables macro-éxécutable sûr et efficace
+
+Les fichiers XLSM (Workbook Excel avec macros) ont tendance à s'agrandir en fonction des macros, scripts et logiques d'automatisation qu'ils contiennent. Leur compression permet de maintenir l'efficacité et de simplifier la distribution.
+
+#### Cas d'utilisation :
+
+- **Distribution automatisée de rapports**  
+  Partager rapidement les fichiers XLSM contenant des rapports macro-éxécutable par compression.
+
+- **Efficiences de stockage d'actifs d'automatisation**  
+  Garder les fichiers XLSM compressés dans des répertoires centraux de stocks d'automatisation.
+
+- **Archives de macros versionnées**  
+  Stocker plusieurs versions compressées de fichiers de workbooks macro-éxécutable pour le test et le retrait.
+
+- **Réductions des coûts de transfert cloud**  
+  Réduire le temps et les coûts de transmission pour les fichiers XLSM partagés sur des plateformes cloud.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

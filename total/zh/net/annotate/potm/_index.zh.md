@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+POTM（PowerPoint带宏的模板）文件用于创建带有嵌入宏的标准化演示文稿。注释 POTM 文件有助于记录自动化逻辑、统一模板使用规范，并支持团队协作开发。
+
+#### POTM 文件注释对于基于模板的演示文稿自动化用例的具体应用：
+
+- **模板设计审查**  
+  在模板中添加关于幻灯片布局、品牌一致性和结构的评论。
+
+- **宏文档**  
+  对宏的作用和行为进行注释，以供用户和开发者理解。
+
+- **团队使用指南**  
+  提供如何填充和重复使用模板的说明或最佳实践。
+
+- **合规性检查注释**  
+  标记需要更新以满足可访问性或企业政策标准的区域。
+
+- **迭代模板开发**  
+  在演示文稿设计的变更版本或建议改进中标记。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

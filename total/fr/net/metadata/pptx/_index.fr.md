@@ -78,7 +78,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Cas d'utilisation pour le XML de présentation PowerPoint (.pptx)
+
+- Stocker l'auteur, la société, le thème et le département dans des champs de métadonnées.
+- Améliorer la découverte des presentations dans les systèmes DAM ou LMS d'entreprise.
+- Aider l'IA à organiser et à marquer les décharge par thème ou sujet stratégique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

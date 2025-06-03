@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.dotm` — шаблон документа с встроенными макросами.
+
+**Использования:**
+
+1. Предварительное просмотр шаблонов документов: счетов или отчетов с автоматизацией.
+2. Отображение шаблонов юридических или отдела персонала на внутренних портах.
+3. Проверка шаблонов на основе макросов для систем автоматизации документации.
+4. Управление использованием используемых форм соответствия.
+5. Представление структур шаблонов в библиотеках корпоративных документов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

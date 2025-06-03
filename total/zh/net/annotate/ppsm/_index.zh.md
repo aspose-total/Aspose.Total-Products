@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPSM (PowerPoint 带有宏的演示文稿) 文件直接在幻灯片模式下打开，并且宏功能启用。注释 PPSM 文件有助于完善自动化内容、交互流程以及观众参与策略。
+
+#### PPSM 文件注释用于宏启用的幻灯片展示反馈用途：
+
+- **宏交互审查**  
+  对需要调试或改进的自动化点、过渡效果或触发器进行注释。
+
+- **幻灯片体验评估**  
+  注释每个自动化幻灯片对观众参与度或清晰度的影响。
+
+- **演示反馈**  
+  为演讲者或审阅者提供幻灯片改进建议。
+
+- **交互式演示 UI/UX 审查**  
+  注释使用宏构建的交互元素，以验证其性能。
+
+- **培训内容完善**  
+  建议对自运行的培训材料进行内容修改或顺序调整。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

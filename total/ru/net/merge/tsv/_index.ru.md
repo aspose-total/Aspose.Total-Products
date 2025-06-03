@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов TSV для лёгкой интеграции данных
+
+Файлы TSV (Tab-Separated Values) подобны CSV, но используют табуляцию как делimiters. Объединение файлов `.tsv` полезно при работе с чистыми, структурированными данными в текстовых pipeline.
+
+#### Примеры использования:
+
+- **Чистые pipelines данных**  
+  Объедините `.tsv` выводы из процессов scraping, ETL или лог-файлов в основной набор данных.
+
+- **Научные или статистические анализ**  
+  Соедините `.tsv` файлы экспериментальных данных для консолидированного статистического оценки.
+
+- **Включение данных между системами**  
+  Объедините `.tsv` данные из различных платформ (например, Linux-логи, сенсоры, API) для централизованного приёма.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 TSV 文件进行轻量级数据整合
+
+TSV（Tab-Separated Values）文件类似于 CSV 文件，但使用空格分隔符。合并 `.tsv` 文件在处理基于文本的清晰结构数据流时非常有用。
+
+#### 用途：
+
+- **清洁数据管道**  
+  将从数据抓取、ETL 过程或日志文件中输出的 `.tsv` 文件合并到主数据集中。
+
+- **科学或统计分析**  
+  将实验数据文件中的 `.tsv` 数据合并，以便进行总结性统计评估。
+
+- **跨系统集成**  
+  从各种平台（如 Linux 日志、传感器、API）中获取的 `.tsv` 数据进行集中 ingestione
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

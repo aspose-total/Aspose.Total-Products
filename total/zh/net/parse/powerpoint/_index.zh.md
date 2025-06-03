@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint 格式（potm, potx, ppsm, ppsx, pptm, pptx, odp）解析用途
+
+- 🖼️ **幻灯片内容提取**  
+  从幻灯片中提取文本、图片及布局细节，以生成总结、用于搜索或创建 HTML 幻灯片。
+
+- 🧩 **模板自动化生成**  
+  根据 .potx 或 .potm 模板，插入动态内容生成演示文稿。
+
+- 🎯 **宏驱动演示文稿处理**  
+  安全解析包含宏或自动化的 .pptm、.potm 及 .ppsm 文件。
+
+- 📊 **演示文稿到网页转换**  
+  将 .pptx、.odp 或 .ppsx 文件转换为网页幻灯片或交互式格式。
+
+- 📁 **幻灯片索引与总结**  
+  索引及总结幻灯片，为文档管理系统或会议存档提供支持。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT 是一种开源文档处理格式，常用于 LibreOffice 和类似工具中。
+
+**常见用途包括：**
+
+- 指明公共、私密或仅限内部使用的文件
+- 表示协作所有权或审阅周期
+-嵌入组织名称或开放许可信息
+- 识别供公开部门发布的文件
+- 支持多作者文档的版本控制
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDFs作为最终版文档的标准格式，如宣传册、发票和表格。将它们包含在单一查看器中，提升了兼容性和用户便利性。
+
+**用途：**
+
+- 在网站上预览可下载的表格或宣传册。
+- 在数字图书馆中阅读电子书或白皮书。
+- 在客户仪表盘中显示发票、收据或报表。
+- 在电商平台中查看产品手册。
+- 在法律软件中审阅合同或合规文件。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

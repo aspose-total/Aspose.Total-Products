@@ -78,7 +78,17 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichiers XLTX (Modèles Excel - XML ouvert) sont utilisés pour des rapports standardisés et récurrents. L'annotation de ces fichiers garantit la clarté concernant les zones éditable, les attentes d'entrée et les suggestions de révision.
+
+#### Annoter les Fichiers XLTX pour des Modèles de Rapport Reutilisables - Utilisations :
+
+- **Instructions du Rapport** : Ajouter des astuces ou des notes d'actualisation pour les rapports récurrents.
+- **Retour sur le Design** : Faire des commentaires visuels, titres ou structures de section.
+- **Collaboration des Utilisateurs** : Suivre les suggestions de divers départements sur un modèle partagé.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

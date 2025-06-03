@@ -82,7 +82,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Édition dans .xlsx (Microsoft Excel)
+
+- Édition de salaires, de bonus ou de détails personnels dans les fichiers de paie.  
+- Édition d'informations clients ou fournisseurs dans les rapports de vente ou d'approvisionnement.  
+- Édition d'allocations budétaire internes ou de marges bénéficiaires dans des feuillants financiers.  
+- Édition de données confidentielles dans des tableaux de bord de performance ou des feuilles de suivi de KPI.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Merge DOTM-Dateien für makro-basierte Vorlagenintegration
+
+DOTM-Dateien sind Word-Vorlagen, die Makros enthalten. Das Merge von `.dotm`-Dateien ist nützlich, wenn Sie Vorlagen integrieren möchten, die auf Makros für automatische Dokumentenerstellung oder -anpassung basieren.
+
+#### Einsatzfälle:
+
+- **Einheitliche Vorlagenstandardisierung**  
+  Mergen Sie `.dotm`-Vorlagen, die in verschiedenen Abteilungen verwendet werden, um eine einheitliche Formatierung und Makrofunktion zu erreichen.
+
+- **Automatisierung bei Vorlagentwicklung**  
+  Kombinieren Sie `.dotm`-Vorlagen, die Makros für automatische Dokumentenfüllung verwenden, wie etwa Rechnungen oder Berichte formatieren.
+
+- **Aktualisierung der Makrologik**  
+  Mergen Sie `.dotm`-Vorlagen, um die eingebetteten Makros zu überprüfen und zu aktualisieren, um die Automatisierung zu verbessern oder neue Funktionen hinzuzufügen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

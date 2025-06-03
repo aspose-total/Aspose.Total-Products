@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTM (PowerPoint 具有宏的演示文稿) 文件允许自动生成幻灯片和执行操作。注释 PPTM 文件有助于跟踪宏性能、文档行为以及优化自动化逻辑。
+
+#### PPTM 文件注释用于宏启用演示文稿调试和审阅 - 用途：
+
+- **宏执行审查**  
+  在显示幻灯片的宏函数或失败的地方添加注释，有助于调试。
+
+- **开发者协作**  
+  添加注释以记录预期行为或宏触发条件。
+
+- **自动化优化**  
+  提供建议以提高性能或自动生成内容的清晰度。
+
+- **生成幻灯片审阅**  
+  标记需要手动修订的内容。
+
+- **向终端用户提供说明**  
+  指导用户如何与宏启用元素互动。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

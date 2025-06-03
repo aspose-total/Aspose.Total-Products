@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS 是早期 Excel 版本使用的遗留二进制表格文件格式。
+
+**常见用途包括：**
+
+- 标记工作簿为过时、仅供存档或作为草稿标注。
+- 添加所有者身份或创建日期。
+- 警告未经授权的修改。
+- 标记数据仅供内部使用。
+- 识别工作簿以备审计提交。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

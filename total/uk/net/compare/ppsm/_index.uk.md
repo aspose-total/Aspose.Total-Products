@@ -71,7 +71,19 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сравнение файлов PPSM для обзора презентаций с встроенными макрами:
+
+1. **Сравнение макров между презентациями**  
+   Виявление различий в рутинách автоматизации, запущенных во время показа слайдов.
+
+2. **Обзор изменений в временах переходов, анимациях и последовательностх**  
+   Обеспечение однакого пользовательского опыта в автоматизированных презентациях.
+
+3. **Сравнение встроенных скриптов и обеспечение однакого пользовательского опыта в автоматизированных презентациях**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

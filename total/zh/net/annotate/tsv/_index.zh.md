@@ -78,7 +78,23 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+注释TSV文件对于结构化数据协作具有重要意义。以下是对其进行注释的主要用途和实施方法：
+
+1. **数据清洗注释**：通过标记需要手动校正或排除的行，快速识别数据中的异常项。
+
+2. **模型训练数据集注释**：标记特殊案例，以便机器学习逻辑正确处理边界情况。
+
+3. **ETL工作流注释**：注明需要映射或修改的字段，确保数据在转换过程中符合目标系统要求。
+
+### 实施方法：
+- **格式**：通常作为新列添加注释，以保持一致性和可读性。
+- **工具**：使用专用工具或库来支持TSV注释，如在数据科学环境中的相关软件。
+
+通过清晰且一致的注释，确保团队成员理解数据背景、质量问题及转换需求，从而促进高效协作。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

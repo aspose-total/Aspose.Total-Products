@@ -81,7 +81,31 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge multiple JPEG files effectively, follow these organized steps:
+
+1. **Choose Software**: Use a suitable tool like Adobe Photoshop for detailed control or consider free alternatives such as GIMP if you prefer open-source options.
+
+2. **Batch Processing**: Utilize software that supports batch processing to handle multiple files efficiently without manual input.
+
+3. **Image Dimensions and Settings**:
+   - Ensure all images are of similar dimensions or adjust them proportionally.
+   - Consider the resolution and compression settings to maintain quality without excessive file size.
+
+4. **File Naming and Organization**:
+   - Name the final merged file descriptively, such as "collage.jpg" for clarity.
+   - Save the file in a dedicated project folder for easy access and organization.
+
+5. **Accessing Files**: Make sure the software can locate all images, whether they are in different directories or subfolders.
+
+6. **Quality Adjustments**: If needed, adjust color balance or other settings to ensure a cohesive look across merged images.
+
+7. **Research Tutorials**: Consult guides or tutorials tailored to your specific use case (e.g., collages vs. product catalogs) for optimized techniques and best practices.
+
+By following these steps, you can merge multiple JPEG files efficiently while maintaining quality and organization.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать JPG-файлы для баланса между качеством и размером
+
+JPG (Joint Photographic Experts Group) — это популярный формат сжатия изображений, но даже JPG можно оптимизировать без значительного уменьшения качества.
+
+#### Примеры применения:
+
+- **Оптимизация скорости веб-страниц**  
+  Сжать JPG для снижения веса страницы и улучшения рейтинга SEO и пользовательского опыта.
+
+- **Архивы изображений на ограниченном хранилище**  
+  Уменьшить размер библиотеки изображений для более простого хранения и резервного копирования.
+
+- **Быстрое передача по электронной почте и чату**  
+  Снизить размер JPG для быстрого загрузки и передачи.
+
+- **Хостинг изображений для мобильных приложений**  
+  Сжать JPG для приложений, обрабатывающих большие объемы изображений на ограниченной скорости интернета.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

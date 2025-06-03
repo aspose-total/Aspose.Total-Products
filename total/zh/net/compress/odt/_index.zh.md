@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 ODT 文件以实现轻量级 OpenDocument 文本管理
+
+ODT (OpenDocument Text) 文件通常用于像 LibreOffice 这样的开源办公套件，可能会因为嵌入的图像、表格和高级格式导致文件大小增大。压缩 ODT 文件可以确保在不同系统之间更便捷地传输和使用。
+
+#### 使用场景：
+
+- **优化文档共享**  
+  减少 ODT 文件大小以实现更快的上传、电子邮件附件以及无缝在线协作。
+
+- **云存储效率**  
+  压缩 ODT 文档以节省云驱动中的存储空间。
+
+- **低端设备上的性能提升**  
+  更小的 ODT 文件在资源受限的系统上加载更快，改善用户体验。
+
+- **归档简化**  
+  以压缩后的版本高效存储大量 ODT 报告或手册。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

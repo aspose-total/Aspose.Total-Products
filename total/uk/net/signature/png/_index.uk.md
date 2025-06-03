@@ -71,7 +71,19 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Примеры использования подписи файлов PNG с цифровыми или электронными подписями  
+
+Файлы PNG часто используются для чётких и без потерь сканированных документов. Цифровые подписи на изображениях PNG защищают от несанкционированных изменений.  
+
+Документы личного идентификации,  
+Гербы, логотипы и водяные подписи сертификатов,  
+Сканированные письма для юридических доказательств,  
+Изображения недвижимости в сделках по продаже имущества,  
+Документы на фирменном бланке в виде изображений.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

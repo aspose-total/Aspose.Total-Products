@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xls` — Excel 97–2003 工作簿 - Excel 较旧版本（早于2007年发布）使用的二进制文件格式。仍在某些组织中用于旧系统或长期存档。
+
+**用途：**
+
+- 查看遗留企业业务系统中的存档财务报告。
+- 访问内部存储库中保存的旧预算文件。
+- 确保政府或企业门户网站的兼容性。
+- 预览历史项目数据而无需转换。
+- 支持使用 `.xls` 文件的 HR 系统中的遗留员工记录。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

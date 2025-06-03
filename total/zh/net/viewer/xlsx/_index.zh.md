@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsx` — Excel 工作簿（Open XML）— 现代 Excel 工作簿的标准和最常用格式。它支持诸如公式、图表和条件格式（不含宏）的丰富功能。
+
+**应用场景：**
+
+- 在 CRM 平台上显示仪表盘、销售报告或 KPI。
+- 在项目管理工具中分享预算或预测表格。
+- 在电子商务系统中查看库存列表或产品目录。
+- 在分析门户网站上预览绩效报告。
+- 在云协作应用中阅读共享 Excel 工作簿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

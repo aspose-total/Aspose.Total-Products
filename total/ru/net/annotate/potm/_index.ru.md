@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ПOTM (PowerPoint Macro-Enabled Template) файлы используются для создания стандартизированных презентаций с встроенными макросами. Аннотирование POTM файлов помогает документировать автоматизацию логики, стандартартизировать использование шаблонов и поддерживать совместное развитие.
+
+#### Аннотация POTM файла для использования шаблонов в презентации automation:
+
+- **Обзор дизайна шаблона**  
+  Добавлять комментарии о布局е слайдов, согласованности брендинга и структуре шаблона.
+
+- **Документирование макросов**  
+  Аннотировать цель и поведение макросов для пользователей и разработчиков.
+
+- **Назначения использования шаблонов для команд**  
+  Provide instructions or best practices on how to populate and reuse the template.
+
+- **Аннотации для проверки соответствия**  
+  Flag areas needing updates to meet accessibility or corporate policy standards.
+
+- **Итеративное развитие шаблонов**  
+  Mark version changes or suggested improvements in evolving template designs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

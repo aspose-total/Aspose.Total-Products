@@ -93,7 +93,17 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Das `.xls-Dateiformat` ist das ältere binäre Dateiformat, das von Excel-Ausgaben vor 2007 verwendet wurde. Obwohl es veraltet ist, unterstützt es grundlegende Suchfunktionen.
+
+#### Verwendungszwecke
+1. **Ortung von spezifischen Datensätzen** in archivierten Finanzblättern.
+2. **Finden von Formeln oder Werte** in veralteten Modellen ohne das Dateiformat zu aktualisieren.
+3. **Suchen von veralten Produktkodens oder Preisen** in historischen Datensätzen.
+4. **Überprüfung und Auditing alter Berichte** unter Wahrung der rückwärtskompatibilität.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

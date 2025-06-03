@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xls` — Excel-Datei (Versionen 97–2003) - Das veraltene binäre Dateiformat, das von Excel-Versionen vor 2007 verwendet wurde. Bis heute noch in einigen Organisationen mit älteren Systemen oder langfristigen Archiven verwendet wird.
+
+**Use Cases:**
+
+1. Zur Ansicht archivierter Finanzberichte in alten Unternehmenssystemen.
+2. Zugriff auf alte Budget-Dateien, die in internen Repositorien gespeichert sind.
+3. Bewährung der Kompatibilität in Regierungs- oder Unternehmensportalen.
+4. Vorschau auf historische Projekt-Daten ohne Umrechnung.
+5. Unterstützung von Personalabteilungen mit veralteten Mitarbeiterdaten in .xls-Dateien.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

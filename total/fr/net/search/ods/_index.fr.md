@@ -93,7 +93,18 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.ods` (OpenDocument Spreadsheet) est utilisé par des logiciels de tableur open-source comme LibreOffice Calc, mais il peut être ouvert dans Excel.
+
+#### Cas d'utilisation
+- **Recherche de tableurs standards ouverts partagés entre des logiciels de bureaux distincts.**  
+- **Localisation de points de données ou de formules** dans des environnements multi-logiciel.  
+- **Vérification de la terminologie et du formatage cohérent** avant conversion au format `.xlsx`.  
+- **Suivi des modifications ou commentaires** dans les fichiers `.ods` échangés avec des collaborateurs.  
+- **Recherche de lignes ou de colonnes spécifiques pour extraire des données ou générer des rapports.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -84,7 +84,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧠 Применение макросов в рабочей книге (.xlsm)
+
+- Определить книги работы с активными скриптами за счет встроенных метаданных.  
+- Помочь команде по соблюдению требований к стандартам классифицировать и аудитировать использование макросов.  
+- Поддерживать алармы, триггерные на основе метаданных для чувствительных финансовых моделей.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

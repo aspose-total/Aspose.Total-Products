@@ -92,7 +92,17 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.doc` est le format binaire ancien utilisé par les versions de Word antérieures à 2007. Bien que plus ancien, il soutient toujours la fonctionnalité de recherche de base.
+
+#### Cas d'utilisation
+- **Trouver des textes spécifiques ou des termes** dans des documents anciens archivés pour des besoins en matière de conformité ou de droit.
+- **Localiser et mettre à jour des références obsolètes** dans des modèles ou des CV plus anciens.
+- **Scanner des rapports d’affaires volumineux sans conversion en format .docx.**
+- **Maintenir la compatibilité avec des systèmes plus anciens tout en utilisant la recherche pour naviguer dans le contenu.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM-Dateien (Vorlagen, die Makros für Word aktivieren) enthalten Automatisierungsprogramme, um die Produktivität zu erhöhen.
+
+#### Annotierung von DOTM-Dateien für die Bewertung von makro-basierten Vorlagen:
+
+- **Dokumentation der Makro-Befehle und -Logik**  
+  Annotieren Sie Felder, die durch Makros ausgelöst werden, um die Funktionalität und die erwarteten Ergebnisse zu klären.
+
+- **Überprüfung und Testung der Automatisierung**  
+  Fügen Sie Notizen hinzu, um erfolgreiche oder fehlende makro-basierte Ausführungen während der Testung hervorzuheben.
+
+- **Erklärung des automatisierten Layouts**  
+  Kommentieren Sie automatisch formatierte Abschnitte, um Benutzer darin klarzustellen, wie der Vorlagedurchfluss funktioniert.
+
+- **Einbindung von Lernhinweisen für Benutzer**  
+  Fügen Sie Lernanleitungen direkt in die Vorlagen ein, um das Onboarding neuer Benutzer zu erleichtern.
+
+- **Isolierung von Fehlermeldungen**  
+  Nutzen Sie Annotierungen, um Bugs zu isolieren, die durch makro-basierte Ausführungen verursacht werden.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

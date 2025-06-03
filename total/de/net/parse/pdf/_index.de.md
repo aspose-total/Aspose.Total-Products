@@ -84,7 +84,26 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF-Bearbeitungshandlungen
+
+- 🔍 **Text- und Tabelle extrahieren**  
+  Aus Paragraphen, Tabellen oder Formularelementen in PDFs für Berichterstellung oder Suchindexierung zu entnehmen.
+
+- 🧾 **Rechnung und Formularverarbeitung**  
+  Strukturelle Formen und Rechnungen in PDFs zu parsen, um Daten automatisch in Datenbanken oder Buchführungssysteme einzuspeisen.
+
+- 🎨 **Layoutanalyse**  
+  Visuelle Struktur (Spalten, Abschnitte) zu erkennen, um HTML oder Markdown genau umzusetzen zu können.
+
+- 🧠 **OCR und Suchbarkeit**  
+  Gesuchte PDFs mit OCR in textbare Elemente zu konvertieren, bevor sie zur weiteren Bearbeitung aufgenommen werden.
+
+- 🗂️ **Digitales Archivieren und Konformität**  
+  PDF-Dokumente in ein digitales Archiv einzuspeisen und auditieren, indem relevante Inhalte oder Metadaten extrahiert und markiert werden.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

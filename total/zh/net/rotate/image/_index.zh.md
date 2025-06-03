@@ -73,7 +73,60 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+要使用Python旋转图像，可以按照以下步骤操作：
+
+1. **导入必要的库**：使用Pillow库进行图像处理。
+   ```python
+   from PIL import Image
+   ```
+
+2. **打开图像**：
+   ```python
+   image = Image.open("example.jpg")
+   ```
+
+3. **旋转图像**：
+   - 旋转90度：
+     ```python
+     rotated_image = image.rotate(90)
+     ```
+   - 根据需要调整旋转角度，例如180度或270度：
+     ```python
+     rotated_image = image.rotate(180)  # 旋转180度
+     rotated_image = image.rotate(-90)  # 等同于旋转270度
+     ```
+
+4. **保存旋转后的图像**：
+   ```python
+   rotated_image.save("example_rotated.jpg")
+   ```
+
+5. **处理填充颜色（可选）**：如果需要，设置背景颜色以避免空白区域。
+   ```python
+   background = Image.new('RGB', image.size, (255, 255, 255))
+   rotated_paste = background.copy()
+   rotated_image.paste(rotated_paste)
+   rotated_image.save("example_rotated_with_fill.jpg")
+   ```
+
+6. **处理异常**：确保代码在遇到问题时仍能运行。
+   ```python
+   try:
+       # 你的旋转和保存代码
+   except Exception as e:
+       print(f"错误发生：{e}")
+   ```
+
+7. **调整大小（可选）**：根据需求调整图像大小。
+   ```python
+   rotated_image = rotated_image.resize((width, height))
+   ```
+
+通过以上步骤，您可以轻松地在Python中旋转图像，并根据需要进行调整。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+JPEG和JPG文件的电子签名用途
+
+JPEG/JPG图片用于扫描文档、照片及身份证明等。通过电子签名可确保文件的安全性和来源的真实性。
+
+常见用途
+- 扫描后的合同及签署文件。
+- 在KYC流程中的身份证明文件。
+- 带有嵌入观察的视觉报告。
+- 用于远程会诊的医学影像资料。
+- 以视觉形式呈现的地产所有权记录。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

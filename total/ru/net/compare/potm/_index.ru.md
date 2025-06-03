@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Используемые случаи: Сравнение файлов POTM для проверки согласованности шаблонов с встроенными макросами в презентациях, поддерживающих макросы.
+
+Файлы POTM (PowerPoint Macro-Enabled Template) хранят реusable presentation templates с встроенными VBA macros. Сравнение файлов POTM важно для выявления изменений в дизайне, оформлении и логике автоматизации при разных версиях шаблона.
+
+- **Отслеживание обновлений макросовой работы**  
+  Выявление модификаций в встроенных макros и убедение себя, что последовательность автоматизации соответствует предназначенной логике.
+
+- **Проверка версий шаблона**  
+  Сравнение обновленных шаблонов с оригинальными версиями для подтверждения согласованности в структуре и визуальном оформлении.
+
+- **Auditing изменений для стандартных слайдов**  
+  Выявление изменений в мастер-слайдах или конфигурациях layout, которые влияют на все презентации, основанные на шаблоне.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

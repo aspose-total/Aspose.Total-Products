@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 开源文档合并，支持开源协作与文档集成
+
+ODT 文件是开放源代码的文字处理文件（LibreOffice、OpenOffice）。合并它们有助于实现开放格式内容协作。
+
+#### 用途：
+
+- **开源协作**  
+  将不同作者在 ODT 格式下贡献的内容合并到一个单一文档中。
+
+- **文档编译**  
+  将手册或书籍中的章节或部分以 ODT 格式结合起来。
+
+- **政府或 NGO 报告**  
+  将基于开放标准格式创建的报告 consolidate for 提交。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

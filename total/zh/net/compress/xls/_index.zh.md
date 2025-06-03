@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 XLS 文件以优化旧 Excel 工作簿性能
+
+由于嵌入的图表、公式或大数据集，XLS（Excel 97–2003 工作簿）文件可能会变得很大。压缩这些 XLS 文件可以确保在处理时更加顺畅，并与旧系统保持兼容。
+
+#### 适用场景：
+
+- **存档财务记录**  
+  减少存储历史 XLS 文件（包含财务数据或报告）的脚步。
+
+- **加快旧 Excel 版本中大型工作簿的处理速度**  
+  允许在旧版本 Excel 中更快速地处理大型 XLS 工作簿。
+
+- **优化文档共享**  
+  压缩 XLS 文件以满足电子邮件或共享驱动器上传的文件大小限制。
+
+- **数据的便携性，以供离线使用**  
+  将紧凑的 XLS 文件通过 USB 或移动设备传输，以供现场工作或审计使用。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

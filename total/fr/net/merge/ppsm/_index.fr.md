@@ -78,7 +78,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ Mergage de fichiers PPSM (Présentations PowerPoint avec des macros) pour les démonstrations interactives et l'automatisation
+
+Les fichiers PPSM sont des présentations PowerPoint contenant des macros. Leur mégarde permet de consolider les démonstrations avec des macros pour l'automatisation ou la diffusion interactive.
+
+#### Utilisations :
+
+- **Livraison interactive d'entrainements**  
+  La fusion de modules d'entrainement avec des scripts d'automatisation permet une expérience d'apprentissage plus fluide.
+
+- **Présentations de démonstrations commerciales**  
+  La combinaison de présentations de produits avec des transitions automatisées et des éléments interactifs.
+
+- **Présentations d'automatisation des processus**  
+  La fusion de plusieurs décks avec des macros pour les tutoriels internes sur les procédurs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

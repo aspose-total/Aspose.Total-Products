@@ -84,7 +84,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Analyse de PDF : Cas d'utilisation
+
+- 🔍 **Extraction de texte et de tableaux**  
+  Extraire des paragraphes, des tables ou des valeurs de formulaires à partir des PDF pour la génération de rapports ou l'indexation de recherche.
+
+- 🧾 **Traitement des factures et des formulaires**  
+  Analyser et extraire les informations structurées des formulaires et des factures pour alimenter des bases de données ou des systèmes comptables automatiquement.
+
+- 🎨 **Analyse du layout**  
+  Détecter la structure visuelle (colonnes, sections) pour une conversion précise en HTML ou Markdown.
+
+- 🧠 **OCR et de rechercheabilité**  
+  Convertir les PDFs numériques en texte recherchable à l'aide d'OCR avant analyse.
+
+- 🗂️ **Archivage numérique et conformité**  
+  Archiver et auditer les documents PDF en extraignant et en taguant le contenu pertinent ou les métadonnées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

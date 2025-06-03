@@ -74,7 +74,18 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Скачок DOCX — стандартный формат Microsoft Word и поддерживает прочную интеграцию с платформами для цифровых или электронных подписей.
+
+## Общие случаи использования
+- Предложения о найме и соглашения по вопросам труда.
+- Юридические документы, требующие цифровой подписи, способной предотвратить изменение документа.
+- Академические письма, сертификаты и.transcript.
+- Документы корпоративной стратегии и минуты встреч.
+- Предложения клиентов и обозначения проектов с подписью уполномоченного лица.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+TIFF（标签图像文件格式）用于无损图像存储，通常会产生非常大的文件。压缩可以确保在不损失质量的前提下实现可用性。
+
+#### 应用场景：
+
+- **医疗和科学成像**  
+  压缩TIFF以管理诊断扫描和实验室视觉化而无需损失精度。
+
+- **数字出版工作流程**  
+  在编辑或出版团队之间共享压缩后的TIFF文件，而无需等待长时间的传输。
+
+- **长期图像存储**  
+  使用压缩的TIFF存档高保真图像以节省空间同时保持质量。
+
+- **远程工作和转移**  
+  实现全球团队或客户之间快速访问和大型TIFF文件的传输。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

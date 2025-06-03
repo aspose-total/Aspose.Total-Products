@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` — Fichier Word (Open XML) - Format de fichier Word par défaut et le plus utilisé depuis Microsoft Word 2007. Il utilise l'étandard Open XML et est le format principal pour la création et le partage de documents modernes.
+
+**Cas d'utilisation :**
+
+- Consultation de propositions d'affaires, de rapports et de mémoires en ligne.
+- Intégration des manuels d'utilisateur et des documents politiques dans les portails web.
+- Partage de documents de équipe dans les plateformes de collaboration.
+- Examen de livres blanches dans des bibliothèques universitaires ou corporatives.
+- Affichage de brouillons ou d'articles dans les systèmes de gestion de contenu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

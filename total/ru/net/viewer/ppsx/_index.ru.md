@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsx` — PowerPoint Slide Show - Современная версия `.pps`, которая открывается в режиме презентации и используется для просмотра слайдов в нередактируемом режиме.
+
+**Использование:**
+
+- Просмотр презентаций, передаваемых клиентам или партнерам в режиме только для просмотра.
+- Включение корпоративных обновлений в порталы внутреннего сети (инtranets).
+- Запуск автоматизированных слайд-шоу для экранов отображения или лобби.
+- С redistribution несъёмных презентаций в вебиналах или наборах продаж.
+- Просмотр информационного контента в корпоративных инструментах обучения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

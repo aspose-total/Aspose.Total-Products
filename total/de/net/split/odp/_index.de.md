@@ -74,7 +74,14 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Offenes Dokument Präsentation .odp-Format — Anwendungsfälle für das Unterteilen
+
+- Unterteilen Sie ODP-Dateien für offene Präsentationstools, um Bearbeitung und Teilen der Dateien zu ermöglichen.  
+- Ordnen Sie die Präsentationen in Abschnitte ein, um die Verwaltung der Präsentationen zu vereinfachen und gezielte Darstellung der Inhalte zu gewährleisten.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### TSV-Dateien verknüpfen für leichte Datenumwandlung
+
+TSV-Dateien (Tab-Separated Values) ähnlich wie CSV-Dateien, aber mit Tabs als Trennzeichen. Das Verknüpfen von `.tsv`-Dateien ist nützlich, wenn man mit sauberen, strukturierten Datensätzen in textbasierten Workflows arbeitet.
+
+#### Anwendungsfälle:
+
+- **Sauberkeit von Datenpipelines**  
+  Verknüpfung der `.tsv`-Ausgaben aus Datenumschließungsprozesse, ETL-Prozesse oder Logdateien in ein Hauptdatensatz.
+
+- **Wissenschaftliche oder statistische Analyse**  
+  Kombination von `.tsv`-Experimentendatenfiles für eine zentralisierte statistische Bewertung.
+
+- **Zwischenystemintegration**  
+  Verknüpfung von `.tsv`-Daten aus verschiedenen Plattformen (Linux-Logs, Sensoren, APIs) für zentrale Eingabe.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

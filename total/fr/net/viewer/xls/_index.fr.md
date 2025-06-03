@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xls` — Fichier de données Excel 97–2003 - Le format de fichier binaire ancien utilisé par les versions d'Excel antérieures à 2007. Toujours utilisé dans certaines organisations avec des systèmes plus anciens ou des archives à long terme.
+
+**Cas d'utilisation :**
+
+- Consultation de rapports financiers archivés dans des systèmes d'affaires hérités.
+- Accès à des fichiers budget stockés dans des répertoires internes.
+- Assurer la compatibilité dans des portails gouvernementaux ou d'entreprise.
+- Prévisualisation de données historiques de projets sans conversion.
+- Support technique pour les systèmes HR avec des dossiers employeurs hérités au format `.xls`.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

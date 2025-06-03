@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование подписей электронных или цифровых для файлов ODT  
+
+Файлы ODT используются в открытых средах, таких как LibreOffice или OpenOffice. Цифровые подписи в файлах ODT обеспечивают подтверждение происхождения и целостности текстовых документов, не связанных с Microsoft.  
+
+## Общие случаи использования  
+- Учебные заведения, делясь отчетами или черновыми копиями диссертаций.  
+- НГО и участники открытого кода, создаваемые формальные письма.  
+- Документация для органов власти в формате ODT.  
+- Совместные работы на границе, где предпочтение отдается формату ODT.  
+- Документы внутренней политики с электронной подписью.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

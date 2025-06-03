@@ -93,7 +93,22 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel的搜索功能帮助用户快速定位大数据集中或多个工作表中的特定值、公式、单元格引用、格式或注释。在分析、编辑和验证数据时，通过搜索功能无需手动滚动数百或数千个单元格，从而提高数据准确性，加快审计流程并确保财务模型、库存清单、商业报告和分析仪表盘的一致性。能够精准查找并审阅条目，使其成为高效管理电子表格的关键工具。
+
+### 用途
+
+- 在大数据集中或多个工作表中查找特定值或文本条目。
+- 定位财务模型或预算模板中的破损公式或错误。
+- 跟踪库存表中过时的价格、SKU或产品代码。
+- 审计或清算期间查找数据不一致性。
+- 识别重复条目或数据异常值以进行数据清洗。
+- 在多个数据工作表中替换公司或项目名称。
+- 在项目跟踪电子表格中跳转到关键日期或里程碑。
+- 強调所有包含关键词的实例，以批量格式或审阅。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

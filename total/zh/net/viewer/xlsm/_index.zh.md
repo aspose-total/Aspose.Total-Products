@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsm` — Excel宏启用工作簿 - 一种与`.xlsx`类似的格式，但包含支持VBA宏的功能。用于具有交互式表格和自动化逻辑的电子表格。
+
+**应用场景：**
+
+- 查看ERP系统中的宏启用预算模板。
+-预览带有嵌入计算或条件逻辑的形式。
+-显示在合规或人力资源门户中自动化仪表盘。
+-审查脚本支持的工作簿在安全、只读模式下查看。
+-分享带有嵌入逻辑的自动生成报告于商业流程中。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

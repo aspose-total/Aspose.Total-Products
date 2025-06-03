@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.dotx` — Modèle de document Word sans fonctionnalité de macro.  
+
+**Utilisations :**  
+
+- Consultation des modèles de marquage pour les lettres, les rapports et les propositions.  
+- Affichage du contenu standardisé pour l'utilisation par l'équipe.  
+- Prévisualisation des modèles juridiques ou HR dans les portails d'onboarding.  
+- Partage des boîtes de document conformes aux normes de design dans les équipes créatives.  
+- Gestion de la cohérence des documents dans les environnements d'entreprise.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

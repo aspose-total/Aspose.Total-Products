@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы XLTM для оптимизированных шаблонов Excel с встроенными макросами
+
+Файлы XLTM (шаблоны Excel с встроенными макросами) содержат логику и данные, что может привести к их увеличению. Сжатие помогает ускорить раздачу и обеспечить безопасные копии.
+
+#### Примеры использования:
+
+- **Разделение шаблонов автоматизации между командами или клиентами**  
+  Раздаете сжатые версии шаблонов XLTM для работы с командами или клиентами.
+
+- **Оптимизированные процессы тестирования**  
+  Сжать разные версии шаблонов XLTM для быстрого развертывания.
+
+- **Централизованные библиотеки шаблонов**  
+  Поддерживаете лаконичные библиотеки с использованием сжатых форматов.
+
+- **Эффективное хранение данных для ролбака и версий**  
+  Храните сжатые версии шаблонов XLTM для удобного ролбака и управления версиями.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

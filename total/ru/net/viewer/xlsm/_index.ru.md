@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsm` — Файл Excel с поддержкой макросов — формат, аналогичный `.xlsx`, но включающий поддержку宏 на языке VBA.  
+
+**Применения:**
+
+- Просмотр шаблон бюджетных документов с встроенными макросами в системах ERP.  
+- Превью форм с встроенными расчетами или логикой условий.  
+- Отображение автоматизированных дашбордов в порталах соответствия или отдела人力资源.  
+- Просмотр скриптовых книг данных в безопасном режиме только для чтения.  
+- Сохранение и распространение автоматически сгенерированных отчетов с встроенной логикой в бизнес-процессах.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

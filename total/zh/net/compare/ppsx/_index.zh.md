@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 用途：PPTX文件比较用于演示文稿准确性检查
+
+PPTX（PowerPoint 演示文稿）文件是只读的幻灯片显示格式。比较 PPTX 文件有助于审查最终演示文稿中的内容、动画和过渡等变化。
+
+- **幻灯片播放顺序及时长检查**  
+  检测幻灯片在播放过程中是否发生了顺序或时长的改变。
+
+- **内容变更检测**  
+  跟踪文本、图片和嵌入媒体中的差异。
+
+- **多媒体更新审查**  
+  验证视频、音频和嵌入对象在不同版本中的更新情况。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# ODT 文件签名的数字或电子用途
+
+ODT 文件在自由软件环境中使用，如 LibreOffice 或 OpenOffice。电子签名确保了非微软文本文件的来源和完整性。
+
+## 常见用途
+- 教育机构分享报告或论文草稿。
+- 非政府组织和开源贡献者撰写正式信函。
+- 公共部门以 ODT 格式编制文件。
+- 跨国合作中，ODT 格式更受欢迎。
+- 内部政策文件电子批准。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

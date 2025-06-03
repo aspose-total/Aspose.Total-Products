@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pps` — PowerPoint Слайд-шоу (Архайв) - Формат архива из PowerPoint 97–2003, который открывается сразу в режиме слайд-шоу вместо редактирования.
+
+**Использование:**
+
+- Просмотр архивных тренинговых или демонстрационных презентаций.
+- Отображение архивных обновлений компании, хранящихся в формате ".pps".
+- Воспроизведение полноэкранного представления продукта на киосках.
+- Доступ к старым конференцийным слайдам без конверсии.
+- Сохранение исторических презентаций в библиотеках документов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

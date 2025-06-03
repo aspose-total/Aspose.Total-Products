@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTX（Excel模板 -开放XML）文件用于标准化、可重复性的报告。对它们进行注释可以确保编辑区域的清晰度、输入预期和修订建议。
+
+#### 为可重用报告模板注释XLTX文件 - 用途：
+
+- **报告说明**：添加对常用的报告的使用技巧或更新说明。
+- **设计反馈**：注释视觉元素、标题或段落结构。
+- **用户协作**：在共享模板中跟踪来自不同部门的建议。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

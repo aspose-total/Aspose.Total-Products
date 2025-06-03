@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier `.doc` — Format de fichier binaire utilisé par Microsoft Word entre 1997 et 2003. Bien que moins courant aujourd'hui, de nombreux systèmes legacy tiennent encore à ce format.
+
+**Cas d'utilisation :**
+
+- Consultation de documents juridiques archivés dans des systèmes legacy.
+- Accès à des dossiers d'affaires anciens dans des repositories de documents.
+- Support de compatibilité avec le passé dans des portails gouvernementaux.
+- Aperçu de CV `.doc` des années 2000 dans un logiciel de recrutement.
+- Affichage de rapports des années 2000 dans une base de connaissances interne.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

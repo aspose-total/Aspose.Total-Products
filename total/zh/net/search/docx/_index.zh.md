@@ -92,7 +92,18 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` 格式是基于 XML 的现代 Word 文档标准。它提供了更好的性能、文件大小减小以及更高级的搜索功能。
+
+#### 使用场景
+- **快速定位文档中的术语、标题或注释**，特别是在大型多作者文档中。
+- **通过高级查找工具搜索并替换格式或样式**。
+- **使用导航面板过滤内容**，以快速找到章节或部分标题。
+- **定位自定义标签或元数据**，以支持工作流程或自动化。
+- **在文档协作过程中查看跟踪更改或特定注释**。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

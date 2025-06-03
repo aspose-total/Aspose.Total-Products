@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 POTM 文件以实现宏启用 PowerPoint 模板的集成
+
+POTM 文件是包含宏的 PowerPoint 模板。合并`.potm`文件有助于在各种演示文稿和工作流程中实现自动化模板的创建。
+
+#### 用途：
+
+- **宏启用模板标准化**  
+  合并不同团队使用的`.potm`模板，创建一致的宏启用模板，以供重复使用。
+
+- **模板创建自动化**  
+  将包含生成特定幻灯片布局或设计的`.potm`模板结合在一起，创建一个高效的模板。
+
+- **跨部门模板统一**  
+  合并不同部门使用的`.potm`模板，以用于公司内部的演示文稿，实现统一的自动化模板。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

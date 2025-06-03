@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel文件通常包含数据驱动的内容，如财务模型、分析仪表盘和库存表格。一个单一查看器允许用户安全高效地检查这些文档。
+
+**用途：**
+
+- 在CRM或ERP系统中查看绩效仪表盘。
+- 通过内部门户共享预算或预测结果给团队成员。
+- 在项目管理工具中预览附加的Excel文件。
+- 在监管应用程序中显示审计日志或合规清单。
+- 在商业智能平台内查看销售报告。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

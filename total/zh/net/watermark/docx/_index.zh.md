@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX 是现代、默认的 Word 文档格式，可编辑文本文件。
+
+**常见用途包括：**
+
+- 标记状态为草稿、机密或已批准
+- 应用公司品牌和水印标志
+- 添加只查看或只读权限
+- 展示内部/外部版本号
+- 支持文档生命周期跟踪
+- 符合法规要求
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

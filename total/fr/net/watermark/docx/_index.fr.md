@@ -83,7 +83,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX est le format moderne par défaut du fichier Word pour les documents de texte éditable.  
+
+**Les cas d'utilisation courants incluent :**  
+
+- Marquer l'état en tant que Brouillard, Confidentiel ou Approuvé  
+- Appliquer les marques de la société et les logos en filigrane  
+- Ajouter des désignations de visionneur uniquement ou de lecture seule  
+- Afficher la version interne/externe  
+- Supporter le suivi du cycle de vie des documents  
+- Conformer aux exigences réglementaires
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

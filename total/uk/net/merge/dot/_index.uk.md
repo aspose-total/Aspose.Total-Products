@@ -80,7 +80,26 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов DOT для управления наследственным шаблонами
+
+Файлы DOT — это шаблоны Word, используемые с более старыми версиями Microsoft Word (до DOCX). Объединение файлов `.dot` помогает стандартизировать форматирование документа и обеспечивает совместимость с устаревшими системами.
+
+#### Примеры использования:
+
+- **Снижение разрывов между командами**  
+  Объедините разные `.dot` шаблоны, используемые разными командами, чтобы создать единый шаблон для создания документов.
+
+- **Архивирование устаревших шаблонов**  
+  Комбинировать `.dot` файлы для长期 хранения или миграции в более современный формат `.dotx`.
+
+- **Обновление библиотек шаблонов**  
+  Объединить несколько `.dot` файлов, содержащих устаревшие стили и форматы, для их совремизации в один шаблон.
+
+Для выполнения данной задачи можно использовать специальные инструменты или скрипты, которые автоматизируют процесс объединения. Также важно проверить совместимость получившегося шаблона с разными версиями Word.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

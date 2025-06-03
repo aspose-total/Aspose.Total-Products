@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mêler les fichiers XLT pour des flux de travail Excel basés sur des modèles
+
+Les fichiers XLT sont le format Excel pour les fichiers `.xls` (Excel 97-2003). La fusion de fichiers `.xlt` permet de standardiser et mettre à jour les anciens modèles dans une structure unifiée.
+
+#### Cas d'utilisation :
+
+- **Unification de Modèles Anciens**  
+  Combiner plusieurs fichiers `.xlt` dans un modèle principal pour garantir la compatibilité avec les anciennes versions d'Excel.
+
+- **Standardisation des Modèles Par Département**  
+  Fuser les anciens modèles pour évaluer et développer une alternative moderne au format `.xltx`.
+
+- **Archivage Historique Des Modèles**  
+  Consolider les anciennes versions `.xlt` pour répondre aux exigences de conformité ou de référence historique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

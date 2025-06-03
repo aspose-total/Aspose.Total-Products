@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+开放文档演示（ODP）是一种用于创建和共享演示文稿的开源格式，主要在开源办公套件中使用。对ODP文件进行注释可以提高协作和内容验证，特别是在跨平台或政府/教育用途中。
+
+#### 对开放格式演示文稿文件的注释——适用于开源团队协作用案例：
+
+- **开源团队审查**  
+  在协作环境中，对幻灯片内容进行改进建议、设计问题或缺失元素的注释。
+
+- **公共部门演示文稿开发**  
+  在审阅过程中，插入注释以满足政策指南、合规标准或可访问性要求。
+
+- **跨平台内容反馈**  
+  使用注释识别不同办公套件中的格式或布局不一致。
+
+- **教育 slide 反馈**  
+  在学术环境中，使用开放格式演示文稿提供学习者或教师的评论。
+
+- **版本控制和迭代开发**  
+  在文档修订期间，突出幻灯片编辑或内容变化，以提高跟踪和协调。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

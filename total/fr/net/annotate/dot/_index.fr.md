@@ -123,7 +123,29 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+**Fichiers DOT (modèles de documents Word 97–2003)**  
+Les fichiers DOT définissent des structures de documents réutilisables. Les annotations dans ces fichiers aident à préciser l'objectif des modèles, les instructions d'utilisation et les notes de personnalisation pour les utilisateurs.
+
+#### Utilisations des Annotations dans les Fichiers DOT :
+
+- **Guidance pour la personnalisation des modèles**  
+  Les annotations sont utilisées pour indiquer aux utilisateurs comment et où insérer le contenu.
+
+- **Instructions de flux**  
+  Les commentaires expliquent les comportements automatisés, les macro ou la mise en forme conditionnelle intégrées dans le modèle.
+
+- **Évaluations de marquage et de style**  
+  Les zones doivent être mis en conformité avec les directives de marque d'entreprise ou les normes de documents.
+
+- **Collecte de retours des utilisateurs**  
+  Facilitez les améliorations itératives en permettant aux utilisateurs d'insérer des commentaires sur l'utilisabilité du modèle.
+
+- **Modèles conformément aux réglementations**  
+  Fournir des notes liées aux réglementations directement dans le modèle pour les processus de documentation légale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

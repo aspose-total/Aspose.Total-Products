@@ -93,7 +93,17 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование сценариев парсинга документов Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf):
+
+- Извлечение текста, таблиц и изображений из документов Microsoft Word  
+- Использование шаблонов .dot, .dotx, .dotm для автоматической генерации документов с динамическими данными в workflow  
+- Автоматизация парсинга и замены содержимого в файлах .docm или .dotm с встроенными макросами  
+- Конвертация файлов .doc, .odt или .rtf в чистый HTML, Markdown или PDF для публикации или документации  
+- Архивирование наследственных форматов, таких как .doc и .rtf, путем их конвертации для современных платформ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

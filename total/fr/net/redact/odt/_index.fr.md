@@ -82,7 +82,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Rédaction dans les fichiers .odt (Documents texte ouverts)
+
+- Effacer les détails personnels dans des rapports communautaires ou des publications académiques.  
+- Effacer les sections confidentielles dans des documents gouvernementaux ou organisationnels.  
+- Effacer les informations de contact ou des marqueurs d'identité dans des propositions partagées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

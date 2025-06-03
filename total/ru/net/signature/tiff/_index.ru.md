@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование подписи дигитальных или электронных подписей для файлов TIFF  
+
+ТIFF предпочтительно используется для документирования изображений с высоким разрешением. Подписание дигитальных файлов TIFF важно в юридических, медицинских и архивных отраслях.  
+
+## Общие случаи использования  
+- Юридические доказательства и сканированные копии, пригодные к использованию в суде.  
+- Результаты медицинских испытаний и изображения рентгенодиагностики.  
+- Проекты инженерии и архитектурные документы.  
+- Хранение исторических документов.  
+- Доказательства страховых претензий в виде изображений.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

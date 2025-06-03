@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 XLSB 文件以高效管理二进制工作簿
+
+XLSB (Excel 二进制工作簿) 文件采用二进制格式存储数据，这通常会导致文件大小较大，因为它进行了许多性能优化。压缩 XLSB 文件可以减少文件占用空间，同时保留速度。
+
+#### 使用场景：
+
+- **节省高体积数据集的空间**  
+  使用压缩后的 XLSB 文件存储大量数据集，以便于在商业智能工作流中使用。
+
+- **快速跨团队共享**  
+  快速分享压缩后的 XLSB 文件，而不会妨碍计算性能。
+
+- **简化备份**  
+ 存档频繁使用的二进制工作簿，通过减少文件大小来加快恢复速度。
+
+- **数据缓存在报告工具中**  
+  将压缩后的 XLSB 工作簿作为报告系统后端缓存，以减少加载时间。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

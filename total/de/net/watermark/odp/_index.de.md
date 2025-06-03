@@ -80,7 +80,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP ist das offene Präsentationsformat, das von LibreOffice Impress und anderen Open-Source-Tools verwendet wird.
+
+**Häufige Anwendungsfälle :**
+
+- Marken von Slides für offene Forene, interne Besprechungen oder eingeschränkte Nutzung
+- Einbetten von Creative-Commons-Lizenzen oder organisationalen Tags
+- Unterstützung der öffentlichen Transparenz in Präsentationen von NGOs oder Regierungen
+- Hinzufügen von Präsentertatsachen oder Projektbeziehungen
+- Verhindern des Missbrauchs durch Marken von Entwürfen oder nicht endgültigen Versionen
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

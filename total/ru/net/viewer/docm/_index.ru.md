@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docm` — документ с встроенными макросами (Word Macro-Enabled Document). — Этот формат схожится с `.docx`, но включает поддержку встроенных макросов, что делает его подходящим для автоматизированных процессов документа.
+
+**Примеры использования:**
+
+- Просмотра макроопределённых форм в корпоративных системах.
+- Превью шаблонных документов по HR или финансам с логикой VBA.
+- Безопасное открытие макрорепортов в дашбордах (для чтения только).
+- Рeviewing скриптов или автоматизированных шаблонов в инструментах workflow.
+- Displaying форм, которые запускают расчёты или бизнес-правила.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

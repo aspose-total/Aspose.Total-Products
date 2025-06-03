@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Использование подписей в файлах PPT с цифрами или электронными подписями
+
+Файлы PPT, используемые в более старых версиях Microsoft PowerPoint, могут быть электронно подписаны для подтверждения подлинности материалов презентаций.
+
+## Общие случаи использования
+- Презентации по продажам, требующие официального подтверждения.
+- Архивные презентации для юридической проверки.
+- Материалы по обучению для правительства в формате PPT.
+- Презентации продукции, требующие официальной подписи.
+- Деки конференций, требующие подтверждения участников.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

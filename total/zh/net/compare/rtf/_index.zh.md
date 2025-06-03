@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### RTF 文件跨平台文档审计用途：
+
+RTF（富文本格式）文件在轻量级文档交换中被广泛使用。比较 RTF 文件有助于验证内容和格式更改，在关注平台中立性的环境中起作用。
+
+- **跨平台内容验证**  
+  检测不同系统或工具中的格式或措辞变化。
+
+- **文档修订审查**  
+  比较由多个贡献者更新的培训手册或帮助文档。
+
+- **遗留兼容性审计**  
+  确保在 RTF 基于的系统中所做的更改对结构和样式没有影响。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

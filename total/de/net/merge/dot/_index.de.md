@@ -80,7 +80,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### DOT-Dateien verknüpfen für legaciesches Vorlagenmanagement
+
+DOT-Dateien sind ältere Microsoft Word-Vorlagen (vor DOCX). Das Verknüpfen von `.dot`-Dateien hilft, die Dokumentenformate zu standardisieren und die Kompatibilität mit legacy-Systemen zu gewährleisten.
+
+#### Anwendungsbereiche:
+
+- **Vorlagenkonsolidierung**  
+  Verknüpfen verschiedener `.dot`-Vorlagen, die von verschiedenen Teams verwendet werden, um eine einzelne, einheitliche Vorlage für das Erstellen von Dokumenten zu erstellen.
+
+- **Archivierung legaciescher Vorlagen**  
+  Kombinieren von `.dot`-Vorlagen für langfristige Speicherung oder Migration zur moderneren `.dotx`-Format.
+
+- **Aktualisierung des Vorlagenkatalogs**  
+  Verknüpfen mehrerer `.dot`-Dateien, die outdatede Formate oder Stile enthalten, um sie in eine moderne Vorlage zu überführen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

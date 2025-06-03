@@ -93,7 +93,18 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ods 文件格式（OpenDocument Spreadsheet）常用于自由软件办公套件中的电子表格程序，如 LibreOffice Calc，但也可以在 Excel 中打开。
+
+#### 使用场景
+- **搜索不同办公套件共享的开放标准电子表格**。  
+- **定位多平台环境中的数据点或公式**。  
+- **在与合作伙伴交换的 ods 文件中验证一致的术语和格式**。  
+- **跟踪 ods 文件中更改或注释**。  
+- **查找特定的行或列以进行数据提取或报告生成**。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

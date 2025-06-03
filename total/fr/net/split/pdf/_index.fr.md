@@ -72,7 +72,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Cas d'utilisation pour le découpage de fichiers PDF
+
+- **Extraire les pages pertinentes** de fichiers PDF volumineux pour un partage et un examen plus faciles.  
+- **Séparer** les rapports ou contrats multisections en documents individuels.  
+- **Faciliter l’éditeur collégial** ou l’annotation en distribuant des parties de PDF plus petites.  
+- **Protéger** les informations sensibles en découpant et en contrôlant l’accès aux sections.  
+- **Créer des documents personnalisés** à partir de fichiers maîtres.  
+- **Réduire la taille du fichier** en découpant les PDF.  
+- **Archiver plus efficacement** en catégorisant le contenu en fichiers plus petits.  
+- **Réorganiser et assembler des PDF personnalisés** en découpant et en mélangent les pages pertinentes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Формати Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) — використання випадків парсингу
+
+- 🖼️ **Выведення вмісту слайдів**  
+  Витяг тексту, зображень та деталей оформлення слайдів для підсумок, пошуку чи веб-презентacji.
+
+- 🧩 **Автоматизація шаблонів**  
+  Генерування презентacji із файлів `.potx` або `.potm`, вставка динамічного вмісту.
+
+- 🎯 **Обробка презентacji з макросами**  
+  Безпечний парсинг файлів `.pptm`, `.potm`, `.ppsm`, що містять макроси чи автоматизацію.
+
+- 📊 **Переобразування презентacji у веб-формати**  
+  Прzekształcenя файлів `.pptx`, `.odp`, `.ppsx` у веб-слайди або інтерактивні формати.
+
+- 📁 **Індексування слайдів**  
+  Індексування та підсумовка слайдів для систем управління документами чи архівів зустрінь.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

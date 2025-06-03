@@ -80,7 +80,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusion de Fichiers DOCM pour les Documents Word avec Macros Actifs
+
+Les fichiers `.docm` sont des documents Word qui prennent en charge les macros. La fusion de fichiers `.docm` est utile lorsque l’on souhaite combiner des documents contenant des macros intégrés pour l’automatisation ou le traitement.
+
+#### Cas d'Utilisation :
+
+- **Consolidation Automatisée des Rapports**  
+  Fusionner des rapports `.docm` qui utilisent des macros pour générer des données formatées, des graphiques ou des tableaux dans un document central.
+
+- **Création de Documents avec Macros Supportés**  
+  Combiner des fichiers `.docm` pour maintenir et unifier les fonctionnalités d’automatisation à travers différents rapports ou documents.
+
+- **Intégration du Flux de Travail**  
+  Fusionner des documents ayant des fonctions macros similaires pour améliorer les workflows de création de documents au sein d’équipes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel在数据驱动的工作中应用广泛。给Excel表格打水印有助于传达机密性和背景信息，特别是在数据审查或财务披露时。
+
+**常见用途包括：**
+
+- 识别spreadsheet为初步、敏感或已验证的
+- 防止对专有计算或预测的滥用
+- 为内部审计或财务报告标注表格
+- 在分布控制中给仪表盘打水印
+- 标记数据为过时、存档或处于测试状态
+- 表明财务模型或分析的所有者
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

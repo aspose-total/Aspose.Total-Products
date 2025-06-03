@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xl tm` — Excel-Makro-befähigte Vorlage - Eine makrofreundliche Vorlagenschnittform, die neue Arbeitsbücher mit vorgefertigtem Aufbau und automatisierter Logik generiert.
+
+**Anwendungsbereiche:**
+
+- Das Anzeigen von vorgefertigten Vorhersagemodellen mit Makro-Funktionen.
+- Das Anzeigen von wiederholbarren Finanz- oder Prüfungsvorlagen in Unternehmen.
+- Das Vorherschen von Personalabteilungsformularen mit eingebauter Automatisierung.
+- Das Verwalten von makrofreundlichen Rechnungsvorlagen in Buchhaltungsplattformen.
+- Das Anzeigen von vorgefertigten Vorlagen mit logikgetriebenen Feldern in CRM-Tools.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

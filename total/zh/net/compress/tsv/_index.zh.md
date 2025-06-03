@@ -75,7 +75,28 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### TSV 文件压缩以提高存储和传输效率
+
+TSV（Tab-Separated Values，制表符分隔值）文件是另一种用于结构化数据的格式，特别是在使用制表符而不是逗号来作为分隔符的情况下。与 CSV 类似，大型 TSV 文件在存储上占用空间大且传输或处理速度慢。压缩 TSV 文件可以带来性能、可扩展性和互操作性的重要优势。
+
+- **研究数据打包**  
+  将实验室实验或调查生成的 TSV 文件进行压缩，以便更容易共享或提交给同行评审。
+
+- **数据日志和审计轨迹**  
+  将系统日志或数据监控输出存储为压缩后的 TSV 格式，以节省空间而不失去精度。
+
+- **大数据集成**  
+  利用正在被 ingested 到数据湖或分布式处理系统（如 Hadoop 或 Spark）的 TSV 文件进行压缩。
+
+- **自动化报告管道**  
+  将压缩整合到生成 TSV 输出的自动化脚本中，以减少电子邮件或云端分发中的延迟。
+
+- **协作数据共享**  
+  使用压缩后的存档分享大型 TSV 文件给分析师或团队，提高可移植性并提高上传/下载效率。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

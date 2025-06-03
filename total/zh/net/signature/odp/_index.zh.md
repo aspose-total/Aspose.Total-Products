@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 使用电子签名签署ODP文件的用途
+
+ODP文件是LibreOffice Impress或OpenOffice用户偏好的文件格式。通过对ODP文件进行电子签名，可以在开源演示环境中确保不可否认性。
+
+## 常见用途
+- 学术讲座幻灯片及相关资质文件。
+- 非政府组织项目演示文件以供捐助方验证。
+- 政府办公室内的政策提案使用ODP格式。
+- 在开源平台上进行的技术网络研讨会内容。
+- 社区报告所需电子验证文件。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

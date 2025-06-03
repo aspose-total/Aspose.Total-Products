@@ -84,7 +84,20 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel 文件元数据用途
+
+- 通过文档属性存储数据集的上下文、目的和项目细节。
+- 识别数据所有者和贡献者以进行版本跟踪和审计。
+- 分类财务、运营或人力资源表格以控制访问权限。
+- 使用元数据定义文档生命周期（例如，活跃、存档、废弃）。
+- 为财务批准或预测报告启用自动化工作流程。
+- 通过元数据将表格数据与外部系统（如ERP或数据库）连接起来。
+- 使用元数据为仪表盘、数据血统或商业智能管道服务。
+- 帮助AI确定表格内容的结构、意图和意义。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

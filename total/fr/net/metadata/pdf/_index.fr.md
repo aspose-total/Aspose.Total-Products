@@ -78,7 +78,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Utilisations des fichiers PDF (`.pdf`) Metadata
+
+- Intégrer le titre du document, le sujet, les mots-clés et l'auteur pour améliorer la découverte.
+- Préserver les métadonnées de conformité comme la version du document, les approuvés et les catégories.
+- Maintenir les informations sur les droits numériques pour des publications ou des manuels.
+- Utiliser les métadonnées pour automatiser l'archivage, la suppression ou le marquage dans les systèmes de contenu.
+- Faciliter le suivi sécurisé des documents dans les secteurs du droit, de la santé ou de l'enseignement.
+- Intégrer avec les platesformes de contenu pour le tri ou le filtrage basés sur les métadonnées.
+- Alimenter les métadonnées dans les systèmes d'intelligence artificielle pour des tâches comme le résumé, la catégorisation ou l'agrégat.
+- Supporter les métadonnées d'accessibilité comme la langue, la structure du document et les indices de texte alternatif.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

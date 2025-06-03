@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | OpenDocument Spreadsheet — 保护功能的应用场景
+
+- 在开源环境中如 LibreOffice 中用于预算跟踪和数据共享。
+- 保护跨平台工作流程中的单元格公式和计算。
+- 防止协作财务模型或公共部门文件中的结构性变化。
+- 确保在多方利益相关者或部门间共享时的一致性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

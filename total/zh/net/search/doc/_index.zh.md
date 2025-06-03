@@ -92,7 +92,17 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.doc`格式是 Word 版本前的 2007 年使用的二进制格式。虽然较为老旧，但它仍然支持核心搜索功能。
+
+#### 使用场景
+- **在存档的合规或法律文件中查找特定文本或术语**。
+- **定位并更新旧引用**，如在更旧的模板或简历中。
+- **扫描长商业报告**而无需将其转换为 `.docx` 格式。
+- **在仍使用较旧系统的情况下**，通过搜索导航内容保持兼容性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

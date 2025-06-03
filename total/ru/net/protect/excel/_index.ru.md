@@ -78,7 +78,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Мicrosoft Excel — Примеры использования защиты рабочей книги
+
+- Защита формул, вычислений и финансовых моделей от несчастных или намеренных изменений.  
+- Закрепление конкретных ячеек или листов с разрешением ввода данных в определённых зонах.  
+- Защита конфиденциальной бизнес-информации, такой как бюджеты, прогнозы и данные о клиентах.  
+- Контроль доступа с использованием паролей и шифра для соответствия политикам данных конфиденциальности.  
+- Проблема манипуляции данными в дашбордах и показателях КИ (Key Performance Indicators), которые共享ются между командами.  
+- Защита макро-устройств и динамических таблиц для использования в операционных потоках.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

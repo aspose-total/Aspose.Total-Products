@@ -80,7 +80,26 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Для объединения файлов с расширением .doc в Microsoft Word выполните следующие шаги:
+
+1. Откройте первый файл с расширением .doc.
+2. Перейдите в меню **Файл** (File) и выберите **Открыть** (Open).
+3. В поле для поиска (Search for files) выберите категорию **Текстовые файлы** (Text files), убедитесь, что расширение файла указано как .doc, и нажмите **ОК** (OK).
+4. Укажите путь к другому файлу с расширением .doc и подтвердите его выбора.
+5. Повторите шаги 2-4 для каждого дополнительного файла, который вы хотите объединить.
+6. После того как все необходимые файлы будут открыты и визуализированы в одном окне Word, сохраните получившийся документ с расширением .doc или .docx.
+
+Примечания:
+- Если вы работаете с большим количеством файлов, использование макрос или скрипта VBA может автоматизировать процесс.
+- Убедитесь, что все стили и форматирование правильно переносится.
+- Обновите все ссылки и внешние элементы, такие как таблицы или графики.
+- Для эффективного хранения можно сохранить документ в формате .docx после объединения.
+
+Проверьте итоговый документ на наличие ошибок и проблем с форматированием.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

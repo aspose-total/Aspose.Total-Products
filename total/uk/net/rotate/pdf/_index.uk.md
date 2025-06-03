@@ -74,7 +74,19 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Для поворота страницы в PDF:
+
+1. Откройте файл PDF с помощью Adobe Acrobat Reader или другого приложения.
+2. Проведите правую кнопку мыши (км) по выбранной области страницы и выберите "Поворот".
+3. Выберите направление поворота ("По часовой" или "Стоявшийся").
+4. Для поворота всех страниц в документе используйте опцию "Поворот всех страниц" в контекстном меню.
+5. Если используется приложение для мобильных устройств, используйте pinch-gesture для быстрого поворота.
+
+Примечание: Убедитесь, что PDF не защищено пароллем, иначе поворот может быть невозможным без ввода пароля.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

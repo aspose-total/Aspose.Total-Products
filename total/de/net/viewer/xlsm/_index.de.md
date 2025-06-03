@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsm` — Excel-Tabelle mit Makrosupport - Eine Dateiformat, ähnlich wie `.xlsx`, aber mit Unterstützung für VBA-Makros. Verwendet für interaktive Tabellen mit Automatisierung und Logik.
+
+**Anwendungsbereiche:**
+
+- Anschauen von makro-befähigten Budgetvorlagen in ERP-Systemen.
+- Vorschau von Formularen mit integrierten Berechnungen oder bedingter Logik.
+- Anzeige automatisierter Dashboards in Compliance- oder Personalabteilungsportalen.
+- Überprüfen von skriptgesteuerten Tabellen in sicherem, lesbarem Modus.
+- Teilen von automatisch generierten Berichten mit integrierter Logik in geschäftlichen Workflows.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

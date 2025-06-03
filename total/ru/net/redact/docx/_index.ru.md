@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Отредактирование в .docx (Microsoft Word)
+
+- Отредактировать персональные данные, контактную информацию и идентификационные номера в документах по личным делам.  
+- Отредактировать конфиденциальные детали дела или информацию о клиентах в юридических контрактах и поданиях в суд.  
+- Отредактировать конфиденциальные разделы в внутренних отчетах, актах会议 или документах по проектам.  
+- Отредактировать авторские методы или результаты исследований в научных или научно-исследовательских статьях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

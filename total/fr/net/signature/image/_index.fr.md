@@ -71,7 +71,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisation des cas de signature électronique pour les fichiers d'images
+
+## Documents juridiques scannés
+Des scans d'accords manuscrits ou de documents notariés en formats JPG, PNG ou TIFF peuvent être signés électroniquement pour valider leur authenticité.
+
+## Vérification des identités et dossiers personnels
+Des images de passeports, cartes d'identité et factures utilisées pour les procédures de KYC ou d'onboarding peuvent être signées électroniquement pour s'assurer qu'elles n'ont pas été modifiées.
+
+## Imagerie médicale
+Des scans comme des radiographies ou des résultats de tests en formats TIFF ou PNG peuvent être signés numériquement pour confirmer leur origine d'une installation médicale certifiée.
+
+## Travaux créatifs et soumissions artistiques
+Des designs, illustrations ou graphiques de marketing en formats d'images peuvent être signés pour affirmer les droits de propriété intellectuelle.
+
+## Photos d'inspection et de conformité
+Des photos prises pendant des audits, inspecteurs ou vérifications de conformité sont souvent signées numériquement pour certifier l'emplacement, le temps et l'authenticité de la preuve.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

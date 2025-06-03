@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы DOTM для повышения эффективности макросов Word (Macro-Enabled Word Template)
+
+Файлы DOTM (Macro-Enabled Word Template) содержат скрипты и форматирование, увеличивающие размер файла. Сжатием файлов DOTM обеспечивается быстрый доступ и упрощённая управление автоматическими шаблонами.
+
+#### Примеры использования:
+
+- **Распределение макросного шаблона**  
+  Поделить файлы DOTM в организацию для ускоренного развертывания.
+
+- **Успешное хранение макросов**  
+  Архивировать коллекцию файлов DOTM без потери дискового пространства.
+
+- **Развертывание на разных системах**  
+  Сжать файлы DOTM для совместимости и уменьшения задержек при выполнении шаблонов на различных устройствах.
+
+- **Оптимизация библиотеки шаблонов**  
+  Удерживать репозитории шаблонов в легком виде с использованием сжатых файлов DOTM.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

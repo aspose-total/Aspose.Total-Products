@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы DOCX для оптимизации современных документов Word
+
+Файлы DOCX (Открытый формат XML, поддерживаемый Microsoft Word) широко используются, но могут увеличиваться в размере из-за богатого оформления, встроенных объектов и изображений. Сжатием файлов DOCX улучшается производительность и упрощается обмен.
+
+#### Примеры использования:
+
+- **Быстрее распространение документов**  
+  Сжать файлы DOCX для уменьшения времени загрузки и обеспечения мгновенного отправления по электронной почте или в cloud-платформах.
+
+- **Совместимость в низкоскоростных средах**  
+  Меньшие файлы DOCX улучшают удобство работы в удаленных или ограниченных по пропускной способности локациях.
+
+- **Контроль версий хранения**  
+  Сохранять несколько вариантов сжатых файлов DOCX эффективно на collaborative-платформах.
+
+- **Оптимизация доступа на мобильных устройствах**  
+  Уменьшение размера файлов позволяет загружать их быстрее и редактировать на мобильных устройствах.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

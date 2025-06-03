@@ -75,7 +75,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .odp | Présentation OpenDocument — Utilisations pour la protection
+
+- Partagé dans des environnements open-source — la protection garantit l'intégrité du design à travers différentes plateformes.  
+- Utilisé dans des présentations académiques ou publiques; protège contre le rembobage de diapositives ou la modification du contenu.  
+- Prévente les modifications non autorisées dans des contextes éducatifs collaboratifs.  
+- Conçu pour distribuer des déposants de formation en lecture seule ou des présentations pour panneaux numériques.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

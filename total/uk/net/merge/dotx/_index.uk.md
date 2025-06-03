@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов .dotx для современного управления шаблонами
+
+Файлы `.dotx` — это XML-базированные шаблоны Word. Объединение файлов `.dotx` помогает создать единый библиотеку шаблонов, независимую от команд или отделов, при этом сохраняя современную совместимость.
+
+#### Примеры использования:
+
+- **Единое управление шаблонами**  
+  Объедините `.dotx` шаблоны из разных команд для создания однородного брендинга, форматирования и структуры документа.
+
+- ** Интеграция шаблонов между отделениями**  
+  Комбинируйте `.dotx` шаблоны из различных отделений в один общий файл для удобства использования и стандартизации.
+
+- **Упрощение обновлений шаблонов**  
+  Объедините обновленные `.dotx` шаблоны в центральный файл, чтобы обеспечить легко доступ к последним версиям шаблонов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

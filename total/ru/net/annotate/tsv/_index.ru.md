@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы TSV (Tab-Сeparated Values)common в области науки данных и экспортов систем. Анонции помогают отмечать конкретные записи, объяснять значения полей или подчеркивать потребности в трансформациях.
+
+#### Применение аннотаций к файлам TSV для структурированного сотрудничества данных — примеры использования:
+
+- **Замечания по очистке данных**: Выделить строки, требующие ручной проверки или удаления.
+- **Данные для обучения моделей**: Метка специальных случаев для последующей логики ML.
+- **Комментарии в workflow ETL**: Обозначение полей, требующих картографирования или изменений схемы.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

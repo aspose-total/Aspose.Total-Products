@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.ppt classique — Format de présentation (Héritage) utilisé dans les versions du logiciel PowerPoint avant 2007.  
+
+**Cas d’utilisation :**  
+
+- Accès aux anciennes présentations d’affaires ou académiques.  
+- Consultation des déposés de conférences anciennes stockés dans des répertoires d’entreprise.  
+- Affichage des diapositives historiques dans des bibliothèques de contenu d’entreprise.  
+- Support de la compatibilité dans les systèmes gouvernementaux.  
+- Conservation du contenu de diapositives datant des événements des années 2000.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+1. Die Korrektur der Bildorientierung von Aufnahmen, die in Landschafts- oder Portraitmodus aufgenommen wurden.
+2. Die Anpassung von scanneden Dokumenten oder Fotos, die sich nach einer Seite oder auf den Kopf gestellt haben.
+3. Der Ausrichtung von visuellen Elementen zufolgen, um ein konsistentes Display in Galerien, Präsentationen oder Berichten zu gewährleisten.
+4. Die Rotation von Designelementen wie Icons, UI-Komponenten oder Diagramme zur Zufügung in die Layouts.
+5. Die Vorbereitung von Bildern für Druck oder Veröffentlichung mit der richtigen Orientierung.
+6. Die Standardisierung der Bildorientierung beim Importieren aus verschiedenen Quellen oder Geräten.
+7. Die Verbessering der Lesbarkeit von Inhalten in eBooks, Dokumentationen oder Webseiten.
+8. Die Rotation von Produkt- oder Katalogbildern zum passenden Aspektverhältnis.
+9. Die Verbesserung des Benutzererlebnisses durch automatische Korrektur der Bildorientierung auf Basis von Metadaten.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 在.docx（Microsoft Word）中进行红action
+
+- 在人力资源文件中，删除个人姓名、联系方式和身份证号。
+- 在法律合同和法院提交文件中，删除敏感案件详情或客户信息。
+- 在内部报告、会议纪要或项目文件中，删除机密部分。
+- 在学术或科学论文中，删除专有方法或研究成果。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

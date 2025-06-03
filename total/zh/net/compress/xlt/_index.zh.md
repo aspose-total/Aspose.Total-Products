@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 XLT 文件以优化旧 Excel 模板库
+
+XLT (Excel 97–2003 模板) 文件可能会因为嵌入的元素或样本数据而变得很大。压缩 XLT 文件可以使模板库更轻薄，更易于分发。
+
+#### 用途：
+
+- **传统模板的可移植性**  
+  将标准模板压缩，以便在旧企业系统中快速分发。
+
+- **模板仓库效率**  
+  保持模板存档文件轻量级，以便集中访问和快速检索。
+
+- **减少模板加载时间**  
+  通过压缩 XLT 文件来优化旧系统，使其更快地打开和使用。
+
+- **备份和存储优化**  
+  通过压缩来减少长期存储旧模板的负担。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pps` — Microsoft PowerPoint (Version Antique) - Un format héritier de PowerPoint 97–2003 qui s'ouvre directement en mode diapositive au lieu de mode éditeur.
+
+**Utilisations :**
+
+- Consultation de présentations d'entraînement ou de démonstration archivées.
+- Affichage des mises à jour d'entreprise légendaires stockées au format .pps.
+- Projection en plein écran de présentations de produits dans des kiosques.
+- Accès aux diapositives de conférences anciennes sans conversion.
+- Préserver des présentations historiques dans des bibliothèques de documents.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

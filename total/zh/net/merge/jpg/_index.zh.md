@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ 合并 JPG（JPEG 图像格式）用于视觉存档和设计整合
+
+JPG 是一种广泛用于照片和网络图形的压缩图片格式。合并 JPG 文件支持展示、存档和视觉文档制作。
+
+#### 用途：
+
+- **照片相册创建**  
+  将假日或活动图片合并成一个单独的拼图或幻灯片集。
+
+- **营销资料**  
+  将多个视觉资产合并成宣传手册或推广单页。
+
+- **基于图像的文档**  
+  将截图或视觉日志合并成一个单一的手册或证据报告。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

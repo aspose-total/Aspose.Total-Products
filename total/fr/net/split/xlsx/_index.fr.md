@@ -75,7 +75,13 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Excel — Formats de fichiers .xlsx — Cas d'utilisation pour le découpage  
+- Découper les grandes feuilles de calcul Excel modernes pour une meilleure gestion et une collaboration plus efficace.  
+- Créer des rapports personnalisés en découpant un fichier maître .xlsx en feuilles d'usages adaptées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

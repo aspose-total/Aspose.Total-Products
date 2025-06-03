@@ -73,7 +73,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Cas d'utilisation pour le découpage de documents
+
+- Découper de grandes rapports, manuels ou articles de recherche en fichiers plus gérables.  
+- Attribuer différentes sections d'un document à des membres de l'équipe pour un éditing indépendant.  
+- Automatiser les flux de travail en traitant des parties spécifiques du document séparément.  
+- Faciliter l'envoi par mail ou l'upload en découpant les fichiers volumineux en pièces plus petites.  
+- Générer des documents personnalisés (par exemple, certificats, factures ou lettres) à partir d'un fichier maître unique.  
+- Organiser le contenu pour un stockage plus facile, une recherche aisée et la conformité aux systèmes de gestion des documents.  
+- Partager uniquement les sections pertinentes des documents sensibles tout en maintenant les données confidentielles en sécurité.  
+- Distribuer les matériaux pédagogiques ou de formation dans des fichiers plus petits axés sur des sujets pour une expérience d'apprentissage améliorée.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

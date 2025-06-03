@@ -76,7 +76,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format XLSX est le standard actuel pour les tableur Excel modernes.  
+
+**Les cas d'utilisation courants incluent :**  
+
+- Affichage des données de brouillard, confidentielles ou vérifiées  
+- Intégration des détails de marquage ou de propriété  
+- Protection des modèles avec des avertissements 'Ne distribuer pas'  
+- Signalement des données pour le respect des réglementations  
+- Identification des versions pour la collaboration ou l'examen par les clients
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

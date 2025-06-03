@@ -81,7 +81,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge TIFF files for high-quality image merging, follow these steps:
+
+1. **Load Images**: Open your chosen software (e.g., Adobe Photoshop) and import each TIFF file as separate layers or use a dedicated image manager that supports multi-page TIFFs.
+
+2. **Align and Arrange**: Ensure all images are aligned correctly. If pages are in different orientations, adjust the software to handle rotation and alignment automatically.
+
+3. **Merge Layers**: Combine the layers into a single document. Some software allows saving as a multi-page TIFF directly, ensuring all content is preserved without compression loss.
+
+4. **Save as Multi-Page TIFF**: Export the merged document as a single TIFF file with multiple pages, maintaining high quality and detail.
+
+This method ensures that the final image retains maximum quality, ideal for archiving or creating multi-page documents from scans.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

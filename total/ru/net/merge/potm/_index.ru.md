@@ -78,7 +78,27 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge POTM files containing macros into a single, consolidated macro-enabled PowerPoint template, follow these organized steps:
+
+1. **Identify the Purpose**: Determine why you need to merge the POTM files—whether for standardizing templates across teams, automating slide generation, or unifying corporate presentations.
+
+2. **Open Both Files**: Launch both POTM files in PowerPoint to access their respective macros and slides.
+
+3. **Import or Copy Macros**:
+   - Use the "Import" function within PowerPoint to transfer macros from each POTM file into a new template.
+   - Alternatively, manually copy slides and ensure that all macros are included without conflicts.
+
+4. **Merge Slides**: Combine slides from both files into a single presentation. Ensure that macros do not conflict by testing each individually post-merging.
+
+5. **Save as New POTM**: After verifying functionality, save the merged file as a new POTM to maintain macro integrity and structure.
+
+6. **Consult Resources**: For detailed instructions or troubleshooting, refer to Microsoft's official documentation or community forums for additional insights and solutions.
+
+By following these steps, you can effectively merge POTM files into a unified, macro-enabled template, ensuring consistency and efficiency across your presentations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

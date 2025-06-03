@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.dotm` — 带有宏支持的模板 - 用于生成多个带有可重用结构和嵌入自动化的Word文档的模板格式。
+
+**应用场景：**
+
+- 预览带有自动化的发票或报告模板。
+- 在内部门户网站上展示法律或人力资源模板。
+- 评审基于宏的文档生成系统的模板。
+- 管理可重用的合规表格。
+- 在企业文档库中展示模板结构。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

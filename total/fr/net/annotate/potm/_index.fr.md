@@ -106,7 +106,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Les fichiers POTM (PowerPoint Macro-Enabled Template) sont utilisés pour créer des présentations standardisées avec des macros intégrés. L'annotation des fichiers POTM aide à documenter la logique d'automatisation, à standardiser l'utilisation des modèles et à soutenir le développement collaboratif.
+
+#### Annotation de Fichiers POTM pour les Utilisations de Présentation Basées sur des Modèles :
+
+- **Révision du Design du Modèle**  
+  Ajouter des commentaires sur la disposition des slides, la cohérence dans la marque et la structure du modèle.
+
+- **Documentation des Macros**  
+  Annoter le but et le comportement des macros pour les utilisateurs et les développeurs.
+
+- **Instructions d'Utilisation pour les Équipes**  
+  Fournir des instructions ou des bonnes pratiques sur la manière de remplir et de réutiliser le modèle.
+
+- **Annotations de Vérification de Conformité**  
+  Marquer les zones nécessitant des mises à jour pour respecter les normes d'accès ou les politiques corporationnelles.
+
+- **Élaboration Iterative du Modèle**  
+  Marquer les changements de version ou les améliorations suggérées dans les conceptions évoluantes du modèle.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

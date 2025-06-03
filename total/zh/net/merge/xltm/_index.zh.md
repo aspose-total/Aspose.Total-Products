@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 XLTM 文件用于宏启用模板
+
+XLTM 文件是用于 Excel 中自动化重复任务的宏启用模板。合并它们在统一自动化逻辑或迁移工作流程时非常有用。
+
+#### 用途：
+
+- **工作流程自动化库**  
+  将包含不同宏的 `.xltm` 模板合并到一个中心化模板中，以实现多种功能的自动化。
+
+- **部门特定模板集成**  
+  从不同的部门汇总宏启用模板，标准化过程自动化。
+
+- **宏驱动流程审计**  
+  合并 `.xltm` 模板以审查嵌入的宏，以确保符合法规和优化流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

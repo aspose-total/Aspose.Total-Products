@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT — это наследний формат презентации, используемый в более старых версиях Microsoft PowerPoint.
+
+**Настоящие случаи использования включают:**
+
+- Обозначение слайдов как Strictly Confidential, Training Only или Internal.
+- Включение имени презентера, организации или события.
+- Предупреждение о нераспространении с Do Not Share.
+- Наложение корпоративных логотипов или названий проектов.
+- Флагирование контента для обзора или одобрения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

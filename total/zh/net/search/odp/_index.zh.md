@@ -90,7 +90,18 @@ There are three alternative options to install "Aspose.Slides for .NET" or "Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.odp` (OpenDocument 演示文稿) 格式是由开源演示文稿工具使用的。
+
+#### 用途
+- **在共享的办公套件中的演示文稿中搜索文本和笔记。**
+- **定位开放标准幻灯片集中关键信息或术语。**
+- **审阅使用 LibreOffice 或其他开源工具创建的多语言演示文稿。**
+- **在转换为 .pptx 以便更广泛分发之前验证内容。**
+- **查找占位符或模板元素，以确保品牌的一致性。**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

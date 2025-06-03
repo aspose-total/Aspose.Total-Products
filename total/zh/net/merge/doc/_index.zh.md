@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 DOC 文件进行旧版本 Word 文档管理
+
+DOC 文件是微软 Word 旧有的二进制格式。合并 .doc 文件通常需要用于整合遗留文档、存档或转换为新格式。
+
+#### 用途：
+
+- **合并历史报告**  
+  将旧的 .doc 报告合并以供存档，或创建统一文档以便打印或分享。
+
+- **更新 legacy 文档**  
+  合并多个包含项目信息或商业文档的 .doc 文件到主文档中进行更新。
+
+- **将文档转换为现代格式**  
+  在将 .doc 文件转换为 .docx 之前合并，以提高与现代系统的兼容性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

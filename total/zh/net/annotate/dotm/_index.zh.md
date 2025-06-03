@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM (带有宏启用模板)文件包含用于提高生产力的自动化脚本。注释DOTM文件有助于记录宏行为的文档，并促进错误跟踪和反馈收集。
+
+#### DOTM文件注释对于宏启用模板审查的使用场景：
+
+- **宏指令和逻辑文档说明**  
+  对宏触发字段进行注释，以明确功能和预期结果。
+
+- **自动化审查和测试**  
+  在测试过程中插入注释，标记宏执行成功或失败的情况。
+
+- **模板行为解释**  
+  对自动化布局或格式部分进行注释，有助于用户理解模板流程。
+
+- **用户培训材料嵌入**  
+  直接在模板中添加学习提示，以简化用户入职过程。
+
+- **错误隔离**  
+  使用注释来隔离和解释由宏执行引起的错误。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

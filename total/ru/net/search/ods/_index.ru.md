@@ -93,7 +93,18 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат `.ods` (OpenDocument Spreadsheet) используется открытыми таблицами spreadsheet, такими как LibreOffice Calc, но может быть открыта также в Excel.
+
+#### Примеры использования
+- **Поиск开放ного стандарта таблиц** общего назначения, разделённых между разными офисными пакетами.  
+- **Нахождение точек данных или формул** в средах с несколькими платформами.  
+- **Проверка единого терминологии и форматирования** перед конверсией в `.xlsx`.  
+- **Трекинг изменений или комментариев** в файлах `.ods`, обменённых с коллабораторами.  
+- **Найдение конкретных строк или столбцов для извлечения данных или отчета.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

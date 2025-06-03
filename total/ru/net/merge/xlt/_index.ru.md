@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Слияние файлов форматов XLT для рабочих процессов Excel на основе шаблонов
+
+Формат XLT — это формат файла `.xls` (Excel 97-2003). Слияние файлов `.xlt` помогает стандартизировать и обновить устаревшие шаблоны в единую структуру.
+
+#### Примеры применения:
+
+- **Единство старых шаблонов**  
+  Объедините несколько файлов `.xlt` в основной шаблон для поддержки обратной совместимости.
+
+- **Стандартизация шаблонов отдела**  
+  Слияние устаревших шаблонов для оценки и разработки современного альтернативы формату `.xltx`.
+
+- **Архивирование исторических версий шаблонов**  
+  Консолидация старых версий `.xlt` для соответствия требованиям соответствия или исторического сведения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

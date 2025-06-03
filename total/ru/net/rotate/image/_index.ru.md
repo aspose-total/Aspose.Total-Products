@@ -73,7 +73,19 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+1. Correct the orientation of images captured in landscape or portrait mode.  
+2. Adjust scanned documents or photos that appear sideways or upside down.  
+3. Properly align visual elements for uniform display in galleries, presentations, and reports.  
+4. Rotate design assets like icons, UI elements, or diagrams to meet layout requirements.  
+5. Prepare images for printing or publication in the correct orientation.  
+6. Standardize image orientation upon import from various sources or devices.  
+7. Improve readability of content in eBooks, documentation, or web pages.  
+8. Rotate product or catalog images to meet aspect ratio requirements.  
+9. Enhance user experience by automatically correcting image orientation using metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,18 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — Cas d'utilisation pour la protection des feuilles de calcul
+
+- Protéger les formules, les calculs et les modèles financiers des modifications accidentelles ou intentionnelles.  
+- Bloquer des cellules spécifiques ou des feuilles tout en permettant l'entrée de données dans des zones définies.  
+- Protéger les données sensibles d'affaires comme les budgets, les prévisions et les informations sur les clients.  
+- Contrôler l'accès avec des mots de passe et des encodages pour respecter les politiques de confidentialité des données.  
+- Prévenir les manipulations dans les tableaux de bord et les indicateurs clés partagés entre équipes.  
+- Protéger outils d'automatisation pilotés par des macros et des feuilles de calcul dynamiques utilisés dans les flux de travail opérationnels.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

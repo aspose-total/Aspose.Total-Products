@@ -72,7 +72,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDF est le format standard pour les documents sécurisés, portables et prêts à l'impression.
+
+**Utilisations courantes :**
+
+- Appliquer des marques d'eau comme 'Confidentiel', 'Approuvé' ou 'Version finale'
+- Inclure les marques de commerce, les logos ou les informations de contact
+- Marquer les documents en vue de leur soumission réglementaire
+- Intégrer des horodatages, des signatures ou des codes QR
+- Distinguer entre une version publique et une version interne
+- Renforcer la propriété légale ou les droits d'auteur
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

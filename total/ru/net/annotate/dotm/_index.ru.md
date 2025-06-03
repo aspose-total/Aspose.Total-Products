@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы DOTM (шаблоны с встроенными макросами) содержат скрипты автоматизации для повышения эффективности работы. Обновление файлов DOTM обеспечивает документирование поведения макросов и упрощает процесс отслеживания ошибок и собирания обратной связи.
+
+#### Примеры использования аннотаций в файлах DOTM для обзора шаблонов с встроенными макросами:
+
+- **Документирование инструкций и логики макросов**  
+  Обновите макросы, связанные с полями, чтобы сделать их более понятными и указать ожидаемые результаты.
+
+- **Обзор automation и тестирование**  
+  Вставьте примечания для фиксации успешных или неудачных запусков макросов во время тестирования.
+
+- **Описание поведения шаблона**  
+  Комментируйте автоматические разделы оформления, чтобы помочь пользователям понять процесс работы шаблона.
+
+- **Включение материалов для обучения**  
+  Добавьте вопросы для обучения прямо в шаблоны, чтобы упростить наboarding пользователей.
+
+- **Изоляция ошибок**  
+  Используйте аннотации для объяснения ошибок, вызванных запуском макросов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

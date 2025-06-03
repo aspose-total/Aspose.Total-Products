@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xltm` — Excel 宏功能模板 - 用于生成具有预定义结构和自动化逻辑的新工作簿的宏功能模板格式。
+
+**用途：**
+
+- 查看带有宏功能的预定义预测模型。
+- 在企业工具中显示可重用的财务或审计模板。
+- 预览嵌入了自动化的人力资源表格。
+- 在会计平台中管理带有宏功能的发票模板。
+- 在客户关系管理（CRM）工具中展示具有逻辑驱动字段的预定义模板。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

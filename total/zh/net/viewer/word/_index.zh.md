@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+微软Word文档广泛用于创建和共享基于文字的内容，包括报告、合同和备忘录。一个单一查看器使得高效阅读和参考无需使用完整的Word应用程序。
+
+**用途：**
+
+- 在网络应用程序或企业内网中查看法律合同或协议。
+- 允许审阅者在协作工具中阅读报告。
+- 在支持门户网站上显示用户手册或政策文件。
+- 在招聘平台上预览简历或求职信。
+- 在学习管理系统中嵌入只读的Word文档。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сфера применения подписи JPEG и JPG файлов с цифрами или электронными подписями
+
+Файлы JPEG/JPG используются для сканированных документов, фотографий и удостоверений личности. Подписание их цифрами обеспечивает безопасность и подтверждение происхождения.
+
+## Общие случаи применения
+- Сканированные контракты и подписанные документы.
+- Удостоверения личности в процессе KYC.
+- Визуальные отчеты с встроенными наблюдениями.
+- Медицинские изображения для удаленных консультаций.
+- Земельные права на видимом формате.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

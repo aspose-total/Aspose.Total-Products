@@ -87,7 +87,26 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft-Excel-Dateien (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Verarbeitungshandlungen
+
+- 📈 **Datenextraktion**  
+  Auswerten von Zellwerten, Formeln und Blattbereichen in Tabellen für Analysen oder Dashboards.
+
+- 🧮 **Vorlagenverarbeitung**  
+  Verwendung von `.xlt`, `.xltx`, `.xltm` Vorlagen, um Berichte, Finanzberichte oder Prognosen auszufüllen.
+
+- 🤖 **Makro-bewusste Verarbeitung**  
+  Behandlung von Formaten wie `.xlsm` und `.xltm`, um Makrologik bewusst zu verarbeiten, entweder zu vermeiden oder zu erhalten.
+
+- 🔍 **Strukturierte Datenimporte**  
+  Import von Inhalten aus `.csv`, `.tsv`, oder `.xlsx` in Datenbanken, Anwendungen oder APIs.
+
+- 🗃️ **Datenmigration**  
+  Umwandlung von Blättern aus `.xls`, `.xlsb`, und `.xlsx` in JSON, XML oder andere strukturierte Formate für die Integration.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

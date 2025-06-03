@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сценарии подписи файлов JPEG и JPG с цифровыми или электронными подписями  
+
+Файлы форматов JPEG и JPG используются для сканированных документов, фотографий и удостоверений личности. Подписание их цифровым или электронным обеспечивает безопасность и подтверждение происхождения.  
+
+## Общие сценарии использования  
+- Сканчированные контракты и подписанные документы.  
+- Документы личности в процессе KYC (Знание клиента).  
+- Визуальные отчеты с встроенными наблюдениями.  
+- Медицинские изображения, передаваемые на удалённые консультации.  
+- Земельные акты в визуальном формате.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

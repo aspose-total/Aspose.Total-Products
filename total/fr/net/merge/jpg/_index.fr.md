@@ -81,7 +81,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Merging JPG (JPEG Image Format) for Visual Archiving and Design Consolidation
+
+Le format JPG est un format d'image compressé couramment utilisé pour les photographies et les graphiques web. La fusion de fichiers JPG est utilisée pour des presentations, des archivages et des documents visuels.
+
+#### Cas d'utilisation :
+
+- **Création d'album photo**  
+  Fonder des images d'un voyage ou d'un événement dans un collage ou un diaporama.
+
+- **Supports marketing**  
+  Combiner plusieurs actifs visuels dans des brochures ou des feuillets promotionnels.
+
+- **Documentation basée sur les images**  
+  Fonder des écrans ou des logs visuels dans un guide ou un rapport d'évidence.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

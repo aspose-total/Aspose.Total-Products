@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX（PowerPoint演示文稿）是可编辑幻灯片集的标准格式。对PPTX文件进行注释，有助于支持协作幻灯片开发、版本跟踪以及反馈收集。
+
+#### PPTX 文件注释用于演示设计协作 - 用途：
+
+- **幻灯片内容反馈**  
+  在文本准确性、设计一致性或数据可视化改进方面添加注释。
+
+- **团队幻灯片开发**  
+  使用注释来分配幻灯片责任或标注未完成部分。
+
+- **培训和学习增强**  
+  添加学习指导、讲师笔记或测试反馈。
+
+- **设计和布局调整**  
+  标记需要视觉一致性、布局调整或样式更新的区域。
+
+- **多语言审查**  
+  对需要翻译或本地化检查的部分进行注释。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

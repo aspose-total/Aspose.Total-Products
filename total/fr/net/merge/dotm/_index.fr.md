@@ -80,7 +80,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusion de Fichiers DOTM pour l'Intégration de Modèles Macros-Actifs
+
+Les fichiers DOTM (Document Template with Macros) sont des modèles de Word qui incluent des macrocodes. La fusion de fichiers `.dotm` est utile lorsque vous souhaitez intégrer des modèles utilisant des macros dans un document unique pour automatiser des tâches telles que l'élaboration d'invoices ou la mise en page de rapports.
+
+#### Scénarios d'utilisation :
+
+- **Unification de Modèles Macros-Actifs**  
+  Fusionnez les fichiers `.dotm` utilisés dans différentes entités pour standardiser le formatage et la fonctionnalité des macros.
+
+- **Automatisation dans la Création de Modèles**  
+  Combinez les fichiers `.dotm` qui utilisent des macros pour la population automatique de documents, comme la génération d'invoices ou l'formatage de rapports.
+
+- **Mise à Jour de la Logique des Macros**  
+  Fusionnez les fichiers `.dotm` pour examiner et mettre à jour les macrocodes intégrés, améliorant ainsi l'automatisation ou les fonctionnalités.
+
+Pour effectuer la fusion, ouvrez le fichier Word et utilisez l'option de gestion de modèles dans le menu `File`. Versez les fichiers `.dotm` à fusionner dans le gestionnaire de modèles. Veillez à vérifier que les macros ne se contredisent pas entre les fichiers et à tester le document final pour éviter les erreurs. Enfin, gardez en mémoire de sauvegarder vos fichiers originaux avant de procéder à la fusion.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

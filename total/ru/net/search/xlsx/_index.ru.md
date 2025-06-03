@@ -93,7 +93,18 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.xlsx формат — современный стандарт XML на основе Excel, который обеспечивает повышенную производительность и функции.
+
+#### Примеры применения
+- **Быстрое поискание через большие наборы данных или несколько листов для конкретных значений или текста.**
+- **Найдение и заменение формул или названных диапазонов для обновления моделей.**
+- **Определение несоответствий данных или ошибок с помощью целевogo поиска.**
+- **Навигация по комментариям или примечаниях в совместных книгах.**
+- **Поиск placeholder в шаблонах spreadsheet, используемых для автоматизации.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

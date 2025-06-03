@@ -93,7 +93,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation pour le traitement des fichiers .doc
+
+- 📄 Extraire des textes, tableaux et images pour affichage, recherche ou traitement.
+- 🧾 Convertir les documents Word anciens en formats modernes comme Markdown ou HTML.
+- 📚 Archiver les fichiers .doc anciens en les convertissant en formats numériques recherchables.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

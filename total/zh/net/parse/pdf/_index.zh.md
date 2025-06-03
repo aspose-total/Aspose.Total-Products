@@ -84,7 +84,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF 解析用途
+
+- 🔍 **文本和表格提取**  
+  从PDF中提取段落、表格或表单字段，以便用于报告或搜索索引。
+
+- 🧾 **发票和表格处理**  
+  解析结构化的表单和发票，自动填充数据库或会计系统。
+
+- 🎨 **布局分析**  
+  检测视觉结构（列、部分），以准确地将内容转换为HTML或Markdown。
+
+- 🧠 **OCR和可搜索性**  
+  使用OCR将扫描的PDF转换为可搜索文本，以便后续解析。
+
+- 🗂️ **数字归档和合规**  
+  按照要求从PDF中提取并标记相关内容或元数据进行存档和审计。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

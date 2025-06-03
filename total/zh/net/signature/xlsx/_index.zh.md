@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#  使用电子或数字签名签署XLSX文件的用途
+
+XLSX是现今Excel的标准格式，并且完全支持电子和数字签名用于财务和运营数据。
+
+## 常见用途
+- 财务报告和资产负债表。
+- 部门预算和预测。
+- 用于高管审阅的绩效仪表盘。
+- 人力资源记录和出勤摘要。
+- 需要审批的采购和供应商成本单。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

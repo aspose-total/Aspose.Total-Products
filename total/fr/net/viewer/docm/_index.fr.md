@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docm` — Document Word avec macro. Ce format est similaire au `.docx` mais inclut la possibilité d'émbedder des macros, le rendant approprié pour les processus automatisés de documents.
+
+**Cas d'utilisation :**
+
+- Consultation de formulaires avec macros dans des systèmes d'entreprise.
+- Aperçu de documents modèles HR ou financiers avec logique VBA.
+- Ouvrir en sécurité des rapports macro dans des tableaux de bord de conformité (lecture seule).
+- Révision de scripts ou de modèles dans outils de flux de travail.
+- Affichage de formulaires qui déclenchent des calculs ou des règles d'affaires.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,39 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+在Microsoft Word中使用文档分割功能是一个多功能的工具，能够有效管理大型文件、改善协作流程，并简化共享过程。以下是对文档分割功能的详细总结：
+
+1. **理解文档分割**：
+   - 文档分割允许将一个大型文档拆分成多个较小的部分，便于管理和处理。
+
+2. **主要用途**：
+   - **简化文件共享**：对于过大而难以通过电子邮件或上传的文件，分割后可以作为附件发送。
+   - **分派不同部分**：将文档的不同部分分配给团队成员独立编辑，减少版本冲突。
+   - **自动化工作流程**：处理特定部分，如数据提取或格式修改，可以提高效率。
+   - **生成个性化文件**：从一个主文件中生成多个带有不同详细信息的文档，如证书或发票。
+   - **组织内容**：便于在文档管理系统中存储、搜索和遵守合规要求。
+   - **保护敏感信息**：只共享相关部分，确保机密数据不被泄露。
+   - **教育材料分发**：将教育或培训材料按主题分发，提高学习效果。
+
+3. **操作步骤**：
+   - 打开需要编辑的文档。
+   - 导航到“文件”菜单或布局选项卡，找到“分割”功能。
+   - 定义分割点，如页码或自定义分隔符。
+   - 选择要保留的格式和内容，确保头脚不重复。
+
+4. **注意事项**：
+   - 确保每个部分的格式一致，避免重复头脚。
+   - 明确每个成员负责哪些部分，确保所有部分在最终汇总前审阅。
+   - 了解文件大小限制，合理分割以避免不必要的碎片。
+
+5. **重新组合**：
+   - 使用“合并”功能将各部分重新整合为一个完整文档，完成后进行最终检查和编辑。
+
+通过掌握这些步骤和注意事项，您可以充分利用Microsoft Word的文档分割功能，提升工作效率和协作效果。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier PPTM (PowerPoint Macro-Enabled Presentation) : Ces fichiers permettent la génération automatique de diapositives et des actions. L'annotation de fichiers PPTM aide à suivre les performances des macros, les comportements du document et à affiner la logique d'automatisation.
+
+#### Utilisations de l'Annotation dans les Fichiers PPTM pour le Débogage et la Révision des Présentations Macro-Enable :
+
+- **Révision de l'exécution des Macros**  
+  Commenter les diapositives où fonctionnent ou où échouent les macros, en aidant au débogage.
+
+- **Collaboration entre Développeurs**  
+  Ajouter des annotations pour documenter le comportement attendu ou les déclenchements des macros.
+
+- **Optimisation de l'Automatisation**  
+  Suggérer des ajustements pour améliorer performance ou la clarté du contenu généré automatiquement.
+
+- **Révision des Diapositives Générées**  
+  Marquer le contenu qui nécessite une révision manuelle après l'exécution des macros.
+
+- **Notes Instructives pour les Utilisateurs Finaux**  
+  Guider les utilisateurs dans l'interaction avec les éléments macro-Enable.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

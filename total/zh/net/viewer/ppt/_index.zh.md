@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+经典的二进制.ppt格式——演示文稿（旧版）格式，用于2007年以前版本的PowerPoint。
+
+**用途：**
+
+- 访问旧业务或学术演示文稿。
+- 查看组织仓库中存储的遗留会议幻灯片。
+- 在企业内容图书馆中展示历史幻灯片。
+- 支持政府系统的兼容性。
+- 保存从21世纪初事件中保存的幻灯片内容。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

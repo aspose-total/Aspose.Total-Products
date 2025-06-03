@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# ODS文件的数字或电子签名用途
+
+ODS是开源办公套件中的电子表格格式。通过对ODS文件进行数字签名，有助于保护在非微软环境中处理财务和运营数据。
+
+## 常见用途
+- 开源项目预算编制与报告。
+- 教育机构跟踪学生数据。
+- 在成本敏感地区的政府部门。
+- 非政府组织整理捐赠及项目报告。
+- 部门规划文件需要安全电子签名。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

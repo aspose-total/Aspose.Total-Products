@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.dotm` — Modèle de Document Word avec Macros - Un format de modèles activés par macros utilisé pour générer plusieurs documents Word avec une structure réutilisable et automatisation intégrée.
+
+**Cas d'Utilisation :**
+
+- Prévisualiser des modèles de factures ou de rapports avec automatisation.
+- Afficher des modèles juridiques ou HR dans des portails internes.
+- Évaluer des modèles avec macros pour les systèmes de génération de documents.
+- Gérer des formulaires de conformité réutilisables.
+- Montrer des structures de modèles dans des bibliothèques de documents d'entreprise.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

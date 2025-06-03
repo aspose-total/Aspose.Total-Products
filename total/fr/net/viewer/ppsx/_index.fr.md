@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsx` — Diaporama PowerPoint - Une version moderne de `.pps` qui s'ouvre en mode présentation et est utilisée pour une vision non éditable des diapositives.
+
+**Utilisations :**
+
+- Visionner les diapositives dans un mode 'voir seule' avec des clients ou des partenaires.
+- Intégrer les mises à jour de l'entreprise dans les portails d'intranet.
+- Jouer des diapositives automatisées sur des écrans ou des halls d'exposition.
+- Partager des livres de présentations non modifiables dans des webinaires ou des kits de vente.
+- Voir en avant les contenus informationnels dans des outils d'apprentissage corporatifs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

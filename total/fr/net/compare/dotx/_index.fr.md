@@ -73,7 +73,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Comparaison de fichiers DOTX pour le contrôle des versions des modèles de document propres :
+
+- **Gouvernance des modèles**  
+  S'assurer que les formats approuvés sont utilisés de manière cohérente dans toutes les entités.
+
+- **Suivi des mises à jour**  
+  Documenter les changements visuels et instructuraux dans les modèles partagés.
+
+- **Contrôle qualité du design des documents**  
+  Examiner les iterations pour éviter les régressions de format.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

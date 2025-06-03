@@ -81,7 +81,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Cas d'utilisation pour les documents Word avec macros (`.docm`)
+
+- Inclure des métadonnées liées aux macros pour le suivi de l'automatisation.  
+- Gérer les politiques de sécurité liées aux macros intégrés dans le document.  
+- Activer la classification automatisée des risques en fonction des scripts embeddus dans le document.  
+- Aider à identifier l'objectif du document et les procédures d'affaires associées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

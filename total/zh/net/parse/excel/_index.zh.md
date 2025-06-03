@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel 文件（xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv）解析用途
+
+- 📈 **数据提取**  
+  从电子表格中提取单元格值、公式和范围，以供分析或仪表板使用。
+
+- 🧮 **模板处理**  
+  使用 `.xlt`，`.xltx`，`.xltm` 模板来填充报告、财务报表或预测。
+
+- 🤖 **宏感知解析**  
+  处理带有宏的 `.xlsm` 和 `.xltm` 格式，以避免或保留自动化逻辑。
+
+- 🔍 **结构化数据导入**  
+  将 `.csv`，`.tsv` 或 `.xlsx` 内容导入数据库、应用程序或 API。
+
+- 🗃️ **数据迁移**  
+  将 `.xls`，`.xlsb` 和 `.xlsx` 表格转换为 JSON、XML 或其他结构化格式以进行集成。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

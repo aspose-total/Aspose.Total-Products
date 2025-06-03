@@ -81,7 +81,16 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Использования макросов в документе с поддержкой Word Macro-Enabled Document (`.docm`)
+
+- Включить метаданные, связанные с макросами, для отслеживания автоматизации.  
+- Управлять политикой безопасности документа, связанной с встроенными макросами.  
+- Включить автоматическую классификацию рисков на основе встроенных скриптов.  
+- Содействовать определению цели документа и связанного бизнес-процесса.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

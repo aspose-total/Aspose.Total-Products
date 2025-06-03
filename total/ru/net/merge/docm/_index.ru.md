@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов DOCM для макро-поддерживаемых документов Word
+
+Файлы с расширением `.docm` — это макро-поддерживаемые документы Word. Объединение файлов `.docm` полезно, когда нужно объединить документы, содержащие встроенные макросы для автоматизации или обработки.
+
+#### Примеры использования:
+
+- **Сводная отчетность на основе автоматизации**  
+  Объедините `.docm` отчеты, использующие макросы для автоматической генерации формированных данных, графиков или таблиц, в центральный документ.
+
+- **Создание документа с поддержкой макросов**  
+  Комбинировать `.docm` файлы, чтобы сохранить и объединить функции автоматизацииacross разные отчеты или документы.
+
+- ** Интеграция документного потока**  
+  Объединить документы с похожими функциями макросов для улучшения процессов создания документов в команде.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

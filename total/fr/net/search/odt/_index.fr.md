@@ -92,7 +92,18 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.odt` (OpenDocument Text) est utilisé dans les logiciels de traitement de texte open-source comme LibreOffice mais est également supporté par Microsoft Word.
+
+#### Cas d'utilisation
+- **Recherche de fichiers texte standards ouverts partagés dans des environnements logiciels distincts.**
+- **Découverte d'informations techniques ou académiques dans les documents échangés avec des outils non Microsoft.**
+- **Navigation dans des documents multilingues préparés avec LibreOffice ou OpenOffice.**
+- **Assurance de la cohérence dans le formatage avant de convertir en fichier .docx.**
+- **Identification de termes spécifiques ou de placeholders dans les fichiers .odt basés sur des modèles.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

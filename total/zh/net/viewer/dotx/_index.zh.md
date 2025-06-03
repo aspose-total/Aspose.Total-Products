@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.dotx` — Word 文档模板 - 一个不带宏功能的标准Word模板格式。适合在文件中保持一致的格式。
+
+**用途：**
+
+- 查看品牌视觉的一致性，用于信函、报告和提案等文档。
+- 展示标准化内容供团队使用。
+- 预览法律或人力资源模板，在入职门户网站上。
+- 在创意团队中分享符合设计规范的文件壳。
+- 管理企业环境中的文件一致性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

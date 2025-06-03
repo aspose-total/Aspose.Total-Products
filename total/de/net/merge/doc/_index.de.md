@@ -80,7 +80,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Dateiformate DOC für legacy Word-Dokumentenverwaltung
+
+DOC-Dateien sind das ältere binäre Format, das von Microsoft Word verwendet wird. Das Zusammenführen von `.doc`-Dateien ist typischerweise erforderlich, um veraltete Dokumente zu konsolidieren, zu archivieren oder auf ein neueres Format umzustellen.
+
+#### Verwendungsfälle:
+
+- **Zusammenfühen historischer Berichte**  
+  Kombiniere ältere `.doc`-Berichte zum Zweck des Archivierens oder zur Erstellung eines einheitlichen Dokuments für Drucken oder Teilen.
+
+- **Aktualisieren von legacy-Dokumenten**  
+  Führe mehrere `.doc`-Dateien mit Projektinformationen oder Geschäftsbriefen zusammen, um ein Hauptdokument zu erstellen und zu aktualisieren.
+
+- **Umstellen von Dokumenten in moderne Formate**  
+  Zusammenführen von `.doc`-Dateien, bevor sie in `.docx`-Format umgestellt werden, um bessere Kompatibilität mit modernen Systemen zu erreichen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

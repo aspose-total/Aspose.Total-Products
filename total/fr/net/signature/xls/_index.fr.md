@@ -76,7 +76,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des fichiers XLS avec des signatures numériques ou électroniques
+
+Le format XLS est un ancien format Excel utilisé pour la compatibilité vers l'arrière. L'ajout d'une signature numérique sécurise les données financières et l'intégrité des versions.
+
+## Utilisations courantes
+- Rapports financiers hérités et tableaux de paie.
+- Projets d'investissement partagés dans un ancien format Excel.
+- Données de approvisionnement et soumissions de fournisseurs dans les XLS.
+- Rapports d'audits gouvernementaux utilisant des modèles de tableurs anciens.
+- Statements de salaires employés nécessitant une validation de signature.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

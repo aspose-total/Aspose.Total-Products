@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pptm` — PowerPoint 带有宏的演示文稿格式，包含用于交互、自动化或嵌入逻辑的宏。
+
+**用途：**
+
+- 查看带有互动逻辑或自动化幻灯片的演示文稿。
+- 显示内部仪表盘，其中宏驱动的图表或视觉元素。
+- 预览带有动态幻灯片生成的模板。
+- 共享自动前进的内容，用于合规培训。
+- 查看带有嵌入脚本的营销或财务演示文稿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

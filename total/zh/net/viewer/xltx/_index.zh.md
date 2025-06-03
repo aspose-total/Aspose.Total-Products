@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xltx` — Excel 模板 - 一种不包含宏且不带嵌入脚本的 Excel 模板格式，用于创建标准化电子表格而无需嵌入脚本。
+
+**用途：**
+
+- 预览公司定制的预算规划模板。
+- 展示部门标准化报告和表格形式。
+- 查看运作系统中的模板化清单或跟踪器。
+- 在项目管理工具中共享可重复使用的规划文档。
+- 保持团队间电子表格结构的一致性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сопоставление файлов DOCM (Документы Microsoft Word с встроенными макросами) для использования в аудите, осведомленном о макросах:
+
+Файлы DOCM поддерживают встроенные макросы. Сопоставление двух файлов DOCM позволяет пользователям не только обнаружить изменения в содержимом документа, но и определить обновления в логике макросов, что делает их необходимыми для обеспечения безопасности, соответствия требованиям и рабочих процессов разработки.
+
+- **Детекция изменений макросов**  
+  Определение, когда макросы были добавлены, удалены или модифицированы в разных версиях.
+
+- **Аудит целостности документа**  
+  Убедиться, что содержание документа и поведение макросов остаются одинаковыми в регуляторных средах.
+
+- **Проверка версий в проектах автоматизации**  
+  Отслеживание обновлений в документах, усиленных макросами, таких как отчеты, faktуры или генераторы форм.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

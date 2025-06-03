@@ -75,7 +75,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compresser les fichiers XLSX pour une gestion de livrables portables et échelonnables
+
+Le format XLSX (Excel Open XML Workbook) est le format Excel le plus utilisé, mais il peut devenir lourd à cause des images, des formules complexes et des tableaux de pivot. La compression garantit une utilisation aisée et une collaboration rapide.
+
+#### Cas d'utilisation :
+
+- **Collaboration légère**  
+  Partagez les fichiers XLSX compressés dans des environnements collaboratifs comme Teams ou Google Drive.
+
+- **Compatibilité avec l'envoi par email et le stockage dans le cloud**  
+  Respectez les limites de taille des fichiers sans réduire la qualité des rapports financiers ou opérationnels.
+
+- **Ouverture et calcul plus rapides**  
+  Améliorez la réactivité des fichiers XLSX volumineux sur des machines à spécifications basses.
+
+- **Stockage efficace**  
+  Stockez des centaines de rapports avec des versions compressées pour réduire l'overhead de stockage.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Parsing use cases for Microsoft Excel files (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv).  
+
+- **Extracting data**  
+  Parse cell values, formulas, and ranges from spreadsheets for analytics or dashboards.  
+
+- **Processing templates**  
+  Use templates .xlt, .xltx, .xltm to fill out reports, financial documents, or forecasts.  
+
+- **Parsing with macros**  
+  Handle files .xlsm and .xltm with macro-awareness to preserve or avoid automation logic.  
+
+- **Importing structured data**  
+  Import content of .csv, .tsv, or .xlsx files into databases, applications, or APIs.  
+
+- **Migrating data**  
+  Convert sheets from .xls, .xlsb, and .xlsx formats into JSON, XML, or other structured formats for integration.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

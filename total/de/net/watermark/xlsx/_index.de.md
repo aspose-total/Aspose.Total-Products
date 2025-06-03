@@ -76,7 +76,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX ist das standardformat für moderne Excel-Tabelle.
+
+**Häufige Anwendungsfälle umfassen:**
+
+- Zur Darstellung von Entwurf, Vertraulichem oder bestätigtem Datensatz
+- Einbetten von Markeins- oder Eigentümerinformationen
+- Schutz vor der Verteilung durch Warnungen wie "Nicht vertreiben"
+- Hinweisung auf daten für regulatorische Einhaltspflicht
+- Besonderheiten zur Identifizierung von Versionen für Zusammenarbeit oder Klienten
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

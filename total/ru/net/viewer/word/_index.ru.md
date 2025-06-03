@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Документы Microsoft Word широко используются для создания и обмена текстовой информацией, включая отчеты, контракты и примечания. Одноокий просмотритель позволяет эффективно читать и ссылаются без необходимости запуска полной приложения Word.
+
+**Примеры использования:**
+
+- Просмотр юридических контрактов или соглашений в веб-приложении или intranet.
+- Разрешение для ревизоров читать отчеты в инструменте сотрудничества.
+- Displaying пользовательские руководства или документы политики в портале поддержки.
+- Преглед резюме или писем на招聘-платформе.
+- Включение только для чтения файлов Word в системах управления обучением.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

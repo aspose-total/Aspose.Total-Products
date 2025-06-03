@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Очередження у файлі .docx (Microsoft Word)
+
+- Застраć особисті назви, контактну інформацію та ідентифікаційні номери у документах для працівників.  
+- Застраć чутливу інформацію про справи або клієнтів у правових договорах та поданих до суду документах.  
+- Застраć конфіденцільні частини у внутрішніх звітах, хвилин з засідань чи документах про проеккти.  
+- Застраć суттєві методи або результати досліджень у наукових чи науково-технічних статтях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

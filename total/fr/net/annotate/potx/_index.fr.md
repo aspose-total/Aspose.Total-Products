@@ -106,7 +106,28 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Annoter les fichiers POTX pour une rétroaction sur les modèles de présentations standard.
+
+#### Annoter les fichiers POTX pour des retours sur les modèles de présentations standard :
+
+- **Validation des normes de marque**  
+  Ajoutez des commentaires pour vérifier que l'utilisation des polices, les couleurs et la structure des diapositives correspondent aux directives des normes de marque.
+
+- **Instructions pour les zones de contenu**  
+  Commentaires sur l'utilisation ou le remplissage des zones de contenu spécifiques par les utilisateurs finals.
+
+- **Construction collaborative de modèles**  
+  Proposition d'améliorations de mise en page ou de zones de contenu pendant la conception collaborative des modèles.
+
+- **Modèles diapositives éducatifs**  
+  Ajouter des notes d'enseignement ou instructives pour les modèles académiques.
+
+- **Guidance pour l'adaptation locale**  
+  Commentaires sur les sections à traduire ou à adapter en fonction de la région.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

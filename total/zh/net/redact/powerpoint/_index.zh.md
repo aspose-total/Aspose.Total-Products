@@ -78,7 +78,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ 在 Microsoft PowerPoint 中的 红action
+
+- 在商业演示中，删除战略内容、时间表或未发布的计划。
+- 从营销或培训幻灯片中删除机密图像、图表或笔记。
+- 在外部分享前，删除客户姓名、财务数据或内部KPI。
+- 在提案、建议或投资者简报中删除敏感视觉元素。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

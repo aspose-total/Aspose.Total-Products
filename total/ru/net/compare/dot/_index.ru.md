@@ -73,7 +73,20 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы DOT (шаблоны Word 97–2003) хранят форматирование, которое можно использовать снова и контент boilerplate. Сравнение файлов DOT помогает обнаружить несанкционированные или непредвиденные изменения перед использованием снова.
+
+- **Проверка согласованности бренда**  
+  Убедиться, что логотипы, шрифты и стили остаются согласованными во всех версиях шаблонов DOT.
+
+- **Мониторинг эволюции шаблонов**  
+  Отслеживать изменения структуры или инструкций в внутренних документах шаблонов.
+
+- **Аудит устаревших шаблонов**  
+  Сравнивать файлы DOT с обновлениями документов из более ранних систем или workflow.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

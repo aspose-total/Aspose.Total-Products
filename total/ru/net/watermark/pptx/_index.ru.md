@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX — современный формат презентации Microsoft PowerPoint.  
+
+**Некоторые распространенные случаи использования включают:**  
+
+- Применение брендинга и профессиональных логотипов.  
+- Обозначение статуса слайдов, например, "Черновик", "Финальный" или "Донесено".  
+- Показ segmentation аудитории (например, "Для клиента", "Для внутреннего использования").  
+- Предотвращение несанкционированного распределения с водяными знаками "Не распространять".  
+- Метки слайдов с деталями о презентере или статусе одобрения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

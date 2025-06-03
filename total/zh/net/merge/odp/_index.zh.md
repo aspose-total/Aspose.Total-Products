@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 开放文档演示文稿（ODP）合并，实现统一的开放格式演示文稿交付
+
+ODP 文件是 LibreOffice 和 OpenOffice 的演示文稿格式。通过合并 ODP 文件，可以实现统一的开放格式演示文稿交付。
+
+#### 用途：
+
+- **公共部门演示文稿合并**  
+  将来自不同部门的演示文稿合并成一个全面演示文稿。
+
+- **教育课件整合**  
+  将讲座课件整合到一个课程交付文档中。
+
+- **协作会议文稿**  
+  合并演讲者的 ODP 文件，为有序的活动演示文稿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

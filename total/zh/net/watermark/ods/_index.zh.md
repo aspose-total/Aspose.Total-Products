@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS（开放式文档格式）是LibreOffice和OpenOffice使用的开源电子表格文件格式。
+
+**常见用途包括：**
+
+- 表示数据为公开、审阅中或内部状态。
+- 用于数据来源的版权标识。
+- 在多用户协作时使用标签。
+- 包含许可信息或作者信息。
+- 用于公开数据发布的内容标记。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

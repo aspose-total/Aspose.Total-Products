@@ -81,7 +81,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📂 Utilisations des Modèles de Mot (`.dot`)
+
+- **Définir des modèles de données métadonnées réutilisables** pour les documents qui récurrentivent souvent.  
+- **Grouper les modèles par département, format ou usage** pour faciliter la recherche et le gestion.  
+- **Suivre l'utilisation et la propriété des modèles principaux** pour s'assurer qu'ils sont utilisés correctement et géré efficacement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

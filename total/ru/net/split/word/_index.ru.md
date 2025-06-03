@@ -73,7 +73,20 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Примеры использования функции разрыва документа
+
+- Разбить большие отчеты, руководства или научные работы на более мелкие, управляемые файлы.  
+- Принять разные разделы документа в руки разным членам команды для отдельного редактирования.  
+- Автоматизировать потоки работы, обрабатывая особые части документа отдельно.  
+- Упростить раздачу больших файлов, разделяя их на более мелкие приложения для отправки по электронной почте или загрузки.  
+- Создавать персонализированные документы (например, сертификаты, счета или письма) из одного основного файла.  
+- Организовать содержание для удобства хранения, поиска и соответствия требованиям систем управления документами.  
+- Сохранять конфиденциальность данных при передаче только релевантных разделов чувствительных документов.  
+- Распределить образовательные или тренировочные материалы в более мелкие, тематические файлы для улучшения опыта обучения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

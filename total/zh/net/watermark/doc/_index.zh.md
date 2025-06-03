@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC格式是微软Word的旧二进制文件类型，仍在旧系统中使用。
+
+**常见用途包括：**
+
+- 对文档进行归类为存档、遗留或过时文件
+- 嵌入作者或部门名称
+- 应用法律免责声明或合规信息
+- 防止编辑或重复使用并标记为最终副本
+- 支持记录保持和审计追踪
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов XLTM для шаблонов с макросами
+
+Файлы XLTM — это шаблоны Excel с встроенными макросами, используемые для автоматизации повторяющихся задач. Объединение таких файлов полезно при единствовании логики автоматизации или миграции процессов.
+
+#### Примеры использования:
+
+- **Библиотеки автоматизации рабочих процессов**  
+  Объедините файлы `.xltm`, содержащие разные макросы для различных функций, в один централизованный шаблон.
+
+- ** Интеграция шаблонов для部门**  
+  Сочетайте шаблоны с макросами из разных отделов для стандартизации автоматизации процессов.
+
+- ** Аудит макросных процессов**  
+  Объедините файлы `.xltm` для просмотра встроенных макросов на соответствие требованиям и оптимизации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

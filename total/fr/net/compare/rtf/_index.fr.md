@@ -73,7 +73,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparaison de Fichiers RTF pour des Audits de Documents Multimédia Cross-Plateforme :
+
+Les fichiers RTF (Rich Text Format) sont largement utilisés pour l'échange de documents légers. La comparaison de fichiers RTF permet de valider les changements de contenu et de mise en page dans des environnements où la neutralité plateformière est importante.
+
+- **Validation du Contenu à Travers Des Différentes Plateformes**  
+  Détecter des changements de format ou de mots dans différentes systèmes ou outils.
+
+- **Révision de Documents de Formation ou d'Aide**  
+  Comparer les manuels de formation ou les documents d'aide modifiés par plusieurs contributeurs.
+
+- **Audits de Compatibilité avec Les Versions Anciennes**  
+  S'assurer que les changements faits dans des systèmes RTF ne touchent pas à la structure ou au style.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

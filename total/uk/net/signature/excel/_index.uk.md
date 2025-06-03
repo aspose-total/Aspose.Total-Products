@@ -76,7 +76,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование форм spreadsheet с электронными подписями
+
+## Финансовые отчеты и бюджеты  
+Файлы XLS, XLSX и ODS широко применяются для финансовых документов, балансировок и планов бюджетирования. Электронные подписи подтверждают точность данных и одобрение审阅ателя.
+
+## Зарплаты и данные по персоналу  
+Сводные таблицы зарплат и аналитика по HR могут быть разосланы в формате spreadsheet для внутренних обзоров или аудитов. Электронные подписи обеспечивают приватность и целостность данных.
+
+## Цитаты поставщиков и документы на закупки  
+Формы цитат, списки товаров и оценки стоимости часто разосланы в формате spreadsheet. Электронные подписи оформляют принятие качественных данных и предотвращают редактирование после отправки.
+
+## Рекорды аудита и соответствие  
+Аудиторы используют spreadsheet для компиляции и отчета результатов. Электронные подписи подтверждают, что данные не были изменены после одобрения.
+
+## Реестры инвентаря и логистики  
+Файлы на основе ODS или XLSX, содержащие информацию о запасах, логистике и поставщиках, могут быть подписаны электронно для обеспечения согласованности в операциях и предотвращения манипуляций данными.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

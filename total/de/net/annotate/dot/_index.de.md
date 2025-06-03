@@ -123,7 +123,28 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOT-Dateien (vom Word 97 bis 2003) definieren überschiebbare Dokumentstrukturen. Anmerkungen in DOT-Dateien helfen, die Zweckszwecke des Templates, Benutzungshinweise und Anpassungsnotizen für Benutzer zu klären.
+
+### DOT-Datei-Anmerkung für Dokumentations- und Feedbackgebrauchsfälle:
+
+1. **Template-Anpassungshilfe**  
+   Führen Sie Felder und Platzhalter ein, um Benutzer daran zu leiten, wie und wo Inhalt einzufügen.
+
+2. **Workflow-Hinweise**  
+   Fügen Sie Kommentare hinzu, die automatische Verhaltensweisen, Makros oder bedingte Formatierung erklären, die im Template integriert sind.
+
+3. **Markierung von Corporate-Branding und Stilen**  
+   Haken Sie Bereiche markieren, die mit korporativen Branding-Richtlinien oder Dokumentenstandards übereinstimmen müssen.
+
+4. **Sammlung von Benutzerfeedback**  
+   Erlassen Sie Benutzer dazu, Kommentare über die Benutzbarkeit des Templates einfügen, was iterative Verbesserungen erleichtert.
+
+5. **Regulatory-Compliance-Templates**  
+   Fügen Sie regulatorische oder compliance-bezogene Notizen direkt im Template ein, um rechtliche Dokumentationsprozesse zu unterstützen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

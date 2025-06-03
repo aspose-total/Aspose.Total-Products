@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 DOTM 文件以提高宏启用 Word 模板的效率
+
+DOTM (宏启用 Word 模板) 文件包含脚本和格式设置，这些会增加文件大小。压缩 DOTM 文件可以确保快速访问和更轻松地管理自动化模板。
+
+#### 用途：
+
+- **宏模板分发**  
+  在组织内共享 DOTM 模板，通过减少文件大小来实现更快的部署。
+
+- **高效宏存储**  
+ 存档包含多个 DOTM 模板的集合，而无需浪费磁盘空间。
+
+- **跨系统部署**  
+  压缩 DOTM 文件以确保在各种设备上运行模板时的兼容性和减少延迟。
+
+- **模板库优化**  
+  使用压缩后的宏启用文件使模板仓库轻量级且易于管理。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

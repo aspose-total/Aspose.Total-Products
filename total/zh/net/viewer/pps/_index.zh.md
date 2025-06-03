@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pps` — PowerPoint 演示文稿（旧版） - 从 PowerPoint 97 到 2003 年间使用的一个遗留格式，直接以幻灯片显示模式打开，而不是以编辑模式打开。
+
+**用途：**
+
+- 查看存档的培训或演示文稿。
+- 展示公司历史更新，存储为 `.pps` 格式。
+- 在自动化终端上播放全屏产品演示。
+- 无需转换访问旧会议幻灯片。
+- 在文档图书馆中保存历史演示。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

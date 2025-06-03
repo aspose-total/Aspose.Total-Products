@@ -80,7 +80,45 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Мerging DOTM files is a process that combines macro-enabled Word templates into one unified file. Here's a structured approach to achieve this:
+
+### Step-by-Step Guide to Merging DOTM Files
+
+1. **Understand DOTM Files**: Recognize that DOTM files are macro-enabled Word templates, containing embedded macros specific to the template.
+
+2. **Identify Use Cases**:
+   - Standardizing formatting across departments.
+   - Automating document creation (e.g., invoices, reports).
+   - Updating macros organization-wide.
+
+3. **Opening and Preparing Files**:
+   - Open the first DOTM file to ensure all macros are recorded correctly.
+   - Open the second DOTM file, noting any potential macro conflicts.
+
+4. **Macro Conflict Check**: Before merging, check for conflicting macro names in both files to prevent overwrites.
+
+5. **Merge Process**:
+   - Use Word's built-in features or consider a VBA script for automation.
+   - Ensure that all macros and formatting from both files are correctly combined without issues.
+
+6. **Content and Formatting**:
+   - Verify that styles, formatting, and content from both templates are preserved in the merged file.
+
+7. **Testing Post-Merge**: After merging, test the resulting template to ensure all macros function as expected and that there are no errors or formatting issues.
+
+8. **Consider Third-Party Tools or Scripts**: Explore tools or scripts that can automate the consolidation process, especially useful for complex or numerous macros.
+
+9. **Troubleshooting**:
+   - Address any corrupted macros or references in individual files before merging.
+   - Troubleshoot errors that may arise during or after the merge.
+
+10. **Centralized Updates**: Maintain a centralized merged template for easier future updates and consistency across the organization.
+
+By following these steps, you can successfully merge DOTM files, ensuring all macros and formatting are preserved and functioning correctly in the unified template.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

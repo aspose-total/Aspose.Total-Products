@@ -79,7 +79,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — 文档保护的用途
+
+- 防止未经授权编辑法律合同、人力资源政策或学术论文。
+- 保护文档中的特定部分（如标题、法律条款或目录）免于更改。
+- 允许在特定区域（例如，只允许添加注释的部分）对文档进行协作编辑。
+- 保护可通过宏启用自动化流程的模板或表格。
+- 锁定标准化模板中的品牌元素（如标志和公司免责声明）。
+- 防止在部门内部或外部共享文档时出现格式不一致的情况。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

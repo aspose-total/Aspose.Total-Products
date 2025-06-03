@@ -78,7 +78,31 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Désactiver les fichiers `.xls` (utilisés par des versions plus anciennes de Microsoft Excel) supprimera les restrictions telles que la protection des feuilles, les mots de passe du livre de travail et les verrous d'édition. Ces fichiers contiennent souvent des données historiques financières, commerciales ou académiques qui nécessitent soit l'accès, soit la modernisation. Il est toujours essentiel de s'assurer d'avoir l'autorisation appropriée avant de désactiver des fichiers `.xls` sensibles ou propriétaires.
+
+#### **Cas d'utilisation**
+
+- **Éditer des Rapports Financiers Historiques**  
+  Accéder à des feuilles de compte héréditaires qui nécessitent des mises à jour ou des audits.
+
+- **Désactiver des Données Archivées dans une Entreprise**  
+  Ouvrir des rapports internes protégés ou des plans de projets créés avec Excel 2003 ou des versions antérieures.
+
+- **Mettre à Jour des Formules Obsolètes**  
+  Désactiver des cellules contenant des formules dites par défaut ou obsolètes pour les recalcules.
+
+- **Ignorer des Mot de Passe Oubliés**  
+  Passer out des mots de passe de feuilles ou de livres de travail qui ne sont plus connus.
+
+- **Migrer vers `.xlsx` ou Google Sheets**  
+  Désactiver pour faciliter la transition vers des systèmes de tableurs modernes ou cloud.
+
+- **Auditionner des Macros ou des Flows Cachés**  
+  Analyser des formules cachées, des macros ou des noms de plage depuis un point de vue de conformité ou d'intégration.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

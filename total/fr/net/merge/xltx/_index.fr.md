@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Mixer les fichiers XLTX pour une gestion moderne des modèles Excel
+
+Le format XLTX est le format par défaut des modèles Excel sans macro. La mise en œuvre de fichiers .xltx assure une mise en page et un alignement cohérent dans les documents normalisés.
+
+### Cas d'utilisation :
+
+1. **Branding & Format Consistency**  
+   Mixer des modèles provenant de différentes équipes pour aligner le format et l'esthétique corporationnelle.
+
+2. **Template Library Cleanup**  
+   Consolidérer les fichiers .xltx pour éliminer les redondances et créer un ensemble de modèles plus structuré.
+
+3. **Training or Operational Templates**  
+   Combinaison d'enseignements ou de procéduraux pour une mise en œuvre dans l'entreprise.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

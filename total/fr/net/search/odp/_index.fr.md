@@ -90,7 +90,18 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.odp` (OpenDocument Presentation) est utilisé par les outils de présentation open-source.
+
+#### Cas d'utilisation
+- **Rechercher des textes et des notes** dans les presentations partagées entre différents logiciels de suites office.  
+- **Localiser les messages clés ou les terminologies** dans des presentations de diapositives conformes aux normes ouvertes.  
+- **Réviser des presentations multilingues créées avec LibreOffice ou d'autres outils open-source.**  
+- **Vérifier le contenu avant de le convertir en .pptx pour une plus large diffusion.**  
+- **Trouver les éléments de remplacement ou les éléments du modèle pour un positionnement cohérent.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

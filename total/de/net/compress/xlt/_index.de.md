@@ -75,7 +75,27 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimieren von XLT-Dateien für die Optimierung älterer Excel-Vorlagen
+
+XLT-Dateien (für Excel 97–2003) können aufgrund eingebetteter Elemente oder Beispieldaten größer werden. Das Komprimieren dieser Dateien macht Vorlagedatenbände schlanker und einfacher zu verteilen.
+
+#### Anwendungsbereiche:
+
+- **Übertragbarkeit älterer Vorlagen**  
+  Versenden standardisierter Vorlagen komprimiert, um sie in älteren Unternehmenssystemen schneller zu verbreiten.
+
+- **Effizienz des Vorlagenspeichers**  
+  Halten Archive von Vorlagen durch Komprimierung leicht und zugänglich, um zentrale Zugriffe und Schnellabrufe zu gewährleisten.
+
+- **Verkürzung der Ladzeit älterer Systeme**  
+  Optimieren ältere Systeme durch Komprimierung von XLT-Dateien für schnelleres Öffnen und Benutzen.
+
+- **Optimierung des Speichers bei Backup und Archivierung**  
+  Vermindern langfristigen Speicherplatz für alte Vorlagen durch Kompression.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,24 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+La fonction de recherche dans Microsoft PowerPoint permet aux utilisateurs de localiser des textes spécifiques, les titres de diapositives, les notes du présentateur, les commentaires ou les éléments au niveau d'une diapositive ou de l'ensemble du dépliant. Elle simplifie l'édition, la révision et la finalisation des presentations, notamment lorsque l'on travaille avec des presentations volumineuses ou complexes.
+
+Dans les environnements professionnels et collaboratifs, outil de recherche de PowerPoint améliore la productivité en aidant les équipes à trouver et modifier le contenu plus rapidement – que ce soit pour mettre à jour les marques, affiner les messages, ou garantir un formatage cohérent sur toutes les diapositives.
+
+### Cas d'utilisation
+
+- **Localiser des mots ou des phrases spécifiques** dans une présentation multi-diapositive.  
+- **Trouver et remplacer les noms de marque, les termes de produits ou les données obsolètes**.  
+- **Passer à des titres de diapositives ou des en-têtes de sections** dans des dépliants volumineux.  
+- **Rechercher les notes du présentateur** pour mettre à jour ou vérifier les points clés.  
+- **Identifier des mots-clés manquants ou des termes** dans des presentations de marketing ou de vente.  
+- **Vérifier la duplication de contenu ou les diapositives répétées** lors des révisions.  
+- **Naviguer vers les diapositives avec des commentaires** pour une revue plus rapide et approbation.  
+- **Garantir la cohérence dans les termes techniques ou les mentions légales** au niveau de la présentation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 XLTX 文件以管理现代 Excel 模板
+
+XLTX 是不包含宏的默认 Excel 模板格式。合并 `.xltx` 文件确保了标准化文档在格式和布局上的一致性。
+
+#### 用途：
+
+- **品牌与格式一致性**  
+  从不同团队合并模板，以统一格式和企业风格。
+
+- **清理模板库**  
+  整合 `.xltx` 文件以消除冗余，创建简洁的模板集合。
+
+- **培训或操作模板**  
+  结合指导性或程序性模板以便于企业推广。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

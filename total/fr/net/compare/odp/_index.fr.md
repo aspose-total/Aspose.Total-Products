@@ -71,7 +71,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparaison de Fichiers ODP pour les Révisions des Présentations OpenDocument
+
+- **Réview de Présentations Open Source**  
+ Comparer les modifications contribuées par la communauté pour leur consistance et leur exactitude.
+
+- **Détecteur d'Actualisations dans les Thèmes et le Design**  
+  Détecter des différences visuelles dans les paramètres des diapositives maîtresses, les palette de couleurs et les polices.
+
+- **Suivi des Révisions du Contenu**  
+  Identifier les textes, formes, images et graphiques ajoutés ou modifiés dans différentes versions.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

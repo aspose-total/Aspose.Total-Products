@@ -79,7 +79,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Мicrosoft Word — Використання у Microsoft Word для захисту документів
+
+- Забránчити нелегкий редагування правових договорів, політичних документів з персоналом або наукових статей.  
+- Зabezонiti певні частини документа (наприклад, заголовки, правові клаузи або списки змісту) від змін.  
+- Позволити колаборативне редагування з обмеженим доступом до певних областей (наприклад, секції лише для коментарів).  
+- Захистити макросні шаблони або форми, які автоматизують процеси.  
+- Заблокувати елементи брендингу (наприклад, логотипи та DISCLAIMER компанії) у стандартизованих шаблонах.  
+- Забránчити неоднозначності форматування при передачі документів між відділами або зовнішньо.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

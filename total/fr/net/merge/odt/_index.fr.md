@@ -80,7 +80,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Mêler les fichiers ODT (Texte OpenDocument) pour la Collaboration Ouverte et l'Assemblage de Documents
+
+Les fichiers ODT sont des documents ouvrables gratuits utilisant LibreOffice ou OpenOffice. Leur mélangé soutient la collaboration dans un format ouvert.
+
+#### Cas d'utilisation :
+
+- **Collaboration en source ouverte**  
+  Mêler les contributions de plusieurs auteurs dans un seul document ODT.
+
+- **Compilation de documentation**  
+  Combiner des chapitres ou des sections de manuels ou de livres rédigés dans le format ODT.
+
+- **Rapportage gouvernemental ou ONG**  
+  Consolider des rapports créés dans des formats standards ouverts pour les soumissions.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

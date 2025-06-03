@@ -90,7 +90,18 @@ There are three alternative options to install "Aspose.Slides for .NET" or "Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат `.odp` (OpenDocument Presentation) используется открытыми инструментами для создания презентаций.  
+
+#### Примеры использования  
+- **Поиск текста и заметок** в презентациях,共享ённых через разные офисные пакеты.  
+- **Нахождение ключевых сообщений или терминов** в презентациях с открытым стандартом.  
+- **Проверка многоязычных презентаций**, созданных в LibreOffice или других открытых инструментах.  
+- **Проверка содержимого перед преобразованием в `.pptx` для более широкого распределения.**  
+- **Найдение заменителей или элементов шаблона** для последовательного брендинга.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.dox — Word Template - A standard Word template format without macro functionality. Ideal for consistent formatting across documents.
+
+**Use Cases:**
+
+- Zur Ansicht von Branding-Vorlagen für Briefe, Berichte und Vorschläge.
+- Zur Darstellung standardisierter Inhalte für Teams.
+- Zur Vorabansicht von rechtlichen oder Personalabteilung-Vorlagen in Onboarding-Portalen.
+- Zur Weitergabe von dokumentenkompatiblen Schalen in kreativen Teams.
+- Zur Behandlung von Dokumentenkonsistenz in Unternehmensumgebungen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

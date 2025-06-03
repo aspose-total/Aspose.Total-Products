@@ -76,7 +76,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 电子签名Excel文件格式的应用场景
+
+## 财务报告与预算
+XLS、XLSX和ODS文件常用于财务报表、资产负债表以及预算计划。数字签名确认数据准确性并获得审批人认可。
+
+##薪资与人力资源数据
+薪资汇总单和人力资源分析报告以Excel文件形式共享，电子签名可以确保在内部审查或审核过程中数据的隐私性和完整性。
+
+##供应商报价与采购清单
+报价表、产品清单以及成本估算通常以Excel文件格式分享。电子签名将接受确认，并防止提交后编辑变更。
+
+##审计与合规记录
+审计人员使用Excel文件来整理和报告发现问题。数字签名确保数据在获得批准后的未被篡改。
+
+##库存与供应链记录
+跟踪库存文件、运输日志以及供应商数据以ODS或XLSX格式保存，电子签名可以确保操作的一致性并防止数据篡改。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

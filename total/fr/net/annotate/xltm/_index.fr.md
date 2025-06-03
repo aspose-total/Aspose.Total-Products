@@ -78,7 +78,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Fichier de Modèle avec Macros (XLT M) : Ces fichiers soutiennent l'utilisation de macros pour des fichiers réutilisables.
+
+**Annotations :** Les annotations fournissent des informations essentielles sur les points d'automatisation, les entrées attendues ou les résultats des macros.
+
+#### Annoter les Fichiers XLT M pour les Flows de Travail avec Macros - Cas d'Utilisation :
+
+- **Documentation des Macros :** Expliquer les déclenchements et les effets prévus des macros.  
+- **Guidance pour l'Utilisateur :** Annoter les sections que les utilisateurs ne doivent pas modifier pour maintenir l'automatisation.  
+- **Notes sur les Tests :** Marquer les zones en examen pendant le test des modèles.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

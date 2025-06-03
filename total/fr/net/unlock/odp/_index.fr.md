@@ -75,7 +75,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### **Fichier .odp (Présentation OpenDocument)**
+
+- **Édition multilatine**  
+  Découvrir et modifier des fichiers .odp créés avec LibreOffice ou OpenOffice dans Microsoft PowerPoint ou Google Slides.
+
+- **Interopérabilité dans les équipes**  
+  Supprimer les restrictions lors du travail avec différentes suites d'office (LibreOffice ↔ Microsoft Office).
+
+- **Extraction de contenu ouvert**  
+  Accéder aux images, au texte ou aux diagrammes embeds pour des matériaux scolaires ou des documents publics.
+
+- **Versionnages partageables en public**  
+  Désactiver les restrictions sur des fichiers .odp académiques ou gouvernementaux pour la mise en page, la traduction ou la distribution publique.
+
+- **Récupération de contenu inaccessible**  
+  Utile lorsque l'accès est bloqué par un mot de passe où les auteurs originaux ou les clés sont perdus.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

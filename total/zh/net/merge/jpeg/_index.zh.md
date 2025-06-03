@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并JPEG文件进行图像数据整合
+
+JPEG（联合照片专家组）是最受欢迎的图片格式之一，这是因为其压缩效率高、应用广泛。合并多个JPEG文件通常用于制作相册、图片专辑或当地化相似图像数据。
+
+#### 用途：
+
+- **制作相册**  
+  将多个`.jpeg`或`.jpg`图片合并成一个统一的相册，用于打印或数字分享。
+
+- **制作图片拼贴画**  
+  将几张`.jpeg`图片合并成一个单独的拼贴画，用于营销、活动或个人用途。
+
+- **产品图像整合**  
+  将各种产品图片合并成一个文件，用于产品目录或在线商店。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

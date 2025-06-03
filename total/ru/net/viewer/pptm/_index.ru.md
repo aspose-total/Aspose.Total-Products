@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pptm` — формат презентации PowerPoint с встроенными макросами для интерактивности, автоматизации или вложенной логики.
+
+**Примеры использования:**
+
+- Просмотр интерактивных презентаций с логикой тестов или автоматизированных слайдов.
+- Displaying внутренние доски размахи с макро-драйвенными графиками или визуальными элементами.
+- Привзгляд шаблонов с динамическим поколением слайдов.
+- Сочетание автоматически продвигающихся элементов для обучения по стандартам соответствия.
+- Примерок рыночных или финансовых презентаций с встроенными скриптами.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

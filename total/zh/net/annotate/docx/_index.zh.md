@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX (Microsoft Word Open XML Document) 文件常用于创建、编辑和共享基于文本的文档。注释 DOCX 文件对于在文档中添加评论、建议和反馈至关重要，有助于促进团队之间的更好合作。
+
+#### 共同文档审阅用途下的 DOCX 文件注释：
+
+- **协作编辑**  
+  在文档的不同部分以建议、校正和反馈的形式进行注释，以改善在编辑过程中的团队协作。
+
+- **法律文件审阅**  
+  对法律文件进行详细注释，突出需要进一步澄清或法律审查的区域。
+
+- **内容批准工作流程**  
+  对草稿文档进行注释，为结构、语气和内容提供反馈，有助于在发布之前简化批准过程。
+
+- **项目文档跟踪**  
+  在项目报告和文件中以时间戳、版本历史或评论的形式进行注释，以追踪进度和修订随时间的变化。
+
+- **合规性和监管审阅**  
+  在文档中插入注释，记录变更并标记合规相关部分，确保在创建文档时满足所有监管要求。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

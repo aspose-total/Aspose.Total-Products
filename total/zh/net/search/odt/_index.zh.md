@@ -92,7 +92,18 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.odt`（OpenDocument Text）格式用于自由软件办公套件中的文字处理程序，如LibreOffice，但也得到了Microsoft Word的支持。
+
+#### 使用场景
+- **在混合软件环境中共享的开放标准文档**。
+- **在与非微软工具交换的文档中查找技术或学术术语**。
+- ** LibreOffice 或 OpenOffice 准备的多语言文档**。
+- **在转换为 `.docx` 前确保格式的一致性**。
+- **在模板基于的 `.odt` 文件中识别特定术语或占位符**。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

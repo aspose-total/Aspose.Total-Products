@@ -73,7 +73,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparaison de Fichiers DOT pour le Suivi des Modifications des Modèles :
+
+Les fichiers DOT (modèles de Word 97–2003) stockent le contenu formaté réutilisable et les éléments de base. La comparaison des modèles DOT permet de détecter des modifications non autorisées ou non intentionnées avant leur reprise.
+
+- **Vérification de la cohérence des marques**  
+  S'assurer que les logos, les polices et les styles restent cohérents à travers les révisions des modèles.
+
+- **Suivi de l'évolution des modèles**  
+  Surveiller les changements structuraux ou instructifs dans les modèles de documents internes.
+
+- **Audits des modèles ancestraux**  
+  Comparer les fichiers DOT avec les mises à jour du système ou des flux de travail précédents.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+EXCEL模板文件（XLT）为电子表格提供预定义的结构。注释有助于识别占位符、提供操作指令或捕获在模板定制过程中的反馈。
+
+#### 用例说明：
+
+- **模板说明**：添加注释来指导末端用户使用输入字段。
+- **模板审阅**：为公式或布局建议添加注释，以便改进。
+- **团队笔记**：在初始草案中添加上下文注释以协作。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

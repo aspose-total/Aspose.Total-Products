@@ -93,7 +93,19 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.ods-(OpenDocument-Tableauspeicher)-Format.
+
+von offenen Tabellenkalkulieren wie LibreOffice Calc genutzt werden kann, aber auch in Excel geöffnet werden kann.
+
+1. Suchen von offenen Standard-Tabellen, die zwischen verschiedenen Bürosuiten geteilt werden.
+2. Orte von Datenscheinen oder Formeln in multiplattformigen Umgebungen finden.
+3. Überprüfen der konsistenten Terminologie und Formatierung vor der Konvertierung zu .xlsx-Dateien.
+4. Nachverfolgen von Änderungen oder Kommentare in .ods-Dateien, die mit Collaborators geteilt werden.
+5. Besondere Zeilen oder Spalten für die Auswertung oder Berichterstellung finden.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

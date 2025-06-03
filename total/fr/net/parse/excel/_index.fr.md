@@ -87,7 +87,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Fichiers Excel de Microsoft (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) - Utilisation
+
+- 📈 **Extraction de données**  
+  Extraire les valeurs de cellules, les formules et les plage d'octets à partir des tableurs pour l'analyse ou les dashboards.
+
+- 🧮 **Traitement de modèles**  
+  Utiliser les modèles .xlt, .xltx, .xltm pour remplir des rapports, des états financiers ou des prévisions.
+
+- 🤖 **Analyse avec conscience des macros**  
+  Gérer les formats .xlsm et .xltm avec une conscience des macros pour éviter ou préserver la logique d'automatisation.
+
+- 🔍 **Import de données structurées**  
+  Importer le contenu .csv, .tsv ou .xlsx dans des bases de données, des applications ou des API.
+
+- 🗃️ **Migration de données**  
+  Convertissez les feuilles .xls, .xlsb et .xlsx en JSON, XML ou autres formats structurés pour l'intégration.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

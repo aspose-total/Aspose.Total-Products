@@ -80,7 +80,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT est le format de présentation hérétique utilisé dans les anciennes versions du logiciel Microsoft PowerPoint.
+
+**Utilisations courantes incluent :**
+
+- Afficher des mentions de classification comme confidentiel, seuls pour le formation ou en interne,
+- Insérer le nom du présentateur, l'organisation ou l'événement,
+- Mentionner "Ne partagez pas" comme avertissement,
+- Afficher des logos d'entreprise ou des noms de projets,
+- Signaler le contenu pour examen ou approbation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

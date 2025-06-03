@@ -93,7 +93,24 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+La fonction de recherche dans Microsoft Excel permet aux utilisateurs de localiser rapidement des valeurs spécifiques, des formulaires, des références de cellules, du formatage ou même des commentaires à l'intérieur de grandes bases de données ou de tableaux. Elle est essentielle pour analyser, éditer et vérifier les données sans avoir à parcourir manuellement des centaines ou des milliers de cellules.
+
+Dans les environnements de travail et techniques, la fonction de recherche dans Excel améliore l'exactitude des données, accélère les processus d'audit, et garantit la cohérence dans les modèles financiers, les listes d'inventaire, les rapports d'affaires et les tableaux de dashboard analytiques. L'aptitude à trouver et à révérer des entrées précises fait de cette fonction une outil critique pour la gestion efficace des tableaux.
+
+### Cas d'utilisation
+
+- **Trouver des valeurs ou des chaînes de caractères spécifiques** dans de grandes bases de données ou dans plusieurs feuillets.  
+- **Localiser des formulaires brisés ou des erreurs** dans les modèles financiers ou les templates de budget.  
+- **Suivre les prix dépassés, les SKUs ou les codes de produits** dans les feuilllets d'inventaire.  
+- **Rechercher des dissonances de données** pendant les audits ou les concordances.  
+- **Identifier des entrées dupliquées ou des outliers de données** pour la nettoyeuse des données.  
+- **Remplacer les noms d'entreprise ou de projets** dans plusieurs feuilllets de données.  
+- **Passer à des dates clés ou des jalons** dans les tableaux de suivi de projets.  
+- **Mettre en surbrillance de toutes les occurrences d'un mot-clé** pour le formatage en masse ou la revue.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы XLT (Excel) предоставляют предустановленные структуры для таблиц spreadsheets. Аннотации помогают определить места для замены, дать инструкции или捕捉 обратную связь во время настройки шаблона.
+
+#### Пример использования аннотаций в файлах XLT для настройки шаблона:
+
+- **Инструкции по шаблону**: Добавить комментарии, чтобы指导 пользователей, что заполнить определенные поля.
+- **Обзор шаблона**: Аннотировать формулы или предложения по улучшению структуры.
+- **Замечания команды**: Составить первые версии шаблонов с контекстualными примечаниями.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

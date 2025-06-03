@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 压缩 DOT 文件以管理旧的 Word 模板
+
+DOT（Word 97–2003 模板）文件是较旧的 Word 模板文件，可能包含丰富的格式化或图片。压缩 DOT 文件可以使旧模板系统更加高效和便携。
+
+#### 使用场景：
+
+- **模板库清理**  
+  减少 DOT 文件大小，以保持紧凑且有序的模板仓库。
+
+- **在旧系统上的更快加载**  
+  较小的 DOT 文件可以提高旧计算机或虚拟环境上的响应时间。
+
+- **紧凑的备份存储**  
+  将遗留模板存档以压缩格式，以降低长期存储成本。
+
+- **企业政策模板**  
+  使标准 DOT 模板在部门间更快地分发。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

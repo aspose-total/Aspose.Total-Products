@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.doc` — Формат документа Word 97–2003 (бинарный файловый формат), используемый Microsoft Word до 2007 года. Хотя он менее распространен сегодня, многие устаревшие системы все еще依赖于 `.doc`.
+
+**Применения:**
+
+- Просмотр архивных юридических документов в устаревших системах.
+- Доступ к старым бизнес-учтам в хранилищах документов.
+- Поддержка обратной совместимости в правительственных поралах.
+- Просмотр `.doc` резюме в招聘软件.
+- Выведение ранних 2000-х отчетов в внутренних базах знаний.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

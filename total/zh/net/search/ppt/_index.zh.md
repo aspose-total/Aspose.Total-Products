@@ -90,7 +90,17 @@ There are three alternative options to install "Aspose.Slides for .NET" or "Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppt`格式是 PowerPoint2007年之前版本使用的旧二进制文件格式。它支持对遗留演示文稿进行基本搜索功能。
+
+#### 使用场景
+- **在未转换文件中查找特定文本或短语**。
+- **定位旧品牌或产品名称**在更早期的幻灯片集里。
+- **浏览长演示文稿以查找关键点或部分**。
+- **手动审阅评论和演讲备注**时导航。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

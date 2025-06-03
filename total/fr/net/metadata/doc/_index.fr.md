@@ -81,7 +81,17 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Cas d'utilisation pour Microsoft Word Document (`.doc`)
+
+- **Suivre l'auteurat et l'historique de la création/modification**  
+- **Améliorer la recherche dans les documents à partir du titre, de la sujet et des mots-clés**  
+- **Intégrer des métadonnées juridiques ou de licence pour la protection des documents**  
+- **Automatiser les flux de travail en fonction des champs de métadonnées (par exemple, les règles d'archivage)**  
+- **Aider à la classification du contenu et à la gestion de la conservation**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

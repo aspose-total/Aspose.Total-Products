@@ -93,7 +93,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+".xls 格式是 Excel 之前 2007 版本使用的较旧的二进制文件格式。尽管是遗留文件，但它支持基本的搜索功能。
+
+#### 用途
+- **在存档的财务电子表格中定位特定的数据条目**。
+- **在不升级文件的情况下，找到遗留模型中的公式或值**。
+- **在历史数据集中搜索过时的产品编码或价格**。
+- **在保持向后兼容性的情况下审阅和审核旧报告**。"
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

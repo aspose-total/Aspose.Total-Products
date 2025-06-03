@@ -73,7 +73,36 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+1. **Correcting Orientation of Images Captured in Landscape or Portrait Mode**  
+   - Исправить ориентацию изображений, снятых в режиме ландшафта или портрета.
+
+2. **Adjusting Scanned Documents or Photos That Appear Sideways or Upside Down**  
+   - Правильно настроить ориентацию сканированных документов или фотографий, которые появляются боком или перевёрнутыми.
+
+3. **Aligning Visuals Properly for Consistent Display in Galleries, Presentations, or Reports**  
+   - Справедливо выровнять визуалы для последовательного отображения в галереях, презентациях или отчетах.
+
+4. **Rotating Design Assets Such as Icons, UI Components, or Diagrams to Fit Layout Needs**  
+   - Проверить и изменить ориентацию дизайнерских активов, таких как иконки, элементы интерфейса или диаграммы, чтобы они соответствовали требованиям композиции.
+
+5. **Preparing Images for Printing or Publishing with the Correct Orientation**  
+   - Подготовить изображения для печати или публикации с правильной ориентацией.
+
+6. **Standardizing Image Orientation When Importing from Different Sources or Devices**  
+   - Стандартизировать ориентацию изображений при импорте из разных источников или устройств.
+
+7. **Enhancing Readability of Content in eBooks, Documentation, or Web Pages**  
+   - Усовершить читаемость контента в электронных книгах, документации или веб-страницах.
+
+8. **Rotating Product or Catalog Images to Match the Required Aspect Ratio**  
+   - Проверить и изменить ориентацию изображений продукции или каталогов для соответствия требуемому соотношению сторон.
+
+9. **Improving User Experience by Automatically Fixing Image Orientation Based on Metadata**  
+   - Усовершить пользовательский опыт за счет автоматической проверки и исправления ориентации изображений на основе метаданных.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

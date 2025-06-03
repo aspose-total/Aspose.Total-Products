@@ -80,7 +80,30 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Documents Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word est le format de précision pour les documents contenant du texte. La fusion de fichiers Word facilite les flux de travail impliquant plusieurs contributeurs, des modèles, ou des versions.
+
+#### Cas d'utilisation :
+
+- **Compilation d'un rapport unifié**  
+  Fonder plusieurs rapports départementaux ou de projet dans un document professionnel unique pour l'envoi ou l'archivage.
+
+- **Consolidation de documents juridiques et contractuels**  
+  Combiner diverses versions de contrats, annexes et documents juridiques dans un fichier principal de convention.
+
+- **Collaboration en équipe**  
+  Fonder les contributions de plusieurs auteurs dans un document unique pour une édition collaborative et révision.
+
+- **Assemblage de propositions et de RFP**  
+  Combiner des sections de portée, de tarification et techniques provenant de sources différentes dans un proposition cohérente ou réponse à un appel à projets.
+
+- **Manuels de politique et de procédure**  
+  Fonder des documents de politique séparés dans un manuel de personnel complet ou un guide d'opérations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

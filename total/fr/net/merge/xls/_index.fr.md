@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mêler des fichiers XLS pour l'intégration des données Excel anciennes
+
+Les fichiers XLS sont le format binaire utilisés par les anciennes versions de Microsoft Excel. La fusion de plusieurs fichiers `.xls` permet de consolider les données historiques dans des systèmes modernes pour l'analyse ou l'archivage.
+
+#### Cas d'utilisation :
+
+- **Rapports financiers historiques**  
+  Combiner les anciens rapports financiers pour l'analyse des tendances historiques ou la préparation de l'audit.
+
+- **Fichiers de personnel historiques**  
+  Fusionner les anciennes dossiers de personnel ou les fichiers de paie maintenus au format `.xls` dans un seul fichier unifié.
+
+- **Archivage de données modernisé**  
+  Consolider les fichiers `.xls` avant de les convertir au format `.xlsx` ou autres formats modernes pour améliorer la compatibilité et le traitement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

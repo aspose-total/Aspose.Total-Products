@@ -71,7 +71,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Cas d'utilisation : Comparaison de Fichiers PPTM pour le suivi des Présentations avec Macros
+
+Les fichiers PPTM (PowerPoint Macro-Enabled Presentation) supportent l'automatisation via les macros et sont éditableux. La comparaison des fichiers PPTM permet une surveillance détaillée des modifications dans les éléments visuels ainsi que dans les composants automatisés des présentations.
+
+- **Différences dans le comportement des macros**  
+  Analyser les mises à jour des scripts VBA intégrés et de la logique d'automatisation.
+
+- **Révision du contenu visuel et textuel**  
+  Identiquer les modifications dans le texte des diapositives, le layout ainsi que les médias insérés.
+
+- **Assurance de l'exactitude de l'automatisation**  
+  S'assurer que les tâches comme la génération de graphiques ou l'actualisation du contenu se comportent de manière cohérente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

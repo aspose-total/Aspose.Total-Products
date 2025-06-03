@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` — Word 文档（Open XML）- 从 Word 2007 以来，Word 文件格式的默认和最广泛使用的文件格式。它采用 Open XML 标准，是现代文档创建和共享的主要格式。
+
+**应用场景：**
+
+- 在线查看商业提案、报告和备忘录。
+- 在门户网站中嵌入用户手册和政策文件。
+- 在协作平台中分享团队文档。
+- 在学术或企业图书馆中查看白皮书。
+- 在内容管理系统中显示草稿或文章。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

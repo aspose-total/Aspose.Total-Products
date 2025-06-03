@@ -82,7 +82,14 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+1. Редакция данных сотрудников, их зарплаты и личные данные в файлах зарплат.  
+2. Редакция информации о клиентах или поставщиках в отчетах о продажах и закупках.  
+3. Редакция внутренних выделений бюджета или процентов прибыли в финансовых таблицах.  
+4. Редакция конфиденциальных данных в диспетчерах производительности или спирах показателей КПИ.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

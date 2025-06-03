@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Использование файлов PPTM для сравнения автоматизированных презентаций с макросами:
+
+Файлы PPTM (PowerPoint Macro-Enabled Presentation) поддерживают автоматизацию через макросы и позволяют редактировать их. Сравнение файлов PPTM позволяет детально отслеживать изменения как в визуальном, так и в автоматизированном аспектах презентаций.
+
+- **Различия поведения макросов**  
+  Анализировать обновления в встроенных скриптах VBA и логике автоматизации.
+
+- **Проверка изменений визуального и текстового содержания**  
+  Определять изменения текста на слайдах, их расположение и вставленные медиафайлы.
+
+- **Уверенность в точности автоматизированных задач**  
+  Убедиться, что макросом управляемые задачи, такие как генерация диаграмм или обновление содержания, работают последовательно.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

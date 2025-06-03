@@ -78,7 +78,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Les PDF sont un format standard pour les documents finalisés comme les prospectus, les factures et les formulaires. L'inclusion de ces fichiers dans un seul logiciel de visionnement améliore la compatibilité et l'ergonomie utilisateur.
+
+**Cas d'utilisation :**
+
+- Prévisualiser des formulaires téléchargeables ou des prospectus sur des sites web.
+- Consultation d'e-books ou de rapports blancs dans des bibliothèques numériques.
+- Affichage des factures, des reçus ou des déclarations sur les tableaux de bord clients.
+- Lecture des manuels d'emploi de produits dans des plateformes de commerce électronique.
+- Examen de contrats ou de documents de conformité dans un logiciel juridique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

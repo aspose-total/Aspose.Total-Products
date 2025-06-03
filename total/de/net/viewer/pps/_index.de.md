@@ -81,7 +81,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.pps` — Microsoft PowerPoint (veralteter Format) - Ein veralteter Format von PowerPoint 97–2003, das direkt im Präsentationsmodus öffnet und nicht im Bearbeitungsmodus.
+
+**Anwendungsbereiche:**
+
+- Zurückblicken auf archivierte Schulungs- oder Demopresentationsen.
+- Anzeige von veralteteren Gesellschaftsnachrichten, die in .pps-Dateiformat gespeichert sind.
+- Abspielung von Vollbildpräsentationen von Produkten in Kiosken.
+- Zugang zu alten Konferenzpräsentationen ohne Umrechnung.
+- Erhalt von historischen Präsentationen in Dokumentenbibliotheken.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

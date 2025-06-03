@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Классическая бинарная презентация (.ppt) — формат презентации (Архивная версия), используемый в версиях PowerPoint до 2007 года. Эта разметка по-прежнему встречается в архивах и legacy-системах.
+
+**Использования:**
+
+- Доступ к старым бизнес- или академическим презентациям.
+- Просмотр архивных презентаций конференций, хранящихся в репозиториях организаций.
+- Выведение исторических слайдов из библиотек企业ного контента.
+- Поддержка совместимости в системах правительства.
+- Сохранение содержимого слайдов событий early 2000s.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

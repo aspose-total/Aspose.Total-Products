@@ -79,7 +79,42 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge multiple Excel files into a unified workbook, follow these organized steps:
+
+1. **Open the Master Workbook**: Begin by opening your main Excel file where all data will be consolidated.
+
+2. **Prepare Data**:
+   - Ensure each Excel file has consistent headers. If there are discrepancies, decide on a strategy to handle them (e.g., skipping rows or merging based on specific columns).
+
+3. **Import Data Using Power Query**:
+   - Use Power Query within Excel to import data from other files into the master workbook. This method allows for efficient loading of multiple files without manual copying.
+
+4. **Merge Data in Power Query**:
+   - Utilize the "Merge" option in Power Query to combine data sources, selecting appropriate keys to ensure accurate merging.
+
+5. **Clean and Transform Data**:
+   - After merging, clean up any duplicates or inconsistencies in formatting to maintain data integrity.
+
+6. **Save and Automate**:
+   - Save your merged workbook for future use. Consider setting it to update automatically when new files are added, using macros or scheduled tasks for automation.
+
+7. **Consider File Formats**:
+   - Convert all files to XLSX format if there are legacy XLS files to avoid formatting issues.
+
+8. **Handle Large Files Efficiently**:
+   - To manage large files, consider splitting data into smaller chunks or using methods like appending tables to enhance performance.
+
+9. **Organize Data in the Master Workbook**:
+   - Create separate sheets for different categories or time periods to improve navigation and analysis efficiency.
+
+10. **Provide Training and Support**:
+    - Offer clear instructions and training for users handling this task regularly to ensure effective use of tools like Power Query or VBA macros.
+
+By following these steps, you can efficiently merge Excel files, ensuring data consistency and facilitating centralized data management and analysis.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

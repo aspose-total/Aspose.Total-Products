@@ -81,7 +81,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Cas d'utilisation pour le document Word Open XML (`.docx`)
+
+- Stocker des méta-données standardisées comme le titre, l'auteur et les mots-clés.  
+- Favoriser une recherche intelligente et une catégorisation dans les systèmes de contenu.  
+- Alimenter des méta-données structurées aux outils d'intelligence artificielle pour une résumation intelligente.  
+- Déclencher des automatisations de documents et des flux d'approbation via les balises de méta-données.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

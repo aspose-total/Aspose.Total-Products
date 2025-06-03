@@ -77,7 +77,17 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📕 .pdf | Portable Document Format — Use Cases for Protection
+
+- Используется для распределения окончательных версий отчетов, контрактов и руководств — защита обеспечивает чтение только в режиме «только для чтения».
+- Идеально подходит для форм — защищает поля и предотвращает изменение структуры, при этом позволяет ввод данных.
+- Необходимо в юридических, финансовых и академических секторах для защиты целостности и подлинности.
+- Защита предотвращает извлечение текста, копирование или неавторизованное печатание.
+- Обычно защищается паролем и шифрованием для конфиденциальных документов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

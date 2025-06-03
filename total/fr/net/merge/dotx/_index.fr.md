@@ -80,7 +80,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mêler les fichiers DOTX pour une gestion moderne des modèles
+
+Le format DOTX, basé sur XML, est utilisé pour les modèles de documents dans Microsoft Word. La fusion des fichiers `.dotx` permet de unifier les modèles au sein d'une équipe ou d'un département tout en garantissant la compatibilité avec les logiciels modernes.
+
+#### Cas d'utilisation :
+
+- **Gestion unifiée des modèles**  
+  Mêler les modèles `.dotx` provenant de divers équipes pour établir une mise en page cohérente, un branding uniforme et une structure documentaire standardisée.
+
+- **Intégration inter-départementale des modèles**  
+  Combiner les modèles `.dotx` issus de différents départements dans une bibliothèque unique pour faciliter l'accès et normaliser les procédés.
+
+- **Facilitation des mises à jour des modèles**  
+  Mêler les modèles `.dotx` mis à jour dans un fichier central pour garantir un accès facile aux versions les plus récentes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

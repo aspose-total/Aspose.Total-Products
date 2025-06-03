@@ -80,7 +80,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Merge de fichiers DOT pour la gestion des modèles légaciers
+
+Les fichiers DOT sont utilisés avec les anciennes versions de Microsoft Word (avant le format DOCX). La fusion de fichiers `.dot` permet de standardiser l'format des documents et d'assurer la compatibilité avec les systèmes legacy.
+
+#### Utilisations :
+
+- **Consolidation des modèles**  
+  Fusionner différents fichiers `.dot` utilisés par divers équipes pour créer un seul modèle unifié pour la création de documents.
+
+- **Archivage des modèles légaciers**  
+  Combiner les fichiers `.dot` pour stocker à long terme ou migrer vers le format plus moderne `.dotx`.
+
+- **Mise à jour des bibliothèques de modèles**  
+  Fusionner multiples fichiers `.dot` contenant des formats ou styles obsolètes pour moderniser les modèles dans un seul fichier.
+
+Pour effectuer la fusion, il est recommandé de consulter la documentation Microsoft pour s'assurer que tout est correctement intégré. Il est également important de tester le résultat dans différentes versions de Word pour éviter les erreurs de formatage. Enfin, il est suggéré de documenter chaque étape et de gérer la version contrôlée pour maintenir un suivi clair des changements.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

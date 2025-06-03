@@ -71,7 +71,20 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Сравнение файлов POTM для проверки одинства шаблонов с встроенными макросами в презентациях, поддерживающих macros.
+
+- **Отслеживание изменений в встроенных макросах**  
+  Detect modifications in embedded macros and ensure that automation sequences follow intended logic.
+
+- **Проверка версий шаблонов**  
+  Compare updated templates with original versions to validate structural and visual consistency.
+
+- **Аудит изменений для стандартных слайдов**  
+  Highlight alterations in master slides or layout configurations that affect all presentations based on the template.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

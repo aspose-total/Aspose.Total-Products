@@ -73,7 +73,17 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### DOT文件比较用于模板变更追踪用例：
+
+DOT（Word 97-2003版模板）文件存储可重用的格式设置和通用内容。通过对DOT模板文件进行比较，可以在重复使用之前发现未经授权或非预期的修改。
+
+- **确保品牌标志、字体和样式在模板修订之间保持一致。**
+- **跟踪内部文档模板的结构性或说明性变化。**
+- **与早期系统或工作流程中的文档更新进行比较。**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

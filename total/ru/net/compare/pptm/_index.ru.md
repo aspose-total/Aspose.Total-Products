@@ -71,7 +71,20 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Сравнение файлов PPTM для отслеживания макросов в презентациях с поддержкой автоматизации
+
+- **Различия поведения макросов**  
+  Анализировать обновления в встроенных скриптах VBA и логики автоматизации.
+
+- **Проверка визуального и текстового содержания**  
+  Определять изменения в тексте слайдов, их расположении и вставленной медиа.
+
+- **Убедиться в точности работы автоматизации**  
+  Проверить, чтобы макросы, такие как генерация графиков или обновление содержания, работали одинаково.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

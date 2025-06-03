@@ -78,7 +78,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mélanger les fichiers PPT pour la gestion des presentations PowerPoint anciennes
+
+Les fichiers `.ppt` sont le format binaire ancien de Microsoft PowerPoint pour les presentations. La fusion de fichiers `.ppt` est généralement nécessaire lors du traitement de archives légales, de l'archivage d'anciennes projets ou de la migration vers des formats plus récents comme `.pptx`.
+
+#### Cas d'utilisation :
+
+- **Mélanger des archives de presentations anciennes**  
+  Combiner plusieurs fichiers `.ppt` pour stocker à long terme ou effectuer un backup avant de convertir vers des formats plus récents comme `.pptx`.
+
+- **Consolidation de presentations départementales**  
+  Fonder des fichiers `.ppt` issus de différents équipes ou projets pour créer une présentation unique destinée à une revue par les gestionnaires ou à des mises à jour company-wide.
+
+- **Mise à jour du contenu dans des presentations légales**  
+  Fusionner des anciennes presentations dans un nouveau fichier tout en mettant à jour les slides avec du contenu frais et du positionnement.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

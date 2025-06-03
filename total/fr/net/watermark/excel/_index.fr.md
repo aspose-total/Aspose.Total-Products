@@ -76,7 +76,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+L'Excel est utilisé de manière extensive pour le travail basé sur les données. L'affectation d'eau-de-mer dans les feuilles Excel aide à communiquer la confidentialité et le contexte, notamment pendant les examens des données ou les déclarations financières.
+
+**Cas d'utilisation courants incluent :**
+
+- Identifier les feuilles de calcul comme préliminaires, sensibles ou vérifiées  
+- Prévenir l'utilisation malveillante de calculs propres ou prévisions  
+- Labellisation des feuilles pour les contrôles internes ou les rapports financiers  
+- L'affectation d'eau-de-mer dans les tableaux de bord pour le contrôle de la distribution  
+- Marquage des données comme obsolètes, archivées ou en phase de test  
+- Indication de la propriété des modèles financiers ou des analyses
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

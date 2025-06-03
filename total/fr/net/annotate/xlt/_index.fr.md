@@ -78,7 +78,17 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Les fichiers XLT (modèles Excel) offrent des structures préalablement définies pour les tableurs. Les annotations identifient les emplacements de remplacement, fournissent des instructions ou capturent des commentaires pendant la personnalisation du modèle.
+
+- **Instructions du Modèle** : Ajouter des commentaires pour guider les utilisateurs finals sur les champs d'entrée.
+  
+- **Révision du Modèle** : Annoter des formules ou des suggestions de mise en page pour améliorer le modèle.
+  
+- **Notes Équipe** : Collaborer sur les ébauches initiales des modèles avec des notes contextuelles.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Optimizez les fichiers DOCX pour un document moderne performant
+
+Les fichiers DOCX (Microsoft Word Open XML Document) sont largement utilisés mais peuvent augmenter en taille en raison des éléments de formatage riche, des objets intégrés et des images. La compression des fichiers DOCX améliore l'performance et facilite le partage.
+
+#### Cas d'utilisation :
+
+- **Partage rapide de documents**  
+  Comprimez les fichiers DOCX pour réduire les temps de chargement et permettre un partage instantané par courriel ou en cloud.
+
+- **Collaboration dans des environnements à faible débit**  
+  Les fichiers DOCX plus compacts améliorent l'usabilité dans des endroits distants ou avec un débit limité.
+
+- **Gestion de versions stockée**  
+  Enregistrez plusieurs iterations de fichiers DOCX compressés efficacement dans les plateformes collaboratives.
+
+- **Optimisation de l'accès mobile**  
+  Les fichiers plus légers permettent des téléchargements rapides et une édition plus rapide sur les dispositifs mobiles.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

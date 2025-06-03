@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.potx` — PowerPoint 模板 - 一种用于创建团队和部门间一致、预先设计好的演示文稿的宏免费模板格式。
+
+**用途：**
+
+- 查看品牌批准的幻灯片模板用于企业演示。
+- 预览可重复使用的营销或销售框架结构。
+- 在内部门户共享培训模板。
+- 展示教育内容的有序幻灯片轮廓。
+- 确保各部门间的一致性，采用标准化设计。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

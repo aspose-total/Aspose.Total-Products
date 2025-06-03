@@ -74,7 +74,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisation des Signatures Numériques ou Électroniques dans les Fichiers DOC
+
+Les fichiers DOC de Microsoft Word sont encore utilisés dans les systèmes legacy et les cabinets d'avocats. L'application d'une signature numérique à un fichier DOC authentifie son origine et garantit que le contenu n'a pas été modifié.
+
+## Cas d'utilisation Courants
+- Contrats juridiques et accords partagés sous format DOC.
+- Modèles de formulaires HR et mémoires internes dans les entreprises.
+- Documents gouvernementaux rédigés dans des anciennes versions de Microsoft Office.
+- Correspondances formelles dans les entreprises qui conservent des logiciels legacy.
+- Propositions confidentiels exigeant une vérification numérique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 POTX 文件进行现代 PowerPoint 模板管理
+
+POTX 是用于 PowerPoint 模板的现代 XML 格式。合并 ` .potx ` 文件将模板内容集中管理，确保所有演示文稿的一致性。
+
+#### 使用场景：
+
+- **跨部门模板标准化**  
+  将不同部门使用的 ` .potx ` 模板合并，创建一个统一的公司级 PowerPoint 模板库。
+
+- **更新模板集合**  
+  将包含不同品牌、布局或样式元素的 ` .potx ` 文件合并，创建用于演示文稿的主模板。
+
+- **为客户定制模板**  
+  将不同部门的 ` .potx ` 模板合并，以根据客户需求定制演示文稿模板。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

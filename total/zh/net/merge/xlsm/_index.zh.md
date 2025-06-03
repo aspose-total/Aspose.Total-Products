@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并宏启用Excel工作表文件
+
+XLSM 文件是宏启用的 Excel 工作簿文件。合并 .xlsm 文件时，必须保留数据以及嵌入的宏程序，这些宏程序用于自动化或计算。
+
+#### 用途：
+
+- **自动化任务报告**  
+  将包含宏的工作表合并到一个中央文件中，以便于集中化地管理自动化报告或验证任务。
+
+- **整合工作流程模板**  
+  将各部门使用的 .xlsm 模板合并到一个工作簿中，从而实现工作流程的标准化和自动化。
+
+- **集中化的 VBA 代码仓库**  
+  合并包含类似宏的文件，以统一逻辑并减少部门间的重复代码。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

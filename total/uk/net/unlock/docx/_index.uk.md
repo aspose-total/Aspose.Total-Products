@@ -78,7 +78,28 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` формат — это по умолчанию XML-базированный файловый формат, введенный Microsoft Word 2007 и широко используемый сегодня.  
+
+#### **Применения `.docx` формата**
+
+- **Редактирование защищенных документов**  
+  Позволяет пользователям обновлять резюме, отчеты или формы, которые по умолчанию были защищены.  
+
+- **Совместная работа в команде**  
+  Удаляет защиту, чтобы позволить отслеживать изменения, добавлять комментарии и进行 совместную редактировку.  
+
+- **Исправление ошибок в распределенных шаблонах**  
+  Упрощает исправление опечаток или проблем с форматированием в защищенных шаблонах.  
+
+- **Доступ к встроенным медиа и данным**  
+  Открывает структурированный контент, такие как диаграммы, изображения и таблицы, для их повторного использования.  
+
+- **Переписывание правительственных или корпоративных документов**  
+  Позволяет пользователям адаптировать руководства, формы или политики без необходимости создания их вручную.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы XLTX (Excel Template - Open XML) используются для стандартизированного и повторяемого отчета. Обновление их обеспечивает ясность в редактируемых областях, ожиданиях ввода и предложениях по пересмотру.
+
+#### Обновление файлов XLTX для реusable Report Templates - Примеры использования:
+
+- **Напоминания по инструкциям отчетов**: Добавить советы по использованию или обновления для повторяющихся отчетов.
+- **Обновление дизайна**: Обновить визуальные элементы, заголовки или структуру разделов.
+- **Совместная работа пользователей**: Отслеживать предложения различных отделов на общем шаблоне.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

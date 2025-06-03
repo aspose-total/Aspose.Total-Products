@@ -73,7 +73,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Comparaison de fichiers ODT pour les cas d'utilisation de la collaboration de documents ouverts :
+
+- **Suivre les modifications apportées par les contributeurs dans la documentation open source.**  
+- **Comparer des modèles officiels, des politiques ou des brouillons de recherche partagés au format ODT.**  
+- **Afficher les modifications cotextuelles pour des documents et propositions tenus au public.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

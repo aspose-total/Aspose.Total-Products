@@ -71,7 +71,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des signatures numériques ou électroniques pour les fichiers JPEG et JPG
+
+Les fichiers JPEG/JPG sont utilisés pour les documents numérisés, les photos et les preuves d'identité. Signer ces fichiers de manière numérique garantit la sécurité et la preuve de l'origine.
+
+## Utilisations courantes
+
+- Contrats et documents signés numériquement.
+- Documents d'identité dans les procédures KYC.
+- Rapports visuels avec des observations intégrées.
+- Imagerie médicale partagée pour les consultations à distance.
+- Registres fonciers présentés de manière visuelle.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

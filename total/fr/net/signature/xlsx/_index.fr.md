@@ -76,7 +76,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisation des cas d'usage pour signer les fichiers XLSX avec des signatures numériques ou électroniques
+
+L’Excel a adopté le format XLSX comme standard actuel et soutient les signatures numériques ou électroniques pour les données financières et opérationnelles.
+
+## Cas d'usage courants
+- Documents financiers et bilans de société.
+- Budgets départementaires et prévisions.
+- Tableaux de bord de performance partagés pour les révises des exécutifs.
+- Dossiers HR et récapitulations d’absences nécessitant des approbations.
+- Feuilles de coûts des approvisionnements et des fournisseurs nécessitant des approbations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

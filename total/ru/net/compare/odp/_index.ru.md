@@ -71,7 +71,18 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+- **Открытоориентированный обзор презентации**  
+  Сравнение редактирований, внесённых сообществом, для их согласованности и точности.
+
+- **Детектирование изменений дизайна и темы**  
+  Определение визуальных различий в настройках слайдов мастера, палитрах цветов и шрифтах.
+
+- **Отслеживание изменений содержимого**  
+  Определение добавленных или модифицированных текстов, форм, изображений и диаграмм в разных версиях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

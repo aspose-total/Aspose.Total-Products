@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы PNG для высокого качества прозрачности и лёгкости графических элементов
+
+PNG (Portable Network Graphics) поддерживает прозрачность и сохраняет качество без потери, но может привести к большим размерам файлов. Сжатие важно для использования, ориентированного на производительность.
+
+#### Примеры применения:
+
+- **Транзparent веб-иконы и логотипы**  
+  Сжать PNGs для того чтобы сохранить острую εμφаление, уменьшивая время загрузки в интернете.
+
+- **Активы интерфейса приложения**  
+  Использовать сжатые PNGs для кнопок, иконок и компонентов UI для уменьшения размера пакета приложения.
+
+- **Портфолио дизайнеров**  
+  Оптимизировать PNGs в портфолиох для быстрого просмотра без потери качества.
+
+- **Теговые изображения интернет-магазина**  
+  Использовать лёгкие PNGs в страницах продуктов для ускорения загрузки, сохраняя детализацию.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

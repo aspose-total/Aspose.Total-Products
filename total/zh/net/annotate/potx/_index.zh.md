@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+POTX (PowerPoint 模板) 文件用于创建不含宏的演示模板。对 POTX 文件进行注释有助于确保设计标准并促进团队在可重用演示布局上的一致性。
+
+#### POTX 文件注释的标准演示模板反馈用途：
+
+- **品牌验证**  
+  在文件中插入注释，以确认字体使用、颜色和幻灯片结构是否符合品牌指南。
+
+- **幻灯片占位符说明**  
+  对特定内容区域的使用或填充方式进行评论，指导用户如何使用或填充这些区域。
+
+- **协作模板构建**  
+  在共同设计模板时，提出布局改进建议或内容区划建议。
+
+- **教育幻灯片模板**  
+  为学术模板添加教学或指导性注释，以便于其使用。
+
+- **本地化指导**  
+  对需要翻译或适应特定地区的部分进行注释。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

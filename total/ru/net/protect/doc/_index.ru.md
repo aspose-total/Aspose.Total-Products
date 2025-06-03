@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Microsoft Word 97–2003 Document — Use Cases for Protection
+
+- Используются в устаревших системах, где редактирование должно быть ограничено для обеспечения совместимости.  
+- Защита от случайных изменений в архивных правовых или исторических документах.  
+- Предотвращает несанкционированные изменения содержимого в устаревших государственных или корпоративных потоках.  
+- Полезно в настройках соответствия, где важность целостности исходного формата файла критична.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTX (Word Open XML 模板) 文件为现代版本的 Word 提供干净且没有宏的模板，适合用于现今的文档制作。注释 DOTX 文件有助于记录结构、反馈共享以及协作更新，而不会影响设计的一致性。
+
+####DOTX文件注释的清洁模板协作用途：
+
+- **协同模板设计**  
+  在布局、样式或占位符上插入注释，提出改进建议。
+
+- **字段级别说明**  
+  对动态部分进行注释，指示末端用户或内容创建者执行操作。
+
+- **版本控制与更新**  
+  使用注释记录最近的更新信息、已弃用的字段或样式说明。
+
+- **模板审核**  
+  在格式、可访问性和品牌标准上进行评论，确认遵守相关规定。
+
+- **利益相关者审查整合**  
+  通过注释提供反馈，上下文帮助实时共享给利益相关者。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

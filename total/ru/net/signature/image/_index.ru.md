@@ -71,7 +71,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Использование электронных подписей для подписи изображений  
+
+## Сканы юридических документов  
+Сканы handwritten agreements или notarized documents в формате JPG, PNG или TIFF можно подписывать электронно для подтверждения их подлинности.  
+
+## Документы личного характера  
+Изображения паспортов, ИНН и utility bills, используемые для KYC или настройки на борт, можно электронно подписывать чтобы убедиться что они не были изменены.  
+
+## Сканы медицинских изображений  
+Сканы X-ray или результаты испытаний в формате TIFF или PNG можно подписывать электронно для подтверждения того что они исходят из сертифицированных медицинских учреждений.  
+
+## Работы художественные и творческие  
+Дизайны, иллюстрации или графика для маркетинга в изображённом формате можно подписывать электронно чтобы подтвердить права на интеллектуальную собственность.  
+
+## Фотографии инспекций и проверок  
+Фотографии taken during audits, inspections или compliance checks часто подписываются электронно для подтверждения места события время и подлинности доказательств.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

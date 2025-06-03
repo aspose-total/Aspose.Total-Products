@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файл RTF для упрощения хранения и передачи разрежденного текста
+
+Файлы RTF (Rich Text Format) используются для документов с базовой форматированием текста на разных платформах. Однако при включении изображений или расширенного форматирования размер файла может увеличиваться. Сжатием RTF-файлов помогает упростить использование на разных системах и в workflow.
+
+#### Примеры использования:
+
+- **Портативность между системами**  
+  Уменьшение размера RTF-файлов обеспечивает быстреее передачу между системами без потери форматирования.
+
+- **совместимость с устаревшими системами**  
+  Сжатием RTF-документов обрабатывание будет более плавным в старых приложениях или системах.
+
+- **Оптимизация встроенных ресурсов**  
+  Уменьшение влияния встроенных медиа (например, логотипов или диаграмм) для сохранения файла на легком весе.
+
+- **Эффективная передача по email и подача форм**  
+  Сжатые RTFs соответствуют размерным ограничениям для загрузки на формы или отправки как附件 по email.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

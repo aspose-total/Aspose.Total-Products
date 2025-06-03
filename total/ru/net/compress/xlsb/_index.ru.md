@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы XLSB для эффективного управления двоичным рабочим簿ом
+
+Файлы XLSB (Excel Binary Workbook) хранят данные в двоичном формате, что часто приводит к увеличению размера файла из-за оптимизаций, направленных на повышение скорости. Сжатием файлов XLSB уменьшается объем данных, сохраняя при этом скорость выполнения.
+
+#### Применение:
+
+- **Экономия места для больших наборов данных**  
+  Храните большие наборы данных в более компактных файлах XLSB с использованием сжатия для рабочих процессов аналитики.
+
+- **Быстрое передача между командами**  
+  Делясь сжатыми файлами XLSB, вы можете делиться ими быстро без потери скорости выполнения расчетов.
+
+- **Линейные резервные копии**  
+  Архивируйте часто используемые двоичные рабочие книги с уменьшенным размером для быстрого восстановления.
+
+- **Кеширование данных в инструментах отчетности**  
+  Используйте сжатые файлы XLSB как кешевые базы данных в системах отчетности, чтобы сократить время загрузки.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

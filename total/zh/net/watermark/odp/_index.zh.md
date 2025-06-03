@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP 是一种开源演示文稿格式，主要由 LibreOffice Impress 和其他开源工具使用。
+
+**常见用途：**
+
+- **用于在公开论坛、内部审查或受限使用中标记幻灯片。**
+- **嵌入创意共享许可证或组织标签。**
+- **在非政府组织或政府演示中支持公共透明度。**
+- **添加演讲者的资质或项目所属关系。**
+- **通过标记草稿或非最终版本来防止滥用。**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,33 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Для объединения файлов DOCX выполните следующие шаги:
+
+1. Откройте оба документа в Word (Document A и Document B).
+
+2. Перейдите в меню File (Файл), выберите опцию "Combine" (Объединить) или "Add a Document" (Добавить документ). Это можно найти под вкладкой Info (Информация) в разделе "Manage Documents" (Управление документами).
+
+3. Убедитесь, что все стили и форматирование в обоих документа совпадают. Если нет, проверьте настройки форматирования перед объединением.
+
+4. Объедините два документа, получившийся результат сохраните как Document C.
+
+5. Повторите процесс для остальных документов: объедините Document C с Document D, и так далее, пока все не будут объединены.
+
+6. Проверьте содержимое объединённого документа на наличие конфликтов или ошибок в форматировании.
+
+7. Убедитесь, что страницы с номерами страниц корректно отображаются без дублирования.
+
+8. Регулярно сохраняйте работу, чтобы избежать потери данных.
+
+9. Проверьте, содержится ли в документе конфликтное содержание из разных источников и устраните его перед финальной отправкой.
+
+10. Если есть вложенные объекты (например, диаграммы или таблицы), проверьте их корректность после объединения.
+
+11. После полного объединения документа выполните тщательный обзор содержимого для убедитесь в его точности и правильности форматирования.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,23 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Сжать файлы XLT для оптимизации устаревших шаблонов Excel
+
+Файлы XLT (шаблоны Excel 97–2003) могут становиться большими из-за встроенных элементов или примеров данных. Сжатием файлов XLT делаются шаблоны более лаконичными и удобными для распределения.
+
+#### Примеры использования:
+
+- **Портативность устаревших шаблонов**: Отправка сжатых шаблонов для быстрого распределения в старых системах предприятия.
+  
+- **Оптимизация эффективности репозитория шаблонов**: Уменьшение размера архивов шаблонов для быстрого доступа и извлечения.
+
+- **Снижение времени загрузки шаблонов**: Оптимизация работы старых систем за счет сжатия файлов для быстрого открывания и использования.
+
+- **Оптимизация хранения и архивирования устаревших шаблонов**: Уменьшение долгосрочного хранения шаблонов за счет сжатия.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

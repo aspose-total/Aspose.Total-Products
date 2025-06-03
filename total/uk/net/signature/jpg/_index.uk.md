@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Примеры использования подписи дигитальных или электронных подписей для файлов JPEG и JPG  
+
+Файлы JPEG/JPG используются для сканированных документов, фотографий и удостоверений личности. Подписывая их дигитально обеспечивает безопасность и подтверждение происхождения.  
+
+### Н-common use cases  
+- Сканканные контракты и подписанные документы.  
+- Документы личности в процессах KYC.  
+- Визуальные отчеты с встроенными наблюдениями.  
+- Медицинское изображение, передаваемое для удаленных консультаций.  
+- Записи собственности на землю в визуальном формате.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

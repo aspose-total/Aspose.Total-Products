@@ -73,7 +73,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparaison de Fichiers DOCM pour des Cas d'Utilisation de Contrôle de Documents Sensibles aux Macros :
+
+Les fichiers DOCM (fichiers Microsoft Word avec macros intégrés) supportent les macros embeds. La comparaison de deux fichiers DOCM permet aux utilisateurs de détecter non seulement des changements dans le contenu, mais aussi des mises à jour potentielles dans la logique des macros, ce qui est essentiel pour les workflows de sécurité, de conformité et de développement.
+
+- **Détectez les Changements dans les Macros**  
+  Identifiez quand des macros ont été ajoutés, supprimés ou modifiés entre les versions.
+
+- **Vérification de l'Intégrité du Document**  
+  Assurez-vous que le contenu et la comportement des macros restent cohérents dans des environnements réglementés.
+
+- **Révision des Versions dans les Projet d'Automatisation**  
+  Suivez les mises à jour dans les rapports, les factures ou les générateurs de formulaires qui utilisent des macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

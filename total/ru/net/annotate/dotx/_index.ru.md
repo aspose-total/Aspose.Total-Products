@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файл DOTX (Word Open XML Template) предоставляет чистые, макросов не содержащие шаблоны для современных версий Word. Аннотирование файлов DOTX способствует документированию структуры, обмену фидбэком и совместным обновлениям без изменения целостности дизайна.
+
+#### Аннотация Файлов DOTX для случаев сотрудничества по использованию шаблона:
+
+- **Совместная разработка шаблона**  
+  Вставайте комментарии для предложения изменений в оформлении, стилях или placeholder'ах.
+
+- **Инструкции на уровне полей**  
+  Аннотировайте динамические разделы с инструкциями для конечных пользователей или создателей контента.
+
+- **Обновления версий и обновления**  
+  Используйте аннотации для документирования последних обновлений, устаревших полей или примечаний по стилю.
+
+- **Аудит шаблона**  
+  Комментаририруйте чтобы подтвердить соответствие оформлению, доступности и стандартам брендинга.
+
+- **Включение отзывов стAKEHOLDER**  
+  Упрощите реал-тайм обзоры для участников с контекстуальными фидбэками в аннотациях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

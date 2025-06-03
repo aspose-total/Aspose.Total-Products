@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 用途：开放文档演示文件比较工具
+
+ODP（OpenDocument Presentation）是自由软件套件 LibreOffice Impress 中使用的演示文件格式。比较 ODP 文件对于识别协作或开源标准环境中的内容更改至关重要。
+
+- **开源演示文件审查**  
+  比较社区贡献的编辑以确保一致性和准确性。
+
+- **布局和主题更新检测**  
+  检测幻灯片主设置、颜色调色板和字体的视觉差异。
+
+- **内容修订跟踪**  
+  识别不同版本中添加或修改的文本、形状、图像和表格。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

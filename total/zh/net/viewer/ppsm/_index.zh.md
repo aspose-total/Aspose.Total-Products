@@ -81,7 +81,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ppsm` — PowerPoint 宏启用型幻灯片显示 - 这是一个在演示时运行 VBA 脚本的幻灯片格式，适用于交互式内容。
+
+**应用场景：**
+
+- 预览带有幻灯片过渡和逻辑的自动化产品演示。
+- 查看嵌入了测试题的交互式培训模块。
+- 在营销门户中展示自运行的演示文稿。
+- 通过安全的只读格式查看由 VBA 驱动的幻灯片内容。
+- 在 LMS 平台上共享带有宏增强的教学内容。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

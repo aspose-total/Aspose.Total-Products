@@ -79,7 +79,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge XLSX files in Excel, you can choose between two methods based on your needs:
+
+1. **Using "Get Data" Feature:**
+   - Open Excel and create a new workbook.
+   - Go to the Data tab and click "Get Data."
+   - Select multiple XLSX files from the "From File" option.
+   - Excel will import each file into separate sheets within your new workbook, providing a straightforward way to view data from different sources side by side.
+
+2. **Using Power Query for Consolidated Merge:**
+   - Open each XLSX file individually and load them into Power Query.
+   - Use the "Merge" option in Power Query to combine datasets, allowing you to manipulate and transform data as needed for a consolidated view.
+
+Both methods have their advantages: the first is simple for viewing separate sheets, while the second offers more control over data integration. Choose based on your specific requirements and data handling needs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 XLT 文件用于基于模板的 Excel 工作流程
+
+XLT 是 Excel 97-2003 版本中 `.xls` 文件的模板格式。合并 `.xlt` 文件有助于标准化和更新遗留模板，使其成为统一结构。
+
+#### 用途：
+
+- **遗留模板统一**  
+  将多个 `.xlt` 模板合并成一个主模板，以保持向后兼容性。
+
+- **部门模板标准化**  
+  合并旧模板以评估和开发现代的 `.xltx` 替代方案。
+
+- **历史模板存档**  
+  整合较旧的 `.xlt` 版本，以符合合规或作为历史参考。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

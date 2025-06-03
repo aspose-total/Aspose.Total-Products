@@ -77,7 +77,17 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📕 .pdf | 便携式文档格式 —— 保护的应用场景
+
+- **用于分发最终版本的报告、合同和手册**——保护确保内容为只读。
+- **在表格中最佳使用**——保护字段并防止结构性编辑，同时允许数据输入。
+- **在法律、金融和学术领域至关重要，以确保完整性和真实性**。
+- **保护防止文本提取、复制或未经授权的打印**。
+- **常用密码和加密来保护机密文件**。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

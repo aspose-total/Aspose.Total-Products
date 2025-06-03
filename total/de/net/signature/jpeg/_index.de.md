@@ -71,7 +71,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Anwendungsfälle für das digitale oder elektronische Unterschreiben von JPEG- und JPG-Dateien
+
+JPEG-/JPG-Bilder werden für abgespeckte Dokumente, Fotos und Identitätsnachweise verwendet. Das digitale Unterschreiben sichert die Sicherheit und den Nachweis der Herkunft.
+
+Ges scannten Verträge und unterschriebene Dokumente  
+Identitätsdokumente in KYC-Prozesse  
+Bildberichte mit eingebetteten Beobachtungen  
+Medizinische Bilddiagnostik für fernunterrichtungsgesetzliche Beratungen  
+Eigentumsnachweise in visueller Form
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

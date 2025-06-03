@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xltm` — Формат файла Excel с встроенными макрами.  
+
+**Применения:**  
+
+- Просмотр заранее определенных моделей прогнозирования с функциональностью макров.  
+- Отображение повторно используемых финансовых или аудиторских шаблонов в корпоративных инструментах.  
+- Примерок форм HR с встроенной автоматикой.  
+- Управление макро-вычисляемыми шаблонами для счетов в платформах учета.  
+- Показ заранее определенных шаблонов с логически вычисляемыми полями в инструментах CRM.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

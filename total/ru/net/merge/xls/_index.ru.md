@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Объединение файлов XLS для интеграции устаревших данных Excel
+
+XLS — это бинарный формат файла, используемый старыми версиями Microsoft Excel. Объединение нескольких `.xls` файлов помогает консолидировать исторические данные в современные системы для анализа или архивации.
+
+#### Примеры использования:
+
+- **Старые финансовые отчеты**  
+  Объедините старые Excel-отчеты для анализа тенденций или подготовки к аудиту.
+
+- **Исторические записи по HR**  
+  Съеденийте старые данные сотрудников или расчеты зарплат по `.xls` формату в единый файл.
+
+- **Обновление архивов данных**  
+  Объедините `.xls` файлы перед их преобразованием в `.xlsx` или другие современные форматы для улучшенной совместимости и обработки.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Файлы шаблоны с поддержкой макросов (XLTM) позволяют использовать их многократно благодаря функционалу макросов. Анонации предоставляют важные сведения о точках автоматизации, ожидаемых входных данных или результатах макроса.
+
+#### Обозначение XLTM-Файлов для Работы с Шаблонами Макросов — Примеры Использования:
+
+- **Документация Макроса**: Объясните триггеры и предназначенные последствия макроса.
+- **Руководство для Пользователей**: Обозначьте разделы, которые пользователи не должны изменять, чтобы сохранить автоматизацию.
+- **Замечания по Тестированию**: Mark areas under QA review during template testing.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 用数字签名或电子签名签署DOCX文件的用途
+
+DOCX是微软Word的默认格式，并且支持与数字签名或电子签名平台进行强大的集成。
+
+## 常见用途
+- 就业offer信函和人力资源协议。
+- 需要抗篡改数字认证的法律文件。
+- 学术信函、证书和成绩单。
+- 企业战略文件和会议纪要。
+- 客户提案和项目范围说明书，带有授权签署确认。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

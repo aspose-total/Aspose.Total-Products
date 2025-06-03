@@ -76,7 +76,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel widely used для работы с данными. Водяные маркированные листы Excel помогают передачи конфиденциальности и контекста, особенно во время обзора данных или финансовых раскрытий.
+
+**Настоящие примеры использования:**
+
+- Определение spreadsheet как предварительных, чувствительных или подтвержденных
+- Предотвращение использование собственных вычислений или прогнозов
+- Маркировка листов для внутреннего аудита или финансовой отчетности
+- Водяные маркированные dashboards для контроля распределения
+- Тегирование данных как устаревшие, архивные или на этапе тестирования
+- Показа владения финансовыми моделями или аналитики
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

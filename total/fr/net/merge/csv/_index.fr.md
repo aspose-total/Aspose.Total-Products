@@ -79,7 +79,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 Fusion de fichiers CSV (Values Separated by Comma) pour une Gestion Centralisée des Données et l'Automatisation
+
+CSV est un format de texte brut pour les données tabulaires. La fusion de fichiers CSV permet d'aggrégérer, de rapporter et de gérer des pipelines d'automatisation.
+
+#### Cas d'utilisation :
+
+- **Gestion centralisée du rapport**  
+  Fusionner les données de ventes, de stock ou d'opérations dans un fichier CSV unique pour l'analyse.
+
+- **ETL et stockage de données**  
+  Combiner des journaux ou des jeux de données dans un format cohérent pour l'ingestion.
+
+- **Résultats d'enquêtes et de sondages**  
+  Fusionner les réponses exportées pour une évaluation combinée.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

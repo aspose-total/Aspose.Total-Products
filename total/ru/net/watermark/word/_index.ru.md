@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Мicrosoft Word широко используется для создания текстовых документов, таких как договоры, предложения, отчеты и политики. Водярка этих документов помогает установить контекст и обеспечить целостность документа.
+
+**Настоящие примеры использования:**
+
+- Маркировка документов как Дополнительная информация, черновик или для внутреннего использования только
+- Определение лица или部门, ответственного за содержание
+- Добавление юридических предупреждений или указаний на авторские права
+- Превенция несанкционированного обмена документами с конфиденциальной информацией
+- Отслеживание версии в процессе совместной редактировки
+- Соблюдение требований регуляторных или аудиторских проверок
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

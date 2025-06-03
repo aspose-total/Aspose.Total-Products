@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx` — файл Word (Open XML) - По умолчанию и наиболее распространённый формат файла Word с 2007 года. Использует стандарт Open XML и является основным форматом для современной создания и обмена документами.
+
+**Применения:**
+
+- Просмотр бизнес-предложений, отчетов и меморандумов онлайн.
+- Включение руководств пользователя и документа по политикам в порталы.
+- Обмен командными документами в платформах сотрудничества.
+- Примерок белых бумеранг или статей в академических или корпоративных библиотеках.
+- Отображение черновиков или статей в системах управления содержимым.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

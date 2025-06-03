@@ -72,7 +72,20 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — PDF 文档拆分的用途
+
+- 从大型 PDF 文件中提取相关页面以便于共享和审阅。  
+- 将多部分报告或合同拆分成单独的文档。  
+- 通过分发较小的 PDF 片段实现协同编辑或注释。  
+- 通过分割并控制不同部分的访问权限来保护敏感信息。  
+- 从主文件生成个性化文档。  
+- 通过分割 PDF 减小文件大小以符合电子邮件或上传限制。  
+- 通过将内容分类到较小的文件中更高效地存档。  
+- 通过分割和合并相关页面重新组织并组装定制化 PDF。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

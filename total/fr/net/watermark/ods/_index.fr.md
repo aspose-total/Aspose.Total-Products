@@ -76,7 +76,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format ODS est le format de tableur ouvert-source utilisé par LibreOffice et Apache OpenOffice.
+
+**Cas d'utilisation courants incluent :**
+
+- Indiquer les données comme Publique, en cours de révision ou Interne  
+- Marquage d'eau pour l'attribution des sources de données  
+- Étiquetage pour la collaboration entre plusieurs utilisateurs  
+- Inclusion d'informations sur les licences ou l'auteur  
+- Signalement du contenu pour la publication de données ouvertes
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

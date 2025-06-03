@@ -81,7 +81,16 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 用途场景 - Word 开放 XML 文档（`.docx`）
+
+- 存储标准化元数据，如标题、作者和关键词。
+- 驱动内容系统中的智能搜索与分类。
+- 将结构化元数据输入 AI 工具，实现智能摘要。
+- 通过元数据标签触发文档自动化和审批流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

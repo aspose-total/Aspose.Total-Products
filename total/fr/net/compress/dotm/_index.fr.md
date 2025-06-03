@@ -78,7 +78,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compression des fichiers DOTM pour l'efficacité des modèles de Word avec macros
+
+Les fichiers DOTM (Modèles de Word avec macros) contiennent des scripts et du formatage qui augmentent la taille du fichier. La compression des fichiers DOTM garantit un accès plus rapide et une gestion plus aisée des modèles automatisés.
+
+#### Cas d'utilisation :
+
+- **Distribution de modèles avec macros**  
+  Partager des modèles DOTM au niveau de l'organisation pour un déploiement plus rapide.
+
+- **Stockage efficient des macros**  
+  Archiver une collection de modèles DOTM sans gaspiller de place sur le disque.
+
+- **Déploiement cross-système**  
+  Compresser les fichiers DOTM pour une compatibilité et un déclenchement réduit des modèles sur différentes machines.
+
+- **Optimisation du répertoire de modèles**  
+  Conserver les bibliothèques de modèles légères et gérables en utilisant des fichiers DOTM compressés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

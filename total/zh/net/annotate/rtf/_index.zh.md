@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF（富文本格式）是一种在各个平台和文字处理软件中都得到广泛支持的通用文件格式。注释 RTF 文件可以增强协作、文档记录以及清晰度，尤其是在需要格式中立和广泛兼容性的环境中。
+
+#### RTF 文件注释用于跨平台文档协作的应用场景：
+
+- **跨平台编辑审阅**  
+  在 RTF 文件上添加注释或修订备注，以确保无论用户使用何种操作系统或文字处理软件，都能访问到这些注释。
+
+- **法规环境下的文档记录**  
+  在法律、医疗或学术文件中添加与监管或合规相关的注释，以便追踪并提高清晰度。
+
+- **协同教育内容**  
+  在教师和学生之间共享的教材、试卷或学习指南中插入解释性注释。
+
+- **版本跟踪和反馈**  
+  使用注释来标记在多阶段内容开发过程中的更改或添加。
+
+- **本地化内容审阅**  
+  在多语言文档中突出需要翻译或文化适应于不同地区的区域。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

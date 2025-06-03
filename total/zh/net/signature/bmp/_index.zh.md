@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# BMP文件电子签名或数字签名的用途
+
+BMP文件在扫描和存档中使用。通过对BMP文件进行数字签名，可以确保扫描文档和图像的真实性。
+
+## 常见用途
+- 电子化法律文件或手写协议。
+- 公证签名的存档。
+- 需要工程师批准的技术图纸。
+- 扫描的财产记录。
+- 带有签名验证的蓝图。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

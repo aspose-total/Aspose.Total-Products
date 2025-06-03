@@ -81,7 +81,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pour fusionner des fichiers TIFF (Tagged Image File Format) à haute résolution, suivez les étapes suivantes :
+
+1. **Ouvrir le fichier de base** : Ouvrez le premier fichier TIFF dans un logiciel d'édition d'images comme Adobe Photoshop ou GIMP.
+
+2. **Importer les fichiers supplémentaires** : Importez les autres fichiers TIFF dans le projet actuel. Placez-les généralement en couches séparées pour maintenir l'ordre de la couche.
+
+3. **Mélanger les couches** : Utilisez des modes de mélange comme la "Couche opaque" ou la "Couche délicate" pour fusionner les images sans alterer le contenu des autres couches.
+
+4. **Sauvegarder le fichier final** : Enregistrez le fichier en TIFF. Si nécessaire, ajustez les paramètres de compression pour optimiser la taille du fichier tout en préservant la qualité.
+
+Important : Les fichiers TIFF supportent divers profils de couleurs, tels que 8 bits RGB ou 16 bits RGB. Assurez-vous que les profils sont cohérents dans le fichier final pour une qualité optimale.
+
+Si vous avez des questions ou besoin d'aide supplémentaire, n'hésitez pas à poser des questions !
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并PPTM文件以支持带有宏的PowerPoint演示文稿工作流程
+
+PPTM文件是包含宏的PowerPoint演示文稿。合并`.pptm`文件可以实现将自动化和高级功能用于演示文稿的整合。
+
+#### 用途：
+
+- **自动化演示文稿生成**  
+  将使用宏生成报告、图表或幻灯片的`.pptm`文件结合到一个单一的自动化演示文稿中。
+
+- **基于宏的工作流程集成**  
+  从不同团队合并使用宏进行演示文稿格式设置或数据处理的`.pptm`文件。
+
+- **自定义演示文稿合并与自动化**  
+  合并包含嵌入宏用于处理和生成报告的自动化的`.pptm`文件。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

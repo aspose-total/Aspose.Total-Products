@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM (宏启用模板) 文件支持通过宏实现可重用性。注释提供了自动化点、预期输入或宏结果等关键见解。
+
+#### 为宏模板工作流程注释 XLTM 文件 - 用例：
+
+- **宏文档**：解释宏触发器和预期效果。
+- **用户指导**：注明用户不能修改的部分，以保持自动化功能不变。
+- **测试笔记**：在模板测试期间标记正在进行质检的区域。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

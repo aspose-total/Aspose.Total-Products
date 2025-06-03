@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 DOTX 文件以实现现代模板管理
+
+DOTX 是基于 XML 的 Word 模板格式。合并 `.dotx` 文件有助于在团队或部门之间统一模板，同时保持现代兼容性。
+
+#### 用途：
+
+- **统一模板管理**  
+  从不同团队中合并多个 `.dotx` 模板，以建立一致的品牌、格式和文档结构。
+
+- **跨部门模板集成**  
+  将来自不同部门的 `.dotx` 模板整合到一个单一的模板库中，方便使用和标准化。
+
+- **简化模板更新**  
+  将更新后的 `.dotx` 模板合并到中央文件中，以便快速访问最新版本的模板。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

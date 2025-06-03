@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 用数字或电子签名签署TIFF文件的用途
+
+TIFF是高分辨率图像文档的首选格式。在法律、医疗和档案等行业中，对TIFF文件进行数字签名至关重要。
+
+## 常见用途
+- 法律证据和庭审可接受的扫描件。
+- 医疗检查报告和放射影像。
+- 工程设计图纸和建筑文档。
+- 历史文献的保存。
+- 保险索赔申请中的图像形式证据。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

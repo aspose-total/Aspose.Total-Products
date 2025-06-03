@@ -78,7 +78,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compression des fichiers RTF pour un stockage et transfert de texte simplifié
+
+Les fichiers RTF (Rich Text Format) sont utilisés pour les documents de texte avec une mise en page de base sur différentes plateformes. Cependant, lorsqu'ils incluent des images ou des formats de mise en page étendus, la taille des fichiers peut augmenter. La compression des fichiers RTF permet d'améliorer leur utilisation à travers les systèmes et les flux de travail.
+
+#### Cas d'utilisation :
+
+- **Portabilité cross-plateforme**  
+  Réduire la taille des fichiers RTF pour accélérer le transfert entre systèmes sans dégradation du format.
+
+- **Compatibilité avec les systèmes ancestraux**  
+  Compresser les documents RTF pour un traitement plus fluide dans des applications ou systèmes plus anciens.
+
+- **Optimisation des ressources intégrées**  
+  Minimiser l'impact des médias embeds (par exemple, logos ou graphiques) pour garder les fichiers légères.
+
+- **Transfert efficace par email et soumission de formulaires**  
+  Les fichiers RTFs compressés répondent aux limites de taille nécessaires pour être uploadés dans des formulaires ou envoyés en pièces jointes par email.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

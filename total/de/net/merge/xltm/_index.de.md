@@ -79,7 +79,24 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Merge von XLTM-Dateien für makro-befähigte Vorlagen
+
+XLTM-Dateien sind makro-befähigte Vorlagen, die für die Automatisierung von wiederkehrenden Aufgaben in Excel eingesetzt werden. Das Merge ist nützlich, wenn die Automationsschöneheit oder die Workflow-Migration vereinheitlicht wird.
+
+#### Nutzungszwecke:
+
+- **Workflow-Automationsbibliotheken**  
+  Mergen Sie .xltm-Vorlagen, die verschiedene Makros für verschiedene Funktionen enthalten, in eine zentralisierte Vorlage ein.
+
+- **Integration von Abteilungsbespezifischen Vorlagen**  
+  Kombiniert man makro-befähigte Vorlagen aus verschiedenen Abteilungen, um die Prozesse Automation zu standardisieren.
+
+- **Überprüfung von Makros basierten Prozessen**  
+  Mergen Sie .xltm-Vorlagen, um die in ihnen enthaltenen Makros für Compliance und Optimierung zu überprüfen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

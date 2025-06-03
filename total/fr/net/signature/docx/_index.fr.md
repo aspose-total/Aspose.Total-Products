@@ -74,7 +74,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des fichiers DOCX avec des signatures numériques ou électroniques
+
+Le format DOCX est par défaut utilisé par Microsoft Word et intègre de manière robuste des plateformes de signature numérique et électronique.
+
+## Cas d'utilisation courants
+- Lettres d'offres d'emploi et accords HR.
+- Documents juridiques exigeant une certification numérique tamponnable.
+- Lettres académiques, certificats et transcrits.
+- Documents stratégiques corporatifs et minutes de réunions.
+- Propositions clients et énoncés de projets avec des signatures autorisées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

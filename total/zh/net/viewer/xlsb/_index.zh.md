@@ -82,7 +82,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsb` — Excel 二进制工作簿 - Excel 的二进制版本格式，优化了对大型数据集的性能和加载速度。
+
+**用途：**
+
+- 查看大型数据集或转表在性能监控工具中的显示。
+- 实时报告系统中预览复杂金融模型。
+- 在内部分析平台中读取大数据导出文件。
+- 展示 IT 或 DevOps 分析中的原始数据备份。
+- 在基于网络的查看器中整合快速加载的电子表格。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

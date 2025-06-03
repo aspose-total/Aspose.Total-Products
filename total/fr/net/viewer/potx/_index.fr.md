@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.potx` — Modèle de présentation - Un format de fichier sans macro utilisé pour créer des présentations cohérentes et prédésignées au sein d'équipes et de départements.
+
+**Cas d'utilisation :**
+
+- Consultation des modèles de diapositives approuvés par la marque pour les présentations corporatives.
+- Aperçu des structures de plateau de vente ou de marketing réutilisables.
+- Partage des modèles d'entrainement dans les portails internes.
+- Affichage des contours de diapositives structurés pour le contenu éducatif.
+- Assurer la cohérence au sein des départements grâce à des designs normalisés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

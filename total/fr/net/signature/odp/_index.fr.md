@@ -73,7 +73,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Cas d'utilisation du signage digital ou électronique des fichiers ODP
+
+Les fichiers ODP sont préférés par les utilisateurs de LibreOffice Impress ou OpenOffice. Signer numériquement un fichier ODP garantit la non-rétractabilité dans des environnements de présentation open-source.
+
+## Cas courants
+
+- Présentations académiques de conférences et certificats.
+- Présentations de projets des ONG pour la validation par les donateurs.
+- Propositions de politiques dans les bureaux gouvernementaux en utilisant ODP.
+- Webinaires techniques partagés sur des plateformes open-source.
+- Rapports communautaires exigeant une vérification électronique.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

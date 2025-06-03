@@ -93,7 +93,17 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.xls` est le format de fichier binaire ancien utilisé par les versions d'Excel antérieures à 2007. Bien qu'il soit legacy, il supporte des capacités de recherche essentielles.
+
+#### Cas d'utilisation
+- **Localiser des entrées de données spécifiques** dans des tableurs financiers archivés.  
+- **Trouver des formulaires ou des valeurs** dans des modèles hérités sans mettre à jour le fichier.  
+- **Rechercher des codes de produits ou des tarifications obsolètes** dans des ensembles de données historiques.  
+- **Vérifier et auditer des rapports anciens** tout en maintenant la compatibilité avec les versions précédentes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

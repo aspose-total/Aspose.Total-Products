@@ -78,7 +78,19 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Документы в формате PDF являются стандартом для finalized documents, таких как буклеты, счета и формы. Включение их в один просмотрщик повышает совместимость и удобство для пользователя.
+
+**Примеры использования:**
+
+- Превью скачанных форм или буклетов на сайтах.
+- Зрение электронных книг или белых бумажек в цифровых библиотеках.
+- Отображение счетов, рецептов или заявок в панелях клиентов.
+- Чтение руководств товаров на платформах e-commerce.
+- Превью контрактов или документов по соответствию в программном обеспечении для юридических услуг.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

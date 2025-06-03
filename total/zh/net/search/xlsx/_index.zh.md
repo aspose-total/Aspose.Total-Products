@@ -93,7 +93,18 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsx` 格式是现代基于 XML 的 Excel 文件标准，提供了性能和功能的提升。
+
+#### 用途
+- **在大型数据集中快速搜索**特定值或文本。
+- **查找并替换公式或命名范围**以便模型更新。
+- **通过有针对性的搜索识别数据不一致性或错误**。
+- **导航评论或注释**在协作工作簿中。
+- **在用于自动化的模板表格中搜索占位符**。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

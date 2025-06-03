@@ -71,7 +71,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Примеры использования: Сравнение файлов PPSM для обзора презентаций с макро-подключенной функцией
+
+Файлы PPSM (PowerPoint Macro-Enabled Show) используются для просмотра презентаций с активированной автоматизацией. Сравнение файлов PPSM помогает выявить изменения в поведении макров, последовательности времени и интерактивного контента.
+
+- **Сравнение макров между презентациями**  
+  Определение различий в автоматических рутинах, запущенных во время просмотра слайдов.
+
+- **Проверка содержимого слайдов и времени**  
+  Проверка изменений в переходах времени, анимациях и последовательностх.
+
+- **Примерок логики автоматизации**  
+  Сравнение встроенных скриптов и убедительность в одинаковой пользовательской εμπειрции в автоматических презентациях.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Document Word (Moderne) — Utilisations pour la protection
+
+- Couramment utilisé dans les contrats, les rapports et les documents administratifs du personnel où la modification doit être limitée.  
+- Protège le contenu structuré comme les table des matières, les en-têtes et les termes juridiques de faire être modifiés.  
+- Permet de suivre les modifications dans l'édition collégiale tout en verrouillant les sections clés.  
+- Utilisé pour distribuer les documents finalisés où seules les commentaires sont autorisés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

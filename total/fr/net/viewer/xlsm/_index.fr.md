@@ -82,7 +82,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xlsm` — Fichier de travail Excel avec macro. - Un format similaire au `.xlsx` mais incluant la possibilité d'implémenter des macros VBA. Utilisé pour des tableaux de données interactifs avec automatisation et logique intégrée.
+
+**Cas d'utilisation :**
+
+- Consultation de modèles de budgets avec macros dans les systèmes ERP.
+- Prévisualisation de formulaires avec des calculs intégrés ou une logique conditionnelle.
+- Affichage de tableaux de bord automatisés dans des portails RH en conformité ou HR.
+- Examen de fichiers de travail avec des scripts dans un mode lecture seule.
+- Partage de rapports générés automatiquement avec une logique intégrée dans les flux de travail d'entreprise.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

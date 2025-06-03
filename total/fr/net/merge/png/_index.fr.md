@@ -81,7 +81,42 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To merge PNG files without losing quality, follow these organized steps:
+
+1. **Choose Your Tool:**
+   - **Graphics Editors:** Use free tools like GIMP or Krita for layer-based editing.
+   - **Command-Line Tools:** Utilize ImageMagick for batch processing and precise control.
+   - **Online Tools:** Consider browser-based options, but be cautious of security and limits.
+
+2. **Prepare Your Files:**
+   - Ensure all PNGs are in the correct resolution and size. Resize if necessary to manage file size for web use.
+
+3. **Merge Using a Graphics Editor:**
+   - Open your images in GIMP or Krita.
+   - Use the "Layers" panel to combine images, adjusting layers as needed for transparency and overlay effects.
+
+4. **Use Command-Line Tools:**
+   - Install ImageMagick.
+   - Convert and merge using commands like `convert -append image1.png image2.png result.png`.
+
+5. **Consider Online Tools:**
+   - Use websites carefully, checking for security, watermarks, and limits.
+
+6. **Handle Transparency:**
+   - Ensure your tool supports alpha channels to maintain transparency in overlays.
+
+7. **Post-Merge Considerations:**
+   - Check the final file size; consider resizing before merging if needed.
+   - Verify that all layers are preserved without compression issues.
+
+8. **Find Resources:**
+   - Look for tutorials or guides tailored to your preferred tool for detailed instructions.
+
+By following these steps, you can effectively merge PNG files while maintaining quality and efficiency.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

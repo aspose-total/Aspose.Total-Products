@@ -82,7 +82,19 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docm` — 带有宏的文档文件 - 这种格式类似于 `.docx`，但包含对嵌入式宏的支持，使其适合用于自动化文档处理。
+
+**用途：**
+
+- 在企业系统中查看包含宏的表格单元格。
+- 预览带有 VBA 逻辑的模板人力资源或财务文件。
+- 安全地打开宏报告在合规仪表盘中（只读）。
+- 查看工作流工具中的脚本或自动化模板。
+- 展示能够触发计算或业务规则的表格单元格。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

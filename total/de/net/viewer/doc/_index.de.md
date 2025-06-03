@@ -82,7 +82,19 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+.Dokument von Word 97 bis 2003 - Ein älteres binäres Dateiformat, das von Microsoft Word vor 2007 verwendet wurde. Trotzdem werden viele veraltete Systeme immer noch auf .doc abhängig.
+
+**Verwendungszwecke:**
+
+- Das Anzeigen archivierter rechtlicher Dokumente in alten Systemen.
+- Das Beziehen alter Geschäftsdokumente aus Dokumentensammlungen.
+- Die Unterstützung von Rückwärtskompatibilität in Regierungsportalen.
+- Das Vorhersagen von .doc Lebenslaufen in Stellenbesetzungssoftware.
+- Das Anzeigen von Berichten aus den frühen 2000er Jahren in internen Wissensbasen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

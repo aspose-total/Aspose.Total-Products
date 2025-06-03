@@ -71,7 +71,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Utilisations des fichiers GIF signés avec des signatures numériques ou électroniques
+
+Bien que ce ne soit pas courant pour les documents, les fichiers GIF contenant des schémas ou des instructions peuvent être signés électroniquement pour certifier l'origine et la crédibilité.
+
+## Utilisations courantes
+
+- Processus animés pas à pas dans le cadre du formation.
+- Matériaux instructifs pour l'assistance client.
+- Clips d'imagerie médicale dans le cadre de la télémédecine.
+- Démonstrations de produits lors de l'onboarding.
+- Micro-animations éducatives nécessitant une validation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

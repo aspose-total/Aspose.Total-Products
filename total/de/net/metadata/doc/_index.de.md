@@ -81,7 +81,17 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Anwendungsbereiche für Microsoft Word-Dokumente (.doc)
+
+- Nachverfolgen der Autorenschaft und der Geschichte der Erstellung bzw. Bearbeitung.
+- Verbessern der Suchbarkeit des Dokuments über Titel, Thema und Schlüsselwörter.
+- Einbetten von rechtlichen oder lizenzieren Metadaten zur Sicherung des Dokuments.
+- Automatisieren von Workflows auf Basis von Metadatenspalten (z.B. Archivierungsregeln).
+- Unterstützung bei der Inhaltsklassifizierung und der Verwaltung des Aufbewahrns.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

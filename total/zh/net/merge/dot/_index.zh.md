@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 合并 DOT 文件进行旧版模板管理
+
+DOT 文件是用于旧版本 Microsoft Word（prior to DOCX）中的文档模板。合并`.dot`文件有助于统一文档格式，并确保与 legacy 系统兼容。
+
+#### 用途：
+
+- **模板整合**  
+  将不同团队使用的多个`.dot`模板合并，创建一个单一的、统一的模板用于文档创建。
+
+- **存档 legacy 模板**  
+  将`.dot`模板合并以进行长期存储或迁移至更现代的`.dotx`格式。
+
+- **更新模板库**  
+  合并多个包含过时格式或样式的`.dot`文件，以实现对现有模板的现代化。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

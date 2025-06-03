@@ -73,7 +73,28 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+To rotate a BMP image, follow these steps:
+
+1. **Open the BMP File**: Use an image editing software like Photoshop or GIMP, or an online viewer that supports BMP format.
+
+2. **Use Rotation Tools**:
+   - In software like Photoshop, navigate to the 'Edit' menu and select 'Rotate'. Choose the desired rotation option (90°, 180°, or 270°).
+   - In GIMP, go to 'Image' > 'Rotation' and adjust accordingly.
+
+3. **Save the Rotated Image**:
+   - If you want to keep the original file intact, save the rotated image as a new BMP file.
+   - To overwrite the original, select the option to replace the file or rename it.
+
+4. **Consider Quality**: Ensure your chosen tool maintains quality, especially for detailed images like blueprints.
+
+5. **Alternative Command-Line Option**:
+   - Use ImageMagick with the command `convert -rotate 90 image.bmp rotated_image.bmp` for automated rotation without opening the file in an editor.
+
+This method ensures your BMP images are rotated accurately while preserving quality and format.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

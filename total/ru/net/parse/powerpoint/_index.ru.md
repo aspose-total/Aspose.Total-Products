@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Форматы Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) Разработка использования
+
+- 🖼️ **Извлечение содержимого слайдов**  
+  Извлекать текст, изображения и детали разложения для кратких резюме, поиска или HTML-шоу.
+
+- 🧩 **Автоматизация шаблонов**  
+  Генерировать презентации из `.potx` или `.potm` шаблонов, вставляя динамическое содержимое.
+
+- 🎯 **Обработка макров презентаций**  
+  Безопасно разрабатывать `.pptm`, `.potm`, и `.ppsm` файлы с макрами или автоматизацией.
+
+- 📊 **Конверсия в веб-форматы**  
+  Конвертировать `.pptx`, `.odp`, или `.ppsx` файлы в веб-слайды или интерактивные форматы.
+
+- 📁 **Индексирование слайдов**  
+  Индексировать и резюмировать слайды для систем управления документами или архивов собраний.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

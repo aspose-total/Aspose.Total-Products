@@ -81,7 +81,30 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ 图像文件（JPG, PNG, BMP, GIF, TIFF, WEBP）
+
+将图像文件合并为单个视觉输出或结构化格式（例如，PDF、拼图或精灵），支持设计、文档和数字出版工作流程。
+
+#### 用途：
+
+- **数字相册创建**  
+  将度假、活动或作品集图片合并成一个画廊或照片书。
+
+- **设计资产整合**  
+  将UI原型图、社交媒体图形或品牌资产合并成一个参考文件供客户审阅。
+
+- **扫描文档分组**  
+  将扫描的图像文件合并成一个存档或文档以便存储或分享。
+
+- **视觉比较和“前后”幻灯片**  
+  合并图片集以创建报告或营销材料中的比较视觉效果。
+
+- **培训或产品手册**  
+  将注释截图或产品照片合并成顺序的说明性内容。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

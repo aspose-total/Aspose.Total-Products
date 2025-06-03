@@ -78,7 +78,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 PowerPoint演示文稿XML（.pptx）用途说明
+
+- 在元数据字段中存储作者、公司、主题和部门信息。
+- 优化企业数字资产管理系统（DAM）或学习管理系统（LMS）中的演示文稿发现功能。
+- 帮助AI根据主题或战略主题对文件夹进行组织和标记。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

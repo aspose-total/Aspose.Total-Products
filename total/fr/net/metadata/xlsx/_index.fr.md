@@ -84,7 +84,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📗 Cas d'utilisation pour le fichier Excel Open XML (`.xlsx`)
+
+- **Intégrer les champs de métadonnées pour propriétaire, département et catégories de données.**  
+- **Permettre la découverte, le marquage et la catégorisation dans les Systèmes de Gestion des Données (DMS) ou les Systèmes d'Intelligence de Business (BI).**  
+- **Fournir des méta-données structurées pour le suivi des liens des données.**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

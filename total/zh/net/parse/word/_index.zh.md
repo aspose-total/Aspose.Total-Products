@@ -93,7 +93,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word 文档 (doc, docm, docx, dot, dotm, dotx, odt, rtf) 解析用例
+
+- 📄 **内容提取**  
+  从 Word 文档中提取文字、表格和图片，用于网页显示、搜索索引或文本分析。
+
+- 📰 **模板处理**  
+  使用 .dot、.dotx、.dotm 模板，在工作流程中自动生成带有动态数据的文档。
+
+- 🔁 **自动化工作流程**  
+  在包含嵌入宏的 .docm 或 .dotm 文件中，通过自动化脚本和宏实现内容替换。
+
+- 🧾 **报告转换**  
+  将 .doc、.odt 或 .rtf 文件转换为干净的 HTML、Markdown或 PDF 格式，以便发布或作为文档使用。
+
+- 📚 **数字归档**  
+  处理旧格式文件（如 .doc 和 .rtf），通过转换和索引实现长期保存和管理。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

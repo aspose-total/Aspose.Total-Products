@@ -87,7 +87,15 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation pour le parsing des fichiers .xlsx
+
+- 📊 Extraire les données, les formules et les tableaux des feuilles de calcul modernes au format Excel.
+- 🧮 Convertissez les données .xlsx en JSON, CSV ou bases de données pour l'analyse.
+- 🔍 Importez les données des tableaux dans des applications web ou d'entreprise.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

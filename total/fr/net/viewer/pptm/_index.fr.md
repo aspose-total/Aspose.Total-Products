@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Un fichier `.pptm` — format de présentation PowerPoint avec macros qui inclut des logiques macro pour l'interactivité, l'automatisation ou la logique intégrée.
+
+**Cas d'utilisation :**
+
+- Visionnage de présentations interactives avec des logiques de quiz ou des diapositives automatisées.
+- Affichage de tableaux internes avec des graphiques ou des visualisations contrôlés par des macros.
+- Prévisualisation de modèles avec la génération automatique de diapositives.
+- Partage de contenu auto-avancé dans des formations sur la conformité.
+- Révision de présentations marketing ou financières avec des scripts intégrés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

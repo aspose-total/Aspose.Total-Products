@@ -78,7 +78,16 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Édition dans Microsoft PowerPoint
+
+- Éditer du contenu stratégique, des horaires ou des plans non encore publiés dans les présentations d’affaires.  
+- Éditer des images confidentielles, des graphiques ou des notes provenant de diapositives marketing ou de formation.  
+- Éditer les noms de clients, les chiffres financiers ou les indicateurs clés performances internes avant le partage external.  
+- Éditer des visuels sensibles dans des présentations, propositions ou briefings pour les investisseurs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,20 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xls` — Рабочая книга Excel 97–2003  
+Это устаревший формат двоичного файла, использовавшийся в версиях Excel до 2007 года. В некоторых организациях по-прежнему применяется для работы с устаревшими системами или архивными данными.
+
+**Использования:**
+
+- Просмотр архивных финансовых отчетов в устаревших бизнес-системах.
+- Доступ к старым бюджетным файлам, хранящимся в внутренних репозиториях.
+- Обеспечение совместимости в правительственных или корпоративных порталах.
+- Привзгляд исторических данных проектов без конверсии.
+- Поддержка HR-систем с устаревшими записями сотрудников в ".xls."
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

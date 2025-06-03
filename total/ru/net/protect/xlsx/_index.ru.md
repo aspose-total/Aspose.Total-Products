@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Microsoft Excel Worksheet (Modern) — Cases Защиты
+
+- **Н-common в бизнес-отчетах, прогнозах и dashboard KPI** — защита сохраняет логику формул под защиты.  
+- Заменить случайные изменения в критических данных или диаграммах.  
+- **Используется в коллаборативных средах для ограничения доступа к редактированию**, при этом разрешается ввод данных в определённые ячейки.  
+- Поддерживает шифрование книги для обработки конфиденциальной или регулируемой информации.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

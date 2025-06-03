@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Использование подписи файлов XLSX с цифрами или электронными подписями  
+
+Файлы XLSX являются текущим стандартом формата Excel и полностью поддерживают электронные и цифровые подписи для финансовой и операционной данных.  
+
+## Общие случаи использования  
+- Финансовые отчеты и балансы.  
+- Бюджеты подразделений и прогнозы.  
+- Доски выполнения задач, которые делятся для обзора руководством.  
+- Записи о сотрудниках и краткие отчеты о присутствии.  
+- Закупки и таблицы стоимости поставщиков, требующие подписания.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

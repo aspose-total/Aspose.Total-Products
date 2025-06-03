@@ -78,7 +78,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🎤 Примеры использования OpenDocument Presentation (`.odp`)
+
+- Используйте метаданные в открытом формате для обеспечения совместимости между разными платформами.  
+- Тегуйте презентацию цели, событие или аудиторию для повторного использования.  
+- Помочь интегрировать с открытым источником LMS или поиска контента в企业е.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

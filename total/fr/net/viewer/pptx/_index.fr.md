@@ -81,7 +81,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Le format `.pptx` est le format par défaut et le plus utilisé pour PowerPoint depuis 2007. Il est sans macro et conçu pour une édition et une consultation modernes.
+
+**Utilisations :**
+
+- Visionner des pitch decks, des webinaires et des presentations marketing.
+- Intégrer les matériels d'entrainement dans des plateformes e-learning.
+- Apercevoir les diapositives lors de la prévision dans des outils de collaboration.
+- Afficher les informations sur l'équipe ou l'entreprise dans des systèmes de connaissances.
+- Partager des matériels d'éducation pour les clients dans des plateformes SaaS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

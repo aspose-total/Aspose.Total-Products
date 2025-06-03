@@ -75,7 +75,20 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Cas d'utilisation pour le découpage des feuilles de calcul
+
+- **Découper les grandes feuilles de calcul en des feuilless plus petites** pour simplifier la gestion des données et améliorer le rendement.  
+- **Attribuer des feuilles spécifiques à différents membres d'équipe** pour permettre l'édition simultanée.  
+- **Automatiser le traitement des données en découpant en sections** pour des analyses ou des rapports individuels.  
+- **Partager des parties pertinentes d'un livre de calcul sans révéler tout le jeu de données**.  
+- **Créer des rapports personnalisés en découpant un fichier maître**.  
+- **Gérer des modèles financiers volumineux ou des stocks en les découpant en morceaux managables**.  
+- **Améliorer la collaboration en découpant les données sensibles dans des feuiles protégées**.  
+- **Archiver des données historiques séparement pour optimiser la taille du fichier et la vitesse d'accès**.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

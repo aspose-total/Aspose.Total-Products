@@ -93,7 +93,17 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Формат `.xls` — это более старый бинарный файловый формат, используемый версиями Excel до 2007 года. Хотя это является наследием, он поддерживает основные возможности поиска.
+
+#### Примеры применения
+- **Нахождение конкретных данных** в архивных финансовых таблицах.
+- **Поиск формул или значений** в устаревших моделях без обновления файла.
+- **Исследование устаревших кодов товаров или цен** в исторических данных.
+- **Примерок и аудит старых отчетов**, при этом сохраняя обратную совместимость.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
