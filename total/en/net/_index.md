@@ -163,9 +163,14 @@ Handle various file operations, load fonts from disk and stream sources, extract
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="/total/images/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
-Aspose.TeX is a Java library dedicated to TeX file typesetting, presenting TeX input in graphic formats like XPS, PDF, PNG, JPEG, TIFF, and BMP. Beyond typical typesetting, it excels in providing tracing information similar to other TeX engines.
+Aspose.TeX is a .NET library dedicated to TeX file typesetting, presenting TeX input in graphic formats like XPS, PDF, PNG, JPEG, TIFF, and BMP. Beyond typical typesetting, it excels in providing tracing information similar to other TeX engines.
 <br/><br/>
 Supporting key operations like TeX input typesetting and custom TeX format creation, it generates output in diverse formats. Read input and write output from file system directories, ZIP archives, or streams, enhancing flexibility for Java applications seeking efficient and customizable TeX typesetting functionalities.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/medical/net/" imgSrc="/total/images/aspose_medical-for-net.svg" productName="Aspose.Medical for .NET">}}
+Aspose.Medical for .NET is a powerful API for processing, analyzing, and visualizing medical imaging data, particularly DICOM files, without needing external software. It supports format conversion to JPEG, PNG, XML, JSON, and NIfTI; DICOM anonymization for privacy compliance; metadata extraction; and image enhancement techniques. The API enables batch processing of large datasets, integrates easily with healthcare IT systems like PACS and EMRs, and offers cloud-based scalability, making it ideal for efficient and secure medical data management.
+
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
