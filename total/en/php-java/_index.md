@@ -1,21 +1,25 @@
 ---
-title: PHP API for Excel, PowerPoint Files and Barcode Processing
+title: PHP API for PDF, Excel, PowerPoint Files and Barcode Processing
 weight: 50
-description: Process Excel Spreadsheets and PowerPoint Documents via PHP API. Recognize and generate 1D, 2D and Postal Barcodes via PHP applications.
+description: Process PDF Files, Excel Spreadsheets and PowerPoint Documents via PHP API. Recognize and generate 1D, 2D and Postal Barcodes via PHP applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel and PowerPoint Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Convert PowerPoint and OpenOffice Presentations via PHP API. Moreover, Generate and Scan BarCodes with ease." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP APIs for PDF, Excel, PowerPoint and Barcode File Processing" h2="Manipulate PDF documents, Excel Spreadsheets as well as Read, Write, Create and Convert PDF, PowerPoint and OpenOffice Presentations via PHP API. Moreover, Generate and Scan BarCodes with ease." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for PHP via Java is a complete package for Excel Spreadsheet manipulation as well as for PowerPoint and OpenOffice Presentations. Developers can create, manipulate, render and convert Excel Files via PHP applications as well as load, read, write and export PowerPoint formats including  PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP and more formats. Developers can easily integrate PHP API for Barcode recognition and generation.
+Aspose.Total for PHP via Java is a complete package for PDF, Excel Spreadsheet manipulation as well as for PowerPoint and OpenOffice Presentations. Developers can create, manipulate, render and convert PDF and Excel Files via PHP applications as well as load, read, write and export PowerPoint formats including  PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP and more formats. Developers can easily integrate PHP API for Barcode recognition and generation.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java includes the following APIs:" >}}
+
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+Aspose.PDF for PHP via Java is a powerful API that enables PHP developers to create, edit, convert, and secure PDF documents without relying on Adobe Acrobat. It supports 32-bit and 64-bit applications and offers advanced features like form handling, metadata editing, text and page manipulation, annotations, bookmarks, watermarks, attachments, and custom font management.
+{{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API is designed for managing and processing Excel spreadsheets. It handle tasks such as converting spreadsheet formats, managing and rendering charts, implementing formulas, applying detailed styles to worksheets, and much more. With the JavaBridge integration, developers can seamlessly incorporate the power of creating, editing, converting, and rendering Excel files into their PHP applications.
