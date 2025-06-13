@@ -1,21 +1,25 @@
 ---
-title: Node.js API for Powerpoint Presentations and Email Processing
+title: Node.js API for Word Documents, Powerpoint Presentations and Email Processing
 
-description: Process Powerpoint Presentations via Node.js API. Utilize Nodejs to create, manipulate or convert powerpoint presentations and email formats.
+description: Process Microsoft Word Files, Powerpoint Presentations via Node.js API. Utilize Nodejs to create, manipulate or convert word documents, powerpoint presentations and email formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Powerpoint and Email Processing APIs" h2="Manipulate Powerpoint Presentations as well as Create, Manipulate or Convert Email Formats including MSG, EML, EMLX & MHT via Node.js API." logoImageSrc="/total/images/aspose_total-for-node-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Word, Powerpoint and Email Processing APIs" h2="Manipulate Word Files, Powerpoint Presentations as well as Create, Manipulate or Convert Email Formats including MSG, EML, EMLX & MHT via Node.js API." logoImageSrc="/total/images/aspose_total-for-node-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" downloadUrl="https://releases.aspose.com/total/nodejs-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsnet/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for Node.js via .NET is a complete package for Microsoft Powerpoint Presentation manipulation as well as Email processing in varios formats. Developers can create, manipulate, render and convert powerpoint presentations via Nodejs as well as Email formats including  MSG, EML, EMLX and MHT formats. Developers can easily integrate Node API as of their application requirement.
+Aspose.Total for Node.js via .NET is a complete package for Microsoft Word Documents, Powerpoint Presentation manipulation as well as Email processing in varios formats. Developers can create, manipulate, render and convert Word files, powerpoint presentations via Nodejs as well as Email formats including  MSG, EML, EMLX and MHT formats. Developers can easily integrate Node API as of their application requirement.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET includes the following APIs:" >}}
+
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/words/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+Aspose.Words for Node.js via .NET is a native API that enables JavaScript developers to create, edit, convert, and secure Word documents without Microsoft Word. It supports rich formatting, mail merge, charts, tables, multi-format conversion, and automation of document workflows.
+{{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Work with presentations using the Powerpoint Node.js API to create, update, & convert PowerPoint and OpenOffice presentations without requiring Microsoft Office. Moreover, API offers to merge, clone, split, compare, and print presentations.
