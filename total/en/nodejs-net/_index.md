@@ -17,7 +17,7 @@ Aspose.Total for Node.js via .NET is a complete package for Microsoft Word Docum
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET includes the following APIs:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/words/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
 Aspose.Words for Node.js via .NET is a native API that enables JavaScript developers to create, edit, convert, and secure Word documents without Microsoft Word. It supports rich formatting, mail merge, charts, tables, multi-format conversion, and automation of document workflows.
 {{< /blocks/products/pf/total/product-item >}}
 
