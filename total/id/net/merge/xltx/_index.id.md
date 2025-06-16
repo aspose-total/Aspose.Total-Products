@@ -79,7 +79,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas XLTX untuk Manajemen Template Excel Modern
+
+XLTX adalah format template Excel default tanpa makro. Menggabungkan berkas `.xltx` memastikan format dan tata letak yang konsisten di seluruh dokumen standar.
+
+#### Kasus Penggunaan:
+
+- **Konsistensi Merek & Format**  
+  Gabungkan template dari tim-tim berbeda untuk menyelaraskan format dan gaya perusahaan.
+
+- **Pembersihan Perpustakaan Template**  
+  Konsolidasikan berkas `.xltx` untuk menghilangkan kelebihan dan membuat set template yang terstruktur.
+
+- **Template Pelatihan atau Operasional**  
+  Gabungkan template instruksional atau prosedural untuk peluncuran perusahaan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

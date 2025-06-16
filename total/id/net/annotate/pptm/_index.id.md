@@ -106,7 +106,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File PPTM (PowerPoint Macro-Enabled Presentation) memungkinkan generasi slide otomatis dan tindakan. Memberi anotasi pada file PPTM membantu melacak kinerja makro, perilaku dokumen, dan menyempurnakan logika otomatisasi.
+
+#### Anotasi File PPTM untuk Debugging dan Tinjauan Presentasi yang Mendukung Makro - Kasus Penggunaan:
+
+- **Tinjauan Eksekusi Makro**  
+  Komentari slide di mana makro berfungsi atau gagal, membantu dalam debugging.
+
+- **Kolaborasi Pengembang**  
+  Tambahkan anotasi untuk mendokumentasikan perilaku yang diharapkan atau pemicu makro.
+
+- **Optimisasi Otomatisasi**  
+  Sarankan penyesuaian untuk meningkatkan kinerja atau kejelasan konten yang dihasilkan secara otomatis.
+
+- **Tinjauan Slide yang Dihasilkan**  
+  Tandai konten yang memerlukan revisi manual setelah eksekusi makro.
+
+- **Catatan Instruksional untuk Pengguna Akhir**  
+  Pandu pengguna tentang cara berinteraksi dengan elemen yang diaktifkan makro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

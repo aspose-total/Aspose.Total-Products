@@ -78,7 +78,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Unisci ODP (OpenDocument Presentation) per la consegna unificata delle diapositive in formati aperti
+
+I file ODP sono il formato di presentazione per LibreOffice e OpenOffice. Unire i file ODP consente la consegna in formato aperto di diapositive unificate.
+
+#### Casi d'uso:
+
+- **Unione di presentazioni nel settore pubblico**  
+  Combinare le serie di diapositive di vari dipartimenti in una presentazione completa.
+
+- **Integrazione di diapositive educative**  
+  Unire le diapositive delle lezioni in un unico documento di consegna del corso.
+
+- **Mazzi di diapositive collaborativi per conferenze**  
+  Unire i file ODP degli speaker per presentazioni di eventi organizzati.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

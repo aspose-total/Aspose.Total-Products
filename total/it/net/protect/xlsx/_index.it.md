@@ -78,7 +78,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Cartella di lavoro di Microsoft Excel (moderna) — Casi d'uso per la protezione
+
+- Comune nei report aziendali, nelle previsioni e nei cruscotti KPI—la protezione mantiene al sicuro la logica delle formule.
+- Impedisce modifiche accidentali a set di dati critici o grafici.
+- Utilizzata in ambienti collaborativi per limitare l'accesso alla modifica consentendo l'inserimento dati in celle specifiche.
+- Supporta la crittografia della cartella di lavoro per gestire informazioni riservate o regolamentate.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

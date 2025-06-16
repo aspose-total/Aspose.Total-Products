@@ -75,7 +75,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimi i file XLTX per un utilizzo semplificato dei modelli di Excel moderni
+
+XLTX (Excel Open XML Template) è un formato di modello moderno utilizzato per la formattazione e il layout coerenti. La compressione è utile quando i file XLTX contengono dati o grafici precaricati.
+
+#### Casi d'uso:
+
+- **Distribuzione standardizzata dei modelli**  
+  Comprimi i modelli XLTX per un rapido rollout tra dipartimenti o sistemi.
+
+- **Drive condivisi ottimizzati**  
+  Riduci le dimensioni delle raccolte di modelli per migliorare la velocità di accesso nei drive di rete.
+
+- **Accesso mobile e remoto**  
+  Abilita il download e l'accesso più veloci dei modelli in scenari remoti o sul campo.
+
+- **Compatibilità con email e portale web**  
+  Assicurati la conformità ai limiti di dimensioni per l'upload o l'allegato di modelli da distribuire.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

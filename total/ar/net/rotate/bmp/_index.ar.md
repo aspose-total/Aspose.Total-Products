@@ -73,7 +73,15 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## حالات الاستخدام لدوران BMP
+
+- قم بتدوير الرسومات الهندسية الممسوحة أو الخطط المعمارية المخزنة في تنسيق BMP.
+- ضبط اتجاه الصور التي تم إنشاؤها بواسطة نظام التشغيل Windows القديم لعرضها بشكل صحيح.
+- استعد صور BMP لإدراجها في الوثائق أو التقارير.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

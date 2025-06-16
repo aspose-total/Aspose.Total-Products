@@ -71,7 +71,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei file immagine con firme elettroniche
+
+## Documenti legali scannerizzati
+Scansioni di accordi scritti a mano o documenti notarili in formato JPG, PNG o TIFF possono essere firmati digitalmente per convalidare l'autenticità.
+
+## Verifica dell'identità e registri personali
+Immagini di passaporti, carte d'identità e bollette utilizzate per il KYC o l'onboarding possono essere firmate elettronicamente per garantire che non siano state modificate.
+
+## Imaging medico
+Scansioni come raggi X o risultati di test in formato TIFF o PNG possono essere firmati digitalmente per confermare la loro origine da una struttura medica certificata.
+
+## Opere d'arte e presentazioni creative
+Design, illustrazioni o grafiche di marketing in formati di immagine possono essere firmati per affermare i diritti di proprietà intellettuale.
+
+## Foto di ispezione e conformità
+Le foto scattate durante audit, ispezioni o controlli di conformità vengono spesso firmate digitalmente per certificare la posizione, l'ora e l'autenticità delle prove.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

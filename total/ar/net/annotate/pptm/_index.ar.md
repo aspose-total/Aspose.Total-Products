@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات PPTM (عرض تقديمي ممكن تشغيل الماكرو) تسمح بتوليد الشرائح تلقائيًا والإجراءات. تعليق ملفات PPTM يساعد في تتبع أداء الماكرو، وتوثيق السلوكيات، وتنقيح منطق الأتمتة.
+
+#### تعليق ملف PPTM لتصحيح الأخطاء والمراجعة في العروض التقديمية الممكنة للماكرو - حالات الاستخدام:
+
+- **مراجعة تنفيذ الماكرو**  
+  التعليق على الشرائح حيث يعمل الماكرو أو يفشل، مما يساعد في تصحيح الأخطاء.
+
+- **التعاون بين المطورين**  
+  إضافة تعليقات لتوثيق السلوك المتوقع أو مشغلات الماكرو.
+
+- **تحسين الأتمتة**  
+  اقتراح تعديلات لتحسين الأداء أو وضوح المحتوى المولد تلقائيًا.
+
+- **مراجعة الشرائح المولدة**  
+  تحديد المحتوى الذي يحتاج إلى مراجعة يدوية بعد تنفيذ الماكرو.
+
+- **ملاحظات تعليمية للمستخدمين النهائيين**  
+  إرشاد المستخدمين حول كيفية التفاعل مع العناصر الممكنة للماكرو.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

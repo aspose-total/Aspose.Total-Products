@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS هو تنسيق جدول البيانات مفتوح المصدر المستخدم بواسطة LibreOffice وOpenOffice.
+
+**تشمل حالات الاستخدام الشائعة:**
+
+- تحديد البيانات كعامة، تحت المراجعة، أو داخلية
+- وضع علامة مائية لنسب مصدر البيانات
+- وضع علامات للتعاون متعدد المستخدمين
+- تضمين معلومات الترخيص أو النشر
+- تحديد المحتوى لنشر البيانات المفتوحة
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

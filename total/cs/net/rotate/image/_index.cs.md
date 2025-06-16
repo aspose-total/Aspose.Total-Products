@@ -73,7 +73,21 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Použití případů pro rotaci obrázků
+
+- Opravte orientaci obrázků pořízených v režimu na šířku nebo na výšku.
+- Upravte naskenované dokumenty nebo fotografie, které se jeví nakřivo nebo obráceně.
+- Zarovnejte vizuály správně pro konzistentní zobrazení v galeriích, prezentacích nebo zprávách.
+- Otočte designové prvky, jako jsou ikony, komponenty uživatelského rozhraní nebo diagramy, aby vyhovovaly potřebám rozložení.
+- Připravte obrázky pro tisk nebo publikování s správnou orientací.
+- Standardizujte orientaci obrázků při importu z různých zdrojů nebo zařízení.
+- Zlepšete čitelnost obsahu v e-knihách, dokumentaci nebo webových stránkách.
+- Otočte obrázky produktů nebo katalogů tak, aby odpovídaly požadovanému poměru stran.
+- Zlepšete uživatelskou zkušenost automatickým opravováním orientace obrázku na základě metadat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

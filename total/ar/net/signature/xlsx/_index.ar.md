@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# حالات استخدام توقيع ملفات XLSX بالتوقيعات الرقمية أو الإلكترونية
+
+XLSX هو تنسيق إكسل القياسي الحالي ويدعم بشكل كامل التوقيعات الإلكترونية والرقمية للبيانات المالية والتشغيلية.
+
+## حالات الاستخدام الشائعة
+- تقارير مالية وكشوف الأرصدة.
+- ميزانيات الأقسام والتوقعات.
+- لوحات الأداء المشتركة لمراجعة التنفيذيين.
+- سجلات الموارد البشرية وملخصات الحضور.
+- ورقات تكلفة المشتريات والموردين التي تتطلب الموافقات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات TSV للتكامل البيانات الخفيف
+
+ملفات TSV (قيم مفصولة بواسطة علامات التبويب) مشابهة لملفات CSV ولكنها تستخدم علامات التبويب كفواصل. دمج ملفات `.tsv` مفيد عند العمل مع مجموعات بيانات نظيفة ومنظمة في سياق العمل القائم على النص.
+
+#### حالات الاستخدام:
+
+- **أنابيب بيانات نظيفة**  
+  دمج مخرجات `.tsv` من جلب البيانات، وعمليات ETL، أو ملفات السجل إلى مجموعة بيانات رئيسية.
+
+- **التحليل العلمي أو الإحصائي**  
+  دمج ملفات بيانات التجارب بتنسيق `.tsv` للتقييم الإحصائي الموحد.
+
+- **التكامل بين الأنظمة**  
+  دمج بيانات `.tsv` من منصات مختلفة (سجلات Linux، أجهزة استشعار، واجهات برمجة التطبيقات) للاستيعاب المركزي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

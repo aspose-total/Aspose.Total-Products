@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ دمج JPG (تنسيق صور JPEG) للأرشفة البصرية وتوحيد التصميم
+
+JPG هو تنسيق صور مضغوط يستخدم على نطاق واسع للصور الفوتوغرافية والرسومات على الويب. يدعم دمج ملفات JPG العرض والأرشفة والتوثيق البصري.
+
+#### حالات الاستخدام:
+
+- **إنشاء ألبوم الصور**  
+  دمج صور العطلات أو الأحداث في كولاج أو عرض شرائح واحد.
+
+- **المواد التسويقية**  
+  دمج الأصول البصرية المتعددة في كروت أو ورق ترويجي.
+
+- **التوثيق القائم على الصور**  
+  دمج لقطات الشاشة أو السجلات البصرية في دليل واحد أو تقرير دليلي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

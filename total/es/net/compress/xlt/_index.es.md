@@ -75,7 +75,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos XLT para optimización de plantillas de Excel heredadas
+
+Los archivos XLT (plantillas de Excel 97-2003) pueden volverse grandes debido a elementos incrustados o datos de muestra. Comprimir archivos XLT hace que las bibliotecas de plantillas sean más delgadas y fáciles de distribuir.
+
+#### Casos de uso:
+
+- **Portabilidad de plantillas heredadas**  
+  Envíe plantillas estándar comprimidas para una distribución más rápida en sistemas empresariales más antiguos.
+
+- **Eficiencia del repositorio de plantillas**  
+  Mantenga los archivos de plantillas ligeros para un acceso centralizado y una recuperación rápida.
+
+- **Tiempo de carga de plantillas reducido**  
+  Optimice los sistemas más antiguos comprimiendo archivos XLT para una apertura y uso más rápidos.
+
+- **Optimización de copia de seguridad y almacenamiento**  
+  Minimice el almacenamiento a largo plazo de plantillas heredadas mediante la compresión.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

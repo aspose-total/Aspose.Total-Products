@@ -75,7 +75,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimere i file XLSM per la condivisione sicura ed efficiente dei fogli di lavoro con macro
+
+I file XLSM (fogli di lavoro Excel abilitati alle macro) spesso crescono di dimensioni con macro, script e logica di automazione. Comprimerli aiuta a mantenere le prestazioni e semplifica la distribuzione.
+
+#### Casi d'uso:
+
+- **Distribuzione automatica di report**  
+  Condividi rapidamente report abilitati alle macro tramite file XLSM compressi.
+
+- **Archiviazione efficiente degli asset di automazione**  
+  Conserva file XLSM compressi nei repository centrali di automazione.
+
+- **Archivi di macro versionati**  
+  Archivia più versioni compressi di fogli di lavoro con macro per test e rollback.
+
+- **Riduzione dei costi di trasferimento cloud**  
+  Minimizza il tempo e i costi di trasferimento dati per i file XLSM condivisi su piattaforme cloud.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

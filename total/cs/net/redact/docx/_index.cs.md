@@ -82,7 +82,16 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Redakce v .docx (Microsoft Word)
+
+- Redigujte osobní jména, kontaktní informace a identifikační čísla v dokumentech HR.
+- Redigujte citlivé podrobnosti případu nebo informace o klientovi v právních smlouvách a soudních podáních.
+- Redigujte důvěrné části interních zpráv, zápisů z jednání nebo dokumentů projektu.
+- Redigujte vlastnické metody nebo výsledky výzkumu v akademických nebo vědeckých pracích.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

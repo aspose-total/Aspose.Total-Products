@@ -84,7 +84,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Casos de uso para OpenDocument Text (`.odt`)
+
+- Utilizar metadatos para garantizar la compatibilidad entre suites de oficina.
+- Seguir a los colaboradores y la historia de colaboración.
+- Organizar y buscar documentos de formato abierto dentro de los sistemas empresariales.
+- Soportar motores de IA/ML que analizan ODT para obtener información.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

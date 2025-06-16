@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos TSV para Integración de Datos Liviana
+
+Los archivos TSV (Valores Separados por Tabuladores) son similares a los CSV pero utilizan tabuladores como delimitadores. Fusionar archivos `.tsv` es útil al trabajar con conjuntos de datos limpios y estructurados en flujos de trabajo basados en texto.
+
+#### Casos de Uso:
+
+- **Tuberías de Datos Limpias**  
+  Fusionar salidas `.tsv` de raspado de datos, procesos ETL o archivos de registro en un conjunto de datos principal.
+
+- **Análisis Científico o Estadístico**  
+  Combinar archivos de datos de experimentos en formato `.tsv` para una evaluación estadística consolidada.
+
+- **Integración entre Sistemas**  
+  Fusionar datos en formato `.tsv` de diversas plataformas (registros de Linux, sensores, APIs) para una ingestión centralizada.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

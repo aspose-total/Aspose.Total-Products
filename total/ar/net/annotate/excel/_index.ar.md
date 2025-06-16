@@ -78,7 +78,31 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم تنسيقات Microsoft Excel بشكل شائع لإدارة البيانات المهيكلة، والسجلات المالية، ولوحات القيادة، والنماذج المعقدة. تعزز توثيق تنسيق جداول البيانات التعاون، وتتبع الأخطاء، وزيادة الشفافية في العمليات المدفوعة بالبيانات.
+
+#### توثيق ملف Microsoft Excel لوضوح البيانات وحالات استخدام التحليل التعاوني:
+
+- **مراجعات مالية تعاونية**  
+  إضافة تعليقات لشرح تغييرات الميزانية، أو تحديد الأرقام غير المعتادة، أو طلب توضيح أثناء عمليات التدقيق أو التخطيط المالي.
+
+- **شرح الصيغ والمنطق**  
+  استخدام التوثيقات لوصف الصيغ المعقدة، أو الماكرو (XLSM/XLTM)، أو قواعد الحساب، لمساعدة فهم الفريق المشترك.
+
+- **ضمان الجودة في إدخال البيانات**  
+  تحديد الخلايا التي تتطلب التحقق أو تقديم التوجيه حول نطاقات القيم المقبولة والتنسيقات.
+
+- **تحقق البيانات وملاحظات المراجعة**  
+  إدراج التوثيقات أثناء عمليات التحقق لوضع علامات على الشواذ، أو القيم الباطلة، أو البيانات غير المكتملة.
+
+- **إعادة استخدام القوالب**  
+  توثيق القوالب (XLTX، XLTM، XLT) بتعليمات الاستخدام، والمدخلات المطلوبة، أو وصف الأقسام لتوجيه المستخدمين المستقبليين.
+
+- **تتبع الماكرو وتصحيح الأخطاء (XLSM، XLTM)**  
+  التعليق على الخلايا أو الأوراق التي تتأثر بمنطق الماكرو لدعم تصحيح الأخطاء وتحسين الأتمتة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

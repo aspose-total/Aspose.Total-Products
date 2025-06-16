@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ دمج ملفات PPSM (عرض تقديمي بقوالب) للعروض التفاعلية والتلقائية
+
+ملفات PPSM هي عروض تقديمية في برنامج PowerPoint تحتوي على قوالب. يمكن دمجها لتوحيد العروض التي تحتوي على القوالب للتلقيح التفاعلي أو التلقائي.
+
+#### حالات الاستخدام:
+
+- **تقديم التدريب التفاعلي**  
+  دمج وحدات التدريب مع سكربتات التلقائي لجلسات تعليمية مبسطة.
+
+- **عروض تقديمية لعروض البيع**  
+  دمج عروض السلع مع انتقالات تلقائية وعناصر تفاعلية.
+
+- **عروض تقديمية لتلقين العمليات**  
+  دمج عدة عروض تقديمية تحتوي على قوالب لعمليات داخلية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

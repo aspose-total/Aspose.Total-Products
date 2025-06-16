@@ -75,7 +75,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimere file XLS per ottimizzazione dei vecchi file di lavoro di Excel
+
+I file XLS (Excel 97-2003 Workbook) possono diventare grandi a causa di grafici incorporati, formule o grandi set di dati. Comprimere i file XLS garantisce una gestione più fluida e la compatibilità con i sistemi più datati.
+
+#### Casi d'uso:
+
+- **Archiviazione di record finanziari**  
+  Ridurre l'impronta di archiviazione dei file XLS storici contenenti dati fiscali o report.
+
+- **Integrazione più veloce con sistemi legacy**  
+  Consentire un'elaborazione più rapida di grandi workbook XLS nelle versioni più vecchie di Excel.
+
+- **Condivisione ottimizzata dei documenti**  
+  Comprimere i file XLS per rispettare i limiti di dimensione dei file per l'invio tramite email o per caricamenti su drive condivisi.
+
+- **Portabilità dei dati per l'uso offline**  
+  Trasferire file XLS compatti su USB o dispositivi portatili per lavori sul campo o audit.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

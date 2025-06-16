@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# حالات استخدام توقيع ملفات ODP بالتوقيعات الرقمية أو الإلكترونية
+
+تفضل ملفات ODP من قبل مستخدمي LibreOffice Impress أو OpenOffice. توقيع ODP بشكل رقمي يضمن عدم الإنكار في بيئات العروض مفتوحة المصدر.
+
+## حالات الاستخدام الشائعة
+- شرائح المحاضرات الأكاديمية والشهادات.
+- عروض مشاريع المنظمات غير الحكومية للتحقق من المانحين.
+- مقترحات السياسات في مكاتب الحكومة باستخدام ODP.
+- الندوات الفنية على الويب المشتركة عبر منصات مفتوحة المصدر.
+- تقارير المجتمع التي تتطلب التحقق الإلكتروني.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

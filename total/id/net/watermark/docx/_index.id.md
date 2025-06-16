@@ -83,7 +83,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX adalah format Word modern, default untuk dokumen teks yang dapat diedit.
+
+**Beberapa kasus penggunaan umum meliputi:**
+
+- Menandai status sebagai Draf, Rahasia, atau Disetujui
+- Mengaplikasikan branding perusahaan dan logo watermark
+- Menambahkan tampilan hanya baca atau hanya tampilan
+- Menampilkan versi internal/eksternal
+- Mendukung pelacakan siklus hidup dokumen
+- Mematuhi persyaratan regulasi
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

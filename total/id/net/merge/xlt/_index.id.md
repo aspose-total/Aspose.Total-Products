@@ -79,7 +79,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas XLT untuk Alur Kerja Excel Berbasis Template
+
+XLT adalah format Template Excel untuk `.xls` (Excel 97-2003). Menggabungkan berkas `.xlt` membantu untuk menstandarisasi dan memperbarui template lama ke dalam struktur yang terpadu.
+
+#### Kasus Penggunaan:
+
+- **Penggabungan Template Warisan**  
+  Gabungkan beberapa template `.xlt` menjadi template induk untuk kompatibilitas mundur.
+
+- **Standarisasi Template Departemen**  
+  Gabungkan template lama untuk mengevaluasi dan mengembangkan alternatif `.xltx` modern.
+
+- **Arsip Template Historis**  
+  Konsolidasikan versi `.xlt` yang lebih lama untuk kepatuhan atau referensi historis.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

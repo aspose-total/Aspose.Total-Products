@@ -106,7 +106,28 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Il formato PPTX (Presentazione PowerPoint) è il formato standard per le presentazioni di diapositive modificabili. L'annotazione dei file PPTX supporta lo sviluppo collaborativo delle diapositive, il tracciamento delle versioni e la raccolta dei feedback.
+
+#### Annotazione dei file PPTX per la collaborazione nella progettazione delle presentazioni - Casi d'uso:
+
+- **Feedback sul contenuto delle diapositive**  
+  Inserire commenti sull'accuratezza del testo, l'allineamento del design o miglioramenti nella visualizzazione dei dati.
+
+- **Sviluppo della presentazione di squadra**  
+  Utilizzare le annotazioni per assegnare responsabilità delle diapositive o annotare sezioni incomplete.
+
+- **Miglioramenti nella formazione e nell'apprendimento**  
+  Aggiungere indicazioni per gli studenti, note dell'istruttore o feedback sui quiz.
+
+- **Regolazioni di design e layout**  
+  Segnalare le aree che necessitano di coerenza visiva, aggiustamenti dello spaziatura o aggiornamenti dello stile.
+
+- **Revisione multilingue**  
+  Annotare le sezioni che richiedono controlli di traduzione o localizzazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

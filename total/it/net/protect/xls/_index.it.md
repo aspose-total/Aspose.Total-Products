@@ -78,7 +78,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | Cartella di lavoro Microsoft Excel 97–2003 — Casi d'uso per la protezione
+
+- Spesso utilizzato nei sistemi aziendali legacy — la protezione impedisce la corruzione dei file obsoleti.
+- Protegge i dati finanziari sensibili, le formule e le macro da modifiche non autorizzate.
+- Impedisce l'eliminazione accidentale dei dati collegati utilizzati da altri sistemi.
+- Utilizzato nei processi di audit e di reportistica che si basano su dati storici statici.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

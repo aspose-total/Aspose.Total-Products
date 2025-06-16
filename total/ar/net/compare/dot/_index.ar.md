@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### مقارنة ملف DOT لتتبع تغييرات القوالب:
+
+تخزن ملفات DOT (قالب Word 97-2003) تنسيقات قابلة لإعادة الاستخدام ومحتوى قالبي. يساعد مقارنة قوالب DOT في اكتشاف التعديلات غير المصرح بها أو غير المقصودة قبل إعادة الاستخدام.
+
+- **التحقق من اتساق العلامة التجارية**  
+  التأكد من بوقوف الشعارات والخطوط والأنماط متسقة عبر تنقيحات القوالب.
+
+- **مراقبة تطور القالب**  
+  تتبع التغييرات الهيكلية أو التعليمية في قوالب الوثائق الداخلية.
+
+- **تدقيق القوالب القديمة**  
+  مقارنة ملفات DOT بتحديثات الوثائق من الأنظمة أو سير العمل السابقة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

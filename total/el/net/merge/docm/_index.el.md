@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων DOCM για ενεργοποιημένα μακρό Word
+
+Τα αρχεία DOCM είναι ενεργοποιημένα μακρό Word. Η συγχώνευση αρχείων `.docm` είναι χρήσιμη όταν συνδυάζονται έγγραφα που περιέχουν ενσωματωμένα μακρό για αυτοματοποίηση ή επεξεργασία.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Αυτοματοποιημένη Συγχώνευση Αναφορών**  
+  Συγχωνεύστε αναφορές `.docm` που χρησιμοποιούν μακρό για την αυτοματοποίηση της δημιουργίας μορφοποιημένων δεδομένων, γραφημάτων ή πινάκων σε ένα κεντρικό έγγραφο.
+
+- **Δημιουργία Εγγράφου με Υποστήριξη Μακροεντολών**  
+  Συνδυάστε ενεργοποιημένα μακρό αρχεία `.docm` για να διατηρήσετε και να ενοποιήσετε τις λειτουργίες αυτοματοποίησης σε διαφορετικές αναφορές ή έγγραφα.
+
+- **Ενσωμάτωση Ροής Εγγράφου**  
+  Συγχωνεύστε έγγραφα με παρόμοιες μακροεντολές για να βελτιώσετε τις ροές δημιουργίας εγγράφων σε ομάδες.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

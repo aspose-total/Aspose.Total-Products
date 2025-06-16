@@ -123,7 +123,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos DOC (Documento Binario de Microsoft Word) son formatos heredados ampliamente utilizados que aún desempeñan roles críticos en los flujos de trabajo de documentos. Anotar archivos DOC mejora la colaboración en equipo, la revisión de documentos heredados y el seguimiento de cambios sin alterar el contenido original.
+
+#### Casos de Uso:
+
+- **Revisiones de Documentos Heredados**  
+  Anote secciones de antiguos archivos DOC para señalar contenido desactualizado, inconsistencias de formato o áreas que necesitan modernización.
+
+- **Notas de Cumplimiento y Legales**  
+  Agregue comentarios para proporcionar contexto legal o referencias regulatorias para contratos, políticas y documentación.
+
+- **Colaboración Editorial**  
+  Inserte sugerencias de revisores o marcas editoriales durante los ciclos de edición de documentos, especialmente cuando el seguimiento de cambios no está habilitado.
+
+- **Actualizaciones de Documentación de Entrenamiento**  
+  Destaque áreas que necesitan contenido instructivo actualizado para alinearse con procedimientos o pautas actuales.
+
+- **Visión de Versiones**  
+  Anote con la versión o historial de revisores para hacer un seguimiento de los cambios en el documento durante los ciclos de revisión.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

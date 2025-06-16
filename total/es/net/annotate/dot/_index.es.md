@@ -123,7 +123,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos DOT (plantilla de Word 97-2003) definen estructuras de documentos reutilizables. Las anotaciones en archivos DOT ayudan a clarificar el propósito de la plantilla, las instrucciones de uso y las notas de personalización para los usuarios.
+
+#### Anotación de Archivo DOT para Documentación de Plantillas y Casos de Uso de Retroalimentación:
+
+- **Orientación de Personalización de Plantillas**  
+  Anote campos y marcadores de posición para guiar a los usuarios sobre cómo y dónde insertar contenido.
+
+- **Instrucciones de Flujo de Trabajo**  
+  Agregue comentarios explicando comportamientos automatizados, macros o formato condicional incrustados en la plantilla.
+
+- **Revisiones de Marca y Estilo**  
+  Destaque áreas que deben cumplir con las pautas de marca corporativa o estándares de documentos.
+
+- **Recopilación de Comentarios de los Usuarios**  
+  Permita a los usuarios insertar comentarios sobre la usabilidad de la plantilla, simplificando mejoras iterativas.
+
+- **Plantillas de Cumplimiento Normativo**  
+  Proporcione notas relacionadas con la normativa o el cumplimiento directamente en la plantilla para procesos de documentación legal.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

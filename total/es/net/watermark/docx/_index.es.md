@@ -83,7 +83,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX es el formato moderno y predeterminado de Word para documentos de texto editables.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Marcar el estado como Borrador, Confidencial o Aprobado
+- Aplicar la marca de la empresa y logotipos con marcas de agua
+- Agregar designaciones de solo lectura o solo visualización
+- Mostrar versiones internas/externas
+- Apoyar el seguimiento del ciclo de vida del documento
+- Cumplir con los requisitos normativos
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

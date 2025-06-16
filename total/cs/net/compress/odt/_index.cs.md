@@ -78,7 +78,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimujte soubory ODT pro lehčí správu textu ve formátu OpenDocument
+
+Soubory ODT (OpenDocument Text), často používané v kancelářských balíčcích s otevřeným zdrojovým kódem jako LibreOffice, mohou narůst velikostí kvůli vloženým obrázkům, tabulkám a pokročilému formátování. Komprimace souborů ODT zajistí lepší přenositelnost a výkon napříč systémy.
+
+#### Použití:
+
+- **Optimalizované sdílení dokumentů**  
+  Snížení velikosti souborů ODT pro rychlejší nahrávání, přílohy k e-mailům a bezproblémovou online spolupráci.
+
+- **Efektivita v cloudovém úložišti**  
+  Komprimujte dokumenty ODT pro úsporu místa ve sdílených discích a úložištích dokumentů.
+
+- **Zvýšení výkonu na zařízeních s nižším výkonem**  
+  Menší soubory ODT se rychleji načítají na systémech s omezenými prostředky, což zlepšuje uživatelský zážitek.
+
+- **Zjednodušené archivování**  
+  Ukládejte velké objemy zpráv nebo manuálů ve formátu ODT efektivně s komprimovanými verzemi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

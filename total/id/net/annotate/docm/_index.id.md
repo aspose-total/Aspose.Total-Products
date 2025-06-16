@@ -123,7 +123,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Berkas DOCM (Dokumen yang Diaktifkan Makro Microsoft Word) mendukung integrasi makro untuk otomatisasi. Memberi anotasi pada berkas DOCM memberikan konteks penting seputar proses otomatisasi, melacak perubahan yang dilakukan oleh makro, dan memfasilitasi tinjauan kolaboratif.
+
+#### Anotasi Berkas DOCM untuk Kasus Penggunaan Kolaborasi Dokumen yang Diaktifkan Makro:
+
+- **Dokumentasi Alur Kerja Makro**  
+  Beri anotasi pada dokumen yang diaktifkan makro untuk menjelaskan tujuan dari setiap makro, keluaran yang diharapkan, dan peran makro dalam otomatisasi dokumen.
+
+- **Instruksi Pengguna untuk Fungsi Makro**  
+  Tambahkan anotasi dalam dokumen untuk memandu pengguna tentang cara berinteraksi dengan makro atau masukan yang diperlukan untuk tindakan otomatis.
+
+- **Pemecahan Masalah dan Pelacakan Kesalahan**  
+  Sisipkan komentar untuk menyoroti bagian-bagian di mana makro gagal atau di mana data dimasukkan dengan tidak benar, membantu dalam pemecahan masalah.
+
+- **Umpan Balik Otomatisasi**  
+  Berikan umpan balik tentang efektivitas makro dalam mengotomatisasi tugas dokumen seperti pembuatan tabel, pemformatan, atau pengisian konten.
+
+- **Tinjauan Konten yang Dihasilkan oleh Makro**  
+  Anotasi pada area di mana konten yang dihasilkan oleh makro memerlukan tinjauan atau modifikasi manual.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

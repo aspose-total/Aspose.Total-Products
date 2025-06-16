@@ -73,7 +73,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování souborů ODP digitálními nebo elektronickými podpisy
+
+Soubory ODP jsou preferovány uživateli LibreOffice Impress nebo OpenOffice. Digitální podpis ODP zajistí nezpochybnitelnost v prostředí prezentací s otevřeným zdrojovým kódem.
+
+## Běžné případy použití
+- Prezentační snímky akademických přednášek a certifikace.
+- Prezentace projektů nevládních organizací pro ověření dárců.
+- Návrhy politik v úřadech vlády s použitím ODP.
+- Technické webináře sdílené na platformách s otevřeným zdrojovým kódem.
+- Zprávy komunity vyžadující elektronické ověření.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

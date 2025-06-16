@@ -81,7 +81,16 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Χρήσεις για Έγγραφο Word με Ενεργοποιημένα Μακροεντολές (`.docm`)
+
+- Συμπερίληψη μεταδεδομένων που σχετίζονται με μακροεντολές για παρακολούθηση αυτοματισμού.
+- Διαχείριση πολιτικών ασφαλείας εγγράφου που σχετίζονται με ενσωματωμένες μακροεντολές.
+- Ενεργοποίηση αυτόματης ταξινόμησης κινδύνου με βάση τα ενσωματωμένα scripts.
+- Βοήθεια στον εντοπισμό του σκοπού του εγγράφου και της σχετιζόμενης επιχειρησιακής διαδικασίας.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

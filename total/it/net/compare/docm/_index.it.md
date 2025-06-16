@@ -73,7 +73,22 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Confronto dei file DOCM per casi d'uso di audit dei documenti consapevoli delle macro:
+
+I file DOCM (Documento abilitato per le macro di Microsoft Word) supportano macro incorporate. Confrontare due file DOCM consente agli utenti di rilevare non solo le modifiche al contenuto ma anche eventuali aggiornamenti alla logica delle macro, rendendolo essenziale per flussi di lavoro di sicurezza, conformità e sviluppo.
+
+- **Rilevamento delle modifiche alle macro**  
+  Identificare quando le macro sono state aggiunte, rimosse o modificate tra le versioni.
+
+- **Audit dell'integrità del documento**  
+  Assicurarsi che il contenuto del documento e i comportamenti delle macro rimangano consistenti in ambienti regolamentati.
+
+- **Revisione delle versioni nei progetti di automazione**  
+  Tenere traccia degli aggiornamenti nei report potenziati da macro, fatture o generatori di moduli.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

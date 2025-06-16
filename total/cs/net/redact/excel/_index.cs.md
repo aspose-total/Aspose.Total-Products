@@ -82,7 +82,16 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Redakce v programu Microsoft Excel
+
+- Před distribucí redigujte finanční údaje, jako jsou platy, rozpočty nebo výnosové čísla.
+- Redigujte údaje o zákaznících nebo zaměstnancích ve prodejních, personálních nebo auditních tabulkách.
+- Redigujte soukromé záznamy v operačních nebo správních protokolech.
+- Redigujte důvěrné metriky v plánovacích tabulkách nebo strategických dashboardách.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

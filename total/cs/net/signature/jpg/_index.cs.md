@@ -71,7 +71,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování souborů JPEG a JPG digitálními nebo elektronickými podpisy
+
+Obrázky JPEG/JPG se používají pro naskenované dokumenty, fotografie a doklady totožnosti. Jejich digitální podepisování zajišťuje bezpečnost a důkaz původu.
+
+## Běžné případy použití
+- Naskenované smlouvy a podepsané dokumenty.
+- Doklady totožnosti v procesech KYC.
+- Vizuální zprávy s vloženými pozorováními.
+- Lékařské obrazy sdílené pro vzdálené konzultace.
+- Záznamy o vlastnictví pozemků ve vizuálním formátu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

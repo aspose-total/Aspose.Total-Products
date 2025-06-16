@@ -81,7 +81,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file JPEG per la consolidazione dei dati dell'immagine
+
+JPEG (Joint Photographic Experts Group) è uno dei formati di immagine più popolari grazie alla sua efficienza di compressione e all'ampio utilizzo. Unire più file JPEG è spesso necessario per creare collage, album fotografici o per consolidare dati di immagine simili.
+
+#### Casi d'uso:
+
+- **Creazione di album fotografici**  
+  Unisci più immagini `.jpeg` o `.jpg` per creare un album fotografico unificato da stampare o condividere digitalmente.
+
+- **Collage di immagini**  
+  Combina diverse immagini `.jpeg` in un unico collage per scopi di marketing, eventi o uso personale.
+
+- **Consolidamento delle immagini dei prodotti**  
+  Unisci varie immagini di prodotti in un unico file per un catalogo di prodotti o un negozio online.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

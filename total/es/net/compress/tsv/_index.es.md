@@ -75,7 +75,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compresión de archivos TSV para almacenamiento y transferencia eficientes
+
+Los archivos TSV (Valores Separados por Tabuladores) son otro formato utilizado para datos estructurados, especialmente donde se prefieren los caracteres de tabulación sobre las comas para delimitar. Al igual que los archivos CSV, los archivos TSV grandes pueden ser intensivos en almacenamiento y lentos para transferir o procesar. Comprimir archivos TSV proporciona ventajas esenciales para el rendimiento, la escalabilidad y la interoperabilidad.
+
+- **Empaquetado de Datos de Investigación**  
+  Comprimir archivos TSV generados a partir de experimentos de laboratorio o encuestas para facilitar su compartición o presentación para revisión por pares.
+
+- **Registro de Datos y Auditorías**  
+  Archivar registros del sistema o salidas de monitoreo de datos almacenados en formato TSV de forma comprimida para ahorrar espacio sin perder fidelidad.
+
+- **Integración de Big Data**  
+  Aprovechar la compresión para archivos TSV que se ingieren en lagos de datos o sistemas de procesamiento distribuido como Hadoop o Spark.
+
+- **Tuberías de Informes Automatizados**  
+  Integrar la compresión en scripts automatizados que producen salidas TSV, reduciendo la latencia en la distribución por correo electrónico o en la nube.
+
+- **Compartir Datos de Colaboración**  
+  Compartir archivos TSV grandes entre analistas o equipos a través de archivos comprimidos, mejorando la portabilidad y la eficiencia de carga/descarga.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

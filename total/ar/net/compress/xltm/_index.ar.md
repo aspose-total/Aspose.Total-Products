@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملفات XLTM لقوالب Excel التي تحتوي على ماكروهات لتحسين الأداء
+
+تتضمن ملفات XLTM (قوالب Excel التي تحتوي على ماكروهات) ماكروهات للأتمتة القابلة لإعادة الاستخدام. يمكن أن تصبح هذه الملفات كبيرة بسبب البرمجيات المضمنة أو البيانات التجريبية. يساعد الضغط في تسهيل عملية المشاركة السريعة والنسخ الاحتياطي الآمن.
+
+#### حالات الاستخدام:
+
+- **مشاركة قوالب الأتمتة**  
+  توزيع قوالب الأتمتة على الفرق أو العملاء باستخدام إصدارات XLTM المضغوطة.
+
+- **تيسير سير العمل للاختبار**  
+  ضغط إصدارات مختلفة من قوالب XLTM لاختبار ونشر أسرع.
+
+- **مكتبات القوالب المركزية**  
+  الحفاظ على مكتبة نحيفة من قوالب الأتمتة باستخدام تنسيقات مضغوطة.
+
+- **نسخ احتياطي فعال لعمليات التطوير والتشغيل**  
+  تخزين إصدارات مضغوطة من قوالب الأتمتة للرجوع الى الوراء والتحديث.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,22 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Srovnání souborů ODT pro případy použití otevřené spolupráce:
+
+ODT (OpenDocument Text) je standard pro textové editory s otevřeným zdrojovým kódem, jako je LibreOffice a OpenOffice. Srovnávání souborů ODT poskytuje transparentnost při spolupráci na psaní, zejména v otevřených prostředích.
+
+- **Audit otevřené spolupráce**  
+  Sledování revizí provedených přispěvateli v dokumentaci s otevřeným zdrojovým kódem.
+
+- **Hodnocení vládních a akademických dokumentů**  
+  Porovnání oficiálních formulářů, politik nebo výzkumných návrhů sdílených ve formátu ODT.
+
+- **Transparentnost ve veřejných pracovních postupech**  
+  Zobrazení změn vedle sebe pro veřejně udržované dokumenty a návrhy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

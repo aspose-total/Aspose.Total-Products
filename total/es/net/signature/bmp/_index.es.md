@@ -71,7 +71,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Archivos BMP con Firmas Digitales o Electrónicas
+
+Los archivos BMP se utilizan en escaneo y archivado. Firmar digitalmente los archivos BMP garantiza la autenticidad de los documentos e imágenes escaneados.
+
+## Casos de Uso Comunes
+- Formularios legales digitalizados o acuerdos escritos a mano.
+- Archivo de firmas notariadas.
+- Diagramas técnicos que requieren aprobación de ingenieros.
+- Registros de propiedades escaneados.
+- Planos con autenticación de firma.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

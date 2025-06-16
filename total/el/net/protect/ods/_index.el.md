@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | Υπολογιστικό φύλλο OpenDocument - Περιπτώσεις Χρήσης για Προστασία
+
+- Χρησιμοποιείται σε περιβάλλοντα ανοικτού κώδικα όπως το LibreOffice για την παρακολούθηση του προϋπολογισμού και την κοινή χρήση δεδομένων.
+- Προστατεύει τις φόρμουλες και τις υπολογιστικές διαδικασίες σε ροές εργασίας πολλαπλών πλατφορμών.
+- Αποτρέπει δομικές αλλαγές σε συνεργατικά οικονομικά μοντέλα ή έγγραφα του δημόσιου τομέα.
+- Βεβαιώνει τη συνέπεια όταν κοινοποιείται μεταξύ πολλών ενδιαφερομένων ή τμημάτων.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

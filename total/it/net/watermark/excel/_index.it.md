@@ -76,7 +76,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel viene utilizzato ampiamente per il lavoro basato sui dati. L'apposizione di filigrane alle schede di Excel aiuta a comunicare riservatezza e contesto, specialmente durante le revisioni dei dati o le divulgazioni finanziarie.
+
+**I casi d'uso comuni includono:**
+
+- Identificare i fogli di calcolo come preliminari, sensibili o verificati
+- Prevenire l'abuso di calcoli o previsioni proprietari
+- Etichettare le schede per l'audit interno o la rendicontazione finanziaria
+- Apporre filigrane ai cruscotti per il controllo della distribuzione
+- Etichettare i dati come obsoleti, archiviati o in fase di test
+- Indicare la proprietà dei modelli finanziari o delle analisi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

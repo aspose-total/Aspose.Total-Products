@@ -78,7 +78,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | Libro de Microsoft Excel 97–2003 — Casos de uso para protección
+
+- A menudo utilizado en sistemas empresariales heredados: la protección evita la corrupción de archivos obsoletos.
+- Protege datos financieros sensibles, fórmulas y macros de ediciones no autorizadas.
+- Evita la eliminación accidental de datos vinculados utilizados por otros sistemas.
+- Utilizado en procesos de auditoría e informes que dependen de datos históricos estáticos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unione dei file DOTM per l'integrazione del modello abilitato per le macro
+
+I file DOTM sono modelli di Word abilitati per le macro. Unire i file `.dotm` è utile quando si integrano modelli che dipendono dalle macro per l'automazione dei documenti.
+
+#### Casi d'uso:
+
+- **Unificazione dei modelli abilitati per le macro**  
+  Unire i modelli `.dotm` utilizzati in diversi dipartimenti per standardizzare la formattazione e la funzionalità delle macro.
+
+- **Automazione nella creazione di modelli**  
+  Combinare i modelli `.dotm` che utilizzano le macro per la popolazione automatica dei documenti, come la generazione di fatture o la formattazione dei report.
+
+- **Aggiornamento della logica delle macro**  
+  Unire i modelli `.dotm` per rivedere e aggiornare le macro incorporate per un'automazione migliorata o un potenziamento delle funzionalità.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Berkas XLT (Excel Template) menyediakan struktur yang telah ditentukan untuk lembar kerja. Anotasi membantu mengidentifikasi placeholder, memberikan instruksi, atau menangkap umpan balik selama penyesuaian template.
+
+#### Anotasi Berkas XLT untuk Penyesuaian Template - Kasus Penggunaan:
+
+- **Instruksi Template**: Tambahkan komentar untuk memandu pengguna akhir pada bidang input.
+- **Ulasan Template**: Anotasi rumus atau saran tata letak untuk perbaikan.
+- **Catatan Tim**: Berkolaborasi pada draf awal template dengan catatan kontekstual.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

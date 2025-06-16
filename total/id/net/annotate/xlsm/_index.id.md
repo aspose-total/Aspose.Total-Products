@@ -78,7 +78,17 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) mendukung otomatisasi melalui makro. Memberi catatan pada file-file ini membantu tim dalam menandai hasil makro, mendokumentasikan perubahan otomatis, dan memvalidasi hasil logika.
+
+#### Menandai File XLSM untuk Alur Kerja yang Didorong oleh Makro - Kasus Penggunaan:
+
+- **Analisis Hasil Makro**: Memberikan komentar pada data yang dihasilkan secara otomatis untuk validasi.
+- **Umpan Balik Otomatisasi**: Menandai output untuk menunjukkan eksekusi yang berhasil atau gagal.
+- **Review Kode**: Menambahkan catatan terkait logika makro atau efeknya pada data.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

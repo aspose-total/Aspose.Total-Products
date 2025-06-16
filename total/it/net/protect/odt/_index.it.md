@@ -79,7 +79,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | Testo del documento OpenDocument — Casi d'uso per la protezione
+
+- Usato in ambienti open-source (ad es., LibreOffice).
+- Necessita di protezione per garantire coerenza tra piattaforme software multiple.
+- Utile quando si gestiscono documenti collaborativi multi-piattaforma.
+- Aiuta a evitare modifiche strutturali non autorizzate.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,16 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 حالات الاستخدام لمستند Word Macro-Enabled (`.docm`)
+
+- تضمين البيانات الوصفية ذات الصلة بالماكرو لتتبع الأتمتة.
+- إدارة سياسات أمان المستند المرتبطة بالماكرو المضمنة.
+- تمكين تصنيف المخاطر تلقائيًا بناءً على النصوص المضمنة.
+- المساعدة في تحديد الغرض من المستند والعملية التجارية المرتبطة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

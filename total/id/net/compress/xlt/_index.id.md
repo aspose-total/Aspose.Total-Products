@@ -75,7 +75,27 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompres File XLT untuk Optimasi Template Excel Warisan
+
+File XLT (Template Excel 97–2003) dapat menjadi besar karena elemen tertanam atau data contoh. Mengompres file XLT membuat perpustakaan template menjadi lebih ramping dan lebih mudah didistribusikan.
+
+#### Kasus Penggunaan:
+
+- **Portabilitas Template Warisan**  
+  Kirim template standar yang dikompres untuk distribusi lebih cepat di sistem perusahaan yang lebih lama.
+
+- **Efisiensi Repositori Template**  
+  Pertahankan arsip template agar ringan untuk akses terpusat dan pengambilan cepat.
+
+- **Waktu Muat Template yang Lebih Cepat**  
+  Optimalkan sistem yang lebih lama dengan mengompres file XLT untuk pembukaan dan penggunaan yang lebih cepat.
+
+- **Optimasi Cadangan dan Penyimpanan**  
+  Kurangi penyimpanan jangka panjang template warisan melalui kompresi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

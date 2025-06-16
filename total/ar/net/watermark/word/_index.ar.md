@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم Microsoft Word على نطاق واسع لإنشاء وثائق نصية مثل العقود والاقتراحات والتقارير والسياسات. يساعد تعيين علامة مائية على هذه الوثائق في تحديد السياق وفرض سلامة الوثيقة.
+
+**تشمل حالات الاستخدام الشائعة:**
+
+- وضع علامات على الوثائق كسرية أو مسودة أو للاستخدام الداخلي فقط
+- تحديد الكاتب أو القسم المسؤول عن المحتوى
+- إضافة إخلاء المسؤولية القانونية أو إشعارات حقوق النشر
+- منع مشاركة الوثائق الحساسة غير المصرح بها
+- تتبع التحكم في الإصدار أثناء التحرير التعاوني
+- الامتثال لمتطلبات التنظيم أو التدقيق
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Casi d'uso dei metadati dei file di Microsoft PowerPoint
+
+- Descrivere lo scopo, il pubblico o il tema di una presentazione con campi di metadati.
+- Tenere traccia delle revisioni e degli autori per le presentazioni aziendali.
+- Classificare le diapositive interne/esterne e confidenziali/pubbliche.
+- Automatizzare l'approvazione dei flussi di lavoro per presentazioni aziendali o esecutive.
+- Includere diritti d'autore, licenze e diritti d'uso per risorse visuali e modelli.
+- Migliorare la ricerca e l'indicizzazione su larga scala delle presentazioni chiave.
+- Consentire ai gestori di presentazioni di terze parti o alle piattaforme LMS di organizzare i contenuti.
+- Aiutare l'IA a consigliare layout di diapositive, riutilizzare le presentazioni o etichettare automaticamente le presentazioni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

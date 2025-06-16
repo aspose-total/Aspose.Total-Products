@@ -73,7 +73,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Casi d'uso per la suddivisione dei documenti
+
+- Suddividere grandi report, manuali o ricerche in file più piccoli e gestibili.
+- Assegnare diverse sezioni di un documento a vari membri del team per la modifica indipendente.
+- Automatizzare i flussi di lavoro elaborando parti specifiche di un documento separatamente.
+- Rendere più semplice la condivisione di file di grandi dimensioni suddividendoli in allegati più piccoli per email o caricamento.
+- Generare documenti personalizzati (es. certificati, fatture o lettere) da un unico file principale.
+- Organizzare i contenuti per una memorizzazione più semplice, una maggiore ricercabilità e la conformità ai sistemi di gestione documentale.
+- Condividere solo sezioni rilevanti di documenti sensibili mantenendo al sicuro i dati confidenziali.
+- Distribuire materiali educativi o formativi in file più piccoli e focalizzati su argomenti per un'esperienza di apprendimento migliorata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

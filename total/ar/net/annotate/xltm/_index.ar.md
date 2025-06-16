@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات XLTM (القوالب التي تدعم التعليمات البرمجية) تدعم إعادة الاستخدام مع التعليمات البرمجية. توفر التعليقات رؤى أساسية حول نقاط الأتمتة، والمدخلات المتوقعة، أو نتائج التعليمات البرمجية.
+
+#### قم بتوثيق ملفات XLTM لسير العمل الخاص بالقوالب البرمجية - حالات الاستخدام:
+
+- **توثيق التعليمات البرمجية**: شرح مشغلات التعليمات البرمجية والتأثيرات المقصودة.
+- **إرشادات المستخدم**: قم بتوثيق الأقسام التي يجب على المستخدمين عدم تعديلها للحفاظ على الأتمتة.
+- **ملاحظات الاختبار**: علم المناطق التي تخضع لمراجعة ضمن عملية اختبار القالب.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

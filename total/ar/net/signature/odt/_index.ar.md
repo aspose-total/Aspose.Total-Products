@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# حالات استخدام توقيع ملفات ODT بالتوقيعات الرقمية أو الإلكترونية
+
+تستخدم ملفات ODT في بيئات مفتوحة المصدر مثل LibreOffice أو OpenOffice. تضمن التوقيعات الرقمية في ملفات ODT المنشأ وسلامة الوثائق النصية غير المايكروسوفت.
+
+## حالات الاستخدام الشائعة
+- مؤسسات تعليمية تشارك تقارير أو مسودات أطروحات.
+- منظمات غير حكومية ومساهمون في المصادر المفتوحة ينشئون رسائل رسمية.
+- وثائق القطاع العام بتنسيق ODT.
+- تعاونات عابرة للحدود حيث يُفضل استخدام ODT.
+- وثائق سياسات داخلية مع موافقة إلكترونية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

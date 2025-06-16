@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos XLSM para flujos de trabajo de Excel con macros habilitadas
+
+Los archivos XLSM son libros de Excel habilitados para macros. Fusionar archivos `.xlsm` debe preservar tanto los datos como las macros incrustadas utilizadas para la automatización o cálculos.
+
+#### Casos de uso:
+
+- **Informes de tareas automatizados**  
+  Fusionar hojas con macros habilitadas que automatizan tareas de informes o validación en un archivo central.
+
+- **Consolidación de plantillas de flujo de trabajo**  
+  Combinar plantillas `.xlsm` utilizadas en diferentes departamentos en un solo libro de trabajo para una automatización más eficiente.
+
+- **Repositorio centralizado de código VBA**  
+  Fusionar archivos con macros similares para unificar la lógica y reducir la duplicación entre departamentos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

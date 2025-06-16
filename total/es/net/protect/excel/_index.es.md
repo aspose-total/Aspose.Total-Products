@@ -78,7 +78,18 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — Casos de uso para la protección del libro de trabajo
+
+- Proteger fórmulas, cálculos y modelos financieros de cambios accidentales o intencionales.
+- Bloquear celdas o hojas específicas mientras se permite a los usuarios introducir datos en áreas designadas.
+- Proteger datos comerciales sensibles como presupuestos, previsiones e información de clientes.
+- Controlar el acceso con protección por contraseña y cifrado para cumplir con las políticas de privacidad de datos.
+- Evitar la manipulación en paneles de control y KPI compartidos entre equipos.
+- Proteger herramientas de automatización basadas en macros y hojas de cálculo dinámicas utilizadas en flujos de trabajo operativos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

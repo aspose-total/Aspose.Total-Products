@@ -84,7 +84,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Casos de uso de metadatos de archivos de Microsoft Excel
+
+- Almacenar contexto, propósito y detalles del proyecto para conjuntos de datos a través de propiedades del documento.
+- Identificar propietarios de datos y colaboradores para el seguimiento de versiones y auditorías.
+- Clasificar hojas de cálculo financieras, operativas o de recursos humanos para el control de acceso.
+- Definir ciclos de vida de documentos (por ejemplo, activo, archivado, obsoleto) utilizando metadatos.
+- Habilitar flujos de trabajo automatizados para aprobaciones financieras o informes de pronóstico.
+- Vincular datos de hojas de cálculo con sistemas externos como ERPs o bases de datos a través de metadatos.
+- Utilizar metadatos para paneles de control, linaje de datos o tuberías de inteligencia empresarial.
+- Ayudar a la inteligencia artificial a determinar la estructura, intención y significado del contenido de la hoja de cálculo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

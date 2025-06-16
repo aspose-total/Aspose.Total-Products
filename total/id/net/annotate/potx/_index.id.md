@@ -106,7 +106,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File POTX (Template PowerPoint) digunakan untuk membuat template presentasi non-makro. Menyertakan catatan pada file POTX memastikan kejelasan dalam standar desain dan memudahkan keselarasan tim pada tata letak presentasi yang dapat digunakan kembali.
+
+#### Anotasi File POTX untuk Umpan Balik Template Presentasi Standar:
+
+- **Validasi Branding**  
+  Sisipkan anotasi untuk memverifikasi penggunaan font, warna, dan struktur slide sesuai dengan pedoman merek.
+
+- **Instruksi Tempat Penyisipan Slide**  
+  Berikan komentar tentang cara menggunakan atau mengisi area konten tertentu untuk pengguna akhir.
+
+- **Pembangunan Template Kolaboratif**  
+  Sarankan perbaikan tata letak atau zona konten selama desain template bersama.
+
+- **Template Slide Pendidikan**  
+  Tambahkan catatan pengajaran atau instruksional untuk template akademis.
+
+- **Panduan Lokalisasi**  
+  Anotasi bagian untuk terjemahan atau adaptasi spesifik wilayah.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

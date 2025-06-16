@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos DOC para la gestión de documentos de Word heredados
+
+Los archivos DOC son el formato binario más antiguo utilizado por Microsoft Word. Fusionar archivos `.doc` suele ser necesario para consolidar documentos heredados, archivar o hacer la transición a formatos más nuevos.
+
+#### Casos de uso:
+
+- **Fusión de informes históricos**  
+  Combine informes antiguos en formato `.doc` con fines de archivo o para crear un documento unificado para imprimir o compartir.
+
+- **Actualizaciones de documentos heredados**  
+  Fusionar varios archivos `.doc` que contienen información de proyectos o documentos comerciales en un documento maestro para actualizarlos.
+
+- **Conversión de documentos a formatos modernos**  
+  Fusionar archivos `.doc` antes de convertirlos a `.docx` para mejorar la compatibilidad con sistemas modernos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

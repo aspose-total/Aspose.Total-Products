@@ -78,7 +78,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Použití pro metadatové soubory PDF (`.pdf`)
+
+- Vložte název dokumentu, téma, klíčová slova a autora pro zlepšení objevitelnosti.
+- Uchovávejte metadatové informace o souladu, jako je verze dokumentu, schválení a klasifikace.
+- Uchovávejte informace o digitálních právech pro publikace nebo manuály.
+- Použijte metadata k automatizaci archivace, odstranění nebo označování v obsahových systémech.
+- Umožněte bezpečné sledování dokumentů v právních, zdravotnických nebo akademických prostředích.
+- Integrujte se s obsahovými platformami pro třídění nebo filtrování na základě metadat.
+- Poskytněte metadata systémům AI pro shrnutí, kategorizaci nebo shlukování.
+- Podpora metadat pro přístupnost, jako je jazyk, struktura dokumentu a nápovědy k alternativnímu textu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

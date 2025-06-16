@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات XLT لسير العمل في إكسل القائمة على القوالب
+
+XLT هو تنسيق قالب إكسل لملفات `.xls` (إكسل 97-2003). يساعد دمج ملفات `.xlt` في توحيد وتحديث القوالب القديمة إلى هيكل موحد.
+
+#### حالات الاستخدام:
+
+- **توحيد القوالب القديمة**  
+  دمج العديد من قوالب `.xlt` في قالب رئيسي للتوافق مع الإصدارات السابقة.
+
+- **توحيد قوالب الأقسام**  
+  دمج القوالب القديمة لتقييم وتطوير بديل حديث بتنسيق `.xltx`.
+
+- **أرشفة القوالب التاريخية**  
+  توحيد إصدارات `.xlt` القديمة للامتثال أو الرجوع التاريخي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file DOC per la gestione dei documenti Word legacy
+
+I file DOC sono il formato binario più vecchio utilizzato da Microsoft Word. Unire i file `.doc` è tipicamente necessario per consolidare documenti legacy, archiviare o passare a formati più recenti.
+
+#### Casi d'uso:
+
+- **Unione di report storici**  
+  Combinare vecchi report `.doc` per scopi di archiviazione o per creare un documento unificato da stampare o condividere.
+
+- **Aggiornamenti dei documenti legacy**  
+  Unire più file `.doc` contenenti informazioni su progetti o documenti aziendali in un unico documento principale per gli aggiornamenti.
+
+- **Conversione dei documenti in formati moderni**  
+  Unire i file `.doc` prima di convertirli in `.docx` per una maggiore compatibilità con i sistemi moderni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

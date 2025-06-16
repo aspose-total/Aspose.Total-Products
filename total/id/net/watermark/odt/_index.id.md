@@ -83,7 +83,19 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT adalah format pemroses kata sumber terbuka yang digunakan dalam LibreOffice dan alat serupa.
+
+**Kasus penggunaan umum meliputi:**
+
+- Menunjukkan dokumen publik, pribadi, atau internal saja
+- Menunjukkan kepemilikan kolaboratif atau siklus peninjauan
+- Menanamkan nama organisasi atau informasi lisensi terbuka
+- Mengidentifikasi dokumen untuk rilis sektor publik
+- Mendukung kontrol versi dalam dokumen multi-penulis
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 Sloučení souborů CSV (hodnot oddělených čárkami) pro centralizované správu dat a automatizaci
+
+CSV je formát čistého textu pro tabulková data. Sloučení souborů CSV podporuje agregaci dat, tvorbu reportů a automatizaci toků práce.
+
+#### Případy užití:
+
+- **Jednotné reportování dat**  
+  Sloučení prodejů, inventáře nebo transakčních dat do jednoho souboru CSV pro analýzu.
+
+- **ETL a datová skladba**  
+  Sloučení logů nebo datových sad do konzistentního formátu pro zpracování.
+
+- **Výsledky průzkumů a anket**  
+  Sloučení exportovaných odpovědí z průzkumů pro kombinované vyhodnocení.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

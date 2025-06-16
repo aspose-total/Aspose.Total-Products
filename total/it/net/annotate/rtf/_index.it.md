@@ -123,7 +123,28 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF (Rich Text Format) è un formato file universale supportato su varie piattaforme e processori di testo. Annotare i file RTF migliora la collaborazione, la documentazione e la chiarezza, specialmente in ambienti in cui la neutralità del formato e la compatibilità diffusa sono cruciali.
+
+#### Annotazione dei file RTF per la collaborazione documentale indipendente dalla piattaforma - Casi d'uso:
+
+- **Revisione editoriale multi-piattaforma**  
+  Annotare i file RTF per fornire commenti o note di revisione che rimangono accessibili indipendentemente dal sistema operativo o dal processore di testo dell'utente.
+
+- **Documentazione in ambienti regolamentati**  
+  Aggiungere note relative a regolamenti o conformità in documenti legali, medici o accademici per tracciabilità e chiarezza.
+
+- **Contenuto educativo collaborativo**  
+  Inserire commenti esplicativi nei piani di lezione, nei compiti o nelle guide didattiche condivise tra educatori e studenti.
+
+- **Tracciamento delle versioni e feedback**  
+  Utilizzare le annotazioni per segnare modifiche o aggiunte durante lo sviluppo di contenuti a più fasi.
+
+- **Revisione del contenuto localizzato**  
+  Evidenziare aree in documenti multilingue che richiedono traduzione o adattamento culturale per diverse regioni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

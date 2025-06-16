@@ -123,7 +123,31 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory ODT (OpenDocument Text) jsou součástí standardu OpenDocument používaného textovými procesory jako LibreOffice a OpenOffice. Anotování souborů ODT umožňuje spolupracující úpravy, strukturovanou zpětnou vazbu a podrobnou dokumentaci v rámci ekosystémů s otevřeným zdrojovým kódem.
+
+#### Anotace souborů ODT pro použití v otevřené spolupráci a strukturovaných recenzích:
+
+- **Spolupracující úpravy dokumentů**  
+  Použijte anotace k poskytování zpětné vazby v textu, navrhování změn nebo žádání o objasnění od přispěvatelů.
+
+- **Dokumentace projektů s otevřeným zdrojovým kódem**  
+  Přidejte poznámky k technickým dokumentům, uživatelským průvodcům nebo specifikacím softwaru k usměrňování recenzentů a udržení konzistence.
+
+- **Právní a kontrolní recenze**  
+  Označte části vyžadující kontrolu nebo zdůrazněte problémy s dodržováním předpisů pomocí kontextových komentářů pro transparentní auditování.
+
+- **Akademická recenze od odborníků**  
+  Vložte anotace k hodnocení argumentů, upozornění na chybějící reference nebo navrhování vylepšení v odborných článcích.
+
+- **Průvodce šablonami a opakovaným použitím**  
+  Anotujte opakovaně použitelné šablony ODT s pravidly formátování, popisy zástupců nebo pokyny k obchodní značce.
+
+- **Sledování verzí a historie iterací**  
+  Udržujte komentáře napříč verzemi dokumentu k sledování změn a zpětné vazby v čase.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

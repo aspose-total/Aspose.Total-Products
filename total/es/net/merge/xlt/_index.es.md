@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos XLT para flujos de trabajo de Excel basados en plantillas
+
+XLT es el formato de plantilla de Excel para `.xls` (Excel 97-2003). La fusión de archivos `.xlt` ayuda a estandarizar y actualizar plantillas heredadas en una estructura unificada.
+
+#### Casos de uso:
+
+- **Unificación de plantillas heredadas**  
+  Combinar múltiples plantillas `.xlt` en una plantilla maestra para compatibilidad con versiones anteriores.
+
+- **Estandarización de plantillas departamentales**  
+  Fusionar plantillas antiguas para evaluar y desarrollar una alternativa moderna `.xltx`.
+
+- **Archivo de plantillas históricas**  
+  Consolidar versiones antiguas de `.xlt` por motivos de cumplimiento o referencia histórica.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

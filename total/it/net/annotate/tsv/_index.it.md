@@ -78,7 +78,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file TSV (valori separati da tabulazione) sono comuni nella scienza dei dati e nelle esportazioni di sistema. Le annotazioni aiutano a contrassegnare record specifici, spiegare i valori dei campi o evidenziare le esigenze di trasformazione.
+
+#### Annotare i file TSV per la collaborazione sui dati strutturati - Casi d'uso:
+
+- **Note di pulizia dei dati**: Evidenziare le righe che necessitano di correzione o esclusione manuale.
+- **Set di dati per l'addestramento del modello**: Contrassegnare i casi speciali per la logica di ML successiva.
+- **Commenti sul flusso di lavoro ETL**: Annotare i campi che richiedono mapping o modifiche dello schema.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

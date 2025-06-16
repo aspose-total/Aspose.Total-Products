@@ -76,7 +76,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování souborů XLSX digitálními nebo elektronickými podpisy
+
+XLSX je aktuální standardní formát Excelu a plně podporuje elektronické a digitální podpisy pro finanční a provozní údaje.
+
+## Běžné případy použití
+- Finanční zprávy a rozvahy.
+- Rozpočty a předpovědi oddělení.
+- Výkonnostní dashboardy sdílené k posouzení výkonným vedením.
+- Personální záznamy a shrnutí docházky.
+- Nákupy a cenové listy dodavatelů vyžadující schválení.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

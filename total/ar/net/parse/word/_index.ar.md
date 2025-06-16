@@ -93,7 +93,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 استخدامات تحليل مستند Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **استخراج المحتوى**  
+  استخراج النصوص والجداول والصور من مستندات Word لعرضها على الويب أو فهرسة البحث أو تحليل النص.
+
+- 📰 **معالجة القوالب**  
+  استخدام القوالب `.dot`, `.dotx`, `.dotm` لإنشاء مستندات تلقائية بيانات ديناميكية في سير العمل.
+
+- 🔁 **سير العمل التلقائي**  
+  تلقيم تحليل واستبدال المحتوى في ملفات `.docm` أو `.dotm` التي تتضمن ماكروهات مضمنة.
+
+- 🧾 **تحويل التقارير**  
+  تحويل ملفات `.doc`, `.odt`, أو `.rtf` إلى HTML نظيفة، Markdown، أو PDF للنشر أو التوثيق.
+
+- 📚 **الأرشفة الرقمية**  
+  أرشفة الصيغ القديمة مثل `.doc` و `.rtf` عن طريق تحويلها وفهرستها للمنصات الحديثة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

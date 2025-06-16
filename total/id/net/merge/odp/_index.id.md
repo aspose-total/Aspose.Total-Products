@@ -78,7 +78,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Menggabungkan ODP (OpenDocument Presentation) untuk Pengiriman Slide Terpadu dalam Format Terbuka
+
+File ODP adalah format presentasi untuk LibreOffice dan OpenOffice. Menggabungkan file ODP memungkinkan pengiriman slide terpadu dalam format terbuka.
+
+#### Kasus Penggunaan:
+
+- **Penggabungan Presentasi Sektor Publik**  
+  Gabungkan slide dari berbagai departemen menjadi presentasi komprehensif.
+
+- **Integrasi Slide Pendidikan**  
+  Gabungkan slide kuliah ke dalam satu dokumen pengiriman kursus.
+
+- **Dek Konferensi Kolaboratif**  
+  Gabungkan file ODP pembicara untuk presentasi acara yang terorganisir.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# حالات استخدام توقيع ملفات DOC بتوقيعات رقمية أو إلكترونية
+
+ملفات Microsoft Word DOC ما زالت تستخدم على نطاق واسع في الأنظمة القديمة ومكاتب المحاماة. تطبيق توقيع رقمي على ملف DOC يوثق مصدره ويضمن عدم تلاعب في المحتوى.
+
+## حالات الاستخدام الشائعة
+- العقود القانونية والاتفاقيات المشتركة بتنسيق DOC.
+- نماذج الموارد البشرية ومذكرات الشركات الداخلية.
+- وثائق حكومية صاغت في إصدارات Microsoft Office القديمة.
+- المراسلات الرسمية في الشركات التي تحتفظ بالبرمجيات القديمة.
+- الاقتراحات السرية التي تتطلب التحقق الرقمي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات DOC لإدارة مستندات Word القديمة
+
+ملفات DOC هي التنسيق الثنائي القديم المستخدم في برنامج Microsoft Word. عادة ما يكون دمج ملفات `.doc` ضروريًا لتوحيد المستندات القديمة، أو للأرشفة، أو للانتقال إلى تنسيقات أحدث.
+
+#### حالات الاستخدام:
+
+- **دمج التقارير التاريخية**  
+  دمج تقارير `.doc` القديمة لأغراض الأرشفة أو لإنشاء مستند موحد للطباعة أو المشاركة.
+
+- **تحديثات المستندات القديمة**  
+  دمج ملفات `.doc` متعددة تحتوي على معلومات المشروع أو المستندات التجارية في مستند رئيسي للتحديث.
+
+- **تحويل المستندات إلى تنسيقات حديثة**  
+  دمج ملفات `.doc` قبل تحويلها إلى تنسيق `.docx` لتحسين التوافقية مع الأنظمة الحديثة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

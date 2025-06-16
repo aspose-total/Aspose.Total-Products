@@ -78,7 +78,17 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos XLTX (plantilla de Excel - Open XML) se utilizan para informes estandarizados y repetibles. Anotarlos garantiza claridad en las regiones editables, expectativas de entrada y sugerencias de revisión.
+
+#### Anotar archivos XLTX para plantillas de informes reutilizables - Casos de uso:
+
+- **Instrucciones del informe**: Agregar consejos de uso o notas de actualización para informes recurrentes.
+- **Retroalimentación de diseño**: Anotar visuales, encabezados o estructuras de secciones.
+- **Colaboración de usuarios**: Seguir sugerencias de varios departamentos en una plantilla compartida.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

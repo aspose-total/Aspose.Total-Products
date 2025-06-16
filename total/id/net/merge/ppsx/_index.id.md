@@ -78,7 +78,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan File PPSX untuk Integrasi Presentasi Slide Show Modern
+
+PPSX adalah format berbasis XML modern yang digunakan untuk Slide Show PowerPoint. Menggabungkan file `.ppsx` membantu memusatkan presentasi ke dalam satu format slide show otomatis.
+
+#### Kasus Penggunaan:
+
+- **Kampanye Pemasaran Otomatis**  
+  Gabungkan presentasi `.ppsx` dari berbagai kampanye ke dalam tampilan yang terpadu untuk presentasi klien otomatis.
+
+- **Kompilasi Kursus Pendidikan**  
+  Gabungkan beberapa slide show pelatihan `.ppsx` untuk membuat presentasi siap kursus.
+
+- **Konsolidasi Proposal Proyek**  
+  Gabungkan presentasi `.ppsx` dari proposal proyek yang berbeda ke dalam satu presentasi untuk dipresentasikan kepada klien potensial.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

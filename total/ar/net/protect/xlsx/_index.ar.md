@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | جدول بيانات Microsoft Excel (حديث) — حالات الاستخدام للحماية
+
+- شائع في تقارير الأعمال والتنبؤات ولوحات القياس الرئيسية — تحافظ الحماية على أمان منطق الصيغ.
+- تمنع التغييرات العرضية على مجموعات البيانات أو الرسوم البيانية الحرجة.
+- تُستخدم في بيئات التعاون لتقييد وصول التحرير بينما يتمكن المستخدمون من إدخال البيانات في خلايا محددة.
+- تدعم تشفير جدول البيانات للتعامل مع المعلومات السرية أو المنظمة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

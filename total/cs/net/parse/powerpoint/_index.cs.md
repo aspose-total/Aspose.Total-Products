@@ -87,7 +87,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Formáty Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) Analýza použití
+
+- 🖼️ **Extrakce obsahu snímku**  
+  Extrahovat text, obrázky a informace o rozvržení ze snímků pro souhrny, vyhledávání nebo HTML prezentace.
+
+- 🧩 **Automatizace šablony**  
+  Generovat prezentace z šablon `.potx` nebo `.potm` vložením dynamického obsahu.
+
+- 🎯 **Zpracování makra prezentace**  
+  Bezpečně analyzovat soubory `.pptm`, `.potm` a `.ppsm` obsahující makra nebo automatizaci.
+
+- 📊 **Převod prezentace na web**  
+  Převést soubory `.pptx`, `.odp` nebo `.ppsx` na webové snímky nebo interaktivní formáty.
+
+- 📁 **Indexace snímků**  
+  Indexovat a shrnovat snímky pro systémy správy dokumentů nebo archivy schůzek.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

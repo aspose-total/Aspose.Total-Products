@@ -123,7 +123,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory DOTX (šablony Word Open XML) poskytují čisté šablony bez maker pro moderní verze Wordu. Anotování souborů DOTX podporuje dokumentaci struktury, sdílení zpětné vazby a spolupracovní aktualizace bez ovlivnění integrity designu.
+
+#### Anotace souboru DOTX pro čistou spolupráci na šablonách:
+
+- **Spolupracovní návrh šablony**  
+  Vložte komentáře, abyste navrhli změny v rozvržení, stylech nebo zástupcích.
+
+- **Instrukce na úrovni pole**  
+  Anotujte dynamické sekce s instrukcemi pro koncové uživatele nebo tvůrce obsahu.
+
+- **Verzování a aktualizace**  
+  Použijte anotace k dokumentaci nedávných aktualizací, zastaralých polí nebo poznámek k formátování.
+
+- **Audit šablony**  
+  Komentujte pro potvrzení dodržování formátování, přístupnosti a značkovacích standardů.
+
+- **Integrace recenze zainteresovaných stran**  
+  Umožněte recenze zainteresovaných stran v reálném čase s kontextovou zpětnou vazbou v anotacích.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

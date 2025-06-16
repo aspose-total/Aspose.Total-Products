@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Fusionar ODT (OpenDocument Text) para Colaboración Abierta y Ensamblaje de Documentos
+
+Los archivos ODT son documentos de procesador de texto de código abierto (LibreOffice, OpenOffice). Fusionarlos apoya la colaboración de contenido en formato abierto.
+
+#### Casos de uso:
+
+- **Colaboración de Código Abierto**  
+  Fusionar contribuciones de diferentes autores en formato ODT en un solo documento.
+
+- **Compilación de Documentación**  
+  Combinar capítulos o secciones de manuales o libros escritos en ODT.
+
+- **Informe de Gobierno o ONG**  
+  Consolidar informes creados en formatos de estándar abierto para su presentación.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

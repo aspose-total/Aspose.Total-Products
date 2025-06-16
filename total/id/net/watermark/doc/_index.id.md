@@ -83,7 +83,19 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Format DOC adalah tipe file biner Microsoft Word warisan, masih digunakan dalam sistem-sistem yang lebih lama.
+
+**Kasus penggunaan umum meliputi:**
+
+- Menandai dokumen sebagai Diarsipkan, Warisan, atau Usang
+- Menanamkan nama penulis atau departemen
+- Menetapkan peringatan hukum atau pesan kepatuhan
+- Mencegah pengeditan atau penggunaan ulang dengan menandai sebagai Salinan Akhir
+- Mendukung pencatatan dan jejak audit
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

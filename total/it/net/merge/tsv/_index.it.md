@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file TSV per l'integrazione leggera dei dati
+
+I file TSV (valori separati da tabulazioni) sono simili ai CSV ma utilizzano le tabulazioni come delimitatori. Unire i file `.tsv` è utile quando si lavora con set di dati puliti e strutturati in flussi di lavoro basati su testo.
+
+#### Casi d'Uso:
+
+- **Pipeline di Dati Puliti**  
+  Unisci output `.tsv` da scraping di dati, processi ETL o file di log in un dataset principale.
+
+- **Analisi Scientifica o Statistica**  
+  Combina file di dati sperimentali `.tsv` per una valutazione statistica consolidata.
+
+- **Integrazione tra Sistemi**  
+  Unisci dati `.tsv` da varie piattaforme (log di Linux, sensori, API) per un'ingestione centralizzata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

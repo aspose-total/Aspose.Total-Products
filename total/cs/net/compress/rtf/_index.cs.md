@@ -78,7 +78,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimujte soubory RTF pro zjednodušené ukládání a přenos formátovaného bohatého textu
+
+Soubory RTF (Rich Text Format) se používají pro textové dokumenty s jednoduchým formátováním napříč různými platformami. Avšak když jsou včleněny obrázky nebo rozšířené formátování, mohou se zvětšit velikosti souborů. Komprimace souborů RTF pomáhá zjednodušit používání napříč systémy a pracovními postupy.
+
+#### Případy použití:
+
+- **Přenositelnost napříč platformami**  
+  Snížení velikosti souboru RTF zajistí rychlejší přenos mezi systémy bez degradace formátu.
+
+- **Kompatibilita se staršími systémy**  
+  Komprimujte dokumenty RTF pro plynulejší zpracování v starších aplikacích nebo systémech.
+
+- **Optimalizace vložených prostředků**  
+  Minimalizujte dopad vložených médií (např. loga nebo grafy), abyste udrželi soubory lehké.
+
+- **Efektivní odesílání e-mailů a formulářů**  
+  Komprimované RTF splňují velikostní limity pro nahrávání do formulářů nebo odesílání jako přílohy k e-mailům.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Pengeditan di Microsoft Excel
+
+- Sembunyikan data keuangan seperti gaji, anggaran, atau angka pendapatan sebelum didistribusikan.
+- Sembunyikan data pelanggan atau karyawan dalam lembar penjualan, HR, atau audit.
+- Sembunyikan entri pribadi dalam log data operasional atau administratif.
+- Sembunyikan metrik rahasia dalam lembar perencanaan atau dasbor strategi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

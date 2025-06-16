@@ -78,7 +78,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ Unisci PPSM (PowerPoint Show con Macro) per Presentazioni Interattive e Automazione
+
+I file PPSM sono presentazioni di PowerPoint che includono macro. Unirli può consolidare presentazioni abilitate alle macro per l'automazione o la consegna interattiva.
+
+#### Casi d'Uso:
+
+- **Consegna di Formazione Interattiva**  
+  Unisci moduli di formazione con script di automazione per sessioni di apprendimento più efficienti.
+
+- **Presentazioni Dimostrative di Vendita**  
+  Combina presentazioni di prodotti con transizioni automatizzate ed elementi interattivi.
+
+- **Presentazioni di Automazione dei Processi**  
+  Unisci più set di diapositive abilitate alle macro per tutorial sui processi interni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

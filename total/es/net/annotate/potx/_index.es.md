@@ -106,7 +106,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos POTX (plantillas de PowerPoint) se utilizan para crear plantillas de presentación sin macros. Anotar archivos POTX garantiza claridad en los estándares de diseño y facilita la alineación del equipo en los diseños de presentación reutilizables.
+
+#### Anotación de archivos POTX para comentarios estándar en plantillas de presentación:
+
+- **Validación de Marca**  
+  Insertar anotaciones para verificar el uso de fuentes, colores y estructura de diapositivas que coincidan con las pautas de la marca.
+
+- **Instrucciones de Marcadores de Posición de Diapositivas**  
+  Comentar cómo usar o completar áreas de contenido específicas para los usuarios finales.
+
+- **Construcción Colaborativa de Plantillas**  
+  Sugerir mejoras de diseño o zonas de contenido durante el diseño compartido de plantillas.
+
+- **Plantillas de Diapositivas Educativas**  
+  Agregar notas de enseñanza o instrucciones para plantillas académicas.
+
+- **Orientación de Localización**  
+  Anotar secciones para traducción o adaptación específica de la región.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

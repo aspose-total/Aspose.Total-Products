@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات XLSM لسير العمل في إكسل الممكنة
+
+ملفات XLSM هي سجلات عمل إكسل تدعم البرامج النصية. يجب أن يحافظ دمج ملفات .xlsm على البيانات والبرامج النصية المضمنة المستخدمة للتلقائية أو الحسابات.
+
+#### حالات الاستخدام:
+
+- **تقارير المهام التلقائية**  
+  دمج الأوراق الممكنة للبرامج النصية التي تقوم بتلقين المهام أو مهام التحقق في ملف مركزي.
+
+- **دمج قوالب سير العمل**  
+  دمج قوالب .xlsm المستخدمة في الإدارات المختلفة في كتاب عمل واحد للتلقائية المبسطة.
+
+- **مستودع رموز VBA المركزي**  
+  دمج الملفات ذات البرامج النصية المماثلة لتوحيد المنطق وتقليل التكرار عبر الإدارات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

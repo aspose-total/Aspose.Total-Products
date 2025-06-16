@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات DOT لإدارة القوالب التقليدية
+
+ملفات DOT هي قوالب Word تستخدم مع الإصدارات القديمة من Microsoft Word (قبل DOCX). يساعد دمج ملفات `.dot` في توحيد تنسيق الوثائق وضمان التوافق مع الأنظمة التقليدية.
+
+#### حالات الاستخدام:
+
+- **توحيد القوالب**  
+  دمج قوالب `.dot` المختلفة المستخدمة من قبل فرق مختلفة لإنشاء قالب واحد موحد لإنشاء الوثائق.
+
+- **أرشفة القوالب التقليدية**  
+  دمج قوالب `.dot` للتخزين على المدى الطويل أو للهجرة إلى تنسيق `.dotx` الأكثر حداثة.
+
+- **تحديث مكتبات القوالب**  
+  دمج ملفات `.dot` متعددة تحتوي على تنسيقات أو أنماط قديمة لتحديثها إلى قالب واحد.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

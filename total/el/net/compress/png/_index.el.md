@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συμπίεση αρχείων PNG για υψηλή διαφάνεια και ελαφριά γραφικά
+
+Το PNG (Portable Network Graphics) υποστηρίζει διαφάνεια και απώλεια ποιότητας, αλλά μπορεί να οδηγήσει σε μεγάλα αρχεία. Η συμπίεση είναι κρίσιμη για περιπτώσεις που επικεντρώνονται στην απόδοση.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Διαφανείς Εικονίδια και Λογότυπα στον Ιστό**  
+  Συμπιέστε τα PNG για να διατηρήσετε την καθαρή εμφάνιση μείωνοντας τον χρόνο φόρτωσης της ιστοσελίδας.
+
+- **Στοιχεία Διεπαφής Εφαρμογής**  
+  Χρησιμοποιήστε συμπιεσμένα PNG για κουμπιά, εικονίδια και στοιχεία διεπαφής χρήστη για μείωση του μεγέθους του πακέτου της εφαρμογής.
+
+- **Ψηφιακά Πορτφόλια Γραφικών Σχεδιασμού**  
+  Βελτιστοποιήστε τα PNG στα ψηφιακά πορτφόλια για ταχύτερη προεπισκόπηση χωρίς να υποχωρεί η οπτική ποιότητα.
+
+- **Μικρογραφίες E-Commerce**  
+  Χρησιμοποιήστε ελαφριά PNG στις σελίδες προϊόντων για ταχύτερη φόρτωση διατηρώντας τη λεπτομέρεια.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

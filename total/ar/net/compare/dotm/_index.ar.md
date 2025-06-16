@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### مقارنة ملف DOTM لحالات استخدام التحقق من صحة القالب القابل للتمكين من الماكرو:
+
+تجمع ملفات DOTM بين قوالب الوثائق القابلة لإعادة الاستخدام مع الماكروهات المضمنة. يكشف مقارنة إصدارات DOTM عن التغييرات في التخطيط ومنطق الماكرو، وهو أمر حاسم لسلامة الأتمتة.
+
+- **مراقبة سير العمل للماكرو**  
+  التحقق مما إذا تم تغيير أو إهمال منطق الأتمتة في القالب.
+
+- **فحوصات توحيد القوالب**  
+  تتبع التحديثات البصرية أو الهيكلية في القوالب القابلة لإعادة الاستخدام عبر الفِرق.
+
+- **سجلات تدقيق الأتمتة**  
+  الحفاظ على سجلات لما تغير بين إصدارات القوالب الأتمتية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

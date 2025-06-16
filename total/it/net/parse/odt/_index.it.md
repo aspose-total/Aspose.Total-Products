@@ -93,7 +93,15 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casi d'uso per l'analisi dei file .odt
+
+- 📄 Estrarre testo, immagini e metadati dai file di testo di OpenDocument.
+- 🧾 Convertire i file `.odt` in HTML, Markdown o PDF per la pubblicazione.
+- 📚 Archiviare i formati di documenti open-source convertendo e indicizzando i contenuti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم ملفات POTX (قالب PowerPoint) لإنشاء قوالب عروض تقديمية بدون ماكرو. تضمين تعليقات على ملفات POTX يضمن وضوح معايير التصميم ويسهل توحيد الفريق على تخطيطات العروض التقديمية القابلة لإعادة الاستخدام.
+
+#### تعليق ملف POTX لردود فعل قالب العرض التقديمي القياسي:
+
+- **التحقق من العلامة التجارية**  
+  إدراج تعليقات للتحقق من استخدام الخطوط والألوان وهيكل الشرائح يتطابق مع إرشادات العلامة التجارية.
+
+- **تعليمات مكان الشريحة**  
+  التعليق على كيفية استخدام أو ملء مناطق المحتوى المحددة للمستخدمين النهائيين.
+
+- **بناء القوالب التعاونية**  
+  اقتراح تحسينات التخطيط أو مناطق المحتوى أثناء تصميم القالب المشترك.
+
+- **قوالب الشرائح التعليمية**  
+  إضافة ملاحظات تعليمية أو تعليمية للقوالب الأكاديمية.
+
+- **إرشادات التوطين**  
+  تعليق على الأقسام المراد ترجمتها أو التكيف الخاص بالمنطقة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

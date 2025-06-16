@@ -79,7 +79,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas XLTM untuk Template yang Mendukung Makro
+
+Berkas XLTM adalah template yang mendukung makro yang digunakan untuk mengotomatisasi tugas-tugas berulang di Excel. Menggabungkannya berguna saat menyatukan logika otomatisasi atau memigrasikan alur kerja.
+
+#### Kasus Penggunaan:
+
+- **Perpustakaan Otomatisasi Alur Kerja**  
+  Gabungkan template `.xltm` yang berisi berbagai makro untuk berbagai fungsi ke dalam satu template terpusat.
+
+- **Integrasi Template yang Spesifik untuk Departemen Tertentu**  
+  Gabungkan template yang mendukung makro dari departemen-departemen berbeda untuk memperstandarisasi otomatisasi proses.
+
+- **Audit Proses Berbasis Makro**  
+  Gabungkan template `.xltm` untuk meninjau makro yang tertanam untuk kepatuhan dan optimisasi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů JPEG pro sjednocení obrazových dat
+
+JPEG (Joint Photographic Experts Group) je jedním z nejoblíbenějších formátů obrázků díky své efektivitě komprese a rozšířenému použití. Sloučení více souborů JPEG je často potřebné pro vytváření koláží, fotoknih nebo při sjednocování podobných obrazových dat.
+
+#### Případy použití:
+
+- **Vytváření fotoknih**  
+  Sloučení více souborů `.jpeg` nebo `.jpg` obrázků pro vytvoření sjednocené fotoknihy k tisku nebo digitálnímu sdílení.
+
+- **Koláže obrázků**  
+  Sloučení několika souborů `.jpeg` obrázků do jedné koláže pro marketing, události nebo osobní použití.
+
+- **Sjednocení obrázků produktů**  
+  Sloučení různých obrázků produktů do jednoho souboru pro katalog produktů nebo online obchod.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

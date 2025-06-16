@@ -78,7 +78,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprese souborů DOT pro správu zastaralých šablon Wordu
+
+Soubory DOT (šablony Wordu 97–2003) jsou starší šablony Wordu, které mohou obsahovat bohaté formátování nebo obrázky. Komprimace souborů DOT zlepšuje efektivitu a přenositelnost zastaralých šablonových systémů.
+
+#### Případy použití:
+
+- **Úklid šablonové knihovny**  
+  Snížení velikosti souborů DOT pro udržení kompaktní a organizované šablonové knihovny.
+
+- **Rychlejší načítání na zastaralých systémech**  
+  Menší soubory DOT zlepšují dobu odezvy na starších počítačích nebo virtuálních prostředích.
+
+- **Kompaktní zálohování**  
+  Archivace zastaralých šablon ve formě komprimovaných souborů pro snížení nákladů na dlouhodobé uchování.
+
+- **Šablony firemní politiky**  
+  Umožnění rychlejší distribuce standardních šablon DOT napříč odděleními.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

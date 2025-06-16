@@ -71,7 +71,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei file GIF con firme digitali o elettroniche
+
+Sebbene non sia comune per i documenti, i GIF con diagrammi o istruzioni possono essere firmati elettronicamente per certificarne l'origine e la credibilità.
+
+## Casi d'uso comuni
+- Processi animati passo dopo passo nella formazione.
+- Materiali didattici per il supporto clienti.
+- Clip di immagini mediche nella telemedicina.
+- Dimostrazioni di prodotto nell'integrazione.
+- Micro-animazioni educative che richiedono convalida.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

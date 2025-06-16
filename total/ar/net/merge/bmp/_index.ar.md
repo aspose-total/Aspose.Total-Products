@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات BMP لمعالجة صور البتماب
+
+يعتبر BMP (Bitmap) تنسيق صور غير مضغوط يُستخدم عادة للصور عالية الجودة والتفاصيل. يكون دمج ملفات .bmp ضروريًا عند العمل مع الرسومات القائمة على البكسل، الفن، أو الصور الممسوحة التي تحتاج إلى توحيدها.
+
+#### حالات الاستخدام:
+
+- **استعادة صور عالية الجودة**  
+  دمج صور .bmp التي تمثل أجزاء مختلفة من صورة عالية الدقة في صورة مركبة واحدة.
+
+- **معالجة مستندات ممسوحة**  
+  دمج ملفات .bmp متعددة تحتوي على أقسام مختلفة من المستندات الممسوحة أو القطع الفنية في ملف واحد.
+
+- **سير العمل للتصميم الجرافيكي**  
+  دمج صور .bmp أثناء عملية التصميم الجرافيكي حيث يكون هناك حاجة لصور عالية الجودة وغير المضغوطة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

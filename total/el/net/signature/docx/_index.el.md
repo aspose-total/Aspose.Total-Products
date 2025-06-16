@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων DOCX με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Το DOCX είναι το προεπιλεγμένο μορφότυπο για το Microsoft Word και υποστηρίζει τη στέρεη ενσωμάτωση με πλατφόρμες ψηφιακών και ηλεκτρονικών υπογραφών.
+
+## Κοινές Χρήσεις
+- Προσφορές εργασίας και συμφωνίες ανθρώπινου δυναμικού.
+- Νομικά έγγραφα που απαιτούν ανθεκτική ψηφιακή πιστοποίηση.
+- Ακαδημαϊκά γράμματα, πιστοποιητικά και μεταγραφές.
+- Εταιρικά έγγραφα στρατηγικής και πρακτικών συνεδριάσεων.
+- Προτάσεις προς πελάτες και εύρος έργου με εξουσιοδοτημένες υπογραφές.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تحتوي ملفات DOTM (قالب ممكّن بماكرو) على سيناريوهات تلقائية لتعزيز الإنتاجية. تعليق ملفات DOTM يضمن توثيق سلوكيات الماكرو ويسهل تتبع الأخطاء وجمع الملاحظات.
+
+#### تعليق ملف DOTM لحالات استخدام مراجعة القوالب الممكّنة بماكرو:
+
+- **توثيق تعليمات الماكرو والمنطق**  
+  قم بتعليق الحقول المُشغّلة بالماكرو لتوضيح الوظيفة والنتائج المتوقعة.
+
+- **مراجعة واختبار التلقائي**  
+  أدخل ملاحظات لتحديد تنفيذات الماكرو الناجحة أو الفاشلة أثناء التجربة.
+
+- **شرح سلوك القالب**  
+  علق على أقسام التخطيط أو التنسيق التلقائية لمساعدة المستخدمين على فهم تدفق القالب.
+
+- **تضمين مواد تدريب المستخدمين**  
+  أضف تلميحات تعليمية مباشرة إلى القوالب لتسهيل تدريب المستخدمين الجدد.
+
+- **عزل الأخطاء**  
+  استخدم التعليقات لعزل وشرح الأخطاء الناجمة عن تنفيذ الماكرو.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

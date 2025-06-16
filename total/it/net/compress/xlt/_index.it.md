@@ -75,7 +75,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimere i file XLT per l'ottimizzazione dei modelli di Excel legacy
+
+I file XLT (modello Excel 97-2003) possono diventare grandi a causa degli elementi incorporati o dei dati di esempio. Comprimere i file XLT rende le librerie dei modelli più snelle e più facili da distribuire.
+
+#### Casi d'uso:
+
+- **Portabilità dei modelli legacy**  
+  Invia modelli standard compressi per una distribuzione più veloce nei sistemi aziendali più vecchi.
+
+- **Efficienza del repository dei modelli**  
+  Mantieni gli archivi dei modelli leggeri per un accesso centralizzato e un recupero veloce.
+
+- **Riduzione del tempo di caricamento del modello**  
+  Ottimizza i sistemi più vecchi comprimendo i file XLT per un'apertura e un utilizzo più veloci.
+
+- **Backup e ottimizzazione dello storage**  
+  Riduci lo storage a lungo termine dei modelli legacy tramite la compressione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | Texto de documento abierto — Casos de uso para protección
+
+- Utilizado en entornos de código abierto (por ejemplo, LibreOffice).
+- Necesita protección para garantizar consistencia en múltiples plataformas de software.
+- Útil al manejar documentos colaborativos entre plataformas.
+- Ayuda a evitar cambios estructurales no autorizados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

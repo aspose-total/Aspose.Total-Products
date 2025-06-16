@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ تنسيقات Microsoft PowerPoint (potm، potx، ppsm، ppsx، pptm، pptx، odp) حالات استخدام التحليل
+
+- 🖼️ **استخراج محتوى الشرائح**  
+  استخراج النصوص والصور وتفاصيل التخطيط من الشرائح للملخصات أو البحث أو عروض الشرائح HTML.
+
+- 🧩 **أتمتة القوالب**  
+  إنشاء عروض تقديمية من قوالب `.potx` أو `.potm` عن طريق إدراج محتوى ديناميكي.
+
+- 🎯 **معالجة العروض التقديمية للماكرو**  
+  تحليل ملفات `.pptm`، `.potm`، و`.ppsm` بأمان تحتوي على ماكروهات أو أتمتة.
+
+- 📊 **تحويل العروض التقديمية إلى الويب**  
+  تحويل ملفات `.pptx`، `.odp`، أو `.ppsx` إلى شرائح ويب أو تنسيقات تفاعلية.
+
+- 📁 **فهرسة الشرائح**  
+  فهرسة وتلخيص الشرائح لأنظمة إدارة المستندات أو أرشيف الاجتماعات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

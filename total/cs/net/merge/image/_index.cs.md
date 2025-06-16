@@ -81,7 +81,30 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Obrázkové soubory (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Slučování obrázkových souborů do jednoho vizuálního výstupu nebo strukturovaného formátu (např. PDF, koláže nebo sprite) podporuje pracovní postupy designu, dokumentace a digitálního publikování.
+
+#### Případy použití:
+
+- **Vytváření digitálních alb**  
+  Slučování obrázků z dovolené, událostí nebo portfolia do jedné galerie nebo fotoknihy.
+
+- **Konsolidace designových prostředků**  
+  Slučování UI návrhů, grafiky pro sociální média nebo prvků branding do jednoho referenčního souboru pro kontrolu klientem.
+
+- **Seskupení naskenovaných dokumentů**  
+  Slučování naskenovaných obrázkových souborů do jednoho archivu nebo dokumentu pro účely ukládání nebo sdílení.
+
+- **Vizuální porovnání a předtím-po**  
+  Slučování souborů obrázků pro vytvoření vizuálních porovnání v reportech nebo marketingových materiálech.
+
+- **Školení nebo manuály k výrobkům**  
+  Slučování anotovaných snímků obrazovky nebo fotografií výrobků do sekvencí instruktážního obsahu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

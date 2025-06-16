@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+صيغة PPTX (عرض تقديمي لـ PowerPoint) هي الصيغة القياسية للشرائح القابلة للتحرير. دعم تعليق ملفات PPTX يدعم تطوير الشرائح بالتعاون، وتتبع الإصدارات، وجمع التعليقات.
+
+#### تعليق ملف PPTX لتصميم العروض بالتعاون - حالات الاستخدام:
+
+- **تعليقات على محتوى الشريحة**  
+  إدراج تعليقات حول دقة النص، وتوجيه التصميم، أو تحسينات على تصور البيانات.
+
+- **تطوير العروض التقديمية للفريق**  
+  استخدام التعليقات لتعيين مسؤوليات الشرائح أو ملاحظة الأقسام غير المكتملة.
+
+- **تعزيز التدريب والتعلم**  
+  إضافة توجيهات للمتعلمين، ملاحظات المدرب، أو تعليقات الاختبار.
+
+- **تعديلات التصميم والتخطيط**  
+  وضع علامات على المناطق التي تحتاج إلى تنسيق بصري، أو تعديلات في التباعد، أو تحديثات في الأسلوب.
+
+- **مراجعة متعددة اللغات**  
+  تعليق على الأقسام التي تتطلب ترجمة أو فحص التعريب.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

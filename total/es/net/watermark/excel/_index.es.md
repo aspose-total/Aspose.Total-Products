@@ -76,7 +76,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excel se utiliza ampliamente para trabajos basados en datos. El marca de agua en las hojas de Excel ayuda a comunicar confidencialidad y contexto, especialmente durante revisiones de datos o divulgaciones financieras.
+
+**Los casos de uso comunes incluyen:**
+
+- Identificar las hojas de cálculo como preliminares, sensibles o verificadas
+- Prevenir el mal uso de cálculos o pronósticos propietarios
+- Etiquetar hojas para auditoría interna o informes financieros
+- Marcar tableros de control con marca de agua para control de distribución
+- Etiquetar datos como obsoletos, archivados o en pruebas
+- Indicar la propiedad de modelos financieros o análisis.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

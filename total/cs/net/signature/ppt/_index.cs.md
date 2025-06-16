@@ -73,7 +73,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Použití podpisu souborů PPT digitálními nebo elektronickými podpisy
+
+Soubory PPT, používané ve starších verzích Microsoft PowerPoint, lze elektronicky podepsat k potvrzení authenticity prezentacních materiálů.
+
+## Běžné případy použití
+- Staré prodejní prezentace vyžadující schválení.
+- Archivované prezentace pro právní ověření.
+- Výukové materiály vlády ve formátu PPT.
+- Produktové prezentace vyžadující formální schválení.
+- Konferenční prezentace vyžadující ověření řečníka.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -84,7 +84,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Casi d'uso dei metadati dei file di Microsoft Excel
+
+- Memorizzare contesto, scopo e dettagli del progetto per i set di dati tramite le proprietà del documento.
+- Identificare i proprietari dei dati e i contributori per il tracciamento delle versioni e l'audit.
+- Classificare fogli di calcolo finanziari, operativi o delle risorse umane per il controllo degli accessi.
+- Definire i cicli di vita dei documenti (ad esempio, attivo, archiviato, obsoleto) utilizzando i metadati.
+- Abilitare flussi di lavoro automatizzati per approvazioni finanziarie o report di previsione.
+- Collegare i dati dei fogli di calcolo con sistemi esterni come ERP o database tramite metadati.
+- Utilizzare i metadati per dashboard, lineage dei dati o pipeline di business intelligence.
+- Aiutare l'IA a determinare la struttura, l'intento e la rilevanza dei contenuti dei fogli di calcolo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

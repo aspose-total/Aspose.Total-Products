@@ -78,7 +78,17 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLT (Excel Template) soubory poskytují předdefinované struktury pro tabulky. Poznámky pomáhají identifikovat zástupce, poskytovat pokyny nebo zachytávat zpětnou vazbu během úpravy šablony.
+
+#### Anotace XLT souborů pro úpravu šablony - Případy použití:
+
+- **Pokyny k šabloně**: Přidejte komentáře k řízení koncových uživatelů na vstupních polích.
+- **Hodnocení šablony**: Anotujte vzorce nebo návrhy na zlepšení rozvržení.
+- **Poznámky týmu**: Spolupracujte na počátečních návrzích šablon s kontextovými poznámkami.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

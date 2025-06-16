@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات DOCM لمستندات Word التي تدعم الماكرو
+
+ملفات DOCM هي مستندات Word التي تدعم الماكرو. يكون دمج ملفات .docm مفيدًا عند دمج المستندات التي تحتوي على ماكروهات مضمنة للتأتير أو المعالجة.
+
+#### حالات الاستخدام:
+
+- **توحيد التقارير التلقائية**  
+  دمج تقارير .docm التي تستخدم ماكروهات لأتمتة إنشاء البيانات المنسقة أو الرسوم البيانية أو الجداول في مستند مركزي.
+
+- **إنشاء مستندات تدعمها الماكرو**  
+  دمج ملفات .docm التي تدعم الماكرو للحفاظ على ميزات الأتمتة وتوحيدها عبر تقارير أو مستندات مختلفة.
+
+- **دمج سير العمل للمستندات**  
+  دمج المستندات التي تحتوي على وظائف ماكرو مماثلة لتحسين سير العمل في إنشاء المستندات عبر الفرق.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

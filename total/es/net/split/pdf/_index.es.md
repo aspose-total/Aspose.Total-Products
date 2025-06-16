@@ -72,7 +72,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Casos de uso para la división de documentos PDF
+
+- Extraer páginas relevantes de archivos PDF grandes para facilitar su compartición y revisión.
+- Separar informes o contratos de varias secciones en documentos individuales.
+- Permitir la edición colaborativa o la anotación distribuyendo partes más pequeñas de PDF.
+- Proteger información sensible dividiendo y controlando el acceso a diferentes secciones.
+- Crear documentos personalizados generando PDF separados a partir de archivos maestros.
+- Reducir el tamaño del archivo para cumplir con las restricciones de correo electrónico o carga dividiendo PDF.
+- Archivar documentos de manera más eficiente categorizando el contenido en archivos más pequeños.
+- Reorganizar y ensamblar PDF personalizados dividiendo y fusionando páginas relevantes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

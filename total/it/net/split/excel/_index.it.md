@@ -75,7 +75,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Casi d'uso per la suddivisione dei fogli di calcolo
+
+- Dividere i grandi workbook in fogli più piccoli per semplificare la gestione dei dati e migliorare le prestazioni.
+- Assegnare fogli di lavoro specifici a diversi membri del team per la modifica simultanea.
+- Automatizzare l'elaborazione dei dati separando le sezioni per l'analisi o la segnalazione individuale.
+- Condividere parti rilevanti di un workbook senza esporre l'intero dataset.
+- Creare report personalizzati suddividendo un file principale in versioni personalizzate.
+- Gestire modelli finanziari o inventari di grandi dimensioni suddividendoli in pezzi gestibili.
+- Migliorare la collaborazione isolando i dati sensibili in fogli separati e protetti.
+- Archiviare i dati storici separatamente per ottimizzare le dimensioni del file attuale e la velocità di accesso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

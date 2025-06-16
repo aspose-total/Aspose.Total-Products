@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات TIFF لدمج الصور عالية الجودة
+
+يُستخدم تنسيق TIFF (Tagged Image File Format) على نطاق واسع للصور عالية الجودة التي تتطلب ضغطًا بدون فقدان البيانات أو بدون ضغط على الإطلاق. يعتبر دمج ملفات `.tiff` مفيدًا لدمج المسح، والمستندات متعددة الصفحات، أو الصور الكبيرة.
+
+#### حالات الاستخدام:
+
+- **إنشاء مستند متعدد الصفحات**  
+  دمج ملفات `.tiff` متعددة تمثل صفحات من مستند إلى ملف واحد متعدد الصفحات لسهولة العرض أو الطباعة.
+
+- **المسح عالي الدقة**  
+  دمج ملفات `.tiff` تحتوي على أقسام ممسوحة ضوئيًا من الأعمال الفنية، والمستندات، أو الخطط الزرقاء في صورة واحدة عالية الدقة.
+
+- **الأرشفة والحفظ**  
+  دمج ملفات `.tiff` لأغراض الأرشفة حيث تكون جودة الصورة والحفاظ على التفاصيل أمرًا حرجيًا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

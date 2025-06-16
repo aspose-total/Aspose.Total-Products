@@ -75,7 +75,28 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+فتح ملفات .odp يسمح للمستخدمين بتعديلها أو إعادة استخدامها أو تحويلها، وهي عادة ما تكون عروض OpenDocument التي تم إنشاؤها في LibreOffice أو OpenOffice. قد تكون هذه الملفات مقيدة بسبب حماية كلمة المرور أو إعدادات الإذن المضمنة. يتيح الفتح تحرير متعدد المنصات، خاصة عند نقل المحتوى إلى Microsoft PowerPoint أو Google Slides، وهو أمر حيوي للمعلمين والمؤسسات العامة والمنظمات التي توزع مواد بتنسيق مفتوح.
+
+#### **ODP (OpenDocument Presentation)**
+
+- **تحرير متعدد المنصات**
+  قم بفتح ملفات `.odp` التي تم إنشاؤها في LibreOffice أو OpenOffice للتحرير في Microsoft PowerPoint أو Google Slides.
+
+- **التوافق في الفرق**
+  قم بإزالة القيود عند العمل عبر أجهزة مكتبية مختلفة (LibreOffice ↔ MS Office).
+
+- **استخراج المحتوى المفتوح**
+  احصل على الوصول إلى الصور المضمنة أو النصوص أو الرسوم البيانية للمواد التعليمية أو الوثائق العامة.
+
+- **إنشاء إصدارات يمكن مشاركتها علنًا**
+  قم بفتح ملفات ODP الأكاديمية أو الحكومية للتنسيق أو الترجمة أو التوزيع العام.
+
+- **استعادة المحتوى الذي لا يمكن الوصول إليه**
+  مفيد عند التعامل مع ODPs المحمية بكلمة مرور حيث تم فقدان المؤلفين الأصليين أو المفاتيح.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

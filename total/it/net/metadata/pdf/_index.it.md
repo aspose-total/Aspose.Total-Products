@@ -78,7 +78,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Casi d'uso per i file PDF (`.pdf`) Metadata
+
+- Incorporare il titolo del documento, il soggetto, le parole chiave e l'autore per migliorare la scopribilità.
+- Conservare i metadati di conformità come la versione del documento, le approvazioni e le classificazioni.
+- Mantenere le informazioni sui diritti digitali per pubblicazioni o manuali.
+- Utilizzare i metadati per automatizzare l'archiviazione, la cancellazione o l'etichettatura nei sistemi di contenuti.
+- Abilitare il tracciamento sicuro dei documenti in contesti legali, sanitari o accademici.
+- Integrare con piattaforme di contenuti per la classificazione o il filtraggio basato sui metadati.
+- Fornire metadati ai sistemi di intelligenza artificiale per la sintesi, la categorizzazione o il clustering.
+- Supportare i metadati di accessibilità come la lingua, la struttura del documento e suggerimenti di testo alternativo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file PNG per la fusione di immagini senza perdita di dati
+
+PNG (Portable Network Graphics) è un formato di immagine senza perdita di dati molto diffuso che supporta la trasparenza. Unire file `.png` è necessario quando si combinano risorse per grafica, web design e altre applicazioni di alta qualità.
+
+#### Casi d'uso:
+
+- **Gestione delle risorse per il web design**  
+  Unisci immagini `.png` per creare grafiche complesse per siti web, banner o post sui social media.
+
+- **Combinazione di loghi**  
+  Unisci più file `.png` contenenti varianti del logo o elementi di branding in un'unica immagine unificata per presentazioni o linee guida del marchio.
+
+- **Grafica per il marketing digitale**  
+  Combina immagini `.png` per banner pubblicitari o post sui social media in cui la qualità e la trasparenza sono essenziali.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

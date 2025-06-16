@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS هو تنسيق جدول بيانات ثنائي تقليدي يستخدم في إصدارات Excel الأولى.
+
+**تشمل حالات الاستخدام الشائعة:**
+
+- تسمية جداول البيانات كـ قديمة، للأرشيف، أو مسودة
+- إضافة هوية المالك أو تاريخ الإنشاء
+- التحذير من التعديلات غير المصرح بها
+- وضع علامة على البيانات كـ للاستخدام الداخلي فقط
+- تحديد جداول البيانات لتقديمها للتدقيق
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

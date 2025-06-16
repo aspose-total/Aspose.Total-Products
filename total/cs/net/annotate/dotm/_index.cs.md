@@ -123,7 +123,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory DOTM (šablony s povolenými makry) obsahují automatizační skripty pro zvýšení produktivity. Anotace souborů DOTM zajišťuje dokumentaci chování maker a usnadňuje sledování chyb a sběr zpětné vazby.
+
+#### Anotace souboru DOTM pro použití při kontrole šablony s povolenými makry:
+
+- **Dokumentace instrukcí a logiky maker**  
+  Anotujte pole spouštěná makrem, abyste objasnili funkcionalitu a očekávané výsledky.
+
+- **Hodnocení a testování automatizace**  
+  Vložte poznámky označující úspěšné nebo neúspěšné provedení maker během testování.
+
+- **Vysvětlení chování šablony**  
+  Komentujte automatizované části rozložení nebo formátování, abyste uživatelům pomohli porozumět průběhu šablony.
+
+- **Vložení materiálu pro školení uživatelů**  
+  Přidejte přímé pokyny k učení přímo do šablon, abyste usnadnili zaškolování uživatelů.
+
+- **Izolace chyb**  
+  Použijte anotace k izolaci a vysvětlení chyb způsobených provedením maker.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

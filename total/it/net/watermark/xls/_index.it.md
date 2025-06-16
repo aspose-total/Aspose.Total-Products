@@ -76,7 +76,19 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS è il formato binario legacy del foglio di calcolo utilizzato dalle prime versioni di Excel.
+
+**I casi d'uso comuni includono:**
+
+- Etichettare i fogli di calcolo come Obsoleti, Per Archivio o Bozza
+- Aggiungere l'identità del proprietario o la data di creazione
+- Avvertire contro modifiche non autorizzate
+- Contrassegnare i dati come ad uso interno
+- Identificare i fogli di calcolo per la presentazione di audit
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

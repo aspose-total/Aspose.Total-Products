@@ -78,7 +78,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | Hoja de cálculo de OpenDocument — Casos de uso para protección
+
+- Se utiliza en entornos de código abierto como LibreOffice para el seguimiento de presupuestos y el intercambio de datos.
+- Protege las fórmulas de celdas y cálculos en flujos de trabajo multiplataforma.
+- Evita cambios estructurales en modelos financieros colaborativos o documentos del sector público.
+- Asegura la consistencia al compartirse entre múltiples partes interesadas o departamentos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

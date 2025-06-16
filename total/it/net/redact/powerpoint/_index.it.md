@@ -78,7 +78,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Redazione in Microsoft PowerPoint
+
+- Redigere contenuti strategici, timeline o piani non ancora pubblicati nelle presentazioni aziendali.
+- Censurare immagini, grafici o note confidenziali dalle diapositive di marketing o formazione.
+- Censurare nomi dei clienti, cifre finanziarie o KPI interni prima della condivisione esterna.
+- Censurare immagini sensibili nelle proposte, presentazioni o briefing agli investitori.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

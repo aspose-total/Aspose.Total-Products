@@ -74,7 +74,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Archivos DOCX con Firmas Digitales o Electrónicas
+
+DOCX es el formato predeterminado para Microsoft Word y admite una integración sólida con plataformas de firmas digitales y electrónicas.
+
+## Casos de Uso Comunes
+- Cartas de oferta de empleo y acuerdos de recursos humanos.
+- Documentos legales que requieren certificación digital a prueba de manipulaciones.
+- Cartas académicas, certificados y expedientes.
+- Documentos de estrategia corporativa y actas de reuniones.
+- Propuestas de clientes y alcances de proyectos con aprobaciones autorizadas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

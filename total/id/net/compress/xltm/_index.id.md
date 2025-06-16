@@ -75,7 +75,27 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompres File XLTM untuk Template Excel yang Mendukung Macro
+
+File XLTM (Template Excel yang Mendukung Macro) mencakup macro untuk otomatisasi yang dapat digunakan kembali. Ini dapat menjadi besar dengan logika tertanam atau data uji. Kompresi membantu dalam berbagi lebih cepat dan pencadangan yang aman.
+
+#### Kasus Penggunaan:
+
+- **Berbagi Template Otomatisasi**  
+  Bagikan template macro ke tim atau klien menggunakan versi XLTM yang terkompres.
+
+- **Alur Kerja Pengujian yang Tersusun**  
+  Kompres versi-versi berbeda dari template XLTM untuk pengujian dan implementasi yang lebih cepat.
+
+- **Pustaka Template Terpusat**  
+  Pertahankan pustaka template macro yang ringkas menggunakan format yang terkompres.
+
+- **Pencadangan DevOps yang Efisien**  
+  Simpan versi-versi terkompres dari template otomatisasi untuk rollback dan versi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

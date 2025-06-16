@@ -78,7 +78,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos ODT para una gestión ligera de documentos de texto OpenDocument
+
+Los archivos ODT (OpenDocument Text), a menudo utilizados en suites de oficina de código abierto como LibreOffice, pueden aumentar de tamaño debido a imágenes incrustadas, tablas y formato avanzado. Comprimir archivos ODT garantiza una mejor portabilidad y rendimiento en diferentes sistemas.
+
+#### Casos de uso:
+
+- **Compartir documentos optimizados**  
+  Reduzca el tamaño de los archivos ODT para cargas más rápidas, adjuntos de correo electrónico y colaboración en línea sin problemas.
+
+- **Eficiencia en el almacenamiento en la nube**  
+  Comprima documentos ODT para conservar espacio en unidades compartidas y repositorios de documentos.
+
+- **Mejora del rendimiento en dispositivos de baja gama**  
+  Los archivos ODT más pequeños se cargan más rápido en sistemas con recursos limitados, mejorando la experiencia del usuario.
+
+- **Archivado simplificado**  
+  Almacene grandes volúmenes de informes o manuales ODT de manera eficiente con versiones comprimidas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

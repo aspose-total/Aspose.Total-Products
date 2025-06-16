@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLTX per la gestione moderna dei modelli di Excel
+
+XLTX è il formato predefinito dei modelli di Excel senza macro. Unire i file `.xltx` garantisce una formattazione e un layout coerenti tra i documenti standardizzati.
+
+#### Casi d'uso:
+
+- **Coerenza del marchio e della formattazione**  
+  Unisci modelli provenienti da team diversi per allineare la formattazione e lo stile aziendale.
+
+- **Pulizia della libreria dei modelli**  
+  Consolidare i file `.xltx` per rimuovere ridondanze e creare un set di modelli ottimizzato.
+
+- **Modelli per la formazione o le operazioni**  
+  Combinare modelli istruzionali o procedurali per l'implementazione aziendale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file POTX (modello PowerPoint) vengono utilizzati per creare modelli di presentazione senza macro. Annotare i file POTX garantisce chiarezza negli standard di design e facilita l'allineamento del team sui layout di presentazione riutilizzabili.
+
+#### Annotazione dei file POTX per feedback sul modello di presentazione standard:
+
+- **Convalida del Branding**  
+  Inserire annotazioni per verificare che l'uso del carattere, i colori e la struttura delle diapositive corrispondano alle linee guida del brand.
+
+- **Istruzioni per i segnaposto delle diapositive**  
+  Commentare su come utilizzare o riempire aree specifiche di contenuto per gli utenti finali.
+
+- **Costruzione collaborativa del modello**  
+  Suggerire miglioramenti del layout o delle zone di contenuto durante la progettazione condivisa del modello.
+
+- **Modelli di diapositive educative**  
+  Aggiungere note didattiche o istruzioni per modelli accademici.
+
+- **Guida alla localizzazione**  
+  Annotare sezioni per la traduzione o l'adattamento specifico della regione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Redacción en Microsoft Excel
+
+- Redactar datos financieros como salarios, presupuestos o cifras de ingresos antes de distribuirlos.
+- Redactar datos de clientes o empleados en hojas de cálculo de ventas, recursos humanos o auditoría.
+- Redactar entradas privadas en registros de datos operativos o administrativos.
+- Redactar métricas confidenciales en hojas de planificación o paneles de estrategia.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

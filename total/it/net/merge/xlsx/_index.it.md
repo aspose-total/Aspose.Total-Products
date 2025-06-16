@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLSX per flussi di lavoro di Excel moderni
+
+XLSX è il formato predefinito per i workbook di Excel moderni. Unire i file `.xlsx` è la pratica più comune per la creazione di report unificati, l'analisi dei dati e la collaborazione.
+
+#### Casi d'uso:
+
+- **Rapporti mensili dei dipartimenti**  
+  Unisci i report dei dipartimenti in formato `.xlsx` in un unico workbook pronto per il dashboard.
+
+- **Consolidamento delle presentazioni dei dati**  
+  Combina moduli o modelli in formato `.xlsx` inviati da utenti o uffici multipli.
+
+- **Compilazione della documentazione del progetto**  
+  Unisci fogli di tracciamento o di bilancio in formato `.xlsx` di un progetto in un unico workbook completo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

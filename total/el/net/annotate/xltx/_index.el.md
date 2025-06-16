@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Τα αρχεία XLTX (Πρότυπο Excel - Ανοικτό XML) χρησιμοποιούνται για τυποποιημένη, επαναλαμβανόμενη αναφορά. Η επισημείωσή τους εξασφαλίζει σαφήνεια στις περιοχές επεξεργασίας, τις προσδοκίες εισόδου και τις προτάσεις αναθεώρησης.
+
+#### Επισημείωση Αρχείων XLTX για Επαναχρησιμοποιήσιμα Πρότυπα Αναφορών - Περιπτώσεις Χρήσης:
+
+- **Οδηγίες Αναφοράς**: Προσθέστε συμβουλές χρήσης ή σημειώσεις ενημέρωσης για επαναλαμβανόμενες αναφορές.
+- **Ανατροφοδότηση Σχεδιασμού**: Επισημειώστε οπτικά στοιχεία, κεφαλίδες ή δομές ενοτήτων.
+- **Συνεργασία Χρηστών**: Καταγράψτε προτάσεις από διάφορα τμήματα σε ένα κοινό πρότυπο.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

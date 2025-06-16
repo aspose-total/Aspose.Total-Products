@@ -81,7 +81,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Casi d'uso per documento abilitato alle macro di Word (`.docm`)
+
+- Includere metadati correlati alle macro per il tracciamento dell'automazione.
+- Gestire le politiche di sicurezza del documento collegate alle macro incorporate.
+- Abilitare la classificazione del rischio automatizzata basata sugli script incorporati.
+- Aiutare nell'identificare lo scopo del documento e il processo aziendale associato.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

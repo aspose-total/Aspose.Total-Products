@@ -76,7 +76,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei formati dei fogli elettronici con firme elettroniche
+
+## Rapporti finanziari e budget
+I file XLS, XLSX e ODS sono ampiamente utilizzati per i rendiconti finanziari, i bilanci e i piani di bilancio. Le firme digitali confermano l'accuratezza dei dati e l'approvazione del revisore.
+
+## Dati sulla busta paga e sul personale
+I riepiloghi della busta paga e le analisi del personale condivisi come fogli elettronici possono essere firmati elettronicamente per garantire la privacy e l'integrità durante le revisioni interne o le verifiche.
+
+## Preventivi dei fornitori e fogli di approvvigionamento
+Moduli di preventivo, elenchi di prodotti e stime dei costi vengono spesso condivisi in formato foglio elettronico. Le firme elettroniche formalizzano l'accettazione e impediscono modifiche dopo la presentazione.
+
+## Registrazioni di audit e conformità
+Gli ispettori utilizzano i fogli elettronici per compilare e segnalare le conclusioni. Le firme digitali certificano che i dati non sono stati alterati dopo l'approvazione.
+
+## Registrazioni di inventario e catena di approvvigionamento
+I file di tracciamento dell'inventario, i registri di spedizione e i dati dei fornitori in formati ODS o XLSX vengono firmati digitalmente per garantire coerenza tra le operazioni e prevenire la manipolazione dei dati.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

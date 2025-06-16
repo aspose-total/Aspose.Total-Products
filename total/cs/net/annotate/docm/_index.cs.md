@@ -123,7 +123,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory DOCM (Microsoft Word Macro-Enabled Document) podporují integraci maker pro automatizaci. Anotace souborů DOCM poskytují základní kontext kolem automatizovaných procesů, sledování změn provedených makry a usnadňují spolupráci při kontrole.
+
+#### Anotace souborů DOCM pro použití spolupráce s makry v dokumentech:
+
+- **Dokumentace pracovního postupu maker**  
+  Anotujte dokumenty s makry, abyste vysvětlili účel každého makra, očekávaný výstup a jeho roli v automatizaci dokumentu.
+
+- **Uživatelské pokyny pro makrové funkce**  
+  Přidejte poznámky do dokumentů, které budou uživatele vést, jak interagovat s makry nebo jaké vstupy jsou potřebné pro automatizované akce.
+
+- **Ladění a sledování chyb**  
+  Vložte komentáře k zvýraznění částí, kde makra selhávají nebo kde jsou zadávána nesprávná data, což pomáhá s laděním.
+
+- **Zpětná vazba k automatizaci**  
+  Poskytněte zpětnou vazbu o účinnosti maker při automatizaci úkolů v dokumentech, jako je vytváření tabulek, formátování nebo naplňování obsahu.
+
+- **Kontrola obsahu generovaného makry**  
+  Anotujte oblasti, kde je třeba ruční kontroly nebo úpravy obsahu generovaného makry.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

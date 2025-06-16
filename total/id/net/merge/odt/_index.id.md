@@ -80,7 +80,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Gabungkan ODT (OpenDocument Text) untuk Kolaborasi Terbuka dan Perakitan Dokumen
+
+File ODT adalah dokumen pemroses kata sumber terbuka (LibreOffice, OpenOffice). Menggabungkannya mendukung kolaborasi konten dalam format terbuka.
+
+#### Kasus Penggunaan:
+
+- **Kolaborasi Sumber Terbuka**  
+  Gabungkan kontribusi dari penulis yang berbeda dalam format ODT ke dalam satu dokumen.
+
+- **Kompilasi Dokumentasi**  
+  Gabungkan bab atau bagian manual atau buku yang ditulis dalam format ODT.
+
+- **Pelaporan Pemerintah atau LSM**  
+  Konsolidasikan laporan yang dibuat dalam format standar terbuka untuk pengajuan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

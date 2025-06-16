@@ -78,7 +78,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file XLTM (Modello abilitato per macro) supportano la riutilizzabilità con le macro. Le annotazioni forniscono informazioni essenziali sui punti di automazione, sugli input attesi o sui risultati delle macro.
+
+#### Annotare i file XLTM per i flussi di lavoro del modello macro - Casi d'uso:
+
+- **Documentazione delle macro**: Spiegare i trigger delle macro e gli effetti previsti.
+- **Guida per l'utente**: Annotare le sezioni che gli utenti non devono modificare per preservare l'automazione.
+- **Note di testing**: Contrassegnare le aree sottoposte a revisione QA durante il testing del modello.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

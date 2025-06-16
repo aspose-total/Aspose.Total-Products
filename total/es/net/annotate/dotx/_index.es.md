@@ -123,7 +123,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos DOTX (Plantillas de Word Open XML) proporcionan plantillas limpias y sin macros para las versiones modernas de Word. La anotación de archivos DOTX apoya la documentación de la estructura, el intercambio de comentarios y las actualizaciones colaborativas sin afectar la integridad del diseño.
+
+#### Anotación de Archivos DOTX para Casos de Uso de Colaboración con Plantillas Limpias:
+
+- **Diseño Colaborativo de Plantillas**  
+  Inserte comentarios para sugerir cambios en el diseño, estilos o marcadores de posición.
+
+- **Instrucciones a Nivel de Campo**  
+  Anote secciones dinámicas con instrucciones para usuarios finales o creadores de contenido.
+
+- **Versiones y Actualizaciones**  
+  Utilice anotaciones para documentar actualizaciones recientes, campos obsoletos o notas de estilo.
+
+- **Auditoría de Plantillas**  
+  Comente para confirmar el cumplimiento de los estándares de formato, accesibilidad y marca.
+
+- **Integración de Revisión de Interesados**  
+  Facilite revisiones de interesados en tiempo real con comentarios contextuales en las anotaciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLSB per un efficiente gestione dei dati di grandi dimensioni di Excel
+
+Il formato XLSB (Excel Binary Workbook) memorizza i dati in forma binaria, offrendo prestazioni più veloci con grandi set di dati. Unire i file `.xlsb` garantisce una gestione efficiente dei dati su scala aziendale.
+
+#### Casi d'uso:
+
+- **Reporting critico per le prestazioni**  
+  Unisci ampi set di dati `.xlsb` per un caricamento e un'elaborazione più veloci in ambienti ad alte prestazioni.
+
+- **Integrazione nel sistema BI**  
+  Consolidare i file `.xlsb` per alimentare strumenti di business intelligence o dashboard.
+
+- **Consolidamento dei dati di sensori o macchine**  
+  Combinare i log binari di Excel generati da attrezzature industriali o di laboratorio per il monitoraggio centralizzato e l'automazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

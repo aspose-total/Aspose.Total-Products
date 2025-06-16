@@ -84,7 +84,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Případy použití metadat souborů Microsoft Excel
+
+- Ukládání kontextu, účelu a podrobností projektu pro datasety pomocí vlastností dokumentu.
+- Identifikace vlastníků dat a přispěvatelů pro sledování verzí a auditování.
+- Klasifikace finančních, provozních nebo HR tabulek pro řízení přístupu.
+- Definování životního cyklu dokumentů (např. aktivní, archivovaný, zastaralý) pomocí metadat.
+- Umění automatizované pracovní postupy pro finanční schválení nebo předpovědní zprávy.
+- Propojení dat tabulky s externími systémy jako jsou ERP nebo databáze pomocí metadat.
+- Použití metadat pro dashboardy, datové linie nebo obchodní analytické toky.
+- Pomoc umělé inteligence při určování struktury, záměru a významu obsahu tabulky.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

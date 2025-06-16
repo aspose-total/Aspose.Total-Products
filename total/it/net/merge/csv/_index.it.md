@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 Unisci CSV (valori separati da virgola) per la gestione centralizzata dei dati e l'automazione
+
+CSV è un formato di testo semplice per i dati tabulari. Unire i file CSV supporta l'aggregazione dei dati, i report e i flussi di automazione.
+
+#### Casi d'Uso:
+
+- **Reporting Dati Unificato**  
+  Unisci vendite, inventario o dati transazionali in un unico CSV per l'analisi.
+
+- **ETL e Data Warehousing**  
+  Combina log o set di dati in un formato coerente per l'ingestione.
+
+- **Risultati di Sondaggi e Voti**  
+  Unisci le risposte ai sondaggi esportate per una valutazione combinata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

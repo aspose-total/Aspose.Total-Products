@@ -75,7 +75,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos XLSB para una gestión eficiente de libros de trabajo binarios
+
+Los archivos XLSB (Libro de Excel Binario) almacenan datos en un formato binario, lo que a menudo resulta en tamaños de archivo grandes debido a las optimizaciones enfocadas en el rendimiento. Comprimir archivos XLSB reduce el espacio manteniendo la velocidad.
+
+#### Casos de uso:
+
+- **Ahorro de espacio para conjuntos de datos de alto volumen**  
+  Almacene conjuntos de datos masivos en archivos XLSB más pequeños utilizando compresión para flujos de trabajo de inteligencia empresarial.
+
+- **Transferencia rápida entre equipos**  
+  Comparta archivos XLSB comprimidos rápidamente sin comprometer el rendimiento de cálculo.
+
+- **Copias de seguridad simplificadas**  
+  Archive libros de trabajo binarios de uso frecuente con un tamaño reducido para una recuperación más rápida.
+
+- **Caché de datos en herramientas de informes**  
+  Utilice libros de trabajo XLSB comprimidos como cachés de backend en sistemas de informes para minimizar los tiempos de carga.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

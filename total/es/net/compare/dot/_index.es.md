@@ -73,7 +73,22 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparación de archivos DOT para casos de seguimiento de cambios en plantillas:
+
+Los archivos DOT (Plantilla de Word 97-2003) almacenan formato reutilizable y contenido de plantilla estándar. Comparar plantillas DOT ayuda a detectar modificaciones no autorizadas o no deseadas antes de reutilizarlas.
+
+- **Verificación de Consistencia de Marca**  
+  Asegurar que los logotipos, fuentes y estilos se mantengan consistentes en las revisiones de la plantilla.
+
+- **Monitoreo de la Evolución de la Plantilla**  
+  Seguir los cambios estructurales o instructivos en las plantillas de documentos internos.
+
+- **Auditorías de Plantillas Heredadas**  
+  Comparar archivos DOT con actualizaciones de documentos de sistemas o flujos de trabajo anteriores.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

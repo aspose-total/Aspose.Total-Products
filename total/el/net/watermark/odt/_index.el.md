@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT είναι ένα ανοικτού κώδικα μορφότυπο επεξεργαστή λέξεων που χρησιμοποιείται στο LibreOffice και παρόμοια εργαλεία.
+
+**Συνηθισμένες περιπτώσεις χρήσης περιλαμβάνουν:**
+
+- Ενδεικτική δήλωση δημόσιων, ιδιωτικών ή εσωτερικών εγγράφων
+- Εμφάνιση συλλογικής ιδιοκτησίας ή κύκλων αναθεώρησης
+- Ενσωμάτωση ονόματος οργανισμού ή πληροφοριών ανοικτής άδειας
+- Αναγνώριση εγγράφων για δημοσιοτομία στον δημόσιο τομέα
+- Υποστήριξη ελέγχου εκδόσεων σε πολυσυγγραφικά έγγραφα
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

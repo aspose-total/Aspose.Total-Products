@@ -73,7 +73,22 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Srovnání souborů DOT pro sledování změn šablon:
+
+Soubory DOT (šablony Word 97–2003) uchovávají znovupoužitelné formátování a základní obsah. Srovnávání DOT šablon pomáhá detekovat neoprávněné nebo nechtěné úpravy před opětovným použitím.
+
+- **Ověření konzistence značky**  
+  Ujistěte se, že loga, písma a styly zůstávají konzistentní napříč verzemi šablon.
+
+- **Monitorování vývoje šablony**  
+  Sledujte strukturální nebo instruktážní změny v interních dokumentech šablon.
+
+- **Audit šablon z minulosti**  
+  Porovnejte soubory DOT s aktualizacemi dokumentů z dřívějších systémů nebo pracovních postupů.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

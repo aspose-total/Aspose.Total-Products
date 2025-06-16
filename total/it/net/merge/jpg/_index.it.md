@@ -81,7 +81,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Unisci JPG (formato immagine JPEG) per l'archiviazione visuale e la consolidazione del design
+
+JPG è un formato di immagine compressa ampiamente utilizzato per fotografie e grafica web. Unire file JPG supporta la presentazione, l'archiviazione e la documentazione visiva.
+
+#### Casi d'uso:
+
+- **Creazione di album fotografici**  
+  Unisci immagini di vacanze o eventi in un'unica collage o presentazione.
+
+- **Materiale di marketing**  
+  Combina più risorse visive in brochure o fogli promozionali.
+
+- **Documentazione basata su immagini**  
+  Unisci screenshot o registri visivi in una guida o rapporto di evidenza.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

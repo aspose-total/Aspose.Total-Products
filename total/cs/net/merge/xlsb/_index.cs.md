@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů XLSB pro efektivní zpracování velkých dat v Excelu
+
+Formát XLSB (Excel Binary Workbook) ukládá data ve formě binárního kódu, což nabízí rychlejší výkon při práci s velkými datovými sadami. Slučování souborů `.xlsb` zajistí efektivní zpracování dat ve velkém měřítku.
+
+#### Použití:
+
+- **Výkonnostně kritické reportování**  
+  Slučujte velké datové sady ve formátu `.xlsb` pro rychlejší načítání a zpracování v prostředí s vysokým výkonem.
+
+- **Integrace do BI systému**  
+  Konsolidujte soubory `.xlsb` pro napájení nástrojů pro business intelligence nebo dashboardů.
+
+- **Konsolidace dat ze senzorů nebo strojů**  
+  Slučujte binární Excelové záznamy generované průmyslovým nebo laboratorním zařízením pro centralizovaný monitoring a automatizaci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

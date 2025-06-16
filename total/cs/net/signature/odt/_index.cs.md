@@ -74,7 +74,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování souborů ODT digitálními nebo elektronickými podpisy
+
+Soubory ODT jsou používány v otevřených prostředích jako LibreOffice nebo OpenOffice. Digitální podpisy v ODT zajišťují původ a integritu textových dokumentů ne-Microsoft.
+
+## Běžné případy použití
+- Vzdělávací instituce sdílející zprávy nebo koncepty diplomových prací.
+- Neziskové organizace a přispěvatelé k open-source vytvářející oficiální dopisy.
+- Dokumentace veřejného sektoru ve formátu ODT.
+- Přeshraniční spolupráce, kde je upřednostňován formát ODT.
+- Interní politické dokumenty s elektronickým schválením.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

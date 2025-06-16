@@ -73,7 +73,14 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Berkas .odt (OpenDocument Text) — Kasus Penggunaan untuk Pembagian Dokumen
+
+- Membagi berkas teks OpenDocument untuk kompatibilitas dan pengeditan yang lebih mudah di suite open-source.
+- Memudahkan kolaborasi dengan mendistribusikan bagian-bagian tertentu kepada beberapa kontributor.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

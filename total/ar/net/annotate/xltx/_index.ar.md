@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات XLTX (قالب Excel - Open XML) تستخدم لتقارير موحدة وقابلة للتكرار. توضيحها يضمن وضوحًا حول المناطق القابلة للتحرير وتوقعات الإدخال واقتراحات المراجعة.
+
+#### توضيح ملفات XLTX لقوالب التقارير القابلة لإعادة الاستخدام - حالات الاستخدام:
+
+- **تعليمات التقرير**: إضافة نصائح الاستخدام أو تحديث الملاحظات للتقارير المتكررة.
+- **تغذية ردود الفعل التصميمية**: توضيح الرسوم البيانية والعناوين أو هياكل الأقسام.
+- **التعاون بين المستخدمين**: تتبع الاقتراحات من مختلف الإدارات على قالب مشترك.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

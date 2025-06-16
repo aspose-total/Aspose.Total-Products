@@ -74,7 +74,15 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Použití pro otočení PDF
+
+- Otočte naskenované PDF smlouvy nebo faktury pro správné zobrazení.
+- Upravte orientaci certifikátů a licencí v portfoliu dokumentů.
+- Otočte stránky pro optimalizované tiskové rozložení v brožurách nebo manuálech.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Συγχώνευση ODT (OpenDocument Text) για Ανοικτή Συνεργασία και Συναρμολόγηση Εγγράφων
+
+Τα αρχεία ODT είναι έγγραφα επεξεργασίας κειμένου ανοικτού κώδικα (LibreOffice, OpenOffice). Η συγχώνευσή τους υποστηρίζει τη συνεργασία περιεχομένου σε ανοικτή μορφή.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Συνεργασία Ανοικτού Κώδικα**  
+  Συγχωνεύστε συνεισφορές από διαφορετικούς συγγραφείς σε μορφή ODT σε ένα μόνο έγγραφο.
+
+- **Συλλογή Τεκμηρίωσης**  
+  Συνδυάστε κεφάλαια ή ενότητες εγχειριδίων ή βιβλίων που έχουν γραφτεί σε μορφή ODT.
+
+- **Αναφορά Κυβέρνησης ή ΜΚΟ**  
+  Συγκεντρώστε αναφορές που έχουν δημιουργηθεί σε ανοικτές πρότυπες μορφές για υποβολή.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

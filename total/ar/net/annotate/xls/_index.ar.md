@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم صيغة ملفات XLS (تنسيق ملف بيانات إكسل) على نطاق واسع للبيانات المالية وتقارير الأعمال. تمكين ملفات XLS من التعليقات يُمكن الفِرَق من تضمين التعليقات مباشرة في مجموعات البيانات، مما يسمح بتقديم تغذية راجعة دقيقة وتحليل تعاوني.
+
+#### تعليق ملفات XLS لتعزيز التقارير المالية - حالات الاستخدام:
+
+- **تدقيقات مالية**: قم بتعليق أوراق الميزانية لتحديد الشوائب والمخاوف المتعلقة بالامتثال.
+- **مراجعات أصحاب المصلحة**: أضف تعليقات على التقارير الربعية لجمع الموافقات أو التغذية الراجعة.
+- **النمذجة التعاونية**: علّم خلايا الصيغ للمراجعة أو التعديل في النماذج المالية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

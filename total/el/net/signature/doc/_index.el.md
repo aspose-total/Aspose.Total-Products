@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων DOC με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Τα αρχεία Microsoft Word DOC εξακολουθούν να χρησιμοποιούνται ευρέως σε παλαιά συστήματα και δικηγορικά γραφεία. Η εφαρμογή μιας ψηφιακής υπογραφής σε ένα αρχείο DOC επαληθεύει την πηγή του και εξασφαλίζει ότι το περιεχόμενο δεν έχει τροποποιηθεί.
+
+## Κοινές Χρήσεις
+- Νομικές συμβάσεις και συμφωνίες που κοινοποιούνται σε μορφή DOC.
+- Φόρμες ανθρώπινου δυναμικού και εσωτερικά μνημόνια εταιρειών.
+- Έγγραφα του κράτους που συντάσσονται σε παλαιότερες εκδόσεις του Microsoft Office.
+- Επίσημη αλληλογραφία σε επιχειρήσεις που διατηρούν παλαιό λογισμικό.
+- Εμπιστευτικές προτάσεις που απαιτούν ψηφιακή επαλήθευση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

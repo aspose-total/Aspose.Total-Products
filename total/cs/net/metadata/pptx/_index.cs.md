@@ -78,7 +78,15 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Použití pro XML prezentace v PowerPointu (`.pptx`)
+
+- Uložte autora, společnost, téma a oddělení v metadatových polích.
+- Zlepšete objevování prezentací v podnikových systémech DAM nebo LMS.
+- Pomozte AI organizovat a označovat sady snímků podle tématu nebo strategického tématu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

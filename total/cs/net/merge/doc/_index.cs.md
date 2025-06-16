@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů DOC pro správu starých dokumentů ve formátu Word
+
+Soubory DOC jsou starším binárním formátem používaným programem Microsoft Word. Sloučení souborů `.doc` je obvykle nutné pro sjednocení starých dokumentů, archivaci nebo přechod na novější formáty.
+
+#### Použití:
+
+- **Sloučení historických zpráv**  
+  Sloučení starých zpráv ve formátu `.doc` pro archivační účely nebo vytvoření sjednoceného dokumentu pro tisk nebo sdílení.
+
+- **Aktualizace starých dokumentů**  
+  Sloučení více souborů `.doc` obsahujících informace o projektech nebo obchodní dokumenty do hlavního dokumentu pro aktualizaci.
+
+- **Konverze dokumentů do moderních formátů**  
+  Sloučení souborů `.doc` před jejich konverzí do formátu `.docx` pro zlepšenou kompatibilitu s moderními systémy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

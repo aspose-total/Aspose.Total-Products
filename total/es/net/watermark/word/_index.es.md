@@ -83,7 +83,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Word se utiliza ampliamente para crear documentos de texto como contratos, propuestas, informes y políticas. Agregar marcas de agua a estos documentos ayuda a establecer el contexto y hacer cumplir la integridad del documento.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Marcar documentos como Confidencial, Borrador o Uso Interno Solamente
+- Identificar al autor o departamento responsable del contenido
+- Agregar avisos legales o de derechos de autor
+- Prevenir el intercambio no autorizado de documentos sensibles
+- Realizar un seguimiento del control de versiones en la edición colaborativa
+- Cumplir con requisitos regulatorios o de auditoría
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

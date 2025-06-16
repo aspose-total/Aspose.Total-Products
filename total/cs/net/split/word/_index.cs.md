@@ -73,7 +73,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Použití pro rozdělování dokumentů
+
+- Rozdělte velké zprávy, manuály nebo výzkumné práce do menších, lépe spravovatelných souborů.
+- Přiřaďte různé části dokumentu různým členům týmu pro nezávislé úpravy.
+- Automatizujte pracovní postupy zpracováním konkrétních částí dokumentu samostatně.
+- Učiňte velké soubory snazšími k sdílení tím, že je rozdělíte na menší přílohy pro e-mailování nebo nahrání.
+- Generujte personalizované dokumenty (např. certifikáty, faktury nebo dopisy) z jediného hlavního souboru.
+- Organizujte obsah pro snazší ukládání, vyhledávání a dodržování pravidel správy dokumentů.
+- Sdílejte pouze relevantní části citlivých dokumentů a zároveň udržujte důvěrná data v bezpečí.
+- Distribuujte vzdělávací nebo školicí materiály ve formě menších souborů zaměřených na konkrétní témata pro lepší učební zážitek.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

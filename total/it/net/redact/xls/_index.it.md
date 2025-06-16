@@ -82,7 +82,15 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Redazione in .xls
+
+- Redigere i valori finanziari, le voci di bilancio o i dettagli relativi allo stipendio nei fogli di calcolo aziendali.
+- Redigere i dati dei dipendenti o i risultati dell'audit nei report di risorse umane o finanza.
+- Redigere le informazioni sui clienti o sui fornitori nei file operativi condivisi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

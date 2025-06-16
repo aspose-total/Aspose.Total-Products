@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων DOCX για τη συγκέντρωση σύγχρονων εγγράφων Word
+
+Το DOCX είναι το προεπιλεγμένο μορφότυπο βασισμένο σε XML που χρησιμοποιείται από το Microsoft Word για τα σύγχρονα έγγραφα. Η συγχώνευση αρχείων `.docx` είναι απαραίτητη για τη συνεργασία, τη συγκέντρωση περιεχομένου και την κεντρική τεκμηρίωση.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Τεκμηρίωση Έργου**  
+  Συγχωνεύστε αρχεία `.docx` από διαφορετικά μέλη ή τμήματα ομάδας σε ένα συνολικό έγγραφο έργου.
+
+- **Συγκέντρωση Αναφορών**  
+  Συνδυάστε μηνιαίες, τριμηνιαίες ή ετήσιες αναφορές από πολλαπλές πηγές σε ένα μόνο, ενιαίο αρχείο για διανομή.
+
+- **Συνεργατική Συγγραφή**  
+  Συγχωνεύστε προσχέδια ή συνεισφορές από διάφορους συγγραφείς σε ένα έγγραφο για τελική αναθεώρηση και δημοσίευση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 Συγχώνευση CSV (Comma-Separated Values) για Κεντρική Διαχείριση Δεδομένων και Αυτοματισμό
+
+Το CSV είναι ένα απλό κείμενο μορφής για πίνακες δεδομένων. Η συγχώνευση αρχείων CSV υποστηρίζει τη συγκέντρωση δεδομένων, την αναφορά και τις αυτοματισμένες διαδικασίες.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Ενοποιημένη Αναφορά Δεδομένων**  
+  Συγχωνεύστε πωλήσεις, αποθέματα ή συναλλαγματικά δεδομένα σε ένα CSV για ανάλυση.
+
+- **ETL και Αποθήκευση Δεδομένων**  
+  Συνδυάστε αρχεία καταγραφών ή σύνολα δεδομένων σε μια συνεπή μορφή για εισαγωγή.
+
+- **Αποτελέσματα Έρευνας και Δημοσκόπησης**  
+  Συγχωνεύστε εξαγόμενες απαντήσεις δημοσκόπησης για συνδυασμένη αξιολόγηση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

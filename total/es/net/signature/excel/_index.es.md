@@ -76,7 +76,26 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Formatos de Hojas de Cálculo con Firmas Electrónicas
+
+## Informes Financieros y Presupuestos
+Los archivos XLS, XLSX y ODS son ampliamente utilizados para estados financieros, balances y planes de presupuesto. Las firmas digitales confirman la precisión de los datos y la aprobación del revisor.
+
+## Nóminas y Datos de Recursos Humanos
+Los resúmenes de nómina y análisis de recursos humanos compartidos como hojas de cálculo pueden ser firmados electrónicamente para garantizar la privacidad y la integridad durante revisiones internas o auditorías.
+
+## Cotizaciones de Proveedores y Hojas de Adquisiciones
+Los formularios de cotización, listas de productos y estimaciones de costos a menudo se comparten en formato de hoja de cálculo. Las firmas electrónicas formalizan la aceptación y evitan ediciones posteriores a la presentación.
+
+## Registros de Auditoría y Cumplimiento
+Los auditores utilizan hojas de cálculo para compilar y reportar hallazgos. Las firmas digitales certifican que los datos no han sido alterados después de la aprobación.
+
+## Registros de Inventario y Cadena de Suministro
+Los archivos de seguimiento de inventario, registros de envío y datos de proveedores en formatos ODS o XLSX son firmados digitalmente para garantizar la consistencia en las operaciones y prevenir la manipulación de datos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

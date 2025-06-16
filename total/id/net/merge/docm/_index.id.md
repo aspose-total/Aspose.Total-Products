@@ -80,7 +80,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas DOCM untuk Dokumen Word yang Mendukung Macro
+
+Berkas DOCM adalah dokumen Word yang mendukung macro. Menggabungkan berkas `.docm` berguna ketika menggabungkan dokumen yang mengandung macro tertanam untuk otomatisasi atau pemrosesan.
+
+#### Kasus Penggunaan:
+
+- **Konsolidasi Laporan Otomatis**  
+  Gabungkan laporan `.docm` yang menggunakan macro untuk mengotomatisasi pembuatan data yang diformat, grafik, atau tabel ke dalam dokumen pusat.
+
+- **Pembuatan Dokumen yang Didukung Macro**  
+  Gabungkan berkas `.docm` yang mendukung macro untuk mempertahankan dan menyatukan fitur otomatisasi di berbagai laporan atau dokumen.
+
+- **Integrasi Alur Kerja Dokumen**  
+  Gabungkan dokumen dengan fungsi macro yang serupa untuk meningkatkan alur kerja pembuatan dokumen di antara tim.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

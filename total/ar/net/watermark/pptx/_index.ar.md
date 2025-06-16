@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX هو تنسيق عرض تقديمي حديث في برنامج PowerPoint.
+
+**تشمل حالات الاستخدام الشائعة:**
+
+- تطبيق العلامات التجارية والشعارات المهنية
+- الإشارة إلى حالة عرض الشرائح مثل مسودة، نهائي، أو سري
+- عرض تقسيم الجمهور (مثل "للعميل"، "للاستخدام الداخلي")
+- منع الاستخدام السيء بوضع علامات مائية "عدم التوزيع"
+- وسم الشرائح بتفاصيل العرض أو حالة الموافقة
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

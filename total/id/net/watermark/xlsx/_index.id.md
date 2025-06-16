@@ -76,7 +76,19 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX adalah format standar untuk lembar kerja Excel modern.
+
+**Kasus penggunaan umum meliputi:**
+
+- Menampilkan Data Draft, Rahasia, atau Terverifikasi
+- Menanamkan detail merek atau kepemilikan
+- Melindungi model dengan peringatan Do Not Distribute
+- Menandai data untuk kepatuhan regulasi
+- Mengidentifikasi versi untuk kolaborasi atau tinjauan klien
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

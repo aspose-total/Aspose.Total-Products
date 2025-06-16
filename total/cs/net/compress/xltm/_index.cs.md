@@ -75,7 +75,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimujte soubory XLTM pro optimalizované šablony Excelu s makry
+
+Soubory XLTM (šablony Excelu s makry) obsahují makra pro opakované automatizace. Tyto soubory mohou být velké s vestavěnou logikou nebo testovacími daty. Komprimace pomáhá s rychlejším sdílením a zabezpečenými zálohami.
+
+#### Případy použití:
+
+- **Sdílení automatizačních šablon**  
+  Distribuujte makro šablony týmům nebo klientům pomocí komprimovaných verzí souborů XLTM.
+
+- **Zjednodušené pracovní postupy testování**  
+  Komprimujte různé verze šablon XLTM pro rychlejší testování a nasazení.
+
+- **Centralizované knihovny šablon**  
+  Udržujte štíhlou knihovnu makro šablon pomocí komprimovaných formátů.
+
+- **Efektivní záloha DevOps**  
+  Ukládejte komprimované verze automatizačních šablon pro rollback a verzování.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

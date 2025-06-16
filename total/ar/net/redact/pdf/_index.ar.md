@@ -80,7 +80,15 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 التحرير في .pdf (تنسيق المستند المحمول)
+
+- قم بتحرير النصوص الحساسة في الوثائق القانونية والطبية والمالية.
+- قم بتحرير البيانات السرية قبل الكشف العام أو الإعلانات الصحفية.
+- قم بتحرير المحتوى المقيد في الوثائق المتعلقة بقانون حرية المعلومات أو الامتثال.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

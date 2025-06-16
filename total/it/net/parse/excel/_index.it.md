@@ -87,7 +87,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 File di Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) casi d'uso di analisi
+
+- 📈 **Estrazione dati**  
+  Estrarre valori delle celle, formule e intervalli dai fogli di calcolo per analisi o cruscotti.
+
+- 🧮 **Elaborazione modelli**  
+  Utilizzare modelli `.xlt`, `.xltx`, `.xltm` per compilare report, bilanci o previsioni.
+
+- 🤖 **Analisi consapevole delle macro**  
+  Gestire formati `.xlsm` e `.xltm` con consapevolezza delle macro per evitare o preservare la logica di automazione.
+
+- 🔍 **Importazione dati strutturati**  
+  Importare contenuti `.csv`, `.tsv` o `.xlsx` in database, app o API.
+
+- 🗃️ **Migrazione dati**  
+  Convertire fogli `.xls`, `.xlsb` e `.xlsx` in JSON, XML o altri formati strutturati per l'integrazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

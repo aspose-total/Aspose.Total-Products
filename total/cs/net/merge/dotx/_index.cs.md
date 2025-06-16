@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů DOTX pro moderní správu šablon
+
+DOTX je formát založený na XML používaný pro šablony Wordu. Slučování souborů `.dotx` pomáhá sjednotit šablony napříč týmy nebo odděleními a zároveň udržovat moderní kompatibilitu.
+
+#### Použití:
+
+- **Jednotná správa šablon**  
+  Sjednocení šablon `.dotx` z různých týmů pro stanovení konzistentního brandingu, formátování a struktury dokumentů.
+
+- **Integrace šablon napříč odděleními**  
+  Sloučení šablon `.dotx` z různých oddělení do jediné knihovny šablon pro snadné použití a standardizaci.
+
+- **Zjednodušení aktualizací šablon**  
+  Sloučení aktualizovaných šablon `.dotx` do centrálního souboru pro usnadnění přístupu k nejnovějším verzím šablon.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Casi d'uso per il documento di Microsoft Word (`.doc`)
+
+- Tenere traccia dell'autore e della storia di creazione/modifica.
+- Migliorare la ricercabilità del documento tramite titolo, soggetto e parole chiave.
+- Incorporare metadati legali o di licenza per la protezione del documento.
+- Automatizzare i flussi di lavoro basati sui campi dei metadati (ad esempio, regole di archiviazione).
+- Assistere nella classificazione dei contenuti e nella gestione della conservazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,19 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS je formát tabulky s otevřeným zdrojovým kódem používaný programy LibreOffice a OpenOffice.
+
+**Běžné použití zahrnuje:**
+
+- Uvádění dat jako Veřejné, Pod revizí nebo Interní
+- Vodoznak pro atribuci zdroje dat
+- Označování pro spolupráci více uživatelů
+- Zahrnutí informací o licenci nebo autorství
+- Označení obsahu pro publikování otevřených dat
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

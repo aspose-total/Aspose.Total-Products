@@ -78,7 +78,17 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File-file XLTX (Excel Template - Open XML) digunakan untuk pelaporan yang terstandar dan dapat diulang. Memberi catatan pada file-file tersebut memastikan kejelasan pada wilayah yang dapat diedit, harapan input, dan saran revisi.
+
+#### Menandai File XLTX untuk Template Laporan yang Dapat Digunakan Kembali - Kasus Penggunaan:
+
+- **Instruksi Laporan**: Tambahkan tips penggunaan atau catatan pembaruan untuk laporan yang berulang.
+- **Umpan Balik Desain**: Menandai visual, header, atau struktur bagian.
+- **Kolaborasi Pengguna**: Lacak saran dari berbagai departemen pada template bersama.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

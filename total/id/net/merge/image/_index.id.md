@@ -81,7 +81,30 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Berkas Gambar (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Menggabungkan berkas gambar ke dalam satu output visual tunggal atau format terstruktur (misalnya, PDF, kolase, atau sprite) mendukung alur kerja desain, dokumentasi, dan penerbitan digital.
+
+#### Kasus Penggunaan:
+
+- **Pembuatan Album Digital**  
+  Gabungkan gambar liburan, acara, atau portofolio ke dalam satu galeri atau buku foto tunggal.
+
+- **Konsolidasi Aset Desain**  
+  Gabungkan mockup UI, grafis media sosial, atau aset branding ke dalam satu berkas referensi untuk tinjauan klien.
+
+- **Pengelompokan Dokumen Pindai**  
+  Gabungkan berkas gambar yang dipindai ke dalam satu arsip atau dokumen untuk penyimpanan atau berbagi.
+
+- **Perbandingan Visual dan Slaid Sebelum-Dan-Sesudah**  
+  Gabungkan set gambar untuk membuat visual perbandingan dalam laporan atau materi pemasaran.
+
+- **Pelatihan atau Manual Produk**  
+  Gabungkan tangkapan layar yang dianotasi atau foto produk ke dalam konten instruksional berurutan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

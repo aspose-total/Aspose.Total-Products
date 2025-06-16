@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | OpenDocument Text — حالات الاستخدام للحماية
+
+- يُستخدم في بيئات مفتوحة المصدر (على سبيل المثال، LibreOffice).
+- يحتاج إلى حماية لضمان الاتساق عبر منصات البرمجيات المتعددة.
+- مفيد عند التعامل مع مستندات تعاونية تعمل عبر منصات متعددة.
+- يساعد في تجنب التغييرات الهيكلية غير المصرح بها.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

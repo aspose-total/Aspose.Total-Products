@@ -123,7 +123,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory DOT (šablony Word 97–2003) definují opakovaně použitelné struktury dokumentů. Poznámky v souborech DOT pomáhají objasnit účel šablony, pokyny k použití a poznámky k přizpůsobení pro uživatele.
+
+#### Anotace souboru DOT pro dokumentaci šablony a případy použití zpětné vazby:
+
+- **Průvodce přizpůsobením šablony**  
+  Anotujte pole a zástupce, abyste uživatele provedli tím, jak a kam vložit obsah.
+
+- **Postupové pokyny**  
+  Přidejte komentáře vysvětlující automatizované chování, makra nebo podmíněné formátování vložené do šablony.
+
+- **Hodnocení značky a stylu**  
+  Zvýrazněte oblasti, které musí být v souladu s firemními směrnicemi pro značkování nebo standardy dokumentů.
+
+- **Sběr zpětné vazby od uživatelů**  
+  Umožněte uživatelům vkládat komentáře k použitelnosti šablony, zjednodušující iterativní vylepšení.
+
+- **Šablony pro dodržování předpisů**  
+  Poskytněte přímo v šabloně poznámky týkající se regulačních nebo compliance procesů pro právní dokumentaci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات DOT (نموذج Word 97-2003) تحدد هياكل المستندات القابلة لإعادة الاستخدام. تساعد التعليقات في ملفات DOT على توضيح الغرض من النموذج، وتوجيهات الاستخدام، وملاحظات التخصيص للمستخدمين.
+
+#### تعليقات ملف DOT لوثائق النموذج وحالات استخدام التغذية الراجعة:
+
+- **توجيهات تخصيص النموذج**  
+  قم بتوثيق الحقول والعناصر النائبة لتوجيه المستخدمين حول كيفية إدراج المحتوى وأماكن إدراجه.
+
+- **تعليمات سير العمل**  
+  أضف تعليقات تشرح السلوكيات التلقائية، والماكروهات، أو التنسيق الشرطي المضمنة في النموذج.
+
+- **مراجعات العلامة التجارية والأسلوب**  
+  قم بتحديد المناطق التي يجب أن تتماشى مع إرشادات العلامة التجارية الشركية أو معايير الوثائق.
+
+- **جمع التعليقات من المستخدمين**  
+  اسمح للمستخدمين بإدراج تعليقات حول قابلية استخدام النموذج، مما يبسط عملية التحسين التدريجي.
+
+- **قوالب الامتثال التنظيمي**  
+  قدم ملاحظات تتعلق بالتنظيم أو الامتثال مباشرة في النموذج لعمليات الوثائق القانونية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

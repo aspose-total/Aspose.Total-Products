@@ -93,7 +93,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Casi d'uso dell'analisi di documenti Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **Estrazione di contenuti**  
+  Estrarre testo, tabelle e immagini dai documenti Word per la visualizzazione web, l'indicizzazione di ricerca o l'analisi del testo.
+
+- 📰 **Elaborazione di modelli**  
+  Utilizzare modelli `.dot`, `.dotx`, `.dotm` per generare automaticamente documenti con dati dinamici nei flussi di lavoro.
+
+- 🔁 **Flussi di lavoro di automazione**  
+  Automatizzare l'analisi e la sostituzione dei contenuti nei file `.docm` o `.dotm` che includono macro incorporate.
+
+- 🧾 **Conversione di report**  
+  Convertire file `.doc`, `.odt` o `.rtf` in HTML pulito, Markdown o PDF per la pubblicazione o la documentazione.
+
+- 📚 **Archiviazione digitale**  
+  Archiviare formati legacy come `.doc` e `.rtf` convertendoli e indicizzandoli per le piattaforme moderne.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

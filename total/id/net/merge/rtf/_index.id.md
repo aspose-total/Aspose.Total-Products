@@ -80,7 +80,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Menggabungkan RTF (Rich Text Format) untuk Kompilasi Dokumen yang Platform-Independent
+
+File RTF digunakan untuk dokumen teks yang diformat yang platform-independent. Menggabungkan file RTF memungkinkan penggabungan konten sambil mempertahankan format di berbagai sistem.
+
+#### Kasus Penggunaan:
+
+- **Kompilasi Teks yang Diformat**  
+  Gabungkan laporan atau catatan dari sistem yang berbeda ke dalam satu dokumen yang diformat.
+
+- **Agregasi Dokumen lintas Platform**  
+  Gabungkan konten yang dibuat dari pengolah kata yang berbeda ke dalam satu file yang terpadu.
+
+- **Perakitan Dokumentasi Proyek**  
+  Gabungkan beberapa catatan atau hasil kerja RTF ke dalam satu laporan akhir.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

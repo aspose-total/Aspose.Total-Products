@@ -80,7 +80,19 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX je moderní formát prezentace PowerPointu.
+
+**Běžné použití zahrnuje:**
+
+- Aplikování firemního brandingu a profesionálních log
+- Označení stavu prezentace jako Koncept, Finální nebo Důvěrné
+- Zobrazení segmentace publika (např. "Pro klienta", "Pro interní použití")
+- Prevence zneužití pomocí vodoznaků "Nerozdávat"
+- Označení snímků údaji o přednášejícím nebo stavu schválení
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

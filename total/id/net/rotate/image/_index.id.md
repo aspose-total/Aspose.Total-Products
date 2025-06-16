@@ -73,7 +73,21 @@ Untuk lebih jelasnya silakan lihat [Dokumentasi Produk](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kasus Penggunaan untuk Rotasi Gambar
+
+- Benarkan orientasi gambar yang diambil dalam mode lanskap atau potret.
+- Sesuaikan dokumen atau foto yang dipindai yang muncul miring atau terbalik.
+- Luruskan visual dengan benar untuk tampilan konsisten di galeri, presentasi, atau laporan.
+- Memutar aset desain seperti ikon, komponen UI, atau diagram untuk memenuhi kebutuhan tata letak.
+- Persiapkan gambar untuk dicetak atau diterbitkan dengan orientasi yang benar.
+- Standarisasi orientasi gambar saat mengimpor dari berbagai sumber atau perangkat.
+- Tingkatkan keterbacaan konten dalam eBook, dokumentasi, atau halaman web.
+- Putar gambar produk atau katalog untuk sesuai dengan rasio aspek yang diperlukan.
+- Tingkatkan pengalaman pengguna dengan memperbaiki orientasi gambar secara otomatis berdasarkan metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

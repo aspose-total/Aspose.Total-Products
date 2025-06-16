@@ -78,7 +78,17 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory XLTX (šablony Excelu - Open XML) se používají pro standardizované, opakovatelné hlášení. Anotováním se zajistí jasnost ohledně editovatelných oblastí, očekávání vstupu a návrhů na revizi.
+
+#### Anotujte soubory XLTX pro opakovaně použitelné šablony hlášení - Případy použití:
+
+- **Pokyny k hlášení**: Přidejte tipy k použití nebo aktualizační poznámky pro opakující se hlášení.
+- **Zpětná vazba k designu**: Anotujte vizuály, záhlaví nebo struktury sekcí.
+- **Spolupráce uživatelů**: Sledujte návrhy z různých oddělení na sdílené šabloně.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Archivos XLSX con Firmas Digitales o Electrónicas
+
+XLSX es el formato estándar actual de Excel y admite completamente firmas electrónicas y digitales para datos financieros y operativos.
+
+## Casos de Uso Comunes
+- Informes financieros y balances.
+- Presupuestos y previsiones departamentales.
+- Paneles de rendimiento compartidos para revisión ejecutiva.
+- Registros de recursos humanos y resúmenes de asistencia.
+- Hojas de costos de adquisiciones y proveedores que requieren aprobaciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

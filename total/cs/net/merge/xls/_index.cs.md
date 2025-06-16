@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů XLS pro integraci starých dat z Excelu
+
+XLS je binární formát používaný staršími verzemi programu Microsoft Excel. Sloučení více souborů `.xls` pomáhá sjednotit historická data do moderních systémů pro analýzu nebo archivaci.
+
+#### Použití:
+
+- **Staré finanční zprávy**  
+  Sloučení starých finančních zpráv v Excelu pro analýzu historických trendů nebo přípravu auditu.
+
+- **Historické záznamy HR**  
+  Sloučení starších záznamů zaměstnanců nebo souborů mzdové účetnictví udržovaných ve formátu `.xls` do jednoho sjednoceného souboru.
+
+- **Aktualizace datových archivů**  
+  Sjednocení souborů `.xls` před jejich převedením do formátu `.xlsx` nebo jiných moderních formátů pro zlepšenou kompatibilitu a zpracování.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

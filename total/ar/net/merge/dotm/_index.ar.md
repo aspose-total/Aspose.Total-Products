@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات DOTM لدمج القوالب الممكنة للماكرو
+
+ملفات DOTM هي قوالب Word التي تدعم الاستخدامات الماكرو. يكون دمج ملفات `.dotm` مفيدًا عند دمج القوالب التي تعتمد على الماكرو لأتمتة الوثائق.
+
+#### حالات الاستخدام:
+
+- **توحيد القوالب الممكنة للماكرو**  
+  دمج قوالب `.dotm` المستخدمة عبر عدة أقسام لتوحيد التنسيق ووظائف الماكرو.
+
+- **أتمتة إنشاء القوالب**  
+  دمج قوالب `.dotm` التي تستخدم الماكرو لتعبئة الوثائق تلقائيًا، مثل إنشاء الفواتير أو تنسيق التقارير.
+
+- **تحديث منطق الماكرو**  
+  دمج قوالب `.dotm` لمراجعة وتحديث الماكرو المضمنة لتحسين الأتمتة أو تعزيز الميزات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

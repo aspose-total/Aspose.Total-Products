@@ -82,7 +82,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Redacción en .docx (Microsoft Word)
+
+- Redactar nombres personales, información de contacto y números de identificación en documentos de recursos humanos.
+- Redactar detalles sensibles de casos o información de clientes en contratos legales y presentaciones judiciales.
+- Redactar secciones confidenciales en informes internos, actas de reuniones o documentos de proyectos.
+- Redactar métodos propietarios o resultados de investigaciones en trabajos académicos o científicos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

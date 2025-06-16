@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων ODP με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Τα αρχεία ODP προτιμώνται από τους χρήστες του LibreOffice Impress ή του OpenOffice. Η Ϩηφιακή υπογραφή των ODP εξασφαλίζει τη μη-απάρνηση σε περιβάλλοντα παρουσιάσεων ανοικτού κώδικα.
+
+## Κοινές Χρήσεις
+- Διαλέξεις ακαδημαϊκών διαφανειών και πιστοποιήσεις.
+- Παρουσιάσεις έργων ΜΚΟ για την επικύρωση από δωρητές.
+- Προτάσεις πολιτικής σε γραφεία κυβέρνησης που χρησιμοποιούν ODP.
+- Τεχνικά webinars που κοινοποιούνται σε πλατφόρμες ανοικτού κώδικα.
+- Αναφορές κοινότητας που απαιτούν ηλεκτρονική επαλήθευση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

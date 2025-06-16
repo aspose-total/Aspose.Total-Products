@@ -78,7 +78,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos DOT para la gestión de plantillas heredadas de Word
+
+Los archivos DOT (Plantilla de Word 97-2003) son plantillas antiguas de Word que pueden incluir formato avanzado o imágenes. Comprimir archivos DOT hace que los sistemas de plantillas heredadas sean más eficientes y portátiles.
+
+#### Casos de uso:
+
+- **Limpieza de la biblioteca de plantillas**  
+  Reduzca el tamaño de los archivos DOT para mantener un repositorio de plantillas compacto y organizado.
+
+- **Carga más rápida en sistemas heredados**  
+  Los archivos DOT más pequeños mejoran los tiempos de respuesta en máquinas antiguas o entornos virtuales.
+
+- **Almacenamiento de copias de seguridad compacto**  
+  Archive plantillas heredadas en forma comprimida para reducir los costos de almacenamiento a largo plazo.
+
+- **Plantillas de políticas empresariales**  
+  Permita una distribución más rápida de plantillas DOT estándar entre departamentos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

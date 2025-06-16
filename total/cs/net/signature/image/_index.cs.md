@@ -71,7 +71,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podpisu obrázkových souborů elektronickými podpisy
+
+## Naskenované právní dokumenty
+Skeny ručně psaných smluv nebo notářských dokumentů ve formátech JPG, PNG nebo TIFF lze digitálně podepsat k ověření authenticity.
+
+## Ověření totožnosti a osobní záznamy
+Obrázky pasů, občanských průkazů a účtových dokladů používané pro KYC nebo onboarding lze elektronicky podepsat k zajištění, že nebyly upraveny.
+
+## Zdravotní obrazové záznamy
+Skeny jako rentgenové snímky nebo výsledky testů ve formátech TIFF nebo PNG lze digitálně podepsat k potvrzení jejich původu z certifikované zdravotnické zařízení.
+
+## Umělecká díla a tvůrčí příspěvky
+Designy, ilustrace nebo marketingové grafiky ve formátech obrázků lze podepsat k prohlášení o právech duševního vlastnictví.
+
+## Fotografie inspekcí a dodržování předpisů
+Fotografie pořízené během auditů, inspekcí nebo kontrol dodržování předpisů jsou často digitálně podepsány k certifikaci místa, času a authenticity důkazů.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

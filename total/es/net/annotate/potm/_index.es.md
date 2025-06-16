@@ -106,7 +106,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos POTM (Plantilla habilitada para macros de PowerPoint) se utilizan para crear presentaciones estandarizadas con macros incrustados. Anotar archivos POTM ayuda a documentar la lógica de automatización, estandarizar el uso de plantillas y apoyar el desarrollo colaborativo.
+
+#### Anotación de Archivos POTM para Casos de Uso de Automatización de Presentaciones Basadas en Plantillas:
+
+- **Revisión del Diseño de la Plantilla**  
+  Agregar comentarios sobre el diseño de diapositivas, consistencia de marca y estructura en la plantilla.
+
+- **Documentación de Macros**  
+  Anotar el propósito y comportamiento de los macros para usuarios y desarrolladores.
+
+- **Directrices de Uso para Equipos**  
+  Proporcionar instrucciones o mejores prácticas sobre cómo completar y reutilizar la plantilla.
+
+- **Anotaciones de Verificación de Cumplimiento**  
+  Marcar áreas que necesitan actualizaciones para cumplir con los estándares de accesibilidad o políticas corporativas.
+
+- **Desarrollo Iterativo de Plantillas**  
+  Marcar cambios de versión o mejoras sugeridas en el diseño evolutivo de la plantilla.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

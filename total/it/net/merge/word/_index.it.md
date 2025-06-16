@@ -80,7 +80,30 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Documenti di Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word è il formato standard per la documentazione ricca di testo. Unire i file di Word semplifica i flussi di lavoro che coinvolgono più contributori, modelli o versioni.
+
+#### Casi d'Uso:
+
+- **Compilazione Unificata di Report**  
+  Unisci vari report dipartimentali o di progetto in un unico documento professionale da presentare o archiviare.
+
+- **Consolidamento di Contratti e Documenti Legali**  
+  Combina diverse versioni di contratti, allegati e documenti legali in un unico file di accordo principale.
+
+- **Collaborazione di Squadra**  
+  Unisci contributi da diversi autori in un unico documento per la modifica e la revisione collaborativa.
+
+- **Assemblaggio di Proposte e Risposte a Gare d'Appalto**  
+  Combina sezioni di ambito, prezzi e tecniche da diverse fonti in una proposta o risposta a gara coerente.
+
+- **Manuali di Politiche e Procedure**  
+  Unisci documenti di politica separati in un manuale completo per dipendenti o un manuale operativo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

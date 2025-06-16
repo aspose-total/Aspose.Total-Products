@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů DOCM pro makro-povolené dokumenty programu Word
+
+Soubory DOCM jsou makro-povolené dokumenty programu Word. Slučování souborů `.docm` je užitečné při kombinování dokumentů obsahujících vestavěná makra pro automatizaci nebo zpracování.
+
+#### Případy použití:
+
+- **Automatizované sloučení zpráv**  
+  Slučujte zprávy ve formátu `.docm`, které využívají makra k automatizaci generování formátovaných dat, grafů nebo tabulek do centrálního dokumentu.
+
+- **Vytváření dokumentů s podporou maker**  
+  Slučujte makro-povolené soubory `.docm` pro udržení a sjednocení automatizačních funkcí napříč různými zprávami nebo dokumenty.
+
+- **Integrace pracovního postupu dokumentu**  
+  Slučujte dokumenty s podobnými makrovými funkcemi k zlepšení pracovních postupů tvorby dokumentů napříč týmy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

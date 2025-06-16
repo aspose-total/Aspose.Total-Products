@@ -78,7 +78,27 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompres File DOT untuk Manajemen Template Word Warisan
+
+File DOT (Template Word 97–2003) adalah template Word yang lebih lama yang mungkin termasuk pemformatan kaya atau gambar. Mengompres file DOT membuat sistem template warisan lebih efisien dan portabel.
+
+#### Kasus Penggunaan:
+
+- **Pembersihan Perpustakaan Template**  
+  Kurangi ukuran file DOT untuk menjaga repositori template yang kompak dan terorganisir.
+
+- **Pemuatan Lebih Cepat pada Sistem Warisan**  
+  File DOT yang lebih kecil meningkatkan waktu respons pada mesin-mesin lama atau lingkungan virtual.
+
+- **Penyimpanan Cadangan Kompak**  
+  Arsipkan template warisan dalam bentuk terkompresi untuk mengurangi biaya penyimpanan jangka panjang.
+
+- **Template Kebijakan Perusahaan**  
+  Memungkinkan distribusi lebih cepat dari template DOT standar di seluruh departemen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

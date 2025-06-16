@@ -73,7 +73,22 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Confronto dei file ODT per casi d'uso di collaborazione con documenti aperti:
+
+ODT (OpenDocument Text) è lo standard per i processori di testo open source come LibreOffice e OpenOffice. Confrontare i file ODT fornisce trasparenza nella scrittura collaborativa, in particolare in ambienti aperti.
+
+- **Auditing della collaborazione aperta**  
+  Monitorare le revisioni apportate dai collaboratori nella documentazione open source.
+
+- **Revisione di documenti governativi e accademici**  
+  Confrontare moduli ufficiali, politiche o bozze di ricerca condivise in formato ODT.
+
+- **Trasparenza nei flussi di lavoro pubblici**  
+  Mostrare i cambiamenti affiancati per documenti e proposte mantenuti pubblicamente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

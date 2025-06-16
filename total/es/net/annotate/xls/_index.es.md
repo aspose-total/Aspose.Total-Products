@@ -78,7 +78,17 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS (Excel Binary File Format) se utiliza ampliamente para datos financieros e informes comerciales. Anotar archivos XLS permite a los equipos incrustar comentarios directamente en los conjuntos de datos, lo que permite comentarios precisos y análisis colaborativo.
+
+#### Anotar archivos XLS para mejorar la presentación de informes financieros - Casos de uso:
+
+- **Auditorías financieras**: Anote hojas de presupuesto para señalar anomalías y preocupaciones de cumplimiento.
+- **Revisiones de partes interesadas**: Agregue comentarios en informes trimestrales para recopilar aprobaciones o comentarios.
+- **Modelado colaborativo**: Marque celdas de fórmulas para su revisión o ajuste en modelos financieros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS (Excel Binary File Format) è ampiamente utilizzato per i dati finanziari e i report aziendali. L'annotazione dei file XLS consente ai team di incorporare commenti direttamente nei set di dati, consentendo un feedback preciso e un'analisi collaborativa.
+
+#### Annotare i file XLS per una migliore segnalazione finanziaria - Casi d'uso:
+
+- **Auditing Finanziario**: Annotare i fogli di bilancio per segnalare anomalie e preoccupazioni di conformità.
+- **Revisioni degli Stakeholder**: Aggiungere commenti ai report trimestrali per raccogliere approvazioni o feedback.
+- **Modellazione Collaborativa**: Contrassegnare le celle delle formule per la revisione o l'aggiustamento nei modelli finanziari.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

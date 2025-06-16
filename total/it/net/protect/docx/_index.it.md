@@ -79,7 +79,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Documento Word (Moderno) — Casi d'Uso per la Protezione
+
+- Comune nei contratti, nei report e nella documentazione HR dove l'editing deve essere limitato.
+- Protegge contenuti strutturati come indice, intestazioni e termini legali da modifiche.
+- Consente modifiche tracciate nella modifica collaborativa bloccando sezioni chiave.
+- Usato per distribuire documenti finalizzati dove sono ammessi solo commenti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

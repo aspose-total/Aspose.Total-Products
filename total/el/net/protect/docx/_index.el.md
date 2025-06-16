@@ -79,7 +79,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Έγγραφο Word (Σύγχρονο) — Περιπτώσεις Χρήσης για Προστασία
+
+- Συνηθισμένο σε συμβόλαια, αναφορές και τεκμηρίωση ανθρώπινου δυναμικού όπου η επεξεργασία πρέπει να περιοριστεί.
+- Προστατεύει δομημένο περιεχόμενο όπως πίνακες περιεχομένων, επικεφαλίδες και νομικούς όρους από αλλαγές.
+- Δυνατοποιεί την παρακολούθηση αλλαγών σε συνεργατική επεξεργασία ενώ κλειδώνει τμήματα-κλειδιά.
+- Χρησιμοποιείται για τη διανομή τελικοποιημένων εγγράφων όπου επιτρέπονται μόνο σχόλια.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

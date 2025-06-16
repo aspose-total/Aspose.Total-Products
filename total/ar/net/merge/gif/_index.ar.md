@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات GIF لإنشاء رسوم متحركة أو قصة
+
+تعتبر صيغة GIF (صيغة تبادل الرسومات) صيغة شهيرة للرسوم المتحركة والرسومات البسيطة. يعتبر دمج ملفات `.gif` المتعددة أمرًا أساسيًا لإنشاء رسوم متحركة متعددة الإطارات، أو قوالب قصص، أو دمج عناصر متحركة مختلفة في ملف واحد.
+
+#### حالات الاستخدام:
+
+- **إنشاء صور GIF متحركة**  
+  دمج ملفات `.gif` المتعددة في رسم متحرك مستمر للاستخدام على الويب، أو الإعلانات، أو وسائل التواصل الاجتماعي.
+
+- **دمج قوالب القصص**  
+  دمج صور `.gif` التي تمثل إطارات مختلفة من رسم متحرك في ملف واحد للاستعراض أو التحليل.
+
+- **رسوم متحركة متعددة المشاهد**  
+  دمج ملفات `.gif` تحتوي على مشاهد رسوم متحركة مختلفة في رسم متحرك أكبر لمشاريع أكثر تعقيدًا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

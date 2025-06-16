@@ -73,7 +73,15 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Použití pro rotaci souborů TIFF
+
+- Otočení skenů s vysokým rozlišením právních nebo archivních dokumentů.
+- Oprava orientace lékařských obrázků (např. rentgenových snímků).
+- Příprava stránek TIFF pro konzistentní pořadí při skenování vícestránkových dokumentů.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Použití pro rozdělování PDF dokumentů
+
+- Extrahovat relevantní stránky z velkých PDF souborů pro snazší sdílení a přezkum.
+- Rozdělit vícesekční zprávy nebo smlouvy do samostatných dokumentů.
+- Umožnit spolupracující úpravy nebo anotace distribucí menších částí PDF.
+- Chránit citlivé informace rozdělením a kontrolou přístupu k různým sekcím.
+- Vytvářet personalizované dokumenty generováním samostatných PDF z hlavních souborů.
+- Snížit velikost souboru tak, aby vyhovovala omezením e-mailu nebo nahrávání rozdělením PDF.
+- Efektivně archivovat dokumenty kategorizací obsahu do menších souborů.
+- Přeorganizovat a sestavit přizpůsobené PDF rozdělením a slučováním relevantních stránek.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

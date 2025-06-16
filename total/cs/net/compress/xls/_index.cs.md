@@ -75,7 +75,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprese souborů XLS pro optimalizaci starších sešitů Excel
+
+Soubory XLS (Sešit Excel 97–2003) mohou být velké kvůli vloženým grafům, vzorcům nebo velkým datovým sadám. Komprimace souborů XLS zajišťuje plynulejší manipulaci a kompatibilitu s staršími systémy.
+
+#### Případy použití:
+
+- **Archivace finančních záznamů**  
+  Snížení míry uložení historických souborů XLS obsahujících finanční údaje nebo zprávy.
+
+- **Rychlejší integrace do staršího systému**  
+  Umožněte rychlejší zpracování velkých sešitů XLS ve starších verzích Excelu.
+
+- **Optimalizované sdílení dokumentů**  
+  Komprimujte soubory XLS, abyste splnili limity velikosti souborů pro e-maily nebo nahrávání na sdílené disky.
+
+- **Přenositelnost dat pro offline použití**  
+  Přeneste kompaktní soubory XLS na USB nebo přenosná zařízení pro terénní práci nebo auditace.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

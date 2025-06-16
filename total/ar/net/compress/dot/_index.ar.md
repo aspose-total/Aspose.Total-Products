@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملفات DOT لإدارة قوالب Word القديمة
+
+ملفات DOT (قوالب Word 97-2003) هي قوالب Word قديمة قد تتضمن تنسيقًا غنيًا أو صورًا. يجعل ضغط ملفات DOT أنظمة القوالب القديمة أكثر كفاءة وقابلية للنقل.
+
+#### حالات الاستخدام:
+
+- **تنظيف مكتبة القوالب**  
+  تقليل أحجام ملفات DOT للحفاظ على مستودع القوالب مدمجًا ومنظمًا.
+
+- **تحميل أسرع على الأنظمة القديمة**  
+  تحسين أوقات الاستجابة على الأجهزة القديمة أو البيئات الافتراضية باستخدام ملفات DOT أصغر.
+
+- **تخزين النسخ الاحتياطي المدمج**  
+  أرشفة القوالب القديمة في شكل مضغوط لتقليل تكاليف التخزين على المدى الطويل.
+
+- **قوالب سياسة المؤسسة**  
+  تمكين توزيع أسرع لقوالب DOT القياسية عبر الإدارات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

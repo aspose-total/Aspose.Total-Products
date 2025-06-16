@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů TSV pro lehkou integraci dat
+
+Soubory TSV (hodnoty oddělené tabulátorem) jsou podobné souborům CSV, ale jako oddělovače používají tabulátory. Sloučení souborů `.tsv` je užitečné při práci s čistými, strukturovanými daty v textových pracovních postupech.
+
+#### Případy použití:
+
+- **Čisté datové potrubí**  
+  Sloučení výstupů `.tsv` z analýzy dat, procesů ETL nebo záznamových souborů do hlavního souboru dat.
+
+- **Vědecká nebo statistická analýza**  
+  Sloučení `.tsv` souborů s experimentálními daty pro konsolidované statistické vyhodnocení.
+
+- **Integrace mezi systémy**  
+  Sloučení dat `.tsv` z různých platforem (protokoly Linuxu, senzory, API) pro centralizované přijímání.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

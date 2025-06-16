@@ -73,7 +73,15 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Použití případů pro otáčení PNG
+
+- Upravit orientaci prvků návrhu UI/UX (např. tlačítka, ikony).
+- Přeorientovat snímky obrazovky pro dokumentaci nebo prezentace.
+- Zarovnat marketingové bannery pro vertikální nebo horizontální zobrazení.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

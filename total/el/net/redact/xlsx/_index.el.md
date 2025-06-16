@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Αποσύρσει σε .xlsx (Microsoft Excel)
+
+- Αποσύρετε τους μισθούς των υπαλλήλων, τις αμοιβές ή τα προσωπικά στοιχεία στα αρχεία μισθοδοσίας.
+- Αποσύρετε τις πληροφορίες πελατών ή προμηθευτών σε αναφορές πωλήσεων ή προμηθειών.
+- Αποσύρετε τις εσωτερικές εκχωρήσεις προϋπολογισμού ή τα περιθώρια κέρδους στα οικονομικά τετράδια.
+- Αποσύρετε εμπιστευτικά δεδομένα σε πίνακες απόδοσης ή φύλλα καταγραφής KPI.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

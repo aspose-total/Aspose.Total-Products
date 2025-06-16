@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات PPT لإدارة العروض التقديمية القديمة
+
+ملفات PPT هي التنسيق الثنائي القديم لعروض Microsoft PowerPoint. يكون دمج ملفات `.ppt` عادة مطلوبًا عند توحيد العروض التقديمية القديمة، أو أرشفة المشاريع القديمة، أو التحول إلى تنسيقات حديثة.
+
+#### حالات الاستخدام:
+
+- **دمج أرشيفات العروض التقديمية القديمة**  
+  دمج عروض تقديمية متعددة بتنسيق `.ppt` للتخزين على المدى الطويل أو النسخ الاحتياطي قبل تحويلها إلى تنسيقات أحدث مثل `.pptx`.
+
+- **توحيد العروض التقديمية الإدارية**  
+  دمج عروض تقديمية بتنسيق `.ppt` من فرق أو مشاريع مختلفة لإنشاء عرض تقديمي واحد لمراجعة الإدارة أو تحديثات على مستوى الشركة.
+
+- **تحديث المحتوى للعروض التقديمية القديمة**  
+  دمج العروض التقديمية القديمة في ملف جديد مع تحديث الشرائح بمحتوى جديد وعلامات تجارية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

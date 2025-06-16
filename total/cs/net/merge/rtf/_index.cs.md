@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Sloučení souborů RTF (Rich Text Format) pro kompilaci dokumentů nezávislých na platformě
+
+Soubory RTF jsou používány pro platformně nezávislé formátované textové dokumenty. Sloučení souborů RTF umožňuje kombinovat obsah a zachovat formátování napříč systémy.
+
+#### Případy použití:
+
+- **Kompilace formátovaného textu**  
+  Sloučení zpráv nebo poznámek z různých systémů do jednoho formátovaného dokumentu.
+
+- **Agregace dokumentů napříč platformami**  
+  Kombinace obsahu vytvořeného z různých textových procesorů do jednoho sjednoceného souboru.
+
+- **Sestavení dokumentace projektu**  
+  Sloučení více poznámek nebo výstupů ve formátu RTF do jednoho finálního zprávy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

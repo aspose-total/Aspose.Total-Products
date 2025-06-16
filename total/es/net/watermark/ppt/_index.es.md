@@ -80,7 +80,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT es el formato de presentación heredado utilizado en versiones antiguas de Microsoft PowerPoint.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Etiquetar diapositivas como Confidencial, Solo para Capacitación o Interno
+- Incrustar nombre del presentador, organización o evento
+- Advertir contra la distribución con No Compartir
+- Branding con logos corporativos o nombres de proyectos
+- Marcar contenido para revisión o aprobación
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

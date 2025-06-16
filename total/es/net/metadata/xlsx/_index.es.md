@@ -84,7 +84,15 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📗 Casos de uso para el libro de Excel Open XML (`.xlsx`)
+
+- Incrustar campos de metadatos para propietario, departamento y categorías de datos.
+- Permitir descubrimiento, etiquetado y categorización en sistemas de gestión de documentos o inteligencia empresarial.
+- Proporcionar metadatos estructurados para el seguimiento de la procedencia de los datos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

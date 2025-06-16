@@ -93,7 +93,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Περιπτώσεις Χρήσης Ανάλυσης Εγγράφων Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **Εξαγωγή Περιεχομένου**  
+  Εξαγωγή κειμένου, πινάκων και εικόνων από εγγράφα Word για εμφάνιση στον ιστό, ευρετήριση ή ανάλυση κειμένου.
+
+- 📰 **Επεξεργασία Προτύπου**  
+  Χρήση προτύπων `.dot`, `.dotx`, `.dotm` για την αυτόματη δημιουργία εγγράφων με δυναμικά δεδομένα σε ροέ εργασιών.
+
+- 🔁 **Ροές Αυτοματισμού**  
+  Αυτοματοποίηση ανάλυσης και αντικατάστασης περιεχομένου σε αρχεία `.docm` ή `.dotm` που περιλαμβάνουν ενσωματωμένα μακρό.
+
+- 🧾 **Μετατροπή Αναφοράς**  
+  Μετατροπή αρχείων `.doc`, `.odt` ή `.rtf` σε καθαρό HTML, Markdown ή PDF για δημοσίευση ή τεκμηρίωση.
+
+- 📚 **Ψηφιοποίηση Αρχείων**  
+  Αρχειοθέτηση παλαιών μορφών όπως τα `.doc` και `.rtf` με τη μετατροπή και ευρετηρίασή τους για μοντέρνες πλατφόρμες.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

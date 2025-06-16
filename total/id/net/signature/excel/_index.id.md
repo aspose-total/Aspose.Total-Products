@@ -76,7 +76,26 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Kasus Penggunaan Penandatanganan Format Spreadsheet dengan Tanda Tangan Elektronik
+
+## Laporan Keuangan dan Anggaran
+File XLS, XLSX, dan ODS banyak digunakan untuk laporan keuangan, neraca, dan rencana anggaran. Tanda tangan digital mengonfirmasi keakuratan data dan persetujuan pemeriksa.
+
+## Data Gaji dan HR
+Ringkasan gaji dan analisis HR yang dibagikan sebagai spreadsheet dapat ditandatangani secara elektronik untuk memastikan privasi dan integritas selama tinjauan internal atau audit.
+
+## Penawaran Vendor dan Lembaran Pengadaan
+Formulir penawaran, daftar produk, dan perkiraan biaya sering dibagikan dalam format spreadsheet. Tanda tangan elektronik formalisasi penerimaan dan mencegah pengeditan setelah pengiriman.
+
+## Rekaman Audit dan Kepatuhan
+Auditor menggunakan spreadsheet untuk menyusun dan melaporkan temuan. Tanda tangan digital mengesahkan bahwa data tidak diubah setelah persetujuan.
+
+## Rekaman Inventaris dan Rantai Pasokan
+File pelacakan inventaris, logistik pengiriman, dan data pemasok dalam format ODS atau XLSX ditandatangani secara digital untuk memastikan konsistensi di seluruh operasi dan mencegah manipulasi data.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

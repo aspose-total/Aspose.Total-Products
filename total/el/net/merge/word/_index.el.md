@@ -80,7 +80,30 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Έγγραφα Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Το Microsoft Word είναι το προεπιλεγμένο μορφότυπο για έγγραφα με πολύ κείμενο. Η συγχώνευση αρχείων Word απλοποιεί τις ροές εργασίας που εμπλέκουν πολλούς συντάκτες, πρότυπα ή εκδόσεις.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Συγχώνευση Ενιαίας Συλλογής Αναφορών**  
+  Συγχωνεύστε πολλαπλές αναφορές τμήματος ή έργου σε ένα μόνο, επαγγελματικό έγγραφο για υποβολή ή αρχειοθέτηση.
+
+- **Συγχώνευση Συμβολαίων και Νομικών Εγγράφων**  
+  Συνδυάστε διάφορες εκδόσεις συμβολαίων, παραρτήματα και νομικά έγγραφα σε ένα αρχείο μεταφοράς.
+
+- **Συνεργασία Ομάδας**  
+  Συγχωνεύστε συνεισφορές από πολλούς συγγραφείς σε ένα μόνο έγγραφο για συνεργατική επεξεργασία και αξιολόγηση.
+
+- **Συγκρότηση Πρότασης και Απάντησης σε Πρόσκληση Υποβολής Προσφορών (RFP)**  
+  Συνδυάστε το πεδίο εφαρμογής, την τιμολόγηση και τις τεχνικές ενότητες από διαφορετικές πηγές σε μια συνεκτική πρόταση ή απάντηση σε πρόσκληση υποβολής προσφορών.
+
+- **Εγχειρίδια Πολιτικής και Διαδικασιών**  
+  Συγχωνεύστε ξεχωριστά έγγραφα πολιτικής σε ένα συνολικό εγχειρίδιο εργαζομένου ή εγχειρίδιο λειτουργιών.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

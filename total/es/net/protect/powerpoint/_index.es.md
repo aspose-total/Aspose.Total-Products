@@ -75,7 +75,18 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint — Casos de uso para la protección de presentaciones
+
+- Evitar que el contenido de las diapositivas (texto, gráficos, imágenes) se edite durante o antes de las presentaciones.
+- Bloquear diseños, diapositivas maestras y plantillas para preservar la imagen corporativa.
+- Proteger materiales educativos o de formación contra el uso o modificación no autorizados.
+- Deshabilitar la copia o modificación de elementos multimedia como audio, video y animaciones.
+- Garantizar la integridad de las presentaciones en entornos regulados como los sectores legal, médico o financiero.
+- Compartir las presentaciones finalizadas en un formato de solo lectura para presentaciones a clientes y discursos públicos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

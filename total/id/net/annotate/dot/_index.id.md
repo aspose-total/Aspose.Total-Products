@@ -123,7 +123,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File DOT (Template Word 97–2003) mendefinisikan struktur dokumen yang dapat digunakan kembali. Anotasi dalam file DOT membantu menjelaskan tujuan template, petunjuk penggunaan, dan catatan kustomisasi untuk pengguna.
+
+#### Anotasi File DOT untuk Dokumentasi Template dan Penggunaan Kasus Umpan Balik:
+
+- **Panduan Kustomisasi Template**  
+  Beri anotasi pada bidang dan placeholder untuk membimbing pengguna tentang cara dan di mana menyisipkan konten.
+
+- **Instruksi Alur Kerja**  
+  Tambahkan komentar yang menjelaskan perilaku otomatis, makro, atau format kondisional yang tertanam dalam template.
+
+- **Ulasan Branding dan Gaya**  
+  Sorot area yang harus sejajar dengan pedoman branding perusahaan atau standar dokumen.
+
+- **Pengumpulan Umpan Balik dari Pengguna**  
+  Izinkan pengguna untuk menyisipkan komentar tentang kegunaan template, menyederhanakan perbaikan iteratif.
+
+- **Template Kepatuhan Regulasi**  
+  Berikan catatan terkait regulasi atau kepatuhan langsung dalam template untuk proses dokumentasi hukum.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,30 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Αρχεία Εικόνας (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Η συγχώνευση αρχείων εικόνας σε ένα μόνο οπτικό αποτέλεσμα ή δομημένη μορφή (π.χ. PDF, κολάζ ή sprite) υποστηρίζει τις ροές εργασίας σχεδιασμού, τεκμηρίωσης και ψηφιακής δημοσίευσης.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Δημιουργία Ψηφιακού Άλμπουμ**  
+  Συγχωνεύστε εικόνες διακοπών, εκδηλώσεων ή πορτοφόλιου σε ένα μόνο γκαλερί ή φωτογραφικό βιβλίο.
+
+- **Συγκέντρωση Στοιχείων Σχεδιασμού**  
+  Συγχωνεύστε μοκαπ UI, γραφικά κοινωνικών μέσων ή περιουσιακά στοιχεία σε ένα αρχείο αναφοράς για αναθεώρηση από τον πελάτη.
+
+- **Ομαδοποίηση Σαρωμένων Εγγράφων**  
+  Συνδυάστε σαρωμένα αρχεία εικόνας σε ένα μόνο αρχείο αρχειοθέτησης ή εγγράφου για αποθήκευση ή κοινοποίηση.
+
+- **Οπτικές Συγκρίσεις και Διαφάνειες Πριν-Μετά**  
+  Συγχωνεύστε σύνολα εικόνων για να δημιουργήσετε οπτικές συγκρίσεις σε αναφορές ή υλικά μάρκετινγκ.
+
+- **Εκπαιδευτικά ή Εγχειρίδια Προϊόντων**  
+  Συγχωνεύστε σχολιασμένες στιγμιότυπες ή φωτογραφίες προϊόντων σε ακολουθιακό εκπαιδευτικό περιεχόμενο.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

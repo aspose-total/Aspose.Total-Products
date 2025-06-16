@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLTM per modelli abilitati alle macro
+
+I file XLTM sono modelli abilitati alle macro utilizzati per automatizzare compiti ricorrenti in Excel. Unirli è utile per unificare la logica dell'automazione o migrare i flussi di lavoro.
+
+#### Casi d'uso:
+
+- **Librerie di Automazione dei Flussi di Lavoro**  
+  Unisci modelli `.xltm` contenenti diverse macro per varie funzioni in un unico modello centralizzato.
+
+- **Integrazione di Modelli Specifici per Dipartimento**  
+  Combina modelli abilitati alle macro provenienti da diversi dipartimenti per standardizzare l'automazione dei processi.
+
+- **Verifica dei Processi Basati su Macro**  
+  Unisci modelli `.xltm` per esaminare le macro incorporate per conformità e ottimizzazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

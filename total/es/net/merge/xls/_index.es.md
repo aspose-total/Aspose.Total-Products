@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos XLS para integración de datos heredados de Excel
+
+XLS es el formato binario utilizado por versiones antiguas de Microsoft Excel. Fusionar varios archivos `.xls` ayuda a consolidar datos históricos en sistemas modernos para análisis o archivo.
+
+#### Casos de uso:
+
+- **Informes Financieros Heredados**  
+  Combinar antiguos informes financieros de Excel para análisis de tendencias históricas o preparación de auditorías.
+
+- **Registros Históricos de RRHH**  
+  Fusionar registros antiguos de empleados o archivos de nómina mantenidos en formato `.xls` en un único archivo unificado.
+
+- **Actualización de Archivos de Datos**  
+  Consolidar archivos `.xls` antes de convertirlos a `.xlsx` u otros formatos modernos para mejorar la compatibilidad y el procesamiento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

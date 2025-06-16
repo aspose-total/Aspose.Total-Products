@@ -76,7 +76,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Το Excel χρησιμοποιείται εκτενώς για εργασίες που βασίζονται σε δεδομένα. Η επισήμανση υδατογραφήματος σε φύλλα Excel βοηθά στην επικοινωνία της εμπιστευτικότητας και του πλαισίου, ειδικά κατά τη διάρκεια αναθεωρήσεων δεδομένων ή οικονομικών αποκαλύψεων.
+
+**Συνηθισμένες περιπτώσεις χρήσης περιλαμβάνουν:**
+
+- Αναγνώριση φύλλων εργασίας ως προκαταρκτικά, ευαίσθητα ή επαληθευμένα
+- Αποτροπή κατάχρησης προπριεταρικών υπολογισμών ή προβλέψεων
+- Επισήμανση φύλλων για εσωτερικό έλεγχο ή οικονομική αναφορά
+- Επισήμανση υδατογραφήματος πινάκων ελέγχου για έλεγχο διανομής
+- Επισήμανση δεδομένων ως παλαιωμένα, αρχειοθετημένα ή σε δοκιμή
+- Ενδειξη κυριότητας οικονομικών μοντέλων ή αναλύσεων
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

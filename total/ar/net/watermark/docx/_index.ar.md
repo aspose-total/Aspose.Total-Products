@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX هو تنسيق Word الحديث الافتراضي لمستندات النصوص القابلة للتحرير.
+
+**تشمل حالات الاستخدام الشائعة ما يلي:**
+
+- تحديد الحالة كمسودة أو سرية أو معتمدة
+- تطبيق العلامات التجارية للشركة وشعارات مائية
+- إضافة تعيينات للعرض فقط أو للقراءة فقط
+- عرض الترقيم الداخلي/الخارجي
+- دعم تتبع دورة حياة المستند
+- الامتثال لمتطلبات التنظيمية
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

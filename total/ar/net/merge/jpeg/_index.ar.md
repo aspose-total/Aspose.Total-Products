@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات JPEG لتجميع بيانات الصور
+
+JPEG (مجموعة الخبراء في التصوير الفوتوغرافي) هو أحد أشهر تنسيقات الصور بسبب كفاءته في الضغط واستخدامه الشائع. غالبًا ما يكون دمج ملفات JPEG مطلوبًا لإنشاء كولاجات أو ألبومات صور أو عند تجميع بيانات الصور المماثلة.
+
+#### حالات الاستخدام:
+
+- **إنشاء ألبوم الصور**  
+  دمج صور `.jpeg` أو `.jpg` متعددة لإنشاء ألبوم صور موحد للطباعة أو المشاركة الرقمية.
+
+- **كولاجات الصور**  
+  دمج عدة صور `.jpeg` في كولاج واحد للتسويق أو الفعاليات أو الاستخدام الشخصي.
+
+- **تجميع صور المنتجات**  
+  دمج صور المنتجات المختلفة في ملف واحد لكتالوج المنتجات أو المتجر الإلكتروني.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

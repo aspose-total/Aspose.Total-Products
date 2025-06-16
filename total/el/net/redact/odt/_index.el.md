@@ -82,7 +82,15 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Αποσβέστωση σε .odt (Αρχείο Κειμένου OpenDocument)
+
+- Αποσβέστε προσωπικές λεπτομέρειες από αναφορές κοινότητας ή ερευνητικά έγγραφα.
+- Αποσβέστε εμπιστευτικές ενότητες σε κυβερνητικά ή οργανωτικά έγγραφα.
+- Αποσβέστε πληροφορίες επικοινωνίας ή στοιχεία ταυτότητας σε κοινές προτάσεις.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

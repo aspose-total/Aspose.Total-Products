@@ -78,7 +78,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos DOTM para mejorar la eficiencia de las plantillas de Word con macros
+
+Los archivos DOTM (plantillas de Word habilitadas para macros) contienen scripts y formato que aumentan el tamaño del archivo. Comprimir archivos DOTM garantiza un acceso más rápido y una gestión más sencilla de las plantillas automatizadas.
+
+#### Casos de uso:
+
+- **Distribución de plantillas con macros**  
+  Compartir plantillas DOTM en toda la organización con un tamaño de archivo reducido para una implementación más rápida.
+
+- **Almacenamiento eficiente de macros**  
+  Archivar una colección de plantillas DOTM sin desperdiciar espacio en disco.
+
+- **Implementación en sistemas cruzados**  
+  Comprimir archivos DOTM para garantizar la compatibilidad y reducir el retraso durante la ejecución de plantillas en diferentes máquinas.
+
+- **Optimización de la biblioteca de plantillas**  
+  Mantener los repositorios de plantillas ligeros y manejables con archivos habilitados para macros comprimidos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

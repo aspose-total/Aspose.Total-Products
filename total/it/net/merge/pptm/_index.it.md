@@ -78,7 +78,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file PPTM per flussi di lavoro di presentazioni PowerPoint abilitate per macro
+
+I file PPTM sono presentazioni PowerPoint che contengono macro. Unire i file `.pptm` consente la consolidazione dell'automazione e delle funzionalità avanzate utilizzate nelle presentazioni.
+
+#### Casi d'uso:
+
+- **Generazione automatica di presentazioni**  
+  Combinare i file `.pptm` che utilizzano macro per generare report, grafici o diapositive dinamicamente in una singola presentazione automatizzata.
+
+- **Integrazione del flusso di lavoro basato su macro**  
+  Unire i file `.pptm` provenienti da team diversi che si basano sulle macro per la formattazione delle presentazioni o la manipolazione dei dati.
+
+- **Unione personalizzata di presentazioni con automazione**  
+  Unire i file `.pptm` che presentano macro incorporate per elaborare e generare report automaticamente durante la presentazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

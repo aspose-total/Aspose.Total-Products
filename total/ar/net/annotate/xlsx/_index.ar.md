@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX هو المعيار الحديث لجداول Excel. تعليق ملفات XLSX يضمن التعاون السلس من خلال تمكين التعليقات والمراجعات في سياق البيانات والرسوم البيانية والجداول الديناميكية.
+
+#### تعليق ملفات XLSX لذكاء الأعمال الديناميكي - حالات الاستخدام:
+
+- **مراجعة KPI**: علامة القيم لتحليل أعمق أو مناقشة في لوحات القيادة.
+- **التعاون في الفريق**: توفير تغذية راجعة أثناء إنشاء التقرير المشترك.
+- **التحقق من البيانات**: علامة على الاتجاهات المشبوهة أو الاختلافات في الوقت الحقيقي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

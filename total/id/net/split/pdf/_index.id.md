@@ -72,7 +72,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Kasus Penggunaan untuk Memisahkan Dokumen PDF
+
+- Ekstrak halaman-halaman yang relevan dari file PDF besar untuk memudahkan berbagi dan tinjauan.
+- Pisahkan laporan atau kontrak multi-bagian menjadi dokumen-dokumen individu.
+- Memungkinkan pengeditan kolaboratif atau anotasi dengan mendistribusikan bagian-bagian PDF yang lebih kecil.
+- Lindungi informasi sensitif dengan memisahkan dan mengontrol akses ke bagian-bagian yang berbeda.
+- Buat dokumen yang dipersonalisasi dengan menghasilkan PDF terpisah dari file master.
+- Kurangi ukuran file untuk memenuhi batasan email atau unggahan dengan memisahkan PDF.
+- Arsipkan dokumen lebih efisien dengan mengategorikan konten ke dalam file-file yang lebih kecil.
+- Menyusun ulang dan merakit PDF yang disesuaikan dengan memisahkan dan menggabungkan halaman-halaman yang relevan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم ملفات POTM (القالب القابل للتنفيذ بواسطة الماكرو في برنامج باوربوينت) لإنشاء عروض تقديمية موحدة مع ماكروهات مضمنة. تساعد تعليقات على ملفات POTM في توثيق منطق التشغيل التلقائي، وتوحيد استخدام القوالب، ودعم التطوير التعاوني.
+
+#### تعليق ملف POTM لحالات استخدام العروض التلقائية المعتمدة على القالب:
+
+- **مراجعة تصميم القالب**  
+  إضافة تعليقات حول تخطيط الشرائح، واتساق العلامات التجارية، والهيكل في القالب.
+
+- **توثيق الماكرو**  
+  تعليق على الغرض والسلوك الخاص بالماكروهات للمستخدمين والمطورين.
+
+- **إرشادات الاستخدام للفرق**  
+  توفير تعليمات أو أفضل الممارسات حول كيفية ملء القالب وإعادة استخدامه.
+
+- **تعليقات فحص الامتثال**  
+  تحديد المناطق التي تحتاج إلى تحديثات لتلبية معايير الوصول أو السياسات الشركية.
+
+- **تطوير القالب التكراري**  
+  وضع علامات على التغييرات في الإصدار أو التحسينات المقترحة في تصاميم القوالب المتطورة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

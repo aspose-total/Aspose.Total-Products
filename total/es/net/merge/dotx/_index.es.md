@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos DOTX para la gestión moderna de plantillas
+
+DOTX es el formato basado en XML utilizado para las plantillas de Word. La fusión de archivos `.dotx` ayuda a unificar las plantillas entre equipos o departamentos manteniendo la compatibilidad moderna.
+
+#### Casos de uso:
+
+- **Gestión Unificada de Plantillas**  
+  Fusionar plantillas `.dotx` de varios equipos para establecer una marca consistente, formato y estructura de documentos.
+
+- **Integración de Plantillas entre Departamentos**  
+  Combinar plantillas `.dotx` de diferentes departamentos en una única biblioteca de plantillas para facilitar su uso y estandarización.
+
+- **Optimización de Actualizaciones de Plantillas**  
+  Fusionar plantillas `.dotx` actualizadas en un archivo central para facilitar el acceso fácil a las últimas versiones de plantillas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

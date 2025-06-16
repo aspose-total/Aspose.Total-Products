@@ -75,7 +75,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos XLTM para plantillas de Excel con macros optimizadas
+
+Los archivos XLTM (plantillas de Excel habilitadas para macros) incluyen macros para automatización reutilizable. Estos pueden volverse grandes con lógica incrustada o datos de prueba. Comprimir ayuda con un intercambio más rápido y copias de seguridad seguras.
+
+#### Casos de uso:
+
+- **Compartir plantillas de automatización**  
+  Distribuir plantillas de macros a equipos o clientes utilizando versiones XLTM comprimidas.
+
+- **Flujos de trabajo de pruebas optimizados**  
+  Comprimir diferentes versiones de plantillas XLTM para pruebas y implementaciones más rápidas.
+
+- **Bibliotecas de plantillas centralizadas**  
+  Mantener una biblioteca eficiente de plantillas de macros utilizando formatos comprimidos.
+
+- **Copia de seguridad eficiente de DevOps**  
+  Almacenar versiones comprimidas de plantillas de automatización para retrocesos y versionado.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

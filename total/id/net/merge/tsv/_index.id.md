@@ -79,7 +79,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas TSV untuk Integrasi Data Ringan
+
+Berkas TSV (Nilai yang Dipisahkan Tab) mirip dengan CSV tetapi menggunakan tab sebagai pemisah. Menggabungkan berkas `.tsv` berguna saat bekerja dengan kumpulan data yang bersih dan terstruktur dalam alur kerja berbasis teks.
+
+#### Kasus Penggunaan:
+
+- **Pipa Data Bersih**  
+  Gabungkan output `.tsv` dari penyisipan data, proses ETL, atau berkas log ke dalam kumpulan data utama.
+
+- **Analisis Ilmiah atau Statistik**  
+  Gabungkan berkas data eksperimen `.tsv` untuk evaluasi statistik yang terkonsolidasi.
+
+- **Integrasi Sistem Silang**  
+  Gabungkan data `.tsv` dari berbagai platform (log Linux, sensor, API) untuk penyerapan terpusat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

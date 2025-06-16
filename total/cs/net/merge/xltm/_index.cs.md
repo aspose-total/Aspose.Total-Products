@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů XLTM pro šablon s makry
+
+Soubory XLTM jsou šablony s makry používané k automatizaci opakujících se úkolů v Excelu. Jejich sloučení je užitečné při sjednocování automatizační logiky nebo při migraci pracovních postupů.
+
+#### Případy použití:
+
+- **Knihovny automatizace pracovních postupů**  
+  Sloučení šablon `.xltm` obsahující různá makra pro různé funkce do jedné centralizované šablony.
+
+- **Integrace šablon specifických pro oddělení**  
+  Sloučení šablon s makry z různých oddělení pro standardizaci automatizace procesů.
+
+- **Audit procesů založených na makrech**  
+  Sloučení šablon `.xltm` pro kontrolu vložených maker z hlediska souladu a optimalizace.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

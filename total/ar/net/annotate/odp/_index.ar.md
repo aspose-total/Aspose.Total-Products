@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تعتبر ODP (OpenDocument Presentation) تنسيقًا قياسيًا مفتوحًا يُستخدم لإنشاء ومشاركة العروض التقديمية، بشكل أساسي في حزم البرامج المكتبية مفتوحة المصدر. يعزز تعليق ملفات ODP التعاون والتحقق من المحتوى، خصوصًا في حالات الاستخدام عبر المنصات أو في القطاعات الحكومية/التعليمية.
+
+#### تعليق ملف ODP لحالات استخدام التعاون في العروض بتنسيق مفتوح:
+
+- **مراجعات الفريق في المصدر المفتوح**  
+  إضافة تعليقات لتحسين محتوى الشرائح، ومعالجة مشاكل التصميم، أو العناصر المفقودة في بيئات التعاون.
+
+- **تطوير العروض للقطاع العام**  
+  إدراج تعليقات لتلبية الإرشادات السياسية، ومعايير الامتثال، أو متطلبات الوصول أثناء عملية المراجعة.
+
+- **تغذية ردود الفعل على المحتوى عبر المنصات المختلفة**  
+  استخدام التعليقات لتحديد عدم اتساق التنسيق أو التخطيط عبر حزم البرامج المكتبية المختلفة.
+
+- **تغذية ردود الفعل على الشرائح التعليمية**  
+  تقديم تعليقات المتعلم أو المدرس في الإعدادات الأكاديمية باستخدام العروض بتنسيق مفتوح.
+
+- **التحكم في الإصدار والتطوير التدريجي**  
+  تسليط الضوء على تحرير الشرائح أو تغييرات المحتوى أثناء مراجعة الوثائق لتحسين تتبع العمليات والتنسيق.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

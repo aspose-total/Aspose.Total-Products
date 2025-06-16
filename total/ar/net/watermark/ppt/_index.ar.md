@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT هو تنسيق العرض التقديمي التقليدي المستخدم في الإصدارات القديمة من Microsoft PowerPoint.
+
+**تشمل حالات الاستخدام الشائعة:**
+
+- تسمية الشرائح بأنها سرية، تدريب فقط، أو داخلية
+- تضمين اسم العرض، المنظمة، أو الحدث
+- التحذير من التوزيع بعبارة "عدم المشاركة"
+- تعزيز العلامة التجارية بشعارات الشركات أو أسماء المشاريع
+- تحديد المحتوى للمراجعة أو الموافقة
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,21 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## حالات الاستخدام لدوران الصور
+
+- تصحيح توجيه الصور الملتقطة في وضع العرض الأفقي أو العمودي.
+- ضبط المستندات الممسوحة أو الصور التي تظهر بجانبها أو رأسًا على عقب.
+- محاذاة الرسوم البيانية بشكل صحيح لعرض متسق في المعارض أو العروض التقديمية أو التقارير.
+- دوران العناصر التصميمية مثل الرموز ومكونات واجهة المستخدم أو الرسوم التوضيحية لتناسب احتياجات التخطيط.
+- تحضير الصور للطباعة أو النشر بالتوجيه الصحيح.
+- توحيد توجيه الصور عند استيرادها من مصادر أو أجهزة مختلفة.
+- تعزيز قراءة المحتوى في الكتب الإلكترونية أو الوثائق أو صفحات الويب.
+- دوران صور المنتجات أو الكتالوجات لمطابقة نسبة العرض إلى الارتفاع المطلوبة.
+- تحسين تجربة المستخدم عن طريق إصلاح توجيه الصور تلقائيًا بناءً على البيانات الوصفية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Casos de uso de metadatos de documentos de Microsoft Word
+
+- Mejorar la capacidad de búsqueda en sistemas de gestión de documentos a través de títulos, temas, palabras clave y autores.
+- Seguir la autoría de documentos y el historial de versiones en ediciones colaborativas.
+- Clasificar documentos por proyecto, departamento o confidencialidad para facilitar su recuperación y control.
+- Automatizar flujos de trabajo como aprobaciones o archivado utilizando desencadenadores de metadatos incrustados.
+- Incrustar detalles legales, de licencia y de propiedad intelectual para proteger los derechos de uso.
+- Integrar documentos de Word con sistemas de terceros como CRMs o herramientas de proyecto.
+- Asegurar políticas de retención de documentos para cumplir con la normativa y la auditabilidad.
+- Permitir que las herramientas de IA analicen el contexto, el propósito y la estructura en función de los metadatos enriquecidos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

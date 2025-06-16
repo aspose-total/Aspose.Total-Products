@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP هو تنسيق العرض المفتوح المستخدم من قبل LibreOffice Impress وأدوات مصدر مفتوح أخرى.
+
+**حالات الاستخدام الشائعة:**
+
+- وضع علامات على الشرائح للمنتديات المفتوحة، أو المراجعات الداخلية، أو الاستخدام المقيد
+- تضمين تراخيص المشاع الإبداعي أو العلامات التنظيمية
+- دعم الشفافية العامة في العروض التقديمية للمنظمات غير الحكومية أو الحكومية
+- إضافة بيانات اعتماد المقدم أو الانتماءات للمشروع
+- منع الاستخدام السيء عن طريق وضع علامات على المسودات أو الإصدارات غير النهائية
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

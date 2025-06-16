@@ -78,7 +78,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file XLT (Excel Template) forniscono strutture predefinite per i fogli di calcolo. Le annotazioni aiutano a identificare segnaposto, fornire istruzioni o catturare feedback durante la personalizzazione del modello.
+
+#### Annotare i file XLT per la personalizzazione del modello - Casi d'uso:
+
+- **Istruzioni del modello**: Aggiungere commenti per guidare gli utenti finali sui campi di input.
+- **Revisione del modello**: Annotare formule o suggerimenti di layout per il miglioramento.
+- **Note del team**: Collaborare sui bozze iniziali dei modelli con note contestuali.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

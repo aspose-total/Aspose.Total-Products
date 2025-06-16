@@ -83,7 +83,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+El formato DOC es el tipo de archivo binario heredado de Microsoft Word, todavía utilizado en sistemas más antiguos.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Etiquetar documentos como Archivados, Heredados u Obsoletos
+- Incrustar el nombre del autor o departamento
+- Aplicar exenciones legales o mensajes de cumplimiento
+- Evitar la edición o reutilización marcándolo como Copia Final
+- Apoyar el mantenimiento de registros y auditorías
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

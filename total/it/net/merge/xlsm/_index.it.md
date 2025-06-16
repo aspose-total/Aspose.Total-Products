@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLSM per flussi di lavoro di Excel abilitati per macro
+
+I file XLSM sono cartelle di lavoro di Excel abilitate per macro. Unire i file `.xlsm` deve preservare sia i dati che le macro incorporate utilizzate per l'automazione o i calcoli.
+
+#### Casi d'uso:
+
+- **Rapporti di attività automatizzati**  
+  Unisci fogli abilitati per macro che automatizzano attività di reportistica o di convalida in un file centrale.
+
+- **Consolidamento dei modelli di flusso di lavoro**  
+  Combina modelli `.xlsm` utilizzati in tutti i dipartimenti in un'unica cartella di lavoro per un'automazione più efficiente.
+
+- **Repository centralizzato del codice VBA**  
+  Unisci file con macro simili per unificare la logica e ridurre la duplicazione tra i dipartimenti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

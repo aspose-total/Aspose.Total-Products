@@ -79,7 +79,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — Χρήσεις για την Προστασία των Εγγράφων
+
+- Αποτροπή μη εξουσιοδοτημένης επεξεργασίας νομικών συμβάσεων, πολιτικών προσωπικού ή ακαδημαϊκών εργασιών.
+- Ασφάλιση τμημάτων ενός εγγράφου (όπως επικεφαλίδες, νομικές ρήτρες ή πίνακες περιεχομένων) από αλλαγές.
+- Δυνατότητα συνεργατικής επεξεργασίας με περιορισμένη πρόσβαση σε συγκεκριμένες περιοχές (π.χ. τμήματα μόνο για σχόλια).
+- Προστασία προτύπων ή φορμών με μακροενεργοποιημένα προγράμματα που αυτοματοποιούν ροές εργασίας.
+- Κλείδωμα στοιχείων εταιρικής ταυτότητας (όπως λογότυπα και αποποιήσεις ευθυνών της εταιρείας) σε τυποποιημένα πρότυπα.
+- Αποτροπή ανισοτήτων μορφοποίησης κατά την κοινοποίηση εγγράφων μεταξύ τμημάτων ή εξωτερικώς.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

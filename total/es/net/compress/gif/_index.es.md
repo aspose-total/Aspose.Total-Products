@@ -74,7 +74,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos GIF para animaciones ligeras y compartir imágenes estáticas
+
+GIF (Formato de Intercambio de Gráficos) admite animaciones simples y transparencia, pero puede aumentar de tamaño con cuadros complejos. La compresión ayuda a mantener el rendimiento y la consistencia visual.
+
+#### Casos de uso:
+
+- **Optimización de animaciones web**  
+  Reduzca el tamaño de los GIF para una carga más rápida en sitios web y aplicaciones móviles.
+
+- **Compatibilidad con redes sociales**  
+  Comprima los GIF para cumplir con los límites de carga en plataformas como Twitter o aplicaciones de mensajería.
+
+- **Animaciones amigables con el correo electrónico**  
+  Haga que los GIF de marketing o instruccionales sean más pequeños y fáciles de enviar.
+
+- **Tiempos de carga de aplicaciones reducidos**  
+  Utilice GIFs comprimidos en aplicaciones móviles y de escritorio para mejorar la capacidad de respuesta.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -84,7 +84,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Casi d'uso di Parsing PDF
+
+- 🔍 **Estrazione di Testo e Tabelle**  
+  Estrarre paragrafi, tabelle o valori dei moduli dai PDF per la creazione di report o l'indicizzazione di ricerca.
+
+- 🧾 **Elaborazione di Fatture e Moduli**  
+  Analizzare moduli strutturati e fatture per compilare automaticamente database o sistemi di contabilità.
+
+- 🎨 **Analisi del Layout**  
+  Rilevare la struttura visiva (colonne, sezioni) per una conversione accurata in HTML o Markdown.
+
+- 🧠 **OCR e Ricerca**  
+  Convertire i PDF scannerizzati in testo ricercabile utilizzando l'OCR prima del parsing.
+
+- 🗂️ **Archiviazione Digitale e Conformità**  
+  Archiviare e verificare documenti PDF estrarre e contrassegnare contenuti o metadati rilevanti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

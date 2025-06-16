@@ -74,7 +74,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimujte soubory JPEG pro vyvážení mezi kvalitou a velikostí
+
+JPEG (Joint Photographic Experts Group) je široce používaný komprimovaný formát, ale i JPEG lze optimalizovat dále bez významné ztráty kvality.
+
+#### Použití:
+
+- **Optimalizace rychlosti webových stránek**  
+  Komprimujte JPEG soubory pro snížení váhy stránky a zlepšení hodnocení SEO a uživatelské zkušenosti.
+
+- **Archivy fotografií s omezeným úložištěm**  
+  Zmenšete knihovny obrázků pro snazší úložiště a zálohu.
+
+- **Rychlejší sdílení přes e-mail a chat**  
+  Zmenšete velikost JPEG pro rychlé nahrání a přenos.
+
+- **Mobilní hosting obrázků přátelský k mobilním zařízením**  
+  Komprimujte JPEG pro aplikace, které poskytují velké objemy obrázků při omezeném šířkovém pásmech.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

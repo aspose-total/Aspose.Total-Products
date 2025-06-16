@@ -74,7 +74,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Archivos ODT con Firmas Digitales o Electrónicas
+
+Los archivos ODT se utilizan en entornos de código abierto como LibreOffice o OpenOffice. Las firmas digitales en ODT garantizan el origen y la integridad de documentos de texto no pertenecientes a Microsoft.
+
+## Casos de Uso Comunes
+- Instituciones educativas que comparten informes o borradores de tesis.
+- ONGs y colaboradores de código abierto que crean cartas formales.
+- Documentación del sector público en formato ODT.
+- Colaboraciones transfronterizas donde se prefiere el formato ODT.
+- Documentos de políticas internas con aprobación electrónica.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

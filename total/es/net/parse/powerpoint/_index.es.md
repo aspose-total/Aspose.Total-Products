@@ -87,7 +87,26 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Formatos de Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) Casos de Uso de Análisis
+
+- 🖼️ **Extracción de Contenido de Diapositivas**  
+  Extraer texto, imágenes y detalles de diseño de diapositivas para resúmenes, búsquedas o presentaciones de diapositivas en HTML.
+
+- 🧩 **Automatización de Plantillas**  
+  Generar presentaciones a partir de plantillas `.potx` o `.potm` insertando contenido dinámico.
+
+- 🎯 **Manejo de Presentaciones con Macros**  
+  Analizar de forma segura archivos `.pptm`, `.potm` y `.ppsm` que contienen macros o automatización.
+
+- 📊 **Conversión de Presentación a Web**  
+  Convertir archivos `.pptx`, `.odp` o `.ppsx` a presentaciones web o formatos interactivos.
+
+- 📁 **Indexación de Diapositivas**  
+  Indexar y resumir diapositivas para sistemas de gestión de documentos o archivos de reuniones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

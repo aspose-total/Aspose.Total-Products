@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file DOCM per documenti di Word abilitati alle macro
+
+I file DOCM sono documenti di Word abilitati alle macro. Unire i file `.docm` è utile quando si combinano documenti che contengono macro incorporate per l'automazione o l'elaborazione.
+
+#### Casi d'uso:
+
+- **Consolidamento automatico dei report**  
+  Unisci i report `.docm` che utilizzano macro per automatizzare la generazione di dati formattati, grafici o tabelle in un documento centrale.
+
+- **Creazione di documenti supportati dalle macro**  
+  Combina file `.docm` abilitati alle macro per mantenere e unificare le funzionalità di automazione tra diversi report o documenti.
+
+- **Integrazione del flusso di lavoro dei documenti**  
+  Unisci documenti con funzioni macro simili per migliorare i flussi di lavoro di creazione dei documenti tra i team.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

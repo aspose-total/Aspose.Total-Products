@@ -87,7 +87,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso para el análisis de archivos .ods
+
+- 📊 Extraer datos estructurados, fórmulas y gráficos de hojas de cálculo de OpenDocument.
+- 🔁 Convertir archivos `.ods` a formatos como `.xlsx`, CSV o JSON para integración.
+- 🧮 Automatizar la extracción y transformación de datos de herramientas de hojas de cálculo de código abierto.
+- 📚 Migrar formatos abiertos a aplicaciones empresariales o tuberías de análisis.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

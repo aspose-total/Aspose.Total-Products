@@ -79,7 +79,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file XLS per l'integrazione dei dati di Excel legacy
+
+XLS è il formato binario utilizzato dalle versioni più datate di Microsoft Excel. Unire più file `.xls` aiuta a consolidare i dati storici nei sistemi moderni per analisi o archiviazione.
+
+#### Casi d'uso:
+
+- **Rapporti Finanziari Legacy**  
+  Combinare vecchi rapporti finanziari di Excel per analisi delle tendenze storiche o preparazione di audit.
+
+- **Record Storici HR**  
+  Unire vecchi record dei dipendenti o file della contabilità mantenuti in formato `.xls` in un unico file unificato.
+
+- **Aggiornamento degli Archivi Dati**  
+  Consolidare i file `.xls` prima di convertirli in `.xlsx` o altri formati moderni per una migliore compatibilità e processamento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

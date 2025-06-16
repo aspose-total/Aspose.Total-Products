@@ -72,7 +72,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDF je standardní formát pro zabezpečené, přenosné a tiskově připravené dokumenty.
+
+**Běžné použití:**
+
+- Aplikace vodoznaků s označením Důvěrné, Schválené nebo Finální verze
+- Zahrnutí firemního loga, značky nebo kontaktních informací
+- Označení dokumentů pro regulační podání
+- Vložení časových razítek, podpisů nebo QR kódů
+- Rozlišení mezi veřejným a interním uvolněním
+- Posílení právního nebo autorského vlastnictví
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

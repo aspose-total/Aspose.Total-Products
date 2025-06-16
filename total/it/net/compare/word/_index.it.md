@@ -73,7 +73,28 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Casi d'uso: Confronto dei file di Microsoft Word per il controllo delle versioni dei documenti e la collaborazione
+
+I formati di Microsoft Word, tra cui DOC, DOCX, DOCM, DOT, DOTM e DOTX, supportano la creazione e la formattazione di documenti completi. Confrontare i documenti di Word consente un'analisi dettagliata delle modifiche testuali, di formattazione e strutturali, rendendolo essenziale per la modifica collaborativa, la revisione legale e i flussi di lavoro di conformità.
+
+- **Modifica collaborativa e revisione**  
+  Identificare le inserzioni, le eliminazioni, le modifiche di formattazione e i commenti apportati da diversi autori durante il ciclo di revisione.
+
+- **Confronto di documenti legali e contrattuali**  
+  Rilevare le modifiche alle clausole, alle date e ai termini finanziari tra diverse versioni di contratti o accordi.
+
+- **Verifica dell'integrità del modello**  
+  Confrontare i file DOT, DOTX o DOTM per garantire che gli stili del modello, gli intestazioni e le macro rimangano consistenti.
+
+- **Analisi delle versioni consapevole delle macro (DOCM/DOTM)**  
+  Per i formati abilitati alle macro, individuare le modifiche non solo nel contenuto ma anche negli script di automazione incorporati o nei comportamenti dei moduli.
+
+- **Registro delle revisioni e revisioni di conformità**  
+  Generare rapporti di confronto per le presentazioni normative o scopi di audit interni per convalidare la storia e l'integrità del documento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos DOTM (Plantilla habilitada para macros de Word) contienen scripts de automatización para mejorar la productividad. Anotar archivos DOTM asegura la documentación de los comportamientos de los macros y facilita el seguimiento de errores y la recopilación de comentarios.
+
+#### Anotación de Archivos DOTM para Revisiones de Plantillas Habilitadas para Macros:
+
+- **Documentación de Instrucciones y Lógica de Macros**  
+  Anote los campos activados por macros para aclarar la funcionalidad y los resultados esperados.
+
+- **Revisión y Pruebas de Automatización**  
+  Inserte notas para señalar ejecuciones exitosas o fallidas de macros durante las pruebas.
+
+- **Explicación del Comportamiento de la Plantilla**  
+  Comente sobre secciones de diseño o formato automatizadas para ayudar a los usuarios a entender el flujo de la plantilla.
+
+- **Incorporación de Material de Entrenamiento para Usuarios**  
+  Agregue indicaciones de aprendizaje directamente en las plantillas para facilitar la integración de los usuarios.
+
+- **Aislamiento de Errores**  
+  Utilice anotaciones para aislar y explicar errores causados por la ejecución de macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

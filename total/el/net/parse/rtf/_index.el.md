@@ -93,7 +93,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Χρήσεις για την Ανάλυση Αρχείων .rtf
+
+- 📄 Εξαγωγή μορφοποιημένου κειμένου και βασικών εικόνων από αρχεία Rich Text Format.
+- 🧾 Μετατροπή εγγράφων `.rtf` σε απλό κείμενο ή HTML για χρήση στο web.
+- 📚 Μεταφορά παλαιών εγγράφων `.rtf` σε σύγχρονα συστήματα περιεχομένου.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

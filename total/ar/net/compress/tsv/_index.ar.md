@@ -75,7 +75,28 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملف TSV لتخزين ونقل فعال
+
+ملفات TSV (القيم المفصولة بعلامة التبويب) هي تنسيق آخر يستخدم للبيانات المهيكلة، خاصة حيث يُفضل استخدام أحرف التبويب عوضًا عن الفواصل للتحديد. مثل CSV، يمكن أن تكون ملفات TSV الكبيرة مكثفة في التخزين وبطيئة في عملية النقل أو المعالجة. يوفر ضغط ملفات TSV مزايا أساسية للأداء والتوسع والتوافق.
+
+- **تغليف بيانات البحث**  
+  ضغط ملفات TSV التي تم إنشاؤها من التجارب المختبرية أو الاستطلاعات لتسهيل مشاركتها أو تقديمها للمراجعة من قبل الأقران.
+
+- **تسجيل البيانات ومسارات التدقيق**  
+  أرشفة سجلات النظام أو مخرجات مراقبة البيانات المخزنة في تنسيق TSV بشكل مضغوط لتوفير مساحة دون فقدان الدقة.
+
+- **دمج البيانات الكبيرة**  
+  استفد من الضغط لملفات TSV التي يتم استيعابها في بحيرات البيانات أو أنظمة المعالجة الموزعة مثل Hadoop أو Spark.
+
+- **أنابيب التقارير الآلية**  
+  دمج الضغط في السكربتات التلقائية التي تنتج مخرجات TSV، مما يقلل من التأخير في توزيع البريد الإلكتروني أو السحابة.
+
+- **مشاركة البيانات التعاونية**  
+  مشاركة ملفات TSV الكبيرة بين المحللين أو الفرق عبر أرشيفات مضغوطة، مما يحسن النقل وكفاءة التحميل والتنزيل.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

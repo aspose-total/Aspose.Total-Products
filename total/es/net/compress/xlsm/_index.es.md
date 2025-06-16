@@ -75,7 +75,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos XLSM para compartir libros de macros de forma segura y eficiente
+
+Los archivos XLSM (Libro de Excel habilitado para macros) a menudo crecen en tamaño con macros, scripts y lógica de automatización. Comprimirlos ayuda a mantener el rendimiento y simplificar la distribución.
+
+#### Casos de uso:
+
+- **Distribución automatizada de informes**  
+  Compartir informes habilitados para macros rápidamente a través de archivos XLSM comprimidos.
+
+- **Almacenamiento eficiente de activos de automatización**  
+  Mantener archivos XLSM comprimidos en repositorios de automatización centralizados.
+
+- **Archivos de macros versionados**  
+  Almacenar múltiples versiones comprimidas de libros de macros para pruebas y rollback.
+
+- **Reducción de costos de transferencia en la nube**  
+  Minimizar el tiempo y el costo de transferencia de datos para archivos XLSM compartidos en plataformas en la nube.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

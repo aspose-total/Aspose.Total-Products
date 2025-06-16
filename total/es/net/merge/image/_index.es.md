@@ -81,7 +81,30 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Archivos de imagen (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+La fusión de archivos de imagen en una salida visual única o en un formato estructurado (por ejemplo, PDF, collage o sprite) respalda los flujos de trabajo de diseño, documentación y publicación digital.
+
+#### Casos de uso:
+
+- **Creación de álbum digital**  
+  Fusionar imágenes de vacaciones, eventos o cartera en una galería única o un libro de fotos.
+
+- **Consolidación de activos de diseño**  
+  Fusionar maquetas de UI, gráficos de redes sociales o activos de marca en un archivo de referencia único para la revisión del cliente.
+
+- **Agrupación de documentos escaneados**  
+  Combinar archivos de imagen escaneados en un archivo único o documento para almacenamiento o intercambio.
+
+- **Comparaciones visuales y diapositivas antes y después**  
+  Fusionar conjuntos de imágenes para crear visuales de comparación en informes o materiales de marketing.
+
+- **Manuales de entrenamiento o productos**  
+  Fusionar capturas de pantalla anotadas o fotos de productos en contenido instructivo secuencial.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

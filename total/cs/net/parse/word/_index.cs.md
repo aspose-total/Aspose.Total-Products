@@ -93,7 +93,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Analýza použití dokumentu Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **Extrakce obsahu**  
+  Extrahovat text, tabulky a obrázky z dokumentů Word pro zobrazení na webu, indexaci pro vyhledávání nebo analýzu textu.
+
+- 📰 **Zpracování šablon**  
+  Použití šablon `.dot`, `.dotx`, `.dotm` pro automatické generování dokumentů s dynamickými daty v pracovních postupech.
+
+- 🔁 **Automatizované pracovní postupy**  
+  Automatizace analýzy a nahrazení obsahu v souborech `.docm` nebo `.dotm`, které obsahují vestavěné makra.
+
+- 🧾 **Konverze zpráv**  
+  Převod souborů `.doc`, `.odt` nebo `.rtf` do čistého HTML, Markdown nebo PDF pro publikování nebo dokumentaci.
+
+- 📚 **Digitální archivace**  
+  Archivace zastaralých formátů jako `.doc` a `.rtf` jejich převedením a indexováním pro moderní platformy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

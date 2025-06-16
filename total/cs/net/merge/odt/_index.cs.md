@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Sloučení souborů ODT (OpenDocument Text) pro otevřenou spolupráci a sestavování dokumentů
+
+Soubory ODT jsou dokumenty zpracovávané textovým editorem s otevřeným zdrojovým kódem (LibreOffice, OpenOffice). Sloučení těchto souborů podporuje spolupráci na obsahu ve formátu otevřeného dokumentu.
+
+#### Případy použití:
+
+- **Spolupráce s otevřeným zdrojovým kódem**  
+  Sloučení příspěvků od různých autorů ve formátu ODT do jednoho dokumentu.
+
+- **Sestavení dokumentace**  
+  Kombinace kapitol nebo sekcí manuálů nebo knih psaných ve formátu ODT.
+
+- **Vládní nebo nezisková organizace Reporting**  
+  Konsolidace zpráv vytvořených ve formátech otevřených standardů pro odevzdání.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

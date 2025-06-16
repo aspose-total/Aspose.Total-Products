@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos DOTM para la integración de plantillas habilitadas para macros
+
+Los archivos DOTM son plantillas de Word habilitadas para macros. Fusionar archivos `.dotm` es útil cuando se integran plantillas que dependen de macros para la automatización de documentos.
+
+#### Casos de uso:
+
+- **Unificación de Plantillas Habilitadas para Macros**  
+  Fusionar plantillas `.dotm` utilizadas en varios departamentos para estandarizar el formato y la funcionalidad de los macros.
+
+- **Automatización en la Creación de Plantillas**  
+  Combinar plantillas `.dotm` que utilizan macros para la población automática de documentos, como la generación de facturas o el formato de informes.
+
+- **Actualización de la Lógica de los Macros**  
+  Fusionar plantillas `.dotm` para revisar y actualizar los macros integrados para una mejor automatización o mejora de funciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

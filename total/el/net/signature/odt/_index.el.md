@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων ODT με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Τα αρχεία ODT χρησιμοποιούνται σε περιβάλλοντα ανοικτού κώδικα όπως το LibreOffice ή το OpenOffice. Οι Ϩφιακές υπογραφές στα ODT εξασφαλίζουν την προέλευση και την ακεραιότητα των κειμένων εκτός της Microsoft.
+
+## Κοινές Χρήσεις
+- Εκπαιδευτικά ιδρύματα που μοιράζονται αναφορές ή προσχέδια διατριβών.
+- ΜΚΟ και συνεισφέροντες ανοικτού κώδικα που δημιουργούν επίσημες επιστολές.
+- Τεκμηρίωση του δημόσιου τομέα σε μορφή ODT.
+- Διασυνοριακές συνεργασίες όπου προτιμάται το ODT.
+- Εσωτερικά έγγραφα πολιτικής με ηλεκτρονική έγκριση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

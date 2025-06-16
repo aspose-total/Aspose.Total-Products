@@ -93,7 +93,15 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso para analizar archivos .dot
+
+- 📝 Procesar archivos de plantillas de Word heredadas para la generación de documentos por lotes.
+- 🔁 Automatizar el llenado de plantillas con datos dinámicos en la creación de documentos en masa.
+- 📚 Archivar plantillas `.dot` convirtiéndolas a formatos de plantillas modernos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

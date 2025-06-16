@@ -123,7 +123,31 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات ODT (OpenDocument Text) هي جزء من المعيار OpenDocument المستخدم من قبل معالجات النصوص مثل LibreOffice و OpenOffice. تمكين ملفات ODT من التعليق يمكن أن يسهم في التحرير التعاوني، وتقديم التغذية الراجعة المنظمة، وإعداد وثائق مفصلة ضمن بيئات مصدر مفتوح.
+
+#### تعليق ملف ODT للاستخدام في التعاون المفتوح والمراجعات المنظمة:
+
+- **تحرير المستندات بالتعاون**  
+  استخدم التعليقات لتقديم تغذية راجعة مباشرة، أو اقتراح تغييرات، أو طلب توضيحات من المساهمين.
+
+- **وثائق مشروع مصدر مفتوح**  
+  أضف ملاحظات إلى الوثائق التقنية، ودلائل المستخدم، أو مواصفات البرامج لتوجيه المراجعين والحفاظ على التناسق.
+
+- **مراجعات قانونية وامتثال**  
+  علم الأقسام التي تحتاج إلى مراجعة أو قم بتسليط الضوء على قضايا الامتثال باستخدام تعليقات سياقية للتدقيق الشفاف.
+
+- **مراجعة النظراء الأكاديمية**  
+  أدخل تعليقات لتقييم الحجج، أو لفت الانتباه إلى المراجع المفقودة، أو لاقتراح تحسينات في أوراق البحث.
+
+- **إرشادات القوالب وإعادة الاستخدام**  
+  قم بتعليق القوالب القابلة لإعادة الاستخدام بقواعد التنسيق، ووصف العناصر النائبة، أو تعليمات العلامة التجارية.
+
+- **تتبع الإصدارات وتاريخ التكرار**  
+  حافظ على التعليقات عبر إصدارات المستند لتتبع التغييرات والتغذية الراجعة مع مرور الوقت.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

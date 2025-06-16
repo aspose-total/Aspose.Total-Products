@@ -78,7 +78,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimi file RTF per archiviazione e trasferimento semplificati di testo arricchito
+
+I file RTF (Rich Text Format) vengono utilizzati per documenti di testo con formattazione di base su diverse piattaforme. Tuttavia, quando vengono inclusi immagini incorporate o formattazioni estese, le dimensioni dei file possono aumentare. Comprimere i file RTF aiuta a ottimizzare l'utilizzo su diversi sistemi e flussi di lavoro.
+
+#### Casi d'uso:
+
+- **Portabilità tra piattaforme**  
+  Riduci le dimensioni dei file RTF per garantire un trasferimento più veloce tra i sistemi senza degradazione del formato.
+
+- **Compatibilità con sistemi legacy**  
+  Comprimi i documenti RTF per un'elaborazione più fluida in vecchie applicazioni o sistemi.
+
+- **Ottimizzazione delle risorse incorporate**  
+  Riduci l'impatto dei media incorporati (ad esempio, loghi o grafici) per mantenere i file leggeri.
+
+- **Email ed invio di moduli efficienti**  
+  I file RTF compressi rispettano i limiti di dimensione per essere caricati nei moduli o inviati come allegati via email.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

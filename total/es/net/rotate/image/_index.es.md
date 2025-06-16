@@ -73,7 +73,21 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso para la rotación de imágenes
+
+- Corregir la orientación de imágenes capturadas en modo horizontal o vertical.
+- Ajustar documentos escaneados o fotos que aparezcan de lado o boca abajo.
+- Alinear visualmente para una visualización consistente en galerías, presentaciones o informes.
+- Rotar activos de diseño como iconos, componentes de UI o diagramas para adaptarse a las necesidades de diseño.
+- Preparar imágenes para impresión o publicación con la orientación correcta.
+- Estandarizar la orientación de imágenes al importarlas de diferentes fuentes o dispositivos.
+- Mejorar la legibilidad del contenido en libros electrónicos, documentación o páginas web.
+- Rotar imágenes de productos o catálogos para que coincidan con la relación de aspecto requerida.
+- Mejorar la experiencia del usuario al corregir automáticamente la orientación de la imagen basándose en metadatos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

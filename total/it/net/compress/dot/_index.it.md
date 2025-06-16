@@ -78,7 +78,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimi file DOT per la gestione dei modelli di Word legacy
+
+I file DOT (modello Word 97-2003) sono modelli di Word più vecchi che possono includere formattazione avanzata o immagini. Comprimere i file DOT rende i sistemi di modelli legacy più efficienti e portatili.
+
+#### Casi d'uso:
+
+- **Pulizia della libreria dei modelli**  
+  Riduci le dimensioni dei file DOT per mantenere un repository di modelli compatto e organizzato.
+
+- **Caricamento più veloce su sistemi legacy**  
+  File DOT più piccoli migliorano i tempi di risposta su macchine più vecchie o ambienti virtuali.
+
+- **Archiviazione compatta dei backup**  
+  Archivia i modelli legacy in forma compressa per ridurre i costi di archiviazione a lungo termine.
+
+- **Modelli di politiche aziendali**  
+  Consenti una distribuzione più rapida dei modelli DOT standard tra i dipartimenti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων DOT για τη Διαχείριση Παλαιών Προτύπων
+
+Τα αρχεία DOT είναι πρότυπα Word που χρησιμοποιούνται με παλαιότερες εκδόσεις του Microsoft Word (πριν από το DOCX). Η συγχώνευση αρχείων `.dot` βοηθά στην τυποποίηση της μορφοποίησης των εγγράφων και εξασφαλίζει τη συμβατότητα με παλαιά συστήματα.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Συγχώνευση Προτύπων**  
+  Συγχωνεύστε διαφορετικά πρότυπα `.dot` που χρησιμοποιούνται από διάφορες ομάδες για τη δημιουργία ενός μοναδικού προτύπου για τη δημιουργία εγγράφων.
+
+- **Αρχειοθέτηση Παλαιών Προτύπων**  
+  Συνδυάστε τα πρότυπα `.dot` για μακροπρόθεσμη αποθήκευση ή μετάβαση στην πιο σύγχρονη μορφή `.dotx`.
+
+- **Ενημέρωση Βιβλιοθηκών Προτύπων**  
+  Συγχωνεύστε πολλαπλά αρχεία `.dot` που περιέχουν παλιά μορφοποίηση ή στυλ για μοντερνοποίηση σε ένα πρότυπο.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

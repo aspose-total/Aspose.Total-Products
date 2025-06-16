@@ -73,7 +73,22 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparación de archivos DOTM para casos de uso de validación de plantillas habilitadas para macro:
+
+Los archivos DOTM combinan plantillas de documentos reutilizables con macros incrustados. Comparar versiones de archivos DOTM revela cambios tanto en el diseño como en la lógica de los macros, lo cual es crucial para la integridad de la automatización.
+
+- **Monitoreo del Flujo de Trabajo de Macros**  
+  Validar si la lógica de automatización de la plantilla ha sido alterada o descontinuada.
+
+- **Verificaciones de Estandarización de Plantillas**  
+  Seguir actualizaciones visuales o estructurales en plantillas reutilizables entre equipos.
+
+- **Registros de Auditoría de Automatización**  
+  Mantener registros de lo que ha cambiado entre las versiones automatizadas de las plantillas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

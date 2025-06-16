@@ -78,7 +78,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas PPTM untuk Alur Kerja Presentasi PowerPoint yang Mendukung Makro
+
+Berkas PPTM adalah presentasi PowerPoint yang mengandung makro. Menggabungkan berkas `.pptm` memungkinkan konsolidasi otomatisasi dan fungsionalitas canggih yang digunakan dalam presentasi.
+
+#### Kasus Penggunaan:
+
+- **Generasi Presentasi Otomatis**  
+  Gabungkan berkas `.pptm` yang menggunakan makro untuk menghasilkan laporan, grafik, atau slide secara dinamis ke dalam satu presentasi otomatis.
+
+- **Integrasi Alur Kerja yang Didorong Makro**  
+  Gabungkan berkas `.pptm` dari tim yang berbeda yang bergantung pada makro untuk format presentasi atau manipulasi data.
+
+- **Penggabungan Presentasi Kustom dengan Otomatisasi**  
+  Gabungkan berkas `.pptm` yang menampilkan makro tertanam untuk memproses dan menghasilkan laporan secara otomatis selama presentasi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -93,7 +93,15 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kasus Penggunaan untuk Mem-parsing Berkas .odt
+
+- 📄 Ekstrak teks, gambar, dan metadata dari berkas Teks OpenDocument.
+- 🧾 Konversi berkas `.odt` ke HTML, Markdown, atau PDF untuk dipublikasikan.
+- 📚 Arsipkan format dokumen sumber terbuka dengan mengonversi dan mengindeks konten.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات TSV (قيم مفصولة بواسطة علامة التبويب) شائعة في علم البيانات وتصدير الأنظمة. تساعد التعليقات في تحديد السجلات المحددة، وشرح قيم الحقول، أو تسليط الضوء على احتياجات التحويل.
+
+#### تعليقات على ملفات TSV للتعاون على البيانات المهيكلة - حالات الاستخدام:
+
+- **ملاحظات تنظيف البيانات**: تسليط الضوء على الصفوف التي تحتاج إلى تصحيح يدوي أو استبعاد.
+- **مجموعات بيانات تدريب النماذج**: تحديد الحالات الخاصة لمنطق تعلم الآلة فيما بعد.
+- **تعليقات سير العمل ETL**: تعليق على الحقول التي تتطلب تعيين أو تغييرات في النموذج.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

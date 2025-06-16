@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos DOT para la gestión de plantillas heredadas
+
+Los archivos DOT son plantillas de Word utilizadas con versiones antiguas de Microsoft Word (anterior a DOCX). Fusionar archivos `.dot` ayuda a estandarizar el formato de documentos y garantiza la compatibilidad con sistemas heredados.
+
+#### Casos de uso:
+
+- **Consolidación de plantillas**  
+  Fusionar diferentes plantillas `.dot` utilizadas por varios equipos para crear una plantilla única y unificada para la creación de documentos.
+
+- **Archivado de plantillas heredadas**  
+  Combinar plantillas `.dot` para almacenamiento a largo plazo o migración al formato más moderno `.dotx`.
+
+- **Actualización de bibliotecas de plantillas**  
+  Fusionar varios archivos `.dot` que contienen formato o estilos obsoletos para modernizar en una sola plantilla.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

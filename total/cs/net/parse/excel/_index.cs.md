@@ -87,7 +87,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Soubory aplikace Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Zpracování použití
+
+- 📈 **Extrakce dat**  
+  Zpracování hodnot buněk, vzorců a rozsahů z tabulek pro analytiku nebo dashboardy.
+
+- 🧮 **Zpracování šablon**  
+  Použití šablon `.xlt`, `.xltx`, `.xltm` k vyplnění zpráv, finančních výkazů nebo předpovědí.
+
+- 🤖 **Zpracování s ohledem na makra**  
+  Zpracování formátů `.xlsm` a `.xltm` s ohledem na makra k zabránění nebo zachování automatizační logiky.
+
+- 🔍 **Import strukturovaných dat**  
+  Import obsahu z `.csv`, `.tsv` nebo `.xlsx` do databází, aplikací nebo API.
+
+- 🗃️ **Migrace dat**  
+  Převod listů z `.xls`, `.xlsb` a `.xlsx` do formátů JSON, XML nebo jiných strukturovaných formátů pro integraci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

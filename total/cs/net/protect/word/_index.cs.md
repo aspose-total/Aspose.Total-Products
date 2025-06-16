@@ -79,7 +79,18 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — Použití případů pro ochranu dokumentů
+
+- Zabraňte neoprávněné úpravě právních smluv, personálních politik nebo akademických prací.
+- Zabezpečte části dokumentu (jako záhlaví, právní ustanovení nebo obsahové tabulky) proti změnám.
+- Umístěte spolupracovní úpravy s omezeným přístupem k určitým oblastem (např. sekce pouze pro komentáře).
+- Ochrana šablon nebo formulářů s makry, které automatizují pracovní postupy.
+- Zamkněte prvky firemní identity (jako loga a firemní prohlášení) ve standardizovaných šablonách.
+- Zabraňte nekonzistencím formátování při sdílení dokumentů mezi odděleními nebo externě.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

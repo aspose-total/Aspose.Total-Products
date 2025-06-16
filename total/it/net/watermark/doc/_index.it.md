@@ -83,7 +83,19 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Il formato DOC è il tipo di file binario legacy di Microsoft Word, ancora utilizzato nei sistemi più datati.
+
+**I casi d'uso comuni includono:**
+
+- Etichettare i documenti come Archiviati, Legacy o Obsoleti
+- Incorporare il nome dell'autore o del dipartimento
+- Applicare avvertenze legali o messaggi di conformità
+- Impedire la modifica o il riutilizzo contrassegnando come Copia Finale
+- Supportare la conservazione dei documenti e le tracce di audit
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملفات XLT لتحسين قوالب إكسل القديمة
+
+ملفات XLT (قالب إكسل 97-2003) يمكن أن تصبح كبيرة بسبب العناصر المضمنة أو البيانات العينية. يجعل ضغط ملفات XLT المكتبات القالبية أكثر نحافة وأسهل في التوزيع.
+
+#### حالات الاستخدام:
+
+- **قابلية نقل القوالب القديمة**  
+  إرسال القوالب القياسية مضغوطة لتسريع التوزيع في أنظمة المؤسسات القديمة.
+
+- **كفاءة مستودع القوالب**  
+  الحفاظ على أرشيف القوالب خفيف الوزن للوصول المركزي واسترجاع سريع.
+
+- **تقليل وقت تحميل القالب**  
+  تحسين الأنظمة القديمة عن طريق ضغط ملفات XLT لفتح واستخدام أسرع.
+
+- **تحسين النسخ الاحتياطي والتخزين**  
+  تقليل تخزين القوالب القديمة على المدى الطويل من خلال الضغط.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

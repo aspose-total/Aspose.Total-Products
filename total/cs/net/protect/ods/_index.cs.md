@@ -78,7 +78,16 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | OpenDocument Tabulkový list — Případy použití pro ochranu
+
+- Používá se v otevřených prostředích jako je LibreOffice pro sledování rozpočtu a sdílení dat.
+- Chrání buňky s vzorci a výpočty v pracovních postupech mezi různými platformami.
+- Brání strukturálním změnám v kolaborativních finančních modelech nebo dokumentech ve veřejném sektoru.
+- Zajišťuje konzistenci při sdílení mezi více zúčastněnými stranami nebo odděleními.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos XLSB (Libro de Excel Binario) están optimizados para conjuntos de datos empresariales a gran escala. La anotación permite a los equipos proporcionar contexto sobre celdas críticas, facilitando la colaboración de equipos grandes sin pérdida de rendimiento.
+
+#### Anotar archivos XLSB para un manejo eficiente de datos empresariales - Casos de uso:
+
+- **Tuberías de Datos Empresariales**: Insertar comentarios durante las etapas de ETL para rastrear cambios.
+- **Colaboración del Equipo de BI**: Anotar KPI y paneles con ideas o preguntas.
+- **Seguimiento de Cambios**: Resaltar filas o celdas actualizadas para el control de versiones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma di file JPEG e JPG con firme digitali o elettroniche
+
+Le immagini JPEG/JPG vengono utilizzate per documenti scannerizzati, foto e prove di identità. Firmarle digitalmente garantisce sicurezza e prova di origine.
+
+## Casi d'uso comuni
+- Contratti scannerizzati e documenti firmati.
+- Documenti di identità nei processi KYC.
+- Rapporti visivi con osservazioni incorporate.
+- Immagini mediche condivise per consulenze a distanza.
+- Registri di proprietà terriera in formato visivo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

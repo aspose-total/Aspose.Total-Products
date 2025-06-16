@@ -81,7 +81,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů TIFF pro spojování obrázků ve vysoké kvalitě
+
+TIFF (Tagged Image File Format) je široce používán pro obrázky ve vysoké kvalitě, které vyžadují bezeztrátovou kompresi nebo žádnou kompresi vůbec. Slučování souborů `.tiff` je užitečné pro kombinování skenů, vícestránkových dokumentů nebo velkých obrázků.
+
+#### Použití:
+
+- **Vytváření vícestránkových dokumentů**  
+  Slučujte více souborů `.tiff`, které představují stránky dokumentu, do jednoho vícestránkového souboru pro snazší prohlížení nebo tisk.
+
+- **Skenování ve vysokém rozlišení**  
+  Kombinujte soubory `.tiff` obsahující naskenované části uměleckých děl, dokumentů nebo plánů do jednoho obrázku ve vysokém rozlišení.
+
+- **Archivace a uchovávání**  
+  Slučujte soubory `.tiff` pro archivační účely, kde je kvalita obrázku a zachování detailů kritické.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

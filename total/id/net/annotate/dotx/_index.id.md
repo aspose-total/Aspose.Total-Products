@@ -123,7 +123,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File DOTX (Word Open XML Template) menyediakan template bersih tanpa makro untuk versi Word modern. Menandai file DOTX mendukung dokumentasi struktur, berbagi umpan balik, dan pembaruan kolaboratif tanpa memengaruhi integritas desain.
+
+#### Anotasi File DOTX untuk Penggunaan Kolaborasi Template Bersih:
+
+- **Desain Template Kolaboratif**  
+  Masukkan komentar untuk menyarankan perubahan tata letak, gaya, atau placeholder.
+
+- **Instruksi Tingkat Bidang**  
+  Beri anotasi pada bagian dinamis dengan instruksi untuk pengguna akhir atau pembuat konten.
+
+- **Pembuatan Versi & Pembaruan**  
+  Gunakan anotasi untuk mendokumentasikan pembaruan terbaru, bidang yang sudah tidak digunakan, atau catatan gaya.
+
+- **Audit Template**  
+  Komentari untuk mengonfirmasi kepatuhan terhadap standar pemformatan, aksesibilitas, dan branding.
+
+- **Integrasi Tinjauan Pemangku Kepentingan**  
+  Membantu tinjauan pemangku kepentingan waktu nyata dengan umpan balik kontekstual dalam anotasi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

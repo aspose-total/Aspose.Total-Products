@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 التحرير في ملف .docx (Microsoft Word)
+
+- قم بتحرير الأسماء الشخصية ومعلومات الاتصال والأرقام التعريفية في مستندات الموارد البشرية.
+- قم بتحرير تفاصيل الحالات الحساسة أو معلومات العملاء في العقود القانونية وتقديمات المحكمة.
+- قم بتحرير الأقسام السرية في التقارير الداخلية ومحاضر الاجتماعات أو مستندات المشروع.
+- قم بتحرير الأساليب الخاصة أو نتائج البحوث في الأوراق الأكاديمية أو العلمية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

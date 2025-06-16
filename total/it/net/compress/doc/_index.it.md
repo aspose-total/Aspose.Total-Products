@@ -78,7 +78,27 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimere i file DOC per un efficiente gestione dei documenti Word legacy
+
+I file DOC (Documento Microsoft Word 97-2003) possono diventare ingombranti nel tempo, specialmente con immagini incorporate o formattazioni estese. Comprimere i file DOC aiuta a migliorare la compatibilità, la trasferibilità e l'efficienza di archiviazione.
+
+#### Casi d'uso:
+
+- **Ottimizzazione dei documenti legacy**  
+  Ridurre le dimensioni dei file DOC per un accesso e una condivisione più veloci su sistemi più datati.
+
+- **Conformità degli allegati email**  
+  Comprimere i DOC per rispettare i limiti di dimensione dei sistemi email aziendali.
+
+- **Archiviazione archivistica**  
+  Ridurre lo spazio utilizzato da grandi volumi di file DOC archiviati da cicli di documentazione precedenti.
+
+- **Tempi di caricamento migliorati**  
+  Garantire un accesso più rapido ai file DOC più vecchi su ambienti a bassa larghezza di banda o a bassa performance.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

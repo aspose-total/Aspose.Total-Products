@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملفات DOCM لتبسيط أتمتة الوثائق ذات الوظائف الماكرو
+
+تتميز ملفات DOCM (مستند Word ذو وظائف ماكرو) بزيادة حجمها بفعل الوظائف المضمنة والنصوص والوسائط. يضمن ضغط ملفات DOCM سلاسة سير العمل التلقائي وتسهيل التعاون.
+
+#### حالات الاستخدام:
+
+- **توزيع الوثائق التلقائي**  
+  قلل من حجم الملفات لتمكين مشاركة سريعة للقوالب ذات الوظائف الماكرو.
+
+- **تحسين أداء النظام**  
+  ضغط ملفات DOCM الكبيرة لتقليل استخدام الذاكرة وأوقات الفتح.
+
+- **تحميلات آمنة على السحابة**  
+  استخدم الضغط لضمان تحميلات أسرع وأكثر موثوقية للملفات الثقيلة بالوظائف الماكرو إلى تخزين السحابة.
+
+- **أرشفة مكتبة الوظائف الماكرو**  
+  قم بتخزين إصدارات المستندات المضمنة بالوظائف الماكرو بكفاءة دون مطالبات تخزين مفرطة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

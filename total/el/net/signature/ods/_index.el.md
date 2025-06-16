@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων ODS με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Το ODS είναι το μορφότυπο υπολογιστικού φύλλου για πακέτα γραφείου ανοικτού κώδικα. Η ψηφιακή υπογραφή αρχείων ODS βοηθά στην προστασία οικονομικών και λειτουργικών δεδομένων σε περιβάλλοντα εκτός της Microsoft.
+
+## Κοινές Χρήσεις
+- Προϋπολογισμοί και αναφορές έργων ανοικτού κώδικα.
+- Εκπαιδευτικά ιδρύματα παρακολουθούν δεδομένα φοιτητών.
+- Κυβερνητικοί φορείς σε περιοχές με ευαισθησία στο κόστος.
+- ΜΚΟ συγκεντρώνουν δωρητές και αναφορές έργων.
+- Τμηματικά έγγραφα σχεδιασμού που απαιτούν ασφαλείς ηλεκτρονικές υπογραφές.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

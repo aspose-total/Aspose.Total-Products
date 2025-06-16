@@ -73,7 +73,20 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — حالات الاستخدام لتقسيم المستندات
+
+- كسر التقارير الكبيرة أو الدليل أو ورقات البحث إلى ملفات أصغر وأكثر إدارة.
+- تعيين أقسام مختلفة من المستند لأفراد الفريق المختلفين للتحرير المستقل.
+- أتمتة سير العمل من خلال معالجة أجزاء محددة من المستند بشكل منفصل.
+- جعل الملفات الكبيرة أسهل في المشاركة عن طريق تقسيمها إلى مرفقات أصغر للبريد الإلكتروني أو التحميل.
+- إنشاء مستندات شخصية (على سبيل المثال، شهادات، فواتير، أو رسائل) من ملف رئيسي واحد.
+- تنظيم المحتوى لسهولة التخزين والبحث والامتثال مع أنظمة إدارة المستندات.
+- مشاركة أقسام ذات صلة فقط من المستندات الحساسة مع الحفاظ على بيانات سرية آمنة.
+- توزيع المواد التعليمية أو التدريبية في ملفات أصغر تركز على الموضوع لتحسين تجربة التعلم.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

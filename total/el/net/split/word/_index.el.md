@@ -73,7 +73,20 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word - Χρήσεις για τη Διαίρεση Εγγράφου
+
+- Διαίρεση μεγάλων αναφορών, εγχειριδίων ή ερευνητικών εργασιών σε μικρότερα, πιο διαχειρίσιμα αρχεία.
+- Ανάθεση διαφορετικών ενοτήτων ενός εγγράφου σε διάφορα μέλη της ομάδας για ανεξάρτητη επεξεργασία.
+- Αυτοματοποίηση ροών εργασίας με την επεξεργασία συγκεκριμένων τμημάτων ενός εγγράφου ξεχωριστά.
+- Κάντε τα μεγάλα αρχεία πιο εύκολα να μοιραστούν διαιρώντας τα σε μικρότερα συνημμένα για email ή μεταφόρτωση.
+- Δημιουργία εξατομικευμένων εγγράφων (π.χ. πιστοποιητικά, τιμολόγια ή επιστολές) από ένα μόνο κύριο αρχείο.
+- Οργάνωση περιεχομένου για ευκολότερη αποθήκευση, αναζητησιμότητα και συμμόρφωση με συστήματα διαχείρισης εγγράφων.
+- Κοινοποίηση μόνο των σχετικών τμημάτων ευαίσθητων εγγράφων διατηρώντας τα εμπιστευτικά δεδομένα ασφαλή.
+- Διανομή εκπαιδευτικών ή εκπαιδευτικών υλικών σε μικρότερα αρχεία με εστίαση σε θέματα για βελτιωμένη εκπαιδευτική εμπειρία.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

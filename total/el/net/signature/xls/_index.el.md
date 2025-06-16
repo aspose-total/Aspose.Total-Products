@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων XLS με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Το XLS είναι ένα παλαιότερο μορφότυπο του Excel που χρησιμοποιείται ακόμα για συμβατότητα προς τα πίσω. Η προσθήκη μιας ψηφιακής υπογραφής ασφαλίζει τα οικονομικά δεδομένα και την ακεραιότητα της έκδοσης.
+
+## Κοινές Χρήσεις
+- Παλαιά οικονομικά αναφορές και φύλλα μισθοδοσίας.
+- Σχέδια επενδύσεων που κοινοποιούνται σε παλαιό μορφότυπο Excel.
+- Δεδομένα προμηθειών και υποβολές προμηθευτών σε XLS.
+- Αναφορές ελέγχου της κυβέρνησης που χρησιμοποιούν παλιούς πίνακες υπολογιστή.
+- Δηλώσεις μισθού υπαλλήλων που απαιτούν επικύρωση υπογραφής.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

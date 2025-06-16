@@ -73,7 +73,14 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### .docx Αρχείο — Περιπτώσεις Χρήσης για τη Διαίρεση των Εγγράφων
+
+- Διαίρεση σύγχρονων εγγράφων Word για βελτιωμένη πλοήγηση και modul editing.
+- Δημιουργία εξατομικευμένων εγγράφων από έναν κύριο αρχείο .docx εξάγοντας ενότητες.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

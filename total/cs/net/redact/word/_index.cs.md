@@ -82,7 +82,16 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Cenzura v programu Microsoft Word
+
+- Cenzurovat jména, adresy a identifikační čísla v oficiálních dokumentech.
+- Před odesláním soudních dokumentů nebo smluv cenzurovat důvěrný právní obsah.
+- Cenzurovat interní komunikaci a citlivé obchodní informace ve sdílených zprávách.
+- Cenzurovat osobní nebo lékařské informace v personálních souborech, souhrnech pacientů nebo akademických záznamech.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

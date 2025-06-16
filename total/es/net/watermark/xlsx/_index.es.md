@@ -76,7 +76,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX es el formato estándar para las hojas de cálculo modernas de Excel.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Mostrar datos en borrador, confidenciales o verificados
+- Incrustar detalles de marca o propiedad
+- Proteger modelos con advertencias de No Distribuir
+- Marcar datos para cumplimiento normativo
+- Identificar versiones para colaboración o revisión de clientes
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

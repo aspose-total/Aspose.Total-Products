@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### مقارنة ملفات ODT لحالات استخدام التعاون على الوثائق المفتوحة:
+
+ملف ODT (OpenDocument Text) هو المعيار لمعالجات النصوص مفتوحة المصدر مثل LibreOffice وOpenOffice. مقارنة ملفات ODT توفر شفافية في الكتابة التعاونية، خصوصاً في البيئات المفتوحة.
+
+- **تدقيق التعاون المفتوح**  
+  تتبع التعديلات التي قام بها المساهمون في وثائق مفتوحة المصدر.
+
+- **مراجعة الوثائق الحكومية والأكاديمية**  
+  مقارنة النماذج الرسمية، والسياسات، أو مسودات البحوث المشتركة بتنسيق ODT.
+
+- **الشفافية في سير العمل العام**  
+  عرض التغييرات جنبًا إلى جنب للوثائق والمقترحات التي يتم الحفاظ عليها علنًا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

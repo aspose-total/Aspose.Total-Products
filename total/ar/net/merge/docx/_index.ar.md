@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات DOCX لتوحيد مستندات Word الحديثة
+
+يعتبر DOCX هو التنسيق الافتراضي القائم على XML المستخدم من قبل Microsoft Word للمستندات الحديثة. يعتبر دمج ملفات .docx أمرًا أساسيًا للتعاون وتجميع المحتوى وتوثيقه بشكل مركزي.
+
+#### حالات الاستخدام:
+
+- **توثيق المشروع**  
+  دمج ملفات .docx من أعضاء الفريق أو الإدارات المختلفة في مستند مشروع شامل واحد.
+
+- **تجميع التقارير**  
+  دمج التقارير الشهرية أو الربع سنوية أو السنوية من مصادر متعددة في ملف واحد موحد للتوزيع.
+
+- **الكتابة التعاونية**  
+  دمج مسودات .docx أو مساهمات من كتاب مختلفين في مستند واحد للمراجعة النهائية والنشر.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

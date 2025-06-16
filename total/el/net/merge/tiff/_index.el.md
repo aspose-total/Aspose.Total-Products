@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων TIFF για τη συγχώνευση εικόνων υψηλής ποιότητας
+
+Το TIFF (Tagged Image File Format) χρησιμοποιείται ευρέως για εικόνες υψηλής ποιότητας που απαιτούν απώλεια συμπίεσης ή καθόλου συμπίεση. Η συγχώνευση αρχείων `.tiff` είναι χρήσιμη για τη συνδυασμό σαρώσεων, πολυσέλιδων εγγράφων ή μεγάλων εικόνων.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Δημιουργία Πολυσέλιδου Εγγράφου**  
+  Συγχωνεύστε πολλαπλά αρχεία `.tiff` που αντιπροσωπεύουν σελίδες ενός εγγράφου σε ένα μόνο πολυσέλιδο αρχείο για ευκολότερη προβολή ή εκτύπωση.
+
+- **Σάρωση Υψηλής Ανάλυσης**  
+  Συνδυάστε αρχεία `.tiff` που περιέχουν σαρώσεις τμημάτων έργων τέχνης, εγγράφων ή σχεδίων σε ένα εικόνα υψηλής ανάλυσης.
+
+- **Αρχειοθέτηση και Διατήρηση**  
+  Συγχωνεύστε αρχεία `.tiff` για αρχειοθετικούς λόγους όπου η ποιότητα εικόνας και η διατήρηση λεπτομερειών είναι κρίσιμες.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

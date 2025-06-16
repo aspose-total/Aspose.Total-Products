@@ -93,7 +93,26 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Casos de uso de análisis de documentos de Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **Extracción de contenido**  
+  Extraer texto, tablas e imágenes de documentos de Word para mostrar en la web, indexación de búsqueda o análisis de texto.
+
+- 📰 **Procesamiento de plantillas**  
+  Utilizar plantillas `.dot`, `.dotx`, `.dotm` para generar automáticamente documentos con datos dinámicos en flujos de trabajo.
+
+- 🔁 **Flujos de trabajo automatizados**  
+  Automatizar el análisis y reemplazo de contenido en archivos `.docm` o `.dotm` que incluyen macros integrados.
+
+- 🧾 **Conversión de informes**  
+  Convertir archivos `.doc`, `.odt` o `.rtf` a HTML limpio, Markdown o PDF para publicación o documentación.
+
+- 📚 **Archivo digital**  
+  Archivar formatos heredados como `.doc` y `.rtf` convirtiéndolos e indexándolos para plataformas modernas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

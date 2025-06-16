@@ -75,7 +75,11 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Η ξεκλείδωση αρχείων .odp επιτρέπει στους χρήστες να τροποποιήσουν, να επαναχρησιμοποιήσουν ή να μετατρέψουν παρουσιάσεις OpenDocument που δημιουργήθηκαν τυπικά στο LibreOffice ή στο OpenOffice. Αυτά τα αρχεία μπορεί να είναι περιορισμένα λόγω προστασίας με κωδικό πρόσβασης ή ενσωματωμένων ρυθμίσεων δικαιωμάτων. Η ξεκλείδωση επιτρέπει την επεξεργασία σε διαφορετικές πλατφόρμες, ειδικά όταν μεταφέρετε περιεχόμενο σε Microsoft PowerPoint ή Google Slides, και είναι ζωτικής σημασίας για εκπαιδευτικούς, δημόσιους φορείς και οργανισμούς που διανέμουν υλικό σε ανοικτή μορφή.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

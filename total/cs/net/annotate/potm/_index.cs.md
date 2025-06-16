@@ -106,7 +106,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory POTM (šablony s povolenými makry programu PowerPoint) se používají k vytváření standardizovaných prezentací s vestavěnými makry. Anotování souborů POTM pomáhá dokumentovat logiku automatizace, standardizovat použití šablony a podporovat spolupráci při vývoji.
+
+#### Anotace souboru POTM pro šablonovou automatizaci prezentací:
+
+- **Hodnocení návrhu šablony**  
+  Přidejte komentáře k rozvržení snímku, konzistenci značky a struktuře v šabloně.
+
+- **Dokumentace maker**  
+  Anotujte účel a chování maker pro uživatele a vývojáře.
+
+- **Pokyny pro týmy**  
+  Poskytněte instrukce nebo osvědčené postupy, jak vyplnit a znovu použít šablonu.
+
+- **Anotace pro kontrolu souladu**  
+  Označte oblasti vyžadující aktualizace pro splnění přístupových nebo firemních standardů.
+
+- **Iterativní vývoj šablony**  
+  Označte změny verze nebo navržené vylepšení v se rozvíjejících návrzích šablony.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

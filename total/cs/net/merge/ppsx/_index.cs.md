@@ -78,7 +78,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů PPSX pro integraci moderní prezentace diapozitivů
+
+PPSX je moderní formát založený na XML používaný pro prezentace diapozitivů v programu PowerPoint. Slučování souborů `.ppsx` pomáhá centralizovat prezentace do jednoho automatizovaného formátu prezentace diapozitivů.
+
+#### Případy použití:
+
+- **Automatizované marketingové kampaně**  
+  Slučujte prezentace `.ppsx` z různých kampaní do jednotné prezentace pro automatizované prezentace klientům.
+
+- **Kompilace vzdělávacího kurzu**  
+  Slučte více tréninkových prezentací ve formátu `.ppsx` pro vytvoření prezentace připravené pro kurz.
+
+- **Konsolidace návrhu projektu**  
+  Slučujte prezentace `.ppsx` z různých návrhů projektů do jedné prezentace pro prezentaci potenciálním klientům.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

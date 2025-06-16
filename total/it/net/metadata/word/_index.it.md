@@ -81,7 +81,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Utilizzo dei metadati dei documenti di Microsoft Word
+
+- Migliorare la ricercabilità nei sistemi di gestione dei documenti attraverso titoli, argomenti, parole chiave e autori.
+- Tenere traccia dell'autore del documento e della cronologia delle versioni durante le modifiche collaborative.
+- Classificare i documenti per progetto, dipartimento o confidenzialità per un recupero e un controllo più facili.
+- Automatizzare flussi di lavoro come approvazioni o archiviazione utilizzando trigger di metadati incorporati.
+- Incorporare dettagli legali, di licenza e di proprietà intellettuale per proteggere i diritti d'uso.
+- Integrare i documenti Word con sistemi di terze parti come CRM o strumenti di progetto.
+- Garantire politiche di conservazione dei documenti per conformità e auditabilità.
+- Abilitare gli strumenti di intelligenza artificiale a analizzare contesto, scopo e struttura basati su metadati arricchiti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF (Rich Text Format) je univerzální formát souborů podporovaný na různých platformách a textových procesorech. Anotování souborů RTF zlepšuje spolupráci, dokumentaci a srozumitelnost, zejména v prostředích, kde je důležitá neutralita formátu a široká kompatibilita.
+
+#### Anotace souborů RTF pro platformově nezávislou spolupráci na dokumentech - Případy použití:
+
+- **Editoriální kontrola na různých platformách**  
+  Anotujte soubory RTF, abyste poskytli komentáře nebo revizní poznámky, které zůstanou přístupné bez ohledu na operační systém uživatele nebo textový procesor.
+
+- **Dokumentace v regulačních prostředích**  
+  Přidejte regulační nebo související poznámky v právních, lékařských nebo akademických dokumentech pro sledovatelnost a srozumitelnost.
+
+- **Spolupracující vzdělávací obsah**  
+  Vložte vysvětlující komentáře do plánů výuky, testovacích papírů nebo výukových průvodců sdílených mezi pedagogy a studenty.
+
+- **Sledování verzí a zpětná vazba**  
+  Použijte anotace k označení změn nebo doplňků během vývoje obsahu v několika fázích.
+
+- **Kontrola lokalizovaného obsahu**  
+  Zvýrazněte oblasti v dokumentech v různých jazycích, které vyžadují překlad nebo kulturní adaptaci pro různé regiony.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

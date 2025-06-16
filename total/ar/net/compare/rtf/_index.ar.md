@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### مقارنة ملف RTF لحالات استخدام التدقيق في المستندات عبر الأنظمة:
+
+تستخدم ملفات RTF (تنسيق النص الغني) على نطاق واسع لتبادل المستندات الخفيفة. يدعم مقارنة ملفات RTF التحقق من التغييرات في المحتوى والتنسيق في البيئات التي تهم الحيادية منصة.
+
+- **التحقق من محتوى عبر الأنظمة**  
+  اكتشاف تغييرات التنسيق أو الكلمات عبر أنظمة أو أدوات مختلفة.
+
+- **مراجعة مراجعة التوثيق**  
+  قارن الدلائل التدريبية أو مستندات المساعدة التي تم تحديثها من قبل مساهمين متعددين.
+
+- **تدقيق التوافق مع الإرث**  
+  التأكد من أن التغييرات التي تم إجراؤها في أنظمة تعتمد على RTF لا تؤثر على الهيكل أو الأسلوب.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

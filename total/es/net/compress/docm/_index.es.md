@@ -78,7 +78,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos DOCM para la automatización simplificada de documentos con macros
+
+Los archivos DOCM (Documento de Word habilitado para macros) pueden crecer mucho con macros incrustadas, scripts y medios. Comprimir archivos DOCM garantiza flujos de trabajo de automatización más fluidos y una colaboración más sencilla.
+
+#### Casos de uso:
+
+- **Distribución automatizada de documentos**  
+  Reduzca el tamaño de los archivos para permitir el intercambio rápido de plantillas con macros.
+
+- **Optimización del rendimiento del sistema**  
+  Comprima archivos DOCM grandes para reducir el uso de memoria y los tiempos de apertura.
+
+- **Cargas seguras en la nube**  
+  Utilice la compresión para garantizar cargas más rápidas y fiables de archivos con muchas macros en el almacenamiento en la nube.
+
+- **Archivo de biblioteca de macros**  
+  Almacene eficientemente versiones de documentos con macros sin demandas excesivas de almacenamiento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

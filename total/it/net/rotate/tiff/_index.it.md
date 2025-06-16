@@ -73,7 +73,15 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casi d'uso per la rotazione di TIFF
+
+- Ruotare scansioni ad alta risoluzione di documenti legali o archivistici.
+- Correggere l'orientamento delle immagini mediche (ad es. raggi X).
+- Preparare pagine TIFF per un ordine coerente nella scansione multipagina.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

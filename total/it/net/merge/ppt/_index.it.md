@@ -78,7 +78,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file PPT per la gestione delle presentazioni di PowerPoint legacy
+
+I file PPT sono il formato binario più vecchio per le presentazioni di Microsoft PowerPoint. Unire i file `.ppt` è tipicamente necessario quando si consolidano presentazioni legacy, si archiviano vecchi progetti o si migrano verso formati moderni.
+
+#### Casi d'uso:
+
+- **Unione di archivi di presentazioni vecchie**  
+  Combinare diverse presentazioni `.ppt` per lo storage a lungo termine o il backup prima di convertirle in formati più recenti come `.pptx`.
+
+- **Consolidamento delle presentazioni dipartimentali**  
+  Unire presentazioni `.ppt` provenienti da diversi team o progetti per creare una singola presentazione per la revisione della direzione o gli aggiornamenti aziendali.
+
+- **Aggiornamento dei contenuti per presentazioni legacy**  
+  Unire presentazioni più vecchie in un nuovo file aggiornando le diapositive con contenuti freschi e branding.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,15 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Redazione in .odp (OpenDocument Presentation)
+
+- Censura le immagini o i dati identificativi nelle presentazioni accademiche o pubbliche.
+- Censura le metriche interne o le annotazioni confidenziali prima dell'esportazione.
+- Censura i nomi dei progetti o delle organizzazioni dalle diapositive utilizzate esternamente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

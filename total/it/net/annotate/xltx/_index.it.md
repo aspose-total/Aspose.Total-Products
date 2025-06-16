@@ -78,7 +78,17 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file XLTX (Excel Template - Open XML) vengono utilizzati per la creazione di report standardizzati e ripetibili. Annotarli garantisce chiarezza sulle aree modificabili, le aspettative di input e le suggerimenti di revisione.
+
+#### Annotare i file XLTX per modelli di report riutilizzabili - Casi d'uso:
+
+- **Istruzioni per il report**: Aggiungere suggerimenti sull'utilizzo o note di aggiornamento per report ricorrenti.
+- **Feedback sul design**: Annotare elementi visivi, intestazioni o strutture delle sezioni.
+- **Collaborazione degli utenti**: Tenere traccia dei suggerimenti provenienti da vari dipartimenti su un modello condiviso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

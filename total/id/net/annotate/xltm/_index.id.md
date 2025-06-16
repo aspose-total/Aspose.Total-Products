@@ -78,7 +78,17 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Berkas XLTM (Template yang Diaktifkan Makro) mendukung kegunaan kembali dengan makro. Anotasi memberikan wawasan penting tentang titik-titik otomatisasi, masukan yang diharapkan, atau hasil makro.
+
+#### Anotasi Berkas XLTM untuk Alur Kerja Template Makro - Kasus Penggunaan:
+
+- **Dokumentasi Makro**: Jelaskan pemicu makro dan efek yang dimaksud.
+- **Panduan Pengguna**: Anotasi bagian-bagian yang tidak boleh diubah pengguna untuk mempertahankan otomatisasi.
+- **Catatan Pengujian**: Tandai area yang sedang dalam tinjauan QA selama pengujian template.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

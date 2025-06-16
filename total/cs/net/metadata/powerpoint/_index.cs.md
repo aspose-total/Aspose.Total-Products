@@ -78,7 +78,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Použití metadat souborů Microsoft PowerPoint
+
+- Popište účel, cílovou skupinu nebo téma prezentace pomocí metadat.
+- Sledujte revize a autory firemních prezentací.
+- Klasifikujte interní/externí a důvěrné/veřejné prezentace.
+- Automatizujte schvalovací procesy pro firemní nebo výkonnostní prezentace.
+- Zahrňte autorská práva, licence a uživatelská práva k vizuálním prvkům a šablonám.
+- Zlepšete organizaci a indexaci klíčových prezentací v celé organizaci.
+- Umožněte třetím stranám, aby spravovaly obsah prezentací nebo platformy pro správu učebních materiálů.
+- Pomozte AI doporučovat rozložení snímků, opakované využití prezentací nebo automatické označování prezentací.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Το PPTX είναι το μοντέρνο μορφότυπο παρουσίασης PowerPoint.
+
+**Οι συνηθισμένες περιπτώσεις χρήσης περιλαμβάνουν:**
+
+- Εφαρμογή εταιρικής ταυτότητας και επαγγελματικών λογοτύπων
+- Ενδεικτική κατάστασης του slide deck όπως Πρόχειρο, Τελικό ή Εμπιστευτικό
+- Εμφάνιση διαίρεσης του κοινού (π.χ. "Για Πελάτη", "Για Εσωτερική Χρήση")
+- Αποτροπή κατάχρησης με υδατογραφήματα "Απαγορεύεται η Διανομή"
+- Ετικέτες σε slides με λεπτομέρειες του παρουσιαστή ή κατάσταση έγκρισης
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

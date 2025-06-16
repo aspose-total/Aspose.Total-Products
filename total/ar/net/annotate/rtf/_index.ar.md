@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تنسيق النصوص الغني (RTF) هو تنسيق ملف عالمي مدعوم عبر منصات مختلفة ومعالجات نصوص. تعزيز ملفات RTF بتعليقات يعزز التعاون والوثائق والوضوح - خصوصًا في البيئات التي تعتمد على حياد التنسيق والتوافق الواسع.
+
+#### تعليق ملف RTF للتعاون في الوثائق المستقلة عن المنصة - حالات الاستخدام:
+
+- **مراجعة تحريرية عبر المنصات**  
+  قم بتعليق ملفات RTF لتقديم تعليقات أو ملاحظات تنقيح تظل متاحة بغض النظر عن نظام التشغيل أو معالج النصوص الذي يستخدمه المستخدم.
+
+- **وثائق في بيئات تنظيمية**  
+  أضف ملاحظات تتعلق بالتنظيم أو الامتثال في الوثائق القانونية أو الطبية أو الأكاديمية لتحقيق التتبع والوضوح.
+
+- **محتوى تعليمي تعاوني**  
+  أدخل تعليقات توضيحية في خطط الدروس أو ورق الاختبار أو دلائل الدراسة المشتركة بين المعلمين والطلاب.
+
+- **تتبع الإصدارات والملاحظات**  
+  استخدم التعليقات لتحديد التغييرات أو الإضافات خلال تطوير المحتوى متعدد المراحل.
+
+- **مراجعة المحتوى المحلي**  
+  قم بتحديد المناطق في الوثائق متعددة اللغات التي تحتاج إلى ترجمة أو تكييف ثقافي لمناطق مختلفة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

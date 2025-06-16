@@ -84,7 +84,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Penggunaan Metadata Berkas Microsoft Excel
+
+- Menyimpan konteks, tujuan, dan detail proyek untuk kumpulan data melalui properti dokumen.
+- Mengidentifikasi pemilik data dan kontributor untuk pelacakan versi dan audit.
+- Mengklasifikasikan lembar kerja keuangan, operasional, atau SDM untuk kontrol akses.
+- Mendefinisikan siklus hidup dokumen (misalnya, aktif, diarsipkan, usang) menggunakan metadata.
+- Memungkinkan alur kerja otomatis untuk persetujuan keuangan atau laporan peramalan.
+- Menghubungkan data lembar kerja dengan sistem eksternal seperti ERP atau basis data melalui metadata.
+- Menggunakan metadata untuk dasbor, garis keturunan data, atau pipa intelijen bisnis.
+- Membantu AI dalam menentukan struktur, tujuan, dan signifikansi konten lembar kerja.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

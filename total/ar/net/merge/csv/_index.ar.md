@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 دمج CSV (قيم مفصولة بفواصل) لإدارة البيانات المركزية والتلقائية
+
+CSV هو تنسيق نصي بسيط للبيانات الجدولية. يدعم دمج ملفات CSV تجميع البيانات وإعداد التقارير وأنابيب الأتمتة.
+
+#### حالات الاستخدام:
+
+- **تقارير البيانات الموحدة**  
+  دمج بيانات المبيعات أو المخزون أو المعاملات في ملف CSV واحد للتحليل.
+
+- **ETL وتخزين البيانات**  
+  دمج السجلات أو مجموعات البيانات في تنسيق متسق للتقديم.
+
+- **نتائج الاستطلاع والاستفتاء**  
+  دمج استجابات الاستطلاع المصدرة للتقييم المجتمع.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

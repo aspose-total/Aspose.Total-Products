@@ -75,7 +75,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Casos de uso para dividir hojas de cálculo
+
+- Dividir libros de trabajo grandes en hojas más pequeñas para simplificar la gestión de datos y mejorar el rendimiento.
+- Asignar hojas de cálculo específicas a diferentes miembros del equipo para edición simultánea.
+- Automatizar el procesamiento de datos separando secciones para análisis o informes individuales.
+- Compartir partes relevantes de un libro de trabajo sin exponer todo el conjunto de datos.
+- Crear informes personalizados dividiendo un archivo principal en versiones personalizadas.
+- Gestionar modelos financieros o inventarios grandes dividiéndolos en partes manejables.
+- Mejorar la colaboración aislando datos sensibles en hojas separadas y protegidas.
+- Archivar datos históricos por separado para optimizar el tamaño actual del archivo y la velocidad de acceso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Συγχώνευση JPG (Μορφή Εικόνας JPEG) για Οπτική Αρχειοθέτηση και Συγκέντρωση Σχεδίου
+
+Το JPG είναι μια συμπιεσμένη μορφή εικόνας που χρησιμοποιείται ευρέως για φωτογραφίες και γραφικά στον ιστό. Η συγχώνευση αρχείων JPG υποστηρίζει παρουσιάσεις, αρχειοθέτηση και οπτική τεκμηρίωση.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Δημιουργία Άλμπουμ Φωτογραφιών**  
+  Συγχωνεύστε εικόνες διακοπών ή εκδηλώσεων σε ένα κολάζ ή παρουσίαση.
+
+- **Διαφημιστικό Υλικό**  
+  Συνδυάστε πολλά οπτικά στοιχεία σε φυλλάδια ή διαφημιστικά φυλλάδια.
+
+- **Τεκμηρίωση Βασισμένη σε Εικόνες**  
+  Συγχωνεύστε στιγμιότυπα ή οπτικά αρχεία καταγραφής σε έναν οδηγό ή έκθεση αποδεικτικών στοιχείων.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

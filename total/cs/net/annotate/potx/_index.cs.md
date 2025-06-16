@@ -106,7 +106,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory POTX (šablony PowerPointu) se používají k vytváření šablon prezentací bez maker. Anotování souborů POTX zajišťuje jasnost v návrhových standardech a usnadňuje týmovou shodu na opakovaně použitelných rozloženích prezentací.
+
+#### Anotace souboru POTX pro standardní zpětnou vazbu na šablonu prezentace:
+
+- **Ověření značky**  
+  Vložte poznámky k ověření použití písma, barev a struktury snímku v souladu s pokyny značky.
+
+- **Instrukce pro zástupce zástupců snímků**  
+  Komentujte, jak používat nebo vyplňovat konkrétní oblasti obsahu pro koncové uživatele.
+
+- **Spolupracující tvorba šablony**  
+  Navrhujte vylepšení rozložení nebo oblastí obsahu během sdíleného návrhu šablony.
+
+- **Vzdělávací šablony snímků**  
+  Přidejte výukové nebo instruktážní poznámky pro akademické šablony.
+
+- **Pokyny k lokalizaci**  
+  Anotujte sekce pro překlad nebo regionální adaptaci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

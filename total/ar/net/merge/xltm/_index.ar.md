@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات XLTM لقوالب تمكين الماكرو
+
+ملفات XLTM هي قوالب تمكين الماكرو المستخدمة لتوحيد المهام المتكررة في Excel. يكون دمجها مفيدًا عند توحيد منطق التشغيل التلقائي أو ترحيل سير العمل.
+
+#### حالات الاستخدام:
+
+- **مكتبات أتمتة سير العمل**  
+  دمج قوالب `.xltm` التي تحتوي على ماكروهات مختلفة لوظائف متنوعة في قالب مركزي واحد.
+
+- **دمج القوالب الخاصة بالأقسام**  
+  دمج القوالب الممكنة للماكرو من أقسام مختلفة لتوحيد أتمتة العمليات.
+
+- **تدقيق العمليات المعتمدة على الماكرو**  
+  دمج قوالب `.xltm` لمراجعة الماكروهات المضمنة من أجل الامتثال والتحسين.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Menggabungkan Berkas DOC untuk Manajemen Dokumen Word Warisan
+
+Berkas DOC adalah format biner lama yang digunakan oleh Microsoft Word. Menggabungkan berkas `.doc` biasanya diperlukan untuk mengonsolidasikan dokumen warisan, pengarsipan, atau beralih ke format yang lebih baru.
+
+#### Kasus Penggunaan:
+
+- **Menggabungkan Laporan Historis**  
+  Gabungkan laporan `.doc` lama untuk tujuan pengarsipan atau membuat dokumen bersatu untuk dicetak atau dibagikan.
+
+- **Pembaruan Dokumen Warisan**  
+  Gabungkan beberapa berkas `.doc` yang berisi informasi proyek atau dokumen bisnis ke dalam dokumen utama untuk diperbarui.
+
+- **Konversi Dokumen ke Format Modern**  
+  Gabungkan berkas `.doc` sebelum mengonversinya ke `.docx` untuk meningkatkan kompatibilitas dengan sistem modern.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

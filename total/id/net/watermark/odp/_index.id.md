@@ -80,7 +80,19 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP adalah format presentasi terbuka yang digunakan oleh LibreOffice Impress dan alat sumber terbuka lainnya.
+
+**Kasus penggunaan umum:**
+
+- Menandai slide untuk forum terbuka, tinjauan internal, atau penggunaan terbatas
+- Menanamkan lisensi creative commons atau tag organisasi
+- Mendukung transparansi publik dalam presentasi NGO atau pemerintah
+- Menambahkan kredensial presenter atau afiliasi proyek
+- Mencegah penyalahgunaan dengan menandai draf atau versi non-final
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

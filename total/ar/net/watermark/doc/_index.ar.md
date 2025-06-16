@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تعتبر صيغة DOC هي صيغة ملفات Microsoft Word الثنائية التقليدية، والتي لا تزال تستخدم في الأنظمة القديمة.
+
+**تشمل حالات الاستخدام الشائعة ما يلي:**
+
+- تسمية المستندات كمؤرشفة، تقليدية، أو قديمة
+- تضمين اسم المؤلف أو القسم
+- تطبيق إخلاء المسؤولية القانونية أو رسائل الامتثال
+- منع التحرير أو إعادة الاستخدام عن طريق وضع علامة كنسخة نهائية
+- دعم الحفظ السجلي ومسارات التدقيق
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

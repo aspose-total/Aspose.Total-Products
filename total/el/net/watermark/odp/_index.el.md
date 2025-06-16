@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP είναι το ανοιχτό μορφότυπο παρουσίασης που χρησιμοποιείται από το LibreOffice Impress και άλλα εργαλεία ανοικτού κώδικα.
+
+**Κοινές περιπτώσεις χρήσης:**
+
+- Σήμανση διαφανειών για ανοιχτά φόρουμ, εσωτερικές αναθεωρήσεις ή περιορισμένη χρήση
+- Ενσωμάτωση αδειών creative commons ή οργανωτικών ετικετών
+- Υποστήριξη δημόσιας διαφάνειας σε παρουσιάσεις ΜΚΟ ή κυβέρνησης
+- Προσθήκη διαπιστεύσεων παρουσιαστή ή συνδέσεων έργων
+- Αποτροπή κατάχρησης με τη σήμανση προσχεδίων ή μη τελικών εκδόσεων
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

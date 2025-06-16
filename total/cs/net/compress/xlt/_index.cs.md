@@ -75,7 +75,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprese souborů XLT pro optimalizaci šablon Excelu pro starší verze
+
+Soubory XLT (šablony Excelu 97–2003) mohou být velké kvůli vestavěným prvkům nebo ukázkovým datům. Komprese souborů XLT zjednodušuje knihovny šablon a usnadňuje jejich distribuci.
+
+#### Případy použití:
+
+- **Přenositelnost starých šablon**  
+  Pošlete standardní šablony komprimované pro rychlejší distribuci ve starších podnikových systémech.
+
+- **Efektivita repozitáře šablon**  
+  Udržujte archivy šablon lehké pro centralizovaný přístup a rychlé vyhledávání.
+
+- **Snížení doby načítání šablony**  
+  Optimalizujte starší systémy kompresí souborů XLT pro rychlejší otevírání a používání.
+
+- **Optimalizace zálohování a úložiště**  
+  Minimalizujte dlouhodobé ukládání starých šablon pomocí komprese.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

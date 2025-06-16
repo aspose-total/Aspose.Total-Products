@@ -75,7 +75,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Kasus Penggunaan untuk Pembagian Spreadsheet
+
+- Bagi workbook besar menjadi lembaran kecil untuk menyederhanakan pengelolaan data dan meningkatkan kinerja.
+- Berikan lembar kerja tertentu kepada anggota tim yang berbeda untuk pengeditan bersama.
+- Otomatisasi pemrosesan data dengan memisahkan bagian-bagian untuk analisis atau pelaporan individu.
+- Bagikan bagian relevan dari sebuah workbook tanpa mengekspos seluruh dataset.
+- Buat laporan yang dipersonalisasi dengan membagi file utama menjadi versi yang disesuaikan.
+- Kelola model keuangan besar atau inventaris dengan memecahnya menjadi bagian-bagian yang dapat dikelola.
+- Tingkatkan kolaborasi dengan mengisolasi data sensitif dalam lembaran terpisah yang dilindungi.
+- Arsipkan data historis secara terpisah untuk mengoptimalkan ukuran file dan kecepatan akses saat ini.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

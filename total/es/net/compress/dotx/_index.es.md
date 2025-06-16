@@ -78,7 +78,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos DOTX para compartir plantillas de forma ligera en flujos de trabajo modernos
+
+Los archivos DOTX (Plantillas de Word Open XML) suelen reutilizarse y compartirse en entornos empresariales. Comprimir archivos DOTX ayuda a simplificar la gestión de plantillas, versiones y colaboración.
+
+#### Casos de uso:
+
+- **Carga de red reducida**  
+  Comprima archivos DOTX para compartir rápidamente en sistemas internos o plataformas colaborativas.
+
+- **Gestión de plantillas versionadas**  
+  Almacene múltiples versiones comprimidas de plantillas para facilitar la reversión o referencia.
+
+- **Distribución de plantillas por correo electrónico o portales**  
+  Asegúrese de que los archivos de plantillas cumplan con los límites de adjuntos o carga sin perder calidad.
+
+- **Uso mejorado en dispositivos móviles**  
+  Permita a los usuarios acceder y aplicar plantillas en aplicaciones móviles de Word con tiempos de carga reducidos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

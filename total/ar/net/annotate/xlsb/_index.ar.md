@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات XLSB (مصنفات إكسل ثنائية) مُحسنة لمجموعات بيانات المؤسسات بمقياس كبير. تسمح التعليقات للفِرَق بتوفير السياق حول الخلايا الحرجة، مما يساعد على التعاون الكبير بين الفِرَق دون فقدان الأداء.
+
+#### تعليق ملفات XLSB لمعالجة البيانات الفعالة للمؤسسات - حالات الاستخدام:
+
+- **أنابيب بيانات المؤسسات**: إدراج تعليقات أثناء مراحل ETL لتتبع التغييرات.
+- **تعاون فريق BI**: تعليق KPIs ولوحات التحكم بالرؤى أو الأسئلة.
+- **تتبع التغييرات**: تسليط الضوء على الصفوف أو الخلايا المُحدّثة لمراقبة الإصدارات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

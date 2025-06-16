@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Αποκοπή στο Microsoft Word
+
+- Αποκόψτε ονόματα, διευθύνσεις και αριθμούς ταυτότητας σε επίσημα έγγραφα.
+- Αποκόψτε εμπιστευτικό νομικό περιεχόμενο πριν υποβάλετε δικαστικά έγγραφα ή συμβόλαια.
+- Αποκόψτε εσωτερική επικοινωνία και ευαίσθητες επιχειρηματικές πληροφορίες σε κοινόχρηστες αναφορές.
+- Αποκόψτε προσωπικές ή ιατρικές πληροφορίες σε αρχεία ανθρώπινου δυναμικού, περιλήψεις ασθενών ή ακαδημαϊκά αρχεία.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

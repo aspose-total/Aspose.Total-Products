@@ -74,7 +74,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei file DOC con firme digitali o elettroniche
+
+I file DOC di Microsoft Word sono ancora ampiamente utilizzati nei sistemi legacy e negli studi legali. Applicare una firma digitale a un file DOC autentica la sua origine e garantisce che il contenuto non sia stato manomesso.
+
+## Casi d'uso comuni
+- Contratti legali e accordi condivisi in formato DOC.
+- Moduli HR e memo interni dell'azienda.
+- Documentazione governativa redatta in versioni più vecchie di Microsoft Office.
+- Corrispondenza formale in aziende che utilizzano software legacy.
+- Proposte confidenziali che richiedono verifica digitale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

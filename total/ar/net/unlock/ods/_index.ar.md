@@ -78,7 +78,34 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+تُستخدم صيغة .ods بواسطة برامج جداول البيانات مفتوحة المصدر مثل LibreOffice Calc و OpenOffice. يمكن أن يساعد فتح هذه الملفات المستخدمين في الوصول إلى المحتوى المحمي بكلمة مرور، والتعاون على البيانات، أو الانتقال إلى أدوات أخرى. تأكد من فتح ملفات ODS بشكل مسؤول، خاصة إذا كانت مصدرها بوابات بيانات مفتوحة أو مؤسسات تعليمية.
+
+#### **حالات الاستخدام**
+
+- **تحرير الخلايا أو الأوراق المقفلة**  
+  إزالة الحماية لتحديث الميزانيات، الخطط، أو أقسام أخرى قابلة للتحرير.
+
+- **تحويلها إلى Excel أو Google Sheets**  
+  فتحها لتحويل سلس واستخدامها في Microsoft Excel أو منصات الحوسبة السحابية.
+
+- **استعادة مفاتيح الحماية المنسية**  
+  مفيد عند نسيان المستخدمين لكلمات المرور لملفات ODS القديمة المستخدمة في مشاريع المجتمع.
+
+- **التعاون في سير العمل مفتوح المصدر**  
+  مشاركة ملفات قابلة للتحرير بالكامل مع أعضاء الفريق باستخدام أنظمة أو برامج مختلفة.
+
+- **تعديل القوالب العامة**  
+  تكييف قوالب ODS المقفلة من مستودعات البيانات المفتوحة أو منظمات غير حكومية.
+
+- **تصحيح مشاكل التنسيق**  
+  فتح العناصر الهيكلية لإصلاح أخطاء التخطيط الناتجة عن قيود التنسيق.
+
+- **فحص الماكروهات أو الشفرات المضمنة**  
+  تحليل منطق الأتمتة أو السكربتات المضمنة داخل ملفات ODS المقفلة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

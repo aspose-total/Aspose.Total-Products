@@ -78,7 +78,34 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Odemčení souborů `.xlsx`, výchozího formátu pro Excel od roku 2007, umožňuje uživatelům upravovat chráněné listy, automatizovat pracovní postupy nebo analyzovat zabezpečená data. Bez ohledu na to, zda je soubor chráněn uživatelem nebo systémem, odemčení může zjednodušit přístup k datům a jejich použitelnost. Buďte opatrní na důvěrnost a oprávnění při odemykání souborů `.xlsx` ve sdílených nebo regulovaných prostředích.
+
+#### **Případy použití**
+
+- **Úprava chráněných listů**  
+  Odeberte ochranu buněk, rozsahu nebo listu, abyste umožnili zadávání dat a aktualizace vzorců.
+
+- **Spolupráce a spoluautorství**  
+  Umožněte víceuživatelskou úpravu odstraněním pouze pro čtení nebo omezeného přístupu.
+
+- **Povolení skriptované automatizace**  
+  Odemkněte pro použití s Python skripty, Power Automate, Excel makra nebo nástroji třetích stran.
+
+- **Řešení problémů s rozbitými vzorci**  
+  Zobrazte a opravte uzamčené vzorce ovlivňující výsledky nebo výkon dashboardu.
+
+- **Opětovné použití firemních šablon**  
+  Upravte interní dokumenty, jako jsou plány, zprávy nebo rozpočtoví plánovači.
+
+- **Přístup k skrytým záložkám nebo pivot tabulkám**  
+  Odhalte skryté listy nebo chráněná pivot data potřebná pro analýzy nebo reporting.
+
+- **Audit a správa**  
+  Ujistěte se o plném přístupu k ověření datové linie, závislostí nebo logiky vzorců.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

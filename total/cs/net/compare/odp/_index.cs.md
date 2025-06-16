@@ -71,7 +71,22 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Použití: Srovnání souborů ODP pro revize prezentací ve formátu OpenDocument Presentation
+
+ODP (OpenDocument Presentation) je formát souboru prezentace používaný v open-source balíčcích jako LibreOffice Impress. Srovnávání souborů ODP je důležité pro identifikaci změn obsahu v kolaborativních nebo otevřených standardních prostředích.
+
+- **Hodnocení prezentace z open-source**  
+  Porovnání editací přispěvaných komunitou pro konzistenci a přesnost.
+
+- **Detekce aktualizací rozvržení a motivů**  
+  Detekce vizuálních rozdílů v nastavení hlavního snímku, barevných paletách a písmech.
+
+- **Sledování revizí obsahu**  
+  Identifikace přidaného nebo upraveného textu, tvarů, obrázků a grafů napříč různými verzemi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

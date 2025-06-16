@@ -76,7 +76,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Kasus Penggunaan Penandatanganan Berkas XLSX dengan Tanda Tangan Digital atau Elektronik
+
+XLSX adalah format Excel standar saat ini dan sepenuhnya mendukung tanda tangan elektronik dan digital untuk data keuangan dan operasional.
+
+## Kasus Penggunaan Umum
+- Laporan keuangan dan neraca.
+- Anggaran dan proyeksi departemen.
+- Dasbor kinerja yang dibagikan untuk tinjauan eksekutif.
+- Catatan SDM dan ringkasan kehadiran.
+- Lembar biaya pengadaan dan vendor yang memerlukan persetujuan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

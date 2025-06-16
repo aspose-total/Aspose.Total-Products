@@ -84,7 +84,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧠 Χρήσεις για Βιβλίο Ενεργοποιημένο για Μακροεντολές (`.xlsm`)
+
+- Αναγνωρίστε τα βιβλία εργασίας με ενεργά σενάρια χρησιμοποιώντας ενσωματωμένα μεταδεδομένα.
+- Βοηθήστε τις ομάδες συμμόρφωσης να ταξινομήσουν και να ελέγξουν τη χρήση μακροεντολών.
+- Υποστηρίξτε ειδοποιήσεις που ενεργοποιούνται από μεταδεδομένα για ευαίσθητα οικονομικά μοντέλα.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

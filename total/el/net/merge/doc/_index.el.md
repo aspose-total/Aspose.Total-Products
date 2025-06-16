@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων DOC για τη Διαχείριση Παλαιών Εγγράφων Word
+
+Τα αρχεία DOC είναι η παλαιότερη δυαδική μορφή που χρησιμοποιείται από το Microsoft Word. Η συγχώνευση αρχείων `.doc` είναι συνήθως απαραίτητη για τη συγχώνευση παλαιών εγγράφων, την αρχειοθέτηση ή τη μετάβαση σε νεότερες μορφές.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Συγχώνευση Ιστορικών Αναφορών**  
+  Συνδυάστε παλιές αναφορές `.doc` για αρχειοθετικούς λόγους ή για τη δημιουργία ενός ενιαίου εγγράφου για εκτύπωση ή κοινοποίηση.
+
+- **Ενημερώσεις Παλαιών Εγγράφων**  
+  Συγχωνεύστε πολλαπλά αρχεία `.doc` που περιέχουν πληροφορίες έργων ή επιχειρηματικά έγγραφα σε ένα κύριο έγγραφο για ενημέρωση.
+
+- **Μετατροπή Εγγράφου σε Σύγχρονες Μορφές**  
+  Συγχωνεύστε αρχεία `.doc` πριν τα μετατρέψετε σε `.docx` για βελτιωμένη συμβατότητα με σύγχρονα συστήματα.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

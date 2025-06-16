@@ -76,7 +76,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Firmar Archivos ODS con Firmas Digitales o Electrónicas
+
+ODS es el formato de hoja de cálculo para suites de oficina de código abierto. Firmar digitalmente archivos ODS ayuda a proteger datos financieros y operativos en entornos no-Microsoft.
+
+## Casos de Uso Comunes
+- Presupuestos y reportes de proyectos de código abierto.
+- Instituciones educativas que rastrean datos de estudiantes.
+- Agencias gubernamentales en regiones con restricciones de costos.
+- ONGs compilando informes de donantes y proyectos.
+- Documentos de planificación departamental que requieren firmas electrónicas seguras.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,30 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Documentos de Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word es el formato principal para documentación con mucho texto. La fusión de archivos de Word simplifica flujos de trabajo que involucran múltiples colaboradores, plantillas o versiones.
+
+#### Casos de Uso:
+
+- **Compilación de Informes Unificados**  
+  Fusionar múltiples informes departamentales o de proyectos en un único documento profesional para presentación o archivo.
+
+- **Consolidación de Contratos y Documentos Legales**  
+  Combinar diferentes versiones de contratos, apéndices y documentos legales en un archivo de acuerdo maestro.
+
+- **Colaboración en Equipo**  
+  Fusionar contribuciones de varios autores en un solo documento para edición y revisión colaborativa.
+
+- **Elaboración de Propuestas y Respuestas a Solicitudes de Propuestas (RFP)**  
+  Combinar secciones de alcance, precios y técnicas de diferentes fuentes en una propuesta cohesiva o respuesta a una solicitud de propuesta.
+
+- **Manuales de Políticas y Procedimientos**  
+  Fusionar documentos de políticas separados en un manual completo del empleado o manual de operaciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

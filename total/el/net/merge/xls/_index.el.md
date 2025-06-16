@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Συγχώνευση αρχείων XLS για Ενσωμάτωση Δεδομένων Excel Κληρονομιάς
+
+Το XLS είναι το δυαδικό μορφότυπο που χρησιμοποιείται από παλαιότερες εκδόσεις του Microsoft Excel. Η συγχώνευση πολλαπλών αρχείων `.xls` βοηθά στη συγκέντρωση ιστορικών δεδομένων σε μοντέρνα συστήματα για ανάλυση ή αρχειοθέτηση.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Ιστορικές Οικονομικές Αναφορές**  
+  Συνδυάστε παλιές οικονομικές αναφορές Excel για ανάλυση ιστορικών τάσεων ή προετοιμασία ελέγχου.
+
+- **Ιστορικά Αρχεία Ανθρώπινου Δυναμικού**  
+  Συγχωνεύστε παλαιότερες εγγραφές υπαλλήλων ή αρχεία μισθοδοσίας που διατηρούνται σε μορφή `.xls` σε ένα ενιαίο αρχείο.
+
+- **Αναβάθμιση Αρχείων Δεδομένων**  
+  Συγκεντρώστε αρχεία `.xls` πριν τα μετατρέψετε σε `.xlsx` ή άλλες μοντέρνες μορφές για βελτιωμένη συμβατότητα και επεξεργασία.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

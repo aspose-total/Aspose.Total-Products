@@ -80,7 +80,30 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Dokumenty Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word je standardní formát pro textovou dokumentaci. Slučování souborů Word zjednodušuje pracovní postupy zahrnující více přispěvatelů, šablony nebo verze.
+
+#### Případy použití:
+
+- **Sjednocená kompilace zpráv**  
+  Slučte více oddělení nebo projektových zpráv do jednoho profesionálního dokumentu pro odeslání nebo archivaci.
+
+- **Konsolidace smluv a právních dokumentů**  
+  Slučte různé verze smluv, příloh a právních dokumentů do jednoho souboru hlavní dohody.
+
+- **Spolupráce týmu**  
+  Slučte příspěvky od více autorů do jednoho dokumentu pro společné úpravy a přezkum.
+
+- **Sestavení návrhu a odpovědi na výzvu k podání nabídky**  
+  Slučte části týkající se rozsahu, cen a technických informací z různých zdrojů do jednoho souvislého návrhu nebo odpovědi na výzvu k podání nabídky.
+
+- **Manuály politik a postupů**  
+  Slučte oddělené politické dokumenty do jednoho komplexního manuálu zaměstnance nebo provozního manuálu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

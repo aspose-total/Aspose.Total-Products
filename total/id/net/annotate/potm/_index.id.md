@@ -106,7 +106,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File POTM (PowerPoint Macro-Enabled Template) digunakan untuk membuat presentasi standar dengan makro yang tertanam. Menandai file POTM membantu mendokumentasikan logika otomatisasi, standarisasi penggunaan template, dan mendukung pengembangan kolaboratif.
+
+#### Penandaan File POTM untuk Kasus Penggunaan Otomatisasi Presentasi Berbasis Template:
+
+- **Ulasan Desain Template**  
+  Tambahkan komentar tentang tata letak slide, konsistensi merek, dan struktur dalam template.
+
+- **Dokumentasi Makro**  
+  Tandai tujuan dan perilaku makro untuk pengguna dan pengembang.
+
+- **Pedoman Penggunaan untuk Tim**  
+  Berikan instruksi atau praktik terbaik tentang cara mengisi dan menggunakan kembali template.
+
+- **Penanda Pemeriksaan Kepatuhan**  
+  Tandai area yang memerlukan pembaruan untuk memenuhi standar aksesibilitas atau kebijakan perusahaan.
+
+- **Pengembangan Template Iteratif**  
+  Tandai perubahan versi atau perbaikan yang disarankan dalam desain template yang berkembang.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

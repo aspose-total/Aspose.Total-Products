@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ضغط ملفات XLS لتحسين عمل مصنف Excel القديم
+
+ملفات XLS (مصنف Excel 97-2003) يمكن أن تصبح كبيرة بسبب الرسوم البيانية المضمنة أو الصيغ أو البيانات الكبيرة. يضمن ضغط ملفات XLS التعامل الأسهل والتوافق عبر الأنظمة القديمة.
+
+#### حالات الاستخدام:
+
+- **أرشفة السجلات المالية**  
+  تقليل حجم تخزين ملفات XLS التاريخية التي تحتوي على بيانات مالية أو تقارير.
+
+- **دمج الأنظمة القديمة بشكل أسرع**  
+  تمكين معالجة أسرع لمصنفات XLS الكبيرة في الإصدارات القديمة من Excel.
+
+- **مشاركة المستندات المحسنة**  
+  ضغط ملفات XLS لتلبية حدود حجم الملف للبريد الإلكتروني أو تحميلها على محرك الأقراص المشترك.
+
+- **نقل البيانات للاستخدام دون اتصال**  
+  نقل ملفات XLS المدمجة على أجهزة USB أو أجهزة محمولة للعمل الميداني أو التدقيقات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

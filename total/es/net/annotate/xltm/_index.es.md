@@ -78,7 +78,17 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Los archivos XLTM (plantillas habilitadas para macros) admiten la reutilización con macros. Las anotaciones proporcionan información esencial sobre los puntos de automatización, los insumos esperados o los resultados de las macros.
+
+#### Anotar archivos XLTM para flujos de trabajo de plantillas de macros - Casos de uso:
+
+- **Documentación de macros**: Explicar los desencadenantes de las macros y los efectos previstos.
+- **Orientación al usuario**: Anotar secciones que los usuarios no deben modificar para preservar la automatización.
+- **Notas de prueba**: Marcar áreas bajo revisión de control de calidad durante la prueba de la plantilla.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

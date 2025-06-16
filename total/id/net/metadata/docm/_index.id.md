@@ -81,7 +81,16 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Kasus Penggunaan untuk Dokumen yang Diaktifkan Makro Word (`.docm`)
+
+- Sertakan metadata terkait makro untuk pelacakan otomatisasi.
+- Kelola kebijakan keamanan dokumen yang terkait dengan makro yang disematkan.
+- Aktifkan klasifikasi risiko otomatis berdasarkan skrip yang disematkan.
+- Membantu dalam mengidentifikasi tujuan dokumen dan proses bisnis terkait.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

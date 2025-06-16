@@ -87,7 +87,26 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Formati di Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) casi d'uso di analisi
+
+- 🖼️ **Estrazione Contenuto di Diapositive**  
+  Estrarre testo, immagini e dettagli di layout dalle diapositive per riassunti, ricerca o presentazioni HTML.
+
+- 🧩 **Automazione dei Modelli**  
+  Generare presentazioni da modelli `.potx` o `.potm` inserendo contenuti dinamici.
+
+- 🎯 **Gestione delle Presentazioni Macro**  
+  Analizzare in modo sicuro file `.pptm`, `.potm` e `.ppsm` contenenti macro o automazioni.
+
+- 📊 **Conversione Presentazione in Web**  
+  Convertire file `.pptx`, `.odp` o `.ppsx` in diapositive web o formati interattivi.
+
+- 📁 **Indicizzazione delle Diapositive**  
+  Indicizzare e riassumere le diapositive per sistemi di gestione documentale o archivi di riunioni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

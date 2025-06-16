@@ -83,7 +83,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Word je široce používán k vytváření textových dokumentů, jako jsou smlouvy, návrhy, zprávy a politiky. Vodoznak na těchto dokumentech pomáhá stanovit kontext a prosadit integritu dokumentu.
+
+**Běžné použití zahrnuje:**
+
+- Označení dokumentů jako Důvěrné, Návrh nebo Pouze pro interní použití
+- Identifikace autora nebo oddělení odpovědného za obsah
+- Přidání právních vyloučení nebo upozornění na autorská práva
+- Zabraňování neoprávněnému sdílení citlivých dokumentů
+- Sledování verze v průběhu spolupráce na úpravách
+- Dodržování regulačních nebo auditních požadavků
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

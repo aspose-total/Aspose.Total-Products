@@ -76,7 +76,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování formátů tabulek elektronickými podpisy
+
+## Finanční zprávy a rozpočty
+Soubory XLS, XLSX a ODS jsou široce používány pro finanční výkazy, rozvahy a plány rozpočtování. Digitální podpisy potvrzují přesnost dat a schválení recenzenta.
+
+## Mzdové a personální údaje
+Souhrny mzdových listů a analýzy HR sdílené jako tabulky mohou být podepsány elektronicky k zajištění ochrany soukromí a integrity během interních kontrol nebo auditů.
+
+## Nabídky dodavatelů a tabulky nákupů
+Formuláře nabídek, seznamy produktů a odhady nákladů jsou často sdíleny ve formátu tabulek. Elektronické podpisy formalizují přijetí a brání úpravám po odeslání.
+
+## Audit a záznamy o dodržování předpisů
+Auditore používají tabulky k sestavování a hlášení zjištění. Digitální podpisy certifikují, že data nebyla po schválení změněna.
+
+## Záznamy o inventáři a dodavatelském řetězci
+Soubory sledování inventáře, přepravní protokoly a dodavatelská data ve formátech ODS nebo XLSX jsou podepsány digitálně k zajištění konzistence provozu a zabránění manipulaci s daty.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

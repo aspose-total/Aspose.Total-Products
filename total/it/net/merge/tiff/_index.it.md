@@ -81,7 +81,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file TIFF per la fusione di immagini di alta qualità
+
+TIFF (Tagged Image File Format) è ampiamente utilizzato per immagini di alta qualità che richiedono una compressione senza perdita di dati o nessuna compressione affatto. Unire i file `.tiff` è utile per combinare scansioni, documenti multi-pagina o immagini di grandi dimensioni.
+
+#### Casi d'uso:
+
+- **Creazione di documenti multi-pagina**  
+  Unisci più file `.tiff` che rappresentano pagine di un documento in un unico file multi-pagina per una visualizzazione o stampa più semplice.
+
+- **Scansioni ad alta risoluzione**  
+  Combina file `.tiff` contenenti sezioni scansionate di opere d'arte, documenti o progetti in un'unica immagine ad alta risoluzione.
+
+- **Archiviazione e conservazione**  
+  Unisci file `.tiff` per scopi di archiviazione dove la qualità dell'immagine e la conservazione dei dettagli sono fondamentali.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

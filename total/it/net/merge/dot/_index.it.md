@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file DOT per la gestione dei modelli legacy
+
+I file DOT sono modelli di Word utilizzati con le versioni precedenti di Microsoft Word (prima di DOCX). Unire i file `.dot` aiuta a standardizzare la formattazione dei documenti e garantisce la compatibilità con i sistemi legacy.
+
+#### Casi d'uso:
+
+- **Consolidamento dei modelli**  
+  Unire diversi modelli `.dot` utilizzati da vari team per creare un unico modello unificato per la creazione di documenti.
+
+- **Archiviazione dei modelli legacy**  
+  Combinare i modelli `.dot` per l'archiviazione a lungo termine o la migrazione al formato più moderno `.dotx`.
+
+- **Aggiornamento delle librerie dei modelli**  
+  Unire più file `.dot` che contengono formattazioni o stili obsoleti per la modernizzazione in un unico modello.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

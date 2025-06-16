@@ -78,7 +78,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات PPSX لدمج العروض التقديمية الحديثة
+
+PPSX هو التنسيق الحديث القائم على XML المستخدم لعروض شرائح PowerPoint. يساعد دمج ملفات .ppsx في توحيد العروض التقديمية في تنسيق عرض شرائح آلي واحد.
+
+#### حالات الاستخدام:
+
+- **حملات التسويق التلقائي**  
+  دمج عروض تقديمية .ppsx من حملات مختلفة في عرض موحد لعروض العملاء التلقائية.
+
+- **تجميع دورة تعليمية**  
+  دمج عروض تقديمية تدريبية متعددة .ppsx لإنشاء عرض جاهز للدورة التعليمية.
+
+- **توحيد مقترح المشروع**  
+  دمج عروض تقديمية .ppsx من مقتراحات مشاريع مختلفة في عرض واحد لتقديمه للعملاء المحتملين.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

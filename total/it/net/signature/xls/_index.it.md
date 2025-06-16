@@ -76,7 +76,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei file XLS con firme digitali o elettroniche
+
+XLS è un formato Excel più vecchio ancora utilizzato per la compatibilità all'indietro. Aggiungere una firma digitale protegge i dati finanziari e l'integrità della versione.
+
+## Casi d'uso comuni
+- Rapporti finanziari e fogli di calcolo della contabilità.
+- Piani di investimento condivisi in un formato Excel più vecchio.
+- Dati di approvvigionamento e presentazioni dei fornitori in XLS.
+- Rapporti di audit governativi utilizzando vecchi modelli di fogli di calcolo.
+- Estratti conto stipendi dei dipendenti che richiedono la convalida della firma.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

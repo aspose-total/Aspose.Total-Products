@@ -84,7 +84,26 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Případy použití analýzy PDF
+
+- 🔍 **Extrakce textu a tabulek**  
+  Extrahovat odstavce, tabulky nebo hodnoty formulářů z PDF pro reporting nebo indexaci vyhledávání.
+
+- 🧾 **Zpracování faktur a formulářů**  
+  Zpracovat strukturované formuláře a faktury pro automatické vyplňování databází nebo účetních systémů.
+
+- 🎨 **Analýza rozložení**  
+  Detekovat vizuální strukturu (sloupce, sekce) pro přesnou konverzi do HTML nebo Markdownu.
+
+- 🧠 **OCR a vyhledatelnost**  
+  Převést naskenované PDF na vyhledatelný text pomocí OCR před analýzou.
+
+- 🗂️ **Digitální archivace a soulad**  
+  Archivovat a auditovat PDF dokumenty extrahováním a označováním relevantního obsahu nebo metadat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

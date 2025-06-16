@@ -78,7 +78,17 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM (šablony s povolenými makry) soubory podporují opakovatelnost s makry. Anotace poskytují zásadní poznatky o automatizačních bodech, očekávaných vstupech nebo výstupech maker.
+
+#### Anotujte soubory XLTM pro pracovní postupy s makrovými šablonami - Případy použití:
+
+- **Dokumentace maker**: Vysvětlete spouštěče maker a zamýšlené účinky.
+- **Uživatelské pokyny**: Anotujte sekce, které uživatelé nesmí měnit, aby zachovali automatizaci.
+- **Poznámky k testování**: Označte oblasti podléhající přezkumu QA během testování šablony.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

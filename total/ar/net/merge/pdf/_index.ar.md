@@ -77,7 +77,30 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات PDF لتجميع الوثائق وتحسين سير العمل
+
+يُستخدم تنسيق PDF (الشكل المحمول للوثائق) على نطاق واسع لمشاركة الوثائق والأرشفة والعروض التقديمية. غالبًا ما يكون دمج ملفات PDF متعددة في وثيقة واحدة ضروريًا لدمج التقارير والعقود والعروض التقديمية أو الوثائق المتعددة الصفحات.
+
+#### حالات الاستخدام:
+
+- **تجميع التقارير**  
+  دمج تقارير PDF متعددة (شهرية، ربع سنوية، أو سنوية) في ملف واحد موحد لسهولة المراجعة أو توزيعها على أصحاب المصلحة.
+
+- **دمج العقود والاتفاقيات**  
+  دمج ملفات PDF لعقود مختلفة أو اتفاقيات قانونية في وثيقة واحدة لتبسيط عمليات المراجعة والتوقيع.
+
+- **تجميع الوثيقة متعددة الصفحات**  
+  دمج صفحات فردية من وثيقة أكبر في ملف PDF شامل للطباعة أو المشاركة أو التقديم.
+
+- **تجميع مقترحات الأعمال**  
+  دمج ملفات PDF لمقترحات منفصلة في ملف واحد لتبسيط تقديم مقترحات الأعمال أو المشاريع.
+
+- **تجميع مواد العروض التقديمية**  
+  دمج ملفات PDF لعروض تقديمية مختلفة في وثيقة واحدة شاملة لمشاركتها في الاجتماعات أو المؤتمرات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 ملفات Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) تحليل حالات الاستخدام
+
+- 📈 **استخراج البيانات**  
+  تحليل قيم الخلايا، الصيغ، والنطاقات من جداول البيانات للتحليلات أو لوحات المعلومات.
+
+- 🧮 **معالجة القوالب**  
+  استخدام القوالب `.xlt`, `.xltx`, `.xltm` لملء التقارير، البيانات المالية، أو التنبؤات.
+
+- 🤖 **تحليل يدرك السيناريوهات**  
+  التعامل مع صيغ `.xlsm` و `.xltm` بوعي للماكرو لتجنب أو الحفاظ على منطق الأتمتة.
+
+- 🔍 **استيراد البيانات المهيكلة**  
+  استيراد محتوى `.csv`, `.tsv`, أو `.xlsx` إلى قواعد البيانات، التطبيقات، أو واجهات برمجة التطبيقات.
+
+- 🗃️ **هجرة البيانات**  
+  تحويل أوراق `.xls`, `.xlsb`, و `.xlsx` إلى JSON، XML، أو صيغ هيكلية أخرى للتكامل.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

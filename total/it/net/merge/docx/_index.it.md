@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file DOCX per la consolidazione dei documenti di Word moderni
+
+DOCX è il formato predefinito basato su XML utilizzato da Microsoft Word per i documenti moderni. Unire i file `.docx` è essenziale per la collaborazione, l'aggregazione dei contenuti e la documentazione centralizzata.
+
+#### Casi d'uso:
+
+- **Documentazione del progetto**  
+  Unisci i file `.docx` provenienti da diversi membri del team o dipartimenti in un unico documento di progetto completo.
+
+- **Compilazione di report**  
+  Combina report mensili, trimestrali o annuali da diverse fonti in un unico file unificato per la distribuzione.
+
+- **Scrittura collaborativa**  
+  Unisci bozze o contributi in `.docx` da vari scrittori in un unico documento per la revisione finale e la pubblicazione.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

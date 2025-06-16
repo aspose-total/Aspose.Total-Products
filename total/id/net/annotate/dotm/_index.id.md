@@ -123,7 +123,28 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+File DOTM (Word Macro-Enabled Template) berisi skrip otomatisasi untuk meningkatkan produktivitas. Menyertakan catatan pada file DOTM memastikan dokumentasi perilaku makro dan memudahkan pelacakan kesalahan serta pengumpulan umpan balik.
+
+#### Penyertaan Catatan pada File DOTM untuk Kasus Penggunaan Tinjauan Template yang Mendukung Makro:
+
+- **Dokumentasi Instruksi dan Logika Makro**  
+  Menyertakan catatan pada bidang yang dipicu oleh makro untuk menjelaskan fungsionalitas dan hasil yang diharapkan.
+
+- **Tinjauan dan Pengujian Otomatisasi**  
+  Menyisipkan catatan untuk menandai eksekusi makro yang berhasil atau gagal selama pengujian.
+
+- **Penjelasan Perilaku Template**  
+  Memberikan komentar pada bagian tata letak atau format otomatis untuk membantu pengguna memahami alur template.
+
+- **Penanaman Materi Pelatihan Pengguna**  
+  Menambahkan petunjuk pembelajaran langsung ke dalam template untuk memudahkan pelatihan pengguna baru.
+
+- **Isolasi Kesalahan**  
+  Menggunakan catatan untuk mengisolasi dan menjelaskan bug yang disebabkan oleh eksekusi makro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Χρήσεις της Υπογραφής Αρχείων XLSX με Ψηφιακές ή Ηλεκτρονικές Υπογραφές
+
+Το XLSX είναι το τρέχον πρότυπο μορφής Excel και υποστηρίζει πλήρως ηλεκτρονικές και ψηφιακές υπογραφές για οικονομικά και λειτουργικά δεδομένα.
+
+## Κοινές Χρήσεις
+- Οικονομικές αναφορές και ισολογισμοί.
+- Προϋπολογισμοί και προβλέψεις τμηματικών.
+- Διαγράμματα απόδοσης που κοινοποιούνται για εκτελεστική αναθεώρηση.
+- Αρχεία ανθρώπινου δυναμικού και περιλήψεις παρουσίας.
+- Φύλλα κόστους προμήθειας και προσφορές προμηθευτών που απαιτούν έγκριση.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

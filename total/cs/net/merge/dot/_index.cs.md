@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů DOT pro správu šablon staršího typu
+
+Soubory DOT jsou šablony Word používané s staršími verzemi programu Microsoft Word (před formátem DOCX). Sloučení souborů `.dot` pomáhá standardizovat formátování dokumentů a zajistit kompatibilitu se systémy staršího typu.
+
+#### Případy použití:
+
+- **Konsolidace šablon**  
+  Sloučení různých šablon `.dot` používaných různými týmy pro vytvoření jedné sjednocené šablony pro tvorbu dokumentů.
+
+- **Archivace šablon staršího typu**  
+  Sloučení šablon `.dot` pro dlouhodobé uložení nebo migraci do modernějšího formátu `.dotx`.
+
+- **Aktualizace knihoven šablon**  
+  Sloučení více souborů `.dot`, které obsahují zastaralé formátování nebo styly pro modernizaci do jedné šablony.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

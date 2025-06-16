@@ -78,7 +78,18 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — Casi d'uso per la protezione del foglio di lavoro
+
+- Proteggere formule, calcoli e modelli finanziari da modifiche accidentali o intenzionali.
+- Bloccare celle o fogli specifici consentendo agli utenti di inserire dati in aree designate.
+- Proteggere dati sensibili aziendali come budget, previsioni e informazioni sui clienti.
+- Controllare l'accesso con protezione tramite password e crittografia per conformità alle politiche sulla privacy dei dati.
+- Prevenire la manipolazione in cruscotti e KPI condivisi tra i team.
+- Proteggere strumenti di automazione basati su macro e fogli di calcolo dinamici utilizzati nei flussi di lavoro operativi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

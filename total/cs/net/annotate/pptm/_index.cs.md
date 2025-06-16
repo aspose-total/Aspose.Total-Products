@@ -106,7 +106,28 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Soubory PPTM (prezentace s povolenými makry) umožňují automatizovanou generaci snímků a akcí. Anotování souborů PPTM pomáhá sledovat výkon maker, dokumentovat chování a doladit logiku automatizace.
+
+#### Anotace souboru PPTM pro ladění a kontrolu prezentace s povolenými makry - Použití:
+
+- **Hodnocení spuštění maker**  
+  Komentujte snímky, kde makra fungují nebo selžou, pomáhá při ladění.
+
+- **Spolupráce vývojářů**  
+  Přidejte poznámky k očekávanému chování nebo spouštěčům maker.
+
+- **Optimalizace automatizace**  
+  Navrhněte úpravy pro zlepšení výkonu nebo srozumitelnosti automaticky generovaného obsahu.
+
+- **Kontrola generovaných snímků**  
+  Upozorněte na obsah vyžadující ruční revizi po spuštění maker.
+
+- **Instruktážní poznámky pro koncové uživatele**  
+  Ukažte uživatelům, jak interagovat s prvky povolenými makry.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

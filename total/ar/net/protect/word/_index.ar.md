@@ -79,7 +79,18 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 مايكروسوفت وورد — حالات الاستخدام لحماية المستند
+
+- منع التحرير غير المصرح به للعقود القانونية، وسياسات الموارد البشرية، أو الأوراق الأكاديمية.
+- تأمين أقسام من المستند (مثل العناوين، والشروط القانونية، أو جداول المحتويات) من التغييرات.
+- تمكين التحرير التعاوني مع وصول مقيد إلى بعض المناطق (مثل أقسام التعليقات فقط).
+- حماية القوالب أو النماذج التي تحتوي على ماكروهات تقوم بتشغيل سير العمل.
+- قفل عناصر العلامة التجارية (مثل الشعارات وإخلاء المسؤولية للشركة) في القوالب الموحدة.
+- منع التناقضات في التنسيق عند مشاركة المستندات بين الإدارات أو خارجيا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

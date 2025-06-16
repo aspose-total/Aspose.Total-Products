@@ -78,7 +78,17 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) admite la automatización a través de macros. Anotar estos archivos ayuda a los equipos a señalar los resultados de las macros, documentar los cambios automatizados y validar los resultados lógicos.
+
+#### Anotar archivos XLSM para flujos de trabajo impulsados por macros - Casos de uso:
+
+- **Análisis de Resultados de Macro**: Comentar sobre los datos generados automáticamente para validación.
+- **Retroalimentación de Automatización**: Anotar salidas para indicar ejecuciones exitosas o fallidas.
+- **Revisión de Código**: Agregar notas relacionadas con la lógica de la macro o sus efectos en los datos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

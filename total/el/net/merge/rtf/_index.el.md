@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Συγχώνευση RTF (Μορφή Πλούσιου Κειμένου) για Συλλογή Εγγράφου Ανεξάρτητης Πλατφόρμας
+
+Τα αρχεία RTF χρησιμοποιούνται για τη δημιουργία μορφοποιημένων κειμένων ανεξάρτητα από την πλατφόρμα. Η συγχώνευση αρχείων RTF επιτρέπει τη συνδυασμό περιεχομένου διατηρώντας τη μορφοποίηση σε διάφορα συστήματα.
+
+#### Περιπτώσεις Χρήσης:
+
+- **Συλλογή Μορφοποιημένου Κειμένου**  
+  Συγχωνεύστε αναφορές ή σημειώσεις από διαφορετικά συστήματα σε ένα μορφοποιημένο έγγραφο.
+
+- **Συγχώνευση Εγγράφου Διασύνδεσης Πλατφόρμας**  
+  Συνδυάστε περιεχόμενο που δημιουργήθηκε από διαφορετικούς επεξεργαστές κειμένου σε ένα ενιαίο αρχείο.
+
+- **Συλλογή Τεκμηρίωσης Έργου**  
+  Συγχωνεύστε πολλαπλές σημειώσεις ή αποτελέσματα RTF σε ένα τελικό αναφορά.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

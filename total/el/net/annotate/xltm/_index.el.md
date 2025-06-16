@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Τα αρχεία XLTM (Macro-Enabled Template) υποστηρίζουν την επαναχρησιμοποίηση με μακροεντολές. Οι σημειώσεις παρέχουν βασικές εισαγωγές για τα σημεία αυτοματοποίησης, τις αναμενόμενες εισόδους ή τα αποτελέσματα των μακροεντολών.
+
+#### Αναφορά στα Αρχεία XLTM για Ροές Εργασίας Προτύπων Μακροεντολών - Περιπτώσεις Χρήσης:
+
+- **Τεκμηρίωση Μακροεντολών**: Εξήγηση των ενεργοποιητών μακροεντολών και των επιθυμητών επιπτώσεων.
+- **Οδηγίες Χρήστη**: Αναφορά σε ενότητες που οι χρήστες δεν πρέπει να τροποποιήσουν για να διατηρηθεί η αυτοματοποίηση.
+- **Σημειώσεις Δοκιμών**: Επισήμανση περιοχών υπό αξιολόγηση ποιότητας κατά τη δοκιμή του προτύπου.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

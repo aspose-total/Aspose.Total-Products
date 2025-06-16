@@ -74,7 +74,27 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimujte soubory PNG pro vysokou kvalitu průhlednosti a lehkou grafiku
+
+PNG (Portable Network Graphics) podporuje průhlednost a bez ztráty kvality, ale může vést k velkým souborům. Kompresní je klíčová pro případy zaměřené na výkon.
+
+#### Případy použití:
+
+- **Průhledné webové ikony a loga**  
+  Kompresujte PNG soubory pro udržení ostrého vzhledu a zároveň snížení doby načítání webových stránek.
+
+- **Prvky uživatelského rozhraní aplikace**  
+  Použijte komprimované PNG pro tlačítka, ikony a UI komponenty k redukci velikosti balíčku aplikace.
+
+- **Portfolia grafického designu**  
+  Optimalizujte PNG v digitálních portfoliích pro rychlejší náhled bez kompromitace vizuální kvality.
+
+- **Náhledy elektronického obchodu**  
+  Použijte lehké PNG na stránkách produktů pro zrychlení načítání a zachování detailů.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

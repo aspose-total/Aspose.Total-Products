@@ -84,7 +84,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Περιπτώσεις Χρήσης Ανάλυσης PDF
+
+- 🔍 **Εξαγωγή Κειμένου και Πίνακα**  
+  Εξαγωγή παραγράφων, πινάκων ή τιμών φόρμας από PDF για αναφορές ή ευρετήρια αναζήτησης.
+
+- 🧾 **Επεξεργασία Τιμολογίων και Φορμών**  
+  Ανάλυση δομημένων φορμών και τιμολογίων για αυτόματη συμπλήρωση βάσεων δεδομένων ή συστημάτων λογιστικής.
+
+- 🎨 **Ανάλυση Διάταξης**  
+  Ανίχνευση οπτικής δομής (στήλες, ενότητες) για ακριβή μετατροπή σε HTML ή Markdown.
+
+- 🧠 **OCR και Δυνατότητα Αναζήτησης**  
+  Μετατροπή σαρωμένων PDF σε αναζητήσιμο κείμενο χρησιμοποιώντας OCR πριν από την ανάλυση.
+
+- 🗂️ **Ψηφιοποίηση και Συμμόρφωση**  
+  Αρχειοθέτηση και ελεγχος εγγράφων PDF με την εξαγωγή και επισήμανση σχετικού περιεχομένου ή μεταδεδομένων.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

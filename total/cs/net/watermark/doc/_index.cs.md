@@ -83,7 +83,19 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Formát DOC je zastaralý binární soubor typu Microsoft Word, který se stále používá v starších systémech.
+
+**Běžné použití zahrnuje:**
+
+- Označení dokumentů jako Archivované, Zastaralé nebo Zastaralé
+- Vložení jména autora nebo oddělení
+- Použití právních vyloučení nebo zpráv o souladu
+- Zamezení úprav nebo opětovného použití označením jako Závěrečná kopie
+- Podpora uchovávání záznamů a auditních stop
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

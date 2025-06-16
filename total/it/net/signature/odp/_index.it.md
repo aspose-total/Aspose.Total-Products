@@ -73,7 +73,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casi d'uso della firma dei file ODP con firme digitali o elettroniche
+
+I file ODP sono preferiti dagli utenti di LibreOffice Impress o OpenOffice. La firma digitale di ODP garantisce la non ripudiabilità negli ambienti di presentazione open-source.
+
+## Casi d'uso comuni
+- Diapositive di lezioni accademiche e certificazioni.
+- Presentazioni di progetti di ONG per la convalida dei donatori.
+- Proposte politiche negli uffici governativi utilizzando ODP.
+- Webinar tecnici condivisi su piattaforme open-source.
+- Relazioni della comunità che richiedono verifica elettronica.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

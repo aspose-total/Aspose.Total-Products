@@ -81,7 +81,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů GIF pro vytváření animací nebo storyboardů
+
+GIF (Graphics Interchange Format) je oblíbený formát pro animace a jednoduchou grafiku. Slučování více souborů `.gif` je nezbytné pro vytváření animací s více snímky, storyboardů nebo kombinování animovaných prvků do jednoho souboru.
+
+#### Použití:
+
+- **Vytváření animovaných GIFů**  
+  Slučování více souborů `.gif` do jedné nepřetržité animace pro použití na webu, reklamy nebo sociální média.
+
+- **Slučování storyboardů**  
+  Kombinace obrázků `.gif`, které představují různé snímky animace, do jednoho souboru pro kontrolu nebo analýzu.
+
+- **Animace s více scénami**  
+  Slučování souborů `.gif` obsahujících různé animační scény do jedné větší animace pro složitější projekty.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

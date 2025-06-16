@@ -106,7 +106,28 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+I file PPTM (Presentazione abilitata per macro di PowerPoint) consentono la generazione automatica di diapositive e azioni. L'annotazione dei file PPTM aiuta a tracciare le prestazioni delle macro, a documentare i comportamenti e a perfezionare la logica dell'automazione.
+
+#### Annotazione dei file PPTM per il debug e la revisione delle presentazioni abilitate per macro - Casi d'uso:
+
+- **Revisione dell'esecuzione della macro**  
+  Commenta sulle diapositive in cui le macro funzionano o falliscono, aiutando nel debug.
+
+- **Collaborazione degli sviluppatori**  
+  Aggiungi annotazioni per documentare il comportamento atteso o i trigger delle macro.
+
+- **Ottimizzazione dell'automazione**  
+  Suggerisci modifiche per migliorare le prestazioni o la chiarezza dei contenuti generati automaticamente.
+
+- **Revisione delle diapositive generate**  
+  Segnala i contenuti che necessitano di una revisione manuale dopo l'esecuzione delle macro.
+
+- **Note istruttive per gli utenti finali**  
+  Guida gli utenti su come interagire con gli elementi abilitati per macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

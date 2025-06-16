@@ -78,7 +78,20 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Casos de uso para metadatos de archivos PDF (`.pdf`)
+
+- Incrustar el título del documento, el tema, las palabras clave y el autor para mejorar la capacidad de descubrimiento.
+- Preservar metadatos de cumplimiento como la versión del documento, aprobaciones y clasificaciones.
+- Mantener información sobre derechos digitales para publicaciones o manuales.
+- Utilizar metadatos para automatizar el archivado, eliminación o etiquetado en sistemas de contenido.
+- Habilitar el seguimiento seguro de documentos en entornos legales, de atención médica o académicos.
+- Integrarse con plataformas de contenido para la clasificación o filtrado basado en metadatos.
+- Alimentar metadatos a sistemas de IA para resúmenes, categorización o agrupación.
+- Soportar metadatos de accesibilidad como idioma, estructura del documento y pistas de texto alternativo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

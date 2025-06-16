@@ -80,7 +80,18 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Το PPT είναι το παλιό format παρουσίασης που χρησιμοποιείται σε παλαιότερες εκδόσεις του Microsoft PowerPoint.
+
+**Συνηθισμένες περιπτώσεις χρήσης περιλαμβάνουν:**
+
+- Επισήμανση διαφανειών ως Εμπιστευτικές, Μόνο για Εκπαίδευση, ή Εσωτερικές
+- Ενσωμάτωση ονόματος παρουσιαστή, οργανισμού, ή εκδήλωσης
+- Προειδοποίηση για μην διανομή με το Do Not Share
+- Επισήμανση περιεχομένου για αναθεώρηση ή έγκριση
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

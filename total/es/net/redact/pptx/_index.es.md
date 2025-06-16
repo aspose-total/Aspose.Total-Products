@@ -78,7 +78,16 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Redacción en .pptx (Microsoft PowerPoint)
+
+- Redactar datos financieros internos o proyecciones en presentaciones corporativas.
+- Redactar nombres de clientes o socios de las propuestas comerciales o actualizaciones de partes interesadas.
+- Redactar contenido estratégico en mapas de productos o informes de lanzamiento.
+- Redactar imágenes, gráficos o notas del orador confidenciales antes de la distribución pública.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

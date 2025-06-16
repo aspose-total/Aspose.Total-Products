@@ -74,7 +74,15 @@ Untuk lebih jelasnya silakan lihat [Dokumentasi Produk](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kasus Penggunaan untuk Rotasi PDF
+
+- Memutar kontrak atau faktur PDF yang discan untuk tampilan yang benar.
+- Menyesuaikan orientasi sertifikat dan lisensi dalam dokumen portofolio.
+- Memutar halaman untuk tata letak cetak yang dioptimalkan dalam buku panduan atau manual.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

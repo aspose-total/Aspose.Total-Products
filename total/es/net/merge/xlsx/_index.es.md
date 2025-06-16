@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos XLSX para flujos de trabajo modernos de Excel
+
+XLSX es el formato predeterminado para los libros de trabajo modernos de Excel. Fusionar archivos `.xlsx` es la práctica más común para informes unificados, análisis de datos y colaboración.
+
+#### Casos de uso:
+
+- **Informes mensuales de departamentos**  
+  Fusionar informes departamentales `.xlsx` en un libro de trabajo listo para el panel de control.
+
+- **Consolidación de envío de datos**  
+  Combinar formularios o plantillas `.xlsx` enviados de múltiples usuarios u oficinas.
+
+- **Compilación de documentación de proyectos**  
+  Fusionar hojas de seguimiento o presupuesto de proyectos en un solo libro de trabajo completo en formato `.xlsx`.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

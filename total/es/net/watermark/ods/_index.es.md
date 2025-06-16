@@ -76,7 +76,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS es el formato de hoja de cálculo de código abierto utilizado por LibreOffice y OpenOffice.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Indicar datos como Públicos, En Revisión o Internos
+- Marcar con marca de agua la atribución de la fuente de datos
+- Etiquetar para colaboración multiusuario
+- Incluir información de licencia o autoría
+- Marcar contenido para su publicación como datos abiertos
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

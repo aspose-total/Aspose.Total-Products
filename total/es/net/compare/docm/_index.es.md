@@ -73,7 +73,22 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparación de archivos DOCM para casos de uso de auditoría de documentos con macros:
+
+Los archivos DOCM (Documento habilitado para macros de Microsoft Word) admiten macros incrustadas. Comparar dos archivos DOCM permite a los usuarios detectar no solo cambios en el contenido, sino también posibles actualizaciones en la lógica de las macros, lo que es esencial para flujos de trabajo de seguridad, cumplimiento y desarrollo.
+
+- **Detección de cambios en macros**  
+  Identificar cuándo se han agregado, eliminado o modificado macros en diferentes versiones.
+
+- **Auditoría de integridad de documentos**  
+  Asegurar que el contenido del documento y el comportamiento de las macros se mantengan consistentes en entornos regulados.
+
+- **Revisión de versiones en proyectos de automatización**  
+  Seguir las actualizaciones en informes, facturas o generadores de formularios mejorados con macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

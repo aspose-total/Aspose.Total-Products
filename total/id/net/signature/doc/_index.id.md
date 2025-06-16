@@ -74,7 +74,20 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Kasus Penggunaan Penandatanganan Berkas DOC dengan Tanda Tangan Digital atau Elektronik
+
+Berkas Microsoft Word DOC masih banyak digunakan dalam sistem warisan dan firma hukum. Penerapan tanda tangan digital pada berkas DOC mengotentikasi sumbernya dan memastikan kontennya tidak dimanipulasi.
+
+## Kasus Penggunaan Umum
+- Kontrak dan perjanjian hukum yang dibagikan dalam format DOC.
+- Formulir SDM dan memo internal perusahaan.
+- Dokumentasi pemerintah yang disusun dalam versi Microsoft Office yang lebih lama.
+- Korespondensi formal di bisnis yang menggunakan perangkat lunak warisan.
+- Proposal rahasia yang memerlukan verifikasi digital.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

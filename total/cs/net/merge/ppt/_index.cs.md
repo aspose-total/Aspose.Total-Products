@@ -78,7 +78,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů PPT pro správu starých prezentací v PowerPointu
+
+Soubory PPT jsou starší binární formát pro prezentace v programu Microsoft PowerPoint. Slučování souborů `.ppt` je obvykle potřebné při konsolidaci starých prezentací, archivaci starých projektů nebo při migraci na moderní formáty.
+
+#### Případy užití:
+
+- **Slučování starých archivů prezentací**  
+  Slučte více prezentací ve formátu `.ppt` pro dlouhodobé uložení nebo zálohu před konverzí do novějších formátů jako `.pptx`.
+
+- **Konsolidace oddělení prezentací**  
+  Slučte prezentace ve formátu `.ppt` z různých týmů nebo projektů pro vytvoření jedné prezentace pro přezkum managementem nebo aktualizace pro celou společnost.
+
+- **Aktualizace obsahu starých prezentací**  
+  Slučte staré prezentace do nového souboru a přitom aktualizujte snímky čerstvým obsahem a firemním designem.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

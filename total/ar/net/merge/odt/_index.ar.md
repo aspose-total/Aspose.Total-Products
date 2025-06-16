@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 دمج ملفات ODT (OpenDocument Text) للتعاون المفتوح وتجميع الوثائق
+
+ملفات ODT هي مستندات معالج نصوص مفتوحة المصدر (LibreOffice، OpenOffice). يدعم دمجها التعاون على محتوى بتنسيق مفتوح.
+
+#### حالات الاستخدام:
+
+- **التعاون بمصدر مفتوح**  
+  دمج المساهمات من مؤلفين مختلفين بتنسيق ODT في وثيقة واحدة.
+
+- **تجميع الوثائق**  
+  دمج الفصول أو الأقسام من الدلائل أو الكتب المكتوبة بتنسيق ODT.
+
+- **تقارير الحكومة أو المنظمات غير الحكومية**  
+  توحيد التقارير التي تم إنشاؤها بتنسيقات معيارية مفتوحة للتقديم.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

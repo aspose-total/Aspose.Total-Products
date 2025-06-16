@@ -76,7 +76,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS es el formato binario de hoja de cálculo heredado utilizado por las primeras versiones de Excel.
+
+**Los casos de uso comunes incluyen:**
+
+- Etiquetar hojas de cálculo como Obsoletas, Para Archivar o Borrador
+- Agregar identidad del propietario o fecha de creación
+- Advertir contra modificaciones no autorizadas
+- Marcar datos como de uso interno solamente
+- Identificar hojas de cálculo para presentación de auditoría
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

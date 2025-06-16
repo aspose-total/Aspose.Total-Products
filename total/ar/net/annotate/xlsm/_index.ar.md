@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (مصنف معتمد على ماكرو إكسل) يدعم الأتمتة من خلال الماكرو. تعليق هذه الملفات يساعد الفرق على تحديد نتائج الماكرو، وتوثيق التغييرات التلقائية، والتحقق من نتائج المنطق.
+
+#### تعليق ملفات XLSM لسير العمل المدفوع بالماكرو - حالات الاستخدام:
+
+- **تحليل نتائج الماكرو**: التعليق على البيانات المولدة تلقائيًا للتحقق.
+- **تغذية ردود الفعل التلقائية**: تعليق النواتج للإشارة إلى تنفيذات ناجحة أو فاشلة.
+- **مراجعة الشيفرة**: إضافة ملاحظات تتعلق بمنطق الماكرو أو تأثيراته على البيانات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,14 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Formát prezentace OpenDocument .odp — Případy použití pro rozdělení
+
+- Rozdělte soubory ODP pro nástroje pro prezentace s otevřeným zdrojovým kódem, abyste usnadnili úpravy a sdílení.
+- Organizujte prezentace do sekcí pro snazší správu a cílené doručení.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

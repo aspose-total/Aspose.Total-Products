@@ -73,7 +73,22 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Srovnání souborů RTF pro případy použití auditu dokumentů mezi platformami:
+
+Soubory RTF (Rich Text Format) jsou široce používány pro výměnu lehkých dokumentů. Srovnávání souborů RTF podporuje ověření obsahu a formátovacích změn v prostředích, kde záleží na neutralitě platformy.
+
+- **Ověření obsahu mezi platformami**  
+  Detekce změn formátování nebo formulace v různých systémech nebo nástrojích.
+
+- **Revize dokumentace**  
+  Porovnání výukových manuálů nebo nápovědy aktualizovaných více přispěvateli.
+
+- **Audit kompatibility s dědictvím**  
+  Zajistit, že změny provedené v systémech založených na formátu RTF nemají vliv na strukturu nebo styl.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

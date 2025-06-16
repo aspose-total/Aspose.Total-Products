@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Τα αρχεία TSV (Tab-Separated Values) είναι κοινά στην επιστήμη των δεδομένων και στις εξαγωγές συστήματος. Οι επισημειώσεις βοηθούν στο να σημειώνονται συγκεκριμένες εγγραφές, να εξηγούνται οι τιμές των πεδίων ή να υπογραμμίζονται οι ανάγκες μετασχηματισμού.
+
+#### Επισημείωση Αρχείων TSV για Δομημένη Συνεργασία Δεδομένων - Περιπτώσεις Χρήσης:
+
+- **Σημειώσεις Καθαρισμού Δεδομένων**: Υπογράμμιση γραμμών που χρειάζονται χειροκίνητη διόρθωση ή αποκλεισμό.
+- **Σύνολα Δεδομένων Εκπαίδευσης Μοντέλου**: Επισήμανση ειδικών περιπτώσεων για τη λογική ML κατάραματος.
+- **Σχόλια Ροής ETL**: Επισημείωση πεδίων που απαιτούν αντιστοίχιση ή αλλαγές σχήματος.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

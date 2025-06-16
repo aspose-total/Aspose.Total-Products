@@ -87,7 +87,26 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Μορφές Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) Περιπτώσεις Χρήσης Ανάλυσης
+
+- 🖼️ **Εξαγωγή Περιεχομένου Διαφανειών**  
+  Εξαγωγή κειμένου, εικόνων και λεπτομερειών διάταξης από διαφάνειες για περιλήψεις, αναζητήσεις ή παρουσιάσεις HTML.
+
+- 🧩 **Αυτοματισμός Προτύπου**  
+  Δημιουργία παρουσιάσεων από πρότυπα `.potx` ή `.potm` με την εισαγωγή δυναμικού περιεχομένου.
+
+- 🎯 **Χειρισμός Παρουσίασης Μακροεντολών**  
+  Ασφαλής ανάλυση αρχείων `.pptm`, `.potm` και `.ppsm` που περιέχουν μακροεντολές ή αυτοματισμό.
+
+- 📊 **Μετατροπή Παρουσίασης σε Ιστό**  
+  Μετατροπή αρχείων `.pptx`, `.odp` ή `.ppsx` σε διαφάνειες ιστού ή διαδραστικές μορφές.
+
+- 📁 **Ευρετήριο Διαφανειών**  
+  Δημιουργία ευρετηρίου και περίληψης διαφανειών για συστήματα διαχείρισης εγγράφων ή αρχεία συνεδριάσεων.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

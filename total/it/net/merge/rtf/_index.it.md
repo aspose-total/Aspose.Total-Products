@@ -80,7 +80,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Unisci RTF (Rich Text Format) per la Compilazione di Documenti Indipendenti dalla Piattaforma
+
+I file RTF sono utilizzati per documenti di testo formattati indipendenti dalla piattaforma. Unire i file RTF consente di combinare i contenuti mantenendo la formattazione su diversi sistemi.
+
+#### Casi d'Uso:
+
+- **Compilazione di Testo Formattato**  
+  Unisci report o note da diversi sistemi in un unico documento formattato.
+
+- **Aggregazione di Documenti Multi-Piattaforma**  
+  Combina contenuti creati da diversi processori di testo in un unico file unificato.
+
+- **Assemblaggio della Documentazione del Progetto**  
+  Unisci più note o risultati RTF in un unico rapporto finale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

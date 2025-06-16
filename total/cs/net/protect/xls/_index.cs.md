@@ -78,7 +78,16 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | Sešit Microsoft Excel 97–2003 — Případy užití ochrany
+
+- Často používáno v zastaralých podnikových systémech — ochrana zabrání poškození zastaralých souborů.
+- Chrání citlivá finanční data, vzorce a makra před neoprávněnými úpravami.
+- Zabraňuje náhodnému smazání propojených dat používaných jinými systémy.
+- Používá se při auditu a procesech reportování, které spoléhají na statická historická data.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

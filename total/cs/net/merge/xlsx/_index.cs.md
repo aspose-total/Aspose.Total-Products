@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů XLSX pro moderní pracovní postupy v Excelu
+
+XLSX je výchozí formát pro moderní pracovní sešity Excelu. Slučování souborů `.xlsx` je nejběžnější praxí pro sjednocené reportování, analýzu dat a spolupráci.
+
+#### Případy použití:
+
+- **Měsíční zprávy oddělení**  
+  Slučte oddělení `.xlsx` zprávy do jednoho sešitu připraveného pro dashboard.
+
+- **Konsolidace odevzdaných dat**  
+  Slučte odevzdané `.xlsx` formuláře nebo šablony od více uživatelů nebo kanceláří.
+
+- **Kompilace dokumentace projektu**  
+  Slučte `.xlsx` sledovací nebo rozpočtové tabulky projektu do jednoho kompletního sešitu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

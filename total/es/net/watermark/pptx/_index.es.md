@@ -80,7 +80,19 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX es el formato moderno de presentación de PowerPoint.
+
+**Algunos casos de uso comunes incluyen:**
+
+- Aplicar branding y logotipos profesionales
+- Indicar el estado de la presentación de diapositivas como Borrador, Final o Confidencial
+- Mostrar segmentación de la audiencia (por ejemplo, "Para Cliente", "Para Uso Interno")
+- Prevenir el mal uso con marcas de agua de No Distribuir
+- Etiquetar diapositivas con detalles del presentador o estado de aprobación
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

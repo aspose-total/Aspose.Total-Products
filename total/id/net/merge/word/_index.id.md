@@ -80,7 +80,30 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Dokumen Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word adalah format yang umum digunakan untuk dokumentasi yang banyak teksnya. Menggabungkan file Word menyederhanakan alur kerja yang melibatkan banyak kontributor, template, atau versi.
+
+#### Kasus Penggunaan:
+
+- **Kompilasi Laporan Bersatu**  
+  Gabungkan laporan departemen atau proyek dari berbagai sumber menjadi satu dokumen profesional untuk pengajuan atau penyimpanan.
+
+- **Konsolidasi Kontrak dan Dokumen Hukum**  
+  Gabungkan berbagai versi kontrak, lampiran, dan dokumen hukum menjadi satu file perjanjian utama.
+
+- **Kolaborasi Tim**  
+  Gabungkan kontribusi dari beberapa penulis ke dalam satu dokumen untuk pengeditan dan peninjauan bersama.
+
+- **Penyusunan Proposal dan RFP**  
+  Gabungkan bagian ruang lingkup, harga, dan teknis dari berbagai sumber menjadi satu proposal atau tanggapan penawaran yang padu.
+
+- **Manual Kebijakan dan Prosedur**  
+  Gabungkan dokumen kebijakan terpisah menjadi satu buku panduan karyawan atau manual operasional yang komprehensif.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

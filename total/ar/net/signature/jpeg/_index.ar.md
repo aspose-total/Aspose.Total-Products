@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# حالات استخدام توقيع ملفات JPEG و JPG بالتوقيعات الرقمية أو الإلكترونية
+
+تستخدم صور JPEG / JPG للوثائق الممسوحة ضوئيًا والصور والبراهين الشخصية. توقيعها بشكل رقمي يضمن الأمان ودليل المصدر.
+
+## حالات الاستخدام الشائعة
+- العقود الممسوحة ضوئيًا والوثائق الموقعة.
+- وثائق الهوية في عمليات التحقق من الهوية.
+- تقارير بصرية تحتوي على ملاحظات مضمنة.
+- صور طبية مشتركة للاستشارات عن بعد.
+- سجلات ملكية الأراضي بتنسيق بصري.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

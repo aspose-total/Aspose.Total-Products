@@ -78,7 +78,24 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Unisci file POTX per la gestione moderna dei modelli di PowerPoint
+
+POTX è il formato moderno basato su XML utilizzato per i modelli di PowerPoint. Unire i file `.potx` centralizza i contenuti dei modelli, garantendo coerenza tra le presentazioni.
+
+#### Casi d'uso:
+
+- **Standardizzazione dei modelli tra i dipartimenti**  
+  Unisci i modelli `.potx` utilizzati dai diversi dipartimenti per creare una libreria di modelli di PowerPoint unificata a livello aziendale.
+
+- **Aggiornamento delle collezioni di modelli**  
+  Combina i file `.potx` contenenti diversi elementi di branding, layout o stile per creare un modello principale per le presentazioni.
+
+- **Personalizzazione dei modelli per i clienti**  
+  Unisci i modelli `.potx` provenienti da diversi dipartimenti per adattare i modelli di presentazione in base alle specifiche del cliente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

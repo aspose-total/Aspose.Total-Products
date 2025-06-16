@@ -80,7 +80,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sloučení souborů DOCX pro sjednocení moderního dokumentu Word
+
+DOCX je výchozí formát založený na XML používaný programem Microsoft Word pro moderní dokumenty. Sloučení souborů `.docx` je zásadní pro spolupráci, agregaci obsahu a centralizovanou dokumentaci.
+
+#### Případy použití:
+
+- **Dokumentace projektu**  
+  Sloučení souborů `.docx` od různých členů týmu nebo oddělení do jednoho komplexního dokumentu projektu.
+
+- **Kompilace zpráv**  
+  Kombinace měsíčních, čtvrtletních nebo ročních zpráv z různých zdrojů do jednoho sjednoceného souboru pro distribuci.
+
+- **Spolupisování**  
+  Sloučení návrhů nebo příspěvků ve formátu `.docx` od různých autorů do jednoho dokumentu pro finální kontrolu a publikaci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

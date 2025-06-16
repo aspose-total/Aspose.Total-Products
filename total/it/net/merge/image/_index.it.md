@@ -81,7 +81,30 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ File immagine (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Unire file immagine in un'unica uscita visiva o formato strutturato (ad esempio, PDF, collage o sprite) supporta i flussi di lavoro di design, documentazione e pubblicazione digitale.
+
+#### Casi d'uso:
+
+- **Creazione di album digitali**  
+  Unisci immagini di vacanze, eventi o portfolio in una singola galleria o libro fotografico.
+
+- **Consolidamento di risorse di design**  
+  Unisci mockup UI, grafiche per social media o risorse di branding in un unico file di riferimento per la revisione del cliente.
+
+- **Raggruppamento di documenti scannerizzati**  
+  Combina file immagine scannerizzati in un unico archivio o documento per archiviazione o condivisione.
+
+- **Confronti visivi e slide prima-dopo**  
+  Unisci set di immagini per creare confronti visivi in rapporti o materiali di marketing.
+
+- **Manuali di formazione o prodotto**  
+  Unisci screenshot annotati o foto di prodotto in contenuti istruzionali sequenziali.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

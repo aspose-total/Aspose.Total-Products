@@ -75,7 +75,27 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir archivos XLS para la optimización de libros de Excel heredados
+
+Los archivos XLS (Libro de Excel 97-2003) pueden volverse grandes debido a gráficos incrustados, fórmulas o conjuntos de datos extensos. Comprimir archivos XLS garantiza un manejo más fluido y compatibilidad en sistemas más antiguos.
+
+#### Casos de uso:
+
+- **Archivar registros financieros**  
+  Reduzca el espacio de almacenamiento de archivos XLS históricos que contienen datos fiscales o informes.
+
+- **Integración más rápida en sistemas heredados**  
+  Permita un procesamiento más rápido de grandes libros de trabajo XLS en versiones antiguas de Excel.
+
+- **Compartir documentos optimizados**  
+  Comprima archivos XLS para cumplir con los límites de tamaño de archivo para correos electrónicos o cargas en unidades compartidas.
+
+- **Portabilidad de datos para uso sin conexión**  
+  Transfiera archivos XLS compactos en USB u otros dispositivos portátiles para trabajos de campo o auditorías.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

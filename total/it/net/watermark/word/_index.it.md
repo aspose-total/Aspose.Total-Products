@@ -83,7 +83,20 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Word è ampiamente utilizzato per creare documenti testuali come contratti, proposte, rapporti e politiche. Apporre un watermark a questi documenti aiuta a stabilire il contesto e a far rispettare l'integrità del documento.
+
+**I casi d'uso comuni includono:**
+
+- Contrassegnare i documenti come Riservati, Bozza o Solo per Uso Interno
+- Identificare l'autore o il dipartimento responsabile dei contenuti
+- Aggiungere avvertenze legali o avvisi di copyright
+- Prevenire la condivisione non autorizzata di documenti sensibili
+- Tenere traccia del controllo delle versioni nella modifica collaborativa
+- Conformarsi ai requisiti normativi o di audit
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

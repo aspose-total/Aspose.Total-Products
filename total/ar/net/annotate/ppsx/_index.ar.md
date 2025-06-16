@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ملفات PPSX (عرض PowerPoint) هي عروض غير قابلة للتحرير مصممة للتشغيل فقط. تعليق على هذه الملفات يساعد على تحسين تجربة المستخدم وضمان الدقة قبل التوزيع.
+
+#### تعليق ملف PPSX لحالات استخدام مراجعة العروض الثابتة:
+
+- **تغذية ردود الفعل النهائية**  
+  إدراج تعليقات على الرسوم البيانية للشرائح، التوقيت، أو الرسائل لمراجعة قبل النشر.
+
+- **تحسينات الوصولية**  
+  اقتراح تحسينات لوضوح الرؤية، تباين الألوان، أو ترتيب القراءة.
+
+- **فحوصات الامتثال للعلامة التجارية**  
+  تعليق على الانحرافات عن عناصر العلامة التجارية المعتمدة.
+
+- **اقتراحات التعريب**  
+  تسليط الضوء على المجالات التي تتطلب تحديثات لغوية أو إقليمية.
+
+- **مراجعة تشغيل التدريب**  
+  تقديم تعليقات حول وتيرة العرض، والانتقالات، والفهم في الدورات الذاتية التشغيل.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

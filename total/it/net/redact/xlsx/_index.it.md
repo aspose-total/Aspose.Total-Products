@@ -82,7 +82,16 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Redazione in .xlsx (Microsoft Excel)
+
+- Redigere i salari dei dipendenti, i bonus o i dettagli personali nei file della contabilità.
+- Redigere le informazioni sui clienti o fornitori nei report di vendita o di approvvigionamento.
+- Redigere le allocazioni di bilancio interne o i margini di profitto nei fogli di lavoro finanziari.
+- Redigere i dati confidenziali nei cruscotti delle prestazioni o nei fogli di monitoraggio dei KPI.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

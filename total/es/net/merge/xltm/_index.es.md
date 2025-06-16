@@ -79,7 +79,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fusionar archivos XLTM para plantillas habilitadas para macros
+
+Los archivos XLTM son plantillas habilitadas para macros utilizadas para automatizar tareas recurrentes en Excel. Fusionarlos es útil cuando se unifica la lógica de automatización o se migran flujos de trabajo.
+
+#### Casos de uso:
+
+- **Bibliotecas de Automatización de Flujos de Trabajo**  
+  Fusionar plantillas `.xltm` que contienen diferentes macros para diversas funciones en una plantilla centralizada.
+
+- **Integración de Plantillas Específicas de Departamento**  
+  Combinar plantillas habilitadas para macros de diferentes departamentos para estandarizar la automatización de procesos.
+
+- **Auditoría de Procesos Basados en Macros**  
+  Fusionar plantillas `.xltm` para revisar los macros integrados en busca de cumplimiento y optimización.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

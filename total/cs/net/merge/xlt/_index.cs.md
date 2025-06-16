@@ -79,7 +79,24 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Slučování souborů XLT pro šablonové pracovní postupy v Excelu
+
+XLT je formát šablony Excelu pro `.xls` (Excel 97-2003). Slučování souborů `.xlt` pomáhá standardizovat a aktualizovat dědictví šablon do jednotné struktury.
+
+#### Případy použití:
+
+- **Sloučení dědictví šablon**  
+  Sloučení více šablon `.xlt` do hlavní šablony pro zpětnou kompatibilitu.
+
+- **Standardizace šablon oddělení**  
+  Sloučení starých šablon pro vyhodnocení a vytvoření moderní alternativy `.xltx`.
+
+- **Archivace historických šablon**  
+  Konsolidace starších verzí `.xlt` pro dodržování předpisů nebo historickou referenci.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

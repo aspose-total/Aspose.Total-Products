@@ -75,7 +75,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Použití pro rozdělování tabulek
+
+- Rozdělte velké sešity na menší listy pro zjednodušení správy dat a zlepšení výkonu.
+- Přiřaďte konkrétní listy různým členům týmu pro současnou úpravu.
+- Automatizujte zpracování dat rozdělením sekcí pro individuální analýzu nebo reporting.
+- Sdílejte relevantní části sešitu, aniž byste vystavovali celý dataset.
+- Vytvářejte personalizované reporty rozdělením hlavního souboru do upravených verzí.
+- Spravujte velké finanční modely nebo inventáře rozdělením je na spravovatelné části.
+- Zlepšete spolupráci izolací citlivých dat do oddělených, chráněných listů.
+- Archivujte historická data samostatně pro optimalizaci aktuální velikosti souboru a rychlosti přístupu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT je formát textového procesoru s otevřeným zdrojovým kódem používaný v LibreOffice a podobných nástrojích.
+
+**Běžné použití zahrnuje:**
+
+- Označení veřejných, soukromých nebo pouze interních dokumentů
+- Zobrazení spolupracujícího vlastnictví nebo cyklů recenzí
+- Vložení názvu organizace nebo informací o otevřené licenci
+- Identifikace dokumentů pro uvolnění do veřejného sektoru
+- Podpora správy verzí v dokumentech s více autory
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

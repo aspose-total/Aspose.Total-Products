@@ -80,7 +80,24 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Fusionar RTF (Formato de Texto Enriquecido) para Compilación de Documentos Independiente de la Plataforma
+
+Los archivos RTF se utilizan para documentos de texto formateado independientes de la plataforma. Fusionar archivos RTF permite combinar contenido manteniendo el formato en diferentes sistemas.
+
+#### Casos de Uso:
+
+- **Compilación de Texto Formateado**  
+  Fusionar informes o notas de diferentes sistemas en un documento formateado.
+
+- **Agregación de Documentos Multiplataforma**  
+  Combinar contenido creado en diferentes procesadores de texto en un archivo unificado.
+
+- **Ensamblaje de Documentación de Proyectos**  
+  Fusionar varias notas o entregables RTF en un informe final.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

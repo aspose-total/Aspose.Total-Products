@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### دمج ملفات XLS لتكامل بيانات إكسل التقليدية
+
+XLS هو التنسيق الثنائي المستخدم في الإصدارات القديمة من Microsoft Excel. يساعد دمج ملفات `.xls` المتعددة في توحيد البيانات التاريخية في الأنظمة الحديثة للتحليل أو الأرشفة.
+
+#### حالات الاستخدام:
+
+- **تقارير مالية تقليدية**  
+  دمج تقارير Excel المالية القديمة لتحليل الاتجاهات التاريخية أو تحضير التدقيق.
+
+- **سجلات الموارد البشرية التاريخية**  
+  دمج سجلات الموظفين القديمة أو ملفات الرواتب المحفوظة بتنسيق `.xls` في ملف واحد موحد.
+
+- **تحديث أرشيف البيانات**  
+  توحيد ملفات `.xls` قبل تحويلها إلى `.xlsx` أو تنسيقات حديثة أخرى لتحسين التوافقية ومعالجة البيانات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

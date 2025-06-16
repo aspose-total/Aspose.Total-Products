@@ -78,7 +78,16 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | جدول عمل Microsoft Excel 97–2003 — حالات الاستخدام للحماية
+
+- يُستخدم في الغالب في أنظمة المؤسسات التقليدية — تمنع الحماية تلف الملفات القديمة.
+- تحمي البيانات المالية الحساسة والصيغ والماكروهات من التعديل غير المصرح به.
+- تمنع الحذف العرضي للبيانات المرتبطة المستخدمة من قبل أنظمة أخرى.
+- تُستخدم في عمليات التدقيق والتقارير التي تعتمد على البيانات التاريخية الثابتة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

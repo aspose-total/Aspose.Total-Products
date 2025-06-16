@@ -74,7 +74,20 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Případy použití podepisování souborů DOC digitálními nebo elektronickými podpisy
+
+Soubory DOC programu Microsoft Word jsou stále široce používány v zastaralých systémech a právnických firmách. Aplikace digitálního podpisu na soubor DOC ověřuje jeho zdroj a zajišťuje, že obsah nebyl narušen.
+
+## Běžné případy použití
+- Právní smlouvy a dohody sdílené ve formátu DOC.
+- Formuláře HR a interní firemní zprávy.
+- Vládní dokumentace vytvořená v starších verzích Microsoft Office.
+- Formální korespondence v podnicích, které používají zastaralý software.
+- Důvěrné návrhy vyžadující digitální ověření.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
