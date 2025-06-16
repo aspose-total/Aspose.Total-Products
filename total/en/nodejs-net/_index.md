@@ -21,11 +21,11 @@ Aspose.Total for Node.js via .NET is a complete package for Microsoft Word Docum
 Aspose.Words for Node.js via .NET is a native API that enables JavaScript developers to create, edit, convert, and secure Word documents without Microsoft Word. It supports rich formatting, mail merge, charts, tables, multi-format conversion, and automation of document workflows.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Work with presentations using the Powerpoint Node.js API to create, update, & convert PowerPoint and OpenOffice presentations without requiring Microsoft Office. Moreover, API offers to merge, clone, split, compare, and print presentations.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/images/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API to create, modify or convert common email message formats without worrying about the complexities of the underlying format implementation. Handle email formats including MSG, PST, OST, OFT EML, EMLX, MBOX with ease.
 {{< /blocks/products/pf/total/product-item >}}
 
