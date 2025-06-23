@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOT（Word 97–2003 テンプレート）ファイルは再利用可能な文書構造を定義します。DOT ファイル内の注釈は、テンプレートの目的、使用方法の説明、ユーザー向けのカスタマイズノートを明確にします。
+
+#### テンプレートドキュメンテーションとフィードバックの使用事例のための DOT ファイル注釈：
+
+- **テンプレートのカスタマイズガイダンス**  
+  ユーザーがコンテンツをどのように、どこに挿入すべきかを案内するために、フィールドやプレースホルダーに注釈を付けます。
+
+- **ワークフローの手順**  
+  テンプレートに埋め込まれた自動動作、マクロ、条件付き書式について説明するコメントを追加します。
+
+- **ブランディングとスタイルのレビュー**  
+  企業のブランディングガイドラインや文書基準に合わせる必要がある領域を強調します。
+
+- **ユーザーからのフィードバック収集**  
+  テンプレートの使いやすさに関するコメントを挿入できるようにし、反復的な改善を容易にします。
+
+- **規制遵守テンプレート**  
+  法的文書プロセスのために、テンプレート内に直接規制やコンプライアンスに関連するノートを提供します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

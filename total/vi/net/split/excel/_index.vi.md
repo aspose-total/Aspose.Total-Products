@@ -75,7 +75,20 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Các trường hợp sử dụng cho việc chia bảng tính
+
+- Chia các bảng tính lớn thành các tờ nhỏ để đơn giản hóa quản lý dữ liệu và cải thiện hiệu suất.
+- Gán các tờ bảng tính cụ thể cho các thành viên nhóm khác nhau để chỉnh sửa đồng thời.
+- Tự động hóa xử lý dữ liệu bằng cách tách các phần để phân tích hoặc báo cáo cá nhân.
+- Chia sẻ các phần liên quan của một bảng tính mà không tiết lộ toàn bộ tập dữ liệu.
+- Tạo báo cáo cá nhân bằng cách chia một tệp chính thành các phiên bản tùy chỉnh.
+- Quản lý các mô hình tài chính lớn hoặc hàng tồn kho bằng cách chia chúng thành các phần quản lý được.
+- Cải thiện sự hợp tác bằng cách cô lập dữ liệu nhạy cảm trong các tờ bảng riêng biệt, được bảo vệ.
+- Lưu trữ dữ liệu lịch sử một cách riêng biệt để tối ưu hóa kích thước tệp hiện tại và tốc độ truy cập.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

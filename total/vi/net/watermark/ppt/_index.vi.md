@@ -80,7 +80,19 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT là định dạng trình bày cổ điển được sử dụng trong các phiên bản cũ hơn của Microsoft PowerPoint.
+
+**Các trường hợp sử dụng phổ biến bao gồm:**
+
+- Đặt nhãn trang là Bí mật, Chỉ đào tạo hoặc Nội bộ
+- Nhúng tên người trình bày, tổ chức hoặc sự kiện
+- Cảnh báo không chia sẻ với Do Not Share
+- Thương hiệu với logo công ty hoặc tên dự án
+- Đánh dấu nội dung để xem xét hoặc phê duyệt
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

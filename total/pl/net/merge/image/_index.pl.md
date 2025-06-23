@@ -81,7 +81,30 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Pliki obrazów (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Łączenie plików obrazów w pojedynczy wynik wizualny lub strukturalny format (np. PDF, kolaż lub sprite) wspiera projekty graficzne, dokumentację i cyfrowe procesy wydawnicze.
+
+#### Przykłady użycia:
+
+- **Tworzenie cyfrowego albumu**  
+  Połącz zdjęcia z wakacji, wydarzeń lub portfolio w jedną galerię lub fotoksiążkę.
+
+- **Konsolidacja zasobów projektowych**  
+  Połącz makiety interfejsu użytkownika, grafiki mediów społecznościowych lub zasoby brandingowe w jeden plik referencyjny do przeglądu przez klienta.
+
+- **Grupowanie zeskanowanych dokumentów**  
+  Połącz zeskanowane pliki obrazów w jedno archiwum lub dokument do przechowywania lub udostępniania.
+
+- **Porównania wizualne i slajdy przed i po**  
+  Połącz zestawy obrazów, aby stworzyć wizualizacje porównawcze w raportach lub materiałach marketingowych.
+
+- **Szkolenia lub podręczniki produktów**  
+  Połącz zrzuty ekranu z adnotacjami lub zdjęcia produktów w sekwencyjne treści instruktażowe.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

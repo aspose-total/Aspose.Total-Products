@@ -75,7 +75,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Odblokowanie plików .odp pozwala użytkownikom modyfikować, ponownie wykorzystywać lub konwertować prezentacje OpenDocument zwykle tworzone w LibreOffice lub OpenOffice. Te pliki mogą być ograniczone ze względu na zabezpieczenia hasłem lub ustawienia związane z uprawnieniami. Odblokowanie umożliwia edycję międzyplatformową, szczególnie przy przenoszeniu treści do programu Microsoft PowerPoint lub Google Slides, i jest istotne dla edukatorów, instytucji publicznych i organizacji dystrybuujących materiały w otwartym formacie.
+
+#### **ODP (OpenDocument Presentation)**
+
+- **Edycja Międzyplatformowa**  
+  Odblokuj pliki `.odp` utworzone w LibreOffice lub OpenOffice do edycji w programie Microsoft PowerPoint lub Google Slides.
+
+- **Współpraca w Zespołach**  
+  Usuń ograniczenia podczas pracy w różnych pakietach biurowych (LibreOffice ↔ MS Office).
+
+- **Wyodrębnianie Otwartych Zasobów**  
+  Uzyskaj dostęp do osadzonych obrazów, tekstu lub wykresów do materiałów edukacyjnych lub dokumentów publicznych.
+
+- **Tworzenie Wersji Udostępnianych Publicznie**  
+  Odblokuj akademickie lub rządowe pliki ODP do formatowania, tłumaczenia lub publicznego rozpowszechniania.
+
+- **Odzyskiwanie Niedostępnych Zasobów**  
+  Przydatne przy pracy z zabezpieczonymi hasłem plikami ODP, gdzie oryginalni autorzy lub klucze są utracone.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

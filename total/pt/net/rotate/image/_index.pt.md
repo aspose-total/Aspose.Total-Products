@@ -73,7 +73,21 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de Uso para Rotação de Imagens
+
+- Corrigir a orientação de imagens capturadas no modo paisagem ou retrato.
+- Ajustar documentos digitalizados ou fotos que aparecem de lado ou de cabeça para baixo.
+- Alinhar visualizações adequadamente para exibição consistente em galerias, apresentações ou relatórios.
+- Rotacionar ativos de design como ícones, componentes de UI ou diagramas para se adequarem às necessidades de layout.
+- Preparar imagens para impressão ou publicação com a orientação correta.
+- Padronizar a orientação da imagem ao importar de diferentes fontes ou dispositivos.
+- Melhorar a legibilidade do conteúdo em eBooks, documentação ou páginas da web.
+- Rotacionar imagens de produtos ou catálogos para corresponder à proporção de aspecto necessária.
+- Melhorar a experiência do usuário ao corrigir automaticamente a orientação da imagem com base nos metadados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

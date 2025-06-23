@@ -81,7 +81,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🛠️ マクロ有効テンプレート（.dotm）の使用例
+
+- 高度な自動化ロジックのためのマクロメタデータの保存を有効にします。
+- テンプレートにカテゴリ、リスクレベル、または部門を割り当てます。
+- IT およびコンプライアンスチームが自動化の起源と目的を追跡するのに役立ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 効率的なレガシーWord文書の取り扱いのためにDOCファイルを圧縮する
+
+DOC（Microsoft Word 97–2003 Document）ファイルは、埋め込み画像や広範なフォーマット設定によって、時間の経過とともにかさばることがあります。DOCファイルを圧縮することで、互換性、移動可能性、およびストレージ効率が向上します。
+
+#### 使用例：
+
+- **レガシードキュメントの最適化**  
+  古いシステム間での高速アクセスと共有のためにDOCファイルサイズを削減します。
+
+- **電子メール添付ファイルの適合性**  
+  DOCファイルを圧縮して、企業の電子メールシステムのサイズ制限に適合させます。
+
+- **アーカイブストレージ**  
+  以前の文書サイクルからの大量のアーカイブされたDOCファイルが使用するスペースを最小限に抑えます。
+
+- **読み込み時間の改善**  
+  低帯域幅または低性能環境での古いDOCファイルへの迅速なアクセスを確保します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

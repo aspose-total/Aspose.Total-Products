@@ -76,7 +76,19 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS là định dạng bảng tính nhị phân cũ được sử dụng bởi các phiên bản Excel sớm hơn.
+
+**Các trường hợp sử dụng phổ biến bao gồm:**
+
+- Đặt nhãn cho bảng tính như Cũ, Để Lưu trữ hoặc Bản nháp
+- Thêm thông tin chủ sở hữu hoặc ngày tạo
+- Cảnh báo về việc không được phép sửa đổi
+- Đánh dấu dữ liệu chỉ sử dụng nội bộ
+- Xác định bảng tính để nộp kiểm toán
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

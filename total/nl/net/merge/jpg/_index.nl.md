@@ -81,7 +81,24 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Voeg JPG (JPEG-afbeeldingsformaat) samen voor visuele archivering en ontwerpconsolidatie
+
+JPG is een gecomprimeerd afbeeldingsformaat dat veel wordt gebruikt voor foto's en webafbeeldingen. Het samenvoegen van JPG-bestanden ondersteunt presentatie, archivering en visuele documentatie.
+
+#### Gebruiksscenario's:
+
+- **Fotoalbum maken**  
+  Voeg vakantie- of evenementafbeeldingen samen tot een enkele collage of diavoorstelling.
+
+- **Marketingmateriaal**  
+  Combineer meerdere visuele elementen tot brochures of promotiebladen.
+
+- **Afbeeldingsgebaseerde documentatie**  
+  Voeg schermafbeeldingen of visuele logboeken samen tot een enkele handleiding of bewijsrapport.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

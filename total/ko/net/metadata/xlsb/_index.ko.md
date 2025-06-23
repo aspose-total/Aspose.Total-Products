@@ -84,7 +84,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ⚙️ Excel Binary Workbook (`.xlsb`)의 사용 사례
+
+- 구조화된 메타데이터를 유지하면서 대규모 데이터 세트를 효율적으로 저장합니다.
+- 데이터 중심 시스템에 대한 백그라운드 자동화 메타데이터를 활성화합니다.
+- 워크북 수명주기 제어를 위한 메타데이터를 지원합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

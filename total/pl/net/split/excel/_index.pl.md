@@ -75,7 +75,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Przypadki użycia dzielenia arkuszy kalkulacyjnych
+
+- Podziel duże skoroszeety na mniejsze arkusze, aby uprościć zarządzanie danymi i poprawić wydajność.
+- Przypisz określone arkusze różnym członkom zespołu do jednoczesnej edycji.
+- Zautomatyzuj przetwarzanie danych, dzieląc sekcje do indywidualnej analizy lub raportowania.
+- Udostępnij odpowiednie części skoroszytu bez ujawniania całego zbioru danych.
+- Stwórz spersonalizowane raporty, dzieląc plik główny na dostosowane wersje.
+- Zarządzaj dużymi modelami finansowymi lub inwentaryzacją, dzieląc je na zarządzalne fragmenty.
+- Popraw współpracę, izolując wrażliwe dane w oddzielnych, chronionych arkuszach.
+- Zarchiwizuj dane historyczne osobno, aby zoptymalizować aktualny rozmiar pliku i szybkość dostępu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

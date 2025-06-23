@@ -75,7 +75,27 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimera XLT-filer för optimering av äldre Excel-mallar
+
+XLT (Excel 97–2003-mall) -filer kan bli stora på grund av inbäddade element eller exempeldata. Genom att komprimera XLT-filer blir mallbiblioteken smidigare och enklare att distribuera.
+
+#### Användningsfall:
+
+- **Portabilitet för äldre mallar**  
+  Skicka standardmallar komprimerade för snabbare distribution i äldre företagssystem.
+
+- **Effektivitet för mallarkiv**  
+  Håll mallarkiven lätta för centraliserad åtkomst och snabb återhämtning.
+
+- **Minskat laddningstid för mallar**  
+  Optimera äldre system genom att komprimera XLT-filer för snabbare öppning och användning.
+
+- **Säkerhetskopiering och lagrings­optimering**  
+  Minimera långsiktig lagring av äldre mallar genom komprimering.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

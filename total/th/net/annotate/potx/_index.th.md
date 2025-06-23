@@ -106,7 +106,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ POTX (PowerPoint Template) ใช้สร้างเทมเพลตการนำเสนอที่ไม่มีแมโคร การทำคำอธิบายในไฟล์ POTX ช่วยให้มีความชัดเจนในมาตรฐานการออกแบบและสะดวกในการปรับปรุงรูปแบบการนำเสนอที่ใช้ซ้ำในทีม
+
+#### การทำคำอธิบายในไฟล์ POTX สำหรับการใช้งานเทมเพลตการนำเสนอมาตรฐาน:
+
+- **การตรวจสอบแบรนด์**  
+  แทรกรายละเอียดเพื่อตรวจสอบการใช้ฟอนต์ สี และโครงสไลด์ให้ตรงตามข้อบังคับของแบรนด์
+
+- **คำแนะนำสำหรับตำแหน่งในสไลด์**  
+  แสดงความคิดเห็นเกี่ยวกับวิธีการใช้หรือเติมเนื้อหาในพื้นที่ที่กำหนดสำหรับผู้ใช้สุดท้าย
+
+- **การสร้างเทมเพลตร่วมกัน**  
+  แนะนำการปรับปรุงเลย์เอาท์หรือพื้นที่เนื้อหาในระหว่างการออกแบบเทมเพลตร่วมกัน
+
+- **เทมเพลตสไลด์การศึกษา**  
+  เพิ่มข้อความสอนหรือคำแนะนำสำหรับเทมเพลตทางวิชาการ
+
+- **คำแนะนำในการใช้งานในพื้นที่**  
+  ทำคำอธิบายในส่วนที่ต้องการแปลหรือปรับเปลี่ยนให้เหมาะสมกับภูมิภาคที่กำหนด
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

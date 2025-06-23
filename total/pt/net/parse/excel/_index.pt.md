@@ -87,7 +87,26 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Ficheiros do Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Casos de Utilização de Análise
+
+- 📈 **Extração de Dados**  
+  Analisar valores de células, fórmulas e intervalos de folhas de cálculo para análises ou painéis.
+
+- 🧮 **Processamento de Modelos**  
+  Utilizar modelos `.xlt`, `.xltx`, `.xltm` para preencher relatórios, demonstrações financeiras ou previsões.
+
+- 🤖 **Análise Consciente de Macros**  
+  Lidar com formatos `.xlsm` e `.xltm` com consciência de macros para evitar ou preservar lógica de automação.
+
+- 🔍 **Importação de Dados Estruturados**  
+  Importar conteúdo `.csv`, `.tsv` ou `.xlsx` para bases de dados, aplicações ou APIs.
+
+- 🗃️ **Migração de Dados**  
+  Converter folhas `.xls`, `.xlsb` e `.xlsx` para JSON, XML ou outros formatos estruturados para integração.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

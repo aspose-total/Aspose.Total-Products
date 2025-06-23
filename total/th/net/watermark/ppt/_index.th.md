@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT เป็นรูปแบบการนำเสนอที่ใช้กันมาก่อนในเวอร์ชันเก่าของ Microsoft PowerPoint
+
+**ใช้งานทั่วไปประกอบด้วย:**
+
+- ตั้งชื่อสไลด์เป็นความลับ, เฉพาะการอบรม, หรือภายใน
+- ฝังชื่อผู้นำเสนอ, องค์กร, หรือเหตุการณ์
+- เตือนกันไม่ให้กระจายไปด้วยข้อความ Do Not Share
+- ใส่เครื่องหมายการค้าด้วยโลโก้บริษัทหรือชื่อโครงการ
+- สัญญาณเนื้อหาเพื่อตรวจสอบหรืออนุมัติ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

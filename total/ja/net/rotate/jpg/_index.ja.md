@@ -73,7 +73,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## JPG回転のユースケース
+
+- ユーザーがアップロードした画像ギャラリーの向きを正規化する。
+- 一貫したソーシャルメディアプレゼンテーションのために横向きの写真を回転させる。
+- 仮想ツアー向けに不動産写真の向きを調整する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

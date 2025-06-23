@@ -75,7 +75,13 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Microsoft Excel 스프레드시트 .xlsx 형식 - 분할 사용 사례
+- 대형 현대 Excel 워크북을 분할하여 더 나은 관리 및 협업을 위해 분해합니다.
+- 마스터 .xlsx 파일을 맞춤 시트로 분할하여 개인화된 보고서를 작성합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

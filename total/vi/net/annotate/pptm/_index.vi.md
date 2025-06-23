@@ -106,7 +106,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tập tin PPTM (PowerPoint Macro-Enabled Presentation) cho phép tạo và thực hiện trình chiếu tự động. Chú thích tập tin PPTM giúp theo dõi hiệu suất macro, tài liệu hành vi và tinh chỉnh logic tự động hóa.
+
+#### Chú thích Tập tin PPTM cho việc Gỡ lỗi và Đánh giá Trình chiếu Macro-Enabled - Các Trường hợp Sử dụng:
+
+- **Đánh giá Thực thi Macro**  
+  Bình luận trên các slide nơi các macro hoạt động hoặc thất bại, hỗ trợ trong quá trình gỡ lỗi.
+
+- **Hợp tác của Nhà phát triển**  
+  Thêm chú thích vào tài liệu về hành vi dự kiến hoặc kích hoạt macro.
+
+- **Tối ưu hóa Tự động hóa**  
+  Đề xuất điều chỉnh để cải thiện hiệu suất hoặc rõ ràng của nội dung được tạo tự động.
+
+- **Đánh giá các Slide được Tạo ra**  
+  Đánh dấu nội dung cần được sửa đổi thủ công sau khi thực thi macro.
+
+- **Ghi chú Hướng dẫn cho Người dùng cuối**  
+  Hướng dẫn người dùng về cách tương tác với các yếu tố được kích hoạt bởi macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

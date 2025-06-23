@@ -80,7 +80,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 매크로 활성화 워드 문서를 위한 DOCM 파일 병합
+
+DOCM 파일은 매크로가 활성화된 워드 문서입니다. `.docm` 파일을 병합하는 것은 자동화나 처리를 위해 포함된 매크로가 있는 문서를 결합할 때 유용합니다.
+
+#### 사용 사례:
+
+- **자동 보고서 통합**  
+  서식이 지정된 데이터, 차트 또는 표를 자동화하기 위해 매크로를 사용하는 `.docm` 보고서를 중앙 문서로 병합합니다.
+
+- **매크로 지원 문서 작성**  
+  매크로가 활성화된 `.docm` 파일을 결합하여 다른 보고서나 문서 간 자동화 기능을 유지하고 통합합니다.
+
+- **문서 워크플로 통합**  
+  팀 간 문서 작성 워크플로를 개선하기 위해 유사한 매크로 기능을 가진 문서를 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

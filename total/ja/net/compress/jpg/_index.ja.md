@@ -74,7 +74,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ポータブルで高速な画像配信のためにJPGファイルを圧縮する
+
+JPEGの一般的な拡張子であるJPGファイルは、デジタルメディアや大量配布で繰り返し使用される場合に追加の圧縮を受けることで利点があります。
+
+#### 使用例：
+
+- **一括画像アップロード**  
+  複数のJPGファイルを一度に圧縮して、CMSプラットフォームでのコンテンツアップロードを加速します。
+
+- **クラウドストレージコスト削減**  
+  ホストされたメディアライブラリ内のJPGサイズを縮小することで、ストレージコストを最小限に抑えます。
+
+- **アプリの読み込みの改善**  
+  製品ギャラリーやモバイルアプリでよりスムーズなUXを実現するために、小さなJPGファイルを使用します。
+
+- **低帯域幅の最適化**  
+  圧縮されたバージョンを使用して、遅い接続を持つリモート地域やユーザーにJPGファイルを配信します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

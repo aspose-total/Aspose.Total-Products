@@ -75,7 +75,13 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Microsoft Excelスプレッドシート.xlsx形式 — 分割の使用例
+- 大きな現代のExcelワークブックを分割して、管理しやすくし、共同作業を行う。
+- マスター.xlsxファイルを適したシートに分割して、パーソナライズされたレポートを作成する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+O DOCX é o formato Word moderno e padrão para documentos de texto editáveis.
+
+**Os casos de uso comuns incluem:**
+
+- Marcar o status como Rascunho, Confidencial ou Aprovado
+- Aplicar a identidade visual da empresa e logotipos com marca d'água
+- Adicionar designações de somente leitura
+- Mostrar a versão interna/externa
+- Apoiar o rastreamento do ciclo de vida do documento
+- Cumprir os requisitos regulamentares
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT는 LibreOffice 및 유사한 도구에서 사용되는 오픈 소스 워드 프로세서 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 공개, 비공개 또는 내부 전용 문서 표시
+- 협업 소유권 또는 검토 주기 표시
+- 조직 이름 또는 오픈 라이선스 정보 삽입
+- 공공 부문 릴리스를 위한 문서 식별
+- 다중 저자 문서의 버전 관리 지원
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

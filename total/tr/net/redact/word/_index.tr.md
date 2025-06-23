@@ -82,7 +82,16 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word'de Sansürleme
+
+- Resmi belgelerde isimleri, adresleri ve kimlik numaralarını sansürleyin.
+- Mahkeme belgeleri veya sözleşmeleri sunmadan önce gizli hukuki içeriği sansürleyin.
+- Paylaşılan raporlardaki iç iletişimi ve hassas iş bilgilerini sansürleyin.
+- İK dosyalarında, hasta özetlerinde veya akademik kayıtlarda kişisel veya tıbbi bilgileri sansürleyin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

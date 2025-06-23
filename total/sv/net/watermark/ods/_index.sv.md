@@ -76,7 +76,19 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS är det öppna kalkylarksformatet som används av LibreOffice och OpenOffice.
+
+**Vanliga användningsfall inkluderar:**
+
+- Angivande av data som Offentlig, Under granskning eller Intern
+- Vattenstämpel för datakälla
+- Etikettering för samarbete med flera användare
+- Inkludering av licensinformation eller upphovsrätt
+- Markering av innehåll för publicering av öppna data
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

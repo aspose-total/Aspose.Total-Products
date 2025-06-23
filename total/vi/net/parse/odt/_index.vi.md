@@ -93,7 +93,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng cho việc phân tích tệp .odt
+
+- 📄 Trích xuất văn bản, hình ảnh và siêu dữ liệu từ các tệp Văn bản OpenDocument.
+- 🧾 Chuyển đổi tệp `.odt` sang HTML, Markdown hoặc PDF để xuất bản.
+- 📚 Lưu trữ các định dạng tài liệu mã nguồn mở bằng cách chuyển đổi và lập chỉ mục nội dung.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

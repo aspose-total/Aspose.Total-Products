@@ -81,7 +81,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Word Macro-Enabled Document (`.docm`)을 위한 사용 사례
+
+- 자동화 추적을 위한 매크로 관련 메타데이터 포함.
+- 포함된 매크로와 연결된 문서 보안 정책 관리.
+- 포함된 스크립트를 기반으로 한 자동 위험 분류 활성화.
+- 문서 목적 및 관련 비즈니스 프로세스 식별 지원.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

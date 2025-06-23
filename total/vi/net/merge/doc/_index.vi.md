@@ -80,7 +80,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kết hợp các tệp DOC cho Quản lý Tài liệu Word cũ
+
+Các tệp DOC là định dạng nhị phân cũ được sử dụng bởi Microsoft Word. Việc kết hợp các tệp `.doc` thường cần thiết để hợp nhất các tài liệu cũ, lưu trữ hoặc chuyển đổi sang định dạng mới hơn.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Kết hợp Báo cáo Lịch sử**  
+  Kết hợp các báo cáo `.doc` cũ cho mục đích lưu trữ hoặc tạo một tài liệu thống nhất để in hoặc chia sẻ.
+
+- **Cập Nhật Tài liệu Cũ**  
+  Kết hợp nhiều tệp `.doc` chứa thông tin dự án hoặc tài liệu doanh nghiệp vào một tài liệu chính để cập nhật.
+
+- **Chuyển đổi Tài liệu sang Định dạng Hiện đại**  
+  Kết hợp các tệp `.doc` trước khi chuyển đổi chúng sang `.docx` để cải thiện tính tương thích với các hệ thống hiện đại.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

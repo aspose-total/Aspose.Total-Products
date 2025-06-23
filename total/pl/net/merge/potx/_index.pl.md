@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików POTX dla nowoczesnego zarządzania szablonami w programie PowerPoint
+
+POTX to nowoczesny format oparty na XML używany do szablonów w programie PowerPoint. Scalanie plików `.potx` centralizuje zawartość szablonu, zapewniając spójność między prezentacjami.
+
+#### Przykłady użycia:
+
+- **Standaryzacja szablonów między działami**  
+  Scal szablony `.potx` używane przez różne działy, aby stworzyć ujednoliconą bibliotekę szablonów PowerPoint dla całej firmy.
+
+- **Aktualizacja kolekcji szablonów**  
+  Połącz pliki `.potx` zawierające różne elementy brandingowe, układ lub style, aby stworzyć główny szablon dla prezentacji.
+
+- **Dostosowywanie szablonów dla klientów**  
+  Scal szablony `.potx` z różnych działów, aby dostosować szablony prezentacji do specyfikacji klienta.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

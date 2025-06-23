@@ -73,7 +73,22 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 오픈 문서 협업 사용 사례를 위한 ODT 파일 비교:
+
+ODT (OpenDocument Text)는 LibreOffice나 OpenOffice와 같은 오픈 소스 워드 프로세서의 표준입니다. ODT 파일을 비교하면 특히 오픈 환경에서 협업 작업에 대한 투명성을 제공합니다.
+
+- **오픈 협업 감사**  
+  오픈 소스 문서에서 기여자가 한 수정 사항을 추적합니다.
+
+- **정부 및 학술 문서 검토**  
+  ODT 형식으로 공유된 공식 문서, 정책 또는 연구 초안을 비교합니다.
+
+- **공개 워크플로우의 투명성**  
+  공개적으로 유지되는 문서 및 제안의 변경 사항을 나란히 보여줍니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

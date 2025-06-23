@@ -93,7 +93,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .odt 파일 구문 분석용 사용 사례
+
+- 📄 OpenDocument 텍스트 파일에서 텍스트, 이미지 및 메타데이터 추출.
+- 🧾 `.odt` 파일을 HTML, Markdown 또는 PDF로 변환하여 게시.
+- 📚 콘텐츠 변환 및 색인화를 통해 오픈 소스 문서 형식을 아카이빙.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

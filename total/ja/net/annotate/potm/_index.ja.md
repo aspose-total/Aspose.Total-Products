@@ -106,7 +106,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+POTM（PowerPoint Macro-Enabled Template）ファイルは、埋め込まれたマクロを使用して標準化されたプレゼンテーションを作成するために使用されます。POTMファイルに注釈を付けることで、自動化ロジックの文書化、テンプレートの標準化、および共同開発のサポートが行われます。
+
+#### テンプレートベースのプレゼンテーション自動化ユースケース向けのPOTMファイル注釈：
+
+- **テンプレートデザインレビュー**  
+  テンプレート内のスライドレイアウト、ブランディングの一貫性、構造にコメントを追加します。
+
+- **マクロの文書化**  
+  ユーザーや開発者向けにマクロの目的と動作に注釈を付けます。
+
+- **チーム向けの使用ガイドライン**  
+  テンプレートのポピュレート方法や再利用方法に関する手順やベストプラクティスを提供します。
+
+- **コンプライアンスチェックの注釈**  
+  アクセシビリティや企業ポリシーの基準を満たすために更新が必要な領域をフラグ付けします。
+
+- **反復的なテンプレート開発**  
+  進化するテンプレートデザインでのバージョン変更や提案された改善をマークします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

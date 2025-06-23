@@ -80,7 +80,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików DOCM dla dokumentów programowych programu Word
+
+Pliki DOCM to dokumenty programowe programu Word. Scalanie plików `.docm` jest przydatne podczas łączenia dokumentów zawierających osadzone makra do automatyzacji lub przetwarzania.
+
+#### Przykłady użycia:
+
+- **Konsolidacja Raportów Automatycznych**  
+  Scalaj raporty `.docm`, które wykorzystują makra do automatyzacji generowania sformatowanych danych, wykresów lub tabel do centralnego dokumentu.
+
+- **Tworzenie Dokumentów z Obsługą Makr**  
+  Połącz pliki `.docm` z obsługą makr, aby zachować i ujednolicić funkcje automatyzacji w różnych raportach lub dokumentach.
+
+- **Integracja Przepływu Dokumentów**  
+  Scal dokumenty z podobnymi funkcjami makr, aby poprawić przepływ tworzenia dokumentów w zespołach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

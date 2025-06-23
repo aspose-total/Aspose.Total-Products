@@ -72,7 +72,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDFは安全でポータブルで印刷可能な文書の標準形式です。
+
+**一般的な使用例：**
+
+- 機密、承認済み、最終版の透かしを適用する
+- ブランディング、ロゴ、連絡先情報を含める
+- 規制当局への提出のための文書をマークする
+- タイムスタンプ、署名、QRコードを埋め込む
+- 一般公開と内部公開の区別
+- 法的または著作権の所有権を強化する
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

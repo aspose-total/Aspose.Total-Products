@@ -78,7 +78,16 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Livro do Microsoft Excel (Moderno) — Casos de Uso para Proteção
+
+- Comum em relatórios de negócios, previsões e painéis de KPI — a proteção mantém a lógica das fórmulas segura.
+- Impede alterações acidentais em conjuntos de dados críticos ou gráficos.
+- Usado em ambientes colaborativos para restringir o acesso à edição, permitindo a entrada de dados em células específicas.
+- Suporta a criptografia do livro para lidar com informações confidenciais ou regulamentadas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

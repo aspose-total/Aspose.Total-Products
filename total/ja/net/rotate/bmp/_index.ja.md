@@ -73,7 +73,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## BMP回転のユースケース
+
+- BMP形式で保存されたスキャンされたエンジニアリング設計図や建築図面を回転させる。
+- 適切な表示のために、レガシーWindowsで生成された画像の向きを調整する。
+- 文書やレポートに挿入するためにBMP画像を準備する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

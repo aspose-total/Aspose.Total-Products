@@ -74,7 +74,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików ODT za pomocą podpisów cyfrowych lub elektronicznych
+
+Pliki ODT są używane w środowiskach open-source, takich jak LibreOffice lub OpenOffice. Podpisy cyfrowe w plikach ODT zapewniają pochodzenie i integralność dokumentów tekstowych niebędących produktem Microsoft.
+
+## Powszechne przypadki użycia
+- Instytucje edukacyjne udostępniające raporty lub szkice pracy dyplomowych.
+- Organizacje pozarządowe i współtwórcy oprogramowania open-source tworzący oficjalne listy.
+- Dokumentacja sektora publicznego w formacie ODT.
+- Współpraca międzynarodowa, w której preferowany jest format ODT.
+- Wewnętrzne dokumenty polityki z elektronicznym zatwierdzeniem.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

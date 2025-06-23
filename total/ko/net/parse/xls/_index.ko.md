@@ -87,7 +87,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .xls 파일 구문 분석용 사용 사례
+
+- 📊 Excel 이진 파일에서 셀 데이터, 수식 및 차트 추출.
+- 🧮 `.xls` 스프레드시트에서 보고서 처리 및 데이터 이관 자동화.
+- 🔍 레거시 스프레드시트 데이터를 데이터베이스나 분석 도구로 가져오기.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

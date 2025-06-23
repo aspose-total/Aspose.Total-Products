@@ -79,7 +79,16 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Documento do Microsoft Word 97–2003 — Casos de Uso para Proteção
+
+- Usado em sistemas legados onde a edição deve ser restrita para garantir compatibilidade.
+- Protege contra alterações acidentais em documentos legais ou históricos arquivados.
+- Impede modificações não autorizadas de conteúdo em fluxos de trabalho governamentais ou empresariais mais antigos.
+- Útil em configurações de conformidade onde a integridade do arquivo no formato original é crítica.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

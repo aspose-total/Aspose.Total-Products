@@ -76,7 +76,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+O Excel é amplamente utilizado para trabalhos orientados por dados. A marca d'água em planilhas do Excel ajuda a comunicar confidencialidade e contexto, especialmente durante revisões de dados ou divulgações financeiras.
+
+**Casos de uso comuns incluem:**
+
+- Identificar planilhas como preliminares, sensíveis ou verificadas
+- Prevenir o uso indevido de cálculos ou previsões proprietários
+- Rotular planilhas para auditoria interna ou relatórios financeiros
+- Marcar painéis de controle com marca d'água para controle de distribuição
+- Etiquetar dados como desatualizados, arquivados ou em teste
+- Indicar a propriedade de modelos financeiros ou análises.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | OpenDocument 스프레드시트 — 보호를 위한 사용 사례
+
+- 예산 추적 및 데이터 공유를 위해 LibreOffice와 같은 오픈 소스 환경에서 사용됩니다.
+- 크로스 플랫폼 워크플로우에서 셀 수식 및 계산을 보호합니다.
+- 협업 금융 모델이나 공공 부문 문서에서 구조적 변경을 방지합니다.
+- 여러 이해관계자나 부서 간에 공유될 때 일관성을 보장합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

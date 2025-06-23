@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานในการเซ็นไฟล์ DOCX ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+DOCX เป็นรูปแบบเริ่มต้นสำหรับ Microsoft Word และรองรับการผสานกับแพลตฟอร์มลายเซ็นดิจิตอลและอิเล็กทรอนิกส์อย่างมีประสิทธิภาพ
+
+## กรณีการใช้งานทั่วไป
+- จดหมายเสนองานและข้อตกลงทรัพยากรบุคคล
+- เอกสารทางกฎหมายที่ต้องการใบรับรองดิจิตอลที่ป้องกันการแก้ไข
+- จดหมายทางวิชาการ ใบรับรอง และทรานสคริปต์
+- เอกสารเชิงกลยุทธ์ขององค์กรและคำค้นของการประชุม
+- ข้อเสนอลูกค้าและขอบเขตโครงการที่มีการอนุมัติให้เซ็นต์ลายเซ็น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

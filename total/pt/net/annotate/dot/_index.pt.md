@@ -123,7 +123,28 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Os arquivos DOT (Modelo do Word 97-2003) definem estruturas de documento reutilizáveis. As anotações nos arquivos DOT ajudam a esclarecer o propósito do modelo, instruções de uso e notas de personalização para os usuários.
+
+#### Anotação de Arquivo DOT para Documentação de Modelo e Casos de Uso de Feedback:
+
+- **Orientação de Personalização do Modelo**  
+  Anote campos e espaços reservados para orientar os usuários sobre como e onde inserir conteúdo.
+
+- **Instruções de Fluxo de Trabalho**  
+  Adicione comentários explicando comportamentos automatizados, macros ou formatação condicional incorporados no modelo.
+
+- **Revisões de Marca e Estilo**  
+  Destaque áreas que devem estar alinhadas com as diretrizes de marca corporativa ou padrões de documento.
+
+- **Coleta de Feedback dos Usuários**  
+  Permita que os usuários insiram comentários sobre a usabilidade do modelo, simplificando melhorias iterativas.
+
+- **Modelos de Conformidade Regulatória**  
+  Forneça notas relacionadas à conformidade regulatória diretamente no modelo para processos de documentação legal.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

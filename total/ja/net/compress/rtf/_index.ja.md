@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 簡略化されたリッチテキストの保存と転送のためにRTFファイルを圧縮する
+
+RTF（リッチテキスト形式）ファイルは、異なるプラットフォーム間で基本的な書式設定を持つテキストドキュメントに使用されます。ただし、埋め込み画像や拡張書式が含まれると、ファイルサイズが増加する可能性があります。RTFファイルを圧縮することで、システムやワークフロー間での使用を効率化できます。
+
+#### 使用例:
+
+- **クロスプラットフォームの移植性**  
+  RTFファイルのサイズを縮小して、フォーマットの劣化なしにシステム間での高速転送を確保します。
+
+- **レガシーシステムの互換性**  
+  古いアプリケーションやシステムでのスムーズな処理のためにRTFドキュメントを圧縮します。
+
+- **埋め込みリソースの最適化**  
+  埋め込まれたメディア（例: ロゴやチャート）の影響を最小限に抑えてファイルを軽量化します。
+
+- **効率的なメール送信とフォーム提出**  
+  圧縮されたRTFは、フォームへのアップロードやメール添付ファイルとして送信する際のサイズ制限に適合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

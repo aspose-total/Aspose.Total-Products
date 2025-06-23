@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLSB เพื่อการจัดการข้อมูล Excel ขนาดใหญ่อย่างมีประสิทธิภาพ
+
+รูปแบบ XLSB (Excel Binary Workbook) เก็บข้อมูลในรูปแบบทวิภาคเสมือน มีประสิทธิภาพที่ดีกว่าในการจัดการชุดข้อมูลขนาดใหญ่ การผสานไฟล์ `.xlsb` ช่วยให้การจัดการข้อมูลขนาดใหญ่ขององค์กรเป็นไปอย่างมีประสิทธิภาพ
+
+#### การใช้งาน:
+
+- **รายงานที่ต้องการประสิทธิภาพ**  
+  ผสานชุดข้อมูล `.xlsb` ขนาดใหญ่เพื่อการโหลดและประมวลผลอย่างรวดเร็วในสภาพแวดล้อมที่มีประสิทธิภาพสูง
+
+- **การบูรณาการระบบ BI**  
+  รวมไฟล์ `.xlsb` เพื่อนำเข้าเครื่องมืออัจฉริยะทางธุรกิจหรือแดชบอร์ด
+
+- **การรวมข้อมูลเซ็นเซอร์หรือเครื่องจักร**  
+  รวมบันทึก Excel ในรูปแบบทวิภาคเสมือนที่สร้างขึ้นโดยอุปกรณ์อุตสาหกรรมหรือห้องปฏิบัติการสำหรับการตรวจสอบและอัตโนมัติที่ใช้งานร่วมกัน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

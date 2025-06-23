@@ -81,7 +81,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 高品質画像のマージのためのTIFFファイルの結合
+
+TIFF（Tagged Image File Format）は、無損失圧縮または全く圧縮しない高品質画像に広く使用されています。`.tiff`ファイルのマージは、スキャンの結合、複数ページのドキュメント、または大きな画像を組み合わせるのに役立ちます。
+
+#### 用途:
+
+- **複数ページドキュメントの作成**  
+  ドキュメントのページを表す複数の`.tiff`ファイルを1つのマルチページファイルにマージして、表示や印刷を容易にします。
+
+- **高解像度スキャン**  
+  芸術作品、文書、または設計図のスキャンセクションを含む`.tiff`ファイルを1つの高解像度画像に結合します。
+
+- **アーカイブと保存**  
+  画質と詳細の保存が重要なアーカイブ目的で`.tiff`ファイルをマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานในการลงนามบนไฟล์ TIFF ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+TIFF เป็นไฟล์ที่ถูกต้องสำหรับเอกสารภาพความละเอียดสูง การลงนามด้วยลายเซ็นดิจิตอลบนไฟล์ TIFF เป็นสิ่งจำเป็นในอุตสาหกรรมทางกฎหมาย การแพทย์ และสารบรรณ
+
+## กรณีการใช้งานทั่วไป
+- หลักฐานทางกฎหมายและสแกนที่สามารถนำสู่ศาลได้
+- ผลตรวจทางการแพทย์และภาพรังสี
+- แผนการวิศวกรรมและเอกสารสถาปัตยกรรม
+- การอนุรักษ์เอกสารประวัติศาสตร์
+- หลักฐานเรื่องเรียกร้องประกันในรูปแบบภาพ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

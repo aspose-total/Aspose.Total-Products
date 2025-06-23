@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików XLS w celu integracji danych z dawnego Excela
+
+XLS to format binarny używany przez starsze wersje programu Microsoft Excel. Scalanie wielu plików `.xls` pomaga skonsolidować historyczne dane do nowoczesnych systemów w celu analizy lub archiwizacji.
+
+#### Przykłady użycia:
+
+- **Historyczne raporty finansowe**  
+  Połącz stare raporty finansowe z programu Excel w celu analizy trendów historycznych lub przygotowania do audytu.
+
+- **Historyczne zapisy HR**  
+  Scal starsze zapisy pracowników lub pliki płacowe przechowywane w formacie `.xls` w jeden zintegrowany plik.
+
+- **Aktualizacja archiwów danych**  
+  Skonsoliduj pliki `.xls` przed konwersją ich do formatu `.xlsx` lub innych nowoczesnych formatów w celu poprawy kompatybilności i przetwarzania.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ 대화식 프레젠테이션 및 자동화를 위한 PPSM(매크로가 포함된 PowerPoint 쇼) 병합
+
+PPSM 파일은 매크로가 포함된 PowerPoint 슬라이드쇼입니다. 이를 병합하면 자동화나 대화식 전달을 위한 매크로가 포함된 프레젠테이션을 효율적으로 통합할 수 있습니다.
+
+#### 사용 사례:
+
+- **대화식 교육 전달**  
+  교육 모듈을 자동화 스크립트와 병합하여 간소화된 학습 세션을 제공합니다.
+
+- **판매 데모 슬라이드쇼**  
+  제품 슬라이드쇼를 자동 전환 및 대화식 요소와 결합합니다.
+
+- **프로세스 자동화 프레젠테이션**  
+  내부 프로세스 튜토리얼을 위해 여러 매크로가 포함된 덱을 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

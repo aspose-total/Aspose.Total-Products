@@ -79,7 +79,18 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — 문서 보호를 위한 사용 사례
+
+- 법적 계약, 인사 정책 또는 학술 논문의 무단 편집 방지.
+- 문서의 일부(헤더, 법적 조항 또는 목차)를 변경으로부터 보호.
+- 특정 영역에 대한 액세스 제한이 있는 협업 편집 가능(예: 댓글 전용 섹션).
+- 워크플로를 자동화하는 매크로 활성화된 템플릿이나 양식 보호.
+- 표준화된 템플릿에서 브랜딩 요소(로고 및 회사 면책사항) 잠금.
+- 부서 간이나 외부에서 문서를 공유할 때 서식 불일치 방지.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

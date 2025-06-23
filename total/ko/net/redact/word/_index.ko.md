@@ -82,7 +82,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word에서 문서 편집
+
+- 공식 문서에서 이름, 주소 및 식별 번호를 삭제하십시오.
+- 법정 문서 또는 계약을 제출하기 전에 기밀 법적 콘텐츠를 삭제하십시오.
+- 공유 보고서에서 내부 의사 소통 및 민감한 비즈니스 정보를 삭제하십시오.
+- HR 파일, 환자 요약 또는 학사 기록에서 개인 또는 의료 정보를 삭제하십시오.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

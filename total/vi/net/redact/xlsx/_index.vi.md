@@ -82,7 +82,16 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Chỉnh sửa trong tệp .xlsx (Microsoft Excel)
+
+- Chỉnh sửa lương nhân viên, tiền thưởng hoặc thông tin cá nhân trong tệp lương.
+- Chỉnh sửa thông tin khách hàng hoặc nhà cung cấp trong báo cáo bán hàng hoặc mua hàng.
+- Chỉnh sửa phân bổ ngân sách nội bộ hoặc biên lợi nhuận trong các bảng tính tài chính.
+- Chỉnh sửa dữ liệu mật trong bảng điều khiển hiệu suất hoặc bảng theo dõi KPI.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

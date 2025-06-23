@@ -106,7 +106,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTM（PowerPoint Macro-Enabled Presentation）ファイルには、自動スライド生成やアクションが可能です。PPTMファイルに注釈を付けることで、マクロのパフォーマンスを追跡し、動作を文書化し、自動化ロジックを洗練させるのに役立ちます。
+
+#### マクロ有効プレゼンテーションのデバッグとレビューのためのPPTMファイル注釈 - ユースケース：
+
+- **マクロ実行のレビュー**  
+  マクロの機能や失敗があるスライドにコメントを追加し、デバッグを支援します。
+
+- **開発者間の協力**  
+  予想される動作やマクロトリガーを文書化するために注釈を追加します。
+
+- **自動化の最適化**  
+  パフォーマンスや自動生成コンテンツの明確さを向上させるための調整を提案します。
+
+- **生成されたスライドのレビュー**  
+  マクロの実行後に手動で修正が必要なコンテンツをフラグします。
+
+- **エンドユーザー向けの指示メモ**  
+  マクロ有効要素とのやり取り方法をユーザーにガイドします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

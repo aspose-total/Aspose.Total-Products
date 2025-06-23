@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ストリームライン化されたマクロ対応ドキュメント自動化のためのDOCMファイルの圧縮
+
+DOCM（マクロ対応ワードドキュメント）ファイルは、埋め込まれたマクロ、スクリプト、メディアにより大きくなることがあります。 DOCMファイルを圧縮することで、スムーズな自動化ワークフローと容易な共同作業が実現されます。
+
+#### ユースケース：
+
+- **自動化されたドキュメント配布**  
+  マクロ対応テンプレートの迅速な共有を可能にするためにファイルサイズを削減します。
+
+- **システムパフォーマンスの最適化**  
+  大きなDOCMファイルを圧縮してメモリ使用量とオープン時間を削減します。
+
+- **安全なクラウドアップロード**  
+  圧縮を使用して、マクロが多いファイルをクラウドストレージにより迅速かつ信頼性の高い方法でアップロードします。
+
+- **マクロライブラリのアーカイブ**  
+  過剰なストレージ要求なしに、マクロが埋め込まれたドキュメントのバージョンを効率的に保存します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

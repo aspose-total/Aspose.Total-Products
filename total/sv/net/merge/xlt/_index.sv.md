@@ -79,7 +79,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga XLT-filer för Excel-arbetsflöden baserade på mallar
+
+XLT är Excel-mallformatet för `.xls` (Excel 97-2003). Att sammanfoga `.xlt`-filer hjälper till att standardisera och uppdatera äldre mallar till en enhetlig struktur.
+
+#### Användningsområden:
+
+- **Sammanfogning av äldre mallar**  
+  Kombinera flera `.xlt`-mallar till en huvudmall för bakåtkompatibilitet.
+
+- **Standardisering av avdelningsmallar**  
+  Sammanfoga gamla mallar för att utvärdera och utveckla en modern alternativ `.xltx`.
+
+- **Arkivering av historiska mallar**  
+  Konsolidera äldre `.xlt`-versioner för efterlevnad eller historisk referens.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

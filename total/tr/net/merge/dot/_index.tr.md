@@ -80,7 +80,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Eski Şablon Yönetimi için DOT Dosyalarını Birleştirme
+
+DOT dosyaları, Microsoft Word'ün eski sürümlerinde (DOCX'ten önce) kullanılan Word şablonlarıdır. `.dot` dosyalarını birleştirmek, belge biçimlendirmesini standart hale getirmeye ve eski sistemlerle uyumluluğu sağlamaya yardımcı olur.
+
+#### Kullanım Alanları:
+
+- **Şablon Birleştirme**  
+  Farklı ekipler tarafından kullanılan farklı `.dot` şablonlarını birleştirerek belge oluşturmak için tek, birleşik bir şablon oluşturun.
+
+- **Eski Şablonların Arşivlenmesi**  
+  Uzun vadeli depolama veya daha modern `.dotx` formatına geçiş için `.dot` şablonlarını birleştirin.
+
+- **Şablon Kütüphanelerinin Güncellenmesi**  
+  Modernleştirme için eski biçimlendirme veya stiller içeren birden fazla `.dot` dosyasını tek bir şablona birleştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

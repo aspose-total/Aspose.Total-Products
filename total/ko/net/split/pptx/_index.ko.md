@@ -74,7 +74,13 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Microsoft PowerPoint 프레젠테이션 .pptx 형식 — 분할용 사례  
+- 현대적인 PowerPoint 프레젠테이션을 모듈식 사용을 위해 작은 슬라이드 덱으로 분할합니다.  
+- 슬라이드 그룹을 다른 편집자에게 할당하여 협업을 가능하게 합니다.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

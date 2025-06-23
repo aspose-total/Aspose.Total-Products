@@ -82,7 +82,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Cenzura w pliku .xlsx (Microsoft Excel)
+
+- Cenzuruj wynagrodzenia pracowników, premie lub dane osobowe w plikach płacowych.
+- Cenzuruj informacje o klientach lub dostawcach w raportach sprzedażowych lub zamówień.
+- Cenzuruj wewnętrzne alokacje budżetowe lub marże zysku w skoroszytach finansowych.
+- Cenzuruj poufne dane w pulpity wyników lub arkusze śledzenia KPI.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

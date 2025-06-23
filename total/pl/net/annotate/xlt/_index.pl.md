@@ -78,7 +78,17 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki XLT (Excel Template) zapewniają predefiniowane struktury arkuszy kalkulacyjnych. Adnotacje pomagają zidentyfikować miejsca zastępcze, udzielać instrukcji lub rejestrować opinie podczas dostosowywania szablonu.
+
+#### Adnotacje w plikach XLT dla dostosowywania szablonu - Przykłady użycia:
+
+- **Instrukcje szablonu**: Dodaj komentarze, aby przewodniczyć użytkownikom końcowym w polach wejściowych.
+- **Przegląd szablonu**: Adnotuj formuły lub sugestie dotyczące układu w celu poprawy.
+- **Notatki zespołu**: Współpracuj nad wstępnymi wersjami szablonów z notatkami kontekstowymi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Các trường hợp sử dụng cho Tài liệu Microsoft Word (`.doc`)
+
+- Theo dõi tác giả và lịch sử tạo / sửa đổi.
+- Nâng cao khả năng tìm kiếm tài liệu thông qua tiêu đề, chủ đề và từ khóa.
+- Nhúng siêu dữ liệu pháp lý hoặc cấp phép để bảo vệ tài liệu.
+- Tự động hóa quy trình làm việc dựa trên các trường siêu dữ liệu (ví dụ: quy tắc lưu trữ).
+- Hỗ trợ trong việc phân loại nội dung và quản lý lưu trữ.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

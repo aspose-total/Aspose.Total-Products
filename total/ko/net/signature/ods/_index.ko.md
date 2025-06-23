@@ -76,7 +76,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지털 또는 전자 서명을 사용하여 ODS 파일 서명의 사용 사례
+
+ODS는 오픈 소스 오피스 스위트의 스프레드시트 형식입니다. ODS 파일에 디지털 서명을 하는 것은 비-Microsoft 환경에서 재무 및 운영 데이터를 보호하는 데 도움이 됩니다.
+
+## 일반적인 사용 사례
+- 오픈 소스 프로젝트 예산 및 보고서.
+- 학교 기관이 학생 데이터를 추적.
+- 비용 민감한 지역의 정부 기관.
+- 기부자 및 프로젝트 보고서를 편집하는 비정부 기구.
+- 안전한 전자 서명이 필요한 부서 계획 문서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

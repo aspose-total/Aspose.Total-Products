@@ -80,7 +80,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików DOC w celu zarządzania starszymi dokumentami programu Word
+
+Pliki DOC to starszy format binarny używany przez Microsoft Word. Scalanie plików `.doc` jest zazwyczaj konieczne do konsolidacji dokumentów z przeszłości, archiwizacji lub przejścia na nowsze formaty.
+
+#### Przykłady użycia:
+
+- **Scalanie historycznych raportów**  
+  Połącz starsze raporty w formacie `.doc` w celach archiwizacyjnych lub stworzenia jednolitego dokumentu do drukowania lub udostępniania.
+
+- **Aktualizacje dokumentów z przeszłości**  
+  Scal wiele plików `.doc` zawierających informacje o projekcie lub dokumenty biznesowe w celu utworzenia głównego dokumentu do aktualizacji.
+
+- **Konwersja dokumentów na nowoczesne formaty**  
+  Scal pliki `.doc` przed konwersją na format `.docx` dla lepszej kompatybilności z nowoczesnymi systemami.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

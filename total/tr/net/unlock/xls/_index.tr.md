@@ -78,7 +78,31 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.xls` dosyalarının kilidini açmak—eski Microsoft Excel sürümlerinde kullanılır—sayfa koruması, çalışma kitabı şifreleri ve düzenleme kilitleri gibi kısıtlamaları kaldırır. Bu dosyalar genellikle erişilmesi veya modernize edilmesi gereken eski finansal, iş veya akademik verileri içerir. Hassas veya mülkiyeti olan `.xls` dosyalarını kilitlemeden önce her zaman uygun yetkilendirmeyi sağlayın.
+
+#### **Kullanım Alanları**
+
+- **Tarihsel Finansal Raporları Düzenleme**  
+  Güncellenmesi veya denetlenmesi gereken eski muhasebe tablolarına erişim sağlayın.
+
+- **Arşivlenmiş Kurumsal Verilerin Kilidini Açma**  
+  Excel 2003 veya daha eski sürümlerinde oluşturulan korumalı iç raporları veya proje planlarını açın.
+
+- **Eskimiş Formülleri Güncelleme**  
+  Yeniden hesaplamalar için sabitlenmiş veya güncellenmemiş formülleri içeren hücreleri kilidini açın.
+
+- **Unutulan Şifreleri Kaldırma**  
+  Artık bilinmeyen sayfa veya çalışma kitabı şifrelerini atlayın.
+
+- **`.xlsx` veya Google Sheets'e Geçiş**  
+  Modern elektronik tablo sistemlerine veya bulut ortamlarına sorunsuz geçiş için kilidini açın.
+
+- **Kilitli Makroları veya Veri Akışlarını Denetleme**  
+  Uyumluluk veya entegrasyon açısından gizli formülleri, makroları veya adlandırılmış aralıkları analiz edin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

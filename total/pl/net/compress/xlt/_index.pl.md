@@ -75,7 +75,27 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompresuj pliki XLT w celu optymalizacji szablonów Excel dla starszych wersji
+
+Pliki XLT (Szablon Excel 97–2003) mogą stać się duże ze względu na osadzone elementy lub dane próbne. Kompresowanie plików XLT sprawia, że biblioteki szablonów są bardziej oszczędne i łatwiejsze do dystrybucji.
+
+#### Przykłady użycia:
+
+- **Przenośność starszych szablonów**  
+  Wysyłaj standardowe szablony skompresowane dla szybszej dystrybucji w starszych systemach przedsiębiorstwowych.
+
+- **Efektywność repozytorium szablonów**  
+  Zachowuj lekkie archiwa szablonów dla scentralizowanego dostępu i szybkiego odzyskiwania.
+
+- **Skrócenie czasu ładowania szablonu**  
+  Zoptymalizuj starsze systemy poprzez kompresowanie plików XLT dla szybszego otwierania i użytkowania.
+
+- **Optymalizacja kopii zapasowych i przechowywania**  
+  Zminimalizuj długoterminowe przechowywanie starych szablonów poprzez kompresję.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

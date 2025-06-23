@@ -73,7 +73,14 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### .odt（OpenDocument Text）ファイル — ドキュメント分割の使用事例
+
+- オープンソーススイートでの互換性と簡単な編集のためにOpenDocumentテキストファイルを分割します。
+- 特定のセクションを複数の寄稿者に配布することで、コラボレーションを容易にします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

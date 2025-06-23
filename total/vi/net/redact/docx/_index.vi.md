@@ -82,7 +82,16 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Chỉnh sửa trong tệp .docx (Microsoft Word)
+
+- Chỉnh sửa tên cá nhân, thông tin liên hệ và số nhận dạng trong tài liệu nhân sự.
+- Chỉnh sửa chi tiết nhạy cảm về vụ án hoặc thông tin về khách hàng trong hợp đồng pháp lý và đơn trình bày tại tòa.
+- Chỉnh sửa các phần mật của báo cáo nội bộ, biên bản cuộc họp hoặc tài liệu dự án.
+- Chỉnh sửa các phương pháp độc quyền hoặc kết quả nghiên cứu trong bài báo học thuật hoặc khoa học.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

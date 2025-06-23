@@ -71,7 +71,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Przypadki użycia: Porównywanie plików POTX w celu kontroli wersji szablonu projektu
+
+Pliki POTX (PowerPoint Open XML Template) zawierają wielokrotnie używane układy slajdów bez wsparcia dla makr. Porównywanie szablonów POTX zapewnia spójność wizualną i pomaga śledzić zmiany w identyfikacji wizualnej oraz aktualizacje układu w czasie.
+
+- **Śledzenie zmian w szablonie marki**  
+  Identyfikuj rewizje w motywach, schematach kolorów i czcionkach, aby utrzymać spójność korporacyjną.
+
+- **Aktualizacje i przegląd projektu**  
+  Porównaj stare i nowe wersje, aby zatwierdzić zmiany w głównych slajdach, zastępczych elementach i ogólnym układzie.
+
+- **Spójność motywu prezentacji**  
+  Upewnij się, że standardowe szablony są jednolicie stosowane we wszystkich działach lub projektach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

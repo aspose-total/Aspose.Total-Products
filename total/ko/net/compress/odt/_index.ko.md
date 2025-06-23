@@ -78,7 +78,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 경량 OpenDocument Text 관리를 위한 ODT 파일 압축
+
+ODT (OpenDocument Text) 파일은 종종 LibreOffice와 같은 오픈 소스 오피스 스위트에서 사용되며, 포함된 이미지, 표 및 고급 서식 때문에 크기가 커질 수 있습니다. ODT 파일을 압축하면 시스템 간의 이동성과 성능이 향상됩니다.
+
+#### 사용 사례:
+
+- **최적화된 문서 공유**  
+  ODT 파일 크기를 줄여 업로드 속도를 높이고 이메일 첨부 파일 및 온라인 협업을 원활하게 합니다.
+
+- **클라우드 저장 공간 효율성**  
+  ODT 문서를 압축하여 공유 드라이브와 문서 저장소의 공간을 절약합니다.
+
+- **저사양 장치에서의 성능 향상**  
+  작은 ODT 파일은 자원이 제한된 시스템에서 빠르게 로드되어 사용자 경험을 향상시킵니다.
+
+- **효율적인 아카이빙**  
+  압축된 버전으로 대량의 ODT 보고서나 매뉴얼을 효율적으로 저장합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

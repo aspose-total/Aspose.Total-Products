@@ -78,7 +78,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM（マクロ有効テンプレート）ファイルは、マクロを使用して再利用をサポートします。注釈は、自動化ポイント、期待される入力、またはマクロの結果に関する重要な洞察を提供します。
+
+#### マクロテンプレートワークフローのためのXLTMファイルに注釈を付ける - ユースケース：
+
+- **マクロドキュメント**: マクロのトリガーと意図された効果を説明します。
+- **ユーザーガイダンス**: 自動化を保持するために変更してはいけないセクションに注釈を付けます。
+- **テストノート**: テンプレートテスト中にQAレビュー対象となる領域をマークします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

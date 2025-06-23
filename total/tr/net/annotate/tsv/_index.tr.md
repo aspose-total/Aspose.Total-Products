@@ -78,7 +78,17 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+TSV (Tab-Separated Values) dosyaları, veri bilimi ve sistem dışa aktarmalarında yaygındır. Ek açıklamalar belirli kayıtları işaretlemeye, alan değerlerini açıklamaya veya dönüşüm ihtiyaçlarını vurgulamaya yardımcı olur.
+
+#### Yapılandırılmış Veri İşbirliği İçin TSV Dosyalarını Annotate Etme - Kullanım Alanları:
+
+- **Veri Temizleme Notları**: Manuel düzeltme veya hariç tutma gerektiren satırları vurgulayın.
+- **Model Eğitim Veri Setleri**: Aşağı akış ML mantığı için özel durumları işaretleyin.
+- **ETL İş Akışı Yorumları**: Eşleme veya şema değişiklikleri gerektiren alanları açıklayın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT là một định dạng xử lý văn bản mã nguồn mở được sử dụng trong LibreOffice và các công cụ tương tự.
+
+**Các trường hợp sử dụng phổ biến bao gồm:**
+
+- Chỉ định tài liệu công cộng, riêng tư hoặc chỉ dành nội bộ
+- Hiển thị sở hữu chung hoặc chu kỳ xem xét cộng tác
+- Nhúng tên tổ chức hoặc thông tin bản quyền mở
+- Xác định tài liệu để phát hành cho ngành công cộng
+- Hỗ trợ kiểm soát phiên bản trong tài liệu đa tác giả
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

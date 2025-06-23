@@ -81,7 +81,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 비트맵 이미지 처리를 위한 BMP 파일 병합
+
+BMP (비트맵)은 고품질의 상세 이미지에 일반적으로 사용되는 압축되지 않은 이미지 형식입니다. 픽셀 기반 그래픽, 예술 또는 통합되어야 하는 스캔 이미지와 함께 작업할 때 `.bmp` 파일을 병합하는 것이 필요합니다.
+
+#### 사용 사례:
+
+- **고품질 이미지 복원**  
+  고해상도 이미지의 다른 부분을 나타내는 `.bmp` 이미지를 단일 복합 이미지로 병합합니다.
+
+- **스캔 문서 처리**  
+  서로 다른 섹션의 스캔된 문서 또는 예술 작품을 포함하는 여러 `.bmp` 파일을 하나로 결합합니다.
+
+- **그래픽 디자인 워크플로우**  
+  고품질, 압축되지 않은 이미지가 필요한 그래픽 디자인 프로세스 중에 `.bmp` 이미지를 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

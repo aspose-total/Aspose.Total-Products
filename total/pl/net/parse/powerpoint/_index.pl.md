@@ -87,7 +87,26 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Formaty programu Microsoft PowerPoint (potm, potx, ppsm, ppsx, pptm, pptx, odp) Przypadki użycia analizy
+
+- 🖼️ **Wyodrębnianie zawartości slajdów**  
+  Wyodrębnij tekst, obrazy i szczegóły układu ze slajdów do tworzenia podsumowań, wyszukiwania lub pokazów slajdów w formacie HTML.
+
+- 🧩 **Automatyzacja szablonów**  
+  Generowanie prezentacji z szablonów `.potx` lub `.potm` poprzez wstawianie dynamicznej zawartości.
+
+- 🎯 **Obsługa prezentacji z makrami**  
+  Bezpieczna analiza plików `.pptm`, `.potm` i `.ppsm` zawierających makra lub automatyzację.
+
+- 📊 **Konwersja prezentacji na stronę internetową**  
+  Konwertowanie plików `.pptx`, `.odp` lub `.ppsx` na slajdy internetowe lub interaktywne formaty.
+
+- 📁 **Indeksowanie slajdów**  
+  Indeksowanie i podsumowywanie slajdów do systemów zarządzania dokumentami lub archiwów spotkań.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

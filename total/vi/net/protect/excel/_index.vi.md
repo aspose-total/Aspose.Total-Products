@@ -78,7 +78,18 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — Các trường hợp sử dụng cho Bảo vệ Workbook
+
+- Bảo vệ các công thức, tính toán và mô hình tài chính khỏi sự thay đổi ngẫu nhiên hoặc cố ý.
+- Khóa các ô hoặc bảng tính cụ thể trong khi cho phép người dùng nhập dữ liệu vào các khu vực được chỉ định.
+- Bảo vệ dữ liệu kinh doanh nhạy cảm như ngân sách, dự báo và thông tin khách hàng.
+- Kiểm soát truy cập bằng cách bảo vệ mật khẩu và mã hóa để tuân thủ chính sách bảo vệ dữ liệu.
+- Ngăn chặn sự can thiệp vào bảng điều khiển và chỉ số hiệu suất chia sẻ trên các nhóm.
+- Bảo vệ các công cụ tự động được điều khiển bằng macro và bảng tính linh hoạt được sử dụng trong quy trình làm việc vận hành.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

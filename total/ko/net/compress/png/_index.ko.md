@@ -74,7 +74,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 고품질 투명도와 가벼운 그래픽을 위한 PNG 파일 압축
+
+PNG (포터블 네트워크 그래픽)은 투명도와 손실 없는 품질을 지원하지만 파일 크기가 커질 수 있습니다. 성능 중심 사용 사례에 대해 압축이 중요합니다.
+
+#### 사용 사례:
+
+- **투명한 웹 아이콘 및 로고**  
+  PNG를 압축하여 웹 로드 시간을 줄이면서 선명한 외관을 유지합니다.
+
+- **앱 인터페이스 자산**  
+  버튼, 아이콘 및 UI 구성 요소에 압축된 PNG를 사용하여 앱 패키지 크기를 줄입니다.
+
+- **그래픽 디자인 포트폴리오**  
+  시각적 품질을 희생하지 않고 빠른 미리보기를 위해 디지털 포트폴리오에서 PNG를 최적화합니다.
+
+- **전자 상거래 섬네일**  
+  제품 페이지에서 세부 정보를 유지하면서 로딩 속도를 높이기 위해 가벼운 PNG를 사용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

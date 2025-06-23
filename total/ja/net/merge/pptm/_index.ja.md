@@ -78,7 +78,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### マクロが有効化されたPowerPointプレゼンテーションワークフローのためのPPTMファイルのマージ
+
+PPTMファイルは、マクロを含むPowerPointプレゼンテーションです。`.pptm`ファイルをマージすることで、プレゼンテーションで使用される自動化および高度な機能を統合できます。
+
+#### ユースケース:
+
+- **自動化されたプレゼンテーション生成**  
+  マクロを使用してレポート、チャート、またはスライドを動的に生成する`.pptm`ファイルを結合して、単一の自動化されたプレゼンテーションを作成します。
+
+- **マクロ駆動型ワークフロー統合**  
+  マクロに依存する異なるチームの`.pptm`ファイルをマージし、プレゼンテーションのフォーマットやデータ操作にマクロを使用します。
+
+- **自動化されたカスタムプレゼンテーションのマージ**  
+  プレゼンテーション中に自動的にレポートを処理および生成する埋め込まれたマクロを備えた`.pptm`ファイルをマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

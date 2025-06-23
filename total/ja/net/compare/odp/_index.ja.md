@@ -71,7 +71,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### ユースケース：OpenDocument Presentation（ODP）リビジョンのファイル比較
+
+ODP（OpenDocument Presentation）は、LibreOffice Impressなどのオープンソーススイートで使用されるプレゼンテーションファイル形式です。ODPファイルを比較することは、共同作業やオープンスタンダード環境でのコンテンツ変更を特定するために重要です。
+
+- **オープンソースプレゼンテーションのレビュー**  
+  コミュニティによる編集を一貫性と正確さのために比較します。
+
+- **レイアウトとテーマの更新検出**  
+  スライドマスター設定、カラーパレット、フォントの視覚的な違いを検出します。
+
+- **コンテンツのリビジョントラッキング**  
+  異なるバージョン間で追加または変更されたテキスト、図形、画像、チャートを特定します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

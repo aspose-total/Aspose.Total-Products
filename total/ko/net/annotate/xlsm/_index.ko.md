@@ -78,7 +78,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook)은 매크로를 통해 자동화를 지원합니다. 이러한 파일에 주석을 달면 팀이 매크로 결과를 식별하고 자동화된 변경 사항을 문서화하며 논리 결과를 확인할 수 있습니다.
+
+#### 매크로 주도 워크플로를 위한 XLSM 파일 주석 처리 - 사용 사례:
+
+- **매크로 결과 분석**: 자동 생성된 데이터에 대한 유효성 검사에 대한 의견을 달기.
+- **자동화 피드백**: 성공적인 또는 실패한 실행을 나타내기 위해 출력에 주석 달기.
+- **코드 검토**: 매크로 논리 또는 데이터에 미치는 영향과 관련된 노트 추가하기.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

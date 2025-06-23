@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### XLTM 파일 병합 매크로 활성화된 템플릿
+
+XLTM 파일은 Excel에서 반복 작업을 자동화하는 데 사용되는 매크로 활성화된 템플릿입니다. 이를 병합하는 것은 자동화 논리를 통합하거나 워크플로우를 이전할 때 유용합니다.
+
+#### 사용 사례:
+
+- **워크플로 자동화 라이브러리**  
+  서로 다른 기능을 위한 다양한 매크로를 포함하는 `.xltm` 템플릿을 하나의 중앙 템플릿으로 병합합니다.
+
+- **부서별 템플릿 통합**  
+  서로 다른 부서에서 매크로가 활성화된 템플릿을 결합하여 프로세스 자동화를 표준화합니다.
+
+- **매크로 기반 프로세스 감사**  
+  `.xltm` 템플릿을 병합하여 포함된 매크로를 준수 및 최적화를 검토합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

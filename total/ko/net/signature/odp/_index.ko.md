@@ -73,7 +73,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명을 사용하여 ODP 파일에 서명하는 사용 사례
+
+ODP 파일은 LibreOffice Impress 또는 OpenOffice 사용자들에 의해 선호됩니다. ODP에 전자 서명을 하는 것은 오픈 소스 프레젠테이션 환경에서 부인 방지를 보장합니다.
+
+## 일반적인 사용 사례
+- 학술 강의 슬라이드 및 자격증.
+- 기부자 확인을 위한 NGO 프로젝트 프레젠테이션.
+- 정부 기관에서 ODP를 사용한 정책 제안.
+- 오픈 소스 플랫폼 간에 공유되는 기술 웨비나.
+- 전자적 검증이 필요한 지역 사회 보고서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

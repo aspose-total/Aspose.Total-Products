@@ -75,7 +75,27 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Nén tập tin XLTM để tối ưu hóa Mẫu Excel có Macro
+
+Các tập tin XLTM (Mẫu Excel có Macro) bao gồm các macro cho việc tự động hóa có thể trở nên lớn với logic hoặc dữ liệu kiểm thử được nhúng. Việc nén giúp cho việc chia sẻ nhanh chóng hơn và sao lưu an toàn.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Chia Sẻ Mẫu Tự Động Hóa**  
+  Phân phối các mẫu macro cho các nhóm hoặc khách hàng bằng cách sử dụng phiên bản XLTM được nén.
+
+- **Quy Trình Kiểm Thử Tối Ưu**  
+  Nén các phiên bản khác nhau của các mẫu XLTM để kiểm thử và triển khai nhanh hơn.
+
+- **Thư Viện Mẫu Tập Trung**  
+  Duy trì một thư viện gọn nhẹ của các mẫu macro bằng cách sử dụng định dạng nén.
+
+- **Sao Lưu DevOps Hiệu Quả**  
+  Lưu trữ các phiên bản nén của các mẫu tự động hóa để quay trở lại và quản lý phiên bản.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

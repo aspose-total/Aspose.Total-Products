@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### บีบอัดไฟล์ XLS สำหรับการปรับปรุงสมรรถนะของสมุดงาน Excel เวอร์ชันเก่า
+
+ไฟล์ XLS (Excel 97–2003 Workbook) อาจกลายเป็นขนาดใหญ่เนื่องจากการฝังแผนภูมิ สูตร หรือชุดข้อมูลขนาดใหญ่ การบีบอัดไฟล์ XLS ช่วยให้การจัดการเรื่องไฟล์เรียบขึ้นและเข้ากันได้กับระบบเก่าได้ดีขึ้น
+
+#### การใช้งาน:
+
+- **เก็บถาวรบันทึกการเงิน**  
+  ลดพื้นที่จัดเก็บของไฟล์ XLS ประวัติที่มีข้อมูลการเงินหรือรายงาน
+
+- **การผสานระบบเวอร์ชันเก่าได้เร็วขึ้น**  
+  เปิดใช้งานการประมวลผลไฟล์ XLS ขนาดใหญ่ได้เร็วขึ้นในเวอร์ชันเก่าของ Excel
+
+- **การแบ่งปันเอกสารที่ปรับปรุงสมรรถนะ**  
+  บีบอัดไฟล์ XLS เพื่อตรงตามขีดจำกัดขนาดไฟล์สำหรับอีเมลหรือการอัปโหลดไปยังไดรฟ์ที่แชร์
+
+- **ความสามารถในการเคลื่อนย้ายข้อมูลสำหรับการใช้งานแบบออฟไลน์**  
+  ถ่ายโอนไฟล์ XLS ที่กระชับบน USB หรืออุปกรณ์พกพาสำหรับงานด้านภูมิศาสตร์หรือการตรวจสอบ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

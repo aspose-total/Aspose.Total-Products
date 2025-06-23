@@ -71,7 +71,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Assinatura de Arquivos BMP com Assinaturas Digitais ou Eletrônicas
+
+Os arquivos BMP são usados em digitalização e arquivamento. Assinar digitalmente um BMP garante a autenticidade de documentos e imagens digitalizadas.
+
+## Casos de Uso Comuns
+- Formulários legais digitalizados ou acordos escritos.
+- Arquivo de assinaturas notarizadas.
+- Diagramas técnicos que requerem aprovação de engenheiro.
+- Registros de propriedade digitalizados.
+- Plantas com autenticação de assinatura.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

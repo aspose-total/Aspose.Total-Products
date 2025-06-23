@@ -123,7 +123,28 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM (Word Macro-Enabled Template) dosyaları, üretkenliği artırmak için otomasyon betikleri içerir. DOTM dosyalarını açıklamak, makro davranışlarının belgelenmesini sağlar ve hata izleme ile geri bildirim toplamayı kolaylaştırır.
+
+#### Makro Etkin Şablon İnceleme Kullanım Durumları için DOTM Dosyası Açıklaması:
+
+- **Makro Talimatı ve Mantık Belgesi**  
+  Fonksiyonelliği ve beklenen sonuçları açıklamak için makro tetiklenen alanları açıklayın.
+
+- **Otomasyon İnceleme ve Test**  
+  Test sırasında başarılı veya başarısız makro yürütümlerini belirlemek için notlar ekleyin.
+
+- **Şablon Davranış Açıklaması**  
+  Kullanıcıların şablon akışını anlamalarına yardımcı olmak için otomatik düzen veya biçimlendirme bölümlerine yorum ekleyin.
+
+- **Kullanıcı Eğitim Materyali Gömme**  
+  Kullanıcı onboarding'i kolaylaştırmak için öğrenme ipuçlarını doğrudan şablonlara ekleyin.
+
+- **Hata İzolasyonu**  
+  Makro yürütümünden kaynaklanan hataları izole etmek ve açıklamak için açıklamaları kullanın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

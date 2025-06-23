@@ -80,7 +80,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kết hợp các tệp DOCM để tạo Tài liệu Word hỗ trợ Macro
+
+Các tệp DOCM là các tài liệu Word hỗ trợ Macro. Việc kết hợp các tệp `.docm` hữu ích khi kết hợp các tài liệu chứa các macro nhúng để tự động hóa hoặc xử lý.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Tổng hợp Báo cáo Tự động**  
+  Kết hợp các báo cáo `.docm` sử dụng macro để tự động tạo dữ liệu định dạng, biểu đồ hoặc bảng vào một tài liệu trung tâm.
+
+- **Tạo Tài liệu Hỗ trợ Macro**  
+  Kết hợp các tệp `.docm` hỗ trợ macro để duy trì và thống nhất các tính năng tự động hóa trên các báo cáo hoặc tài liệu khác nhau.
+
+- **Tích hợp Luồng làm việc Tài liệu**  
+  Kết hợp các tài liệu có chức năng macro tương tự để cải thiện luồng làm việc tạo tài liệu trên các nhóm.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

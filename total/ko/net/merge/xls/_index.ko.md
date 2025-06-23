@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 레거시 엑셀 데이터 통합을 위한 XLS 파일 병합
+
+XLS는 이전 버전의 Microsoft Excel에서 사용되는 이진 형식입니다. 여러 `.xls` 파일을 병합하면 분석이나 아카이빙을 위해 역사적 데이터를 현대 시스템으로 통합할 수 있습니다.
+
+#### 사용 사례:
+
+- **레거시 재무 보고서**  
+  역사적 추세 분석이나 감사 준비를 위해 이전 엑셀 재무 보고서를 병합합니다.
+
+- **역사적 인사 기록**  
+  `.xls` 형식으로 유지된 이전 직원 기록이나 급여 파일을 단일 통합 파일로 병합합니다.
+
+- **데이터 아카이브 업그레이드**  
+  향상된 호환성과 처리를 위해 `.xlsx` 또는 다른 현대 형식으로 변환하기 전에 `.xls` 파일을 통합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

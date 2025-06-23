@@ -73,7 +73,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Porównywanie plików DOT w celu śledzenia zmian szablonów:
+
+Pliki DOT (szablony Word 97–2003) przechowują formatowanie do ponownego użycia oraz treści szablonowe. Porównywanie szablonów DOT pomaga wykryć nieautoryzowane lub niezamierzone modyfikacje przed ponownym użyciem.
+
+- **Weryfikacja spójności marki**  
+  Upewnij się, że logo, czcionki i style pozostają spójne w kolejnych wersjach szablonu.
+
+- **Monitorowanie ewolucji szablonu**  
+  Śledzenie zmian strukturalnych lub instrukcyjnych w wewnętrznych szablonach dokumentów.
+
+- **Audyty szablonów dziedzictwa**  
+  Porównaj pliki DOT z aktualizacjami dokumentów z wcześniejszych systemów lub procesów roboczych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

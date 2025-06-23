@@ -73,7 +73,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng cho việc xoay BMP
+
+- Xoay bản vẽ kỹ thuật hoặc bản vẽ kiến trúc quét được lưu dưới định dạng BMP.
+- Điều chỉnh hướng của các hình ảnh được tạo bởi Windows cũ để xem chính xác.
+- Chuẩn bị hình ảnh BMP để chèn vào tài liệu hoặc báo cáo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

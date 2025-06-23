@@ -87,7 +87,26 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel Dosyaları (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Ayrıştırma Kullanım Alanları
+
+- 📈 **Veri Çıkarma**
+  Hücre değerlerini, formülleri ve aralıkları elektronik tablolardan analizler veya gösterge panoları için ayrıştırın.
+
+- 🧮 **Şablon İşleme**
+  Raporları, mali tabloları veya tahminleri doldurmak için `.xlt`, `.xltx`, `.xltm` şablonlarını kullanın.
+
+- 🤖 **Makro Farkındalıklı Ayrıştırma**
+  Makro farkındalığıyla `.xlsm` ve `.xltm` biçimlerini işleyerek otomasyon mantığını önlemek veya korumak.
+
+- 🔍 **Yapılandırılmış Veri İçe Aktarma**
+  Veritabanlarına, uygulamalara veya API'lere `.csv`, `.tsv` veya `.xlsx` içeriğini içe aktarın.
+
+- 🗃️ **Veri Taşıma**
+  Entegrasyon için `.xls`, `.xlsb` ve `.xlsx` sayfalarını JSON, XML veya diğer yapılandırılmış biçimlere dönüştürün.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

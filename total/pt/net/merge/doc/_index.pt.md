@@ -80,7 +80,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mesclar Arquivos DOC para Gerenciamento de Documentos do Word Legado
+
+Arquivos DOC são o formato binário mais antigo usado pelo Microsoft Word. Mesclar arquivos `.doc` é tipicamente necessário para consolidar documentos legados, arquivar ou fazer a transição para formatos mais recentes.
+
+#### Casos de Uso:
+
+- **Mesclar Relatórios Históricos**  
+  Combine relatórios antigos em formato `.doc` para fins de arquivamento ou para criar um documento unificado para impressão ou compartilhamento.
+
+- **Atualizações de Documentos Legados**  
+  Mesclar vários arquivos `.doc` contendo informações de projetos ou documentos comerciais em um documento mestre para atualização.
+
+- **Conversão de Documentos para Formatos Modernos**  
+  Mesclar arquivos `.doc` antes de convertê-los para `.docx` para melhor compatibilidade com sistemas modernos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

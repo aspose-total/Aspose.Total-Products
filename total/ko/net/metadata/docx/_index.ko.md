@@ -81,7 +81,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Word Open XML 문서 (`.docx`)의 사용 사례
+
+- 제목, 작성자, 키워드와 같은 표준화된 메타데이터 저장.
+- 콘텐츠 시스템에서 지능적인 검색 및 분류를 돕기.
+- AI 도구에 구조화된 메타데이터 제공하여 스마트 요약.
+- 메타데이터 태그를 통해 문서 자동화 및 승인 흐름 트리거.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

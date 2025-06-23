@@ -73,7 +73,14 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Tệp .odt (OpenDocument Text) — Các Trường Hợp Sử Dụng cho Việc Chia Tài Liệu
+
+- Chia tệp văn bản OpenDocument để tương thích và dễ dàng chỉnh sửa trong các bộ ứng dụng mã nguồn mở.
+- Hỗ trợ cộng tác bằng cách phân phối các phần cụ thể cho nhiều người đóng góp.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

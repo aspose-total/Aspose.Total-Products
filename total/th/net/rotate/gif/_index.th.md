@@ -73,7 +73,15 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## กรณีการใช้งานสำหรับการหมุน GIF
+
+- แก้ไขการวางแนวของคำแนะนำหรือบทแนะนำแนวตั้งที่เคลื่อนไหว
+- หมุนโฆษณาแบนเนอร์เพื่อให้พอดีกับข้อจำกัดของเลย์เอาท์โดยไม่ต้องส่งออกใหม่
+- ปรับทิศทางของ GIF ที่ใช้เป็นมีมเพื่อการแสดงผลบนโทรศัพท์ที่เข้ากันได้กับมือถือ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

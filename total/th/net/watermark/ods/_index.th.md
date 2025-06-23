@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS เป็นรูปแบบสเปรดชีทโอเพนซอร์สที่ใช้โดย LibreOffice และ OpenOffice
+
+**กรณีการใช้ที่พบบ่อย ได้แก่:**
+
+- การระบุข้อมูลเป็นสาธารณะ รอตรวจสอบ หรือภายใน
+- การใส่ลายน้ำสำหรับการแสดงที่มาของข้อมูล
+- การติดป้ายชื่อสำหรับการทำงานร่วมกันของผู้ใช้หลายคน
+- การรวมข้อมูลเกี่ยวกับการอนุญาตหรือผู้เขียน
+- การปักหมุดเนื้อหาสำหรับการเผยแพร่ข้อมูลเปิดใช้งาน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

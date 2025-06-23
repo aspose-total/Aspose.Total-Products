@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki DOTX (Word Open XML Template) zapewniają czyste, pozbawione makr szablony dla nowoczesnych wersji Worda. Opisywanie plików DOTX wspiera dokumentowanie struktury, udostępnianie opinii zwrotnej i wspólne aktualizacje bez wpływu na integralność projektu.
+
+#### Opisywanie plików DOTX w celu Współpracy nad Czystymi Szablonami:
+
+- **Wspólny Projektowanie Szablonów**  
+  Wstawiaj komentarze sugerujące zmiany w układzie, stylach lub zastępczych miejscach.
+
+- **Instrukcje na Poziomie Pola**  
+  Opisuj dynamiczne sekcje instrukcjami dla użytkowników końcowych lub twórców treści.
+
+- **Wersjonowanie i Aktualizacje**  
+  Używaj adnotacji do dokumentowania ostatnich aktualizacji, przestarzałych pól lub uwag dotyczących stylizacji.
+
+- **Audytowanie Szablonu**  
+  Komentuj, aby potwierdzić zgodność z formatowaniem, dostępnością i standardami marki.
+
+- **Integracja Przeglądu Interesariuszy**  
+  Ułatwiaj przeglądy interesariuszy w czasie rzeczywistym z kontekstowymi opiniami zwrotnymi w adnotacjach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

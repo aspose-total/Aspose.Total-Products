@@ -76,7 +76,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSは初期のExcelバージョンで使用されていたレガシーのバイナリスプレッドシート形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- スプレッドシートを「古いもの」「アーカイブ用」「下書き」としてラベル付けする
+- 所有者の識別情報や作成日を追加する
+- 不正な変更に対して警告する
+- データを内部利用のみとしてマークする
+- 監査提出用にスプレッドシートを識別する
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

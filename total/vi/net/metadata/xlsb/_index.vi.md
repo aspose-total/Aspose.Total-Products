@@ -84,7 +84,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ⚙️ Các trường hợp sử dụng cho Excel Binary Workbook (`.xlsb`)
+
+- Lưu trữ các bộ dữ liệu lớn một cách hiệu quả trong khi vẫn giữ lại siêu dữ liệu cấu trúc.
+- Cho phép tự động hóa nền cho siêu dữ liệu cho các hệ thống chứa dữ liệu nặng.
+- Hỗ trợ siêu dữ liệu cho việc kiểm soát vòng đời của workbook.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

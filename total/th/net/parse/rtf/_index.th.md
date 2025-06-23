@@ -93,7 +93,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการแยกวิเคราะห์ไฟล์ .rtf
+
+- 📄 สกัดข้อความที่จัดรูปแบบและรูปภาพพื้นฐานจากไฟล์ Rich Text Format
+- 🧾 แปลงเอกสาร `.rtf` เป็นข้อความธรรมดาหรือ HTML สำหรับการใช้งานบนเว็บ
+- 📚 ย้ายเอกสาร `.rtf` เก่าไปยังระบบเนื้อหาที่ทันสมัย
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

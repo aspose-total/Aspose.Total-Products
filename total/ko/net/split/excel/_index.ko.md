@@ -75,7 +75,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — 스프레드시트 분할의 사용 사례
+
+- 대형 워크북을 작은 시트로 분할하여 데이터 관리를 간소화하고 성능을 향상시킵니다.
+- 특정 워크시트를 다른 팀원에게 할당하여 동시 편집을 가능하게 합니다.
+- 데이터 처리를 자동화하여 각각의 분석이나 보고를 위한 섹션을 분리합니다.
+- 전체 데이터 집합을 노출하지 않고 워크북의 관련 부분을 공유합니다.
+- 마스터 파일을 사용자 정의된 버전으로 분할하여 개인화된 보고서를 작성합니다.
+- 대형 금융 모델이나 재고를 관리하기 위해 관리 가능한 청크로 분할합니다.
+- 민감한 데이터를 분리된 보호된 시트에 격리하여 협업을 개선합니다.
+- 현재 파일 크기와 액세스 속도를 최적화하기 위해 역사적 데이터를 별도로 보관합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

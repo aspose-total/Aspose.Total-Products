@@ -73,7 +73,21 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng cho việc Xoay Ảnh
+
+- Chỉnh sửa hướng của các hình ảnh chụp ở chế độ ngang hoặc dọc.
+- Điều chỉnh tài liệu hoặc ảnh quét xuất hiện ngang hoặc ngược.
+- Căn chỉnh hình ảnh một cách chính xác để hiển thị đồng nhất trong các bộ sưu tập, bài thuyết trình hoặc báo cáo.
+- Xoay tài sản thiết kế như biểu tượng, thành phần giao diện người dùng hoặc sơ đồ để phù hợp với nhu cầu bố trí.
+- Chuẩn bị hình ảnh cho in ấn hoặc xuất bản với hướng đúng.
+- Chuẩn hóa hướng ảnh khi nhập từ các nguồn hoặc thiết bị khác nhau.
+- Tăng cường khả năng đọc của nội dung trong eBook, tài liệu hoặc trang web.
+- Xoay hình ảnh sản phẩm hoặc danh mục để phù hợp với tỷ lệ khung hình yêu cầu.
+- Cải thiện trải nghiệm người dùng bằng cách tự động sửa hướng ảnh dựa trên siêu dữ liệu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,13 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Định dạng Bài thuyết trình Microsoft PowerPoint .pptx — Các Trường hợp Sử dụng cho Việc Chia Nhỏ  
+- Chia nhỏ các bài thuyết trình PowerPoint hiện đại thành các bộ slide nhỏ hơn để sử dụng mô-đun.  
+- Cho phép cộng tác bằng cách gán các nhóm slide cho các biên tập viên khác nhau.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

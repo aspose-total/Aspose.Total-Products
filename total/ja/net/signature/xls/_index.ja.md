@@ -76,7 +76,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名を使用したXLSファイルの署名のユースケース
+
+XLSは、後方互換性のためにまだ使用されている古いExcel形式です。デジタル署名を追加することで、財務データとバージョンの整合性を確保できます。
+
+## 一般的な使用例
+- 旧式の財務レポートや給与スプレッドシート。
+- 早期のExcel形式で共有される投資計画。
+- XLS形式での調達データやベンダーの提出物。
+- 古いスプレッドシートテンプレートを使用した政府の監査レポート。
+- 署名の検証が必要な従業員の給与明細。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

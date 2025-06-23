@@ -84,7 +84,26 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF Ayrıştırma Kullanım Alanları
+
+- 🔍 **Metin ve Tablo Çıkarma**  
+  Raporlama veya arama dizinine metin paragrafları, tablolar veya form değerleri çıkarın.
+
+- 🧾 **Fatura ve Form İşleme**  
+  Yapılandırılmış formları ve faturaları veritabanlarını veya muhasebe sistemlerini otomatik olarak doldurmak için ayrıştırın.
+
+- 🎨 **Düzen Analizi**  
+  Görsel yapıları (sütunlar, bölümler) algılayarak HTML veya Markdown'e doğru dönüşüm için.
+
+- 🧠 **OCR ve Aranabilirlik**  
+  Ayrıştırmadan önce OCR kullanarak taranmış PDF'leri aranabilir metne dönüştürün.
+
+- 🗂️ **Dijital Arşivleme ve Uyumluluk**  
+  İlgili içerik veya metaveriyi çıkararak ve etiketleyerek PDF belgelerini arşivleyin ve denetleyin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

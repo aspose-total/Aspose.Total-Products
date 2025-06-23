@@ -106,7 +106,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPSM（PowerPoint Macro-Enabled Show）ファイルは、マクロが有効になっているスライドショーモードで直接開きます。PPSMファイルに注釈を付けることで、自動化されたコンテンツ、相互作用フロー、および観客参加戦略の改善に役立ちます。
+
+#### マクロが有効なスライドショーのフィードバックに使用するPPSMファイルの注釈：
+
+- **マクロ相互作用のレビュー**  
+  デバッグや改善が必要な自動化ポイント、トランジション、トリガーにコメントを付けます。
+
+- **スライドショー体験の評価**  
+  各自動スライドが観客の参加や明瞭さにどのように影響するかを注釈します。
+
+- **プレゼンテーションフィードバック**  
+  スライドの改善のためのスピーカーやレビュアーのコメントを提供します。
+
+- **インタラクティブショーのUI/UXレビュー**  
+  マクロで構築されたインタラクティブ要素について、パフォーマンスの検証のために注釈を付けます。
+
+- **トレーニングコンテンツの改善**  
+  自己実行トレーニング資料のためのコンテンツ編集やシーケンスの提案を行います。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

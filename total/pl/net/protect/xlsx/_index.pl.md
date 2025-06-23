@@ -78,7 +78,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Skoroszyt programu Microsoft Excel (nowoczesny) — Przypadki użycia ochrony
+
+- Powszechne w raportowaniu biznesowym, prognozach i pulpitach KPI — ochrona zapewnia bezpieczeństwo logiki formuł.
+- Zapobiega przypadkowym zmianom w krytycznych zbiorach danych lub wykresach.
+- Stosowana w środowiskach współpracy do ograniczenia dostępu do edycji, umożliwiając jednocześnie wprowadzanie danych w określonych komórkach.
+- Obsługuje szyfrowanie skoroszytu do obsługi poufnych lub regulowanych informacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików DOTX dla nowoczesnego zarządzania szablonami
+
+DOTX to format oparty na XML używany do szablonów Worda. Scalanie plików `.dotx` pomaga ujednolicić szablony w zespołach lub działach, zachowując jednocześnie nowoczesną kompatybilność.
+
+#### Przypadki użycia:
+
+- **Zjednoczone Zarządzanie Szablonami**  
+  Scal szablony `.dotx` z różnych zespołów, aby ustalić spójne branding, formatowanie i strukturę dokumentów.
+
+- **Integracja Szablonów Międzydziałowych**  
+  Połącz szablony `.dotx` z różnych działów w jedną bibliotekę szablonów dla łatwości użytkowania i standaryzację.
+
+- **Ułatwianie Aktualizacji Szablonów**  
+  Scal zaktualizowane szablony `.dotx` do jednego pliku centralnego, aby ułatwić dostęp do najnowszych wersji szablonów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM (Macro-Enabled Template) dosyaları, makrolarla yeniden kullanılabilirliği destekler. Açıklamalar, otomasyon noktaları, beklenen girdiler veya makro sonuçları hakkında temel içgörüler sağlar.
+
+#### Makro Şablon İş Akışları için XLTM Dosyalarını Annotate Edin - Kullanım Alanları:
+
+- **Makro Belgelendirme**: Makro tetikleyicilerini ve amaçlanan etkileri açıklayın.
+- **Kullanıcı Kılavuzu**: Kullanıcıların otomasyonu korumak için değiştirmemesi gereken bölümleri işaretleyin.
+- **Test Notları**: Şablon testi sırasında QA incelemesi altındaki alanları işaretleyin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

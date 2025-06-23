@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) hỗ trợ tự động hóa thông qua macro. Chú thích các tệp này giúp các nhóm đánh dấu kết quả macro, tài liệu hóa các thay đổi tự động và xác minh kết quả logic.
+
+#### Chú thích các Tệp XLSM cho Quy trình làm việc dựa trên Macro - Các Trường hợp Sử dụng:
+
+- **Phân tích Kết quả Macro**: Bình luận về dữ liệu được tạo tự động để xác minh.
+- **Phản hồi Tự động hóa**: Chú thích các đầu ra để chỉ ra thực thi thành công hoặc thất bại.
+- **Đánh giá Mã**: Thêm ghi chú liên quan đến logic macro hoặc tác động của nó đối với dữ liệu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

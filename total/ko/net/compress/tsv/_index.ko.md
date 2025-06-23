@@ -75,7 +75,28 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 효율적인 저장 및 전송을 위한 TSV 파일 압축
+
+TSV (탭으로 구분된 값) 파일은 주로 탭 문자가 쉼표 대신 구분하는 데 선호되는 구조화된 데이터 형식 중 하나입니다. CSV와 마찬가지로 대용량 TSV 파일은 저장 공간을 많이 차지하며 전송이나 처리 속도가 느릴 수 있습니다. TSV 파일을 압축하면 성능, 확장성 및 상호 운용성 면에서 중요한 이점을 제공합니다.
+
+- **연구 데이터 패키징**  
+  실험실 실험이나 설문 조사에서 생성된 TSV 파일을 압축하여 공유하거나 피어 리뷰를 위해 제출하기 쉽게 만듭니다.
+
+- **데이터 로깅 및 감사 추적**  
+  TSV 형식으로 저장된 시스템 로그나 데이터 모니터링 출력물을 압축된 형태로 보관하여 공간을 절약하면서도 정확도를 유지합니다.
+
+- **빅 데이터 통합**  
+  Hadoop이나 Spark와 같은 데이터 레이크나 분산 처리 시스템으로 흡수되는 TSV 파일에 대해 압축을 활용합니다.
+
+- **자동 보고 파이프라인**  
+  TSV 출력물을 생성하는 자동화된 스크립트에 압축을 통합하여 이메일이나 클라우드 기반 배포에서 대기 시간을 줄입니다.
+
+- **협업 데이터 공유**  
+  압축된 아카이브를 통해 분석가나 팀 간에 대용량 TSV 파일을 공유하여 휴대성과 업로드/다운로드 효율성을 향상시킵니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

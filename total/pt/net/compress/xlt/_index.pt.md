@@ -75,7 +75,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir arquivos XLT para otimização de modelos de Excel legados
+
+Os arquivos XLT (Modelo do Excel 97-2003) podem se tornar grandes devido a elementos incorporados ou dados de exemplo. Comprimir arquivos XLT torna as bibliotecas de modelos mais enxutas e mais fáceis de distribuir.
+
+#### Casos de Uso:
+
+- **Portabilidade de Modelos Legados**  
+  Envie modelos padrão comprimidos para distribuição mais rápida em sistemas empresariais mais antigos.
+
+- **Eficiência do Repositório de Modelos**  
+  Mantenha os arquivos de modelos leves para acesso centralizado e recuperação rápida.
+
+- **Tempo de Carregamento de Modelo Reduzido**  
+  Otimize sistemas mais antigos comprimindo arquivos XLT para abertura e uso mais rápidos.
+
+- **Backup e Otimização de Armazenamento**  
+  Minimize o armazenamento a longo prazo de modelos legados por meio da compressão.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+O formato DOC é o tipo de arquivo binário legado do Microsoft Word, ainda usado em sistemas mais antigos.
+
+**Casos de uso comuns incluem:**
+
+- Rotular documentos como Arquivados, Legado ou Desatualizados
+- Incorporar o nome do autor ou departamento
+- Aplicar avisos legais ou mensagens de conformidade
+- Impedir edição ou reutilização marcando como Cópia Final
+- Apoiar a manutenção de registros e trilhas de auditoria
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

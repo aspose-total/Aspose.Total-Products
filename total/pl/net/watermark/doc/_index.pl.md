@@ -83,7 +83,19 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Format DOC to dziedziczny typ pliku binarnego programu Microsoft Word, wciąż używany w starszych systemach.
+
+**Powszechne przypadki użycia obejmują:**
+
+- Oznaczanie dokumentów jako Zarchiwizowane, Dziedziczne lub Przestarzałe
+- Osadzanie nazwy autora lub działu
+- Dodawanie oświadczeń prawnych lub komunikatów zgodności
+- Zapobieganie edycji lub ponownemu użyciu poprzez oznaczenie jako Wersja Ostateczna
+- Wspieranie prowadzenia rejestrów i śladów audytowych
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

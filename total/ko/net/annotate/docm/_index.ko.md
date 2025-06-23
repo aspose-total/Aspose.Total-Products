@@ -123,7 +123,28 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM (Microsoft Word Macro-Enabled Document) 파일은 자동화를 위한 매크로 통합을 지원합니다. DOCM 파일에 주석을 추가하면 매크로로 이루어진 변경 사항을 추적하고 협업 리뷰를 용이하게 할 수 있습니다.
+
+#### 매크로 활성 문서 협업을 위한 DOCM 파일 주석 사용 사례:
+
+- **매크로 워크플로 문서화**  
+  각 매크로의 목적, 예상 출력 및 문서 자동화에서의 역할을 설명하기 위해 매크로 활성 문서에 주석을 추가합니다.
+
+- **매크로 기능에 대한 사용자 지침**  
+  문서에 주석을 추가하여 사용자가 매크로와 상호 작용하는 방법이나 자동화된 작업에 필요한 입력 방법을 안내합니다.
+
+- **디버깅 및 오류 추적**  
+  매크로가 실패하는 섹션이나 잘못된 데이터가 입력된 곳을 강조하기 위해 주석을 삽입하여 디버깅을 돕습니다.
+
+- **자동화 피드백**  
+  매크로의 효과를 평가하여 표 생성, 서식 지정 또는 콘텐츠 채우기와 같은 문서 작업을 자동화하는 데 매크로의 효과에 대한 피드백을 제공합니다.
+
+- **매크로 생성 콘텐츠 검토**  
+  매크로로 생성된 콘텐츠가 수동 검토나 수정이 필요한 부분에 주석을 추가합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLTM สำหรับเทมเพลตที่เปิดใช้งานแมโคร
+
+ไฟล์ XLTM เป็นเทมเพลตที่เปิดใช้งานแมโครที่ใช้สำหรับอัตโนมัติงานที่เกิดซ้ำซากใน Excel การผสานเหล่านี้มีประโยชน์เมื่อต้องการรวมตรรกและย้ายไปที่เวิร์กโฟลว์
+
+#### กรณีการใช้งาน:
+
+- **ไลบรารีอัตโนมัติของเวิร์กโฟลว์**  
+  ผสานเทมเพลต `.xltm` ที่มีแมโครต่าง ๆ สำหรับฟังก์ชันต่าง ๆ เข้าด้วยกันเป็นเทมเพลตที่มีความสมบูรณ์
+
+- **การรวมเทมเพลตที่เปิดใช้งานแมโครจากแผนกที่แตกต่าง**  
+  รวมเทมเพลตที่เปิดใช้งานแมโครจากแผนกต่าง ๆ เข้าด้วยกันเพื่อมาตรฐานกระบวนการอัตโนมัติ
+
+- **การตรวจสอบกระบวนการที่ใช้แมโคร**  
+  ผสานเทมเพลต `.xltm` เพื่อตรวจสอบแมโครที่ฝังอยู่เพื่อปฏิบัติตามข้อกำหนดและเพิ่มประสิทธิภาพ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

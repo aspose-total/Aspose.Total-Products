@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ JPEG เพื่อรวมข้อมูลภาพ
+
+JPEG (Joint Photographic Experts Group) เป็นหนึ่งในรูปแบบภาพยอดนิยมที่สุดเนื่องจากประสิทธิภาพในการบีบอัดและการใช้งานที่แพร่หลาย การผสานไฟล์ JPEG หลายรายการมักจำเป็นสำหรับการสร้างคอลเลคชันภาพถ่าย อัลบั้มภาพหรือเมื่อต้องรวมข้อมูลภาพที่คล้ายกัน
+
+#### การใช้งาน:
+
+- **การสร้างอัลบั้มภาพ**  
+  ผสานไฟล์ `.jpeg` หรือ `.jpg` หลายรายการเพื่อสร้างอัลบั้มภาพเพื่อพิมพ์หรือแบ่งปันในรูปแบบดิจิทัล
+
+- **คอลเลคชันภาพ**  
+  รวมภาพ `.jpeg` หลายรายการเข้าด้วยกันในรูปของคอลเลคชันเดียวสำหรับการตลาด เหตุการณ์ หรือการใช้ส่วนตัว
+
+- **การรวมข้อมูลภาพสินค้า**  
+  ผสานภาพสินค้าต่าง ๆ เข้าด้วยกันในไฟล์เดียวสำหรับแคตตาล็อกสินค้าหรือร้านค้าออนไลน์
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Edição no Microsoft Excel
+
+- Edite dados financeiros, como salários, orçamentos ou números de receita antes da distribuição.
+- Edite dados de clientes ou funcionários em planilhas de vendas, RH ou auditoria.
+- Edite entradas privadas em registros de dados operacionais ou administrativos.
+- Edite métricas confidenciais em planilhas de planejamento ou painéis de estratégia.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

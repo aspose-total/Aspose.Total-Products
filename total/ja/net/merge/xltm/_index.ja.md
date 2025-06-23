@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### マクロ有効なテンプレートのXLTMファイルをマージする
+
+XLTMファイルは、Excelで繰り返しタスクを自動化するために使用されるマクロ有効なテンプレートです。それらをマージすることは、自動化ロジックを統一したり、ワークフローを移行する際に役立ちます。
+
+#### ユースケース：
+
+- **ワークフロー自動化ライブラリ**  
+  異なる機能のために異なるマクロを含む`.xltm`テンプレートを1つの中央テンプレートにマージします。
+
+- **部門固有のテンプレート統合**  
+  異なる部門からのマクロ有効なテンプレートを統合して、プロセスの自動化を標準化します。
+
+- **マクロベースのプロセスの監査**  
+  組み込まれたマクロを確認してコンプライアンスと最適化を行うために`.xltm`テンプレートをマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

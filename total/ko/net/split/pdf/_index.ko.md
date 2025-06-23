@@ -72,7 +72,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — PDF 문서 분할을 위한 사용 사례
+
+- 대형 PDF 파일에서 관련 페이지를 추출하여 공유 및 검토를 쉽게 합니다.
+- 다중 섹션 보고서 또는 계약을 개별 문서로 분리합니다.
+- 작은 PDF 부분을 배포하여 협업 편집 또는 주석을 가능하게 합니다.
+- 민감한 정보를 분할하여 다른 섹션에 대한 액세스를 제어하여 보호합니다.
+- 마스터 파일에서 별도의 PDF를 생성하여 개인화된 문서를 작성합니다.
+- 이메일이나 업로드 제한을 충족하기 위해 PDF를 분할하여 파일 크기를 줄입니다.
+- 작은 파일로 콘텐츠를 분류하여 문서를 효율적으로 보관합니다.
+- 관련 페이지를 분할하고 병합하여 사용자 정의 PDF를 재구성하고 조립합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

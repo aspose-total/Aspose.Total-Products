@@ -78,7 +78,34 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+รูปแบบ `.ods` ใช้โดยโปรแกรมสเปรดชีตโอเพนซอร์สเช่น LibreOffice Calc และ OpenOffice การปลดล็อกไฟล์เหล่านี้สามารถช่วยผู้ใช้เข้าถึงเนื้อหาที่ป้องกันด้วยรหัสผ่าน ร่วมมือกันในการใช้ข้อมูล หรือเปลี่ยนไปใช้เครื่องมืออื่น ๆ  ให้มั่นใจในการปลดล็อกไฟล์ ODS อย่างรับผิดชอบโดยเฉพาะหากมาจากพอร์ทัลข้อมูลเปิดหรือสถาบันการศึกษา
+
+#### **การใช้งาน**
+
+- **แก้ไขเซลล์หรือชีทที่ล็อก**  
+  ลบการป้องกันเพื่ออัปเดตงบประมาณ แผนหรือส่วนที่สามารถแก้ไขอื่น ๆ
+
+- **แปลงเป็น Excel หรือ Google Sheets**  
+  ปลดล็อกเพื่อการแปลงได้อย่างราบรื่นและใช้ใน Microsoft Excel หรือแพลตฟอร์มเชิงคลาวด์
+
+- **กู้คืนคีย์การป้องกันที่ลืม**  
+  มีประโยชน์เมื่อผู้ใช้ลืมรหัสผ่านสำหรับไฟล์ ODS เก่าที่ใช้ในโครงการชุมชน
+
+- **ร่วมมือกันในขั้นตอนการทำงานโอเพนซอร์ส**  
+  แบ่งปันไฟล์ที่สามารถแก้ไขได้เต็มรูปแบบกับสมาชิกทีมที่ใช้ระบบหรือซอฟต์แวร์ที่แตกต่างกัน
+
+- **ปรับเทมเพลตสาธารณะ**  
+  ปรับเปลี่ยนเทมเพลต ODS ที่ล็อกจากที่เก็บข้อมูลเปิดหรือองค์กรอนุญาต
+
+- **แก้ไขปัญหาการจัดรูปแบบ**  
+  ปลดล็อกองค์ประกอบโครงสร้างเพื่อแก้ไขข้อบกพร่องเค้าโครงที่เกิดจากข้อจำกัดรูปแบบ
+
+- **ตรวจสอบแมโครหรือโค้ดฝัง**  
+  วิเคราะห์ตรรกะอัตโนมัติหรือสคริปต์ที่ฝังอยู่ในไฟล์ ODS ที่ล็อกไว้
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,15 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/imaging/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Användningsfall för BMP-rotation
+
+- Rotera skannade ingenjörsritningar eller arkitektoniska planer lagrade i BMP-format.
+- Justera orienteringen av äldre Windows-genererade bilder för korrekt visning.
+- Förbereda BMP-bilder för infogande i dokumentation eller rapporter.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

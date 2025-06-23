@@ -75,7 +75,16 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .ppt | Microsoft PowerPoint 97–2003 프레젠테이션 — 보호용 사례
+
+- 레거시 시스템에서 사용됨 — 보호는 콘텐츠가 실수로 손실되거나 재포맷되는 것을 방지합니다.
+- 임베디드 멀티미디어나 애니메이션을 삭제하거나 수정하는 것을 방지합니다.
+- 회의 중 무단으로 최종 프레젠테이션을 변경하는 것을 방지합니다.
+- 정확성이 중요한 법적, 규정 준수 및 보관용 프레젠테이션에 적합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

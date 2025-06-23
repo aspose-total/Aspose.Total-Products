@@ -73,7 +73,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ マイクロソフトワード — ドキュメント分割のユースケース
+
+- 大きなレポート、マニュアル、または研究論文をより管理しやすい小さなファイルに分割します。
+- ドキュメントの異なるセクションを独立して編集するために、さまざまなチームメンバーに割り当てます。
+- 特定のドキュメントの部分を別々に処理することで、ワークフローを自動化します。
+- 大きなファイルをメールやアップロード用により小さな添付ファイルに分割して共有しやすくします。
+- 個々のマスターファイルから個別のドキュメント（例：証明書、請求書、または手紙）を生成します。
+- コンテンツを整理して、ストレージ、検索可能性、および文書管理システムとのコンプライアンスを向上させます。
+- 機密データを保護しながら、機密文書の関連セクションのみを共有します。
+- 学習体験を向上させるために、教育やトレーニング資料をトピックに焦点を当てた小さなファイルで配布します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

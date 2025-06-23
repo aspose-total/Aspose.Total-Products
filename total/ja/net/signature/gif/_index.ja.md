@@ -71,7 +71,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名でGIFファイルに署名する使用例
+
+文書には一般的ではありませんが、図表や手順を含むGIFファイルは、起源と信頼性を証明するために電子的に署名できます。
+
+## 一般的な使用例
+- トレーニングでのアニメーション化された段階的なプロセス。
+- 顧客サポートのための指導資料。
+- テレヘルスでの医療画像クリップ。
+- オンボーディングでの製品デモンストレーション。
+- 検証が必要な教育用のマイクロアニメーション。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

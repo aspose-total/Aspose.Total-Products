@@ -78,7 +78,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | Microsoft Excel 97–2003 Workbook — 保護の使用事例
+
+- レガシーエンタープライズシステムでよく使用される—保護により古いファイルの破損を防ぐ。
+- 機密性の高い財務データ、数式、およびマクロを不正な編集から保護する。
+- 他のシステムで使用されるリンクされたデータの誤った削除を防ぐ。
+- 静的な歴史データに依存する監査および報告プロセスで使用される。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

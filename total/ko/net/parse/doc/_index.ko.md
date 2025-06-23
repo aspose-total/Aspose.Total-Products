@@ -93,7 +93,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .doc 파일 구문 분석을 위한 사용 사례
+
+- 📄 텍스트, 표 및 이미지를 추출하여 표시, 검색 또는 처리에 사용합니다.
+- 🧾 레거시 Word 문서를 Markdown 또는 HTML과 같은 현대 형식으로 변환합니다.
+- 📚 검색 가능한 디지털 형식으로 변환하여 오래된 `.doc` 파일을 아카이브합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

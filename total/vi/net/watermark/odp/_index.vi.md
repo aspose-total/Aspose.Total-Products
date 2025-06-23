@@ -80,7 +80,18 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP là định dạng trình bày mở được sử dụng bởi LibreOffice Impress và các công cụ mã nguồn mở khác.
+
+**Các trường hợp sử dụng phổ biến:**
+- Đánh dấu các slide cho các diễn đàn mở, đánh giá nội bộ hoặc sử dụng hạn chế
+- Nhúng các giấy phép creative commons hoặc các thẻ tổ chức
+- Hỗ trợ sự minh bạch công khai trong các bài thuyết trình của tổ chức phi chính phủ hoặc chính phủ
+- Thêm thông tin về người trình bày hoặc liên kết dự án
+- Ngăn chặn việc sử dụng sai lệch bằng cách đánh dấu bản nháp hoặc các phiên bản chưa hoàn chỉnh
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

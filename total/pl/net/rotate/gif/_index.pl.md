@@ -73,7 +73,15 @@ Więcej szczegółów znajdziesz w [Dokumentacja produktu](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Przypadki użycia obrotu GIF
+
+- Popraw orientację pionowych animowanych instrukcji lub samouczków.
+- Obróć banery reklamowe, aby pasowały do ograniczeń układu bez ponownego eksportowania.
+- Zmieniaj orientację GIF-ów opartych na memach dla wyświetlania przyjaznego dla urządzeń mobilnych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

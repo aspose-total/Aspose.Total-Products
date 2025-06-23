@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 Scalanie plików CSV (wartości oddzielone przecinkami) dla scentralizowanego zarządzania danymi i automatyzacji
+
+CSV to format czystego tekstu do przechowywania danych tabelarycznych. Scalanie plików CSV wspiera agregację danych, raportowanie i potoki automatyzacji.
+
+#### Przykłady użycia:
+
+- **Raportowanie danych zintegrowanych**  
+  Scal dane dotyczące sprzedaży, stanów magazynowych lub transakcji do jednego pliku CSV w celu analizy.
+
+- **ETL i gromadzenie danych**  
+  Połącz logi lub zbiory danych w spójny format do przetwarzania.
+
+- **Wyniki badań i ankiet**  
+  Scal wyeksportowane odpowiedzi z ankiet do wspólnej oceny.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

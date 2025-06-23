@@ -79,7 +79,18 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 マイクロソフト ワード — ドキュメント保護のユースケース
+
+- 法的契約書、人事規程、または学術論文の不正な編集を防止します。
+- ヘッダー、法的条項、目次などのドキュメントのセクションを変更から保護します。
+- 特定の領域へのアクセスを制限して共同編集を可能にします（たとえば、コメントのみのセクション）。
+- ワークフローを自動化するマクロ有効のテンプレートやフォームを保護します。
+- 標準化されたテンプレート内のブランディング要素（ロゴや会社の免責事項など）をロックします。
+- 部門間や外部へのドキュメント共有時の書式の不一致を防止します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

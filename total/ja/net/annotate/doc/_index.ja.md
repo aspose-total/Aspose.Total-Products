@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC（Microsoft Word Binary Document）ファイルは広く使用されているレガシー形式であり、文書ワークフローにおいて依然として重要な役割を果たしています。DOCファイルに注釈を付けることで、チームの協力、レガシー文書のレビュー、元のコンテンツを変更せずに変更履歴を追跡することができます。
+
+#### 使用例：
+
+- **レガシー文書のレビュー**  
+  古いDOCファイルのセクションに注釈を付けて、古いコンテンツ、書式の不一致、または現代化が必要な領域を指摘します。
+
+- **コンプライアンスおよび法的注記**  
+  契約書、ポリシー、文書に法的文脈や規制の参照を提供するためのコメントを追加します。
+
+- **編集協力**  
+  変更履歴が有効でない場合に、文書編集サイクル中にレビュアーの提案や編集マークを挿入します。
+
+- **トレーニング文書の更新**  
+  現在の手順やガイドラインに合わせて更新された指導コンテンツが必要な領域を強調します。
+
+- **バージョン管理の洞察**  
+  レビューサイクル中の文書の変更を追跡するために、バージョンやレビュアーの履歴を付けます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

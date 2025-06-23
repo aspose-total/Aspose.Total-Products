@@ -73,7 +73,14 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Tệp .doc — Các Trường Hợp Sử Dụng cho Việc Chia Tài Liệu
+
+- Quản lý các tài liệu Word cũ bằng cách chia các tệp lớn thành các phần nhỏ dễ chỉnh sửa hơn.
+- Hợp tác trên các tệp cũ bằng cách phân phối các phần cho các thành viên nhóm.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

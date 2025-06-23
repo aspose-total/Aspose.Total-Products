@@ -84,7 +84,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 OpenDocument Text (`.odt`)를 위한 사용 사례
+
+- 사무실 스위트 간의 호환성을 보장하기 위해 메타데이터 사용.
+- 기여자 및 협업 이력 추적.
+- 기업 시스템 내에서 오픈 포맷 문서를 구성하고 검색.
+- 통찰을 위해 ODT를 구문 분석하는 AI/ML 엔진 지원.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

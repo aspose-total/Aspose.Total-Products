@@ -93,7 +93,26 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Casos de Uso de Análise de Documentos do Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf)
+
+- 📄 **Extração de Conteúdo**  
+  Extrair texto, tabelas e imagens de documentos do Word para exibição na web, indexação de pesquisa ou análise de texto.
+
+- 📰 **Processamento de Modelo**  
+  Utilize modelos `.dot`, `.dotx`, `.dotm` para gerar automaticamente documentos com dados dinâmicos em fluxos de trabalho.
+
+- 🔁 **Fluxos de Trabalho de Automação**  
+  Automatize a análise e substituição de conteúdo em arquivos `.docm` ou `.dotm` que incluem macros incorporados.
+
+- 🧾 **Conversão de Relatórios**  
+  Converter arquivos `.doc`, `.odt` ou `.rtf` para HTML limpo, Markdown ou PDF para publicação ou documentação.
+
+- 📚 **Arquivamento Digital**  
+  Arquivar formatos legados como `.doc` e `.rtf` convertendo e indexando-os para plataformas modernas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

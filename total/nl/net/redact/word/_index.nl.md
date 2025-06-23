@@ -82,7 +82,16 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Redactie in Microsoft Word
+
+- Redigeer namen, adressen en identificatienummers in officiële documenten.
+- Redigeer vertrouwelijke juridische inhoud voordat u gerechtelijke documenten of contracten indient.
+- Redigeer interne communicatie en gevoelige zakelijke informatie in gedeelde rapporten.
+- Redigeer persoonlijke of medische informatie in HR-bestanden, patiëntsamenvattingen of academische dossiers.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

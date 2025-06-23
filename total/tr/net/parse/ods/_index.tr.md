@@ -87,7 +87,16 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .ods Dosyalarını Ayrıştırma Kullanım Alanları
+
+- 📊 OpenDocument elektronik tablolarından yapılandırılmış verileri, formülleri ve grafikleri çıkarın.
+- 🔁 `.ods` dosyalarını `.xlsx`, CSV veya JSON gibi formatlara dönüştürerek entegrasyon için kullanın.
+- 🧮 Açık kaynaklı elektronik tablo araçlarından veri çıkarma ve dönüştürmeyi otomatikleştirin.
+- 📚 Açık formatları kurumsal uygulamalara veya analiz borularına taşıyın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

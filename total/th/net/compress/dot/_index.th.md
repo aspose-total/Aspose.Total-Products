@@ -78,7 +78,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### บีบอัดไฟล์ DOT สำหรับการจัดการเทมเพลตเวิร์ดเก่า
+
+ไฟล์ DOT (Word 97–2003 Template) เป็นเทมเพลตเวิร์ดเก่าที่อาจมีการจัดรูปแบบหรือรูปภาพที่มีคุณภาพสูง การบีบอัดไฟล์ DOT จะทำให้ระบบเทมเพลตเก่ามีประสิทธิภาพและพกพาได้ง่ายขึ้น
+
+#### การใช้งาน:
+
+- **การทำความสะอาดห้องสมุดเทมเพลต**  
+  ลดขนาดไฟล์ DOT เพื่อรักษาเทมเพลตเก็บไว้อย่างเข้มงวดและเรียบร้อย
+
+- **โหลดเร็วขึ้นบนระบบเก่า**  
+  ไฟล์ DOT ขนาดเล็กช่วยปรับปรุงเวลาตอบสนองบนเครื่องเก่าหรือสภาพแวดล้อมเสมือน
+
+- **การจัดเก็บข้อมูลสำรองอย่างเข้มงวด**  
+  บันทึกเทมเพลตเก่าในรูปแบบบีบอัดเพื่อลดค่าใช้จ่ายในการจัดเก็บระยะยาว
+
+- **เทมเพลตนโยบายขององค์กร**  
+  เปิดให้การกระจายเทมเพลต DOT มาตรฐานได้อย่างรวดเร็วในแผนกต่างๆ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

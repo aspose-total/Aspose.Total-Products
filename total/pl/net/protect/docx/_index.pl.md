@@ -79,7 +79,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | Dokument programu Word (Nowoczesny) — Przypadki użycia ochrony
+
+- Powszechne w umowach, raportach i dokumentacji HR, gdzie edycja musi być ograniczona.
+- Chroni strukturalne treści, takie jak spisy treści, nagłówki i terminy prawne przed zmianami.
+- Umożliwia śledzenie zmian w edycji współpracy, jednocześnie blokując kluczowe sekcje.
+- Stosowane do dystrybucji finalizowanych dokumentów, gdzie dozwolone są tylko komentarze.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,19 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP to otwarty format prezentacji używany przez LibreOffice Impress i inne narzędzia typu open-source.
+
+**Typowe przypadki użycia:**
+
+- Oznaczanie slajdów na otwarte fora, wewnętrzne przeglądy lub ograniczone wykorzystanie
+- Osadzanie licencji Creative Commons lub tagów organizacyjnych
+- Wspieranie publicznej przejrzystości w prezentacjach NGO lub rządowych
+- Dodawanie poświadczeń prelegenta lub afiliacji projektu
+- Zapobieganie nadużyciom poprzez oznaczanie szkiców lub wersji nieostatecznych
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

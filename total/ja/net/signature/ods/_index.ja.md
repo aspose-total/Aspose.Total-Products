@@ -76,7 +76,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名を使用してODSファイルに署名するユースケース
+
+ODSはオープンソースオフィススイート用のスプレッドシート形式です。ODSファイルにデジタル署名することで、Microsoft以外の環境で財務および運用データを保護するのに役立ちます。
+
+## 一般的なユースケース
+- オープンソースプロジェクトの予算と報告。
+- 学校や大学が学生データを追跡する。
+- コストに敏感な地域の政府機関。
+- 寄付者とプロジェクト報告書をまとめるNGO。
+- 安全な電子署名が必要な部門計画書。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

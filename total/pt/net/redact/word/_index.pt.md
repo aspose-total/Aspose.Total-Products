@@ -82,7 +82,16 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Redação no Microsoft Word
+
+- Redigir nomes, endereços e números de identificação em documentos oficiais.
+- Redigir conteúdo legal confidencial antes de enviar documentos judiciais ou contratos.
+- Redigir comunicações internas e informações comerciais sensíveis em relatórios compartilhados.
+- Redigir informações pessoais ou médicas em arquivos de RH, resumos de pacientes ou registros acadêmicos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

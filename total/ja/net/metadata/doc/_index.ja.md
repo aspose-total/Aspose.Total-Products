@@ -81,7 +81,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Wordドキュメント（`.doc`）の使用事例
+
+- 著者と作成/修正履歴を追跡します。
+- タイトル、サブジェクト、およびキーワードを使用して文書の検索性を向上させます。
+- 文書保護のために法的またはライセンスメタデータを埋め込みます。
+- メタデータフィールドに基づいてワークフローを自動化します（例：アーカイブルール）。
+- コンテンツの分類と保持管理を支援します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

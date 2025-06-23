@@ -80,7 +80,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPT는 Microsoft PowerPoint의 이전 버전에서 사용되는 레거시 프레젠테이션 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 슬라이드를 기밀, 교육용 또는 내부용으로 레이블 지정
+- 발표자 이름, 조직 또는 이벤트를 포함
+- 배포 금지를 경고하는 Do Not Share
+- 기업 로고 또는 프로젝트 이름으로 브랜딩
+- 검토 또는 승인을 위해 콘텐츠를 표시
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,15 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Cenzura w formacie .odp (OpenDocument Presentation)
+
+- Cenzuruj identyfikujące wizualizacje lub dane w prezentacjach akademickich lub publicznych.
+- Cenzuruj wewnętrzne metryki lub poufne adnotacje przed wyeksportowaniem.
+- Cenzuruj nazwy projektów lub organizacji z slajdów używanych na zewnątrz.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

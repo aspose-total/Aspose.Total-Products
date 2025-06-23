@@ -79,7 +79,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Şablon Tabanlı Excel İş Akışları için XLT Dosyalarını Birleştirme
+
+XLT, `.xls` (Excel 97-2003) için Excel Şablon formatıdır. `.xlt` dosyalarını birleştirmek, eski şablonları standartlaştırmaya ve güncel bir yapıya dönüştürmeye yardımcı olur.
+
+#### Kullanım Alanları:
+
+- **Eski Şablonların Birleştirilmesi**  
+  Birden fazla `.xlt` şablonunu geriye dönük uyumluluk için bir ana şablonda birleştirme.
+
+- **Departman Şablonlarının Standartlaştırılması**  
+  Eski şablonları birleştirerek modern bir `.xltx` alternatifi değerlendirme ve geliştirme.
+
+- **Tarihsel Şablon Arşivleme**  
+  Uyumluluk veya tarihsel referans için eski `.xlt` sürümlerini birleştirme.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

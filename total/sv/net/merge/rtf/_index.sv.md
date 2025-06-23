@@ -80,7 +80,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Sammanfoga RTF (Rich Text Format) för plattformsoberoende dokumentkompilering
+
+RTF-filer används för plattformsoberoende, formaterade textdokument. Genom att sammanfoga RTF-filer kan innehåll kombineras samtidigt som formateringen bibehålls över olika system.
+
+#### Användningsområden:
+
+- **Sammanställning av formaterad text**  
+  Sammanfoga rapporter eller anteckningar från olika system till ett formaterat dokument.
+
+- **Aggregering av dokument på olika plattformar**  
+  Kombinera innehåll skapat från olika ordbehandlare till en enhetlig fil.
+
+- **Sammanställning av projektdokumentation**  
+  Sammanfoga flera RTF-anteckningar eller leveranser till en slutlig rapport.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🎤 OpenDocument 프리젠테이션 (`.odp`)을 위한 사용 사례
+
+- 크로스 플랫폼 호환성 유지를 위해 오픈 포맷 메타데이터 사용.
+- 재사용을 위해 프리젠테이션 목적, 이벤트 또는 대상을 태그 지정.
+- 오픈 소스 LMS 또는 기업 콘텐츠 검색과 통합하는 데 도움.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

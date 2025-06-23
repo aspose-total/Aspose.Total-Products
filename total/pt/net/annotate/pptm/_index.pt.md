@@ -106,7 +106,28 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Os arquivos PPTM (Apresentação Habilitada para Macro do PowerPoint) permitem a geração automática de slides e ações. Anotar arquivos PPTM ajuda a rastrear o desempenho do macro, documentar comportamentos e refinar a lógica de automação.
+
+#### Anotação de Arquivo PPTM para Depuração e Revisão de Apresentações Habilitadas para Macro - Casos de Uso:
+
+- **Revisão da Execução do Macro**  
+  Comente nos slides onde os macros funcionam ou falham, auxiliando na depuração.
+
+- **Colaboração de Desenvolvedores**  
+  Adicione anotações para documentar o comportamento esperado ou acionadores de macro.
+
+- **Otimização da Automação**  
+  Sugira ajustes para melhorar o desempenho ou clareza do conteúdo gerado automaticamente.
+
+- **Revisão dos Slides Gerados**  
+  Sinalize conteúdo que precisa de revisão manual após a execução do macro.
+
+- **Notas Instrutivas para Usuários Finais**  
+  Guie os usuários sobre como interagir com elementos habilitados para macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

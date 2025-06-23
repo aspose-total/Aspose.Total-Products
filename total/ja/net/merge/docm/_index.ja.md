@@ -80,7 +80,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### マクロが有効化されたWord文書のDOCMファイルをマージする
+
+DOCMファイルはマクロが有効化されたWord文書です。`.docm`ファイルをマージすることは、自動化や処理のために埋め込まれたマクロを含む文書を組み合わせる際に便利です。
+
+#### 用途:
+
+- **自動報告の統合**  
+  マクロを使用してフォーマットされたデータ、チャート、またはテーブルの生成を自動化する`.docm`レポートを中央の文書にマージします。
+
+- **マクロ対応文書の作成**  
+  マクロが有効化された`.docm`ファイルを結合して、異なるレポートや文書間で自動化機能を維持し統一します。
+
+- **文書ワークフローの統合**  
+  類似したマクロ機能を持つ文書をマージして、チーム全体で文書作成のワークフローを改善します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

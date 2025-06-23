@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików XLTM dla szablonów z makrami
+
+Pliki XLTM są szablonami z makrami używanymi do automatyzacji powtarzających się zadań w Excelu. Scalanie ich jest przydatne do ujednolicenia logiki automatyzacji lub migracji procesów.
+
+#### Przykłady użycia:
+
+- **Biblioteki Automatyzacji Procesów**  
+  Scal szablony `.xltm` zawierające różne makra do różnych funkcji w jeden scentralizowany szablon.
+
+- **Integracja Szablonów Dla Określonych Działów**  
+  Połącz szablony z makrami z różnych działów w celu standaryzacji automatyzacji procesów.
+
+- **Audyt Procesów Opartych na Makrach**  
+  Scal szablony `.xltm` w celu przejrzenia osadzonych makr pod kątem zgodności i optymalizacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

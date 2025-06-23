@@ -76,7 +76,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Excelはデータ駆動型の作業に広く使用されています。Excelシートに透かしを入れることで、特にデータレビューや財務開示の際に機密性とコンテキストを伝えるのに役立ちます。
+
+**一般的な使用例には以下があります:**
+
+- スプレッドシートを予備、機密、または検証済みとして識別する
+- 独自の計算や予測の誤用を防ぐ
+- 内部監査や財務報告のためのシートにラベルを付ける
+- 配布管理のためにダッシュボードに透かしを入れる
+- データを古いもの、アーカイブされたもの、またはテスト中のものとしてタグ付けする
+- 財務モデルや分析の所有権を示す
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

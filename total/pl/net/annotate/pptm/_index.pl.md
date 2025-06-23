@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki PPTM (prezentacje z włączoną obsługą makr w programie PowerPoint) umożliwiają zautomatyzowane generowanie slajdów i akcji. Opisywanie plików PPTM pomaga śledzić wydajność makr, dokumentować zachowania i doskonalić logikę automatyzacji.
+
+#### Opisywanie plików PPTM w celu debugowania i przeglądu prezentacji z obsługą makr - Przykłady użycia:
+
+- **Przegląd Wykonywania Makr**  
+  Komentarze na slajdach, gdzie makra działają lub zawodzą, pomagają w debugowaniu.
+
+- **Współpraca Programistów**  
+  Dodawanie adnotacji do dokumentowania oczekiwanych zachowań lub wyzwalaczy makr.
+
+- **Optymalizacja Automatyzacji**  
+  Sugestie dotyczące dostosowań w celu poprawy wydajności lub czytelności treści wygenerowanych automatycznie.
+
+- **Przegląd Wygenerowanych Slajdów**  
+  Oznaczanie treści wymagających ręcznej korekty po wykonaniu makra.
+
+- **Notatki Instruktażowe dla Końcowych Użytkowników**  
+  Wskazówki dla użytkowników dotyczące interakcji z elementami obsługującymi makra.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

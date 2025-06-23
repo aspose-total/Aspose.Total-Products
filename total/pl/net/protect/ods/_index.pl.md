@@ -78,7 +78,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | Arkusz kalkulacyjny OpenDocument — Przypadki użycia ochrony
+
+- Stosowany w środowiskach open-source, takich jak LibreOffice, do śledzenia budżetu i udostępniania danych.
+- Chroni formuły komórkowe i obliczenia w przepływach pracy międzyplatformowych.
+- Zapobiega zmianom strukturalnym w modelach finansowych współpracujących lub dokumentach sektora publicznego.
+- Zapewnia spójność podczas udostępniania wielu interesariuszom lub działom.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

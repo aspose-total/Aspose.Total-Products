@@ -73,7 +73,22 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### So sánh tệp DOTM để xác minh mẫu sử dụng cho các trường hợp:
+
+Các tệp DOTM kết hợp mẫu tài liệu có thể tái sử dụng với các macro nhúng. So sánh các phiên bản DOTM sẽ tiết lộ cả sự thay đổi về bố cục và logic macro, quan trọng cho tính toàn vẹn của tự động hóa.
+
+- **Theo dõi Luồng Làm việc Macro**  
+  Xác minh xem logic tự động hóa của mẫu có bị thay đổi hoặc không.
+
+- **Kiểm Tra Chuẩn Hóa Mẫu**  
+  Theo dõi các cập nhật về mặt hình thức hoặc cấu trúc trong các mẫu có thể tái sử dụng trên các nhóm.
+
+- **Hồ Sơ Kiểm Tra Tự động hóa**  
+  Duy trì hồ sơ về những gì đã thay đổi giữa các phiên bản mẫu tự động hóa.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

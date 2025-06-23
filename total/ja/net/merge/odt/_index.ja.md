@@ -80,7 +80,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 オープンコラボレーションと文書アセンブリのためのODT（OpenDocument Text）のマージ
+
+ODTファイルはオープンソースのワードプロセッサ文書（LibreOffice、OpenOffice）です。それらをマージすることでオープンフォーマットのコンテンツコラボレーションをサポートします。
+
+#### ユースケース：
+
+- **オープンソースのコラボレーション**  
+  ODT形式で異なる著者からの寄稿を1つの文書にマージします。
+
+- **ドキュメンテーションの編纂**  
+  ODTで書かれたマニュアルや書籍の章またはセクションを組み合わせます。
+
+- **政府やNGOの報告**  
+  提出用にオープン標準形式で作成されたレポートを統合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

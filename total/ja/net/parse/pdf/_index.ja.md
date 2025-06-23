@@ -84,7 +84,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF 解析の使用例
+
+- 🔍 **テキストと表の抽出**  
+  PDFから段落、表、またはフォームの値を抽出してレポート作成や検索インデックス作成に使用します。
+
+- 🧾 **請求書とフォームの処理**  
+  構造化されたフォームや請求書を解析してデータベースや会計システムに自動入力します。
+
+- 🎨 **レイアウト分析**  
+  視覚的な構造（列、セクション）を検出して、正確なHTMLやMarkdownへの変換を行います。
+
+- 🧠 **OCRと検索可能性**  
+  解析の前にOCRを使用してスキャンされたPDFを検索可能なテキストに変換します。
+
+- 🗂️ **デジタルアーカイブとコンプライアンス**  
+  関連するコンテンツやメタデータを抽出してPDF文書をアーカイブ化および監査します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

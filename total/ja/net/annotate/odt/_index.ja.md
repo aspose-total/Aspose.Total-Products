@@ -123,7 +123,31 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT（OpenDocument Text）ファイルは、LibreOfficeやOpenOfficeなどのワードプロセッサで使用されるOpenDocument標準の一部です。ODTファイルに注釈を付けることで、オープンソースエコシステム内での共同編集、構造化されたフィードバック、詳細なドキュメント作成が可能になります。
+
+#### オープンコラボレーションと構造化レビュー用途のODTファイル注釈：
+
+- **共同文書編集**  
+  注釈を使用して、寄稿者にインラインフィードバックを提供したり、変更を提案したり、説明を求めたりします。
+
+- **オープンソースプロジェクトのドキュメント**  
+  テクニカルドキュメント、ユーザーガイド、ソフトウェア仕様にノートを追加して、レビュアーを案内し、一貫性を保ちます。
+
+- **法的およびコンプライアンスレビュー**  
+  透明な監査のために、レビューが必要なセクションをフラグ設定したり、コンプライアンスの問題を強調したりします。
+
+- **学術的な同僚レビュー**  
+  論文の議論を評価したり、不足している参照を指摘したり、改善を提案したりするために注釈を挿入します。
+
+- **テンプレートのガイダンスと再利用**  
+  再利用可能なODTテンプレートに、フォーマットルール、プレースホルダーの説明、ブランディング指示を注釈付けします。
+
+- **バージョントラッキングとイテレーション履歴**  
+  文書のバージョン間でコメントを維持して、変更とフィードバックを時間の経過とともに追跡します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

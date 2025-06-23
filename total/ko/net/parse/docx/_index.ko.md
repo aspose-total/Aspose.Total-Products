@@ -93,7 +93,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .docx 파일 구문 분석을 위한 사용 사례
+
+- 📄 텍스트, 테이블, 이미지 및 메타데이터를 포함한 구조화된 콘텐츠 추출.
+- 📰 `.docx` 파일을 HTML 또는 Markdown으로 변환하여 웹 게시에 사용.
+- 🧾 보고서 생성 및 문서 워크플로 자동화.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

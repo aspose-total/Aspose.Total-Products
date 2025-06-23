@@ -71,7 +71,22 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 사용 사례: OpenDocument Presentation 수정 사항에 대한 ODP 파일 비교
+
+ODP (OpenDocument Presentation)은 LibreOffice Impress와 같은 오픈 소스 스위트에서 사용되는 프레젠테이션 파일 형식입니다. ODP 파일을 비교하는 것은 협업 또는 오픈 표준 환경에서 콘텐츠 변경을 식별하는 데 중요합니다.
+
+- **오픈 소스 프레젠테이션 리뷰**  
+  일관성과 정확성을 위해 커뮤니티 기여 편집을 비교합니다.
+
+- **레이아웃 및 테마 업데이트 감지**  
+  슬라이드 마스터 설정, 색상 팔레트 및 글꼴의 시각적 차이를 감지합니다.
+
+- **콘텐츠 수정 사항 추적**  
+  다른 버전 간에 추가되거나 수정된 텍스트, 모양, 이미지 및 차트를 식별합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

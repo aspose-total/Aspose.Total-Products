@@ -78,7 +78,34 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ods`形式は、LibreOffice CalcやOpenOfficeなどのオープンソースのスプレッドシートプログラムで使用されています。これらのファイルを解除することで、ユーザーはパスワードで保護されたコンテンツにアクセスしたり、データを共有したり、他のツールに移行したりすることができます。ODSファイルの責任ある解除を確認しましょう、特にオープンデータポータルや教育機関から提供された場合。
+
+#### **使用例**
+
+- **ロックされたセルやシートの編集**  
+  予算、計画、その他の編集可能なセクションを更新するために保護を解除します。
+
+- **ExcelやGoogle Sheetsに変換**  
+  スムーズな変換とMicrosoft Excelやクラウドベースのプラットフォームでの使用のために解除します。
+
+- **忘れられた保護キーの回復**  
+  コミュニティプロジェクトで使用された古いODSファイルのパスワードを忘れた場合に便利です。
+
+- **オープンソースのワークフローでの共同作業**  
+  異なるシステムやソフトウェアを使用するチームメンバーと完全に編集可能なファイルを共有します。
+
+- **公開テンプレートの修正**  
+  オープンデータリポジトリやNGOからのロックされたODSテンプレートを適応します。
+
+- **書式の問題の修正**  
+  レイアウトのバグを修正するために構造要素を解除します。
+
+- **マクロや埋め込みコードの検査**  
+  ロックされたODSファイル内に埋め込まれた自動化ロジックやスクリプトを分析します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

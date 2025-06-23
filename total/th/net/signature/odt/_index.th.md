@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# การใช้งานของการเซ็นไฟล์ ODT ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+ไฟล์ ODT ใช้ในสภาพแวดล้อมโอเพนซอร์สเช่น LibreOffice หรือ OpenOffice ลายเซ็นดิจิตอลในไฟล์ ODT ช่วยให้มั่นใจได้ว่าเอกสารข้อความที่ไม่ใช่ของ Microsoft มีต้นกำเนิดและความสมบูรณ์
+
+## กรณีการใช้ที่พบบ่อย
+- สถาบันการศึกษาแบ่งปันรายงานหรือฉบับร่างวิทยานิพนธ์
+- องค์กรไม่แสวงหากำไรและผู้มีส่วนร่วมในโครงการโอเพนซอร์สสร้างจดหมายเป็นทางการ
+- เอกสารของหน่วยงานสาธารณะในรูปแบบ ODT
+- การทำงานร่วมกับต่างประเทศที่ต้องการใช้ ODT
+- เอกสารนโยบายภายในที่มีการอนุมัติอิเล็กทรอนิกส์
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

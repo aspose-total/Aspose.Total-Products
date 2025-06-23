@@ -83,7 +83,19 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT är ett öppen källkods ordbehandlingsformat som används i LibreOffice och liknande verktyg.
+
+**Vanliga användningsfall inkluderar:**
+
+- Angivande av offentliga, privata eller interna dokument
+- Visning av samägande eller granskningscykler
+- Bädda in organisationsnamn eller öppen licensinformation
+- Identifiera dokument för offentlig sektor
+- Stödja versionshantering i dokument med flera författare
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

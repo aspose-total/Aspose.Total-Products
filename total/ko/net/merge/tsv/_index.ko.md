@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 가벼운 데이터 통합을 위한 TSV 파일 병합
+
+TSV (탭으로 구분된 값) 파일은 CSV와 유사하지만 구분자로 탭을 사용합니다. `.tsv` 파일을 병합하는 것은 텍스트 기반의 작업에서 깨끗하고 구조화된 데이터 집합을 다룰 때 유용합니다.
+
+#### 사용 사례:
+
+- **깨끗한 데이터 파이프라인**  
+  데이터 스크래핑, ETL 프로세스 또는 로그 파일에서 나온 `.tsv` 출력을 마스터 데이터 집합으로 병합합니다.
+
+- **과학적 또는 통계적 분석**  
+  통합된 통계 평가를 위해 `.tsv` 실험 데이터 파일을 결합합니다.
+
+- **시스템 간 통합**  
+  다양한 플랫폼(Linux 로그, 센서, API)에서 나온 `.tsv` 데이터를 중앙 집중식으로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

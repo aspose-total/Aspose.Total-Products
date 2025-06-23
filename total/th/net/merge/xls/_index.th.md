@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLS สำหรับการผสานข้อมูล Excel เพื่อการใช้งานข้อมูลเก่า
+
+XLS เป็นรูปแบบไบนารีที่ใช้ในเวอร์ชันเก่าของ Microsoft Excel การผสานไฟล์ `.xls` หลายๆ ไฟล์ช่วยในการรวมข้อมูลประวัติเข้าสู่ระบบที่ทันสมัยสำหรับการวิเคราะห์หรือการเก็บถาวร
+
+#### การใช้งาน:
+
+- **รายงานการเงินเก่า**  
+  รวมรายงานการเงิน Excel เก่าเพื่อการวิเคราะห์แนวโน้มประวัติศาสตร์หรือการเตรียมการตรวจสอบ
+
+- **บันทึกประวัติบุคคล**  
+  ผสานบันทึกพนักงานเก่าหรือไฟล์เงินเดือนที่เก็บไว้ในรูปแบบ `.xls` เข้าไปในไฟล์เดียวกัน
+
+- **อัปเกรดข้อมูลเก็บถาวร**  
+  รวมไฟล์ `.xls` ก่อนแปลงเป็น `.xlsx` หรือรูปแบบทันสมัยอื่นๆ เพื่อความเข้ากันได้และการประมวลผลที่ดีขึ้น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

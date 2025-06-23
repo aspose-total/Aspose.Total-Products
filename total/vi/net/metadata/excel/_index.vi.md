@@ -84,7 +84,20 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Các Trường Hợp Sử Dụng Siêu Dữ Liệu trong Tệp Microsoft Excel
+
+- Lưu trữ ngữ cảnh, mục đích và chi tiết dự án cho các bộ dữ liệu thông qua các thuộc tính tài liệu.
+- Xác định chủ sở hữu dữ liệu và người đóng góp để theo dõi phiên bản và kiểm toán.
+- Phân loại các bảng tính tài chính, hoạt động hoặc nhân sự để kiểm soát truy cập.
+- Xác định vòng đời tài liệu (ví dụ: hoạt động, lưu trữ, lỗi thời) bằng cách sử dụng siêu dữ liệu.
+- Kích hoạt quy trình làm việc tự động cho việc phê duyệt tài chính hoặc báo cáo dự báo.
+- Liên kết dữ liệu bảng tính với các hệ thống bên ngoài như ERPs hoặc cơ sở dữ liệu thông qua siêu dữ liệu.
+- Sử dụng siêu dữ liệu cho bảng điều khiển, dòng dữ liệu và các đường ống thông tin kinh doanh.
+- Hỗ trợ trí tuệ nhân tạo trong việc xác định cấu trúc, ý định và ý nghĩa của nội dung bảng tính.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

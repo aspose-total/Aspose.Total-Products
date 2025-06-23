@@ -81,7 +81,30 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ 이미지 파일 (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+이미지 파일을 단일 시각적 출력물이나 구조화된 형식(PDF, 콜라주, 스프라이트 등)으로 병합하면 디자인, 문서 작성 및 디지털 게시 워크플로우를 지원합니다.
+
+#### 사용 사례:
+
+- **디지털 앨범 제작**  
+  휴가, 이벤트 또는 포트폴리오 이미지를 단일 갤러리나 포토북으로 병합합니다.
+
+- **디자인 자산 통합**  
+  UI 모형, 소셜 미디어 그래픽 또는 브랜딩 자산을 클라이언트 검토용으로 하나의 참조 파일로 병합합니다.
+
+- **스캔된 문서 그룹화**  
+  스캔된 이미지 파일을 단일 아카이브나 문서로 결합하여 저장하거나 공유합니다.
+
+- **시각적 비교 및 Before-After 슬라이드**  
+  보고서나 마케팅 자료에서 비교 시각을 만들기 위해 이미지 세트를 병합합니다.
+
+- **교육 또는 제품 매뉴얼**  
+  주석이 달린 스크린샷이나 제품 사진을 순차적인 교육 콘텐츠로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

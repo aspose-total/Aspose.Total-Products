@@ -81,7 +81,17 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Gebruiksscenario's voor Microsoft Word-document (`.doc`)
+
+- Bijhouden van auteurschap en creatie/wijzigingsgeschiedenis.
+- Verbeteren van de doorzoekbaarheid van documenten via titel, onderwerp en trefwoorden.
+- Inbedden van juridische of licentiemetadata voor documentbescherming.
+- Automatiseren van workflows op basis van metagegevensvelden (bijv. archiveringsregels).
+- Helpen bij contentclassificatie en retentiebeheer.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

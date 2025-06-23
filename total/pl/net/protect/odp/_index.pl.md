@@ -75,7 +75,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .odp | Prezentacja dokumentu OpenDocument — Przypadki użycia ochrony
+
+- Udostępniane w środowiskach open-source — ochrona zapewnia integralność projektu na różnych platformach.
+- Używane w prezentacjach akademickich lub publicznych; chroni przed zmianą kolejności slajdów lub manipulacją treścią.
+- Zapobiega nieautoryzowanym edycjom w środowiskach edukacyjnych opartych na współpracy.
+- Nadaje się do dystrybucji prezentacji szkoleniowych tylko do odczytu lub prezentacji cyfrowych tablic informacyjnych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

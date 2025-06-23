@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików PPTX dla integracji nowoczesnej prezentacji w programie PowerPoint
+
+PPTX to oparty na XML formacie używany przez nowoczesny Microsoft PowerPoint. Scalanie plików `.pptx` jest niezbędne do współpracy, agregacji danych i unifikacji prezentacji.
+
+#### Przykłady użycia:
+
+- **Prezentacje współpracownicze**  
+  Połącz slajdy `.pptx` od różnych współpracowników w jedną spójną prezentację na spotkanie zespołu lub konferencję.
+
+- **Konsolidacja aktualizacji projektu**  
+  Scal wiele plików `.pptx` z różnymi kamieniami milowymi projektu w jedną prezentację, aby śledzić postęp projektu.
+
+- **Prezentacje raportów biznesowych**  
+  Połącz raporty biznesowe, sprzedażowe lub marketingowe w formacie `.pptx` w jedną zintegrowaną prezentację dla interesariuszy lub kierownictwa.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

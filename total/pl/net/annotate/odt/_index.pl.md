@@ -123,7 +123,31 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki ODT (OpenDocument Text) są częścią standardu OpenDocument używanego przez edytory tekstu takie jak LibreOffice i OpenOffice. Adnotowanie plików ODT umożliwia współpracę przy edycji, udzielanie strukturalnej opinii oraz szczegółową dokumentację w ramach ekosystemów o otwartym kodzie źródłowym.
+
+#### Adnotacja plików ODT do otwartej współpracy i zastosowań w ramach strukturalnych recenzji:
+
+- **Współpraca przy Edycji Dokumentów**  
+  Wykorzystaj adnotacje do udzielania opinii na temat treści, sugerowania zmian lub prośby o wyjaśnienia od współtwórców.
+
+- **Dokumentacja Projektów Otwartego Źródła**  
+  Dodawaj notatki do dokumentów technicznych, instrukcji użytkownika lub specyfikacji oprogramowania, aby prowadzić recenzentów i utrzymywać spójność.
+
+- **Recenzje Prawne i Zgodności**  
+  Oznaczaj sekcje wymagające recenzji lub zaznaczaj problemy zgodności, korzystając z komentarzy kontekstowych dla transparentnej audytacji.
+
+- **Recenzje Akademickie**  
+  Wstawiaj adnotacje do oceny argumentów, wskazywania brakujących odwołań lub sugerowania ulepszeń w pracach badawczych.
+
+- **Wskazówki i Ponowne Wykorzystanie Szablonów**  
+  Adnotuj szablony ODT z zasadami formatowania, opisami zastępczymi lub instrukcjami dotyczącymi marki.
+
+- **Śledzenie Wersji i Historia Iteracji**  
+  Utrzymuj komentarze w różnych wersjach dokumentu, aby śledzić zmiany i opinie w czasie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

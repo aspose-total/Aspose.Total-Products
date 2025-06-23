@@ -83,7 +83,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX는 편집 가능한 텍스트 문서의 현대적이고 기본 Word 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 상태를 초안, 기밀 또는 승인으로 표시
+- 회사 브랜딩 및 워터마크 로고 적용
+- 보기 전용 또는 읽기 전용 지정 추가
+- 내부/외부 버전 표시
+- 문서 수명 주기 추적 지원
+- 규제 요구 사항 준수
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

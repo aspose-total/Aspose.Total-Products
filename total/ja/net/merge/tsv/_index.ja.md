@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 軽量データ統合のためのTSVファイルのマージ
+
+TSV（タブ区切り値）ファイルはCSVと似ていますが、区切り文字としてタブを使用します。`.tsv`ファイルをマージすることは、テキストベースのワークフローでクリーンで構造化されたデータセットを扱う際に便利です。
+
+#### 用途:
+
+- **クリーンデータパイプライン**  
+  データスクレイピング、ETLプロセス、またはログファイルからの`.tsv`出力をマスターデータセットにマージします。
+
+- **科学的または統計的分析**  
+  統合された統計評価のために`.tsv`実験データファイルを結合します。
+
+- **クロスシステム統合**  
+  異なるプラットフォーム（Linuxログ、センサー、APIなど）からの`.tsv`データを中央集約のためにマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

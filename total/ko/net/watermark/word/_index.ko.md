@@ -83,7 +83,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Word은 계약, 제안서, 보고서 및 정책과 같은 텍스트 문서를 만드는 데 널리 사용됩니다. 이러한 문서에 워터마크를 삽입하면 문맥을 확립하고 문서 무결성을 강화할 수 있습니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 기밀, 초안 또는 내부 사용 전용으로 문서 표시
+- 콘텐츠를 작성한 작성자 또는 부서 식별
+- 법적 면책사항 또는 저작권 고지 추가
+- 민감한 문서의 무단 공유 방지
+- 협업 편집에서 버전 관리 추적
+- 규제상 또는 감사 요구 사항 준수
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

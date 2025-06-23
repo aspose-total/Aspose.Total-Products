@@ -79,7 +79,18 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — Các trường hợp sử dụng cho bảo vệ tài liệu
+
+- Ngăn chặn việc chỉnh sửa không được ủy quyền của hợp đồng pháp lý, chính sách nhân sự hoặc bài báo học thuật.
+- Bảo vệ các phần của tài liệu (như tiêu đề, điều khoản pháp lý hoặc bảng nội dung) khỏi sự thay đổi.
+- Cho phép chỉnh sửa cộng tác với quyền truy cập hạn chế vào một số khu vực cụ thể (ví dụ: các phần chỉ được phản hồi).
+- Bảo vệ các mẫu hoặc biểu mẫu có kích hoạt macro để tự động hóa quy trình làm việc.
+- Khóa các yếu tố thương hiệu (như logo và phần từ chối của công ty) trong các mẫu chuẩn hóa.
+- Ngăn chặn sự không nhất quán về định dạng khi chia sẻ tài liệu giữa các bộ phận hoặc bên ngoài.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

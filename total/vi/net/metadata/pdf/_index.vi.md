@@ -78,7 +78,20 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Các trường hợp sử dụng cho siêu dữ liệu của tệp PDF (`.pdf`)
+
+- Nhúng tiêu đề tài liệu, chủ đề, từ khóa và tác giả để tăng khả năng tìm kiếm.
+- Bảo tồn siêu dữ liệu tuân thủ như phiên bản tài liệu, phê duyệt và phân loại.
+- Bảo quản thông tin về quyền số hóa cho xuất bản phẩm hoặc hướng dẫn.
+- Sử dụng siêu dữ liệu để tự động hóa việc lưu trữ, xóa hoặc gắn thẻ trong hệ thống nội dung.
+- Cho phép theo dõi tài liệu an toàn trong các cài đặt pháp lý, chăm sóc sức khỏe hoặc học thuật.
+- Tích hợp với các nền tảng nội dung để sắp xếp hoặc lọc dựa trên siêu dữ liệu.
+- Cung cấp siêu dữ liệu cho hệ thống AI để tóm tắt, phân loại hoặc phân cụm.
+- Hỗ trợ siêu dữ liệu về tính khả dụng như ngôn ngữ, cấu trúc tài liệu và gợi ý văn bản thay thế.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Hợp nhất các tệp XLT cho Quy trình làm việc Excel dựa trên mẫu
+
+XLT là định dạng Mẫu Excel cho `.xls` (Excel 97-2003). Hợp nhất các tệp `.xlt` giúp chuẩn hóa và cập nhật các mẫu cũ thành một cấu trúc thống nhất.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Thống nhất Mẫu Cũ**  
+  Kết hợp nhiều mẫu `.xlt` thành một mẫu chính để tương thích ngược.
+
+- **Chuẩn hóa Mẫu Bộ phận**  
+  Hợp nhất các mẫu cũ để đánh giá và phát triển một lựa chọn `.xltx` hiện đại.
+
+- **Lưu trữ Mẫu Lịch sử**  
+  Tổng hợp các phiên bản `.xlt` cũ hơn cho việc tuân thủ hoặc tham khảo lịch sử.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików TSV dla lekkiej integracji danych
+
+Pliki TSV (wartości oddzielone tabulatorem) są podobne do plików CSV, ale używają tabulatorów jako separatorów. Scalanie plików `.tsv` jest przydatne podczas pracy z czystymi, uporządkowanymi zbiorami danych w pracach opartych na tekście.
+
+#### Przykłady użycia:
+
+- **Czyste potoki danych**  
+  Scalanie wyników `.tsv` z przetwarzania danych, procesów ETL lub plików dziennika do zbioru danych głównego.
+
+- **Analiza naukowa lub statystyczna**  
+  Połączenie plików danych z eksperymentów `.tsv` dla skonsolidowanej oceny statystycznej.
+
+- **Integracja międzysystemowa**  
+  Scalanie danych `.tsv` z różnych platform (dzienniki Linuxa, sensory, interfejsy API) dla scentralizowanego pobierania.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

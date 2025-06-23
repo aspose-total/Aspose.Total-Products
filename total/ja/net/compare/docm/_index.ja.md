@@ -73,7 +73,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+マクロに注意した文書監査用途のDOCMファイル比較：
+
+DOCM（Microsoft Wordマクロ有効化文書）ファイルは埋め込みマクロをサポートしています。2つのDOCMファイルを比較することで、ユーザーはコンテンツの変更だけでなく、マクロロジックの更新も検出でき、セキュリティ、コンプライアンス、および開発ワークフローにとって重要です。
+
+- **マクロ変更の検出**  
+  バージョン間でマクロが追加、削除、または変更された場合を特定します。
+
+- **文書の整合性監査**  
+  規制環境で文書の内容とマクロの動作が一貫していることを確認します。
+
+- **自動化プロジェクトのバージョンレビュー**  
+  マクロ強化されたレポート、請求書、またはフォーム生成器の更新を追跡します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP (OpenDocument Presentation) to otwarty standardowy format używany do tworzenia i udostępniania prezentacji, głównie w pakietach biurowych typu open-source. Adnotowanie plików ODP poprawia współpracę i walidację treści, zwłaszcza w przypadkach użycia międzyplatformowego lub w sektorze rządowym/edukacyjnym.
+
+#### Adnotacja plików ODP dla przypadków użycia współpracy przy prezentacjach w formacie otwartym:
+
+- **Recenzje zespołu open-source**  
+  Dodawanie komentarzy dotyczących poprawek treści slajdów, problemów z projektem lub brakujących elementów w środowiskach współpracy.
+
+- **Rozwój prezentacji w sektorze publicznym**  
+  Wstawianie adnotacji, aby spełnić wytyczne polityki, standardy zgodności lub wymagania dostępności podczas recenzji.
+
+- **Opinie zwrotne dotyczące treści międzyplatformowych**  
+  Wykorzystywanie adnotacji do identyfikowania niezgodności w formatowaniu lub układzie między różnymi pakietami biurowymi.
+
+- **Opinie zwrotne dotyczące slajdów edukacyjnych**  
+  Udzielanie komentarzy uczącym się lub instruktorom w środowiskach akademickich za pomocą prezentacji w formacie otwartym.
+
+- **Kontrola wersji i rozwój iteracyjny**  
+  Podkreślanie edycji slajdów lub zmian treści podczas rewizji dokumentu w celu poprawy śledzenia i koordynacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

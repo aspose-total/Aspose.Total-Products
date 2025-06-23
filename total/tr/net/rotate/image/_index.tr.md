@@ -73,7 +73,21 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Görüntü Döndürme Kullanım Senaryoları
+
+- Manzara veya portre modunda çekilen görüntülerin yönlendirmesini düzeltin.
+- Yanlış veya ters görünen taranmış belgeleri veya fotoğrafları ayarlayın.
+- Galerilerde, sunumlarda veya raporlarda tutarlı görüntüleme için görselleri düzgün hizalayın.
+- İkonlar, UI bileşenleri veya diyagramlar gibi tasarım varlıklarını düzgün yerleşim gereksinimlerine uyacak şekilde döndürün.
+- Baskı veya yayınlama için görüntüleri doğru yönlendirmeye hazırlayın.
+- Farklı kaynaklardan veya cihazlardan içe aktarırken görüntü yönlendirmesini standartlaştırın.
+- eKitaplar, belgeler veya web sayfalarındaki içeriğin okunabilirliğini artırın.
+- Ürün veya katalog görüntülerini gereken en boy oranına uydurmak için döndürün.
+- Meta verilere dayanarak görüntü yönlendirmesini otomatik olarak düzelterek kullanıcı deneyimini iyileştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

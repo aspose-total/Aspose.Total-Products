@@ -78,7 +78,27 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Komprimera DOT-filer för hantering av äldre Word-mallar
+
+DOT-filer (Word 97–2003-mallar) är äldre Word-mallar som kan innehålla rik formatering eller bilder. Genom att komprimera DOT-filer blir äldre mallsystem mer effektiva och portabla.
+
+#### Användningsfall:
+
+- **Mallbiblioteksrensning**  
+  Minska DOT-filstorlekar för att bibehålla en kompakt och organiserad mallförvaring.
+
+- **Snabbare laddning på äldre system**  
+  Mindre DOT-filer förbättrar svarstiderna på äldre maskiner eller virtuella miljöer.
+
+- **Kompakt backuplagring**  
+  Arkivera äldre mallar i komprimerad form för att minska lagringskostnaderna på lång sikt.
+
+- **Företagspolicy-mallar**  
+  Möjliggör snabbare distribution av standard-DOT-mallar över avdelningar.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

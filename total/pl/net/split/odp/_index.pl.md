@@ -74,7 +74,14 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Format prezentacji OpenDocument .odp — Przypadki użycia podziału
+
+- Podziel pliki ODP dla narzędzi prezentacyjnych typu open-source, aby ułatwić edycję i udostępnianie.
+- Zorganizuj prezentacje na sekcje, aby ułatwić zarządzanie i ukierunkowaną dostawę.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,20 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Gebruiksscenario's voor het splitsen van PDF-documenten
+
+- Haal relevante pagina's uit grote PDF-bestanden voor gemakkelijker delen en beoordelen.
+- Splits meerdelige rapporten of contracten op in afzonderlijke documenten.
+- Maak samenwerking bij bewerking of annotatie mogelijk door kleinere PDF-delen te verspreiden.
+- Bescherm gevoelige informatie door het splitsen en controleren van toegang tot verschillende secties.
+- Maak gepersonaliseerde documenten door aparte PDF's te genereren vanuit hoofdbestanden.
+- Verklein de bestandsgrootte om te voldoen aan e-mail- of uploadbeperkingen door PDF's te splitsen.
+- Archiveer documenten efficiënter door inhoud te categoriseren in kleinere bestanden.
+- Herorganiseer en stel aangepaste PDF's samen door relevante pagina's te splitsen en samenvoegen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

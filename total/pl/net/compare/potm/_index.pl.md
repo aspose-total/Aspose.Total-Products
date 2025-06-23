@@ -71,7 +71,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Przypadki użycia: Porównywanie plików POTM w celu zachowania spójności szablonu w prezentacjach z makrami
+
+Pliki POTM (szablony z włączonymi makrami programu PowerPoint) przechowują szablony prezentacji z wbudowanymi makrami VBA. Porównywanie plików POTM jest istotne dla identyfikowania zmian w układzie, projekcie i logice automatyzacji w różnych wersjach szablonu.
+
+- **Śledzenie aktualizacji makr w makroprzepływie**  
+  Wykrywanie modyfikacji w wbudowanych makrach i zapewnienie, że sekwencje automatyzacji odpowiadają zamierzonej logice.
+
+- **Weryfikacja wersji szablonu**  
+  Porównywanie zaktualizowanych szablonów z oryginalnymi wersjami w celu potwierdzenia strukturalnej i wizualnej spójności.
+
+- **Audyt zmian dla standaryzowanych slajdów**  
+  Podkreślenie zmian w slajdach głównych lub konfiguracjach układu, które wpływają na wszystkie prezentacje oparte na szablonie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

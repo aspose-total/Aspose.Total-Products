@@ -76,7 +76,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS는 초기 Excel 버전에서 사용되던 레거시 이진 스프레드시트 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 스프레드시트를 오래된 것, 보관용 또는 초안으로 레이블 지정
+- 소유자 식별 또는 작성 날짜 추가
+- 무단 수정에 대한 경고
+- 데이터를 내부 사용으로만 표시
+- 감사 제출용 스프레드시트 식별
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### モダンなExcelワークフローのためのXLSXファイルのマージ
+
+XLSXはモダンなExcelワークブックのデフォルト形式です。`.xlsx`ファイルのマージは、統一されたレポート作成、データ分析、コラボレーションのための最も一般的な手法です。
+
+#### ユースケース:
+
+- **月次部門レポート**  
+  部門ごとの`.xlsx`レポートを1つのダッシュボード用ワークブックにマージします。
+
+- **データ提出の統合**  
+  複数のユーザーまたはオフィスから提出された`.xlsx`フォームやテンプレートを結合します。
+
+- **プロジェクト文書の編纂**  
+  `.xlsx`プロジェクトの追跡や予算シートを1つの完全なワークブックにマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir Arquivos XLS para Integração de Dados do Excel Legado
+
+XLS é o formato binário usado por versões mais antigas do Microsoft Excel. A fusão de vários arquivos `.xls` ajuda a consolidar dados históricos em sistemas modernos para análise ou arquivamento.
+
+#### Casos de Uso:
+
+- **Relatórios Financeiros Legados**  
+  Combine relatórios financeiros antigos do Excel para análise de tendências históricas ou preparação de auditoria.
+
+- **Registros de RH Históricos**  
+  Fundir registros antigos de funcionários ou arquivos de folha de pagamento mantidos no formato `.xls` em um único arquivo unificado.
+
+- **Atualização de Arquivos de Dados**  
+  Consolide arquivos `.xls` antes de convertê-los para `.xlsx` ou outros formatos modernos para melhorar a compatibilidade e o processamento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

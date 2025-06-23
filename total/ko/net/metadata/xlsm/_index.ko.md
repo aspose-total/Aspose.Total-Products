@@ -84,7 +84,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧠 매크로 활성화 워크북(`.xlsm`)의 사용 사례
+
+- 내장된 메타데이터를 사용하여 활성 스크립트가 있는 워크북 식별.
+- 컴플라이언스 팀이 매크로 사용을 분류하고 감사하는 데 도움.
+- 민감한 금융 모델을 위한 메타데이터 트리거된 경고 지원.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,19 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+O PPT é o formato de apresentação legado usado em versões mais antigas do Microsoft PowerPoint.
+
+**Os casos de uso comuns incluem:**
+
+- Rotular slides como Confidencial, Apenas Treinamento ou Interno
+- Incorporar nome do apresentador, organização ou evento
+- Avisar contra distribuição com Não Compartilhar
+- Marcar com logotipos corporativos ou nomes de projetos
+- Sinalizar conteúdo para revisão ou aprovação
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

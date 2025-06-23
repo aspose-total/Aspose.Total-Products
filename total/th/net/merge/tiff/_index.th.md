@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### รวมไฟล์ TIFF สำหรับการรวมรูปภาพคุณภาพสูง
+
+TIFF (Tagged Image File Format) ใช้กันอย่างแพร่หลายสำหรับรูปภาพคุณภาพสูงที่ต้องการการบีบอัดแบบไม่สูญเสียหรือไม่มีการบีบอัดเลย การรวมไฟล์ `.tiff` เป็นประโยชน์สำหรับการรวมสแกน สร้างเอกสารหลายหน้า หรือรูปภาพขนาดใหญ่
+
+#### การใช้งาน:
+
+- **สร้างเอกสารหลายหน้า**  
+  รวมไฟล์ `.tiff` หลายๆ ไฟล์ที่แทนหน้าของเอกสารเข้าด้วยกันเป็นไฟล์หน้าเอกสารเดียวสำหรับการดูหรือพิมพ์ง่ายขึ้น
+
+- **สแกนความละเอียดสูง**  
+  รวมไฟล์ `.tiff` ที่มีสแกนของส่วนต่างๆ ของงานศิลปะ เอกสาร หรือแบบแผนเข้าด้วยกันเป็นรูปภาพความละเอียดสูงเดียว
+
+- **การเก็บถาวรและการอนุรักษ์**  
+  รวมไฟล์ `.tiff` เพื่อวัตถุประสงค์การเก็บถาวรที่คุณภาพของรูปภาพและการอนุรักษ์รายละเอียดมีความสำคัญ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

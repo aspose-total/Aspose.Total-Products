@@ -78,7 +78,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM（Excel Macro-Enabled Workbook）は、マクロを介した自動化をサポートしています。これらのファイルに注釈を付けることで、チームはマクロの結果をフラグ付けしたり、自動化された変更を文書化したり、ロジックの結果を検証したりできます。
+
+#### マクロ駆動ワークフローのためのXLSMファイルに注釈を付ける - ユースケース：
+
+- **マクロ結果の分析**：検証のために自動生成されたデータにコメントを付ける。
+- **自動化フィードバック**：成功または失敗した実行を示すために出力に注釈を付ける。
+- **コードレビュー**：マクロのロジックやデータへの影響に関連するノートを追加する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

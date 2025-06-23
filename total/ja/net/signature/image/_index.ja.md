@@ -71,7 +71,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+＃電子署名を使用した画像ファイルの署名のユースケース
+
+## スキャンされた法的文書
+手書きの合意書や公証書類のスキャン画像（JPG、PNG、またはTIFF形式）は、真正性を検証するためにデジタル署名できます。
+
+## ID確認と個人記録
+KYCやオンボーディングに使用されるパスポート、IDカード、公共料金請求書の画像は、改ざんされていないことを確認するために電子的に署名できます。
+
+## 医療画像
+X線や検査結果などのスキャン画像（TIFFまたはPNG）は、認定された医療施設からのものであることを確認するためにデジタル署名できます。
+
+## アートワークとクリエイティブな提出物
+画像形式のデザイン、イラスト、またはマーケティンググラフィックスは、知的財産権を主張するために署名できます。
+
+## 検査とコンプライアンスの写真
+監査、検査、またはコンプライアンスチェック中に撮影された写真は、場所、時間、および証拠の真正性を証明するためにしばしばデジタルで署名されます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,20 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Gebruiksscenario's voor Documentopsplitsing
+
+- Verdeel grote rapporten, handleidingen of onderzoeksdocumenten in kleinere, beheersbare bestanden.
+- Wijs verschillende secties van een document toe aan verschillende teamleden voor onafhankelijke bewerking.
+- Automatiseer workflows door specifieke delen van een document afzonderlijk te verwerken.
+- Maak grote bestanden gemakkelijker deelbaar door ze op te splitsen in kleinere bijlagen voor e-mail of upload.
+- Genereer gepersonaliseerde documenten (bijv. certificaten, facturen of brieven) vanuit een enkel masterbestand.
+- Organiseer inhoud voor gemakkelijkere opslag, doorzoekbaarheid en naleving van documentbeheersystemen.
+- Deel alleen relevante secties van gevoelige documenten terwijl vertrouwelijke gegevens veilig blijven.
+- Verspreid educatief of trainingsmateriaal in kleinere, op onderwerp gerichte bestanden voor een verbeterde leerervaring.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

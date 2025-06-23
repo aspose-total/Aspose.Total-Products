@@ -87,7 +87,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการแยกวิเคราะห์ไฟล์ .odp
+
+- 📄 สกัดเนื้อหาจากไฟล์ OpenDocument Presentation
+- 🔁 แปลงไฟล์ `.odp` เป็น PowerPoint หรืองานนำเสนอทางเว็บ
+- 🖼️ เก็บถาวรและจัดเก็บดัชนีสไลด์ `.odp` สำหรับการค้นหาและใช้ซ้ำ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

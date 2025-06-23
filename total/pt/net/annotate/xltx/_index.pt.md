@@ -78,7 +78,17 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Os arquivos XLTX (Modelo do Excel - Open XML) são usados para relatórios padronizados e repetíveis. Anotá-los garante clareza sobre as regiões editáveis, expectativas de entrada e sugestões de revisão.
+
+#### Anotar Arquivos XLTX para Modelos de Relatório Reutilizáveis - Casos de Uso:
+
+- **Instruções do Relatório**: Adicione dicas de uso ou notas de atualização para relatórios recorrentes.
+- **Feedback de Design**: Anote visuais, cabeçalhos ou estruturas de seção.
+- **Colaboração do Usuário**: Acompanhe sugestões de vários departamentos em um modelo compartilhado.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

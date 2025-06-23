@@ -106,7 +106,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tập tin POTX (Mẫu PowerPoint) được sử dụng để tạo các mẫu trình bày không chứa mã macro. Chú thích tập tin POTX đảm bảo rõ ràng về tiêu chuẩn thiết kế và hỗ trợ sự phối hợp của nhóm trong việc sử dụng các bố cục trình bày có thể tái sử dụng.
+
+#### Chú thích Tập tin POTX cho các Trường hợp Sử dụng Phản hồi về Mẫu Trình bày Tiêu chuẩn:
+
+- **Xác thực Thương hiệu**  
+  Thêm chú thích để xác minh việc sử dụng phông chữ, màu sắc và cấu trúc trang phù hợp với hướng dẫn thương hiệu.
+
+- **Hướng dẫn Điền vào Chỗ Đặt Ảnh**  
+  Nhận xét về cách sử dụng hoặc điền nội dung cụ thể cho người dùng cuối.
+
+- **Xây dựng Mẫu cộng tác**  
+  Đề xuất cải tiến bố cục hoặc vùng nội dung trong quá trình thiết kế mẫu chia sẻ.
+
+- **Mẫu Trình bày Giáo dục**  
+  Thêm ghi chú giảng dạy hoặc hướng dẫn cho các mẫu học thuật.
+
+- **Hướng dẫn Địa phương hóa**  
+  Chú thích các phần cần dịch hoặc điều chỉnh cụ thể cho khu vực.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

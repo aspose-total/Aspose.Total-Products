@@ -74,7 +74,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名でODTファイルに署名する使用例
+
+ODTファイルはLibreOfficeやOpenOfficeなどのオープンソース環境で使用されます。ODT内のデジタル署名は、非Microsoftテキストドキュメントの起源と整合性を保証します。
+
+## 一般的な使用例
+- レポートや論文の草案を共有する教育機関。
+- NGOやオープンソースの貢献者が公式の手紙を作成する場合。
+- ODT形式の公共部門の文書。
+- ODTが好まれるクロスボーダーの協力。
+- 電子承認を必要とする内部方針文書。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 DOCX 파일에 서명하는 사용 사례
+
+DOCX는 Microsoft Word의 기본 형식이며 디지털 및 전자 서명 플랫폼과의 견고한 통합을 지원합니다.
+
+## 일반적인 사용 사례
+- 취업 제안서 및 인사 계약서.
+- 디지턈 인증이 필요한 법적 문서.
+- 학술 편지, 증명서 및 성적표.
+- 기업 전략 문서 및 회의록.
+- 고객 제안서 및 승인된 서명이 필요한 프로젝트 범위.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

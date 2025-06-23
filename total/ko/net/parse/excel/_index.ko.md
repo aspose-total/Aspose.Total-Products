@@ -87,7 +87,26 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel 파일 (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) 구문 분석 사용 사례
+
+- 📈 **데이터 추출**  
+  스프레드시트에서 셀 값, 수식 및 범위를 구문 분석하여 분석이나 대시보드에 사용합니다.
+
+- 🧮 **템플릿 처리**  
+  `.xlt`, `.xltx`, `.xltm` 템플릿을 사용하여 보고서, 재무제표 또는 예측을 작성합니다.
+
+- 🤖 **매크로 인식 구문 분석**  
+  매크로 인식을 통해 `.xlsm` 및 `.xltm` 형식을 처리하여 자동화 논리를 피하거나 보존합니다.
+
+- 🔍 **구조화된 데이터 가져오기**  
+  `.csv`, `.tsv`, 또는 `.xlsx` 콘텐츠를 데이터베이스, 앱 또는 API로 가져옵니다.
+
+- 🗃️ **데이터 이전**  
+  `.xls`, `.xlsb`, 및 `.xlsx` 시트를 JSON, XML 또는 다른 구조화된 형식으로 변환하여 통합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM（Microsoft Word Macro-Enabled Document）ファイルは、自動化のためのマクロの統合をサポートします。DOCMファイルに注釈を付けることで、マクロによって行われた変更を追跡し、自動化されたプロセスの周囲に重要な文脈を提供し、共同レビューを容易にします。
+
+#### マクロ有効ドキュメントの共同利用ケースのためのDOCMファイル注釈：
+
+- **マクロワークフロードキュメント**  
+  各マクロの目的、期待される出力、およびドキュメントの自動化における役割を説明するために、マクロ有効ドキュメントに注釈を付けます。
+
+- **マクロ機能のユーザー向け指示**  
+  ユーザーがマクロとやり取りする方法や自動化されたアクションに必要な入力についてユーザーをガイドするために、文書に注釈を追加します。
+
+- **デバッグとエラートラッキング**  
+  マクロが失敗するセクションやデータが不正確に入力されるセクションを強調するためにコメントを挿入し、デバッグを支援します。
+
+- **自動化フィードバック**  
+  マクロが表の作成、書式設定、またはコンテンツの挿入などのドキュメントタスクを自動化する際の効果に関するフィードバックを提供します。
+
+- **マクロ生成コンテンツのレビュー**  
+  マクロによって生成されたコンテンツが手動でレビューや修正が必要な場所に注釈を付けます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

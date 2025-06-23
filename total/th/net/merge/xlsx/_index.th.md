@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLSX สำหรับกระบวนการทำงานใน Excel รุ่นใหม่
+
+XLSX เป็นรูปแบบเริ่มต้นสำหรับสมุดงาน Excel รุ่นใหม่ การผสานไฟล์ `.xlsx` เป็นปฏิบัติที่พบมากที่สุดสำหรับรายงานรวม การวิเคราะห์ข้อมูล และการทำงานร่วมกัน
+
+#### การใช้งาน:
+
+- **รายงานแผนกรายเดือน**  
+  ผสานรายงานแผนก `.xlsx` เข้าด้วยกันเป็นสมุดงานพร้อมสำหรับการแสดงผลบนแดชบอร์ด
+
+- **การรวมการส่งข้อมูล**  
+  รวมแบบฟอร์มหรือเทมเพลต `.xlsx` ที่ส่งมาจากผู้ใช้หลายคนหรือสำนักงานหลายแห่ง
+
+- **การรวบรวมเอกสารโครงการ**  
+  ผสานแผนการติดตามโครงการหรืองบประมาณ `.xlsx` เข้าไว้ในสมุดงานเดียว
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

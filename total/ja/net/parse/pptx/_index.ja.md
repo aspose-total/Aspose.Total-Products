@@ -87,7 +87,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .pptxファイルの解析用途
+
+- 🖼️ ウェブやアプリの利用のためにスライドのテキスト、画像、およびメタデータを抽出します。
+- 🔁 プレゼンテーションの生成と変換ワークフローを自動化します。
+- 📽️ `.pptx`ファイルをHTML、PDF、またはインタラクティブな形式に変換します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

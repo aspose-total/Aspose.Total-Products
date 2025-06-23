@@ -93,7 +93,26 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Przetwarzanie dokumentów programu Microsoft Word (doc, docm, docx, dot, dotm, dotx, odt, rtf) - Przykłady użycia
+
+- 📄 **Wyodrębnianie Zawartości**  
+  Wyodrębnij tekst, tabele i obrazy z dokumentów programu Word do wyświetlania w sieci, indeksowania w wyszukiwarkach lub analizy tekstu.
+
+- 📰 **Przetwarzanie Szablonów**  
+  Użyj szablonów `.dot`, `.dotx`, `.dotm` do automatycznego generowania dokumentów z dynamicznymi danymi w procesach roboczych.
+
+- 🔁 **Automatyzacja Procesów**  
+  Zautomatyzuj analizę i zamianę treści w plikach `.docm` lub `.dotm`, które zawierają osadzone makra.
+
+- 🧾 **Konwersja Raportów**  
+  Konwertuj pliki `.doc`, `.odt` lub `.rtf` na czysty HTML, Markdown lub PDF do publikacji lub dokumentacji.
+
+- 📚 **Archiwizacja Cyfrowa**  
+  Zarchiwizuj przestarzałe formaty takie jak `.doc` i `.rtf`, konwertując je i indeksując dla nowoczesnych platform.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

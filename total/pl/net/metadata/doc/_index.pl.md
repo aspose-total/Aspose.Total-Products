@@ -81,7 +81,17 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Przypadki użycia dokumentu programu Microsoft Word (`.doc`)
+
+- Śledzenie autorstwa oraz historii tworzenia/modyfikacji.
+- Zwiększenie możliwości wyszukiwania dokumentów za pomocą tytułu, tematu i słów kluczowych.
+- Osadzanie metadanych prawnych lub licencyjnych w celu ochrony dokumentu.
+- Automatyzacja prac na podstawie pól metadanych (np. zasady archiwizacji).
+- Pomoc w klasyfikacji treści oraz zarządzaniu retencją.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

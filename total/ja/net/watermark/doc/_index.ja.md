@@ -83,7 +83,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC形式は、古いシステムでまだ使用されている、Microsoft Wordのバイナリファイルの遺産ファイル形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- 文書を「アーカイブ済み」、「遺産」、「時代遅れ」としてラベル付けする
+- 著者や部署名を埋め込む
+- 法的免責事項やコンプライアンスメッセージを適用する
+- 最終コピーとしてマークして編集や再利用を防ぐ
+- 記録保持と監査トレイルをサポート
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

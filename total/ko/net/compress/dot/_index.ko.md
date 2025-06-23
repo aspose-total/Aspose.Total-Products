@@ -78,7 +78,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 레거시 워드 템플릿 관리를 위한 DOT 파일 압축
+
+DOT (Word 97-2003 템플릿) 파일은 풍부한 서식이나 이미지가 포함될 수 있는 오래된 워드 템플릿입니다. DOT 파일을 압축하면 레거시 템플릿 시스템이 더 효율적이고 휴대성이 높아집니다.
+
+#### 사용 사례:
+
+- **템플릿 라이브러리 정리**  
+  DOT 파일 크기를 줄여서 간결하고 조직적인 템플릿 저장소를 유지합니다.
+
+- **레거시 시스템에서 빠른 로딩**  
+  작은 DOT 파일은 오래된 기기나 가상 환경에서 응답 시간을 개선합니다.
+
+- **콤팩트한 백업 저장소**  
+  압축된 형태로 레거시 템플릿을 아카이브하여 장기 저장 비용을 줄입니다.
+
+- **기업 정책 템플릿**  
+  부서 간에 표준 DOT 템플릿을 빠르게 배포할 수 있도록 합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

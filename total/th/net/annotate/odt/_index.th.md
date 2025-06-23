@@ -123,7 +123,31 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ ODT (OpenDocument Text) เป็นส่วนหนึ่งของมาตรฐาน OpenDocument ที่ใช้โดยโปรแกรมประมวลผลคำเหมือน LibreOffice และ OpenOffice การทำเครื่องหมายบนไฟล์ ODT ช่วยในการแก้ไขร่วมกัน การให้ข้อเสนอแนะโครงสร้าง และการสร้างเอกสารอย่างละเอียดภายในระบบ open-source ecosystem
+
+#### การทำเครื่องหมายบนไฟล์ ODT สำหรับการใช้งานร่วมกันและการทบทวนโครงสร้าง:
+
+- **การแก้ไขเอกสารร่วมกัน**  
+  ใช้การทำเครื่องหมายเพื่อให้ข้อเสนอแนะในเอกสาร แนะนำการเปลี่ยนแปลง หรือขอความชัดเจนจากผู้ร่วมงาน
+
+- **เอกสารโครงการ Open-Source**  
+  เพิ่มบันทึกในเอกสารทางเทคนิค คู่มือผู้ใช้ หรือข้อมูลเทคนิคเพื่อคำแนะนำผู้ทบทวนและรักษาความสอดคล้อง
+
+- **การทบทวนกฎหมายและความเป็นไปตาม**  
+  สัญญาบที่ต้องการทบทวนหรือเน้นปัญหาการปฏิบัติตามโดยใช้ความคิดเห็นที่มีบทบาทสำหรับการตรวจสอบโปร่งใส
+
+- **การทบทวนจากเพื่อนวิชาการ**  
+  แทรกการทำเครื่องหมายเพื่อประเมินข้อความ ชี้แจงข้ออ้างอิงที่ขาดหาย หรือแนะนำการปรับปรุงในเอกสารวิจัย
+
+- **คำแนะนำและการใช้ซ้ำแม่แบบ**  
+  ทำเครื่องหมายบนแม่แบบ ODT ที่ใช้ซ้ำกับกฎการจัดรูปแบบ คำอธิบายตำแหน่งว่าง หรือคำแนะนำเกี่ยวกับการตราบ
+
+- **การติดตามเวอร์ชันและประวัติการทบทวน**  
+  รักษาความคิดเห็นในระหว่างเวอร์ชันของเอกสารเพื่อติดตามการเปลี่ยนแปลงและข้อเสนอแนะตลอดเวลา
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### รวมไฟล์ XLSM สำหรับการทำงานของ Excel ที่ใช้แมโคร
+
+ไฟล์ XLSM คือสมุดงาน Excel ที่เปิดใช้แมโครได้ การรวมไฟล์ `.xlsm` จะต้องรักษาข้อมูลและแมโครที่ฝังอยู่ที่ใช้สำหรับการอัตโนมัติหรือการคำนวณ
+
+#### กรณีการใช้งาน:
+
+- **รายงานงานอัตโนมัติ**  
+  รวมแผ่นงานที่เปิดใช้แมโครที่อัตโนมัติรายงานหรืองานตรวจสอบเข้าไปในไฟล์กลาง
+
+- **รวมเทมเพลตของขั้นตอนการทำงาน**  
+  รวมเทมเพลต `.xlsm` ที่ใช้ในแผนกต่าง ๆ เข้าไปในสมุดงานเดียวเพื่อการอัตโนมัติที่เรียบง่าย
+
+- **คลังรหัส VBA ที่ใช้รวมกัน**  
+  รวมไฟล์ที่มีแมโครที่คล้ายกันเข้าด้วยกันเพื่อรวมตรรกะและลดการทำซ้ำซ้อนในแผนกต่าง ๆ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

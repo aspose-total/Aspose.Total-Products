@@ -76,7 +76,26 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Các Trường Hợp Sử Dụng của Định Dạng Bảng Tính Ký Điện Tử
+
+## Báo Cáo Tài Chính và Ngân Sách
+Các tệp XLS, XLSX và ODS được sử dụng rộng rãi cho báo cáo tài chính, bảng cân đối kế toán và kế hoạch ngân sách. Chữ ký số xác nhận tính chính xác dữ liệu và sự chấp thuận của người xem xét.
+
+## Dữ Liệu Lương và Nhân Sự
+Tóm tắt lương và phân tích nhân sự được chia sẻ dưới dạng bảng tính có thể được ký điện tử để đảm bảo sự riêng tư và tính toàn vẹn trong quá trình xem xét nội bộ hoặc kiểm toán.
+
+## Báo Giá Nhà Cung Cấp và Bảng Mua Sắm
+Các mẫu báo giá, danh sách sản phẩm và ước lượng chi phí thường được chia sẻ dưới dạng bảng tính. Chữ ký điện tử hóa chấp nhận và ngăn chặn chỉnh sửa sau khi nộp.
+
+## Hồ Sơ Kiểm Toán và Tuân Thủ
+Kiểm toán viên sử dụng bảng tính để tổng hợp và báo cáo kết quả. Chữ ký số chứng nhận rằng dữ liệu không bị thay đổi sau khi được chấp thuận.
+
+## Hồ Sơ Kho và Chuỗi Cung Ứng
+Các tệp theo dõi hàng tồn kho, nhật ký vận chuyển và dữ liệu nhà cung cấp trong định dạng ODS hoặc XLSX được ký điện tử để đảm bảo tính nhất quán trong các hoạt động và ngăn chặn sự can thiệp vào dữ liệu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

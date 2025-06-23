@@ -84,7 +84,26 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF 파싱 사용 사례
+
+- 🔍 **텍스트 및 테이블 추출**  
+  보고서 또는 검색 인덱싱을 위해 PDF에서 단락, 테이블 또는 양식 값을 추출합니다.
+
+- 🧾 **송장 및 양식 처리**  
+  구조화된 양식 및 송장을 구문 분석하여 데이터베이스 또는 회계 시스템을 자동으로 채웁니다.
+
+- 🎨 **레이아웃 분석**  
+  시각적 구조(열, 섹션)를 감지하여 정확한 HTML 또는 Markdown으로 변환합니다.
+
+- 🧠 **OCR 및 검색 가능성**  
+  구문 분석 전에 OCR을 사용하여 스캔된 PDF를 검색 가능한 텍스트로 변환합니다.
+
+- 🗂️ **디지털 아카이빙 및 규정 준수**  
+  관련 콘텐츠 또는 메타데이터를 추출하고 태깅하여 PDF 문서를 아카이빙하고 감사합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Scalanie plików JPG (format obrazu JPEG) do archiwizacji wizualnej i konsolidacji projektów
+
+JPG to skompresowany format obrazu szeroko stosowany do fotografii i grafiki internetowej. Scalanie plików JPG wspiera prezentacje, archiwizację i dokumentację wizualną.
+
+#### Przykłady użycia:
+
+- **Tworzenie albumu ze zdjęć**  
+  Scalaj zdjęcia z wakacji lub wydarzeń w pojedynczą kolaż lub pokaz slajdów.
+
+- **Materiały marketingowe**  
+  Połącz wiele zasobów wizualnych w broszury lub arkusze promocyjne.
+
+- **Dokumentacja oparta na obrazach**  
+  Scal zrzuty ekranu lub dzienniki wizualne w jedno przewodnik lub raport dowodowy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

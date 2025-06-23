@@ -75,7 +75,27 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Eski Excel Şablon Optimizasyonu için XLT Dosyalarını Sıkıştırın
+
+XLT (Excel 97–2003 Şablon) dosyaları, gömülü öğeler veya örnek veriler nedeniyle büyük hale gelebilir. XLT dosyalarını sıkıştırmak, şablon kütüphanelerini daha ince ve dağıtımı daha kolay hale getirir.
+
+#### Kullanım Alanları:
+
+- **Eski Şablon Taşınabilirliği**  
+  Standart şablonları sıkıştırılmış olarak göndererek daha hızlı dağıtım için eski kurumsal sistemlere.
+
+- **Şablon Deposu Verimliliği**  
+  Merkezi erişim ve hızlı geri alım için şablon arşivlerini hafif tutun.
+
+- **Şablon Yükleme Süresinin Azaltılması**  
+  Eski sistemleri optimize etmek için XLT dosyalarını sıkıştırarak daha hızlı açma ve kullanma.
+
+- **Yedekleme ve Depolama Optimizasyonu**  
+  Sıkıştırma yoluyla eski şablonların uzun vadeli depolamasını en aza indirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

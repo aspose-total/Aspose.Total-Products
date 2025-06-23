@@ -73,7 +73,22 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### So sánh tệp RTF cho các trường hợp sử dụng kiểm tra tài liệu đa nền tảng:
+
+Các tệp RTF (Rich Text Format) được sử dụng rộng rãi để trao đổi tài liệu nhẹ. So sánh các tệp RTF hỗ trợ xác thực các thay đổi về nội dung và định dạng trong môi trường nơi tính đa nền tảng quan trọng.
+
+- **Xác thực Nội dung Đa Nền tảng**  
+  Phát hiện các thay đổi về định dạng hoặc từ ngữ trên các hệ thống hoặc công cụ khác nhau.
+
+- **Đánh giá Phiên bản Tài liệu**  
+  So sánh các tài liệu đào tạo hoặc tài liệu trợ giúp được cập nhật bởi nhiều người đóng góp.
+
+- **Kiểm tra Tương thích Kế thừa**  
+  Đảm bảo các thay đổi được thực hiện trong các hệ thống dựa trên RTF không ảnh hưởng đến cấu trúc hoặc kiểu dáng.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

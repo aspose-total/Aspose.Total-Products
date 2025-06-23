@@ -76,7 +76,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX는 현대 Excel 스프레드시트의 표준 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 초안, 기밀 또는 확인된 데이터 표시
+- 브랜딩 또는 소유권 세부 정보 포함
+- 배포 금지 경고로 모델 보호
+- 규정 준수를 위한 데이터 플래그 지정
+- 협업 또는 고객 검토용 버전 식별
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

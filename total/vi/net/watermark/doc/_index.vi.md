@@ -83,7 +83,19 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Định dạng DOC là loại tệp nhị phân của Microsoft Word cũ, vẫn được sử dụng trong các hệ thống cũ hơn.
+
+**Các trường hợp sử dụng phổ biến bao gồm:**
+
+- Đánh dấu tài liệu là Đã lưu trữ, Cổ điển hoặc Lỗi thời
+- Nhúng tên tác giả hoặc phòng ban
+- Áp dụng các thông báo pháp lý hoặc tin nhắn tuân thủ
+- Ngăn chặn chỉnh sửa hoặc tái sử dụng bằng cách đánh dấu là Bản sao Cuối cùng
+- Hỗ trợ việc lưu trữ hồ sơ và theo dõi kiểm toán
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### レガシーテンプレート管理のためのDOTファイルのマージ
+
+DOTファイルは、Microsoft Wordの古いバージョン（DOCXより前）で使用されるWordテンプレートです。`.dot`ファイルをマージすることで、文書の書式を標準化し、レガシーシステムとの互換性を確保できます。
+
+#### ユースケース：
+
+- **テンプレートの統合**  
+  異なるチームが使用するさまざまな`.dot`テンプレートをマージして、文書作成用の単一の統一テンプレートを作成します。
+
+- **レガシーテンプレートのアーカイブ**  
+  長期保存やより現代的な`.dotx`形式への移行のために`.dot`テンプレートを結合します。
+
+- **テンプレートライブラリの更新**  
+  陳腐化した書式やスタイルを含む複数の`.dot`ファイルを1つのテンプレートに統合して、近代化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

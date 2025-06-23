@@ -78,7 +78,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLT (Excel Template) 파일은 스프레드시트를 위한 미리 정의된 구조를 제공합니다. 주석은 템플릿 사용자가 플레이스홀더를 식별하거나 지침을 제공하거나 템플릿 사용자 정의 중 피드백을 캡처하는 데 도움이 됩니다.
+
+#### 템플릿 사용자 정의를 위한 XLT 파일 주석 처리 - 사용 사례:
+
+- **템플릿 지침**: 입력 필드에 대한 끝 사용자 안내를 위해 주석 추가.
+- **템플릿 검토**: 개선을 위해 수식이나 레이아웃 제안에 주석 달기.
+- **팀 노트**: 문맥적인 노트로 템플릿의 초기 초안에 대해 협업.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

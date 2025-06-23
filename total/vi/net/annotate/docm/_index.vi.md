@@ -123,7 +123,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Các tệp DOCM (Tài liệu có Macro được kích hoạt) hỗ trợ tích hợp các macro để tự động hóa. Chú thích các tệp DOCM cung cấp ngữ cảnh cần thiết xung quanh các quy trình tự động, theo dõi các thay đổi được thực hiện bởi các macro và hỗ trợ xem xét cộng tác.
+
+#### Chú thích Tệp DOCM cho các Trường Hợp Sử Dụng Cộng Tác với Tài Liệu Có Macro:
+
+- **Tài Liệu Quy Trình Macro**  
+  Chú thích các tài liệu có macro để giải thích mục đích của mỗi macro, kết quả dự kiến và vai trò của nó trong việc tự động hóa tài liệu.
+
+- **Hướng Dẫn Người Dùng về Các Chức Năng Macro**  
+  Thêm chú thích vào tài liệu để hướng dẫn người dùng về cách tương tác với các macro hoặc đầu vào cần thiết cho các hành động tự động.
+
+- **Gỡ Lỗi và Theo Dõi Lỗi**  
+  Chèn bình luận để làm nổi bật các phần mà các macro thất bại hoặc dữ liệu được nhập không chính xác, hỗ trợ trong việc gỡ lỗi.
+
+- **Phản Hồi về Tự Động Hóa**  
+  Cung cấp phản hồi về hiệu quả của các macro trong việc tự động hóa các nhiệm vụ tài liệu như tạo bảng, định dạng hoặc điền nội dung.
+
+- **Xem Xét Nội Dung Tạo Bởi Macro**  
+  Chú thích các khu vực nơi nội dung được tạo bởi các macro cần xem xét hoặc sửa đổi thủ công.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

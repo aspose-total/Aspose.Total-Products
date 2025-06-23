@@ -83,7 +83,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODTは、LibreOfficeや類似のツールで使用されるオープンソースのワードプロセッサ形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- 公開、非公開、または内部限定ドキュメントの指定
+- 共同所有権やレビューサイクルの表示
+- 組織名やオープンライセンス情報の埋め込み
+- 公共部門リリース用のドキュメントの識別
+- 複数の著者によるドキュメントのバージョン管理のサポート
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

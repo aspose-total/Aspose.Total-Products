@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### รวมไฟล์ DOCM สำหรับเอกสาร Word ที่เปิดใช้งานแมโคร
+
+ไฟล์ DOCM เป็นเอกสาร Word ที่เปิดใช้งานแมโคร การรวมไฟล์ `.docm` เป็นประโยชน์เมื่อรวมเอกสารที่มีแมโครฝังอยู่สำหรับการอัตโนมัติหรือประมวลผล
+
+#### การใช้งาน:
+
+- **การรวมรายงานโดยอัตโนมัติ**  
+  รวมรายงาน `.docm` ที่ใช้แมโครเพื่ออัตโนมัติการสร้างข้อมูลที่จัดรูปแบบ กราฟ หรือตารางลงในเอกสารกลาง
+
+- **การสร้างเอกสารที่รองรับแมโคร**  
+  รวมไฟล์ `.docm` ที่เปิดใช้แมโครเพื่อรักษาและรวมคุณสมบัติการอัตโนมัติในรายงานหรือเอกสารต่าง ๆ
+
+- **การผสานการทำงานของเอกสาร**  
+  รวมเอกสารที่มีฟังก์ชันแมโครที่คล้ายกันเพื่อปรับปรุงการสร้างเอกสารในทีมได้อย่างมีประสิทธิภาพ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

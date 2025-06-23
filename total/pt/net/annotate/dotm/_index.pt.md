@@ -123,7 +123,28 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Os arquivos DOTM (Modelo Habilitado para Macros do Word) contêm scripts de automação para aumentar a produtividade. Anotar arquivos DOTM garante a documentação dos comportamentos das macros e facilita o rastreamento de erros e a coleta de feedback.
+
+#### Anotação de Arquivo DOTM para Revisão de Modelos Habilitados para Macros:
+
+- **Documentação de Instruções e Lógica de Macros**  
+  Anote os campos acionados por macros para esclarecer a funcionalidade e os resultados esperados.
+
+- **Revisão e Teste de Automação**  
+  Insira notas para sinalizar execuções bem-sucedidas ou falhas de macros durante os testes.
+
+- **Explicação do Comportamento do Modelo**  
+  Comente sobre seções de layout ou formatação automatizadas para ajudar os usuários a entender o fluxo do modelo.
+
+- **Incorporação de Material de Treinamento do Usuário**  
+  Adicione instruções de aprendizado diretamente nos modelos para facilitar a integração do usuário.
+
+- **Isolamento de Erros**  
+  Use anotações para isolar e explicar bugs causados pela execução da macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

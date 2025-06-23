@@ -72,7 +72,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Przypadki użycia podziału dokumentów PDF
+
+- Wyodrębnianie istotnych stron z dużych plików PDF w celu łatwiejszego udostępniania i przeglądania.
+- Rozdzielanie wielosekcyjnych raportów lub umów na osobne dokumenty.
+- Umożliwienie wspólnej edycji lub adnotacji poprzez dystrybucję mniejszych fragmentów PDF.
+- Ochrona poufnych informacji poprzez podział i kontrolowanie dostępu do różnych sekcji.
+- Tworzenie spersonalizowanych dokumentów poprzez generowanie oddzielnych plików PDF z plików głównych.
+- Zmniejszenie rozmiaru pliku, aby spełnić ograniczenia dotyczące wysyłania wiadomości e-mail lub przesyłania plików przez podział PDF.
+- Efektywniejsze archiwizowanie dokumentów poprzez kategoryzowanie treści na mniejsze pliki.
+- Przeorganizowanie i skompletowanie spersonalizowanych plików PDF poprzez podział i scalanie odpowiednich stron.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

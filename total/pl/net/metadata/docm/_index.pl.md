@@ -81,7 +81,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Przypadki użycia dla dokumentu z włączoną obsługą makr (`.docm`)
+
+- Zawierać metadane związane z makrami do śledzenia automatyzacji.
+- Zarządzać politykami bezpieczeństwa dokumentu powiązanymi z osadzonymi makrami.
+- Umożliwia automatyczną klasyfikację ryzyka na podstawie osadzonych skryptów.
+- Pomaga w identyfikowaniu celu dokumentu i związanych z nim procesów biznesowych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

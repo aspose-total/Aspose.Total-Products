@@ -75,7 +75,16 @@ We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to crea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .odp | OpenDocument 프레젠테이션 — 보호용도
+
+- 오픈 소스 환경에서 공유됨 — 보호는 다양한 플랫폼에서 디자인 무결성을 보장합니다.
+- 학술 또는 공개 프레젠테이션에서 사용됨; 슬라이드 재배열 또는 콘텐츠 조작에 대비합니다.
+- 협업 교육 환경에서 무단 편집을 방지합니다.
+- 읽기 전용 교육 덱 또는 디지털 사이니지 프레젠테이션을 배포하는 데 적합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

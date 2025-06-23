@@ -74,7 +74,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 DOC 파일에 서명하는 사용 사례
+
+마이크로소프트 워드 DOC 파일은 여전히 레거시 시스템과 법률 사무소에서 널리 사용됩니다. DOC 파일에 디지턈 서명을 적용하면 출처를 인증하고 콘텐츠가 변경되지 않았음을 보장할 수 있습니다.
+
+## 일반적인 사용 사례
+- DOC 형식으로 공유된 법적 계약서 및 합의 사항.
+- 인사 양식 및 내부 회사 메모.
+- 이전 마이크로소프트 오피스 버전에서 작성된 정부 문서.
+- 레거시 소프트웨어를 유지하는 기업의 공식 통신.
+- 디지털 확인이 필요한 기밀 제안서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

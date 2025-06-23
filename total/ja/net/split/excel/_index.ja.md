@@ -75,7 +75,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 マイクロソフトエクセル — スプレッドシート分割のユースケース
+
+- 大きなワークブックを小さなシートに分割して、データ管理を簡素化し、パフォーマンスを向上させます。
+- 特定のワークシートを異なるチームメンバーに割り当てて、同時編集を可能にします。
+- 個々の分析やレポート作成のためにセクションを分割してデータ処理を自動化します。
+- ワークブックの関連部分を共有し、全データセットを公開せずに済ませます。
+- マスターファイルをカスタマイズされたバージョンに分割して、個別のレポートを作成します。
+- 大規模な財務モデルや在庫を管理可能なチャンクに分割して管理します。
+- 機密データを別々の保護されたシートに分離して、コラボレーションを向上させます。
+- 履歴データを別々にアーカイブして、現在のファイルサイズとアクセス速度を最適化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

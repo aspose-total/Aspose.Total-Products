@@ -81,7 +81,30 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Tệp hình ảnh (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Việc kết hợp các tệp hình ảnh thành một đầu ra hình ảnh duy nhất hoặc định dạng cấu trúc (ví dụ: PDF, collage hoặc sprite) hỗ trợ quy trình thiết kế, tài liệu và xuất bản kỹ thuật số.
+
+#### Các trường hợp sử dụng:
+
+- **Tạo Album Kỹ thuật số**  
+  Kết hợp hình ảnh kỳ nghỉ, sự kiện hoặc cơ sở dữ liệu vào một bộ sưu tập hoặc sách ảnh duy nhất.
+
+- **Tích hợp Tài sản Thiết kế**  
+  Kết hợp các bản mô phỏng giao diện người dùng, đồ họa truyền thông xã hội hoặc tài sản nhãn hiệu vào một tệp tham khảo duy nhất cho việc xem xét của khách hàng.
+
+- **Nhóm Tài liệu Quét**  
+  Kết hợp các tệp hình ảnh quét thành một bản lưu trữ hoặc tài liệu duy nhất để lưu trữ hoặc chia sẻ.
+
+- **So sánh Hình ảnh và Trượt trước-sau**  
+  Kết hợp các bộ hình ảnh để tạo ra hình ảnh so sánh trong báo cáo hoặc tài liệu tiếp thị.
+
+- **Tài liệu Đào tạo hoặc Sổ tay Sản phẩm**  
+  Kết hợp các ảnh chụp màn hình được chú thích hoặc ảnh sản phẩm thành nội dung hướng dẫn tuần tự.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

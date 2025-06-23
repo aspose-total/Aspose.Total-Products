@@ -76,7 +76,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+＃電子署名を使用したスプレッドシート形式の使用事例
+
+## 財務諸表と予算
+XLS、XLSX、およびODSファイルは、財務諸表、貸借対照表、予算計画に広く使用されています。デジタル署名はデータの正確性と審査者の承認を確認します。
+
+## 給与および人事データ
+スプレッドシートとして共有される給与サマリーや人事分析は、内部レビューや監査中にプライバシーと整合性を確保するために電子的に署名されることがあります。
+
+## ベンダーの見積もりと調達シート
+見積もりフォーム、製品リスト、費用見積もりは、スプレッドシート形式で共有されることがよくあります。電子署名は受け入れを正式化し、提出後の編集を防ぎます。
+
+## 監査とコンプライアンス記録
+監査人はスプレッドシートを使用して調査結果をまとめて報告します。デジタル署名は、承認後にデータが改ざんされていないことを証明します。
+
+## 在庫とサプライチェーン記録
+在庫追跡ファイル、出荷記録、ODSまたはXLSX形式のサプライヤーデータは、オペレーション全体での一貫性を確保し、データの改ざんを防ぐためにデジタルで署名されます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

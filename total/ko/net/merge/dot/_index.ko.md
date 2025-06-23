@@ -80,7 +80,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 레거시 템플릿 관리를 위한 DOT 파일 병합
+
+DOT 파일은 Microsoft Word의 이전 버전(DOCX 이전)에서 사용되는 워드 템플릿입니다. `.dot` 파일을 병합하면 문서 서식을 표준화하고 레거시 시스템과의 호환성을 보장할 수 있습니다.
+
+#### 사용 사례:
+
+- **템플릿 통합**  
+  다양한 팀이 사용하는 다른 `.dot` 템플릿을 병합하여 문서 작성을 위한 단일하고 통합된 템플릿을 만듭니다.
+
+- **레거시 템플릿 보관**  
+  장기 보관이나 더 현대적인 `.dotx` 형식으로 이주하기 위해 `.dot` 템플릿을 결합합니다.
+
+- **템플릿 라이브러리 업데이트**  
+  오래된 서식이나 스타일을 포함하는 여러 `.dot` 파일을 하나의 템플릿으로 현대화하기 위해 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

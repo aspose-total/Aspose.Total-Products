@@ -78,7 +78,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTX (Excel Template - Open XML) 파일은 표준화된 반복 보고를 위해 사용됩니다. 주석을 달면 편집 가능한 영역, 입력 기대값 및 개정 제안에 대한 명확성을 보장할 수 있습니다.
+
+#### 재사용 가능한 보고서 템플릿을 위한 XLTX 파일 주석 처리 - 사용 사례:
+
+- **보고서 지침**: 반복 보고서에 대한 사용 팁 추가 또는 업데이트 노트 추가.
+- **디자인 피드백**: 시각적 요소, 헤더 또는 섹션 구조에 주석 달기.
+- **사용자 협업**: 공유 템플릿에서 다양한 부서의 제안 추적.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

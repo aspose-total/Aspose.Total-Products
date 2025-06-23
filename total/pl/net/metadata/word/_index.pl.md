@@ -81,7 +81,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Przypadki użycia metadanych dokumentów programu Microsoft Word
+
+- Poprawa możliwości wyszukiwania w systemach zarządzania dokumentami za pomocą tytułów, tematów, słów kluczowych i autorów.
+- Śledzenie autorstwa dokumentów i historii wersji podczas wspólnych edycji.
+- Klasyfikowanie dokumentów według projektu, działu lub poufności dla łatwiejszego odzyskiwania i kontroli.
+- Automatyzacja przepływów pracy, takich jak zatwierdzanie lub archiwizacja, za pomocą wbudowanych wyzwalaczy metadanych.
+- Osadzanie szczegółów prawnych, licencyjnych i własności intelektualnej w celu ochrony praw użytkowania.
+- Integracja dokumentów programu Word z systemami firm trzecich, takimi jak CRM-y lub narzędzia projektowe.
+- Zapewnienie zgodności z politykami retencji dokumentów w celu audytu.
+- Umożliwienie narzędziom AI analizowania kontekstu, celu i struktury na podstawie wzbogaconych metadanych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

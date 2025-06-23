@@ -80,7 +80,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 오픈 협업 및 문서 조립을 위한 ODT (OpenDocument Text) 병합
+
+ODT 파일은 오픈 소스 워드 프로세서 문서(LibreOffice, OpenOffice)입니다. 이를 병합하면 오픈 형식 콘텐츠 협업을 지원합니다.
+
+#### 사용 사례:
+
+- **오픈 소스 협업**  
+  ODT 형식으로 다른 저자들의 기여를 하나의 문서로 병합합니다.
+
+- **문서 편성**  
+  ODT로 작성된 메뉴얼이나 책의 장 또는 섹션을 결합합니다.
+
+- **정부 또는 비정부 기관 보고**  
+  제출을 위해 오픈 표준 형식으로 작성된 보고서를 통합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

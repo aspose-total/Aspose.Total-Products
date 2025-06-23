@@ -73,7 +73,15 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## BMP Döndürme Kullanım Senaryoları
+
+- BMP formatında saklanan taranan mühendislik çizimlerini veya mimari planları döndürme.
+- Doğru görüntüleme için eski Windows tarafından oluşturulan görüntülerin yönlendirmesini ayarlama.
+- BMP görüntülerini belgelere veya raporlara ekleme için hazırlama.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

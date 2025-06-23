@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### การเปรียบเทียบไฟล์ DOTM สำหรับกรณีการใช้งานในการตรวจสอบเทมเพลตที่เปิดใช้งานแมโคร:
+
+ไฟล์ DOTM รวมเทมเพลตเอกสารที่ใช้ซ้ำกันพร้อมกับแมโครที่ฝังอยู่ การเปรียบเทียบเวอร์ชัน DOTM จะเปิดเผยการเปลี่ยนแปลงทั้งในเลย์เอาท์และตรรกะแมโคร ซึ่งเป็นสิ่งสำคัญสำหรับความสมบูรณ์ของการอัตโนมัติ
+
+- **การตรวจสอบการทำงานของแมโคร**  
+  ตรวจสอบว่าตรรกะการอัตโนมัติของเทมเพลตได้รับการเปลี่ยนแปลงหรือถูกยกเลิกหรือไม่
+
+- **การตรวจสอบมาตรฐานเทมเพลต**  
+  ติดตามการอัปเดตทางด้านภาพหรือโครงสร้างในเทมเพลตที่ใช้ซ้ำกันในทีมต่างๆ
+
+- **รายการตรวจสอบการอัตโนมัติ**  
+  บันทึกข้อมูลเกี่ยวกับการเปลี่ยนแปลงระหว่างเวอร์ชันเทมเพลตที่ใช้งานอัตโนมัติ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

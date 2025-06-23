@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 การลบข้อมูลใน Microsoft Word
+
+- การลบชื่อ ที่อยู่ และหมายเลขประจำตัวในเอกสารทางการ.
+- การลบเนื้อหาทางกฎหมายที่ลับก่อนส่งเอกสารศาลหรือสัญญา.
+- การลบข้อมูลภายในและข้อมูลที่ละเอียดอ่อนในรายงานที่แชร์.
+- การลบข้อมูลส่วนตัวหรือข้อมูลทางการแพทย์ในไฟล์ทรัพยากรบุคคล สรุปผู้ป่วย หรือบันทึกการเรียน.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga DOCM-filer för makroaktiverade Word-dokument
+
+DOCM-filer är makroaktiverade Word-dokument. Att sammanfoga `.docm`-filer är användbart när man kombinerar dokument som innehåller inbäddade makron för automation eller bearbetning.
+
+#### Användningsområden:
+
+- **Automatiserad rapportkonsolidering**  
+  Sammanfoga `.docm`-rapporter som använder makron för att automatisera genereringen av formaterade data, diagram eller tabeller i ett centralt dokument.
+
+- **Dokumentskapande med makrostöd**  
+  Kombinera makroaktiverade `.docm`-filer för att behålla och enhetliggöra automationsfunktioner över olika rapporter eller dokument.
+
+- **Integration av dokumentflöde**  
+  Sammanfoga dokument med liknande makrofunktioner för att förbättra dokumentsskapandeflöden över team.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,13 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### .ods (OpenDocument Spreadsheet) — Các trường hợp sử dụng để chia nhỏ
+- Tách các tệp ODS lớn cho các ứng dụng bảng tính mã nguồn mở như LibreOffice.
+- Giao phần riêng biệt của một tập dữ liệu cho từng người đóng góp để làm việc nhóm một cách hiệu quả.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,30 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Afbeeldingsbestanden (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Het samenvoegen van afbeeldingsbestanden tot één visuele output of gestructureerd formaat (bijv. PDF, collage of sprite) ondersteunt ontwerp-, documentatie- en digitale publicatieworkflows.
+
+#### Gebruiksscenario's:
+
+- **Digitale Albumcreatie**  
+  Voeg vakantie-, evenement- of portfoliobeelden samen tot één galerij of fotoboek.
+
+- **Consolidatie van Ontwerpsmiddelen**  
+  Voeg UI-mockups, sociale media-afbeeldingen of branding-assets samen in één referentiebestand voor klantbeoordeling.
+
+- **Groepering van Gescande Documenten**  
+  Combineer gescande afbeeldingsbestanden tot één archief of document voor opslag of delen.
+
+- **Visuele Vergelijkingen en Voor-Na Slides**  
+  Voeg afbeeldingssets samen om vergelijkingsvisuals te maken in rapporten of marketingmaterialen.
+
+- **Training of Producthandleidingen**  
+  Voeg geannoteerde schermafbeeldingen of productfoto's samen tot sequentiële instructieve inhoud.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

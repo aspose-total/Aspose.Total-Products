@@ -73,7 +73,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng cho việc xoay JPEG
+
+- Xoay các bức ảnh di động chụp không chính xác (ví dụ: tự sướng ngang).
+- Căn chỉnh ảnh sản phẩm cho các danh sách thương mại điện tử.
+- Sửa định hướng của các hóa đơn hoặc tài liệu JPEG đã quét.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### XLT 파일을 압축하여 레거시 엑셀 템플릿 최적화
+
+XLT (Excel 97-2003 템플릿) 파일은 포함된 요소나 샘플 데이터로 인해 커질 수 있습니다. XLT 파일을 압축하면 템플릿 라이브러리가 보다 가볍고 쉽게 배포할 수 있습니다.
+
+#### 사용 사례:
+
+- **레거시 템플릿 이식성**  
+  표준 템플릿을 압축하여 이전 엔터프라이즈 시스템에서 더 빠르게 배포합니다.
+
+- **템플릿 저장소 효율성**  
+  중앙 액세스 및 빠른 검색을 위해 템플릿 아카이브를 가볍게 유지합니다.
+
+- **템플릿 로드 시간 단축**  
+  XLT 파일을 압축하여 오래된 시스템을 최적화하여 더 빠르게 열고 사용합니다.
+
+- **백업 및 저장 공간 최적화**  
+  압축을 통해 레거시 템플릿의 장기 저장 공간을 최소화합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

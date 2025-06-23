@@ -87,7 +87,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .xlsb 파일 구문 분석을 위한 사용 사례
+
+- 📈 최적화된 성능으로 Excel 이진 워크북 파일을 구문 분석합니다.
+- 🤖 비즈니스 워크플로우에서 대용량 `.xlsb` 파일로부터 데이터 추출을 자동화합니다.
+- 🧮 바이너리 스프레드시트를 CSV 또는 JSON과 같은 구조화된 데이터 형식으로 변환합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

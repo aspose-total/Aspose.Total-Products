@@ -71,7 +71,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Przypadki użycia: Porównywanie plików PPTM w celu śledzenia prezentacji z makrami
+
+Pliki PPTM (PowerPoint Macro-Enabled Presentation) obsługują automatyzację za pomocą makr i umożliwiają edycję. Porównywanie plików PPTM umożliwia szczegółowe śledzenie zmian zarówno wizualnych, jak i zautomatyzowanych elementów prezentacji.
+
+- **Różnice w zachowaniu makr**  
+  Analiza aktualizacji w osadzonych skryptach VBA i logice automatyzacji.
+
+- **Przegląd treści wizualnych i tekstowych**  
+  Identyfikacja zmian w tekście slajdu, układzie i wstawionych mediach.
+
+- **Zapewnienie dokładności automatyzacji**  
+  Upewnienie się, że zadania sterowane makrami, takie jak generowanie wykresów czy aktualizacje treści, zachowują się spójnie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### スケーラブルでポータブルなワークブック管理のためのXLSXファイルの圧縮
+
+XLSX（Excel Open XML Workbook）は最も一般的に使用されるExcel形式ですが、画像、複雑な数式、ピボットテーブルで膨らむことがあります。圧縮により、使いやすさと迅速な共同作業が実現されます。
+
+#### 使用例：
+
+- **軽量な共同作業**  
+  TeamsやGoogle Driveなどの共同作業環境で圧縮されたXLSXファイルを共有します。
+
+- **メールおよびクラウドストレージとの互換性**  
+  財務または業務レポートの品質を低下させることなく、ファイルサイズ制限に適合します。
+
+- **高速な開くと計算**  
+  低スペックのマシン上で大きなXLSXファイルの応答性を向上させます。
+
+- **効率的なアーカイブ**  
+  圧縮されたバージョンで数百のレポートを保存し、ストレージのオーバーヘッドを削減します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

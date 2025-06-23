@@ -73,7 +73,21 @@ Więcej szczegółów znajdziesz w [Dokumentacja produktu](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Przypadki użycia rotacji obrazu
+
+- Popraw orientację obrazów zrobionych w trybie krajobrazu lub portretu.
+- Dostosuj zeskanowane dokumenty lub zdjęcia, które wyglądają bokiem lub do góry nogami.
+- Wyrównaj wizualizacje odpowiednio, aby były spójnie wyświetlane w galeriach, prezentacjach lub raportach.
+- Obróć zasoby projektowe, takie jak ikony, elementy interfejsu użytkownika czy diagramy, aby dopasować do potrzeb układu.
+- Przygotuj obrazy do drukowania lub publikowania z właściwą orientacją.
+- Standaryzuj orientację obrazu podczas importowania z różnych źródeł lub urządzeń.
+- Popraw czytelność treści w e-bookach, dokumentacji lub stronach internetowych.
+- Obróć obrazy produktów lub katalogów, aby dopasować wymagany stosunek proporcji.
+- Popraw doświadczenie użytkownika poprzez automatyczne poprawienie orientacji obrazu na podstawie metadanych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

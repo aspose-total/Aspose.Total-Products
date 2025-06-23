@@ -76,7 +76,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS는 LibreOffice와 OpenOffice에서 사용되는 오픈 소스 스프레드시트 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 데이터를 공개, 검토 중 또는 내부로 표시
+- 데이터 소스 소유권을 위한 워터마킹
+- 다중 사용자 협업을 위한 레이블링
+- 라이선스 정보 또는 저작권 포함
+- 공개 데이터 게시를 위한 콘텐츠 플래그 지정
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

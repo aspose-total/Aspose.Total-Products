@@ -87,7 +87,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint フォーマット（potm、potx、ppsm、ppsx、pptm、pptx、odp）のパース使用例
+
+- 🖼️ **スライドコンテンツの抽出**  
+  スライドからテキスト、画像、およびレイアウトの詳細を抽出して、要約、検索、またはHTMLスライドショーに使用します。
+
+- 🧩 **テンプレートの自動化**  
+  `.potx` または `.potm` テンプレートからプレゼンテーションを生成し、動的コンテンツを挿入します。
+
+- 🎯 **マクロプレゼンテーションの処理**  
+  マクロや自動化を含む `.pptm`、`.potm`、`.ppsm` ファイルを安全にパースします。
+
+- 📊 **プレゼンテーションをWebに変換**  
+  `.pptx`、`.odp`、または `.ppsx` ファイルをWebスライドやインタラクティブな形式に変換します。
+
+- 📁 **スライドのインデックス作成**  
+  ドキュメント管理システムや会議アーカイブのためにスライドを索引付けして要約します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

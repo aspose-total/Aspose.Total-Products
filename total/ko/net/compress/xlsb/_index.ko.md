@@ -75,7 +75,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 효율적인 이진 워크북 관리를 위해 XLSB 파일 압축
+
+XLSB(Excel Binary Workbook) 파일은 이진 형식으로 데이터를 저장하여 성능 중심의 최적화로 인해 파일 크기가 커지는 경우가 많습니다. XLSB 파일을 압축하면 공간을 줄이면서 속도를 유지할 수 있습니다.
+
+#### 사용 사례:
+
+- **대용량 데이터 세트를 위한 공간 절약**  
+  비즈니스 인텔리전스 워크플로우에 대한 압축을 사용하여 대규모 데이터 세트를 작은 XLSB 파일에 저장합니다.
+
+- **팀간 빠른 전송**  
+  계산 성능에 영향을 주지 않고 빠르게 압축된 XLSB 파일을 공유합니다.
+
+- **효율적인 백업**  
+  크기가 줄어든 이진 워크북을 자주 사용하여 빠른 복구를 위해 아카이브합니다.
+
+- **보고 도구에서 데이터 캐싱**  
+  보고 시스템에서 백엔드 캐시로 사용하기 위해 압축된 XLSB 워크북을 사용하여 로드 시간을 최소화합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM (Macro-Enabled Template) ไฟล์รองรับการใช้งานซ้ำกับมาโคร หมายเหตุให้ข้อมูลสำคัญเกี่ยวกับจุดอัตโนมัติ ข้อมูลที่คาดหวังหรือผลลัพธ์ของมาโคร
+
+#### ทำเครื่องหมายในไฟล์ XLTM สำหรับเวิร์กโฟลว์เทมเพลตมาโคร - กรณีใช้งาน:
+
+- **เอกสารมาโคร**: อธิบายการเริ่มต้นมาโครและผลกระทบที่ตั้งใจ
+- **คำแนะนำผู้ใช้**: ทำเครื่องหมายในส่วนที่ผู้ใช้ต้องไม่แก้ไขเพื่อรักษาการอัตโนมัติ
+- **บันทึกการทดสอบ**: ทำเครื่องหมายบริเวณที่อยู่ในการทบทวนคุณภาพระหว่างการทดสอบเทมเพลต
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

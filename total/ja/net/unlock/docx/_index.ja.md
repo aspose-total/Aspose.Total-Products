@@ -78,7 +78,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.docx`形式は、Microsoft Word 2007によって導入され、現在広く使用されているデフォルトのXMLベースのファイル形式です。
+
+#### **使用例: `.docx`形式のロック解除**
+
+- **読み取り専用ドキュメントの編集**  
+  デフォルトでロックされた履歴書、レポート、またはフォームを更新することができます。
+
+- **チームでの共同作業**  
+  保護を解除して、変更履歴、コメント、共同執筆を可能にします。
+
+- **配布テンプレートのエラー訂正**  
+  ロックされたテンプレート内の誤字や書式の問題を修正するのを容易にします。
+
+- **埋め込まれたメディアやデータへのアクセス**  
+  チャート、画像、表などの構造化されたコンテンツを再利用するために解除します。
+
+- **政府や企業文書の再利用**  
+  ユーザーがガイドライン、フォーム、または方針を手動で再作成せずに適応できるようにします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

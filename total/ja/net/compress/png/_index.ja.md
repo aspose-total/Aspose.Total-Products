@@ -74,7 +74,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 高品質の透過性と軽量なグラフィックのためにPNGファイルを圧縮する
+
+PNG（Portable Network Graphics）は透過性と非圧縮の品質をサポートしていますが、ファイルサイズが大きくなる可能性があります。パフォーマンス重視のユースケースでは圧縮が重要です。
+
+#### ユースケース：
+
+- **透明なWebアイコンとロゴ**  
+  PNGを圧縮して、ウェブの読み込み時間を短縮しながら鮮明な外観を維持します。
+
+- **アプリのインターフェース資産**  
+  ボタン、アイコン、UIコンポーネントに圧縮されたPNGを使用して、アプリのパッケージサイズを削減します。
+
+- **グラフィックデザインポートフォリオ**  
+  ビジュアル品質を損なうことなく、デジタルポートフォリオ内のPNGを最適化して、プレビューを高速化します。
+
+- **Eコマースのサムネイル**  
+  製品ページで軽量なPNGを使用して、読み込み速度を向上させながら詳細を保持します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

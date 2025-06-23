@@ -74,7 +74,13 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### การนำเสนอ Microsoft PowerPoint รูปแบบ .pptx — กรณีการใช้งานสำหรับการแบ่ง  
+- แบ่งงานนำเสนอ PowerPoint รูปแบบใหม่เป็นสไลด์เด็กเล็กๆ สำหรับการใช้งานแบบโมดูลาร์  
+- เปิดให้การทำงานร่วมกันโดยการกำหนดกลุ่มสไลด์ให้กับบรรณาธิการที่แตกต่างกัน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

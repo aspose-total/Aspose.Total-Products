@@ -74,7 +74,14 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Định dạng trình bày OpenDocument Presentation .odp — Các Trường Hợp Sử Dụng cho Việc Chia Nhỏ
+
+- Chia nhỏ các tệp ODP cho các công cụ trình bày mã nguồn mở để dễ dàng chỉnh sửa và chia sẻ.
+- Tổ chức các bài thuyết trình thành các phần để quản lý dễ dàng hơn và gửi đến mục tiêu cụ thể.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,30 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 マイクロソフト ワード ドキュメント（DOC、DOCX、DOT、DOTX、DOCM）
+
+マイクロソフト ワードは、テキスト重視の文書作成に最適なフォーマットです。ワードファイルをマージすることで、複数の寄稿者、テンプレート、バージョンを含むワークフローが簡素化されます。
+
+#### 使用例：
+
+- **統合されたレポートの編纂**  
+  複数の部門やプロジェクトレポートを1つの専門的な文書にマージして提出やアーカイブに活用します。
+
+- **契約書および法的文書の統合**  
+  異なる契約書のバージョン、付録、法的文書を1つのマスター契約ファイルに統合します。
+
+- **チームの共同作業**  
+  複数の著者からの寄稿を1つの文書にマージして共同編集やレビューを行います。
+
+- **提案書およびRFPの組み立て**  
+  異なるソースからスコープ、価格、技術セクションを統合して一貫した提案書や入札応答を作成します。
+
+- **ポリシーおよび手順マニュアル**  
+  個別のポリシードキュメントを1つの包括的な従業員ハンドブックや業務マニュアルにマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

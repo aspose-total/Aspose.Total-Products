@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki PPSM (PowerPoint Macro-Enabled Show) otwierają się bezpośrednio w trybie pokazu slajdów z włączonymi makrami. Adnotowanie plików PPSM pomaga w doskonaleniu automatycznego treści, przepływów interakcji i strategii zaangażowania publiczności.
+
+#### Adnotacja pliku PPSM dla przypadków użycia opinii o pokazie slajdów z makrami:
+
+- **Recenzja interakcji z makrami**  
+  Skomentuj punkty automatyzacji, przejścia lub wyzwalacze wymagające debugowania lub poprawy.
+
+- **Ocena doświadczenia pokazu slajdów**  
+  Adnotuj, w jaki sposób każdy zautomatyzowany slajd wpływa na zaangażowanie publiczności lub klarowność.
+
+- **Opinia o prezentacji**  
+  Udzielaj komentarzy dla prelegenta lub recenzenta dotyczących poprawy slajdów.
+
+- **Recenzja UI/UX w interaktywnych pokazach**  
+  Adnotuj elementy interaktywne zbudowane za pomocą makr dla walidacji wydajności.
+
+- **Doskonalenie treści szkoleniowych**  
+  Sugestie dotyczące edycji treści lub sekwencjonowania dla materiałów szkoleniowych samodzielnie uruchamianych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

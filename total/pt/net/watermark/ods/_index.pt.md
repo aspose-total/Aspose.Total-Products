@@ -76,7 +76,19 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS é o formato de planilha de código aberto usado pelo LibreOffice e OpenOffice.
+
+**Casos de uso comuns incluem:**
+
+- Indicar dados como Público, Em Revisão ou Interno
+- Marcação d'água para atribuição da fonte de dados
+- Rotulagem para colaboração multiusuário
+- Incluir informações de licenciamento ou autoria
+- Sinalizar conteúdo para publicação de dados abertos
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

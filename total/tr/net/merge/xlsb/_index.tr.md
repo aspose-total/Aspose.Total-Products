@@ -79,7 +79,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Verimli Büyük Ölçekli Excel Veri İşleme için XLSB Dosyalarını Birleştirme
+
+XLSB (Excel İkili Çalışma Kitabı) formatı verileri ikili bir formda depolar ve büyük veri kümeleri ile daha hızlı performans sunar. `.xlsb` dosyalarını birleştirmek, kurumsal ölçekte verilerin verimli bir şekilde işlenmesini sağlar.
+
+#### Kullanım Alanları:
+
+- **Performans-Kritik Raporlama**  
+  Yüksek performanslı ortamlarda daha hızlı yükleme ve işleme için büyük `.xlsb` veri kümelerini birleştirin.
+
+- **BI Sistem Entegrasyonu**  
+  İş zekası araçlarına veya gösterge panolarına beslemek için `.xlsb` dosyalarını birleştirin.
+
+- **Sensör veya Makine Verilerini Birleştirme**  
+  Endüstriyel veya laboratuvar ekipmanı tarafından oluşturulan ikili Excel kayıtlarını birleştirerek merkezi izleme ve otomasyon sağlayın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

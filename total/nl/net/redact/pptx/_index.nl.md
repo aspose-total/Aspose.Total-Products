@@ -78,7 +78,16 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Redactie in .pptx (Microsoft PowerPoint)
+
+- Redigeer interne financiële gegevens of projecties in bedrijfspresentaties.
+- Verwijder klant- of partner namen uit zakelijke pitch decks of belanghebbende updates.
+- Redigeer strategische inhoud in product roadmaps of lancering briefings.
+- Verwijder vertrouwelijke afbeeldingen, grafieken of sprekersnotities voor openbare distributie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 軽量なOpenDocument Text管理のためにODTファイルを圧縮する
+
+ODT（OpenDocument Text）ファイルは、LibreOfficeなどのオープンソースオフィススイートでよく使用され、埋め込まれた画像、表、高度な書式設定によりサイズが大きくなることがあります。ODTファイルを圧縮することで、システム間での移植性とパフォーマンスが向上します。
+
+#### 用途:
+
+- **最適化されたドキュメント共有**  
+  ODTファイルのサイズを縮小して、より高速なアップロード、メール添付ファイル、シームレスなオンライン共同作業を実現します。
+
+- **クラウドストレージの効率化**  
+  ODTドキュメントを圧縮して、共有ドライブや文書リポジトリでスペースを節約します。
+
+- **低スペックデバイスでのパフォーマンス向上**  
+  より小さなODTファイルは、リソースに制約のあるシステムでより速く読み込まれ、ユーザーエクスペリエンスが向上します。
+
+- **効率的なアーカイブ**  
+  圧縮されたバージョンで大量のODTレポートやマニュアルを効率的に保存します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

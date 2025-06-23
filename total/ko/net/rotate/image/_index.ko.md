@@ -73,7 +73,21 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 이미지 회전을 위한 사용 사례
+
+- 가로 또는 세로 모드로 촬영된 이미지의 방향을 수정합니다.
+- 옆으로 누워 있거나 거꾸로 보이는 스캔된 문서나 사진을 조정합니다.
+- 갤러리, 프레젠테이션 또는 보고서에서 일관된 표시를 위해 시각물을 적절하게 정렬합니다.
+- 아이콘, UI 구성 요소 또는 다이어그램과 같은 디자인 자산을 레이아웃 요구에 맞게 회전합니다.
+- 올바른 방향으로 이미지를 인쇄하거나 게시하기 위해 준비합니다.
+- 다양한 소스나 장치에서 가져올 때 이미지 방향을 표준화합니다.
+- eBook, 문서 또는 웹 페이지의 내용 가독성을 향상시킵니다.
+- 필요한 종횡비와 일치하도록 제품이나 카탈로그 이미지를 회전합니다.
+- 메타데이터를 기반으로 이미지 방향을 자동으로 수정하여 사용자 경험을 향상시킵니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

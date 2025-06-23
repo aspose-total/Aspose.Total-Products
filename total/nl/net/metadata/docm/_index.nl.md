@@ -81,7 +81,16 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Gebruiksscenario's voor Word-macro's ingeschakeld document (`.docm`)
+
+- Inclusief macro-gerelateerde metadata voor automatiseringstracking.
+- Beheer documentbeveiligingsbeleid gekoppeld aan ingesloten macro's.
+- Automatische risicoclassificatie mogelijk maken op basis van ingesloten scripts.
+- Help bij het identificeren van het documentdoel en het bijbehorende bedrijfsproces.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

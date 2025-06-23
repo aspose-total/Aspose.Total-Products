@@ -81,7 +81,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧩 WordテンプレートXML（.dotx）の使用事例
+
+- ドキュメント生成システム向けのテンプレートメタデータを埋め込む。
+- ブランド、法的、または人事目的のためにテンプレートを分類する。
+- AIシステムが文脈に応じてテンプレートを推奨できるようにする。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

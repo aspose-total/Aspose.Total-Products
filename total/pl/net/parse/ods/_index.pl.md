@@ -87,7 +87,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Przypadki użycia analizy plików .ods
+
+- 📊 Wyodrębnij strukturalne dane, formuły i wykresy z arkuszy kalkulacyjnych OpenDocument.
+- 🔁 Konwertuj pliki `.ods` do formatów takich jak `.xlsx`, CSV lub JSON do integracji.
+- 🧮 Automatyzuj wyodrębnianie danych i transformację z narzędzi arkuszy kalkulacyjnych typu open-source.
+- 📚 Migracja otwartych formatów do aplikacji przedsiębiorstwowych lub potoków analitycznych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

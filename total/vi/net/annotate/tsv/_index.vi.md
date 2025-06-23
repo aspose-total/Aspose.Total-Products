@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Các tệp TSV (Tab-Separated Values) phổ biến trong khoa học dữ liệu và xuất hệ thống. Chú thích giúp đánh dấu các bản ghi cụ thể, giải thích giá trị trường hoặc nổi bật nhu cầu biến đổi.
+
+#### Chú thích Tệp TSV cho Hợp Tác Dữ Liệu Cấu Trúc - Các Trường Hợp Sử Dụng:
+
+- **Ghi Chú Vệ Sinh Dữ Liệu**: Nổi bật các hàng cần sửa đổi hoặc loại bỏ thủ công.
+- **Bộ Dữ Liệu Huấn Luyện Mô Hình**: Đánh dấu các trường hợp đặc biệt cho logic ML hạ nguồn.
+- **Bình Luận Luồng Công Việc ETL**: Chú thích các trường yêu cầu ánh xạ hoặc thay đổi schema.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

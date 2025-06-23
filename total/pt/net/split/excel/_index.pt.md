@@ -75,7 +75,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Microsoft Excel — Casos de Uso para Divisão de Planilhas
+
+- Dividir grandes pastas de trabalho em planilhas menores para simplificar a gestão de dados e melhorar o desempenho.
+- Atribuir planilhas específicas a diferentes membros da equipe para edição simultânea.
+- Automatizar o processamento de dados separando seções para análise ou relatórios individuais.
+- Compartilhar partes relevantes de uma pasta de trabalho sem expor todo o conjunto de dados.
+- Criar relatórios personalizados dividindo um arquivo mestre em versões personalizadas.
+- Gerenciar grandes modelos financeiros ou inventários dividindo-os em partes gerenciáveis.
+- Melhorar a colaboração isolando dados sensíveis em planilhas separadas e protegidas.
+- Arquivar dados históricos separadamente para otimizar o tamanho do arquivo atual e a velocidade de acesso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

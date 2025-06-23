@@ -74,7 +74,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## PDF回転の使用例
+
+- 正しい表示のためにスキャンされたPDF契約書や請求書を回転させる。
+- ポートフォリオ文書内の証明書やライセンスの向きを調整する。
+- ブックレットやマニュアルの印刷レイアウトを最適化するためにページを回転させる。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

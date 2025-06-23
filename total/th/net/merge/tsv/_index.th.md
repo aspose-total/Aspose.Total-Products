@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ TSV สำหรับการผสานข้อมูลแบบเบา
+
+ไฟล์ TSV (Tab-Separated Values) คล้ายกับ CSV แต่ใช้ tab เป็นตัวคั่นข้อมูล การผสานไฟล์ .tsv เป็นประโยชน์เมื่อทำงานกับชุดข้อมูลที่สะอาดและมีโครงสร้างในการทำงานที่ใช้ข้อความ
+
+#### การใช้งาน:
+
+- **กระบวนการทำงานข้อมูลที่สะอาด**  
+  ผสานไฟล์ .tsv จากการสแครปข้อมูล, กระบวนการ ETL, หรือไฟล์บันทึกเข้าไปในชุดข้อมูลหลัก
+
+- **การวิเคราะห์ทางวิทยาศาสตร์หรือสถิติ**  
+  รวมไฟล์ข้อมูลการทดลอง .tsv เพื่อการประเมินสถิติที่รวมกัน
+
+- **การผสานระบบ**  
+  ผสานข้อมูล .tsv จากแพลตฟอร์มต่าง ๆ (บันทึก Linux, เซ็นเซอร์, API) เพื่อการรับเข้าสู่ระบบใหญ่
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

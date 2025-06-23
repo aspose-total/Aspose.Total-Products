@@ -80,7 +80,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Eski Word Belge Yönetimi için DOC Dosyalarını Birleştirme
+
+DOC dosyaları, Microsoft Word tarafından kullanılan eski ikili formattır. `.doc` dosyalarını birleştirmek genellikle eski belgeleri bir araya getirmek, arşivlemek veya daha yeni formatlara geçiş yapmak için gereklidir.
+
+#### Kullanım Alanları:
+
+- **Tarihsel Raporları Birleştirme**  
+  Arşivleme amacıyla veya yazdırma veya paylaşma için birleştirilmiş bir belge oluşturmak için eski `.doc` raporları birleştirin.
+
+- **Eski Belge Güncellemeleri**  
+  Proje bilgileri veya iş belgeleri içeren birden fazla `.doc` dosyasını güncelleme için bir ana belgeye birleştirin.
+
+- **Belge Dönüşümü Modern Formatlara**  
+  Modern sistemlerle daha iyi uyumluluk için `.docx`'e dönüştürmeden önce `.doc` dosyalarını birleştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

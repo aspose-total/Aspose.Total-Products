@@ -83,7 +83,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCXは編集可能なテキスト文書のための現代のデフォルトWord形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- ステータスを下書き、機密、または承認済みとしてマークする
+- 企業のブランディングや透かしロゴを適用する
+- 表示専用または読み取り専用の指定を追加する
+- 内部/外部のバージョニングを表示する
+- 文書ライフサイクルの追跡をサポートする
+- 規制要件を遵守する
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

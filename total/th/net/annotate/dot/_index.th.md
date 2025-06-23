@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ DOT (Word 97–2003 Template) กำหนดโครงสร้างเอกสารที่ใช้ซ้ำได้ หมายเหตุในไฟล์ DOT ช่วยอธิบายวัตถุประสงค์ของเทมเพลต คำแนะนำการใช้งาน และข้อความปรับแต่งสำหรับผู้ใช้
+
+#### หมายเหตุในไฟล์ DOT สำหรับเอกสารเทมเพลตและการใช้งานเพื่อรับข้อเสนอแนะ:
+
+- **คำแนะนำการปรับแต่งเทมเพลต**  
+  ทำเครื่องหมายในฟิลด์และตัวยึดตำแหน่งเพื่อแนะนำผู้ใช้ว่าจะแทรกเนื้อหาอย่างไรและที่ไหน
+
+- **คำแนะนำขั้นตอนการทำงาน**  
+  เพิ่มความคิดเห็นอธิบายพฤติกรรมอัตโนมัติ แมโคร หรือการจัดรูปแบบตามเงื่อนไขที่ฝังอยู่ในเทมเพลต
+
+- **การทบทวนแบรนด์และสไตล์**  
+  เน้นบริเวณที่ต้องสอดคล้องกับข้อบังคับของแบรนด์ขององค์กรหรือมาตรฐานเอกสาร
+
+- **การรวบรวมข้อเสนอแนะจากผู้ใช้**  
+  อนุญาตให้ผู้ใช้แทรกความคิดเห็นเกี่ยวกับความสามารถในการใช้งานของเทมเพลต เพื่อความง่ายในการปรับปรุงตามรอบ
+
+- **เทมเพลตที่เกี่ยวข้องกับการปฏิบัติตามกฎหมาย**  
+  ให้ข้อความเกี่ยวกับกฎหมายหรือการปฏิบัติตามกฎระเบียบโดยตรงในเทมเพลตสำหรับกระบวนการเอกสารทางกฎหมาย
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

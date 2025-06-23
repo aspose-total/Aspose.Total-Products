@@ -123,7 +123,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Các tệp DOT (Mẫu Word 97–2003) xác định cấu trúc tài liệu có thể tái sử dụng. Chú thích trong các tệp DOT giúp làm rõ mục đích của mẫu, hướng dẫn sử dụng và ghi chú tùy chỉnh cho người dùng.
+
+#### Chú thích Tệp DOT cho Tài liệu Mẫu và Trường hợp Sử dụng Phản hồi:
+
+- **Hướng dẫn Tùy chỉnh Mẫu**  
+  Chú thích các trường và chỗ giữ chỗ để hướng dẫn người dùng về cách và nơi chèn nội dung.
+
+- **Hướng dẫn Quy trình**  
+  Thêm ý kiến giải thích các hành vi tự động, macro hoặc định dạng có điều kiện được nhúng trong mẫu.
+
+- **Đánh giá Thương hiệu và Phong cách**  
+  Đánh dấu các khu vực phải phù hợp với hướng dẫn về thương hiệu doanh nghiệp hoặc tiêu chuẩn tài liệu.
+
+- **Thu thập Phản hồi từ Người dùng**  
+  Cho phép người dùng chèn ý kiến về tính khả dụng của mẫu, giúp đơn giản hóa việc cải tiến theo từng bước.
+
+- **Mẫu Tuân thủ Quy định**  
+  Cung cấp ghi chú liên quan đến quy định hoặc tuân thủ trực tiếp trong mẫu cho quy trình tài liệu pháp lý.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

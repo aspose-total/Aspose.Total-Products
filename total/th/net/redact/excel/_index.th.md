@@ -82,7 +82,16 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 การลบข้อมูลใน Microsoft Excel
+
+- การลบข้อมูลทางการเงิน เช่น เงินเดือน, งบประมาณ, หรือรายได้ก่อนกระจาย.
+- การลบข้อมูลลูกค้าหรือพนักงานในสเปรดชีทขาย, บุคคล, หรือการตรวจสอบ.
+- การลบรายการส่วนตัวในบันทึกข้อมูลดำเนินการหรือบริหาร.
+- การลบตัวชี้วัดที่ลับในแผนชีทหรือแดชบอร์ดยุทธศาสตร์.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -87,7 +87,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .xlsmファイルの解析用途
+
+- 🤖 安全なデータ抽出のためにマクロ有効化されたExcelワークブックを解析します。
+- 🔁 VBAマクロが埋め込まれたExcelファイルを使用したワークフローを自動化します。
+- 📊 マクロを妨げることなく構造化データを抽出します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### モダンなスライドショープレゼンテーション統合のためのPPSXファイルのマージ
+
+PPSXは、PowerPointスライドショーに使用されるモダンなXMLベースの形式です。`.ppsx`ファイルをマージすることで、プレゼンテーションを1つの自動スライドショーフォーマットに集約するのに役立ちます。
+
+#### ユースケース：
+
+- **自動化されたマーケティングキャンペーン**  
+  異なるキャンペーンからの`.ppsx`プレゼンテーションを統合して、自動化されたクライアントプレゼンテーション用の統一されたショーを作成します。
+
+- **教育コースの編纂**  
+  複数の`.ppsx`トレーニングスライドショーを組み合わせて、コース用のプレゼンテーションを作成します。
+
+- **プロジェクト提案の統合**  
+  異なるプロジェクト提案からの`.ppsx`プレゼンテーションを1つのプレゼンテーションに統合して、潜在的なクライアントに提案するためのプレゼンテーションを作成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

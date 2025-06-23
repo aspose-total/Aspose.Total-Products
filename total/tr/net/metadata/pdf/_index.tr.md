@@ -78,7 +78,20 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 PDF Dosyaları (`.pdf`) Meta Verileri için Kullanım Alanları
+
+- Keşif kolaylığını artırmak için belge başlığı, konu, anahtar kelimeler ve yazarı gömme.
+- Belge sürümü, onayları ve sınıflandırmalar gibi uyumluluk meta verilerini koruma.
+- Yayınlar veya kılavuzlar için dijital haklar bilgilerini koruma.
+- Meta verileri kullanarak içerik sistemlerinde arşivleme, silme veya etiketleme işlemlerini otomatikleştirme.
+- Hukuk, sağlık veya akademik ortamlarda güvenli belge takibi sağlama.
+- Meta verilere dayalı sıralama veya filtreleme için içerik platformlarıyla entegrasyon.
+- Özetleme, kategorize etme veya kümeleme için yapay zeka sistemlerine meta veri besleme.
+- Dil, belge yapısı ve alternatif metin ipuçları gibi erişilebilirlik meta verilerini destekleme.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

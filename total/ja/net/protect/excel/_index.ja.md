@@ -78,7 +78,18 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 マイクロソフトエクセル — ワークブック保護の使用例
+
+- 誤ってまたは意図的に変更されるのを防ぐために、数式、計算、財務モデルを保護します。
+- 特定のセルやシートをロックし、ユーザーが指定されたエリアにデータを入力できるようにします。
+- 予算、予測、および顧客情報などの機密ビジネスデータを保護します。
+- データプライバシーポリシーに準拠するために、パスワード保護と暗号化でアクセスを制御します。
+- チーム全体で共有されるダッシュボードやKPIでの操作を防ぎます。
+- 操作ワークフローで使用されるマクロ駆動の自動化ツールや動的スプレッドシートを保護します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 中央データ管理と自動化のためのCSV（カンマ区切り値）のマージ
+
+CSVは表形式データのためのプレーンテキスト形式です。CSVファイルのマージはデータの集約、レポーティング、および自動化パイプラインをサポートします。
+
+#### ユースケース：
+
+- **統合されたデータレポーティング**  
+  販売、在庫、または取引データを1つのCSVにマージして分析します。
+
+- **ETLおよびデータウェアハウス**  
+  ログやデータセットを一貫した形式に結合して取り込みます。
+
+- **調査とアンケート結果**  
+  エクスポートされた調査回答を結合して評価します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

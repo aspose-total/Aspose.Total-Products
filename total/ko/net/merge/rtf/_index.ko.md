@@ -80,7 +80,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 플랫폼 독립적 문서 편성을 위한 RTF (Rich Text Format) 병합
+
+RTF 파일은 플랫폼 독립적인 서식이 있는 텍스트 문서에 사용됩니다. RTF 파일을 병합하면 시스템 간에 서식을 유지하면서 콘텐츠를 결합할 수 있습니다.
+
+#### 사용 사례:
+
+- **서식 있는 텍스트 편성**  
+  서로 다른 시스템에서 보고서나 노트를 하나의 서식 있는 문서로 병합합니다.
+
+- **크로스 플랫폼 문서 집계**  
+  서로 다른 워드 프로세서에서 생성된 콘텐츠를 통합된 파일로 결합합니다.
+
+- **프로젝트 문서 편성**  
+  여러 RTF 노트나 결과물을 하나의 최종 보고서로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

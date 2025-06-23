@@ -79,7 +79,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga XLS-filer för integrering av äldre Excel-data
+
+XLS är det binära format som används av äldre versioner av Microsoft Excel. Genom att sammanfoga flera `.xls`-filer kan historisk data konsolideras i moderna system för analys eller arkivering.
+
+#### Användningsområden:
+
+- **Äldre finansiella rapporter**  
+  Kombinera gamla Excel-finansiella rapporter för historisk trendanalys eller förberedelse inför revision.
+
+- **Historiska HR-anteckningar**  
+  Sammanfoga äldre anställdas anteckningar eller lönefiler som underhålls i `.xls`-format till en enda enhetlig fil.
+
+- **Uppgradering av dataarkiv**  
+  Konsolidera `.xls`-filer innan de konverteras till `.xlsx` eller andra moderna format för förbättrad kompatibilitet och bearbetning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

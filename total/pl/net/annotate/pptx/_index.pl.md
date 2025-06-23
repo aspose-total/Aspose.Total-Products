@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX (Prezentacja PowerPoint) to standardowy format do edytowalnych prezentacji slajdów. Anotowanie plików PPTX wspiera współpracę przy tworzeniu slajdów, śledzenie wersji i zbieranie opinii.
+
+#### Adnotacja plików PPTX dla współpracy nad projektowaniem prezentacji - Przykłady użycia:
+
+- **Opinie na temat treści slajdów**  
+  Wstaw komentarze dotyczące poprawności tekstu, wyrównania projektu lub ulepszeń wizualizacji danych.
+
+- **Rozwój prezentacji zespołowej**  
+  Użyj adnotacji do przypisania odpowiedzialności za slajdy lub zaznacz niekompletne sekcje.
+
+- **Ulepszenia w szkoleniach i nauce**  
+  Dodaj wskazówki dla uczących się, notatki instruktora lub opinie z quizów.
+
+- **Dostosowania projektu i układu**  
+  Zaznacz obszary wymagające spójności wizualnej, korekty odstępów lub aktualizacji stylu.
+
+- **Recenzja wielojęzyczna**  
+  Adnotuj sekcje wymagające sprawdzenia tłumaczenia lub lokalizacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

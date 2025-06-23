@@ -78,7 +78,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🎤 OpenDocumentプレゼンテーション（`.odp`）の使用例
+
+- オープンフォーマットのメタデータを使用してクロスプラットフォームの互換性を維持します。
+- プレゼンテーションの目的、イベント、または観客をタグ付けして再利用します。
+- オープンソースのLMSやエンタープライズコンテンツ検索と統合するのに役立ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

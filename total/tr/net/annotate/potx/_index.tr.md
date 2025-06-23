@@ -106,7 +106,28 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+POTX (PowerPoint Şablonu) dosyaları, makro olmayan sunum şablonları oluşturmak için kullanılır. POTX dosyalarına not eklemek, tasarım standartlarında netliği sağlar ve tekrar kullanılabilir sunum düzenlerinde takım hizalamasını kolaylaştırır.
+
+#### Standart Sunum Şablonu Geri Bildirimi Kullanım Senaryoları için POTX Dosyası Notlandırma:
+
+- **Marka Doğrulaması**  
+  Yazı tipi kullanımını, renkleri ve slayt yapısının marka yönergeleriyle eşleşip eşleşmediğini doğrulamak için notlar ekleyin.
+
+- **Slayt Yer Tutucu Talimatları**  
+  Son kullanıcılar için belirli içerik alanlarını nasıl kullanacaklarını veya dolduracaklarını belirtin.
+
+- **İşbirlikçi Şablon Oluşturma**  
+  Ortak şablon tasarımı sırasında düzen iyileştirmeleri veya içerik bölgeleri önerin.
+
+- **Eğitim Slayt Şablonları**  
+  Akademik şablonlar için öğretici notlar veya talimatlar ekleyin.
+
+- **Yerelleştirme Rehberliği**  
+  Çeviri veya bölgeye özgü uyarlamalar için bölümleri notlandırın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

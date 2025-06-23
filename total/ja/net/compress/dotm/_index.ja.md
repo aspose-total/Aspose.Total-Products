@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### マクロ有効なWordテンプレートの効率的な圧縮
+
+DOTM（マクロ有効なWordテンプレート）ファイルにはファイルサイズを増やすスクリプトやフォーマットが含まれています。DOTMファイルを圧縮することで、自動テンプレートの高速アクセスと管理が容易になります。
+
+#### ユースケース：
+
+- **マクロテンプレートの配布**  
+  ファイルサイズを削減して組織全体でDOTMテンプレートを迅速に展開します。
+
+- **効率的なマクロストレージ**  
+  ディスクスペースを無駄にせず、DOTMテンプレートのコレクションをアーカイブします。
+
+- **クロスシステム展開**  
+  さまざまなマシンでのテンプレートの実行中に互換性と遅延を軽減するために、DOTMファイルを圧縮します。
+
+- **テンプレートライブラリの最適化**  
+  圧縮されたマクロ有効なファイルでテンプレートリポジトリを軽量かつ管理しやすく保ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

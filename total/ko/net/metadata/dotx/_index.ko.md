@@ -81,7 +81,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧩 워드 템플릿 XML (`.dotx`)용 사용 사례
+
+- 문서 생성 시스템을 위한 템플릿 메타데이터 포함.
+- 브랜딩, 법적 또는 인사 목적으로 템플릿 분류.
+- AI 시스템이 맥락에 맞게 템플릿을 추천할 수 있도록 함.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

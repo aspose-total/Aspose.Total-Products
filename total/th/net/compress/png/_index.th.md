@@ -74,7 +74,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### บีบอัดไฟล์ PNG สำหรับ透明ภาพและกราฟิกที่เบา
+
+PNG (Portable Network Graphics) รองรับความ透วและคุณภาพที่ไม่สูญเสีย แต่อาจทำให้ไฟล์ใหญ่ขึ้น การบีบอัดเป็นสิ่งสำคัญสำหรับกรณีการใช้งานที่ให้ความสำคัญกับประสิทธิภาพ
+
+#### การใช้งาน:
+
+- **ไอคอนและโลโก้เว็บโปร่งใส**  
+  บีบอัดไฟล์ PNG เพื่อรักษาความชัดเจนในขณะลดเวลาโหลดของเว็บ
+
+- **ส่วนประกอบของอินเตอร์เฟซแอป**  
+  ใช้ PNG ที่ถูกบีบอัดสำหรับปุ่ม ไอคอน และส่วนประกอบ UI เพื่อลดขนาดแพ็คเกจแอป
+
+- **พอร์ตโฟลิโอดีไซน์กราฟิก**  
+  ปรับ PNG ในพอร์ตโฟลิโอดีไซน์เพื่อการดูก่อนได้เร็วขึ้นโดยไม่เสียคุณภาพทางสายตา
+
+- **รูปขนาดย่อในอีคอมเมิร์ซ**  
+  ใช้ PNG ที่เบาในหน้าผลิตภัณฑ์เพื่อเร่งการโหลดในขณะรักษารายละเอียด
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

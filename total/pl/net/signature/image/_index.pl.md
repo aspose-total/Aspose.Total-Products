@@ -71,7 +71,26 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików graficznych za pomocą elektronicznych podpisów
+
+## Skanowane dokumenty prawne
+Skanowane umowy pisemne lub dokumenty notarialne w formacie JPG, PNG lub TIFF mogą być podpisane cyfrowo w celu potwierdzenia autentyczności.
+
+## Weryfikacja tożsamości i dokumenty osobiste
+Zdjęcia paszportów, dowodów osobistych i rachunków za media używane do KYC lub przyjmowania klientów mogą być podpisane elektronicznie, aby upewnić się, że nie zostały zmienione.
+
+## Obrazy medyczne
+Skanowanie takie jak rentgeny lub wyniki testów w formacie TIFF lub PNG mogą być podpisane cyfrowo, aby potwierdzić ich pochodzenie z certyfikowanego ośrodka medycznego.
+
+## Prace plastyczne i kreatywne
+Projekty, ilustracje lub grafiki marketingowe w formatach obrazów mogą być podpisane w celu potwierdzenia praw własności intelektualnej.
+
+## Zdjęcia inspekcji i zgodności
+Zdjęcia wykonane podczas audytów, inspekcji lub kontroli zgodności są często podpisywane cyfrowo, aby potwierdzić lokalizację, czas i autentyczność dowodów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

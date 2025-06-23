@@ -81,7 +81,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików JPEG w celu konsolidacji danych obrazu
+
+JPEG (Joint Photographic Experts Group) to jeden z najpopularniejszych formatów obrazów ze względu na efektywność kompresji i powszechne użycie. Scalanie wielu plików JPEG jest często potrzebne do tworzenia kolaży, albumów ze zdjęciami lub konsolidacji podobnych danych obrazowych.
+
+#### Przykłady użycia:
+
+- **Tworzenie albumu ze zdjęciami**  
+  Scalanie wielu plików `.jpeg` lub `.jpg` w celu stworzenia spójnego albumu ze zdjęciami do druku lub udostępniania cyfrowego.
+
+- **Kolaże obrazów**  
+  Łączenie kilku obrazów w formacie `.jpeg` w jeden kolaż do celów marketingowych, wydarzeń lub użytku osobistego.
+
+- **Konsolidacja obrazów produktów**  
+  Scalanie różnych obrazów produktów w jeden plik do katalogu produktów lub sklepu internetowego.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

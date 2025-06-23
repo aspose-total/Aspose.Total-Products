@@ -80,7 +80,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODP는 LibreOffice Impress 및 기타 오픈 소스 도구에서 사용되는 오픈 프레젠테이션 형식입니다.
+
+**일반적인 사용 사례:**
+
+- 오픈 포럼, 내부 검토 또는 제한된 사용을 위한 슬라이드 표시
+- 크리에이티브 커먼즈 라이센스 또는 조직 태그 삽입
+- NGO 또는 정부 프레젠테이션에서 공개 투명성 지원
+- 발표자 자격 또는 프로젝트 제휴 추가
+- 초안 또는 최종 버전이 아닌 것을 표시하여 남용 방지
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📂 중앙 데이터 관리 및 자동화를 위한 CSV (쉼표로 구분된 값) 병합
+
+CSV는 표 형식의 데이터를 위한 평문 형식입니다. CSV 파일을 병합하면 데이터 집계, 보고 및 자동화 파이프라인을 지원합니다.
+
+#### 사용 사례:
+
+- **통합된 데이터 보고**  
+  판매, 재고 또는 거래 데이터를 분석을 위해 하나의 CSV로 병합합니다.
+
+- **ETL 및 데이터 웨어하우징**  
+  로그 또는 데이터 세트를 일관된 형식으로 결합하여 흡수합니다.
+
+- **조사 및 여론 조사 결과**  
+  결합된 평가를 위해 내보낸 조사 응답을 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Samenvoegen van XLT-bestanden voor op sjabloon gebaseerde Excel-workflows
+
+XLT is het Excel-sjabloonformaat voor `.xls` (Excel 97-2003). Het samenvoegen van `.xlt`-bestanden helpt bij het standaardiseren en bijwerken van oude sjablonen naar een uniforme structuur.
+
+#### Gebruiksscenario's:
+
+- **Unificatie van oude sjablonen**  
+  Combineer meerdere `.xlt`-sjablonen tot een hoofdsjabloon voor achterwaartse compatibiliteit.
+
+- **Standaardiseren van afdelingssjablonen**  
+  Voeg oude sjablonen samen om een modern alternatief in `.xltx` te evalueren en te ontwikkelen.
+
+- **Archivering van historische sjablonen**  
+  Consolideer oudere `.xlt`-versies voor naleving of historische referentie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

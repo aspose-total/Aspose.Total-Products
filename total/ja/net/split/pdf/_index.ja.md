@@ -72,7 +72,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — PDF文書の分割のユースケース
+
+- 大きなPDFファイルから関連するページを抽出して、共有やレビューを容易にします。
+- 複数セクションのレポートや契約書を個々の文書に分割します。
+- 小さなPDFパーツを配布することで、共同編集や注釈を可能にします。
+- 分割して異なるセクションへのアクセスを制御することで機密情報を保護します。
+- マスターファイルから別々のPDFを生成して、パーソナライズされた文書を作成します。
+- ファイルサイズを削減して、Eメールやアップロードの制限に適合させるためにPDFを分割します。
+- コンテンツを小さなファイルに分類して、文書を効率的にアーカイブします。
+- 関連するページを分割および結合して、カスタマイズされたPDFを再編成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

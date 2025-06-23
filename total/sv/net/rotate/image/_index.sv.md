@@ -73,7 +73,21 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/imaging/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Användningsfall för bildrotation
+
+- Korrigera orienteringen av bilder som tagits i liggande eller stående läge.
+- Justera skannade dokument eller foton som visas på sidan eller upp och ner.
+- Justera visuella element för konsekvent visning i gallerier, presentationer eller rapporter.
+- Rotera designelement som ikoner, UI-komponenter eller diagram för att passa layoutbehoven.
+- Förbereda bilder för utskrift eller publicering med rätt orientering.
+- Standardisera bildorientering vid import från olika källor eller enheter.
+- Förbättra läsbarheten av innehåll i e-böcker, dokumentation eller webbsidor.
+- Rotera produkt- eller katalogbilder för att matcha det nödvändiga bildförhållandet.
+- Förbättra användarupplevelsen genom att automatiskt korrigera bildorienteringen baserat på metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

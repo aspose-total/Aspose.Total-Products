@@ -123,7 +123,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tệp DOTM (Mẫu có Macro Kích Hoạt) chứa các kịch bản tự động hóa để tăng cường năng suất. Chú thích tệp DOTM đảm bảo tài liệu về hành vi macro và hỗ trợ việc theo dõi lỗi và thu thập phản hồi.
+
+#### Chú Thích Tệp DOTM cho Các Trường Hợp Sử Dụng Đánh Giá Mẫu Có Macro Kích Hoạt:
+
+- **Tài Liệu Hướng Dẫn và Logic Macro**  
+  Chú thích các trường được kích hoạt bởi macro để làm rõ chức năng và kết quả dự kiến.
+
+- **Đánh Giá và Kiểm Tra Tự Động Hóa**  
+  Thêm ghi chú để đánh dấu việc thực thi macro thành công hoặc thất bại trong quá trình kiểm tra.
+
+- **Giải Thích Hành Vi Mẫu**  
+  Nhận xét về các phần bố cục hoặc định dạng tự động để giúp người dùng hiểu rõ luồng mẫu.
+
+- **Nhúng Tài Liệu Đào Tạo Người Dùng**  
+  Thêm lời nhắc học tập trực tiếp vào các mẫu để giúp người dùng mới tiếp cận dễ dàng hơn.
+
+- **Phân Isolation Lỗi**  
+  Sử dụng chú thích để phân loại và giải thích lỗi do thực thi macro gây ra.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

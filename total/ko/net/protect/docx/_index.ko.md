@@ -79,7 +79,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | 워드 문서 (현대) — 보호를 위한 사용 사례
+
+- 편집을 제한해야 하는 계약, 보고서 및 인사 문서에서 일반적입니다.
+- TOC, 헤더 및 법적 용어와 같은 구조화된 콘텐츠를 변경되지 않도록 보호합니다.
+- 핵심 섹션을 잠그면서 협업 편집에서 추적된 변경을 가능하게 합니다.
+- 최종 문서를 배포할 때 댓글만 허용되는 경우 사용됩니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

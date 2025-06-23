@@ -73,7 +73,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+JPEG 회전을 위한 사용 사례
+
+- 잘못 촬영된 모바일 사진 회전(예: 옆으로 촬영된 셀카).
+- 전자 상거래 목록을 위한 제품 사진 정렬.
+- 스캔된 JPEG 영수증이나 문서의 방향 수정.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

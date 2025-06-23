@@ -81,7 +81,16 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Word Macro-Enabled Belgesi (`.docm`) için Kullanım Senaryoları
+
+- Otomasyon izleme için makro ile ilgili meta verileri içerir.
+- Gömülü makrolara bağlı belge güvenlik politikalarını yönetir.
+- Gömülü betiklere dayalı otomatik risk sınıflandırmasını etkinleştirir.
+- Belge amacını ve ilişkili iş sürecini belirlemede yardımcı olur.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

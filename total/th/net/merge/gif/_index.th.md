@@ -81,7 +81,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ GIF สำหรับการสร้างอนิเมชันหรือสตอรี่บอร์ด
+
+GIF (Graphics Interchange Format) เป็นรูปแบบที่นิยมสำหรับอนิเมชันและกราฟิกง่าย ๆ การผสานหลายไฟล์ `.gif` เป็นสิ่งสำคัญสำหรับการสร้างอนิเมชันหลายเฟรม สตอรี่บอร์ด หรือการรวมองค์ประกอบที่เคลื่อนไหวเข้าด้วยกันในไฟล์เดียวกัน
+
+#### การใช้งาน:
+
+- **การสร้าง GIF แอนิเมชัน**  
+  ผสานไฟล์ `.gif` หลาย ๆ ไฟล์เข้าด้วยกันเป็นอนิเมชันต่อเนื่องสำหรับการใช้ในเว็บ โฆษณา หรือโซเชียลมีเดีย
+
+- **การผสานสตอรี่บอร์ด**  
+  รวมรูปภาพ `.gif` ที่แสดงเฟรมต่าง ๆ ของอนิเมชันเข้าด้วยกันในไฟล์เดียวสำหรับการตรวจสอบหรือวิเคราะห์
+
+- **อนิเมชันหลายฉาก**  
+  ผสานไฟล์ `.gif` ที่มีฉากอนิเมชันต่าง ๆ เข้าด้วยกันในอนิเมชันขนาดใหญ่เพื่อโครงการที่ซับซ้อนมากขึ้น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

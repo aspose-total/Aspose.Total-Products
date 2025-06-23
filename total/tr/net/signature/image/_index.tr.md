@@ -71,7 +71,26 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Elektronik İmzalarla Görüntü Dosyalarının İmzalanma Kullanım Alanları
+
+## Taraflı Yasal Belgeler
+JPG, PNG veya TIFF formatındaki el yazısıyla yazılmış anlaşmaların taranmış kopyaları veya noter onaylı belgeler, doğruluğunu doğrulamak için dijital olarak imzalanabilir.
+
+## Kimlik Doğrulama ve Kişisel Kayıtlar
+Kimlik kartları, pasaportlar ve KYC veya onboarding için kullanılan fatura gibi görüntüler, değiştirilmediğinden emin olmak için elektronik olarak imzalanabilir.
+
+## Tıbbi Görüntüleme
+X-ışınları veya test sonuçları gibi taramalar, TIFF veya PNG formatında dijital olarak imzalanabilir ve sertifikalı bir tıbbi tesis tarafından geldiğini doğrulamak için kullanılabilir.
+
+## Sanat Eserleri ve Yaratıcı Başvurular
+Tasarımlar, illüstrasyonlar veya görüntü formatlarındaki pazarlama grafikleri, fikri mülkiyet haklarını belirtmek için imzalanabilir.
+
+## İnceleme ve Uyumluluk Fotoğrafları
+Denetimler, incelemeler veya uyumluluk kontrolleri sırasında çekilen fotoğraflar genellikle konumun, zamanın ve kanıtın doğruluğunu sertifikalamak için dijital olarak imzalanır.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

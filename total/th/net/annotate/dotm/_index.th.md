@@ -123,7 +123,28 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ DOTM (Word Macro-Enabled Template) มีสคริปต์อัตโนมัติเพื่อเสริมสร้างประสิทธิภาพ การทำเครื่องหมายบนไฟล์ DOTM ช่วยในการบันทึกพฤติกรรมของมาโครและในการติดตามข้อผิดพลาดและการรวบรวมข้อเสนอแนะ
+
+#### การทำเครื่องหมายบนไฟล์ DOTM สำหรับการใช้งานในการตรวจสอบเทมเพลตที่รองรับมาโคร:
+
+- **เอกสารคำสั่งและเอกสารความคิด**  
+  ทำเครื่องหมายบนฟิลด์ที่เรียกใช้มาโครเพื่ออธิบายความสามารถและผลลัพธ์ที่คาดหวัง
+
+- **การทบทวนและทดสอบอัตโนมัติ**  
+  แทรกหมายเหตุเพื่อระบุการดำเนินการของมาโครที่ประสบความสำเร็จหรือล้มเหลวในระหว่างการทดสอบ
+
+- **คำอธิบายพฤติกรรมของเทมเพลต**  
+  แสดงความคิดเห็นเกี่ยวกับส่วนการจัดรูปแบบหรือการจัดรูปแบบอัตโนมัติเพื่อช่วยให้ผู้ใช้เข้าใจกระบวนการของเทมเพลต
+
+- **การฝึกอบรมผู้ใช้**  
+  เพิ่มคำแนะนำการเรียนรู้โดยตรงลงในเทมเพลตเพื่อช่วยให้ผู้ใช้เริ่มใช้งานได้ง่ายขึ้น
+
+- **การแยกข้อผิดพลาด**  
+  ใช้การทำเครื่องหมายเพื่อแยกและอธิบายข้อผิดพลาดที่เกิดจากการดำเนินการของมาโคร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

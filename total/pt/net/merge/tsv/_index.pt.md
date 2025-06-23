@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir Arquivos TSV para Integração de Dados Leve
+
+Os arquivos TSV (Valores Separados por Tabulação) são semelhantes aos CSVs, mas usam tabulações como delimitadores. Fundir arquivos `.tsv` é útil ao trabalhar com conjuntos de dados limpos e estruturados em fluxos de trabalho baseados em texto.
+
+#### Casos de Uso:
+
+- **Tubulações de Dados Limpos**  
+  Fundir saídas `.tsv` de raspagem de dados, processos ETL ou arquivos de log em um conjunto de dados mestre.
+
+- **Análise Científica ou Estatística**  
+  Combinar arquivos de dados de experimentos `.tsv` para avaliação estatística consolidada.
+
+- **Integração entre Sistemas**  
+  Fundir dados `.tsv` de várias plataformas (logs do Linux, sensores, APIs) para ingestão centralizada.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

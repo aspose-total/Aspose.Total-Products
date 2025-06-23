@@ -87,7 +87,26 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Gebruiksscenario's voor het analyseren van Microsoft Excel-bestanden (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv)
+
+- 📈 **Gegevensextractie**  
+  Parse celwaarden, formules en bereiken uit spreadsheets voor analyses of dashboards.
+
+- 🧮 **Sjabloonverwerking**  
+  Gebruik `.xlt`, `.xltx`, `.xltm` sjablonen om rapporten, financiële overzichten of prognoses in te vullen.
+
+- 🤖 **Macro-bewuste parsing**  
+  Behandel `.xlsm` en `.xltm` formaten met macro-bewustzijn om automatiseringslogica te vermijden of te behouden.
+
+- 🔍 **Gestructureerde gegevensimport**  
+  Importeer inhoud van `.csv`, `.tsv` of `.xlsx` in databases, apps of API's.
+
+- 🗃️ **Gegevensmigratie**  
+  Converteer `.xls`, `.xlsb` en `.xlsx`-bladen naar JSON, XML of andere gestructureerde formaten voor integratie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

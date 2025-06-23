@@ -76,7 +76,19 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS is het open-source spreadsheetformaat dat wordt gebruikt door LibreOffice en OpenOffice.
+
+**Veelvoorkomende gebruiksscenario's zijn:**
+
+- Aanduiden van gegevens als Openbaar, Onder Review of Intern
+- Watermerk voor bronvermelding van gegevens
+- Labelen voor samenwerking tussen meerdere gebruikers
+- Inclusief licentie-informatie of auteurschap
+- Markeringsinhoud voor publicatie van open data
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

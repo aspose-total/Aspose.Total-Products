@@ -93,7 +93,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .dotx 파일 구문 분석용 사용 사례
+
+- 📝 `.dotx` 워드 템플릿을 사용하여 표준화된 문서를 프로그래밍적으로 생성합니다.
+- 🔁 템플릿 채우기 자동화 및 일괄 문서 제작.
+- 📰 템플릿 텍스트 및 구조를 추출하여 CMS 또는 문서 시스템과 통합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

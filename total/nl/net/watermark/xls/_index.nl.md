@@ -76,7 +76,19 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS is het oude binair spreadsheetformaat dat wordt gebruikt door vroege Excel-versies.
+
+**Veelvoorkomende gebruiksscenario's zijn:**
+
+- Spreadsheets labelen als Verouderd, Voor Archief of Concept
+- Eigenaarsidentiteit of creatiedatum toevoegen
+- Waarschuwen tegen ongeautoriseerde wijzigingen
+- Gegevens markeren als alleen voor intern gebruik
+- Spreadsheets identificeren voor auditindiening
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

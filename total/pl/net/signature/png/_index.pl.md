@@ -71,7 +71,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików PNG za pomocą podpisów cyfrowych lub elektronicznych
+
+Pliki PNG są powszechnie używane do czystych i bezstratnych skanów dokumentów. Podpisy cyfrowe na obrazach PNG chronią przed nieautoryzowanymi edycjami.
+
+## Powszechne przypadki użycia
+- Dokumenty weryfikacyjne tożsamości.
+- Pieczęcie, loga i certyfikaty z wodnym znakiem.
+- Zeskanowane listy jako dowody w sprawach prawnych.
+- Zdjęcia nieruchomości w transakcjach związanych z nieruchomościami.
+- Dokumenty firmowe w postaci obrazu z nagłówkiem firmowym.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

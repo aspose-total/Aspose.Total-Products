@@ -123,7 +123,28 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCM (Microsoft Word Macro-Enabled Document) dosyaları, makroların otomasyon için entegrasyonunu destekler. DOCM dosyalarına not eklemek, makrolar tarafından yapılan değişiklikleri izlemek ve işbirlikçi incelemeyi kolaylaştırmak için temel bağlam sağlar.
+
+#### Makro-Enabled Belge İşbirliği Kullanım Senaryoları için DOCM Dosyası Not Ekleme:
+
+- **Makro İş Akışı Belgeleme**  
+  Her makronun amacını, beklenen çıktıyı ve belgenin otomasyonundaki rolünü açıklamak için makro-destekli belgelere not ekleyin.
+
+- **Makro Fonksiyonları için Kullanıcı Talimatları**  
+  Kullanıcıları makrolarla etkileşimde bulunma veya otomatikleştirilmiş işlemler için gerekli girişleri nasıl yapacakları konusunda belgelerde not ekleyin.
+
+- **Hata Ayıklama ve Hata İzleme**  
+  Makroların başarısız olduğu veya verilerin yanlış girildiği bölümleri vurgulamak için yorumlar ekleyerek hata ayıklamaya yardımcı olun.
+
+- **Otomasyon Geri Bildirimi**  
+  Makroların belge görevlerini otomatikleştirme etkinliği hakkında geri bildirim sağlayın, örneğin tablo oluşturma, biçimlendirme veya içerik doldurma gibi.
+
+- **Makro Üretilen İçeriğin İncelenmesi**  
+  Makrolar tarafından oluşturulan içeriğin manuel olarak incelenmesi veya değiştirilmesi gereken alanları not edin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

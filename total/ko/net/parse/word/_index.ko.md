@@ -93,7 +93,26 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Microsoft Word 문서 (doc, docm, docx, dot, dotm, dotx, odt, rtf) 구문 분석 사용 사례
+
+- 📄 **콘텐츠 추출**
+  웹 표시, 검색 인덱싱 또는 텍스트 분석을 위해 워드 문서에서 텍스트, 표 및 이미지를 추출합니다.
+
+- 📰 **템플릿 처리**
+  `.dot`, `.dotx`, `.dotm` 템플릿을 사용하여 동적 데이터로 문서를 자동 생성합니다.
+
+- 🔁 **자동화 워크플로**
+  포함된 매크로가 있는 `.docm` 또는 `.dotm` 파일에서 구문 분석 및 콘텐츠 교체를 자동화합니다.
+
+- 🧾 **보고서 변환**
+  `.doc`, `.odt`, 또는 `.rtf` 파일을 깔끔한 HTML, Markdown 또는 PDF로 변환하여 게시하거나 문서화합니다.
+
+- 📚 **디지털 아카이빙**
+  `.doc` 및 `.rtf`와 같은 레거시 형식을 변환하고 새로운 플랫폼에 적합하도록 색인화하여 보존합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

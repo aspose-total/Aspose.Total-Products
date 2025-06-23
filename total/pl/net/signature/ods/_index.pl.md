@@ -76,7 +76,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików ODS za pomocą podpisów cyfrowych lub elektronicznych
+
+ODS to format arkusza kalkulacyjnego dla pakietów biurowych typu open-source. Podpisywanie plików ODS pomaga chronić dane finansowe i operacyjne w środowiskach innych niż Microsoft.
+
+## Powszechne przypadki użycia
+- Budżety i raporty projektów open-source.
+- Instytucje edukacyjne śledzące dane uczniów.
+- Agencje rządowe w regionach o ograniczonych zasobach finansowych.
+- Organizacje pozarządowe kompilujące raporty dotyczące darczyńców i projektów.
+- Dokumenty planowania działów wymagające bezpiecznych podpisów elektronicznych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

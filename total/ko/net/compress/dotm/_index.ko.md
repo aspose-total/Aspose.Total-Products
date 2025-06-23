@@ -78,7 +78,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 매크로 활성화 워드 템플릿 효율을 위해 DOTM 파일 압축
+
+DOTM (매크로 활성화 워드 템플릿) 파일에는 파일 크기를 증가시키는 스크립트와 서식이 포함되어 있습니다. DOTM 파일을 압축하면 자동화된 템플릿의 빠른 액세스와 쉬운 관리가 가능해집니다.
+
+#### 사용 사례:
+
+- **매크로 템플릿 배포**  
+  파일 크기를 줄여 빠른 배포를 위해 조직 전체에 DOTM 템플릿을 공유합니다.
+
+- **효율적인 매크로 저장**  
+  디스크 공간을 낭비하지 않고 DOTM 템플릿 모음을 아카이브합니다.
+
+- **시스템 간 배포**  
+  다양한 기기에서 템플릿 실행 중 호환성 및 지연 감소를 위해 DOTM 파일을 압축합니다.
+
+- **템플릿 라이브러리 최적화**  
+  압축된 매크로 활성화 파일로 템플릿 저장소를 가볍고 관리하기 쉽게 유지합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Arquivos XLTM (Modelo Habilitado para Macro) suportam reutilização com macros. As anotações fornecem informações essenciais sobre pontos de automação, entradas esperadas ou resultados de macros.
+
+#### Anotar Arquivos XLTM para Fluxos de Trabalho de Modelo de Macro - Casos de Uso:
+
+- **Documentação de Macro**: Explique os acionadores de macro e os efeitos pretendidos.
+- **Orientação ao Usuário**: Anote as seções que os usuários não devem alterar para preservar a automação.
+- **Notas de Teste**: Marque áreas sob revisão de QA durante o teste do modelo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

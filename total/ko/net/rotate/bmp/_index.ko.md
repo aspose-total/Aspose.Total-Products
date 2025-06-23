@@ -73,7 +73,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+BMP 회전을 위한 사용 사례
+
+- BMP 형식으로 저장된 스캔된 공학 청사진이나 건축 계획을 회전합니다.
+- 올바른 보기를 위해 레거시 Windows에서 생성된 이미지의 방향을 조정합니다.
+- 문서나 보고서에 삽입하기 위해 BMP 이미지를 준비합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

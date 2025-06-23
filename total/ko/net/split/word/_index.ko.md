@@ -73,7 +73,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — 문서 분할을 위한 사용 사례
+
+- 대형 보고서, 매뉴얼 또는 연구 논문을 더 작고 관리하기 쉬운 파일로 분할합니다.
+- 문서의 다른 섹션을 각 팀원에게 할당하여 독립적으로 편집합니다.
+- 문서의 특정 부분을 별도로 처리하여 워크플로우를 자동화합니다.
+- 대형 파일을 이메일이나 업로드용으로 더 작은 첨부 파일로 분할하여 공유를 용이하게 합니다.
+- 단일 마스터 파일에서 개인화된 문서(예: 인증서, 송장 또는 편지)를 생성합니다.
+- 문서 관리 시스템과의 쉬운 저장, 검색 및 규정 준수를 위해 콘텐츠를 구성합니다.
+- 기밀 데이터를 안전하게 유지하면서 민감한 문서의 관련 섹션만 공유합니다.
+- 학습 경험을 향상시키기 위해 교육 자료나 교육 자료를 주제 중심 파일로 분할하여 배포합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

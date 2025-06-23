@@ -78,7 +78,17 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki TSV (wartości oddzielone tabulatorem) są powszechne w nauce danych i eksportach systemowych. Adnotacje pomagają oznaczyć konkretne rekordy, wyjaśnić wartości pól lub zaznaczyć potrzeby transformacji.
+
+#### Adnotacje plików TSV dla współpracy nad strukturalnymi danymi - Przykłady użycia:
+
+- **Notatki dotyczące czyszczenia danych**: Zaznacz wiersze wymagające ręcznej korekty lub wykluczenia.
+- **Zbiory danych do szkolenia modeli**: Oznacz specjalne przypadki dla logiki ML w dółstrumieniowej.
+- **Komentarze dotyczące przepływu pracy ETL**: Adnotuj pola wymagające mapowania lub zmian schematu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

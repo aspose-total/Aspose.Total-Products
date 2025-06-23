@@ -80,7 +80,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX เป็นรูปแบบการนำเสนอ PowerPoint ที่ทันสมัย
+
+**กรณีการใช้ที่พบบ่อย ได้แก่:**
+
+- การใช้สัญลักษณ์แบรนด์และโลโก้อย่างมืออาชีพ
+- ระบุสถานะของ slide deck เช่น ร่าง, ฉบับสุดท้าย, หรือลับ
+- แสดงการแบ่งกลุ่มผู้ชม (เช่น "สำหรับลูกค้า", "สำหรับใช้ภายใน")
+- ป้องกันการใช้งานผิดประเภทด้วยลายน้ำ Do Not Distribute
+- ติดป้ายชื่อผู้นำเสนอหรือสถานะการอนุมัติใน slide
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,18 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word — Przypadki użycia ochrony dokumentów
+
+- Zapobieganie nieautoryzowanej edycji umów prawnych, polityk HR lub prac naukowych.
+- Zabezpieczanie sekcji dokumentu (takich jak nagłówki, klauzule prawne czy spisy treści) przed zmianami.
+- Umożliwianie wspólnej edycji z ograniczonym dostępem do określonych obszarów (np. sekcji tylko do komentowania).
+- Ochrona szablonów z makrami lub formularzy, które automatyzują przepływy pracy.
+- Blokowanie elementów identyfikacji wizualnej (takich jak logo i oświadczenia firmy) w standaryzowanych szablonach.
+- Zapobieganie niezgodnościom formatowania podczas udostępniania dokumentów między działami lub na zewnątrz.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

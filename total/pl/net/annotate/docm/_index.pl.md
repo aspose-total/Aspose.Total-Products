@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki DOCM (Microsoft Word Macro-Enabled Document) obsługują integrację makr do automatyzacji. Opisywanie plików DOCM zapewnia istotny kontekst wokół zautomatyzowanych procesów, śledzenie zmian dokonanych przez makra i ułatwia wspólną recenzję.
+
+#### Opisywanie plików DOCM w celu współpracy przy dokumentach z makrami:
+
+- **Dokumentacja Przepływu Makr**  
+  Opisuj dokumenty z makrami, aby wyjaśnić cel każdego makra, oczekiwany wynik i jego rolę w automatyzacji dokumentu.
+
+- **Instrukcje dla Użytkowników dotyczące Funkcji Makr**  
+  Dodawaj opisy w dokumentach, aby przewodniczyć użytkownikom, jak współdziałać z makrami lub jakie dane są wymagane do działań zautomatyzowanych.
+
+- **Debugowanie i Śledzenie Błędów**  
+  Wstawiaj komentarze, aby zaznaczyć sekcje, w których makra zawodzą lub gdzie dane są wprowadzone nieprawidłowo, pomagając w debugowaniu.
+
+- **Opinia o Automatyzacji**  
+  Udzielaj opinii na temat skuteczności makr w automatyzacji zadań dokumentów, takich jak tworzenie tabel, formatowanie czy wypełnianie treścią.
+
+- **Recenzja Zawartości Wygenerowanej przez Makra**  
+  Opisuj obszary, gdzie zawartość generowana przez makra wymaga ręcznej recenzji lub modyfikacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

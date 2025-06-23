@@ -80,7 +80,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Platform-Bağımsız Belge Derlemesi için RTF (Zengin Metin Biçimi) Birleştirme
+
+RTF dosyaları, platform bağımsız, biçimlendirilmiş metin belgeleri için kullanılır. RTF dosyalarını birleştirmek, içeriği birleştirirken sistemler arasında biçimlendirmeyi korumayı sağlar.
+
+#### Kullanım Alanları:
+
+- **Biçimlendirilmiş Metin Derlemesi**  
+  Farklı sistemlerden raporları veya notları birleştirerek biçimlendirilmiş bir belge oluşturun.
+
+- **Çapraz Platform Belge Birleştirme**  
+  Farklı kelime işlemcilerden oluşturulan içerikleri birleştirerek birleşik bir dosya oluşturun.
+
+- **Proje Belge Derlemesi**  
+  Birden fazla RTF notunu veya teslimatı birleştirerek bir nihai rapor oluşturun.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

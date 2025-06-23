@@ -81,7 +81,30 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ 画像ファイル（JPG、PNG、BMP、GIF、TIFF、WEBP）
+
+画像ファイルを1つのビジュアル出力または構造化された形式（例：PDF、コラージュ、またはスプライト）にマージすることは、デザイン、ドキュメント作成、およびデジタルパブリッシングのワークフローをサポートします。
+
+#### ユースケース：
+
+- **デジタルアルバムの作成**  
+  休暇、イベント、またはポートフォリオの画像を1つのギャラリーまたはフォトブックにマージします。
+
+- **デザインアセットの統合**  
+  UIモックアップ、ソーシャルメディアグラフィック、またはブランディングアセットを1つの参照ファイルにマージして、クライアントのレビュー用にします。
+
+- **スキャンされた文書のグループ化**  
+  スキャンされた画像ファイルを1つのアーカイブまたは文書に結合して、保存や共有のために使用します。
+
+- **視覚的比較とBefore-Afterスライド**  
+  レポートやマーケティング資料で比較ビジュアルを作成するために画像セットをマージします。
+
+- **トレーニングまたは製品マニュアル**  
+  注釈付きスクリーンショットや製品写真を連続した指示コンテンツにマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

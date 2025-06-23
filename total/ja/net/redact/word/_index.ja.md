@@ -82,7 +82,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word での編集
+
+- 公式文書の名前、住所、識別番号を編集します。
+- 裁判所文書や契約書を提出する前に機密性の高い法的内容を編集します。
+- 共有されるレポート内の内部コミュニケーションや機密性の高いビジネス情報を編集します。
+- 人事ファイル、患者サマリー、学術記録内の個人情報や医療情報を編集します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

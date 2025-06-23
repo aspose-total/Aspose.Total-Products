@@ -71,7 +71,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานในการเซ็นไฟล์ JPEG และ JPG ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+ภาพ JPEG/JPG ใช้สำหรับเอกสารที่สแกน รูปถ่าย และหลักฐานการระบุตัวบุคคล การเซ็นดิจิตอลจะช่วยให้มั่นใจได้ในเรื่องความปลอดภัยและพิสูจน์ต้นกำเนิด
+
+## กรณีการใช้งานทั่วไป
+- สัญญาที่สแกนและเอกสารที่เซ็น
+- เอกสารที่ใช้ในกระบวนการ KYC
+- รายงานที่มีสิ่งสังเกตที่ฝังอยู่
+- ภาพการแพทย์ที่แชร์เพื่อให้ปรึกษาจากระยะไกล
+- บันทึกการถือครองที่เป็นรูปภาพ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

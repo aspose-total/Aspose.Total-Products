@@ -80,7 +80,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 プラットフォーム非依存のドキュメントコンパイルのためのRTF（リッチテキスト形式）のマージ
+
+RTFファイルは、プラットフォーム非依存のフォーマットされたテキストドキュメントに使用されます。 RTFファイルをマージすることで、異なるシステムからのコンテンツを組み合わせながら、システム間でのフォーマットを維持できます。
+
+#### ユースケース：
+
+- **フォーマットされたテキストのコンパイル**  
+  異なるシステムからのレポートやノートを1つのフォーマットされたドキュメントにマージします。
+
+- **クロスプラットフォームドキュメントの集約**  
+  異なるワードプロセッサから作成されたコンテンツを統一されたファイルに結合します。
+
+- **プロジェクトのドキュメントのアセンブリ**  
+  複数のRTFノートや成果物を1つの最終レポートにマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

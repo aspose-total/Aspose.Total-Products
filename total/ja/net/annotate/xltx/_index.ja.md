@@ -78,7 +78,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTX（Excelテンプレート - Open XML）ファイルは、標準化された繰り返し可能なレポートに使用されます。それらに注釈を付けることで、編集可能な領域、入力の期待値、および改訂の提案についての明確さが確保されます。
+
+#### 再利用可能なレポートテンプレートのためのXLTXファイルに注釈を付ける - ユースケース：
+
+- **レポートの指示**: 繰り返しのレポートのための使用方法のヒントや更新ノートを追加します。
+- **デザインフィードバック**: ビジュアル、ヘッダー、またはセクション構造に注釈を付けます。
+- **ユーザーとの協力**: 異なる部署からの提案を共有テンプレートで追跡します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,26 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania formatów arkuszy kalkulacyjnych za pomocą elektronicznych podpisów
+
+## Raporty finansowe i budżety
+Pliki XLS, XLSX i ODS są powszechnie używane do sprawozdań finansowych, bilansów i planów budżetowych. Podpisy cyfrowe potwierdzają dokładność danych i zatwierdzenie przez recenzenta.
+
+## Dane płacowe i personalne
+Podsumowania płac i analizy personalne udostępniane w postaci arkuszy kalkulacyjnych mogą być podpisywane elektronicznie, aby zapewnić prywatność i integralność podczas wewnętrznych przeglądów lub audytów.
+
+## Oferty od dostawców i arkusze zamówień
+Formularze ofertowe, listy produktów i szacunki kosztów są często udostępniane w formacie arkusza kalkulacyjnego. Podpisy elektroniczne formalizują akceptację i zapobiegają edycjom po przesłaniu.
+
+## Rejestry audytu i zgodności
+Audytorzy używają arkuszy kalkulacyjnych do kompilowania i raportowania wyników. Podpisy cyfrowe potwierdzają, że dane nie zostały zmienione po zatwierdzeniu.
+
+## Rejestry inwentaryzacyjne i łańcuch dostaw
+Pliki śledzenia inwentarza, dzienniki wysyłek i dane dostawców w formatach ODS lub XLSX są podpisywane cyfrowo, aby zapewnić spójność operacji i zapobiec manipulacji danymi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

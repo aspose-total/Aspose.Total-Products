@@ -73,7 +73,22 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 크로스 플랫폼 문서 감사용 RTF 파일 비교 사례:
+
+RTF (리치 텍스트 형식) 파일은 가벼운 문서 교환에 널리 사용됩니다. RTF 파일을 비교하면 플랫폼 중립성이 중요한 환경에서 콘텐츠 및 서식 변경을 확인할 수 있습니다.
+
+- **크로스 플랫폼 콘텐츠 확인**  
+  서로 다른 시스템이나 도구 간의 서식이나 단어 선택 변경을 감지합니다.
+
+- **문서 개정 검토**  
+  여러 기여자가 업데이트한 교육 매뉴얼이나 도움말 문서를 비교합니다.
+
+- **레거시 호환성 감사**  
+  RTF 기반 시스템에서 수행한 변경 사항이 구조나 스타일에 영향을 미치지 않도록 합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

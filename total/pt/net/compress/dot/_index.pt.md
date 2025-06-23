@@ -78,7 +78,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir arquivos DOT para Gerenciamento de Modelos de Documento Antigo
+
+Os arquivos DOT (Modelo do Word 97–2003) são modelos antigos do Word que podem incluir formatação avançada ou imagens. Comprimir arquivos DOT torna os sistemas de modelo antigos mais eficientes e portáteis.
+
+#### Casos de Uso:
+
+- **Limpeza da Biblioteca de Modelos**  
+  Reduza o tamanho dos arquivos DOT para manter um repositório de modelos compacto e organizado.
+
+- **Carregamento Mais Rápido em Sistemas Antigos**  
+  Arquivos DOT menores melhoram os tempos de resposta em máquinas mais antigas ou ambientes virtuais.
+
+- **Armazenamento Compacto de Backup**  
+  Arquive modelos antigos em forma comprimida para reduzir os custos de armazenamento a longo prazo.
+
+- **Modelos de Política Empresarial**  
+  Possibilite a distribuição mais rápida de modelos DOT padrão entre departamentos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

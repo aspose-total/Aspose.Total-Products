@@ -75,7 +75,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompresja plików TSV dla efektywnego przechowywania i transferu
+
+Pliki TSV (wartości rozdzielone tabulatorem) to inny format używany do danych strukturalnych, zwłaszcza tam, gdzie znaki tabulacji są preferowane nad przecinkami do separacji. Podobnie jak pliki CSV, duże pliki TSV mogą być intensywne w przechowywaniu i wolne w transferze lub przetwarzaniu. Kompresja plików TSV zapewnia istotne korzyści dla wydajności, skalowalności i interoperacyjności.
+
+- **Pakowanie Danych Badawczych**  
+  Kompresuj pliki TSV generowane z eksperymentów laboratoryjnych lub ankiet, aby ułatwić ich udostępnianie lub przesłanie do recenzji przez rówieśników.
+
+- **Dzienniki Zdarzeń i Ścieżki Audytu**  
+  Archiwizuj dzienniki systemowe lub dane monitorowania przechowywane w formacie TSV w postaci skompresowanej, aby zaoszczędzić miejsce bez utraty wierności.
+
+- **Integracja Big Data**  
+  Wykorzystaj kompresję dla plików TSV wprowadzanych do jezior danych lub systemów przetwarzania rozproszonego, takich jak Hadoop lub Spark.
+
+- **Automatyczne Potoki Raportowania**  
+  Zintegruj kompresję do automatycznych skryptów generujących dane wyjściowe w formacie TSV, zmniejszając opóźnienia w dystrybucji e-mailowej lub opartej na chmurze.
+
+- **Współpraca w Dzieleniu Danych**  
+  Udostępniaj duże pliki TSV analitykom lub zespołom za pomocą skompresowanych archiwów, poprawiając przenośność i efektywność przesyłania.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

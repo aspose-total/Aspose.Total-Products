@@ -123,7 +123,28 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOT (Word 97–2003-mall) filer definierar återanvändbara dokumentstrukturer. Annotationer i DOT-filer hjälper till att förtydliga mallens syfte, användningsinstruktioner och anpassningsanteckningar för användare.
+
+#### DOT-filannotation för mallens dokumentation och feedbackanvändningsfall:
+
+- **Mallanpassningsvägledning**  
+  Annotera fält och platshållare för att vägleda användare om hur och var de ska infoga innehåll.
+
+- **Arbetsflödesinstruktioner**  
+  Lägg till kommentarer som förklarar automatiserade beteenden, makron eller villkorlig formatering som är inbäddade i mallen.
+
+- **Varumärkes- och stilgranskningar**  
+  Markera områden som måste överensstämma med företagets varumärkesriktlinjer eller dokumentstandarder.
+
+- **Feedbackinsamling från användare**  
+  Tillåt användare att infoga kommentarer om mallens användbarhet för att förenkla iterativa förbättringar.
+
+- **Regulatoriska efterlevnadsmallar**  
+  Tillhandahåll regulatoriska eller efterlevnadsrelaterade anteckningar direkt i mallen för juridiska dokumentationsprocesser.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

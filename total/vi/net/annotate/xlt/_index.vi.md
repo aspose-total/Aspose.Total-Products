@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tập tin XLT (Excel Template) cung cấp cấu trúc được xác định trước cho bảng tính. Chú thích giúp xác định chỗ đặt giữ chỗ, cung cấp hướng dẫn, hoặc ghi lại phản hồi trong quá trình tùy chỉnh mẫu.
+
+#### Chú thích Tập tin XLT cho Tùy chỉnh Mẫu - Các Trường Hợp Sử Dụng:
+
+- **Hướng Dẫn Mẫu**: Thêm nhận xét để hướng dẫn người dùng cuối về các trường nhập.
+- **Xem Xét Mẫu**: Chú thích các công thức hoặc gợi ý bố cục để cải thiện.
+- **Ghi Chú Nhóm**: Hợp tác trên bản nháp ban đầu của các mẫu với các ghi chú ngữ cảnh.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

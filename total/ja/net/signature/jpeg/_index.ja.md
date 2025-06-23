@@ -71,7 +71,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名を使用してJPEGおよびJPGファイルに署名する使用例
+
+JPEG/JPG画像はスキャンされた文書、写真、およびID証明書に使用されます。デジタルで署名することで、セキュリティと出所の証明が確保されます。
+
+## 一般的な使用例
+- スキャンされた契約書や署名された文書。
+- KYCプロセスでの身元証明書。
+- 埋め込まれた観察を持つ視覚的なレポート。
+- 遠隔相談のために共有される医療画像。
+- 視覚的な形式の土地所有権記録。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

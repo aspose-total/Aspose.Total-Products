@@ -79,7 +79,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Eski Excel Veri Entegrasyonu için XLS Dosyalarını Birleştirme
+
+XLS, Microsoft Excel'in eski sürümlerinde kullanılan ikili formattır. Birden fazla `.xls` dosyasını birleştirmek, tarihsel verileri analiz veya arşivleme için modern sistemlere konsolide etmeye yardımcı olur.
+
+#### Kullanım Alanları:
+
+- **Eski Finansal Raporlar**  
+  Tarihsel trend analizi veya denetim hazırlığı için eski Excel finansal raporlarını birleştirin.
+
+- **Tarihsel İK Kayıtları**  
+  `.xls` formatında tutulan eski çalışan kayıtlarını veya maaş bordrolarını tek bir birleşik dosyaya entegre edin.
+
+- **Veri Arşivlerini Yükseltme**  
+  İyileştirilmiş uyumluluk ve işleme için `.xlsx` veya diğer modern formatlara dönüştürmeden önce `.xls` dosyalarını birleştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tệp XLTX (Mẫu Excel - Open XML) được sử dụng cho báo cáo chuẩn hóa, có thể lặp lại. Chú thích chúng đảm bảo rõ ràng về các khu vực có thể chỉnh sửa, kỳ vọng đầu vào và gợi ý sửa đổi.
+
+#### Chú thích Tệp XLTX cho Mẫu Báo Cáo Có Thể Sử Dụng Lại - Các Trường Hợp Sử Dụng:
+
+- **Hướng Dẫn Báo Cáo**: Thêm mẹo sử dụng hoặc ghi chú cập nhật cho các báo cáo định kỳ.
+- **Phản Hồi Thiết Kế**: Chú thích hình ảnh, tiêu đề hoặc cấu trúc phần.
+- **Hợp Tác Người Dùng**: Theo dõi gợi ý từ các bộ phận khác nhau trên một mẫu chia sẻ.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

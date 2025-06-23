@@ -75,7 +75,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 旧式エクセルテンプレート最適化のためのXLTファイルの圧縮
+
+XLT（Excel 97–2003テンプレート）ファイルは、埋め込まれた要素やサンプルデータによって大きくなることがあります。XLTファイルを圧縮することで、テンプレートライブラリがよりスリムで配布しやすくなります。
+
+#### 使用例：
+
+- **旧式テンプレートの携帯性**  
+  標準テンプレートを圧縮して、古いエンタープライズシステムでのより迅速な配布を実現します。
+
+- **テンプレートリポジトリの効率化**  
+  テンプレートアーカイブを軽量化して、中央アクセスと高速な取得を実現します。
+
+- **テンプレートの読み込み時間の短縮**  
+  旧式システムを最適化するために、XLTファイルを圧縮して開く速度を向上させます。
+
+- **バックアップとストレージの最適化**  
+  圧縮によって、旧式テンプレートの長期保存を最小限に抑えます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

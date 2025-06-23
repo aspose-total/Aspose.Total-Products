@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### テンプレートベースのExcelワークフローのためのXLTファイルのマージ
+
+XLTは、`.xls`（Excel 97-2003）のExcelテンプレート形式です。`.xlt`ファイルをマージすることで、レガシーテンプレートを統一された構造に標準化および更新するのに役立ちます。
+
+#### ユースケース:
+
+- **レガシーテンプレートの統一**  
+  複数の`.xlt`テンプレートをマスターテンプレートに結合して、後方互換性を確保します。
+
+- **部門テンプレートの標準化**  
+  古いテンプレートをマージして、現代的な`.xltx`の代替案を評価および開発します。
+
+- **歴史的なテンプレートのアーカイブ**  
+  コンプライアンスや歴史的な参照のために古い`.xlt`バージョンを統合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

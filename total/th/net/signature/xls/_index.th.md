@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานในการเซ็นไฟล์ XLS ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+XLS เป็นรูปแบบ Excel เก่าที่ยังคงใช้เพื่อความเข้ากันได้ย้อนหลัง การเพิ่มลายเซ็นดิจิตอลช่วยในการรักษาข้อมูลทางการเงินและความสมบูรณ์ของเวอร์ชัน
+
+## กรณีการใช้งานทั่วไป
+- รายงานทางการเงินและสเปรดชีตเงินเดือนเก่า
+- แผนการลงทุนที่แชร์ในรูปแบบ Excel เก่า
+- ข้อมูลการจัดซื้อและการส่งผลิตภัณฑ์จากผู้ขายในรูปแบบ XLS
+- รายงานการตรวจสอบของรัฐบาลโดยใช้เทมเพลตสเปรดชีตเก่า
+- รายการเงินเดือนของพนักงานที่ต้องการการตรวจสอบลายเซ็น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

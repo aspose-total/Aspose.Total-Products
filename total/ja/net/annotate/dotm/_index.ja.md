@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM（Word Macro-Enabled Template）ファイルには、生産性を向上させるための自動化スクリプトが含まれています。DOTMファイルに注釈を付けることで、マクロの動作の文書化が確実になり、エラーの追跡やフィードバックの収集が容易になります。
+
+#### マクロ有効テンプレートレビュー用途のDOTMファイル注釈：
+
+- **マクロ命令とロジックの文書化**  
+  機能と予想される結果を明確にするために、マクロトリガーされたフィールドに注釈を付けます。
+
+- **自動化のレビューとテスト**  
+  テスト中に成功または失敗したマクロの実行をフラグ付けするためにメモを挿入します。
+
+- **テンプレートの動作説明**  
+  ユーザーがテンプレートのフローを理解するのに役立つように、自動化されたレイアウトや書式設定セクションにコメントを追加します。
+
+- **ユーザートレーニング資料の埋め込み**  
+  ユーザーのオンボーディングを容易にするために、学習プロンプトをテンプレートに直接追加します。
+
+- **エラーの分離**  
+  マクロの実行によって引き起こされたバグを分離して説明するために注釈を使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

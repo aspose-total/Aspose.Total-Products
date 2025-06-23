@@ -81,7 +81,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ ビジュアルアーカイブとデザイン統合のためのJPG（JPEG画像形式）のマージ
+
+JPGは、写真やウェブグラフィックに広く使用されている圧縮画像形式です。JPGファイルをマージすることで、プレゼンテーション、アーカイブ、およびビジュアルドキュメントがサポートされます。
+
+#### 使用例：
+
+- **フォトアルバムの作成**  
+  休暇やイベントの画像を1つのコラージュやスライドショーにマージします。
+
+- **マーケティング資料**  
+  複数のビジュアルアセットをパンフレットやプロモーションシートに組み合わせます。
+
+- **画像ベースのドキュメント**  
+  スクリーンショットやビジュアルログを1つのガイドや証拠報告書にマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

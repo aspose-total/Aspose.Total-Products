@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ XLT (Excel Template) มีโครงสร้างที่กำหนดไว้ล่วงหน้าสำหรับสเปรดชีต หมายเหตุช่วยระบุตำแหน่งที่ต้องแทนที่ ให้คำแนะนำ หรือรับข้อเสนอแนะในระหว่างการปรับแก้ไขเทมเพลต
+
+#### ทำเครื่องหมายบนไฟล์ XLT เพื่อปรับแก้ไขเทมเพลต - กรณีการใช้งาน:
+
+- **คำแนะนำเกี่ยวกับเทมเพลต**: เพิ่มความคิดเห็นเพื่อแนะนำผู้ใช้สุดท้ายในช่องป้อนข้อมูล
+- **ตรวจสอบเทมเพลต**: ทำเครื่องหมายสูตรคำนวณหรือข้อเสนอแนะเกี่ยวกับเค้าโครงเพื่อปรับปรุง
+- **บันทึกข้อความของทีม**: ร่วมมือกันในการร่างเทมเพลตเบื้องต้นด้วยข้อความบริบท
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ストリームライン化された現代のExcelテンプレートの使用のためにXLTXファイルを圧縮する
+
+XLTX（Excel Open XMLテンプレート）は、一貫した書式設定やレイアウトに使用される現代のテンプレート形式です。XLTXファイルに事前に読み込まれたデータやチャートが含まれている場合、圧縮は便利です。
+
+#### 用途:
+
+- **標準化されたテンプレート配布**  
+  部門やシステム全体に迅速に展開するためにXLTXテンプレートを圧縮します。
+
+- **最適化された共有ドライブ**  
+  テンプレートコレクションのサイズを縮小して、ネットワークドライブでのアクセス速度を向上させます。
+
+- **モバイルおよびリモートアクセス**  
+  リモートや現場作業のシナリオでのテンプレートの迅速なダウンロードとアクセスを可能にします。
+
+- **メールおよびWebポータルの互換性**  
+  テンプレートの配布におけるアップロードや添付ファイルサイズの制限に準拠するようにします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

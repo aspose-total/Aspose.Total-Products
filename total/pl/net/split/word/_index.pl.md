@@ -73,7 +73,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Przypadki użycia dzielenia dokumentów
+
+- Podziel duże raporty, instrukcje lub prace badawcze na mniejsze, łatwiejsze do zarządzania pliki.
+- Przypisz różne sekcje dokumentu różnym członkom zespołu do niezależnej edycji.
+- Zautomatyzuj przepływy pracy, przetwarzając określone części dokumentu osobno.
+- Ułatw udostępnianie dużych plików, dzieląc je na mniejsze załączniki do e-maili lub przesyłania.
+- Generuj spersonalizowane dokumenty (np. certyfikaty, faktury czy listy) z jednego głównego pliku.
+- Organizuj treści dla łatwiejszego przechowywania, wyszukiwania i zgodności z systemami zarządzania dokumentami.
+- Udostępniaj tylko istotne sekcje poufnych dokumentów, zachowując bezpieczeństwo danych poufnych.
+- Dystrybuuj materiały edukacyjne lub szkoleniowe w mniejszych plikach skoncentrowanych na temacie dla lepszego doświadczenia uczenia się.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

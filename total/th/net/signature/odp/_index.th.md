@@ -73,7 +73,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# การใช้งานของการเซ็นไฟล์ ODP ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+ไฟล์ ODP ได้รับความนิยมจากผู้ใช้ LibreOffice Impress หรือ OpenOffice การเซ็นต์ดิจิตอลใน ODP ช่วยให้มั่นใจได้ว่าไม่มีการปฏิเสธความรับผิดชอบในสภาพแวดล้อมการนำเสนอแบบโอเพนซอร์ส
+
+## กรณีการใช้ทั่วไป
+- ภาพนิทัศการทางวิชาการและใบรับรอง
+- การนำเสนอโครงการขององค์กรไม่แสวงหาผู้บริจาค
+- ข้อเสนอนโยบายในสำนักงานของรัฐบาลโดยใช้ ODP
+- เว็บบินาร์ที่เชี่ยวชาญที่ถูกแบ่งปันในแพลตฟอร์มโอเพนซอร์ส
+- รายงานชุมชนที่ต้องการการยืนยันอิเล็กทรอนิกส์
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

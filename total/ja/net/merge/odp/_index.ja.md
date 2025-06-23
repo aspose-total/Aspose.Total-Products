@@ -78,7 +78,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 統一されたスライド配信のためのODP（OpenDocument Presentation）のマージ
+
+ODPファイルはLibreOfficeやOpenOfficeのプレゼンテーション形式です。ODPファイルをマージすることで、統一されたスライドのオープンフォーマット配信が可能になります。
+
+#### ユースケース：
+
+- **公共部門プレゼンテーションのマージ**  
+  異なる部門のスライドデッキを統合して包括的なプレゼンテーションにします。
+
+- **教育用スライド統合**  
+  講義スライドを1つのコース配信ドキュメントにマージします。
+
+- **協力的なカンファレンスデッキ**  
+  スピーカーのODPファイルをマージして整理されたイベントプレゼンテーションを作成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

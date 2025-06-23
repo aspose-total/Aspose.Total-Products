@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### マクロ有効なExcelワークフローのためのXLSMファイルのマージ
+
+XLSMファイルはマクロが有効なExcelワークブックです。`.xlsm`ファイルのマージは、自動化や計算に使用されるデータと埋め込まれたマクロの両方を保持する必要があります。
+
+#### ユースケース:
+
+- **自動化されたタスクレポート**  
+  レポート作成や検証タスクを自動化するマクロが有効なシートを中心ファイルにマージします。
+
+- **ワークフローテンプレートの統合**  
+  部署間で使用される`.xlsm`テンプレートを1つのワークブックに結合して、効率的な自動化を実現します。
+
+- **集中化されたVBAコードリポジトリ**  
+  類似のマクロを持つファイルをマージして、ロジックを統一し、部門間での重複を減らします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

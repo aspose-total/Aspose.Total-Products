@@ -78,7 +78,27 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompresuj pliki DOTM dla efektywności szablonów Word z obsługą makr
+
+Pliki DOTM (szablony Word z obsługą makr) zawierają skrypty i formatowanie, które zwiększają rozmiar pliku. Kompresowanie plików DOTM zapewnia szybszy dostęp i łatwiejsze zarządzanie zautomatyzowanymi szablonami.
+
+#### Przykłady użycia:
+
+- **Dystrybucja szablonów z makrami**  
+  Udostępniaj szablony DOTM w całej organizacji z mniejszym rozmiarem pliku dla szybszego wdrożenia.
+
+- **Efektywne przechowywanie makr**  
+  Archiwizuj kolekcję szablonów DOTM bez marnowania miejsca na dysku.
+
+- **Wdrożenie między systemami**  
+  Kompresuj pliki DOTM dla kompatybilności i zmniejszenia opóźnień podczas wykonywania szablonów na różnych maszynach.
+
+- **Optymalizacja biblioteki szablonów**  
+  Zachowuj lekkie i zarządzalne repozytoria szablonów dzięki skompresowanym plikom z obsługą makr.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

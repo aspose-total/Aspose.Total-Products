@@ -78,7 +78,18 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — 워크북 보호용 사용 사례
+
+- 실수로든 의도적으로든 공식, 계산 및 재무 모델을 변경으로부터 보호합니다.
+- 사용자가 지정된 영역에서 데이터를 입력할 수 있도록 특정 셀이나 시트를 잠급니다.
+- 예산, 예측 및 고객 정보와 같은 중요한 비즈니스 데이터를 안전하게 보호합니다.
+- 데이터 개인 정보 정책을 준수하기 위해 암호 보호 및 암호화로 액세스를 제어합니다.
+- 팀 간에 공유되는 대시보드 및 KPI에서 조작을 방지합니다.
+- 운영 워크플로에 사용되는 매크로 기반 자동화 도구 및 동적 스프레드시트를 보호합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

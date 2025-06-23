@@ -80,7 +80,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 레거시 워드 문서 관리를 위한 DOC 파일 병합
+
+DOC 파일은 Microsoft Word에서 사용되는 이전 이진 형식입니다. `.doc` 파일을 병합하는 것은 일반적으로 레거시 문서를 통합하거나 아카이빙하거나 최신 형식으로 전환하는 데 필요합니다.
+
+#### 사용 사례:
+
+- **역사적 보고서 병합**  
+  아카이빙 목적이나 인쇄 또는 공유를 위해 통합 문서를 만들기 위해 이전 `.doc` 보고서를 결합합니다.
+
+- **레거시 문서 업데이트**  
+  프로젝트 정보나 비즈니스 문서를 포함하는 여러 `.doc` 파일을 업데이트용 마스터 문서로 병합합니다.
+
+- **현대적 형식으로 문서 변환**  
+  현대 시스템과의 호환성을 향상시키기 위해 `.doc` 파일을 `.docx`로 변환하기 전에 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

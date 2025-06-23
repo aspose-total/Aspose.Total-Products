@@ -71,7 +71,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików JPEG i JPG za pomocą podpisów cyfrowych lub elektronicznych
+
+Obrazy JPEG/JPG są używane do skanowanych dokumentów, zdjęć i dowodów tożsamości. Ich cyfrowe podpisanie zapewnia bezpieczeństwo i dowód pochodzenia.
+
+## Powszechne przypadki użycia
+- Skanowane umowy i podpisane dokumenty.
+- Dokumenty tożsamości w procesach KYC.
+- Raporty wizualne z wbudowanymi obserwacjami.
+- Obrazy medyczne udostępniane do konsultacji zdalnych.
+- Rejestry własności nieruchomości w formacie wizualnym.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

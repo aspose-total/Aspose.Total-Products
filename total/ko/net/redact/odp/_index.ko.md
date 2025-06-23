@@ -78,7 +78,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .odp에서의 마스킹
+
+- 학술 또는 공개 프레젠테이션에서 식별 가능한 시각 자료 또는 데이터를 마스킹합니다.
+- 내부 메트릭이나 기밀 주석을 내보내기 전에 마스킹합니다.
+- 외부에서 사용되는 슬라이드에서 프로젝트 또는 조직 이름을 마스킹합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

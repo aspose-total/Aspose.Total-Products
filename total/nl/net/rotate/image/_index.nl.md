@@ -73,7 +73,21 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Gebruiksscenario's voor het roteren van afbeeldingen
+
+- Corrigeer de oriëntatie van afbeeldingen die zijn vastgelegd in de landschaps- of portretmodus.
+- Pas gescande documenten of foto's aan die zijwaarts of ondersteboven lijken.
+- Lijn visuals goed uit voor consistente weergave in galerijen, presentaties of rapporten.
+- Draai ontwerpelementen zoals pictogrammen, UI-componenten of diagrammen om aan de lay-outbehoeften te voldoen.
+- Bereid afbeeldingen voor op afdrukken of publiceren met de juiste oriëntatie.
+- Standaardiseer de beeldoriëntatie bij het importeren van verschillende bronnen of apparaten.
+- Verbeter de leesbaarheid van inhoud in e-books, documentatie of webpagina's.
+- Draai product- of catalogusafbeeldingen om overeen te komen met de vereiste beeldverhouding.
+- Verbeter de gebruikerservaring door automatisch de afbeeldingsoriëntatie te corrigeren op basis van metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -93,7 +93,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการแยกวิเคราะห์ไฟล์ .docx
+
+- 📄 สกัดเนื้อหาโครงสร้างรวมถึงข้อความ ตาราง รูปภาพ และเมตาดาต้า
+- 📰 แปลงไฟล์ `.docx` เป็น HTML หรือ Markdown สำหรับการเผยแพร่บนเว็บ
+- 🧾 อัตโนมัติสร้างรายงานและกระบวนการทำงานของเอกสาร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

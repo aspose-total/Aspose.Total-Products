@@ -79,7 +79,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 効率的な大規模Excelデータ処理のためのXLSBファイルのマージ
+
+XLSB（Excelバイナリワークブック）形式はデータをバイナリ形式で保存し、大規模データセットで高速なパフォーマンスを提供します。`.xlsb`ファイルをマージすることで、企業規模のデータを効率的に処理できます。
+
+#### 用途:
+
+- **パフォーマンス重視のレポーティング**  
+  大規模な`.xlsb`データセットをマージして、高パフォーマンス環境での高速な読み込みと処理を実現します。
+
+- **BIシステム統合**  
+  `.xlsb`ファイルを統合して、ビジネスインテリジェンスツールやダッシュボードにフィードします。
+
+- **センサーまたは機器データの統合**  
+  産業用または実験装置によって生成されたバイナリExcelログを結合して、集中監視と自動化を実現します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

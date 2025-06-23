@@ -81,7 +81,30 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Arquivos de Imagem (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+A fusão de arquivos de imagem em uma saída visual única ou formato estruturado (por exemplo, PDF, colagem ou sprite) suporta fluxos de trabalho de design, documentação e publicação digital.
+
+#### Casos de Uso:
+
+- **Criação de Álbum Digital**  
+  Junte imagens de férias, eventos ou portfólio em uma única galeria ou livro de fotos.
+
+- **Consolidação de Ativos de Design**  
+  Junte maquetes de UI, gráficos de mídia social ou ativos de marca em um único arquivo de referência para revisão do cliente.
+
+- **Agrupamento de Documentos Digitalizados**  
+  Combine arquivos de imagem digitalizados em um único arquivo de arquivo ou documento para armazenamento ou compartilhamento.
+
+- **Comparação Visual e Slides Antes e Depois**  
+  Junte conjuntos de imagens para criar visuais de comparação em relatórios ou materiais de marketing.
+
+- **Manuais de Treinamento ou de Produtos**  
+  Junte capturas de tela anotadas ou fotos de produtos em conteúdo instrucional sequencial.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

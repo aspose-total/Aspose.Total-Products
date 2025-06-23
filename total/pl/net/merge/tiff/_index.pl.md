@@ -81,7 +81,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików TIFF dla łączenia obrazów wysokiej jakości
+
+TIFF (Tagged Image File Format) jest powszechnie używany do obrazów wysokiej jakości, które wymagają bezstratnej kompresji lub braku kompresji w ogóle. Scalanie plików `.tiff` jest przydatne do łączenia skanów, dokumentów wielostronicowych lub dużych obrazów.
+
+#### Przykłady użycia:
+
+- **Tworzenie dokumentów wielostronicowych**  
+  Scalanie wielu plików `.tiff`, które reprezentują strony dokumentu, w pojedynczy plik wielostronicowy dla łatwiejszego przeglądania lub drukowania.
+
+- **Skanowanie o wysokiej rozdzielczości**  
+  Łączenie plików `.tiff` zawierających zeskanowane sekcje dzieł sztuki, dokumentów lub planów w jedno obraz o wysokiej rozdzielczości.
+
+- **Archiwizacja i konserwacja**  
+  Scalanie plików `.tiff` w celach archiwizacyjnych, gdzie jakość obrazu i zachowanie szczegółów są kluczowe.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

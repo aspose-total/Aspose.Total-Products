@@ -81,7 +81,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Word Open XML ドキュメント（`.docx`）の使用例
+
+- タイトル、著者、キーワードなどの標準化されたメタデータを保存します。
+- コンテンツシステムでのインテリジェントな検索と分類を促進します。
+- スマートな要約のために AI ツールに構造化されたメタデータを提供します。
+- メタデータタグを介して文書の自動化と承認フローをトリガーします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

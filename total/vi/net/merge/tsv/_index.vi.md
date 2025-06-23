@@ -79,7 +79,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Hợp nhất các tệp TSV cho tích hợp dữ liệu nhẹ
+
+Các tệp TSV (Tab-Separated Values) tương tự như CSV nhưng sử dụng tab làm dấu phân cách. Việc hợp nhất các tệp `.tsv` hữu ích khi làm việc với các bộ dữ liệu sạch, có cấu trúc trong quy trình làm việc dựa trên văn bản.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Luồng Dữ Liệu Sạch**  
+  Hợp nhất các tệp `.tsv` từ việc lục dữ liệu, quy trình ETL, hoặc tệp log vào một bộ dữ liệu chính.
+
+- **Phân Tích Khoa Học hoặc Thống Kê**  
+  Kết hợp các tệp dữ liệu thí nghiệm `.tsv` để đánh giá thống kê tổng hợp.
+
+- **Tích Hợp Hệ Thống Chéo**  
+  Hợp nhất dữ liệu `.tsv` từ các nền tảng khác nhau (nhật ký Linux, cảm biến, API) để tiêu thụ tập trung.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

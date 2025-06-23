@@ -79,7 +79,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Microsoft Word 97–2003 문서 — 보호를 위한 사용 사례
+
+- 편집이 제한되어야 하는 레거시 시스템에서 사용됩니다.
+- 보관된 법적 또는 역사적 문서에서 우발적인 변경으로부터 보호합니다.
+- 오래된 정부 또는 기업 업무에서 무단 콘텐츠 수정을 방지합니다.
+- 원본 형식의 파일 무결성이 중요한 규정 준수 설정에서 유용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

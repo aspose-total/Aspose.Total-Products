@@ -79,7 +79,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | OpenDocument Text — 보호를 위한 사용 사례
+
+- 오픈 소스 환경(예: LibreOffice)에서 사용됨.
+- 여러 소프트웨어 플랫폼 간 일관성을 보장하기 위해 보호가 필요함.
+- 크로스 플랫폼 협업 문서를 다룰 때 유용함.
+- 무단 구조적 변경을 피하는 데 도움이 됨.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

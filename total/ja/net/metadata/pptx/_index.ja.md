@@ -78,7 +78,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 PowerPointプレゼンテーションXML（.pptx）の使用用途
+
+- メタデータフィールドに著者、会社、トピック、および部門を保存します。
+- 企業のDAMやLMSシステムでプレゼンテーションの発見を向上させます。
+- AIがテーマや戦略的トピックによってデッキを整理し、タグ付けするのに役立ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

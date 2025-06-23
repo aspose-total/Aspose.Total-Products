@@ -71,7 +71,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Przypadki użycia: Porównywanie plików PPSM w celu przeglądu pokazu slajdów z makrami
+
+Pliki PPSM (PowerPoint Macro-Enabled Show) służą do oglądania prezentacji z włączoną automatyzacją. Porównywanie plików PPSM pomaga zidentyfikować zmiany w zachowaniu makr, sekwencjach czasowych i treściach interaktywnych.
+
+- **Porównywanie Makr między Prezentacjami**  
+  Wykrywanie różnic w rutynach automatyzacji wywoływanych podczas pokazów slajdów.
+
+- **Walidacja Treści Slajdów i Czasów**  
+  Przegląd zmian w czasach przejść, animacjach i sekwencjach.
+
+- **Przegląd Logiki Automatyzacji**  
+  Porównywanie osadzonych skryptów i zapewnianie spójnego doświadczenia użytkownika w prezentacjach z automatyzacją.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -81,7 +81,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Rich Text Format (`.rtf`)에 대한 사용 사례
+
+- 제목 및 작성자와 같은 기본 메타데이터를 가벼운 형식으로 저장합니다.
+- 이동, 게시 또는 아카이빙을 위해 RTF 문서를 분류합니다.
+- 전체 XML 형식을 지원하지 않는 시스템 간에 메타데이터를 보존합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

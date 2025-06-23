@@ -74,7 +74,27 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompresuj pliki JPG dla przenośnej i szybkiej dostawy obrazów
+
+Pliki JPG (często z rozszerzeniem JPEG) korzystają z dodatkowej kompresji, zwłaszcza przy wielokrotnym użyciu w mediach cyfrowych lub dystrybucji hurtowej.
+
+#### Przykłady użycia:
+
+- **Wielokrotne przesyłanie obrazów**  
+  Kompresuj wiele plików JPG naraz, aby przyspieszyć przesył treści na platformach CMS.
+
+- **Ograniczenie kosztów przechowywania w chmurze**  
+  Zmniejsz koszty przechowywania poprzez zmniejszenie rozmiaru plików JPG w hostowanych bibliotekach mediów.
+
+- **Szybsze ładowanie aplikacji**  
+  Używaj mniejszych plików JPG w galeriach produktów lub aplikacjach mobilnych dla płynniejszego UX.
+
+- **Optymalizacje dla niskiego pasma**  
+  Dostarczaj pliki JPG do obszarów oddalonych lub użytkowników z wolnymi połączeniami za pomocą skompresowanych wersji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

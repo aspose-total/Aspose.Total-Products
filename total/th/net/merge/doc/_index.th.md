@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### รวมไฟล์ DOC สำหรับการจัดการเอกสาร Word เวอร์ชันเก่า
+
+ไฟล์ DOC คือรูปแบบไบนารีเก่าที่ใช้โดย Microsoft Word การรวมไฟล์ `.doc` มักจำเป็นสำหรับการรวมเอกสารเก่าเพื่อเก็บถาวร หรือการเปลี่ยนไปใช้รูปแบบใหม่
+
+#### การใช้งาน:
+
+- **รวมรายงานประวัติ**  
+  รวมรายงาน `.doc` เก่าเพื่อเก็บถาวรหรือสร้างเอกสารรวมสำหรับพิมพ์หรือแชร์
+
+- **อัปเดตเอกสารเก่า**  
+  รวมไฟล์ `.doc` หลายๆ ไฟล์ที่มีข้อมูลโครงการหรือเอกสารธุรกิจเข้าไปในเอกสารหลักเพื่ออัปเดต
+
+- **แปลงเอกสารเป็นรูปแบบใหม่**  
+  รวมไฟล์ `.doc` ก่อนแปลงเป็น `.docx` เพื่อเพิ่มความเข้ากันได้กับระบบที่ใช้เทคโนโลยีใหม่
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

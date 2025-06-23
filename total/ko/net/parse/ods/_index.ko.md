@@ -87,7 +87,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## .ods 파일 구문 분석을 위한 사용 사례
+
+- 📊 OpenDocument 스프레드시트에서 구조화된 데이터, 수식 및 차트 추출.
+- 🔁 `.ods` 파일을 `.xlsx`, CSV 또는 JSON과 같은 형식으로 변환하여 통합.
+- 🧮 오픈 소스 스프레드시트 도구에서 데이터 추출 및 변환 자동화.
+- 📚 오픈 포맷을 기업 애플리케이션이나 분석 파이프라인으로 이관.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

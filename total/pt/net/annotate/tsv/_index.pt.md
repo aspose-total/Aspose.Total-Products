@@ -78,7 +78,17 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Arquivos TSV (Valores Separados por Tabulação) são comuns em ciência de dados e exportações de sistemas. As anotações ajudam a marcar registros específicos, explicar valores de campo ou destacar necessidades de transformação.
+
+#### Anotar Arquivos TSV para Colaboração de Dados Estruturados - Casos de Uso:
+
+- **Notas de Limpeza de Dados**: Destaque linhas que precisam de correção manual ou exclusão.
+- **Conjuntos de Dados de Treinamento de Modelo**: Sinalize casos especiais para lógica de ML subsequente.
+- **Comentários de Fluxo de Trabalho ETL**: Anote campos que requerem mapeamento ou alterações de esquema.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

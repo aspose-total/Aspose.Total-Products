@@ -80,7 +80,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODPは、LibreOffice Impressやその他のオープンソースツールで使用されているオープンプレゼンテーションフォーマットです。
+
+**一般的な使用例：**
+
+- オープンフォーラム、内部レビュー、または制限された使用のためのスライドのマーキング
+- クリエイティブ・コモンズライセンスや組織のタグの埋め込み
+- NGOや政府のプレゼンテーションでの公開透明性のサポート
+- プレゼンターの資格やプロジェクトの所属の追加
+- 下書きや最終版でないバージョンのマーキングによる誤用の防止
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

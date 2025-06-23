@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tệp XLTM (Mẫu Kích hoạt Macro) hỗ trợ khả năng tái sử dụng với các macro. Chú thích cung cấp cái nhìn cần thiết về các điểm tự động hóa, đầu vào dự kiến hoặc kết quả macro.
+
+#### Chú thích Tệp XLTM cho Quy trình làm việc Mẫu Macro - Các Trường hợp Sử dụng:
+
+- **Tài liệu Macro**: Giải thích các kích hoạt macro và hiệu ứng dự kiến.
+- **Hướng dẫn Người dùng**: Chú thích các phần người dùng không được sửa đổi để bảo tồn tự động hóa.
+- **Ghi chú Kiểm thử**: Đánh dấu các khu vực đang được xem xét trong quá trình kiểm thử mẫu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

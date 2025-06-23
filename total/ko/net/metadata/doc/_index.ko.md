@@ -81,7 +81,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Word 문서 (`.doc`)를 위한 사용 사례
+
+- 작성자 및 작성/수정 이력 추적.
+- 제목, 주제 및 키워드를 통한 문서 검색 용이성 향상.
+- 문서 보호를 위해 법적이거나 라이선스 메타데이터 삽입.
+- 메타데이터 필드를 기반으로 한 워크플로 자동화(예: 아카이빙 규칙).
+- 콘텐츠 분류 및 보존 관리 지원.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

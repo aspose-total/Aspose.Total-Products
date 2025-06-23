@@ -75,7 +75,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir arquivos XLTM para Modelos de Excel com Macros Otimizados
+
+Os arquivos XLTM (Modelo de Excel com Macros) incluem macros para automação reutilizável. Estes podem se tornar grandes com lógica incorporada ou dados de teste. Comprimir ajuda na partilha mais rápida e em backups seguros.
+
+#### Casos de Uso:
+
+- **Partilha de Modelos de Automação**  
+  Distribua modelos de macros para equipas ou clientes usando versões XLTM comprimidas.
+
+- **Fluxos de Trabalho de Teste Simplificados**  
+  Comprima diferentes versões de modelos XLTM para testes e implementação mais rápidos.
+
+- **Bibliotecas de Modelos Centralizadas**  
+  Mantenha uma biblioteca enxuta de modelos de macros usando formatos comprimidos.
+
+- **Backup Eficiente de DevOps**  
+  Armazene versões comprimidas de modelos de automação para rollback e versionamento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

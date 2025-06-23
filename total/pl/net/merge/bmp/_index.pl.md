@@ -81,7 +81,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików BMP do przetwarzania obrazów bitmapowych
+
+BMP (Bitmap) to nieskompresowany format obrazu, powszechnie używany do wysokiej jakości, szczegółowych obrazów. Scalanie plików `.bmp` jest konieczne podczas pracy z grafiką opartą na pikselach, sztuką lub zeskanowanymi obrazami, które trzeba zjednoczyć.
+
+#### Przykłady użycia:
+
+- **Odzyskiwanie obrazów wysokiej jakości**  
+  Scalanie obrazów `.bmp`, które reprezentują różne części obrazu o dużej rozdzielczości w jedno złożone zdjęcie.
+
+- **Przetwarzanie zeskanowanych dokumentów**  
+  Połącz wiele plików `.bmp`, które zawierają różne sekcje zeskanowanych dokumentów lub dzieł sztuki w jeden plik.
+
+- **Przepływ pracy w projektowaniu graficznym**  
+  Scalanie obrazów `.bmp` podczas procesu projektowania graficznego, gdzie wymagane są obrazy wysokiej jakości, nieskompresowane.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,24 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Samenvoegen van DOC-bestanden voor beheer van oude Word-documenten
+
+DOC-bestanden zijn het oudere binaire formaat dat wordt gebruikt door Microsoft Word. Het samenvoegen van `.doc`-bestanden is meestal nodig om oude documenten te consolideren, archiveren of over te stappen naar nieuwere formaten.
+
+#### Gebruiksscenario's:
+
+- **Samenvoegen van Historische Rapporten**  
+  Combineer oudere `.doc`-rapporten voor archiveringsdoeleinden of om een ​​geünificeerd document te maken voor afdrukken of delen.
+
+- **Bijwerken van Oude Documenten**  
+  Voeg meerdere `.doc`-bestanden samen die projectinformatie of zakelijke documenten bevatten in een hoofddocument voor bijwerken.
+
+- **Documentconversie naar Moderne Formaten**  
+  Voeg `.doc`-bestanden samen voordat u ze converteert naar `.docx` voor verbeterde compatibiliteit met moderne systemen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

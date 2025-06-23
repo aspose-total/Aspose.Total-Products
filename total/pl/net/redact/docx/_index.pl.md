@@ -82,7 +82,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Cenzura w formacie .docx (Microsoft Word)
+
+- Cenzuruj personalne nazwiska, dane kontaktowe i numery identyfikacyjne w dokumentach HR.
+- Cenzuruj wrażliwe szczegóły spraw lub informacje o klientach w umowach prawnych i wnioskach sądowych.
+- Cenzuruj poufne sekcje w wewnętrznych raportach, protokołach zebrań lub dokumentach projektowych.
+- Cenzuruj własne metody badawcze lub wyniki badań w pracach akademickich lub naukowych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

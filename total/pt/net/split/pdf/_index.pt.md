@@ -72,7 +72,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Casos de Uso para Divisão de Documentos em PDF
+
+- Extrair páginas relevantes de arquivos PDF grandes para facilitar o compartilhamento e revisão.
+- Separar relatórios ou contratos de várias seções em documentos individuais.
+- Possibilitar a edição colaborativa ou anotação distribuindo partes menores de PDF.
+- Proteger informações sensíveis dividindo e controlando o acesso a diferentes seções.
+- Criar documentos personalizados gerando PDFs separados a partir de arquivos mestres.
+- Reduzir o tamanho do arquivo para atender restrições de e-mail ou upload dividindo PDFs.
+- Arquivar documentos de forma mais eficiente categorizando o conteúdo em arquivos menores.
+- Reorganizar e montar PDFs personalizados dividindo e mesclando páginas relevantes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

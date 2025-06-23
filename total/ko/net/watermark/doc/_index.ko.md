@@ -83,7 +83,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC 형식은 레거시 Microsoft Word 이진 파일 유형으로, 여전히 오래된 시스템에서 사용됩니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 문서를 보관, 레거시 또는 오래된 것으로 표시
+- 작성자 또는 부서 이름 삽입
+- 법적 면책 사항 또는 규정 준수 메시지 적용
+- 최종 복사본으로 표시하여 편집이나 재사용 방지
+- 기록 보관 및 감사 추적 지원
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

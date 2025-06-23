@@ -78,7 +78,18 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel — Przypadki użycia ochrony skoroszytu
+
+- Chronić formuły, obliczenia i modele finansowe przed przypadkowymi lub celowymi zmianami.
+- Zablokować określone komórki lub arkusze, umożliwiając użytkownikom wprowadzanie danych w wyznaczonych obszarach.
+- Zabezpieczyć poufne dane biznesowe, takie jak budżety, prognozy i informacje o klientach.
+- Kontrolować dostęp za pomocą ochrony hasłem i szyfrowania w celu zgodności z politykami prywatności danych.
+- Zapobiec manipulacji w panelach i wskaźnikach KPI udostępnianych zespołom.
+- Chronić narzędzia automatyzacji oparte na makrach i dynamiczne arkusze kalkulacyjne używane w operacyjnych procesach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

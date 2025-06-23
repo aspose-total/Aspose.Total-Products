@@ -71,7 +71,22 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Przypadki użycia: Porównywanie plików PPSX w celu sprawdzenia dokładności pokazu slajdów
+
+Pliki PPSX (PowerPoint Show) to formaty pokazów slajdów tylko do odczytu. Porównywanie plików PPSX pomaga w sprawdzaniu zmian w treści dostarczanej w prezentacji końcowej, animacjach i przejściach.
+
+- **Sprawdzanie czasu i sekwencji slajdów**  
+  Wykrywanie zmian w sekwencji lub czasie slajdów podczas odtwarzania.
+
+- **Wykrywanie zmian w treści**  
+  Śledzenie różnic w tekście, obrazach i osadzonych mediach.
+
+- **Przegląd aktualizacji multimedialnych**  
+  Sprawdzanie zaktualizowanych wersji wideo, dźwięku i osadzonych obiektów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

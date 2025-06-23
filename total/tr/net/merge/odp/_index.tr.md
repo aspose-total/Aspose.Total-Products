@@ -78,7 +78,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Birleştirilmiş Slayt Teslimatı için Açık Formatlarda ODP (OpenDocument Presentation) Birleştirme
+
+ODP dosyaları, LibreOffice ve OpenOffice için sunum formatıdır. ODP dosyalarını birleştirmek, birleştirilmiş slaytların açık formatlarda teslim edilmesini sağlar.
+
+#### Kullanım Alanları:
+
+- **Kamu Sektörü Sunum Birleştirme**  
+  Farklı departmanlardan slayt takımlarını kapsamlı bir sunum haline getirme.
+
+- **Eğitim Slayt Entegrasyonu**  
+  Ders slaytlarını tek bir ders teslimat belgesine birleştirme.
+
+- **İşbirlikçi Konferans Takımları**  
+  Organize etkinlik sunumları için konuşmacıların ODP dosyalarını birleştirme.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

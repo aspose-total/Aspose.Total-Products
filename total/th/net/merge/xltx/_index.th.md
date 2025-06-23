@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLTX เพื่อการจัดการเทมเพลต Excel รุ่นใหม่
+
+XLTX เป็นรูปแบบเทมเพลต Excel ที่เป็นค่าเริ่มต้นโดยไม่มีแมโคร การผสานไฟล์ `.xltx` ช่วยให้มีการจัดรูปแบบและเลย์เอาท์ที่สม่ำเสมอในเอกสารมาตรฐาน
+
+#### การใช้งาน:
+
+- **การจัดแบรนด์และความสม่ำเสมอในการจัดรูปแบบ**  
+  ผสานเทมเพลตจากทีมต่าง ๆ เพื่อปรับรูปแบบและสไตล์ของบริษัทให้สอดคล้องกัน
+
+- **การทำความสะอาดห้องสมุดเทมเพลต**  
+  รวมไฟล์ `.xltx` เข้าด้วยกันเพื่อลบสิ่งที่ไม่จำเป็นและสร้างชุดเทมเพลตที่เรียบง่าย
+
+- **เทมเพลตการฝึกอบรมหรือดำเนินการ**  
+  รวมเทมเพลตที่ใช้สอนหรือแบบขั้นตอนการดำเนินงานเพื่อการใช้งานในองค์กร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

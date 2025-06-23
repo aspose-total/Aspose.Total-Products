@@ -78,7 +78,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 旧ワードテンプレート管理用のDOTファイルを圧縮
+
+DOT（Word 97–2003テンプレート）ファイルは、リッチな書式や画像を含む可能性がある古いWordテンプレートです。DOTファイルを圧縮することで、レガシーテンプレートシステムを効率的かつ移植可能にします。
+
+#### 使用例：
+
+- **テンプレートライブラリの整理**  
+  DOTファイルのサイズを縮小してコンパクトで整理されたテンプレートリポジトリを維持します。
+
+- **レガシーシステムでの高速読み込み**  
+  より小さなDOTファイルは、古いマシンや仮想環境での応答時間を改善します。
+
+- **コンパクトなバックアップストレージ**  
+  圧縮形式でレガシーテンプレートをアーカイブし、長期間のストレージコストを削減します。
+
+- **企業ポリシーテンプレート**  
+  標準のDOTテンプレートを部門間で迅速に配布できるようにします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

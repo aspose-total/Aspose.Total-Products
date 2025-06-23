@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki POTX (szablony programu PowerPoint) służą do tworzenia szablonów prezentacji bez makr. Adnotowanie plików POTX zapewnia przejrzystość standardów projektowych i ułatwia zespołowe dostosowanie do wielokrotnego użycia układów prezentacji.
+
+#### Adnotacja pliku POTX dla standardowych przypadków użycia opinii na temat szablonu prezentacji:
+
+- **Walidacja marki**  
+  Wstaw adnotacje, aby zweryfikować zgodność z wytycznymi dotyczącymi czcionek, kolorów i struktury slajdów.
+
+- **Instrukcje dla miejsc zastępczych slajdów**  
+  Skomentuj, jak korzystać z określonych obszarów treści dla użytkowników końcowych.
+
+- **Wspólne tworzenie szablonów**  
+  Zaproponuj ulepszenia układu lub strefy treści podczas projektowania współdzielonego szablonu.
+
+- **Szablony slajdów edukacyjnych**  
+  Dodaj notatki nauczania lub instrukcje do szablonów akademickich.
+
+- **Wskazówki dotyczące lokalizacji**  
+  Adnotuj sekcje do tłumaczenia lub dostosowania do określonego regionu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

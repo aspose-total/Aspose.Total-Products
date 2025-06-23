@@ -78,7 +78,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 PowerPoint 프레젠테이션 XML (`.pptx`)의 사용 사례
+
+- 메타데이터 필드에 작성자, 회사, 주제 및 부서 저장.
+- 기업 DAM 또는 LMS 시스템에서 프레젠테이션 발견 강화.
+- AI가 주제 또는 전략적 주제별로 덱을 구성하고 태그 지정하는 데 도움을 줍니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

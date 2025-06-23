@@ -123,7 +123,28 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOT (Word 97–2003 템플릿) 파일은 재사용 가능한 문서 구조를 정의합니다. DOT 파일의 주석은 템플릿 목적, 사용 지침 및 사용자를 위한 사용자 정의 노트를 명확히 돕습니다.
+
+#### 템플릿 설명서 및 피드백 사용 사례에 대한 DOT 파일 주석:
+
+- **템플릿 사용자 정의 안내**  
+  사용자가 내용을 어떻게 어디에 삽입해야 하는지 안내하기 위해 필드 및 자리 표시자에 주석 달기.
+
+- **워크플로 지침**  
+  템플릿에 포함된 자동화된 동작, 매크로 또는 조건부 서식을 설명하는 코멘트 추가.
+
+- **브랜딩 및 스타일 검토**  
+  기업 브랜딩 가이드라인이나 문서 표준과 일치해야 하는 영역 강조.
+
+- **사용자로부터의 피드백 수집**  
+  사용자가 템플릿 사용성에 대한 의견을 삽입하도록 허용하여 반복적인 개선을 단순화.
+
+- **규정 준수 템플릿**  
+  법적 문서 처리를 위한 규정 준수 관련 노트를 템플릿에 직접 제공.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

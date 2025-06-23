@@ -81,7 +81,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📝 Word Macro-Enabled Document（`.docm`）のユースケース
+
+- 自動化トラッキングのためのマクロ関連メタデータを含める。
+- 埋め込まれたマクロにリンクされた文書セキュリティポリシーを管理する。
+- 埋め込まれたスクリプトに基づく自動リスク分類を有効にする。
+- 文書の目的と関連するビジネスプロセスの特定を支援する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

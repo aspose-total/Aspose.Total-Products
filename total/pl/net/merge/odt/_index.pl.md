@@ -80,7 +80,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Scalanie plików ODT (OpenDocument Text) dla otwartej współpracy i składania dokumentów
+
+Pliki ODT są dokumentami procesora tekstu typu open-source (LibreOffice, OpenOffice). Scalanie ich wspiera współpracę nad treściami w formacie otwartym.
+
+#### Przykłady użycia:
+
+- **Współpraca w modelu open-source**  
+  Scalanie wkładów różnych autorów w formacie ODT do jednego dokumentu.
+
+- **Kompilacja dokumentacji**  
+  Łączenie rozdziałów lub sekcji podręczników lub książek napisanych w formacie ODT.
+
+- **Raportowanie w rządzie lub NGO**  
+  Konsolidacja raportów utworzonych w otwartych formatach standardowych do przekazania.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kết hợp các tệp XLTM cho Mẫu có Macro được Kích hoạt
+
+Các tệp XLTM là các mẫu có macro được kích hoạt được sử dụng để tự động hóa các nhiệm vụ lặp đi lặp lại trong Excel. Việc kết hợp chúng hữu ích khi thống nhất logic tự động hóa hoặc di chuyển luồng làm việc.
+
+#### Các Trường hợp Sử dụng:
+
+- **Thư viện Tự động hóa Luồng làm việc**  
+  Kết hợp các mẫu `.xltm` chứa các macro khác nhau cho các chức năng khác nhau vào một mẫu tập trung.
+
+- **Tích hợp Mẫu Theo Bộ phận Cụ thể**  
+  Kết hợp các mẫu có macro từ các bộ phận khác nhau để chuẩn hóa quy trình tự động hóa.
+
+- **Kiểm toán Các Quy trình Dựa trên Macro**  
+  Kết hợp các mẫu `.xltm` để xem xét các macro nhúng để tuân thủ và tối ưu hóa.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

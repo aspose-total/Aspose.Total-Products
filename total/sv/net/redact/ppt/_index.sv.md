@@ -78,7 +78,15 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/n
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Redigering i .ppt / .pptx (Microsoft PowerPoint)
+
+- Redigera konfidentiella projektnamn eller finansiella siffror i presentationer.
+- Redigera strategiskt innehåll eller privata visuella element i ledningsgenomgångar.
+- Redigera klientreferenser eller känsliga visuella element innan offentlig delning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

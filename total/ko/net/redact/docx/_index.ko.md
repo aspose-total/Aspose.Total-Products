@@ -82,7 +82,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx에서의 문서 편집 (Microsoft Word)
+
+- 인사 문서에서 개인 이름, 연락처 정보 및 식별 번호를 편집합니다.
+- 법적 계약 및 법정 서류에서 민감한 사례 세부 정보나 고객 정보를 편집합니다.
+- 내부 보고서, 회의록 또는 프로젝트 문서에서 기밀 섹션을 편집합니다.
+- 학술 논문이나 과학 논문에서 자사 방법이나 연구 결과를 편집합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

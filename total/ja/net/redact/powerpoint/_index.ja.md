@@ -78,7 +78,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint での編集
+
+- ビジネスプレゼンテーションでの戦略的コンテンツ、タイムライン、または未公開の計画を編集します。
+- マーケティングやトレーニングスライドから機密性の高い画像、チャート、またはノートを編集します。
+- 外部共有前にクライアント名、財務数字、または内部KPIを編集します。
+- ピッチ、提案、または投資家向けブリーフィングでの機密性の高いビジュアルを編集します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

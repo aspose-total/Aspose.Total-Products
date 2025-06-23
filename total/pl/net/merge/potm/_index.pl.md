@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików POTM w celu integracji szablonów z makrami do programu PowerPoint
+
+Pliki POTM to szablony programu PowerPoint zawierające makra. Scalanie plików `.potm` pomaga w integracji automatycznego tworzenia szablonów w różnych prezentacjach i procesach roboczych.
+
+#### Przykłady użycia:
+
+- **Standaryzacja szablonów z makrami**  
+  Scal szablony `.potm` używane przez różne zespoły, aby stworzyć spójny szablon z makrami do powtarzalnego użytku.
+
+- **Automatyzacja tworzenia szablonów**  
+  Połącz szablony `.potm` zawierające makra generujące określone układy lub projekty slajdów w efektywny szablon.
+
+- **Unifikacja szablonów między działami**  
+  Scal szablony `.potm` używane w różnych działach do prezentacji w jeden zautomatyzowany szablon do użytku korporacyjnego.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

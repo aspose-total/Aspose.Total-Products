@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir Arquivos XLT para Fluxos de Trabalho de Excel Baseados em Modelo
+
+XLT é o formato de modelo do Excel para `.xls` (Excel 97-2003). A fusão de arquivos `.xlt` ajuda a padronizar e atualizar modelos legados em uma estrutura unificada.
+
+#### Casos de Uso:
+
+- **Unificação de Modelos Legados**  
+  Combine vários modelos `.xlt` em um modelo mestre para compatibilidade com versões anteriores.
+
+- **Padronização de Modelos de Departamento**  
+  Fundir modelos antigos para avaliar e desenvolver uma alternativa moderna `.xltx`.
+
+- **Arquivamento de Modelos Históricos**  
+  Consolidar versões mais antigas de `.xlt` para conformidade ou referência histórica.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

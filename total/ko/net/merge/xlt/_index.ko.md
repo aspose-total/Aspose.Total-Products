@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 템플릿 기반 엑셀 워크플로우용 XLT 파일 병합
+
+XLT는 `.xls` (Excel 97-2003)용 Excel 템플릿 형식입니다. `.xlt` 파일을 병합하면 레거시 템플릿을 표준화하고 업데이트하여 통합된 구조로 만들 수 있습니다.
+
+#### 사용 사례:
+
+- **레거시 템플릿 통합**  
+  여러 개의 `.xlt` 템플릿을 역호환성을 위해 마스터 템플릿으로 결합합니다.
+
+- **부서 템플릿 표준화**  
+  오래된 템플릿을 병합하여 현대적인 `.xltx` 대안을 평가하고 개발합니다.
+
+- **역사적 템플릿 아카이빙**  
+  규정 준수나 역사적 참조를 위해 이전 `.xlt` 버전을 통합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

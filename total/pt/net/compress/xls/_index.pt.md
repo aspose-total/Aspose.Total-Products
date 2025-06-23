@@ -75,7 +75,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir Arquivos XLS para Otimização de Pasta de Trabalho do Excel Legado
+
+Os arquivos XLS (Pasta de Trabalho do Excel 97–2003) podem se tornar grandes devido a gráficos incorporados, fórmulas ou conjuntos de dados extensos. Comprimir arquivos XLS garante um manuseio mais suave e compatibilidade em sistemas mais antigos.
+
+#### Casos de Uso:
+
+- **Arquivamento de Registros Financeiros**  
+  Reduza a pegada de armazenamento de arquivos XLS históricos contendo dados fiscais ou relatórios.
+
+- **Integração Mais Rápida com Sistemas Legados**  
+  Possibilite o processamento mais rápido de pastas de trabalho XLS grandes em versões mais antigas do Excel.
+
+- **Compartilhamento de Documentos Otimizado**  
+  Comprima arquivos XLS para atender aos limites de tamanho de arquivo para envios por e-mail ou uploads em unidades compartilhadas.
+
+- **Portabilidade de Dados para Uso Offline**  
+  Transfira arquivos XLS compactos em USB ou dispositivos portáteis para trabalhos de campo ou auditorias.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

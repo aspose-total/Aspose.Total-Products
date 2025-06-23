@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT เป็นรูปแบบของโปรแกรมประมวลคำเปิดโอเพนซอร์สที่ใช้ใน LibreOffice และเครื่องมือที่คล้ายกัน
+
+**การใช้งานทั่วไปประกอบด้วย:**
+
+- ระบุเอกสารสาธารณะ ส่วนตัว หรือภายในเท่านั้น
+- แสดงการเป็นเจ้าของร่วมหรือรอบการทบทวน
+- ฝังชื่อองค์กรหรือข้อมูลสัญญาอนุญาตเปิด
+- ระบุเอกสารสำหรับการเผยแพร่ในส่วนราชการ
+- สนับสนุนการควบคุมเวอร์ชันในเอกสารที่มีผู้เขียนหลายคน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

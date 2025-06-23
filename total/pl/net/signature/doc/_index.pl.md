@@ -74,7 +74,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików DOC za pomocą cyfrowych lub elektronicznych podpisów
+
+Pliki DOC programu Microsoft Word są wciąż powszechnie używane w systemach dziedzicznych i kancelariach prawnych. Zastosowanie cyfrowego podpisu do pliku DOC uwierzytelnia jego źródło i zapewnia, że zawartość nie została naruszona.
+
+## Powszechne przypadki użycia
+- Umowy i porozumienia prawne udostępniane w formacie DOC.
+- Formularze HR i wewnętrzne komunikaty firmowe.
+- Dokumentacja rządowa sporządzana w starszych wersjach pakietu Microsoft Office.
+- Oficjalna korespondencja w firmach korzystających z oprogramowania dziedzicznego.
+- Poufne propozycje wymagające cyfrowej weryfikacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

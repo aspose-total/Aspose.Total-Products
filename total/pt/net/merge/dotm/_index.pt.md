@@ -80,7 +80,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir Arquivos DOTM para Integração de Modelos com Macro
+
+Os arquivos DOTM são modelos do Word habilitados para macro. Fundir arquivos `.dotm` é útil ao integrar modelos que dependem de macros para automação de documentos.
+
+#### Casos de Uso:
+
+- **Unificação de Modelos com Macro**  
+  Fundir modelos `.dotm` usados em vários departamentos para padronizar formatação e funcionalidade de macro.
+
+- **Automação na Criação de Modelos**  
+  Combinar modelos `.dotm` que usam macros para preenchimento automático de documentos, como geração de faturas ou formatação de relatórios.
+
+- **Atualização da Lógica de Macro**  
+  Fundir modelos `.dotm` para revisar e atualizar macros incorporados para melhor automação ou aprimoramento de recursos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

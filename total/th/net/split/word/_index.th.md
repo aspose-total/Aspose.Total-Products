@@ -73,7 +73,20 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — การใช้งานสำหรับการแยกเอกสาร
+
+- แยกรายงานขนาดใหญ่, คู่มือ, หรือเอกสารวิจัยให้เป็นไฟล์ขนาดเล็กที่จัดการได้ง่ายขึ้น
+- มอบหมายส่วนต่าง ๆ ของเอกสารให้กับสมาชิกทีมต่าง ๆ เพื่อแก้ไขอย่างอิสระ
+- อัตโนมัติเวิร์กโฟลว์โดยประมวลผลส่วนที่เฉพาะเจาะจงของเอกสารแยกออก
+- ทำให้ไฟล์ขนาดใหญ่ง่ายต่อการแชร์โดยแยกเป็นไฟล์แนบขนาดเล็กสำหรับอีเมลหรือการอัปโหลด
+- สร้างเอกสารที่ปรับให้เป็นแบบส่วนตัว (เช่น ใบรับรอง, ใบแจ้งหนี้, หรือจดหมาย) จากไฟล์หลักเดียว
+- จัดระเบียบเนื้อหาเพื่อการจัดเก็บ, ค้นหา, และปฏิบัติตามกฎระเบียบของระบบการจัดการเอกสาร
+- แบ่งปันเฉพาะส่วนที่เกี่ยวข้องของเอกสารที่มีข้อมูลที่ลับในขณะที่ยังรักษาความมั่นคงของข้อมูล
+- แจกจ่ายเอกสารการศึกษาหรือการฝึกอบรมในรูปแบบไฟล์ที่เน้นหัวข้อเพื่อประสบการณ์การเรียนรู้ที่ดีขึ้น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 最適化されたマクロ有効なExcelテンプレート用にXLTMファイルを圧縮する
+
+XLTM（マクロ有効なExcelテンプレート）ファイルには再利用可能な自動化のためのマクロが含まれています。これらは埋め込まれたロジックやテストデータで大きくなる可能性があります。圧縮することで、より迅速な共有と安全なバックアップが可能になります。
+
+#### 使用例:
+
+- **自動化テンプレートの共有**  
+  圧縮されたXLTMバージョンを使用して、マクロテンプレートをチームやクライアントに配布します。
+
+- **効率的なテストワークフロー**  
+  異なるバージョンのXLTMテンプレートを圧縮して、より迅速なテストと展開を行います。
+
+- **中央集権化されたテンプレートライブラリ**  
+  圧縮された形式を使用して、マクロテンプレートのスリムなライブラリを維持します。
+
+- **効率的なDevOpsバックアップ**  
+  自動化テンプレートの圧縮バージョンを保存して、ロールバックやバージョン管理を行います。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

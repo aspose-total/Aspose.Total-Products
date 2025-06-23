@@ -93,7 +93,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการแยกวิเคราะห์ไฟล์ .odt
+
+- 📄 สกัดข้อความ, รูปภาพ, และเมตาดาต้าจากไฟล์เอกสาร OpenDocument Text
+- 🧾 แปลงไฟล์ `.odt` เป็น HTML, Markdown, หรือ PDF เพื่อการเผยแพร่
+- 📚 เก็บถาวรรูปแบบเอกสารโอเพนซอร์สโดยการแปลงและทำดัชนีเนื้อหา
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

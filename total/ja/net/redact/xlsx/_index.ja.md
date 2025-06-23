@@ -82,7 +82,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx（Microsoft Excel）での編集
+
+- 給与、ボーナス、または給与ファイル内の個人情報を編集します。
+- 売上や調達レポート内の顧客やベンダー情報を編集します。
+- 財務ワークブック内の内部予算配分や利益率を編集します。
+- パフォーマンスダッシュボードやKPIトラッキングシート内の機密データを編集します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

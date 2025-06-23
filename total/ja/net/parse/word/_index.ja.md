@@ -93,7 +93,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Microsoft Word Document（doc、docm、docx、dot、dotm、dotx、odt、rtf）のパーシングの使用例
+
+- 📄 **コンテンツの抽出**  
+  Word文書からテキスト、表、画像を抽出して、Web表示、検索インデックス作成、テキスト分析に使用します。
+
+- 📰 **テンプレート処理**  
+  `.dot`、`.dotx`、`.dotm` テンプレートを使用して、ワークフロー内で動的データを含むドキュメントを自動生成します。
+
+- 🔁 **自動化ワークフロー**  
+  `.docm` または `.dotm` ファイル内の埋め込みマクロを含むパーシングとコンテンツの置換を自動化します。
+
+- 🧾 **レポート変換**  
+  `.doc`、`.odt`、または `.rtf` ファイルをクリーンなHTML、Markdown、またはPDFに変換して、公開やドキュメント作成に使用します。
+
+- 📚 **デジタルアーカイブ**  
+  `.doc` や `.rtf` のようなレガシーフォーマットを変換してインデックス化し、現代のプラットフォーム向けにアーカイブします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+รูปแบบ DOC คือชนิดไฟล์ไบนารีของ Microsoft Word รุ่นเก่า ยังคงใช้ในระบบที่เก่ากว่า
+
+**กรณีการใช้ที่พบบ่อย ได้แก่:**
+
+- ตั้งชื่อเอกสารเป็น Archived, Legacy, หรือ Outdated
+- ฝังชื่อผู้เขียนหรือชื่อแผนก
+- ใส่ข้อความปฏิเสธความรับผิดชอบหรือข้อความเกี่ยวกับความปฏิบัติ
+- ป้องกันการแก้ไขหรือการใช้ซ้ำโดยการทำเครื่องหมายว่าเป็นสำเนาสุดท้าย
+- สนับสนุนการเก็บรักษาเอกสารและเส้นทางการตรวจสอบ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

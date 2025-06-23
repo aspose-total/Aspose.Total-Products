@@ -123,7 +123,28 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM (Word Macro-Enabled Template) bestanden bevatten automatiseringsscripts om de productiviteit te verbeteren. Het annoteren van DOTM-bestanden zorgt voor documentatie van macrogedrag en vergemakkelijkt foutopsporing en feedbackverzameling.
+
+#### DOTM-bestandsannotatie voor gebruiksscenario's van Macro-Enabled Template Review:
+
+- **Macro-instructie en logica-documentatie**  
+  Annoteren van door macro geactiveerde velden om functionaliteit en verwachte resultaten te verduidelijken.
+
+- **Automatiseringsbeoordeling en testen**  
+  Opmerkingen toevoegen om succesvolle of mislukte macro-uitvoeringen tijdens het testen aan te geven.
+
+- **Uitleg van sjabloon gedrag**  
+  Commentaar geven op geautomatiseerde lay-out- of opmaaksecties om gebruikers te helpen het sjabloonverloop te begrijpen.
+
+- **Inbedden van gebruikerstrainingsmateriaal**  
+  Leerprompt rechtstreeks toevoegen aan sjablonen om gebruikersinstroom te vergemakkelijken.
+
+- **Foutisolatie**  
+  Annotaties gebruiken om bugs veroorzaakt door macro-uitvoering te isoleren en uit te leggen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

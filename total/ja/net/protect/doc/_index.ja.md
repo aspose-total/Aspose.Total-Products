@@ -79,7 +79,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .doc | Microsoft Word 97–2003 ドキュメント — 保護の使用事例
+
+- 編集を制限して互換性を確保する必要があるレガシーシステムで使用されます。
+- アーカイブされた法的または歴史的文書における誤った変更を防ぎます。
+- 古い政府や企業のワークフローにおける未承認のコンテンツ変更を防ぎます。
+- 元の形式のファイル整合性が重要なコンプライアンス設定で役立ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

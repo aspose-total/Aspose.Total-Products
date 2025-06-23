@@ -73,7 +73,21 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 画像回転のユースケース
+
+- ランドスケープまたはポートレートモードでキャプチャされた画像の向きを修正します。
+- 横向きや逆さまに見えるスキャンされた文書や写真を調整します。
+- ギャラリーやプレゼンテーション、レポートで一貫した表示のために視覚物を適切に整列させます。
+- アイコン、UIコンポーネント、図などのデザインアセットを回転させてレイアウトのニーズに合わせます。
+- 印刷や公開のために画像の正しい向きを整えます。
+- 異なるソースやデバイスからインポートする際に画像の向きを標準化します。
+- eBook、ドキュメンテーション、Webページのコンテンツの読みやすさを向上させます。
+- 製品やカタログ画像を必要なアスペクト比に合わせて回転させます。
+- メタデータに基づいて画像の向きを自動的に修正することでユーザーエクスペリエンスを向上させます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

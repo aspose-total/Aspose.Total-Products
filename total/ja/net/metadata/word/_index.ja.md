@@ -81,7 +81,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Microsoft Wordドキュメントのメタデータ使用事例
+
+- タイトル、サブジェクト、キーワード、著者を通じて文書管理システムでの検索性を向上させる。
+- 共同編集を通じて文書の著者およびバージョン履歴を追跡する。
+- プロジェクト、部門、機密情報による文書の分類を行い、より簡単な検索と管理を実現する。
+- 埋め込まれたメタデータトリガーを使用して承認やアーカイブなどのワークフローを自動化する。
+- 利用権を保護するために法的、ライセンス、知的財産の詳細を埋め込む。
+- Word文書をCRMやプロジェクトツールなどのサードパーティシステムと統合する。
+- コンプライアンスと監査可能性のための文書保持ポリシーを確保する。
+- 豊富なメタデータに基づいてAIツールがコンテキスト、目的、構造を解析できるようにする。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

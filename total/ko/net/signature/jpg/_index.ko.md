@@ -71,7 +71,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 JPEG 및 JPG 파일 서명의 사용 사례
+
+JPEG/JPG 이미지는 스캔된 문서, 사진 및 신분증을 위해 사용됩니다. 이를 디지턈으로 서명하면 보안과 출처 증명이 보장됩니다.
+
+## 일반적인 사용 사례
+- 스캔된 계약서 및 서명된 문서
+- KYC 프로세스에서의 신분증
+- 관찰 내용이 포함된 시각적 보고서
+- 원격 상담을 위해 공유된 의료 이미지
+- 시각적 형식의 토지 소유 기록
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

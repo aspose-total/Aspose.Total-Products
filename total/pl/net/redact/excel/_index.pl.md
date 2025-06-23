@@ -82,7 +82,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Cenzura w programie Microsoft Excel
+
+- Cenzuruj dane finansowe, takie jak wynagrodzenia, budżety czy wartości przychodów przed dystrybucją.
+- Cenzuruj dane klientów lub pracowników w arkuszach sprzedaży, działu HR lub audytu.
+- Cenzuruj prywatne wpisy w dziennikach danych operacyjnych lub administracyjnych.
+- Cenzuruj poufne metryki w arkuszach planistycznych lub panelach strategii.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

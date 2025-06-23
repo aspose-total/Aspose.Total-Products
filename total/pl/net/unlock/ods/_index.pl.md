@@ -78,7 +78,34 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Format `.ods` jest używany przez programy arkusz kalkulacyjny typu open-source, takie jak LibreOffice Calc i OpenOffice. Odblokowanie tych plików może pomóc użytkownikom uzyskać dostęp do chronionych hasłem treści, współpracować nad danymi lub przejść do innych narzędzi. Zapewnij odpowiedzialne odblokowywanie plików ODS, zwłaszcza jeśli pochodzą z otwartych portali danych lub instytucji edukacyjnych.
+
+#### **Przypadki użycia**
+
+- **Edycja zablokowanych komórek lub arkuszy**
+  Usuń zabezpieczenia, aby aktualizować budżety, plany lub inne edytowalne sekcje.
+
+- **Konwersja do Excela lub Google Sheets**
+  Odblokuj dla płynnej konwersji i użycia w programie Microsoft Excel lub platformach opartych na chmurze.
+
+- **Odzyskiwanie zapomnianych kluczy zabezpieczeń**
+  Przydatne, gdy użytkownicy zapominają hasła do starszych plików ODS używanych w projektach społecznościowych.
+
+- **Współpraca w przepływach pracy typu open-source**
+  Udostępniaj w pełni edytowalne pliki członkom zespołu korzystającym z różnych systemów lub oprogramowania.
+
+- **Modyfikowanie publicznych szablonów**
+  Dostosuj zablokowane szablony ODS z repozytoriów danych otwartych lub organizacji pozarządowych.
+
+- **Poprawianie problemów z formatowaniem**
+  Odblokuj elementy strukturalne, aby naprawić błędy układu spowodowane ograniczeniami formatowania.
+
+- **Inspekcja makr lub osadzonego kodu**
+  Analizuj logikę automatyzacji lub skrypty osadzone w zablokowanych plikach ODS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

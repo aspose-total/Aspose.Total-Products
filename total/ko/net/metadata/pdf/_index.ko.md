@@ -78,7 +78,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 PDF 파일 (`.pdf`) 메타데이터의 사용 사례
+
+- 발견성을 향상시키기 위해 문서 제목, 주제, 키워드 및 작성자를 포함시킵니다.
+- 문서 버전, 승인 및 분류와 같은 규정 준수 메타데이터를 보존합니다.
+- 출판물이나 매뉴얼의 디지털 권리 정보를 유지합니다.
+- 메타데이터를 사용하여 콘텐츠 시스템에서 자동으로 아카이빙, 삭제 또는 태깅을 수행합니다.
+- 법적, 의료, 학술 분야에서 안전한 문서 추적을 가능하게 합니다.
+- 메타데이터 기반 정렬이나 필터링을 위해 콘텐츠 플랫폼과 통합합니다.
+- 요약, 분류 또는 클러스터링을 위해 AI 시스템에 메타데이터를 제공합니다.
+- 언어, 문서 구조 및 대체 텍스트 힌트와 같은 접근성 메타데이터를 지원합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

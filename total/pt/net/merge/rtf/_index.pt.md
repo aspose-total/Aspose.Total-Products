@@ -80,7 +80,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📝 Fundir RTF (Rich Text Format) para Compilação de Documentos Independente de Plataforma
+
+Os arquivos RTF são usados para documentos de texto formatados independentes de plataforma. A fusão de arquivos RTF permite combinar conteúdo mantendo a formatação em diferentes sistemas.
+
+#### Casos de Uso:
+
+- **Compilação de Texto Formatado**  
+  Fundir relatórios ou notas de diferentes sistemas em um documento formatado.
+
+- **Agregação de Documentos Multiplataforma**  
+  Combinar conteúdo criado por diferentes processadores de texto em um arquivo unificado.
+
+- **Montagem de Documentação de Projeto**  
+  Fundir várias notas ou entregáveis RTF em um relatório final.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

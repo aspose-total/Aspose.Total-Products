@@ -84,7 +84,20 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel Dosyaları Meta Veri Kullanım Alanları
+
+- Veri kümeleri için belge özellikleri aracılığıyla bağlam, amaç ve proje ayrıntılarını depolama.
+- Sürüm takibi ve denetim için veri sahiplerini ve katkıda bulunanları belirleme.
+- Finansal, operasyonel veya İK elektronik tabloları için erişim kontrolü için sınıflandırma yapma.
+- Meta veri kullanarak belge yaşam döngülerini tanımlama (ör. aktif, arşivlenmiş, kullanılmayan).
+- Finansal onaylar veya tahmin raporları için otomatik iş akışlarını etkinleştirme.
+- Meta veri aracılığıyla elektronik tablo verilerini ERP'ler veya veritabanları gibi harici sistemlerle bağlama.
+- Meta veriyi panolar, veri soyutlaması veya iş zekası boruları için kullanma.
+- Yapı içeriğinin yapısını, niyetini ve önemini belirlemede yapay zekaya yardımcı olma.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

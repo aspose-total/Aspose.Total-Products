@@ -80,7 +80,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTXは現代のPowerPointプレゼンテーション形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- ブランディングやプロフェッショナルなロゴの適用
+- ドラフト、最終版、機密などのスライドデッキのステータスを示す
+- 聴衆のセグメンテーションを表示する（例:「クライアント向け」、「社内利用のみ」）
+- 流出防止のための「配布禁止」ウォーターマーク
+- プレゼンターの詳細情報や承認ステータスをスライドにタグ付け
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

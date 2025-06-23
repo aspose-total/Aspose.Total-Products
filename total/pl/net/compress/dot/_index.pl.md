@@ -78,7 +78,27 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Kompresuj pliki DOT dla zarządzania zdezaktualizowanymi szablonami Worda
+
+Pliki DOT (szablony Worda 97–2003) to starsze szablony Worda, które mogą zawierać bogate formatowanie lub obrazy. Kompresowanie plików DOT sprawia, że systemy szablonów z przeszłości stają się bardziej wydajne i przenośne.
+
+#### Przykłady użycia:
+
+- **Oczyszczanie biblioteki szablonów**  
+  Zmniejsz rozmiary plików DOT, aby utrzymać zwartą i zorganizowaną bibliotekę szablonów.
+
+- **Szybsze ładowanie na zdezaktualizowanych systemach**  
+  Mniejsze pliki DOT poprawiają czasy odpowiedzi na starszych maszynach lub wirtualnych środowiskach.
+
+- **Kompaktowe przechowywanie kopii zapasowych**  
+  Zarchiwizuj zdezaktualizowane szablony w postaci skompresowanej, aby zmniejszyć koszty długoterminowego przechowywania.
+
+- **Szablony zasad przedsiębiorstwa**  
+  Umożliwia szybsze rozpowszechnianie standardowych szablonów DOT w różnych działach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

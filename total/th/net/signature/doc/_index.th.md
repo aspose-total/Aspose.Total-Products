@@ -74,7 +74,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานในการลงลายเซ็นไฟล์ DOC ด้วยลายเซ็นดิจิทัลหรืออิเล็กทรอนิกส์
+
+ไฟล์ Microsoft Word DOC ยังคงใช้กันอย่างแพร่หลายในระบบที่เป็นระบบเก่าและบริษัทกฎหมาย การใช้ลายเซ็นดิจิทัลกับไฟล์ DOC จะยืนยันแหล่งที่มาของเอกสารและให้ความมั่นใจว่าเนื้อหาไม่ได้ถูกแก้ไข
+
+## กรณีการใช้งานทั่วไป
+- สัญญาและข้อตกลงทางกฎหมายที่แบ่งปันในรูปแบบ DOC
+- แบบฟอร์มทรัพยากรบุคคลและบันทึกภายในของบริษัท
+- เอกสารของรัฐบาลที่ร่างขึ้นในรุ่นของ Microsoft Office เวอร์ชันเก่า
+- การสื่อสารทางการเมืองในธุรกิจที่ยังคงใช้ซอฟต์แวร์เก่า
+- ข้อเสนอที่ลับต้องการการยืนยันดิจิทัล
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

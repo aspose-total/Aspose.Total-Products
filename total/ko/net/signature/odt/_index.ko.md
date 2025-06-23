@@ -74,7 +74,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 ODT 파일 서명하는 사용 사례
+
+ODT 파일은 LibreOffice 또는 OpenOffice와 같은 오픈 소스 환경에서 사용됩니다. ODT의 디지털 서명은 비마이크로소프트 텍스트 문서의 출처와 무결성을 보장합니다.
+
+## 일반적인 사용 사례
+- 보고서 또는 논문 초고를 공유하는 교육 기관.
+- 비정부 기구 및 오픈 소스 기여자가 공식 편지를 작성하는 경우.
+- ODT 형식의 공공 부문 문서.
+- ODT를 선호하는 국경을 넘어 협력하는 경우.
+- 전자 승인이 필요한 내부 정책 문서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

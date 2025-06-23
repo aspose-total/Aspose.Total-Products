@@ -76,7 +76,19 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSX to standardowy format nowoczesnych arkuszy kalkulacyjnych Excel.
+
+**Powszechne przypadki użycia obejmują:**
+
+- Wyświetlanie danych wersji roboczych, poufnych lub zweryfikowanych
+- Osadzanie szczegółów dotyczących marki lub właściciela
+- Zabezpieczanie modeli za pomocą ostrzeżeń „Nie rozpowszechniać”
+- Oznaczanie danych zgodnie z przepisami regulacyjnymi
+- Identyfikowanie wersji do współpracy lub recenzji klienta
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

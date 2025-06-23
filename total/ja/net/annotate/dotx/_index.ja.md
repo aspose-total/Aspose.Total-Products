@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTX（Word Open XML Template）ファイルは、最新のWordバージョン向けにクリーンでマクロフリーなテンプレートを提供します。DOTXファイルに注釈を付けることで、構造の文書化、フィードバックの共有、デザインの整合性への影響を受けずに共同更新をサポートします。
+
+#### クリーンなテンプレート共同作業用のDOTXファイル注釈:
+
+- **共同テンプレートデザイン**  
+  レイアウト、スタイル、またはプレースホルダーの変更を提案するためにコメントを挿入します。
+
+- **フィールドレベルの指示**  
+  動的セクションにエンドユーザーやコンテンツ作成者向けの指示を注釈付けします。
+
+- **バージョニング＆更新**  
+  最近の更新、非推奨フィールド、またはスタイルのメモを文書化するために注釈を使用します。
+
+- **テンプレート監査**  
+  フォーマット、アクセシビリティ、およびブランディング基準への遵守を確認するためにコメントを付けます。
+
+- **ステークホルダーレビュー統合**  
+  注釈にコンテキストを持ったフィードバックでリアルタイムのステークホルダーレビューを容易にします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

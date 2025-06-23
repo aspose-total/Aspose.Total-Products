@@ -78,7 +78,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTM (Macro-Enabled Template) 파일은 매크로를 사용하여 재사용성을 지원합니다. 주석은 자동화 포인트, 예상 입력 또는 매크로 결과에 대한 중요한 통찰을 제공합니다.
+
+#### 매크로 템플릿 워크플로에 대한 XLTM 파일 주석 처리 - 사용 사례:
+
+- **매크로 문서화**: 매크로 트리거 및 의도된 효과 설명.
+- **사용자 안내**: 자동화를 유지하기 위해 변경해서는 안 되는 섹션에 주석 달기.
+- **테스트 노트**: 템플릿 테스트 중 QA 검토 대상인 영역 표시하기.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

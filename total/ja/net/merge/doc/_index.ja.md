@@ -80,7 +80,24 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 旧ワード文書管理用のDOCファイルのマージ
+
+DOCファイルは、Microsoft Wordで使用されている古いバイナリ形式です。`.doc`ファイルをマージすることは、通常、過去の文書を統合したり、アーカイブしたり、新しい形式に移行するために必要です。
+
+#### 用途:
+
+- **歴史的なレポートのマージ**  
+  アーカイブ目的や印刷や共有のために統一された文書を作成するために古い`.doc`レポートを結合します。
+
+- **レガシー文書の更新**  
+  プロジェクト情報やビジネス文書を含む複数の`.doc`ファイルをマージして、更新用のマスタードキュメントにします。
+
+- **現代の形式への文書変換**  
+  現代のシステムとの互換性を向上させるために、`.docx`に変換する前に`.doc`ファイルをマージします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

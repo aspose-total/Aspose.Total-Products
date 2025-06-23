@@ -79,7 +79,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx | ワード文書（モダン）— 保護の使用事例
+
+- 契約書、レポート、および人事文書で一般的で、編集を制限する必要がある場合に使用されます。
+- 目次、見出し、法的条項などの構造化されたコンテンツを変更から保護します。
+- 共同編集で変更履歴を有効にしながら、重要なセクションをロックします。
+- 最終版の文書を配布する際に、コメントのみが許可されている場合に使用されます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

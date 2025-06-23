@@ -76,7 +76,20 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# การใช้งานของการเซ็นไฟล์ ODS ด้วยลายเซ็นดิจิตอลหรืออิเล็กทรอนิกส์
+
+ODS เป็นรูปแบบสเปรดชีตสำหรับชุดโปรแกรมสำนักงานโอเพนซอร์ส การเซ็นไฟล์ ODS ด้วยลายเซ็นดิจิตอลช่วยป้องกันข้อมูลทางการเงินและดำเนินการในสภาพแวดล้อมที่ไม่ใช่ของ Microsoft
+
+## กรณีการใช้ทั่วไป
+- งบประมาณและรายงานโครงการโอเพนซอร์ส
+- สถาบันการศึกษาติดตามข้อมูลนักเรียน
+- หน่วยงานของรัฐในภูมิภาคที่ต้องการประหยัดค่าใช้จ่าย
+- องค์กรไม่แสวงหากำไรรวมรายงานผู้บริจาคและโครงการ
+- เอกสารวางแผนของแผนกที่ต้องการลายเซ็นเอกสารอย่างปลอดภัย
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

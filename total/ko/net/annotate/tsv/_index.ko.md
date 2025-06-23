@@ -78,7 +78,17 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+TSV (Tab-Separated Values) 파일은 데이터 과학 및 시스템 내보내기에서 일반적으로 사용됩니다. 주석은 특정 레코드를 표시하거나 필드 값 설명 또는 변환 필요를 강조하는 데 도움이 됩니다.
+
+#### 구조화된 데이터 협업을 위한 TSV 파일 주석 달기 - 사용 사례:
+
+- **데이터 정리 노트**: 수동 수정이 필요한 행이나 제외해야 하는 행 강조.
+- **모델 훈련 데이터셋**: 하류 ML 로직을 위한 특수 사례 플래그 지정.
+- **ETL 워크플로우 코멘트**: 매핑이 필요한 필드나 스키마 변경이 필요한 필드 주석 달기.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

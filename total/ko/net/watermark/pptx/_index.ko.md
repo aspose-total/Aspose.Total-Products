@@ -80,7 +80,19 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PPTX는 현대적인 PowerPoint 프레젠테이션 형식입니다.
+
+**일반적인 사용 사례는 다음과 같습니다:**
+
+- 브랜딩 및 전문 로고 적용
+- 초안, 최종 또는 비밀 등의 슬라이드 덱 상태 표시
+- 관객 분할 표시(예: "클라이언트용", "내부 사용용")
+- 무단 배포 방지를 위한 "배포 금지" 워터마크
+- 발표자 세부 정보 또는 승인 상태로 슬라이드 태깅
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

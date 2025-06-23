@@ -76,7 +76,19 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS là định dạng bảng tính mã nguồn mở được sử dụng bởi LibreOffice và OpenOffice.
+
+**Các trường hợp sử dụng phổ biến bao gồm:**
+
+- Chỉ định dữ liệu là Công cộng, Đang xem xét hoặc Nội bộ
+- Đặt watermark cho nguồn dữ liệu
+- Đánh nhãn cho việc hợp tác đa người dùng
+- Bao gồm thông tin về cấp phép hoặc tác giả
+- Đánh dấu nội dung để xuất bản dữ liệu mở
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

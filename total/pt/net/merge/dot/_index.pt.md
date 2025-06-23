@@ -80,7 +80,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mesclar Arquivos DOT para Gerenciamento de Modelos Legados
+
+Arquivos DOT são modelos do Word usados com versões mais antigas do Microsoft Word (antes do DOCX). A mesclagem de arquivos `.dot` ajuda a padronizar a formatação de documentos e garante a compatibilidade com sistemas legados.
+
+#### Casos de Uso:
+
+- **Consolidação de Modelos**  
+  Mesclar diferentes modelos `.dot` usados por várias equipes para criar um modelo único e unificado para a criação de documentos.
+
+- **Arquivamento de Modelos Legados**  
+  Combinar modelos `.dot` para armazenamento a longo prazo ou migração para o formato mais moderno `.dotx`.
+
+- **Atualização de Bibliotecas de Modelos**  
+  Mesclar vários arquivos `.dot` que contenham formatação ou estilos desatualizados para modernização em um único modelo.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

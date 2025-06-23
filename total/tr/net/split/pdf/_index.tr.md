@@ -72,7 +72,20 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — PDF Belge Bölme Kullanım Alanları
+
+- Büyük PDF dosyalarından ilgili sayfaları daha kolay paylaşım ve inceleme için çıkartın.
+- Çoklu bölümlü raporları veya sözleşmeleri ayrı belgelere ayırın.
+- Daha küçük PDF parçaları dağıtarak işbirlikçi düzenleme veya işaretleme imkanı sağlayın.
+- Hassas bilgileri bölerek ve farklı bölümlere erişimi kontrol ederek koruyun.
+- Ana dosyalardan ayrı PDF'ler oluşturarak kişiselleştirilmiş belgeler oluşturun.
+- E-posta veya yükleme kısıtlamalarını karşılamak için PDF'leri bölererek dosya boyutunu azaltın.
+- İçeriği daha küçük dosyalara kategorize ederek belgeleri daha verimli bir şekilde arşivleyin.
+- İlgili sayfaları bölmek ve birleştirmek suretiyle özelleştirilmiş PDF'ler yeniden düzenleyin ve birleştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -83,7 +83,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Microsoft Wordは、契約書、提案書、レポート、方針などのテキスト文書を作成するために広く使用されています。これらの文書に透かしを入れることで、文脈を確立し、文書の整合性を強化するのに役立ちます。
+
+**一般的な使用例には次のものがあります:**
+
+- 機密、下書き、または社内利用のみの文書としてマークする
+- コンテンツの著者や担当部署を特定する
+- 法的免責事項や著作権表示を追加する
+- 機密文書の不正共有を防ぐ
+- 共同編集におけるバージョン管理を追跡する
+- 法規制や監査要件に準拠する
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

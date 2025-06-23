@@ -106,7 +106,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tập tin PPSM (PowerPoint Macro-Enabled Show) mở trực tiếp trong chế độ trình diễn với macro được kích hoạt. Chú thích tập tin PPSM giúp tinh chỉnh nội dung tự động hóa, luồng tương tác và chiến lược tương tác với khán giả.
+
+#### Chú thích Tập tin PPSM cho các Trường hợp Sử dụng Phản hồi Trình diễn Slideshow với Macro:
+
+- **Đánh giá Tương tác Macro**  
+  Nhận xét về các điểm tự động hóa, chuyển tiếp hoặc cần sửa lỗi hoặc cải thiện.
+
+- **Đánh giá Trải nghiệm Trình diễn Slideshow**  
+  Chú thích cách mỗi slide tự động hóa ảnh hưởng đến sự tương tác hoặc rõ ràng của khán giả.
+
+- **Phản hồi Trình diễn**  
+  Cung cấp ý kiến của người nói hoặc người xem để cải thiện slide.
+
+- **Đánh giá UI/UX trong Trình diễn Tương tác**  
+  Chú thích các yếu tố tương tác được xây dựng bằng macro để xác thực hiệu suất.
+
+- **Tinh chỉnh Nội dung Đào tạo**  
+  Đề xuất chỉnh sửa nội dung hoặc thứ tự cho tài liệu đào tạo tự chạy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

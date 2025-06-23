@@ -71,7 +71,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지털 또는 전자 서명을 사용하여 BMP 파일 서명하는 사용 사례
+
+BMP 파일은 스캔 및 아카이빙에 사용됩니다. BMP에 전자 서명을 하는 것은 스캔된 문서 및 이미지의 신뢰성을 보장합니다.
+
+## 일반적인 사용 사례
+- 디지턀화된 법적 서류 또는 서면 합의서.
+- 공증된 서명의 아카이브.
+- 엔지니어 승인이 필요한 기술 다이어그램.
+- 스캔된 재산 기록.
+- 서명 인증이 필요한 청사진.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

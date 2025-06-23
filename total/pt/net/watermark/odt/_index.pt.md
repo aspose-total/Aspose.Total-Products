@@ -83,7 +83,19 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT é um formato de processador de texto de código aberto usado no LibreOffice e em ferramentas similares.
+
+**Casos de uso comuns incluem:**
+
+- Indicar documentos públicos, privados ou internos
+- Mostrar propriedade colaborativa ou ciclos de revisão
+- Incorporar nome da organização ou informações de licença aberta
+- Identificar documentos para liberação no setor público
+- Apoiar o controle de versão em documentos multi-autores
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

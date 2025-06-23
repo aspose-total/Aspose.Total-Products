@@ -78,7 +78,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Microsoft Excel Workbook (Modern) — 보호용도
+
+- 비즈니스 보고서, 예측 및 KPI 대시 보드에서 일반적으로 사용됨 - 보호는 공식 논리를 안전하게 유지함.
+- 중요한 데이터 집합이나 차트의 실수로 인한 변경을 방지함.
+- 특정 셀에서 데이터 입력을 가능하게 하면서 편집 액세스를 제한하는 협업 환경에서 사용됨.
+- 기밀 또는 규제 정보를 처리하기 위한 워크북 암호화를 지원함.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

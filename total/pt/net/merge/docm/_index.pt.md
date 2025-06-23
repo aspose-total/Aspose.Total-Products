@@ -80,7 +80,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir Arquivos DOCM para Documentos do Word com Macros
+
+Os arquivos DOCM são documentos do Word habilitados para macro. A fusão de arquivos `.docm` é útil ao combinar documentos que contêm macros incorporadas para automação ou processamento.
+
+#### Casos de Uso:
+
+- **Consolidação Automatizada de Relatórios**  
+  Fundir relatórios `.docm` que usam macros para automatizar a geração de dados formatados, gráficos ou tabelas em um documento central.
+
+- **Criação de Documentos com Suporte a Macros**  
+  Combinar arquivos `.docm` habilitados para macro para manter e unificar recursos de automação em diferentes relatórios ou documentos.
+
+- **Integração de Fluxo de Trabalho de Documentos**  
+  Fundir documentos com funções de macro semelhantes para melhorar os fluxos de trabalho de criação de documentos entre equipes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

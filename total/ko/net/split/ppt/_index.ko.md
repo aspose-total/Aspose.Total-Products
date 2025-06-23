@@ -74,7 +74,13 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Microsoft PowerPoint 프레젠테이션 .ppt 형식 - 분할용 사용 사례  
+- 긴 프레젠테이션을 집중된 세그먼트로 분할하여 이전 PowerPoint 파일을 관리합니다.  
+- 전체 파일을 보내지 않고 레거시 덱에서 관련 슬라이드를 공유합니다.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

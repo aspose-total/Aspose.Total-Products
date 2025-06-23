@@ -78,7 +78,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .ods | OpenDocument Spreadsheet — 保護の使用事例
+
+- LibreOfficeなどのオープンソース環境で使用され、予算追跡やデータ共有に利用されます。
+- クロスプラットフォームのワークフローでセルの数式や計算を保護します。
+- 共同作業における財務モデルや公共部門文書の構造変更を防ぎます。
+- 複数の利害関係者や部署間で共有される際の一貫性を確保します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

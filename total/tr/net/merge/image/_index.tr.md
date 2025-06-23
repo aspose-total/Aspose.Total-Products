@@ -81,7 +81,30 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ Görüntü Dosyaları (JPG, PNG, BMP, GIF, TIFF, WEBP)
+
+Görüntü dosyalarını tek bir görsel çıktıya veya yapılandırılmış formata (örneğin, PDF, kolaj veya sprite) birleştirmek, tasarım, belgeleme ve dijital yayınlama iş akışlarını destekler.
+
+#### Kullanım Alanları:
+
+- **Dijital Albüm Oluşturma**  
+  Tatil, etkinlik veya portföy görüntülerini tek bir galeri veya fotoğraf kitabına birleştirin.
+
+- **Tasarım Varlıklarının Birleştirilmesi**  
+  UI mockup'ları, sosyal medya grafikleri veya marka varlıklarını müşteri incelemesi için tek bir referans dosyasına birleştirin.
+
+- **Tarama Belgesi Gruplama**  
+  Taranmış görüntü dosyalarını depolama veya paylaşma amacıyla tek bir arşiv veya belge haline getirin.
+
+- **Görsel Karşılaştırmalar ve Önce-Sonra Slaytları**  
+  Raporlarda veya pazarlama materyallerinde karşılaştırma görselleri oluşturmak için görüntü setlerini birleştirin.
+
+- **Eğitim veya Ürün Kılavuzları**  
+  Annotasyonlu ekran görüntüleri veya ürün fotoğraflarını ardışık eğitim içeriğine birleştirin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

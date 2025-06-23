@@ -74,7 +74,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Assinatura de Arquivos DOC com Assinaturas Digitais ou Eletrônicas
+
+Os arquivos DOC do Microsoft Word ainda são amplamente utilizados em sistemas legados e escritórios de advocacia. Aplicar uma assinatura digital a um arquivo DOC autentica sua origem e garante que o conteúdo não foi adulterado.
+
+## Casos de Uso Comuns
+- Contratos legais e acordos compartilhados em formato DOC.
+- Formulários de RH e memorandos internos da empresa.
+- Documentação governamental elaborada em versões mais antigas do Microsoft Office.
+- Correspondência formal em empresas que mantêm software legado.
+- Propostas confidenciais que exigem verificação digital.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,20 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint Dosyaları Meta Veri Kullanım Alanları
+
+- Bir sunumun amacını, hedef kitlesini veya temasını meta veri alanlarıyla açıklayın.
+- Kurumsal sunum dosyaları için revizyonları ve yazarları takip edin.
+- İç/dış ve gizli/genel slayt gösterilerini sınıflandırın.
+- Markalı veya yönetici sunumları için iş akışı onaylarını otomatikleştirin.
+- Görsel varlıklar ve şablonlar için telif hakkı, lisanslama ve kullanım haklarını ekleyin.
+- Ana sunumların kuruluş genelinde arama ve dizinleme işlemlerini iyileştirin.
+- Üçüncü taraf sunum yöneticilerini veya LMS platformlarını içerikleri düzenlemek için etkinleştirin.
+- Yapay zekanın slayt düzenlerini önermesine, sunumları otomatik olarak etiketlemesine yardımcı olun.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

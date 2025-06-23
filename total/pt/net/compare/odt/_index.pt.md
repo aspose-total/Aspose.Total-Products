@@ -73,7 +73,22 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### Comparação de Arquivos ODT para Casos de Uso de Colaboração em Documentos Abertos:
+
+ODT (OpenDocument Text) é o padrão para processadores de texto de código aberto como o LibreOffice e o OpenOffice. Comparar arquivos ODT fornece transparência na escrita colaborativa, especialmente em ambientes abertos.
+
+- **Auditoria de Colaboração Aberta**  
+  Acompanhe as revisões feitas por colaboradores em documentação de código aberto.
+
+- **Revisão de Documentos Governamentais e Acadêmicos**  
+  Compare formulários oficiais, políticas ou rascunhos de pesquisa compartilhados no formato ODT.
+
+- **Transparência em Fluxos de Trabalho Públicos**  
+  Mostre as alterações lado a lado para documentos e propostas mantidos publicamente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

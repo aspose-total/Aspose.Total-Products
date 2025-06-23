@@ -76,7 +76,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名を使用してXLSXファイルに署名するユースケース
+
+XLSXは現在のExcelフォーマットであり、財務および運用データのために電子およびデジタル署名を完全にサポートしています。
+
+## 一般的な使用例
+- 財務報告書と貸借対照表。
+- 部門予算と予測。
+- 重役レビュー用に共有されるパフォーマンスダッシュボード。
+- 人事記録と出席集計。
+- 承認が必要な調達およびベンダー原価シート。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

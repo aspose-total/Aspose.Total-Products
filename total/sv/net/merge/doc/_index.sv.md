@@ -80,7 +80,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga DOC-filer för äldre hantering av Word-dokument
+
+DOC-filer är det äldre binära formatet som används av Microsoft Word. Att sammanfoga `.doc`-filer är vanligtvis nödvändigt för att konsolidera äldre dokument, arkivering eller övergång till nyare format.
+
+#### Användningsområden:
+
+- **Sammanfoga historiska rapporter**  
+  Kombinera äldre `.doc`-rapporter för arkivering eller för att skapa ett enhetligt dokument för utskrift eller delning.
+
+- **Uppdatering av äldre dokument**  
+  Sammanfoga flera `.doc`-filer som innehåller projektinformation eller affärsdokument i ett huvuddokument för uppdatering.
+
+- **Konvertering av dokument till moderna format**  
+  Sammanfoga `.doc`-filer innan de konverteras till `.docx` för förbättrad kompatibilitet med moderna system.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

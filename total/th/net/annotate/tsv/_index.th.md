@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ TSV (Tab-Separated Values) เป็นไฟล์ที่พบได้บ่อยในวงการวิทยาการข้อมูลและการส่งออกข้อมูลของระบบ การประทับระบุช่วยในการทำเครื่องหมายบันทึกที่เฉพาะเจาะจง อธิบายค่าฟิลด์ หรือเน้นความต้องการในการแปลงข้อมูล
+
+#### ทำเครื่องหมายบันทึกในไฟล์ TSV สำหรับการทำงานร่วมกันของข้อมูลโครงสร้าง - กรณีการใช้งาน:
+
+- **บันทึกการทำควาสะอาดข้อมูล**: เน้นแถวที่ต้องการการแก้ไขด้วยมือหรือการยกเว้น
+- **ชุดข้อมูลสำหรับการฝึกอบรมโมเดล**: ทำเครื่องหมายกรณีพิเศษสำหรับตรรกะการเรียนรู้ของเครื่องที่ต่อจากนี้
+- **ความคิดเห็นของกระบวนการ ETL Workflow**: ทำเครื่องหมายฟิลด์ที่ต้องการการแมพหรือการเปลี่ยนแปลงสกีมา
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

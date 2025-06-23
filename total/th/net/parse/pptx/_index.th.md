@@ -87,7 +87,15 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการแยกวิเคราะห์ไฟล์ .pptx
+
+- 🖼️ สกัดข้อความสไลด์ รูปภาพ และเมตาดาต้าสำหรับการใช้ในเว็บหรือแอปพลิเคชัน
+- 🔁 อัตโนมัติการสร้างงานนำเสนอและการแปลงเป็นไฟล์
+- 📽️ แปลงไฟล์ `.pptx` เป็น HTML, PDF หรือรูปแบบอินเทอร์แอคทีฟ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

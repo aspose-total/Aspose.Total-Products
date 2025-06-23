@@ -87,7 +87,26 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Các Trường Hợp Sử Dụng Phân Tích File Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv)
+
+- 📈 **Trích Xuất Dữ Liệu**  
+  Phân tích giá trị ô, công thức và phạm vi từ bảng tính cho mục đích phân tích hoặc bảng điều khiển.
+
+- 🧮 **Xử Lý Mẫu**  
+  Sử dụng các mẫu `.xlt`, `.xltx`, `.xltm` để điền thông tin vào báo cáo, báo cáo tài chính hoặc dự báo.
+
+- 🤖 **Phân Tích Nhận Biết Macro**  
+  Xử lý các định dạng `.xlsm` và `.xltm` với khả năng nhận biết macro để tránh hoặc bảo tồn logic tự động hóa.
+
+- 🔍 **Nhập Dữ Liệu Cấu Trúc**  
+  Nhập nội dung từ các file `.csv`, `.tsv`, hoặc `.xlsx` vào cơ sở dữ liệu, ứng dụng hoặc API.
+
+- 🗃️ **Di Dời Dữ Liệu**  
+  Chuyển đổi các sheet từ file `.xls`, `.xlsb`, và `.xlsx` sang JSON, XML, hoặc các định dạng cấu trúc khác để tích hợp.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

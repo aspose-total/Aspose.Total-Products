@@ -82,7 +82,15 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 การลบข้อมูลใน .ods (สเปรดชีตเปิดเอกสาร)
+
+- ลบข้อมูลการสำรวจหรือข้อมูลสถิติก่อนการเผยแพร่ภายนอก
+- ลบข้อมูลทางการเงินลับในสเปรดชีตการวางแผนภายใน
+- ลบข้อมูลที่สามารถระบุตัวตนของผู้ใช้ในชุดข้อมูลที่แชร์กัน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excel에서의 삭제
+
+- 분배 전 급여, 예산 또는 수익 데이터를 삭제합니다.
+- 판매, 인사 또는 감사 스프레드시트에서 고객 또는 직원 데이터를 삭제합니다.
+- 운영 또는 관리 데이터 로그에서 개인 항목을 삭제합니다.
+- 계획 시트 또는 전략 대시 보드에서 기밀 메트릭을 삭제합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

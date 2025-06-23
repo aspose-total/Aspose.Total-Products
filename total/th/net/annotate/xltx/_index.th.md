@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ XLTX (Excel Template - Open XML) ใช้สำหรับรายงานที่มีมาตรฐานและทำซ้ำได้ การทำเครื่องหมายบนไฟล์ช่วยให้เข้าใจได้ชัดเจนเกี่ยวกับพื้นที่ที่สามารถแก้ไข ความคาดหวังในการป้อนข้อมูล และคำแนะนำในการแก้ไข
+
+#### ทำเครื่องหมายบนไฟล์ XLTX สำหรับเทมเพลตรายงานที่ใช้ซ้ำได้ - กรณีการใช้งาน:
+
+- **คำแนะนำเกี่ยวกับรายงาน**: เพิ่มเคล็ดลับการใช้หรือบันทึกการอัปเดตสำหรับรายงานที่เกิดซ้ำ
+- **คำติชมด้านการออกแบบ**: ทำเครื่องหมายบนภาพประกอบ ส่วนหัว หรือโครงสร้างของส่วนต่าง ๆ
+- **การทำงานร่วมกันของผู้ใช้**: ติดตามข้อเสนอแนะจากแผนกต่าง ๆ บนเทมเพลตที่ใช้ร่วมกัน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

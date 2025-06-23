@@ -76,7 +76,19 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSXは、現代のExcelスプレッドシートの標準形式です。
+
+**一般的な使用例には次のものがあります:**
+
+- 下書き、機密、または確認済みデータの表示
+- ブランディングや所有権の詳細の埋め込み
+- 「配布禁止」の警告を付けてモデルを保護
+- 法令遵守のためのデータのフラグ設定
+- 共同作業やクライアントレビューのためのバージョンの識別
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -106,7 +106,28 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Các tệp POTM (PowerPoint Macro-Enabled Template) được sử dụng để tạo các bản trình bày chuẩn với các macro được nhúng. Chú thích các tệp POTM giúp tài liệu hóa logic tự động hóa, chuẩn hóa việc sử dụng mẫu và hỗ trợ phát triển cộng tác.
+
+#### Chú thích Tệp POTM cho Các Trường Hợp Sử Dụng Tự Động Hóa Bản Trình Bày Dựa trên Mẫu:
+
+- **Đánh Giá Thiết Kế Mẫu**  
+  Thêm ý kiến về bố cục trang, tính nhất quán về thương hiệu và cấu trúc trong mẫu.
+
+- **Tài Liệu Macro**  
+  Chú thích mục đích và hành vi của các macro cho người dùng và nhà phát triển.
+
+- **Hướng Dẫn Sử Dụng cho Đội Ngũ**  
+  Cung cấp hướng dẫn hoặc các phương pháp tốt nhất về cách điền thông tin và tái sử dụng mẫu.
+
+- **Chú Thích Kiểm Tra Tuân Thủ**  
+  Đánh dấu các khu vực cần cập nhật để đáp ứng các tiêu chuẩn về khả năng truy cập hoặc chính sách doanh nghiệp.
+
+- **Phát Triển Mẫu Theo Phương Pháp Lặp**  
+  Đánh dấu các thay đổi phiên bản hoặc các cải tiến đề xuất trong thiết kế mẫu đang phát triển.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

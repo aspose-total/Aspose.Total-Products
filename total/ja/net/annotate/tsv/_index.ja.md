@@ -78,7 +78,17 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+TSV（タブ区切り値）ファイルは、データサイエンスやシステムのエクスポートで一般的です。注釈は特定のレコードをマークしたり、フィールドの値を説明したり、変換の必要性を強調したりするのに役立ちます。
+
+#### 構造化データコラボレーションのためのTSVファイルに注釈を付ける - ユースケース：
+
+- **データクリーニングメモ**: 手動で修正や除外が必要な行を強調します。
+- **モデルトレーニングデータセット**: 下流の機械学習ロジックのための特別なケースをフラグ付けします。
+- **ETLワークフローコメント**: マッピングやスキーマの変更が必要なフィールドに注釈を付けます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

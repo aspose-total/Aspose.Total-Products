@@ -123,7 +123,31 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Formaty Microsoft Word są powszechnie używane do tworzenia dokumentów z dużą ilością tekstu, szablonów i plików z makrami. Adnotowanie formatów Worda zwiększa współpracę zespołu, ułatwia strukturalne przeglądy i wspiera przepływy pracy zgodności poprzez dodawanie kontekstu bezpośrednio w dokumencie.
+
+#### Adnotacja pliku Microsoft Word do współpracy i przeglądu dokumentów - Przykłady użycia:
+
+- **Wspólne edytowanie i przeglądanie**  
+  Dodawanie komentarzy w celu sugerowania poprawek, wyjaśniania znaczenia lub prośby o dodatkowe informacje od współpracowników.
+
+- **Opinie dotyczące rozwoju szablonów**  
+  Adnotowanie szablonów do ponownego wykorzystania w celu prowadzenia formatowania, stref treściowych lub elementów identyfikacji wizualnej.
+
+- **Dokumentacja makr (DOCM/DOTM)**  
+  Wstawianie wyjaśnień i notatek śledzenia dla działań makr, poprawiając transparentność i ułatwiając debugowanie.
+
+- **Kontrola wersji i śledzenie iteracji**  
+  Wykorzystaj adnotacje do oznaczania zmian między wersjami i rejestrowania opinii recenzentów w celach audytowych.
+
+- **Przegląd zgodności i prawny**  
+  Oznaczanie wrażliwej treści lub kwestii zgodności z komentarzami kontekstowymi do kontroli prawnej lub regulacyjnej.
+
+- **Szkolenie i notatki instruktażowe**  
+  Osadzanie notatek w podręcznikach szkoleniowych lub dokumentach akademickich w celu udzielenia dodatkowych wskazówek lub wyjaśnień.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

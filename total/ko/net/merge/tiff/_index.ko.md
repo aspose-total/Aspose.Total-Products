@@ -81,7 +81,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 고품질 이미지 병합을 위한 TIFF 파일 병합
+
+TIFF(Tagged Image File Format)는 손실 압축이 필요하지 않은 고품질 이미지에 널리 사용됩니다. `.tiff` 파일을 병합하는 것은 스캔, 다중 페이지 문서 또는 대형 이미지를 결합하는 데 유용합니다.
+
+#### 사용 사례:
+
+- **다중 페이지 문서 작성**  
+  문서의 페이지를 나타내는 여러 `.tiff` 파일을 병합하여 보기나 인쇄를 쉽게 할 수 있는 단일 다중 페이지 파일을 만듭니다.
+
+- **고해상도 스캔**  
+  예술 작품, 문서 또는 도면의 스캔된 부분을 포함하는 `.tiff` 파일을 결합하여 고해상도 이미지 하나로 만듭니다.
+
+- **아카이빙 및 보존**  
+  이미지 품질과 세부 정보 보존이 중요한 보존 목적으로 `.tiff` 파일을 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

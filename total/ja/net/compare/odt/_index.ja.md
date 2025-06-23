@@ -73,7 +73,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### オープンドキュメントコラボレーション用途のODTファイル比較：
+
+ODT（OpenDocument Text）は、LibreOfficeやOpenOfficeなどのオープンソースワードプロセッサの標準です。ODTファイルを比較することで、共同執筆において透明性が提供され、特にオープンな環境で重要です。
+
+- **オープンコラボレーション監査**  
+  オープンソースのドキュメンテーションで貢献者が行った改訂を追跡します。
+
+- **政府および学術文書のレビュー**  
+  ODT形式で共有される公式フォーム、方針、研究草案を比較します。
+
+- **公開ワークフローにおける透明性**  
+  公開されている文書や提案の変更を並べて表示します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

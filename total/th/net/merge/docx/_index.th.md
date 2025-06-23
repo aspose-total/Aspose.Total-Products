@@ -80,7 +80,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### รวมไฟล์ DOCX เพื่อการรวมเอกสาร Word รุ่นใหม่
+
+DOCX เป็นรูปแบบที่ใช้ XML ที่ถูกใช้โดย Microsoft Word สำหรับเอกสารรุ่นใหม่ การรวมไฟล์ `.docx` เป็นสิ่งสำคัญสำหรับการทำงานร่วมกัน การรวมเอกสาร และเอกสารประกอบที่เป็นศูนย์กลาง
+
+#### การใช้งาน:
+
+- **เอกสารโครงการ**  
+  รวมไฟล์ `.docx` จากสมาชิกทีมหรือแผนกต่าง ๆ เข้าด้วยกันเป็นเอกสารโครงการที่ครอบคลุม
+
+- **การรวบรวมรายงาน**  
+  รวมรายงานรายเดือน รายไตรมาส หรือรายปีจากแหล่งข้อมูลหลาย ๆ แหล่งเข้าด้วยกันเป็นไฟล์เดียวสำหรับการกระจาย
+
+- **การเขียนร่วม**  
+  รวมร่าง `.docx` หรือการสนับสนุนจากนักเขียนต่าง ๆ เข้าไปในเอกสารเดียวกันสำหรับการตรวจทานและการเผยแพร่สุดท้าย
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

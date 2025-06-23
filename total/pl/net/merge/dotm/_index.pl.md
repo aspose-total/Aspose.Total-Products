@@ -80,7 +80,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików DOTM w celu integracji szablonów z obsługą makr
+
+Pliki DOTM to szablony programu Word z obsługą makr. Scalanie plików `.dotm` jest przydatne podczas integracji szablonów, które polegają na makrach do automatyzacji dokumentów.
+
+#### Przykłady użycia:
+
+- **Unifikacja szablonów z obsługą makr**  
+  Scal szablony `.dotm` używane przez wiele działów w celu standaryzacji formatowania i funkcjonalności makr.
+
+- **Automatyzacja w tworzeniu szablonów**  
+  Połącz szablony `.dotm`, które wykorzystują makra do automatycznego wypełniania dokumentów, takie jak generowanie faktur lub formatowanie raportów.
+
+- **Aktualizacja logiki makr**  
+  Scal szablony `.dotm`, aby przejrzeć i zaktualizować osadzone makra w celu poprawy automatyzacji lub ulepszenia funkcji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

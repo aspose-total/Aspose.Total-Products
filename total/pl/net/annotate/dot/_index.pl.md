@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki DOT (szablony Word 97–2003) definiują wielokrotnie używane struktury dokumentów. Adnotacje w plikach DOT pomagają wyjaśnić cel szablonu, instrukcje użytkowania oraz uwagi dotyczące dostosowywania dla użytkowników.
+
+#### Adnotacja Pliku DOT dla Dokumentacji Szablonu i Przypadków Użycia Opinii:
+
+- **Wskazówki dotyczące Dostosowywania Szablonu**  
+  Dodaj adnotacje do pól i zmiennych zastępczych, aby wskazać użytkownikom, jak i gdzie wstawić treść.
+
+- **Instrukcje Przepływu Pracy**  
+  Dodaj komentarze wyjaśniające zautomatyzowane zachowania, makra lub formatowanie warunkowe osadzone w szablonie.
+
+- **Recenzje Marki i Stylu**  
+  Podkreśl obszary, które muszą być zgodne z wytycznymi dotyczącymi marki korporacyjnej lub standardami dokumentów.
+
+- **Zbieranie Opinii od Użytkowników**  
+  Pozwól użytkownikom wstawiać komentarze dotyczące użyteczności szablonu, ułatwiając iteracyjne ulepszenia.
+
+- **Szablony Zgodności z Przepisami**  
+  Udostępnij notatki dotyczące przepisów lub zgodności bezpośrednio w szablonie dla procesów dokumentacji prawnej.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

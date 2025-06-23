@@ -73,7 +73,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### クロスプラットフォームドキュメント監査のためのRTFファイル比較のユースケース：
+
+RTF（リッチテキスト形式）ファイルは軽量なドキュメント交換に広く使用されています。RTFファイルの比較は、プラットフォームの中立性が重要な環境で、コンテンツや書式の変更の検証をサポートします。
+
+- **クロスプラットフォームコンテンツの検証**  
+  異なるシステムやツール間での書式や言葉の変更を検出します。
+
+- **ドキュメントの改訂レビュー**  
+  複数の寄稿者によって更新されたトレーニングマニュアルやヘルプドキュメントを比較します。
+
+- **レガシー互換性監査**  
+  RTFベースのシステムで行われた変更が構造やスタイルに影響を与えないようにします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

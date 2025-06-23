@@ -80,7 +80,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga DOT-filer för hantering av äldre mallar
+
+DOT-filer är Word-mallar som används med äldre versioner av Microsoft Word (innan DOCX). Att sammanfoga `.dot`-filer hjälper till att standardisera dokumentformatering och säkerställa kompatibilitet med äldre system.
+
+#### Användningsfall:
+
+- **Mallkonsolidering**  
+  Sammanfoga olika `.dot`-mallar som används av olika team för att skapa en enda, enhetlig mall för dokumentskapande.
+
+- **Arkivering av äldre mallar**  
+  Kombinera `.dot`-mallar för långtidsförvaring eller överföring till den modernare `.dotx`-formatet.
+
+- **Uppdatering av mallbibliotek**  
+  Sammanfoga flera `.dot`-filer som innehåller föråldrad formatering eller stilar för modernisering till en enda mall.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

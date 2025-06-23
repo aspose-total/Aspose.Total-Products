@@ -80,7 +80,24 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Samenvoegen van DOT-bestanden voor beheer van oude sjablonen
+
+DOT-bestanden zijn Word-sjablonen die worden gebruikt met oudere versies van Microsoft Word (vóór DOCX). Het samenvoegen van `.dot`-bestanden helpt bij het standaardiseren van de opmaak van documenten en zorgt voor compatibiliteit met legacy systemen.
+
+#### Gebruiksscenario's:
+
+- **Sjabloonconsolidatie**  
+  Voeg verschillende `.dot`-sjablonen samen die door verschillende teams worden gebruikt om een enkel, uniform sjabloon voor het maken van documenten te creëren.
+
+- **Archivering van oude sjablonen**  
+  Combineer `.dot`-sjablonen voor langetermijnopslag of migratie naar het modernere `.dotx`-formaat.
+
+- **Bijwerken van sjabloonbibliotheken**  
+  Voeg meerdere `.dot`-bestanden samen die verouderde opmaak of stijlen bevatten voor modernisering in één sjabloon.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

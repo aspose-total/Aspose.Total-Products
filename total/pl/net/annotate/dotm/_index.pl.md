@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki DOTM (szablony z włączonymi makrami) zawierają skrypty automatyzacji, które zwiększają produktywność. Opisywanie plików DOTM zapewnia dokumentację zachowań makr i ułatwia śledzenie błędów oraz zbieranie opinii.
+
+#### Opisywanie plików DOTM w celu przeglądu szablonów z makrami:
+
+- **Dokumentacja Instrukcji i Logiki Makr**  
+  Opisuj pola wywoływane przez makra, aby wyjaśnić funkcjonalność i oczekiwane rezultaty.
+
+- **Przegląd Automatyzacji i Testowanie**  
+  Wstawiaj notatki informujące o udanych lub nieudanych wykonaniach makr podczas testów.
+
+- **Wyjaśnienie Zachowania Szablonu**  
+  Komentuj zautomatyzowane sekcje układu lub formatowania, aby pomóc użytkownikom zrozumieć strukturę szablonu.
+
+- **Osadzanie Materiałów Szkoleniowych dla Użytkowników**  
+  Dodawaj wskazówki nauki bezpośrednio do szablonów, aby ułatwić wdrożenie użytkowników.
+
+- **Izolacja Błędów**  
+  Wykorzystaj opisy, aby izolować i wyjaśniać błędy spowodowane wykonaniem makra.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

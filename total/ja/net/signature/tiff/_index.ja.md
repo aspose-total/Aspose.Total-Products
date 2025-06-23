@@ -71,7 +71,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名でTIFFファイルに署名する使用例
+
+TIFFは高解像度画像の文書化に適しています。TIFFファイルにデジタル署名することは、法律、医療、およびアーカイブ業界で重要です。
+
+## 一般的な使用例
+- 法的証拠と法廷で許容されるスキャン。
+- 医療検査結果と放射線画像。
+- エンジニアリングプランと建築文書。
+- 歴史的文書の保存。
+- 画像形式の保険請求証拠。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

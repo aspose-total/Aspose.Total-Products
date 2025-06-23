@@ -83,7 +83,20 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOCX เป็นรูปแบบ Word ที่ใช้งานอย่างแพร่หลายสำหรับเอกสารข้อความที่สามารถแก้ไขได้
+
+**การใช้งานทั่วไปประกอบด้วย:**
+
+- การทำเครื่องหมายสถานะเป็นร่าง, ลับ, หรือ ได้รับการอนุมัติ
+- การใช้สัญลักษณ์และโลโก้ของบริษัท
+- เพิ่มการกำหนดให้เห็นเท่านั้นหรืออ่านอย่างเดียว
+- แสดงเวอร์ชันภายใน/ภายนอก
+- สนับสนุนการติดตามวงจรชีวิตของเอกสาร
+- ปฏิบัติตามข้อกำหนดของหน่วยงานกำกับดูแล
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

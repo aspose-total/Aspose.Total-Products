@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ Scal PPSM (Pokaz slajdów programu PowerPoint z makrami) dla interaktywnych prezentacji i automatyzacji
+
+Pliki PPSM to pokazy slajdów programu PowerPoint, które zawierają makra. Scalanie ich może skonsolidować prezentacje z makrami dla automatyzacji lub interaktywnego dostarczania.
+
+#### Przypadki użycia:
+
+- **Dostarczanie interaktywnego szkolenia**  
+  Scal moduły szkoleniowe z skryptami automatyzacji dla zoptymalizowanych sesji nauki.
+
+- **Pokazy slajdów demonstracyjnych sprzedaży**  
+  Połącz pokazy slajdów produktów z automatycznymi przejściami i elementami interaktywnymi.
+
+- **Prezentacje automatyzacji procesów**  
+  Scal wiele makroaktywowanych zestawów slajdów dla wewnętrznych samouczków procesów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

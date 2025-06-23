@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mesclar arquivos XLSM para fluxos de trabalho do Excel habilitados para macro
+
+Os arquivos XLSM são pastas de trabalho do Excel habilitadas para macro. A mesclagem de arquivos `.xlsm` deve preservar tanto os dados quanto as macros incorporadas usadas para automação ou cálculos.
+
+#### Casos de Uso:
+
+- **Relatórios de Tarefas Automatizadas**  
+  Mesclar planilhas habilitadas para macro que automatizam tarefas de relatórios ou validação em um arquivo central.
+
+- **Consolidar Modelos de Fluxo de Trabalho**  
+  Combinar modelos `.xlsm` usados em diferentes departamentos em uma pasta de trabalho para automação simplificada.
+
+- **Repositório Central de Código VBA**  
+  Mesclar arquivos com macros semelhantes para unificar a lógica e reduzir a duplicação entre os departamentos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

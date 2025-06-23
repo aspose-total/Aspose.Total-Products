@@ -106,7 +106,31 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Formaty PowerPoint są powszechnie używane do tworzenia, szablonowania i dostarczania prezentacji. Adnotowanie tych plików umożliwia strukturalne opinie, śledzenie wersji i doskonalenie treści bez zmiany podstawowego projektu.
+
+#### Adnotacja plików PowerPoint do dynamicznej recenzji prezentacji i przypadków użycia opinii:
+
+- **Recenzja projektu i opinie o slajdach**  
+  Dodawanie komentarzy do poszczególnych slajdów w celu sugerowania poprawek projektowych, ulepszeń treści lub zmian animacji.
+
+- **Wspólne tworzenie prezentacji**  
+  Używanie adnotacji do przypisywania zadań, oznaczania właściciela treści lub wskazywania brakujących elementów w opracowywaniu slajdów opartych na zespole.
+
+- **Optymalizacja szablonów (POTM, POTX)**  
+  Adnotowanie szablonów do wielokrotnego użytku z notatkami dotyczącymi marki, wytycznymi układu lub instrukcjami dotyczącymi użycia makr dla spójności w zespołach.
+
+- **Recenzje oparte na slajdach (PPSM, PPSX)**  
+  Wstawianie opinii podczas samoczynnych prezentacji, wskazujących obszary do poprawy lub problemy z zaangażowaniem publiczności.
+
+- **Debugowanie i wyjaśnianie makr (PPTM)**  
+  Używanie adnotacji do dokumentowania zachowania makr, podkreślania wad automatyzacji lub wyjaśniania funkcji osadzonych skryptów.
+
+- **Materiały edukacyjne i szkoleniowe (PPTX)**  
+  Adnotowanie kluczowych punktów z notatkami instruktora, wskazówkami dla uczących się lub flagami oceny w celu wzbogacenia doświadczenia edukacyjnego.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ .pptx에서의 편집 (Microsoft PowerPoint)
+
+- 기업 프레젠테이션에서 내부 재무 데이터나 예측을 편집합니다.
+- 비즈니스 피치 덱이나 이해 관계자 업데이트에서 고객이나 파트너 이름을 편집합니다.
+- 제품 로드맵이나 출시 브리핑에서 전략적 콘텐츠를 편집합니다.
+- 공개 배포 전에 기밀 이미지, 그래프 또는 연사자 노트를 편집합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

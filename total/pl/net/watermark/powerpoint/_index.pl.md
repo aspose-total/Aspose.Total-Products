@@ -80,7 +80,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Prezentacje PowerPoint są używane do przekazywania pomysłów podczas spotkań, konferencji i wewnętrznych przeglądów. Filigrany pomagają chronić własność intelektualną i wzmacniają kontekst komunikacji.
+
+**Typowe przypadki użycia obejmują:**
+
+- Nadawanie slajdom marki z logotypami lub nazwami wydarzeń
+- Oznaczanie prezentacji jako Wersja robocza, Poufne lub Tylko do szkolenia
+- Zapobieganie dystrybucji za pomocą filigranów Do Not Share
+- Wskazywanie nazwy prezentującego, zespołu lub cyklu przeglądów
+- Etykietowanie slajdów do użytku wewnętrznego w prezentacjach skierowanych do publiczności
+- Ochrona szablonów projektów i zasobów kreatywnych
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

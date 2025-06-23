@@ -78,7 +78,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki CSV (wartości rozdzielone przecinkami) są powszechnie używane do przechowywania danych tabelarycznych ze względu na swoją prostotę i kompatybilność między systemami. Jednakże, gdy pracujemy w środowiskach wymagających współpracy, śladów audytowych lub komentarzy kontekstowych dotyczących konkretnych punktów danych, możliwość adnotowania plików CSV staje się kluczowa.
+
+#### Przypadki użycia adnotacji CSV do automatycznej recenzji danych i współpracy:
+
+- **Automatyzowane Przepływy Pracy Walidacji Danych**  
+  Użyj adnotacji do wyróżnienia rozbieżności, wartości odstających lub wymaganych zmian w poziomach zapasów lub danych łańcucha dostaw, ułatwiając szybsze rekonsilacje i recenzje.
+
+- **Wspólna Oczyszczanie Danych**  
+  Dodaj notatki kontekstowe podczas procesów wstępnego przetwarzania CSV, aby oznaczyć zweryfikowane lub sporne rekordy, umożliwiając płynną komunikację między analitykami danych a interesariuszami biznesowymi.
+
+- **Ślad Audytowy dla Aktualizacji Danych**  
+  Zachowuj śledzone komentarze dotyczące konkretnych komórek lub wierszy, aby udokumentować punkty decyzyjne, zapewniając niezawodny ślad audytowy dla zgodności i wewnętrznych recenzji.
+
+- **Integracja Informacji Zwrotnej w Panelach Inteligencji Biznesowej**  
+  Adnotuj zbiory danych CSV używane w raportowaniu BI, aby oznaczyć brakujące dane lub zauważyć trendy, poprawiając dokładność raportu poprzez poinformowane korekty danych.
+
+- **Ulepszenia Raportowania w Czasie Rzeczywistym**  
+  Wstaw automatyczne adnotacje dotyczące metryk sprzedaży, które odbiegają od celów, poprawiając czytelność raportu dla interesariuszy biznesowych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

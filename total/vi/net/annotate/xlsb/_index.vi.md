@@ -78,7 +78,17 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Tập tin XLSB (Binary Excel Workbook) được tối ưu hóa cho các bộ dữ liệu doanh nghiệp quy mô lớn. Chú thích cho phép các nhóm cung cấp ngữ cảnh cho các ô quan trọng, hỗ trợ việc hợp tác của các nhóm lớn mà không gây mất hiệu suất.
+
+#### Chú thích Tập tin XLSB để Xử lý Dữ liệu Doanh nghiệp Hiệu quả - Các Trường hợp Sử dụng:
+
+- **Các Đường ống Dữ liệu Doanh nghiệp**: Chèn nhận xét trong quá trình ETL để theo dõi các thay đổi.
+- **Hợp tác Nhóm BI**: Chú thích các KPI và bảng điều khiển với thông tin hay câu hỏi.
+- **Theo dõi Thay đổi**: Đánh dấu các hàng hoặc ô đã cập nhật để kiểm soát phiên bản.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

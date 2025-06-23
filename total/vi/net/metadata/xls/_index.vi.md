@@ -84,7 +84,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Các trường hợp sử dụng cho Bảng tính Excel (`.xls`)
+
+- Lưu trữ siêu dữ liệu mục đích và sở hữu tài liệu.
+- Cải thiện việc theo dõi và truy xuất tệp nội bộ.
+- Tự động hóa các luồng làm việc tài chính hoặc dự án thông qua quy tắc siêu dữ liệu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

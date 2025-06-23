@@ -73,7 +73,22 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### การเปรียบเทียบไฟล์ ODT สำหรับการใช้งานร่วมกันในเอกสารเปิด
+
+ODT (OpenDocument Text) เป็นมาตรฐานสำหรับโปรแกรมประมวลผลคำแบบโอเพนซอร์ส เช่น LibreOffice และ OpenOffice การเปรียบเทียบไฟล์ ODT ช่วยเพิ่มความ๏ในการเขียนร่วมโดยเฉพาะในสภาพแวดล้อมที่เปิดเผย
+
+- **การตรวจสอบการทำงานร่วมกันเปิด**  
+  ติดตามการแก้ไขที่ผู้ร่วมเขียนทำในเอกสารโอเพนซอร์ส
+
+- **การทบทวนเอกสารของรัฐและวิชาการ**  
+  เปรียบเทียบแบบฟอร์มทางการ, นโยบาย, หรือร่างงานวิจัยที่แชร์ในรูปแบบ ODT
+
+- **ความ๏ในกระบวนการทำงานของสาธารณะ**  
+  แสดงการเปลี่ยนแปลงข้างกันสำหรับเอกสารและข้อเสนอที่ดูแลโดยสาธารณะ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

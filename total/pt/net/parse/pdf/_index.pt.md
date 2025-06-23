@@ -84,7 +84,26 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Casos de Uso de Análise de PDF
+
+- 🔍 **Extração de Texto e Tabela**  
+  Extrair parágrafos, tabelas ou valores de formulários de PDFs para relatórios ou indexação de pesquisa.
+
+- 🧾 **Processamento de Faturas e Formulários**  
+  Analisar formulários estruturados e faturas para preencher automaticamente bancos de dados ou sistemas de contabilidade.
+
+- 🎨 **Análise de Layout**  
+  Detectar estrutura visual (colunas, seções) para conversão precisa em HTML ou Markdown.
+
+- 🧠 **OCR e Pesquisabilidade**  
+  Converter PDFs digitalizados em texto pesquisável usando OCR antes da análise.
+
+- 🗂️ **Arquivamento Digital e Conformidade**  
+  Arquivar e auditar documentos em PDF, extraindo e marcando conteúdo ou metadados relevantes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

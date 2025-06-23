@@ -71,7 +71,26 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 전자 서명으로 이미지 파일 서명의 사용 사례
+
+## 스캔된 법적 문서
+JPG, PNG 또는 TIFF 형식의 손으로 작성된 계약서 또는 공증 문서의 스캔 이미지는 디지털로 서명하여 진위를 인증할 수 있습니다.
+
+## 신원 확인 및 개인 기록
+KYC 또는 입회용으로 사용되는 여권, 신분증, 공과금 영수증 이미지는 변경되지 않았음을 보장하기 위해 전자적으로 서명될 수 있습니다.
+
+## 의료 영상
+TIFF 또는 PNG 형식의 X선 또는 검사 결과와 같은 스캔 이미지는 인증된 의료 시설에서 유래되었음을 확인하기 위해 디지털로 서명될 수 있습니다.
+
+## 예술 작품 및 창작물 제출
+이미지 형식의 디자인, 일러스트레이션 또는 마케팅 그래픽은 지적 재산권을 주장하기 위해 서명될 수 있습니다.
+
+## 검사 및 규정 준수 사진
+감사, 검사 또는 규정 준수 중에 촬영된 사진은 종종 위치, 시간 및 증거의 진위를 인증하기 위해 디지털로 서명됩니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

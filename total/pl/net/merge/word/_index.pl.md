@@ -80,7 +80,30 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Dokumenty programu Microsoft Word (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word to podstawowy format do tworzenia dokumentów z dużą ilością tekstu. Łączenie plików Word upraszcza pracę z wieloma współautorami, szablonami lub wersjami.
+
+#### Przykłady użycia:
+
+- **Kompilacja jednolitego raportu**  
+  Połącz wiele raportów działowych lub projektowych w jeden profesjonalny dokument do przesłania lub archiwizacji.
+
+- **Konsolidacja umów i dokumentów prawnych**  
+  Połącz różne wersje umów, załączniki i dokumenty prawne w jeden plik zawierający całą umowę.
+
+- **Współpraca zespołowa**  
+  Połącz wkłady wielu autorów w jeden dokument do wspólnej edycji i recenzji.
+
+- **Tworzenie propozycji i odpowiedzi na zapytania ofertowe (RFP)**  
+  Połącz sekcje dotyczące zakresu, ceny i techniczne z różnych źródeł w jedną spójną propozycję lub odpowiedź na zapytanie ofertowe.
+
+- **Podręczniki polityki i procedur**  
+  Połącz oddzielne dokumenty polityki w jedną kompleksową instrukcję dla pracowników lub podręcznik operacyjny.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

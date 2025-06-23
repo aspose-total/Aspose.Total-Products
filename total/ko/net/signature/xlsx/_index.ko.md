@@ -76,7 +76,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 XLSX 파일에 서명하는 사용 사례
+
+XLSX는 현재의 표준 Excel 형식이며 재무 및 운영 데이터에 대한 전자 및 디지털 서명을 완벽하게 지원합니다.
+
+## 일반적인 사용 사례
+- 재무 보고서 및 재무 상태표.
+- 부서 예산 및 예측.
+- 경영진 검토를 위해 공유되는 성과 대시보드.
+- 인사 기록 및 출석 요약.
+- 승인이 필요한 구매 및 공급 업체 비용 시트.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

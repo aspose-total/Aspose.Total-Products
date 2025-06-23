@@ -87,7 +87,26 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excelファイル（xls、xlsb、xlsm、xlsx、xlt、xltm、xltx、csv、tsv）の解析ユースケース
+
+- 📈 **データ抽出**  
+  スプレッドシートからセルの値、数式、範囲を解析して分析やダッシュボードに使用します。
+
+- 🧮 **テンプレート処理**  
+  `.xlt`、`.xltx`、`.xltm`テンプレートを使用してレポート、財務諸表、予測を記入します。
+
+- 🤖 **マクロ認識解析**  
+  マクロを認識した`.xlsm`および`.xltm`形式を処理し、自動化ロジックを回避または保持します。
+
+- 🔍 **構造化データのインポート**  
+  データベース、アプリ、APIに`.csv`、`.tsv`、または`.xlsx`のコンテンツをインポートします。
+
+- 🗃️ **データ移行**  
+  `.xls`、`.xlsb`、および`.xlsx`シートをJSON、XML、または他の構造化形式に変換して統合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

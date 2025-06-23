@@ -75,7 +75,27 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Nén File XLT để Tối Ưu Hóa Mẫu Excel Cũ
+
+Các tệp XLT (Mẫu Excel 97–2003) có thể trở nên lớn do các phần tử nhúng hoặc dữ liệu mẫu. Việc nén các tệp XLT giúp thư viện mẫu trở nên gọn nhẹ và dễ phân phối hơn.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Di Động Mẫu Cũ**  
+  Gửi các mẫu tiêu chuẩn đã nén để phân phối nhanh hơn trong các hệ thống doanh nghiệp cũ.
+
+- **Hiệu Quả Kho Mẫu**  
+  Giữ các bản lưu trữ mẫu nhẹ để truy cập tập trung và lấy nhanh.
+
+- **Giảm Thời Gian Tải Mẫu**  
+  Tối ưu hóa các hệ thống cũ bằng cách nén các tệp XLT để mở và sử dụng nhanh hơn.
+
+- **Sao Lưu và Tối Ưu Hóa Lưu Trữ**  
+  Giảm thiểu việc lưu trữ dài hạn các mẫu cũ thông qua việc nén.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

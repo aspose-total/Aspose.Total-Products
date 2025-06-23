@@ -73,7 +73,20 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Các trường hợp sử dụng cho việc chia tài liệu
+
+- Chia nhỏ các báo cáo lớn, tài liệu hướng dẫn hoặc bài nghiên cứu thành các tệp nhỏ hơn, dễ quản lý hơn.
+- Giao các phần khác nhau của tài liệu cho các thành viên nhóm khác nhau để chỉnh sửa độc lập.
+- Tự động hóa quy trình làm việc bằng xử lý các phần cụ thể của tài liệu một cách riêng lẻ.
+- Làm cho việc chia sẻ các tệp lớn dễ dàng hơn bằng cách chia chúng thành các tệp đính kèm nhỏ hơn để gửi qua email hoặc tải lên.
+- Tạo ra các tài liệu cá nhân hóa (ví dụ: chứng chỉ, hóa đơn hoặc thư) từ một tệp chính duy nhất.
+- Tổ chức nội dung để lưu trữ, tìm kiếm dễ dàng hơn và tuân thủ với các hệ thống quản lý tài liệu.
+- Chia sẻ chỉ các phần liên quan của các tài liệu nhạy cảm trong khi giữ an toàn dữ liệu bí mật.
+- Phân phối tài liệu giáo dục hoặc đào tạo dưới dạng các tệp nhỏ tập trung vào chủ đề để cải thiện trải nghiệm học tập.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików XLT dla szablonowych procesów w Excelu
+
+XLT to format szablonu Excela dla plików `.xls` (Excel 97-2003). Scalanie plików `.xlt` pomaga standaryzować i aktualizować stare szablony w jednolitą strukturę.
+
+#### Przykłady użycia:
+
+- **Unifikacja starych szablonów**  
+  Połącz wiele szablonów `.xlt` w jeden główny szablon dla kompatybilności wstecznej.
+
+- **Standaryzacja szablonów działowych**  
+  Scal stare szablony w celu oceny i opracowania nowoczesnej alternatywy `.xltx`.
+
+- **Archiwizacja historycznych szablonów**  
+  Skonsoliduj starsze wersje `.xlt` dla zgodności lub celów historycznych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

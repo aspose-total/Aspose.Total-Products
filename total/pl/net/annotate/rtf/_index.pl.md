@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF (Rich Text Format) to uniwersalny format plików obsługiwany na różnych platformach i procesorach tekstu. Adnotowanie plików RTF zwiększa współpracę, dokumentację i przejrzystość, zwłaszcza w środowiskach, gdzie neutralność formatu i szeroka kompatybilność są kluczowe.
+
+#### Adnotacje plików RTF dla niezależnej od platformy współpracy dokumentowej - Przykłady użycia:
+
+- **Międzyplatformowa recenzja redakcyjna**  
+  Dodawaj adnotacje do plików RTF, aby dostarczyć komentarze lub notatki dotyczące poprawek, które pozostaną dostępne niezależnie od systemu operacyjnego użytkownika lub procesora tekstu.
+
+- **Dokumentacja w środowiskach regulacyjnych**  
+  Dodawaj notatki związane z przepisami lub zgodnością w dokumentach prawnych, medycznych lub akademickich w celu śledzenia i przejrzystości.
+
+- **Współpraca w treściach edukacyjnych**  
+  Wstawiaj wyjaśniające komentarze do planów lekcji, testów lub przewodników nauki udostępnianych między nauczycielami i uczniami.
+
+- **Śledzenie wersji i opinie zwrotne**  
+  Używaj adnotacji do oznaczania zmian lub dodatków podczas wielofazowego opracowywania treści.
+
+- **Recenzja treści zlokalizowanych**  
+  Podkreśl obszary w wielojęzycznych dokumentach, które wymagają tłumaczenia lub adaptacji kulturowej dla różnych regionów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

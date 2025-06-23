@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Mesclar arquivos XLSX para fluxos de trabalho modernos do Excel
+
+XLSX é o formato padrão para pastas de trabalho modernas do Excel. Mesclar arquivos `.xlsx` é a prática mais comum para relatórios unificados, análise de dados e colaboração.
+
+#### Casos de Uso:
+
+- **Relatórios Mensais do Departamento**  
+  Mesclar relatórios de departamentos em `.xlsx` em uma única pasta de trabalho pronta para o painel.
+
+- **Consolidação de Envio de Dados**  
+  Combinar formulários ou modelos `.xlsx` enviados de vários usuários ou escritórios.
+
+- **Compilação de Documentação de Projeto**  
+  Mesclar planilhas de rastreamento ou orçamento de projetos em `.xlsx` em uma pasta de trabalho completa.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

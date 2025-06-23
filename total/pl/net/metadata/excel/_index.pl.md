@@ -84,7 +84,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Przypadki użycia metadanych plików programu Microsoft Excel
+
+- Przechowywanie kontekstu, celu i szczegółów projektu dla zbiorów danych za pomocą właściwości dokumentu.
+- Identyfikacja właścicieli danych i współtwórców w celu śledzenia wersji i audytowania.
+- Klasyfikacja arkuszy kalkulacyjnych finansowych, operacyjnych lub zasobów ludzkich w celu kontroli dostępu.
+- Określanie cykli życia dokumentów (np. aktywny, zarchiwizowany, przestarzały) za pomocą metadanych.
+- Umożliwienie zautomatyzowanych procesów dla zatwierdzeń finansowych lub raportów prognozowych.
+- Łączenie danych arkusza kalkulacyjnego z zewnętrznymi systemami, takimi jak systemy ERP lub bazy danych za pomocą metadanych.
+- Wykorzystanie metadanych do tworzenia pulpitów nawigacyjnych, linii przetwarzania danych lub potoków inteligencji biznesowej.
+- Pomoc sztucznej inteligencji w określaniu struktury, zamiaru i znaczenia zawartości arkusza kalkulacyjnego.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

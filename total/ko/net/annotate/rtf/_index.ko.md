@@ -123,7 +123,28 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF (Rich Text Format)는 다양한 플랫폼과 워드 프로세서에서 지원되는 범용 파일 형식입니다. RTF 파일에 주석을 추가하면 협업, 문서 작성 및 명확성이 향상되며, 특히 형식 중립성과 넓은 호환성이 중요한 환경에서 유용합니다.
+
+#### 플랫폼 독립적 문서 협업을 위한 RTF 파일 주석 - 사용 사례:
+
+- **다양한 플랫폼에서의 편집 리뷰**  
+  사용자의 운영 체제나 워드 프로세서에 관계없이 접근 가능한 주석이 포함된 RTF 파일을 활용하여 의견이나 개정 사항을 제공합니다.
+
+- **규정 준수 환경에서의 문서 작성**  
+  법적, 의료, 학술 문서에 규정 또는 규정 준수 관련 주석을 추가하여 추적 가능성과 명확성을 확보합니다.
+
+- **협업적 교육 콘텐츠**  
+  교육자와 학생 간에 공유되는 수업 계획서, 시험지 또는 학습 안내서에 설명적인 주석을 삽입합니다.
+
+- **버전 추적 및 피드백**  
+  다단계 콘텐츠 개발 중 변경 사항이나 추가 사항을 표시하기 위해 주석을 활용합니다.
+
+- **로컬라이즈된 콘텐츠 리뷰**  
+  다양한 지역을 위해 번역이나 문화적 적응이 필요한 다국어 문서의 부분을 강조합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ Microsoft PowerPoint — 프레젠테이션 분할의 사용 사례
+
+- 더 쉬운 전달과 집중을 위해 긴 프레젠테이션을 짧은 섹션으로 분할합니다.
+- 특정 부분에 대해 동시에 작업할 수 있도록 슬라이드를 다른 팀원에게 할당합니다.
+- 다른 관객이나 부서에게 관련 있는 슬라이드 덱만 공유합니다.
+- 프레젠테이션의 일부를 독립적인 파일이나 템플릿으로 재사용합니다.
+- 다른 고객이나 이벤트에 맞게 콘텐츠를 사용자 정의하기 위해 마스터 덱을 분할합니다.
+- 무거운 프레젠테이션을 분할하여 더 빠른 로딩과 부드러운 성능을 제공합니다.
+- 작은, 관리 가능한 슬라이드 그룹으로 편집을 분할하여 버전 관리를 관리합니다.
+- 모듈식 학습을 위해 교육 모듈이나 워크샵을 별도의 슬라이드 파일로 구성합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

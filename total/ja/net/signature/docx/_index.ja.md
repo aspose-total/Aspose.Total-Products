@@ -74,7 +74,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名でDOCXファイルに署名する使用例
+
+DOCXはMicrosoft Wordのデフォルト形式であり、デジタルおよび電子署名プラットフォームとの強力な統合をサポートしています。
+
+## 一般的な使用例
+- 雇用オファーレターや人事契約。
+- デジタル認証が必要な法的文書。
+- 学術レターや証明書、成績証明書。
+- 企業の戦略文書や会議議事録。
+- クライアントの提案書やプロジェクトスコープに権限付与された署名。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

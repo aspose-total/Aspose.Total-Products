@@ -123,7 +123,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki DOCX (Microsoft Word Open XML Document) są powszechnie używane do tworzenia, edytowania i udostępniania dokumentów opartych na tekście. Adnotowanie plików DOCX jest niezbędne do dodawania komentarzy, sugestii i opinii, ułatwiając lepszą współpracę między zespołami.
+
+#### Adnotacja plików DOCX do zastosowań w recenzji dokumentów w trybie współpracy:
+
+- **Wspólne edytowanie**  
+  Adnotuj sekcje dokumentu sugestiami, poprawkami i opiniami, aby poprawić współpracę zespołu podczas procesu edycji.
+
+- **Recenzja dokumentów prawnych**  
+  Dodaj szczegółowe komentarze i adnotacje do dokumentów prawnych, aby wyróżnić obszary wymagające dalszej wyjaśnienia lub recenzji prawnej.
+
+- **Przepływy pracy zatwierdzania treści**  
+  Adnotuj projekty dokumentów, aby dostarczyć opinii na temat struktury, tonu i treści, pomagając usprawnić proces zatwierdzania przed publikacją.
+
+- **Śledzenie dokumentacji projektowej**  
+  Adnotuj raporty i dokumenty projektowe z datami, historią wersji lub komentarzami, aby śledzić postęp i zmiany w czasie.
+
+- **Recenzje zgodności i regulacji**  
+  Wstaw adnotacje do dokumentu zmian i oznacz sekcje związane z zgodnością, zapewniając spełnienie wszystkich wymagań regulacyjnych podczas tworzenia dokumentu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

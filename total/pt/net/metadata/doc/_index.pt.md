@@ -81,7 +81,17 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Casos de Uso para Documento do Microsoft Word (`.doc`)
+
+- Acompanhar autoria e histórico de criação/modificação.
+- Aumentar a capacidade de pesquisa do documento através de título, assunto e palavras-chave.
+- Incorporar metadados legais ou de licenciamento para proteção do documento.
+- Automatizar fluxos de trabalho com base em campos de metadados (por exemplo, regras de arquivamento).
+- Auxiliar na classificação de conteúdo e gestão de retenção.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

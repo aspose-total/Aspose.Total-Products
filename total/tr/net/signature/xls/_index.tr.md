@@ -76,7 +76,20 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Dijital veya Elektronik İmzalarla XLS Dosyalarının İmzalanma Kullanım Alanları
+
+XLS, geriye dönük uyumluluk için hala kullanılan eski bir Excel formatıdır. Dijital imza eklemek finansal verileri ve sürüm bütünlüğünü güvence altına alır.
+
+## Yaygın Kullanım Alanları
+- Eski finansal raporlar ve maaş hesap tabloları.
+- Erken Excel formatında paylaşılan yatırım planları.
+- XLS formatında yapılan tedarik verileri ve tedarikçi başvuruları.
+- Eski elektronik tablo şablonları kullanılarak yapılan hükümet denetim raporları.
+- İmza doğrulaması gereken çalışan maaş beyanları.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

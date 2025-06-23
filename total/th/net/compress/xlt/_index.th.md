@@ -75,7 +75,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### บีบอัดไฟล์ XLT เพื่อปรับปรุงเทมเพลต Excel เวอร์ชันเก่า
+
+ไฟล์ XLT (Excel 97–2003 Template) อาจกลายเป็นขนาดใหญ่เนื่องจากองค์ประกอบที่ฝังอยู่หรือข้อมูลตัวอย่าง การบีบอัดไฟล์ XLT ทำให้ไลบรารีเทมเพลตเล็กลงและง่ายต่อการกระจาย.
+
+#### กรณีการใช้งาน:
+
+- **ความสามารถในการโยงเทมเพลตเวอร์ชันเก่า**  
+  ส่งเทมเพลตมาตรฐานที่ถูกบีบอัดเพื่อกระจายได้เร็วขึ้นในระบบองค์กรเวอร์ชันเก่า.
+
+- **ประสิทธิภาพของคลังเทมเพลต**  
+  รักษาคลังเทมเพลตให้เบาสำหรับการเข้าถึงและการเรียกคืนที่รวดเร็ว.
+
+- **ลดเวลาโหลดเทมเพลต**  
+  ปรับปรุงระบบเวอร์ชันเก่าโดยการบีบอัดไฟล์ XLT เพื่อเปิดใช้งานได้เร็วขึ้น.
+
+- **การสำรองข้อมูลและการปรับปรุงการจัดเก็บ**  
+  ลดการจัดเก็บเทมเพลตเวอร์ชันเก่าในระยะยาวผ่านการบีบอัด.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

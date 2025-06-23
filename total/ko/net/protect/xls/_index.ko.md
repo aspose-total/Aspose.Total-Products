@@ -78,7 +78,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xls | Microsoft Excel 97–2003 Workbook — 보호를 위한 사용 사례
+
+- 레거시 기업 시스템에서 자주 사용됨 - 보호는 오래된 파일 손상을 방지합니다.
+- 미인가된 편집으로부터 민감한 재무 데이터, 수식 및 매크로를 보호합니다.
+- 다른 시스템에서 사용하는 연결된 데이터의 실수로 인한 삭제를 방지합니다.
+- 정적 역사 데이터에 의존하는 감사 및 보고 프로세스에서 사용됩니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

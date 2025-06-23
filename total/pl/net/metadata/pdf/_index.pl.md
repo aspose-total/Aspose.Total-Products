@@ -78,7 +78,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 Przypadki użycia plików PDF (`.pdf`) Metadane
+
+- Osadź tytuł dokumentu, temat, słowa kluczowe i autora, aby zwiększyć możliwości odkrywania.
+- Zachowaj metadane zgodności, takie jak wersja dokumentu, zatwierdzenia i klasyfikacje.
+- Utrzymuj informacje o prawach cyfrowych dla publikacji lub instrukcji.
+- Wykorzystaj metadane do automatyzacji archiwizacji, usuwania lub tagowania w systemach treści.
+- Umożliw śledzenie dokumentów w bezpieczny sposób w ustawieniach prawnych, opieki zdrowotnej lub akademickich.
+- Zintegruj z platformami treści do sortowania lub filtrowania opartego na metadanych.
+- Podaj metadane do systemów sztucznej inteligencji do podsumowywania, kategoryzowania lub grupowania.
+- Wspieraj metadane dostępności, takie jak język, struktura dokumentu i wskazówki do alternatywnego tekstu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

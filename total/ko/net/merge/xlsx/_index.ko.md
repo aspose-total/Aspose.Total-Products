@@ -79,7 +79,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 현대 Excel 워크플로에 대한 XLSX 파일 병합
+
+XLSX는 현대 Excel 워크북의 기본 형식입니다. `.xlsx` 파일을 병합하는 것은 통합 보고서, 데이터 분석 및 협업을 위한 가장 일반적인 방법입니다.
+
+#### 사용 사례:
+
+- **월별 부서 보고서**  
+  부서별 `.xlsx` 보고서를 단일 대시보드용 워크북으로 병합합니다.
+
+- **데이터 제출 통합**  
+  여러 사용자나 사무실에서 제출된 `.xlsx` 양식이나 템플릿을 결합합니다.
+
+- **프로젝트 문서 편성**  
+  `.xlsx` 프로젝트 추적이나 예산 시트를 하나의 완전한 워크북으로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

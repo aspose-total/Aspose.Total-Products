@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) รองรับการอัตโนมัติผ่านแมโคร การทำเครื่องหมายบนไฟล์เหล่านี้ช่วยให้ทีมสามารถสังเกตผลลัพธ์ของแมโคร ระบุการเปลี่ยนแปลงที่อัตโนมัติ และตรวจสอบผลลัพธ์ตามตรรกะ
+
+#### ทำเครื่องหมายบนไฟล์ XLSM สำหรับขั้นตอนการทำงานที่ใช้แมโคร - กรณีการใช้งาน:
+
+- **การวิเคราะห์ผลลัพธ์ของแมโคร**: แสดงความคิดเห็นเกี่ยวกับข้อมูลที่สร้างอัตโนมัติเพื่อการตรวจสอบ
+- **ข้อเสนอแนะเกี่ยวกับการอัตโนมัติ**: ทำเครื่องหมายบนผลลัพธ์เพื่อระบุการดำเนินการที่ประสบความสำเร็จหรือล้มเหลว
+- **การตรวจสอบโค้ด**: เพิ่มหมายเหตุที่เกี่ยวข้องกับตรรกะของแมโครหรือผลกระทบต่อข้อมูล
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

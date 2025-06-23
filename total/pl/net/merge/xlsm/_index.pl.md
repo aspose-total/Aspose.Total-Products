@@ -79,7 +79,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików XLSM dla makr w skoroszycie Excel
+
+Pliki XLSM to skoroszece Excel z włączonymi makrami. Scalanie plików `.xlsm` musi zachować zarówno dane, jak i osadzone makra używane do automatyzacji lub obliczeń.
+
+#### Przykłady użycia:
+
+- **Automatyczne raporty zadań**  
+  Scal arkusze z włączonymi makrami, które automatyzują zadania raportowania lub walidacji do jednego centralnego pliku.
+
+- **Konsolidacja szablonów przepływu pracy**  
+  Połącz szablony `.xlsm` używane w różnych działach do jednego skoroszytu w celu usprawnionej automatyzacji.
+
+- **Centralne repozytorium kodu VBA**  
+  Scal pliki z podobnymi makrami, aby unifikować logikę i zmniejszyć powielanie w różnych działach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

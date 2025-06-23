@@ -71,7 +71,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików BMP za pomocą podpisów cyfrowych lub elektronicznych
+
+Pliki BMP są używane do skanowania i archiwizacji. Podpisanie cyfrowe plików BMP zapewnia autentyczność zeskanowanych dokumentów i obrazów.
+
+## Powszechne przypadki użycia
+- Zdyskredytowane formularze prawne lub pisemne umowy.
+- Archiwum podpisów notarialnych.
+- Schematy techniczne wymagające zatwierdzenia przez inżyniera.
+- Zeskanowane dokumenty dotyczące nieruchomości.
+- Plan budynku z uwierzytelnieniem podpisu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,34 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+`.ods` 형식은 LibreOffice Calc 및 OpenOffice와 같은 오픈 소스 스프레드시트 프로그램에서 사용됩니다. 이러한 파일을 잠금 해제하면 사용자가 암호로 보호된 콘텐츠에 액세스하거나 데이터에 협력하거나 다른 도구로 전환할 수 있습니다. 특히 오픈 데이터 포털이나 교육 기관에서 제공된 경우 ODS 파일을 책임있게 잠금 해제하십시오.
+
+#### **사용 사례**
+
+- **잠긴 셀 또는 시트 편집**  
+  예산, 계획 또는 기타 편집 가능한 섹션을 업데이트하기 위해 보호를 제거합니다.
+
+- **Excel 또는 Google Sheets로 변환**  
+  원활한 변환 및 Microsoft Excel 또는 클라우드 기반 플랫폼에서 사용하기 위해 잠금 해제합니다.
+
+- **잊어버린 보호 키 복구**  
+  사용자가 커뮤니티 프로젝트에서 사용된 이전 ODS 파일의 암호를 잊었을 때 유용합니다.
+
+- **오픈 소스 워크플로에서 협력**  
+  다른 시스템이나 소프트웨어를 사용하는 팀원들과 완전히 편집 가능한 파일을 공유합니다.
+
+- **공개 템플릿 수정**  
+  오픈 데이터 저장소나 비정부 기구에서 제공된 잠긴 ODS 템플릿을 수정합니다.
+
+- **서식 문제 수정**  
+  형식 제한으로 인한 레이아웃 버그를 수정하기 위해 구조적 요소를 잠금 해제합니다.
+
+- **매크로 또는 포함된 코드 검사**  
+  잠긴 ODS 파일 내에 포함된 자동화 논리 또는 스크립트를 분석합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

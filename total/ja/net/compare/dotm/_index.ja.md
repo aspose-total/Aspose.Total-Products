@@ -73,7 +73,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### マクロ有効テンプレート検証用のDOTMファイル比較:
+
+DOTMファイルは再利用可能なドキュメントテンプレートと埋め込みマクロを組み合わせています。DOTMバージョンを比較することで、レイアウトやマクロロジックの変更が明らかになり、自動化の整合性に重要です。
+
+- **マクロワークフローモニタリング**  
+  テンプレートの自動化ロジックが変更されたかどうかを検証します。
+
+- **テンプレート標準化チェック**  
+  チーム全体で再利用可能なテンプレートのビジュアルまたは構造的な更新を追跡します。
+
+- **自動化監査トレイル**  
+  自動化されたテンプレートバージョン間の変更内容を記録します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

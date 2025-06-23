@@ -123,7 +123,28 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOTM (Word Macro-Enabled Template) 파일에는 생산성을 향상시키기 위한 자동화 스크립트가 포함되어 있습니다. DOTM 파일에 주석을 달면 매크로 동작을 문서화하고 오류 추적 및 피드백 수집을 용이하게 할 수 있습니다.
+
+#### 매크로 활성화 템플릿 검토용 DOTM 파일 주석:
+
+- **매크로 명령 및 논리 문서화**  
+  매크로 트리거 필드에 주석을 달아 기능과 예상 결과를 명확히 합니다.
+
+- **자동화 검토 및 테스트**  
+  테스트 중 성공 또는 실패한 매크로 실행을 표시하기 위해 메모를 삽입합니다.
+
+- **템플릿 동작 설명**  
+  사용자가 템플릿 흐름을 이해하는 데 도움이 되도록 자동 레이아웃이나 서식 섹션에 설명을 추가합니다.
+
+- **사용자 교육 자료 포함**  
+  템플릿에 직접 학습 프롬프트를 추가하여 사용자 온보딩을 용이하게 합니다.
+
+- **오류 격리**  
+  매크로 실행으로 인한 버그를 격리하고 설명하기 위해 주석을 사용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

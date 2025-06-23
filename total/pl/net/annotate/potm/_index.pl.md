@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki POTM (PowerPoint Macro-Enabled Template) służą do tworzenia standardowych prezentacji z wbudowanymi makrami. Adnotowanie plików POTM pomaga udokumentować logikę automatyzacji, standaryzować użycie szablonu i wspierać rozwój wspólny.
+
+#### Adnotacja pliku POTM dla zastosowań automatyzacji prezentacji opartych na szablonie:
+
+- **Przegląd projektu szablonu**  
+  Dodaj komentarze dotyczące układu slajdów, spójności marki i struktury w szablonie.
+
+- **Dokumentacja makr**  
+  Opisz cel i zachowanie makr dla użytkowników i programistów.
+
+- **Wytyczne dotyczące użytkowania dla zespołów**  
+  Udostępnij instrukcje lub najlepsze praktyki dotyczące wypełniania i ponownego wykorzystywania szablonu.
+
+- **Adnotacje dotyczące sprawdzania zgodności**  
+  Oznacz obszary wymagające aktualizacji, aby spełnić standardy dostępności lub polityki korporacyjne.
+
+- **Iteracyjne rozwijanie szablonu**  
+  Zaznacz zmiany wersji lub sugerowane ulepszenia w ewoluujących projektach szablonów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

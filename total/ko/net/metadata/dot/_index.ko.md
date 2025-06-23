@@ -81,7 +81,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📂 워드 템플릿 (`.dot`)용 사용 사례
+
+- 반복되는 문서에 대한 재사용 가능한 메타데이터 패턴 정의.
+- 부서, 형식 또는 사용 사례별로 템플릿을 분류하는 데 도움을 줍니다.
+- 핵심 템플릿의 사용 및 소유권 추적.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

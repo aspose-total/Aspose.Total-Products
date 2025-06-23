@@ -75,7 +75,14 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Định dạng bảng tính Microsoft Excel .xls — Các trường hợp sử dụng cho việc chia nhỏ
+
+- Chia nhỏ các bảng tính Excel cũ để cải thiện hiệu suất và đơn giản hóa việc chỉnh sửa.
+- Chia sẻ các phần của mô hình tài chính hoặc dữ liệu với các thành viên trong nhóm khác nhau.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

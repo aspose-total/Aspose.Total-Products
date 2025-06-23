@@ -83,7 +83,19 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT to format procesora tekstu typu open-source używany w LibreOffice i podobnych narzędziach.
+
+**Powszechne przypadki użycia obejmują:**
+
+- Wskazywanie dokumentów publicznych, prywatnych lub przeznaczonych wyłącznie dla wewnętrznych odbiorców
+- Określanie współwłasności lub cykli recenzji
+- Osadzanie nazwy organizacji lub informacji o otwartej licencji
+- Identyfikowanie dokumentów przeznaczonych do publikacji w sektorze publicznym
+- Wspieranie kontroli wersji w dokumentach tworzonych przez wielu autorów
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

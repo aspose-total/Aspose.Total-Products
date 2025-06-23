@@ -71,7 +71,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지털 또는 전자 서명으로 PNG 파일 서명의 사용 사례
+
+PNG 파일은 깨끗하고 손실이 없는 문서 스캔에 일반적으로 사용됩니다. PNG 이미지에 대한 디지털 서명은 무단 편집으로부터 보호합니다.
+
+## 일반적인 사용 사례
+- 신원 확인 문서.
+- 도장, 로고 및 워터마크 인증.
+- 법적 증거용 스캔된 편지.
+- 부동산 거래의 부동산 이미지.
+- 이미지 형식의 기업 서신 문서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -87,7 +87,26 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Pliki programu Microsoft Excel (xls, xlsb, xlsm, xlsx, xlt, xltm, xltx, csv, tsv) Przykłady użycia analizy
+
+- 📈 **Wyodrębnianie danych**  
+  Analiza wartości komórek, formuł i zakresów z arkuszy kalkulacyjnych do celów analitycznych lub paneli informacyjnych.
+
+- 🧮 **Przetwarzanie szablonów**  
+  Użyj szablonów `.xlt`, `.xltx`, `.xltm` do wypełniania raportów, sprawozdań finansowych lub prognoz.
+
+- 🤖 **Analiza świadoma makr**  
+  Obsługa formatów `.xlsm` i `.xltm` z uwzględnieniem makr w celu uniknięcia lub zachowania logiki automatyzacji.
+
+- 🔍 **Importowanie strukturyzowanych danych**  
+  Importowanie zawartości `.csv`, `.tsv` lub `.xlsx` do baz danych, aplikacji lub interfejsów API.
+
+- 🗃️ **Migracja danych**  
+  Konwertowanie arkuszy `.xls`, `.xlsb` i `.xlsx` na formaty JSON, XML lub inne strukturalne do integracji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

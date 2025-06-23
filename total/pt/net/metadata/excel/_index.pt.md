@@ -84,7 +84,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Casos de Uso de Metadados de Arquivos do Microsoft Excel
+
+- Armazenar contexto, propósito e detalhes do projeto para conjuntos de dados através de propriedades do documento.
+- Identificar proprietários de dados e colaboradores para rastreamento de versões e auditoria.
+- Classificar planilhas financeiras, operacionais ou de RH para controle de acesso.
+- Definir ciclos de vida do documento (por exemplo, ativo, arquivado, obsoleto) usando metadados.
+- Permitir fluxos de trabalho automatizados para aprovações financeiras ou relatórios de previsão.
+- Vincular dados da planilha com sistemas externos como ERPs ou bancos de dados via metadados.
+- Utilizar metadados para painéis, linhagem de dados ou pipelines de inteligência de negócios.
+- Auxiliar a IA na determinação da estrutura, intenção e significado do conteúdo da planilha.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

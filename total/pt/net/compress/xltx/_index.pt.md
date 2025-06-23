@@ -75,7 +75,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Compactar arquivos XLTX para uso simplificado de modelos modernos do Excel
+
+XLTX (Modelo de XML Aberto do Excel) é um formato de modelo moderno usado para formatação e layout consistentes. A compressão é útil quando os arquivos XLTX contêm dados ou gráficos pré-carregados.
+
+#### Casos de Uso:
+
+- **Distribuição Padronizada de Modelos**  
+  Compacte os modelos XLTX para implementação rápida em diversos departamentos ou sistemas.
+
+- **Drives Compartilhados Otimizados**  
+  Reduza o tamanho das coleções de modelos para melhorar a velocidade de acesso em drives de rede.
+
+- **Acesso Móvel e Remoto**  
+  Possibilite o download e acesso mais rápidos de modelos em cenários remotos ou de trabalho de campo.
+
+- **Compatibilidade com E-mail e Portais Web**  
+  Garanta conformidade com limites de tamanho de upload ou anexo para distribuição de modelos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

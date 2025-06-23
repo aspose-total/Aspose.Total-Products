@@ -78,7 +78,17 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLSM (Excel Macro-Enabled Workbook) obsługuje automatyzację za pomocą makr. Opisywanie tych plików pomaga zespołom oznaczać wyniki makr, dokumentować zautomatyzowane zmiany i sprawdzać logiczne rezultaty.
+
+#### Opisywanie plików XLSM dla zautomatyzowanych przepływów pracy z makrami - Przykłady użycia:
+
+- **Analiza wyników makra**: Komentarz dotyczący automatycznie generowanych danych do walidacji.
+- **Opinia zwrotna z automatyzacji**: Opisywanie wyników w celu wskazania udanych lub nieudanych wykonania.
+- **Recenzja kodu**: Dodawanie notatek dotyczących logiki makra lub jego wpływu na dane.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

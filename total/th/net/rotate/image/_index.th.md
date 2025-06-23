@@ -73,7 +73,21 @@ otherformats: PDF IMAGE BMP GIF JPG JPEG PNG TIFF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานสำหรับการหมุนรูปภาพ
+
+- ปรับแก้ทิศทางของรูปภาพที่ถูกถ่ายในโหมดแนวนอนหรือแนวตั้ง
+- ปรับแต่งเอกสารสแกนหรือรูปถ่ายที่เอียงหรือกลับหัว
+- จัดให้ภาพสอดคล้องอย่างเหมาะสมสำหรับการแสดงในแกลเลอรี งานนำเสนอ หรือรายงาน
+- หมุนส่วนประกอบดีไซน์ เช่น ไอคอน ส่วนประกอบ UI หรือแผนภาพ เพื่อให้เข้ากับความต้องการของเลยเอาท์
+- เตรียมรูปภาพสำหรับการพิมพ์หรือการเผยแพร่ด้วยทิศทางที่ถูกต้อง
+- ปรับมาตรฐานทิศทางของภาพเมื่อนำเข้าจากแหล่งหรืออุปกรณ์ที่แตกต่างกัน
+- เพิ่มความอ่านง่ายของเนื้อหาใน eBook คู่มือการใช้งานหรือหน้าเว็บ
+- หมุนภาพสินค้าหรือแคตตาล็อกเพื่อให้ตรงกับอัตราส่วนที่ต้องการ
+- ปรับปรุงประสบการณ์ผู้ใช้โดยการแก้ไขทิศทางของรูปภาพโดยอัตโนมัติตามข้อมูลเมตาดาต้า
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

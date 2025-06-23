@@ -106,7 +106,28 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki PPSX (PowerPoint Show) to prezentacje nieedytowalne przeznaczone wyłącznie do odtwarzania. Adnotowanie tych plików pomaga poprawić doświadczenie użytkownika i zapewnia dokładność przed dystrybucją.
+
+#### Adnotacje pliku PPSX do statycznej oceny prezentacji:
+
+- **Opinia na temat ostatniego slajdu**  
+  Wstaw adnotacje dotyczące wizualizacji slajdu, czasu lub przekazu do wstępnego przeglądu przed opublikowaniem.
+
+- **Udoskonalenia dostępności**  
+  Sugestie poprawek dotyczące czytelności wizualnej, kontrastu kolorów lub kolejności czytania.
+
+- **Sprawdzenie zgodności z marką**  
+  Adnotuj odstępstwa od zatwierdzonych elementów identyfikacji wizualnej.
+
+- **Sugestie dotyczące lokalizacji**  
+  Zwróć uwagę na obszary wymagające aktualizacji językowej lub regionalnej.
+
+- **Ocena odtwarzania szkoleń**  
+  Udziel opinii na temat tempa, przejść i zrozumienia w samoopuszczających się kursach.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

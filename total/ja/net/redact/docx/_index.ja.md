@@ -82,7 +82,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx での編集（Microsoft Word）
+
+- 人事文書の個人名、連絡先情報、および識別番号を編集します。
+- 法的契約書や裁判提出書類の機密なケースの詳細やクライアント情報を編集します。
+- 内部報告書、会議議事録、プロジェクト文書の機密部分を編集します。
+- 学術論文や科学論文の独自の方法や研究結果を編集します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

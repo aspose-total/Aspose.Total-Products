@@ -74,7 +74,20 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Przypadki użycia podpisywania plików DOCX za pomocą podpisów cyfrowych lub elektronicznych
+
+DOCX jest domyślnym formatem dla programu Microsoft Word i obsługuje solidną integrację z platformami podpisów cyfrowych i elektronicznych.
+
+## Powszechne przypadki użycia
+- Oferty zatrudnienia i umowy HR.
+- Dokumenty prawne wymagające certyfikacji cyfrowej odporności na ingerencje.
+- Listy akademickie, certyfikaty i transkrypty.
+- Dokumenty dotyczące strategii korporacyjnej i protokoły zebrań.
+- Propozycje dla klientów i zakresy projektów z autoryzowanymi podpisami.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,19 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODS, LibreOffice ve OpenOffice tarafından kullanılan açık kaynaklı bir elektronik tablo formatıdır.
+
+**Ortak kullanım durumları şunları içerir:**
+
+- Verileri Genel, İnceleniyor veya İç olarak belirtme
+- Veri kaynağı atıfı için filigran ekleme
+- Çoklu kullanıcı işbirliği için etiketleme
+- Lisans bilgileri veya yazarlık dahil etme
+- Açık veri yayınlamak için içeriği işaretleme
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

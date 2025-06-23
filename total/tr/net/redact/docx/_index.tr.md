@@ -82,7 +82,16 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .docx'de Sansürleme (Microsoft Word)
+
+- İK belgelerinde kişisel isimleri, iletişim bilgilerini ve kimlik numaralarını sansürleyin.
+- Hukuki sözleşmelerde ve mahkeme sunumlarında hassas vaka detaylarını veya müşteri bilgilerini sansürleyin.
+- İç raporlarda, toplantı tutanaklarında veya proje belgelerinde gizli bölümleri sansürleyin.
+- Akademik veya bilimsel makalelerde mülkiyet yöntemlerini veya araştırma sonuçlarını sansürleyin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

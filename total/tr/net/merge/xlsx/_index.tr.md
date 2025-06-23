@@ -79,7 +79,24 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Modern Excel İş Akışları için XLSX Dosyalarını Birleştirme
+
+XLSX, modern Excel çalışma kitaplarının varsayılan formatıdır. `.xlsx` dosyalarını birleştirmek, birleşik raporlama, veri analizi ve işbirliği için en yaygın uygulamadır.
+
+#### Kullanım Alanları:
+
+- **Aylık Departman Raporları**  
+  Departman `.xlsx` raporlarını tek bir panoya hazır çalışma kitabına birleştirme.
+
+- **Veri Gönderimi Konsolidasyonu**  
+  Birden fazla kullanıcı veya ofisten gönderilen `.xlsx` formlarını veya şablonlarını birleştirme.
+
+- **Proje Belge Derlemesi**  
+  `.xlsx` proje takip veya bütçeleme tablolarını tek bir tamamlanmış çalışma kitabına birleştirme.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików PPTM dla przepływów pracy prezentacji z makrami
+
+Pliki PPTM to prezentacje programu PowerPoint zawierające makra. Scalanie plików `.pptm` pozwala na skonsolidowanie automatyzacji i zaawansowanych funkcji używanych w prezentacjach.
+
+#### Przykłady użycia:
+
+- **Automatyczne Generowanie Prezentacji**  
+  Łączenie plików `.pptm`, które wykorzystują makra do generowania raportów, wykresów lub slajdów dynamicznie w jedną zautomatyzowaną prezentację.
+
+- **Integracja Przepływów Pracy z Makrami**  
+  Scalanie plików `.pptm` z różnych zespołów, które polegają na makrach do formatowania prezentacji lub manipulacji danymi.
+
+- **Scalanie Niestandardowych Prezentacji z Automatyzacją**  
+  Łączenie plików `.pptm`, które posiadają osadzone makra do przetwarzania i generowania raportów automatycznie podczas prezentacji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

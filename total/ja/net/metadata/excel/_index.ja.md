@@ -84,7 +84,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 Microsoft Excelファイルのメタデータの使用例
+
+- データセットの文脈、目的、およびプロジェクトの詳細をドキュメントプロパティを使用して保存します。
+- バージョントラッキングや監査のためにデータ所有者や貢献者を特定します。
+- アクセス制御のために財務、運用、または人事のスプレッドシートを分類します。
+- メタデータを使用して文書のライフサイクル（例：アクティブ、アーカイブ、廃止）を定義します。
+- 財務承認や予測レポートのための自動ワークフローを有効にします。
+- メタデータを使用して、ERPsやデータベースなどの外部システムとスプレッドシートデータをリンクします。
+- ダッシュボード、データ系譜、またはビジネスインテリジェンスパイプラインのためにメタデータを使用します。
+- AIがスプレッドシートのコンテンツの構造、意図、および重要性を判断するのに役立ちます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

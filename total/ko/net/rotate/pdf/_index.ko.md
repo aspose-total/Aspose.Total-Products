@@ -74,7 +74,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PDF 회전을 위한 사용 사례
+
+- 올바른 보기를 위해 스캔된 PDF 계약서나 송장 회전
+- 포트폴리오 문서의 자격증이나 면허증의 방향 조정
+- 소책자나 매뉴얼의 최적화된 인쇄 레이아웃을 위해 페이지 회전
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

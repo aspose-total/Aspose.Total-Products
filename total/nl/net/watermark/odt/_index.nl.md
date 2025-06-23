@@ -83,7 +83,19 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT is een open-source tekstverwerkingsformaat dat wordt gebruikt in LibreOffice en vergelijkbare tools.
+
+**Veelvoorkomende gebruiksscenario's zijn:**
+
+- Aangeven van openbare, private of alleen intern te gebruiken documenten
+- Tonen van gezamenlijk eigendom of beoordelingscycli
+- Inbedden van organisatienaam of open licentie-informatie
+- Identificeren van documenten voor vrijgave in de publieke sector
+- Ondersteunen van versiebeheer in documenten met meerdere auteurs
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

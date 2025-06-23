@@ -78,7 +78,17 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF WORD PDF XLS XLSX XLSB XLSM XLT XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ไฟล์ XLSB (ไบนารี Excel Workbook) ถูกปรับแต่งให้เหมาะสำหรับชุดข้อมูลขององค์กรขนาดใหญ่ การใช้หมายเหตุช่วยให้ทีมสามารถให้ความหมายกับเซลล์ที่สำคัญ โดยช่วยในการทำงานร่วมของทีมใหญ่โดยไม่สูญเสียประสิทธิภาพ
+
+#### ทำเครื่องหมายบนไฟล์ XLSB เพื่อการจัดการข้อมูลขององค์กรอย่างมีประสิทธิภาพ - กรณีการใช้งาน:
+
+- **ท่อข้อมูลขององค์กร**: แทรกความคิดเห็นระหว่างขั้นตอน ETL เพื่อติดตามการเปลี่ยนแปลง
+- **การทำงานร่วมของทีม BI**: ทำเครื่องหมายบน KPIs และแดชบอร์ดด้วยข้อคิดหรือคำถาม
+- **การติดตามการเปลี่ยนแปลง**: เน้นแถวหรือเซลล์ที่อัพเดตสำหรับการควบคุมเวอร์ชัน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Scalanie plików ODP (OpenDocument Presentation) dla jednolitej dostawy slajdów w otwartych formatach
+
+Pliki ODP są formatem prezentacji dla LibreOffice i OpenOffice. Scalanie plików ODP umożliwia dostarczanie ujednoliconych slajdów w formacie otwartym.
+
+#### Przypadki użycia:
+
+- **Scalanie Prezentacji Sektoru Publicznego**  
+  Połączenie zestawów slajdów z różnych działów w kompleksową prezentację.
+
+- **Integracja Slajdów Edukacyjnych**  
+  Scalanie slajdów wykładowych w jeden dokument dostawy kursu.
+
+- **Wspólne Dechy Konferencyjne**  
+  Scalanie plików ODP prelegentów dla zorganizowanych prezentacji wydarzeń.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

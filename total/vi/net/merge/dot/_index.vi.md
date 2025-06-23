@@ -80,7 +80,24 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Hợp nhất các tệp DOT cho Quản lý Mẫu cũ
+
+Các tệp DOT là các mẫu Word được sử dụng với các phiên bản cũ hơn của Microsoft Word (trước DOCX). Việc hợp nhất các tệp `.dot` giúp chuẩn hóa định dạng tài liệu và đảm bảo tính tương thích với các hệ thống cũ.
+
+#### Các Trường Hợp Sử Dụng:
+
+- **Tổng hợp Mẫu**  
+  Hợp nhất các mẫu `.dot` khác nhau được sử dụng bởi các nhóm khác nhau để tạo ra một mẫu thống nhất duy nhất cho việc tạo tài liệu.
+
+- **Lưu trữ Mẫu Cũ**  
+  Kết hợp các mẫu `.dot` để lưu trữ dài hạn hoặc di chuyển sang định dạng `.dotx` hiện đại hơn.
+
+- **Cập nhật Thư viện Mẫu**  
+  Hợp nhất nhiều tệp `.dot` chứa định dạng hoặc kiểu lỗi thời để hiện đại hóa vào một mẫu duy nhất.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

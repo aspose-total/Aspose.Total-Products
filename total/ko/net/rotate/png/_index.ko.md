@@ -73,7 +73,15 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+PNG 회전을 위한 사용 사례
+
+- UI/UX 디자인 요소의 방향 조정(예: 버튼, 아이콘).
+- 문서 또는 슬라이드 덱을 위한 스크린샷 재배치.
+- 수직 또는 수평 디스플레이를 위한 마케팅 배너 정렬.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

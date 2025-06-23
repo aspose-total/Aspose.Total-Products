@@ -76,7 +76,19 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS เป็นรูปแบบสเปรดชีทที่ใช้งานในอดีตโดยโปรแกรม Excel เวอร์ชันแรกๆ
+
+**ใช้งานทั่วไปประกอบด้วย:**
+
+- ตั้งชื่อสเปรดชีทเป็น Outdated, For Archive หรือ Draft
+- เพิ่มตัวบ่งชี้เจ้าของหรือวันที่สร้าง
+- เตือนกันการแก้ไขโดยไม่ได้รับอนุญาต
+- ทำเครื่องหมายข้อมูลว่าเป็นการใช้งานภายในเท่านั้น
+- ระบุสเปรดชีทสำหรับการส่งตรวจสอบ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

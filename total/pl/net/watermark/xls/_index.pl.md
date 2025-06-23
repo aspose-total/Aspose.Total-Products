@@ -76,7 +76,19 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLS to dziedziczny binarny format arkusza kalkulacyjnego używany przez wczesne wersje programu Excel.
+
+**Powszechne przypadki użycia obejmują:**
+
+- Etykietowanie arkuszy kalkulacyjnych jako Przestarzałe, Do Archiwum lub Wersja Robocza
+- Dodawanie tożsamości właściciela lub daty utworzenia
+- Ostrzeganie przed nieautoryzowanymi modyfikacjami
+- Oznaczanie danych jako przeznaczone wyłącznie do użytku wewnętrznego
+- Identyfikowanie arkuszy kalkulacyjnych do przesłania w audycie
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

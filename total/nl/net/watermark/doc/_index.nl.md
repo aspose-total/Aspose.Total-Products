@@ -83,7 +83,19 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Het DOC-formaat is het verouderde binair bestandstype van Microsoft Word, dat nog steeds wordt gebruikt in oudere systemen.
+
+**Veelvoorkomende gebruiksscenario's zijn:**
+
+- Documenten labelen als gearchiveerd, verouderd of verouderd
+- Auteur of afdelingsnaam insluiten
+- Juridische disclaimers of nalevingsberichten toepassen
+- Bewerken of hergebruik voorkomen door te markeren als definitieve versie
+- Ondersteuning bieden voor archivering en audittrails
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

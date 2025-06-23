@@ -71,7 +71,22 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### ユースケース：マクロ有効スライドショーのためのPPSMファイル比較
+
+PPSM（PowerPoint Macro-Enabled Show）ファイルは、自動化が有効になっているプレゼンテーションを表示するために使用されます。PPSMファイルを比較することで、マクロの動作、タイミングシーケンス、およびインタラクティブコンテンツの変更を特定できます。
+
+- **プレゼンテーション間のマクロ比較**  
+  スライドショー中にトリガーされる自動化ルーチンの違いを検出します。
+
+- **スライドコンテンツとタイミングの検証**  
+  トランジションのタイミング、アニメーション、およびシーケンスフローの変更を確認します。
+
+- **自動化ロジックのレビュー**  
+  埋め込まれたスクリプトを比較し、自動化されたプレゼンテーションで一貫したユーザーエクスペリエンスを確保します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

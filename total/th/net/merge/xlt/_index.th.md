@@ -79,7 +79,24 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ผสานไฟล์ XLT สำหรับกระบวนการทำงานใน Excel ที่ใช้เทมเพลต
+
+XLT เป็นรูปแบบเทมเพลต Excel สำหรับ `.xls` (Excel 97-2003) การผสานไฟล์ `.xlt` ช่วยในการปรับเปลี่ยนและอัปเดตเทมเพลตเก่าให้เป็นโครงสร้างที่เป็นไปได้
+
+#### กรณีการใช้:
+
+- **การรวมเทมเพลตเก่าเข้าด้วยกัน**  
+  รวมเทมเพลต `.xlt` หลายรูปแบบเข้าด้วยกันในเทมเพลตหลักเพื่อความเข้ากันได้ย้อนหลัง
+
+- **มาตรฐานเทมเพลตแผนก**  
+  ผสานเทมเพลตเก่าเพื่อประเมินและพัฒนาทางเลือก `.xltx` ที่ทันสมัย
+
+- **การเก็บถาวรเทมเพลตในอดีต**  
+  รวมรวมรุ่นเก่าของ `.xlt` เพื่อปฏิบัติหรืออ้างอิงทางประวัติศาสตร์
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

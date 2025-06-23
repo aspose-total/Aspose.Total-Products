@@ -74,7 +74,13 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Prezentacja Microsoft PowerPoint w formacie .ppt — Przypadki użycia podziału  
+- Zarządzaj starszymi plikami PowerPoint, dzieląc długie prezentacje na skoncentrowane segmenty.  
+- Udostępniaj odpowiednie slajdy z archiwalnych prezentacji, nie wysyłając całych plików.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

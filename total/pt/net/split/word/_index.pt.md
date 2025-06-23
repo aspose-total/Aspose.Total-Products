@@ -73,7 +73,20 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### ✂️ Microsoft Word — Casos de Uso para Divisão de Documentos
+
+- Dividir relatórios grandes, manuais ou trabalhos de pesquisa em arquivos menores e mais gerenciáveis.
+- Atribuir diferentes seções de um documento a vários membros da equipe para edição independente.
+- Automatizar fluxos de trabalho processando partes específicas de um documento separadamente.
+- Tornar arquivos grandes mais fáceis de compartilhar dividindo-os em anexos menores para e-mail ou upload.
+- Gerar documentos personalizados (por exemplo, certificados, faturas ou cartas) a partir de um único arquivo mestre.
+- Organizar conteúdo para armazenamento mais fácil, facilidade de pesquisa e conformidade com sistemas de gerenciamento de documentos.
+- Compartilhar apenas seções relevantes de documentos sensíveis mantendo os dados confidenciais seguros.
+- Distribuir materiais educacionais ou de treinamento em arquivos menores focados em tópicos para uma experiência de aprendizado aprimorada.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

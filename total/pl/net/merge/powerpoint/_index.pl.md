@@ -78,7 +78,30 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 Prezentacje Microsoft PowerPoint (PPT, PPTX, POT, POTX, PPTM)
+
+Prezentacje PowerPoint są szeroko stosowane w biznesie, edukacji i szkoleniach. Łączenie slajdów umożliwia spójne przekazywanie informacji i opowiadanie historii.
+
+#### Przykłady użycia:
+
+- **Konsolidacja Prezentacji**  
+  Połącz indywidualne zestawy slajdów od wielu prelegentów w jedną spójną prezentację dla płynnego przekazu.
+
+- **Tworzenie Materiałów Szkoleniowych**  
+  Połącz moduły w pełny kurs szkoleniowy dla wprowadzania pracowników lub programów edukacyjnych.
+
+- **Łączenie Slajdów Konferencyjnych**  
+  Połącz zestawy slajdów prelegentów do wykorzystania na konferencjach lub seminarach, gdzie uczestniczy wielu prelegentów.
+
+- **Prezentacje Produktowe**  
+  Połącz różne sekcje (problem, rozwiązanie, rynek, finanse) w pełną prezentację dla inwestorów.
+
+- **Wsparcie Marketingu i Sprzedaży**  
+  Zestaw szczegółów produktu, studiów przypadków i prezentacji zespołu w jedną prezentację sprzedażową.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

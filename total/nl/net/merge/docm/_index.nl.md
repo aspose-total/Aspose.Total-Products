@@ -80,7 +80,24 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Samenvoegen van DOCM-bestanden voor macro-ingeschakelde Word-documenten
+
+DOCM-bestanden zijn macro-ingeschakelde Word-documenten. Het samenvoegen van `.docm`-bestanden is handig bij het combineren van documenten die ingesloten macro's bevatten voor automatisering of verwerking.
+
+#### Gebruiksscenario's:
+
+- **Geautomatiseerde Rapportageconsolidatie**  
+  Voeg `.docm`-rapporten samen die macro's gebruiken om de generatie van opgemaakte gegevens, grafieken of tabellen te automatiseren in een centraal document.
+
+- **Documentcreatie met macro-ondersteuning**  
+  Combineer macro-ingeschakelde `.docm`-bestanden om automatiseringsfuncties over verschillende rapporten of documenten te behouden en te unificeren.
+
+- **Documentworkflow-integratie**  
+  Voeg documenten met vergelijkbare macrofuncties samen om documentcreatie-workflows over teams te verbeteren.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

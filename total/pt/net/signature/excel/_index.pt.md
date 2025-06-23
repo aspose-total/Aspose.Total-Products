@@ -76,7 +76,26 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# Casos de Uso de Assinatura de Formatos de Planilhas com Assinaturas Eletrônicas
+
+## Relatórios Financeiros e Orçamentos
+Arquivos XLS, XLSX e ODS são amplamente utilizados para demonstrações financeiras, balanços e planos orçamentários. As assinaturas digitais confirmam a precisão dos dados e a aprovação do revisor.
+
+## Dados de Folha de Pagamento e RH
+Resumos de folha de pagamento e análises de RH compartilhados como planilhas podem ser assinados eletronicamente para garantir privacidade e integridade durante revisões internas ou auditorias.
+
+## Cotações de Fornecedores e Planilhas de Aquisições
+Formulários de cotação, listas de produtos e estimativas de custos são frequentemente compartilhados em formato de planilha. As assinaturas eletrônicas formalizam a aceitação e evitam edições pós-envio.
+
+## Registros de Auditoria e Conformidade
+Auditores usam planilhas para compilar e relatar descobertas. As assinaturas digitais certificam que os dados não foram alterados após a aprovação.
+
+## Registros de Inventário e Cadeia de Suprimentos
+Arquivos de rastreamento de inventário, registros de envio e dados de fornecedores em formatos ODS ou XLSX são assinados digitalmente para garantir consistência em operações e evitar manipulação de dados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

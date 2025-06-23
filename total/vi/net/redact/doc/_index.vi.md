@@ -82,7 +82,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Chỉnh sửa trong .doc
+
+- Chỉnh sửa tên, địa chỉ và các điều khoản mật trong các hợp đồng pháp lý.
+- Chỉnh sửa nội dung đặc quyền trong các tài liệu tòa án hoặc tiết lộ pháp lý.
+- Chỉnh sửa dữ liệu nội bộ từ tài liệu nhân sự, hợp đồng hoặc báo cáo trước khi chia sẻ.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

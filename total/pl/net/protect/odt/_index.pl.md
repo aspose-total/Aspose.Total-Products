@@ -79,7 +79,16 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 .odt | Tekst OpenDocument — Przypadki użycia ochrony
+
+- Używany w środowiskach open-source (np. LibreOffice).
+- Wymaga ochrony, aby zapewnić spójność na wielu platformach oprogramowania.
+- Przydatny przy obsłudze dokumentów współpracujących na różnych platformach.
+- Pomaga uniknąć nieautoryzowanych zmian strukturalnych.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

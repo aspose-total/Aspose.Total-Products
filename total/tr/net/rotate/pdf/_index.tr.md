@@ -74,7 +74,15 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## PDF Döndürme Kullanım Alanları
+
+- Taranan PDF sözleşmeleri veya faturaları doğru görüntüleme için döndürün.
+- Portföy belgelerindeki sertifikaların ve lisansların yönlendirmesini ayarlayın.
+- Kitapçıklar veya kılavuzlar için optimize edilmiş baskı düzeni için sayfaları döndürün.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

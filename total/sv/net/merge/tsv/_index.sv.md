@@ -79,7 +79,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/cells/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Sammanfoga TSV-filer för lättviktig dataintegration
+
+TSV (Tab-Separated Values) filer liknar CSV-filer men använder tabbar som avgränsare. Att sammanfoga `.tsv`-filer är användbart när man arbetar med rena, strukturerade dataset i textbaserade arbetsflöden.
+
+#### Användningsområden:
+
+- **Rena data-pipelines**  
+  Sammanfoga `.tsv`-utdata från dataskrapning, ETL-processer eller loggfiler till en huvuddatamängd.
+
+- **Vetenskaplig eller statistisk analys**  
+  Kombinera `.tsv`-experimentdatafiler för sammanfattad statistisk utvärdering.
+
+- **Korsystemintegration**  
+  Sammanfoga `.tsv`-data från olika plattformar (Linux-loggar, sensorer, API:er) för centraliserad inmatning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -123,7 +123,31 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+ODT (OpenDocument Text) 파일은 LibreOffice나 OpenOffice와 같은 워드 프로세서에서 사용되는 OpenDocument 표준의 일부입니다. ODT 파일에 주석을 추가하면 협업 편집, 구조화된 피드백, 그리고 상세한 문서화가 오픈 소스 생태계 내에서 가능해집니다.
+
+#### 오픈 협업과 구조화된 리뷰용 ODT 파일 주석 사용 사례:
+
+- **협업 문서 편집**  
+  주석을 사용하여 기여자들에게 인라인 피드백을 제공하거나 변경 사항을 제안하거나 설명을 요청합니다.
+
+- **오픈 소스 프로젝트 문서화**  
+  기술 문서, 사용자 가이드 또는 소프트웨어 사양에 주석을 추가하여 리뷰어를 안내하고 일관성을 유지합니다.
+
+- **법률 및 규정 준수 리뷰**  
+  투명한 감사를 위해 리뷰가 필요한 섹션을 표시하거나 컨텍스트 코멘트를 사용하여 규정 준수 문제를 강조합니다.
+
+- **학술 피어 리뷰**  
+  논문에서 주장을 평가하거나 누락된 참조를 지적하거나 개선 사항을 제안하기 위해 주석을 삽입합니다.
+
+- **템플릿 안내 및 재사용**  
+  재사용 가능한 ODT 템플릿에 서식 규칙, 플레이스홀더 설명 또는 브랜딩 지침을 주석으로 추가합니다.
+
+- **버전 추적 및 이터레이션 기록**  
+  문서 버전 간에 코멘트를 유지하여 시간이 지남에 따른 변경 사항과 피드백을 추적합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

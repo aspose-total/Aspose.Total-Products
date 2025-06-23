@@ -76,7 +76,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지털 또는 전자 서명으로 XLS 파일 서명하는 사용 사례
+
+XLS는 하위 호환성을 위해 여전히 사용되는 오래된 Excel 형식입니다. 디지털 서명을 추가하면 재무 데이터와 버전 무결성이 보호됩니다.
+
+## 일반적인 사용 사례
+- 레거시 재무 보고서 및 급여 스프레드시트.
+- 초기 Excel 형식으로 공유된 투자 계획.
+- XLS에서 구매 데이터 및 공급 업체 제출.
+- 오래된 스프레드시트 템플릿을 사용하는 정부 감사 보고서.
+- 서명 유효성 검사가 필요한 직원 급여 명세서.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

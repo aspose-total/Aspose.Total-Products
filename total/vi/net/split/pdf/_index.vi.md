@@ -72,7 +72,20 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 PDF — Các trường hợp sử dụng cho việc chia tài liệu PDF
+
+- Trích xuất các trang liên quan từ các tệp PDF lớn để dễ dàng chia sẻ và xem xét.
+- Tách các báo cáo hoặc hợp đồng đa phần thành các tài liệu riêng lẻ.
+- Cho phép chỉnh sửa hoặc chú thích cộng tác bằng cách phân phối các phần PDF nhỏ hơn.
+- Bảo vệ thông tin nhạy cảm bằng cách chia tài liệu và kiểm soát quyền truy cập vào các phần khác nhau.
+- Tạo tài liệu cá nhân bằng cách tạo ra các tệp PDF riêng lẻ từ các tệp chính.
+- Giảm kích thước tệp để đáp ứng các hạn chế về email hoặc tải lên bằng cách chia tài liệu PDF.
+- Lưu trữ tài liệu một cách hiệu quả hơn bằng cách phân loại nội dung thành các tệp nhỏ.
+- Tổ chức lại và lắp ráp các tài liệu PDF tùy chỉnh bằng cách chia và hợp nhất các trang liên quan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

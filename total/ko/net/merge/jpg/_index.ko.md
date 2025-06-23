@@ -81,7 +81,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🖼️ 시각 아카이빙 및 디자인 통합을 위한 JPG (JPEG 이미지 형식) 병합
+
+JPG는 사진 및 웹 그래픽에 널리 사용되는 압축 이미지 형식입니다. JPG 파일을 병합하면 프레젠테이션, 아카이빙 및 시각적 문서화를 지원합니다.
+
+#### 사용 사례:
+
+- **사진 앨범 작성**  
+  휴가나 이벤트 이미지를 단일 콜라주나 슬라이드 쇼로 병합합니다.
+
+- **마케팅 자료**  
+  여러 시각적 자산을 브로슈어나 홍보 시트로 결합합니다.
+
+- **이미지 기반 문서화**  
+  스크린샷이나 시각적 로그를 단일 가이드나 증거 보고서로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,22 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+#### 마크로 인식 문서 감사용 DOCM 파일 비교:
+
+DOCM (Microsoft Word Macro-Enabled Document) 파일은 내장된 마크로를 지원합니다. 두 개의 DOCM 파일을 비교하면 사용자가 콘텐츠 변경뿐만 아니라 잠재적인 마크로 논리 업데이트도 감지할 수 있어서 보안, 규정 준수 및 개발 워크플로에 필수적입니다.
+
+- **매크로 변경 감지**  
+  버전 간에 마크로가 추가되었는지, 제거되었는지 또는 수정되었는지 식별합니다.
+
+- **문서 무결성 감사**  
+  규제된 환경에서 문서 콘텐츠와 마크로 동작이 일관되게 유지되도록 보장합니다.
+
+- **자동화 프로젝트의 버전 검토**  
+  마크로가 향상된 보고서, 송장 또는 양식 생성기의 업데이트를 추적합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

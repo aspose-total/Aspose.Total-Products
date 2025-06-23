@@ -78,7 +78,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📚 PDFファイル（`.pdf`）メタデータの使用例
+
+- 発見性を向上させるために文書のタイトル、サブジェクト、キーワード、著者を埋め込む。
+- 文書のバージョン、承認、分類などのコンプライアンスメタデータを保存する。
+- 出版物やマニュアルのデジタル権利情報を維持する。
+- メタデータを使用してコンテンツシステムでのアーカイブ、削除、タグ付けを自動化する。
+- 法的、医療、学術の分野でのセキュアな文書トラッキングを可能にする。
+- メタデータベースのソートやフィルタリングのためにコンテンツプラットフォームと統合する。
+- 要約、カテゴリ化、クラスタリングのためにAIシステムにメタデータを提供する。
+- 言語、文書構造、代替テキストのヒントなどのアクセシビリティメタデータをサポートする。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

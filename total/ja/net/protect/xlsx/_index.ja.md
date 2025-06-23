@@ -78,7 +78,16 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx | Microsoft Excel Workbook（モダン）— 保護の使用事例
+
+- ビジネスレポート、予測、KPIダッシュボードで一般的—保護は数式ロジックを安全に保ちます。
+- 重要なデータセットやチャートへの誤った変更を防ぎます。
+- 共同作業環境で使用され、特定のセルでのデータ入力を可能にしながら編集アクセスを制限します。
+- 機密情報や規制情報の取り扱いのためにワークブックの暗号化をサポートします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

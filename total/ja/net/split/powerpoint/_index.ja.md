@@ -74,7 +74,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📽️ マイクロソフトパワーポイント — プレゼンテーション分割のユースケース
+
+- 長いプレゼンテーションを短いセクションに分割して、配信と焦点を容易にします。
+- スライドを異なるチームメンバーに割り当て、特定の部分を同時に作業します。
+- 異なる観客や部署とだけ関連するスライドデッキを共有します。
+- プレゼンテーションの一部を単独のファイルやテンプレートとして再利用します。
+- マスターデッキを分割して、異なるクライアントやイベントのためにコンテンツをカスタマイズします。
+- 重いプレゼンテーションを分割することで、高速な読み込みとスムーズなパフォーマンスを実現します。
+- 編集を小さな管理可能なスライドグループに分割することで、バージョン管理を管理します。
+- トレーニングモジュールやワークショップをモジュラーラーニング用に別々のスライドファイルに整理します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

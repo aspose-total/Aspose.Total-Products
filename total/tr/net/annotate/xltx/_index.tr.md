@@ -78,7 +78,17 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+XLTX (Excel Şablonu - Açık XML) dosyaları standartlaştırılmış, tekrarlanabilir raporlama için kullanılır. Onları açıklamak, düzenlenebilir bölgeler, giriş beklentileri ve revizyon önerileri konusunda netlik sağlar.
+
+#### Tekrar kullanılabilir Rapor Şablonları için XLTX Dosyalarını İşaretleme - Kullanım Alanları:
+
+- **Rapor Talimatları**: Tekrar eden raporlar için kullanım ipuçları ekleyin veya güncelleme notları ekleyin.
+- **Tasarım Geri Bildirimi**: Görselleri, başlıkları veya bölüm yapılarını işaretleyin.
+- **Kullanıcı İşbirliği**: Farklı departmanlardan önerileri birlikte paylaşılan bir şablon üzerinde takip edin.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 레거시 엑셀 워크북 최적화를 위한 XLS 파일 압축
+
+XLS(Excel 97-2003 워크북) 파일은 내장된 차트, 수식 또는 대량의 데이터로 인해 커질 수 있습니다. XLS 파일을 압축하면 오래된 시스템 간에 더 원활한 처리와 호환성이 보장됩니다.
+
+#### 사용 사례:
+
+- **재무 기록 보관**  
+  재무 데이터나 보고서가 포함된 역사적인 XLS 파일의 저장 공간을 줄입니다.
+
+- **빠른 레거시 시스템 통합**  
+  오래된 버전의 엑셀에서 대규모 XLS 워크북을 빠르게 처리할 수 있도록 합니다.
+
+- **문서 공유 최적화**  
+  이메일이나 공유 드라이브 업로드용 파일 크기 제한을 충족하기 위해 XLS 파일을 압축합니다.
+
+- **오프라인 사용을 위한 데이터 이동성**  
+  USB나 휴대용 장치에 소형 XLS 파일을 전송하여 현장 작업이나 감사에 활용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

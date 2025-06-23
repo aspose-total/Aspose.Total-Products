@@ -78,7 +78,15 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ การลบข้อมูลใน .ppt / .pptx (Microsoft PowerPoint)
+
+- การลบชื่อโครงการหรือตัวเลขทางการเงินที่เป็นความลับในงานนำเสนอ
+- การลบเนื้อหากลยุทธ์หรือภาพแบบสรุปของผู้บริหารที่เป็นความลับ
+- การลบการอ้างอิงลูกค้าหรือภาพแบบที่เป็นความลับก่อนการแชร์ให้สาธารณะ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

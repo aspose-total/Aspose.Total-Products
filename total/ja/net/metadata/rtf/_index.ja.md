@@ -81,7 +81,15 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 リッチテキストフォーマット（.rtf）の使用例
+
+- タイトルや著者などの基本メタデータを軽量な形式で保存します。
+- 転送、公開、またはアーカイブ用にRTFドキュメントを分類します。
+- フルXML形式をサポートしていないシステム間でメタデータを保持します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

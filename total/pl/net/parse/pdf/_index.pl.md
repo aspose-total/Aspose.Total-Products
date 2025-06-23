@@ -84,7 +84,26 @@ Więcej szczegółów znajdziesz w [Dokumentacja produktu](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Przypadki użycia analizy PDF
+
+- 🔍 **Wyodrębnianie tekstu i tabel**  
+  Wyodrębnij akapity, tabele lub wartości formularzy z plików PDF do raportowania lub indeksowania wyszukiwania.
+
+- 🧾 **Przetwarzanie faktur i formularzy**  
+  Analizuj strukturalne formularze i faktury, aby automatycznie wypełniać bazy danych lub systemy księgowe.
+
+- 🎨 **Analiza układu**  
+  Wykrywanie struktury wizualnej (kolumny, sekcje) dla dokładnej konwersji do HTML lub Markdown.
+
+- 🧠 **OCR i możliwość wyszukiwania**  
+  Konwertowanie zeskanowanych plików PDF na wyszukiwalny tekst za pomocą OCR przed analizą.
+
+- 🗂️ **Archiwizacja cyfrowa i zgodność**  
+  Archiwizuj i audytuj dokumenty PDF, wyodrębniając i oznaczając istotne treści lub metadane.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

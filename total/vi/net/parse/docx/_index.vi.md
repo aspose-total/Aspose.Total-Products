@@ -93,7 +93,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng cho việc phân tích tệp .docx
+
+- 📄 Trích xuất nội dung có cấu trúc bao gồm văn bản, bảng, hình ảnh và siêu dữ liệu.
+- 📰 Chuyển đổi tệp `.docx` thành HTML hoặc Markdown để xuất bản trên web.
+- 🧾 Tự động hóa việc tạo báo cáo và quy trình làm tài liệu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

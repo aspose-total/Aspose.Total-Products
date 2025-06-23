@@ -82,7 +82,16 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📊 .xlsx에서의 마스킹 (Microsoft Excel)
+
+- 급여, 보너스 또는 급여 파일에서 개인 정보를 마스킹합니다.
+- 판매 또는 구매 보고서에서 고객 또는 공급 업체 정보를 마스킹합니다.
+- 재무 워크북에서 내부 예산 할당 또는 이윤률을 마스킹합니다.
+- 성과 대시 보드 또는 KPI 추적 시트에서 기밀 데이터를 마스킹합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

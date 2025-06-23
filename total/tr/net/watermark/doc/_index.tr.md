@@ -83,7 +83,19 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC formatı, hala eski sistemlerde kullanılan eski Microsoft Word ikili dosya türüdür.
+
+**Ortak kullanım durumları şunları içerir:**
+
+- Belgeleri Arşivlenmiş, Eski veya Güncel Olmayan olarak etiketleme
+- Yazar veya departman adını gömmek
+- Yasal feragatnameler veya uyumluluk mesajları uygulama
+- Son Kopya olarak işaretleyerek düzenlemeyi veya yeniden kullanımı engelleme
+- Kayıt tutma ve denetim izlerini destekleme
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

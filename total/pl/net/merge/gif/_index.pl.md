@@ -81,7 +81,24 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Scalanie plików GIF w celu tworzenia animacji lub storyboardów
+
+GIF (Graphics Interchange Format) to popularny format do animacji i prostych grafik. Scalanie wielu plików `.gif` jest niezbędne do tworzenia wieloklatkowych animacji, storyboardów lub łączenia animowanych elementów w jeden plik.
+
+#### Przykłady użycia:
+
+- **Tworzenie animacji GIF**  
+  Scalanie wielu plików `.gif` w jedną ciągłą animację do użycia w sieci, reklamach lub mediach społecznościowych.
+
+- **Scalanie storyboardów**  
+  Łączenie obrazów `.gif` reprezentujących różne klatki animacji w jeden plik do przeglądu lub analizy.
+
+- **Animacje wieloscenowe**  
+  Scalanie plików `.gif` zawierających różne sceny animacji w jedną większą animację do bardziej złożonych projektów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

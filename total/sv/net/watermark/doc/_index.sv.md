@@ -83,7 +83,19 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+DOC-formatet är det äldre binära filtypen för Microsoft Word, fortfarande används i äldre system.
+
+**Vanliga användningsfall inkluderar:**
+
+- Etikettera dokument som Arkiverade, Äldre eller Föråldrade
+- Bädda in författarens eller avdelningens namn
+- Tillämpa juridiska ansvarsfriskrivningar eller efterlevnadmeddelanden
+- Förhindra redigering eller återanvändning genom att markera som Slutgiltig kopia
+- Stödja registerhållning och revisionspår
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

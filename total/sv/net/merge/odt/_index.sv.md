@@ -80,7 +80,24 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/ne
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 🧾 Sammanfoga ODT (OpenDocument Text) för öppet samarbete och dokumentmontage
+
+ODT-filer är öppen källkods dokument för ordbehandling (LibreOffice, OpenOffice). Att sammanfoga dem stödjer samarbete kring innehåll i öppet format.
+
+#### Användningsfall:
+
+- **Öppen källkods samarbete**  
+  Sammanfoga bidrag från olika författare i ODT-format till ett enda dokument.
+
+- **Dokumentationskompilering**  
+  Kombinera kapitel eller avsnitt från manualer eller böcker skrivna i ODT.
+
+- **Rapportering för regering eller NGO**  
+  Konsolidera rapporter skapade i öppna standardformat för inlämning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

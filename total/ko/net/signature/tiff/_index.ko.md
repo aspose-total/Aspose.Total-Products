@@ -71,7 +71,20 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# 디지턈 또는 전자 서명으로 TIFF 파일 서명하는 사용 사례
+
+TIFF는 고해상도 이미지 문서화에 선호됩니다. TIFF 파일에 디지턈 서명하는 것은 법적, 의료 및 기록 보관 산업에서 중요합니다.
+
+## 일반적인 사용 사례
+- 법적 증거 및 법정 스캔.
+- 의료 검사 결과 및 방사선 이미지.
+- 공학 계획 및 건축 문서.
+- 역사적 문서 보존.
+- 이미지 형식의 보험 청구 증거.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

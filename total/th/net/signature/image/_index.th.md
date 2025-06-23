@@ -71,7 +71,26 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# กรณีการใช้งานของการเซ็นไฟล์ภาพด้วยลายเซ็นอิเล็กทรอนิกส์
+
+## เอกสารกฎหมายที่ถูกสแกน
+สแกนของข้อตกลงที่เขียนด้วยมือหรือเอกสารรับรองจากเจ้าหน้าที่ในรูปแบบ JPG, PNG หรือ TIFF สามารถทำการเซ็นดิจิตอลเพื่อยืนยันความถูกต้อง
+
+## การตรวจสอบบัตรประจำตัวและบันทึกส่วนบุคคล
+ภาพถ่ายของหนังสือเดินทาง บัตรประจำตัว และบิลสาธารณสุขที่ใช้สำหรับ KYC หรือการลงทะเบียนสามารถทำการเซ็นอิเล็กทรอนิกส์เพื่อให้แน่ใจว่าไม่มีการเปลี่ยนแปลง
+
+## ภาพการแพทย์
+สแกนเช่น รังสี X หรือผลตรวจในรูปแบบ TIFF หรือ PNG สามารถทำการเซ็นดิจิตอลเพื่อยืนยันต้นทางจากสถานบริการทางการแพทย์ที่ได้รับการรับรอง
+
+## งานศิลปะและการส่งผลงานสร้างสรรค์
+การออกแบบ ภาพประกอบ หรือกราฟิกการตลาดในรูปแบบภาพสามารถทำการเซ็นเพื่อยืนยันสิทธิทรัพย์สินทางปัญญา
+
+## ภาพการตรวจสอบและความเป็นไปตามกฎระเบียบ
+ภาพถ่ายที่ถ่ายระหว่างการตรวจสอบ การตรวจสอบ หรือการตรวจสอบความเป็นไปตามกฎระเบียบมักถูกเซ็นดิจิตอลเพื่อรับรองสถานที่ เวลา และความถูกต้องของหลักฐาน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,17 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Pliki XLTX (Excel Template - Open XML) są używane do standaryzowanych, powtarzalnych raportów. Ich adnotowanie zapewnia jasność dotyczącą obszarów edytowalnych, oczekiwań co do wprowadzanych danych i sugestii dotyczących poprawek.
+
+#### Adnotacje plików XLTX dla szablonów raportów do ponownego wykorzystania - Przykłady użycia:
+
+- **Instrukcje raportu**: Dodaj wskazówki dotyczące użytkowania lub notatki aktualizacyjne do powtarzających się raportów.
+- **Opinie dotyczące projektu**: Adnotuj wizualizacje, nagłówki lub struktury sekcji.
+- **Współpraca użytkowników**: Śledź sugestie z różnych działów dotyczące wspólnego szablonu.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

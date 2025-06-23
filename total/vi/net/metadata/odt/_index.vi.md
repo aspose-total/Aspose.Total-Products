@@ -84,7 +84,16 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📘 Các trường hợp sử dụng cho Văn bản OpenDocument (`.odt`)
+
+- Sử dụng siêu dữ liệu để đảm bảo tính tương thích trên các bộ ứng dụng văn phòng.
+- Theo dõi người đóng góp và lịch sử cộng tác.
+- Tổ chức và tìm kiếm tài liệu định dạng mở trong hệ thống doanh nghiệp.
+- Hỗ trợ các công cụ AI/ML phân tích ODT để có thông tin chi tiết.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

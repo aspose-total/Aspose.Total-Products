@@ -81,7 +81,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📂 การใช้งานสำหรับเทมเพลต Word (`.dot`)
+
+- กำหนดรูปแบบเมตาดาต้าที่ใช้ซ้ำได้สำหรับเอกสารที่เกิดซ้ำ.
+- ช่วยในการจัดหมวดหมู่เทมเพลตตามแผนก รูปแบบ หรือการใช้งาน.
+- ติดตามการใช้งานและการเป็นเจ้าของของเทมเพลตหลัก.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,20 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+# デジタルまたは電子署名でODPファイルに署名する使用例
+
+ODPファイルは、LibreOffice ImpressやOpenOfficeのユーザーによって好まれます。ODPにデジタル署名することで、オープンソースのプレゼンテーション環境において非否認性が確保されます。
+
+## 一般的な使用例
+- 学術講義スライドと認定書。
+- 寄付者の検証のためのNGOプロジェクトプレゼンテーション。
+- ODPを使用した政府機関での政策提案。
+- オープンソースプラットフォーム間で共有される技術ウェビナー。
+- 電子的な検証が必要なコミュニティレポート。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

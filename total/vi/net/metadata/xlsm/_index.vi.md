@@ -84,7 +84,15 @@ Chúng tôi khuyên bạn nên sử dụng Microsoft Visual Studio, Xamarin và 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🧠 Các trường hợp sử dụng cho Macro-Enabled Workbook (`.xlsm`)
+
+- Xác định các workbook có kịch bản hoạt động bằng cách sử dụng siêu dữ liệu nhúng.
+- Hỗ trợ các nhóm tuân thủ phân loại và kiểm tra việc sử dụng macro.
+- Hỗ trợ cảnh báo được kích hoạt bởi siêu dữ liệu cho các mô hình tài chính nhạy cảm.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

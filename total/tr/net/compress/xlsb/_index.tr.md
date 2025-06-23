@@ -75,7 +75,27 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Verimli İkili Çalışma Kitabı Yönetimi için XLSB Dosyalarını Sıkıştırın
+
+XLSB (Excel İkili Çalışma Kitabı) dosyaları verileri ikili bir formatta depolar ve genellikle performansa odaklanan optimizasyonlar nedeniyle büyük dosya boyutlarına yol açar. XLSB dosyalarını sıkıştırarak alanı azaltabilir ve hızı koruyabilirsiniz.
+
+#### Kullanım Alanları:
+
+- **Yüksek Hacimli Veri Kümeleri için Alan Tasarrufu**  
+  İş zekası iş akışları için sıkıştırma kullanarak büyük veri kümelerini daha küçük XLSB dosyalarında depolayın.
+
+- **Ekipler Arasında Hızlı Transfer**  
+  Hesaplama performansından ödün vermeden sıkıştırılmış XLSB dosyalarını hızlı bir şekilde paylaşın.
+
+- **Düzenlenmiş Yedeklemeler**  
+  Daha hızlı kurtarma için boyutu azaltılmış ikili çalışma kitaplarını sık sık kullanılan dosyalar arasında arşivleyin.
+
+- **Raporlama Araçlarında Veri Önbelleği**  
+  Yükleme sürelerini en aza indirmek için sıkıştırılmış XLSB çalışma kitaplarını raporlama sistemlerinde arka uç önbellek olarak kullanın.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

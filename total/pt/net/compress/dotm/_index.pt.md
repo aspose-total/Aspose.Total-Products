@@ -78,7 +78,27 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Comprimir arquivos DOTM para Eficiência de Modelo de Word com Macro
+
+Os arquivos DOTM (Modelo de Word com Macro) contêm scripts e formatação que aumentam o tamanho do arquivo. Comprimir arquivos DOTM garante acesso mais rápido e facilita a gestão de modelos automatizados.
+
+#### Casos de Uso:
+
+- **Distribuição de Modelo de Macro**  
+  Compartilhe modelos DOTM em toda a organização com tamanho de arquivo reduzido para implantação mais rápida.
+
+- **Armazenamento Eficiente de Macros**  
+  Arquive uma coleção de modelos DOTM sem desperdiçar espaço em disco.
+
+- **Implantação em Sistemas Diferentes**  
+  Comprima arquivos DOTM para compatibilidade e reduza atrasos durante a execução de modelos em várias máquinas.
+
+- **Otimização da Biblioteca de Modelos**  
+  Mantenha os repositórios de modelos leves e gerenciáveis com arquivos DOTM com macro comprimidos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

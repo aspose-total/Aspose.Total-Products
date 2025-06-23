@@ -106,7 +106,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+POTX（PowerPointテンプレート）ファイルは、非マクロプレゼンテーションテンプレートを作成するために使用されます。 POTXファイルに注釈を付けることで、デザイン基準の明確化を図り、再利用可能なプレゼンテーションレイアウトに関するチームの整列を容易にします。
+
+#### 標準プレゼンテーションテンプレートフィードバック用途のPOTXファイル注釈：
+
+- **ブランディングの検証**  
+  注釈を挿入して、フォントの使用、色、スライド構造がブランドガイドラインに一致しているか確認します。
+
+- **スライドプレースホルダーの指示**  
+  エンドユーザー向けに特定のコンテンツ領域の使用方法や記入方法についてコメントします。
+
+- **共同テンプレートの構築**  
+  共有テンプレートデザイン中に、レイアウトの改善やコンテンツゾーンの提案をします。
+
+- **教育用スライドテンプレート**  
+  学術テンプレートに対する教育的または指導的なノートを追加します。
+
+- **ローカライゼーションガイダンス**  
+  翻訳や地域固有の適応のためのセクションに注釈を付けます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

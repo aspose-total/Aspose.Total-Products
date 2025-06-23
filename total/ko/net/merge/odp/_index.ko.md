@@ -78,7 +78,24 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📊 통합 슬라이드 전달을 위한 ODP (OpenDocument Presentation) 병합
+
+ODP 파일은 LibreOffice와 OpenOffice의 프레젠테이션 형식입니다. ODP 파일을 병합하면 통합 슬라이드의 오픈 형식 전달이 가능해집니다.
+
+#### 사용 사례:
+
+- **공공 부문 프레젠테이션 병합**  
+  각 부서의 슬라이드 덱을 종합적인 프레젠테이션으로 결합합니다.
+
+- **교육용 슬라이드 통합**  
+  강의 슬라이드를 하나의 강의 자료 문서로 병합합니다.
+
+- **협업 컨퍼런스 덱**  
+  발표자들의 ODP 파일을 병합하여 조직된 이벤트 프레젠테이션을 만듭니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

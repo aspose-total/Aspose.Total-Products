@@ -78,7 +78,15 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 🎤 การใช้งานสำหรับ OpenDocument Presentation (`.odp`)
+
+- ใช้เมตาดาต้าในรูปแบบเปิดเพื่อรักษาความเข้ากันได้กับแพลตฟอร์มต่าง ๆ
+- แท็กวัตถุประสงค์ของการนำเสนอ, เหตุการณ์, หรือกลุ่มเป้าหมายเพื่อใช้ซ้ำ
+- ช่วยในการผสานกับระบบ LMS แบบโอเพนซอร์สหรือการค้นหาเนื้อหาขององค์กร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

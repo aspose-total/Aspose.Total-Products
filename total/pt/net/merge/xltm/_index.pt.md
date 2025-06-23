@@ -79,7 +79,24 @@ Para mais detalhes, consulte [Documentação do produto](https://docs.aspose.com
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### Fundir arquivos XLTM para modelos habilitados para macro
+
+Os arquivos XLTM são modelos habilitados para macro usados para automatizar tarefas recorrentes no Excel. Fundi-los é útil ao unificar a lógica de automação ou migrar fluxos de trabalho.
+
+#### Casos de Uso:
+
+- **Bibliotecas de Automação de Fluxo de Trabalho**  
+  Fundir modelos `.xltm` contendo diferentes macros para várias funções em um modelo centralizado.
+
+- **Integração de Modelos Específicos do Departamento**  
+  Combinar modelos habilitados para macro de diferentes departamentos para padronizar a automação de processos.
+
+- **Auditoria de Processos Baseados em Macro**  
+  Fundir modelos `.xltm` para revisar macros incorporadas quanto à conformidade e otimização.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

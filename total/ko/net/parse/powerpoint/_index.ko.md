@@ -87,7 +87,26 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📽️ Microsoft PowerPoint 형식 (potm, potx, ppsm, ppsx, pptm, pptx, odp) 구문 분석 사용 사례
+
+- 🖼️ **슬라이드 콘텐츠 추출**
+  요약, 검색 또는 HTML 슬라이드 쇼를 위해 슬라이드에서 텍스트, 이미지 및 레이아웃 세부 정보 추출.
+
+- 🧩 **템플릿 자동화**
+  동적 콘텐츠 삽입을 통해 `.potx` 또는 `.potm` 템플릿에서 프레젠테이션 생성.
+
+- 🎯 **매크로 프레젠테이션 처리**
+  매크로 또는 자동화를 포함하는 `.pptm`, `.potm`, 및 `.ppsm` 파일 안전하게 구문 분석.
+
+- 📊 **웹으로 프레젠테이션 변환**
+  `.pptx`, `.odp`, 또는 `.ppsx` 파일을 웹 슬라이드 또는 대화형 형식으로 변환.
+
+- 📁 **슬라이드 색인화**
+  문서 관리 시스템이나 회의 아카이브를 위해 슬라이드를 색인화하고 요약.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

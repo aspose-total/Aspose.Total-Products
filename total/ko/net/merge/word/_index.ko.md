@@ -80,7 +80,30 @@ C#, F#, VB.NET 애플리케이션을 만들려면 Microsoft Visual Studio, Xamar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+### 📄 Microsoft Word 문서 (DOC, DOCX, DOT, DOTX, DOCM)
+
+Microsoft Word는 텍스트 중심의 문서 작성에 가장 적합한 형식입니다. 워드 파일을 병합하면 여러 기여자, 템플릿 또는 버전이 관련된 워크플로우를 간소화할 수 있습니다.
+
+#### 사용 사례:
+
+- **통합 보고서 편성**  
+  여러 부서 또는 프로젝트 보고서를 하나의 전문적인 문서로 병합하여 제출하거나 보관합니다.
+
+- **계약 및 법적 문서 통합**  
+  다양한 계약 버전, 부록 및 법적 문서를 마스터 계약 파일로 통합합니다.
+
+- **팀 협업**  
+  여러 작성자의 기여를 하나의 문서로 병합하여 협업 편집과 검토에 활용합니다.
+
+- **제안서 및 RFP 편성**  
+  서로 다른 소스에서 범위, 가격 및 기술 섹션을 결합하여 일관된 제안서 또는 입찰 응답을 작성합니다.
+
+- **정책 및 절차 매뉴얼**  
+  별도의 정책 문서를 하나의 종합적인 직원 매뉴얼 또는 운영 매뉴얼로 병합합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

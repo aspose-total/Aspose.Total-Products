@@ -123,7 +123,28 @@ C#、F#、VB.NET アプリケーションを作成するには、Microsoft Visua
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+RTF（リッチテキスト形式）は、さまざまなプラットフォームやワードプロセッサでサポートされている汎用ファイル形式です。RTFファイルに注釈を付けることで、コラボレーション、文書化、明確化が向上し、特にフォーマットの中立性と広範な互換性が重要な環境で有用です。
+
+#### プラットフォームに依存しない文書コラボレーションのためのRTFファイル注釈 - ユースケース：
+
+- **クロスプラットフォームの編集レビュー**  
+  RTFファイルに注釈を付けて、ユーザーのオペレーティングシステムやワードプロセッサに依存せずにアクセス可能なコメントや修正メモを提供します。
+
+- **規制環境での文書化**  
+  法律、医療、学術文書に規制関連のノートを追加し、追跡可能性と明確さを確保します。
+
+- **協力的な教育コンテンツ**  
+  教育者と学生の間で共有される授業計画、テスト用紙、学習ガイドに説明コメントを挿入します。
+
+- **バージョントラッキングとフィードバック**  
+  マルチフェーズのコンテンツ開発中に変更点や追加点をマークするために注釈を使用します。
+
+- **ローカライズされたコンテンツのレビュー**  
+  異なる地域向けに翻訳や文化的適応が必要な多言語文書の箇所をハイライトします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
