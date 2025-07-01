@@ -27,7 +27,7 @@ Aspose.Words for Node.js via .NET, JavaScript geliştiricilerinin Microsoft Word
 Microsoft Office'e ihtiyaç duymadan PowerPoint ve OpenOffice sunumları oluşturmak, güncellemek ve dönüştürmek için Powerpoint Node.js API'sini kullanarak sunumlarla çalışın.Ayrıca API, sunumları birleştirme, kopyalama, bölme, karşılaştırma ve yazdırma olanağı da sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/images/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API'si, temeldeki format uygulamasının karmaşıklığı konusunda endişelenmeden, yaygın e-posta mesajı formatlarını oluşturmak, değiştirmek veya dönüştürmek için kullanılır. MSG, PST, OST, OFT EML, EMLX, MBOX dahil e-posta formatlarını kolaylıkla yönetin.
 {{< /blocks/products/pf/total/product-item >}}
 

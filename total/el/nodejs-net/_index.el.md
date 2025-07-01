@@ -25,7 +25,7 @@ description: Επεξεργαστείτε τις παρουσιάσεις Powerp
 Εργαστείτε με παρουσιάσεις χρησιμοποιώντας το Powerpoint Node.js API για να δημιουργήσετε, να ενημερώσετε και να μετατρέψετε παρουσιάσεις PowerPoint και OpenOffice χωρίς να απαιτείται Microsoft Office.Επιπλέον, το API προσφέρει συγχώνευση, κλωνοποίηση, διαχωρισμό, σύγκριση και εκτύπωση παρουσιάσεων.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/images/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API για τη δημιουργία, τροποποίηση ή μετατροπή κοινών μορφών μηνυμάτων email χωρίς να ανησυχείτε για την πολυπλοκότητα της υποκείμενης εφαρμογής μορφής. Χειριστείτε τις μορφές email όπως MSG, PST, OST, OFT EML, EMLX, MBOX με ευκολία.
 {{< /blocks/products/pf/total/product-item >}}
 

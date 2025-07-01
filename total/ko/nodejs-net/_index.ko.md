@@ -27,7 +27,7 @@ Aspose.Words for Node.js via .NET은 JavaScript 개발자가 Microsoft Word 없�
 Microsoft Office 없이도 Powerpoint Node.js API를 사용하여 프레젠테이션 작업을 통해 PowerPoint 및 OpenOffice 프레젠테이션을 생성, 업데이트 및 변환할 수 있습니다.또한 API는 프레젠테이션 병합, 복제, 분할, 비교 및 인쇄 기능을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/images/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 기본 형식 구현의 복잡성에 대해 걱정하지 않고 일반적인 이메일 메시지 형식을 생성, 수정 또는 변환하는 Node.js API입니다. MSG, PST, OST, OFT EML, EMLX, MBOX를 포함한 이메일 형식을 쉽게 처리합니다.
 {{< /blocks/products/pf/total/product-item >}}
 

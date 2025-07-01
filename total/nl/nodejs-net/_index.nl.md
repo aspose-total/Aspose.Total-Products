@@ -27,7 +27,7 @@ Aspose.Words for Node.js via .NET is een native API waarmee JavaScript-ontwikkel
 Werk met presentaties met behulp van de Powerpoint Node.js API om PowerPoint- en OpenOffice-presentaties te maken, bij te werken en te converteren zonder dat Microsoft Office nodig is.Bovendien biedt API de mogelijkheid om presentaties samen te voegen, te klonen, te splitsen, te vergelijken en af te drukken.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/images/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API om algemene e-mailberichtformaten te creëren, wijzigen of converteren zonder dat u zich zorgen hoeft te maken over de complexiteit van de onderliggende formatimplementatie. Verwerk met gemak e-mailformaten, waaronder MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 
