@@ -17,16 +17,25 @@ Aspose.Total för PHP via Java är ett komplett paket för manipulering av Excel
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java inkluderar följande API:er:" >}}
 
+
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java är ett kraftfullt API som gör det möjligt för PHP-utvecklare att skapa, redigera, konvertera och säkra PDF-dokument utan att förlita sig på Adobe Acrobat. Det stöder 32-bitars och 64-bitars applikationer och erbjuder avancerade funktioner som formulärhantering, metadataredigering, text- och sidmanipulation, anteckningar, bokmärken, vattenstämplar, bilagor och anpassad teckensnittshantering.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
-Aspose.Cells för PHP via Java API är designad för att hantera och bearbeta Excel-kalkylblad. Den hanterar uppgifter som att konvertera kalkylbladsformat, hantera och rendera diagram, implementera formler, tillämpa detaljerade stilar på kalkylblad och mycket mer. Med JavaBridge-integrationen kan utvecklare sömlöst införliva kraften i att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer.
+Aspose.Cells for PHP via Java API är designad för att hantera och bearbeta Excel-kalkylblad. Den hanterar uppgifter som att konvertera kalkylbladsformat, hantera och rendera diagram, implementera formler, tillämpa detaljerade stilar på kalkylblad och mycket mer. Med JavaBridge-integrationen kan utvecklare sömlöst införliva kraften i att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/php-java/" imgSrc="/total/images/aspose_slides-for-php-java.svg" productName="Aspose.Slides for PHP via Java">}}
-Aspose.Slides för PHP via Java-biblioteket gör det möjligt för utvecklare att arbeta med och bearbeta presentationer effektivt. Den erbjuder läsning, redigering och konvertering av PowerPoint-presentationer utan att förlita sig på externa applikationer. Biblioteket tillåter att ladda, öppna och visa presentationer, konvertera dem till olika format, rendera och skriva ut presentationer, kryptera och dekryptera dem, manipulera presentationsenheter som huvudbilder, former, diagram, ljud- och videoramar, animationer och mer.
+Aspose.Slides for PHP via Java-biblioteket gör det möjligt för utvecklare att arbeta med och bearbeta presentationer effektivt. Den erbjuder läsning, redigering och konvertering av PowerPoint-presentationer utan att förlita sig på externa applikationer. Biblioteket tillåter att ladda, öppna och visa presentationer, konvertera dem till olika format, rendera och skriva ut presentationer, kryptera och dekryptera dem, manipulera presentationsenheter som huvudbilder, former, diagram, ljud- och videoramar, animationer och mer.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/php-java/" imgSrc="/total/images/aspose_barcode-for-php-java.svg" productName="Aspose.BarCode for PHP via Java">}}
-Aspose.BarCode för PHP via Java är en samling av streckkodsgenerering och läsning av API:er designade för PHP-applikationer. Det ger utvecklare möjlighet att läsa olika typer av streckkoder, inklusive 1D, 2D och poststreckkoder, från bilder tagna i olika vinklar. Streckkodsgeneratorns API gör det möjligt att skapa streckkodsbilder i olika format som JPG, PNG, GIF och BMP. Dessutom erbjuder den flera bildbehandlingsfunktioner, såsom kantmanipulation, färgjustering, bildrotation, upplösningsanpassning och mer. Genom att använda API kan utvecklare enkelt införliva streckkodsfunktionalitet i sina PHP-applikationer.
+Aspose.BarCode for PHP via Java är en samling av streckkodsgenerering och läsning av API:er designade för PHP-applikationer. Det ger utvecklare möjlighet att läsa olika typer av streckkoder, inklusive 1D, 2D och poststreckkoder, från bilder tagna i olika vinklar. Streckkodsgeneratorns API gör det möjligt att skapa streckkodsbilder i olika format som JPG, PNG, GIF och BMP. Dessutom erbjuder den flera bildbehandlingsfunktioner, såsom kantmanipulation, färgjustering, bildrotation, upplösningsanpassning och mer. Genom att använda API kan utvecklare enkelt införliva streckkodsfunktionalitet i sina PHP-applikationer.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

@@ -17,6 +17,13 @@ Aspose.Total for PHP via Java, PowerPoint ve OpenOffice Sunumları için olduğu
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java aşağıdaki API'leri içerir:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java, PHP geliştiricilerinin Adobe Acrobat'a güvenmeden PDF belgeleri oluşturmasını, düzenlemesini, dönüştürmesini ve güvenliğini sağlamasını sağlayan güçlü bir API'dir. 32 bit ve 64 bit uygulamaları destekler ve form işleme, meta veri düzenleme, metin ve sayfa düzenleme, açıklamalar, yer imleri, filigranlar, ekler ve özel yazı tipi yönetimi gibi gelişmiş özellikler sunar.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API, Excel elektronik tablolarını yönetmek ve işlemek için tasarlanmıştır. Elektronik tablo biçimlerini dönüştürme, grafikleri yönetme ve işleme, formülleri uygulama, çalışma sayfalarına ayrıntılı stiller uygulama ve çok daha fazlası gibi görevleri yerine getirir. JavaBridge entegrasyonu ile geliştiriciler, Excel dosyalarını oluşturma, düzenleme, dönüştürme ve işleme gücünü kendi PHP uygulamalarına sorunsuz bir şekilde dahil edebilirler.
 {{< /blocks/products/pf/total/product-item >}}

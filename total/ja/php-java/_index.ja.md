@@ -17,6 +17,13 @@ Aspose.Total for PHP via Java は、Excel スプレッドシート操作、Power
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java には次の API が含まれています。" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Javaは、PHP開発者がAdobe Acrobatに依存せずにPDFドキュメントを作成、編集、変換、保護できるようにする強力なAPIです。32ビットおよび64ビットアプリケーションをサポートし、フォーム処理、メタデータ編集、テキストおよびページの操作、注釈、ブックマーク、透かし、添付ファイル、カスタムフォント管理などの高度な機能を提供します。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API は、Excel スプレッドシートを管理および処理するために設計されています。 スプレッドシート形式の変換、グラフの管理とレンダリング、数式の実装、ワークシートへの詳細なスタイルの適用などのタスクを処理します。 JavaBridge の統合により、開発者は Excel ファイルの作成、編集、変換、レンダリングの機能を PHP アプリケーションにシームレスに組み込むことができます。
 {{< /blocks/products/pf/total/product-item >}}

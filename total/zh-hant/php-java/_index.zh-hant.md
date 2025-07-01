@@ -17,12 +17,19 @@ Aspose.Total for PHP via Java 是一個用於 Excel 電子表格操作以及 Pow
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java 包括以下API：" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java 是一個強大的 API，它使 PHP 開發人員無需依賴 Adob​​e Acrobat 即可建立、編輯、轉換和保護 PDF 文件。它支援 32 位元和 64 位元應用程序，並提供表單處理、元資料編輯、文字和頁面操作、註釋、書籤、浮水印、附件和自訂字體管理等高級功能。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API 專為管理和處理 Excel 電子表格而設計。 它處理諸如轉換電子表格格式、管理和渲染圖表、實施公式、將詳細樣式應用於工作表等任務。 通過 JavaBridge 集成，開發人員可以將創建、編輯、轉換和呈現 Excel 文件的功能無縫集成到他們的 PHP 應用程序中。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/php-java/" imgSrc="/total/images/aspose_slides-for-php-java.svg" productName="Aspose.Slides for PHP via Java">}}
-Aspose.Slides for PHP 通過 Java 庫使開發人員能夠有效地使用和處理演示文稿。 它提供閱讀、編輯和轉換 PowerPoint 演示文稿的功能，無需依賴外部應用程序。 該庫允許加載、打開和查看演示文稿，將其轉換為各種格式，渲染和打印演示文稿，加密和解密演示文稿，操作演示文稿實體，如主幻燈片、形狀、圖表、音頻和視頻幀、動畫等。
+Aspose.Slides for PHP via Java 庫使開發人員能夠有效地使用和處理演示文稿。 它提供閱讀、編輯和轉換 PowerPoint 演示文稿的功能，無需依賴外部應用程序。 該庫允許加載、打開和查看演示文稿，將其轉換為各種格式，渲染和打印演示文稿，加密和解密演示文稿，操作演示文稿實體，如主幻燈片、形狀、圖表、音頻和視頻幀、動畫等。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/php-java/" imgSrc="/total/images/aspose_barcode-for-php-java.svg" productName="Aspose.BarCode for PHP via Java">}}

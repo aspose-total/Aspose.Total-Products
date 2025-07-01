@@ -17,6 +17,13 @@ Aspose.Total dla PHP przez Javę to kompletny pakiet do manipulacji arkuszami ka
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java zawiera następujące interfejsy API:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java to potężne API, które umożliwia programistom PHP tworzenie, edycję, konwersję i zabezpieczanie dokumentów PDF bez polegania na Adobe Acrobat. Obsługuje aplikacje 32-bitowe i 64-bitowe i oferuje zaawansowane funkcje, takie jak obsługa formularzy, edycja metadanych, manipulacja tekstem i stroną, adnotacje, zakładki, znaki wodne, załączniki i zarządzanie niestandardowymi czcionkami.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API jest przeznaczony do zarządzania i przetwarzania arkuszy kalkulacyjnych Excel. Obsługuje takie zadania, jak konwertowanie formatów arkuszy kalkulacyjnych, zarządzanie i renderowanie wykresów, wdrażanie formuł, stosowanie szczegółowych stylów do arkuszy roboczych i wiele innych. Dzięki integracji JavaBridge programiści mogą bezproblemowo włączyć możliwości tworzenia, edytowania, konwertowania i renderowania plików Excel w swoich aplikacjach PHP.
 {{< /blocks/products/pf/total/product-item >}}

@@ -17,6 +17,12 @@ description: Επεξεργαστείτε υπολογιστικά φύλλα Ex
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java περιλαμβάνει τα ακόλουθα API:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Το Aspose.PDF for PHP via Java είναι ένα ισχυρό API που επιτρέπει στους προγραμματιστές PHP να δημιουργούν, να επεξεργάζονται, να μετατρέπουν και να ασφαλίζουν έγγραφα PDF χωρίς να βασίζονται στο Adobe Acrobat. Υποστηρίζει εφαρμογές 32-bit και 64-bit και προσφέρει προηγμένες λειτουργίες όπως χειρισμός φορμών, επεξεργασία μεταδεδομένων, χειρισμός κειμένου και σελίδων, σχολιασμοί, σελιδοδείκτες, υδατογραφήματα, συνημμένα και διαχείριση προσαρμοσμένων γραμματοσειρών.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Το Aspose.Cells για PHP μέσω Java API έχει σχεδιαστεί για τη διαχείριση και την επεξεργασία υπολογιστικών φύλλων του Excel. Χειρίζεται εργασίες όπως η μετατροπή μορφών υπολογιστικών φύλλων, η διαχείριση και η απόδοση γραφημάτων, η εφαρμογή τύπων, η εφαρμογή λεπτομερών στυλ σε φύλλα εργασίας και πολλά άλλα. Με την ενσωμάτωση JavaBridge, οι προγραμματιστές μπορούν να ενσωματώσουν απρόσκοπτα τη δύναμη δημιουργίας, επεξεργασίας, μετατροπής και απόδοσης αρχείων Excel στις εφαρμογές τους PHP.
 {{< /blocks/products/pf/total/product-item >}}

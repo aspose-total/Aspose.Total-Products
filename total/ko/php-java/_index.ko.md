@@ -17,6 +17,13 @@ Aspose.Total for PHP via Java는 PowerPoint 및 OpenOffice 프리젠테이션뿐
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java 다음 API를 포함합니다." >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java는 PHP 개발자가 Adobe Acrobat에 의존하지 않고도 PDF 문서를 생성, 편집, 변환 및 보호할 수 있도록 지원하는 강력한 API입니다. 32비트 및 64비트 애플리케이션을 지원하며, 양식 처리, 메타데이터 편집, 텍스트 및 페이지 조작, 주석, 북마크, 워터마크, 첨부 파일, 사용자 정의 글꼴 관리 등의 고급 기능을 제공합니다.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API는 Excel 스프레드시트를 관리하고 처리하도록 설계되었습니다. 스프레드시트 형식 변환, 차트 관리 및 렌더링, 수식 구현, 워크시트에 세부 스타일 적용 등과 같은 작업을 처리합니다. JavaBridge 통합을 통해 개발자는 Excel 파일을 생성, 편집, 변환 및 렌더링하는 기능을 PHP 애플리케이션에 원활하게 통합할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}

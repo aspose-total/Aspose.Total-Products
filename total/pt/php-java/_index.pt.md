@@ -17,16 +17,23 @@ Aspose.Total para PHP via Java é um pacote completo para manipulação de plani
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java inclui as seguintes APIs:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/php-java/" imgSrc="/total/images/aspose_pdf-for-php-java.svg" productName="Aspose.PDF for PHP via Java">}}
+
+Aspose.PDF for PHP via Java é uma API poderosa que permite aos programadores PHP criar, editar, converter e proteger documentos PDF sem depender do Adobe Acrobat. Suporta aplicações de 32 e 64 bits e oferece funcionalidades avançadas como processamento de formulários, edição de metadados, manipulação de texto e páginas, anotações, marcadores, marcas de água, anexos e gestão personalizada de tipos de letra.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
-Aspose.Cells para PHP via Java API é projetado para gerenciar e processar planilhas do Excel. Ele lida com tarefas como converter formatos de planilhas, gerenciar e renderizar gráficos, implementar fórmulas, aplicar estilos detalhados a planilhas e muito mais. Com a integração JavaBridge, os desenvolvedores podem incorporar perfeitamente o poder de criar, editar, converter e renderizar arquivos Excel em seus aplicativos PHP.
+Aspose.Cells for PHP via Java API é projetado para gerenciar e processar planilhas do Excel. Ele lida com tarefas como converter formatos de planilhas, gerenciar e renderizar gráficos, implementar fórmulas, aplicar estilos detalhados a planilhas e muito mais. Com a integração JavaBridge, os desenvolvedores podem incorporar perfeitamente o poder de criar, editar, converter e renderizar arquivos Excel em seus aplicativos PHP.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/php-java/" imgSrc="/total/images/aspose_slides-for-php-java.svg" productName="Aspose.Slides for PHP via Java">}}
-Aspose.Slides para PHP via biblioteca Java permite que os desenvolvedores trabalhem e processem apresentações de forma eficaz. Ele oferece leitura, edição e conversão de apresentações do PowerPoint sem depender de aplicativos externos. A biblioteca permite carregar, abrir e visualizar apresentações, convertê-las em vários formatos, renderizar e imprimir apresentações, criptografá-las e descriptografá-las, manipular entidades de apresentação como slides mestres, formas, gráficos, quadros de áudio e vídeo, animações e muito mais.
+Aspose.Slides for PHP via biblioteca Java permite que os desenvolvedores trabalhem e processem apresentações de forma eficaz. Ele oferece leitura, edição e conversão de apresentações do PowerPoint sem depender de aplicativos externos. A biblioteca permite carregar, abrir e visualizar apresentações, convertê-las em vários formatos, renderizar e imprimir apresentações, criptografá-las e descriptografá-las, manipular entidades de apresentação como slides mestres, formas, gráficos, quadros de áudio e vídeo, animações e muito mais.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/php-java/" imgSrc="/total/images/aspose_barcode-for-php-java.svg" productName="Aspose.BarCode for PHP via Java">}}
-Aspose.BarCode para PHP via Java é uma coleção de APIs de geração e leitura de código de barras projetadas para aplicativos PHP. Ele fornece aos desenvolvedores a capacidade de ler vários tipos de códigos de barras, incluindo 1D, 2D e códigos de barras postais, a partir de imagens capturadas em diferentes ângulos. A API do gerador de código de barras permite a criação de imagens de código de barras em diferentes formatos, como JPG, PNG, GIF e BMP. Além disso, oferece vários recursos de imagem, como manipulação de bordas, ajuste de cores, rotação de imagens, personalização de resolução e muito mais. Ao utilizar a API, os desenvolvedores podem incorporar facilmente a funcionalidade de código de barras em seus aplicativos PHP.
+Aspose.BarCode for PHP via Java é uma coleção de APIs de geração e leitura de código de barras projetadas para aplicativos PHP. Ele fornece aos desenvolvedores a capacidade de ler vários tipos de códigos de barras, incluindo 1D, 2D e códigos de barras postais, a partir de imagens capturadas em diferentes ângulos. A API do gerador de código de barras permite a criação de imagens de código de barras em diferentes formatos, como JPG, PNG, GIF e BMP. Além disso, oferece vários recursos de imagem, como manipulação de bordas, ajuste de cores, rotação de imagens, personalização de resolução e muito mais. Ao utilizar a API, os desenvolvedores podem incorporar facilmente a funcionalidade de código de barras em seus aplicativos PHP.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
