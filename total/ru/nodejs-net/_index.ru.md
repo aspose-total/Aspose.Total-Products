@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET — это полный пакет для ра
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET включает следующие API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET — это собственный API, который позволяет разработчикам JavaScript создавать, редактировать, конвертировать и защищать документы Word без Microsoft Word. Он поддерживает расширенное форматирование, слияние почты, диаграммы, таблицы, многоформатное преобразование и автоматизацию рабочих процессов документов.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Работайте с презентациями, используя API Powerpoint Node.js, чтобы создавать, обновлять и конвертировать презентации PowerPoint и OpenOffice без необходимости использования Microsoft Office.Более того, API предлагает объединять, клонировать, разделять, сравнивать и распечатывать презентации.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 API Node.js для создания, изменения или преобразования распространенных форматов сообщений электронной почты, не беспокоясь о сложностях реализации базового формата. С легкостью обрабатывайте форматы электронной почты, включая MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET är ett komplett paket för Microsoft Powerpoi
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET innehåller följande API:er:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET är ett inbyggt API som gör det möjligt för JavaScript-utvecklare att skapa, redigera, konvertera och säkra Word-dokument utan Microsoft Word. Det stöder rik formatering, dokumentkoppling, diagram, tabeller, konvertering av flera format och automatisering av dokumentarbetsflöden.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Arbeta med presentationer med Powerpoint Node.js API för att skapa, uppdatera och konvertera PowerPoint- och OpenOffice-presentationer utan att behöva Microsoft Office.Dessutom erbjuder API att slå samman, klona, dela, jämföra och skriva ut presentationer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API för att skapa, ändra eller konvertera vanliga format för e-postmeddelanden utan att oroa dig för komplexiteten i den underliggande formatimplementeringen. Hantera e-postformat inklusive MSG, PST, OST, OFT EML, EMLX, MBOX med lätthet.
 {{< /blocks/products/pf/total/product-item >}}
 

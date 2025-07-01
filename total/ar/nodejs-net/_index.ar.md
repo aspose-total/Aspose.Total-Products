@@ -17,11 +17,15 @@ Aspose.Total for Node.js via .NET عبارة عن حزمة كاملة لمعال
 
 {{< blocks/products/pf/total/products description="يتضمن Aspose.Total for Node.js via .NET واجهات برمجة التطبيقات التالية:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+Aspose.Words for Node.js via .NET هي واجهة برمجة تطبيقات أصلية تُمكّن مطوري JavaScript من إنشاء مستندات Word وتحريرها وتحويلها وتأمينها دون الحاجة إلى Microsoft Word. تدعم هذه الواجهة التنسيق الغني، ودمج البريد، والمخططات، والجداول، والتحويل متعدد التنسيقات، وأتمتة سير عمل المستندات.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 تعامل مع العروض التقديمية باستخدام Powerpoint Node.js API لإنشاء عروض PowerPoint وOpenOffice التقديمية وتحديثها وتحويلها دون الحاجة إلى Microsoft Office.علاوة على ذلك، توفر واجهة برمجة التطبيقات إمكانية دمج العروض التقديمية واستنساخها وتقسيمها ومقارنتها وطباعتها.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API لإنشاء أو تعديل أو تحويل تنسيقات رسائل البريد الإلكتروني الشائعة دون القلق بشأن تعقيدات تنفيذ التنسيق الأساسي. تعامل مع تنسيقات البريد الإلكتروني بما في ذلك MSG وPST وOST وOFT EML وEMLX وMBOX بسهولة.
 {{< /blocks/products/pf/total/product-item >}}
 

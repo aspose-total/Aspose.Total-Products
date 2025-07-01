@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET é um pacote completo para manipulação de ap
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET inclui as seguintes APIs:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET é uma API nativa que permite aos programadores JavaScript criar, editar, converter e proteger documentos Word sem o Microsoft Word. Suporta formatação avançada, mala direta, gráficos, tabelas, conversão multiformato e automatização de fluxos de trabalho de documentos.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Trabalhe com apresentações usando a API Powerpoint Node.js para criar, atualizar e converter apresentações do PowerPoint e do OpenOffice sem precisar do Microsoft Office.Além disso, a API oferece mesclar, clonar, dividir, comparar e imprimir apresentações.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 API Node.js para criar, modificar ou converter formatos comuns de mensagens de e-mail sem se preocupar com as complexidades da implementação do formato subjacente. Lide com formatos de e-mail, incluindo MSG, PST, OST, OFT EML, EMLX, MBOX com facilidade.
 {{< /blocks/products/pf/total/product-item >}}
 

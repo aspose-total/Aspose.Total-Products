@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET to kompletny pakiet do manipulacji prezentacja
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET zawiera następujące interfejsy API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET to natywny interfejs API, który umożliwia programistom JavaScript tworzenie, edytowanie, konwertowanie i zabezpieczanie dokumentów Word bez programu Microsoft Word. Obsługuje bogate formatowanie, korespondencję seryjną, wykresy, tabele, konwersję wieloformatową i automatyzację przepływów pracy nad dokumentami.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Pracuj z prezentacjami za pomocą interfejsu API Powerpoint Node.js, aby tworzyć, aktualizować i konwertować prezentacje programów PowerPoint i OpenOffice bez konieczności korzystania z pakietu Microsoft Office.Co więcej, API umożliwia łączenie, klonowanie, dzielenie, porównywanie i drukowanie prezentacji.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 API Node.js do tworzenia, modyfikowania i konwertowania popularnych formatów wiadomości e-mail bez martwienia się o złożoność implementacji formatu bazowego. Z łatwością obsługuj formaty e-maili, w tym MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

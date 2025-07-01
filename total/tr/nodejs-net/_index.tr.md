@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET, Microsoft Powerpoint Sunumu manipülasyonunun
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET aşağıdaki API'leri içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET, JavaScript geliştiricilerinin Microsoft Word olmadan Word belgeleri oluşturmasını, düzenlemesini, dönüştürmesini ve güvenliğini sağlamasını sağlayan yerel bir API'dir. Zengin biçimlendirme, posta birleştirme, grafikler, tablolar, çoklu biçim dönüştürme ve belge iş akışlarının otomasyonunu destekler.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Microsoft Office'e ihtiyaç duymadan PowerPoint ve OpenOffice sunumları oluşturmak, güncellemek ve dönüştürmek için Powerpoint Node.js API'sini kullanarak sunumlarla çalışın.Ayrıca API, sunumları birleştirme, kopyalama, bölme, karşılaştırma ve yazdırma olanağı da sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API'si, temeldeki format uygulamasının karmaşıklığı konusunda endişelenmeden, yaygın e-posta mesajı formatlarını oluşturmak, değiştirmek veya dönüştürmek için kullanılır. MSG, PST, OST, OFT EML, EMLX, MBOX dahil e-posta formatlarını kolaylıkla yönetin.
 {{< /blocks/products/pf/total/product-item >}}
 

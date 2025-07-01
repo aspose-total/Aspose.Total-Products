@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET 是用于 Microsoft Powerpoint 演示文稿操
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET 包括以下 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET 是一个原生 API，它使 JavaScript 开发人员无需 Microsoft Word 即可创建、编辑、转换和保护 Word 文档。它支持丰富的格式、邮件合并、图表、表格、多格式转换以及文档工作流程的自动化。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 使用 Powerpoint Node.js API 处理演示文稿，以创建、更新和转换 PowerPoint 和 OpenOffice 演示文稿，而无需 Microsoft Office。此外，API 还提供合并、克隆、拆分、比较和打印演示文稿的功能。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API 用于创建、修改或转换常见的电子邮件消息格式，而无需担心底层格式实现的复杂性。 轻松处理包括 MSG、PST、OST、OFT EML、EMLX、MBOX 在内的电子邮件格式。
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET เป็นแพ็คเกจที่ส�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET มี API ต่อไปนี้:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET เป็น API พื้นฐานที่ช่วยให้ผู้พัฒนา JavaScript สามารถสร้าง แก้ไข แปลง และรักษาความปลอดภัยเอกสาร Word ได้โดยไม่ต้องใช้ Microsoft Word รองรับการจัดรูปแบบที่หลากหลาย การผสานจดหมาย แผนภูมิ ตาราง การแปลงหลายรูปแบบ และการทำงานอัตโนมัติของเวิร์กโฟลว์เอกสาร
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 ทำงานกับงานนำเสนอโดยใช้ Powerpoint Node.js API เพื่อสร้าง อัปเดต และแปลงงานนำเสนอ PowerPoint และ OpenOffice โดยไม่ต้องใช้ Microsoft Officeนอกจากนี้ API ยังเสนอให้ผสาน โคลน แยก เปรียบเทียบ และพิมพ์งานนำเสนอ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API เพื่อสร้าง แก้ไข หรือแปลงรูปแบบข้อความอีเมลทั่วไปโดยไม่ต้องกังวลกับความซับซ้อนของการนำรูปแบบไปใช้ จัดการรูปแบบอีเมล รวมถึง MSG, PST, OST, OFT EML, EMLX, MBOX ได้อย่างง่ายดาย
 {{< /blocks/products/pf/total/product-item >}}
 

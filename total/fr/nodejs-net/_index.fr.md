@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET est un package complet pour la manipulation de
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET comprend les API suivantes :" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET est une API native qui permet aux développeurs JavaScript de créer, modifier, convertir et sécuriser des documents Word sans Microsoft Word. Elle prend en charge la mise en forme enrichie, le publipostage, les graphiques, les tableaux, la conversion multiformat et l'automatisation des flux de travail documentaires.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Travaillez avec des présentations à l'aide de l'API Powerpoint Node.js pour créer, mettre à jour et convertir des présentations PowerPoint et OpenOffice sans nécessiter Microsoft Office.De plus, l'API propose de fusionner, cloner, diviser, comparer et imprimer des présentations.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 API Node.js pour créer, modifier ou convertir des formats de messages électroniques courants sans vous soucier des complexités de la mise en œuvre du format sous-jacent. Gérez facilement les formats de courrier électronique, notamment MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

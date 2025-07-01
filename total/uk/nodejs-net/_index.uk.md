@@ -17,11 +17,17 @@ Aspose.Total для Node.js через .NET — це повний пакет д�
 
 {{< blocks/products/pf/total/products description="Aspose.Total для Node.js через .NET включає такі API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET — це власний API, який дозволяє розробникам JavaScript створювати, редагувати, конвертувати та захищати документи Word без використання Microsoft Word. Він підтримує багате форматування, злиття, діаграми, таблиці, конвертацію кількох форматів та автоматизацію робочих процесів з документами.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Працюйте з презентаціями за допомогою API Powerpoint Node.js для створення, оновлення та конвертації презентацій PowerPoint і OpenOffice без Microsoft Office. Крім того, API пропонує об’єднувати, клонувати, розділяти, порівнювати та друкувати презентації.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 API Node.js для створення, зміни або перетворення поширених форматів повідомлень електронної пошти, не турбуючись про складнощі реалізації основного формату. Легко обробляйте формати електронної пошти, включаючи MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

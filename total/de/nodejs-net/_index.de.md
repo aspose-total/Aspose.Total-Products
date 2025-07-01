@@ -17,11 +17,15 @@ Aspose.Total for Node.js via .NET ist ein Komplettpaket zur Bearbeitung von Micr
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET umfasst die folgenden APIs:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+Aspose.Words for Node.js via .NET ist eine native API, die es JavaScript-Entwicklern ermöglicht, Word-Dokumente ohne Microsoft Word zu erstellen, zu bearbeiten, zu konvertieren und zu sichern. Es unterstützt umfangreiche Formatierung, Seriendruck, Diagramme, Tabellen, Multiformatkonvertierung und die Automatisierung von Dokumenten-Workflows.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Arbeiten Sie mit Präsentationen mithilfe der Powerpoint Node.js API, um PowerPoint- und OpenOffice-Präsentationen zu erstellen, zu aktualisieren und zu konvertieren, ohne Microsoft Office zu benötigen.Darüber hinaus bietet die API die Möglichkeit, Präsentationen zusammenzuführen, zu klonen, aufzuteilen, zu vergleichen und zu drucken.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js-API zum Erstellen, Ändern oder Konvertieren gängiger E-Mail-Nachrichtenformate, ohne sich um die Komplexität der zugrunde liegenden Formatimplementierung kümmern zu müssen. Verarbeiten Sie problemlos E-Mail-Formate wie MSG, PST, OST, OFT EML, EMLX und MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET is een compleet pakket voor het manipuleren va
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET bevat de volgende API's:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET is een native API waarmee JavaScript-ontwikkelaars Word-documenten kunnen maken, bewerken, converteren en beveiligen zonder Microsoft Word. De API ondersteunt opmaak, samenvoeging van e-mails, grafieken, tabellen, conversie van meerdere formaten en automatisering van documentworkflows.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Werk met presentaties met behulp van de Powerpoint Node.js API om PowerPoint- en OpenOffice-presentaties te maken, bij te werken en te converteren zonder dat Microsoft Office nodig is.Bovendien biedt API de mogelijkheid om presentaties samen te voegen, te klonen, te splitsen, te vergelijken en af te drukken.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API om algemene e-mailberichtformaten te creëren, wijzigen of converteren zonder dat u zich zorgen hoeft te maken over de complexiteit van de onderliggende formatimplementatie. Verwerk met gemak e-mailformaten, waaronder MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET は、Microsoft Powerpoint プレゼンテー�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET には次の API が含まれています。" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET は、JavaScript 開発者が Microsoft Word を使わずに Word 文書を作成、編集、変換、保護できるようにするネイティブ API です。豊富な書式設定、差し込み印刷、グラフ、表、複数形式への変換、ドキュメントワークフローの自動化をサポートします。
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Powerpoint Node.js API を使用してプレゼンテーションを操作し、Microsoft Office を必要とせずに PowerPoint および OpenOffice プレゼンテーションを作成、更新、変換します。さらに、API ではプレゼンテーションの結合、複製、分割、比較、印刷も行えます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 基盤となる形式の実装の複雑さを気にせずに、一般的な電子メール メッセージ形式を作成、変更、または変換するための Node.js API。 MSG、PST、OST、OFT、EML、EMLX、MBOX などの電子メール形式を簡単に処理します。
 {{< /blocks/products/pf/total/product-item >}}
 

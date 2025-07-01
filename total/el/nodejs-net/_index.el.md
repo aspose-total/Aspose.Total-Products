@@ -17,11 +17,15 @@ description: Επεξεργαστείτε τις παρουσιάσεις Powerp
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total for Node.js via .NET περιλαμβάνει τα ακόλουθα API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+Το Aspose.Words for Node.js via .NET είναι ένα εγγενές API που επιτρέπει στους προγραμματιστές JavaScript να δημιουργούν, να επεξεργάζονται, να μετατρέπουν και να ασφαλίζουν έγγραφα Word χωρίς το Microsoft Word. Υποστηρίζει εμπλουτισμένη μορφοποίηση, συγχώνευση αλληλογραφίας, γραφήματα, πίνακες, μετατροπή πολλαπλών μορφών και αυτοματοποίηση ροών εργασίας εγγράφων.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Εργαστείτε με παρουσιάσεις χρησιμοποιώντας το Powerpoint Node.js API για να δημιουργήσετε, να ενημερώσετε και να μετατρέψετε παρουσιάσεις PowerPoint και OpenOffice χωρίς να απαιτείται Microsoft Office.Επιπλέον, το API προσφέρει συγχώνευση, κλωνοποίηση, διαχωρισμό, σύγκριση και εκτύπωση παρουσιάσεων.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API για τη δημιουργία, τροποποίηση ή μετατροπή κοινών μορφών μηνυμάτων email χωρίς να ανησυχείτε για την πολυπλοκότητα της υποκείμενης εφαρμογής μορφής. Χειριστείτε τις μορφές email όπως MSG, PST, OST, OFT EML, EMLX, MBOX με ευκολία.
 {{< /blocks/products/pf/total/product-item >}}
 

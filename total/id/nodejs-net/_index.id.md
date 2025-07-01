@@ -17,11 +17,17 @@ Aspose.Total for Node.js via .NET adalah paket lengkap untuk manipulasi Presenta
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET mencakup API berikut:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+
+Aspose.Words for Node.js via .NET adalah API asli yang memungkinkan pengembang JavaScript untuk membuat, mengedit, mengonversi, dan mengamankan dokumen Word tanpa Microsoft Word. Mendukung pemformatan kaya, gabungan surat, bagan, tabel, konversi multiformat, dan otomatisasi alur kerja dokumen.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Bekerja dengan presentasi menggunakan Powerpoint Node.js API untuk membuat, memperbarui, & mengonversi presentasi PowerPoint dan OpenOffice tanpa memerlukan Microsoft Office.Selain itu, API menawarkan untuk menggabungkan, mengkloning, membagi, membandingkan, dan mencetak presentasi.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API untuk membuat, memodifikasi, atau mengonversi format pesan email umum tanpa mengkhawatirkan kerumitan penerapan format yang mendasarinya. Tangani format email termasuk MSG, PST, OST, OFT EML, EMLX, MBOX dengan mudah.
 {{< /blocks/products/pf/total/product-item >}}
 

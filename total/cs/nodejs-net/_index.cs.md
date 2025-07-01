@@ -17,11 +17,15 @@ Aspose.Total for Node.js via .NET je kompletní balíček pro manipulaci s Micro
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Node.js via .NET obsahuje následující API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/slides/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nodejs-net/" imgSrc="/total/images/aspose_words-for-nodejs-net.svg" productName="Aspose.Words for Node.js via .NET">}}
+Aspose.Words for Node.js via .NET je nativní API, které umožňuje vývojářům v JavaScriptu vytvářet, upravovat, převádět a zabezpečovat dokumenty Word bez nutnosti používat Microsoft Word. Podporuje bohaté formátování, hromadnou korespondenci, grafy, tabulky, převod do více formátů a automatizaci pracovních postupů s dokumenty.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/slides/nodejs-net/" imgSrc="/total/images/aspose_slides-for-nodejs-via-net.svg" productName="Aspose.Slides for Node.js via .NET">}}
 Pracujte s prezentacemi pomocí Powerpoint Node.js API k vytváření, aktualizaci a převodu prezentací PowerPoint a OpenOffice, aniž byste potřebovali Microsoft Office.Navíc API nabízí sloučení, klonování, rozdělení, porovnání a tisk prezentací.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/email/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nodejs-net/" imgSrc="/total/aspose_email-for-nodejs-net.svg" productName="Aspose.Email for Node.js via .NET">}}
 Node.js API pro vytváření, úpravu nebo převod běžných formátů e-mailových zpráv bez obav ze složitosti implementace základního formátu. Zvládejte snadno e-mailové formáty včetně MSG, PST, OST, OFT EML, EMLX, MBOX.
 {{< /blocks/products/pf/total/product-item >}}
 
