@@ -76,7 +76,26 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> 📄 Viewing DOT Files Using Java APIs: Preview Word Templates Anywhere</h2>
+
+Viewing DOT files with Java APIs enables seamless rendering of Word templates in web apps, document generators, and CMS platforms. Users can inspect layouts and styles without Word installed.
+
+## ✅ Key Use Cases
+
+- **Display Templates for Workflows:** Show DOT files in automated document generation.
+- **Preview Styles:** Visualize default formats for new documents.
+- **Template Libraries in CMS:** Let users browse available DOT templates online.
+
+## ⚙️ Automation Scenarios
+
+- **Onboarding Platforms:** Render offer letter or contract templates.
+- **Customization Tools:** Enable users to pick and modify templates.
+- **Template Libraries:** Preview corporate templates in content hubs.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,22 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Managing metadata in DOT template files using Java APIs ensures consistency and control in legacy template libraries. Organizations can track usage, align properties for compliance, and structure template naming conventions.
+
+**Key Use Cases:**  
+- Track usage history to maintain template relevance in legacy systems.  
+- Align template properties with regulatory requirements.  
+- Enforce structured naming across extensive DOT file libraries.
+
+**Automation Scenarios:**  
+- Automate batch auditing of template metadata for compliance checks.  
+- Filter and organize templates based on metadata properties.  
+- Apply AI to classify and update legacy DOT files intelligently.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,22 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Merging DOT files using Java APIs modernizes legacy template management across large organizations. Programmatic DOT merging supports consistent branding, layout reuse, and template standardization.
+
+**Key Use Cases:**
+- **Legacy Templates:** Combine old DOT templates into unified master templates.
+- **Department Layouts:** Ensure consistent formatting across departmental documents.
+- **Reusable Content:** Modernize reusable sections by merging DOT files for easy DOCX output.
+
+**Automation Scenarios:**
+- **DOT-to-DOCX Merging:** Automate conversion while merging legacy templates.
+- **Batch Template Assembly:** Consolidate multiple templates into a single master file.
+- **AI-Guided Standardization:** Use AI to detect inconsistencies and align layouts for brand compliance.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

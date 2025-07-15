@@ -74,7 +74,22 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Accessing and managing metadata in ODT files using APIs in Java applications is key for organizing academic, multilingual, and open-source text documents.
+
+**Key Use Cases:**  
+- Classify academic papers and research reports by metadata.  
+- Attribute authorship to maintain academic integrity.  
+- Organize multilingual documents for global collaboration.
+
+**Automation Scenarios:**  
+- Extract metadata at scale from large ODT libraries.  
+- Sort documents by author or subject fields.  
+- Use AI to cluster and tag ODT files for easy discovery.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

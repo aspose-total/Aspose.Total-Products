@@ -74,7 +74,36 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> 📑 Accessing and Managing Metadata in DOC Files Using Java APIs: Preserve, Audit, and Automate</h2>
+
+Accessing and managing metadata in DOC files using APIs in Java applications is essential for ensuring data integrity, legal compliance, and streamlined document workflows. By programmatically handling metadata, organizations can maintain accuracy, improve document governance, and unlock automation opportunities across large archives.
+
+## ✅ Key Use Cases
+
+- **Migration with Integrity**  
+  Migrate historical DOC files while preserving critical metadata such as author, creation date, and revisions, ensuring regulatory compliance and traceability during system upgrades.
+
+- **Legal Authorship Auditing**  
+  Audit and verify document authorship in legal repositories to uphold chain-of-custody standards, resolve disputes, and support e-discovery processes.
+
+- **Enhanced Search Filters**  
+  Improve search efficiency by leveraging metadata to filter archived DOC files by author, creation date, department, or classification.
+
+## ⚙️ Automation Scenarios
+
+- **Automated Metadata Extraction**  
+  Extract metadata from thousands of legacy DOC files automatically, saving time and reducing manual errors.
+
+- **Legacy Format Cleanup**  
+  Identify and correct inconsistent or missing metadata in old DOC files, improving the quality of digital archives.
+
+- **AI-Driven Metadata Tagging**  
+  Combine Java APIs with AI to enrich DOC file metadata with intelligent tags and classifications, boosting discoverability and content management.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

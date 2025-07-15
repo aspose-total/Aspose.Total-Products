@@ -75,7 +75,26 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> ✂️ Splitting ODT Files Using Java APIs: Modular Open-Source Document Delivery</h2>
+
+Splitting ODT files with Java APIs allows teams to break down large open-source documents for easier management, personalization, and sharing. This supports dynamic publishing and improves mobile access.
+
+## ✅ Key Use Cases
+
+- **Modular Manuals**: Divide long manuals into smaller, role-specific ODT files.
+- **Policy Isolation**: Separate company policies by department or region.
+- **Targeted Outputs**: Generate targeted versions from a master ODT.
+
+## ⚙️ Automation Scenarios
+
+- **Document Personalization**: Automate generation of user-specific ODT files.
+- **Open-Source DMS Integration**: Integrate split files into document management systems.
+- **Mobile-Friendly Publishing**: Deliver smaller, relevant ODT files for on-the-go access.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

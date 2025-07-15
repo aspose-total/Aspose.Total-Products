@@ -76,7 +76,27 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> 📄 Viewing DOCM Files Using Java APIs: Safe Macro-Enabled Document Previews</h2>
+
+Using Java APIs to view DOCM files helps organizations securely render macro-enabled Word documents without executing scripts. This is vital for regulated industries handling technical docs and sensitive content.
+
+## ✅ Key Use Cases
+
+- **Secure Macro Document Previews:** Inspect DOCM files in finance, legal, or healthcare settings.
+- **Review Technical Docs with Scripts:** View embedded macros safely without running them.
+- **Content Inspection:** Allow compliance teams to validate DOCM content before use.
+
+## ⚙️ Automation Scenarios
+
+- **Sandboxed Viewers:** Render DOCM files safely in controlled environments.
+- **IT Governance Dashboards:** Monitor macro-enabled documents visually.
+- **Document Validation Tools:** Automate review of DOCM drafts for compliance.
+- **Project Documentation Portals:** Display macro-enabled docs to stakeholders.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

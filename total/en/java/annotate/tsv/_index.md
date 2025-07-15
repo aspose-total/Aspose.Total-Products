@@ -117,7 +117,26 @@ For details please refer to [Product Documentation](https://docs.aspose.com/cell
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> 📝 Why Annotate TSV Files: Improve Log Analysis, Data Reviews & Plain-Text Documentation</h2>
+
+Annotating **TSV (Tab-Separated Values)** files is essential for teams working with structured plain-text data like logs, datasets, and exported reports. Adding comments or notes to TSV files improves clarity, ensures accurate data interpretation, and streamlines collaboration.
+
+## ✅ Key Use Cases
+
+- **Log Analysis:** Use annotations to explain fields, flag anomalies, and highlight trends in log exports saved as TSV files.
+- **Plain-Text Documentation:** Add notes to describe columns, data sources, or transformation steps directly within TSV documentation.
+- **Source Data Reviews:** Insert inline comments to mark data quality issues, suggest corrections, or clarify context for analysts.
+
+## ⚙️ Automation Benefits
+
+- **AI Preprocessing:** Automate annotation to tag patterns, detect outliers, and enrich TSV files before machine learning or reporting.
+- **Code Reviews:** Use annotated TSVs to clarify test data, verify input/output structures, and document dataset changes.
+- **Technical Documentation:** Integrate automated annotations to keep TSV-based data dictionaries, configs, and processing notes clear and up to date.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

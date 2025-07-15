@@ -74,7 +74,22 @@ For JogAmp JOGL, Harfbuzz font engine and Java Advanced Imaging JAI details plea
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Extracting metadata from RTF files using APIs in Java applications enhances document management in lightweight or legacy systems. Programmatic extraction supports organizing, tracing, and searching text-based documents.
+
+**Key Use Cases:**  
+- Organize legal text documents by metadata attributes.  
+- Trace authorship and edit history in medical or clinical documents.  
+- Power metadata-driven search in lightweight archives.
+
+**Automation Scenarios:**  
+- Extract RTF properties at scale with minimal manual effort.  
+- Scan legacy RTF archives for hidden or missing metadata.  
+- Apply AI to auto-tag RTF files based on content and metadata.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
