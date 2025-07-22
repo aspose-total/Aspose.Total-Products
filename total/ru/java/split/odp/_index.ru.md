@@ -68,7 +68,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Разделение файлов ODP с использованием Java API: Управление целевыми презентациями</h2>
+
+Разделение файлов ODP с использованием Java API помогает организациям создавать сфокусированные, тематические слайд-деки. Это поддерживает обучение, мероприятия и презентации, обеспечивая модульную доставку контента и повторное использование.
+
+## ✅ Основные сценарии использования
+
+- **Тематические слайд-деки**: Разделение больших презентаций на деки по темам для целевой аудитории.
+- **Обучающие презентации**: Разбиение учебных материалов на модули для удобного обучения и обновлений.
+- **Сессии мероприятий**: Разделение слайдов мероприятия на файлы ODP для каждой сессии для плавной доставки.
+
+## ⚙️ Сценарии автоматизации
+
+- **Генерация слайдов для LMS**: Автоматизация создания модульных слайдов для систем управления обучением.
+- **Повторное использование слайдов**: Повторное использование основных слайдов в различных презентациях и проектах.
+- **Сегментация презентаций**: Разделение больших презентаций на управляемые разделы для удобной доставки.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

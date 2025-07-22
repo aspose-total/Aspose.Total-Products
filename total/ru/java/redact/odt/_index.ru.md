@@ -75,7 +75,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Удаление ODT (OpenDocument Text) файлов с помощью Java API помогает защитить конфиденциальный текст в документах открытого формата. Автоматическая редакция удаляет личные идентификаторы, скрывает обратную связь и маскирует чувствительные детали в государственных формах.
+
+## ✅ Основные сценарии использования
+
+- **Научные статьи:** Удаление персональных данных студентов или авторов в опубликованных исследованиях.
+- **Конфиденциальные обзоры:** Скрытие внутренней обратной связи в общих черновиках.
+- **Государственные формы:** Маскировка чувствительных данных граждан для соблюдения норм.
+
+## ⚙️ Сценарии автоматизации
+
+- **Законы о защите данных:** Автоматизация редакции для GDPR и аналогичных правил.
+- **Защита информаторов:** Безопасное управление чувствительными раскрытиями.
+- **Сотрудничество в общественном секторе:** Безопасное распространение очищенных файлов ODT.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

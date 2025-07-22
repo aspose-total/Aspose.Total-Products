@@ -80,7 +80,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Gestion des métadonnées dans les fichiers XLSM activés par macro à l'aide d'API dans les applications Java
+
+Il est vital de maintenir la sécurité des macros, le suivi de l'auteur et la conformité dans les feuilles de calcul automatisées.
+
+**Principaux cas d'utilisation :**
+- Surveiller l'utilisation des macros pour détecter les scripts non autorisés.
+- Garantir la conformité à la sécurité des macros dans les feuilles de calcul sensibles.
+- Suivre l'auteur de la feuille de calcul pour les pistes de vérification dans les outils automatisés.
+
+**Scénarios d'automatisation :**
+- Valider les métadonnées sensibles aux macros de manière programmatique.
+- Générer des pistes de vérification automatisées pour les modifications de macros.
+- Utiliser l'IA pour classer les fichiers XLSM en fonction des risques et des modèles d'utilisation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

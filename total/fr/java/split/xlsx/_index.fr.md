@@ -71,7 +71,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Fractionnement des fichiers XLSX à l'aide des API Java : Gestion agile des données de feuilles de calcul</h2>
+
+Fractionner des fichiers XLSX à l'aide des API Java simplifie la manipulation des feuilles de calcul modernes en les divisant en parties ciblées pour un meilleur reporting, une personnalisation et un accès mobile améliorés.
+
+## ✅ Cas d'utilisation clés
+
+- **Feuilles de performances** : Isoler les métriques de performance pour les équipes ou les clients.
+- **Tableaux de bord financiers** : Diviser les tableaux de bord complexes pour des départements spécifiques.
+- **Feuilles de calcul spécifiques à l'équipe** : Générer des fichiers XLSX personnalisés pour des unités ou des régions.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Reporting analytique** : Automatiser les exportations fractionnées pour l'intelligence commerciale.
+- **Exportations de données personnalisées** : Livrer des tranches de feuilles de calcul ciblées aux parties prenantes.
+- **Optimisation des tableaux de bord mobiles** : Servir des fichiers XLSX légers pour les tableaux de bord mobiles.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

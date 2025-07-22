@@ -75,7 +75,25 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redaktion von ODT (OpenDocument Text)-Dateien durch Java-APIs hilft dabei, sensible Texte in offenen Formaten zu schützen. Die automatisierte Schwärzung entfernt persönliche Identifikatoren, versteckt Feedback und maskiert sensible Details in Regierungsformularen.
+
+## ✅ Hauptanwendungsfälle
+
+- **Akademische Arbeiten:** Entfernen von Studenten- oder Autoren-PII in veröffentlichten Forschungsarbeiten.
+- **Vertrauliche Bewertungen:** Verbergen von internem Feedback in gemeinsam genutzten Entwürfen.
+- **Regierungsformulare:** Maskierung sensibler Bürgerdaten zur Einhaltung von Vorschriften.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Datenschutzgesetze:** Automatisierung der Schwärzung für die DSGVO und ähnliche Vorschriften.
+- **Schutz von Hinweisgebern:** Sicherer Umgang mit sensiblen Meldungen.
+- **Zusammenarbeit im öffentlichen Sektor:** Verteilung von bereinigten ODT-Dateien sicherstellen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

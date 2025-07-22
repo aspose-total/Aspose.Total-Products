@@ -89,7 +89,26 @@ Weitere Einzelheiten zu optionalen Paketabhängigkeiten wie JogAmp JOGL, Harfbuz
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ Word-Dateien mit Java-APIs durchsuchen: Kontrolle textbasierter Informationen</h2>
+
+## ✅ Hauptanwendungsfälle
+
+- **Identifizierung sensibler Begriffe in Verträgen**: Vertrauliche Klauseln und Verpflichtungen erkennen.
+- **Auffinden von Produktspezifikationen in Handbüchern**: Schnelles Auffinden wichtiger Produktdetails.
+- **Entdecken von Richtlinienaussagen in HR-Dokumenten**: Überprüfen, ob HR-Richtlinien klar und konsistent sind.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Rechtliche Konformität**: Automatisierung von Vertragsprüfungen für rechtliche Überprüfungen.
+- **Wissensextraktion**: Unterstützung von Wissensarbeitern bei schneller Suche.
+- **KI-gestützte Klassifizierung**: Automatisches Taggen von Dokumenten nach entdeckten Themen.
+- **Analyse von Unternehmensdokumenten**: Verknüpfung von Word-Dateien mit umfassenderen Unternehmenssuchsystemen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

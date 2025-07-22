@@ -76,7 +76,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation clés :
+
+- **Archives photo :** Construisez des archives photo organisées en fusionnant des JPG liés.
+- **Téléchargements clients :** Combinez les images téléchargées par les utilisateurs en publications visuelles uniques.
+- **Actifs de marque unifiés :** Fusionnez plusieurs JPG en visuels de marque cohérents pour des campagnes.
+
+## Scénarios d'automatisation :
+
+- **Fusion en masse de JPG :** Gérez la consolidation de JPG à grand volume avec un effort manuel minimal.
+- **Composition en temps réel :** Fusionnez dynamiquement des images au fur et à mesure de leur téléchargement.
+- **Alignement assisté par IA :** Alignez et combinez des JPG pour des présentations soignées et conformes à la marque.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

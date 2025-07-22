@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Использование Java API для редактирования PDF-файлов является основой для защиты универсально распространенных документов. Автоматическая редакция удаляет имена клиентов, скрывает медицинские истории и маскирует SSN в налоговых формах с высокой точностью.
+
+## ✅ Основные сценарии использования
+
+- **Контракты:** Исключение деталей клиентов из юридических PDF-файлов.
+- **Медицинские документы:** Редакция историй пациентов для соответствия требованиям.
+- **Налоговые формы:** Маскировка номеров социального страхования в финансовых отчетах.
+
+## ⚙️ Сценарии автоматизации
+
+- **Соответствие GDPR/HIPAA:** Обеспечение соблюдения политики конфиденциальности в масштабе.
+- **Безопасный обмен:** Безопасное обмен PDF-файлами с третьими сторонами.
+- **Электронное обнаружение:** Автоматизация редакции для процессов FOIA или судебных процессов.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

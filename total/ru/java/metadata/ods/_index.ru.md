@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Извлечение и изменение метаданных в электронных таблицах ODS с использованием API в приложениях Java помогает организациям эффективно управлять активами открытых данных.
+
+**Основные сценарии использования:**
+- Отслеживание владения электронными таблицами в совместных средах.
+- Категоризация финансовых или операционных данных по отделам или проектам.
+- Поддержка жизненного цикла документов и политик соответствия.
+
+**Сценарии автоматизации:**
+- Выполнение пакетной разметки метаданных для файлов ODS.
+- Автоматическая классификация столбцов и типов данных.
+- Использование искусственного интеллекта для заполнения отсутствующих метаданных для лучшего управления данными.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

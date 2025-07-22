@@ -76,7 +76,21 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Schlüsselanwendungsfälle:</h2>
+- **Rechtstechnologie:** Kompilieren von visuellen Beweisen in einzelnen Fallakten.
+- **Soziale Plattformen:** Zusammenstellen von benutzergenerierten Bildern für soziale Feeds.
+- **Grafikreiche Berichte:** Zusammenführen von Diagrammen, Infografiken und Fotos in vereinheitlichten Berichten.
+
+<h2>Automatisierungsszenarien:</h2>
+- **Dynamische Rastergenerierung:** Automatisches Generieren von Bildrastern für Präsentationen.
+- **Formatagnostisches Zusammenführen:** Nahtloses Zusammenführen gemischter Bildformate.
+- **KI-Layoutkuratierung:** Verwenden von KI zur Gestaltung, Anordnung und Optimierung der endgültigen Visuals.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

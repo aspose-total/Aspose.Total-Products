@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Accéder et modifier les métadonnées dans les modèles DOTX à l'aide d'API dans les applications Java aide à maintenir le contrôle des versions, l'alignement avec les unités commerciales et la conformité aux politiques.
+
+**Principaux cas d'utilisation :**
+- Faire respecter la version des modèles à travers les équipes et les départements.
+- Catégoriser les modèles en fonction des unités commerciales ou des départements.
+- Soutenir la conformité en assurant la cohérence des métadonnées.
+
+**Scénarios d'automatisation :**
+- Automatiser l'injection de métadonnées lors de la création ou de la mise à jour des modèles.
+- Classer et organiser les modèles de manière programmable.
+- Gérer l'ensemble du cycle de vie du modèle avec le suivi des métadonnées alimenté par l'IA.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

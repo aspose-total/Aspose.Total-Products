@@ -71,7 +71,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Découper des fichiers XLS en utilisant des API Java : Moderniser la manipulation des feuilles de calcul héritées</h2>
+
+## ✅ Cas d'utilisation clés
+
+- **Enregistrements annuels** : Extraire des données spécifiques à une année à partir de grands fichiers XLS.
+- **Journaux d'activité professionnelle** : Séparer les journaux d'activité commerciale en fichiers modulaires.
+- **Données au format ancien** : Préparer les feuilles de calcul héritées pour l'intégration avec des systèmes modernes.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Migration héritée** : Diviser et moderniser d'anciens fichiers XLS pour de nouveaux systèmes.
+- **Traitement de fichiers Excel** : Automatiser l'extraction de données pour les rapports.
+- **Intégration d'outils mobiles** : Livrer des fichiers XLS plus petits pour des outils mobiles légers.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

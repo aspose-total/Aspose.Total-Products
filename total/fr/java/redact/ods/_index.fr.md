@@ -74,7 +74,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Rediger des fichiers ODS (OpenDocument Spreadsheet) en utilisant des API Java est essentiel pour les organisations traitant des données de tableur open source. La rédaction programmée masque les salaires, supprime les détails médicaux et cache les tarifs des fournisseurs dans les feuilles de commande.
+
+## ✅ Cas d'utilisation clés
+
+- **Rapports de salaire :** Dissimuler les détails de rémunération dans les publications de données ouvertes.
+- **Dossiers médicaux :** Supprimer les données de santé pour la conformité à la recherche.
+- **Feuilles de commande :** Cacher les tarifs des fournisseurs dans les budgets partagés.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Publication de données ouvertes :** Assainir les données pour une diffusion publique.
+- **Conformité à la recherche :** Respecter les lois sur la confidentialité des ensembles de données publiés.
+- **Partage interne :** Distribuer des feuilles de calcul sans exposer d'informations confidentielles.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

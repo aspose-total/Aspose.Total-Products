@@ -76,7 +76,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>حالات الاستخدام الرئيسية:</h2>
+- **عناصر تصميم الغطاء:** دمج PNGs شفافة في أدوات التصميم الإبداعي.
+- **تجميع مكونات واجهة المستخدم:** دمج الرموز والأزرار وعناصر واجهة المستخدم الأخرى.
+- **لقطات شاشة المنتج:** تجميع لقطات شاشة متعددة للدلائل والمساعدة عبر الإنترنت.
+
+<h2>سيناريوهات الأتمتة:</h2>
+- **الحفاظ على قناة ألفا:** الحفاظ على الشفافية أثناء الدمج.
+- **توليد صورة مركبة:** أتمتة تكوينات PNG متعددة الطبقات.
+- **تقديم تخطيط AI:** استخدام الذكاء الاصطناعي لترتيب العناصر تلقائيًا في تخطيطات مثالية بالبكسل.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Zusammenführen von makrofähigen DOCM-Dateien mit Java-APIs
+
+Das Zusammenführen von makrofähigen DOCM-Dateien mithilfe von Java-APIs gewährleistet eine sichere und konsistente Automatisierung für komplexe Dokumentationsanforderungen. Die programmgesteuerte Zusammenführung von DOCM-Dateien hilft dabei, die Makro-Integrität zu erhalten und Workflows zu optimieren.
+
+**Hauptanwendungsfälle:**
+- **Compliance-Dokumentation:** Zusammenführen mehrerer DOCM-Dateien zur Erstellung von prüffertigen Compliance-Paketen.
+- **Makro-Vorlagen:** Konsolidierung wiederverwendbarer Makro-Vorlagen für eine konsistente Automatisierung.
+- **Prüfberichte:** Kombinieren von makrobasierten Berichten für einheitliche Prüfeinreichungen.
+
+**Automatisierungsszenarien:**
+- **Sicheres Makro-Zusammenführen:** Validierung und Erhalt der Makro-Funktionalität während des Zusammenführens.
+- **Versionskontrolle:** Automatisierung der Versionsverfolgung beim Zusammenführen verschiedener DOCM-Dateien.
+- **Makro-Inhaltsdetektion:** Einsatz von KI zur Erkennung, Bereinigung und Optimierung von Makro-Skripten in zusammengeführten Dateien.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

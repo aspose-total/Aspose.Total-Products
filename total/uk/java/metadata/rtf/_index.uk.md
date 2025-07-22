@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Видобуток метаданих з RTF-файлів за допомогою API в додатках Java покращує управління документами в легких або застарілих системах. Програмний видобуток підтримує організацію, відстеження та пошук текстових документів.
+
+**Ключові сценарії використання:**
+- Організація юридичних текстових документів за атрибутами метаданих.
+- Відстеження авторства та історії редагування в медичних або клінічних документах.
+- Пошук, побудований на метаданих, в легких архівах.
+
+**Сценарії автоматизації:**
+- Видобуток властивостей RTF у масштабі з мінімальними ручними зусиллями.
+- Сканування застарілих RTF-архівів для прихованих або відсутніх метаданих.
+- Використання штучного інтелекту для автоматичного тегування файлів RTF на основі вмісту та метаданих.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

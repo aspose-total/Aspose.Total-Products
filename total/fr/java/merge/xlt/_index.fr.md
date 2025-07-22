@@ -75,7 +75,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de fichiers de modèle Excel XLT à l'aide d'API dans les applications Java
+
+La fusion de fichiers de modèle Excel XLT à l'aide d'API dans les applications Java simplifie la génération de rapports standardisés au sein des équipes. L'automatisation garantit des mises en page et une image de marque cohérentes pour les tâches répétables.
+
+**Cas d'utilisation clés :**
+- **Modèles de département :** Combinez les modèles d'équipe en une version principale.
+- **Rapports standardisés :** Automatisez la génération de rapports avec un style cohérent.
+- **Conformité à l'image de marque :** Faites respecter l'image de marque de l'entreprise dans tous les modèles Excel.
+
+**Scénarios d'automatisation :**
+- **Conversion XLT en XLS :** Fusionnez les modèles et générez des classeurs remplis.
+- **Rapports pré-remplis :** Remplissez les modèles fusionnés avec des données dynamiques.
+- **Suivi de l'utilisation de l'IA :** Exploitez l'IA pour surveiller l'utilisation des modèles et suggérer des améliorations.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

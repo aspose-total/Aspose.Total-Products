@@ -75,7 +75,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de fichiers TSV en Java à l'aide d'API
+
+Fusionner des fichiers TSV (valeurs séparées par des tabulations) à l'aide d'API dans les applications Java est essentiel pour gérer des données tabulaires à grande échelle. La fusion TSV programmée simplifie la consolidation des données, la validation et la génération de rapports pour les tâches de recherche et d'entreprise.
+
+**Cas d'utilisation clés :**
+- **Exportations tabulaires :** Combinez les exportations de données TSV à partir de différents outils en un seul ensemble de données.
+- **Journaux d'analyse :** Fusionnez de grands volumes de fichiers journaux pour une analyse centralisée.
+- **Ensembles de données de recherche :** Consolidez les données expérimentales ou d'enquête pour des rapports clairs et structurés.
+
+**Scénarios d'automatisation :**
+- **Ingestion par lots :** Automatisez la fusion de centaines de fichiers TSV rapidement.
+- **Agrégation en temps réel :** Fusionnez continuellement les journaux TSV pour des tableaux de bord en direct.
+- **Validation des données IA :** Utilisez l'IA pour détecter les doublons, corriger les incohérences et nettoyer les données tabulaires fusionnées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

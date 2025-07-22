@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Объединение файлов OTP (шаблон презентации OpenDocument) с использованием API в приложениях Java позволяет командам поддерживать целостность бренда и стандарты презентаций в масштабах. Автоматизация делает рабочие процессы на основе шаблонов более быстрыми и надежными.
+
+**Основные сценарии использования:**
+- **Стандартные слайдовые презентации:** Объединение шаблонов OTP для создания брендированных слайдов для повторяющихся встреч.
+- **Шаблоны отделов:** Объединение отделных файлов OTP в общие шаблоны для всей компании.
+- **Сохранение брендовой однородности:** Поддержание единого дизайна, цветов и макетов во всех презентациях.
+
+**Сценарии автоматизации:**
+- **Преобразование OTP в ODP:** Автоматизация объединения шаблонов и мгновенного создания презентаций.
+- **Заполнение контента:** Предварительное заполнение слайдов динамическими данными для быстрого создания презентаций.
+- **Персонализация с помощью ИИ:** Использование искусственного интеллекта для настройки слайдов для различных аудиторий и команд.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

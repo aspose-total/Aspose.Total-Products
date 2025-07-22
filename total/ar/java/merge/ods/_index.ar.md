@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## دمج ملفات ODS (جداول بيانات OpenDocument) باستخدام واجهات برمجة التطبيقات في تطبيقات Java يساعد المؤسسات على استغلال سير العمل لجداول البيانات مفتوحة المصدر بكفاءة. يدعم الدمج البرمجي لملفات ODS إدارة البيانات بسلاسة، والتحليل التعاوني، وإعداد التقارير بوضوح.
+
+**حالات الاستخدام الرئيسية:**
+- **جداول بيانات مفتوحة المصدر:** دمج ملفات ODS من أقسام أو فِرَق مختلفة.
+- **الميزانية:** دمج ميزانيات الأقسام في ملف ODS واحد رئيسي.
+- **لوحات القيادة المتكاملة:** توحيد بيانات التحليل في لوحات قيادة متعددة الألسنة.
+
+**سيناريوهات التأتير:**
+- **دمج ODS إلى Excel:** دمج ملفات ODS وتحويلها إلى Excel لزيادة التوافق.
+- **تقارير متعددة الألسنة:** أتمتة إنشاء تقارير تحتوي على أوراق عمل متعددة.
+- **استمرارية صيغ الذكاء الاصطناعي:** استخدام الذكاء الاصطناعي للتحقق وتوحيد الصيغ أثناء الدمج.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

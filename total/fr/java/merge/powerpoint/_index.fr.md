@@ -74,7 +74,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation clés :
+- **Présentations professionnelles :** Fusionner plusieurs présentations en une seule diapositive professionnelle.
+- **Pitch Decks :** Combinez des diapositives de différents membres de l'équipe pour des présentations unifiées.
+- **Matériaux de réunion :** Consolidez les rapports et les diapositives pour des réunions fluides.
+
+## Scénarios d'automatisation :
+- **Déduplication des diapositives :** Supprimer automatiquement les diapositives en double.
+- **Normalisation de la conception :** Appliquer des modèles et thèmes cohérents.
+- **Récit basé sur l'IA :** Utiliser l'IA pour affiner le déroulement narratif et mettre en avant les messages clés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

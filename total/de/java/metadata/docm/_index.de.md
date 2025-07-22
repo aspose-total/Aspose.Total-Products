@@ -74,7 +74,21 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Zugriff und Verwaltung von Metadaten in makrofähigen DOCM-Dateien mithilfe von APIs in Java-Anwendungen sind für sichere und konforme Dokumenten-Workflows unerlässlich. Durch die programmgesteuerte Verarbeitung von DOCM-Metadaten können Organisationen Makroquellen identifizieren, die Versionshistorie verfolgen und die Governance in templatebasierten Prozessen aufrechterhalten.
+
+**Hauptanwendungsfälle:**
+- Identifizieren und Überprüfen von Makroquellen, um unbefugte Codeausführung zu verhindern.
+- Versionshistorie verfolgen, um Audit-Trails für die Einhaltung zu führen.
+- Sicherstellen, dass Vorlagen mit Makros den internen Workflow-Standards entsprechen.
+
+**Automatisierungsszenarien:**
+- Automatisieren der Metadatenvalidierung über DOCM-Dateien, um Konsistenz sicherzustellen.
+- Überwachen von Makronutzungsmustern und automatisches Kennzeichnen von Anomalien.
+- Verwenden von KI-unterstützter Kategorisierung zur Organisation dynamischer DOCM-Dateien nach Makrotypen, Autorenschaft und Version.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

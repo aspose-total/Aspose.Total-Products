@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## استخراج وتعديل البيانات الوصفية في جداول ODS باستخدام واجهات برمجة التطبيقات في تطبيقات Java يساعد المؤسسات في إدارة أصول البيانات مفتوحة المصدر بفعالية.
+
+**حالات الاستخدام الرئيسية:**  
+- تتبع ملكية جداول البيانات في بيئات التعاون.  
+- تصنيف البيانات المالية أو التشغيلية حسب الإدارة أو المشروع.  
+- دعم سياسات دورة حياة المستندات والامتثال.
+
+**سيناريوهات الأتمتة:**  
+- تنفيذ علامات وصفية دفعية لملفات ODS.  
+- تصنيف الأعمدة وأنواع البيانات تلقائيًا.  
+- استخدام الذكاء الاصطناعي لملء البيانات الوصفية المفقودة لتحسين حوكمة البيانات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

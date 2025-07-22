@@ -74,7 +74,19 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>الحالات الاستخدام الرئيسية:</h2>  
+- فرض إصدار النماذج عبر الفِرَق والأقسام.  
+- تصنيف النماذج بناءً على وحدات الأعمال أو الأقسام.  
+- دعم الامتثال من خلال ضمان تناسق البيانات الوصفية.
+
+<h2>سيناريوهات الأتمتة:</h2>  
+- أتمتة حقن البيانات الوصفية عند إنشاء أو تحديث النماذج.  
+- تصنيف وتنظيم النماذج بشكل برمجي.  
+- إدارة دورة حياة النموذج بالكامل باستخدام تتبع البيانات الوصفية المدعوم بالذكاء الاصطناعي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

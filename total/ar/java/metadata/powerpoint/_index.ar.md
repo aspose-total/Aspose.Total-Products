@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## إدارة البيانات الوصفية في ملفات Microsoft PowerPoint باستخدام واجهات برمجة التطبيقات في تطبيقات Java تضمن توحيد العلامة التجارية وتنظيم مكتبات العروض.
+
+**حالات الاستخدام الرئيسية:**  
+- تصنيف العروض الشركية حسب الموضوع أو القسم.  
+- فرض سياسات العلامة التجارية وحقوق النشر من خلال البيانات الوصفية.  
+- تنظيم مكتبات الشرائح الواسعة للوصول السريع.
+
+**سيناريوهات الأتمتة:**  
+- أتمتة وسم دفعات خصائص العروض.  
+- فرز الأكوام بناءً على البيانات الوصفية مثل المؤلف أو الحملة.  
+- تطبيق الذكاء الاصطناعي لتصنيف مجموعات الشرائح حسب الموضوع والاستخدام.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

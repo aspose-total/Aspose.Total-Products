@@ -74,7 +74,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📈 Analyse des fichiers PPTX à l'aide des API Java : Automatisation moderne des présentations</h2>
+
+L'analyse des fichiers PPTX avec les API Java permet d'extraire le contenu des diapositives, d'extraire des actifs réutilisables et d'analyser la mise en page. Cela permet de raconter des histoires d'entreprise, d'automatiser les flux de travail d'apprentissage automatique et d'enrichir le contenu en temps réel.
+
+## ✅ Cas d'utilisation clés
+
+- **Extraction du contenu des diapositives :** Extraire du texte, des formes et des notes.
+- **Extraction d'actifs :** Réutiliser efficacement des images et des graphiques.
+- **Analyse de la mise en page :** Automatiser les vérifications de flux de diapositives.
+- **Récit d'entreprise :** Réutiliser les diapositives sur différents canaux.
+- **Apprentissage automatique :** Entraîner des modèles d'IA sur le contenu des diapositives.
+- **Enrichissement en temps réel :** Mettre à jour dynamiquement les présentations.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

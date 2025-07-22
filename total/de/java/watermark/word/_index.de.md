@@ -78,7 +78,25 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Anwendung von Wasserzeichen auf WORD-Dateien mithilfe von Java-APIs hilft Organisationen dabei, Inhalte zu schützen, Status zu signalisieren und das Branding zu stärken. Die programmgesteuerte Wasserzeichnung erleichtert die Identifizierung von Entwürfen, kennzeichnet Berichte als privat oder enthält Markenelemente.
+
+## ✅ Hauptanwendungsfälle
+
+- **Identifizierung von Entwürfen** — Kennzeichnen von Arbeitskopien mit "Entwurf" oder "Zur Überprüfung".
+- **Markenkommunikation** — Einbetten von Firmenlogos in interne WORD-Dateien.
+- **Kennzeichnung privater Berichte** — Vertraulichen Status bei sensiblen Dokumenten deutlich anzeigen.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Vertragsautomatisierungstools** — Automatisches Hinzufügen von Wasserzeichen zu generierten Verträgen.
+- **Compliance-Pipelines** — Markierung von Berichten für behördliche Einreichungen.
+- **Veröffentlichungssysteme** — Konsistente Wasserzeichen auf veröffentlichte Berichte anwenden.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

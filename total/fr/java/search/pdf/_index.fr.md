@@ -92,7 +92,27 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Recherche de fichiers PDF à l'aide d'API Java : Rationaliser l'analyse de documents</h2>
+
+## ✅ Cas d'utilisation clés
+
+- **Identifier les clauses clés dans les contrats numérisés** : Localiser des termes spécifiques dans des fichiers juridiques numérisés.
+- **Extraire les termes des manuels de produits** : Récupérer les spécifications techniques pour le support et la formation.
+- **Récupérer les références de jurisprudence dans les PDF juridiques** : Rechercher dans les bases de données juridiques des citations et des numéros d'affaires.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Audits de conformité** : Automatiser les vérifications PDF pour les exigences réglementaires.
+- **Analyse de documents d'entreprise** : Obtenir des informations en scannant de vastes référentiels PDF.
+- **Recherche juridique intelligente** : Soutenir les avocats avec des recherches rapides et précises.
+- **Indexation OCR alimentée par l'IA** : Combinez l'OCR avec des API pour extraire le texte des PDF numérisés.
+- **Flux de travail de contenu numérique** : Intégrer la recherche PDF dans des pipelines de documents plus larges.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

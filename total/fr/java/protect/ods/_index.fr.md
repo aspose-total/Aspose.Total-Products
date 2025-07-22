@@ -74,7 +74,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Protéger les fichiers ODS avec des API Java sécurise les feuilles de calcul opérationnelles et les données d'intelligence commerciale. Les règles automatisées verrouillent les modèles, imposent des vues en lecture seule et garantissent un accès uniquement autorisé aux informations de planification stratégique.</h2>
+
+**Principaux cas d'utilisation**
+- Protéger les données opérationnelles dans les feuilles de calcul partagées.
+- Verrouiller les modèles contre les modifications non autorisées.
+- Imposer des rapports d'analyse commerciale en lecture seule.
+
+**Scénarios d'automatisation**
+- Conformité réglementaire pour la manipulation des données.
+- Protéger les données d'entraînement de l'IA dans les fichiers ODS.
+- Contrôler les cycles de vie des fichiers de planification.
+- Protéger le partage interne de données.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

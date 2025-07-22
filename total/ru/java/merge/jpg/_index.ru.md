@@ -76,7 +76,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Фотоархивы:** Создание организованных фотоархивов путем объединения связанных JPG-файлов.
+- **Загрузка клиентов:** Объединение загруженных пользователями изображений в одиночные визуальные посты.
+- **Объединенные брендовые ресурсы:** Объединение нескольких JPG-файлов в цельные визуальные элементы бренда для кампаний.
+
+## Сценарии автоматизации:
+- **Массовое объединение JPG:** Обработка объединения большого количества JPG-файлов с минимальными ручными усилиями.
+- **Композиция в реальном времени:** Динамическое объединение изображений по мере их загрузки.
+- **Выравнивание с помощью искусственного интеллекта:** Выравнивание и объединение JPG-файлов для создания отполированных презентаций в соответствии с брендом.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

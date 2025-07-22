@@ -74,7 +74,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## حالات الاستخدام الرئيسية
+- تأمين جداول البيانات المالية من التعديلات.
+- حماية بيانات الرواتب والتعويضات بكلمة مرور.
+- تمكين القوالب القابلة للقراءة فقط للميزانيات.
+
+## سيناريوهات الأتمتة
+- الحفاظ على سجلات التدقيق للامتثال.
+- فرض حماية البيانات في التقارير المالية.
+- ضمان الخصوصية في النمذجة المالية التي تعتمد على الذكاء الاصطناعي.
+- التحكم في مشاركة البيانات الاستراتيجية للأعمال.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

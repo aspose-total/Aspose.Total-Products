@@ -88,7 +88,26 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 Recherche de fichiers XLS à l'aide d'API Java : Déverrouiller les données héritées</h2>
+
+## ✅ Cas d'utilisation clés
+
+- **Extraire des données d'audit à partir de feuilles de calcul héritées** : Localiser les transactions historiques et les pistes d'audit dans d'anciens fichiers XLS.
+- **Rechercher des segments de clients dans les feuilles de CRM** : Trouver des groupes ou segments de clients spécifiques au sein des feuilles de CRM archivées.
+- **Identifier les numéros de contrat dans les dossiers de conformité** : Récupérer les numéros de contrat et les termes associés pour les vérifications réglementaires.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Exploration de données d'archives** : Automatiser l'extraction d'informations précieuses à partir de feuilles de calcul obsolètes.
+- **Flux de travail de numérisation de documents** : Soutenir la numérisation en permettant des recherches rapides dans les anciens fichiers XLS.
+- **Vérifications de conformité réglementaire** : Veiller à ce que les anciens enregistrements répondent aux exigences de conformité actuelles.
+- **Interprétation de feuilles de calcul basée sur l'IA** : Intégrer l'analyse intelligente et l'indexation pour des insights améliorés sur les données.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

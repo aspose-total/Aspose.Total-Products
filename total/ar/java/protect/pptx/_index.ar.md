@@ -71,7 +71,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>حالات الاستخدام الرئيسية</h2>
+- تأمين القوالب القابلة للتحرير.
+- قيود الوصول إلى عروض المستثمرين.
+- مشاركة الشرائح الموزعة بصيغة للقراءة فقط.
+
+<h2>سيناريوهات الأتمتة</h2>
+- أمان تدريب الشركات.
+- إنشاء محتوى قائم على الذكاء الاصطناعي.
+- الامتثال لقوانين الخصوصية.
+- تأمين عروض الأطراف المعنية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

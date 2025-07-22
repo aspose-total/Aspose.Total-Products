@@ -74,7 +74,25 @@ Einzelheiten entnehmen Sie bitte [Produktdokumentation](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Durch Java-APIs geschwärzte XLS-Dateien schützen historische Tabellendaten mit sensiblen Informationen. Die automatisierte Schwärzung verbirgt alte Gehaltsabrechnungen, schwärzt Kundendaten und maskiert veraltete Budgetdaten.
+
+## ✅ Schlüsselanwendungsfälle
+
+- **Gehaltsabrechnungen:** Entfernen von Zahlungsdetails in archivierten Dateien.
+- **Kundendaten:** Verbergen von Legacy-Kundeninformationen zur Einhaltung von Aufbewahrungsvorschriften.
+- **Budgetdaten:** Maskierung alter Prognosen oder sensibler Zahlen.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Aufbewahrungspolitiken:** Dateien für Archivierung oder Vernichtung bereinigen.
+- **Sichere Digitalisierung:** Dateien schwärzen, bevor sie in moderne Systeme überführt werden.
+- **Historischer Schutz:** Legacy-Finanzdatensätze sicher und konform aufbewahren.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

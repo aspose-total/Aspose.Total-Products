@@ -74,7 +74,21 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Extrahieren von Metadaten aus RTF-Dateien mithilfe von APIs in Java-Anwendungen verbessert das Dokumentenmanagement in leichten oder Legacy-Systemen. Die programmgesteuerte Extraktion unterstützt die Organisation, Nachverfolgung und Suche von textbasierten Dokumenten.
+
+**Hauptanwendungsfälle:**
+- Organisieren von rechtlichen Textdokumenten nach Metadatenattributen.
+- Nachverfolgen von Autorenschaft und Bearbeitungshistorie in medizinischen oder klinischen Dokumenten.
+- Unterstützung von metadatengesteuerter Suche in leichten Archiven.
+
+**Automatisierungsszenarien:**
+- Extrahieren von RTF-Eigenschaften im großen Maßstab mit minimalem manuellen Aufwand.
+- Scannen von Legacy-RTF-Archiven nach versteckten oder fehlenden Metadaten.
+- Anwendung von KI zur automatischen Markierung von RTF-Dateien basierend auf Inhalt und Metadaten.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

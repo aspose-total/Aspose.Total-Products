@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés:
+
+- Suivre l'historique d'utilisation pour maintenir la pertinence des modèles dans les systèmes hérités.
+- Aligner les propriétés des modèles avec les exigences réglementaires.
+- Imposer un nommage structuré à travers de vastes bibliothèques de fichiers DOT.
+
+## Scénarios d'automatisation:
+
+- Automatiser l'audit en lot des métadonnées des modèles pour les vérifications de conformité.
+- Filtrer et organiser les modèles en fonction des propriétés des métadonnées.
+- Appliquer l'IA pour classer et mettre à jour intelligemment les fichiers DOT hérités.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

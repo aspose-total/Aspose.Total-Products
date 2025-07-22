@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Управление метаданными в файлах Microsoft PowerPoint с использованием API в приложениях Java обеспечивает согласованность бренда и организованные библиотеки презентаций.
+
+**Основные сценарии использования:**
+- Классификация корпоративных презентаций по теме или отделу.
+- Соблюдение политики брендинга и авторских прав с помощью метаданных.
+- Организация обширных библиотек слайдов для быстрого доступа.
+
+**Сценарии автоматизации:**
+- Автоматизация пакетной разметки свойств презентации.
+- Сортировка колод на основе метаданных, таких как автор или кампания.
+- Применение искусственного интеллекта для категоризации колод по теме и использованию.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

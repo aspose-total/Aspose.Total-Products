@@ -80,7 +80,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Utilisation clé :</h2>  
+- Gérer des modèles de données collaboratifs avec une propriété et une version claires.  
+- Étiqueter des classeurs spécifiques au projet pour un meilleur suivi.  
+- Enrichir les tableaux de bord BI avec des métadonnées structurées de feuilles de calcul.
+
+<h2>Scénarios d'automatisation :</h2>  
+- Automatiser le tri des fichiers en utilisant des propriétés de métadonnées personnalisées.  
+- Effectuer des mises à jour par lot pour garantir la cohérence des métadonnées.  
+- Tirer parti de l'IA pour étiqueter les fichiers avec des attributs d'analyse et de conformité.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

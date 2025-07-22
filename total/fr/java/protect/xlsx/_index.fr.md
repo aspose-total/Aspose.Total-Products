@@ -74,7 +74,22 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés
+- Verrouiller les feuilles de calcul basées sur des formules.
+- Protéger par mot de passe les rapports de performance.
+- Autoriser l'accès restreint aux données de vente.
+
+## Scénarios d'automatisation
+- Rapports financiers conformes à l'audit.
+- Feuilles de calcul sous contrôle de version.
+- Jeux de données d'entraînement en IA sécurisés.
+- Analyse d'entreprise collaborative.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

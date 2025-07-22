@@ -71,7 +71,25 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ تقسيم ملفات XLSX باستخدام واجهات برمجة تطبيقات Java: إدارة بيانات جداول البيانات السريعة</h2>
+
+## ✅ حالات الاستخدام الرئيسية
+
+- **أوراق الأداء**: عزل مقاييس الأداء للفرق أو العملاء.
+- **لوحات المعلومات المالية**: تقسيم لوحات معقدة لأقسام محددة.
+- **جداول بيانات محددة للفرق**: إنشاء ملفات XLSX مخصصة لوحدات أو مناطق معينة.
+
+## ⚙️ سيناريوهات التلقائي
+
+- **تقارير التحليلات**: أتمتة تصدير التقارير المقسمة للاستخبارات التجارية.
+- **تصدير البيانات المخصصة**: تقديم شرائح جدول بيانات مستهدفة لأصحاب المصلحة.
+- **تحسين لوحات المعلومات على الهواتف المحمولة**: تقديم ملفات XLSX خفيفة الوزن للوحات المعلومات على الهواتف المحمولة.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

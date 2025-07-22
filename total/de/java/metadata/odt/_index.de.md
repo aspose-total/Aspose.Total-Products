@@ -74,7 +74,23 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Zugriff auf Metadaten in ODT-Dateien mit APIs in Java-Anwendungen
+
+Das Verwalten von Metadaten in ODT-Dateien mithilfe von APIs in Java-Anwendungen ist entscheidend für die Organisation von akademischen, mehrsprachigen und Open-Source-Textdokumenten.
+
+**Hauptanwendungsfälle:**
+- Klassifizieren von wissenschaftlichen Arbeiten und Forschungsberichten nach Metadaten.
+- Autorschaft zuordnen, um die akademische Integrität zu wahren.
+- Mehrsprachige Dokumente für globale Zusammenarbeit organisieren.
+
+**Automatisierungsszenarien:**
+- Metadaten im großen Maßstab aus umfangreichen ODT-Bibliotheken extrahieren.
+- Dokumente nach Autor oder Themengebieten sortieren.
+- KI verwenden, um ODT-Dateien zu gruppieren und zu taggen, um eine einfache Auffindbarkeit zu ermöglichen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principaux cas d'utilisation :</h2>
+- Gérer de grands ensembles de données avec des fichiers binaires compressés.
+- Catégoriser les enregistrements financiers ou opérationnels en backend.
+- Améliorer la découvrabilité des classeurs XLSB à gros volume.
+
+<h2>Scénarios d'automatisation :</h2>
+- Extraire les propriétés des fichiers binaires à grande échelle.
+- Construire des pipelines de classification pour les documents XLSB.
+- Appliquer l'IA pour étiqueter et indexer les classeurs binaires pour la vitesse et l'échelle.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

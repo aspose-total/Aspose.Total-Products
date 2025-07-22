@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés:
+- Identifier les auteurs et contributeurs des projets de présentation.
+- Étiqueter les jeux de diapositives par département, campagne ou sujet.
+- Améliorer la recherche dans les référentiels de contenu et les bases de connaissances.
+
+## Scénarios d'automatisation:
+- Enrichir les métadonnées pour les assistants IA et la recherche intelligente.
+- Suivre les étapes du cycle de vie de la présentation avec les mises à jour des métadonnées.
+- Automatiser le nettoyage à grande échelle et l'étiquetage dans les bibliothèques de diapositives.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

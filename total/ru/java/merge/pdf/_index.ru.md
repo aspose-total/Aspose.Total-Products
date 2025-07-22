@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Подписанные контракты:** Соберите несколько подписанных соглашений в один организованный PDF-файл.
+- **Отсканированные страницы:** Объедините отсканированные бумажные документы в поисковые цифровые файлы.
+- **Финансовые отчеты:** Объедините таблицы, графики и отчеты в обширные PDF-отчеты для заинтересованных сторон.
+
+## Сценарии автоматизации:
+- **Пакетная сборка PDF:** Программное объединение большого количества PDF-файлов.
+- **Выбор диапазона страниц:** Объединение определенных страниц из разных PDF-файлов для настраиваемых результатов.
+- **Сортировка контента с помощью ИИ:** Используйте искусственный интеллект для сортировки, маркировки и структурирования объединенных PDF-файлов для безопасных и эффективных рабочих процессов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

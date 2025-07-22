@@ -77,7 +77,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualisation des fichiers XLS à l'aide d'API Java : Moderniser l'accès aux feuilles de calcul héritées</h2>
+
+Les API Java facilitent la visualisation des fichiers XLS de manière simple et sécurisée, permettant aux équipes d'accéder aux anciennes feuilles Excel en ligne sans logiciel local.
+
+## ✅ Cas d'utilisation clés
+
+- **Rapports financiers :** Prévisualisez les budgets et les données financières historiques.
+- **Feuilles opérationnelles :** Affichez les données XLS internes sur des tableaux de bord.
+- **Données d'inventaire :** Affichez les feuilles de calcul logistiques de manière sécurisée.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Tableaux de bord ERP :** Rendre les données XLS héritées accessibles aux équipes.
+- **Outils de reporting :** Automatisez les prévisualisations XLS dans les applications web.
+- **Plateformes logistiques :** Partagez des feuilles d'inventaire en ligne.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

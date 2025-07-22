@@ -74,7 +74,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>حالات الاستخدام الرئيسية</h2>
+- قفل جداول البيانات التي تعتمد على الصيغ.
+- حماية تقارير الأداء بكلمة مرور.
+- تمكين الوصول المقيد لبيانات المبيعات.
+
+<h2>سيناريوهات التأمين التلقائي</h2>
+- تقارير مالية تتوافق مع متطلبات التدقيق.
+- جداول بيانات تحت الرقابة.
+- مجموعات بيانات تدريب الذكاء الاصطناعي بشكل آمن.
+- تحليلات المؤسسات التعاونية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -117,7 +117,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Pourquoi annoter les fichiers ODS : Améliorer la budgétisation, les données de recherche et les enquêtes communautaires</h2>
+
+Annoter les fichiers **ODS (OpenDocument Spreadsheet)** est crucial pour les équipes et les communautés utilisant des feuilles de calcul open source pour la budgétisation partagée, les projets de recherche et la collecte de données d'enquête. Les commentaires, les surlignages et les notes de cellules aident à expliquer les calculs, vérifier les données et maintenir l'alignement de tous pendant le travail collaboratif.
+
+## ✅ Cas d'utilisation clés
+
+- **Feuilles de calcul de budgétisation collaborative :** Utilisez des annotations pour clarifier les catégories de dépenses, justifier les chiffres et guider les membres de l'équipe lors des mises à jour budgétaires.
+- **Feuilles de données de recherche open source :** Ajoutez des commentaires pour expliquer les sources de données, marquer les variables à examiner et suivre les changements dans la recherche collaborative.
+- **Résultats d'enquête communautaire :** Annoter les feuilles d'enquête pour signaler les incohérences, résumer les principales conclusions et fournir des notes multilingues pour les parties prenantes diverses.
+
+## ⚙️ Avantages de l'automatisation
+
+- **Validation des données :** Automatisez les annotations pour vérifier les entrées, signaler les anomalies et maintenir l'exactitude des données dans de grandes feuilles de calcul.
+- **Contrôle de version :** Utilisez des outils automatisés pour suivre les modifications, gérer les révisions et garantir que tous les collaborateurs travaillent avec la dernière version ODS.
+- **Relecture multilingue :** Automatisez les commentaires pour une relecture multilingue, garantissant des explications de données claires et cohérentes dans toutes les langues.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés:
+- Faire respecter les normes de l'entreprise avec des structures de métadonnées cohérentes.
+- Améliorer l'indexation de la recherche et la catégorisation dans les plateformes de GED.
+- Soutenir les audits de conformité avec une auteurs et une version vérifiables.
+
+## Scénarios d'automatisation:
+- Mapper automatiquement les champs de métadonnées à travers des milliers de fichiers Word.
+- Étiqueter les documents avec des catégories, des départements ou des projets.
+- Utiliser l'IA pour segmenter de grands archives Word par auteurs, sujets ou propriétés.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

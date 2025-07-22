@@ -117,7 +117,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Pourquoi annoter les fichiers TSV : Améliorer l'analyse des journaux, les revues de données et la documentation en texte brut</h2>
+
+Annoter les fichiers **TSV (valeurs séparées par des tabulations)** est essentiel pour les équipes travaillant avec des données structurées en texte brut telles que des journaux, des ensembles de données et des rapports exportés. Ajouter des commentaires ou des notes aux fichiers TSV améliore la clarté, garantit une interprétation précise des données et rationalise la collaboration.
+
+## ✅ Cas d'utilisation clés
+
+- **Analyse des journaux :** Utilisez des annotations pour expliquer les champs, signaler les anomalies et mettre en évidence les tendances dans les exportations de journaux enregistrées sous forme de fichiers TSV.
+- **Documentation en texte brut :** Ajoutez des notes pour décrire les colonnes, les sources de données ou les étapes de transformation directement dans la documentation TSV.
+- **Revues des données sources :** Insérez des commentaires en ligne pour marquer les problèmes de qualité des données, suggérer des corrections ou clarifier le contexte pour les analystes.
+
+## ⚙️ Avantages de l'automatisation
+
+- **Prétraitement par IA :** Automatisez l'annotation pour étiqueter les motifs, détecter les valeurs aberrantes et enrichir les fichiers TSV avant l'apprentissage automatique ou les rapports.
+- **Revues de code :** Utilisez des TSV annotés pour clarifier les données de test, vérifier les structures d'entrée/sortie et documenter les modifications de jeu de données.
+- **Documentation technique :** Intégrez des annotations automatisées pour maintenir claires et à jour les dictionnaires de données basés sur les TSV, les configurations et les notes de traitement.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

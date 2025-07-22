@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Gestion des métadonnées dans les fichiers de présentation ODP en utilisant des APIs dans les applications Java
+
+**Principaux cas d'utilisation :**  
+- Organiser des diaporamas dans des plateformes de collaboration open-source.  
+- Suivre l'historique des révisions et la propriété des diapositives.  
+- Catégoriser le contenu des présentations pour les bases de connaissances de l'entreprise.
+
+**Scénarios d'automatisation :**  
+- Filtrer les diapositives par champs de métadonnées comme le titre et le sujet.  
+- Extraire les métadonnées clés dans des flux de travaux par lots.  
+- Utiliser l'IA pour étiqueter et classer intelligemment les diaporamas.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

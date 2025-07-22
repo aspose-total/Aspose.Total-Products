@@ -76,7 +76,22 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principaux cas d'utilisation</h2>
+- Imposer des restrictions de modification sur les fichiers professionnels.
+- Protéger par mot de passe les documents RH et les politiques.
+- Autoriser la lecture seule des modèles juridiques.
+
+<h2>Scénarios d'automatisation</h2>
+- Respecter la conformité réglementaire.
+- Automatiser la gestion des flux de travail.
+- Protéger les entrées de texte de formation en IA.
+- Autoriser une collaboration d'entreprise sécurisée.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

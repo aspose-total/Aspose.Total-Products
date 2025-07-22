@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principaux cas d'utilisation :</h2>
+- **Mises en page interactives :** Combinez des modèles de diapositives avec des macros intégrées.
+- **Contenu de formation :** Fusionnez des mises en page basées sur des macros pour des modules d'apprentissage automatisés.
+- **Modèles standardisés :** Maintenez la cohérence des diapositives pilotées par des macros à travers les départements.
+
+<h2>Scénarios d'automatisation :</h2>
+- **Injection de diapositives macro :** Insérez en toute sécurité des diapositives activées par des macros.
+- **Identité visuelle AI :** Alignez automatiquement les diapositives avec les guides de style de l'entreprise.
+- **POTM-to-PPTM :** Fusionnez et exportez des modèles en présentations prêtes à être modifiées avec des macros activées.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

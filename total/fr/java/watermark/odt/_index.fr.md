@@ -78,7 +78,25 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Appliquer des filigranes aux fichiers ODT à l'aide des API Java est crucial pour maintenir le contrôle sur les brouillons, sécuriser les documents de conformité et communiquer les restrictions d'utilisation. Le filigrane automatisé garantit que les étiquettes à usage interne ou les marques de brouillon sont appliquées de manière cohérente.
+
+## ✅ Cas d'utilisation clés
+
+- **Marquer les brouillons juridiques** — Étiqueter clairement les versions de brouillon des documents juridiques ou politiques.
+- **Appliquer des tampons internes** — Ajouter des filigranes "Usage interne uniquement" aux documents de travail.
+- **Assurer la traçabilité** — Utiliser des marques visibles pour suivre les versions des documents.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Outils de conformité** — Intégrer le filigranage dans les pipelines de documentation de conformité.
+- **CMS Open Source** — Automatiser le filigranage dans les flux de travail de gestion de contenu.
+- **Distribution académique** — Filigraner les brouillons académiques pour un partage sécurisé en vue de révisions.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

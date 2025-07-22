@@ -80,7 +80,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principaux cas d'utilisation :</h2>
+- Migrer des feuilles de calcul historiques en préservant l'intégrité complète des métadonnées.
+- Auditer l'historique des documents pour les équipes financières et les examens réglementaires.
+- Aligner les fichiers XLS obsolètes avec les normes de gouvernance actuelles.
+
+<h2>Scénarios d'automatisation :</h2>
+- Extraire les métadonnées héritées à grande échelle pour archivage centralisé.
+- Étiqueter les fichiers lors de conversions de format XLS en XLSX.
+- Utiliser l'IA pour reclasser les feuilles de calcul héritées pour des flux de travail modernes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

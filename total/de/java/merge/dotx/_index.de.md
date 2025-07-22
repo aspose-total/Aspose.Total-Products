@@ -74,7 +74,19 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Schlüssige Anwendungsfälle:
+- **Individuelle Angebote:** Zusammenführen von Vorlagenabschnitten zur Erstellung kundenspezifischer Angebote.
+- **Standardberichte:** Zusammenstellen wiederverwendbarer Abschnitte zu unternehmensüblichen Berichten.
+- **Markenlayouts:** Durch das Zusammenführen von standardmäßigen DOTX-Vorlagen Markenrichtlinien in Teams durchsetzen.
+
+## Automatisierungsszenarien:
+- **Feldgesteuerte Bevölkerung:** Dynamisches Ausfüllen zusammengeführter Vorlagen mit variablen Daten.
+- **Vorlagetransformation:** Automatische Umwandlung zusammengeführter Vorlagen in endgültige Dokumente.
+- **KI-unterstütztes Zusammenführen:** KI nutzen, um Abschnitte intelligent zusammenzuführen und Layouts für die großangelegte Dokumentenproduktion anzupassen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

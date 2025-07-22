@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ تقسيم ملفات ODT باستخدام واجهات برمجة تطبيقات Java: توصيل مستندات مفتوحة المصدر بشكل موديولار</h2>
+
+تقسيم ملفات ODT باستخدام واجهات برمجة تطبيقات Java يسمح للفرق بتقسيم المستندات مفتوحة المصدر الكبيرة لإدارتها بشكل أسهل وتخصيصها ومشاركتها. ويدعم هذا العملية النشر الديناميكي ويحسن الوصول عبر الهواتف المحمولة.
+
+## ✅ حالات الاستخدام الرئيسية
+
+- **الكتيبات الموديولارية**: قسم الكتيبات الطويلة إلى ملفات ODT أصغر وتخصصية للأدوار.
+- **عزل السياسات**: فصل سياسات الشركة حسب الإدارة أو المنطقة.
+- **الإخراج المستهدف**: إنشاء إصدارات مستهدفة من ملف ODT رئيسي.
+
+## ⚙️ سيناريوهات التأتير الآلي
+
+- **تخصيص المستندات**: أتمتة إنشاء ملفات ODT مخصصة لكل مستخدم.
+- **تكامل نظم إدارة المستندات مفتوحة المصدر**: دمج الملفات المقسمة في أنظمة إدارة المستندات.
+- **نشر صديق للهواتف المحمولة**: تقديم ملفات ODT أصغر وذات صلة للوصول أثناء التنقل.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

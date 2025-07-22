@@ -69,7 +69,25 @@ Einzelheiten entnehmen Sie bitte [Produktdokumentation](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ PDF-Dateien mit Java-APIs aufteilen: Intelligentes Dokumentenmanagement und -freigabe</h2>
+
+## ✅ Hauptanwendungsfälle
+
+- **Kundenlieferungen**: Liefern Sie spezifische Abschnitte von mehrseitigen PDFs an Kunden.
+- **Vertragsabschnitte**: Teilen Sie Verträge in Teile zur Genehmigung auf.
+- **Rechnungsisolierung**: Generieren Sie Rechnungs-PDFs pro Transaktion für Aufzeichnungen.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Archivierung**: Speichern Sie aufgeteilte PDFs für eine bessere Organisation und Einhaltung.
+- **Integration von E-Signaturen**: Verwenden Sie aufgeteilte PDFs für übersichtlichere digitale Signatur-Workflows.
+- **Mobile PDF-Bereitstellung**: Bieten Sie aufgeteilte PDFs für die mobile Anzeige und den Download an.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

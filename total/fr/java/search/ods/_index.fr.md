@@ -88,7 +88,29 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Recherche de fichiers ODS à l'aide d'API Java : Libérer l'efficacité des données ouvertes</h2>
+
+Rechercher des fichiers ODS (OpenDocument Spreadsheet) avec des API Java permet aux organisations de gérer des données de feuilles de calcul au format ouvert à grande échelle. L'automatisation des tâches de recherche permet un accès instantané aux enregistrements critiques pour la conformité, les rapports et les audits.
+
+## ✅ Cas d'utilisation clés
+
+- **Suivi des entrées de conformité** : Surveiller les champs de données réglementaires dans les feuilles de calcul financières ou opérationnelles.
+- **Récupération des données clients à partir de feuilles archivées** : Localiser les transactions et les détails des clients historiques.
+- **Audit des enregistrements financiers en temps réel** : Repérer les incohérences et les erreurs pour une correction immédiate.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Pipelines de reporting** : Alimenter automatiquement les rapports commerciaux avec des résultats de recherche précis.
+- **Analyse en temps réel** : Alimenter les tableaux de bord en direct avec des données de feuilles de calcul à jour.
+- **Audits de gestion des risques** : Détecter les anomalies dans les feuilles de calcul pour des évaluations des risques.
+- **Classification prise en charge par l'IA** : Classer et étiqueter intelligemment les données.
+- **Moteurs de recherche d'entreprise** : Permettre une recherche unifiée dans tous les fichiers ODS de l'organisation.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

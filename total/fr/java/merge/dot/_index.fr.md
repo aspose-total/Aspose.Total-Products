@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion des fichiers DOT à l'aide des API Java
+
+La modernisation de la gestion des modèles hérités à travers de grandes organisations. La fusion DOT programmable prend en charge la cohérence de la marque, la réutilisation de la mise en page et la normalisation des modèles.
+
+**Cas d'utilisation clés :**
+- **Modèles hérités :** Combinez d'anciens modèles DOT en modèles maîtres unifiés.
+- **Mises en page par département :** Assurez une mise en forme cohérente des documents départementaux.
+- **Contenu réutilisable :** Modernisez les sections réutilisables en fusionnant des fichiers DOT pour une sortie DOCX facile.
+
+**Scénarios d'automatisation :**
+- **Fusion DOT-to-DOCX :** Automatisez la conversion tout en fusionnant les modèles hérités.
+- **Assemblage de modèles en lot :** Consolidez plusieurs modèles en un seul fichier maître.
+- **Normalisation guidée par l'IA :** Utilisez l'IA pour détecter les incohérences et aligner les mises en page pour la conformité de la marque.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

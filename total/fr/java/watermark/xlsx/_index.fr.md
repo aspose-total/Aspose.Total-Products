@@ -71,7 +71,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Appliquer des filigranes aux fichiers XLSX à l'aide des API Java permet de sécuriser les données sensibles, de renforcer l'identité de la marque et de contrôler la réutilisation des documents. Le filigrane automatisé garantit la confidentialité et la conformité de tous les fichiers XLSX.
+
+## ✅ Cas d'utilisation clés
+
+- **Intégrer des étiquettes confidentielles** — Marquer les feuilles de calcul financières ou RH comme restreintes.
+- **Marquer les indicateurs opérationnels de la marque** — Ajouter des logos aux feuilles de performance internes.
+- **Contrôler la réutilisation** — Décourager le partage non autorisé de données stratégiques.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Outils de planification financière** — Filigraner automatiquement les feuilles de calcul pour la distribution.
+- **Reporting organisationnel** — Appliquer des étiquettes lors de la génération de rapports.
+- **Conformité réglementaire** — Marquer les fichiers XLSX pour l'audit et la soumission.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

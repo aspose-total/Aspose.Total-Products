@@ -72,7 +72,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redaction des fichiers PPTX à l'aide des API Java permet de garder les présentations modernes exemptes de fuites de données sensibles. La redaction automatisée supprime les informations personnellement identifiables, cache l'analyse concurrentielle et masque les identifiants des clients.
+
+## ✅ Cas d'utilisation clés
+
+- **Présentations de formation :** Rediger les données des employés ou des apprenants.
+- **Présentations commerciales :** Dissimuler les informations concurrentielles ou les tarifs.
+- **Études de cas :** Supprimer les noms des clients avant la publication.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Examens de conformité :** Automatiser les vérifications de contenu et la rédaction.
+- **Partage avec les partenaires :** Distribuer uniquement des présentations sanitaires.
+- **Protection de la PI :** Protéger les connaissances propriétaires lorsque les diapositives sont partagées à l'externe.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

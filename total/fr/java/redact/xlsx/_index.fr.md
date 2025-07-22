@@ -74,7 +74,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redaction de fichiers XLSX avec des API Java protège le contenu moderne des feuilles de calcul contenant des informations commerciales sensibles. La rédaction programmée supprime les indicateurs de performance, masque les identifiants des employés et cache les coûts des fournisseurs.
+
+## ✅ Cas d'utilisation clés
+
+- **Tableaux de bord :** Redaction des KPIs confidentiels.
+- **Feuilles de paie :** Masquage des identifiants des employés et des détails de paiement.
+- **Modèles d'approvisionnement :** Dissimulation des prix des fournisseurs pour un partage sécurisé.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Conformité en temps réel :** Faire respecter les règles de confidentialité dans la collaboration en direct.
+- **Préparation à l'audit :** Automatiser la rédaction avant les audits externes.
+- **Collaboration dans le cloud :** Partager des feuilles de calcul de manière sécurisée entre les équipes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

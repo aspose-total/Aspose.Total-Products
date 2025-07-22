@@ -117,7 +117,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📌 Annotation des fichiers CSV : Améliorer la transparence et l'exactitude des données</h2>
+
+Annoter des fichiers CSV est une stratégie intelligente pour améliorer l'utilisabilité des données, la traçabilité et le travail d'équipe à travers les projets. En ajoutant des notes structurées, des métadonnées et du contexte, les annotations CSV aident à maintenir l'intégrité des données, simplifient les audits et permettent une collaboration fiable ainsi que des vérifications automatisées pour tout processus basé sur les données.
+
+## ✅ Cas d'utilisation clés
+
+- **Audit des données :** Conservez des enregistrements clairs sur l'origine des données, les modifications et la propriété pour répondre aux exigences de conformité et permettre la traçabilité.
+- **Analyse collaborative des données :** Ajoutez du contexte, des définitions ou des instructions directement aux ensembles de données pour soutenir les équipes travaillant ensemble de manière efficace.
+- **Contrôles de qualité :** Signalez les lignes ou les champs avec des notes de validation, des commentaires d'erreur ou des marques d'approbation pour détecter et corriger les problèmes de données tôt.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Pipelines ETL :** Générez et mettez à jour automatiquement les annotations lors de l'extraction, de la transformation et du chargement des données entre les systèmes.
+- **Systèmes de reporting :** Utilisez les annotations pour filtrer ou mettre en évidence des points de données critiques et des anomalies dans les rapports dynamiques.
+- **Validation des données alimentée par l'IA :** Intégrez des données annotées pour entraîner des modèles d'apprentissage automatique pour une détection plus intelligente des anomalies et une assurance qualité continue.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

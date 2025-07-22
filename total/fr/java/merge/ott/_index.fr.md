@@ -74,7 +74,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Utilisations clés :</h2>
+- **Lettres professionnelles :** Générer des lettres modèles en fusionnant des fichiers OTT pour les RH, les ventes ou la communication client.
+- **Blocs de contenu réutilisables :** Combinez des sections standard en modèles principaux pour les contrats, les propositions ou les politiques.
+- **Standardisation des flux de travail :** Assurer une identité visuelle et un formatage cohérents sur tous les documents créés à partir de modèles.
+
+<h2>Scénarios d'automatisation :</h2>
+- **Transformation OTT en ODT :** Fusionner des modèles et les convertir en documents ODT prêts à être modifiés.
+- **Consolidation de modèles :** Automatiser la fusion de plusieurs fichiers OTT en modèles principaux unifiés.
+- **Population de champs IA :** Utiliser l'IA pour pré-remplir les modèles avec des données dynamiques pour la génération de documents personnalisés.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

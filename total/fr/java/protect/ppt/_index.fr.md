@@ -71,7 +71,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Préservation des fichiers PPT à l'aide des API Java</h2>
+La préservation des anciennes présentations PowerPoint qui contiennent encore des connaissances corporatives précieuses est assurée en utilisant des API Java. La protection automatisée empêche les modifications, verrouille les diapositives internes et permet un partage sécurisé des connaissances.
+
+**Principaux cas d'utilisation**
+- Empêcher les modifications dans les présentations archivées.
+- Verrouiller les diapositives de stratégie internes.
+- Imposer la lecture seule pour les présentations de formation.
+
+**Scénarios d'automatisation**
+- Conformité à la documentation.
+- Confidentialité pour le matériel de formation.
+- Intégrité des bases de connaissances d'entreprise.
+- Curatelle sécurisée des ensembles de données d'IA.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

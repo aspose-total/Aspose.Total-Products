@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Динамические книги Excel:** Объединение прогнозов или моделей риска с макросами для расчетов.
+- **Процессы соответствия требованиям:** Объединение шаблонов для автоматизации повторяющихся задач по соответствию требованиям.
+- **Интерактивные листы:** Сохранение интерактивной логики макросов в объединенных книгах.
+
+## Сценарии автоматизации:
+- **Предварительная настройка объединения:** Объединение XLTM-шаблонов с сохранением скриптов.
+- **Проверка макросов:** Гарантия безопасного и намеренного выполнения макросов.
+- **Настройка с помощью искусственного интеллекта:** Использование искусственного интеллекта для настройки макросов под персонализированные рабочие процессы.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

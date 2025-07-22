@@ -114,7 +114,22 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Pourquoi annoter les fichiers DOTM : modèles sécurisés avec macros pour le branding et la réutilisation</h2>
+
+Annoter les **fichiers DOTM** est essentiel pour gérer les modèles Word avec macros. Des commentaires clairs et des annotations aident les équipes à passer en revue la logique des macros, à peaufiner les mises en page et à mettre à jour le branding dans des modèles réutilisables avec une automatisation intégrée.
+
+## 📌 Cas d'utilisation pratiques
+
+- **Révisions de modèles :** Ajoutez des annotations pour mettre à jour des sections, corriger des problèmes de mise en page ou clarifier des champs dynamiques.
+- **Mises à jour de branding :** Mettez en avant les logos, les polices et les couleurs pour maintenir une identité visuelle cohérente dans les modèles avec macros.
+- **Flux de travail réutilisables :** Insérez des instructions pour garantir le bon fonctionnement des macros lors de la réutilisation des modèles.
+- **Automatisation :** Utilisez des outils de gestion de modèles automatisés pour gérer les audits de macros, les vérifications de conformité et le suivi des versions avec des annotations intelligentes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

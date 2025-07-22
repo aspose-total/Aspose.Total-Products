@@ -77,7 +77,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualisation des fichiers XLTM à l'aide d'API Java : Aperçus sécurisés de modèles activés par macro</h2>
+
+Les API Java permettent de visualiser facilement et en toute sécurité les fichiers XLTM, permettant aux organisations de prévisualiser des modèles Excel activés par macro sans exécuter de scripts.
+
+## ✅ Cas d'utilisation clés
+
+- **Modèles de prévision :** Visualisez des modèles financiers ou de planification.
+- **Feuilles de calcul de planification :** Inspectez des modèles activés par macro en toute sécurité.
+- **Modélisation de données :** Examinez les structures XLTM sans risques.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Portails d'analyse :** Rendre les fichiers XLTM pour les équipes.
+- **Visionneuses de modèles :** Automatiser les prévisualisations dans les outils de planification.
+- **Applications de reporting :** Afficher des modèles activés par macro en toute sécurité.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

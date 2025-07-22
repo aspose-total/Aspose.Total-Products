@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Extraction et gestion des métadonnées de fichiers DOCX à l'aide d'API dans les applications Java
+
+L'extraction et la gestion des métadonnées de fichiers DOCX à l'aide d'API dans les applications Java améliorent l'intégrité, la découvrabilité et la conformité des documents. La manipulation programmatique des métadonnées prend en charge la classification des documents, le suivi de l'auteur et l'indexation intelligente.
+
+**Principaux cas d'utilisation :**
+- Classer les documents dans les systèmes de contenu d'entreprise par auteur, type ou département.
+- Suivre l'auteur et l'historique des révisions pour des archives légales ou académiques.
+- Permettre l'indexation de recherche intelligente en utilisant des champs de métadonnées personnalisés.
+
+**Scénarios d'automatisation :**
+- Automatiser l'étiquetage de conformité pour de grands volumes de fichiers DOCX.
+- Effectuer un nettoyage de métadonnées par lot pour supprimer les propriétés obsolètes ou redondantes.
+- Utiliser la catégorisation alimentée par l'IA pour enrichir les documents de métadonnées basées sur le contenu et les propriétés personnalisées.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

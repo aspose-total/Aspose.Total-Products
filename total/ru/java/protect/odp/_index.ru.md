@@ -71,7 +71,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Основные сценарии использования
+- Ограничение редактирования в корпоративных презентациях.
+- Защита паролем конфиденциальных инвестиционных презентаций.
+- Обеспечение доступа только для просмотра учебных слайдов.
+
+## Сценарии автоматизации
+- Поддержка соблюдения цифровых прав.
+- Автоматизация контроля версий.
+- Защита презентационных наборов данных для обучения искусственного интеллекта.
+- Безопасная доставка презентаций для публичного доступа.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

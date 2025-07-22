@@ -88,7 +88,28 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Recherche de fichiers ODP à l'aide d'API Java : Débloquez les informations de présentation</h2>
+
+Rechercher des fichiers ODP (OpenDocument Presentation) avec des API Java est essentiel pour les organisations qui gèrent de vastes ressources de présentation. La recherche automatisée aide les équipes marketing, juridiques et de conformité à localiser efficacement des informations vitales cachées dans les diaporamas.
+
+## ✅ Cas d'utilisation clés
+
+- **Localiser les mots-clés de la marque dans les présentations marketing** : Trouver les mentions de produits, slogans et termes de marque à travers les diapositives.
+- **Récupérer les mentions légales à travers plusieurs diapositives** : S'assurer que les déclarations légales sont correctement placées et cohérentes.
+- **Trouver du contenu caché dans les présentations archivées** : Découvrir des détails intégrés ou négligés dans les anciens fichiers ODP.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Gestion des actifs numériques** : Améliorer l'organisation et la réutilisation du contenu de présentation.
+- **Découverte de contenu d'entreprise** : Permettre une recherche à grande échelle à travers les bibliothèques de présentations.
+- **Analyse de pitch alimentée par l'IA** : Analyser les pitch decks pour la cohérence du message et de la marque.
+- **Examens de conformité** : Automatiser les vérifications de diapositives pour les mentions légales et la conformité légale.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

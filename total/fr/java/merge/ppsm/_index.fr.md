@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principaux cas d'utilisation :</h2>
+- **Démos de vente :** Fusionnez des diaporamas interactifs pour des démonstrations de produits.
+- **Parcours automatisés :** Combinez des présentations guidées avec des déclencheurs de macro.
+- **Présentations en boucle :** Créez des présentations qui se répètent avec des macros intégrées pour les kiosques.
+
+<h2>Scénarios d'automatisation :</h2>
+- **Fusion de logique de macro :** Fusionnez en toute sécurité des scripts de macro à travers des fichiers.
+- **Validation de l'exécution :** Automatisez les tests pour garantir la stabilité des macros.
+- **Coordination des comportements IA :** Utilisez l'IA pour aligner les actions visuelles et basées sur les macros.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Einzelheiten entnehmen Sie bitte [Produktdokumentation](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Verwalten von Metadaten in PDF-Dateien mit APIs in Java-Anwendungen
+
+Die Verwaltung von Metadaten in PDF-Dateien mithilfe von APIs in Java-Anwendungen erhöht die Auffindbarkeit, Klassifizierung und Einhaltung von Vorschriften in digitalen Archiven.
+
+**Hauptanwendungsfälle:**
+- Verbessern Sie die Auffindbarkeit in öffentlichen oder privaten Dokumentenbibliotheken.
+- Durchsetzung von Klassifizierungsregeln in rechtlichen oder regulierten Archiven.
+- Einbetten von Compliance-Informationen direkt in PDFs.
+
+**Automatisierungsszenarien:**
+- Automatisieren Sie die Titel-, Betreff- und Stichwortmarkierung.
+- Bearbeiten Sie Metadaten stapelweise, um die Konsistenz zu gewährleisten.
+- Verwenden Sie KI, um PDFs für regulatorische und Prüfungsworkflows zu kennzeichnen.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Rédiger des fichiers POWERPOINT à l'aide des API Java garantit le partage sécurisé du contenu des diapositives entre les équipes et les parties prenantes. La rédaction programmatique permet de masquer les logos des clients, de cacher les notes du présentateur et de masquer les KPI confidentiels.
+
+## ✅ Cas d'utilisation clés
+
+- **Présentations d'agence :** Supprimer ou masquer la marque sensible.
+- **Webinaires :** Rédiger les notes du présentateur ou internes avant de partager les diapositives.
+- **Présentations internes :** Masquer les KPI ou les données financières confidentielles.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Présentations aux parties prenantes :** Partager des diapositives sanitaires en externe.
+- **Contenu de formation :** Supprimer les informations réservées à l'interne des supports pédagogiques.
+- **Protection de la PI :** Sécuriser les stratégies confidentielles dans les decks distribués.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

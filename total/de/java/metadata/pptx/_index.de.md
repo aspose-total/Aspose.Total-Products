@@ -74,7 +74,23 @@ Einzelheiten entnehmen Sie bitte [Produktdokumentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Extrahieren und Verwalten von Metadaten in PPTX-Dateien mithilfe von APIs in Java-Anwendungen
+
+Die Stärkung der Inhaltsverwaltung und Suchfunktion für moderne Präsentationsmaterialien.
+
+**Hauptanwendungsfälle:**
+- Identifizieren von Autoren und Beitragenden für Präsentationsprojekte.
+- Markieren von Folienstapeln nach Abteilung, Kampagne oder Thema.
+- Verbesserung der Auffindbarkeit in Inhaltsspeichern und Wissensdatenbanken.
+
+**Automatisierungsszenarien:**
+- Metadaten für KI-Assistenten und intelligente Suche anreichern.
+- Verfolgen der Lebenszyklusphasen von Präsentationen mit Metadatenaktualisierungen.
+- Automatisieren von groß angelegter Bereinigung und Markierung in Folienbibliotheken.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

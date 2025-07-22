@@ -74,7 +74,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Protéger les fichiers EXCEL avec des APIs Java</h2>
+La protection des fichiers EXCEL avec des APIs Java protège les données financières contre les modifications non autorisées. La protection programmatique aide à verrouiller les feuilles de calcul, à ajouter des couches de mot de passe et à contrôler l'accès aux informations sensibles dans des environnements professionnels collaboratifs.
+
+**Principaux cas d'utilisation**
+- Sécuriser les feuilles de calcul financières contre les modifications.
+- Protéger par mot de passe les données de paie et de compensation.
+- Activer des modèles de budgétisation en lecture seule.
+
+**Scénarios d'automatisation**
+- Maintenir des pistes d'audit pour la conformité.
+- Faire respecter la protection des données dans les rapports financiers.
+- Assurer la confidentialité dans la modélisation financière basée sur l'IA.
+- Contrôler le partage de données commerciales stratégiques.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

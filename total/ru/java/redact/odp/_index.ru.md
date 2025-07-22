@@ -72,7 +72,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Сокрытие файлов ODP (OpenDocument Presentation) с помощью Java API обеспечивает защиту конфиденциального содержимого презентаций. Автоматическое редактирование помогает скрыть стратегические планы, убрать имена сотрудников на слайдах HR и удалить конкурентные данные из инвестиционных презентаций.
+
+## ✅ Основные сценарии использования
+
+- **Бизнес-стратегии:** Скрытие стратегических планов в общих презентациях.
+- **Презентации HR:** Удаление имен сотрудников или лично идентифицируемой информации с слайдов.
+- **Инвестиционные презентации:** Сокрытие конфиденциальных конкурентных или финансовых данных.
+
+## ⚙️ Сценарии автоматизации
+
+- **Конфиденциальные презентации для инвесторов:** Очистка презентаций для внешних заинтересованных сторон.
+- **Учебные материалы:** Автоматизация редактирования для безопасного обмена знаниями внутри компании.
+- **Соблюдение регулятивных требований:** Соблюдение стандартов конфиденциальности коммуникаций.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

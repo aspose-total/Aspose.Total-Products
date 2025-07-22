@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation clés:
+
+- Classer les présentations d'entreprise par sujet ou par département.
+- Faire respecter les politiques de branding et de droits d'auteur grâce aux métadonnées.
+- Organiser de vastes bibliothèques de diapositives pour un accès rapide.
+
+## Scénarios d'automatisation:
+
+- Automatiser l'étiquetage en lot des propriétés de présentation.
+- Trier les jeux de diapositives en fonction des métadonnées telles que l'auteur ou la campagne.
+- Appliquer l'IA pour catégoriser les jeux de diapositives par thème et par utilisation.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

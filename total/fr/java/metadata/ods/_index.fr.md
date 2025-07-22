@@ -80,7 +80,19 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation clés:
+- Suivre la propriété des feuilles de calcul dans des environnements collaboratifs.
+- Catégoriser les données financières ou opérationnelles par département ou projet.
+- Soutenir le cycle de vie des documents et les politiques de conformité.
+
+## Scénarios d'automatisation:
+- Effectuer l'étiquetage automatique des métadonnées par lots pour les fichiers ODS.
+- Classer automatiquement les colonnes et les types de données.
+- Utiliser l'IA pour compléter les métadonnées manquantes pour une meilleure gouvernance des données.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

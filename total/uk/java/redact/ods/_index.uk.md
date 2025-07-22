@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Виправлення файлів ODS (OpenDocument Spreadsheet) за допомогою API Java є важливим для організацій, які працюють з даними електронних таблиць з відкритим вихідним кодом. Програмне виправлення маскує зарплати, видаляє медичні дані та приховує ціни постачальників у таблицях закупівель.
+
+## ✅ Основні випадки використання
+
+- **Звіти про зарплату:** Приховання деталей оплати у відкритих видачах даних.
+- **Медичні записи:** Видалення медичних даних для відповідності вимогам дослідження.
+- **Таблиці закупівель:** Приховування цін постачальників у спільних бюджетах.
+
+## ⚙️ Сценарії автоматизації
+
+- **Публікація відкритих даних:** Санітарна обробка даних для публічного розповсюдження.
+- **Відповідність вимогам дослідження:** Дотримання законів про конфіденційність для опублікованих наборів даних.
+- **Внутрішнє розподіл:** Розподіл електронних таблиць без розголошення конфіденційної інформації.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

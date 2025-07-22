@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحرير ملفات ODS (OpenDocument Spreadsheet) باستخدام واجهات برمجة التطبيقات في جافا أمر حيوي للمؤسسات التي تتعامل مع بيانات جداول البيانات مفتوحة المصدر. يقوم التحرير البرمجي بإخفاء الرواتب، وإزالة التفاصيل الطبية، وإخفاء تسعير البائعين في أوراق الشراء.
+
+## ✅ حالات الاستخدام الرئيسية
+
+- **تقارير الرواتب:** إخفاء تفاصيل الرواتب في إصدارات البيانات المفتوحة.
+- **السجلات الطبية:** إزالة بيانات الصحة لامتثال البحوث.
+- **أوراق الشراء:** إخفاء تسعير البائعين في الميزانيات المشتركة.
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+
+- **نشر البيانات المفتوحة:** تطهير البيانات للإصدار العام.
+- **امتثال البحوث:** الامتثال لقوانين الخصوصية لمجموعات البيانات المنشورة.
+- **المشاركة الداخلية:** توزيع جداول البيانات دون الكشف عن المعلومات السرية.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

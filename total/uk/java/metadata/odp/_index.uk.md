@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Управління метаданими в файлах презентацій ODP за допомогою API в додатках Java покращує організацію та співпрацю в екосистемах з відкритим вихідним кодом.
+
+**Ключові використання:**
+- Організація слайд-деків на платформах співпраці з відкритим вихідним кодом.
+- Відстеження історії редакцій та власності слайдів.
+- Категоризація вмісту презентацій для баз знань компанії.
+
+**Сценарії автоматизації:**
+- Фільтрація слайдів за метаданими, такими як заголовок та тема.
+- Вилучення ключових метаданих у пакетних робочих процесах.
+- Використання штучного інтелекту для розмічання та класифікації слайд-деків інтелектуально.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

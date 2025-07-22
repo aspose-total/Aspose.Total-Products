@@ -76,7 +76,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés :
+- **Promotions animées :** Fusionnez plusieurs images pour créer des publicités dynamiques.
+- **GIFs d'instructions :** Combinez des images séquentielles pour des guides étape par étape clairs.
+- **Stickers de discussion :** Compilez des packs de stickers pour les applications de messagerie.
+
+## Scénarios d'automatisation :
+- **Fusion image par image :** Automatisez la combinaison d'images pour créer des boucles GIF fluides.
+- **Synchronisation de boucle guidée par l'IA :** Assurez un timing parfait dans les séquences animées.
+- **Optimisation de séquence :** Optimisez la taille de fichier et la qualité pour la diffusion web.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

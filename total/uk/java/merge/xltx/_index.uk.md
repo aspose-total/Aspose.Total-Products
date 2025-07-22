@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Злиття файлів шаблонів Excel XLTX за допомогою API в додатках Java спрощує генерацію документів у великому масштабі, що базується на шаблонах для бізнес-операцій.
+
+**Ключові сценарії використання:**
+- **Пакети рахунків:** Злиття XLTX-шаблонів для створення рахунків для клієнтів у великому масштабі.
+- **Планування бюджету:** Об'єднання шаблонів для планування бюджету відділів.
+- **Однорідні формати:** Збереження єдиної стандартизації звітності в усьому підприємстві.
+
+**Сценарії автоматизації:**
+- **Фабрики документів:** Автоматизація великого обсягу індивідуалізованих звітів.
+- **Заповнення полів на основі штучного інтелекту:** Використання штучного інтелекту для автоматичного заповнення полів під час злиття шаблонів.
+- **Масштабована генерація:** Злиття та генерація звітів для розподілених команд у всьому світі.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

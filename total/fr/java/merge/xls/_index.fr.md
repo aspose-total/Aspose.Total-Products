@@ -75,7 +75,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés :
+- **Migration des données financières :** Fusionner d'anciens fichiers XLS pour les préparer à la conversion en XLSX.
+- **Unification des enregistrements historiques :** Consolider les feuilles de calcul héritées pour être prêt pour l'audit.
+- **Modernisation du stockage :** Combiner et mettre à niveau les fichiers XLS pour réduire la redondance et garantir la conformité.
+
+## Scénarios d'automatisation :
+- **Fusion XLS vers XLSX :** Automatiser la fusion et la mise à niveau des formats dans un seul flux de travail.
+- **Intégration compatible avec les macros :** Préserver les macros intégrées lors de la combinaison des fichiers hérités.
+- **Mise à niveau du format par IA :** Utiliser l'IA pour détecter les structures obsolètes et recommander des remplacements modernes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

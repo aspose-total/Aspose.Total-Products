@@ -76,7 +76,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>Основные случаи использования:</h2>
+- **Наложение дизайнерских элементов:** Объединение прозрачных PNG-файлов в креативных дизайнерских инструментах.
+- **Сборка компонентов пользовательского интерфейса:** Объединение иконок, кнопок и других элементов пользовательского интерфейса.
+- **Скриншоты продукта:** Составление нескольких скриншотов для руководств и онлайн-помощи.
+
+<h2>Сценарии автоматизации:</h2>
+- **Сохранение альфа-канала:** Сохранение прозрачности при объединении.
+- **Генерация составного изображения:** Автоматизация создания слоистых композиций PNG.
+- **Визуализация макета AI:** Использование искусственного интеллекта для автоматического распределения элементов в макетах с пиксельной точностью.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

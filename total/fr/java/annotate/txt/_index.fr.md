@@ -114,7 +114,27 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Pourquoi annoter les fichiers TXT : Rationaliser l'analyse des journaux, la documentation et les révisions de données</h2>
+
+Annoter les fichiers **TXT (texte brut)** est essentiel pour les équipes qui manipulent des données brutes, des notes techniques et des fichiers journaux. Ajouter des commentaires, des surlignages ou des notes en ligne améliore la collaboration, clarifie le contexte et rend les fichiers texte brut plus exploitables pour les tâches techniques et analytiques.
+
+## ✅ Cas d'utilisation clés
+
+- **Analyse des journaux :** Annoter les journaux serveur, les rapports d'erreurs ou les enregistrements d'événements pour signaler les problèmes, ajouter des explications et suivre les corrections.
+- **Documentation en texte brut :** Utiliser des commentaires pour clarifier les instructions, mettre à jour les notes de configuration ou guider les modifications d'équipe dans les fichiers readme et config.
+- **Révisions des données sources :** Annoter les ensembles de données brutes, les transcriptions ou les extraits de code pour mettre en évidence les anomalies ou suggérer des modifications avant le traitement.
+
+## ⚙️ Avantages de l'automatisation
+
+- **Prétraitement IA :** Automatiser les annotations pour baliser les points de données clés, détecter les motifs et préparer les fichiers texte brut pour une analyse ultérieure.
+- **Révisions de code :** Ajouter des commentaires en ligne au code source stocké dans les fichiers TXT pour rationaliser les révisions et suivre les modifications.
+- **Documentation technique :** Utiliser des outils automatisés pour générer ou mettre à jour les annotations dans les manuels en texte brut et les notes de référence.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

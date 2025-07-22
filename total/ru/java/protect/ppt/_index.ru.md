@@ -71,7 +71,24 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Защита файлов PPT с использованием Java API сохраняет старые презентации PowerPoint, которые по-прежнему содержат ценные корпоративные знания. Автоматизированная защита предотвращает редактирование, блокирует внутренние слайды и обеспечивает безопасное совместное использование знаний.
+
+**Основные сценарии использования**
+- Предотвращение редактирования в архивированных презентациях.
+- Блокировка внутренних стратегических слайдов.
+- Принудительное использование только для чтения учебных материалов.
+
+**Сценарии автоматизации**
+- Соблюдение документации.
+- Конфиденциальность учебных материалов.
+- Целостность баз знаний предприятия.
+- Безопасная кураторская работа с наборами данных для искусственного интеллекта.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

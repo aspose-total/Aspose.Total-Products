@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Деловая переписка:** Генерация шаблонных писем путем объединения файлов OTT для HR, продаж или коммуникации с клиентами.
+- **Блоки повторно используемого контента:** Объединение стандартных разделов в общие шаблоны для договоров, предложений или политик.
+- **Стандартизация рабочего процесса:** Обеспечение согласованности брендинга и форматирования во всех документах, созданных на основе шаблонов.
+
+## Сценарии автоматизации:
+- **Преобразование OTT в ODT:** Объединение шаблонов и преобразование их в готовые к редактированию документы ODT.
+- **Объединение шаблонов:** Автоматизация объединения нескольких файлов OTT в единые общие шаблоны.
+- **Заполнение полей ИИ:** Использование искусственного интеллекта для предварительного заполнения шаблонов динамическими данными для генерации персонализированных документов.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

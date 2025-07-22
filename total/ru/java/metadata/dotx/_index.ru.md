@@ -74,7 +74,19 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:  
+- Обеспечение версионности шаблонов в различных командах и отделах.  
+- Категоризация шаблонов на основе бизнес-юнитов или отделов.  
+- Поддержка соответствия путем обеспечения согласованности метаданных.
+
+## Сценарии автоматизации:  
+- Автоматизация внедрения метаданных при создании или обновлении шаблонов.  
+- Классификация и организация шаблонов программно.  
+- Управление жизненным циклом шаблона с отслеживанием метаданных на основе искусственного интеллекта.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Многостраничные документы:** Объединение нескольких отсканированных страниц в один файл TIFF.
+- **Архивы чертежей:** Цифровое соединение инженерных чертежей для архивирования.
+- **Наборы изображений:** Объединение высокоразрешительных TIFF-файлов для исследований и анализа.
+
+**Сценарии автоматизации:**
+- **Упорядочивание страниц:** Автоматизация правильного порядка страниц в многостраничных TIFF-файлах.
+- **Объединение с учетом сжатия:** Оптимизация размера файла без потери деталей.
+- **Предварительная обработка с помощью ИИ:** Применение фильтров ИИ для уменьшения шума и повышения четкости.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

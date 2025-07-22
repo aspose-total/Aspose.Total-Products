@@ -75,7 +75,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de modèles Excel XLTM activés par macro à l'aide d'API dans les applications Java
+
+La fusion de modèles Excel XLTM activés par macro à l'aide d'API dans les applications Java permet d'alimenter des opérations avancées de prévision, de modélisation et de conformité. L'automatisation garantit que les macros restent intacts et sécurisés.
+
+**Cas d'utilisation clés :**
+- **Classeurs dynamiques :** Fusionnez des modèles de prévision ou de risque avec des calculs pilotés par macro.
+- **Flux de travail de conformité :** Combinez des modèles pour automatiser les tâches de conformité récurrentes.
+- **Feuilles interactives :** Préservez la logique macro interactive dans les classeurs fusionnés.
+
+**Scénarios d'automatisation :**
+- **Fusion préprogrammée :** Combinez des modèles XLTM tout en protégeant les scripts.
+- **Validation de macro :** Assurez-vous que les macros s'exécutent en toute sécurité et comme prévu.
+- **Personnalisation alimentée par l'IA :** Utilisez l'IA pour ajuster les macros en fonction des flux de travail personnalisés.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

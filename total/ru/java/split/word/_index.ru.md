@@ -75,7 +75,25 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Разделение файлов WORD с использованием Java API: более умная документация и соответствие</h2>
+
+## ✅ Основные сценарии использования
+
+- **Сегментация по главам**: Разделение большой документации на файлы, соответствующие главам.
+- **Изоляция политик**: Изоляция политик по отделам или регионам.
+- **Контент для отдельных отделов**: Создание контента, адаптированного для различных команд.
+
+## ⚙️ Сценарии автоматизации
+
+- **Упаковка соответствия**: Автоматизация разделенных файлов для юридического или регуляторного представления.
+- **Модульность контента**: Повторное использование изолированных разделов в нескольких документах.
+- **Доставка документов на мобильные устройства**: Предоставление более мелких, актуальных разделов для использования на мобильных устройствах.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

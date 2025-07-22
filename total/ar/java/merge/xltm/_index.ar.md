@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## دمج قوالب Excel XLTM الممكّنة للماكرو باستخدام واجهات برمجة التطبيقات في تطبيقات Java يعزز العمليات المتقدمة للتنبؤ والنمذجة والامتثال. يضمن التشغيل التلقائي بقاء القوالب الماكرو بأمان وسلامة.
+
+**حالات الاستخدام الرئيسية:**
+- **سجلات العمل الديناميكية:** دمج نماذج التنبؤ أو المخاطر مع حسابات تعتمد على الماكرو.
+- **سير العمل للامتثال:** دمج القوالب لتلقين المهام المتكررة للامتثال.
+- **الأوراق التفاعلية:** الحفاظ على منطق الماكرو التفاعلي في سجلات العمل المدمجة.
+
+**سيناريوهات التشغيل التلقائي:**
+- **الدمج المبرمج مسبقًا:** دمج قوالب XLTM مع حماية النصوص البرمجية.
+- **التحقق من الماكرو:** ضمان تشغيل الماكرو بأمان وكما هو مقصود.
+- **التخصيص بقوى الذكاء الاصطناعي:** استخدام الذكاء الاصطناعي لضبط الماكرو لسير العمل الشخصية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de fichiers de modèle Excel XLTX à l'aide d'API dans les applications Java
+
+La fusion de fichiers de modèle Excel XLTX à l'aide d'API dans les applications Java rationalise la génération de documents à grande échelle basée sur des modèles pour les opérations commerciales.
+
+**Cas d'utilisation clés :**
+- **Lots de factures :** Fusionnez des modèles XLTX pour produire des factures clients à grande échelle.
+- **Planification budgétaire :** Combinez des modèles de planification pour l'élaboration des budgets départementaux.
+- **Formats cohérents :** Maintenez des normes de reporting uniformes dans toute l'entreprise.
+
+**Scénarios d'automatisation :**
+- **Usines de documents :** Automatisez de grands volumes de rapports personnalisés.
+- **Population de champs basée sur l'IA :** Utilisez l'IA pour remplir automatiquement les champs lors de la fusion de modèles.
+- **Génération évolutive :** Fusionnez et générez des rapports pour des équipes distribuées à l'échelle mondiale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

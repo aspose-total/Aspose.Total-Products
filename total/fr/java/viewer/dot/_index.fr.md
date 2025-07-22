@@ -76,7 +76,27 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualisation des fichiers DOT à l'aide d'API Java : Aperçu des modèles Word n'importe où</h2>
+
+Visualiser des fichiers DOT avec des API Java permet un rendu transparent des modèles Word dans les applications web, les générateurs de documents et les plateformes CMS. Les utilisateurs peuvent inspecter les mises en page et les styles sans avoir Word installé.
+
+## ✅ Cas d'utilisation clés
+
+- **Affichage de modèles pour les workflows :** Afficher des fichiers DOT dans la génération de documents automatisée.
+- **Aperçu des styles :** Visualiser les formats par défaut pour de nouveaux documents.
+- **Bibliothèques de modèles dans les CMS :** Permettre aux utilisateurs de parcourir en ligne les modèles DOT disponibles.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Plateformes d'intégration :** Rendre les modèles de lettres d'offre ou de contrats.
+- **Outils de personnalisation :** Permettre aux utilisateurs de choisir et de modifier des modèles.
+- **Bibliothèques de modèles :** Aperçu des modèles d'entreprise dans les hubs de contenu.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

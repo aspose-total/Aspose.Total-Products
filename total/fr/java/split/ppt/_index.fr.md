@@ -68,7 +68,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Découpage des fichiers PPT à l'aide des API Java : Moderniser les flux de travail de présentation hérités</h2>
+
+Découper des fichiers PPT avec des API Java permet aux entreprises de segmenter les présentations héritées pour les flux de travail modernes. Cela facilite les mises à jour, la réutilisation rétrocompatible et un contrôle plus granulaire du contenu des diapositives.
+
+## ✅ Cas d'utilisation clés
+
+- **Segmentation héritée** : Diviser les anciennes présentations en fichiers PPT mis à jour et spécifiques à un sujet.
+- **Sections de produits** : Extraire et réutiliser les diapositives de produits pour les équipes de vente.
+- **Decks de présentation** : Générer des decks de présentation personnalisés pour les événements et les conférences.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Modernisation archivistique** : Convertir et découper des fichiers PPT hérités pour des cas d'utilisation mis à jour.
+- **Réutilisation rétrocompatible** : Réutiliser d'anciens formats de diapositives dans des présentations modernes.
+- **Contrôle granulaire des LMS** : Fournir des diapositives précises aux modules d'apprentissage en ligne.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

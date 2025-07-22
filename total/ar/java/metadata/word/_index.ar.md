@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## إستدارة البيانات الوصفية في مستندات Microsoft Word باستخدام واجهات برمجة التطبيقات في تطبيقات Java تضمن توحيد المحتوى، الامتثال، وإدارة دورة حياة المستند بكفاءة.
+
+**حالات الاستخدام الرئيسية:**
+- فرض معايير الشركة على نطاق الشركة بالهياكل الوصفية المتسقة.
+- تحسين فهرسة البحث والتصنيف في منصات إدارة نظام الوثائق.
+- دعم عمليات التدقيق للامتثال بالتأليف والإصدارات التي يمكن التحقق منها.
+
+**سيناريوهات التلقائية:**
+- ربط حقول البيانات الوصفية عبر آلاف الملفات في Word تلقائيًا.
+- وسم المستندات بالفئات أو الإدارات أو المشاريع.
+- استخدام الذكاء الاصطناعي لتقسيم أرشيفات Word الكبيرة حسب التأليف، الموضوع، أو الخاصية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

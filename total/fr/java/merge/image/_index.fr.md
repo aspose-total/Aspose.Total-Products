@@ -76,7 +76,16 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Scénarios d'automatisation :</h2>
+- **Génération dynamique de grilles :** Générer automatiquement des grilles d'images pour des présentations.
+- **Fusion agnostique au format :** Fusionner des formats d'images mixtes de manière transparente.
+- **Curation de mise en page IA :** Utiliser l'IA pour concevoir, agencer et optimiser les visuels finaux.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

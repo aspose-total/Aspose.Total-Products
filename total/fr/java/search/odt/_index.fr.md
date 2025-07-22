@@ -89,7 +89,28 @@ Pour plus de détails sur les dépendances facultatives des packages, telles que
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Recherche de fichiers ODT à l'aide d'API Java : Contrôler le contenu texte ouvert</h2>
+
+Rechercher des fichiers ODT (OpenDocument Text) avec des API Java est essentiel pour les entreprises qui traitent de gros volumes de documents texte ouverts. L'automatisation de la recherche ODT aide à garantir le respect des politiques, la précision juridique et une gestion efficace des connaissances.
+
+## ✅ Cas d'utilisation clés
+
+- **Identifier le contenu sensible dans les contrats** : Localiser les termes et obligations confidentiels.
+- **Trouver des clauses de politique dans les documents d'assurance** : Trouver rapidement un langage de politique spécifique.
+- **Examiner les mots-clés de conformité dans les fichiers opérationnels** : Détecter les phrases réglementées dans les fichiers texte.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Découverte juridique** : Simplifier les recherches de documents à grande échelle pour les preuves et les références.
+- **Recherche d'entreprise** : Intégrer des fichiers ODT dans des plateformes de recherche à l'échelle de l'organisation.
+- **Validation de contenu réglementaire** : Garantir que les documents respectent les normes de conformité.
+- **Pipelines d'indexation basés sur l'IA** : Alimenter les systèmes de recherche et de classification intelligents.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

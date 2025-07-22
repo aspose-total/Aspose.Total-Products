@@ -75,7 +75,23 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de fichiers ODS (OpenDocument Spreadsheet) à l'aide d'API dans les applications Java
+
+L'API en Java pour fusionner des fichiers ODS (OpenDocument Spreadsheet) aide les organisations à exploiter efficacement les flux de travail de tableurs open-source. La fusion ODS programmable prend en charge une gestion des données fluide, une analyse collaborative et des rapports clairs.
+
+**Cas d'utilisation clés :**
+- **Tableurs open-source :** Combinez des fichiers ODS de différents services ou équipes.
+- **Élaboration de budget :** Fusionnez les budgets des services dans un seul fichier ODS maître.
+- **Tableaux de bord intégrés :** Consolidez les données d'analyse dans des tableaux de bord unifiés à onglets multiples.
+
+**Scénarios d'automatisation :**
+- **Fusion ODS vers Excel :** Fusionnez des fichiers ODS et convertissez-les en Excel pour une compatibilité plus large.
+- **Rapports à onglets multiples :** Automatisez la création de rapports avec plusieurs feuilles.
+- **Consistance des formules IA :** Utilisez l'IA pour valider et normaliser les formules lors de la fusion.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

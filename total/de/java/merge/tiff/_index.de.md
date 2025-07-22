@@ -76,7 +76,21 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Schlüssige Anwendungen:</h2>
+- **Mehrseitige Dokumente:** Kombinieren Sie mehrere gescannte Seiten zu einer einzigen TIFF-Datei.
+- **Bauplanarchive:** Nähen Sie technische Zeichnungen digital für die Archivierung zusammen.
+- **Bilddatensätze:** Verschmelzen Sie hochauflösende TIFFs für Forschung und Analyse.
+
+<h2>Automatisierungsszenarien:</h2>
+- **Seitenabfolge:** Automatisieren Sie die korrekte Seitenreihenfolge in mehrseitigen TIFFs.
+- **Komprimierungsbewusstes Zusammenführen:** Optimieren Sie die Dateigröße, ohne Details zu verlieren.
+- **KI-Vorverarbeitung:** Wenden Sie KI-Filter zur Rauschreduzierung und Klarheit an.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

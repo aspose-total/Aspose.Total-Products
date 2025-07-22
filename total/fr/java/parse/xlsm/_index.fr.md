@@ -74,7 +74,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Analyse des fichiers XLSM à l'aide des API Java : Automatisation activée par macro</h2>
+
+L'analyse des fichiers XLSM avec les API Java permet d'identifier les macros intégrées, de valider les tâches dynamiques et de gérer les feuilles de calcul automatisées. L'automatisation prend en charge les audits de sécurité, l'analyse du comportement des macros et les flux de travail intelligents.
+
+## ✅ Cas d'utilisation clés
+
+- **Identifier les macros :** Détecter et analyser les scripts intégrés.
+- **Valider l'automatisation :** Vérifier l'exactitude et la logique des macros.
+- **Gérer les feuilles dynamiques :** Contrôler les feuilles de calcul automatisées complexes.
+- **Audits de sécurité :** Trouver les macros malveillantes ou obsolètes.
+- **Analyse du comportement :** Surveiller comment les macros interagissent avec les données.
+- **Flux de travail intelligents :** Utiliser les macros analysées pour des tâches intelligentes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

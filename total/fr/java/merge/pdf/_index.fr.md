@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Utilisations clés :</h2>
+- **Contrats signés :** Compiler plusieurs accords signés dans un seul PDF organisé.
+- **Pages numérisées :** Fusionner des documents papier numérisés en fichiers numériques consultables.
+- **Rapports financiers :** Combiner des feuilles de calcul, des graphiques et des relevés en rapports PDF complets pour les parties prenantes.
+
+<h2>Scénarios d'automatisation :</h2>
+- **Assemblage de PDF par lot :** Fusionner un grand nombre de fichiers PDF de manière programmée.
+- **Sélection de plage de pages :** Fusionner des pages spécifiques de différents PDF pour des sorties personnalisées.
+- **Tri de contenu IA :** Utiliser l'IA pour trier, étiqueter et structurer les PDF fusionnés pour des flux de travail sécurisés et efficaces.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

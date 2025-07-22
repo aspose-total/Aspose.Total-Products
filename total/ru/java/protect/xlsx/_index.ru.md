@@ -74,7 +74,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования
+- Заблокировать таблицы с формулами.
+- Защитить паролем отчеты о продуктивности.
+- Обеспечить ограниченный доступ к данным о продажах.
+
+## Сценарии автоматизации
+- Финансовая отчетность, соответствующая требованиям аудита.
+- Таблицы с контролем версий.
+- Безопасные наборы данных для обучения искусственного интеллекта.
+- Совместная аналитика предприятия.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

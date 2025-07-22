@@ -71,7 +71,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ تقسيم ملفات ODS باستخدام واجهات برمجة تطبيقات Java: إدارة بيانات مفتوحة المصدر فعالة</h2>
+
+تبسيط تقسيم ملفات ODS باستخدام واجهات برمجة تطبيقات Java يسهل التعامل مع جداول البيانات مفتوحة المصدر من خلال تمكين الوصول النمطي للبيانات والتقارير. يدعم هذا سير العمل الخاص بالذكاء الاصطناعي، والمشاركة الموسعة، وتحسين الأداء.
+
+## ✅ حالات الاستخدام الرئيسية
+
+- **البيانات المالية الإقليمية**: تقسيم جداول بيانات مالية كبيرة إلى ملفات ODS محددة لكل منطقة.
+- **أوراق العمل الفردية**: استخراج أوراق عمل محددة للمشاركة المستقلة أو التحليل.
+- **التقارير الإحصائية**: عزل البيانات الإحصائية للتقارير المستهدفة.
+
+## ⚙️ سيناريوهات التأتير الآلي
+
+- **أنابيب BI مفتوحة المصدر**: أتمتة استخراج البيانات لسير العمل الخاص بالذكاء الاصطناعي والتحليلات.
+- **مشاركة البيانات النمطية**: مشاركة أجزاء فقط من جداول البيانات ذات الصلة مع الأطراف المعنية.
+- **تحسين الأداء**: تقديم ملفات ODS أصغر لأوقات تحميل أسرع في التطبيقات والأدوات.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

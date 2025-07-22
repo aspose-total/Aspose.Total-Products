@@ -74,7 +74,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés:
+- Classer les articles académiques et les rapports de recherche par métadonnées.
+- Attribuer l'auteur pour maintenir l'intégrité académique.
+- Organiser des documents multilingues pour une collaboration mondiale.
+
+## Scénarios d'automatisation:
+- Extraire les métadonnées à grande échelle à partir de grandes bibliothèques ODT.
+- Trier les documents par auteur ou par champ de sujet.
+- Utiliser l'IA pour regrouper et étiqueter les fichiers ODT pour une découverte facile.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Cas d'utilisation clés:
+- Améliorer la découvrabilité dans les bibliothèques de documents publics ou privés.
+- Appliquer des règles de classification dans des archives légales ou réglementées.
+- Intégrer des informations de conformité directement dans les PDF.
+
+## Scénarios d'automatisation:
+- Automatiser le balisage du titre, du sujet et des mots-clés.
+- Modifier les métadonnées par lots pour maintenir la cohérence.
+- Utiliser l'IA pour étiqueter les PDF pour les flux de travail réglementaires et d'audit.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

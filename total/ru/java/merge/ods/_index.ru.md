@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Слияние файлов ODS (OpenDocument Spreadsheet) с использованием API в приложениях Java помогает организациям эффективно использовать рабочие процессы с электронными таблицами с открытым исходным кодом. Программное слияние ODS обеспечивает удобное управление данными, совместный анализ и ясное отчетирование.
+
+**Основные сценарии использования:**
+- **Электронные таблицы с открытым исходным кодом:** Объединение файлов ODS из разных отделов или команд.
+- **Бюджетирование:** Объединение бюджетов отделов в один общий файл ODS.
+- **Интегрированные панели управления:** Объединение данных аналитики в единые многостраничные панели управления.
+
+**Сценарии автоматизации:**
+- **Слияние ODS в Excel:** Объединение файлов ODS и преобразование их в Excel для более широкой совместимости.
+- **Многостраничные отчеты:** Автоматизация создания отчетов с несколькими листами.
+- **Согласованность формул с помощью искусственного интеллекта:** Использование искусственного интеллекта для проверки и стандартизации формул в процессе слияния.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

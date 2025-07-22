@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование файлов ODS (OpenDocument Spreadsheet) с использованием Java API является важным для организаций, работающих с данными электронных таблиц с открытым исходным кодом. Программное редактирование маскирует заработные платы, удаляет медицинские данные и скрывает цены поставщиков в листах закупок.
+
+## ✅ Основные сценарии использования
+
+- **Отчеты о заработной плате:** Скрывайте детали оплаты в открытых данных.
+- **Медицинские записи:** Удаляйте медицинские данные для соответствия исследованиям.
+- **Листы закупок:** Скрывайте цены поставщиков в общих бюджетах.
+
+## ⚙️ Сценарии автоматизации
+
+- **Публикация открытых данных:** Очистка данных для общедоступного распространения.
+- **Соответствие исследованиям:** Соблюдение законов о конфиденциальности для опубликованных наборов данных.
+- **Внутреннее распространение:** Распространение электронных таблиц без раскрытия конфиденциальной информации.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Fractionnement des fichiers ODS à l'aide d'API Java : Gestion efficace des données open source</h2>
+
+Le fractionnement des fichiers ODS à l'aide d'API Java simplifie la manipulation des feuilles de calcul open source en permettant un accès modulaire aux données et des rapports. Cela prend en charge les flux de travail BI, le partage évolutif et les performances améliorées.
+
+## ✅ Cas d'utilisation clés
+
+- **Finances régionales** : Diviser de grands tableaux financiers en fichiers ODS spécifiques à une région.
+- **Onglets individuels** : Extraire des feuilles spécifiques pour un partage ou une analyse autonome.
+- **Rapports statistiques** : Isoler les données statistiques pour des rapports ciblés.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Pipelines BI open source** : Automatiser l'extraction de données pour les flux de travail BI et analytiques.
+- **Partage modulaire des données** : Partager uniquement les parties pertinentes des feuilles de calcul avec les parties prenantes.
+- **Optimisation des performances** : Servir des fichiers ODS plus petits pour des temps de chargement plus rapides dans les applications et les outils.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cas d'utilisation clés :
+- **Modèles complexes :** Combinez plusieurs modèles basés sur des macros en un seul maître prêt pour le flux de travail.
+- **Formulaires interactifs :** Consolidez les formulaires qui dépendent des macros pour l'automatisation de la saisie utilisateur.
+- **Examens de conformité :** Examinez et fusionnez les modèles automatisés pour respecter les politiques.
+
+## Scénarios d'automatisation :
+- **Validation des macros :** Validez les scripts de macro lors de la fusion pour une utilisation sécurisée des modèles.
+- **Intégration sécurisée des modèles :** Évitez les conflits de macros lors de la combinaison de plusieurs DOTM.
+- **Détection de motifs d'IA :** Utilisez l'IA pour identifier la logique répétitive et optimiser les structures de macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Verwalten von Metadaten in DOT-Vorlagendateien mithilfe von Java-APIs
+
+Die Verwendung von Java-APIs zur Verwaltung von Metadaten in DOT-Vorlagendateien gewährleistet Konsistenz und Kontrolle in Legacy-Vorlagenbibliotheken. Organisationen können die Nutzung nachverfolgen, Eigenschaften zur Einhaltung von Vorschriften anpassen und Vorlagennamenskonventionen strukturieren.
+
+**Hauptanwendungsfälle:**
+- Verlauf der Nutzung verfolgen, um die Relevanz der Vorlagen in Legacy-Systemen aufrechtzuerhalten.
+- Vorlageneigenschaften mit regulatorischen Anforderungen abstimmen.
+- Strukturierte Benennung in umfangreichen DOT-Dateibibliotheken durchsetzen.
+
+**Automatisierungsszenarien:**
+- Stapelprüfung der Vorlagenmetadaten zur Einhaltung von Vorschriften automatisieren.
+- Vorlagen basierend auf Metadateneigenschaften filtern und organisieren.
+- KI anwenden, um Legacy-DOT-Dateien intelligent zu klassifizieren und zu aktualisieren.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

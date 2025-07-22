@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de fichiers de modèle Word DOTX en utilisant des API dans les applications Java
+
+La fusion de fichiers de modèle DOTX Word à l'aide d'API dans les applications Java permet aux entreprises de mettre à l'échelle la génération de documents tout en maintenant la cohérence de la marque. La fusion automatisée de DOTX permet d'assembler dynamiquement du contenu pour des sorties professionnelles.
+
+**Cas d'utilisation clés :**
+- **Propositions personnalisées :** Fusionner des sections de modèle pour créer des propositions spécifiques aux clients.
+- **Rapports standard :** Assembler des sections réutilisables dans des rapports standard de l'entreprise.
+- **Mises en page de marque :** Faire respecter les directives de marque à travers les équipes en fusionnant des modèles DOTX standard.
+
+**Scénarios d'automatisation :**
+- **Population basée sur les champs :** Remplir dynamiquement les modèles fusionnés avec des données variables.
+- **Transformation de modèle :** Convertir automatiquement les modèles fusionnés en documents finaux.
+- **Fusion améliorée par l'IA :** Utiliser l'IA pour fusionner intelligemment des sections, en adaptant les mises en page pour une production de documents à grande échelle.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

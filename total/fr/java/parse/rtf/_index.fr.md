@@ -76,7 +76,24 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Analyse des fichiers RTF à l'aide des API Java : Transformation de format hérité et conformité</h2>
+
+L'analyse des fichiers RTF avec les API Java prend en charge l'extraction de contenu formaté, d'objets intégrés et la transformation de documents hérités. L'automatisation de l'analyse RTF aide à l'archivage de la conformité, à la récupération des métadonnées et aux flux de travail de formation en IA.
+
+## ✅ Cas d'utilisation clés
+
+- **Extraire du contenu formaté :** Récupérer du texte mis en forme et des sections.
+- **Identifier les objets intégrés :** Détecter les images, les tableaux et les liens.
+- **Transformer les documents :** Convertir les RTF en formats modernes.
+- **Archivage de la conformité :** Préserver le contenu pour les audits.
+- **Récupération des métadonnées :** Reconstruire les informations du document.
+- **Formation de modèles d'IA :** Utiliser le texte analysé pour les modèles de PNL.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

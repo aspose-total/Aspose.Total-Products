@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Основные сценарии использования:
+- **Шаблоны отделов:** Объединение шаблонов команд в общую версию.
+- **Стандартизированные отчеты:** Автоматизация создания отчетов с единым стилем.
+- **Соответствие бренду:** Соблюдение фирменного стиля компании во всех шаблонах Excel.
+
+## Сценарии автоматизации:
+- **Преобразование XLT в XLS:** Объединение шаблонов и создание заполненных рабочих книг.
+- **Заполненные отчеты:** Заполнение объединенных шаблонов динамическими данными.
+- **Отслеживание использования ИИ:** Использование искусственного интеллекта для мониторинга использования шаблонов и предложения улучшений.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

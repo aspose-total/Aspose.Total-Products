@@ -76,7 +76,21 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Schlüsselanwendungsfälle:</h2>
+- **Produktkataloge:** Kompilieren Sie mehrere Produktfotos zu organisierten JPEG-Blättern für Online-Shops.
+- **Gescannte Dokumente:** Kombinieren Sie gescannte Seiten zu einzelnen JPEG-Visualisierungsberichten für einfaches Teilen.
+- **Marketing-Fotobündel:** Erstellen Sie werbefertige Fotosammlungen für Anzeigen, Newsletter und soziale Medien.
+
+<h2>Automatisierungsszenarien:</h2>
+- **Batch-Bildkonsolidierung:** Automatisieren Sie das Zusammenführen von Tausenden von JPEGs in großen Mengen.
+- **Layout-Optimierung:** Ordnen Sie Bilder in vordefinierten Rasterlayouts an.
+- **KI-unterstütztes Storytelling:** Verwenden Sie KI, um JPEGs für dynamische Markenerzählungen zu sequenzieren, zu taggen und zusammenzuführen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -117,7 +117,26 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Pourquoi annoter les fichiers XLTM : optimiser les modèles de rapports, les audits et la saisie automatique des données</h2>
+
+Annoter les fichiers **XLTM (modèle Excel activé par macro)** est crucial pour les organisations qui s'appuient sur des modèles réutilisables alimentés par des macros pour des tâches récurrentes. Les commentaires, les surlignages et les notes de cellule facilitent l'explication de la logique des macros, guident les utilisateurs du modèle et garantissent que les rapports et les audits restent précis.
+
+## ✅ Cas d'utilisation clés
+
+- **Modèles de rapports mensuels :** Utilisez des annotations pour clarifier les calculs pilotés par macro, signaler les zones de saisie de données et garantir la cohérence des rapports mensuels.
+- **Audits récurrents :** Ajoutez des commentaires pour guider les étapes d'audit, vérifier les macros de la liste de contrôle et suivre les mises à jour pour maintenir les normes de conformité.
+- **Saisie automatique des données :** Annoter les modèles pour expliquer comment les macros automatisent les extractions de données, mettre en évidence les sections de saisie manuelle et réduire les erreurs de saisie.
+
+## ⚙️ Avantages de l'automatisation
+
+- **Validation des macros :** Automatisez les annotations pour tester la fonctionnalité des macros, signaler les risques et vérifier que les tâches automatisées s'exécutent comme prévu.
+- **Gouvernance des modèles :** Utilisez des outils automatisés pour gérer le contrôle des versions, garantir la cohérence des modèles et maintenir une documentation claire pour les équipes internes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

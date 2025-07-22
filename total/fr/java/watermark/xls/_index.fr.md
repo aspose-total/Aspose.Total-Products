@@ -71,7 +71,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Appliquer des filigranes aux fichiers XLS à l'aide des API Java est essentiel pour sécuriser les feuilles de calcul, marquer les modèles propriétaires et protéger les données sensibles. Le filigrane automatisé ajoute des étiquettes et des logos sur les actifs XLS.
+
+## ✅ Cas d'utilisation clés
+
+- **Protéger les données** — Marquer les feuilles de calcul avec des avis de confidentialité.
+- **Marquer les modèles économiques** — Intégrer des logos dans les feuilles de planification commerciale.
+- **Sécuriser les projections** — Ajouter des restrictions d'utilisation aux fichiers XLS sensibles.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Tableaux de bord BI** — Filigraner les tableaux de bord financiers pour un usage interne.
+- **Flux de travail financiers** — Étiqueter les feuilles de calcul de travail pour le contrôle des versions.
+- **Portails de partage de données** — Appliquer des filigranes aux fichiers avant leur distribution.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

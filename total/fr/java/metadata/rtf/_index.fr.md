@@ -74,7 +74,21 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Utilisations clés :</h2>  
+- Organiser des documents textuels légaux par des attributs de métadonnées.  
+- Retracer l'auteur et l'historique des modifications dans des documents médicaux ou cliniques.  
+- Alimenter la recherche basée sur les métadonnées dans des archives légères.
+
+<h2>Scénarios d'automatisation :</h2>  
+- Extraire les propriétés RTF à grande échelle avec un effort manuel minimal.  
+- Analyser les archives RTF héritées à la recherche de métadonnées cachées ou manquantes.  
+- Appliquer l'IA pour étiqueter automatiquement les fichiers RTF en fonction du contenu et des métadonnées.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

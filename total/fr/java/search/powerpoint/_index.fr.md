@@ -88,7 +88,26 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Recherche de fichiers POWERPOINT à l'aide d'API Java : Découvrez les informations des diapositives</h2>
+
+## ✅ Cas d'utilisation clés
+
+- **Localiser les messages stratégiques dans les présentations exécutives** : Trouver les idées principales et les déclarations stratégiques.
+- **Identifier les mentions légales dans les présentations de conformité** : S'assurer que les notes légales sont incluses lorsque nécessaire.
+- **Récupérer les références visuelles dans le contenu marketing** : Localiser les images, les graphiques et les éléments de branding.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Découverte de contenu** : Améliorer l'accès au contenu des présentations dans toute l'entreprise.
+- **Classification automatique des diapositives basée sur l'IA** : Étiqueter automatiquement les diapositives par sujet ou thème.
+- **Audits réglementaires** : Vérifier les présentations pour leur conformité aux normes de divulgation.
+- **Recherche de connaissances à l'échelle de l'entreprise** : Intégrer les présentations dans les outils de recherche globaux.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

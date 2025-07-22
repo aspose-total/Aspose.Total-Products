@@ -74,7 +74,24 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Analyse des fichiers ODS à l'aide d'API Java : Automatisation des feuilles de calcul open source</h2>
+
+L'analyse des fichiers ODS (OpenDocument Spreadsheet) avec des API dans les applications Java permet d'extraire des données structurées de feuilles de calcul, d'automatiser les comparaisons de feuilles et de transformer le contenu open source pour une intégration plus large dans les flux de travail. L'analyse automatisée des ODS prend en charge l'analyse pilotée par l'IA, les mises à jour en temps réel et les flux de données ouvertes.
+
+## ✅ Cas d'utilisation clés
+
+- **Extraire des données financières :** Lire des tableaux structurés et des calculs.
+- **Automatiser la comparaison de feuilles :** Identifier les différences de données entre les feuilles.
+- **Transformer des données ouvertes :** Convertir le contenu ODS en d'autres formats.
+- **Intégrations de flux de travail :** Lier les données analysées avec des outils ERP ou BI.
+- **Analyse de feuilles de calcul IA :** Alimenter des modèles prédictifs avec des données structurées.
+- **Mises à jour en temps réel :** Garder les feuilles de calcul synchronisées avec des sources de données en direct.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

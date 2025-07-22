@@ -75,7 +75,27 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Aufteilen von ODT-Dateien mit Java-APIs: Modulare Open-Source-Dokumentenbereitstellung</h2>
+
+Das Aufteilen von ODT-Dateien mit Java-APIs ermöglicht es Teams, große Open-Source-Dokumente für eine einfachere Verwaltung, Personalisierung und Weitergabe zu zerlegen. Dies unterstützt die dynamische Veröffentlichung und verbessert den mobilen Zugriff.
+
+## ✅ Hauptanwendungsfälle
+
+- **Modulare Handbücher**: Teilen Sie lange Handbücher in kleinere, auf bestimmte Rollen zugeschnittene ODT-Dateien auf.
+- **Richtlinientrennung**: Trennen Sie Unternehmensrichtlinien nach Abteilung oder Region.
+- **Gezielte Ausgaben**: Generieren Sie gezielte Versionen aus einem Master-ODT.
+
+## ⚙️ Automatisierungsszenarien
+
+- **Dokumentenpersonalisierung**: Automatisieren Sie die Generierung von benutzerspezifischen ODT-Dateien.
+- **Integration in Open-Source-DMS**: Integrieren Sie aufgeteilte Dateien in Dokumentenmanagementsysteme.
+- **Mobiles Publishing**: Liefern Sie kleinere, relevante ODT-Dateien für den mobilen Zugriff unterwegs.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

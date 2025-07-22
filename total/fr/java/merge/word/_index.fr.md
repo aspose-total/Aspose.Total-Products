@@ -74,7 +74,23 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de documents Microsoft Word à l'aide d'API dans les applications Java
+
+L'utilisation d'API dans les applications Java pour fusionner des documents Microsoft Word améliore les flux de travail documentaires dans divers secteurs. La fusion automatisée de documents Word augmente la productivité, maintient l'identité visuelle et simplifie la gestion de contenu à grande échelle.
+
+**Principaux cas d'utilisation :**
+- **Rapports clients :** Combinez plusieurs rapports en un seul fichier Word soigné.
+- **Dossiers d'affaires :** Fusionnez des documents juridiques ou d'assurance pour des enregistrements unifiés.
+- **Contenu de marque :** Automatisez la création de propositions commerciales, de politiques ou de contrats avec une identité visuelle cohérente.
+
+**Scénarios d'automatisation :**
+- **Génération dynamique :** Générez des documents de manière dynamique en fusionnant plusieurs fichiers Word.
+- **Nettoyage des métadonnées :** Supprimez les métadonnées obsolètes lors du processus de fusion.
+- **Restructuration de sections par IA :** Utilisez l'IA pour réorganiser et formater les sections pour plus de clarté et de conformité.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحرير ملفات XLS من خلال واجهات برمجة التطبيقات في جافا يحمي البيانات القديمة في جداول البيانات التي تحتوي على معلومات حساسة تاريخية. يخفي التحرير التلقائي الجداول القديمة للرواتب، ويقوم بتجميع سجلات العملاء، ويقنع البيانات الميزانية القديمة.
+
+## ✅ حالات الاستخدام الرئيسية
+
+- **جداول الرواتب:** إزالة تفاصيل الرواتب في الملفات المؤرشفة.
+- **سجلات العملاء:** إخفاء معلومات العملاء القديمة لامتثال الاحتفاظ.
+- **بيانات الميزانية:** تقنين التوقعات القديمة أو الأرقام الحساسة.
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+
+- **سياسات الاحتفاظ:** تطهير الملفات للأرشفة أو التدمير.
+- **الرقمنة الآمنة:** تحرير الملفات قبل نقلها إلى الأنظمة الحديثة.
+- **الحماية التاريخية:** الحفاظ على مجموعات البيانات المالية القديمة بشكل آمن ومتوافق.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

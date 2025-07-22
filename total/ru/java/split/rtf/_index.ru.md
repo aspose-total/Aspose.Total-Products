@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Разделение файлов RTF с использованием Java API: Гибкое управление текстовым контентом</h2>
+
+Разделение файлов RTF с использованием Java API позволяет организациям управлять документами с размеченным текстом, выделяя их части для модульного использования, многоязычной публикации и легкой повторной использования на различных платформах.
+
+## ✅ Основные сценарии использования
+
+- **Форматированные разделы**: Извлечение стилизованных разделов для повторного использования в других документах.
+- **Модульные пакеты контента**: Разделение больших файлов RTF на повторно используемые блоки контента.
+- **Разделение на несколько языков**: Разделение многоязычных документов на файлы для каждого языка.
+
+## ⚙️ Сценарии автоматизации
+
+- **Интеграция с CMS**: Автоматизация импорта разделенных секций RTF в системы управления контентом.
+- **Повторное использование текстового контента**: Переработка отформатированных блоков контента в нескольких выводах.
+- **Мобильный доступ**: Предоставление более мелких секций RTF для просмотра на мобильных устройствах.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

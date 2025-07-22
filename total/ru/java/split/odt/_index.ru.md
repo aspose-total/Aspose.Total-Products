@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Разделение файлов ODT с использованием Java API: Модульная поставка открытых документов</h2>
+
+Разделение файлов ODT с помощью Java API позволяет командам разбивать большие открытые документы для удобного управления, персонализации и обмена. Это поддерживает динамическое публикование и улучшает мобильный доступ.
+
+## ✅ Основные сценарии использования
+
+- **Модульные руководства**: Разделите длинные руководства на более мелкие файлы ODT, специфичные для ролей.
+- **Изоляция политики**: Разделите корпоративные политики по отделам или регионам.
+- **Целевые версии**: Создайте целевые версии из основного файла ODT.
+
+## ⚙️ Сценарии автоматизации
+
+- **Персонализация документов**: Автоматизируйте генерацию файлов ODT, специфичных для пользователей.
+- **Интеграция с системами управления документами с открытым исходным кодом**: Интегрируйте разделенные файлы в системы управления документами.
+- **Публикация, удобная для мобильных устройств**: Поставляйте более мелкие, соответствующие файлы ODT для доступа в пути.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

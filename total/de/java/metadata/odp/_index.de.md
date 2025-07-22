@@ -74,7 +74,21 @@ Einzelheiten entnehmen Sie bitte [Produktdokumentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Verwalten von Metadaten in ODP-Präsentationsdateien mithilfe von APIs in Java-Anwendungen verbessert die Organisation und Zusammenarbeit in Open-Source-Ökosystemen.
+
+**Hauptanwendungsfälle:**
+- Organisieren von Präsentationsfolien in Open-Source-Kollaborationsplattformen.
+- Verfolgen von Überarbeitungshistorie und Folienbesitz.
+- Kategorisieren von Präsentationsinhalten für Unternehmenswissensdatenbanken.
+
+**Automatisierungsszenarien:**
+- Filtern von Folien nach Metadatenfeldern wie Titel und Thema.
+- Extrahieren von Schlüsselmetadaten in Stapelverarbeitungsworkflows.
+- KI verwenden, um Präsentationsfolien intelligent zu taggen und zu klassifizieren.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

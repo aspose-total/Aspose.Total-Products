@@ -77,7 +77,27 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualisation des fichiers XLTX à l'aide d'API Java : Visualisation de modèles de feuilles de calcul standard</h2>
+
+En utilisant des API Java pour visualiser des fichiers XLTX, les équipes peuvent prévisualiser des modèles Excel standard pour des rapports, des formulaires RH ou des enregistrements de ventes dans des applications web.
+
+## ✅ Cas d'utilisation clés
+
+- **Rapports d'entreprise :** Afficher des modèles standard pour l'établissement de budgets.
+- **Dossiers RH :** Prévisualiser des formulaires XLSX réutilisables.
+- **Journaux des ventes :** Afficher des fiches de ventes personnalisées en ligne.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Prévisualisation web :** Intégrer des modèles XLTX dans des outils SaaS.
+- **Tableaux de bord :** Automatiser la visualisation de modèles pour les équipes.
+- **Systèmes de reporting :** Fournir un accès facile aux prévisualisations de modèles.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

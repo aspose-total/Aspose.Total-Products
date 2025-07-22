@@ -75,7 +75,27 @@ Pour les détails de JogAmp JOGL, du moteur de police Harfbuzz et de Java Advanc
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Fractionnement des fichiers ODT à l'aide d'API Java : Livraison de documents open source modulaire</h2>
+
+Fractionner des fichiers ODT avec des API Java permet aux équipes de diviser de grands documents open source pour une gestion, une personnalisation et un partage plus faciles. Cela prend en charge la publication dynamique et améliore l'accès mobile.
+
+## ✅ Cas d'utilisation clés
+
+- **Manuels modulaires** : Diviser de longs manuels en plus petits fichiers ODT spécifiques à un rôle.
+- **Isolation des politiques** : Séparer les politiques de l'entreprise par département ou région.
+- **Sorties ciblées** : Générer des versions ciblées à partir d'un ODT maître.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Personnalisation de documents** : Automatiser la génération de fichiers ODT spécifiques à l'utilisateur.
+- **Intégration de DMS open source** : Intégrer des fichiers fractionnés dans des systèmes de gestion de documents.
+- **Publication adaptée aux mobiles** : Livrer des fichiers ODT plus petits et pertinents pour un accès en déplacement.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

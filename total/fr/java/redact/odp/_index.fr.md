@@ -72,7 +72,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Rédiger des fichiers ODP (OpenDocument Presentation) avec des API Java garantit que le contenu confidentiel des présentations reste protégé. La rédaction automatisée aide à masquer les plans stratégiques, à censurer les noms dans les diapositives RH et à supprimer les données concurrentielles dans les présentations aux investisseurs.
+
+## ✅ Cas d'utilisation clés
+
+- **Plans stratégiques d'entreprise :** Dissimuler les plans stratégiques dans les présentations partagées.
+- **Présentations RH :** Supprimer les noms des employés ou les données PII des diapositives.
+- **Présentations aux investisseurs :** Censurer des données sensibles concurrentielles ou financières.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Présentations de pitch confidentielles :** Assainir les présentations pour les parties prenantes externes.
+- **Matériel de formation :** Automatiser la rédaction pour un partage sécurisé des connaissances internes.
+- **Conformité réglementaire :** Respecter les normes de confidentialité des communications.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

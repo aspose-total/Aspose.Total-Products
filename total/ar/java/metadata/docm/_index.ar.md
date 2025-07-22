@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## الوصول إلى البيانات الوصفية وإدارتها في ملفات DOCM الممكّنة للماكرو باستخدام واجهات برمجة التطبيقات في تطبيقات Java أمر حيوي لسير العمل الآمن والمتوافق مع اللوائح. من خلال التعامل برمجيًا مع بيانات DOCM الوصفية، يمكن للمؤسسات تحديد مصادر الماكرو، وتتبع تاريخ الإصدارات، والحفاظ على الحوكمة في العمليات المعتمدة على القوالب.
+
+**حالات الاستخدام الرئيسية:**  
+- تحديد والتحقق من مصادر الماكرو لمنع تنفيذ الشفرات غير المصرح بها.  
+- تتبع تاريخ الإصدارات للحفاظ على سجلات التدقيق للامتثال.  
+- ضمان أن القوالب التي تحتوي على ماكروهات تتماشى مع معايير سير العمل الداخلية.
+
+**سيناريوهات التأتير الآلي:**  
+- أتمتة التحقق من البيانات الوصفية عبر ملفات DOCM لضمان الاتساق.  
+- مراقبة أنماط استخدام الماكرو وتحديد الشواذ تلقائيًا.  
+- استخدام تصنيف مساعد بالذكاء الاصطناعي لتنظيم ملفات DOCM الديناميكية حسب أنواع الماكرو، والمؤلفين، والإصدارات.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

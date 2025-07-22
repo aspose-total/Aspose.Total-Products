@@ -74,7 +74,28 @@ Einzelheiten zu JogAmp JOGL, Harfbuzz-Schriftart-Engine und Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Zugriff auf Metadaten in DOTX-Vorlagen und Bearbeitung mithilfe von APIs in Java-Anwendungen</h2>
+<p>hilft bei der Aufrechterhaltung der Versionskontrolle, der Ausrichtung auf Geschäftseinheiten und der Einhaltung von Richtlinien.</p>
+
+<h2>Wichtige Anwendungsfälle:</h2>
+<ul>
+<li>Versionierung von Vorlagen in Teams und Abteilungen durchsetzen.</li>
+<li>Vorlagen basierend auf Geschäftseinheiten oder Abteilungen kategorisieren.</li>
+<li>Unterstützung der Einhaltung von Vorschriften durch Sicherstellung der Konsistenz der Metadaten.</li>
+</ul>
+
+<h2>Automatisierungsszenarien:</h2>
+<ul>
+<li>Automatisches Einfügen von Metadaten beim Erstellen oder Aktualisieren von Vorlagen.</li>
+<li>Klassifizierung und Organisation von Vorlagen programmgesteuert.</li>
+<li>Verwaltung des gesamten Vorlagenlebenszyklus mit KI-gestütztem Metadaten-Tracking.</li>
+</ul>
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

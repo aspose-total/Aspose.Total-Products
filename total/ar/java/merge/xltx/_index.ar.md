@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## دمج ملفات قالب Excel XLTX باستخدام واجهات برمجة التطبيقات في تطبيقات Java يسهل إنتاج الوثائق بناءً على القوالب بشكل كبير لعمليات الأعمال.
+
+**حالات الاستخدام الرئيسية:**
+- **دفعات الفواتير:** دمج قوالب XLTX لإنتاج فواتير العملاء بشكل كبير.
+- **تخطيط الميزانية:** دمج قوالب التخطيط لتخطيط الميزانية الإدارية.
+- **تنسيقات متسقة:** الحفاظ على معايير التقارير الموحدة عبر المؤسسة.
+
+**سيناريوهات التأتير:**
+- **مصانع الوثائق:** أتمتة حجم كبير من التقارير المخصصة.
+- **ملء الحقول بواسطة الذكاء الاصطناعي:** استخدام الذكاء الاصطناعي لملء الحقول تلقائيًا أثناء دمج القوالب.
+- **إنتاجية قابلة للتوسيع:** دمج وإنتاج تقارير لفرق موزعة على نطاق عالمي.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

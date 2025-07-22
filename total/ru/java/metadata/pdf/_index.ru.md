@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Управление метаданными в файлах PDF с использованием API в приложениях Java увеличивает возможность обнаружения, классификацию и соответствие в цифровых архивах.
+
+**Основные сценарии использования:**
+- Улучшение обнаружимости в общедоступных или частных библиотеках документов.
+- Соблюдение правил классификации в юридических или регулируемых архивах.
+- Встраивание информации о соответствии непосредственно в PDF-файлы.
+
+**Сценарии автоматизации:**
+- Автоматизация маркировки заголовка, темы и ключевых слов.
+- Пакетное редактирование метаданных для поддержания согласованности.
+- Использование искусственного интеллекта для маркировки PDF-файлов для регулирования и аудита.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

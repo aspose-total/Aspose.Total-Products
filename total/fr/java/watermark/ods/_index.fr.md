@@ -71,7 +71,25 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Appliquer des filigranes aux fichiers ODS à l'aide des API Java joue un rôle clé dans la protection des données de feuilles de calcul ouvertes, en mettant en avant la confidentialité et en favorisant la visibilité de la marque. L'automatisation du filigrane assure une protection et une image de marque cohérentes sur tous les fichiers ODS.
+
+## ✅ Cas d'utilisation clés
+
+- **Sécuriser les données des feuilles de calcul** — Ajouter des avis de confidentialité aux feuilles de calcul contenant des informations sensibles.
+- **Marquer les rapports statistiques de la marque** — Intégrer des logos dans les feuilles de données organisationnelles.
+- **Restreindre le contenu** — Marquer les feuilles de calcul pour signaler une utilisation restreinte ou confidentielle.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Applications professionnelles open-source** — Filigraner automatiquement les fichiers générés par des logiciels professionnels.
+- **Rapports de données académiques** — Filigraner les rapports de recherche ou statistiques avant de les partager.
+- **Bases de connaissances internes** — Étiqueter les feuilles ODS utilisées pour la distribution interne.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

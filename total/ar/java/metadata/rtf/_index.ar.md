@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## استخراج البيانات الوصفية من ملفات RTF باستخدام واجهات برمجة التطبيقات في تطبيقات Java يعزز إدارة المستندات في الأنظمة الخفيفة أو القديمة. يدعم الاستخراج البرمجي تنظيم وتتبع والبحث في المستندات القائمة على النص.
+
+**حالات الاستخدام الرئيسية:**  
+- تنظيم مستندات النصوص القانونية حسب السمات الوصفية.  
+- تتبع ملكية الكتابة وتاريخ التحرير في المستندات الطبية أو السريرية.  
+- دعم البحث القائم على البيانات الوصفية في الأرشيفات الخفيفة.
+
+**سيناريوهات التأتير:**  
+- استخراج خصائص ملفات RTF بمقياس كبير مع جهد يدوي أدنى.  
+- فحص أرشيفات RTF القديمة للبحث عن البيانات الوصفية المخفية أو المفقودة.  
+- تطبيق الذكاء الاصطناعي لوضع علامات تلقائية على ملفات RTF استنادًا إلى المحتوى والبيانات الوصفية.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

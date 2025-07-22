@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## إدارة البيانات الوصفية في ملفات PDF باستخدام واجهات برمجة التطبيقات في تطبيقات Java تزيد من قابلية الاكتشاف والتصنيف والامتثال في الأرشيف الرقمي.
+
+**حالات الاستخدام الرئيسية:**
+- تعزيز قابلية الاكتشاف في مكتبات الوثائق العامة أو الخاصة.
+- فرض قواعد التصنيف في الأرشيف القانوني أو المنظم.
+- تضمين معلومات الامتثال مباشرة في ملفات PDF.
+
+**سيناريوهات التأتير:**
+- أتمتة تسمية العنوان والموضوع والكلمات الرئيسية.
+- تحرير البيانات الوصفية بشكل دفعي للحفاظ على التناسق.
+- استخدام الذكاء الاصطناعي لوسم ملفات PDF لسير العمل التنظيمي والتدقيق.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

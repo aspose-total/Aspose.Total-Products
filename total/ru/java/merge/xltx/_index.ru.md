@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ключевые сценарии использования:
+- **Пакеты счетов:** Объединение шаблонов XLTX для создания счетов клиентам в масштабе.
+- **Планирование бюджета:** Объединение шаблонов для планирования бюджета отделов.
+- **Единообразные форматы:** Поддержание единообразных стандартов отчетности в предприятии.
+
+## Сценарии автоматизации:
+- **Фабрики документов:** Автоматизация создания большого объема индивидуализированных отчетов.
+- **Заполнение полей на основе ИИ:** Использование искусственного интеллекта для автоматического заполнения полей во время объединения шаблонов.
+- **Масштабируемая генерация:** Объединение и создание отчетов для распределенных команд по всему миру.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
