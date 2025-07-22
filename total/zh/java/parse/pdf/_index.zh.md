@@ -74,7 +74,24 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📚 使用Java APIs解析PDF文件：嵌入式数据提取和工作流自动化</h2>
+
+使用Java APIs解析PDF文件可以解锁嵌入式文本、标记元数据和结构化转换，适用于企业使用。自动化支持法律审查、发票处理、内容索引和基于人工智能的文档智能化。
+
+## ✅ 主要用例
+
+- **提取嵌入内容：** 读取文本、表格和图片。
+- **读取标记元数据：** 实现智能搜索和索引。
+- **转换结构：** 为数据工作流程转换PDF文件。
+- **法律审查：** 自动化合同和合规性检查。
+- **发票处理：** 提取账单数据。
+- **人工智能智能化：** 将提取的文本输入到自然语言处理流程中。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

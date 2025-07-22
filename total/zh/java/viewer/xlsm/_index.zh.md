@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API查看XLSM文件：安全的启用宏电子表格视图</h2>
+
+Java API使得可以安全地查看XLSM文件，让用户检查启用宏的电子表格，而无需运行嵌入式代码。
+
+## ✅ 主要用例
+
+- **风险和审计工具：** 安全审查启用宏的电子表格。
+- **IT 仪表板：** 检查动态XLSM文件。
+- **金融应用：** 在不执行宏的情况下查看敏感电子表格。
+
+## ⚙️ 自动化场景
+
+- **风险管理：** 自动化宏电子表格审查。
+- **流程跟踪：** 在业务应用程序中显示XLSM。
+- **金融平台：** 安全预览XLSM工作表。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>使用案例：</h2>
+- **发票批次：** 合并 XLTX 模板以大规模生成客户发票。
+- **预算规划：** 合并部门预算规划模板。
+- **统一格式：** 在企业内部保持统一的报告标准。
+
+<h2>自动化场景：</h2>
+- **文档工厂：** 自动化大量定制报告的生成。
+- **AI 驱动字段填充：** 在模板合并过程中使用 AI 自动填充字段。
+- **可扩展生成：** 为全球分布式团队合并并生成报告。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

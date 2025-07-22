@@ -117,7 +117,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 为什么要注释 TSV 文件：改善日志分析、数据审查和纯文本文档</h2>
+
+注释 **TSV（制表符分隔值）** 文件对于与结构化纯文本数据（如日志、数据集和导出报告）一起工作的团队至关重要。向 TSV 文件添加注释或备注可提高清晰度，确保准确的数据解释，并简化协作。
+
+## ✅ 主要用例
+
+- **日志分析：** 使用注释来解释字段，在保存为 TSV 文件的日志导出中标记异常，并突出显示趋势。
+- **纯文本文档：** 添加注释以直接描述 TSV 文档中的列、数据源或转换步骤。
+- **源数据审查：** 插入内联注释以标记数据质量问题，建议更正或为分析人员澄清上下文。
+
+## ⚙️ 自动化优势
+
+- **AI 预处理：** 自动化注释以标记模式、检测异常值，并在机器学习或报告之前丰富 TSV 文件。
+- **代码审查：** 使用带注释的 TSV 文件澄清测试数据、验证输入/输出结构，并记录数据集更改。
+- **技术文档：** 集成自动化注释以保持基于 TSV 的数据字典、配置和处理说明清晰并最新。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

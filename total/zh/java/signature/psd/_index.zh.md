@@ -67,7 +67,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API添加和验证PSD签名：保护原始创意设计</h2>
+
+通过Java API在PSD文件中添加或验证签名，可以帮助设计师和组织保护原始艺术作品、分层图形和设计模板。数字签名有助于保持所有权，保护数字版权，并防止未经授权的使用。
+
+## ✅ 主要用例
+
+- **验证原始艺术作品** 的版权。
+- **签署分层图形设计** 以证明作者身份。
+- **向设计模板应用水印**。
+- **保护电子商务产品视觉效果**。
+- **保护品牌数字资产**。
+
+## ⚙️ 自动化场景
+
+- **强制执行PSD文件的数字版权管理**。
+- **自动化安全设计批准周期**。
+- **为客户启用经过验证的资产共享**。
+- **在生产工作流程中管理设计完整性**。
+- **简化分层文件的真实性检查**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

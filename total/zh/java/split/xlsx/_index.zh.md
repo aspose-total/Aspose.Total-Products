@@ -71,7 +71,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分XLSX文件：敏捷电子表格数据管理</h2>
+
+使用Java APIs拆分XLSX文件可通过将其分解为专注部分来简化处理现代电子表格，以实现更好的报告、个性化和移动访问。
+
+## ✅ 主要用例
+
+- **绩效表格**：为团队或客户隔离绩效指标。
+- **财务仪表板**：将复杂仪表板分割为特定部门。
+- **团队特定电子表格**：为单位或地区生成定制的XLSX文件。
+
+## ⚙️ 自动化场景
+
+- **分析报告**：为业务智能自动化拆分导出。
+- **个性化数据导出**：向利益相关者提供定向电子表格片段。
+- **移动仪表板优化**：为移动仪表板提供轻量级XLSX文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

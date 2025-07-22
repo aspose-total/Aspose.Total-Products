@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 访问和提取遗留PPT文件中的元数据，使用Java应用程序中的API有助于现代化存档的演示文稿，同时保留版本历史和作者详细信息。
+
+**关键用例：**
+- 在保留元数据的同时升级旧的PPT文件。
+- 为审计跟踪演示文稿的历史版本。
+- 组织存储在遗留格式中的演讲者演示文稿。
+
+**自动化场景：**
+- 将PPT迁移到PPTX并保留元数据。
+- 批量审计遗留幻灯片堆栈以确保完整性。
+- 使用人工智能对2007年前的内容进行标记和分类。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

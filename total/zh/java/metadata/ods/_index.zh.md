@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 提取和修改元数据在Java应用程序中使用API在ODS电子表格中有助于组织有效管理开源数据资产。
+
+**关键用例:**
+- 在协作环境中跟踪电子表格所有权。
+- 按部门或项目对财务或运营数据进行分类。
+- 支持文档生命周期和合规政策。
+
+**自动化场景:**
+- 为ODS文件执行批量元数据标记。
+- 自动分类列和数据类型。
+- 使用人工智能填充缺失的元数据，以实现更好的数据治理。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

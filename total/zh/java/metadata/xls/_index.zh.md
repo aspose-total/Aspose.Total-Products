@@ -80,7 +80,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 访问和管理遗留 XLS 文件中的元数据
+
+使用 Java 应用程序中的 API 帮助现代化历史电子表格存档，同时保留关键信息。程序化处理确保与现代数据政策和透明审计追踪的一致性。
+
+**关键用例:**
+- 迁移具有完整元数据完整性的历史电子表格。
+- 为财务团队和监管审查审计文档历史。
+- 将过时的 XLS 文件与当前治理标准对齐。
+
+**自动化场景:**
+- 在集中存档中以规模提取遗留元数据。
+- 在 XLS 到 XLSX 格式转换期间为文件打标签。
+- 使用人工智能重新分类遗留电子表格以适用于现代工作流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

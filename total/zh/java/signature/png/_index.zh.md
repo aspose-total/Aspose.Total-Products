@@ -67,7 +67,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API添加和验证PNG签名：验证透明图形</h2>
+
+添加或验证PNG文件中的签名使用Java API可确保UI资产、透明图形和基于图像的证书的完整性。自动化签名工作流有助于保护分层设计并验证创意输出。
+
+## ✅ 主要用例
+
+- **为安全设计流程数字签名UI资产**。
+- **验证透明图形以保持品牌一致性**。
+- **验证基于图像的证书以供官方使用**。
+- **给原始PNG文件加水印以防止滥用**。
+- **保护分层设计文件免受未经授权的编辑**。
+
+## ⚙️ 自动化场景
+
+- **使用签名自动化安全设计审查**。
+- **使用已验证标记管理分层图形批准**。
+- **跟踪发布阶段的内容真实性**。
+- **集成PNG文件的数字水印系统**。
+- **强制执行所有透明资产的品牌政策**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

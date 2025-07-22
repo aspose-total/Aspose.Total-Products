@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 在Java应用程序中使用API管理启用宏的XLSM文件中的元数据对于维护宏安全性、作者跟踪和合规性至关重要。
+
+**关键用例：**
+- 监控宏使用情况以检测未经授权的脚本。
+- 确保敏感电子表格中的宏安全合规性。
+- 为自动化工具中的审计跟踪跟踪电子表格的作者。
+
+**自动化场景：**
+- 以编程方式验证具有宏意识的元数据。
+- 生成用于宏更改的自动化审计跟踪。
+- 使用人工智能根据风险和使用模式对XLSM文件进行分类。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ 使用Java API查看PPS文件：在任何地方呈现全屏幻灯片</h2>
+
+使用Java API查看PPS文件使组织能够直接在网页门户、营销页面和入职工具中嵌入幻灯片演示文稿。
+
+## ✅ 主要用例
+
+- **展示活动：** 在客户门户中展示营销幻灯片。
+- **文档门户：** 在帮助中心中嵌入静态幻灯片。
+- **活动演示：** 在线传递活动幻灯片秀。
+
+## ⚙️ 自动化场景
+
+- **客户入职：** 使用基于幻灯片的演示指导用户。
+- **活动演示：** 为虚拟活动分享幻灯片秀。
+- **数字标牌：** 在基于Web的标牌系统中预览幻灯片。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

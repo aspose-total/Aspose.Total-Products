@@ -71,7 +71,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API将水印应用于ODS文件在保护开放电子表格数据、突出机密性和促进品牌可见性方面发挥关键作用。自动化水印确保所有ODS文件在保护和品牌标识方面保持一致。
+
+## ✅ 主要用例
+
+- **保护电子表格数据** — 向包含敏感信息的电子表格添加隐私声明。
+- **品牌统计报告** — 在组织数据表中嵌入标志。
+- **限制内容** — 标记电子表格以表示受限制或机密使用。
+
+## ⚙️ 自动化场景
+
+- **开源业务应用** — 自动为业务软件生成的文件添加水印。
+- **学术数据报告** — 在共享之前为研究或统计报告添加水印。
+- **内部知识库** — 为内部分发使用的ODS表格添加标签。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

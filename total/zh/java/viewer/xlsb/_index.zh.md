@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API查看XLSB文件：快速且安全的二进制电子表格预览</h2>
+
+使用Java API查看XLSB文件支持高性能渲染大型二进制电子表格，适用于金融、工程或大数据领域。
+
+## ✅ 主要用途
+
+- **财务模型：** 检查大型二进制电子表格。
+- **工程数据：** 安全预览技术计算。
+- **大数据分析：** 在仪表板中查看XLSB输出。
+
+## ⚙️ 自动化场景
+
+- **BI仪表板：** 将XLSB视图嵌入数据门户。
+- **数据报告：** 自动化二进制表格渲染。
+- **分析门户：** 提供安全的XLSB预览。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

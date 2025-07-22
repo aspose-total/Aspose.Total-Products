@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用Java应用程序中的API管理PDF文件中的元数据可增加数字档案中的可发现性、分类和合规性。
+
+**关键用例：**
+- 在公共或私人文档库中增强可发现性。
+- 在法律或受监管的档案中强制执行分类规则。
+- 直接在PDF中嵌入合规信息。
+
+**自动化场景：**
+- 自动化标题、主题和关键字标记。
+- 批量编辑元数据以保持一致性。
+- 使用AI为监管和审计工作流程标记PDF。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

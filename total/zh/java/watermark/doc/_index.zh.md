@@ -78,7 +78,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API将水印应用于DOC文件有助于组织保护文件的机密性，加强品牌形象，并控制版本状态。自动插入水印可确保“机密”标记或标志始终一致出现，帮助团队管理文件的可见性和完整性。
+
+## ✅ 主要用例
+
+- **标记为“机密”** — 标记内部DOC文件以限制分发。
+- **视觉品牌识别** — 将公司标志应用于报告和备忘录。
+- **指示草稿状态** — 使用水印显示文件正在审核中。
+
+## ⚙️ 自动化场景
+
+- **文档工作流引擎** — 在生成和批准过程中自动为DOC文件添加水印。
+- **人力资源批准流程** — 在人力资源文件中嵌入状态标签以供内部审查。
+- **法律版本控制** — 为法律协作清晰标记草稿版本。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

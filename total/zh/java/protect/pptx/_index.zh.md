@@ -71,7 +71,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 保护 PPTX 文件与 Java API 是确保现代可编辑演示文件安全的关键。自动化控件锁定模板，保护投资者幻灯片，并确保机密幻灯片组的安全共享。
+
+**关键用例**
+- 安全的可编辑模板。
+- 限制对投资者幻灯片的访问。
+- 共享只读的分发幻灯片。
+
+**自动化场景**
+- 企业培训安全。
+- 基于人工智能的内容生成。
+- 遵守隐私法规。
+- 安全的利益相关者演示。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,24 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API解析RTF文件：传统格式转换和合规性</h2>
+
+使用Java API解析RTF文件支持提取格式化内容、嵌入对象和传统文档转换。自动化RTF解析有助于合规性存档、元数据恢复和AI训练工作流程。
+
+## ✅ 主要用例
+
+- **提取格式化内容：** 检索带样式的文本和章节。
+- **识别嵌入对象：** 检测图像、表格和链接。
+- **转换文档：** 将RTF转换为现代格式。
+- **合规性存档：** 为审计保留内容。
+- **元数据恢复：** 重建文档信息。
+- **AI模型训练：** 使用解析的文本进行NLP模型训练。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

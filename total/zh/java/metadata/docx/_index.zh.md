@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 提取和管理DOCX文件元数据使用API在Java应用程序中可以提高文档的完整性，可发现性和合规性。编程式元数据处理支持文档分类，作者跟踪和智能索引。
+
+**关键用例：**
+- 通过作者，类型或部门在企业内容系统中对文档进行分类。
+- 为法律或学术档案跟踪作者和修订历史。
+- 使用自定义元数据字段启用智能搜索索引。
+
+**自动化场景：**
+- 为大量DOCX文件自动化合规性标记。
+- 执行批处理元数据清理以删除过时或冗余属性。
+- 使用AI驱动的分类，根据内容和自定义属性为文档丰富元数据。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

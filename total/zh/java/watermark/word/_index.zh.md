@@ -78,7 +78,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API将水印应用于WORD文件有助于组织保护内容，传达状态并加强品牌形象。编程式水印使识别草稿、将报告标记为私密或包含品牌元素变得简单。
+
+#### ✅ 主要用例
+
+- **识别草稿** — 使用“草稿”或“待审核”标记工作副本。
+- **品牌传播** — 在内部WORD文件中嵌入公司标志。
+- **标记私密报告** — 在敏感文件上清晰显示机密状态。
+
+#### ⚙️ 自动化场景
+
+- **合同自动化工具** — 自动为生成的合同添加水印。
+- **合规流程** — 为监管提交标记报告。
+- **发布系统** — 为已发布的报告应用一致的水印。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -67,7 +67,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API添加和验证BMP签名：安全的基于图像的批准</h2>
+
+通过Java应用程序中的API在BMP文件中添加或验证签名有助于组织保护扫描的法律图像，验证身份证扫描，并对视觉记录进行批准。编程式签名管理确保基于图像的文档保持合规性，防篡改，并具有法律效力。
+
+## ✅ 主要用例
+
+- **为扫描的法律文件添加水印** 以确认真实性。
+- **验证基于图像的批准上的签名** 用于内部控制。
+- **验证身份证扫描** 以进行安全身份验证。
+- **使用嵌入式签名保护官方视觉资产**。
+- **遵守基于图像的数据的记录保留政策**。
+
+## ⚙️ 自动化场景
+
+- **通过对BMP进行自动化签名检查来管理监管合规性**。
+- **通过批量添加水印来保护视觉文档**。
+- **通过验证扫描的签名来启用欺诈检测**。
+- **自动化已签名图像文件的数字存档**。
+- **简化扫描纸质记录的批准流程**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

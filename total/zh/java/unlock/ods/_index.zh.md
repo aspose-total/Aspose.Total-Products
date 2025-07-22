@@ -72,7 +72,27 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🔓 使用Java API解锁ODS文件：强大的开放数据协作</h2>
+
+使用Java API以编程方式解锁ODS文件，可以简化组织在开源环境中管理受保护的电子表格的流程。去除表格保护可以确保协作顺畅，数据可视化和企业报告。
+
+## ✅ 主要用例
+
+- **解锁受保护的电子表格：** 安全编辑共享的开源数据。
+- **解锁预算模板：** 修改用于更新财务规划的模板。
+- **为可视化准备数据：** 使BI和报告工具能够访问所有数据。
+
+## ⚙️ 自动化场景
+
+- **开放数据报告：** 自动解锁以进行发布和分析。
+- **合规性检查：** 在审计期间审查受保护的表格。
+- **批量处理：** 处理多个受保护文件以实现规模化。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

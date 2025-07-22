@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API查看DOTX文件：轻松模板可视化</h2>
+
+通过Java API查看DOTX文件，使用户能够在基于Web的构建器和品牌文件系统中轻松预览现代Word模板。
+
+## ✅ 主要用例
+
+- **简历构建器：** 向求职者展示模板预览。
+- **内部布局：** 预览公司信函的品牌格式。
+- **CMS集成：** 为内容团队显示模板。
+
+## ⚙️ 自动化场景
+
+- **浏览器查看器：** 在线呈现DOTX模板。
+- **文档应用程序：** 在业务应用程序内预览模板。
+- **品牌预览工具：** 使用标准模板保持品牌一致性。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

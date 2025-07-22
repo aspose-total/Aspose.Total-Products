@@ -76,7 +76,21 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+
+- **嵌入“禁止复制”标记** — 通过可见警告防止未经授权的复制。
+- **品牌发票** — 在发票和官方 PDF 中插入公司标志。
+- **标记草稿** — 将研究论文或合同标记为“草稿”以进行版本控制。
+
+## ⚙️ 自动化场景
+
+- **电子签名平台** — 在签名工作流程之前自动为 PDF 文件添加水印。
+- **政府电子申报** — 为安全提交而标记官方 PDF。
+- **文档存档** — 在存档存储中应用一致的水印。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API从RTF文件中提取元数据可增强轻量级或传统系统中的文档管理。编程式提取支持组织、跟踪和搜索基于文本的文档。
+
+**关键用例：**
+- 通过元数据属性组织法律文本文档。
+- 在医疗或临床文档中跟踪作者和编辑历史。
+- 在轻量级档案中支持基于元数据的搜索。
+
+**自动化场景：**
+- 以最小的手动工作量大规模提取RTF属性。
+- 扫描传统RTF档案以查找隐藏或丢失的元数据。
+- 应用人工智能根据内容和元数据自动标记RTF文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

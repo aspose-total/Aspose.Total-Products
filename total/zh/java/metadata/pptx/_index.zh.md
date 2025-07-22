@@ -74,7 +74,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API从PPTX文件中提取和管理元数据，可以加强现代演示资产的内容治理和可搜索性。
+
+**关键用例：**
+- 识别演示项目的作者和贡献者。
+- 通过部门、活动或主题为幻灯片组添加标签。
+- 提高内容存储库和知识库中的可查找性。
+
+**自动化场景：**
+- 为AI助手和智能搜索丰富元数据。
+- 使用元数据更新跟踪演示生命周期阶段。
+- 在幻灯片库中自动化大规模清理和标记。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

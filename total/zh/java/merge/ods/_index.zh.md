@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **开源电子表格：** 将来自不同部门或团队的ODS文件合并。
+- **预算编制：** 将部门预算合并到单个主ODS文件中。
+- **集成仪表板：** 将分析数据整合到统一的多标签仪表板中。
+
+## 自动化场景：
+
+- **ODS到Excel合并：** 合并ODS文件并转换为Excel，以实现更广泛的兼容性。
+- **多标签报告：** 自动创建具有多个工作表的报告。
+- **AI公式一致性：** 在合并过程中使用AI验证和标准化公式。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -92,7 +92,27 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API搜索PDF文件：简化文档分析</h2>
+
+## ✅ 主要用例
+
+- **识别扫描合同中的关键条款**：在数字化的法律文件中定位特定条款。
+- **提取产品手册中的术语**：检索支持和培训的技术规格。
+- **在法律PDF中检索案例法律参考**：搜索引用和案件编号的法律数据库。
+
+## ⚙️ 自动化场景
+
+- **合规审计**：自动化PDF检查以符合监管要求。
+- **企业文档分析**：通过扫描大型PDF存储库获取见解。
+- **智能法律研究**：通过快速、精确的搜索支持律师。
+- **AI驱动的OCR索引**：将OCR与API结合以解锁扫描PDF中的文本。
+- **数字内容工作流**：将PDF搜索集成到更广泛的文档流程中。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- 按主题或部门对企业演示文稿进行分类。
+- 通过元数据强制执行品牌和版权政策。
+- 为快速访问组织庞大的幻灯片库。
+
+## 自动化场景：
+
+- 自动化批量标记演示文稿属性。
+- 根据作者或活动对幻灯片进行排序。
+- 应用人工智能按主题和用途对幻灯片库进行分类。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

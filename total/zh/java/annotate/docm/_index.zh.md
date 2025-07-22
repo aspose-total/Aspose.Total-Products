@@ -114,7 +114,26 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 为什么要注释 DOCM 文件：模板报告、自动表单和宏审计</h2>
+
+对于与动态模板、自动表单和嵌入式宏打交道的组织来说，注释 **DOCM（启用宏的 Word）** 文件至关重要。添加评论、高亮和注释有助于团队审查宏逻辑，确保安全性，并在复杂的文档工作流程中保持合规性。
+
+## ✅ 主要用例
+
+- **基于模板的报告：** 注释 DOCM 模板以澄清部分、说明和可变字段，以便生成一致的报告。
+- **自动表单：** 向启用宏的表单添加指导和审查注释，以简化数据收集并减少错误。
+- **宏审计：** 插入注释以跟踪宏更改，标记安全风险，并为监管合规性记录审计追踪。
+
+## ⚙️ 合规性与安全性中的自动化
+
+- **合规性工具：** 自动化注释以标记风险宏，跟踪批准，并确保安全分发 DOCM 文件。
+- **文档安全系统：** 集成自动注释以监视宏使用情况，并防止未经授权的代码执行。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

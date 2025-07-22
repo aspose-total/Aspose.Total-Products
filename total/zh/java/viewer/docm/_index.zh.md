@@ -76,7 +76,28 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API查看DOC文件：安全的启用宏的文档预览</h2>
+
+使用Java API查看DOC文件有助于组织安全地呈现启用宏的Word文档，而无需执行脚本。这对于处理技术文档和敏感内容的受监管行业至关重要。
+
+## ✅ 主要用例
+
+- **安全的宏文档预览：** 在金融、法律或医疗保健领域检查DOC文件。
+- **查看带脚本的技术文档：** 安全地查看嵌入的宏，而无需运行它们。
+- **内容检查：** 允许合规团队在使用之前验证DOC内容。
+
+## ⚙️ 自动化场景
+
+- **沙盒查看器：** 在受控环境中安全呈现DOC文件。
+- **IT治理仪表板：** 监视启用宏的文档。
+- **文档验证工具：** 自动化审核DOC草稿以符合合规要求。
+- **项目文档门户：** 向利益相关者显示启用宏的文档。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

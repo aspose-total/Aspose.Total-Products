@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **表格导出：** 将来自各种工具的 TSV 数据导出合并为单个数据集。
+- **分析日志：** 合并大量日志文件以进行集中分析。
+- **研究数据集：** consolide 实验或调查数据以进行清晰、结构化的报告。
+
+## 自动化场景：
+
+- **批量摄取：** 快速自动合并数百个 TSV 文件。
+- **实时聚合：** 持续合并 TSV 日志以供实时仪表板使用。
+- **AI 数据验证：** 使用 AI 检测重复项，修复不一致之处，并清理合并的表格数据。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

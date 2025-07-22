@@ -76,7 +76,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 关键用例
+- 在机密报告中限制编辑访问权限。
+- 为法律文件应用密码保护。
+- 强制内部通信的只读共享。
+
+## 自动化场景
+- 用于合规工作流程进行监管审计。
+- 文档生命周期控制和版本控制。
+- AI 模型数据隐私保护。
+- 在企业系统中安全共享内容。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

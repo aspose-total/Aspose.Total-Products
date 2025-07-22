@@ -74,7 +74,24 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>访问和管理宏启用的DOCM文件中的元数据</h2>
+在Java应用程序中使用API对文档进行关键的安全和合规性工作流是至关重要的。通过以编程方式处理DOCM元数据，组织可以识别宏来源，跟踪版本历史，并在基于模板的流程中保持治理。
+
+**关键用例：**
+- 识别和验证宏来源，以防止未经授权的代码执行。
+- 跟踪版本历史，以保持合规性审计追踪。
+- 确保带有宏的模板符合内部工作流标准。
+
+**自动化场景：**
+- 自动化跨DOCM文件的元数据验证，以确保一致性。
+- 监控宏使用模式并自动标记异常。
+- 使用AI辅助分类，按照宏类型、作者和版本对动态DOCM文件进行组织。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

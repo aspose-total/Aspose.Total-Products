@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 提取XLSX文件中的元数据使用Java应用程序中的API可增强多用户数据管理、项目跟踪和分析准备。自动化的元数据处理使电子表格更易于管理和重复使用。
+
+**关键用例:**
+- 使用清晰的所有权和版本控制管理协作数据模型。
+- 为更好的跟踪而标记特定于项目的工作簿。
+- 用结构化的电子表格元数据丰富BI仪表板。
+
+**自动化场景:**
+- 使用自定义元数据属性自动化文件排序。
+- 执行批量更新以确保元数据一致性。
+- 利用人工智能为文件打标签，附加分析和合规属性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

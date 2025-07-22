@@ -78,7 +78,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API向ODT文件应用水印对于保持对草稿的控制、确保合规文件安全以及传达使用限制至关重要。自动水印确保内部使用标签或草稿标记得到一致应用。
+
+## ✅ 主要用例
+
+- **标记法律草案** — 明确标记法律或政策文件的草稿版本。
+- **应用内部标记** — 在工作文件中添加“仅限内部使用”水印。
+- **确保可追溯性** — 使用可见标记跟踪文档版本。
+
+## ⚙️ 自动化场景
+
+- **合规工具** — 将水印集成到合规文档流程中。
+- **开源CMS** — 在内容管理工作流程中自动化水印处理。
+- **学术分发** — 为安全共享的学术草稿添加水印。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

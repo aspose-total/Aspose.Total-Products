@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API查看DOT文件：在任何地方预览Word模板</h2>
+
+使用Java API查看DOT文件可以在Web应用程序、文档生成器和CMS平台中无缝呈现Word模板。用户可以在没有安装Word的情况下检查布局和样式。
+
+## ✅ 主要用例
+
+- **显示工作流程模板：** 在自动文档生成中显示DOT文件。
+- **预览样式：** 可视化新文档的默认格式。
+- **CMS中的模板库：** 让用户在线浏览可用的DOT模板。
+
+## ⚙️ 自动化场景
+
+- **入职平台：** 渲染录用信或合同模板。
+- **定制工具：** 让用户选择并修改模板。
+- **模板库：** 在内容中心预览公司模板。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

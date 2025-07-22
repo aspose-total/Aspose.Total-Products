@@ -68,7 +68,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分ODP文件：目标化演示管理</h2>
+
+使用Java APIs拆分ODP文件有助于组织创建专注于特定主题的幻灯片组。这支持培训、活动和演示，通过实现模块化内容交付和重复使用。
+
+## ✅ 主要用例
+
+- **特定主题幻灯片组**：将大型演示分成针对特定受众的主题幻灯片组。
+- **培训演示**：将培训材料分成模块，便于学习和更新。
+- **活动会议**：将活动幻灯片分成特定会话的ODP文件，以便顺利交付。
+
+## ⚙️ 自动化场景
+
+- **LMS幻灯片生成**：自动化创建用于学习管理系统的模块化幻灯片。
+- **幻灯片重复使用**：在不同演示和项目中重复使用核心幻灯片。
+- **演示分段**：将大型演示流程化为易于交付的可管理部分。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 保护ODS文件的Java API可确保运营电子表格和商业智能数据的安全。自动化规则锁定模板，强制执行只读视图，并确保对战略规划信息的授权访问。
+
+**关键用例**
+- 保护共享电子表格中的运营数据。
+- 锁定模板，防止未经授权的编辑。
+- 强制执行只读BI报告。
+
+**自动化场景**
+- 数据处理的法规合规性。
+- 保护ODS文件中的AI训练数据。
+- 控制规划文件的生命周期。
+- 保护内部数据共享。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

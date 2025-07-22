@@ -76,7 +76,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API合并PNG文件非常适合需要透明图形的设计、开发和文档编制任务。
+
+**关键用例：**
+- **叠加设计元素：** 在创意设计工具中合并透明PNG。
+- **UI组件组装：** 合并图标、按钮和其他UI元素。
+- **产品截图：** 为手册和在线帮助编制多个截图。
+
+**自动化场景：**
+- **Alpha通道保留：** 在合并时保持透明度。
+- **合成图像生成：** 自动化分层PNG组合。
+- **AI布局渲染：** 使用AI自动排列元素以生成像素完美的布局。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

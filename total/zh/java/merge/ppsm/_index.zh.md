@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API合并启用宏的PPSM文件，可以创建具有嵌入式操作完整性的高级交互式幻灯片体验。
+
+**关键用例：**
+- **销售演示：** 合并用于产品演示的交互式幻灯片。
+- **自动化演练：** 将引导式演示与宏触发器结合。
+- **循环演示：** 为展示用的嵌入宏重复构建演示文稿。
+
+**自动化场景：**
+- **宏逻辑合并：** 安全地在文件之间合并宏脚本。
+- **执行验证：** 自动化测试以确保宏稳定性。
+- **AI行为协调：** 使用AI来协调视觉和基于宏的操作。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

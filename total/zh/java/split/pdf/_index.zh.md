@@ -69,7 +69,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分PDF文件：更智能的文档控制和共享</h2>
+
+使用Java APIs拆分PDF文件使企业能够通过将它们分成相关部分来处理大文件。这使得分发、存档和电子签名流程更加高效。
+
+## ✅ 主要用例
+
+- **客户交付物**: 将多页PDF的特定部分交付给客户。
+- **合同部分**: 将合同分解为可签署的部分。
+- **发票隔离**: 生成每笔交易的发票PDF以备记录。
+
+## ⚙️ 自动化场景
+
+- **存档**: 存储拆分的PDF文件以便更好地组织和遵守规定。
+- **电子签名集成**: 使用拆分的PDF文件进行更易管理的数字签名工作流程。
+- **移动PDF交付**: 为移动查看和下载提供分段PDF文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

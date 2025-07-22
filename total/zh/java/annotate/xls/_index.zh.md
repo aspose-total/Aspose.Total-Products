@@ -117,7 +117,26 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 为什么要注释XLS文件：简化遗留审查、审计和数据更正</h2>
+
+注释**XLS（Excel 97-2003工作簿）**文件对于与仍存有关键财务和运营数据的旧电子表格一起工作的团队至关重要。评论和高亮有助于澄清过时的公式，指导手动数据更正，并支持对遗留文件进行准确审计。
+
+## ✅ 主要用例
+
+- **遗留电子表格审查：** 使用注释解释旧计算，标记过时链接，并记录迁移期间需要更新的区域。
+- **财务报表审计：** 添加评论以验证数字，澄清假设，并直接在XLS工作簿中记录审计注释。
+- **手动数据更正：** 注释单元格以标记错误，记录更正，并确保在清理过程中维护数据完整性。
+
+## ⚙️ 自动化优势
+
+- **遗留数据迁移：** 自动化注释以标记遗留元素，突出风险，并指导平稳地将数据转移到现代格式。
+- **审计系统：** 使用自动化工具跟踪更改，验证手动更正，并在遗留XLS文件中保持清晰的审计路径。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

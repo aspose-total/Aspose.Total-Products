@@ -76,7 +76,24 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API解析ODT文件：开放格式内容分割</h2>
+
+使用Java API解析ODT文件可以实现结构化报告提取、数据驱动的审查和智能内容分割。企业可以从合同挖掘、元数据标记和AI训练数据集创建中受益。
+
+## ✅ 主要用例
+
+- **提取报告：** 准确读取开放格式文档。
+- **数据驱动审查：** 自动化文档评估。
+- **内容分割：** 将文档拆分以进行详细分析。
+- **合同挖掘：** 高效识别法律条款。
+- **元数据标记：** 索引开放文本内容。
+- **AI工作流程：** 使用开放文档文本训练NLP模型。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

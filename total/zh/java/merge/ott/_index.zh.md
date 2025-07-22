@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API合并OTT（OpenDocument Text Template）文件，使企业能够维护一致、可重用的模板，用于高容量文档生成。自动化确保标准化和更快的输出。
+
+**关键用例：**
+- **商业信函：** 通过合并OTT文件生成用于人力资源、销售或客户沟通的模板信函。
+- **可重用内容块：** 将标准部分合并为合同、提案或政策的主模板。
+- **工作流标准化：** 确保从模板创建的所有文档中的一致品牌和格式。
+
+**自动化场景：**
+- **OTT到ODT转换：** 合并模板并将其转换为可编辑的ODT文档。
+- **模板合并：** 自动合并多个OTT文件为统一的主模板。
+- **AI字段填充：** 使用AI预填充模板以使用动态数据生成个性化文档。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

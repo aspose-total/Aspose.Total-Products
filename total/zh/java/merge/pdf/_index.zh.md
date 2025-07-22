@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **已签合同：** 将多份已签署的协议合并为一个有序的 PDF 文件。
+- **扫描页面：** 将扫描的纸质文件合并为可搜索的数字文件。
+- **财务报告：** 将电子表格、图表和报表合并为全面的 PDF 报告，供利益相关者查阅。
+
+## 自动化场景：
+
+- **批量 PDF 组装：** 以编程方式合并大量 PDF 文件。
+- **页面范围选择：** 从不同的 PDF 文件中合并特定页面，以获得定制输出。
+- **AI 内容排序：** 使用人工智能对合并的 PDF 进行排序、标记和结构化，以实现安全高效的工作流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

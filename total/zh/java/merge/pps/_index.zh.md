@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用Java应用程序中的API合并PPS（PowerPoint Show）文件有助于创建引人入胜的、准备就绪的演示文稿。编程式PPS合并支持展示柜显示、活动和自动演示。
+
+**关键用例：**
+- **自动展示柜：** 将多个PPS文件合并为单个循环幻灯片放映。
+- **交互式演示：** 合并展示文件以用于展会或产品发布。
+- **准备就绪的幻灯片：** 编译自动运行的演示文稿，供观众观看。
+
+**自动化场景：**
+- **可编辑转换：** 在合并过程中将PPS转换为PPT或PPTX。
+- **展示顺序：** 自动化多个PPS文件的顺序和流程。
+- **AI过渡优化：** 使用人工智能平滑过渡和动画，以获得更好的效果。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

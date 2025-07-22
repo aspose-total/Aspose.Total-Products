@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 关键用例:
+- **合规文件:** 合并多个 DOCM 文件以生成符合审计要求的合规文件包。
+- **宏模板:** 整合可重复使用的宏模板，实现一致的自动化。
+- **审计报告:** 结合基于宏的报告，以便统一提交审计报告。
+
+## 自动化场景:
+- **安全宏合并:** 在合并过程中验证和保留宏功能。
+- **版本控制:** 在合并不同的 DOCM 文件时自动跟踪版本。
+- **宏内容检测:** 使用人工智能检测、清理和优化合并文件中的宏脚本。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **动态工作簿：** 将预测或风险模型与宏驱动的计算合并。
+- **合规工作流程：** 结合模板以自动化处理定期合规任务。
+- **交互式工作表：** 在合并的工作簿中保留交互式宏逻辑。
+
+## 自动化场景：
+
+- **预编程合并：** 结合 XLTM 模板，同时保护脚本。
+- **宏验证：** 确保宏安全运行且符合预期。
+- **AI 助力定制：** 使用 AI 调整宏以实现个性化工作流程。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API编辑ODP（OpenDocument Presentation）文件可确保保护机密演示内容。自动化编辑可帮助隐藏战略路线图，在人力资源幻灯片中删除姓名，并在投资者演示文稿中删除竞争数据。
+
+## ✅ 主要用例
+
+- **业务路线图：** 在共享幻灯片中隐藏战略计划。
+- **人力资源演示文稿：** 从幻灯片中删除员工姓名或PII。
+- **投资者演示文稿：** 删除敏感的竞争或财务数据。
+
+## ⚙️ 自动化场景
+
+- **机密路演文稿：** 为外部利益相关者清理演示文稿。
+- **培训材料：** 自动化编辑以安全地共享内部知识。
+- **合规性：** 符合通信隐私标准。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

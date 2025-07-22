@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用Java API管理DOT模板文件中的元数据可确保在传统模板库中保持一致性和控制。组织可以跟踪使用情况，调整属性以符合法规要求，并构建模板命名约定。
+
+**关键用例：**
+- 跟踪使用历史记录，以在传统系统中保持模板的相关性。
+- 将模板属性与法规要求对齐。
+- 强制在庞大的DOT文件库中实施结构化命名。
+
+**自动化场景：**
+- 自动化批量审核模板元数据以进行合规检查。
+- 根据元数据属性过滤和组织模板。
+- 应用人工智能智能分类和更新传统DOT文件。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

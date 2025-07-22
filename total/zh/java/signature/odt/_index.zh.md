@@ -72,7 +72,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API 添加和验证ODT签名：验证开源文档</h2>
+
+添加或验证ODT文件中的签名使用Java API对于签署开源文档、验证官方提交以及验证协作草稿至关重要。编程式签名管理支持政府批准、学术合规性以及安全发布。
+
+## ✅ 主要用例
+
+- **签署开源文档** 以确保真实性。
+- **使用数字签名验证授予申请**。
+- **验证学术提交** 以保持完整性。
+- **保护机构文档** 免受篡改。
+- **强制执行开放发布的合规标准**。
+
+## ⚙️ 自动化场景
+
+- **使用ODT签名自动化政府批准流程**。
+- **通过编程方式保护机构文档工作流程**。
+- **使用经过验证的文件实现符合标准的发布**。
+- **通过签名检查跟踪版本更改**。
+- **简化多作者文档签署流程**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

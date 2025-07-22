@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ 使用Java APIs查看POTX文件：展示标准幻灯片模板</h2>
+
+通过Java APIs查看POTX文件可以让团队直接在内容门户和幻灯片设计工具中展示现代幻灯片模板。
+
+## ✅ 主要用例
+
+- **品牌模板：** 共享营销部门批准的幻灯片。
+- **设计审查：** 预览演示文稿的布局。
+- **演示文稿构建：** 为团队提供幻灯片选项。
+
+## ⚙️ 自动化场景
+
+- **品牌库：** 托管标准幻灯片预览。
+- **幻灯片编辑应用：** 嵌入POTX预览以进行定制。
+- **培训工具：** 在LMS系统中显示幻灯片模板。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

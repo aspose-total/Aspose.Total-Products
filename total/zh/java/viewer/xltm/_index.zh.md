@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API查看XLTM文件：安全的启用宏模板预览</h2>
+
+Java API使查看XLTM文件变得简单且安全，允许组织在不运行脚本的情况下预览启用宏的Excel模板。
+
+## ✅ 主要用例
+
+- **预测模板：** 查看财务或规划模型。
+- **规划电子表格：** 安全地检查宏驱动的模板。
+- **数据建模：** 在没有风险的情况下审查XLTM结构。
+
+## ⚙️ 自动化场景
+
+- **分析门户：** 为团队呈现XLTM文件。
+- **模板查看器：** 在规划工具中自动化预览。
+- **报告应用程序：** 安全地显示启用宏的模板。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

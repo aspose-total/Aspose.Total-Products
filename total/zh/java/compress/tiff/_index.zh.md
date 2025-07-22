@@ -71,7 +71,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF HTML MHTML Ex
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ 使用Java API压缩TIFF文件：优化高分辨率图像以节省存储空间并符合规范</h2>
+
+在Java应用程序中使用API压缩TIFF文件对于处理大型扫描和高分辨率图像的行业至关重要。较小的文件可以节省存储空间并加快工作流程。
+
+## ✅ 主要用例
+
+- **为医疗和法律行业减小高分辨率图像大小：** 压缩详细扫描以进行安全、高效的存储。
+- **改进文档数字化工作流程：** 使用压缩的TIF/TIFF文件使数字化过程更快速、更轻便。
+- **存档大幅面扫描：** 在保留细节的同时以经济高效的方式存储高质量扫描。
+
+## ⚙️ 自动化场景
+
+- **图像库压缩：** 为大型图像库自动化压缩。
+- **符合监管要求的存储：** 保持详细扫描的精简，同时符合存储法规。
+- **OCR文件优化：** 压缩用于OCR工作流程中的TIF文件，以加快处理速度。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -69,7 +69,27 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF HTML MHTML Ex
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API压缩XLT文件：优化Excel模板以节省存储空间和提高可移植性</h2>
+
+使用Java应用程序中的API压缩XLT文件对于依赖Excel模板进行业务报告和标准文档创建的组织至关重要。通过减小模板大小，企业可以节省存储空间，简化企业模板库，并增强模板在团队和系统之间的可移植性。
+
+## ✅ 主要用例
+
+- **减小业务报告系统中的模板大小：** 压缩XLT文件以释放存储空间并保持报告系统精简高效。
+- **简化企业模板库：** 维护有组织、轻量级的可重复使用模板集合，以实现一致、高质量的报告。
+- **增强模板的可移植性：** 较小的XLT文件更易于在部门、设备和远程团队之间共享，支持无缝协作。
+
+## ⚙️ 自动化场景
+
+- **基于模板的报告生成：** 在报告工作流程中自动化XLT压缩，以提供优化的模板，加快报告生成速度。
+- **符合品牌要求的压缩：** 集成保留品牌元素的压缩流程，同时最小化模板文件大小。
+- **系统资源优化：** 使用Java API自动压缩XLT文件，改善存储利用率，并在模板部署期间减少系统负载。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

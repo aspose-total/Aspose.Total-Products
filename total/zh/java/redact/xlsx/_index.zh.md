@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API编辑XLSX文件可保护包含敏感业务信息的现代电子表格内容。编程式编辑可删除性能指标，掩盖员工ID，并隐藏供应商成本。
+
+## ✅ 主要用例
+
+- **仪表板：** 删除机密的关键绩效指标。
+- **工资单表：** 掩盖员工标识和工资详情。
+- **采购模型：** 隐藏供应商定价以进行安全共享。
+
+## ⚙️ 自动化场景
+
+- **实时合规性：** 在实时协作中强制执行隐私规则。
+- **审计准备：** 在外部审计之前自动进行编辑。
+- **云协作：** 安全地在团队之间共享电子表格。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

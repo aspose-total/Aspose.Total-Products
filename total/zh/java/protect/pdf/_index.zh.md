@@ -73,7 +73,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>关键用例</h2>
+- 使用密码加密合同。
+- 禁用敏感文件的复制/打印功能。
+- 自动应用数字签名。
+
+<h2>自动化场景</h2>
+- 满足法律和监管要求。
+- 保护文档工作流程。
+- 为人工智能使用过滤输入文档。
+- 实现企业级内容治理。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

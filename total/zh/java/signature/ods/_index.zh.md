@@ -72,7 +72,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API 添加和验证ODS签名：安全开源电子表格</h2>
+
+使用Java API在ODS电子表格文件中添加或验证签名有助于保护以开源格式创建的财务报告、工资单和分析模型。自动化签名工作流程可以保持完整性，防止篡改，并确保各部门的合规性。
+
+## ✅ 主要用例
+
+- **签署财务报告** 以备审计。
+- **验证工资单** 以防止未经授权的编辑。
+- **验证分析模型** 以获得可信的见解。
+- **保护开源电子表格** 以进行跨团队共享。
+- **符合电子表格的数据治理标准**。
+
+## ⚙️ 自动化场景
+
+- **通过签名检查自动化审计合规性**。
+- **通过编程签名实现版本控制**。
+- **强制执行用于共享ODS文件的防篡改**。
+- **简化跨部门数据验证**。
+- **将数字签名集成到开源工作流程中**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

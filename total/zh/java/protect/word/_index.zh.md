@@ -76,7 +76,24 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 保护 WORD 文件
+
+使用 Java API 可确保团队间使用的 Microsoft Word 文档不被篡改且合规。自动化保护可限制编辑、锁定机密内容，并支持安全分发。
+
+**关键用例**
+- 对商业文件强制执行编辑限制。
+- 为 HR 和政策文件设置密码保护。
+- 启用只读法律模板。
+
+**自动化场景**
+- 满足监管合规要求。
+- 自动化工作流管理。
+- 保护 AI 训练文本输入。
+- 实现安全的企业协作。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

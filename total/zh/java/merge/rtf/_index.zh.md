@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 合并 RTF 文件
+
+使用 Java 应用程序中的 API 合并 RTF（Rich Text Format）文件使组织能够更高效地处理格式丰富的文档。自动化的 RTF 合并保留样式，提高工作流速度，并确保各种关键业务文件的一致性。
+
+**关键用例：**
+- **富文本记录：** 将多个 RTF 记录合并为一个组织良好的文件，用于存档或报告。
+- **医疗笔记：** 合并格式化的医疗笔记和病人病史，形成统一的健康记录。
+- **法律文本：** 将合同、案例记录或法律摘要整合为全面的 RTF 文档。
+
+**自动化场景：**
+- **RTF 到 DOCX 转换：** 将合并的 RTF 文件转换为 DOCX，以实现更广泛的兼容性。
+- **格式安全集成：** 在合并过程中保留富文本样式、字体和表格。
+- **AI 结构化格式：** 使用人工智能标准化合并文档中的标题、列表和文本布局。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

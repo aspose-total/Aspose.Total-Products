@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **定制提案：** 合并模板部分，创建特定客户提案。
+- **标准报告：** 将可重复使用的部分组装成公司标准报告。
+- **品牌布局：** 通过合并标准的 DOTX 模板，在团队间强制执行品牌指南。
+
+## 自动化场景：
+
+- **基于字段的填充：** 使用可变数据动态填充合并的模板。
+- **模板转换：** 自动将合并的模板转换为最终文档。
+- **AI 增强合并：** 使用人工智能智能地合并部分，为大规模文档生产调整布局。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

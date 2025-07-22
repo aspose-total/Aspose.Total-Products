@@ -72,7 +72,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java APIs编辑POWERPOINT文件可确保团队和利益相关者之间幻灯片内容的安全共享。编程式编辑可隐藏客户标识、隐藏演讲者备注和掩盖机密KPI。
+
+## ✅ 主要用例
+
+- **代理商演示文稿：** 删除或隐藏敏感品牌信息。
+- **网络研讨会：** 在共享幻灯片之前编辑演讲者或内部备注。
+- **内部演示：** 掩盖KPI或财务数据。
+
+## ⚙️ 自动化场景
+
+- **利益相关者演示：** 在外部共享经过清理的幻灯片。
+- **培训内容：** 从学习材料中删除仅限内部的信息。
+- **知识产权保护：** 在分发的幻灯片中保护机密策略。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

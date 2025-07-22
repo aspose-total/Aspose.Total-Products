@@ -68,7 +68,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分PPTX文件：为目标受众提供可适应的演示文稿</h2>
+
+使用Java APIs拆分PPTX文件可以轻松为特定客户、团队或培训需求调整现代演示文稿。这确保每次提供高影响力、相关的幻灯片内容。
+
+## ✅ 主要用例
+
+- **客户定制**：通过为特定客户或提案切分幻灯片组来定制演示文稿。
+- **模块化培训**：将培训演示文稿拆分为按模块划分的PPTX文件。
+- **业务部门关注**：提供针对特定部门或团队的幻灯片内容。
+
+## ⚙️ 自动化场景
+
+- **动态演示交付**：自动生成针对特定客户的演示文稿。
+- **幻灯片重复使用**：在项目间重复使用核心幻灯片部分。
+- **适应性发布**：提供针对移动设备和网络平台优化的幻灯片部分。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

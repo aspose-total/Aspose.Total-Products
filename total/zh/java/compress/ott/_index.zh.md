@@ -71,7 +71,26 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF HTML MHTML Ex
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API压缩OTT文件：优化OpenDocument模板以提高速度和存储效率</h2>
+
+使用Java应用程序中的API压缩OTT文件对于使用OpenDocument文本模板的组织至关重要。通过减小模板文件大小，企业可以降低存储成本，加快基于模板的文档创建速度，并提高在LibreOffice和其他基于OpenDocument的系统中的性能。
+
+## ✅ 主要用例
+
+- **减小模板存储大小：** 缩小OTT文件大小，以节省大型模板库和共享存储库中的存储空间。
+- **加快基于模板的文档创建速度：** 较小的模板加载更快，提高用户从标准布局生成新文档的效率。
+
+## ⚙️ 自动化场景
+
+- **模板交付网络：** 自动化OTT压缩，快速交付优化的模板给分布式团队和远程办公室。
+- **格式标准化：** 将压缩集成到模板管理工作流程中，以保持一致、轻量级的开放文档模板。
+- **开放文档压缩管道：** 使用Java API构建自动化管道来压缩OTT文件，确保在企业系统中进行高效处理和存储。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

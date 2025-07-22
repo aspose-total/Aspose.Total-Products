@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API编辑PDF文件是保护通用共享文档的基石。自动化编辑可精确删除客户名称，在医疗历史中隐藏信息，并在税表中掩盖社会安全号码。
+
+## ✅ 主要用例
+
+- **合同：** 从法律PDF中删除客户详细信息。
+- **医疗文件：** 删除患者历史以符合法规。
+- **税表：** 在财务提交中掩盖社会安全号码。
+
+## ⚙️ 自动化场景
+
+- **GDPR/HIPAA合规性：** 在规模上执行隐私政策。
+- **安全交换：** 安全地与第三方共享经过消毒的PDF。
+- **电子发现：** 为FOIA或诉讼流程自动化编辑。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

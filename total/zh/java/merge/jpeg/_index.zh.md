@@ -76,7 +76,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **产品目录：** 将多个产品拍摄合并成有组织的 JPEG 表格，用于在线商店。
+- **扫描文件：** 将扫描的页面合并为单个 JPEG 可视报告，便于共享。
+- **营销照片捆绑：** 创建用于广告、通讯和社交媒体的促销照片集合。
+
+## 自动化场景：
+
+- **批量图像合并：** 自动化批量合并数千个 JPEG 文件。
+- **布局优化：** 将图像排列成预定义的网格布局。
+- **AI 动力叙事：** 使用 AI 对 JPEG 进行排序、标记和合并，打造动态品牌叙事。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

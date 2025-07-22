@@ -117,7 +117,26 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 为什么要注释 XLTM 文件：优化报告模板、审计和自动数据输入</h2>
+
+注释 **XLTM（启用宏的 Excel 模板）** 文件对于依赖宏驱动的可重复使用模板进行重复任务的组织至关重要。评论、突出显示和单元格注释使得解释宏逻辑、指导模板用户以及确保报告和审计保持准确变得更加容易。
+
+## ✅ 主要用途
+
+- **月度报告模板：** 使用注释来澄清基于宏的计算、标记数据输入区域，并确保每月报告的一致性。
+- **定期审计：** 添加评论以指导审计步骤，验证核对表宏，并跟踪更新以保持合规标准。
+- **自动数据输入：** 注释模板以解释宏如何自动提取数据，突出显示手动输入部分，并减少输入错误。
+
+## ⚙️ 自动化优势
+
+- **宏验证：** 自动化注释以测试宏功能、标记风险，并验证自动化任务是否按预期运行。
+- **模板治理：** 使用自动化工具来管理版本控制，确保模板一致性，并为内部团队保持清晰文档记录。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

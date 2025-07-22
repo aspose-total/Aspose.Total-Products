@@ -72,7 +72,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 使用Java API 添加和验证XLS签名：保护传统财务表</h2>
+
+通过Java API在XLS文件中添加或验证签名有助于组织保护传统电子表格、工资数据和预算分配。自动化签名工作流确保防篡改、合规性和安全存档旧财务记录。
+
+## ✅ 主要用例
+
+- **验证传统财务表** 的历史准确性。
+- **验证批准的预算分配** 以供审计。
+- **使用可验证的签名** 保护工资记录。
+- **为监管检查** 对存档电子表格进行认证。
+- **使用签名** 保护敏感的传统数据。
+
+## ⚙️ 自动化场景
+
+- **使用签名的XLS文件** 实现企业存档。
+- **将签名集成** 到传统系统中。
+- **通过验证的电子表格** 支持法律审计。
+- **自动化防篡改的XLS数据共享**。
+- **简化传统记录的批准流程**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

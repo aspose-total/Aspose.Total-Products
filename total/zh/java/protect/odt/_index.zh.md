@@ -76,7 +76,24 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用Java API保护ODT文件
+
+使用Java API保护ODT文件可为使用开源生态系统的组织保护开放文档文本文件。自动化保护可以锁定草稿，限制编辑，并强制对最终文件进行只读模式。
+
+**关键用例**
+- 控制对政策草案的访问。
+- 为学术和法律文件设置密码锁。
+- 对提案强制只读。
+
+**自动化场景**
+- 确保学术出版合规性。
+- 保护开放文档工作流程。
+- 安全管理文档历史记录。
+- 保持基于人工智能的内容完整性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

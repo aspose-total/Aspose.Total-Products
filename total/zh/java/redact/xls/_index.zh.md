@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+通过Java API编辑XLS文件可保护包含历史敏感信息的传统电子表格数据。自动化编辑可隐藏旧工资表，删除客户记录，并掩盖过时的预算数据。
+
+## ✅ 主要用例
+
+- **工资表：** 删除存档文件中的工资详情。
+- **客户记录：** 隐藏遗留客户信息以符合保留合规要求。
+- **预算数据：** 掩盖旧的预测或敏感数字。
+
+## ⚙️ 自动化场景
+
+- **保留政策：** 为存档或销毁文件进行清理。
+- **安全数字化：** 在转移到现代系统之前编辑文件。
+- **历史保护：** 保持传统财务数据集的安全和合规性。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

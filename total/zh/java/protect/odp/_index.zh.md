@@ -71,7 +71,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 关键用例
+- 限制企业演示文稿的编辑。
+- 为机密投资者演示文稿设置密码保护。
+- 强制仅供查看培训幻灯片的访问。
+
+## 自动化场景
+- 支持数字版权合规性。
+- 自动化版本控制。
+- 保护 AI 学习演示文稿数据集。
+- 安全地面向公众传递演示文稿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

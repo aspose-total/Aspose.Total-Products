@@ -68,7 +68,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分PPT文件：现代化传统演示工作流程</h2>
+
+使用Java APIs拆分PPT文件使企业能够将传统演示文稿分段以适应现代工作流程。这支持更容易的更新、向后兼容的重复使用以及更精细的幻灯片内容控制。
+
+## ✅ 主要用例
+
+- **传统分段**：将旧演示文稿分解为更新的、特定主题的PPT文件。
+- **产品部分**：提取并重复使用产品幻灯片供销售团队使用。
+- **演讲者幻灯片**：为活动和会议生成定制的演讲者幻灯片。
+
+## ⚙️ 自动化场景
+
+- **存档现代化**：将传统PPT文件转换并拆分以适应更新的用例。
+- **向后兼容重复使用**：在现代演示中重复使用旧幻灯片格式。
+- **精细的LMS控制**：向在线学习模块提供精确的幻灯片。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

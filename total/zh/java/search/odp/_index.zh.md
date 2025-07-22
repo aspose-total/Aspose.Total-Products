@@ -88,7 +88,28 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ 使用Java API搜索ODP文件：解锁演示文稿见解</h2>
+
+搜索ODP（OpenDocument Presentation）文件使用Java API对于管理大量演示文稿资产的组织至关重要。自动化搜索有助于营销、法律和合规团队高效地找到幻灯片中隐藏的重要信息。
+
+## ✅ 主要用例
+
+- **在营销文稿中查找品牌关键词**：查找幻灯片中产品、口号和品牌术语的提及。
+- **跨多个幻灯片检索法律免责声明**：确保法律声明被正确放置且一致。
+- **在存档演示文稿中查找隐藏内容**：发现较旧的ODP文件中嵌入或被忽略的细节。
+
+## ⚙️ 自动化场景
+
+- **数字资产管理**：改善演示文稿内容的组织和重复使用。
+- **企业内容发现**：实现对演示文库的大规模搜索。
+- **AI 动力的演讲分析**：分析演讲文稿以确保消息一致性和品牌化。
+- **合规审查**：自动化幻灯片检查以确保免责声明和法律合规性。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

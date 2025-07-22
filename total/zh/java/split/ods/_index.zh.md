@@ -71,7 +71,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分ODS文件：有效的开源数据管理</h2>
+
+使用Java APIs拆分ODS文件简化了处理开源电子表格，实现了模块化数据访问和报告。这支持BI工作流程、可扩展的共享和改进的性能。
+
+## ✅ 主要用例
+
+- **区域财务**: 将大型财务电子表格分割为特定区域的ODS文件。
+- **单独选项卡**: 提取特定工作表以供独立共享或分析。
+- **统计报告**: 为定向报告隔离统计数据。
+
+## ⚙️ 自动化场景
+
+- **开源BI管道**: 为BI和分析工作流程自动化数据提取。
+- **模块化数据共享**: 与利益相关者共享电子表格的相关部分。
+- **性能优化**: 为应用程序和工具提供更快加载时间的较小ODS文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

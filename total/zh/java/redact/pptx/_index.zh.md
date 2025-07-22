@@ -72,7 +72,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API编辑PPTX文件可确保现代演示文稿不会泄露敏感数据。自动化编辑可删除个人身份信息，隐藏竞争分析，并掩盖客户标识。
+
+## ✅ 主要用例
+
+- **培训文稿：** 编辑员工或学员数据。
+- **销售演示：** 隐藏竞争洞察或定价。
+- **案例研究：** 在发布前删除客户名称。
+
+## ⚙️ 自动化场景
+
+- **合规审查：** 自动化内容检查和编辑。
+- **合作伙伴共享：** 仅分发经过清理的演示文稿。
+- **知识产权保护：** 在外部共享幻灯片时保护专有知识。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,24 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API保护XLSX文件可确保现代电子表格保持准确和保密。自动化保护可以锁定公式，添加密码安全性，并管理关键业务数据的访问。
+
+**关键用例**
+- 锁定基于公式的电子表格。
+- 为绩效报告添加密码保护。
+- 为销售数据启用受限访问。
+
+**自动化场景**
+- 符合审计要求的财务报告。
+- 版本受控的电子表格。
+- 安全的AI训练数据集。
+- 协作式企业分析。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

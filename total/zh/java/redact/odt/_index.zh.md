@@ -75,7 +75,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+通过Java API编辑ODT（OpenDocument Text）文件有助于保护开放格式文档中的敏感文本。自动编辑可删除个人标识符，在共享草稿中隐藏反馈，并掩盖政府表格中的敏感细节。
+
+## ✅ 主要用例
+
+- **学术论文：** 在已发表的研究中删除学生或作者的PII。
+- **机密审查：** 在共享草稿中隐藏内部反馈。
+- **政府表格：** 为合规性掩盖敏感的公民数据。
+
+## ⚙️ 自动化场景
+
+- **数据隐私法律：** 为GDPR和类似规定自动化编辑。
+- **告密者保护：** 安全管理敏感披露。
+- **公共部门协作：** 安全分发经过清理的ODT文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

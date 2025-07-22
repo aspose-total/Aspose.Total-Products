@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 关键用例:
+- **交互式布局:** 将带有内置宏的幻灯片模板合并。
+- **培训内容:** 合并基于宏的布局，用于自动化学习模块。
+- **标准化模板:** 在部门间保持宏驱动幻灯片的一致性。
+
+## 自动化场景:
+- **宏幻灯片注入:** 安全地插入带宏的幻灯片。
+- **AI品牌:** 自动将幻灯片与企业风格指南对齐。
+- **POTM到PPTM:** 合并并导出模板，生成可编辑的带宏演示文稿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

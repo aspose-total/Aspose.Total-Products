@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java APIs查看WORD文件：安全显示关键文档</h2>
+
+使用Java APIs查看WORD文件使组织能够在Web或移动门户中安全地显示合同、人力资源文件和内部政策，而无需依赖Microsoft Word。
+
+## ✅ 主要用例
+
+- **合同与政策：** 向员工展示关键的WORD文档。
+- **人力资源文件：** 安全地显示手册、表格或信函。
+- **内部共享：** 实现对敏感文档的仅查看访问。
+
+## ⚙️ 自动化场景
+
+- **入职平台：** 自动化查看人力资源模板。
+- **文档管理：** 在文档管理系统工具中嵌入安全查看器。
+- **合规系统：** 提供符合审计要求的文档查看。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

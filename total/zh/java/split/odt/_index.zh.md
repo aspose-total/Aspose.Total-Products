@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分ODT文件：模块化开源文档交付</h2>
+
+使用Java APIs拆分ODT文件使团队能够将大型开源文档分解为更易管理、个性化和共享的部分。这支持动态发布并改善移动访问。
+
+## ✅ 主要用例
+
+- **模块化手册**：将长手册分成较小的、针对特定角色的ODT文件。
+- **政策隔离**：按部门或地区分隔公司政策。
+- **定向输出**：从主ODT生成定向版本。
+
+## ⚙️ 自动化场景
+
+- **文档个性化**：自动生成特定用户的ODT文件。
+- **开源DMS集成**：将拆分的文件集成到文档管理系统中。
+- **移动友好发布**：提供更小、相关的ODT文件以便随时访问。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

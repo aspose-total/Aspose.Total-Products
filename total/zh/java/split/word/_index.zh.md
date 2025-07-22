@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分WORD文件：更智能的文档管理和合规性</h2>
+
+使用Java APIs拆分WORD文件有助于企业通过将大型文档分成逻辑部分来更轻松地进行合规性、更新和分发。
+
+## ✅ 主要用例
+
+- **按章节划分**：将大型文档划分为特定章节的文件。
+- **政策隔离**：按部门或地区隔离政策。
+- **部门特定内容**：为不同团队生成定制内容。
+
+## ⚙️ 自动化场景
+
+- **合规性打包**：自动化分段文件以用于法律或监管提交。
+- **内容模块化**：在多个文档中重复使用隔离的部分。
+- **移动文档传递**：为移动设备提供更小、相关的部分。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

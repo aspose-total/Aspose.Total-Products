@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **品牌布局：** 合并多个品牌幻灯片模板。
+- **视觉主题：** 为各部门构建统一主题。
+- **可扩展模板：** 为重复业务使用生成标准演示文稿。
+
+## 自动化场景：
+
+- **动态幻灯片生成：** 从合并的模板自动创建幻灯片。
+- **AI 主题对齐：** 协调颜色、字体和布局。
+- **POTX 到 PPTX 导出：** 自动将模板转换为可编辑演示文稿。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

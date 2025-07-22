@@ -71,7 +71,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API将水印应用于XLS文件对于保护电子表格、为专有模型添加品牌标识以及保护敏感数据至关重要。自动水印会在XLS资产上添加标签和徽标。
+
+#### ✅ 主要用例
+
+- **保护数据** — 在电子表格上标记机密通知。
+- **品牌收入模型** — 在商业计划表中嵌入徽标。
+- **保护预测** — 为敏感XLS文件添加使用限制。
+
+#### ⚙️ 自动化场景
+
+- **BI 仪表板** — 为内部使用的财务仪表板添加水印。
+- **财务工作流程** — 为版本控制标记工作电子表格。
+- **数据共享门户** — 在分发之前对文件应用水印。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

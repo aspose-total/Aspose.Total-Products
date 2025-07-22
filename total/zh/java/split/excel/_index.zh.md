@@ -71,7 +71,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分EXCEL文件：简化数据分割和交付</h2>
+
+使用Java APIs拆分EXCEL文件使组织能够更有效地处理大型数据集，通过隔离相关部分以便进行更好的分析、共享和报告。这有助于促进协作，支持合规性，并优化数据工作流程。
+
+## ✅ 主要用例
+
+- **部门预算**：将主预算表分割为部门特定文件，以便安全分发。
+- **季度数据表**：提取特定时期的数据，简化财务报告。
+- **业务单位指标**：为利益相关者生成单位绩效表。
+
+## ⚙️ 自动化场景
+
+- **财务数据分发**：自动共享拆分的Excel文件给团队或客户。
+- **Excel到CSV导出**：将分段数据导出为CSV，以便与其他工具集成。
+- **移动内容交付**：向移动用户提供更小、针对性的Excel文件，以减少负载。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API编辑PPT文件有助于组织安全地管理传统幻灯片。程序化编辑可删除受NDA保护的幻灯片，隐藏合同价值，并掩盖内部组织结构图。
+
+## ✅ 主要用例
+
+- **传统幻灯片：** 在内容迁移期间删除敏感幻灯片。
+- **采购幻灯片：** 在共享演示文稿中隐藏合同金额。
+- **人力资源简报：** 掩盖组织结构图或员工数据。
+
+## ⚙️ 自动化场景
+
+- **内容迁移：** 为现代系统清理传统文件。
+- **内部审查：** 在审核前自动进行编辑。
+- **知识产权保护：** 在共享旧资源时保护机密信息。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

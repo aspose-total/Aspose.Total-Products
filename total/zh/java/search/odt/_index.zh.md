@@ -89,7 +89,26 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 使用Java API搜索ODT文件：控制开放文本内容</h2>
+
+## ✅ 主要用例
+
+- **识别合同中的敏感内容**：定位机密条款和义务。
+- **在保险文件中查找政策条款**：快速找到特定政策语言。
+- **审查运营文件中的合规关键词**：检测文本文件中的受监管短语。
+
+## ⚙️ 自动化场景
+
+- **法律发现**：简化大规模文档搜索以查找证据和参考资料。
+- **企业搜索**：将ODT文件集成到全组织范围的搜索平台中。
+- **监管内容验证**：确保文档符合合规标准。
+- **基于AI的索引管道**：支持智能搜索和分类系统。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

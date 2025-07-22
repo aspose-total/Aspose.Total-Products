@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>使用案例：</h2>
+- **部门模板：** 将团队模板合并为主版本。
+- **标准化报告：** 自动化生成具有一致样式的报告。
+- **品牌合规：** 强制执行公司品牌在所有Excel模板中的一致性。
+
+<h2>自动化场景：</h2>
+- **XLT到XLS转换：** 合并模板并输出填充的工作簿。
+- **预填报告：** 使用动态数据填充合并的模板。
+- **AI使用跟踪：** 利用人工智能监控模板使用情况并提出改进建议。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

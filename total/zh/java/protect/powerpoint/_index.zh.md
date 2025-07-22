@@ -71,7 +71,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>关键用例</h2>
+- 锁定高管演示文稿。
+- 为销售演示文稿设置密码保护。
+- 共享只读培训资料。
+
+<h2>自动化场景</h2>
+- 保持品牌一致性。
+- 保护培训幻灯片的完整性。
+- 保护人工智能学习幻灯片。
+- 简化内容批准流程。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

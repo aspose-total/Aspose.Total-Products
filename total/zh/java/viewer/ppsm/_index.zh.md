@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ 使用Java API查看PPSM文件：安全的启用宏的幻灯片预览</h2>
+
+Java API用于PPSM文件，允许安全地查看启用宏的幻灯片演示，而无需执行脚本，非常适合批准、审查和内部简报。
+
+## ✅ 主要用例
+
+- **安全的宏幻灯片：** 在没有风险的情况下预览交互式演示文稿。
+- **内容批准：** 让管理人员审查启用宏的幻灯片。
+- **内部培训：** 安全地传递培训幻灯片。
+
+## ⚙️ 自动化场景
+
+- **培训平台：** 自动化宏幻灯片渲染。
+- **高管简报：** 与领导分享安全幻灯片。
+- **合规性检查：** 为批准验证幻灯片。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

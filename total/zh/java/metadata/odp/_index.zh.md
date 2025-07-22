@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 在Java应用程序中使用API管理ODP演示文件中的元数据，可以提高开源生态系统中的组织和协作能力。
+
+**关键用例：**
+- 在开源协作平台中组织幻灯片展示。
+- 跟踪修订历史和幻灯片所有权。
+- 为公司知识库对演示内容进行分类。
+
+**自动化场景：**
+- 按标题和主题等元数据字段筛选幻灯片。
+- 在批处理工作流中提取关键元数据。
+- 使用人工智能智能地标记和分类幻灯片展示。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

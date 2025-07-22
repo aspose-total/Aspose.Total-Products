@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java APIs查看EXCEL文件：随时随地显示电子表格</h2>
+
+Java APIs用于查看EXCEL文件，让企业可以在没有Microsoft Excel的情况下安全便捷地共享电子表格，提高仪表板和报告的透明度。
+
+## ✅ 主要用途
+
+- **仪表板集成：** 在BI工具中直接可视化电子表格。
+- **财务报告：** 在浏览器中预览预算和报表。
+- **数据表格：** 在线向团队展示运营数据。
+
+## ⚙️ 自动化场景
+
+- **财务仪表板：** 为利益相关者自动化EXCEL渲染。
+- **库存跟踪：** 在物流应用程序中共享实时电子表格预览。
+- **Web预览器：** 在门户网站中安全显示EXCEL文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

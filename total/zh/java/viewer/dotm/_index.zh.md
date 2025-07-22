@@ -76,7 +76,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API查看DOTM文件：安全的启用宏模板预览</h2>
+
+Java API可用于查看DOTM文件，使企业能够在不执行嵌入式代码的情况下显示启用宏的Word模板。这确保了在安全环境中进行安全的模板审查。
+
+## ✅ 主要用例
+
+- **法律/财务模板预览：** 安全检查敏感模板。
+- **无宏检查：** 查看布局而不触发脚本。
+- **模板共享：** 分发标准的DOTM文件供编辑使用。
+
+## ⚙️ 自动化场景
+
+- **安全预览器：** 在人力资源或法律门户中呈现DOTM文件。
+- **报告生成器：** 将模板预览集成到自动报告生成器中。
+- **批准工具：** 显示模板供管理层签字批准。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,28 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API查看DOC文件：安全可靠的文档预览</h2>
+
+使用Java API查看DOC文件为组织提供了一种安全的只读方式来呈现Word文档，无需安装Microsoft Word。这种方法支持文档完整性和保密性最为重要的人力资源、法律和业务系统。
+
+## ✅ 主要用例
+
+- **安全的人力资源和法律预览：** 为合同、政策或工作申请启用只读的DOC查看。
+- **基于Web的工作申请：** 允许招聘人员直接在浏览器中预览简历。
+- **无需依赖Microsoft Word：** 在门户和工作流程中显示DOC内容，无需外部软件。
+
+## ⚙️ 自动化场景
+
+- **基于浏览器的DOC查看器：** 将DOC渲染嵌入企业内部网和仪表板。
+- **移动友好的预览：** 在Android/iOS人力资源应用程序上预览DOC文件。
+- **内部合规系统：** 安全共享DOC版本以进行审计或政策检查。
+- **电子学习工具：** 在在线课程中显示基于DOC的课程和资源。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

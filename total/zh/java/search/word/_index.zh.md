@@ -89,7 +89,28 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ 使用Java API搜索Word文件：控制基于文本的知识</h2>
+
+搜索Word文件使用Java API对于管理大量合同、手册和人力资源文件至关重要。自动化搜索可以节省时间，提高准确性，并支持企业范围的知识管理。
+
+## ✅ 主要用例
+
+- **识别合同中的敏感术语**：检测机密条款和义务。
+- **在手册中定位产品规格**：快速找到关键产品细节。
+- **在人力资源文件中发现政策声明**：验证人力资源政策是否清晰一致。
+
+## ⚙️ 自动化场景
+
+- **法律合规**：自动化合同检查以进行法律审查。
+- **知识提取**：支持知识工作者进行快速搜索。
+- **AI驱动的分类**：通过发现的主题自动标记文档。
+- **企业范围的文档分析**：将Word文件连接到更广泛的企业搜索系统。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

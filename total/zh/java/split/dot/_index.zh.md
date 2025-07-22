@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分DOT文件：规模化模板管理</h2>
+
+使用Java应用程序中的API来拆分DOT文件，能够帮助企业将复杂模板分解为可重用、可管理的组件。这提升了模板定制能力，支持动态文档创建，并确保企业文档的一致性。
+
+## ✅ 主要用例
+
+- **可重用组件**：将模板元素模块化，便于在多个文档中重复使用。
+- **业务表单分类**：将大型业务表单模板拆分为分类部分，加快部署速度。
+- **布局提取**：提取特定布局元素以创建动态或个性化文档。
+
+## ⚙️ 自动化场景
+
+- **模板生成**：通过组装模块化模板部分自动创建新文档。
+- **本地化内容生成**：通过拆分和定制可重用元素生成本地化文档模板。
+- **高效格式重用**：在不同项目中跨项目重用常见布局部分，确保品牌一致性。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

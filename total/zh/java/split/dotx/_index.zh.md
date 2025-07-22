@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分DOTX文件：增强模板灵活性和重用性</h2>
+
+使用Java应用程序中的API拆分DOTX文件使得管理和重用公司模板变得更简单和更具可扩展性。通过将品牌模板组件模块化，组织可以高效地将布局调整到不同的地区和项目中。
+
+## ✅ 主要用例
+
+- **品牌组件**：将综合模板分为徽标、页眉和页脚部分，以实现灵活的品牌定制。
+- **本地化**：拆分模板以隔离本地内容，用于多语言文档制作。
+- **可重用布局**：跨多个模板重用诸如页眉和页脚之类的部分，以保持一致性。
+
+## ⚙️ 自动化场景
+
+- **模板定制**：通过混合和匹配部分自动创建新的品牌模板。
+- **动态文档渲染**：为不同的业务单位即时组装自定义布局。
+- **版本控制**：维护版本化组件，以便在多个模板中可靠更新。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

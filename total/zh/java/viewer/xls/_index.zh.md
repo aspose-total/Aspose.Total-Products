@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API查看XLS文件：现代化遗留电子表格访问</h2>
+
+Java API使查看XLS文件变得简单且安全，让团队可以在没有本地软件的情况下在线访问旧的Excel表格。
+
+## ✅ 主要用例
+
+- **财务报告：** 预览预算和历史财务数据。
+- **运营表格：** 在仪表板上显示内部XLS数据。
+- **库存数据：** 安全地展示物流电子表格。
+
+## ⚙️ 自动化场景
+
+- **ERP仪表板：** 为团队呈现遗留XLS数据。
+- **报告工具：** 在Web应用程序中自动化XLS预览。
+- **物流平台：** 在线共享库存表格。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

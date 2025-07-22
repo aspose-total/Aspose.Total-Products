@@ -71,7 +71,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 使用Java APIs拆分XLS文件：现代化传统电子表格处理</h2>
+
+拆分XLS文件使用Java APIs允许组织通过将相关部分隔离出来进行迁移、报告和移动友好访问来处理传统的电子表格格式。
+
+## ✅ 主要用例
+
+- **年度记录**：从大型XLS文件中提取特定年份的数据。
+- **业务日志**：将业务活动日志分离成模块化文件。
+- **旧格式数据**：为与现代系统集成做好传统电子表格的准备。
+
+## ⚙️ 自动化场景
+
+- **传统迁移**：拆分和现代化旧的XLS文件以适配新系统。
+- **Excel文件处理**：自动化数据提取用于报告。
+- **移动工具集成**：为轻量级移动工具提供更小的XLS文件。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

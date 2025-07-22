@@ -76,7 +76,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API合并通用图像文件使开发人员能够自动化跨不同文件格式的内容创建。
+
+**关键用例:**
+- **法律科技:** 将视觉证据编译成单个案例文件。
+- **社交平台:** 组装用户生成的图像以用于社交动态。
+- **图形丰富的报告:** 将图表、信息图表和照片合并到统一的报告中。
+
+**自动化场景:**
+- **动态网格生成:** 为演示文稿自动生成图像网格。
+- **格式无关合并:** 无缝合并混合图像格式。
+- **AI布局策展:** 使用人工智能设计、排列和优化最终视觉效果。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

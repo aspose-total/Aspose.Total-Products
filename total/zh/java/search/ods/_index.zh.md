@@ -88,7 +88,29 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API搜索ODS文件：解锁开放数据效率</h2>
+
+使用Java API搜索ODS（OpenDocument Spreadsheet）文件使组织能够处理规模化的开放格式电子表格数据。自动化搜索任务可实现即时访问关键记录，用于合规性、报告和审计。
+
+## ✅ 主要用例
+
+- **跟踪合规条目**：监控财务或运营电子表格中的监管数据字段。
+- **从存档表中检索客户数据**：查找历史客户交易和详细信息。
+- **实时审计财务记录**：发现不一致和错误以立即更正。
+
+## ⚙️ 自动化场景
+
+- **报告管道**：自动将准确的搜索结果输入业务报告。
+- **实时分析**：使用最新的电子表格数据为实时仪表板提供动力。
+- **风险管理审计**：检测电子表格中的异常以进行风险评估。
+- **AI支持的分类**：智能分类和标记数据。
+- **企业搜索引擎**：实现组织内所有ODS文件的统一搜索。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

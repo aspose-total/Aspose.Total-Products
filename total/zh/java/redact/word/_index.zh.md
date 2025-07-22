@@ -75,7 +75,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API来编辑WORD文件有助于保护一般文本文件中的关键信息。编程式编辑可删除敏感会议记录，掩盖财务数据，并对机密关键词进行编辑。
+
+## ✅ 主要用例
+
+- **人力资源报告：** 消除员工档案中的个人备注。
+- **董事会会议纪要：** 掩盖机密财务细节。
+- **情报文件：** 编辑敏感关键词以符合合规要求。
+
+## ⚙️ 自动化场景
+
+- **风险缓解：** 自动化编辑以减少手动错误。
+- **安全协作：** 仅共享经过清理的文本文件。
+- **行业合规：** 满足特定行业的隐私要求。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

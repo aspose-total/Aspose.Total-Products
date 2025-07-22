@@ -74,7 +74,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API访问和管理ODT文件中的元数据对于组织学术、多语言和开源文档至关重要。
+
+**关键用例:**
+- 通过元数据对学术论文和研究报告进行分类。
+- 归属作者以保持学术诚信。
+- 为全球协作组织多语言文档。
+
+**自动化场景:**
+- 从大型ODT库中批量提取元数据。
+- 按作者或主题字段对文档进行排序。
+- 使用AI对ODT文件进行聚类和标记，以便轻松发现。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

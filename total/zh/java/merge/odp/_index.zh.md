@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 关键用例:
+- **培训课件:** 将多个培训模块编译成全面的ODP演示文稿。
+- **会议幻灯片:** 将演讲者幻灯片合并为统一的幻灯片，以确保活动流畅进行。
+- **内部演示:** 将内部更新、报告和计划 consolide 到可重复使用的ODP文件中。
+
+## 自动化场景:
+- **多用户幻灯片合并:** 自动合并来自多个贡献者的幻灯片。
+- **样式协调:** 强制执行合并幻灯片之间的一致主题和格式。
+- **AI布局对齐:** 使用AI来对齐和调整幻灯片布局，以实现专业、跨平台的演示文稿交付。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用Java API合并DOT文件，现代化跨大型组织的传统模板管理。编程化的DOT合并支持一致的品牌形象、布局重用和模板标准化。
+
+**关键用例：**
+- **传统模板：** 将旧的DOT模板合并为统一的主模板。
+- **部门布局：** 确保部门文件中的格式一致。
+- **可重用内容：** 通过合并DOT文件以便轻松生成DOCX输出，现代化可重用部分。
+
+**自动化场景：**
+- **DOT到DOCX合并：** 在合并传统模板的同时自动转换。
+- **批量模板组装：** 将多个模板合并为单个主文件。
+- **AI引导标准化：** 使用AI检测不一致之处，并调整布局以符合品牌合规性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

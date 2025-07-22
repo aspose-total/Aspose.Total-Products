@@ -74,7 +74,24 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 使用Java API解析ODP文件：演示内容和品牌控制</h2>
+
+解析ODP（OpenDocument Presentation）文件使用Java应用程序中的API使组织能够提取幻灯片级内容，重组演示文稿，并有效地重用品牌模板。自动化的ODP解析支持AI幻灯片生成，视觉资产索引和幻灯片品牌审计。
+
+## ✅ 主要用例
+
+- **幻灯片级提取：** 读取标题，项目符号和嵌入式媒体。
+- **演示文稿重组：** 自动化幻灯片顺序和流程的更改。
+- **模板重用：** 强制团队之间保持一致的幻灯片设计。
+- **AI幻灯片生成：** 根据解析的数据动态生成幻灯片。
+- **视觉资产索引：** 目录化图像和图形以便重复使用。
+- **品牌审计：** 根据企业品牌准则验证幻灯片堆栈。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

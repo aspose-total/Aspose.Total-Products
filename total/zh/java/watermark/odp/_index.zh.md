@@ -75,7 +75,21 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+
+- **嵌入“机密”标签** — 用机密性标记业务幻灯片。
+- **品牌展示** — 在客户演示文稿中添加徽标。
+- **防止抄袭** — 阻止学术幻灯片的复制。
+
+## ⚙️ 自动化场景
+
+- **教育LMS** — 自动为课程演示文稿添加水印。
+- **投资者路演系统** — 在路演文稿中嵌入标签。
+- **协作编辑器** — 在实时编辑环境中添加草稿标记。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

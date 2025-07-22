@@ -75,7 +75,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 使用Java API查看PDF文件：无需麻烦的浏览器文档查看</h2>
+
+使用Java API查看PDF文件可以在浏览器或应用程序中安全显示发票、合同和手册，无需外部阅读器。
+
+## ✅ 主要用途
+
+- **发票和合同预览：** 在门户网站中显示财务或法律PDF文件。
+- **移动设备访问：** 在任何设备上启用PDF查看。
+- **营销宣传资料：** 在网站和CRM工具中嵌入手册。
+
+## ⚙️ 自动化场景
+
+- **法律门户：** 为客户合同自动化PDF渲染。
+- **计费系统：** 安全地向客户显示发票。
+- **电子签名工作流程：** 集成PDF查看以进行签名确认。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 使用案例：
+
+- **标准幻灯片组合：** 合并 OTP 模板，生成用于定期会议的品牌幻灯片。
+- **部门模板：** 将部门 OTP 文件合并为公司范围的主模板。
+- **品牌一致性：** 在所有演示文稿中保持统一的设计、颜色和布局。
+
+## 自动化场景：
+
+- **OTP 到 ODP 转换：** 自动化模板合并和即时演示文稿生成。
+- **内容填充：** 使用动态数据预填充幻灯片，快速创建幻灯片组。
+- **AI 个性化：** 使用 AI 为不同受众和团队定制幻灯片。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java API对ODS（OpenDocument Spreadsheet）文件进行编辑对于处理开源电子表格数据的组织至关重要。编程式编辑可以掩盖工资、删除医疗细节，并在采购表中隐藏供应商定价。
+
+## ✅ 主要用例
+
+- **工资报告：** 在公开数据发布中隐藏工资详情。
+- **医疗记录：** 删除健康数据以符合研究合规要求。
+- **采购表：** 在共享预算中隐藏供应商定价。
+
+## ⚙️ 自动化场景
+
+- **开放数据发布：** 为公开发布的数据进行清理。
+- **研究合规：** 符合已发布数据的隐私法律要求。
+- **内部共享：** 分发电子表格，而不暴露机密信息。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

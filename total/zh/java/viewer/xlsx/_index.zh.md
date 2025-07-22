@@ -77,7 +77,27 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 使用Java API查看XLSX文件：现代工作流程中轻松预览电子表格</h2>
+
+使用Java API查看XLSX文件可以让组织安全地在浏览器和应用程序中共享现代电子表格，无需本地安装Excel。
+
+## ✅ 主要用途
+
+- **库存系统：** 在线预览产品或库存表。
+- **计费平台：** 显示发票和成本明细。
+- **人力资源工具：** 显示用于工资或请假数据的XLSX文件。
+
+## ⚙️ 自动化场景
+
+- **仪表板：** 为团队自动化XLSX渲染。
+- **数据平台：** 在SaaS工具中嵌入电子表格视图。
+- **内部门户网站：** 在整个公司共享更新的XLSX数据。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

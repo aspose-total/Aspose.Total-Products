@@ -117,7 +117,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 为什么要注释ODS文件：改善预算编制、研究数据和社区调查</h2>
+
+注释**ODS（OpenDocument Spreadsheet）**文件对于使用开源电子表格进行共享预算编制、研究项目和调查数据收集的团队和社区至关重要。评论、高亮显示和单元格注释有助于解释计算、验证数据，并在协作工作期间使所有人保持一致。
+
+## ✅ 主要用例
+
+- **协作预算电子表格：** 使用注释澄清费用类别，证明数字，并指导团队成员进行预算更新。
+- **开源研究数据表：** 添加评论以解释数据来源，标记需要审查的变量，并跟踪协作研究中的更改。
+- **社区调查结果：** 注释调查表格以标记不一致之处，总结主要发现，并为不同利益相关者提供多语言注释。
+
+## ⚙️ 自动化优势
+
+- **数据验证：** 自动化注释以验证输入，标记异常，并在大型电子表格中保持数据准确性。
+- **版本控制：** 使用自动化工具跟踪编辑，管理修订版本，并确保所有合作者使用最新的ODS版本。
+- **多语言校对：** 自动化评论进行多语言审查，确保跨语言清晰一致的数据解释。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

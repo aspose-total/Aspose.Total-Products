@@ -74,7 +74,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+使用Java应用程序中的API访问和编辑DOTX模板中的元数据有助于保持版本控制、与业务部门对齐和遵守政策。
+
+**关键用例：**
+- 强制跨团队和部门对模板进行版本控制。
+- 根据业务部门或部门对模板进行分类。
+- 通过确保元数据一致性来支持合规性。
+
+**自动化场景：**
+- 在创建或更新模板时自动化元数据注入。
+- 以编程方式对模板进行分类和组织。
+- 使用AI技术跟踪管理整个模板生命周期的元数据。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
