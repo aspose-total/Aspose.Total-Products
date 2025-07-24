@@ -30,6 +30,11 @@ Aspose.OCR for JavaScript via C++ empowers your applications with efficient opti
 The JavaScript OCR API is versatile, capable of recognizing content from scanned images, smartphone photos, screenshots, specific image areas, and scanned PDFs. It delivers results in popular document and data exchange formats. Notably, the API operates offline, eliminating the need for an internet connection.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/page/javascript-cpp/" imgSrc="/total/images/aspose_page-for-javascript-cpp.svg" productName="Aspose.Page for JavaScript via C++">}}
+
+Aspose.Page for JavaScript via C++ is a robust API that lets developers load, merge, and convert PostScript (PS), Encapsulated PostScript (EPS), and XPS files into PDFs and raster images directly within JavaScript projects. By supporting Page Description Languages (PDLs), it streamlines document creation, editing, and printing, enabling precise control over graphics and layouts without additional software.
+
+{{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/font/javascript-cpp/" imgSrc="/total/images/aspose_font-for-javascript-cpp.svg" productName="Aspose.Font for JavaScript via C++">}}
 
