@@ -35,6 +35,11 @@ Handle Excel files efficiently using Node.js via C++ APIs without requiring Micr
 Aspose.OCR for Node.js via C++ enables text extraction from images like scanned pages and photos on Node.js-compatible platforms. Enhance on-premise products, web services, and serverless applications with powerful optical character recognition functionality, supporting 28 languages including Chinese and Hindi in popular formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/page/nodejs-cpp/" imgSrc="/total/images/aspose_page-for-nodejs-cpp.svg" productName="Aspose.Page for Node.js via C++">}}
+
+Aspose.Page for Node.js via C++ is a powerful library that enables Node.js applications to load, merge, render, and convert PostScript (PS), Encapsulated PostScript (EPS), and XPS files into PDFs and raster images without extra software. By supporting advanced Page Description Languages (PDLs), it streamlines graphics, document creation, and print workflows with high precision and efficiency.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/font/nodejs-cpp/" imgSrc="/total/images/aspose_font-for-nodejs-cpp.svg" productName="Aspose.Font for Node.js via C++">}}
 
 Aspose.Font for Node.js via C++ allows developers to load, render, and save various font formats, including TrueType, WOFF, EOT, OpenType, CFF, and Type1. Designed to simplify complex font operations, so Node.js developers can easily focus on crafting exceptional applications without the hassle of intricate font handling.
