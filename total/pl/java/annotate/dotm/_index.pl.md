@@ -114,7 +114,22 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Dlaczego adnotować pliki DOTM: Bezpieczne szablony z makrami do brandingu i ponownego wykorzystania</h2>
+
+Adnotowanie **plików DOTM** jest kluczowe dla zarządzania szablonami Worda z makrami. Jasne komentarze i adnotacje pomagają zespołom w przeglądaniu logiki makr, udoskonalaniu układów i aktualizowaniu brandingu w wielokrotnie używanych szablonach z wbudowaną automatyzacją.
+
+## 📌 Praktyczne przypadki użycia
+
+- **Modyfikacje szablonów:** Dodawanie adnotacji do aktualizacji sekcji, naprawy problemów z układem lub wyjaśnienia pól dynamicznych.
+- **Aktualizacje brandingu:** Podkreślanie logotypów, czcionek i kolorów w celu zachowania spójności brandingu w szablonach z makrami.
+- **Wielokrotne użycia:** Wstawianie instrukcji, aby zapewnić poprawne działanie makr podczas ponownego wykorzystywania szablonów.
+- **Automatyzacja:** Korzystanie z narzędzi do zarządzania szablonami w celu przeprowadzania audytów makr, kontroli zgodności i śledzenia wersji za pomocą inteligentnych adnotacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

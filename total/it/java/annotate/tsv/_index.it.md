@@ -117,7 +117,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Perché annotare i file TSV: Migliora l'analisi dei log, le revisioni dei dati e la documentazione in testo semplice</h2>
+
+L'annotazione dei file **TSV (valori separati da tabulazione)** è essenziale per i team che lavorano con dati strutturati in testo semplice come log, set di dati e report esportati. Aggiungere commenti o note ai file TSV migliora la chiarezza, garantisce un'interpretazione accurata dei dati e semplifica la collaborazione.
+
+## ✅ Principali casi d'uso
+
+- **Analisi dei log:** Utilizzare le annotazioni per spiegare i campi, segnalare anomalie e evidenziare tendenze negli esportazioni dei log salvati come file TSV.
+- **Documentazione in testo semplice:** Aggiungere note per descrivere colonne, fonti di dati o passaggi di trasformazione direttamente nella documentazione TSV.
+- **Revisioni dei dati di origine:** Inserire commenti in linea per segnalare problemi di qualità dei dati, suggerire correzioni o chiarire il contesto per gli analisti.
+
+## ⚙️ Benefici dell'automazione
+
+- **Preelaborazione AI:** Automatizzare l'annotazione per etichettare modelli, rilevare valori anomali e arricchire i file TSV prima dell'apprendimento automatico o della generazione di report.
+- **Revisioni del codice:** Utilizzare i TSV annotati per chiarire i dati di test, verificare le strutture di input/output e documentare le modifiche al set di dati.
+- **Documentazione tecnica:** Integrare le annotazioni automatizzate per mantenere chiare e aggiornate le definizioni dei dati basati su TSV, le configurazioni e le note di elaborazione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

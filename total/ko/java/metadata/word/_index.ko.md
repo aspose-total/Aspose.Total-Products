@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Microsoft Word 문서의 메타데이터를 Java 애플리케이션에서 API를 사용하여 관리하면 콘텐츠 표준화, 규정 준수 및 효율적인 문서 수명 주기 관리가 가능합니다.
+
+**주요 사용 사례:**
+- 일관된 메타데이터 구조로 회사 전반적인 표준 강화
+- DMS 플랫폼에서 검색 색인 및 분류 개선
+- 검증 가능한 작성자 및 버전 관리로 규정 준수 감사 지원
+
+**자동화 시나리오:**
+- 수천 개의 Word 파일 전체에서 메타데이터 필드를 자동으로 매핑
+- 카테고리, 부서 또는 프로젝트로 문서 태그 지정
+- 작성자, 주제 또는 속성별로 대규모 Word 아카이브를 AI로 세분화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

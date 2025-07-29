@@ -74,7 +74,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Organizar presentaciones en plataformas de colaboración de código abierto.
+- Seguir el historial de revisiones y la propiedad de diapositivas.
+- Categorizar el contenido de presentaciones para bases de conocimiento de la empresa.
+
+## Escenarios de automatización:
+
+- Filtrar diapositivas por campos de metadatos como título y tema.
+- Extraer metadatos clave en flujos de trabajo por lotes.
+- Utilizar IA para etiquetar y clasificar inteligentemente las presentaciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

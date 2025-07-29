@@ -76,7 +76,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unendo file immagine generici utilizzando le API Java si permette agli sviluppatori di automatizzare la creazione di contenuti attraverso diversi formati di file.
+
+**Principali casi d'uso:**
+- **Tecnologia Legale:** Riunire prove visive in singoli fascicoli di casi.
+- **Piattaforme Social:** Assemblare immagini generate dagli utenti per i feed social.
+- **Report Grafici-Ricchi:** Unire grafici, infografiche e foto in report unificati.
+
+**Scenari di automazione:**
+- **Generazione dinamica di griglie:** Generare automaticamente griglie di immagini per presentazioni.
+- **Unione agnostica del formato:** Unire formati di immagine misti in modo fluido.
+- **Cura del layout tramite intelligenza artificiale:** Utilizzare l'IA per progettare, disporre e ottimizzare le immagini finali.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

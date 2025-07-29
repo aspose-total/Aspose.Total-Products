@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **レガシーテンプレート:** 古いDOTテンプレートを統一されたマスターテンプレートに統合します。
+- **部門レイアウト:** 部門文書全体で一貫したフォーマットを確保します。
+- **再利用可能なコンテンツ:** DOTファイルをマージして簡単なDOCX出力を実現することで再利用可能なセクションを近代化します。
+
+## 自動化シナリオ:
+- **DOTからDOCXへのマージ:** レガシーテンプレートをマージしながら変換を自動化します。
+- **一括テンプレートアセンブリ:** 複数のテンプレートを1つのマスターファイルに統合します。
+- **AIによる標準化:** AIを使用して不整合を検出し、レイアウトをブランドコンプライアンスに整合させます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

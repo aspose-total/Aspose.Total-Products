@@ -75,7 +75,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API를 사용하여 WORD 파일 분할: 더 스마트한 문서화와 규정 준수</h2>
+
+## ✅ 주요 사용 사례
+
+- **장(chapter)별 분할**: 대량 문서를 장(chapter)별 파일로 분할합니다.
+- **정책 격리**: 부서 또는 지역별로 정책을 격리합니다.
+- **부서별 콘텐츠**: 다른 팀에 맞게 조정된 콘텐츠를 생성합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **규정 준수 패키징**: 법적 또는 규제적 제출을 위해 섹션별 파일을 자동화합니다.
+- **콘텐츠 모듈화**: 여러 문서에서 격리된 섹션을 재사용합니다.
+- **모바일 문서 전달**: 모바일 사용을 위해 작은 관련 섹션을 제공합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

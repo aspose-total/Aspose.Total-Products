@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Přístup a správa metadat v souborech DOCM s makry pomocí API v aplikacích Java je klíčová pro bezpečné a souladné pracovní postupy s dokumenty. Programovým způsobem zpracováváním metadat DOCM mohou organizace identifikovat zdroje maker, sledovat historii verzí a udržovat správu v procesech založených na šablonách.
+
+**Klíčové použití:**  
+- Identifikovat a ověřit zdroje maker k prevenci neoprávněného provádění kódu.  
+- Sledovat historii verzí pro udržení auditních stop pro soulad.  
+- Zajistit, aby šablony s makry odpovídaly interním standardům pracovního postupu.
+
+**Automatické scénáře:**  
+- Automatizovat ověřování metadat napříč soubory DOCM pro zajištění konzistence.  
+- Monitorovat vzory použití maker a automaticky označovat anomálie.  
+- Použít kategorizaci s asistencí AI k organizaci dynamických souborů DOCM podle typů maker, autorství a verze.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików OTT (OpenDocument Text Template) za pomocą interfejsów API w aplikacjach Java umożliwia firmom utrzymanie spójnych, wielokrotnie używalnych szablonów do generowania dokumentów o dużej objętości. Automatyzacja zapewnia standaryzację i szybsze wyniki.
+
+**Główne przypadki użycia:**
+- **Listy Biznesowe:** Generowanie listów z szablonów poprzez łączenie plików OTT dla działu HR, sprzedaży lub komunikacji z klientem.
+- **Bloków Zawartości do Ponownego Użycia:** Łączenie standardowych sekcji w szablony główne dla umów, propozycji lub polityk.
+- **Standaryzacja Procesów:** Zapewnienie spójnego brandingu i formatowania we wszystkich dokumentach tworzonych na podstawie szablonów.
+
+**Scenariusze Automatyzacji:**
+- **Transformacja OTT do ODT:** Łączenie szablonów i konwertowanie ich na gotowe do edycji dokumenty ODT.
+- **Konsolidacja Szablonów:** Automatyzacja łączenia wielu plików OTT w zjednoczone szablony główne.
+- **Wypełnianie Pól za Pomocą AI:** Wykorzystanie sztucznej inteligencji do wstępnego wypełniania szablonów dynamicznymi danymi dla personalizowanej generacji dokumentów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

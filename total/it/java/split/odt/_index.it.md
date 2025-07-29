@@ -75,7 +75,27 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Suddivisione dei file ODT utilizzando le API Java: Consegna modulare di documenti open-source</h2>
+
+La suddivisione dei file ODT con le API Java consente ai team di suddividere grandi documenti open-source per una gestione, personalizzazione e condivisione più semplici. Questo supporta la pubblicazione dinamica e migliora l'accesso mobile.
+
+## ✅ Principali casi d'uso
+
+- **Manuali modulari**: Dividere lunghi manuali in file ODT più piccoli specifici per ruolo.
+- **Isolamento delle policy**: Separare le policy aziendali per dipartimento o regione.
+- **Output mirati**: Generare versioni mirate da un file ODT principale.
+
+## ⚙️ Scenari di automazione
+
+- **Personalizzazione dei documenti**: Automatizzare la generazione di file ODT specifici per l'utente.
+- **Integrazione DMS open-source**: Integrare i file divisi nei sistemi di gestione documentale.
+- **Pubblicazione mobile-friendly**: Consegna di file ODT più piccoli e pertinenti per un accesso on-the-go.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **販売レポート:** 複数のチームからの売上データを1つのXLSXに統合します。
+- **分析ダッシュボード:** 企業レベルのパフォーマンスレビューのためにダッシュボードをマージします。
+- **クライアントデータセット:** 統一されたアカウント管理のためにクライアントデータシートを結合します。
+
+## 自動化シナリオ:
+- **シートレベルのマージ:** 複数のシートを1つのワークブックにマージまたは追加します。
+- **データ検証:** マージプロセス中の一貫性チェックを自動化します。
+- **AIトレンド認識:** マージされたデータセット内のパターンやトレンドを検出するためにAIを活用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

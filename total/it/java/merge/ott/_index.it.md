@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unione di file OTT (OpenDocument Text Template) utilizzando API in applicazioni Java consente alle imprese di mantenere modelli coerenti e riutilizzabili per la generazione di documenti ad alto volume. L'automazione garantisce la standardizzazione e una produzione più rapida.
+
+**Principali casi d'uso:**
+- **Lettere commerciali:** Generare lettere modellate unendo file OTT per HR, vendite o comunicazioni con i clienti.
+- **Blocchi di contenuto riutilizzabili:** Combinare sezioni standard in modelli principali per contratti, proposte o politiche.
+- **Standardizzazione del flusso di lavoro:** Garantire un branding e un formato coerenti in tutti i documenti creati da modelli.
+
+**Scenari di automazione:**
+- **Trasformazione da OTT a ODT:** Unire modelli e convertirli in documenti ODT pronti per la modifica.
+- **Consolidamento dei modelli:** Automatizzare l'unione di più file OTT in modelli principali unificati.
+- **Popolamento dei campi AI:** Utilizzare l'IA per pre-compilare modelli con dati dinamici per la generazione di documenti personalizzati.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

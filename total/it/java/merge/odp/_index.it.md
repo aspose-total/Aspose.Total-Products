@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unione di file ODP (OpenDocument Presentation) utilizzando API in applicazioni Java è vitale per le organizzazioni che si affidano a suite per ufficio open source. L'unione automatizzata di file ODP semplifica la collaborazione e garantisce coerenza nelle presentazioni tra team ed eventi.
+
+**Principali casi d'uso:**
+- **Materiale didattico:** Compilare più moduli di formazione in presentazioni ODP esaustive.
+- **Diapositive per conferenze:** Unire le diapositive dei relatori in un'unica presentazione per un flusso di evento fluido.
+- **Presentazioni interne:** Consolidare aggiornamenti interni, report e piani in file ODP riutilizzabili.
+
+**Scenario di automazione:**
+- **Unione di diapositive multiutente:** Automatizzare l'unione di diapositive da più contributori.
+- **Armonizzazione dello stile:** Imporre temi e formati coerenti tra le diapositive unite.
+- **Allineamento del layout tramite intelligenza artificiale:** Utilizzare l'IA per allineare e regolare i layout delle diapositive per una consegna professionale e multi-piattaforma delle presentazioni.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

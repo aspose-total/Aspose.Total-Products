@@ -75,7 +75,25 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file ODT (OpenDocument Text) tramite API Java aiuta a proteggere testi sensibili nei documenti in formato aperto. La redazione automatizzata rimuove identificatori personali, nasconde feedback e maschera dettagli sensibili nei moduli governativi.
+
+## ✅ Principali casi d'uso
+
+- **Articoli Accademici:** Rimuovere dati personali degli studenti o degli autori nella ricerca pubblicata.
+- **Recensioni Confidenziali:** Nascondere feedback interni nelle bozze condivise.
+- **Moduli Governativi:** Mascherare dati sensibili dei cittadini per la conformità.
+
+## ⚙️ Scenari di Automazione
+
+- **Leggi sulla Privacy dei Dati:** Automatizzare la redazione per il GDPR e regole simili.
+- **Protezione dei Segnalatori:** Gestire in modo sicuro le segnalazioni sensibili.
+- **Collaborazione nel Settore Pubblico:** Distribuire file ODT sanificati in modo sicuro.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

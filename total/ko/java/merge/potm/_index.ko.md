@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>주요 사용 사례:</h2>
+- **대화식 레이아웃:** 내장된 매크로가 포함된 슬라이드 템플릿을 결합합니다.
+- **교육 콘텐츠:** 자동화된 학습 모듈을 위한 매크로 기반 레이아웃을 병합합니다.
+- **표준화된 템플릿:** 부서 간에 매크로가 적용된 슬라이드의 일관성을 유지합니다.
+
+<h2>자동화 시나리오:</h2>
+- **매크로 슬라이드 삽입:** 안전하게 매크로가 활성화된 슬라이드를 삽입합니다.
+- **AI 브랜딩:** 슬라이드를 기업 스타일 가이드에 자동으로 맞춥니다.
+- **POTM-to-PPTM:** 템플릿을 병합하고 편집 가능한 매크로가 활성화된 프레젠테이션으로 내보냅니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

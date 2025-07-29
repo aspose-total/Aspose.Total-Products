@@ -89,7 +89,26 @@ Więcej szczegółów na temat opcjonalnych zależności pakietów, takich jak J
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ Wyszukiwanie plików Word za pomocą interfejsów API Javy: Kontrola opartego na tekście wiedzy</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Identyfikacja Wrażliwych Terminów w Umowach**: Wykrywanie poufnych klauzul i zobowiązań.
+- **Zlokalizowanie Specyfikacji Produktów w Podręcznikach**: Szybkie odnajdywanie kluczowych szczegółów produktów.
+- **Odkrywanie Oświadczeń Polityki w Dokumentach HR**: Weryfikacja czy polityki HR są jasne i spójne.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Zgodność Prawna**: Automatyzacja kontroli umów do przeglądu prawnego.
+- **Wydobycie Wiedzy**: Wsparcie pracowników wiedzy poprzez szybkie wyszukiwanie.
+- **Klasyfikacja z Wykorzystaniem Sztucznej Inteligencji**: Automatyczne tagowanie dokumentów według odkrytych tematów.
+- **Analiza Dokumentów na Poziomie Przedsiębiorstwa**: Łączenie plików Word z szerszymi systemami wyszukiwania w przedsiębiorstwie.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

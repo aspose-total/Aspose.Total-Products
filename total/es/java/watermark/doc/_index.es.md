@@ -78,7 +78,25 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Aplicar marcas de agua a archivos DOC utilizando APIs de Java ayuda a las organizaciones a proteger la confidencialidad de los documentos, reforzar la marca y controlar el estado de la versión. La inserción automatizada de marcas de agua garantiza que las marcas de "Confidencial" o logotipos aparezcan de manera consistente, ayudando a los equipos a gestionar la visibilidad e integridad del documento.
+
+## ✅ Casos de uso clave
+
+- **Marcar como "Confidencial"** — Etiquetar archivos DOC internos para restringir su distribución.
+- **Identidad visual de la marca** — Aplicar logotipos de la empresa a informes y memorandos.
+- **Indicar estado de borrador** — Utilizar marcas de agua para mostrar que los documentos están en revisión.
+
+## ⚙️ Escenarios de automatización
+
+- **Motores de flujo de trabajo de documentos** — Automatizar la marca de agua en archivos DOC durante la generación y aprobación.
+- **Procesos de aprobación de RRHH** — Incrustar etiquetas de estado en documentos de recursos humanos para revisión interna.
+- **Control de versiones legales** — Marcar claramente las versiones preliminares para colaboración legal.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

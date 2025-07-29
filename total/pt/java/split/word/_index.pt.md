@@ -75,7 +75,25 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividindo arquivos WORD usando APIs Java: Documentação mais inteligente e conformidade</h2>
+
+## ✅ Principais Casos de Uso
+
+- **Segmentação por Capítulo**: Divida a documentação extensa em arquivos específicos por capítulo.
+- **Isolamento de Políticas**: Isole políticas por departamento ou região.
+- **Conteúdo Específico por Departamento**: Gere conteúdo personalizado para diferentes equipes.
+
+## ⚙️ Cenários de Automação
+
+- **Empacotamento de Conformidade**: Automatize arquivos segmentados para envio legal ou regulatório.
+- **Modularidade de Conteúdo**: Reutilize seções isoladas em vários documentos.
+- **Entrega de Documentos para Dispositivos Móveis**: Forneça seções menores e relevantes para uso em dispositivos móveis.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

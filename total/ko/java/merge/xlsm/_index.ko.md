@@ -75,7 +75,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>매크로 활성화된 XLSM 파일 병합</h2>
+
+API를 사용하여 자바 애플리케이션에서 매크로 활성화된 XLSM 파일을 병합하면 팀이 내장 스크립트가 있는 복잡한 자동화된 스프레드시트를 관리할 수 있습니다. 자동화를 통해 동적 시트를 결합하여 고급 보고서를 생성할 수 있습니다.
+
+**주요 사용 사례:**
+- **자동화된 템플릿:** 재무, 인사 또는 영업용 다수의 XLSM 템플릿 통합.
+- **동적 계산:** 매크로를 유지하면서 계산 시트를 결합.
+- **내장 스크립트:** 통합된 파일 전체에서 VBA 자동화 논리를 유지.
+
+**자동화 시나리오:**
+- **매크로 충돌 감지:** 병합 중 매크로 충돌을 감지하고 해결.
+- **VBA 통합:** 다수의 VBA 모듈 통합 자동화.
+- **안전한 자동화:** 스프레드시트 워크플로우 확장 시 매크로 보호.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

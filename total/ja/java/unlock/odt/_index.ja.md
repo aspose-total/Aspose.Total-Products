@@ -72,7 +72,26 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🔓 Java APIを使用してODTファイルのロックを解除する：文書ワークフローを加速する</h2>
+
+## ✅ 主なユースケース
+
+- **機密レポートのロック解除:** 新しいポリシーに合わせて保護されたレポートを更新します。
+- **編集制限の解除:** オープンソースファイルでのリアルタイムコラボレーションを可能にします。
+- **ロックされた旧ファイルの処理:** 再利用するために古い文書を近代化します。
+
+## ⚙️ 自動化シナリオ
+
+- **デジタルワークフロー:** 編集を効率化するためにロック解除を自動化します。
+- **規制の更新:** コンプライアンス文書を迅速に調整します。
+- **アーカイブへのアクセス:** ストレージからロックされたファイルを復元します。
+- **一括コンテンツ編集:** コンテンツ移行のために複数のファイルを処理します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

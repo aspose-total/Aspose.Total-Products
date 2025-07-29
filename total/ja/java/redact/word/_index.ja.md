@@ -75,7 +75,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してWORDファイルを編集することで、一般テキストファイル内の重要な情報を保護するのに役立ちます。プログラムによる編集は、機密の会議メモを削除し、財務データをマスクし、分類されたキーワードを塗りつぶします。
+
+## ✅ 主な使用事例
+
+- **人事報告書:** 従業員記録の個人的なメモを削除します。
+- **取締役会議事録:** 機密の財務詳細をマスクします。
+- **情報文書:** コンプライアンスのために機密キーワードを塗りつぶします。
+
+## ⚙️ 自動化シナリオ
+
+- **リスク軽減:** 手動エラーを減らすために編集を自動化します。
+- **安全なコラボレーション:** 消去されたテキストファイルのみを共有します。
+- **業界コンプライアンス:** セクター固有のプライバシー要件を満たします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

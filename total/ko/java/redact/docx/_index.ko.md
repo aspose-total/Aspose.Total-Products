@@ -75,7 +75,28 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🛡️ 자바 API를 사용하여 DOCX 파일 비식별화: 기밀 데이터 효율적으로 보호하기</h2>
+
+자바 애플리케이션에서 API를 사용하여 DOCX 파일을 비식별화하는 것은 민감한 정보를 보호하고 전 세계적인 데이터 개인 정보 보호 규정을 준수하는 데 필수적입니다. 프로그래밍적 비식별화를 통해 조직은 기밀 데이터를 자동으로 감지하고 마스킹하여 안전한 문서 배포와 저장을 보장할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **법적 문서:** 법적 발견 중에 계약서, 소장 또는 증거 파일에서 기밀 이름과 특권 정보를 제거합니다.
+- **재무 보고서:** 외부 공유 전에 자산 데이터를 보호하기 위해 감사 보고서에서 민감한 재무 수치를 비식별화합니다.
+- **준수 파일:** GDPR 및 HIPAA 요구 사항을 준수하기 위해 HR 기록, 의료 파일 또는 고객 데이터베이스에서 개인 식별 정보(PII)를 마스킹합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **규정 준수:** 규모에 맞게 GDPR 및 HIPAA 준수를 유지하기 위해 비식별화 워크플로우를 자동화합니다.
+- **안전한 공유:** 이해 관계자, 파트너 또는 감사인과 살균된 DOCX 파일을 안전하게 공유합니다.
+- **AI 모델 교육:** 민감한 정보를 제거하여 훈련 데이터 세트를 살균화하여 개인 정보 누출 위험을 줄입니다.
+- **감사 및 조사:** 반복 가능한 비식별화 파이프라인을 통해 규정 준수 감사나 내부 조사 중 기밀 유지합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

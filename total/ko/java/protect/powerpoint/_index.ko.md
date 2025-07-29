@@ -71,7 +71,22 @@ Powerpoint 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 경영진 프레젠테이션 잠금.
+- 영업 덱스 암호 보호.
+- 읽기 전용 교육 자료 공유.
+
+<h2>자동화 시나리오</h2>
+- 브랜딩 일관성 유지.
+- 교육 슬라이드 무결성 보호.
+- AI 학습 슬라이드 보호.
+- 콘텐츠 승인 간소화.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

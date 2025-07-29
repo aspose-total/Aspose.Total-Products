@@ -78,7 +78,25 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki WORD za pomocą interfejsów API Javy pomaga organizacjom chronić treści, sygnalizować status i wzmacniać markę. Programowe znakowanie wodne ułatwia identyfikację szkiców, oznaczanie raportów jako prywatne lub dołączanie elementów marki.
+
+## ✅ Główne przypadki użycia
+
+- **Identyfikacja Szkiców** — Oznaczanie roboczych kopii jako "Szkic" lub "Do przeglądu".
+- **Marka w Komunikacji** — Wstawianie logotypów firmowych w wewnętrzne pliki WORD.
+- **Oznaczanie Raportów Prywatnych** — Wyraźne oznaczanie statusu poufności na poufnych dokumentach.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Narzędzia Automatyzacji Umów** — Automatyczne nakładanie znaków wodnych na generowane umowy.
+- **Potoki Zgodności** — Oznaczanie raportów do przekazania organom regulacyjnym.
+- **Systemy Publikacji** — Nakładanie spójnych znaków wodnych na opublikowane raporty.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

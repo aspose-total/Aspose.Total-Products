@@ -76,7 +76,19 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Belangrijke Gebruiksscenario's:
+- **Fotoarchieven:** Bouw georganiseerde fotoarchieven door gerelateerde JPG's samen te voegen.
+- **Klantuploads:** Combineer door gebruikers geüploade afbeeldingen tot één visuele post.
+- **Eenheid in Merkassets:** Voeg meerdere JPG's samen tot samenhangende merkvisuals voor campagnes.
+
+**Automatiseringsscenario's:**
+- **Bulk JPG-samenvoeging:** Behandel het consolideren van JPG's in grote hoeveelheden met minimaal handmatig werk.
+- **Samenstelling in Real-time:** Voeg afbeeldingen dynamisch samen terwijl de inhoud wordt geüpload.
+- **AI-ondersteunde Uitlijning:** Lijn JPG's uit en combineer ze voor gepolijste, on-brand presentaties.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

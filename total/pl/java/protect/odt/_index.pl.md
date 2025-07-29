@@ -76,7 +76,25 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Ochrona plików ODT za pomocą interfejsów API Javy</h2>
+Zabezpieczenie plików tekstowych ODT za pomocą interfejsów API Javy zapewnia bezpieczeństwo organizacjom korzystającym z ekosystemów open-source. Zautomatyzowane zabezpieczenie blokuje szkice, ogranicza edycje i narzuca tryb tylko do odczytu dla finalnych dokumentów.
+
+**Kluczowe przypadki użycia**
+- Kontrola dostępu do projektów politycznych.
+- Zabezpieczenie hasłem dokumentów akademickich i prawnych.
+- Narzucanie trybu tylko do odczytu na propozycje.
+
+**Scenariusze automatyzacji**
+- Zapewnienie zgodności z publikacjami akademickimi.
+- Ochrona przepływów pracy z dokumentami otwartymi.
+- Bezpieczne zarządzanie historią dokumentów.
+- Utrzymywanie integralności treści sterowanej sztuczną inteligencją.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

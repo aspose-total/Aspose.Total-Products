@@ -76,7 +76,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití:
+
+- **Fotografické archivy:** Vytváření organizovaných fotografických archivů sloučením souvisejících JPG souborů.
+- **Nahrávání zákazníků:** Kombinace obrázků nahrávaných uživateli do jednotlivých vizuálních příspěvků.
+- **Jednotné firemní zdroje:** Sloučení více JPG souborů do souvislých firemních vizuálů pro kampaně.
+
+## Scénáře automatizace:
+
+- **Hromadné sloučení JPG:** Zpracování velkého množství JPG souborů s minimálním manuálním úsilím.
+- **Kompozice v reálném čase:** Dynamické slučování obrázků při nahrávání obsahu.
+- **Asistence AI s zarovnáním:** Zarovnání a sloučení JPG souborů pro dokončené, v souladu s firemní identitou prezentace.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

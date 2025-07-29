@@ -76,7 +76,22 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principali casi d'uso</h2>
+- Limitare l'accesso alla modifica nei report confidenziali.
+- Applicare protezione con password per documenti legali.
+- Imporre la condivisione in sola lettura per le comunicazioni interne.
+
+<h2>Scenari di automazione</h2>
+- Flussi di lavoro per la conformità alle verifiche normative.
+- Controllo del ciclo di vita del documento e versionamento.
+- Protezione della privacy dei dati del modello AI.
+- Condivisione sicura dei contenuti nei sistemi aziendali.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

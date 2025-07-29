@@ -88,7 +88,26 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 POWERPOINT-bestanden zoeken met behulp van Java-API's: Ontdek Slide-inzichten</h2>
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Zoek Strategische Berichten in Uitvoerende Presentaties**: Vind kernideeën en strategische verklaringen.
+- **Identificeer Disclaimers in Compliance Presentaties**: Zorg ervoor dat juridische notities worden opgenomen waar nodig.
+- **Haal Visuele Referenties op in Marketinginhoud**: Zoek afbeeldingen, grafieken en merkelementen op.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Inhoudsontdekking**: Verbeter de toegang tot presentatie-inhoud in de hele organisatie.
+- **AI-gebaseerde Slide-classificatie**: Automatisch slides taggen op onderwerp of thema.
+- **Regelgevingsaudits**: Controleer presentaties op naleving van openbaarmakingsnormen.
+- **Kenniszoekopdracht in de hele organisatie**: Integreer presentaties in wereldwijde zoektools.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

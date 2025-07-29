@@ -75,7 +75,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用したRTFファイルの分割：柔軟なテキストコンテンツ管理</h2>
+
+Java APIを使用してRTFファイルを分割することで、組織はリッチテキストドキュメントを管理し、部分を分離してモジュール化し、多言語での公開、さらにはプラットフォーム間での簡単な再利用が可能となります。
+
+## ✅ 主なユースケース
+
+- **フォーマットされたセクション**：スタイル付きセクションを他のドキュメントで再利用するために抽出します。
+- **モジュラーコンテンツパッケージ**：大きなRTFファイルを再利用可能なコンテンツブロックに分割します。
+- **多言語分割**：多言語ドキュメントを言語固有のファイルに分割します。
+
+## ⚙️ 自動化シナリオ
+
+- **CMS統合**：分割されたRTFセクションをコンテンツ管理システムに自動インポートします。
+- **テキストコンテンツの再利用**：フォーマットされたコンテンツブロックを複数の出力でリサイクルします。
+- **モバイルアクセス**：軽量なモバイル閲覧用に小さなRTFセクションを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

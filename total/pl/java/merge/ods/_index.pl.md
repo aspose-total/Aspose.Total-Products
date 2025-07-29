@@ -75,7 +75,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików ODS (OpenDocument Spreadsheet) za pomocą interfejsów API w aplikacjach Java pomaga organizacjom efektywnie wykorzystać przepływy pracy arkuszy kalkulacyjnych typu open-source. Programowe łączenie plików ODS wspiera płynne zarządzanie danymi, analizę współpracowniczą i klarowne raportowanie.
+
+**Główne przypadki użycia:**
+- **Arkusze kalkulacyjne typu open-source:** Łączenie plików ODS z różnych działów lub zespołów.
+- **Budżetowanie:** Łączenie budżetów działów w jeden główny plik ODS.
+- **Zintegrowane pulpity nawigacyjne:** Konsolidacja danych analitycznych w zjednoczone, wielozakładowe pulpity nawigacyjne.
+
+**Scenariusze automatyzacji:**
+- **Łączenie ODS z Excel:** Łączenie plików ODS i konwersja do formatu Excel dla szerszej kompatybilności.
+- **Raporty wielozakładowe:** Automatyzacja tworzenia raportów z wieloma arkuszami.
+- **Spójność formuł AI:** Wykorzystanie sztucznej inteligencji do walidacji i standaryzacji formuł podczas łączenia.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

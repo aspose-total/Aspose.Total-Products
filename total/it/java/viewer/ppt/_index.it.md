@@ -76,7 +76,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Visualizzazione dei file PPT utilizzando le API di Java: Modernizzare le diapositive di PowerPoint legacy</h2>
+
+Le API di Java consentono la visualizzazione sicura e moderna dei file PPT legacy, consentendo alle organizzazioni di rendere le presentazioni più vecchie nei browser e nei portali client senza installare PowerPoint.
+
+## ✅ Principali casi d'uso
+
+- **Accesso alle vecchie presentazioni:** Visualizza vecchie presentazioni di vendita o formazione online.
+- **Strumenti di vendita basati sul Web:** Rendi disponibili le presentazioni ai clienti.
+- **Portali clienti:** Anteprima delle presentazioni su richiesta.
+
+## ⚙️ Scenari di automazione
+
+- **Sistemi di migrazione:** Visualizza vecchi PPT durante la trasformazione digitale.
+- **Basi di conoscenza:** Includi diapositive legacy nei wiki aziendali.
+- **Repository documenti:** Rendi disponibili i PPT insieme ad altri asset.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

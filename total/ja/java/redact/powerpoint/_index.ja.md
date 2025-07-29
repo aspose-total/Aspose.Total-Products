@@ -72,7 +72,25 @@ Powerpoint 編集アプリまたはユーティリティを開発する必要が
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してPOWERPOINTファイルを編集することで、スライドコンテンツをチームや関係者間で安全に共有できます。プログラムによる編集により、クライアントのロゴを隠したり、スピーカーノートを非表示にしたり、機密性の高いKPIをマスクできます。
+
+## ✅ 主な使用シーン
+
+- **エージェンシーデッキ:** 機密性の高いブランディングを削除または非表示にします。
+- **Webinars:** スライドを共有する前にスピーカーや内部ノートを編集します。
+- **社内プレゼンテーション:** KPIや財務データをマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **関係者プレゼンテーション:** サニタイズされたスライドを外部に共有します。
+- **トレーニングコンテンツ:** 学習教材から内部情報を削除します。
+- **IP保護:** 分散型のデッキで機密戦略を保護します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

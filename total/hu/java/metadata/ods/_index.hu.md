@@ -80,7 +80,21 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Metadata kinyerése és módosítása ODS táblázatokban API-k segítségével Java alkalmazásokban segít az szervezeteknek hatékonyan kezelni az open-source adatokat.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Nyomon követni a táblázat tulajdonjogát együttműködési környezetekben.
+- Pénzügyi vagy működési adatok kategorizálása osztályok vagy projektek szerint.
+- Támogatni a dokumentum-életciklust és a szabályozási irányelveket.
+
+**Automatizálási forgatókönyvek:**
+- Tömeges metaadat-címkézés végrehajtása ODS fájlokhoz.
+- Oszlopok és adattípusok automatikus osztályozása.
+- AI használata hiányzó metaadatok kitöltésére jobb adatkezelés érdekében.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

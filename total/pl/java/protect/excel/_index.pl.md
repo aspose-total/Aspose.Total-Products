@@ -74,7 +74,24 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Zabezpieczanie plików EXCEL za pomocą interfejsów API Javy chroni dane finansowe przed nieautoryzowanymi zmianami. Programistyczne zabezpieczenie pomaga zablokować arkusze kalkulacyjne, dodać warstwy hasła i kontrolować dostęp do poufnych informacji w ustawieniach współpracy biznesowej.
+
+**Główne przypadki użycia**
+- Zabezpieczanie arkuszy kalkulacyjnych przed edycją.
+- Zabezpieczanie hasłem dane płacowe i dotyczące wynagrodzeń.
+- Włączanie szablonów budżetowych tylko do odczytu.
+
+**Scenariusze automatyzacji**
+- Utrzymywanie śladów audytu w celu zgodności.
+- Wdrażanie ochrony danych w raportowaniu finansowym.
+- Zapewnienie prywatności w modelowaniu finansowym opartym na sztucznej inteligencji.
+- Kontrolowanie udostępniania strategicznych danych biznesowych.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

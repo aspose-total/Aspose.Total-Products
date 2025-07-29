@@ -78,7 +78,29 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>🔒 Java APIを使用してDOCXファイルにウォーターマークを適用する：文書の保護、ブランド化、および配布の制御</h2>
+
+DOCXファイルにAPIを使用してウォーターマークを適用することは、機密情報を保護し、文書の状態の可視性を強化し、ブランドアイデンティティを強化したい組織にとって重要な実践です。 「機密」、「下書き」などのテキストウォーターマークをプログラムで追加することにより、文書に明確な使用制限が付されるため、不正な再配布や独自コンテンツの誤用を抑止することができます。
+
+## ✅ 主なユースケース
+
+- **「機密」または「下書き」マークの埋め込み** — 法務、人事、または企業ファイルに目に見えるテキストウォーターマークを追加して、文書の状態と機密性を伝える。
+- **内部レポートのブランド化** — 内部レポート、取締役会プレゼンテーション、共有されたDOCXファイルに企業のロゴやブランドマークを適用する。
+- **不正な再配布の防止** — 外部で共有されるすべての独自のDOCXファイルにウォーターマークを付けることで、情報漏えいを抑止し、知的財産を保護する。
+- **コンプライアンスの確保** — コンプライアンスに敏感な文書に明確なラベルを付けて、監査や内部統制要件をサポートする。
+
+## ⚙️ 自動化シナリオ
+
+- **動的契約生成** — CRMやERPシステムによって生成された契約書や合意事項に、クライアント固有の機密通知を自動的にウォーターマークする。
+- **コンプライアンスワークフロー** — コンプライアンス文書パイプラインにウォーターマークを統合し、承認前やアーカイブ前に即座にラベリングする。
+- **承認ワークフロー** — 文書承認システムで下書きバージョンにマークを付けて、未承認コンテンツと最終リリースを区別する。
+- **学術プラットフォーム** — 研究論文、論文の下書き、または学生の提出物に不正な再利用を防ぐための盗用警告ウォーターマークを埋め込む。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

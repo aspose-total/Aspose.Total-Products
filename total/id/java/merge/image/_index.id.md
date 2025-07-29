@@ -76,7 +76,23 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menggabungkan file gambar generik menggunakan API Java memberdayakan pengembang untuk mengotomatisasi pembuatan konten melintasi berbagai format file.
+
+**Kasus Penggunaan Utama:**
+- **Teknologi Hukum:** Kompilasi bukti visual ke dalam file kasus tunggal.
+- **Platform Sosial:** Merangkai gambar yang dihasilkan pengguna untuk umpan sosial.
+- **Laporan Kaya Grafis:** Menggabungkan grafik, infografis, dan foto ke dalam laporan yang terpadu.
+
+**Skenario Otomatisasi:**
+- **Pembuatan Grid Dinamis:** Otomatisasi pembuatan grid gambar untuk presentasi.
+- **Penggabungan Format-Agnostik:** Menggabungkan format gambar campuran secara mulus.
+- **Kurasi Tata Letak AI:** Menggunakan AI untuk mendesain, menyusun, dan mengoptimalkan visual akhir.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,27 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용하여 DOTM 파일 보기: 안전한 매크로 활성화 템플릿 미리보기</h2>
+
+자바 API를 사용하면 기업은 포함된 코드를 실행하지 않고 매크로가 활성화된 워드 템플릿을 표시할 수 있습니다. 이를 통해 안전한 환경에서 템플릿을 안전하게 검토할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **법적/금융 템플릿 미리보기:** 민감한 템플릿을 안전하게 검토합니다.
+- **매크로 없는 검토:** 스크립트를 작동시키지 않고 레이아웃을 확인합니다.
+- **템플릿 공유:** 편집용 표준 DOTM 파일을 배포합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **안전한 미리보기 도구:** 인사나 법률 포털에서 DOTM 파일을 렌더링합니다.
+- **보고서 생성기:** 자동 보고서 빌더에 템플릿 미리보기를 통합합니다.
+- **승인 도구:** 경영진 승인을 위해 템플릿을 표시합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

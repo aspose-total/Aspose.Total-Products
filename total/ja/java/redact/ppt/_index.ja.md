@@ -72,7 +72,25 @@ PPT 編集アプリまたはユーティリティを開発する必要があり�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してPPTファイルを編集することで、組織はレガシースライドデッキを安全に管理できます。プログラムによる編集により、NDAで保護されたスライドを削除し、契約金額を非表示にし、内部組織図をマスクできます。
+
+## ✅ 主なユースケース
+
+- **レガシーデッキ:** コンテンツ移行中に機密スライドを削除します。
+- **調達スライド:** 共有プレゼンテーションで契約金額を非表示にします。
+- **人事ブリーフィング:** 組織図や従業員データをマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **コンテンツ移行:** レガシーファイルを現代のシステム向けに無害化します。
+- **内部レビュー:** 監査前の編集を自動化します。
+- **IP保護:** 古いリソースを共有する際に機密情報を保護します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

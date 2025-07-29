@@ -88,7 +88,28 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Mencari Berkas ODP Menggunakan Java APIs: Membuka Wawasan Presentasi</h2>
+
+Mencari berkas ODP (OpenDocument Presentation) dengan Java APIs sangat penting bagi organisasi yang mengelola aset presentasi yang luas. Pencarian otomatis membantu tim pemasaran, hukum, dan kepatuhan menemukan informasi penting yang tersembunyi dalam slide dengan efisien.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Temukan Kata Kunci Merek dalam Materi Pemasaran**: Temukan sebutan produk, slogan, dan istilah merek di seluruh slide.
+- **Dapatkan Penyangkalan Hukum di Beberapa Slide**: Pastikan pernyataan hukum ditempatkan dengan benar dan konsisten.
+- **Temukan Konten Tersembunyi dalam Presentasi yang Diarsipkan**: Temukan detail yang disematkan atau terlewatkan dalam berkas ODP yang lebih lama.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Manajemen Aset Digital**: Tingkatkan organisasi dan penggunaan ulang konten presentasi.
+- **Penemuan Konten Enterprise**: Aktifkan pencarian dalam skala besar di perpustakaan presentasi.
+- **Analisis Pitch Berbasis Kecerdasan Buatan**: Analisis materi pitch untuk konsistensi pesan dan merek.
+- **Ulasan Kepatuhan**: Otomatisasikan pemeriksaan slide untuk penyangkalan dan kepatuhan hukum.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

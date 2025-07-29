@@ -75,7 +75,25 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ DOT fájlok felosztása Java API-k segítségével: Moduláris sablonkezelés nagy méretben</h2>
+
+## ✅ Fő felhasználási esetek
+
+- **Újrafelhasználható komponensek**: Moduláris sablonelemek létrehozása egyszerű újrafelhasználás érdekében több dokumentumon keresztül.
+- **Üzleti űrlap kategóriák**: Nagy üzleti űrlapsablonok felosztása kategorizált szakaszokra gyorsabb bevezetés érdekében.
+- **Elrendezés kinyerése**: Konkrét elrendezési elemek kinyerése dinamikus vagy személyre szabott dokumentumok létrehozásához.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Sablongenerálás**: Új dokumentumok automatizált létrehozása moduláris sablonrészek összeállításával.
+- **Helyi tartalom előállítása**: Helyi dokumentumsablonok generálása újrafelhasználható elemek felosztásával és testreszabásával.
+- **Hatékony formázás újrafelhasználása**: Közös elrendezési szakaszok újrafelhasználása különböző projektekben a márkaegységesség érdekében.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

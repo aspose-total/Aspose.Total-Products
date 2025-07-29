@@ -76,7 +76,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java APIを使用してDOTXファイルを表示する：手間のかからないテンプレートの可視化</h2>
+
+## ✅ 主なユースケース
+
+- **履歴書ビルダー：** 求職者にテンプレートのプレビューを表示します。
+- **内部レイアウト：** 企業の文書用のブランド付きフォーマットをプレビューします。
+- **CMS 統合：** コンテンツチーム向けのテンプレートを表示します。
+
+## ⚙️ 自動化シナリオ
+
+- **ブラウザビューア：** オンラインでDOTXテンプレートをレンダリングします。
+- **ドキュメントアプリ：** ビジネスアプリ内でテンプレートをプレビューします。
+- **ブランド付きプレビューツール：** 標準テンプレートでブランドの一貫性を維持します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

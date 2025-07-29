@@ -74,7 +74,25 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/pdf/jav
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API-k használata PDF fájlok vörösítéséhez alapvető fontosságú a univerzálisan megosztott dokumentumok védelmében. Az automatizált vörösítés eltávolítja ügyfelek neveit, elrejti az orvosi előzményeket és maszkolja az SSN-eket adóbevallási űrlapokon nagy pontossággal.
+
+## ✅ Fő felhasználási esetek
+
+- **Szerződések:** Ügyfél részleteinek eltávolítása jogi PDF-ekből.
+- **Egészségügyi dokumentumok:** Páciensek előzményeinek vörösítése a szabályozás érdekében.
+- **Adóbevallási űrlapok:** Szociális biztonsági számok maszkolása pénzügyi beadványokban.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **GDPR/HIPAA megfelelőség:** Adatvédelmi irányelvek érvényesítése nagy volumenben.
+- **Biztonságos adatcserék:** Megosztás tisztított PDF-ekkel biztonságosan harmadik felekkel.
+- **E-Discovery:** Vörösítés automatizálása FOIA vagy peres folyamatokhoz.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

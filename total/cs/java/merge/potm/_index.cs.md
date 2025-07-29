@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Interaktivní rozložení:** Kombinujte šablonové snímky s vestavěnými makry.
+- **Školicí obsah:** Slučujte makrové šablony pro automatizované výukové moduly.
+- **Standardizované šablony:** Udržujte konzistenci v makrově řízených snímcích napříč odděleními.
+
+## Scénáře automatizace:
+- **Vložení makrových snímků:** Bezpečně vložte makrově povolené snímky.
+- **AI Branding:** Automaticky zarovnejte snímky s firemními stylovými příručkami.
+- **POTM-to-PPTM:** Slučujte a exportujte šablony do připravených k úpravě makrově povolených prezentací.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

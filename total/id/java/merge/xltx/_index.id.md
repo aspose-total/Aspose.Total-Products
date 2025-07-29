@@ -75,7 +75,21 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Penggabungan Berkas Template Excel XLTX menggunakan API dalam aplikasi Java mempermudah generasi dokumen berbasis template dalam skala besar untuk operasi bisnis.
+
+**Kasus Penggunaan Utama:**
+- **Kelompok Faktur:** Menggabungkan template XLTX untuk menghasilkan faktur pelanggan secara massal.
+- **Perencanaan Anggaran:** Menggabungkan template perencanaan untuk anggaran departemen.
+- **Format Konsisten:** Menjaga standar pelaporan yang seragam di seluruh perusahaan.
+
+**Skenario Otomatisasi:**
+- **Pabrik Dokumen:** Mengotomatisasi volume besar laporan yang disesuaikan.
+- **Pengisian Lapangan Berbasis AI:** Menggunakan kecerdasan buatan untuk mengisi lapangan secara otomatis selama penggabungan template.
+- **Generasi yang Dapat Diskalakan:** Menggabungkan dan menghasilkan laporan untuk tim yang tersebar secara global.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

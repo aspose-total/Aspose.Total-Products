@@ -74,7 +74,21 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Metaadatok kezelése az ODP prezentációs fájlokban Java alkalmazásokban API-k segítségével javítja a szervezettséget és együttműködést az open-source ökoszisztémákban.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Szervezze a diákgyűjteményeket open-source együttműködési platformokon.
+- Kövesse nyomon a revíziós előzményeket és a dia tulajdonjogát.
+- Kategorizálja a prezentációs tartalmat a vállalati tudásbázisokhoz.
+
+**Automatizálási forgatókönyvek:**
+- Szűrje a diákat metaadat mezők alapján, mint például cím és téma.
+- Kinyerje a kulcsfontosságú metaadatokat tételmenetekben.
+- Használja az AI-t az intelligens módon címkézett és osztályozott diákgyűjteményekhez.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

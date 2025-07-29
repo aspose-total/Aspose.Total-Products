@@ -74,7 +74,21 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Dostęp i zarządzanie metadanymi w plikach DOCM z makrami za pomocą interfejsów API w aplikacjach Java jest kluczowe dla bezpiecznych i zgodnych przepływów dokumentów. Poprzez programistyczne zarządzanie metadanymi DOCM, organizacje mogą zidentyfikować źródła makr, śledzić historię wersji i utrzymywać zarządzanie w procesach opartych na szablonach.
+
+**Główne przypadki użycia:**
+- Identyfikacja i weryfikacja źródeł makr w celu zapobieżenia wykonaniu nieautoryzowanego kodu.
+- Śledzenie historii wersji w celu utrzymania śladów audytowych dla zgodności.
+- Zapewnienie, że szablony z makrami są zgodne ze standardami wewnętrznego przepływu pracy.
+
+**Scenariusze automatyzacji:**
+- Automatyzacja walidacji metadanych w plikach DOCM w celu zapewnienia spójności.
+- Monitorowanie wzorców używania makr i automatyczne sygnalizowanie anomalii.
+- Wykorzystanie kategoryzacji wspomaganej sztuczną inteligencją do organizowania dynamicznych plików DOCM według typów makr, autorstwa i wersji.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

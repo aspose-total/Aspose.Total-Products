@@ -75,7 +75,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione di modelli XLTM abilitati alle macro utilizzando API in applicazioni Java
+
+Unire modelli Excel XLTM abilitati alle macro utilizzando API in applicazioni Java potenzia le operazioni avanzate di previsione, modellazione e conformità. L'automazione garantisce che le macro rimangano intatte e sicure.
+
+**Principali casi d'uso:**
+- **Workbook dinamici:** Unisci modelli di previsione o di rischio con calcoli basati su macro.
+- **Flussi di lavoro di conformità:** Combina modelli per automatizzare compiti ricorrenti di conformità.
+- **Fogli interattivi:** Preserva la logica interattiva delle macro nei workbook uniti.
+
+**Scenari di automazione:**
+- **Unione preprogrammata:** Combina modelli XLTM salvaguardando gli script.
+- **Convalida delle macro:** Assicurati che le macro vengano eseguite in modo sicuro e come previsto.
+- **Personalizzazione basata su intelligenza artificiale:** Utilizza l'IA per adattare le macro a flussi di lavoro personalizzati.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

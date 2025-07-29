@@ -75,7 +75,23 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az ODS (OpenDocument Spreadsheet) fájlok összevonása API-k segítségével Java alkalmazásokban lehetővé teszi a szervezetek számára, hogy hatékonyan kihasználják az nyílt forráskódú táblázatkezelő munkafolyamatokat. A programozott ODS összevonás támogatja az adatkezelést, a közös elemzéseket és az egyértelmű jelentéskészítést.
+
+**Kulcsfontosságú felhasználási esetek:**
+- **Nyílt forráskódú táblázatkezelők:** Vegye össze az ODS fájlokat különböző osztályokból vagy csapatokból.
+- **Költségvetés:** Vonja össze az osztályok költségvetéseit egyetlen, fő ODS fájlba.
+- **Integrált irányítópultok:** Egyesítse az elemzési adatokat egységes, több lapos irányítópultokba.
+
+**Automatizálási forgatókönyvek:**
+- **ODS-Excel összevonás:** Vonja össze az ODS fájlokat és alakítsa át Excel formátumba szélesebb kompatibilitás érdekében.
+- **Több lapos jelentések:** Automatizálja a jelentések létrehozását több lappal.
+- **AI formulák egyezősége:** Használja az AI-t a formulák ellenőrzésére és szabványosítására az összevonás során.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Applicare filigrane ai file ODP utilizzando le API Java rafforza la sicurezza della presentazione, garantisce il branding e comunica lo stato del contenuto. L'automazione delle filigrane nelle diapositive ODP aiuta a controllare la distribuzione e i rischi di plagio.
+
+## ✅ Principali casi d'uso
+
+- **Incorporare tag "Confidenziale"** — Contrassegnare le diapositive aziendali come riservate.
+- **Marchiare le presentazioni** — Aggiungere loghi alle presentazioni per i clienti.
+- **Prevenire il plagio** — Scoraggiare la copia delle diapositive accademiche.
+
+## ⚙️ Scenari di automazione
+
+- **Piattaforme didattiche LMS** — Applicare automaticamente filigrane alle presentazioni dei corsi.
+- **Sistemi di presentazione per investitori** — Inserire etichette nelle presentazioni per gli investitori.
+- **Editori collaborativi** — Aggiungere segni di bozza negli ambienti di modifica in tempo reale.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

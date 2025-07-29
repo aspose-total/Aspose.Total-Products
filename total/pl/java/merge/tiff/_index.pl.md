@@ -76,7 +76,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików TIFF za pomocą interfejsów API w języku Java wspiera dokładne przepływy dokumentów i obrazów w branżach prawnej, medycznej i inżynieryjnej.
+
+**Główne przypadki użycia:**
+- **Dokumenty wielostronicowe:** Łączenie wielu zeskanowanych stron w pojedynczy plik TIFF.
+- **Archiwa planów:** Cyfrowe łączenie rysunków inżynieryjnych do celów archiwalnych.
+- **Zbiory obrazów:** Łączenie wysokorozdzielczych plików TIFF do celów badawczych i analiz.
+
+**Scenariusze automatyzacji:**
+- **Kolejność stron:** Automatyzacja poprawnej kolejności stron w plikach TIFF wielostronicowych.
+- **Łączenie z uwzględnieniem kompresji:** Optymalizacja rozmiaru pliku bez utraty szczegółów.
+- **Przetwarzanie wstępne AI:** Zastosowanie filtrów AI do redukcji szumów i poprawy klarowności.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

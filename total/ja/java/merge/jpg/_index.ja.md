@@ -76,7 +76,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **写真アーカイブ:** 関連するJPGをマージして整理された写真アーカイブを構築します。
+- **顧客アップロード:** ユーザーがアップロードした画像を1つのビジュアル投稿に結合します。
+- **統一されたブランド資産:** キャンペーン向けに複数のJPGを統合して一貫したブランドビジュアルを作成します。
+
+## 自動化シナリオ:
+- **大量のJPGのマージ:** 手作業を最小限に抑えて大量のJPGを統合します。
+- **リアルタイム構成:** コンテンツがアップロードされるときに画像を動的にマージします。
+- **AI支援の整列:** 磨かれた、ブランドに準拠したプレゼンテーションのためにJPGを整列および結合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

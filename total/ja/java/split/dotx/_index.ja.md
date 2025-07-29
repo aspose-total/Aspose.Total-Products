@@ -75,7 +75,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してDOTXファイルを分割する：テンプレートの柔軟性と再利用性を向上させる</h2>
+
+## ✅ 主なユースケース
+
+- **ブランドコンポーネント**：ロゴ、ヘッダー、フッターのセクションに包括的なテンプレートを分割して柔軟なブランディングを実現します。
+- **ローカライゼーション**：複数言語のドキュメント作成のためにローカルコンテンツを分割します。
+- **レイアウトの再利用**：ヘッダーやフッターなどのセクションを複数のテンプレートで再利用して一貫性を保ちます。
+
+## ⚙️ 自動化シナリオ
+
+- **テンプレートのカスタマイズ**：セクションを組み合わせて新しいブランドテンプレートの作成を自動化します。
+- **動的ドキュメントのレンダリング**：異なるビジネスユニット向けにカスタムレイアウトを即座に組み立てます。
+- **バージョン管理**：信頼性のある更新のためにバージョン管理されたコンポーネントを複数のテンプレートに適用します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

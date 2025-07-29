@@ -72,7 +72,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików PPTX za pomocą interfejsów API Javy zapewnia, że nowoczesne prezentacje są wolne od wycieków poufnych danych. Zautomatyzowane cenzurowanie usuwa dane osobowe, ukrywa analizę konkurencji i maskuje identyfikatory klientów.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Prezentacje szkoleniowe:** Cenzurowanie danych pracowników lub uczestników.
+- **Prezentacje sprzedażowe:** Ukrywanie wrażliwych informacji konkurencyjnych lub cenowych.
+- **Studia przypadków:** Usuwanie nazw klientów przed publikacją.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Przeglądy zgodności:** Automatyzacja kontroli treści i cenzurowania.
+- **Udostępnianie partnerom:** Dystrybucja jedynie zdezynfekowanych prezentacji.
+- **Ochrona własności intelektualnej:** Zabezpieczanie wiedzy własnej, gdy slajdy są udostępniane zewnętrznie.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

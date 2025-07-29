@@ -75,7 +75,27 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ División de archivos ODT utilizando APIs de Java: Entrega modular de documentos de código abierto</h2>
+
+Dividir archivos ODT con APIs de Java permite a los equipos desglosar documentos de código abierto grandes para una gestión, personalización y compartición más sencillas. Esto respalda la publicación dinámica y mejora el acceso móvil.
+
+## ✅ Casos de uso clave
+
+- **Manuales Modulares**: Dividir manuales extensos en archivos ODT más pequeños específicos para roles.
+- **Aislamiento de Políticas**: Separar las políticas de la empresa por departamento o región.
+- **Salidas Dirigidas**: Generar versiones específicas a partir de un ODT maestro.
+
+## ⚙️ Escenarios de automatización
+
+- **Personalización de Documentos**: Automatizar la generación de archivos ODT específicos para usuarios.
+- **Integración de Sistemas de Gestión de Documentos de Código Abierto**: Integrar archivos divididos en sistemas de gestión de documentos.
+- **Publicación Amigable para Dispositivos Móviles**: Entregar archivos ODT más pequeños y relevantes para un acceso sobre la marcha.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/cells/java/syst
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Nyckelanvändningsfall:
+- **Fakturapartier:** Sammanfoga XLTX-mallar för att producera kundfakturor i stor skala.
+- **Budgetplanering:** Kombinera planeringsmallar för avdelningsbudgetering.
+- **Konsekventa format:** Bibehåll enhetliga rapporteringsstandarder över hela företaget.
+
+## Automatiseringsscenario:
+- **Dokumentfabriker:** Automatisera stora volymer anpassade rapporter.
+- **AI-drivna fältifyllningar:** Använd AI för att automatiskt fylla i fält under sammanfogning av mallar.
+- **Skalbar generering:** Sammanfoga och generera rapporter för distribuerade team globalt.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

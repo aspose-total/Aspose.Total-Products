@@ -80,7 +80,23 @@ ODS 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODS 스프레드시트에서 API를 사용하여 메타데이터를 추출하고 수정함으로써 Java 애플리케이션에서 기관이 오픈 소스 데이터 자산을 효과적으로 관리할 수 있습니다.
+
+**주요 사용 사례:**
+- 협업 환경에서 스프레드시트 소유권 추적.
+- 부서 또는 프로젝트별로 재무 또는 운영 데이터 분류.
+- 문서 수명주기 및 규정 준수 정책 지원.
+
+**자동화 시나리오:**
+- ODS 파일에 대한 일괄 메타데이터 태깅 수행.
+- 열과 데이터 유형을 자동으로 분류.
+- 누락된 메타데이터를 AI를 사용하여 채워 데이터 거버넌스를 개선.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

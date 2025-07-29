@@ -74,7 +74,21 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/pdf/jav
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## A PDF fájlok metaadatainak kezelése API-k segítségével Java alkalmazásokban növeli a felfedezhetőséget, osztályozást és megfelelést a digitális archívumokban.
+
+**Kulcsfontosságú felhasználási esetek:**  
+- Növelje a felfedezhetőséget nyilvános vagy privát dokumentumtárakban.  
+- Érvényesítse az osztályozási szabályokat jogi vagy szabályozott archívumokban.  
+- Ágyazza be a megfelelőségi információkat közvetlenül a PDF-ekbe.
+
+**Automatizálási forgatókönyvek:**  
+- Cím, tárgy és kulcsszó címkézésének automatizálása.  
+- Metaadatok batch szerkesztése a következetesség fenntartása érdekében.  
+- AI használata a PDF-ek címkézéséhez szabályozási és ellenőrzési munkafolyamatokhoz.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,25 @@ Para obtener más información, consulte [Documentación del producto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> ✂️ División de archivos XLSX utilizando APIs de Java: Gestión ágil de datos de hojas de cálculo</h2>
+
+Dividir archivos XLSX utilizando APIs de Java agiliza el manejo de hojas de cálculo modernas al dividirlas en partes enfocadas para una mejor generación de informes, personalización y acceso móvil.
+
+## ✅ Casos de uso clave
+
+- **Hojas de rendimiento**: Aislar métricas de rendimiento para equipos o clientes.
+- **Paneles financieros**: Dividir paneles complejos para departamentos específicos.
+- **Hojas de cálculo específicas del equipo**: Generar archivos XLSX personalizados para unidades o regiones.
+
+## ⚙️ Escenarios de automatización
+
+- **Generación de informes de análisis**: Automatizar exportaciones divididas para inteligencia empresarial.
+- **Exportaciones de datos personalizadas**: Entregar segmentos de hojas de cálculo dirigidos a las partes interesadas.
+- **Optimización de paneles móviles**: Servir archivos XLSX ligeros para paneles móviles.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

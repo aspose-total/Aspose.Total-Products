@@ -71,7 +71,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Rozdělování souborů XLSX pomocí Java API: Agilní správa dat v tabulkách</h2>
+
+## ✅ Klíčové použití případy
+
+- **Výkonnostní tabulky**: Izolujte výkonnostní metriky pro týmy nebo klienty.
+- **Finanční dashboardy**: Rozdělte složité dashboardy pro konkrétní oddělení.
+- **Tabulky specifické pro tým**: Generujte přizpůsobené soubory XLSX pro jednotky nebo regiony.
+
+## ⚙️ Scénáře automatizace
+
+- **Analytické reporty**: Automatizujte rozdělení exportů pro obchodní inteligenci.
+- **Personalizované exporty dat**: Dodávejte cílené části tabulek zainteresovaným stranám.
+- **Optimalizace mobilních dashboardů**: Poskytujte lehké soubory XLSX pro mobilní dashboardy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

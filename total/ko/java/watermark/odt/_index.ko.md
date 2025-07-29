@@ -78,7 +78,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 ODT 파일에 워터마크를 적용하는 것은 초안을 효과적으로 관리하고 규정 준수 문서를 안전하게 보호하며 사용 제한 사항을 전달하는 데 중요합니다. 자동 워터마킹을 통해 내부 사용 레이블이나 초고 표시가 일관되게 적용됩니다.
+
+## ✅ 주요 사용 사례
+
+- **법적 초고 표시** — 법적이거나 정책 문서의 초고 버전을 명확하게 표시합니다.
+- **내부 스탬프 적용** — 작업 문서에 "내부 사용 전용" 워터마크를 추가합니다.
+- **추적성 보장** — 문서 버전을 추적하기 위해 시각적인 표시를 사용합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **규정 준수 도구** — 규정 준수 문서 작업 흐름에 워터마킹을 통합합니다.
+- **오픈 소스 CMS** — 콘텐츠 관리 작업 흐름에서 워터마킹을 자동화합니다.
+- **학술 배포** — 안전한 리뷰 공유를 위해 학술 초고에 워터마크를 적용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

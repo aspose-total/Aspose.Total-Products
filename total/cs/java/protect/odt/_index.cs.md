@@ -76,7 +76,20 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy
+- Kontrola přístupu k návrhům politiky.
+- Zabezpečení heslem akademických a právních dokumentů.
+- Vynucení režimu pouze pro čtení u návrhů.
+
+## Scénáře automatizace
+- Zajistit dodržování pravidel akademického vydávání.
+- Zabezpečení toku otevřených dokumentů.
+- Bezpečné spravování historie dokumentů.
+- Udržení integrity obsahu řízeného umělou inteligencí.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigir arquivos ODS (OpenDocument Spreadsheet) usando APIs Java é vital para organizações que lidam com dados de planilhas de código aberto. A redação programática mascara salários, remove detalhes médicos e oculta preços de fornecedores em planilhas de compras.
+
+## ✅ Principais Casos de Uso
+
+- **Relatórios de Salários:** Ocultar detalhes de pagamento em divulgações de dados abertos.
+- **Registros Médicos:** Remover dados de saúde para conformidade com pesquisas.
+- **Planilhas de Compras:** Ocultar preços de fornecedores em orçamentos compartilhados.
+
+## ⚙️ Cenários de Automação
+
+- **Publicação de Dados Abertos:** Saneamento de dados para divulgação pública.
+- **Conformidade com Pesquisas:** Cumprir leis de privacidade para conjuntos de dados publicados.
+- **Compartilhamento Interno:** Distribuir planilhas sem expor informações confidenciais.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+
+- **Αναφορές Μισθών:** Απόκρυψη λεπτομερειών πληρωμών σε ανοιχτές δημοσιεύσεις δεδομένων.
+- **Ιατρικά Αρχεία:** Αφαίρεση δεδομένων υγείας για συμμόρφωση με τους κανονισμούς έρευνας.
+- **Φύλλα Προμηθειών:** Απόκρυψη τιμολογίων προμηθευτών σε κοινόχρηστα προϋπολογιστικά.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+
+- **Δημοσίευση Ανοιχτών Δεδομένων:** Απολυμαίνετε τα δεδομένα για δημόσια δημοσίευση.
+- **Συμμόρφωση Έρευνας:** Πληροίτε τους νόμους προστασίας προσωπικών δεδομένων για δημοσιευμένα σύνολα δεδομένων.
+- **Εσωτερική Διαμοιρασμός:** Διανέμετε φύλλα εργασίας χωρίς να αποκαλύπτετε εμπιστευτικές πληροφορίες.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 DOT 템플릿 파일의 메타데이터를 관리하면 레거시 템플릿 라이브러리에서 일관성과 제어가 보장됩니다. 조직은 사용 내역을 추적하고 규정 준수를 위해 속성을 조정하며 템플릿 네이밍 규칙을 구조화할 수 있습니다.
+
+**주요 사용 사례:**
+- 레거시 시스템에서 템플릿의 관련성을 유지하기 위해 사용 내역 추적
+- 규정 요구 사항에 맞게 템플릿 속성 조정
+- DOT 파일 라이브러리 전체에 걸쳐 구조화된 네이밍 강제
+
+**자동화 시나리오:**
+- 규정 준수 확인을 위한 템플릿 메타데이터의 일괄 감사 자동화
+- 메타데이터 속성에 기반하여 템플릿 필터링 및 구성
+- 인공지능 적용을 통한 레거시 DOT 파일의 지능적인 분류 및 업데이트
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

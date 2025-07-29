@@ -80,7 +80,23 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het extraheren en aanpassen van metadata in ODS-spreadsheets met behulp van API's in Java-toepassingen helpt organisaties om open-source data effectief te beheren.
+
+**Belangrijkste Gebruiksscenario's:**
+- Bijhouden van spreadsheeteigendom in samenwerkingsomgevingen.
+- Categoriseren van financiële of operationele gegevens per afdeling of project.
+- Ondersteunen van documentlevenscyclus en nalevingsbeleid.
+
+**Automatiseringsscenario's:**
+- Batch-metadata tagging uitvoeren voor ODS-bestanden.
+- Kolommen en gegevenstypen automatisch classificeren.
+- AI gebruiken om ontbrekende metadata in te vullen voor beter gegevensbeheer.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

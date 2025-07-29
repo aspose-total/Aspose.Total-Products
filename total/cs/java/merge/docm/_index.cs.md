@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Slučování souborů DOCM s makry pomocí Java API zajišťuje bezpečnou a konzistentní automatizaci pro složité dokumentační potřeby. Programové slučování souborů DOCM pomáhá udržovat integritu maker a zároveň zjednodušuje pracovní postupy.
+
+**Klíčové použití:**
+- **Dokumentace o shodě:** Slučujte více souborů DOCM pro vytvoření balíčků připravených k auditu.
+- **Šablony maker:** Slučujte opakovaně použitelné šablony maker pro konzistentní automatizaci.
+- **Auditní zprávy:** Kombinujte zprávy založené na makrech pro sjednocené auditní podání.
+
+**Scénáře automatizace:**
+- **Bezpečné slučování maker:** Ověřujte a udržujte funkčnost maker během slučování.
+- **Správa verzí:** Automatizujte sledování verzí při slučování různých souborů DOCM.
+- **Detekce obsahu maker:** Použijte umělou inteligenci k detekci, čištění a optimalizaci skriptů maker ve slučovaných souborech.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

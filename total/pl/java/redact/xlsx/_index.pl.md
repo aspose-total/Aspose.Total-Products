@@ -74,7 +74,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zacienianie plików XLSX za pomocą interfejsów API Javy chroni nowoczesne treści arkuszy kalkulacyjnych zawierające poufne informacje biznesowe. Programowe zacienianie usuwa metryki wydajności, maskuje identyfikatory pracowników i ukrywa koszty dostawców.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Pulpity nawigacyjne:** Zacienianie poufnych KPI.
+- **Arkusze płac:** Maskowanie identyfikatorów pracowników i danych płacowych.
+- **Modele zamówień:** Ukrywanie cen dostawców w celu bezpiecznego udostępniania.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Zgodność w czasie rzeczywistym:** Wdrażanie zasad prywatności w czasie rzeczywistym.
+- **Gotowość do audytu:** Automatyzacja zacieniania przed audytami zewnętrznymi.
+- **Współpraca w chmurze:** Bezpieczne udostępnianie arkuszy kalkulacyjnych w zespołach.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

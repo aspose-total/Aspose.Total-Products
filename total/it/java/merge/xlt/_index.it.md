@@ -75,7 +75,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione dei file modello XLT di Excel utilizzando API nelle applicazioni Java
+
+L'unione dei file modello XLT di Excel utilizzando API nelle applicazioni Java semplifica la creazione di report standardizzati tra i team. L'automazione garantisce layout e branding consistenti per compiti ripetibili.
+
+**Principali casi d'uso:**
+- **Modelli Dipartimentali:** Unire i modelli del team in una versione principale.
+- **Report Standardizzati:** Automatizzare la generazione di report con uno stile coerente.
+- **Conformità al Brand:** Applicare il branding aziendale a tutti i modelli di Excel.
+
+**Scenari di automazione:**
+- **Conversione da XLT a XLS:** Unire i modelli e generare i workbook compilati.
+- **Report Pre-compilati:** Popolare i modelli uniti con dati dinamici.
+- **Monitoraggio dell'Utilizzo dell'IA:** Sfruttare l'IA per monitorare l'utilizzo dei modelli e suggerire miglioramenti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

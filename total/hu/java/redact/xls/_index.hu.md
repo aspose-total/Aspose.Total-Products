@@ -74,7 +74,25 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API-k segítségével történő XLS fájlok vörösítése megvédi a történelmi érzékeny információkat tartalmazó örökség táblázatokat. Az automatizált vörösítés elrejti az régi bérleteket, kiszűri az ügyfélrekordokat és maszkolja az elavult költségvetési adatokat.
+
+## ✅ Fő felhasználási esetek
+
+- **Bérlapok:** Távolítsa el a fizetési részleteket az archivált fájlokból.
+- **Ügyfélrekordok:** Rejtse el az örökség ügyféladatait a megőrzési szabályoknak megfelelően.
+- **Költségvetési adatok:** Maszkolja az régi előrejelzéseket vagy érzékeny számokat.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Megőrzési irányelvek:** Tisztítsa meg a fájlokat az archiválás vagy megsemmisítés érdekében.
+- **Biztonságos digitalizálás:** Vörösítse ki a fájlokat mielőtt áthelyezné őket modern rendszerekbe.
+- **Történelmi védelem:** Tartsa biztonságban és megfelelően a történelmi pénzügyi adatkészleteket.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

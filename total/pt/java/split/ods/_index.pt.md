@@ -71,7 +71,27 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividindo Arquivos ODS Usando APIs Java: Gerenciamento de Dados de Código Aberto Eficiente</h2>
+
+Dividir arquivos ODS usando APIs Java simplifica o manuseio de planilhas de código aberto, permitindo acesso modular aos dados e relatórios. Isso suporta fluxos de trabalho de BI, compartilhamento escalável e melhor desempenho.
+
+## ✅ Principais Casos de Uso
+
+- **Financeiro Regional**: Divida grandes planilhas financeiras em arquivos ODS específicos por região.
+- **Guias Individuais**: Extraia planilhas específicas para compartilhamento ou análise autônomos.
+- **Relatórios Estatísticos**: Isolar dados estatísticos para relatórios direcionados.
+
+## ⚙️ Cenários de Automação
+
+- **Pipelines de BI de Código Aberto**: Automatize a extração de dados para fluxos de trabalho de BI e análise.
+- **Compartilhamento Modular de Dados**: Compartilhe apenas partes relevantes das planilhas com partes interessadas.
+- **Otimização de Desempenho**: Sirva arquivos ODS menores para tempos de carregamento mais rápidos em aplicativos e ferramentas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

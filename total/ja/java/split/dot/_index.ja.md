@@ -75,7 +75,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用したDOTファイルの分割：スケーラブルなモジュラーテンプレート管理</h2>
+
+## ✅ 主なユースケース
+
+- **再利用可能なコンポーネント**：モジュール化されたテンプレート要素を複数のドキュメントで簡単に再利用します。
+- **ビジネスフォームのカテゴリ**：大規模なビジネスフォームテンプレートをカテゴリ別のセクションに分割して、迅速な展開を実現します。
+- **レイアウトの抽出**：特定のレイアウト要素を抽出して、動的またはパーソナライズされたドキュメントを作成します。
+
+## ⚙️ 自動化シナリオ
+
+- **テンプレート生成**：モジュール化されたテンプレート部品を組み立てて新しいドキュメントの作成を自動化します。
+- **ローカライズされたコンテンツ制作**：再利用可能な要素を分割してカスタマイズすることで、ローカライズされたドキュメントテンプレートを生成します。
+- **効率的なフォーマットの再利用**：異なるプロジェクト間で共通のレイアウトセクションを再利用して、ブランドの一貫性を確保します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Mengelola Metadata dalam File PDF menggunakan API dalam Aplikasi Java meningkatkan kemampuan menemukan, mengklasifikasikan, dan mematuhi dalam arsip digital.
+
+**Kasus Penggunaan Utama:**
+- Meningkatkan kemampuan menemukan dalam perpustakaan dokumen publik atau pribadi.
+- Menegakkan aturan klasifikasi dalam arsip hukum atau yang diatur.
+- Menanamkan informasi kepatuhan langsung dalam PDF.
+
+**Skenario Otomatisasi:**
+- Mengotomatisasi penambahan judul, subjek, dan penandaan kata kunci.
+- Mengedit metadata secara massal untuk menjaga konsistensi.
+- Menggunakan kecerdasan buatan untuk memberi label PDF untuk alur kerja regulasi dan audit.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

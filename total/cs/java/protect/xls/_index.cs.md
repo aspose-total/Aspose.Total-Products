@@ -74,7 +74,22 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Klíčové použití</h2>
+- Omezit manipulaci s finančními daty.
+- Uzamknout citlivé obchodní modely.
+- Vynutit pouze prohlížení dashboardů.
+
+<h2>Automatizační scénáře</h2>
+- Dodržování předpisů a auditních stop.
+- Uchování historických finančních záznamů.
+- Ochrana projekcí řízených umělou inteligencí.
+- Zabezpečení obchodní inteligence.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -88,7 +88,26 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Wyszukiwanie plików POWERPOINT za pomocą interfejsów API Javy: Odkrywanie informacji o slajdach</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Zlokalizuj strategiczne przesłanie w prezentacjach wykonawczych**: Znajdź główne pomysły i strategiczne oświadczenia.
+- **Zidentyfikuj oświadczenia o wyłączeniu odpowiedzialności w prezentacjach zgodności**: Upewnij się, że notatki prawne są dołączone tam, gdzie są potrzebne.
+- **Pobierz odniesienia wizualne w treściach marketingowych**: Zlokalizuj obrazy, wykresy i elementy identyfikacji wizualnej.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Odkrywanie treści**: Popraw dostęp do treści prezentacji w całej firmie.
+- **Klasyfikacja slajdów oparta na sztucznej inteligencji**: Automatyczne tagowanie slajdów według tematu lub motywu.
+- **Audyty regulacyjne**: Zweryfikuj prezentacje pod kątem zgodności z normami dotyczącymi ujawnień.
+- **Wyszukiwanie wiedzy w całej firmie**: Zintegruj prezentacje z globalnymi narzędziami wyszukiwania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

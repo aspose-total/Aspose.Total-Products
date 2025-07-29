@@ -74,7 +74,25 @@ Excel 編集アプリまたはユーティリティを開発する必要があ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+JavaアプリケーションでAPIを使用してEXCELファイルを編集することは、部門間で機密のスプレッドシートデータを保護するために不可欠です。プログラムによる編集は、給与明細を削除し、予算予測を非表示にし、共有ダッシュボードでの機密分析をマスクします。
+
+## ✅ 主なユースケース
+
+- **給与データ:** HRスプレッドシート内の給与やボーナス情報を非表示にします。
+- **予算予測:** 共有レポートから将来の予算数字を削除します。
+- **分析ダッシュボード:** ビジネスインテリジェンスファイル内の特定のクライアントデータをマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **GDPR/CCPAコンプライアンス:** プライバシー法の遵守のために編集を自動化します。
+- **セキュアレポーティング:** 内部および外部での共有中に機密情報を保護します。
+- **AIデータ準備:** 安全なモデルトレーニングや分析のためにスプレッドシートを匿名化します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,31 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ Java APIを使用してDOC署名を追加および検証する：レガシーWordドキュメントの認証</h2>
+
+DOCファイルで署名を追加または検証することは、レガシーWordドキュメント、法的メモ、署名済みレポートの信頼性を維持するために不可欠です。この機能により、組織は安全な文書ワークフローの強制、コンプライアンスの保護、および人事または法的監査の効率化を支援します。
+
+## ✅ 主要なユースケース
+
+- **信頼性と信憑性のために法的メモを認証**します。
+- **ガバナンスと監査のために署名済みレポートを検証**します。
+- レガシーWordファイルに**署名ポリシーを適用**します。
+- 検証可能な署名で**公式声明を保護**します。
+- **機密文書セットでバージョン管理**を維持します。
+
+## ⚙️ 自動化シナリオ
+
+- プログラムによってDOC署名を検証することで**監査トレイルを作成**します。
+- 検証済みの署名者と**安全な文書共有**を可能にします。
+- レガシーアーカイブで**デジタルコンプライアンスを自動化**します。
+- 古い文書形式全体で**HRポリシーの検証**を適用します。
+- DOCベースの契約で**法的承認フローを強制**します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

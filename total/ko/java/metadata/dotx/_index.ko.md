@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+API를 사용하여 Java 애플리케이션에서 DOTX 템플릿의 메타데이터에 액세스하고 편집하면 버전 관리, 비즈니스 부서와의 일치, 정책 준수를 유지하는 데 도움이 됩니다.
+
+**주요 사용 사례:**
+- 팀 및 부서 전체에 걸쳐 템플릿의 버전을 강제 적용합니다.
+- 비즈니스 부서 또는 부서에 따라 템플릿을 분류합니다.
+- 메타데이터 일관성을 보장하여 규정 준수를 지원합니다.
+
+**자동화 시나리오:**
+- 템플릿을 생성하거나 업데이트할 때 메타데이터 주입을 자동화합니다.
+- 프로그래밍 방식으로 템플릿을 분류하고 구성합니다.
+- AI 기반 메타데이터 추적을 통해 전체 템플릿 수명주기를 관리합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

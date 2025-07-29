@@ -72,7 +72,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file ODP (OpenDocument Presentation) con API Java garantisce che i contenuti delle presentazioni riservate rimangano protetti. La redazione automatizzata aiuta a nascondere mappe strategiche, a redigere nomi nelle diapositive HR e a rimuovere dati competitivi nelle presentazioni agli investitori.
+
+## ✅ Principali casi d'uso
+
+- **Mappe aziendali:** Nascondere piani strategici nelle presentazioni condivise.
+- **Presentazioni HR:** Rimuovere nomi dei dipendenti o dati personali identificativi dalle diapositive.
+- **Presentazioni agli investitori:** Redigere dati competitivi o finanziari sensibili.
+
+## ⚙️ Scenari di automazione
+
+- **Presentazioni riservate per investitori:** Sanitizzare le presentazioni per gli stakeholder esterni.
+- **Materiale formativo:** Automatizzare la redazione per una condivisione interna sicura della conoscenza.
+- **Conformità normativa:** Rispettare gli standard di privacy della comunicazione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

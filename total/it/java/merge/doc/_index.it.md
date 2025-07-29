@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unione di file DOC legacy utilizzando API in applicazioni Java è cruciale per le organizzazioni che modernizzano i loro flussi di lavoro documentali. L'unione automatizzata dei DOC semplifica il consolidamento dei vecchi file Word, garantendo coerenza e prontezza per i nuovi formati.
+
+**Principali casi d'uso:**
+- **Report archiviati:** Unire più report DOC archiviati in file unificati per una più facile archiviazione e recupero.
+- **Documenti legali:** Consolidare fascicoli, contratti e accordi in documenti DOC completi.
+- **Aggiornamenti di formato:** Unire file DOC prima di convertirli in DOCX per semplificare la trasformazione digitale.
+
+**Scenario di automazione:**
+- **Unione di documenti in blocco:** Elaborare migliaia di file DOC legacy in blocco.
+- **Aggiornamenti da DOC a DOCX:** Automatizzare l'unione e la conversione di formato contemporaneamente.
+- **Consolidamento basato su intelligenza artificiale:** Utilizzare l'IA per rilevare sezioni duplicate, riassumere i contenuti e ottimizzare i documenti uniti nei flussi di lavoro dei DMS.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

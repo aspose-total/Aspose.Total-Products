@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików PPSM z obsługą makr za pomocą interfejsów API w aplikacjach Java umożliwia tworzenie zaawansowanych, interaktywnych prezentacji ze zachowanymi akcjami osadzonymi.
+
+**Główne przypadki użycia:**
+- **Prezentacje handlowe:** Łączenie interaktywnych prezentacji dla demonstracji produktów.
+- **Automatyczne przewodniki:** Łączenie prezentacji z makrami dla wyzwalaczy.
+- **Prezentacje w pętli:** Tworzenie prezentacji, które powtarzają się z osadzonymi makrami dla kiosków.
+
+**Scenariusze automatyzacji:**
+- **Łączenie logiki makr:** Bezpieczne łączenie skryptów makr między plikami.
+- **Walidacja wykonania:** Automatyzacja testów w celu zapewnienia stabilności makr.
+- **Koordynacja zachowań AI:** Wykorzystanie sztucznej inteligencji do zsynchronizowania działań wizualnych i makr. 
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+JavaアプリケーションでAPIを使用してDOCファイルを編集することは、レガシーのWord文書に保存されている機密情報を保護するために重要です。プログラムによる編集により、組織は法的な草案からクライアントデータを削除し、アーカイブされたファイル内の内部メモを非表示にし、コンプライアンス記録内の口座番号を手動で編集することなくマスクすることができます。
+
+## ✅ 主なユースケース
+
+- **法的草案:** レガシーの契約書や契約書内の機密クライアント情報を削除します。
+- **内部メモ:** 古い内部文書内の機密ノートを非表示にします。
+- **コンプライアンス記録:** 規制された文書内の口座詳細をセキュアな保存のためにマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **文書の清算:** セキュアな移行や保持のために一括編集を自動化します。
+- **歴史的アーカイブ:** アーカイブされたDOCファイルが現代のプライバシー基準を満たしていることを確認します。
+- **訴訟および監査:** 発見や規制審査中に機密情報を保護します。
+
+JavaのAPIを活用して、DOCファイルを効率的に編集し、データプライバシーを維持し、レガシードキュメントのコンプライアンスを確保します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

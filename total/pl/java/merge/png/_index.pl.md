@@ -76,7 +76,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików PNG za pomocą interfejsów API w Javie jest idealne do zadań związanych z projektowaniem, rozwojem i dokumentacją, gdzie potrzebne są grafiki z przezroczystością.
+
+**Główne przypadki użycia:**
+- **Nakładanie elementów projektowych:** Łączenie przezroczystych plików PNG w kreatywnych narzędziach projektowych.
+- **Montaż elementów interfejsu użytkownika:** Łączenie ikon, przycisków i innych elementów interfejsu użytkownika.
+- **Zrzuty ekranu produktu:** Kompilowanie wielu zrzutów ekranu do instrukcji obsługi i pomocy online.
+
+**Scenariusze automatyzacji:**
+- **Zachowanie kanału alfa:** Zachowanie przezroczystości podczas łączenia.
+- **Generowanie złożonych obrazów:** Automatyzacja warstwowych kompozycji PNG.
+- **Renderowanie układu AI:** Wykorzystanie sztucznej inteligencji do automatycznego rozmieszczania elementów w układach o idealnej rozdzielczości pikseli.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

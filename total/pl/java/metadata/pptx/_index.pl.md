@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Wydobywanie i zarządzanie metadanymi w plikach PPTX za pomocą interfejsów API w aplikacjach Java wzmacnia zarządzanie treścią i możliwości wyszukiwania dla nowoczesnych zasobów prezentacji.
+
+**Główne przypadki użycia:**
+- Identyfikowanie autorów i współautorów projektów prezentacyjnych.
+- Otagowanie pokazów slajdów według działu, kampanii lub tematu.
+- Poprawa możliwości odnalezienia w repozytoriach treści i bazach wiedzy.
+
+**Scenariusze automatyzacji:**
+- Wzbogacanie metadanych dla asystentów AI i inteligentnego wyszukiwania.
+- Śledzenie etapów cyklu życia prezentacji za pomocą aktualizacji metadanych.
+- Automatyzacja czyszczenia i tagowania na dużą skalę w bibliotekach slajdów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

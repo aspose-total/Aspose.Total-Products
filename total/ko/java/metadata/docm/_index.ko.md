@@ -74,7 +74,19 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 주요 사용 사례:
+- 미인증 코드 실행을 방지하기 위해 매크로 소스를 식별하고 확인합니다.
+- 규정 준수를 위해 감사 추적을 유지하기 위해 버전 이력을 추적합니다.
+- 내부 워크플로 표준과 일치하는 매크로가 포함된 템플릿을 보장합니다.
+
+## 자동화 시나리오:
+- 일관성을 보장하기 위해 DOCM 파일 전체에서 메타데이터 유효성을 자동화합니다.
+- 매크로 사용 패턴을 모니터링하고 이상 현상을 자동으로 식별합니다.
+- AI 지원 분류를 사용하여 동적 DOCM 파일을 매크로 유형, 작성자 및 버전에 따라 정리합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

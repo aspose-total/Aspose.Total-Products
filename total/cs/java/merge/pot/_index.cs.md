@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Zastaralé šablony:** Sloučení starých šablon pro udržení kontinuity během aktualizací.
+- **Opakovatelné struktury:** Kombinace standardních rozložení snímků pro konzistentní prezentace.
+- **Aktualizace firemního vizuálu:** Obnovení starých šablon tak, aby odpovídaly současnému firemnímu stylu.
+
+## Scénáře automatizace:
+- **Sloučení POT do PPTX:** Sloučení a převod šablon pro moderní použití.
+- **Konverze formátu pomocí AI:** Použití umělé inteligence k aktualizaci stylů a formátování.
+- **Integrace rozložení:** Automatizace konzistentního firemního stylu ve sloučených šablonách snímků.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

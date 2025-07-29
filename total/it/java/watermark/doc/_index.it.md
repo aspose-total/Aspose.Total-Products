@@ -78,7 +78,25 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Applicare filigrane ai file DOC utilizzando le API Java aiuta le organizzazioni a proteggere la riservatezza dei documenti, rafforzare il marchio e controllare lo stato della versione. L'inserimento automatico delle filigrane garantisce che i segni o i loghi "Confidenziale" appaiano in modo coerente, aiutando i team a gestire la visibilità e l'integrità dei documenti.
+
+#### ✅ Principali casi d'uso
+
+- **Contrassegna come "Confidenziale"** — Etichetta i file DOC interni per limitarne la distribuzione.
+- **Identità visiva del marchio** — Applica i loghi aziendali a report e memo.
+- **Indica lo stato di bozza** — Utilizza le filigrane per mostrare che i documenti sono in fase di revisione.
+
+#### ⚙️ Scenari di automazione
+
+- **Motori di flusso di lavoro dei documenti** — Applica automaticamente le filigrane ai file DOC durante la generazione e l'approvazione.
+- **Processi di approvazione delle risorse umane** — Incorpora etichette di stato nei documenti delle risorse umane per la revisione interna.
+- **Controllo delle versioni legali** — Contrassegna chiaramente le versioni di bozza per la collaborazione legale.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

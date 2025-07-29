@@ -76,7 +76,27 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Przeglądanie plików DOTX za pomocą interfejsów API Javy: łatwa wizualizacja szablonów</h2>
+
+Przeglądanie plików DOTX za pomocą interfejsów API Javy ułatwia użytkownikom podgląd nowoczesnych szablonów Word w kreatorach opartych na stronie internetowej oraz w markowych systemach dokumentów.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Kreatorzy CV:** Pokazuj podgląd szablonów dla poszukujących pracy.
+- **Wewnętrzne układy:** Podgląd formatów firmowych dla listów firmowych.
+- **Integracja CMS:** Wyświetlanie szablonów dla zespołów treści.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Przeglądarki internetowe:** Renderowanie szablonów DOTX online.
+- **Aplikacje dokumentów:** Podgląd szablonów wewnątrz aplikacji biznesowych.
+- **Narzędzia podglądu marki:** Utrzymywanie spójności marki za pomocą standardowych szablonów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

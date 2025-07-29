@@ -78,7 +78,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+JavaのAPIを使用してDOCファイルに透かしを適用することで、組織は文書の機密性を保護し、ブランドを強化し、バージョンの状態を制御できます。透かしの挿入を自動化することで、「機密」というマークやロゴが一貫して表示されるため、チームは文書の可視性と整合性を管理できます。
+
+## ✅ 主なユースケース
+
+- **「機密」としてマーク** — 内部DOCファイルにラベルを付けて配布を制限します。
+- **ビジュアルブランドアイデンティティ** — レポートやメモに企業のロゴを適用します。
+- **下書き状態を示す** — 文書がレビュー中であることを示すために透かしを使用します。
+
+## ⚙️ 自動化シナリオ
+
+- **文書ワークフローエンジン** — 生成および承認中にDOCファイルに自動的に透かしを入れます。
+- **人事承認プロセス** — 内部レビュー用に人事文書にステータスラベルを埋め込みます。
+- **法的バージョン管理** — 法的協力のために下書きバージョンを明確にマークします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

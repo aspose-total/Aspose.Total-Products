@@ -72,7 +72,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików ODP (OpenDocument Presentation) za pomocą interfejsów API Javy zapewnia ochronę poufnej zawartości prezentacji. Zautomatyzowane cenzurowanie pomaga ukryć strategiczne mapy drogowe, ocenzurować nazwiska w slajdach HR i usunąć konkurencyjne dane w prezentacjach dla inwestorów.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Mapy drogowe biznesu:** Ukryj strategiczne plany w udostępnionych prezentacjach.
+- **Prezentacje HR:** Usuń nazwiska pracowników lub dane PII ze slajdów.
+- **Prezentacje dla inwestorów:** Ocenzuruj wrażliwe konkurencyjne lub finansowe dane.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Prywatne dekielki prezentacyjne:** Oczyszczaj prezentacje dla zewnętrznych interesariuszy.
+- **Materiały szkoleniowe:** Zautomatyzuj cenzurowanie dla bezpiecznego wewnętrznego udostępniania wiedzy.
+- **Zgodność z przepisami regulacyjnymi:** Spełniaj standardy prywatności komunikacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

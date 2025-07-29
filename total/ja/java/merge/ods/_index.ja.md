@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **オープンソースのスプレッドシート:** 異なる部署やチームからのODSファイルを結合します。
+- **予算編成:** 部門の予算を1つのマスターODSファイルに統合します。
+- **統合ダッシュボード:** 分析データを統一された複数タブのダッシュボードにまとめます。
+
+## 自動化シナリオ:
+- **ODSからExcelへのマージ:** ODSファイルをマージして、より広範な互換性のあるExcelファイルに変換します。
+- **複数タブのレポート:** 複数のシートを持つレポートの作成を自動化します。
+- **AIによる数式の一貫性:** マージ中に数式を検証および標準化するためにAIを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

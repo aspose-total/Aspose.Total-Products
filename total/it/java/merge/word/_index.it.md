@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione di documenti Microsoft Word utilizzando API nelle applicazioni Java
+
+L'unione di documenti Microsoft Word utilizzando API nelle applicazioni Java migliora i flussi di lavoro dei documenti in diversi settori. L'unione automatica di Word aumenta la produttività, mantiene il branding e semplifica la gestione dei contenuti su larga scala.
+
+**Principali casi d'uso:**
+- **Report per clienti:** Unire più report in un unico file Word ben strutturato.
+- **Cartelle dei casi:** Unire documenti legali o assicurativi per registri unificati.
+- **Contenuti con marchio:** Automatizzare la creazione di proposte commerciali, politiche o contratti aziendali con un branding coerente.
+
+**Scenari di automazione:**
+- **Generazione dinamica:** Generare documenti dinamicamente unendo più file Word.
+- **Pulizia dei metadati:** Rimuovere i metadati obsoleti durante il processo di unione.
+- **Ristrutturazione delle sezioni tramite intelligenza artificiale:** Utilizzare l'IA per riorganizzare e formattare le sezioni per chiarezza e conformità.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

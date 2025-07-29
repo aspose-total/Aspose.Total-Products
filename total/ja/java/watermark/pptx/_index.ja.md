@@ -75,7 +75,21 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用ケース
+
+- **下書きステータスの適用** — プレゼンテーションに「下書き」や「レビュー用」のマークを追加します。
+- **プレゼンテーションの流れを保護** — スライドを不正使用から保護するために目に見える透かしを挿入します。
+- **ブランドのテンプレート** — 企業ロゴをマスタースライドテンプレートに埋め込みます。
+
+## ⚙️ 自動化シナリオ
+
+- **エンタープライズコンテンツ管理** — 安全な共有のためにスライドに自動的に透かしを入れます。
+- **トレーニング資料の生成** — トレーニングデッキにブランドを埋め込みます。
+- **提案ワークフロー** — クライアント固有の使用のために営業プレゼンテーションにマークを付けます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dzielenie plików XLSX za pomocą interfejsów Java: Elastyczne zarządzanie danymi arkusza kalkulacyjnego</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Arkusze wydajności**: Izolowanie metryk wydajności dla zespołów lub klientów.
+- **Dashbordy finansowe**: Dzielenie złożonych pulpitów dla konkretnych działów.
+- **Arkusze specyficzne dla zespołu**: Generowanie spersonalizowanych plików XLSX dla jednostek lub regionów.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Raportowanie analityczne**: Automatyzacja eksportu podzielonych danych dla inteligencji biznesowej.
+- **Spersonalizowane eksporty danych**: Dostarczanie ukierunkowanych fragmentów arkusza kalkulacyjnego interesariuszom.
+- **Optymalizacja mobilnego pulpitu**: Dostarczanie lekkich plików XLSX dla mobilnych pulpitów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

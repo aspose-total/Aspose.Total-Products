@@ -76,7 +76,27 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualização de Arquivos DOTX Usando APIs Java: Visualização de Modelos sem Esforço</h2>
+
+Visualizar arquivos DOTX por meio de APIs Java facilita para os usuários visualizarem modelos modernos do Word em construtores baseados na web e sistemas de documentos personalizados.
+
+## ✅ Principais Casos de Uso
+
+- **Construtores de Currículos:** Mostrar pré-visualizações de modelos para candidatos a emprego.
+- **Layouts Internos:** Pré-visualizar formatos personalizados para cartas da empresa.
+- **Integração de CMS:** Exibir modelos para equipes de conteúdo.
+
+## ⚙️ Cenários de Automação
+
+- **Visualizadores de Navegador:** Renderizar modelos DOTX online.
+- **Aplicativos de Documentos:** Pré-visualizar modelos dentro de aplicativos empresariais.
+- **Ferramentas de Pré-visualização Personalizadas:** Manter a consistência da marca com modelos padrão.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

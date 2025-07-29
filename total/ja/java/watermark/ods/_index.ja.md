@@ -71,7 +71,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してODSファイルにウォーターマークを適用することは、オープンなスプレッドシートデータの保護、機密性の強調、ブランドの可視性向上に重要な役割を果たします。ウォーターマークを自動化することで、すべてのODSファイルで一貫した保護とブランディングが確保されます。
+
+## ✅ 主なユースケース
+
+- **スプレッドシートデータの保護** — 機密情報を含むスプレッドシートにプライバシー通知を追加します。
+- **統計レポートのブランド化** — 組織のデータシートにロゴを埋め込みます。
+- **コンテンツの制限** — 制限されたまたは機密の使用を示すためにスプレッドシートにマークを付けます。
+
+## ⚙️ 自動化シナリオ
+
+- **オープンソースのビジネスアプリ** — ビジネスソフトウェアで生成されたファイルに自動的にウォーターマークを追加します。
+- **学術データレポート** — 共有する前に研究や統計レポートにウォーターマークを追加します。
+- **内部ナレッジベース** — 内部配布用に使用されるODSシートにラベルを付けます。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

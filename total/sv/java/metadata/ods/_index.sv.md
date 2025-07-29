@@ -80,7 +80,21 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/cells/java/syst
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Extrahera och modifiera metadata i ODS-kalkylblad med hjälp av API:er i Java-applikationer hjälper organisationer att effektivt hantera öppna dataresurser.
+
+**Nyckelanvändningsfall:**
+- Spåra kalkylbladsägande i samarbetsmiljöer.
+- Kategorisera ekonomisk eller operationell data efter avdelning eller projekt.
+- Stödja dokumentlivscykeln och efterlevnadspolicyer.
+
+**Automatiseringsscenario:**
+- Utför satsvis metadata-tagging för ODS-filer.
+- Klassificera kolumner och datatyper automatiskt.
+- Använd AI för att fylla i saknad metadata för bättre dataskydd.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

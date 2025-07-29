@@ -76,7 +76,24 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Bescherming van ODT-bestanden met Java-API's beveiligt open document tekstbestanden voor organisaties die open-source ecosystemen gebruiken. Geautomatiseerde bescherming vergrendelt concepten, beperkt bewerkingen en dwingt alleen-lezen modi af voor definitieve documenten.
+
+**Belangrijkste Gebruiksscenario's**
+- Beheer toegang tot beleidsconcepten.
+- Beveilig academische en juridische documenten met een wachtwoord.
+- Dwang alleen-lezen op voorstellen af.
+
+**Automatiseringsscenario's**
+- Zorg voor naleving van academische publicaties.
+- Bescherm open document workflows.
+- Beheer documentgeschiedenis veilig.
+- Behoud de integriteit van door AI aangestuurde inhoud.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

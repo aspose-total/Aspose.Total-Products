@@ -74,7 +74,18 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Obchodní prezentace:** Sloučení více prezentací do jedné profesionální prezentace.
+- **Prezentační materiály:** Konsolidace zpráv a snímků pro plynulá setkání.
+
+## Automatizační scénáře:
+- **Odstranění duplicitních snímků:** Automatické odstranění duplicitních snímků.
+- **Standardizace designu:** Použití konzistentních šablon a témat.
+- **AI vyprávění:** Použití AI k doladění toku vyprávění a zdůraznění klíčových zpráv.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

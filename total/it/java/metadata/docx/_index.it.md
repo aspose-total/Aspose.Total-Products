@@ -74,7 +74,21 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Estrarre e gestire i metadati dei file DOCX utilizzando le API nelle applicazioni Java migliora l'integrità, la rintracciabilità e la conformità dei documenti. La gestione programmatica dei metadati supporta la classificazione dei documenti, il tracciamento dell'autore e l'indicizzazione intelligente.
+
+**Principali casi d'uso:**
+- Classificare i documenti nei sistemi di contenuti aziendali per autore, tipo o dipartimento.
+- Tracciare l'autore e la cronologia delle revisioni per archivi legali o accademici.
+- Abilitare l'indicizzazione intelligente per la ricerca utilizzando campi di metadati personalizzati.
+
+**Scenari di automazione:**
+- Automatizzare l'etichettatura di conformità per grandi volumi di file DOCX.
+- Eseguire la pulizia dei metadati in batch per rimuovere proprietà obsolete o ridondanti.
+- Utilizzare la categorizzazione basata sull'IA per arricchire i documenti con metadati basati sul contenuto e sulle proprietà personalizzate.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

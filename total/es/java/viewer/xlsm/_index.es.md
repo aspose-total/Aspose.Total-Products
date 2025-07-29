@@ -77,7 +77,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualización de archivos XLSM utilizando APIs de Java: Vistas seguras de hojas de cálculo habilitadas para macros</h2>
+
+Las APIs de Java permiten la visualización segura de archivos XLSM, lo que permite a los usuarios inspeccionar hojas de cálculo habilitadas para macros sin ejecutar código incrustado.
+
+## ✅ Casos de uso clave
+
+- **Herramientas de Riesgo y Auditoría:** Revisar hojas de cálculo habilitadas para macros de forma segura.
+- **Paneles de IT:** Inspeccionar archivos XLSM dinámicos.
+- **Aplicaciones Financieras:** Ver hojas de cálculo sensibles sin ejecutar macros.
+
+## ⚙️ Escenarios de Automatización
+
+- **Gestión de Riesgos:** Automatizar revisiones de hojas de cálculo con macros.
+- **Seguimiento de Procesos:** Mostrar XLSM en aplicaciones empresariales.
+- **Plataformas Financieras:** Vista previa segura de hojas XLSM.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

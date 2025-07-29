@@ -76,7 +76,21 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- **Documentos de varias páginas:** Combinar varias páginas escaneadas en un solo archivo TIFF.
+- **Archivos de planos:** Unir digitalmente dibujos de ingeniería para archivo.
+- **Conjuntos de imágenes:** Fusionar TIFF de alta resolución para investigación y análisis.
+
+## Escenarios de automatización:
+
+- **Secuenciación de páginas:** Automatizar el orden correcto de las páginas en archivos TIFF de varias páginas.
+- **Fusión con compresión consciente:** Optimizar el tamaño del archivo sin perder detalles.
+- **Preprocesamiento de IA:** Aplicar filtros de IA para reducción de ruido y claridad.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

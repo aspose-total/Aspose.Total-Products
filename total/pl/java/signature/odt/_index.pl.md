@@ -72,7 +72,31 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ Dodawanie i weryfikowanie podpisów ODT za pomocą interfejsów API Javy: Uwierzytelnianie dokumentów open-source</h2>
+
+Dodawanie lub weryfikowanie podpisów w plikach ODT za pomocą interfejsów API Javy jest kluczowe dla podpisywania dokumentów open-source, walidacji oficjalnych wniosków i uwierzytelniania wspólnych szkiców. Programowe zarządzanie podpisami wspiera zatwierdzenia rządowe, zgodność akademicką i bezpieczne publikowanie.
+
+## ✅ Główne przypadki użycia
+
+- **Podpisywanie dokumentów open-source** dla autentyczności.
+- **Walidacja wniosków o dotację** za pomocą podpisów cyfrowych.
+- **Uwierzytelnianie zgłoszeń akademickich** dla integralności.
+- **Ochrona dokumentacji instytucjonalnej** przed manipulacją.
+- **Wymuszanie zgodności ze standardami** w otwartej publikacji.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Automatyzacja procesów zatwierdzania rządowego** za pomocą podpisów ODT.
+- **Zabezpieczanie przepływów dokumentów instytucjonalnych** programowo.
+- **Umożliwianie publikowania zgodnego ze standardami** z weryfikowanymi plikami.
+- **Śledzenie zmian wersji** poprzez sprawdzanie podpisów.
+- **Usprawnianie procesu zatwierdzania dokumentów wielu autorów**.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików ODS (OpenDocument Spreadsheet) za pomocą interfejsów API Javy jest kluczowe dla organizacji zajmujących się danymi arkuszy kalkulacyjnych typu open-source. Programowe zacienianie maskuje wynagrodzenia, usuwa szczegóły medyczne i ukrywa ceny dostawców w arkuszach zamówień.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Raporty płac:** Ukryj szczegóły płac w publikacjach danych otwartych.
+- **Dokumentacja medyczna:** Usuń dane zdrowotne zgodnie z przepisami dotyczącymi badań.
+- **Arkusze zamówień:** Ukryj ceny dostawców w udostępnionych budżetach.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Publikowanie danych otwartych:** Oczyszczanie danych przed publikacją.
+- **Zgodność z przepisami dotyczącymi badań:** Spełnianie przepisów dotyczących prywatności w opublikowanych zbiorach danych.
+- **Wewnętrzne udostępnianie:** Dystrybucja arkuszy kalkulacyjnych bez ujawniania poufnych informacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

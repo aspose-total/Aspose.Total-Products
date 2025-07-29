@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití:
+
+- **Obchodní dopisy:** Generování šablon dopisů sloučením souborů OTT pro personální oddělení, prodej nebo komunikaci s klienty.
+- **Opakovaně použitelné bloky obsahu:** Kombinace standardních sekcí do hlavních šablon pro smlouvy, nabídky nebo politiky.
+- **Standardizace pracovního postupu:** Zajištění konzistentního značení a formátování ve všech dokumentech vytvořených ze šablon.
+
+## Scénáře automatizace:
+
+- **Transformace OTT na ODT:** Sloučení šablon a jejich převod na editovatelné dokumenty ODT.
+- **Konsolidace šablon:** Automatizace sloučení více souborů OTT do sjednocených hlavních šablon.
+- **Naplnění polí pomocí AI:** Použití umělé inteligence k automatickému vyplnění šablon dynamickými daty pro personalizovanou generaci dokumentů.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

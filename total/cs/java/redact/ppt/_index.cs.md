@@ -72,7 +72,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redakce souborů PPT pomocí Java API pomáhá organizacím spravovat staré prezentace bezpečně. Programová redakce odstraňuje snímky chráněné NDA, skrývá hodnoty smluv a maskuje interní organizační struktury.
+
+## ✅ Klíčové použití
+
+- **Staré prezentace:** Odstraňte citlivé snímky během migrace obsahu.
+- **Prezentační snímky:** Skryjte částky ve smlouvách v sdílených prezentacích.
+- **HR prezentace:** Maskujte organizační struktury nebo údaje zaměstnanců.
+
+## ⚙️ Scénáře automatizace
+
+- **Migrace obsahu:** Sankcionujte staré soubory pro moderní systémy.
+- **Interní recenze:** Automatizujte redakci před audity.
+- **Ochrana duševního vlastnictví:** Chrání důvěrné informace při sdílení starých zdrojů.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

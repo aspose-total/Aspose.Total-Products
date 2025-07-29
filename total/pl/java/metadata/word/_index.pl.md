@@ -74,7 +74,21 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Zarządzanie metadanymi w dokumentach programu Microsoft Word za pomocą interfejsów API w aplikacjach Java zapewnia standaryzację treści, zgodność i efektywne zarządzanie cyklem życia dokumentu.
+
+**Główne przypadki użycia:**  
+- Wprowadzanie standardów obowiązujących w całej firmie za pomocą spójnych struktur metadanych.  
+- Poprawa indeksowania wyszukiwania i kategoryzacji w platformach DMS.  
+- Wsparcie audytów zgodności poprzez weryfikowalne autorstwo i wersjonowanie.
+
+**Scenariusze automatyzacji:**  
+- Automatyczne mapowanie pól metadanych w tysiącach plików programu Word.  
+- Otagowanie dokumentów kategoriami, działami lub projektami.  
+- Wykorzystanie sztucznej inteligencji do segmentacji dużych archiwów programu Word według autorstwa, tematu lub właściwości.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

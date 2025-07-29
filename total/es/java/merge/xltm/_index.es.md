@@ -75,7 +75,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- **Libros de trabajo dinámicos:** Fusionar modelos de pronóstico o riesgo con cálculos impulsados por macros.
+- **Flujos de trabajo de cumplimiento:** Combinar plantillas para automatizar tareas de cumplimiento recurrentes.
+- **Hojas interactivas:** Preservar la lógica macro interactiva en los libros de trabajo fusionados.
+
+## Escenarios de automatización:
+
+- **Fusión preprogramada:** Combinar plantillas XLTM mientras se protegen los scripts.
+- **Validación de macros:** Asegurar que las macros se ejecuten de forma segura y según lo previsto.
+- **Personalización impulsada por IA:** Utilizar IA para ajustar macros para flujos de trabajo personalizados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

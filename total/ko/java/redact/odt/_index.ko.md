@@ -75,7 +75,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODT (OpenDocument Text) 파일을 Java API를 통해 편집하면 오픈 포맷 문서의 민감한 텍스트를 보호할 수 있습니다. 자동으로 텍스트를 마스킹하여 개인 식별자를 제거하고 피드백을 숨기며 정부 양식의 민감한 세부 정보를 가리는 것이 가능합니다.
+
+## ✅ 주요 사용 사례
+
+- **학술 논문:** 발표된 연구에서 학생 또는 저자의 개인 식별 정보를 제거합니다.
+- **기밀 리뷰:** 공유된 초안에서 내부 피드백을 숨깁니다.
+- **정부 양식:** 규정 준수를 위해 민감한 시민 데이터를 가리는 것이 가능합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **데이터 프라이버시 법:** GDPR 및 유사한 규정을 위해 자동으로 텍스트를 마스킹합니다.
+- **고발자 보호:** 민감한 폭로를 안전하게 관리합니다.
+- **공공 부문 협업:** 살균 처리된 ODT 파일을 안전하게 배포합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

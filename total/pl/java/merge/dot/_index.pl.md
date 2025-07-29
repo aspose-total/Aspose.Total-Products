@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików DOT za pomocą interfejsów API Javy umożliwia zmodernizowanie zarządzania szablonami w organizacjach. Programowe łączenie plików DOT wspiera spójne branding, ponowne wykorzystywanie układów i standaryzację szablonów.
+
+**Główne przypadki użycia:**
+- **Szablony z przeszłości:** Łączenie starych szablonów DOT w jednolite szablony główne.
+- **Układy departamentów:** Zapewnienie spójnego formatowania w dokumentach departamentalnych.
+- **Zawartość do ponownego wykorzystania:** Zmodernizowanie sekcji do ponownego wykorzystania poprzez łączenie plików DOT dla łatwego wyjścia DOCX.
+
+**Scenariusze automatyzacji:**
+- **Łączenie DOT-to-DOCX:** Automatyzacja konwersji podczas łączenia szablonów z przeszłości.
+- **Zbiorcze składanie szablonów:** Konsolidacja wielu szablonów w pojedynczy plik główny.
+- **Standaryzacja z pomocą AI:** Wykorzystanie sztucznej inteligencji do wykrywania niezgodności i dostosowywania układów do zgodności z marką.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

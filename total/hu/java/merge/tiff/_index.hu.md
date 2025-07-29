@@ -76,7 +76,23 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Merging TIFF files with Java APIs támogatja a magas hűségű dokumentum- és képmunkafolyamatokat a jogi, orvosi és mérnöki iparágakban.</h2>
+
+**Kulcsfontosságú felhasználási esetek:**
+- **Többlapos dokumentumok:** Több szkennelt oldal egyesítése egyetlen TIFF fájlba.
+- **Tervrajz archívumok:** Mérnöki rajzok digitális összeillesztése archiváláshoz.
+- **Képadatbázisok:** Nagy felbontású TIFF-ek összeillesztése kutatáshoz és elemzéshez.
+
+**Automatizálási forgatókönyvek:**
+- **Oldalsorrend:** Az automatikus helyes oldalsorrend a többlapos TIFF-ekben.
+- **Tömörítés-érzékeny egyesítés:** Fájlméret optimalizálása részletek elvesztése nélkül.
+- **AI előfeldolgozás:** AI szűrők alkalmazása zajcsökkentéshez és tisztasághoz.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+JavaのAPIを使用してWORDファイルにウォーターマークを適用することで、組織はコンテンツを保護し、ステータスを示し、ブランドを強化することができます。プログラムによるウォーターマーキングは、下書きを識別したり、レポートをプライベートにしたり、ブランド要素を含めたりするのが簡単になります。
+
+## ✅ 主なユースケース
+
+- **下書きの識別** — 作業コピーに「下書き」や「レビュー用」とラベルを付けます。
+- **ブランドコミュニケーション** — 社内のWORDファイルに企業ロゴを埋め込みます。
+- **プライベートレポートのマーク** — 機密文書には明確に機密ステータスを表示します。
+
+## ⚙️ 自動化シナリオ
+
+- **契約自動化ツール** — 生成された契約に自動的にウォーターマークを追加します。
+- **コンプライアンスパイプライン** — 規制提出用にレポートにマークを付けます。
+- **パブリッシングシステム** — 公開されたレポートに一貫したウォーターマークを適用します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

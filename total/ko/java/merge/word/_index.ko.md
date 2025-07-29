@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java 애플리케이션에서 API를 사용하여 Microsoft Word 문서를 병합하면 산업 전반에 걸쳐 문서 워크플로우가 개선됩니다. 자동화된 Word 병합은 생산성을 향상시키고 브랜딩을 유지하며 대규모로 콘텐츠 관리를 간소화합니다.
+
+**주요 사용 사례:**
+- **고객 보고서:** 여러 보고서를 하나의 정돈된 Word 파일로 병합합니다.
+- **사건 파일:** 통합 레코드를 위해 법적이거나 보험 문서를 병합합니다.
+- **브랜드 콘텐츠:** 일관된 브랜딩으로 비즈니스 제안서, 정책 또는 계약을 자동화합니다.
+
+**자동화 시나리오:**
+- **동적 생성:** 여러 Word 파일을 병합하여 동적으로 문서를 생성합니다.
+- **메타데이터 정리:** 병합 프로세스 중에 오래된 메타데이터를 제거합니다.
+- **AI 섹션 재구성:** AI를 사용하여 섹션을 재배치하고 명확성과 규정 준수를 위해 서식을 지정합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

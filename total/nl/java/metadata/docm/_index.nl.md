@@ -74,7 +74,28 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Toegang tot en beheer van metadata in macro-enabled DOCM-bestanden met behulp van API's in Java-toepassingen</h2>
+<p>Het is essentieel voor veilige en conforme documentworkflows. Door DOCM-metadata programmatisch te verwerken, kunnen organisaties macrobronnen identificeren, versiegeschiedenis bijhouden en governance handhaven in op sjablonen gebaseerde processen.</p>
+
+<h2>Kerngebruiksscenario's:</h2>
+<ul>
+<li>Identificeer en verifieer macrobronnen om ongeautoriseerde code-uitvoering te voorkomen.</li>
+<li>Houd versiegeschiedenis bij om audittrails voor compliance te handhaven.</li>
+<li>Zorg ervoor dat sjablonen met macro's in lijn zijn met interne workflowstandaarden.</li>
+</ul>
+
+<h2>Automatiseringsscenario's:</h2>
+<ul>
+<li>Automatiseer metagegevensvalidatie over DOCM-bestanden om consistentie te waarborgen.</li>
+<li>Volg automatisch macrogebruikspatronen en markeer afwijkingen.</li>
+<li>Gebruik AI-ondersteunde categorisatie om dynamische DOCM-bestanden te organiseren op basis van macrotypen, auteurschap en versie.</li>
+</ul>
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

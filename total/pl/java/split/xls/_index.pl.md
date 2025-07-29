@@ -71,7 +71,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dzielenie plików XLS za pomocą interfejsów Java: Zmodernizuj obsługę starych arkuszy kalkulacyjnych</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Roczne rekordy**: Wyodrębnij dane z poszczególnych lat z dużych plików XLS.
+- **Dzienniki biznesowe**: Rozdziel dzienniki aktywności biznesowej na modułowe pliki.
+- **Dane w starym formacie**: Przygotuj stare arkusze kalkulacyjne do integracji z nowoczesnymi systemami.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Migracja z systemów legacy**: Podziel i zmodernizuj stare pliki XLS dla nowych systemów.
+- **Przetwarzanie plików Excel**: Zautomatyzuj wyodrębnianie danych do raportowania.
+- **Integracja z narzędziami mobilnymi**: Dostarcz mniejsze pliki XLS dla lekkich narzędzi mobilnych.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

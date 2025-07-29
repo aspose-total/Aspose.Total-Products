@@ -76,7 +76,23 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mesclar arquivos PNG com APIs Java é ideal para tarefas de design, desenvolvimento e documentação onde gráficos transparentes são necessários.
+
+**Principais Casos de Uso:**
+- **Sobreposição de Elementos de Design:** Combine PNGs transparentes em ferramentas de design criativo.
+- **Montagem de Componentes de UI:** Mesclar ícones, botões e outros elementos de UI.
+- **Capturas de Tela de Produtos:** Compilar várias capturas de tela para manuais e ajuda online.
+
+**Cenários de Automação:**
+- **Preservação do Canal Alfa:** Manter a transparência ao mesclar.
+- **Geração de Imagem Composta:** Automatizar composições PNG em camadas.
+- **Renderização de Layout de IA:** Use IA para organizar automaticamente elementos em layouts perfeitos em pixels.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

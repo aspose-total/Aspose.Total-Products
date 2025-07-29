@@ -80,7 +80,21 @@ ODS メタデータ管理アプリまたはユーティリティを開発する�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ODSスプレッドシートでAPIを使用してメタデータを抽出および変更することは、Javaアプリケーションを使用して組織がオープンソースデータ資産を効果的に管理するのに役立ちます。
+
+**主なユースケース:**
+- 共同作業環境でスプレッドシートの所有権を追跡します。
+- 財務データや運用データを部署やプロジェクト別に分類します。
+- 文書ライフサイクルおよびコンプライアンスポリシーをサポートします。
+
+**自動化シナリオ:**
+- ODSファイルのバッチメタデータタグ付けを実行します。
+- カラムとデータタイプを自動的に分類します。
+- AIを使用して欠落しているメタデータを補完し、データガバナンスを向上させます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

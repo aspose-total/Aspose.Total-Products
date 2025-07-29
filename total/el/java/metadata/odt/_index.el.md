@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης:</h2>  
+- Κατηγοριοποίηση ακαδημαϊκών εργασιών και ερευνητικών αναφορών με βάση τα μεταδεδομένα.  
+- Αποδοχή προέλευσης για τη διατήρηση της ακαδημαϊκής ακεραιότητας.  
+- Οργάνωση πολύγλωσσων εγγράφων για παγκόσμια συνεργασία.
+
+<h2>Σενάρια Αυτοματισμού:</h2>  
+- Εξαγωγή μεταδεδομένων σε μεγάλη κλίμακα από μεγάλες βιβλιοθήκες ODT.  
+- Ταξινόμηση εγγράφων ανά συγγραφέα ή θέμα.  
+- Χρήση τεχνητής νοημοσύνης για τη συστηματοποίηση και ετικετοποίηση αρχείων ODT για εύκολη αναζήτηση.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

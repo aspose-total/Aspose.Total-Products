@@ -74,7 +74,19 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- Organizace právních textových dokumentů podle metadatových atributů.
+- Sledování autorství a historie úprav v lékařských nebo klinických dokumentech.
+- Podpora vyhledávání řízeného metadaty v lehkých archívech.
+
+## Scénáře automatizace:
+- Extrahovat vlastnosti RTF ve velkém měřítku s minimálním manuálním úsilím.
+- Prohledat staré RTF archivy po skrytých nebo chybějících metadatech.
+- Použít umělou inteligenci k automatickému označování souborů RTF na základě obsahu a metadat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

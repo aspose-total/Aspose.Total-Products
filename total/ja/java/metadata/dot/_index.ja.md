@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- レガシーシステムでテンプレートの関連性を維持するために使用履歴を追跡する。
+- テンプレートのプロパティを規制要件に合わせる。
+- 大規模なDOTファイルライブラリ全体で構造化された命名を強制する。
+
+## 自動化シナリオ:
+- コンプライアンスチェックのためにテンプレートメタデータのバッチ監査を自動化する。
+- メタデータプロパティに基づいてテンプレートをフィルタリングおよび整理する。
+- AIを適用してレガシーDOTファイルを知的に分類および更新する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

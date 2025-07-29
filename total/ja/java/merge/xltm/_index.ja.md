@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **動的ワークブック:** 予測やリスクモデルをマクロ駆動の計算と統合します。
+- **コンプライアンスワークフロー:** テンプレートを組み合わせて繰り返しのコンプライアンスタスクを自動化します。
+- **インタラクティブシート:** 統合されたワークブックでインタラクティブなマクロロジックを維持します。
+
+## 自動化シナリオ:
+- **事前プログラムされたマージ:** スクリプトを保護しながらXLTMテンプレートを結合します。
+- **マクロの検証:** マクロが安全に実行され、意図どおりに動作することを確認します。
+- **AIによるカスタマイゼーション:** AIを使用して、個人向けのワークフローにマクロを調整します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

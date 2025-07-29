@@ -74,7 +74,19 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kulcsfontosságú felhasználási esetek:
+- Nyomon követni a használati előzményeket a sablonok relevanciájának fenntartása érdekében az örökölt rendszerekben.
+- Igazítani a sablon tulajdonságait a szabályozási követelményekhez.
+- Szabályozott névstruktúra érvényesítése a kiterjedt DOT fájlkönyvtárakban.
+
+## Automatizálási forgatókönyvek:
+- Sablon metaadatainak tömeges ellenőrzésének automatizálása a szabályozási ellenőrzések érdekében.
+- Szűrni és szervezni a sablonokat a metaadat tulajdonságok alapján.
+- Mesterséges intelligenciát alkalmazni az örökölt DOT fájlok osztályozására és frissítésére.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

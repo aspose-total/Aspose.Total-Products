@@ -74,7 +74,21 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cosa chiave:
+
+- **Modelli complessi:** Combinare più modelli basati su macro in un unico master pronto per il flusso di lavoro.
+- **Moduli interattivi:** Consolidare moduli che si basano su macro per l'automazione dell'input dell'utente.
+- **Revisioni di conformità:** Revisionare e unire modelli automatizzati per il rispetto delle normative.
+
+## Scenari di automazione:
+
+- **Convalida delle macro:** Convalidare gli script delle macro durante la fusione per un utilizzo sicuro del modello.
+- **Integrazione sicura del modello:** Evitare conflitti di macro quando si combinano più file DOTM.
+- **Rilevamento di pattern AI:** Utilizzare l'IA per identificare logiche ripetitive e ottimizzare le strutture delle macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/imaging/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků na soubory JPEG pomocí Java API zabrání neoprávněnému opětovnému použití, chrání autorská práva a zvyšuje povědomí o značce. Automatizace tohoto procesu zajistí, že každý soubor JPEG nese jasnou vlastnickou identifikaci nebo omezení použití.
+
+## ✅ Klíčové použití
+
+- **Zabraňte opětovnému použití** — Přidejte autorský text k obrázkům ve vysoké kvalitě ve formátu JPEG.
+- **Použití prohlášení** — Vložte licenční oznámení na sdílené obrázky ve formátu JPEG.
+- **Značkové portfolio** — Vložte loga do fotografií v portfoliu.
+
+## ⚙️ Scénáře automatizace
+
+- **Platformy pro sdílení fotografií** — Přidejte vodoznaky do souborů JPEG před nahráním uživatelem.
+- **Burzy s fotografiemi** — Označujte fotografie ze stockových fotobank poskytovatelskými informacemi.
+- **Inzerce nemovitostí** — Přidejte značku k fotografiím v inzerci nemovitostí.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

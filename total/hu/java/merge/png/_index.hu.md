@@ -76,7 +76,21 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Kulcsfontosságú felhasználási esetek:</h2>
+- **Átfedő tervezési elemek:** Kombinálja az átlátszó PNG-ket kreatív tervezőeszközökben.
+- **UI összetevő összeállítás:** Összefűzi az ikonokat, gombokat és más UI elemeket.
+- **Termékképernyőképek:** Több képernyőkép összeállítása kézikönyvekhez és online súgóhoz.
+
+<h2>Automatizálási forgatókönyvek:</h2>
+- **Alfa-csatorna megőrzése:** Tartsa meg az átlátszóságot az összevonás során.
+- **Kompozit kép létrehozása:** Automatizálja a réteges PNG összetételt.
+- **AI elrendezési megjelenítés:** Használja az AI-t az elemek automatikus elrendezéséhez pixel-pontos elrendezésekben.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **請求書の一括処理:** XLTXテンプレートをマージして顧客の請求書を大量に生成します。
+- **予算計画:** 部門予算のための計画テンプレートを結合します。
+- **一貫したフォーマット:** 企業全体で一貫した報告基準を維持します。
+
+## 自動化シナリオ:
+- **文書工場:** カスタマイズされた大量のレポートを自動化します。
+- **AIによるフィールドの自動入力:** テンプレートのマージ中にフィールドを自動入力するためにAIを使用します。
+- **スケーラブルな生成:** グローバルに分散されたチーム向けにレポートをマージして生成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Meredaksi file ODS (OpenDocument Spreadsheet) menggunakan API Java sangat penting bagi organisasi yang menangani data spreadsheet open-source. Redaksi programatis menyembunyikan gaji, menghapus detail medis, dan menyembunyikan harga vendor dalam lembaran pengadaan.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Laporan Gaji:** Sembunyikan detail pembayaran dalam rilis data terbuka.
+- **Catatan Medis:** Hapus data kesehatan untuk kepatuhan penelitian.
+- **Lembaran Pengadaan:** Sembunyikan harga vendor dalam anggaran bersama.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Publikasi Data Terbuka:** Saring data untuk rilis publik.
+- **Kepatuhan Penelitian:** Memenuhi hukum privasi untuk dataset yang dipublikasikan.
+- **Berbagi Internal:** Bagikan spreadsheet tanpa mengekspos informasi rahasia.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

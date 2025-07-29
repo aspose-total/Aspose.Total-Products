@@ -74,7 +74,21 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Aplicar normas de la empresa con estructuras de metadatos consistentes.
+- Mejorar la indexación de búsqueda y categorización en plataformas de gestión de documentos.
+- Apoyar auditorías de cumplimiento con autoría y versionado verificables.
+
+## Escenarios de automatización:
+
+- Mapear campos de metadatos en miles de archivos de Word automáticamente.
+- Etiquetar documentos con categorías, departamentos o proyectos.
+- Utilizar IA para segmentar grandes archivos de Word por autoría, tema o propiedad.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,22 @@ XLSX 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 공식 기반 스프레드시트 잠금.
+- 성능 보고서에 암호 보호.
+- 영업 데이터에 대한 제한된 액세스 활성화.
+
+<h2>자동화 시나리오</h2>
+- 감사 준수 금융 보고.
+- 버전 제어된 스프레드시트.
+- 안전한 AI 교육 데이터 세트.
+- 협업 기업 분석.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

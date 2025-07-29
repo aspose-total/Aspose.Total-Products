@@ -76,7 +76,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>主要な使用シナリオ:</h2>
+- **オーバーレイデザイン要素:** クリエイティブデザインツールで透明なPNGを組み合わせる。
+- **UIコンポーネントの組み立て:** アイコン、ボタン、その他のUI要素をマージする。
+- **製品のスクリーンショット:** マニュアルやオンラインヘルプ用に複数のスクリーンショットをまとめる。
+
+<h2>自動化シナリオ:</h2>
+- **アルファチャンネルの保存:** マージ時に透明性を維持する。
+- **複合画像の生成:** レイヤー化されたPNGの組成を自動化する。
+- **AIレイアウトのレンダリング:** AIを使用して要素をピクセルパーフェクトなレイアウトに自動配置する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

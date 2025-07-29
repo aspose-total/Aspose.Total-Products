@@ -74,7 +74,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Beheren van metadata in Microsoft Word-documenten met behulp van API's in Java-toepassingen zorgt voor standaardisatie van inhoud, naleving en efficiënt beheer van documentlevenscyclus.
+
+**Belangrijkste Gebruiksscenario's:**
+- Handhaaf bedrijfsbrede normen met consistente metadatastructuren.
+- Verbeter zoekindexering en categorisering in DMS-platforms.
+- Ondersteun nalevingsaudits met controleerbare auteurschap en versiebeheer.
+
+**Automatiseringsscenario's:**
+- Koppel metadata-velden automatisch aan duizenden Word-bestanden.
+- Tag documenten met categorieën, afdelingen of projecten.
+- Gebruik AI om grote Word-archieven op te delen op basis van auteurschap, onderwerp of eigenschap.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,27 @@ POTM ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Java APIを使用してPOTMファイルを表示する：安全なマクロ有効化スライドテンプレートのプレビュー</h2>
+
+Java APIを使用すると、チームが埋め込まれたコードを実行せずにマクロ有効化プレゼンテーションテンプレートをプレビューできるため、POTMファイルの表示が簡単で安全になります。
+
+## ✅ 主なユースケース
+
+- **トレーニングプレゼンテーション：** トレーナー向けのブランド付きスライドデッキを表示します。
+- **マーケティングスライド：** 販売やキャンペーンのスライドテンプレートをプレビューします。
+- **コンプライアンスコンテンツ：** スライド構造を安全に検査します。
+
+## ⚙️ 自動化シナリオ
+
+- **企業トレーニング：** オンボーディング用にPOTMスライドをレンダリングします。
+- **コンプライアンスプレゼンテーション：** マクロ有効化されたデッキを安全に確認します。
+- **提案テンプレート：** クライアントポータルでスライドをプレビューします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

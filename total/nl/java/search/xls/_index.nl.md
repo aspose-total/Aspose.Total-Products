@@ -88,7 +88,26 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 XLS-bestanden zoeken met behulp van Java API's: Ontgrendel Legacy-gegevens</h2>
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Auditgegevens extraheren uit Legacy Spreadsheets**: Zoek historische transacties en audittrails in oude XLS-bestanden.
+- **Klantsegmenten zoeken in CRM-sheets**: Vind specifieke klantgroepen of segmenten binnen gearchiveerde CRM-spreadsheets.
+- **Contractidentificatoren lokaliseren in nalevingsrecords**: Haal contractnummers en gerelateerde voorwaarden op voor regelgevingscontroles.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Archiefgegevens delven**: Automatiseer het extraheren van waardevolle informatie uit verouderde spreadsheets.
+- **Workflows voor documentdigitalisering**: Ondersteun digitalisering door snelle zoekopdrachten in legacy XLS-bestanden mogelijk te maken.
+- **Controle van regelgeving naleven**: Zorg ervoor dat oude gegevens voldoen aan de huidige nalevingsvereisten.
+- **AI-gebaseerde interpretatie van spreadsheets**: Integreer intelligente parsing en indexering voor verbeterde gegevensinzichten.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

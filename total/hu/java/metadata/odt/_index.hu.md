@@ -74,7 +74,21 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Metadata elérésének és kezelésének ODT fájlok API-k segítségével Java alkalmazásokban történő kulcsfontosságú szerepe az akadémiai, többnyelvű és nyílt forráskódú szöveges dokumentumok szervezésében.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Az akadémiai dolgozatok és kutatási jelentések osztályozása metadaták alapján.
+- Szerzői jogok tulajdonítása az akadémiai integritás fenntartása érdekében.
+- Többnyelvű dokumentumok szervezése a globális együttműködés érdekében.
+
+**Automatizálási forgatókönyvek:**
+- Metadaták kinyerése nagy mennyiségű ODT könyvtárakból.
+- Dokumentumok rendezése szerző vagy témakör mezők alapján.
+- AI használata ODT fájlok csoportosításához és címkézéséhez könnyű felfedezés érdekében.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

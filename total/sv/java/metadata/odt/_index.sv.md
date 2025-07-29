@@ -74,7 +74,19 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Viktiga användningsfall:
+- Klassificera akademiska artiklar och forskningsrapporter efter metadata.
+- Attribuera författarskap för att upprätthålla akademisk integritet.
+- Organisera flerspråkiga dokument för globalt samarbete.
+
+## Automatiseringsscenario:
+- Extrahera metadata i stor skala från stora ODT-bibliotek.
+- Sortera dokument efter författare eller ämnesområden.
+- Använd AI för att klustra och tagga ODT-filer för enkel upptäckt.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

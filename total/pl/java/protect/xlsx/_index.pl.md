@@ -74,7 +74,24 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zabezpieczanie plików XLSX za pomocą interfejsów API Javy zapewnia, że nowoczesne arkusze kalkulacyjne pozostaną dokładne i poufne. Zautomatyzowane zabezpieczenia blokują formuły, dodają zabezpieczenia hasłem i zarządzają dostępem do kluczowych danych biznesowych.
+
+**Główne przypadki użycia**
+- Zablokuj arkusze kalkulacyjne oparte na formułach.
+- Zabezpiecz hasłem raporty wydajności.
+- Włącz ograniczony dostęp do danych sprzedażowych.
+
+**Scenariusze automatyzacji**
+- Sprawozdawczość finansowa zgodna z audytem.
+- Arkusze kalkulacyjne kontrolowane wersjami.
+- Bezpieczne zbiory danych treningowych dla sztucznej inteligencji.
+- Współpracująca analityka przedsiębiorstwa.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

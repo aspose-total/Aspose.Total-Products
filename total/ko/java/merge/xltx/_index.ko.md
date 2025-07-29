@@ -75,7 +75,22 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>자바 애플리케이션에서 API를 사용하여 XLTX Excel 템플릿 파일 병합</h2>
+대규모, 템플릿 기반 문서 생성을 위해 비즈니스 운영을 최적화합니다.
+
+**주요 사용 사례:**
+- **송장 일괄 처리:** 대규모로 고객 송장을 생성하기 위해 XLTX 템플릿을 병합합니다.
+- **예산 계획:** 부서 예산 편성을 위해 계획 템플릿을 결합합니다.
+- **일관된 형식:** 기업 전체에서 일관된 보고 기준을 유지합니다.
+
+**자동화 시나리오:**
+- **문서 공장:** 맞춤형 보고서의 대량 자동화.
+- **AI 기반 필드 자동 채우기:** 템플릿 병합 중 필드를 자동으로 채우기 위해 AI 사용.
+- **확장 가능한 생성:** 전 세계 분산 팀을 위해 보고서를 병합하고 생성합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

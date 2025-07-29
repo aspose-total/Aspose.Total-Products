@@ -76,7 +76,24 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Bescherming van WORD-bestanden met Java API's zorgt ervoor dat Microsoft Word-documenten die door teams worden gebruikt, onveranderlijk en conform blijven. Geautomatiseerde bescherming beperkt bewerkingen, vergrendelt vertrouwelijke inhoud en ondersteunt veilige distributie.
+
+**Belangrijkste Gebruiksscenario's**
+- Handhaaf bewerkingsbeperkingen op zakelijke bestanden.
+- Beveilig HR- en beleidsdocumenten met een wachtwoord.
+- Maak alleen-lezen juridische sjablonen mogelijk.
+
+**Automatiseringsscenario's**
+- Voldoe aan regelgeving.
+- Automatiseer workflowbeheer.
+- Bescherm AI-trainingsinvoer voor tekst.
+- Maak veilige samenwerking binnen ondernemingen mogelijk.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

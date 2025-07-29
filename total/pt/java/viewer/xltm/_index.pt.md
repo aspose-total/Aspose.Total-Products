@@ -77,7 +77,27 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualização de Arquivos XLTM Usando APIs Java: Pré-visualizações Seguras de Modelos Habilitados para Macros</h2>
+
+As APIs Java tornam a visualização de arquivos XLTM simples e segura, permitindo que organizações pré-visualizem modelos do Excel habilitados para macros sem executar scripts.
+
+## ✅ Principais Casos de Uso
+
+- **Modelos de Previsão:** Visualize modelos financeiros ou de planejamento.
+- **Planilhas de Planejamento:** Inspeccione modelos com macros de forma segura.
+- **Modelagem de Dados:** Revise estruturas XLTM sem riscos.
+
+## ⚙️ Cenários de Automação
+
+- **Portais de Análise:** Renderize arquivos XLTM para equipes.
+- **Visualizadores de Modelos:** Automatize pré-visualizações em ferramentas de planejamento.
+- **Aplicativos de Relatórios:** Exiba modelos habilitados para macros de forma segura.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

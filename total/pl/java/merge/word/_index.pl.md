@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie dokumentów programu Microsoft Word za pomocą interfejsów API w aplikacjach Java poprawia przepływy dokumentów we wszystkich branżach. Zautomatyzowane łączenie dokumentów Word zwiększa produktywność, utrzymuje spójność marki i upraszcza zarządzanie treścią w dużym zakresie.
+
+**Główne przypadki użycia:**
+- **Raporty dla klientów:** Łączenie wielu raportów w jeden schliffowany plik Word.
+- **Akta spraw:** Łączenie dokumentów prawnych lub ubezpieczeniowych dla spójnych rejestrów.
+- **Zawartość z marką:** Automatyzacja tworzenia propozycji biznesowych, polis lub umów z zachowaniem spójnej marki.
+
+**Scenariusze automatyzacji:**
+- **Generowanie dynamiczne:** Generowanie dokumentów dynamicznie poprzez łączenie wielu plików Word.
+- **Oczyszczanie metadanych:** Usuwanie przestarzałych metadanych podczas procesu łączenia.
+- **Przebudowa sekcji z wykorzystaniem AI:** Wykorzystanie sztucznej inteligencji do przearanżowania i formatowania sekcji dla przejrzystości i zgodności.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

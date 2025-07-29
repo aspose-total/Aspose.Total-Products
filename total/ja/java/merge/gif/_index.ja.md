@@ -76,7 +76,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **アニメーションプロモーション:** 複数のフレームを結合してダイナミックな広告を作成します。
+- **指導用 GIF:** 連続したフレームを組み合わせてわかりやすい段階的なガイドを作成します。
+- **チャットステッカー:** メッセージングアプリ用のステッカーパックをまとめます。
+
+## 自動化シナリオ:
+- **フレームごとの結合:** フレームを組み合わせてスムーズな GIF ループを自動化します。
+- **AI によるループ同期:** アニメーションシーケンスで完璧なタイミングを確保します。
+- **シーケンスの最適化:** Web 配信用にファイルサイズと品質を最適化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

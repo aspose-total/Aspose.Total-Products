@@ -74,7 +74,23 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+
+- **Φύλλα Μισθών:** Αφαιρέστε λεπτομέρειες πληρωμής από αρχειοθετημένα αρχεία.
+- **Αρχεία Πελατών:** Απόκρυψη παλαιών πληροφοριών πελατών για συμμόρφωση με τη διατήρηση.
+- **Δεδομένα Προϋπολογισμού:** Μάσκα παλιών προβλέψεων ή ευαίσθητων αριθμών.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+
+- **Πολιτικές Διατήρησης:** Αποσυνδέστε τα αρχεία για αρχειοθέτηση ή καταστροφή.
+- **Ασφαλής Ψηφιοποίηση:** Απόκρυψη αρχείων πριν μετακινηθούν σε μοντέρνα συστήματα.
+- **Προστασία Ιστορικού:** Διατηρήστε τα παλιά οικονομικά σύνολα δεδομένων ασφαλή και συμμορφωμένα.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

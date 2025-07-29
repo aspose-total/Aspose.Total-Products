@@ -77,7 +77,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualizzazione dei file XLSX utilizzando le API Java: Anteprime dei fogli di calcolo senza sforzo per i flussi di lavoro moderni</h2>
+
+La visualizzazione dei file XLSX con le API Java consente alle organizzazioni di condividere in modo sicuro fogli di calcolo moderni nei browser e nelle app, eliminando la necessità di installazioni locali di Excel.
+
+## ✅ Principali casi d'uso
+
+- **Sistemi di inventario:** Anteprima online di fogli di prodotti o di magazzino.
+- **Piattaforme di fatturazione:** Mostra fatture e scomposizioni dei costi.
+- **Strumenti HR:** Visualizza file XLSX per dati relativi alla retribuzione o alle assenze.
+
+## ⚙️ Scenari di automazione
+
+- **Dashboard:** Automatizza il rendering XLSX per i team.
+- **Piattaforme dati:** Incorpora visualizzazioni di fogli di calcolo in strumenti SaaS.
+- **Portali interni:** Condividi dati XLSX aggiornati in tutta l'azienda.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

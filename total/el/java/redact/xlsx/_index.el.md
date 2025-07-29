@@ -74,7 +74,23 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+
+- **Πίνακες ελέγχου:** Απόκρυψη εμπιστευτικών KPIs.
+- **Φύλλα μισθοδοσίας:** Μάσκαρε τα αναγνωριστικά των υπαλλήλων και τις πληροφορίες πληρωμής.
+- **Μοντέλα Εφοδιαστικής Αλυσίδας:** Απόκρυψη των τιμών των προμηθευτών για ασφαλή κοινοποίηση.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+
+- **Συμμόρφωση σε Πραγματικό Χρόνο:** Επιβολή κανόνων απορρήτου σε ζωντανή συνεργασία.
+- **Έτοιμος για Ελέγχους:** Αυτοματοποίηση απόκρυψης πριν από εξωτερικούς ελέγχους.
+- **Συνεργασία στον Νέφος:** Κοινοποίηση φύλλων εργασίας με ασφάλεια σε ομάδες.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

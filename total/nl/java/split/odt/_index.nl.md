@@ -75,7 +75,27 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ ODT-bestanden splitsen met behulp van Java API's: Modulaire open-source documentlevering</h2>
+
+Het splitsen van ODT-bestanden met Java API's stelt teams in staat om grote open-source documenten op te delen voor gemakkelijker beheer, personalisatie en delen. Dit ondersteunt dynamische publicatie en verbetert de toegang via mobiele apparaten.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Modulaire Handleidingen**: Verdeel lange handleidingen in kleinere, op functie gebaseerde ODT-bestanden.
+- **Beleidsisolatie**: Splits bedrijfsbeleid op per afdeling of regio.
+- **Gerichte Uitvoer**: Genereer gerichte versies vanuit een hoofd-ODT.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Documentpersonalisatie**: Automatiseer de generatie van gebruikersspecifieke ODT-bestanden.
+- **Integratie van open-source DMS**: Integreer gesplitste bestanden in documentbeheersystemen.
+- **Publicatie geschikt voor mobiele apparaten**: Lever kleinere, relevante ODT-bestanden voor toegang onderweg.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

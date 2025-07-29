@@ -71,7 +71,22 @@ Powerpoint パスワード保護アプリまたはユーティリティを開発
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>主要なユースケース</h2>
+- 重役向けプレゼンテーションをロックする。
+- 営業用デッキにパスワード保護を施す。
+- 読み取り専用のトレーニング資料を共有する。
+
+<h2>自動化シナリオ</h2>
+- ブランドの一貫性を維持する。
+- トレーニングスライドの整合性を保護する。
+- AI学習スライドを保護する。
+- コンテンツ承認を効率化する。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

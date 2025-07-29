@@ -68,7 +68,27 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Rozdělování souborů PPTX pomocí Java API: Přizpůsobitelné prezentace pro cílené publikum</h2>
+
+Rozdělování souborů PPTX pomocí Java API usnadňuje přizpůsobení moderních prezentací konkrétním klientům, týmům nebo školicím potřebám. To zajistí vždy vysoký dopad a relevantní dodávku snímků.
+
+## ✅ Klíčové použití
+
+- **Rozdělení pro klienty**: Přizpůsobte prezentace rozdělením balíčků pro konkrétní klienty nebo nabídky.
+- **Školení podle modulů**: Rozdělte školicí prezentace do souborů PPTX podle modulů.
+- **Zaměření na obchodní jednotky**: Dodávejte snímky zaměřené na konkrétní oddělení nebo týmy.
+
+## ⚙️ Scénáře automatizace
+
+- **Dynamické doručování pitchů**: Automatizujte generování balíčků specifických pro klienta.
+- **Opakované použití snímků**: Opakovaně používejte základní části snímků napříč projekty.
+- **Přizpůsobivé publikování**: Dodávejte části snímků optimalizované pro mobilní a webové platformy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

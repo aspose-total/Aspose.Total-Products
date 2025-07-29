@@ -71,7 +71,25 @@ XLS ファイルを簡単に分割する Java スクリプトまたはユーテ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してXLSファイルを分割する：レガシーなスプレッドシートの取り扱いを近代化する</h2>
+
+## ✅ 主なユースケース
+
+- **年次レコード**：大きなXLSファイルから年ごとのデータを抽出します。
+- **ビジネスログ**：ビジネス活動ログをモジュラーファイルに分割します。
+- **旧形式データ**：レガシースプレッドシートを現代のシステムと統合するために準備します。
+
+## ⚙️ 自動化シナリオ
+
+- **レガシーマイグレーション**：古いXLSファイルを分割して近代化し、新しいシステムに対応します。
+- **Excelファイル処理**：レポート作成のためのデータ抽出を自動化します。
+- **モバイルツールの統合**：軽量なモバイルツール用に小さなXLSファイルを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

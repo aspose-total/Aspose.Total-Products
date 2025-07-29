@@ -76,7 +76,21 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+
+- **「コピー禁止」マークの埋め込み** — 警告を表示して、不正な複製を防止します。
+- **請求書のブランド化** — 請求書や公式のPDFに企業ロゴを挿入します。
+- **下書きのラベル付け** — 研究論文や契約書に「下書き」とマークしてバージョン管理を行います。
+
+## ⚙️ 自動化シナリオ
+
+- **電子署名プラットフォーム** — 署名ワークフローの前にPDFに自動的にウォーターマークを挿入します。
+- **政府の電子提出** — 安全な提出のために公式のPDFにラベルを付けます。
+- **文書アーカイブ** — アーカイブストレージ内で一貫したウォーターマークを適用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- 不正なコード実行を防ぐためにマクロソースを特定および検証します。
+- コンプライアンスのための監査トレイルを維持するためにバージョン履歴を追跡します。
+- マクロを含むテンプレートが内部のワークフロー基準に適合していることを確認します。
+
+## 自動化シナリオ:
+- 一貫性を確保するために、DOCMファイル全体でメタデータ検証を自動化します。
+- マクロの使用パターンを監視し、異常を自動的にフラグ設定します。
+- AI支援の分類を使用して、マクロの種類、著者、およびバージョンによって動的なDOCMファイルを整理します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

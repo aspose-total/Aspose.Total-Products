@@ -76,7 +76,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 PDF 파일에 워터마크를 적용하는 것은 민감한 콘텐츠를 보호하고 브랜딩을 강화하며 문서 상태를 전달하는 효과적인 방법입니다. 워터마크 삽입을 자동화하면 보안을 강화하고 일관된 문서 라벨링을 보장할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **“복사 금지” 마크 삽입** — 미인가된 복제를 방지하기 위해 시각적 경고를 표시합니다.
+- **송장 브랜딩** — 송장 및 공식 PDF에 회사 로고를 삽입합니다.
+- **드래프트 라벨링** — 연구 논문이나 계약서를 버전 관리를 위해 “Draft”로 표시합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **전자 서명 플랫폼** — 서명 워크플로우 전에 PDF에 자동으로 워터마크를 삽입합니다.
+- **정부 전자 제출** — 안전한 제출을 위해 공식 PDF에 라벨을 지정합니다.
+- **문서 보관** — 보관 저장소에 일관된 워터마크를 적용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

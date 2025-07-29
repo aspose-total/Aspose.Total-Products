@@ -76,7 +76,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 PNG 파일을 병합하는 것은 투명한 그래픽이 필요한 디자인, 개발 및 문서 작업에 이상적입니다.
+
+**주요 사용 사례:**
+- **오버레이 디자인 요소:** 창의적인 디자인 도구에서 투명한 PNG를 결합합니다.
+- **UI 구성 요소 조립:** 아이콘, 버튼 및 기타 UI 요소를 병합합니다.
+- **제품 스크린샷:** 설명서 및 온라인 도움말을 위해 여러 스크린샷을 편집합니다.
+
+**자동화 시나리오:**
+- **알파 채널 보존:** 병합하는 동안 투명도를 유지합니다.
+- **복합 이미지 생성:** 계층화된 PNG 구성을 자동화합니다.
+- **AI 레이아웃 렌더링:** AI를 사용하여 픽셀 완벽한 레이아웃에 요소를 자동으로 정렬합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Extrahera metadata från RTF-filer med hjälp av API:er i Java-applikationer förbättrar dokumenthantering i lätta eller äldre system. Programmatisk extrahering stödjer organisering, spårning och sökning av textbaserade dokument.
+
+**Nyckelanvändningsfall:**
+- Organisera juridiska textdokument efter metadataattribut.
+- Spåra författarskap och redigeringshistorik i medicinska eller kliniska dokument.
+- Driva metadata-drivna sökningar i lätta arkiv.
+
+**Automatiseringsscenario:**
+- Extrahera RTF-egenskaper i stor skala med minimal manuell ansträngning.
+- Skanna äldre RTF-arkiv efter dold eller saknad metadata.
+- Tillämpa AI för att automatiskt tagga RTF-filer baserat på innehåll och metadata.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

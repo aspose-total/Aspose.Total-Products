@@ -80,7 +80,19 @@ XLSX メタデータ管理アプリまたはユーティリティを開発する
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- 明確な所有権とバージョニングを持つ共同データモデルを管理する。
+- 追跡を向上させるためにプロジェクト固有のワークブックにラベルを付ける。
+- 構造化されたスプレッドシートのメタデータでBIダッシュボードを充実させる。
+
+## 自動化シナリオ:
+- カスタムメタデータプロパティを使用してファイルのソートを自動化する。
+- メタデータの一貫性を確保するためにバッチ更新を実行する。
+- AIを活用してファイルに分析とコンプライアンス属性を付ける。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

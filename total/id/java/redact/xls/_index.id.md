@@ -74,7 +74,25 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Meredaksi file XLS melalui API Java melindungi data spreadsheet warisan yang berisi informasi sensitif historis. Redaksi otomatis menyembunyikan lembar gaji lama, merahasiakan catatan klien, dan menyamarkan data anggaran yang sudah kadaluwarsa.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Lembar Gaji:** Hapus detail pembayaran dalam file arsip.
+- **Catatan Klien:** Sembunyikan info klien warisan untuk kepatuhan retensi.
+- **Data Anggaran:** Samarkan proyeksi lama atau angka sensitif.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Kebijakan Retensi:** Suci file untuk arsip atau penghancuran.
+- **Digitisasi Aman:** Redaksi file sebelum dipindahkan ke sistem modern.
+- **Perlindungan Historis:** Menjaga dataset keuangan warisan tetap aman dan patuh.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

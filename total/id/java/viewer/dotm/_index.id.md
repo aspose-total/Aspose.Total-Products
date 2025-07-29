@@ -76,7 +76,27 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Melihat File DOTM Menggunakan Java APIs: Pratinjau Template yang Aman dengan Macro Aktif</h2>
+
+Java APIs untuk melihat file DOTM memungkinkan bisnis menampilkan template Word yang memiliki macro tanpa menjalankan kode yang disematkan. Hal ini memastikan tinjauan template yang aman di lingkungan yang aman.
+
+## ✅ Kasus Penggunaan Utama
+
+- **Pratinjau Template Hukum/Keuangan:** Periksa template sensitif secara aman.
+- **Inspeksi Bebas Macro:** Lihat tata letak tanpa memicu skrip.
+- **Berbagi Template:** Bagikan file DOTM standar untuk diedit.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Pengguna Pratinjau Aman:** Render file DOTM di portal HR atau hukum.
+- **Pembuat Laporan:** Integrasikan pratinjau template ke dalam pembangun laporan otomatis.
+- **Alat Persetujuan:** Tampilkan template untuk persetujuan manajemen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## メタデータの抽出
+
+RTFファイルからメタデータをAPIを使用してJavaアプリケーションで抽出することは、軽量またはレガシーシステムにおけるドキュメント管理を向上させます。プログラムによる抽出は、テキストベースのドキュメントの整理、トレース、検索をサポートします。
+
+**主なユースケース:**  
+- メタデータ属性によって法的テキスト文書を整理する。  
+- 医療または臨床文書での著者と編集履歴をトレースする。  
+- 軽量アーカイブでのメタデータ駆動型検索をサポートする。
+
+**自動化シナリオ:**  
+- 手作業を最小限に抑えてスケールでRTFのプロパティを抽出する。  
+- 隠れたまたは欠落しているメタデータを持つレガシーRTFアーカイブをスキャンする。  
+- コンテンツとメタデータに基づいてRTFファイルに自動的にタグ付けするためにAIを適用する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

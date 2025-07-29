@@ -76,7 +76,22 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 기밀 보고서에서 편집 액세스 제한
+- 법적 문서에 암호 보호 적용
+- 내부 커뮤니케이션을 위한 읽기 전용 공유 강제 실행
+
+<h2>자동화 시나리오</h2>
+- 규제 감사를 위한 규정 준수 워크플로
+- 문서 수명 주기 제어 및 버전 관리
+- AI 모델 데이터 개인 정보 보호
+- 기업 시스템에서 안전한 콘텐츠 공유
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

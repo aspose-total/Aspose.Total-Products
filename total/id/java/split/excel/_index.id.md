@@ -71,7 +71,27 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Memisahkan Berkas EXCEL Menggunakan Java APIs: Pensegmentasian Data yang Disederhanakan dan Pengiriman</h2>
+
+Memisahkan berkas EXCEL dengan Java APIs memungkinkan organisasi untuk menangani kumpulan data besar secara lebih efisien dengan mengisolasi bagian-bagian yang relevan untuk analisis, berbagi, dan pelaporan yang lebih baik. Hal ini meningkatkan kolaborasi, mendukung kepatuhan, dan mengoptimalkan alur data.
+
+## ✅ Kasus Penggunaan Utama
+
+- **Anggaran Departemen**: Mensegmentasikan lembar anggaran utama ke dalam berkas-berkas khusus departemen untuk distribusi yang aman.
+- **Lembar Data Triwulanan**: Ekstrak data untuk periode tertentu untuk menyederhanakan pelaporan keuangan.
+- **Metrik Unit Bisnis**: Membuat lembar kinerja berdasarkan unit untuk para pemangku kepentingan.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Distribusi Data Keuangan**: Mengotomatisasi berbagi berkas Excel yang terpisah dengan tim atau klien.
+- **Ekspor Excel ke CSV**: Mengeskpor data yang tersegmentasi ke CSV untuk integrasi dengan alat lain.
+- **Pengiriman Konten Mobile**: Menyajikan berkas Excel yang lebih kecil dan terarah kepada pengguna mobile untuk mengurangi beban.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

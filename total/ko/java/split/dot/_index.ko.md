@@ -75,7 +75,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API를 사용한 DOT 파일 분할: 규모화된 모듈식 템플릿 관리</h2>
+
+## ✅ 주요 사용 사례
+
+- **재사용 가능한 구성 요소**: 여러 문서에서 쉽게 재사용할 수 있도록 템플릿 요소를 모듈화합니다.
+- **비즈니스 양식 범주**: 대규모 비즈니스 양식 템플릿을 카테고리화된 섹션으로 분할하여 빠른 배포를 지원합니다.
+- **레이아웃 추출**: 동적이거나 개인화된 문서를 생성하기 위해 특정 레이아웃 요소를 추출합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **템플릿 생성**: 모듈식 템플릿 부분을 조합하여 새 문서를 자동으로 생성합니다.
+- **로컬화된 콘텐츠 제작**: 재사용 가능한 요소를 분할하고 사용자 정의하여 로컬화된 문서 템플릿을 생성합니다.
+- **효율적인 서식 재사용**: 브랜드 일관성을 위해 다른 프로젝트에서 공통 레이아웃 섹션을 재사용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

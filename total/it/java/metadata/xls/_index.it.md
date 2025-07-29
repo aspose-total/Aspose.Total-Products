@@ -80,7 +80,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Accedere e gestire i metadati nei file XLS legacy utilizzando le API nelle applicazioni Java aiuta a modernizzare gli archivi storici di fogli di calcolo preservando informazioni critiche. La gestione programmatica garantisce l'allineamento con le moderne politiche dei dati e tracciabilità delle verifiche trasparenti.
+
+**Principali casi d'uso:**
+- Migrazione di fogli di calcolo storici con piena integrità dei metadati.
+- Verifica della cronologia dei documenti per i team finanziari e le revisioni normative.
+- Allineamento dei file XLS obsoleti con gli attuali standard di governance.
+
+**Scenari di automazione:**
+- Estrarre i metadati legacy su larga scala per l'archiviazione centralizzata.
+- Etichettare i file durante le conversioni di formato da XLS a XLSX.
+- Utilizzare l'IA per riclassificare i fogli di calcolo legacy per i flussi di lavoro moderni.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

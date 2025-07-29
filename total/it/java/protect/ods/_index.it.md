@@ -74,7 +74,24 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Proteggere i file ODS con le API Java garantisce la sicurezza dei fogli di calcolo operativi e dei dati di business intelligence. Le regole automatizzate bloccano i modelli, impongono visualizzazioni in sola lettura e garantiscono l'accesso solo alle informazioni di pianificazione strategica autorizzate.
+
+**Principali casi d'uso**
+- Proteggere i dati operativi nei fogli di calcolo condivisi.
+- Bloccare i modelli da modifiche non autorizzate.
+- Imporre la visualizzazione in sola lettura dei report di BI.
+
+**Scenario di automazione**
+- Conformità normativa per la gestione dei dati.
+- Proteggere i dati di addestramento dell'IA nei file ODS.
+- Controllare i cicli di vita dei file di pianificazione.
+- Salvaguardare la condivisione interna dei dati.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

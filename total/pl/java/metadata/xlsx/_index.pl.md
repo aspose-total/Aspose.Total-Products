@@ -80,7 +80,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Wydobywanie metadanych z plików XLSX za pomocą interfejsów API w aplikacjach Java zwiększa zarządzanie danymi wielu użytkowników, śledzenie projektów i gotowość analityczną. Zautomatyzowane procesy metadanych ułatwiają zarządzanie arkuszami kalkulacyjnymi i ich ponowne wykorzystanie.
+
+**Główne przypadki użycia:**
+- Zarządzaj wspólnymi modelami danych z jasnym właścicielem i wersjonowaniem.
+- Oznaczaj skoroszyty specyficzne dla projektu dla lepszego śledzenia.
+- Wzbogacaj pulpity nawigacyjne BI strukturalnymi metadanymi arkusza kalkulacyjnego.
+
+**Scenariusze automatyzacji:**
+- Automatyzuj sortowanie plików za pomocą niestandardowych właściwości metadanych.
+- Wykonuj wsadowe aktualizacje, aby zapewnić spójność metadanych.
+- Wykorzystaj sztuczną inteligencję do oznaczania plików atrybutami analitycznymi i zgodności.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

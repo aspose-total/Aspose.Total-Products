@@ -74,7 +74,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Oprava souborů XLSX pomocí Java API chrání moderní obsah tabulek s citlivými obchodními informacemi. Programatická redakce odstraňuje výkonnostní metriky, maskuje identifikátory zaměstnanců a skrývá náklady dodavatelů.
+
+## ✅ Klíčové použití
+
+- **Dashboardy:** Redakce důvěrných KPI.
+- **Mzdové tabulky:** Maskování identifikátorů zaměstnanců a platebních údajů.
+- **Modely nákupu:** Skrytí cen dodavatelů pro bezpečné sdílení.
+
+## ⚙️ Scénáře automatizace
+
+- **Dodržování pravidel v reálném čase:** Vynucování pravidel ochrany osobních údajů při živé spolupráci.
+- **Připravenost na audit:** Automatizace redakce před externími audity.
+- **Cloudová spolupráce:** Bezpečné sdílení tabulek napříč týmy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

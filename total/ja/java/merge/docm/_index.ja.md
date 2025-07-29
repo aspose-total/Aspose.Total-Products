@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **コンプライアンス文書:** 複数のDOCMファイルをマージして監査対応のコンプライアンスパックを作成します。
+- **マクロテンプレート:** 一貫した自動化のために再利用可能なマクロテンプレートを統合します。
+- **監査報告書:** 統一された監査提出のためにマクロベースのレポートを結合します。
+
+## 自動化シナリオ:
+- **安全なマクロマージング:** マージ中にマクロ機能を検証および保持します。
+- **バージョン管理:** 異なるDOCMファイルをマージする際にバージョントラッキングを自動化します。
+- **マクロコンテンツの検出:** マージされたファイル内のマクロスクリプトを検出、クリーンアップ、最適化するためにAIを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

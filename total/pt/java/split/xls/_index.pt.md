@@ -71,7 +71,27 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividindo Arquivos XLS Usando APIs Java: Modernize o Manuseio de Planilhas Legadas</h2>
+
+Dividir arquivos XLS com APIs Java permite que organizações lidem com formatos de planilhas legadas isolando seções relevantes para migração, relatórios e acesso amigável a dispositivos móveis.
+
+## ✅ Principais Casos de Uso
+
+- **Registros Anuais**: Extrair dados específicos de um ano de arquivos XLS grandes.
+- **Logs de Negócios**: Separar logs de atividades comerciais em arquivos modulares.
+- **Dados em Formato Antigo**: Preparar planilhas legadas para integração com sistemas modernos.
+
+## ⚙️ Cenários de Automação
+
+- **Migração de Legado**: Dividir e modernizar arquivos XLS antigos para novos sistemas.
+- **Processamento de Arquivos Excel**: Automatizar extração de dados para relatórios.
+- **Integração com Ferramentas Móveis**: Entregar arquivos XLS menores para ferramentas móveis leves.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

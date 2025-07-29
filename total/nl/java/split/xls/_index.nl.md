@@ -71,7 +71,27 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ XLS-bestanden splitsen met behulp van Java API's: Moderniseer het omgaan met legacy-spreadsheets</h2>
+
+Het splitsen van XLS-bestanden met Java API's stelt organisaties in staat om legacy-spreadsheetindelingen te verwerken door relevante secties te isoleren voor migratie, rapportage en toegang via mobiele apparaten.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Jaarlijkse Records**: Haal jaar-specifieke gegevens uit grote XLS-bestanden.
+- **Bedrijfslogs**: Splits bedrijfsactiviteitenlogs op in modulaire bestanden.
+- **Oude-Indeling Gegevens**: Bereid legacy-spreadsheets voor op integratie met moderne systemen.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Legacy Migratie**: Splits en moderniseer oude XLS-bestanden voor nieuwe systemen.
+- **Excel-bestandsverwerking**: Automatiseer gegevensextractie voor rapportage.
+- **Integratie met Mobiele Tools**: Lever kleinere XLS-bestanden voor lichtgewicht mobiele tools.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione di file DOCM abilitati alla macro con API Java
+
+L'unione di file DOCM abilitati alla macro utilizzando le API Java garantisce un'automazione sicura e coerente per le esigenze di documentazione complesse. L'unione programmatica di file DOCM aiuta a mantenere l'integrità delle macro semplificando i flussi di lavoro.
+
+**Principali casi d'uso:**
+- **Documentazione di conformità:** Unire più file DOCM per produrre pacchetti di conformità pronti per l'audit.
+- **Modelli di macro:** Consolidare modelli di macro riutilizzabili per un'automazione coerente.
+- **Relazioni di audit:** Combinare report basati su macro per presentazioni di audit unificate.
+
+**Scenari di automazione:**
+- **Unione sicura di macro:** Convalidare e preservare la funzionalità delle macro durante l'unione.
+- **Controllo delle versioni:** Automatizzare il tracciamento delle versioni durante l'unione di diversi file DOCM.
+- **Rilevamento dei contenuti delle macro:** Utilizzare l'IA per rilevare, pulire e ottimizzare gli script delle macro nei file uniti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ División de archivos ODS utilizando APIs de Java: Gestión efectiva de datos de código abierto</h2>
+
+Dividir archivos ODS utilizando APIs de Java simplifica el manejo de hojas de cálculo de código abierto al permitir el acceso y la generación de informes de datos modulares. Esto respalda flujos de trabajo de BI, intercambio escalable y mejor rendimiento.
+
+## ✅ Casos de uso clave
+
+- **Finanzas regionales**: Dividir grandes hojas de cálculo financieras en archivos ODS específicos por región.
+- **Pestañas individuales**: Extraer hojas específicas para compartir o analizar de forma independiente.
+- **Informes estadísticos**: Aislar datos estadísticos para informes específicos.
+
+## ⚙️ Escenarios de automatización
+
+- **Tuberías de BI de código abierto**: Automatizar la extracción de datos para flujos de trabajo de BI y análisis.
+- **Compartir datos modulares**: Compartir solo partes relevantes de hojas de cálculo con las partes interesadas.
+- **Optimización del rendimiento**: Servir archivos ODS más pequeños para tiempos de carga más rápidos en aplicaciones y herramientas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

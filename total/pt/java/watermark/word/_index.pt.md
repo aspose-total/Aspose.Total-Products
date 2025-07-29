@@ -78,7 +78,25 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Aplicar marcas d'água em arquivos do WORD usando APIs Java ajuda organizações a proteger conteúdos, sinalizar status e reforçar a marca. A marca d'água programática facilita a identificação de rascunhos, marcar relatórios como privados ou incluir elementos de marca.
+
+#### ✅ Principais Casos de Uso
+
+- **Identificar Rascunhos** — Rotular cópias de trabalho com "Rascunho" ou "Para Revisão".
+- **Marca de Comunicações** — Incorporar logotipos da empresa em arquivos internos do WORD.
+- **Marcar Relatórios Privados** — Mostrar claramente o status confidencial em documentos sensíveis.
+
+#### ⚙️ Cenários de Automação
+
+- **Ferramentas de Automação de Contratos** — Marcar automaticamente contratos gerados.
+- **Pipelines de Conformidade** — Marcar relatórios para submissão regulatória.
+- **Sistemas de Publicação** — Aplicar marcas d'água consistentes em relatórios publicados.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 자바 API를 사용한 RTF 파일 분할: 유연한 텍스트 콘텐츠 관리</h2>
+
+RTF 파일을 자바 API를 사용하여 분할하면 부분을 분리하여 모듈식 사용, 다국어 게시 및 플랫폼 간 쉬운 재사용을 통해 조직이 리치 텍스트 문서를 관리할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **서식이 있는 섹션**: 다른 문서에서 재사용할 수 있도록 스타일이 지정된 섹션 추출.
+- **모듈식 콘텐츠 패키지**: 대형 RTF 파일을 재사용 가능한 콘텐츠 블록으로 분할.
+- **다국어 분할**: 다국어 문서를 언어별 파일로 분할.
+
+## ⚙️ 자동화 시나리오
+
+- **CMS 통합**: 분할된 RTF 섹션을 콘텐츠 관리 시스템으로 자동으로 가져오기.
+- **텍스트 콘텐츠 재사용**: 여러 출력물에서 서식이 있는 콘텐츠 블록 재활용.
+- **모바일 액세스**: 가벼운 모바일 뷰어용 작은 RTF 섹션 전달.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

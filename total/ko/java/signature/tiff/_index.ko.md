@@ -67,7 +67,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 자바 API를 사용하여 TIFF 서명 추가 및 확인: 안전한 고해상도 문서</h2>
+
+TIFF 파일에서 서명을 추가하거나 확인하는 것은 자바 API를 사용하여 안전한 고해상도 스캔된 페이지, 건축 계획 및 역사적 기록을 보호하는 데 도움이 됩니다. 자동 서명 워크플로우는 진위를 보호하고 정부 아카이빙을 지원하며 변조 방지 저장을 보장합니다.
+
+## ✅ 주요 사용 사례
+
+- **법적 문서 스캔 페이지에 서명**하여 보존 무결성 유지.
+- **안전한 공유를 위해 건축 계획을 확인**.
+- **고해상도 문서를 안전하게 보호**하여 역사적 기록을 유지.
+- **규정 준수를 위해 기술 도면을 인증**.
+- **민감한 TIFF 아카이브를 보호**.
+
+## ⚙️ 자동화 시나리오
+
+- **디지털 서명으로 정부 문서 아카이빙 활성화**.
+- **역사적 기록의 진위 확인을 자동화**.
+- **TIFF 파일에 대한 변조 방지 저장 강제**.
+- **스캔 워크플로 중 서명 확인을 자동화**.
+- **인증된 기록 관리를 간소화**.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

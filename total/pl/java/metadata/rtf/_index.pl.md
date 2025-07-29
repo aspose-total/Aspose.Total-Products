@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Wyodrębnianie metadanych z plików RTF za pomocą interfejsów API w aplikacjach Java zwiększa zarządzanie dokumentami w lekkich lub starszych systemach. Programowe wyodrębnianie wspiera organizowanie, śledzenie i wyszukiwanie dokumentów opartych na tekście.</h2>
+
+**Kluczowe przypadki użycia:**  
+- Organizowanie dokumentów tekstowych prawniczych według atrybutów metadanych.  
+- Śledzenie autorstwa i historii edycji w dokumentach medycznych lub klinicznych.  
+- Wsparcie wyszukiwania opartego na metadanych w lekkich archiwach.
+
+**Scenariusze automatyzacji:**  
+- Wyodrębnianie właściwości RTF w skali za pomocą minimalnego wysiłku manualnego.  
+- Skanowanie archiwów RTF starszej generacji w poszukiwaniu ukrytych lub brakujących metadanych.  
+- Zastosowanie sztucznej inteligencji do automatycznego tagowania plików RTF na podstawie treści i metadanych.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividindo Arquivos ODT Usando APIs Java: Entrega Modular de Documentos de Código Aberto</h2>
+
+Dividir arquivos ODT com APIs Java permite que equipes dividam documentos de código aberto grandes para facilitar o gerenciamento, personalização e compartilhamento. Isso suporta a publicação dinâmica e melhora o acesso móvel.
+
+## ✅ Principais Casos de Uso
+
+- **Manuais Modulares**: Divida manuais longos em arquivos ODT menores e específicos para funções.
+- **Isolamento de Políticas**: Separe as políticas da empresa por departamento ou região.
+- **Saídas Segmentadas**: Gere versões segmentadas a partir de um ODT principal.
+
+## ⚙️ Cenários de Automação
+
+- **Personalização de Documentos**: Automatize a geração de arquivos ODT específicos do usuário.
+- **Integração de Sistemas de Gerenciamento de Documentos de Código Aberto**: Integre arquivos divididos em sistemas de gerenciamento de documentos.
+- **Publicação Amigável para Dispositivos Móveis**: Entregue arquivos ODT menores e relevantes para acesso em movimento.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+XLT Excel 템플릿 파일을 Java 애플리케이션에서 API를 사용하여 병합하면 팀간에 표준화된 보고서 작성이 간소화됩니다. 자동화를 통해 반복 작업에 일관된 레이아웃과 브랜딩이 보장됩니다.
+
+**주요 사용 사례:**
+- **부서 템플릿:** 팀 템플릿을 마스터 버전으로 결합합니다.
+- **표준화된 보고서:** 일관된 스타일로 보고서 생성을 자동화합니다.
+- **브랜드 준수:** 모든 Excel 템플릿에 회사 브랜딩을 강제합니다.
+
+**자동화 시나리오:**
+- **XLT-to-XLS 변환:** 템플릿을 병합하고 채워진 워크북을 출력합니다.
+- **사전 작성된 보고서:** 동적 데이터로 병합된 템플릿을 채웁니다.
+- **AI 사용 추적:** AI를 활용하여 템플릿 사용을 모니터링하고 개선을 제안합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

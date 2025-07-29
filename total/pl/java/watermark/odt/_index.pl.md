@@ -78,7 +78,25 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki ODT za pomocą interfejsów API Javy jest kluczowe dla zachowania kontroli nad wersjami roboczymi, zabezpieczenia dokumentów zgodności oraz komunikowania ograniczeń dotyczących użytkowania. Automatyzacja znakowania wodnego gwarantuje, że etykiety wewnętrznego użytku lub oznaczenia robocze są stosowane konsekwentnie.
+
+## ✅ Główne przypadki użycia
+
+- **Oznaczanie Wersji Prawnych** — Wyraźnie oznaczaj wersje robocze dokumentów prawnych lub politycznych.
+- **Nakładanie Wewnętrznych Pieczątek** — Dodaj znaki wodne "Tylko do użytku wewnętrznego" do dokumentów roboczych.
+- **Zapewnienie Śledzenia** — Użyj widocznych znaków do śledzenia wersji dokumentów.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Narzędzia Zgodności** — Zintegruj znakowanie wodne w potokach dokumentacji zgodności.
+- **System CMS typu Open-Source** — Automatyzuj znakowanie wodne w przepływach pracy zarządzania treścią.
+- **Dystrybucja Akademicka** — Nakładaj znaki wodne na akademickie wersje robocze w celu bezpiecznego udostępniania do recenzji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

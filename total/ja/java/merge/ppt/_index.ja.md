@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **レガシー プレゼンテーション:** アーカイブから複数の PPT ファイルをまとめて更新されたスライドデッキに統合します。
+- **クライアント提案デッキ:** PPT スライドをマージしてカスタマイズされたクライアント向け提案を作成します。
+- **スライドコンテンツの近代化:** 古い PPT ファイルを統合し、現代のワークフロー向けに PPTX 形式に変換する前に結合します。
+
+## 自動化シナリオ:
+- **PPT-to-PPTX 変換:** 古い PPT をマージして最新の形式にアップグレードします。
+- **テンプレート統一マージ:** マージされたスライド全体に一貫したテンプレートを適用します。
+- **AI スライド正規化:** AI を使用してスタイル、フォント、レイアウトを調整し、プロの一貫性を確保します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,24 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Proteggere i file PDF utilizzando le API Java aiuta a crittografare, limitare e autenticare documenti critici in diversi settori. La protezione automatica dei PDF garantisce flussi di contenuti sicuri e conformità alle politiche aziendali e legali.
+
+**Principali casi d'uso**
+- Crittografare contratti con password.
+- Disabilitare la copia/stampa per file sensibili.
+- Applicare firme digitali automaticamente.
+
+**Scenari di automazione**
+- Rispettare i requisiti legali e normativi.
+- Proteggere i flussi di documenti.
+- Filtrare i documenti di input per l'uso dell'IA.
+- Abilitare la governance dei contenuti di livello enterprise.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

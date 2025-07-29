@@ -76,7 +76,22 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java APIを使用してDOTファイルを解析する：テンプレート抽出とガバナンス</h2>
+
+## ✅ 主なユースケース
+
+- **テンプレート構造の抽出:** ヘッダー、フッター、スタイル要素を読み取り、テンプレートデザインを検証します。
+- **文書生成の自動化:** 解析されたテンプレートを使用して、ブランド基準を満たすドキュメントを動的に作成します。
+- **ブランドコンテンツの管理:** 組織全体での使用のためにテンプレートを集約し標準化します。
+- **コンテンツの一貫性の強制:** 承認されたスタイルからの逸脱を検出して修正します。
+- **スタイルの検証:** フォント、色、レイアウトがブランドガイドラインに準拠していることを確認します。
+- **AIベースのテンプレート:** テンプレートをAIモデルに供給して文書のカスタマイズを自動化します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

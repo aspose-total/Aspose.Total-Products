@@ -80,7 +80,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Acessando e Gerenciando Metadados em Arquivos XLS Legados
+
+Acessar e gerenciar metadados em arquivos XLS legados usando APIs em aplicativos Java ajuda a modernizar arquivos de planilhas históricas, preservando informações críticas. O manuseio programático garante alinhamento com políticas de dados modernas e trilhas de auditoria transparentes.
+
+**Principais Casos de Uso:**  
+- Migrar planilhas históricas com integridade total de metadados.  
+- Auditar histórico de documentos para equipes financeiras e revisões regulatórias.  
+- Alinhar arquivos XLS desatualizados com padrões de governança atuais.
+
+**Cenários de Automação:**  
+- Extrair metadados legados em escala para arquivamento centralizado.  
+- Etiquetar arquivos durante conversões de formato de XLS para XLSX.  
+- Utilizar IA para reclassificar planilhas legadas para fluxos de trabalho modernos.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

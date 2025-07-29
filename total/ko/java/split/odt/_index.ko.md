@@ -75,7 +75,27 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 자바 API를 사용하여 ODT 파일 분할: 모듈식 오픈 소스 문서 전달</h2>
+
+ODT 파일을 Java API로 분할하면 대형 오픈 소스 문서를 더 쉽게 관리, 개인화 및 공유할 수 있습니다. 이는 동적 게시를 지원하고 모바일 액세스를 개선합니다.
+
+## ✅ 주요 사용 사례
+
+- **모듈식 매뉴얼**: 긴 매뉴얼을 작은 역할별 ODT 파일로 분할합니다.
+- **정책 격리**: 회사 정책을 부서 또는 지역별로 분리합니다.
+- **대상 출력물**: 마스터 ODT에서 대상 버전을 생성합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **문서 개인화**: 사용자별 ODT 파일 생성을 자동화합니다.
+- **오픈 소스 DMS 통합**: 분할된 파일을 문서 관리 시스템에 통합합니다.
+- **모바일 친화적 게시**: 이동 중에 작은 관련 ODT 파일을 제공합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

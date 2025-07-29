@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- メタデータによる学術論文や研究レポートの分類。
+- 学術の誠実性を維持するための著者の特定。
+- グローバルなコラボレーションのための多言語ドキュメントの整理。
+
+## 自動化シナリオ:
+- 大規模なODTライブラリからメタデータをスケールで抽出。
+- 著者や主題のフィールドで文書をソート。
+- ODTファイルをクラスタリングしてタグ付けし、簡単に検索できるようにする。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

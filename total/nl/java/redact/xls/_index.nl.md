@@ -74,7 +74,25 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het redigeren van XLS-bestanden via Java API's beschermt oude spreadsheetgegevens met historisch gevoelige informatie. Geautomatiseerde redactie verbergt oude salarisoverzichten, redigeert klantgegevens en maskeert verouderde budgetgegevens.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Salarisoverzichten:** Verwijder betalingsgegevens in gearchiveerde bestanden.
+- **Klantgegevens:** Verberg oude klantinformatie voor naleving van retentie.
+- **Budgetgegevens:** Maskeer oude projecties of gevoelige cijfers.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Retentiebeleid:** Bestanden saneren voor archivering of vernietiging.
+- **Veilige Digitalisering:** Redigeer bestanden voordat ze naar moderne systemen worden verplaatst.
+- **Historische Bescherming:** Houd oude financiële gegevenssets veilig en in overeenstemming met de regelgeving.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

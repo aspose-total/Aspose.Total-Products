@@ -76,7 +76,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het samenvoegen van TIFF-bestanden met Java API's ondersteunt document- en beeldworkflows met hoge nauwkeurigheid in de juridische, medische en technische industrieën.
+
+**Belangrijkste Gebruiksscenario's:**
+- **Meerpagina Documenten:** Combineer meerdere gescande pagina's in één TIFF-bestand.
+- **Blauwdrukarchieven:** Technische tekeningen digitaal samenvoegen voor archivering.
+- **Beelddatasets:** Merge hoge-resolutie TIFF's voor onderzoek en analyse.
+
+**Automatiseringsscenario's:**
+- **Paginavolgorde:** Automatiseer de juiste paginavolgorde in meerpagina TIFF's.
+- **Samenvoegen met Compressiebewustzijn:** Optimaliseer bestandsgrootte zonder detailverlies.
+- **AI-voorverwerking:** Pas AI-filters toe voor ruisvermindering en helderheid.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

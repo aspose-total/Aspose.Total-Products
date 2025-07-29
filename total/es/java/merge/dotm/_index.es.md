@@ -74,7 +74,21 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- **Plantillas complejas:** Combinar múltiples plantillas basadas en macros en un único maestro listo para el flujo de trabajo.
+- **Formularios interactivos:** Consolidar formularios que dependen de macros para la automatización de la entrada de usuario.
+- **Revisiones de cumplimiento:** Revisar y combinar plantillas automatizadas para cumplir con las políticas.
+
+## Escenarios de automatización:
+
+- **Validación de macros:** Validar scripts de macros durante la fusión para un uso seguro de la plantilla.
+- **Integración segura de plantillas:** Evitar conflictos de macros al combinar varios archivos DOTM.
+- **Detección de patrones de IA:** Utilizar IA para identificar lógica repetitiva y optimizar estructuras de macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

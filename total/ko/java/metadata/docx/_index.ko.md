@@ -74,7 +74,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>API를 사용하여 Java 애플리케이션에서 DOCX 파일 메타데이터 추출 및 관리</h2>
+
+문서 무결성, 검색 가능성 및 규정 준수를 향상시키는데 API를 사용하여 DOCX 파일 메타데이터를 추출하고 관리합니다. 프로그래밍 방식의 메타데이터 처리는 문서 분류, 작성자 추적 및 스마트 색인을 지원합니다.
+
+**주요 사용 사례:**
+- 기업 콘텐츠 시스템에서 문서를 작성자, 유형 또는 부서별로 분류합니다.
+- 법적이나 학술 아카이브의 작성자 및 개정 이력을 추적합니다.
+- 사용자 정의 메타데이터 필드를 활용하여 스마트 검색 색인을 가능하게 합니다.
+
+**자동화 시나리오:**
+- 대량의 DOCX 파일에 대한 규정 준수 태깅을 자동화합니다.
+- 오래된 또는 중복된 속성을 제거하기 위해 일괄 메타데이터 정리를 수행합니다.
+- 콘텐츠 및 사용자 정의 속성을 기반으로 문서를 메타데이터로 보강하기 위해 AI 기반 분류를 사용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

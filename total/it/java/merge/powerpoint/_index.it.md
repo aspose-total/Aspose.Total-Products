@@ -74,7 +74,21 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cosa principale:
+
+- **Presentazioni aziendali:** Unire più presentazioni in un'unica presentazione professionale.
+- **Pitch Decks:** Combinare slide di diversi membri del team per presentazioni unificate.
+- **Materiali per riunioni:** Consolidare report e slide per riunioni senza intoppi.
+
+## Scenari di automazione:
+
+- **Deduplicazione delle slide:** Rimuovere automaticamente le slide duplicate.
+- **Standardizzazione del design:** Applicare modelli e temi coerenti.
+- **Narrazione con intelligenza artificiale:** Utilizzare l'IA per perfezionare il flusso narrativo e evidenziare i messaggi chiave.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

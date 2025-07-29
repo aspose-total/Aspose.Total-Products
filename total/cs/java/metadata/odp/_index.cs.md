@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- Organizace prezentací ve slide deskách na platformách pro spolupráci ve světě open-source.
+- Sledování historie revizí a vlastnictví slideů.
+- Kategorizace obsahu prezentace pro firemní znalostní báze.
+
+## Scénáře automatizace:
+- Filtrování slideů podle metadatových polí, jako jsou název a téma.
+- Extrahování klíčových metadat v hromadných pracovních postupech.
+- Použití AI k inteligentnímu označování a klasifikaci slide desk.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

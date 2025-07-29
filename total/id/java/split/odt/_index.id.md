@@ -75,7 +75,27 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Memisahkan Berkas ODT Menggunakan Java APIs: Pengiriman Dokumen Sumber Terbuka Modular</h2>
+
+Memisahkan berkas ODT dengan Java APIs memungkinkan tim untuk memecah dokumen sumber terbuka besar menjadi bagian-bagian yang lebih mudah dikelola, dipersonalisasi, dan dibagikan. Ini mendukung penerbitan dinamis dan meningkatkan aksesibilitas melalui perangkat seluler.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Manual Modular**: Bagi manual panjang menjadi berkas ODT yang lebih kecil berdasarkan peran.
+- **Isolasi Kebijakan**: Pisahkan kebijakan perusahaan berdasarkan departemen atau wilayah.
+- **Output yang Ditargetkan**: Hasilkan versi yang ditargetkan dari master ODT.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Personalisasi Dokumen**: Otomatisasikan pembuatan berkas ODT yang spesifik pengguna.
+- **Integrasi DMS Sumber Terbuka**: Integrasikan berkas terpisah ke dalam sistem manajemen dokumen.
+- **Penerbitan Ramah Seluler**: Kirimkan berkas ODT yang lebih kecil dan relevan untuk akses saat bepergian.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

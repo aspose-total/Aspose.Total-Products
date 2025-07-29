@@ -71,7 +71,27 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Memisahkan Berkas XLS Menggunakan API Java: Memodernisasi Penanganan Lembar Kerja Warisan</h2>
+
+Memisahkan berkas XLS dengan API Java memungkinkan organisasi untuk menangani format lembar kerja warisan dengan mengisolasi bagian yang relevan untuk migrasi, pelaporan, dan akses yang ramah mobile.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Catatan Tahunan**: Ekstrak data spesifik tahun dari berkas XLS besar.
+- **Log Bisnis**: Pisahkan log aktivitas bisnis ke dalam berkas modular.
+- **Data Format Lama**: Siapkan lembar kerja warisan untuk integrasi dengan sistem modern.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Migrasi Warisan**: Pisahkan dan modernisasi berkas XLS lama untuk sistem baru.
+- **Pemrosesan Berkas Excel**: Otomatisasi ekstraksi data untuk pelaporan.
+- **Integrasi Alat Mobile**: Sampaikan berkas XLS yang lebih kecil untuk alat mobile yang ringan.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

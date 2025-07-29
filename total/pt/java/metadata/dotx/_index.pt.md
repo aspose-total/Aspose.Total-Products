@@ -74,7 +74,23 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Acessar e editar metadados em modelos DOTX usando APIs em aplicativos Java ajuda a manter o controle de versão, alinhamento com unidades de negócios e conformidade com políticas.
+
+**Principais Casos de Uso:**
+- Aplicar versionamento de modelos entre equipes e departamentos.
+- Categorizar modelos com base em unidades de negócios ou departamentos.
+- Apoiar a conformidade garantindo consistência nos metadados.
+
+**Cenários de Automação:**
+- Automatizar a injeção de metadados ao criar ou atualizar modelos.
+- Classificar e organizar modelos de forma programática.
+- Gerenciar todo o ciclo de vida do modelo com rastreamento de metadados alimentado por IA.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

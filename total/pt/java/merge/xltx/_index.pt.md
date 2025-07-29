@@ -75,7 +75,19 @@ Para obter detalhes, consulte [Documentação do Produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de Uso Principais:
+- **Lotes de Faturas:** Mesclar modelos XLTX para produzir faturas de clientes em escala.
+- **Planejamento Orçamentário:** Combinar modelos de planejamento para orçamentação departamental.
+- **Formatos Consistentes:** Manter padrões de relatórios uniformes em toda a empresa.
+
+## Cenários de Automação:
+- **Fábricas de Documentos:** Automatizar grandes volumes de relatórios personalizados.
+- **Preenchimento de Campos com IA:** Utilizar IA para preencher automaticamente campos durante a mesclagem de modelos.
+- **Geração Escalável:** Mesclar e gerar relatórios para equipes distribuídas globalmente.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

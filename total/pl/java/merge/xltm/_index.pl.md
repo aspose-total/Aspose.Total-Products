@@ -75,7 +75,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie szablonów XLTM Excel z makrami za pomocą interfejsów API w aplikacjach Java umożliwia zaawansowane prognozowanie, modelowanie i operacje zgodności. Automatyzacja zapewnia integralność i bezpieczeństwo makr.
+
+**Główne przypadki użycia:**
+- **Arkusze kalkulacyjne dynamiczne:** Łączenie modeli prognozowania lub ryzyka z obliczeniami sterowanymi makrami.
+- **Przepływy pracy zgodności:** Łączenie szablonów w celu automatyzacji powtarzalnych zadań związanych z zgodnością.
+- **Arkusze interaktywne:** Zachowanie interaktywnej logiki makr w połączonych arkuszach kalkulacyjnych.
+
+**Scenariusze automatyzacji:**
+- **Wstępnie zaprogramowane łączenie:** Łączenie szablonów XLTM, zabezpieczając skrypty.
+- **Walidacja makr:** Zapewnienie bezpiecznego i zamierzonego działania makr.
+- **Dostosowanie z wykorzystaniem sztucznej inteligencji:** Wykorzystanie sztucznej inteligencji do dostosowania makr do spersonalizowanych przepływów pracy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

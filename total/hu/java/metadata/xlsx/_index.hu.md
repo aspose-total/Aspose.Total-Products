@@ -80,7 +80,23 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Kinyerés metaadatok XLSX fájlokból API-k segítségével Java alkalmazásokban fokozza a többfelhasználós adatkezelést, a projekt nyomon követését és az analitikai felkészültséget. Az automatizált metaadat folyamatok megkönnyítik a táblázatok irányítását és újrafelhasználását.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Kezelje a közös adatmodelleket egyértelmű tulajdonjogokkal és verziókezeléssel.
+- Címkézze a projekt-specifikus munkafüzeteket jobb nyomon követés érdekében.
+- Gazdagítsa az üzleti intelligencia irányítópultjait strukturált táblázat metaadatokkal.
+
+**Automatizálási forgatókönyvek:**
+- Automatizálja a fájlok rendezését egyedi metaadat tulajdonságok használatával.
+- Végezzen tétel frissítéseket a metaadatok következetességének biztosítása érdekében.
+- Használja az AI-t a fájlok címkézésére analitikai és szabályozási attribútumokkal.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

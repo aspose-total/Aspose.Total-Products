@@ -74,7 +74,19 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Viktiga användningsfall:
+- **Extrahering av strukturerad data:** Extrahera tabeller, rubriker och avsnitt från DOCX-rapporter.
+- **Dokumentanalys:** Läs och segmentera innehållet för djupare insikter och efterlevnadskontroller.
+- **Innehållsmedveten automation:** Möjliggör smarta arbetsflöden i företagssystem genom att analysera återanvändbara textblock.
+
+## Automatiseringsscenario:
+- **AI-träningsdata:** Parsa DOCX-filer för att skapa högkvalitativ träningsdata för AI-modeller.
+- **Metadataextrahering:** Identifiera och extrahera kontraktsmetadata automatiskt.
+- **Realtidssegmentering:** Driv realtidsanalys för digitala arbetsflöden, arkivering och styrning.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

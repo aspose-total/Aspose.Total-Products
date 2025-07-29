@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione di file PDF utilizzando API nelle applicazioni Java
+
+Unire file PDF utilizzando API nelle applicazioni Java è essenziale per le aziende che gestiscono documenti digitali su larga scala. L'unione automatizzata dei PDF migliora la produttività, la sicurezza e la conformità attraverso i settori.
+
+**Principali casi d'uso:**
+- **Contratti firmati:** Compilare più accordi firmati in un unico PDF organizzato.
+- **Pagine scansionate:** Unire documenti cartacei scansionati in file digitali ricercabili.
+- **Rapporti finanziari:** Combinare fogli di calcolo, grafici e dichiarazioni in rapporti PDF completi per gli stakeholder.
+
+**Scenari di automazione:**
+- **Assemblaggio batch di PDF:** Unire grandi quantità di file PDF in modo programmato.
+- **Selezione dell'intervallo di pagine:** Unire pagine specifiche da diversi PDF per output personalizzati.
+- **Ordinamento dei contenuti AI:** Utilizzare l'IA per ordinare, etichettare e strutturare i PDF uniti per flussi di lavoro sicuri ed efficienti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

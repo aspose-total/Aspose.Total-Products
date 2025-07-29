@@ -76,7 +76,20 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース
+- ビジネスファイルの編集制限を強制する。
+- 人事および方針文書をパスワードで保護する。
+- 読み取り専用の法的テンプレートを有効にする。
+
+## 自動化シナリオ
+- 法令順守を遵守する。
+- ワークフロー管理を自動化する。
+- AIトレーニングテキスト入力を保護する。
+- 安全な企業間コラボレーションを可能にする。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

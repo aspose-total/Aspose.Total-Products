@@ -76,7 +76,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het samenvoegen van generieke afbeeldingsbestanden met behulp van Java-API's stelt ontwikkelaars in staat om de creatie van inhoud over diverse bestandsindelingen te automatiseren.
+
+## Belangrijkste Gebruiksscenario's:
+- **Juridische Technologie:** Compileer visueel bewijsmateriaal in enkele casusbestanden.
+- **Sociale Platforms:** Stel door gebruikers gegenereerde afbeeldingen samen voor sociale feeds.
+- **Grafisch-Rijke Rapporten:** Voeg grafieken, infographics en foto's samen in eenduidige rapporten.
+
+## Automatiseringsscenario's:
+- **Dynamische Rastergeneratie:** Genereer automatisch afbeeldingsrasters voor presentaties.
+- **Indeling-Agnostisch Samenvoegen:** Voeg gemengde afbeeldingsindelingen naadloos samen.
+- **AI-Indelingscuratie:** Gebruik AI om de uiteindelijke visuals te ontwerpen, ordenen en optimaliseren.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

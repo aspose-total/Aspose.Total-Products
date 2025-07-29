@@ -78,7 +78,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 WORD 파일에 워터마크를 적용하면 조직이 콘텐츠를 보호하고 상태를 신호하며 브랜딩을 강화할 수 있습니다. 프로그래밍 방식의 워터마킹을 사용하면 초안을 식별하거나 보고서를 비공개로 표시하거나 브랜드 요소를 포함하는 것이 쉬워집니다.
+
+#### ✅ 주요 사용 사례
+
+- **초안 식별** — 작업 사본에 "Draft" 또는 "For Review" 레이블 지정.
+- **브랜드 커뮤니케이션** — 내부 WORD 파일에 회사 로고 삽입.
+- **비공개 보고서 표시** — 민감한 문서에 기밀 상태 명확히 표시.
+
+#### ⚙️ 자동화 시나리오
+
+- **계약 자동화 도구** — 생성된 계약에 자동 워터마크 삽입.
+- **컴플라이언스 파이프라인** — 규제 제출용 보고서 표시.
+- **게시 시스템** — 발행된 보고서에 일관된 워터마크 적용.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

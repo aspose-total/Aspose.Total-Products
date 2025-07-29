@@ -76,7 +76,27 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visa WORD-filer med Java API: Säker visning av kritiska dokument</h2>
+
+Visning av WORD-filer med Java API:er gör det möjligt för organisationer att visa kontrakt, HR-dokument och interna policys säkert i webb- eller mobilportaler utan att förlita sig på Microsoft Word.
+
+## ✅ Viktiga användningsfall
+
+- **Kontrakt & Policys:** Visa kritiska WORD-dokument för anställda.
+- **HR-dokument:** Visa handböcker, formulär eller brev säkert.
+- **Intern delning:** Möjliggör endast visningsåtkomst till känsliga dokument.
+
+## ⚙️ Automatiseringsscenario
+
+- **Onboardingsplattformar:** Automatisera visning av HR-mallar.
+- **Dokumenthantering:** Bädda in säkra visningsverktyg i DMS-verktyg.
+- **Efterlevnadssystem:** Tillhandahåll dokumentvisningar redo för revision.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

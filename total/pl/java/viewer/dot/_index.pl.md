@@ -76,7 +76,27 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Przeglądanie plików DOT za pomocą interfejsów API Javy: Podgląd szablonów Worda w dowolnym miejscu</h2>
+
+Przeglądanie plików DOT za pomocą interfejsów API Javy umożliwia płynne renderowanie szablonów Worda w aplikacjach internetowych, generatorach dokumentów i platformach CMS. Użytkownicy mogą sprawdzać układy i style bez konieczności instalowania Worda.
+
+## ✅ Główne przypadki użycia
+
+- **Wyświetlanie szablonów dla procesów roboczych:** Pokazuj pliki DOT w zautomatyzowanej generacji dokumentów.
+- **Podgląd stylów:** Wizualizuj domyślne formaty dla nowych dokumentów.
+- **Biblioteki szablonów w CMS:** Pozwól użytkownikom przeglądać dostępne szablony DOT online.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Platformy wdrożeniowe:** Renderuj szablony listów ofertowych lub umów.
+- **Narzędzia dostosowywania:** Pozwól użytkownikom wybierać i modyfikować szablony.
+- **Biblioteki szablonów:** Podglądaj korporacyjne szablony w hubach treści.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

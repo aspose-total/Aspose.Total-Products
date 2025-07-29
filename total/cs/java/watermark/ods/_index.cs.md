@@ -71,7 +71,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků v souborech ODS pomocí Java API hraje klíčovou roli při zabezpečení otevřených datových tabulek, zdůrazňování důvěrnosti a podpoře viditelnosti značky. Automatizace vodoznaků zajistí konzistentní ochranu a značkování všech souborů ODS.
+
+## ✅ Klíčové použití
+
+- **Zabezpečení datových tabulek** — Přidejte upozornění na ochranu osobních údajů do tabulek obsahujících citlivé informace.
+- **Značkování statistických zpráv** — Vložte loga do organizačních datových listů.
+- **Omezení obsahu** — Označte tabulky pro signalizaci omezeného nebo důvěrného použití.
+
+## ⚙️ Scénáře automatizace
+
+- **Obchodní aplikace s otevřeným kódem** — Automaticky přidávejte vodoznaky do souborů generovaných obchodním softwarem.
+- **Akademické datové zprávy** — Vodoznakujte výzkumné nebo statistické zprávy před sdílením.
+- **Interní znalostní báze** — Označte listy ODS používané pro interní distribuci.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

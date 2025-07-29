@@ -75,7 +75,27 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dzielenie plików ODT za pomocą interfejsów Java: Modułowe dostarczanie dokumentów open-source</h2>
+
+Dzielenie plików ODT za pomocą interfejsów Java pozwala zespołom rozbijać duże dokumenty open-source na mniejsze, ułatwiając zarządzanie, personalizację i udostępnianie. Wsparcie to dla dynamicznego publikowania i poprawia dostęp mobilny.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Modularne instrukcje**: Podziel długie instrukcje na mniejsze pliki ODT dostosowane do ról.
+- **Izolacja polityki**: Oddziel polityki firmy według działu lub regionu.
+- **Wydawanie ukierunkowanych wyników**: Generuj ukierunkowane wersje z głównego pliku ODT.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Personalizacja dokumentów**: Zautomatyzuj generowanie plików ODT specyficznych dla użytkownika.
+- **Integracja z systemami zarządzania dokumentami open-source**: Zintegruj podzielone pliki z systemami zarządzania dokumentami.
+- **Publikowanie przyjazne dla urządzeń mobilnych**: Dostarczaj mniejsze, istotne pliki ODT dla dostępu w podróży.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

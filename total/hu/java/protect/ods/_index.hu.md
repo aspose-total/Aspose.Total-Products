@@ -74,7 +74,20 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kulcsfontosságú felhasználási esetek
+- Védelmezi az üzemeltetési adatokat megosztott táblázatokban.
+- Zárolja a sablonokat a jogosulatlan szerkesztésektől.
+- Kényszerítse az olvasható üzleti intelligencia jelentéseket.
+
+## Automatizálási forgatókönyvek
+- Szabályozási megfelelőség az adatkezeléshez.
+- Védi az AI képzési adatokat ODS fájlokban.
+- Irányítsa a tervezési fájlok életciklusát.
+- Védelmezi a belső adatmegosztást.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

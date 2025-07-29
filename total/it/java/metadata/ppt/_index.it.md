@@ -74,7 +74,21 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Accesso ed estrazione di metadati da file PPT legacy utilizzando API in applicazioni Java aiuta a modernizzare presentazioni archiviate mantenendo dettagli sulla cronologia delle versioni e sull'autore.
+
+**Principali casi d'uso:**  
+- Aggiornare vecchi file PPT preservando i metadati.  
+- Tenere traccia delle versioni storiche delle presentazioni per audit.  
+- Organizzare presentazioni degli speaker memorizzate in formati legacy.
+
+**Scenari di automazione:**  
+- Migrare da PPT a PPTX mantenendo i metadati.  
+- Audit in batch delle serie di diapositive legacy per completezza.  
+- Utilizzare l'IA per etichettare e classificare i contenuti precedenti al 2007.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,24 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용한 RTF 파일 구문 분석: 레거시 형식 변환 및 규정 준수</h2>
+
+RTF 파일을 자바 API로 구문 분석하면 서식이 지정된 콘텐츠, 포함된 객체 및 레거시 문서 변환을 추출할 수 있습니다. RTF 구문 분석을 자동화하면 규정 준수 아카이빙, 메타데이터 복구 및 AI 훈련 워크플로우를 지원합니다.
+
+## ✅ 주요 사용 사례
+
+- **서식이 지정된 콘텐츠 추출:** 스타일이 지정된 텍스트 및 섹션을 검색합니다.
+- **포함된 객체 식별:** 이미지, 표 및 링크를 감지합니다.
+- **문서 변환:** RTF를 현대적인 형식으로 변환합니다.
+- **규정 준수 아카이빙:** 감사를 위해 콘텐츠를 보존합니다.
+- **메타데이터 복구:** 문서 정보를 재구성합니다.
+- **AI 모델 훈련:** 구문 분석된 텍스트를 NLP 모델에 활용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

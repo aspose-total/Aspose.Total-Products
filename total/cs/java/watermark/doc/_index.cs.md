@@ -78,7 +78,25 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků v souborech DOC pomocí Java API pomáhá organizacím chránit důvěrnost dokumentů, posilovat firemní značku a kontrolovat stav verzí. Automatizace vkládání vodoznaků zajistí, že značky „Důvěrné“ nebo loga se zobrazí konzistentně, což pomáhá týmům spravovat viditelnost a integritu dokumentů.
+
+## ✅ Klíčové použití
+
+- **Označení jako „Důvěrné“** — Označení interních souborů DOC pro omezení distribuce.
+- **Vizuální firemní identita** — Aplikace firemních log na zprávy a záznamy.
+- **Ukázat stav konceptu** — Použití vodoznaků k označení dokumentů ve fázi přezkumu.
+
+## ⚙️ Scénáře automatizace
+
+- **Workflow dokumentů** — Automatické vodoznakování souborů DOC během generování a schvalování.
+- **Procesy schvalování HR** — Vložení stavových štítků do dokumentů HR pro interní přezkum.
+- **Právní kontrola verzí** — Jasně označit konceptuální verze pro právní spolupráci.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

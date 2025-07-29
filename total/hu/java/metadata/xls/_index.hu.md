@@ -80,7 +80,23 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Metaadatok elérése és kezelése örökölt XLS fájlokban API-k segítségével Java alkalmazásokban segít modernizálni a történelmi táblázatarchívumokat, miközben megőrzi a kritikus információkat. A programozott kezelés biztosítja az összhangot a modern adatpolitikákkal és átlátható ellenőrzési nyomokat.</h2>
+
+**Kulcsfontosságú felhasználási esetek:**
+- Migrálja a történelmi táblázatokat teljes metaadat-integritással.
+- Ellenőrizze a dokumentumtörténetet a pénzügyi csapatok és szabályozói felülvizsgálatok számára.
+- Illessze az elavult XLS fájlokat a jelenlegi irányítási szabványokhoz.
+
+**Automatizálási forgatókönyvek:**
+- Vonja ki az örökölt metaadatokat nagy mennyiségben központosított archiváláshoz.
+- Címkézze a fájlokat XLS-ről XLSX formátumra történő konverziók során.
+- Használja az AI-t az örökölt táblázatok új munkafolyamatokhoz történő újraosztályozásához.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

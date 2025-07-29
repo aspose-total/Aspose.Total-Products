@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης</h2>
+- Περιορισμός της επεξεργασίας χρηματοοικονομικών δεδομένων.
+- Κλείδωμα ευαίσθητων επιχειρηματικών μοντέλων.
+- Επιβολή προβολής μόνο στα ταμπλό ελέγχου.
+
+<h2>Σενάρια Αυτοματοποίησης</h2>
+- Διατήρηση συμμόρφωσης και ιχνηλάτησης ελέγχου.
+- Διατήρηση ιστορικών χρηματοοικονομικών εγγράφων.
+- Προστασία προβλέψεων που βασίζονται σε τεχνητή νοημοσύνη.
+- Ασφάλεια της επιχειρηματικής νοημοσύνης.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

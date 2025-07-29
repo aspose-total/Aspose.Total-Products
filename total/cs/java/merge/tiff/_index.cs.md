@@ -76,7 +76,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití:
+
+- **Vícestránkové dokumenty:** Slučování více naskenovaných stránek do jednoho souboru TIFF.
+- **Archiv modrých tisků:** Digitální spojování inženýrských výkresů pro archivaci.
+- **Datasety obrázků:** Slučování vysoce rozlišených souborů TIFF pro výzkum a analýzu.
+
+## Scénáře automatizace:
+
+- **Řazení stránek:** Automatizace správného pořadí stránek ve vícestránkových souborech TIFF.
+- **Slučování s ohledem na kompresi:** Optimalizace velikosti souboru bez ztráty detailů.
+- **Předzpracování pomocí AI:** Použití filtrů AI pro redukci šumu a zvýšení jasnosti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

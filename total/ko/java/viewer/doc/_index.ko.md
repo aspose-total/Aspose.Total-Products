@@ -76,7 +76,28 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용하여 DOC 파일 보기: 안전하고 신뢰할 수 있는 문서 미리보기</h2>
+
+DOC 파일을 자바 API로 보는 것은 Microsoft Word가 설치되지 않아도 워드 문서를 안전하게 읽기 전용으로 렌더링할 수 있는 기관에게 제공됩니다. 이 방법은 문서 무결성과 기밀성이 가장 중요한 인사, 법률 및 비즈니스 시스템을 지원합니다.
+
+## ✅ 주요 사용 사례
+
+- **안전한 인사 및 법률 미리보기:** 계약, 정책 또는 채용 지원서를 위한 읽기 전용 DOC 보기 활성화.
+- **웹 기반 채용 지원서:** 인재 영입 담당자가 브라우저에서 이력서를 직접 미리 볼 수 있도록 함.
+- **Microsoft Word 종속성 없음:** 외부 소프트웨어 없이 포털 및 워크플로우 내에서 DOC 콘텐츠 표시.
+
+## ⚙️ 자동화 시나리오
+
+- **브라우저 기반 DOC 뷰어:** DOC 렌더링을 인트라넷 및 대시보드에 임베드.
+- **모바일 친화적 미리보기:** Android/iOS 인사 앱에서 DOC 파일 미리보기.
+- **내부 규정 준수 시스템:** 감사 또는 정책 확인을 위해 DOC 버전을 안전하게 공유.
+- **전자 학습 도구:** 온라인 강좌 내에서 DOC 기반 수업 및 자료 표시.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

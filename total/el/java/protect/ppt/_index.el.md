@@ -71,7 +71,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης</h2>
+- Αποτροπή επεξεργασιών σε αρχειοθετημένες παρουσιάσεις.
+- Κλείδωμα εσωτερικών διαφανειών στρατηγικής.
+- Επιβολή λειτουργίας μόνο για παρουσιάσεις εκπαίδευσης.
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- Συμμόρφωση με την τεκμηρίωση.
+- Απορρήτου για εκπαιδευτικό υλικό.
+- Ακεραιότητα των βάσεων γνώσης της επιχείρησης.
+- Ασφαλής διαχείριση συνόλων δεδομένων AI.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

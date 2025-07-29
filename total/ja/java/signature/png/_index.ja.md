@@ -67,7 +67,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ Java APIを使用してPNG署名の追加と検証: 透過グラフィックの認証</h2>
+
+PNGファイルで署名を追加または検証することにより、Java APIを使用すると、UIアセット、透過グラフィック、および画像ベースの証明書の整合性が確保されます。自動化された署名ワークフローは、レイヤー設計を保護し、クリエイティブな出力を検証するのに役立ちます。
+
+## ✅ 主な使用用途
+
+- **UIアセットにデジタル署名**を付けてセキュアな設計パイプラインを確立します。
+- **透過グラフィックを認証**してブランドの一貫性を確保します。
+- **公式使用のために画像ベースの証明書を検証**します。
+- **元のPNGファイルに透かし**を入れて誤用を防止します。
+- **権限のない編集からレイヤー設計ファイルを保護**します。
+
+## ⚙️ 自動化シナリオ
+
+- **署名を使用してセキュアな設計レビューを自動化**します。
+- **検証済みのマークを使用してレイヤーグラフィックの承認を管理**します。
+- **公開段階全体でコンテンツの信頼性を追跡**します。
+- **PNGファイル用のデジタル透かしシステムを統合**します。
+- **透過アセット全体にブランディングポリシーを強制**します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

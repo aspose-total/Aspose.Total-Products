@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>도트엑스 워드 템플릿 파일 병합</h2>
+
+비즈니스가 브랜드 일관성을 유지하면서 문서 생성을 확장할 수 있는 Java 애플리케이션에서 API를 사용하여 도트엑스 워드 템플릿 파일을 병합하는 것을 가능하게 합니다. 자동화된 도트엑스 병합은 전문적인 결과물을 위한 동적 콘텐츠 어셈블리를 강화합니다.
+
+**주요 사용 사례:**
+- **맞춤형 제안서:** 템플릿 섹션을 병합하여 고객별 제안서를 작성합니다.
+- **표준 보고서:** 재사용 가능한 섹션을 회사 표준 보고서로 조합합니다.
+- **브랜드 레이아웃:** 표준 도트엑스 템플릿을 병합하여 팀 전체에 브랜딩 가이드라인을 강제합니다.
+
+**자동화 시나리오:**
+- **필드 기반 데이터 채우기:** 변수 데이터로 병합된 템플릿을 동적으로 채웁니다.
+- **템플릿 변환:** 병합된 템플릿을 자동으로 최종 문서로 변환합니다.
+- **AI 강화 병합:** AI를 사용하여 섹션을 지능적으로 병합하여 대규모 문서 제작을 위한 레이아웃을 적응시킵니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

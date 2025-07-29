@@ -72,7 +72,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Oprava souborů PPTX pomocí Java API udržuje moderní prezentace bez úniků citlivých dat. Automatizovaná redakce odstraňuje osobní identifikovatelné informace, skrývá konkurenční analýzy a maskuje identifikátory klientů.
+
+## ✅ Klíčové použití
+
+- **Výcvikové prezentace:** Redakce dat zaměstnanců nebo studentů.
+- **Prodejní prezentace:** Skryjte konkurenční poznatky nebo ceny.
+- **Případové studie:** Odstraňte jména klientů před zveřejněním.
+
+## ⚙️ Scénáře automatizace
+
+- **Hodnocení souladu:** Automatizujte kontrolu obsahu a redakci.
+- **Sdílení s partnery:** Distribuujte pouze vyčištěné prezentace.
+- **Ochrana duševního vlastnictví:** Chrání vlastní know-how při sdílení snímků mimo organizaci.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

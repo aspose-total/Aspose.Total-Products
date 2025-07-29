@@ -74,7 +74,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/pdf/java
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redakce souborů PDF pomocí Java API je základem pro ochranu univerzálně sdílených dokumentů. Automatizovaná redakce odstraňuje jména klientů, skrývá lékařské historie a maskuje SSN ve formulářích daně s vysokou přesností.
+
+## ✅ Klíčové použití
+
+- **Smlouvy:** Odstraňte detaily klientů z právních PDF.
+- **Zdravotnické dokumenty:** Redakce historií pacientů pro dodržení předpisů.
+- **Daňové formuláře:** Maskování čísel sociálního zabezpečení ve finančních podáních.
+
+## ⚙️ Scénáře automatizace
+
+- **Soulad s GDPR/HIPAA:** Prosazování zásad ochrany soukromí ve velkém měřítku.
+- **Bezpečná výměna:** Sdílejte dezinfikované PDF s třetími stranami bezpečně.
+- **Elektronické objevování:** Automatizujte redakci pro procesy FOIA nebo soudní spory.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,20 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de Uso Principais
+- Restringir edições em apresentações corporativas.
+- Proteger com senha decks de investidores confidenciais.
+- Aplicar acesso somente para visualização em slides de treinamento.
+
+## Cenários de Automação
+- Suportar conformidade com direitos digitais.
+- Automatizar controle de versões.
+- Proteger conjuntos de dados de apresentação de aprendizado de IA.
+- Garantir a entrega segura de apresentações voltadas para o público.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

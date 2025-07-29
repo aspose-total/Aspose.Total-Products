@@ -74,7 +74,23 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Beheren van metagegevens in Microsoft PowerPoint-bestanden met behulp van API's in Java-toepassingen zorgt voor merkconsistentie en georganiseerde presentatiebibliotheken.
+
+**Belangrijkste Gebruiksscenario's:**
+- Classificeer bedrijfspresentaties op onderwerp of afdeling.
+- Handhaaf merk- en auteursrechtbeleid via metagegevens.
+- Organiseer uitgebreide dia-bibliotheken voor snelle toegang.
+
+**Automatiseringsscenario's:**
+- Automatiseer batch-tagging van presentatie-eigenschappen.
+- Sorteer presentaties op basis van metagegevens zoals auteur of campagne.
+- Pas AI toe om dia-decks te categoriseren op thema en gebruik.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,22 @@ ODP 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 기업 프레젠테이션에서 편집 제한
+- 기밀 투자자 덱에 암호 보호
+- 교육 슬라이드에 대한 보기 전용 액세스 강제
+
+<h2>자동화 시나리오</h2>
+- 디지털 권리 준수 지원
+- 버전 관리 자동화
+- AI 학습 프레젠테이션 데이터 세트 보호
+- 프레젠테이션의 공개 전달 보안
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Prodejní ukázky:** Slučujte interaktivní prezentace pro demonstrace produktů.
+- **Automatizované průvodce:** Kombinujte řízené prezentace s makry.
+- **Opakující se prezentace:** Vytvářejte prezentace s opakováním a vestavěnými makry pro informační stánky.
+
+## Scénáře automatizace:
+- **Slučování logiky maker:** Bezpečné slučování makro skriptů napříč soubory.
+- **Ověření provedení:** Automatizujte testování pro zajištění stability maker.
+- **Koordinační chování AI:** Použijte AI k zarovnání vizuálních a makrem řízených akcí.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

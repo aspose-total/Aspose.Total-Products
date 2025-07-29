@@ -74,7 +74,25 @@ XLSX 編集アプリまたはユーティリティを開発する必要があり
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+JavaのAPIを使用してXLSXファイルを編集すると、機密性の高いビジネス情報を保護できます。プログラムによる編集により、パフォーマンスメトリクスが削除され、従業員IDがマスクされ、ベンダーのコストが非表示になります。
+
+## ✅ 主な使用ケース
+
+- **ダッシュボード:** 機密性の高いKPIを非表示にします。
+- **給与シート:** 従業員識別子と支払詳細をマスクします。
+- **調達モデル:** ベンダーの価格を非表示にして安全に共有します。
+
+## ⚙️ 自動化シナリオ
+
+- **リアルタイムコンプライアンス:** ライブコラボレーションでプライバシールールを強制します。
+- **監査準備:** 外部監査の前に編集を自動化します。
+- **クラウドコラボレーション:** チーム間で安全にスプレッドシートを共有します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

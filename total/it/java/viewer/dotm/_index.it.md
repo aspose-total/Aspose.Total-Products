@@ -76,7 +76,27 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualizzazione dei file DOTM utilizzando le API Java: Anteprime sicure dei modelli abilitati alle macro</h2>
+
+Le API Java per la visualizzazione dei file DOTM consentono alle aziende di visualizzare modelli Word abilitati alle macro senza eseguire il codice incorporato. Ciò garantisce revisioni sicure dei modelli in ambienti protetti.
+
+## ✅ Principali casi d'uso
+
+- **Anteprime di modelli legali/finanziari:** Ispeziona modelli sensibili in modo sicuro.
+- **Ispezione senza macro:** Visualizza layout senza attivare script.
+- **Condivisione di modelli:** Distribuisci file DOTM standard per la modifica.
+
+## ⚙️ Scenari di automazione
+
+- **Anteprime sicure:** Visualizza file DOTM nei portali HR o legali.
+- **Generatori di report:** Integra anteprime di modelli nei generatori di report automatizzati.
+- **Strumenti di approvazione:** Mostra modelli per l'approvazione della direzione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Estrazione e gestione dei metadati nei file PPTX utilizzando API nelle applicazioni Java rafforza la governance dei contenuti e la ricerca per risorse di presentazione moderne.
+
+**Principali casi d'uso:**
+- Identificare autori e contributori per progetti di presentazione.
+- Etichettare serie di diapositive per dipartimento, campagna o argomento.
+- Migliorare la rintracciabilità nei repository di contenuti e basi di conoscenza.
+
+**Scenari di automazione:**
+- Arricchire i metadati per assistenti AI e ricerche intelligenti.
+- Monitorare le fasi del ciclo di vita della presentazione con aggiornamenti dei metadati.
+- Automatizzare la pulizia su larga scala e l'etichettatura nelle librerie di diapositive.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

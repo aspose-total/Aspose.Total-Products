@@ -74,7 +74,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file ODS (OpenDocument Spreadsheet) utilizzando le API Java è fondamentale per le organizzazioni che gestiscono dati di fogli di calcolo open source. La redazione programmatica maschera i salari, rimuove dettagli medici e nasconde i prezzi dei fornitori nei fogli di approvvigionamento.
+
+## ✅ Principali casi d'uso
+
+- **Rapporti salariali:** Nascondere i dettagli dei pagamenti nelle pubblicazioni di dati aperti.
+- **Cartelle cliniche:** Rimuovere i dati sanitari per la conformità alla ricerca.
+- **Fogli di approvvigionamento:** Nascondere i prezzi dei fornitori nei budget condivisi.
+
+## ⚙️ Scenari di automazione
+
+- **Pubblicazione di dati aperti:** Sanitizzare i dati per la pubblicazione pubblica.
+- **Conformità alla ricerca:** Rispettare le leggi sulla privacy per i dataset pubblicati.
+- **Condivisione interna:** Distribuire fogli di calcolo senza esporre informazioni confidenziali.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

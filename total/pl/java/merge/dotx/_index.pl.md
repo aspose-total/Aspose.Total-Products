@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików szablonów Word DOTX za pomocą interfejsów API w aplikacjach Java umożliwia firmom skalowanie generowania dokumentów, zachowując spójność marki. Zautomatyzowane łączenie plików DOTX umożliwia dynamiczne składanie treści dla profesjonalnych wyników.
+
+**Główne przypadki użycia:**
+- **Spersonalizowane Propozycje:** Łączenie sekcji szablonów w celu tworzenia propozycji dostosowanych do klienta.
+- **Standardowe Raporty:** Składanie ponownie wykorzystywalnych sekcji w standardowe raporty firmowe.
+- **Spersonalizowane Układy:** Wprowadzanie wytycznych dotyczących marki w zespołach poprzez łączenie standardowych szablonów DOTX.
+
+**Scenariusze automatyzacji:**
+- **Wypełnianie na podstawie pól:** Dynamiczne wypełnianie połączonych szablonów zmiennymi danymi.
+- **Transformacja Szablonu:** Automatyczna konwersja połączonych szablonów na ostateczne dokumenty.
+- **Łączenie Wspomagane AI:** Wykorzystanie sztucznej inteligencji do inteligentnego łączenia sekcji, dostosowując układy do produkcji dokumentów na dużą skalę.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

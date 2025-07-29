@@ -77,7 +77,27 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Melihat Berkas XLSM Menggunakan API Java: Tampilan Spreadsheet yang Aman dengan Macro Diaktifkan</h2>
+
+API Java memungkinkan tampilan aman dari berkas XLSM, memungkinkan pengguna untuk memeriksa spreadsheet yang memiliki macro tanpa menjalankan kode yang disisipkan.
+
+## ✅ Kasus Penggunaan Utama
+
+- **Alat Risiko & Audit:** Tinjau spreadsheet yang memiliki macro dengan aman.
+- **Dashboard TI:** Periksa berkas XLSM yang dinamis.
+- **Aplikasi Keuangan:** Lihat spreadsheet yang sensitif tanpa menjalankan macro.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Manajemen Risiko:** Otomatisasikan tinjauan spreadsheet yang memiliki macro.
+- **Pelacakan Proses:** Tampilkan XLSM dalam aplikasi bisnis.
+- **Platform Keuangan:** Pratinjau lembar XLSM dengan aman.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

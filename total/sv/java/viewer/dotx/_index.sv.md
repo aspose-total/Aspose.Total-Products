@@ -76,7 +76,27 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visa DOTX-filer med Java API: Enkel mallvisualisering</h2>
+
+Att visa DOTX-filer via Java API:er gör det enkelt för användare att förhandsgranska moderna Word-mallar i webbaserade byggverktyg och varumärkta dokumentsystem.
+
+## ✅ Viktiga användningsfall
+
+- **CV-skapare:** Visa mallförhandsgranskningar för jobbsökande.
+- **Intern layout:** Förhandsgranska varumärkta format för företagsbrev.
+- **CMS-integration:** Visa mallar för innehållsteam.
+
+## ⚙️ Automatiseringsscenario
+
+- **Webbläsarvisare:** Rendera DOTX-mallar online.
+- **Dokumentappar:** Förhandsgranska mallar inuti affärsappar.
+- **Varumärkta förhandsvisningsverktyg:** Behåll varumärkeskonsistens med standardmallar.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

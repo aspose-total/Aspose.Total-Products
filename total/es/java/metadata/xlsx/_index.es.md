@@ -80,7 +80,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Gestionar modelos de datos colaborativos con propiedad clara y versionado.
+- Etiquetar libros de trabajo específicos del proyecto para un mejor seguimiento.
+- Enriquecer paneles de inteligencia empresarial con metadatos estructurados de hojas de cálculo.
+
+## Escenarios de automatización:
+
+- Automatizar la clasificación de archivos utilizando propiedades de metadatos personalizadas.
+- Realizar actualizaciones por lotes para garantizar la consistencia de los metadatos.
+- Aprovechar la inteligencia artificial para etiquetar archivos con atributos de análisis y cumplimiento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

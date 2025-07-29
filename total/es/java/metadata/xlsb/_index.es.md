@@ -80,7 +80,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Gestionar grandes conjuntos de datos con archivos binarios comprimidos.
+- Categorizar registros financieros u operativos de backend.
+- Mejorar la capacidad de descubrimiento de libros de trabajo XLSB de alto volumen.
+
+## Escenarios de automatización:
+
+- Extraer propiedades de archivos binarios a escala.
+- Construir canalizaciones de clasificación para documentos XLSB.
+- Aplicar IA para etiquetar e indexar libros de trabajo binarios para velocidad y escala.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

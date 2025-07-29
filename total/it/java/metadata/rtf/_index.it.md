@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Estrarre i metadati dai file RTF utilizzando le API nelle applicazioni Java migliora la gestione dei documenti in sistemi leggeri o legacy. L'estrazione programmatica supporta l'organizzazione, il tracciamento e la ricerca di documenti basati su testo.
+
+**Principali casi d'uso:**
+- Organizzare documenti di testo legali per attributi dei metadati.
+- Tracciare l'autore e la cronologia delle modifiche nei documenti medici o clinici.
+- Alimentare la ricerca basata sui metadati negli archivi leggeri.
+
+**Scenari di automazione:**
+- Estrarre le proprietà RTF su larga scala con un minimo sforzo manuale.
+- Scansionare archivi RTF legacy per metadati nascosti o mancanti.
+- Applicare l'IA per etichettare automaticamente i file RTF in base ai contenuti e ai metadati.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

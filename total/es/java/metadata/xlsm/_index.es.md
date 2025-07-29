@@ -80,7 +80,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Supervisar el uso de macros para detectar scripts no autorizados.
+- Garantizar el cumplimiento de la seguridad de macros en hojas de cálculo sensibles.
+- Seguir la autoría de hojas de cálculo para auditorías en herramientas automatizadas.
+
+## Escenarios de automatización:
+
+- Validar metadatos con conciencia de macros de forma programática.
+- Generar registros de auditoría automatizados para cambios en macros.
+- Utilizar inteligencia artificial para clasificar archivos XLSM según riesgos y patrones de uso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

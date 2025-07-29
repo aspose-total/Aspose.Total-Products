@@ -80,7 +80,21 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/cells/java/syst
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Hantera metadata i makroaktiverade XLSM-filer med hjälp av API:er i Java-applikationer är avgörande för att bibehålla makrosäkerhet, författaridentifiering och efterlevnad i automatiserade kalkylblad.
+
+**Viktiga användningsfall:**  
+- Övervaka makroanvändning för att upptäcka obehöriga skript.  
+- Säkerställa makrosäkerhetsföljsamhet i känsliga kalkylblad.  
+- Spåra kalkylbladsförfattarskap för revisionspårning i automatiserade verktyg.
+
+**Automatiseringsscenario:**  
+- Validera makro-medveten metadata programmatiskt.  
+- Generera automatiserade revisionspår för makroändringar.  
+- Använd AI för att klassificera XLSM-filer baserat på risk och användningsmönster.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file XLS tramite API Java protegge i dati dei fogli di calcolo legacy contenenti informazioni sensibili storiche. La redazione automatizzata nasconde vecchi fogli paga, redige i record dei clienti e maschera i dati di bilancio obsoleti.
+
+## ✅ Principali casi d'uso
+
+- **Fogli paga:** Rimuovere dettagli retributivi nei file archiviati.
+- **Record dei clienti:** Nascondere informazioni sui clienti legacy per la conformità alla conservazione.
+- **Dati di bilancio:** Mascherare vecchie proiezioni o numeri sensibili.
+
+## ⚙️ Scenari di automazione
+
+- **Politiche di conservazione:** Sanitizzare i file per l'archiviazione o la distruzione.
+- **Digitalizzazione sicura:** Redigere i file prima del trasferimento a sistemi moderni.
+- **Protezione storica:** Mantenere al sicuro e in conformità i dataset finanziari legacy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

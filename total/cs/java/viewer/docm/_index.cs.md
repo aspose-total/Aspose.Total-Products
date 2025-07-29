@@ -76,7 +76,26 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 📄 Zobrazení souborů DOCM pomocí Java API: Bezpečné náhledy makro-povolených dokumentů
+
+Použití Java API k zobrazení souborů DOCM pomáhá organizacím bezpečně zobrazovat makro-povolené dokumenty Wordu bez spouštění skriptů. To je důležité pro regulované odvětví, které se zabývá technickými dokumenty a citlivým obsahem.
+
+## ✅ Klíčové použití
+
+- **Bezpečné náhledy makro dokumentů:** Prohlížení souborů DOCM ve finančních, právních nebo zdravotnických prostředích.
+- **Kontrola technických dokumentů se skripty:** Bezpečné zobrazení vložených maker bez jejich spuštění.
+- **Kontrola obsahu:** Umístit týmy pro dodržování předpisů k validaci obsahu DOCM před použitím.
+
+## ⚙️ Scénáře automatizace
+
+- **Pískovištní prohlížeče:** Bezpečné zobrazování souborů DOCM v kontrolovaných prostředích.
+- **Dashboardy IT Governance:** Vizuální monitorování makro-povolených dokumentů.
+- **Nástroje pro validaci dokumentů:** Automatizace kontroly návrhů DOCM pro dodržování předpisů.
+- **Portály pro dokumentaci projektů:** Zobrazení makro-povolených dokumentů zainteresovaným stranám.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

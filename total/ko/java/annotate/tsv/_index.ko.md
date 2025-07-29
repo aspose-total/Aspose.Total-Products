@@ -117,7 +117,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 TSV 파일 주석 달기: 로그 분석, 데이터 검토 및 일반 텍스트 문서 향상</h2>
+
+주석을 다는 것은 구조화된 일반 텍스트 데이터인 로그, 데이터 세트 및 내보낸 보고서와 같은 데이터를 처리하는 팀에게 필수적입니다. TSV (탭으로 구분된 값) 파일에 주석이나 메모를 추가하면 명확성이 향상되고 정확한 데이터 해석이 보장되며 협업이 간소화됩니다.
+
+## ✅ 주요 사용 사례
+
+- **로그 분석:** TSV 파일로 저장된 로그 내보내기에서 필드를 설명하고 이상 현상을 플래그 처리하며 트렌드를 강조하는 주석 사용.
+- **일반 텍스트 문서:** TSV 문서 내에서 열, 데이터 소스 또는 변환 단계를 설명하는 노트 추가.
+- **원본 데이터 검토:** 데이터 품질 문제를 표시하거나 수정 사항을 제안하거나 분석가에게 맥락을 명확히하기 위해 인라인 주석 삽입.
+
+## ⚙️ 자동화 혜택
+
+- **AI 전처리:** 기계 학습이나 보고 전에 패턴을 태그 지정하거나 이상치를 감지하고 TSV 파일을 풍부하게 하는 주석을 자동화.
+- **코드 검토:** 주석이 달린 TSV를 사용하여 테스트 데이터를 명확히하고 입력/출력 구조를 확인하며 데이터 세트 변경 사항을 문서화.
+- **기술 문서:** 자동 주석을 통합하여 TSV 기반 데이터 사전, 구성 및 처리 노트를 명확하게 유지하고 최신 상태로 유지.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

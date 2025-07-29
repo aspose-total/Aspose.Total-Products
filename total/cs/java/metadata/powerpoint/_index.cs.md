@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- Klasifikujte firemní prezentace podle tématu nebo oddělení.
+- Prosazujte značkování a autorská práva pomocí metadat.
+- Organizujte rozsáhlé knihovny snímků pro rychlý přístup.
+
+## Scénáře automatizace:
+- Automatizujte hromadné označování vlastností prezentace.
+- Třiďte balíčky podle metadat jako je autor nebo kampaň.
+- Použijte umělou inteligenci kategorizovat sady snímků podle tématu a použití.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

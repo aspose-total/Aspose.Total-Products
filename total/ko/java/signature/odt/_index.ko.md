@@ -72,7 +72,31 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 자바 API를 사용하여 ODT 서명 추가 및 확인: 오픈 소스 문서 인증</h2>
+
+ODT 파일에서 자바 API를 사용하여 서명을 추가하거나 확인하는 것은 오픈 소스 문서에 서명하는 데 중요하며 공식 제출을 검증하고 협업 초안을 인증하는 데 중요합니다. 프로그래밍 방식의 서명 관리는 정부 승인, 학술 준수 및 안전한 게시를 지원합니다.
+
+## ✅ 주요 사용 사례
+
+- **진위를 위해 오픈 소스 문서에 서명**합니다.
+- **디지털 서명으로 보조금 신청을 확인**합니다.
+- **무결성을 위해 학술 제출물을 인증**합니다.
+- **기관 문서를 위조로부터 보호**합니다.
+- **오픈 게시에서 표준 준수를 강제**합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **ODT 서명으로 정부 승인 프로세스를 자동화**합니다.
+- **기관 문서 워크플로우를 프로그래밍 방식으로 안전하게** 보호합니다.
+- **검증된 파일로 표준 준수 게시를 가능하게** 합니다.
+- **서명 확인을 통해 버전 변경을 추적**합니다.
+- **다중 저자 문서 서명을 간소화**합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

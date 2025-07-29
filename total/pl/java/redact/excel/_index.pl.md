@@ -74,7 +74,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików EXCEL za pomocą interfejsów API w aplikacjach Java jest niezbędne do zabezpieczenia poufnych danych arkuszy kalkulacyjnych między działami. Programistyczne cenzurowanie usuwa szczegóły dotyczące wynagrodzeń, ukrywa prognozy budżetowe i maskuje poufne analizy w udostępnionych panelach.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Dane płacowe:** Ukryj informacje o wynagrodzeniach lub premiach w arkuszach kalkulacyjnych działu HR.
+- **Prognozy budżetowe:** Usuń przyszłe liczby budżetowe z udostępnionych raportów.
+- **Panele analityczne:** Maskuj dane specyficzne dla klienta w plikach inteligencji biznesowej.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Zgodność z RODO/CCPA:** Automatyzuj cenzurowanie w celu przestrzegania przepisów dotyczących ochrony prywatności.
+- **Bezpieczne raportowanie:** Chronienie poufnych liczb podczas wewnętrznego i zewnętrznego udostępniania.
+- **Przygotowanie danych AI:** Anonimizuj arkusze kalkulacyjne do bezpiecznego szkolenia modelu lub analizy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

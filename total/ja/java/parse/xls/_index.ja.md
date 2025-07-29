@@ -74,7 +74,22 @@ XLS パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Java APIを使用したXLSファイルのパース: レガシースプレッドシートの移行</h2>
+
+## ✅ 主なユースケース
+
+- **財務モデルの読み取り:** レガシースプレッドシートの計算にアクセスします。
+- **数式の抽出:** 複雑な数式を保存および再利用します。
+- **セルデータの比較:** セルごとの自動チェックを実施します。
+- **データ移行:** 古いスプレッドシートを新しいシステムに移動します。
+- **トレンド検出:** 過去のデータパターンを分析します。
+- **AIモデリング:** レガシーデータで予測モデルをトレーニングします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

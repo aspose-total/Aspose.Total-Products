@@ -75,7 +75,25 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagálás ODT (OpenDocument Text) fájlok Java API-k segítségével védi az érzékeny szövegeket nyílt formátumú dokumentumokban. Az automatizált redagálás eltávolítja a személyes azonosítókat, elrejti a visszajelzéseket, és elmaszkolja az érzékeny részleteket a kormányzati űrlapokban.
+
+## ✅ Fő felhasználási esetek
+
+- **Akadémiai dolgozatok:** Távolítsa el a hallgatók vagy szerzők személyes azonosítóit a publikált kutatásokból.
+- **Bizalmas vélemények:** Rejtse el a belső visszajelzéseket megosztott vázlatokban.
+- **Kormányzati űrlapok:** Maszkolja az érzékeny polgári adatokat az előírásoknak megfelelően.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Adatvédelmi törvények:** Automatizálja a redagálást az GDPR és hasonló szabályok érdekében.
+- **Kiszivárogtatók védelme:** Biztonságosan kezelje az érzékeny bejelentéseket.
+- **Közszféra együttműködés:** Biztonságosan terjessze az ODT fájlokat szanitizálva.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

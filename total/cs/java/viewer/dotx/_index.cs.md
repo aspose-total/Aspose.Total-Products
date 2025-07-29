@@ -76,7 +76,27 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Zobrazení souborů DOTX pomocí Java API: Snadná vizualizace šablon</h2>
+
+Zobrazení souborů DOTX pomocí Java API umožňuje uživatelům snadno zobrazit moderní šablony Wordu v webových tvůrcích a značkovacích systémech dokumentů.
+
+## ✅ Klíčové použití
+
+- **Tvůrci životopisů:** Zobrazte náhledy šablon uchazečům o práci.
+- **Interní rozložení:** Náhled značkových formátů pro firemní dopisy.
+- **Integrace CMS:** Zobrazte šablony týmům obsahu.
+
+## ⚙️ Scénáře automatizace
+
+- **Prohlížeče:** Zobrazte DOTX šablony online.
+- **Aplikace pro dokumenty:** Náhled šablon uvnitř firemních aplikací.
+- **Nástroje pro značkování náhledů:** Udržujte konzistenci značky s standardními šablonami.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

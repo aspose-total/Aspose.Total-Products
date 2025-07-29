@@ -88,7 +88,28 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Wyszukiwanie plików EXCEL przy użyciu interfejsów API Javy: Wzmacnianie inteligencji danych</h2>
+
+Wyszukiwanie plików EXCEL przy użyciu interfejsów API Javy jest kluczowe dla organizacji zajmujących się dużymi wolumenami danych arkuszy kalkulacyjnych. Automatyzacja wyszukiwania arkuszy kalkulacyjnych pomaga analitykom finansowym, audytorom i zespołom ds. zgodności natychmiastowo odnaleźć ważne informacje, poprawiając dokładność i efektywność operacyjną.
+
+## ✅ Główne przypadki użycia
+
+- **Identyfikacja Anomalii Finansowych Wśród Arkuszy Kalkulacyjnych**: Wykrywanie niezgodności i nietypowych wzorców w dokumentach finansowych.
+- **Zlokalizowanie Wpisów Specyficznych dla Klienta w Dziennikach Audytowych**: Znajdowanie historii transakcji i aktywności klientów w obszernych śladach audytowych.
+- **Filtrowanie Terminów Zgodności w Danych Operacyjnych**: Weryfikacja języka regulacyjnego w arkuszach kalkulacyjnych operacyjnych i raportowych.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Audyty Finansowe**: Usprawnienie audytów poprzez lokalizowanie liczb i wpisów w wielu plikach EXCEL.
+- **Analiza Danych Napędzana Sztuczną Inteligencją**: Zasilanie inteligentnych narzędzi analitycznych, które automatycznie wyszukują i interpretują dane z arkuszy kalkulacyjnych.
+- **Panele Monitorowania w Czasie Rzeczywistym**: Umożliwienie paneli, które śledzą na żywo dane finansowe i wyjątki.
+- **Wyszukiwanie Arkuszy Kalkulacyjnych w Przedsiębiorstwie**: Poprawa możliwości wyszukiwania we wszystkich plikach EXCEL korporacyjnych dla szybszego podejmowania decyzji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

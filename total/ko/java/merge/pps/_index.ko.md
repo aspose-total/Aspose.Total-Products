@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java 애플리케이션에서 API를 사용하여 PPS (PowerPoint Show) 파일을 병합하면 매력적이고 표시 준비가 된 프레젠테이션을 만들 수 있습니다. 프로그래밍 방식의 PPS 병합은 키오스크 디스플레이, 이벤트 및 자동화된 데모를 지원합니다.
+
+**주요 사용 사례:**
+- **자동화된 키오스크:** 여러 PPS 파일을 하나의 루프 슬라이드 쇼로 결합합니다.
+- **인터랙티브 데모:** 전시회나 제품 출시를 위해 쇼 파일을 병합합니다.
+- **표시 준비 덱:** 관객이 자동으로 실행되는 프레젠테이션을 편집합니다.
+
+**자동화 시나리오:**
+- **편집 가능한 변환:** 병합 중 PPS를 PPT 또는 PPTX로 변환합니다.
+- **쇼 순서화:** 여러 PPS 파일의 순서와 흐름을 자동화합니다.
+- **AI 전환 세련화:** 더 나은 영향을 위해 전환과 애니메이션을 부드럽게 만드는 데 AI를 사용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

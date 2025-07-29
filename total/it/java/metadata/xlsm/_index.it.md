@@ -80,7 +80,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Gestire i metadati nei file XLSM abilitati alle macro utilizzando le API nelle applicazioni Java è vitale per mantenere la sicurezza delle macro, il tracciamento dell'autore e la conformità nei fogli di calcolo automatizzati.
+
+**Principali casi d'uso:**
+- Monitorare l'uso delle macro per rilevare script non autorizzati.
+- Garantire la conformità alla sicurezza delle macro nei fogli di calcolo sensibili.
+- Tenere traccia dell'autore del foglio di calcolo per audit trail negli strumenti automatizzati.
+
+**Scenari di automazione:**
+- Convalidare i metadati consapevoli delle macro in modo programmato.
+- Generare tracce di audit automatizzate per le modifiche alle macro.
+- Utilizzare l'IA per classificare i file XLSM in base a rischi e modelli di utilizzo.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

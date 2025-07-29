@@ -75,7 +75,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+API를 사용하여 Java 애플리케이션에서 ODS (OpenDocument Spreadsheet) 파일을 병합하면 조직이 오픈 소스 스프레드시트 워크플로를 효율적으로 활용할 수 있습니다. 프로그래밍 방식의 ODS 병합은 원활한 데이터 관리, 협업 분석 및 명확한 보고를 지원합니다.
+
+**주요 사용 사례:**
+- **오픈 소스 스프레드시트:** 서로 다른 부서나 팀의 ODS 파일을 병합합니다.
+- **예산 편성:** 부서 예산을 단일 마스터 ODS 파일로 병합합니다.
+- **통합 대시보드:** 분석 데이터를 통합된 다중 탭 대시보드로 통합합니다.
+
+**자동화 시나리오:**
+- **ODS에서 Excel로 병합:** ODS 파일을 병합하고 더 넓은 호환성을 위해 Excel로 변환합니다.
+- **다중 탭 보고서:** 여러 시트로 보고서를 자동으로 생성합니다.
+- **AI 공식 일관성:** 병합 중에 AI를 사용하여 공식을 검증하고 표준화합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

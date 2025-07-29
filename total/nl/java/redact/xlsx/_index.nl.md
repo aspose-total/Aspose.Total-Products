@@ -74,7 +74,25 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het anonimiseren van XLSX-bestanden met Java-API's beschermt moderne spreadsheetinhoud met gevoelige bedrijfsinformatie. Programmatische anonimisering verwijdert prestatie-indicatoren, maskeert werknemers-ID's en verbergt leverancierskosten.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Dashboards:** Vertrouwelijke KPI's anonimiseren.
+- **Salarisoverzichten:** Werknemersidentificatoren en betalingsgegevens maskeren.
+- **Inkoopmodellen:** Leveranciersprijzen verbergen voor veilig delen.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Real-Time Compliance:** Privacyregels afdwingen bij live samenwerking.
+- **Auditklaarheid:** Automatiseer anonimisering vóór externe audits.
+- **Cloudsamenwerking:** Spreadsheets veilig delen binnen teams.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

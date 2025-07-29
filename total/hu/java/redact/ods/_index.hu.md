@@ -74,7 +74,25 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigálás ODS (OpenDocument Spreadsheet) fájlok Java API-k segítségével elengedhetetlen az open-source táblázatkezelő adataival foglalkozó szervezetek számára. A programozott redigálás elrejti a fizetéseket, eltávolítja az egészségügyi részleteket, és elrejti a beszállítói árakat a beszerzési táblázatokban.
+
+## ✅ Fő felhasználási esetek
+
+- **Fizetési jelentések:** Elrejtik a fizetési részleteket az open data kiadásokban.
+- **Egészségügyi nyilvántartások:** Távolítsák el az egészségügyi adatokat a kutatási szabályozás érdekében.
+- **Beszerzési táblázatok:** Elrejtik a beszállítói árakat a megosztott költségvetésekben.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Nyílt adatkiadás:** Adatok szanitizálása nyilvános közzétételhez.
+- **Kutatási szabályozás:** Adatvédelmi törvények betartása közzétett adathalmazok esetén.
+- **Belső megosztás:** Táblázatok terjesztése bizalmas információk kiadása nélkül.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

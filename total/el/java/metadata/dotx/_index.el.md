@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές περιπτώσεις χρήσης:</h2>  
+- Επιβολή εκδόσεων προτύπων σε ομάδες και τμήματα.  
+- Κατηγοριοποίηση προτύπων με βάση τις επιχειρησιακές μονάδες ή τα τμήματα.  
+- Υποστήριξη συμμόρφωσης εξασφαλίζοντας συνέπεια μεταδεδομένων.
+
+<h2>Σενάρια αυτοματισμού:</h2>  
+- Αυτοματοποίηση εισαγωγής μεταδεδομένων κατά τη δημιουργία ή ενημέρωση προτύπων.  
+- Κατηγοριοποίηση και οργάνωση προτύπων με προγραμματιστικό τρόπο.  
+- Διαχείριση ολόκληρου του κύκλου ζωής προτύπων με ανίχνευση μεταδεδομένων με τεχνητή νοημοσύνη.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

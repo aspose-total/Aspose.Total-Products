@@ -74,7 +74,21 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례:</h2>  
+- 메타데이터 속성에 따라 법적 텍스트 문서를 구성합니다.  
+- 의료 또는 임상 문서에서 저작자 및 편집 이력을 추적합니다.  
+- 가벼운 아카이브에서 메타데이터 기반 검색을 지원합니다.  
+
+<h2>자동화 시나리오:</h2>  
+- 수동 노력을 최소화하여 대규모로 RTF 속성을 추출합니다.  
+- 숨겨진 또는 누락된 메타데이터를 가진 레거시 RTF 아카이브를 스캔합니다.  
+- 콘텐츠 및 메타데이터를 기반으로 RTF 파일을 자동 태그하는 데 AI를 적용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

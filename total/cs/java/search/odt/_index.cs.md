@@ -89,7 +89,26 @@ Další podrobnosti o volitelných závislostech balíčků, jako je JogAmp JOGL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Vyhledávání souborů ODT pomocí Java API: Kontrola obsahu otevřeného textu</h2>
+
+## ✅ Klíčové použití případy
+
+- **Identifikace citlivého obsahu ve smlouvách**: Najděte důvěrné podmínky a povinnosti.
+- **Nalezení klauzulí politiky v pojišťovacích dokumentech**: Rychle najděte konkrétní jazyk politiky.
+- **Kontrola klíčových slov pro dodržování předpisů v provozních souborech**: Rozpoznání regulovaných frází v textových souborech.
+
+## ⚙️ Scénáře automatizace
+
+- **Právní objevování**: Zjednodušte vyhledávání důkazů a odkazů ve velkém měřítku dokumentů.
+- **Podnikové vyhledávání**: Integrujte soubory ODT do celoorganizačních vyhledávacích platforem.
+- **Validace obsahu pro regulace**: Ujistěte se, že dokumenty splňují standardy dodržování předpisů.
+- **Indexační potrubí založené na AI**: Napájejte inteligentní vyhledávací a klasifikační systémy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

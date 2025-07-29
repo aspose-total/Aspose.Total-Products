@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Dostęp i zarządzanie metadanymi w plikach ODT za pomocą interfejsów API w aplikacjach Java są kluczowe dla organizacji dokumentów tekstowych akademickich, wielojęzycznych i oprogramowania open-source.
+
+**Główne przypadki użycia:**
+- Klasyfikacja prac akademickich i raportów badawczych według metadanych.
+- Przypisanie autorstwa w celu zachowania integralności akademickiej.
+- Organizacja dokumentów wielojęzycznych w celu globalnej współpracy.
+
+**Scenariusze automatyzacji:**
+- Wyodrębnianie metadanych na dużą skalę z dużych bibliotek ODT.
+- Sortowanie dokumentów według autorów lub pól tematycznych.
+- Wykorzystanie sztucznej inteligencji do grupowania i oznaczania plików ODT dla łatwego odnajdywania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

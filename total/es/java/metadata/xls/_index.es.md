@@ -80,7 +80,23 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Acceso y gestión de metadatos en archivos XLS heredados usando APIs en aplicaciones Java
+
+El acceso y la gestión de metadatos en archivos XLS heredados usando APIs en aplicaciones Java ayuda a modernizar archivos de hojas de cálculo históricas mientras se preserva información crítica. El manejo programático garantiza la alineación con políticas de datos modernas y auditorías transparentes.
+
+**Casos de uso clave:**  
+- Migrar hojas de cálculo históricas con integridad total de metadatos.  
+- Auditar el historial de documentos para equipos financieros y revisiones regulatorias.  
+- Alinear archivos XLS desactualizados con los estándares de gobierno actuales.
+
+**Escenarios de automatización:**  
+- Extraer metadatos heredados a escala para archivado centralizado.  
+- Etiquetar archivos durante conversiones de formato de XLS a XLSX.  
+- Utilizar inteligencia artificial para reclasificar hojas de cálculo heredadas para flujos de trabajo modernos.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

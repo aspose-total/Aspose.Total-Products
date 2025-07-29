@@ -71,7 +71,25 @@ XLSX ファイルを簡単に分割する Java スクリプトまたはユーテ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してXLSXファイルを分割する：アジャイルなスプレッドシートデータ管理</h2>
+
+## ✅ 主なユースケース
+
+- **パフォーマンスシート**：チームやクライアントのパフォーマンスメトリクスを分離します。
+- **財務ダッシュボード**：特定の部署向けに複雑なダッシュボードを分割します。
+- **チーム固有のスプレッドシート**：ユニットや地域向けに適したXLSXファイルを生成します。
+
+## ⚙️ 自動化シナリオ
+
+- **分析レポート**：ビジネスインテリジェンスのための分割エクスポートを自動化します。
+- **パーソナライズされたデータエクスポート**：ステークホルダーにターゲットを絞ったスプレッドシートスライスを提供します。
+- **モバイルダッシュボードの最適化**：モバイルダッシュボード向けに軽量なXLSXファイルを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

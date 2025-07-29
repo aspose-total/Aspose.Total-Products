@@ -76,7 +76,27 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Przeglądanie plików DOTM za pomocą interfejsów API Javy: Bezpieczne podglądy szablonów z makrami</h2>
+
+Interfejsy API Javy do przeglądania plików DOTM pozwalają firmom wyświetlać szablony Word z makrami bez wykonywania osadzonego kodu. Zapewnia to bezpieczne przeglądanie szablonów w środowiskach zabezpieczonych.
+
+## ✅ Główne przypadki użycia
+
+- **Podglądy szablonów prawnych/finansowych:** Bezpieczne sprawdzanie poufnych szablonów.
+- **Inspekcja bez makr:** Przeglądaj układy bez uruchamiania skryptów.
+- **Udostępnianie szablonów:** Dystrybucja standardowych plików DOTM do edycji.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Bezpieczne podglądy:** Renderowanie plików DOTM w portalach HR lub prawnych.
+- **Generatory raportów:** Integracja podglądów szablonów do automatycznych generatorów raportów.
+- **Narzędzia zatwierdzania:** Wyświetlanie szablonów do zatwierdzenia przez zarządzanie.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

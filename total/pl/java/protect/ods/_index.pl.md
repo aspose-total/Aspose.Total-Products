@@ -74,7 +74,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Zabezpieczanie plików ODS za pomocą interfejsów API Javy</h2>
+Zabezpieczanie plików ODS za pomocą interfejsów API Javy zapewnia bezpieczeństwo operacyjnych arkuszy kalkulacyjnych oraz danych związanych z inteligencją biznesową. Zautomatyzowane reguły blokują szablony, narzucają widoki tylko do odczytu i zapewniają autoryzowany dostęp jedynie do informacji strategicznego planowania.
+
+**Główne przypadki użycia**
+- Zabezpieczanie danych operacyjnych w udostępnionych arkuszach kalkulacyjnych.
+- Blokowanie szablonów przed nieautoryzowanymi edycjami.
+- Narzucanie raportów BI tylko do odczytu.
+
+**Scenariusze automatyzacji**
+- Zgodność z przepisami dotyczącymi przetwarzania danych.
+- Ochrona danych szkoleniowych dla sztucznej inteligencji w plikach ODS.
+- Kontrola cykli życia plików planistycznych.
+- Zabezpieczenie wewnętrznego udostępniania danych.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

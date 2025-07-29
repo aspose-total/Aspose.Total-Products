@@ -74,7 +74,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki TIFF za pomocą interfejsów API Javy jest kluczowe dla ochrony skanów o wysokiej rozdzielczości, profesjonalnych planów i dokumentów medycznych. Automatyzacja wstawiania znaków wodnych zapewnia, że każdy plik TIFF zawiera niezbędne znaczniki własności lub prywatności.
+
+## ✅ Główne przypadki użycia
+
+- **Ochrona zeskanowanych dokumentów** — Dodawanie znaków wodnych z informacjami o prawach autorskich do skanów dokumentów o wysokiej rozdzielczości.
+- **Oznaczanie planów architektonicznych** — Osadzanie znaków praw autorskich na planach lub projektach architektonicznych.
+- **Oznaczanie raportów medycznych** — Etykietowanie plików z obrazami w celu zapobiegania nieautoryzowanemu rozpowszechnianiu.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Przechowywanie w archiwum** — Dodawanie znaków wodnych do plików przechowywanych w bezpiecznych archiwach cyfrowych.
+- **Usługi skanowania** — Automatyczne osadzanie znaków wodnych podczas procesów skanowania.
+- **Biblioteki cyfrowe** — Nakładanie znaczników własności na opublikowane zasoby TIFF.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

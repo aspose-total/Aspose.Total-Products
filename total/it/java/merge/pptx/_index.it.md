@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Unione dei file PPTX utilizzando le API nelle applicazioni Java
+
+L'unione dei file PPTX utilizzando le API nelle applicazioni Java semplifica l'assemblaggio delle presentazioni per i team moderni. L'unione automatizzata dei file PPTX garantisce l'allineamento del marchio e una preparazione più rapida di diapositive aziendali di alta qualità.
+
+**Principali casi d'uso:**
+- **Report esecutivi:** Combinare le presentazioni per produrre presentazioni complete per la sala riunioni.
+- **Contributi del team:** Unire le diapositive di diversi contributori in un unico file PPTX principale.
+- **Sessioni di formazione:** Assemblare moduli di formazione diversificati in presentazioni strutturate.
+
+**Scenari di automazione:**
+- **Sequenza delle diapositive:** Ordinare e unire le diapositive in modo programmato.
+- **Armonizzazione dei modelli:** Garantire un uso coerente dei temi aziendali.
+- **Ottimizzazione del layout tramite intelligenza artificiale:** Utilizzare l'intelligenza artificiale per bilanciare elementi visivi e testuali per una presentazione professionale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

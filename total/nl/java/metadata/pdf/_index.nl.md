@@ -74,7 +74,19 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Belangrijkste Gebruiksscenario's:
+- Verbeter de vindbaarheid in openbare of privédocumentbibliotheken.
+- Handhaaf classificatieregels in juridische of gereguleerde archieven.
+- Voeg nalevingsinformatie rechtstreeks toe aan PDF's.
+
+**Automatiseringsscenario's:**
+- Automatiseer het taggen van titel, onderwerp en trefwoorden.
+- Bewerk metadata in batches om consistentie te behouden.
+- Gebruik AI om PDF's te labelen voor regelgevende en auditworkflows.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

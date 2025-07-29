@@ -73,7 +73,22 @@ PDF 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 암호로 계약서 보호
+- 민감한 파일의 복사/인쇄 비활성화
+- 디지털 서명 자동 적용
+
+<h2>자동화 시나리오</h2>
+- 법적 및 규제 요구 사항 충족
+- 문서 워크플로 보호
+- AI 사용을 위한 입력 문서 필터링
+- 기업급 콘텐츠 거버넌스 활성화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

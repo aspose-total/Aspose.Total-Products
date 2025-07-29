@@ -74,7 +74,19 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>주요 사용 사례:</h2>
+- **레거시 템플릿:** 오래된 DOT 템플릿을 통합된 마스터 템플릿으로 결합합니다.
+- **부서 레이아웃:** 부서 문서 전체에 걸쳐 일관된 서식을 보장합니다.
+- **재사용 가능한 콘텐츠:** DOT 파일을 병합하여 DOCX 출력을 쉽게 만들 수 있도록 재사용 가능한 섹션을 현대화합니다.
+
+<h2>자동화 시나리오:</h2>
+- **DOT-to-DOCX 병합:** 레거시 템플릿을 병합하는 동안 변환을 자동화합니다.
+- **일괄 템플릿 조립:** 여러 템플릿을 단일 마스터 파일로 통합합니다.
+- **AI 지원 표준화:** AI를 사용하여 불일치를 감지하고 레이아웃을 브랜드 규정에 맞게 조정합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

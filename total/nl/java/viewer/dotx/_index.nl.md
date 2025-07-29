@@ -76,7 +76,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 DOTX-bestanden bekijken met behulp van Java API's: moeiteloze sjabloonsvisualisatie</h2>
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **CV-makers:** Toon sjabloonvoorbeelden aan werkzoekenden.
+- **Interne Indelingen:** Voorbeeld van gebrandmerkte formaten voor bedrijfsbrieven.
+- **CMS-integratie:** Toon sjablonen voor contentteams.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Browserweergaven:** Render DOTX-sjablonen online.
+- **Document-apps:** Voorbeeld van sjablonen binnen zakelijke apps.
+- **Gebrandmerkte voorbeeldtools:** Behoud merkconsistentie met standaardsjablonen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

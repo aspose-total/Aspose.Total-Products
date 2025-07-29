@@ -74,7 +74,25 @@ Voor details verwijzen wij u naar [Productdocumentatie](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigeren van ODS (OpenDocument Spreadsheet)-bestanden met behulp van Java API's is essentieel voor organisaties die open-source spreadsheetgegevens verwerken. Programmatische redactie maskeert salarissen, verwijdert medische details en verbergt leveranciersprijzen in inkoopbladen.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Salarisrapporten:** Verberg betalingsgegevens in open data releases.
+- **Medische Dossiers:** Verwijder gezondheidsgegevens voor onderzoeksconformiteit.
+- **Inkoopbladen:** Verberg leveranciersprijzen in gedeelde budgetten.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Publicatie van Open Data:** Gegevens saneren voor openbare release.
+- **Onderzoeksconformiteit:** Voldoen aan privacywetten voor gepubliceerde datasets.
+- **Intern Delen:** Spreadsheets verspreiden zonder vertrouwelijke informatie bloot te stellen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

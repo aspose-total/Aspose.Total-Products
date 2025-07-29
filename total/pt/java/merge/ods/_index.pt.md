@@ -75,7 +75,21 @@ Para obter detalhes, consulte [Documentação do Produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusão de arquivos ODS (Planilha de Documentos Abertos) usando APIs em aplicativos Java ajuda as organizações a aproveitarem fluxos de trabalho de planilhas de código aberto de forma eficiente. A fusão programática de ODS suporta uma gestão de dados suave, análises colaborativas e relatórios claros.
+
+**Principais Casos de Uso:**
+- **Planilhas de Código Aberto:** Combine arquivos ODS de diferentes departamentos ou equipes.
+- **Orçamento:** Fundir orçamentos de departamentos em um único arquivo ODS principal.
+- **Dashboards Integrados:** Consolide dados de análise em painéis unificados de várias abas.
+
+**Cenários de Automação:**
+- **Fusão de ODS para Excel:** Junte arquivos ODS e converta para Excel para uma compatibilidade mais ampla.
+- **Relatórios de Múltiplas Abas:** Automatize a criação de relatórios com várias planilhas.
+- **Consistência de Fórmulas de IA:** Use IA para validar e padronizar fórmulas durante a fusão.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

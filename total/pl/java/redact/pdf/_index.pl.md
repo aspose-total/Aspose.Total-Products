@@ -74,7 +74,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/pdf/jav
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików PDF za pomocą interfejsów API Javy jest podstawą ochrony uniwersalnie udostępnianych dokumentów. Zautomatyzowane cenzurowanie usuwa nazwy klientów, ukrywa historie medyczne i maskuje numery ubezpieczenia społecznego w formularzach podatkowych z dużą precyzją.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Umowy:** Usuń szczegóły klientów z prawnych plików PDF.
+- **Dokumenty medyczne:** Cenzuruj historie pacjentów dla zgodności.
+- **Formularze podatkowe:** Maskuj numery ubezpieczenia społecznego w zgłoszeniach finansowych.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Zgodność z RODO/HIPAA:** Wdrażaj polityki prywatności w skali.
+- **Bezpieczna wymiana:** Bezpiecznie udostępniaj ocenzurowane pliki PDF stronom trzecim.
+- **E-Discovery:** Zautomatyzuj cenzurowanie w procesach FOIA lub sądowych.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

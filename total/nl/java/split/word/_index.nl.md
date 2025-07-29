@@ -75,7 +75,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Wordbestanden splitsen met behulp van Java API's: Slimmere documentatie en naleving</h2>
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Segmentatie per Hoofdstuk**: Grote documentatie opdelen in hoofdstukspecifieke bestanden.
+- **Beleidsisolatie**: Beleidsregels isoleren per afdeling of regio.
+- **Afdelingsspecifieke Inhoud**: Inhoud genereren die is afgestemd op verschillende teams.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Nalevingsverpakking**: Geautomatiseerde opdeling van bestanden voor juridische of regelgevende indiening.
+- **Modulaire Inhoud**: Geïsoleerde secties hergebruiken in meerdere documenten.
+- **Mobiele Documentlevering**: Kleinere, relevante secties aanbieden voor mobiel gebruik.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

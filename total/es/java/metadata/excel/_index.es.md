@@ -80,7 +80,23 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Extracción y gestión de metadatos en archivos de Excel utilizando APIs en aplicaciones Java
+
+La extracción y gestión de metadatos en archivos de Excel utilizando APIs en aplicaciones Java es crucial para empresas orientadas a los datos que dependen de una gobernanza de la información precisa. Al automatizar flujos de trabajo de metadatos de Excel, las organizaciones pueden identificar propietarios de datos, categorizar modelos financieros y mantener procesos estructurados.
+
+**Casos de uso clave:**
+- Identificar propietarios de datos de hojas de cálculo para la responsabilidad y la gestión de acceso.
+- Categorizar modelos financieros complejos para necesidades regulatorias y de auditoría.
+- Apoyar flujos de trabajo estructurados al alinear metadatos con políticas de datos empresariales.
+
+**Escenarios de automatización:**
+- Automatizar la indexación basada en metadatos para una rápida recuperación de hojas de cálculo.
+- Clasificar hojas de cálculo por departamento, proyecto o tipo de modelo.
+- Aplicar etiquetado con inteligencia artificial a grandes repositorios de Excel para cumplimiento y análisis.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

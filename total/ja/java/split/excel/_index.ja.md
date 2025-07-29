@@ -71,7 +71,25 @@ Excel ファイルを簡単に分割する Java スクリプトまたはユー�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してEXCELファイルを分割する：データの簡略化されたセグメンテーションと配信</h2>
+
+## ✅ 主なユースケース
+
+- **部門予算**：マスター予算シートを部門ごとのファイルに分割して安全に配布します。
+- **四半期データシート**：特定の期間のデータを抽出して財務報告を簡略化します。
+- **事業部メトリクス**：ステークホルダー向けにユニット別のパフォーマンスシートを生成します。
+
+## ⚙️ 自動化シナリオ
+
+- **財務データ配布**：分割されたExcelファイルをチームやクライアントと自動共有します。
+- **ExcelからCSVへのエクスポート**：セグメント化されたデータをCSVにエクスポートして他のツールと統合します。
+- **モバイルコンテンツ配信**：モバイルユーザーに向けて小さなターゲットExcelファイルを提供して負荷を軽減します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

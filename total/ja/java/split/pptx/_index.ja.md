@@ -68,7 +68,27 @@ PPTX ファイルを簡単に分割する Java スクリプトまたはユーテ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してPPTXファイルを分割する：ターゲットオーディエンス向けの適応型プレゼンテーション</h2>
+
+Java APIを使用してPPTXファイルを分割することで、現代のプレゼンテーションを特定の顧客、チーム、またはトレーニングニーズに適応させることが簡単になります。これにより、いつも効果的で関連性の高いスライド配信が実現されます。
+
+## ✅ 主なユースケース
+
+- **クライアントに合わせる**: 特定の顧客や提案のためにデッキをスライスしてプレゼンテーションを調整します。
+- **モジュールごとのトレーニング**: トレーニングプレゼンテーションをモジュールごとのPPTXファイルに分割します。
+- **事業部門の焦点**: 特定の部署やチームをターゲットにしたスライドを配信します。
+
+## ⚙️ 自動化シナリオ
+
+- **動的なピッチ配信**: クライアント固有のデッキの生成を自動化します。
+- **スライドの再利用**: プロジェクト間でコアスライドセクションを再利用します。
+- **適応型パブリッシング**: モバイルやWebプラットフォーム向けに最適化されたスライドセクションを配信します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

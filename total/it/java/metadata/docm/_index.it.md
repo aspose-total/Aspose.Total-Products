@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Accedere e gestire i metadati nei file DOCM abilitati alle macro utilizzando le API nelle applicazioni Java è fondamentale per flussi di lavoro documentali sicuri e conformi. Gestendo i metadati DOCM in modo programmato, le organizzazioni possono identificare le origini delle macro, tenere traccia della cronologia delle versioni e mantenere la governance nei processi basati su modelli.
+
+**Principali casi d'uso:**
+- Identificare e verificare le origini delle macro per prevenire l'esecuzione non autorizzata del codice.
+- Tenere traccia della cronologia delle versioni per mantenere registri di audit per la conformità.
+- Garantire che i modelli con macro siano conformi agli standard interni dei flussi di lavoro.
+
+**Scenari di automazione:**
+- Automatizzare la convalida dei metadati attraverso i file DOCM per garantire coerenza.
+- Monitorare i modelli di utilizzo delle macro e segnalare automaticamente le anomalie.
+- Utilizzare la categorizzazione assistita dall'IA per organizzare i file DOCM dinamici per tipi di macro, autore e versione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

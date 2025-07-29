@@ -74,7 +74,25 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+A Java alkalmazásokban az EXCEL fájlok vörösítése API-k segítségével alapvető fontosságú az érzékeny táblázati adatok biztonságosítása érdekében az osztályok között. A programozott vörösítés eltávolítja a bérszámfejtési részleteket, elrejti a költségvetési előrejelzéseket és maszkolja a bizalmas elemzéseket a megosztott irányítópultokban.
+
+## ✅ Fő felhasználási esetek
+
+- **Bérszámfejtési adatok:** Rejtse el a fizetési vagy bónuszinformációkat az HR táblázatokban.
+- **Költségvetési előrejelzések:** Távolítsa el a jövőbeli költségvetési számokat a megosztott jelentésekből.
+- **Elemzői irányítópultok:** Maszkolja az ügyfél-specifikus adatokat a üzleti intelligencia fájlokban.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **GDPR/CCPA megfelelőség:** Automatizálja a vörösítést a adatvédelmi törvények betartása érdekében.
+- **Biztonságos jelentés:** Védje meg az érzékeny számokat a belső és külső megosztás során.
+- **AI adat előkészítés:** Anonimizálja a táblázatokat biztonságos modellképzéshez vagy elemzéshez.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

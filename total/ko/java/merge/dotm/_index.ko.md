@@ -74,7 +74,19 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 중요 사용 사례:
+- **복잡한 템플릿:** 여러 매크로 기반 템플릿을 하나의 워크플로용 마스터로 결합합니다.
+- **대화형 양식:** 사용자 입력 자동화를 위해 매크로에 의존하는 양식을 통합합니다.
+- **준수 검토:** 정책 준수를 위해 자동화된 템플릿을 검토하고 병합합니다.
+
+## 자동화 시나리오:
+- **매크로 유효성 검사:** 안전한 템플릿 사용을 위해 병합 중 매크로 스크립트를 유효성 검사합니다.
+- **안전한 템플릿 통합:** 여러 DOTM을 결합할 때 매크로 충돌을 방지합니다.
+- **AI 패턴 감지:** 반복 로직 식별 및 매크로 구조 최적화를 위해 AI를 활용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

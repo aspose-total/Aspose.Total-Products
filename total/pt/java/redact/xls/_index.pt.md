@@ -74,7 +74,25 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigir arquivos XLS por meio de APIs Java protege dados de planilhas legadas que contêm informações sensíveis históricas. A redação automatizada oculta antigas folhas de pagamento, redige registros de clientes e mascara dados de orçamento desatualizados.
+
+## ✅ Principais Casos de Uso
+
+- **Folhas de Pagamento:** Remova detalhes de pagamento em arquivos arquivados.
+- **Registros de Clientes:** Oculte informações de clientes legados para conformidade com a retenção.
+- **Dados de Orçamento:** Mascarar projeções antigas ou números sensíveis.
+
+## ⚙️ Cenários de Automação
+
+- **Políticas de Retenção:** Sane arquivos para arquivamento ou destruição.
+- **Digitalização Segura:** Redigir arquivos antes de movê-los para sistemas modernos.
+- **Proteção Histórica:** Mantenha conjuntos de dados financeiros legados seguros e em conformidade.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,23 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Slučování obecných obrázkových souborů pomocí Java API umožňuje vývojářům automatizovat tvorbu obsahu napříč různými formáty souborů.
+
+**Klíčové použití:**
+- **Právní technologie:** Sestavte vizuální důkazy do jednotlivých souborů případů.
+- **Sociální platformy:** Sestavte uživatelsky generované obrázky pro sociální zdroje.
+- **Graficky bohaté zprávy:** Slučujte grafy, infografiky a fotografie do jednotných zpráv.
+
+**Scénáře automatizace:**
+- **Generování dynamické mřížky:** Automaticky generujte obrázkové mřížky pro prezentace.
+- **Slučování formátů nezávislé na formátu:** Bezproblémově slučujte smíchané obrázkové formáty.
+- **Kurátorství rozložení pomocí AI:** Použijte AI k návrhu, uspořádání a optimalizaci finálních vizuálů.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

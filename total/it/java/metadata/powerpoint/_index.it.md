@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Gestire i metadati nei file di Microsoft PowerPoint utilizzando le API nelle applicazioni Java garantisce coerenza del marchio e librerie di presentazioni organizzate.
+
+**Principali casi d'uso:**
+- Classificare le presentazioni aziendali per argomento o dipartimento.
+- Applicare politiche di branding e copyright tramite i metadati.
+- Organizzare estese librerie di diapositive per un accesso rapido.
+
+**Scenari di automazione:**
+- Automatizzare l'etichettatura di gruppo delle proprietà della presentazione.
+- Ordinare i mazzi in base ai metadati come autore o campagna.
+- Applicare l'IA per categorizzare i mazzi di diapositive per tema e utilizzo.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

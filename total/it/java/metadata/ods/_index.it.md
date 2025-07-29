@@ -80,7 +80,19 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casi d'uso chiave:
+- Monitorare la proprietà dei fogli di calcolo in ambienti collaborativi.
+- Categorizzare dati finanziari o operativi per dipartimento o progetto.
+- Supportare il ciclo di vita dei documenti e le politiche di conformità.
+
+## Scenari di automazione:
+- Eseguire l'etichettatura automatica dei metadati per i file ODS.
+- Classificare automaticamente colonne e tipi di dati.
+- Utilizzare l'IA per popolare i metadati mancanti per una migliore governance dei dati.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

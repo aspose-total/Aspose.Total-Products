@@ -72,7 +72,21 @@ ODP 編集アプリまたはユーティリティを開発する必要があり�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+
+- **ビジネスロードマップ:** 共有デッキ内の戦略計画を隠す。
+- **人事プレゼンテーション:** スライドから従業員の名前や個人情報を削除する。
+- **投資家向けプレゼンテーション:** 機密性の高い競合データや財務データを隠す。
+
+## ⚙️ 自動化シナリオ
+
+- **機密性の高いピッチデッキ:** 外部ステークホルダー向けにプレゼンテーションを清書する。
+- **トレーニング資料:** 安全な内部知識共有のための自動化された隠蔽。
+- **規制遵守:** コミュニケーションプライバシー基準を満たす。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -88,7 +88,26 @@ XLS 検索可能なソフトウェアまたはユーティリティを開発す�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 Java APIを使用したXLSファイルの検索：レガシーデータの解除</h2>
+
+## ✅ 主なユースケース
+
+- **レガシースプレッドシートから監査データを抽出**: 古いXLSファイル内の履歴トランザクションや監査トレイルを特定します。
+- **CRMシート内の顧客セグメントを検索**: アーカイブされたCRMスプレッドシート内で特定の顧客グループやセグメントを見つけます。
+- **コンプライアンスレコード内の契約識別子を特定**: 規制チェックのために契約番号や関連する条件を取得します。
+
+## ⚙️ 自動化シナリオ
+
+- **アーカイブデータマイニング**: 陳腐化したスプレッドシートから貴重な情報を自動的に抽出します。
+- **文書デジタル化ワークフロー**: レガシーXLSファイルでの迅速な検索を可能にすることでデジタル化をサポートします。
+- **規制コンプライアンスチェック**: 古い記録が現在のコンプライアンス要件を満たしていることを確認します。
+- **AIベースのスプレッドシート解釈**: インテリジェントな解析と索引付けを統合してデータ洞察を向上させます。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

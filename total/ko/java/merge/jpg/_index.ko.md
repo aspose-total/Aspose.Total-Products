@@ -76,7 +76,21 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례:</h2>
+- **사진 보관소:** 관련된 JPG를 병합하여 조직적인 사진 보관소 구축.
+- **고객 업로드:** 사용자가 업로드한 이미지를 단일 시각적 게시물로 결합.
+- **통합된 브랜드 자산:** 캠페인용 일관된 브랜드 시각물로 여러 JPG를 병합.
+
+<h2>자동화 시나리오:</h2>
+- **대량 JPG 병합:** 수동 노력을 최소화하여 대량 JPG 통합 처리.
+- **실시간 구성:** 콘텐츠가 업로드될 때 이미지를 동적으로 병합.
+- **AI 지원 정렬:** 정교하고 브랜드에 맞는 프레젠테이션을 위해 JPG를 정렬 및 결합.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

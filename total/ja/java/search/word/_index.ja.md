@@ -89,7 +89,26 @@ JogAmp JOGL、Harfbuzz フォント エンジン、Java Advanced Imaging JAI な
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ Java APIを使用してWordファイルを検索する：テキストベースの知識を制御する</h2>
+
+## ✅ 主なユースケース
+
+- **契約書内の機密情報の特定**：機密条項や義務を検出します。
+- **マニュアル内の製品仕様の特定**：重要な製品詳細を迅速に見つけます。
+- **人事文書内の方針声明の発見**：人事方針が明確かつ一貫していることを確認します。
+
+## ⚙️ 自動化シナリオ
+
+- **法的コンプライアンス**：法的レビューのための契約チェックを自動化します。
+- **知識抽出**：高速検索で知識労働者をサポートします。
+- **AIによる分類**：発見されたトピックによってドキュメントに自動タグ付けします。
+- **企業全体のドキュメント分析**：Wordファイルをより広範な企業検索システムに接続します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

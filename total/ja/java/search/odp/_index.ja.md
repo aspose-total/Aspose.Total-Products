@@ -88,7 +88,26 @@ ODP 検索可能なソフトウェアまたはユーティリティを開発す�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Java APIを使用してODPファイルを検索する：プレゼンテーションの洞察を解除する</h2>
+
+## ✅ 主なユースケース
+
+- **マーケティングデッキ内のブランドキーワードを検索する**：製品、スローガン、ブランド用語の言及をスライド全体で見つける。
+- **複数のスライドで法的免責事項を取得する**：法的声明が正しく配置され、一貫性があることを確認する。
+- **アーカイブされたプレゼンテーション内の隠されたコンテンツを見つける**：古いODPファイル内の埋め込まれたまたは見落とされた詳細を発見する。
+
+## ⚙️ 自動化シナリオ
+
+- **デジタルアセット管理**：プレゼンテーションコンテンツの組織化と再利用を向上させる。
+- **エンタープライズコンテンツの発見**：プレゼンテーションライブラリ全体での大規模な検索を可能にする。
+- **AIパワードのピッチ分析**：メッセージの一貫性とブランディングを分析するためのピッチデッキ。
+- **コンプライアンスレビュー**：免責事項と法的コンプライアンスのためのスライドチェックを自動化する。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

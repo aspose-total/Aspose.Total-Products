@@ -76,7 +76,27 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 DOT-bestanden bekijken met behulp van Java API's: Voorbeeld Word-sjablonen overal bekijken</h2>
+
+Het bekijken van DOT-bestanden met Java API's maakt naadloze weergave van Word-sjablonen mogelijk in web-apps, documentgeneratoren en CMS-platforms. Gebruikers kunnen lay-outs en stijlen inspecteren zonder Word geïnstalleerd te hebben.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Weergeven van sjablonen voor Workflows:** Toon DOT-bestanden in geautomatiseerde documentgeneratie.
+- **Voorbeeldstijlen:** Visualiseer standaardformaten voor nieuwe documenten.
+- **Sjabloonbibliotheken in CMS:** Laat gebruikers online beschikbare DOT-sjablonen bekijken.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Onboarding-platforms:** Render aanbiedingsbrieven of contractsjablonen.
+- **Aanpassingsgereedschappen:** Maak het gebruikers mogelijk sjablonen te kiezen en aan te passen.
+- **Sjabloonbibliotheken:** Voorbeeldweergave van bedrijfssjablonen in contenthubs.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

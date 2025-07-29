@@ -73,7 +73,22 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/pdf/java/system
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Användningsområden</h2>
+- Kryptera kontrakt med lösenord.
+- Inaktivera kopiering/utskrift för känsliga filer.
+- Tillämpa digitala signaturer automatiskt.
+
+<h2>Automatiseringsscenario</h2>
+- Uppfylla lagliga och reglerande krav.
+- Säkra dokumentflöden.
+- Filtrera inmatningsdokument för AI-användning.
+- Möjliggöra innehållsstyrning av företagsklass.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

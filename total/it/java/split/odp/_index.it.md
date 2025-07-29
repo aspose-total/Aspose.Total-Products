@@ -68,7 +68,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Suddivisione dei file ODP utilizzando le API Java: Gestione mirata delle presentazioni</h2>
+
+La suddivisione dei file ODP utilizzando le API Java aiuta le organizzazioni a creare set di diapositive focalizzati su argomenti specifici. Ciò supporta la formazione, gli eventi e le presentazioni consentendo la distribuzione e il riutilizzo di contenuti modulari.
+
+## ✅ Principali casi d'uso
+
+- **Set di diapositive specifiche per argomento**: Dividere grandi presentazioni in set di diapositive per pubblici mirati.
+- **Presentazioni di formazione**: Suddividere i materiali di formazione in moduli per un apprendimento e aggiornamenti facili.
+- **Sessioni di evento**: Separare le diapositive dell'evento in file ODP specifici per sessione per una distribuzione fluida.
+
+## ⚙️ Scenari di automazione
+
+- **Generazione di diapositive LMS**: Automatizzare la creazione di diapositive modulari per i sistemi di gestione dell'apprendimento.
+- **Riutilizzo di diapositive**: Riutilizzare diapositive di base in diverse presentazioni e progetti.
+- **Segmentazione delle presentazioni**: Ottimizzare grandi presentazioni in sezioni gestibili per una distribuzione facile.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

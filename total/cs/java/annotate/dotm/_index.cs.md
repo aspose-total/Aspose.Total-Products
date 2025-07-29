@@ -114,7 +114,22 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Proč anotovat soubory DOTM: Bezpečné šablony s makry pro branding a opakované použití</h2>
+
+Anotování souborů **DOTM** je klíčové pro správu šablon Word s makry. Kvalitní komentáře a značení pomáhají týmům při kontrole makro logiky, doladění rozložení a aktualizaci brandingu v opakovaně použitelných šablonách s vestavěnou automatizací.
+
+## 📌 Praktické případy použití
+
+- **Revize šablon:** Přidejte poznámky k aktualizaci sekcí, opravě problémů s rozložením nebo objasnění dynamických polí.
+- **Aktualizace brandingu:** Zvýrazněte loga, písma a barvy pro udržení konzistentního brandingu v šablonách s makry.
+- **Opakované pracovní postupy:** Vložte pokyny pro zajištění správného běhu maker při opakovaném použití šablon.
+- **Automatizace:** Použijte automatizované nástroje pro správu šablon k provedení auditů maker, kontrol souladu a sledování verzí s chytrými poznámkami.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,27 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 DOTM-bestanden bekijken met behulp van Java API's: Beveiligde macro-ingeschakelde sjabloondoorlopen</h2>
+
+Java API's voor het bekijken van DOTM-bestanden stellen bedrijven in staat macro-ingeschakelde Word-sjablonen weer te geven zonder ingesloten code uit te voeren. Dit zorgt voor veilige sjabloonbeoordelingen in beveiligde omgevingen.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Voorbeelden van Juridische/Financiële Sjablonen:** Inspecteer gevoelige sjablonen veilig.
+- **Macro-vrije inspectie:** Bekijk lay-outs zonder scripts te activeren.
+- **Sjabloon delen:** Verspreid standaard DOTM-bestanden voor bewerking.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Beveiligde kijkers:** Render DOTM-bestanden in HR- of juridische portals.
+- **Rapportgeneratoren:** Integreer sjabloondoorlopen in geautomatiseerde rapportgeneratoren.
+- **Goedkeuringshulpmiddelen:** Toon sjablonen voor goedkeuring door het management.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

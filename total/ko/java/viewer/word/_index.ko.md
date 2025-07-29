@@ -76,7 +76,27 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용하여 WORD 파일 보기: 중요 문서의 안전한 표시</h2>
+
+WORD 파일을 자바 API로 보는 것은 조직이 Microsoft Word에 의존하지 않고 웹이나 모바일 포털에서 계약, 인사 문서 및 내부 정책을 안전하게 표시할 수 있게 합니다.
+
+## ✅ 주요 사용 사례
+
+- **계약 및 정책:** 직원에게 중요한 WORD 문서를 보여줍니다.
+- **인사 문서:** 안내서, 양식 또는 편지를 안전하게 표시합니다.
+- **내부 공유:** 민감한 문서에 대한 보기 전용 액세스를 활성화합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **입사 전 과정 플랫폼:** 인사 템플릿의 보기를 자동화합니다.
+- **문서 관리:** DMS 도구에 안전한 뷰어를 포함합니다.
+- **컴플라이언스 시스템:** 감사 준비가 된 문서 보기를 제공합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

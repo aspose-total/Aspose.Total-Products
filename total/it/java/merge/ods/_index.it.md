@@ -75,7 +75,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unire i file ODS (OpenDocument Spreadsheet) utilizzando le API nelle applicazioni Java aiuta le organizzazioni a sfruttare in modo efficiente i flussi di lavoro dei fogli di calcolo open-source. La fusione ODS programmatica supporta una gestione dati fluida, analisi collaborativa e reporting chiaro.
+
+**Principali casi d'uso:**
+- **Fogli di calcolo open-source:** Combinare file ODS provenienti da diversi dipartimenti o team.
+- **Budgeting:** Unire i budget dei dipartimenti in un unico file ODS principale.
+- **Dashboard integrati:** Consolidare i dati analitici in dashboard unificate con più schede.
+
+**Scenari di automazione:**
+- **Fusione ODS-Excel:** Unire i file ODS e convertirli in Excel per una maggiore compatibilità.
+- **Report multi-scheda:** Automatizzare la creazione di report con più fogli.
+- **Coerenza delle formule AI:** Utilizzare l'IA per convalidare e standardizzare le formule durante la fusione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

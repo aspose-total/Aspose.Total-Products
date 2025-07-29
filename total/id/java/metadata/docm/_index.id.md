@@ -74,7 +74,23 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Mengakses dan Mengelola Metadata dalam Berkas DOCM yang Diaktifkan Makro Menggunakan API dalam Aplikasi Java
+
+Mengakses dan mengelola metadata dalam berkas DOCM yang diaktifkan makro menggunakan API dalam aplikasi Java sangat penting untuk alur kerja dokumen yang aman dan sesuai. Dengan menangani metadata DOCM secara programatik, organisasi dapat mengidentifikasi sumber makro, melacak riwayat versi, dan menjaga tata kelola dalam proses berbasis template.
+
+**Kasus Penggunaan Utama:**  
+- Mengidentifikasi dan memverifikasi sumber makro untuk mencegah eksekusi kode yang tidak sah.  
+- Melacak riwayat versi untuk menjaga jejak audit untuk kepatuhan.  
+- Memastikan template dengan makro sesuai dengan standar alur kerja internal.
+
+**Skenario Otomatisasi:**  
+- Mengotomatisasi validasi metadata di seluruh berkas DOCM untuk memastikan konsistensi.  
+- Memantau pola penggunaan makro dan secara otomatis menandai anomali.  
+- Menggunakan kategorisasi yang dibantu AI untuk mengorganisir berkas DOCM dinamis berdasarkan jenis makro, penulis, dan versi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

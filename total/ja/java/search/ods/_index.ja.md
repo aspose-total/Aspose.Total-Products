@@ -88,7 +88,27 @@ ODS 検索可能なソフトウェアまたはユーティリティを開発す�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Java APIを使用してODSファイルを検索する：オープンデータの効率を解放する</h2>
+
+## ✅ 主要なユースケース
+
+- **コンプライアンスエントリの追跡**：財務または運用スプレッドシート内の規制データフィールドを監視します。
+- **アーカイブされたシートから顧客データを取得**：歴史的な顧客取引や詳細を特定します。
+- **リアルタイムでの財務記録の監査**：矛盾やエラーを即座に修正します。
+
+## ⚙️ 自動化シナリオ
+
+- **レポートパイプライン**：正確な検索結果をビジネスレポートに自動的に組み込みます。
+- **リアルタイムアナリティクス**：最新のスプレッドシートデータでライブダッシュボードを活用します。
+- **リスク管理監査**：リスク評価のためにスプレッドシート内の異常を検出します。
+- **AIサポート分類**：データを知的に分類およびタグ付けします。
+- **エンタープライズ検索エンジン**：組織内のすべてのODSファイルを対象とした統合検索を可能にします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

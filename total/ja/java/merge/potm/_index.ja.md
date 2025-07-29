@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **インタラクティブなレイアウト:** 組み込みマクロを備えたスライドテンプレートを組み合わせます。
+- **トレーニングコンテンツ:** 自動化された学習モジュール用のマクロベースのレイアウトをマージします。
+- **標準化されたテンプレート:** 部門間でマクロ駆動のスライドの一貫性を維持します。
+
+## 自動化シナリオ:
+- **マクロスライドの挿入:** 安全にマクロを有効にしたスライドを挿入します。
+- **AIブランディング:** スライドを企業のスタイルガイドに自動的に整えます。
+- **POTMからPPTMへ:** テンプレートをマージして編集可能なマクロを有効にしたプレゼンテーションにエクスポートします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

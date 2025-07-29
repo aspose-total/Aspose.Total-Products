@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java 애플리케이션에서 API를 사용하여 POTX 템플릿 파일을 병합하면 팀 전체에 걸쳐 확장 가능하고 브랜드 일관성 있는 프레젠테이션을 생성할 수 있습니다.
+
+**주요 사용 사례:**
+- **브랜드 레이아웃:** 여러 브랜드 슬라이드 템플릿을 결합합니다.
+- **시각적 테마:** 다양한 부서를 위한 통일된 테마를 구축합니다.
+- **확장 가능한 템플릿:** 반복적인 비즈니스 사용을 위한 표준 덱을 생성합니다.
+
+**자동화 시나리오:**
+- **동적 슬라이드 생성:** 병합된 템플릿에서 슬라이드를 자동으로 생성합니다.
+- **AI 테마 정렬:** 색상, 글꼴 및 레이아웃을 조화롭게 조정합니다.
+- **POTX에서 PPTX로 내보내기:** 편집 가능한 프레젠테이션으로 템플릿을 자동 변환합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

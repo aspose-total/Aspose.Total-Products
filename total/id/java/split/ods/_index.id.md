@@ -71,7 +71,27 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Memisahkan Berkas ODS Menggunakan Java APIs: Manajemen Data Sumber Terbuka yang Efektif</h2>
+
+Memisahkan berkas ODS menggunakan Java APIs menyederhanakan penanganan spreadsheet sumber terbuka dengan memungkinkan akses data modular dan pelaporan. Ini mendukung alur kerja BI, berbagi yang dapat diskalakan, dan kinerja yang ditingkatkan.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Keuangan Regional**: Bagi spreadsheet keuangan besar menjadi berkas ODS yang spesifik untuk wilayah.
+- **Tab Individu**: Ekstrak lembar kerja tertentu untuk berbagi atau analisis mandiri.
+- **Pelaporan Statistik**: Isolasi data statistik untuk laporan yang ditargetkan.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Alur Kerja BI Sumber Terbuka**: Otomatisasi ekstraksi data untuk alur kerja BI dan analitik.
+- **Berbagi Data Modular**: Bagikan hanya bagian yang relevan dari spreadsheet dengan pemangku kepentingan.
+- **Optimisasi Kinerja**: Layani berkas ODS yang lebih kecil untuk waktu muat yang lebih cepat dalam aplikasi dan alat.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

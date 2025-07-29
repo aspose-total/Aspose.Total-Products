@@ -77,7 +77,27 @@ XLTM ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Java APIを使用してXLTMファイルを表示する：安全なマクロ有効テンプレートプレビュー</h2>
+
+Java APIを使用すると、組織がスクリプトを実行せずにマクロ有効のExcelテンプレートをプレビューできるため、XLTMファイルの表示が簡単で安全になります。
+
+## ✅ 主な使用事例
+
+- **予測テンプレート：** 財務または計画モデルを表示します。
+- **計画スプレッドシート：** マクロ駆動のテンプレートを安全に検査します。
+- **データモデリング：** リスクなしでXLTM構造を確認します。
+
+## ⚙️ 自動化シナリオ
+
+- **分析ポータル：** チーム向けにXLTMファイルをレンダリングします。
+- **テンプレートビューア：** 計画ツールでプレビューを自動化します。
+- **レポートアプリ：** マクロ有効のテンプレートを安全に表示します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

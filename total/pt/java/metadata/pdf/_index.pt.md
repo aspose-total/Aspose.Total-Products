@@ -74,7 +74,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Gerenciar metadados em arquivos PDF usando APIs em aplicativos Java aumenta a descoberta, classificação e conformidade em arquivos digitais.
+
+**Principais Casos de Uso:**
+- Aumentar a descoberta em bibliotecas de documentos públicas ou privadas.
+- Aplicar regras de classificação em arquivos legais ou regulamentados.
+- Incorporar informações de conformidade diretamente nos PDFs.
+
+**Cenários de Automação:**
+- Automatizar a marcação de título, assunto e palavras-chave.
+- Editar metadados em lote para manter a consistência.
+- Utilizar IA para rotular PDFs em fluxos de trabalho regulatórios e de auditoria.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

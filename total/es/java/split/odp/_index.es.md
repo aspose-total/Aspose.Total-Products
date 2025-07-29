@@ -68,7 +68,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ División de archivos ODP utilizando APIs de Java: Gestión de presentaciones dirigida</h2>
+
+Dividir archivos ODP utilizando APIs de Java ayuda a las organizaciones a crear mazos de diapositivas enfocados en temas específicos. Esto respalda la capacitación, eventos y presentaciones al permitir la entrega y reutilización de contenido modular.
+
+## ✅ Casos de uso clave
+
+- **Mazos de Diapositivas Específicos por Tema**: Dividir presentaciones grandes en mazos por tema para audiencias específicas.
+- **Presentaciones de Capacitación**: Dividir materiales de capacitación en módulos para facilitar el aprendizaje y las actualizaciones.
+- **Sesiones de Eventos**: Separar diapositivas de eventos en archivos ODP específicos por sesión para una entrega fluida.
+
+## ⚙️ Escenarios de automatización
+
+- **Generación de Diapositivas para LMS**: Automatizar la creación de diapositivas modulares para sistemas de gestión del aprendizaje.
+- **Reutilización de Diapositivas**: Reutilizar diapositivas principales en diferentes presentaciones y proyectos.
+- **Segmentación de Presentaciones**: Simplificar presentaciones grandes en secciones manejables para una entrega sencilla.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

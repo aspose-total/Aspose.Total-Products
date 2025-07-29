@@ -71,7 +71,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki ODS za pomocą interfejsów API Javy odgrywa kluczową rolę w zabezpieczaniu otwartych danych arkusza kalkulacyjnego, podkreślając poufność i promując widoczność marki. Automatyzacja znakowania wodnego zapewnia spójną ochronę i branding we wszystkich plikach ODS.
+
+## ✅ Główne przypadki użycia
+
+- **Zabezpieczanie danych arkusza kalkulacyjnego** — Dodawanie komunikatów o poufności do arkuszy kalkulacyjnych zawierających informacje poufne.
+- **Branding raportów statystycznych** — Osadzanie logotypów w arkuszach danych organizacyjnych.
+- **Ograniczenie treści** — Oznaczanie arkuszy kalkulacyjnych w celu sygnalizowania ograniczonego lub poufnego użytku.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Aplikacje biznesowe typu open-source** — Automatyczne nakładanie znaków wodnych na pliki generowane przez oprogramowanie biznesowe.
+- **Raporty danych akademickich** — Znakowanie wodne raportów badawczych lub statystycznych przed udostępnieniem.
+- **Wewnętrzne bazy wiedzy** — Etykietowanie arkuszy ODS używanych do wewnętrznego rozpowszechniania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

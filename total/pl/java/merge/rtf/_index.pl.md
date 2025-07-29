@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików RTF (Rich Text Format) za pomocą interfejsów API w aplikacjach Java umożliwia organizacjom bardziej efektywne zarządzanie bogato sformatowanymi dokumentami. Zautomatyzowane łączenie plików RTF zachowuje stylowanie, poprawia szybkość przetwarzania i zapewnia spójność między różnymi istotnymi biznesowo plikami.
+
+**Główne przypadki użycia:**
+- **Rejestry bogato sformatowanych tekstów:** Łączenie wielu rejestrów RTF w jeden zorganizowany plik do archiwizacji lub raportowania.
+- **Notatki medyczne:** Łączenie sformatowanych notatek medycznych i historii pacjentów w spójne dokumenty zdrowotne.
+- **Teksty prawne:** Konsolidacja umów, notatek z przypadków lub streszczeń prawnych w kompleksowe dokumenty RTF.
+
+**Scenariusze automatyzacji:**
+- **Konwersja RTF na DOCX:** Konwertowanie połączonych plików RTF na DOCX dla szerszej kompatybilności.
+- **Integracja zachowująca formatowanie:** Zachowanie stylów bogato sformatowanego tekstu, czcionek i tabel podczas łączenia.
+- **Formatowanie z użyciem sztucznej inteligencji:** Wykorzystanie sztucznej inteligencji do standaryzacji nagłówków, list i układów tekstowych w połączonych dokumentach.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

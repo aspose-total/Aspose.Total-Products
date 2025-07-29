@@ -72,7 +72,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ 자바 API를 사용하여 ODS 서명 추가 및 확인: 안전한 오픈 소스 스프레드시트</h2>
+
+ODS 스프레드시트 파일에서 서명을 추가하거나 확인하는 것은 자바 API를 사용하여 금융 보고서, 급여 명세서 및 오픈 소스 형식으로 작성된 분석 모델을 안전하게 보호하는 데 도움이 됩니다. 자동 서명 워크플로우는 무결성을 유지하고 조작을 방지하며 부서 간 규정 준수를 보장합니다.
+
+## ✅ 주요 사용 사례
+
+- **감사 준비를 위한 금융 보고서에 서명**.
+- **미인가된 편집을 방지하기 위해 급여 명세서를 확인**.
+- **믿을 수 있는 통찰력을 위해 분석 모델을 인증**.
+- **부서 간 공유를 위해 안전한 오픈 소스 스프레드시트 보호**.
+- **스프레드시트에 대한 데이터 거버넌스 표준을 준수**.
+
+## ⚙️ 자동화 시나리오
+
+- **서명 확인으로 감사 규정 자동화**.
+- **프로그래밍 방식의 서명을 통한 버전 관리 활성화**.
+- **공유된 ODS 파일에 대한 조작 방지 강화**.
+- **부서 간 데이터 확인을 간소화**.
+- **오픈 소스 워크플로에 디지털 서명 통합**.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

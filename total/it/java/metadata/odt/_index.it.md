@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Accedere e gestire i metadati nei file ODT utilizzando le API nelle applicazioni Java è fondamentale per organizzare documenti di testo accademici, multilingue e open source.
+
+**Principali casi d'uso:**
+- Classificare articoli accademici e relazioni di ricerca per metadati.
+- Attribuire la paternità per mantenere l'integrità accademica.
+- Organizzare documenti multilingue per la collaborazione globale.
+
+**Scenari di automazione:**
+- Estrarre metadati su larga scala da grandi librerie ODT.
+- Ordinare documenti per autore o campi di soggetto.
+- Utilizzare l'IA per raggruppare e contrassegnare i file ODT per una facile scoperta.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

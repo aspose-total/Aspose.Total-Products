@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>主な使用事例:</h2>
+- **複雑なテンプレート:** 複数のマクロベースのテンプレートを1つのワークフロー用マスターに統合します。
+- **インタラクティブなフォーム:** ユーザー入力の自動化にマクロを使用するフォームを統合します。
+- **コンプライアンスレビュー:** ポリシーの遵守のために自動化されたテンプレートをレビューおよび統合します。
+
+<h2>自動化シナリオ:</h2>
+- **マクロの検証:** 安全なテンプレートの使用のために、マージ中にマクロスクリプトを検証します。
+- **安全なテンプレート統合:** 複数のDOTMを組み合わせる際のマクロの競合を防ぎます。
+- **AIパターン検出:** 繰り返しロジックを特定し、マクロ構造を最適化するためにAIを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

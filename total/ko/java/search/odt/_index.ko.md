@@ -89,7 +89,26 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진, Java Advanced Imaging JAI와 같은 선택�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 자바 API를 사용하여 ODT 파일 검색: 오픈 텍스트 콘텐츠 제어</h2>
+
+## ✅ 주요 사용 사례
+
+- **계약서의 민감한 콘텐츠 식별**: 기밀 조항 및 의무 사항 찾기.
+- **보험 문서에서 정책 조항 찾기**: 특정 정책 언어 빠르게 찾기.
+- **운영 파일에서 규정 준수 키워드 검토**: 텍스트 파일에서 규제된 구문 감지.
+
+## ⚙️ 자동화 시나리오
+
+- **법적 발견**: 증거 및 참고 자료를 위한 대규모 문서 검색 단순화.
+- **기업 검색**: 조직 전체 검색 플랫폼에 ODT 파일 통합.
+- **규정 준수 콘텐츠 유효성 검사**: 문서가 규정 준수 기준을 충족하는지 확인.
+- **AI 기반 색인 파이프라인**: 지능적인 검색 및 분류 시스템 구동.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

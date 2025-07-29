@@ -74,7 +74,23 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Extraer metadatos de archivos RTF utilizando APIs en aplicaciones Java mejora la gestión de documentos en sistemas ligeros o heredados. La extracción programática apoya la organización, el seguimiento y la búsqueda de documentos basados en texto.
+
+**Casos de uso clave:**
+- Organizar documentos legales de texto por atributos de metadatos.
+- Rastrear autoría e historial de edición en documentos médicos o clínicos.
+- Potenciar la búsqueda impulsada por metadatos en archivos ligeros.
+
+**Escenarios de automatización:**
+- Extraer propiedades RTF a escala con un esfuerzo manual mínimo.
+- Escanear archivos RTF heredados en busca de metadatos ocultos o faltantes.
+- Aplicar IA para etiquetar automáticamente archivos RTF basándose en contenido y metadatos.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

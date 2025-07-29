@@ -78,7 +78,25 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků na souborech ODT pomocí Java API je klíčové pro udržení kontroly nad koncepty, zajištění dokumentace souladu a komunikaci omezení použití. Automatické vodoznakování zaručuje, že štítky pro interní použití nebo koncepty jsou aplikovány konzistentně.
+
+## ✅ Klíčové použití
+
+- **Označení Právních Konceptů** — Jasně označte koncepty právních nebo politických dokumentů.
+- **Aplikace Interních Razítek** — Přidejte vodoznaky "Pouze pro interní použití" k pracovním dokumentům.
+- **Zajištění Vystopovatelnosti** — Použijte viditelné značky k sledování verzí dokumentů.
+
+## ⚙️ Scénáře Automatizace
+
+- **Nástroje Pro Soulady** — Integrujte vodoznakování do potrubí dokumentace souladu.
+- **Open-Source CMS** — Automatizujte vodoznakování v pracovních postupech správy obsahu.
+- **Akademické Distribuce** — Vodoznačte akademické koncepty pro bezpečné sdílení k recenzi.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

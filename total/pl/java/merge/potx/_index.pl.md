@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików szablonów POTX za pomocą interfejsów API w aplikacjach Java zapewnia skalowalną, spójną z marką generację prezentacji w zespołach.
+
+**Główne przypadki użycia:**
+- **Układy z marką:** Połącz wiele szablonów slajdów z marką.
+- **Motywy wizualne:** Buduj jednolite motywy dla różnych działów.
+- **Szablony skalowalne:** Generuj standardowe zestawy slajdów do powtarzanego użytku biznesowego.
+
+**Scenariusze automatyzacji:**
+- **Generowanie dynamicznych slajdów:** Automatyczne tworzenie slajdów z połączonych szablonów.
+- **Dopasowanie motywu AI:** Harmonizacja kolorów, czcionek i układów.
+- **Eksport POTX do PPTX:** Automatyzacja konwersji szablonów na edytowalne prezentacje.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

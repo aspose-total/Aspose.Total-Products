@@ -71,7 +71,20 @@ ODP パスワード保護アプリまたはユーティリティを開発する�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース
+- 企業プレゼンテーションでの編集制限
+- 機密投資家向けデッキのパスワード保護
+- トレーニングスライドの閲覧専用アクセスの強制
+
+## 自動化シナリオ
+- デジタル権利の遵守のサポート
+- バージョン管理の自動化
+- AI学習プレゼンテーションデータセットの保護
+- プレゼンテーションの公開配信のセキュリティ化
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Obchodní zprávy:** Sloučení více oddělení zpráv do jednoho komplexního sešitu.
+- **Finanční modely:** Sloučení různých finančních scénářů a modelů pro sjednocené předpovídání.
+- **Datové záznamy:** Sjednocení záznamů z různých týmů do hlavní tabulky pro analýzu.
+
+## Automatizační scénáře:
+- **Konsolidace více listů:** Programaticky sloučit listy z více souborů Excel.
+- **Agregace dat napříč soubory:** Automatizovat kombinaci velkých datových sad pro podnikové hlášení.
+- **Normalizace řízená AI:** Použití AI k čištění, zarovnání a ověření sloučených dat pro přesné poznatky.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API-k használatával védheti a modern táblázatokban található érzékeny üzleti információkat. A programozott cenzúra eltávolítja a teljesítménymutatókat, elrejti az alkalmazott azonosítókat és a beszállítói költségeket.
+
+## ✅ Fő felhasználási esetek
+
+- **Irányítópultok:** Cenzúrázza a bizalmas KPI-kat.
+- **Bérszámfejtési táblázatok:** Maszkolja az alkalmazott azonosítókat és fizetési részleteket.
+- **Beszerzési modellek:** Rejtse el a beszállítói árakat a biztonságos megosztás érdekében.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Valós idejű megfelelőség:** Érvényesítse a szabályokat élő együttműködés során.
+- **Ellenőrzésre való felkészültség:** Automatizálja a cenzúrát külső ellenőrzések előtt.
+- **Felhőalapú együttműködés:** Biztonságosan ossza meg a táblázatokat a csapatok között.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

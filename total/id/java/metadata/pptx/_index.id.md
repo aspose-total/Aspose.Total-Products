@@ -74,7 +74,21 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Ekstraksi dan Pengelolaan Metadata dalam Berkas PPTX Menggunakan API dalam Aplikasi Java
+
+**Kasus Penggunaan Utama:**
+- Mengidentifikasi penulis dan kontributor untuk proyek presentasi.
+- Menandai slide deck berdasarkan departemen, kampanye, atau topik.
+- Meningkatkan kemampuan temu kembali di repositori konten dan basis pengetahuan.
+
+**Skenario Otomatisasi:**
+- Memperkaya metadata untuk asisten AI dan pencarian pintar.
+- Melacak tahapan siklus hidup presentasi dengan pembaruan metadata.
+- Mengotomatisasi pembersihan dan penandaan dalam perpustakaan slide berskala besar.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **カスタマイズされた提案:** テンプレートセクションをマージして、顧客固有の提案を作成します。
+- **標準レポート:** 再利用可能なセクションを組み合わせて、企業標準のレポートを作成します。
+- **ブランドのレイアウト:** 標準のDOTXテンプレートをマージすることで、チーム全体でブランドガイドラインを遵守します。
+
+## 自動化シナリオ:
+- **フィールド駆動型のポピュレーション:** 変数データでマージされたテンプレートを動的にポピュレートします。
+- **テンプレート変換:** マージされたテンプレートを自動的に最終文書に変換します。
+- **AIによるマージ:** AIを使用してセクションを知的にマージし、大規模な文書制作に適応したレイアウトを作成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

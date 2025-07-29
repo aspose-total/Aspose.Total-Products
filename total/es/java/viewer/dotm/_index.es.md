@@ -76,7 +76,27 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualización de archivos DOTM utilizando APIs de Java: Previsualizaciones seguras de plantillas habilitadas para macros</h2>
+
+Las APIs de Java para visualizar archivos DOTM permiten a las empresas mostrar plantillas de Word habilitadas para macros sin ejecutar código incrustado. Esto garantiza revisiones seguras de plantillas en entornos seguros.
+
+## ✅ Casos de uso clave
+
+- **Previsualizaciones de plantillas legales/financieras:** Inspeccionar plantillas sensibles de forma segura.
+- **Inspección sin macros:** Ver diseños sin activar scripts.
+- **Compartir plantillas:** Distribuir archivos DOTM estándar para su edición.
+
+## ⚙️ Escenarios de automatización
+
+- **Visores seguros:** Renderizar archivos DOTM en portales de recursos humanos o legales.
+- **Generadores de informes:** Integrar previsualizaciones de plantillas en constructores de informes automatizados.
+- **Herramientas de aprobación:** Mostrar plantillas para la aprobación de la gerencia.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

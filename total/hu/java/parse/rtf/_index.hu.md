@@ -76,7 +76,24 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 RTF fájlok elemzése Java API-k segítségével: Örökség formátum átalakítás és megfelelőség</h2>
+
+RTF fájlok elemzése Java API-k segítségével támogatja a formázott tartalom, beágyazott objektumok és örökség dokumentumok átalakításának lehetőségét. Az RTF elemzés automatizálása segíti a megfelelőségi archiválást, metaadatok visszaállítását és az AI tanítási folyamatokat.
+
+## ✅ Fő felhasználási esetek
+
+- **Formázott tartalom kinyerése:** Stílusos szövegek és szekciók visszanyerése.
+- **Beágyazott objektumok azonosítása:** Képek, táblázatok és linkek felismerése.
+- **Dokumentumok átalakítása:** RTF konvertálása modern formátumokba.
+- **Megfelelőségi archiválás:** Tartalom megőrzése az ellenőrzésekhez.
+- **Metaadatok visszaállítása:** Dokumentuminformációk újjáépítése.
+- **AI modellképzés:** Elemzett szöveg használata NLP modellekhez.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,28 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java APIを使用してDOCMファイルを表示する：安全なマクロ有効ドキュメントプレビュー</h2>
+
+Java APIを使用してDOCMファイルを表示することで、組織はスクリプトを実行せずにマクロが有効なWordドキュメントを安全にレンダリングできます。これは技術文書や機密コンテンツを取り扱う規制された産業にとって重要です。
+
+## ✅ 主なユースケース
+
+- **安全なマクロドキュメントプレビュー：** ファイナンス、法律、医療の設定でDOCMファイルを検査します。
+- **スクリプト付き技術文書の確認：** 安全に埋め込まれたマクロを実行せずに表示します。
+- **コンテンツ検査：** 使用前にコンプライアンスチームがDOCMコンテンツを検証できるようにします。
+
+## ⚙️ 自動化シナリオ
+
+- **サンドボックスビューア：** コントロールされた環境で安全にDOCMファイルをレンダリングします。
+- **ITガバナンスダッシュボード：** マクロが有効なドキュメントを視覚的に監視します。
+- **ドキュメント検証ツール：** コンプライアンスのためにDOCMの下書きを自動的にレビューします。
+- **プロジェクトドキュメントポータル：** ステークホルダーにマクロが有効なドキュメントを表示します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

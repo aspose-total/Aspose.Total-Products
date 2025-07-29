@@ -74,7 +74,21 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Gestione dei metadati nei file PDF utilizzando le API nelle applicazioni Java aumenta la scopribilità, la classificazione e la conformità negli archivi digitali.
+
+**Principali casi d'uso:**  
+- Migliorare la scopribilità nelle librerie di documenti pubbliche o private.  
+- Applicare regole di classificazione negli archivi legali o regolamentati.  
+- Incorporare informazioni di conformità direttamente nei PDF.
+
+**Scenario di automazione:**  
+- Automatizzare l'etichettatura del titolo, del soggetto e delle parole chiave.  
+- Modificare i metadati in batch per mantenere la coerenza.  
+- Utilizzare l'IA per etichettare i PDF per flussi di lavoro normativi e di audit.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

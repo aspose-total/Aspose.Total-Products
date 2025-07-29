@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Διαίρεση Αρχείων ODT Χρησιμοποιώντας Τα APIs της Java: Παράδοση Εγγράφων Ανοικτού Κώδικα με Μοντουλάρια</h2>
+
+Η διαίρεση αρχείων ODT με τα APIs της Java επιτρέπει στις ομάδες να διαχωρίσουν μεγάλα έγγραφα ανοικτού κώδικα για ευκολότερη διαχείριση, εξατομίκευση και κοινοποίηση. Αυτό υποστηρίζει τη δυναμική δημοσίευση και βελτιώνει την πρόσβαση από κινητές συσκευές.
+
+## ✅ Κύριες Περιπτώσεις Χρήσης
+
+- **Μοντουλάρια Εγχειρίδια**: Διαιρέστε μεγάλα εγχειρίδια σε μικρότερα αρχεία ODT που είναι ειδικά για κάθε ρόλο.
+- **Απομόνωση Πολιτικής**: Διαχωρίστε τις πολιτικές της εταιρείας ανά τμήμα ή περιοχή.
+- **Στοχευμένες Εξόδοι**: Δημιουργήστε στοχευμένες εκδόσεις από έναν κύριο φάκελο ODT.
+
+## ⚙️ Σενάρια Αυτοματισμού
+
+- **Εξατομίκευση Εγγράφων**: Αυτοματοποιήστε τη δημιουργία εγγράφων ODT που είναι ειδικά για κάθε χρήστη.
+- **Ενσωμάτωση Διαχωρισμένων Αρχείων σε Συστήματα Διαχείρισης Εγγράφων Ανοικτού Κώδικα**: Ενσωματώστε τα διαιρεμένα αρχεία σε συστήματα διαχείρισης εγγράφων.
+- **Δημοσίευση Φιλική προς τα Κινητά**: Παράδοση μικρότερων, σχετικών αρχείων ODT για πρόσβαση εν κινήσει.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

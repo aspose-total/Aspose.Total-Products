@@ -76,7 +76,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików obrazów ogólnych za pomocą interfejsów API Javy umożliwia programistom zautomatyzowanie tworzenia treści w różnych formatach plików.
+
+**Główne przypadki użycia:**
+- **Technologia Prawna:** Kompiluj dowody wizualne do pojedynczych plików przypadków.
+- **Platformy Społecznościowe:** Składaj obrazy generowane przez użytkowników do kanałów społecznościowych.
+- **Raporty z Grafiką:** Łącz wykresy, infografiki i zdjęcia w spójne raporty.
+
+**Scenariusze automatyzacji:**
+- **Generowanie Dynamicznej Siatki:** Automatyczne generowanie siatek obrazów do prezentacji.
+- **Łączenie Formatów Bez Względu na Format:** Bezproblemowe łączenie różnych formatów obrazów.
+- **Kuracja Układu AI:** Wykorzystaj sztuczną inteligencję do projektowania, układania i optymalizacji ostatecznych wizualizacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

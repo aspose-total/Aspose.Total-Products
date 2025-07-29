@@ -80,7 +80,21 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Gromadzenie i modyfikowanie metadanych w arkuszach kalkulacyjnych ODS za pomocą interfejsów API w aplikacjach Java pomaga organizacjom skutecznie zarządzać zasobami danych typu open-source.
+
+**Główne przypadki użycia:**
+- Śledzenie właścicieli arkuszy kalkulacyjnych w środowiskach współpracy.
+- Kategoryzowanie danych finansowych lub operacyjnych według działu lub projektu.
+- Wsparcie cyklu życia dokumentu i polityk zgodności.
+
+**Scenariusze automatyzacji:**
+- Wykonywanie wsadowego oznaczania metadanych dla plików ODS.
+- Automatyczna klasyfikacja kolumn i typów danych.
+- Wykorzystanie sztucznej inteligencji do uzupełniania brakujących metadanych dla lepszego zarządzania danymi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

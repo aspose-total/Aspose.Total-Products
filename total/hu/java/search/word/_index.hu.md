@@ -89,7 +89,26 @@ Az opcionális csomagfüggőségekről, például a JogAmp JOGL-ről, a Harfbuzz
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🗂️ Word fájlok keresése Java API-k segítségével: Szövegalapú tudás kezelése</h2>
+
+## ✅ Fő felhasználási esetek
+
+- **Érzékeny kifejezések azonosítása a szerződésekben**: Felfedezni a bizalmas záradékokat és kötelezettségeket.
+- **Termékspecifikációk megtalálása a kézikönyvekben**: Gyorsan megtalálni a kulcsfontosságú termékinformációkat.
+- **Szabályzati nyilatkozatok felfedezése az HR dokumentumokban**: Ellenőrizni, hogy az HR szabályzatok világosak és következetesek-e.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Jogi megfelelőség**: Szerződésellenőrzések automatizálása jogi felülvizsgálat céljából.
+- **Tudás kinyerése**: Támogatni a tudásmunkásokat gyors kereséssel.
+- **AI-alapú osztályozás**: Dokumentumok automatikus címkézése felfedezett témák alapján.
+- **Vállalati szintű dokumentumelemzés**: Word fájlok kapcsolása szélesebb vállalati keresési rendszerekhez.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

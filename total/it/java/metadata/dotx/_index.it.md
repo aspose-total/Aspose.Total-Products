@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Accedere e modificare i metadati nei modelli DOTX utilizzando le API nelle applicazioni Java aiuta a mantenere il controllo delle versioni, l'allineamento con le unità aziendali e la conformità alle normative.
+
+**Principali casi d'uso:**
+- Imporre il versionamento dei modelli tra team e reparti.
+- Categorizzare i modelli in base alle unità aziendali o ai reparti.
+- Supportare la conformità garantendo la coerenza dei metadati.
+
+**Scenari di automazione:**
+- Automatizzare l'iniezione di metadati durante la creazione o l'aggiornamento dei modelli.
+- Classificare e organizzare i modelli in modo programmato.
+- Gestire l'intero ciclo di vita del modello con il tracciamento dei metadati alimentato dall'IA.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

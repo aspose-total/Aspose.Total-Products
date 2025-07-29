@@ -76,7 +76,23 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してTIFFファイルをマージすることで、法律、医療、エンジニアリング業界で高品質なドキュメントおよび画像ワークフローをサポートします。
+
+**主な使用用途:**
+- **マルチページドキュメント:** 複数のスキャンされたページを1つのTIFFファイルに結合します。
+- **設計図のアーカイブ:** アーカイブ用にエンジニアリング図面をデジタル的につなぎ合わせます。
+- **画像データセット:** 研究や分析のために高解像度のTIFFをマージします。
+
+**自動化シナリオ:**
+- **ページシーケンス:** マルチページTIFF内で正しいページ順を自動化します。
+- **圧縮に注意したマージ:** 詳細を失うことなくファイルサイズを最適化します。
+- **AI前処理:** ノイズ低減やクリアリティ向上のためにAIフィルタを適用します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

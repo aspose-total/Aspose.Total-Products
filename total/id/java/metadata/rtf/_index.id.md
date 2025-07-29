@@ -74,7 +74,23 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Mengekstrak Metadata dari File RTF menggunakan API dalam Aplikasi Java
+
+Meningkatkan manajemen dokumen dalam sistem ringan atau warisan. Ekstraksi programatik mendukung pengorganisasian, pelacakan, dan pencarian dokumen berbasis teks.
+
+**Kasus Penggunaan Utama:**  
+- Mengorganisir dokumen teks hukum berdasarkan atribut metadata.  
+- Melacak penulis dan riwayat pengeditan dalam dokumen medis atau klinis.  
+- Mendukung pencarian berbasis metadata dalam arsip ringan.
+
+**Skenario Otomatisasi:**  
+- Ekstrak properti RTF secara besar-besaran dengan usaha manual minimal.  
+- Pindai arsip RTF warisan untuk metadata yang tersembunyi atau hilang.  
+- Terapkan kecerdasan buatan untuk memberi tag otomatis pada file RTF berdasarkan konten dan metadata.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Seskupení faktur:** Sloučení XLTX šablon pro hromadnou produkci faktur pro zákazníky.
+- **Plánování rozpočtu:** Kombinace plánovacích šablon pro oddělení rozpočtování.
+- **Konstantní formáty:** Udržování jednotných standardů reportování napříč podnikem.
+
+## Scénáře automatizace:
+- **Továrny na dokumenty:** Automatizace velkého množství upravených reportů.
+- **Naplnění polí řízené AI:** Použití AI k automatickému vyplňování polí během slučování šablon.
+- **Škálovatelná generace:** Seskupení a generování reportů pro distribuované týmy globálně.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

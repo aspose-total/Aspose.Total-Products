@@ -74,7 +74,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- **Contratos firmados:** Compilar varios acuerdos firmados en un solo PDF organizado.
+- **Páginas escaneadas:** Fusionar documentos en papel escaneados en archivos digitales buscables.
+- **Informes financieros:** Combinar hojas de cálculo, gráficos y declaraciones en informes PDF completos para las partes interesadas.
+
+## Escenarios de automatización:
+
+- **Ensamblaje de PDF por lotes:** Fusionar grandes cantidades de archivos PDF de forma programática.
+- **Selección de rango de páginas:** Fusionar páginas específicas de diferentes PDF para salidas personalizadas.
+- **Clasificación de contenido de IA:** Utilizar IA para clasificar, etiquetar y estructurar PDF fusionados para flujos de trabajo seguros y eficientes.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

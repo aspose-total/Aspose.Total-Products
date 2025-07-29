@@ -80,7 +80,19 @@ XLSB メタデータ管理アプリまたはユーティリティを開発する
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- 圧縮されたバイナリファイルを使用して大規模なデータセットを管理します。
+- バックエンドの財務または運用記録をカテゴリ別にします。
+- 大容量のXLSBワークブックの検出性を向上させます。
+
+## 自動化シナリオ:
+- スケールでバイナリファイルのプロパティを抽出します。
+- XLSBドキュメント用の分類パイプラインを構築します。
+- AIを適用してバイナリワークブックを高速かつスケーラブルにタグ付けおよびインデックスします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

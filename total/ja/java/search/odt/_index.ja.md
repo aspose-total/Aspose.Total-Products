@@ -89,7 +89,26 @@ JogAmp JOGL、Harfbuzz フォント エンジン、Java Advanced Imaging JAI な
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Java APIを使用してODTファイルを検索する：オープンテキストコンテンツを制御する</h2>
+
+## ✅ 主要なユースケース
+
+- **契約書の機密情報の特定**：機密条件や義務を特定します。
+- **保険書類のポリシー条項の検出**：特定のポリシー言語を迅速に見つけます。
+- **運用ファイルのコンプライアンスキーワードの確認**：テキストファイル内の規制フレーズを検出します。
+
+## ⚙️ 自動化シナリオ
+
+- **法的証拠のための簡素化された大規模ドキュメント検索**：証拠や参照のための大規模なドキュメント検索を簡素化します。
+- **エンタープライズ検索**：ODTファイルを組織全体の検索プラットフォームに統合します。
+- **規制コンテンツの検証**：文書がコンプライアンス基準を満たしていることを確認します。
+- **AIベースのインデックスパイプライン**：インテリジェントな検索および分類システムを強化します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

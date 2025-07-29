@@ -71,7 +71,24 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cifratura dei file ODP con API Java
+
+La protezione dei file ODP con le API Java protegge le presentazioni aziendali e le diapositive confidenziali da modifiche o divulgazioni indesiderate. La protezione automatizzata supporta modalità di visualizzazione, accesso tramite password e consegna sicura di materiale di presentazione personalizzato.
+
+**Principali casi d'uso**
+- Limitare le modifiche nelle presentazioni aziendali.
+- Proteggere con password le presentazioni confidenziali per gli investitori.
+- Imporre l'accesso solo in modalità di visualizzazione per le diapositive di formazione.
+
+**Scenari di automazione**
+- Supportare la conformità ai diritti digitali.
+- Automatizzare il controllo delle versioni.
+- Proteggere i set di dati di presentazioni per l'apprendimento automatico.
+- Assicurare la consegna pubblica delle presentazioni.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

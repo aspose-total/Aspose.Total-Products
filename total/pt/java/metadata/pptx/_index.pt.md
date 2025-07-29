@@ -74,7 +74,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Extraindo e gerenciando metadados em arquivos PPTX usando APIs em aplicativos Java fortalece a governança de conteúdo e a capacidade de pesquisa para ativos de apresentação modernos.
+
+**Principais Casos de Uso:**
+- Identificar autores e contribuidores para projetos de apresentação.
+- Etiquetar conjuntos de slides por departamento, campanha ou tópico.
+- Melhorar a localização em repositórios de conteúdo e bases de conhecimento.
+
+**Cenários de Automação:**
+- Enriquecer metadados para assistentes de IA e busca inteligente.
+- Acompanhar estágios do ciclo de vida da apresentação com atualizações de metadados.
+- Automatizar limpeza em grande escala e etiquetagem em bibliotecas de slides.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

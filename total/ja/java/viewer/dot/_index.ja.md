@@ -76,7 +76,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java APIを使用してDOTファイルを表示する：どこでもWordテンプレートをプレビュー</h2>
+
+Java APIを使用してDOTファイルを表示すると、Webアプリ、文書生成ツール、CMSプラットフォームでWordテンプレートをシームレスにレンダリングできます。Wordがインストールされていなくても、ユーザーはレイアウトやスタイルを確認できます。
+
+## ✅ 主な使用シーン
+
+- **ワークフローのテンプレート表示：** 自動文書生成でDOTファイルを表示します。
+- **スタイルのプレビュー：** 新しい文書のデフォルト形式を視覚化します。
+- **CMS内のテンプレートライブラリ：** ユーザーがオンラインで利用可能なDOTテンプレートを閲覧できます。
+
+## ⚙️ 自動化シナリオ
+
+- **オンボーディングプラットフォーム：** オファーレターや契約テンプレートをレンダリングします。
+- **カスタマイズツール：** ユーザーがテンプレートを選択して変更できるようにします。
+- **テンプレートライブラリ：** コンテンツハブで企業のテンプレートをプレビューします。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

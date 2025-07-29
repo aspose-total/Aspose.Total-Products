@@ -74,7 +74,20 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy
+- Chrání operační data ve sdílených tabulkách.
+- Zamyká šablony proti neoprávněným úpravám.
+- Vynucuje pouze pro čtení BI reporty.
+
+## Scénáře automatizace
+- Dodržování předpisů pro zacházení s daty.
+- Chrání trénovací data pro AI v souborech ODS.
+- Kontroluje životní cykly plánovacích souborů.
+- Zabezpečuje sdílení interních dat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

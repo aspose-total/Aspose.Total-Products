@@ -71,7 +71,25 @@ XLSX 파일을 쉽게 분할하기 위해 Java 스크립트 또는 유틸리티 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 자바 API를 사용하여 XLSX 파일 분할: Agile 스프레드시트 데이터 관리</h2>
+
+## ✅ 주요 사용 사례
+
+- **성능 시트**: 팀이나 고객의 성능 지표를 격리합니다.
+- **금융 대시보드**: 특정 부서를 위해 복잡한 대시보드를 분할합니다.
+- **팀별 스프레드시트**: 부서나 지역을 위한 맞춤형 XLSX 파일을 생성합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **분석 보고**: 비즈니스 인텔리전스를 위해 분할된 내보내기를 자동화합니다.
+- **개인화된 데이터 내보내기**: 이해관계자에게 대상 스프레드시트 조각을 전달합니다.
+- **모바일 대시보드 최적화**: 모바일 대시보드용 가벼운 XLSX 파일을 제공합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

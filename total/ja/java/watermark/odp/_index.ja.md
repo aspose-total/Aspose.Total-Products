@@ -75,7 +75,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してODPファイルにウォーターマークを適用すると、プレゼンテーションのセキュリティが強化され、ブランディングが確保され、コンテンツの状態が伝わります。ODPスライドにウォーターマークを自動的に適用することで、配布と盗用のリスクをコントロールできます。
+
+## ✅ 主なユースケース
+
+- **「機密」タグの埋め込み** — ビジネススライドに機密情報をマークします。
+- **プレゼンテーションのブランディング** — クライアント向けのデッキにロゴを追加します。
+- **盗用防止** — 学術スライドのコピーを抑止します。
+
+## ⚙️ 自動化シナリオ
+
+- **教育用LMS** — コースプレゼンテーションに自動的にウォーターマークを追加します。
+- **投資家向けピッチシステム** — ピッチデッキにラベルを埋め込みます。
+- **共同編集者** — ライブ編集環境に下書きマークを追加します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ ODP 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까? [A
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODP 프레젠테이션 파일의 메타데이터를 Java 애플리케이션에서 API를 사용하여 관리하면 오픈 소스 생태계에서 조직화와 협업이 개선됩니다.
+
+**주요 사용 사례:**
+- 오픈 소스 협업 플랫폼에서 슬라이드 덱을 구성합니다.
+- 개정 이력 및 슬라이드 소유권을 추적합니다.
+- 회사 지식 베이스를 위해 프레젠테이션 콘텐츠를 분류합니다.
+
+**자동화 시나리오:**
+- 제목 및 주제와 같은 메타데이터 필드로 슬라이드를 필터링합니다.
+- 일괄 워크플로에서 주요 메타데이터를 추출합니다.
+- AI를 사용하여 슬라이드 덱을 지능적으로 태그하고 분류합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

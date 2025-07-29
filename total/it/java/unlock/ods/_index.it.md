@@ -72,7 +72,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🔓 Sblocco dei file ODS utilizzando le API Java: Potenziare la collaborazione sui dati aperti</h2>
+
+Lo sblocco dei file ODS in modo programmato con le API Java semplifica il modo in cui le organizzazioni gestiscono fogli di calcolo protetti in ambienti open-source. Rimuovere le protezioni dei fogli garantisce una collaborazione fluida, la visualizzazione dei dati e la segnalazione aziendale.
+
+## ✅ Principali casi d'uso
+
+- **Sblocco dei fogli protetti:** Modifica in modo sicuro i dati open-source condivisi.
+- **Sblocco dei modelli di bilancio:** Modifica dei modelli per la pianificazione finanziaria aggiornata.
+- **Preparazione dei dati per la visualizzazione:** Consentire agli strumenti BI e di segnalazione di accedere a tutti i dati.
+
+## ⚙️ Scenari di automazione
+
+- **Segnalazione dei dati aperti:** Automatizzare lo sblocco per la pubblicazione e l'analisi.
+- **Controlli di conformità:** Esaminare i fogli protetti durante le verifiche.
+- **Elaborazione batch:** Elaborare più file protetti su larga scala.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

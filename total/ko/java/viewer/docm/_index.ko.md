@@ -76,7 +76,28 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용하여 DOCM 파일 보기: 안전한 매크로 활성 문서 미리보기</h2>
+
+자바 API를 사용하여 DOCM 파일을 보면 조직이 스크립트를 실행하지 않고도 매크로가 활성화된 워드 문서를 안전하게 렌더링할 수 있습니다. 이는 기술 문서 및 민감한 콘텐츠를 처리하는 규제된 산업에 중요합니다.
+
+## ✅ 주요 사용 사례
+
+- **안전한 매크로 문서 미리보기:** 금융, 법률 또는 의료 분야에서 DOCM 파일을 검토합니다.
+- **스크립트가 포함된 기술 문서 검토:** 스크립트를 실행하지 않고 안전하게 포함된 매크로를 확인합니다.
+- **콘텐츠 검사:** 사용 전에 DOCM 콘텐츠를 검증할 수 있도록 합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **샌드박스 뷰어:** 통제된 환경에서 DOCM 파일을 안전하게 렌더링합니다.
+- **IT 거버넌스 대시보드:** 시각적으로 매크로가 활성화된 문서를 모니터링합니다.
+- **문서 유효성 검사 도구:** 규정 준수를 위해 DOCM 초안을 자동으로 검토합니다.
+- **프로젝트 문서 포털:** 이해관계자에게 매크로가 활성화된 문서를 표시합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

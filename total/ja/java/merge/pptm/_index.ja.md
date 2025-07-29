@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **インタラクティブなプレゼンテーション:** マクロベースのスライドをマージしてライブデモやワークショップに使用します。
+- **自動スライドショー:** PPTM ファイルを結合してコンテンツ再生を自動化します。
+- **トレーニング資料:** マージされたトレーニングプレゼンテーション内の埋め込みマクロを保持します。
+
+## 自動化シナリオ:
+- **マクロ安全な統合:** マージ時にマクロの論理を検証します。
+- **コードの一貫性チェック:** 埋め込みの VBA スクリプトがシームレスに動作することを確認します。
+- **AI 連携:** スムーズなパフォーマンスのために視覚とマクロの動作を整合させるために AI を使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

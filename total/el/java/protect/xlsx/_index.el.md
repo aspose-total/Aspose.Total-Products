@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης</h2>
+- Κλείδωμα φύλλων υπολογισμών με τύπους.
+- Προστασία με κωδικό πρόσβασης σε αναφορές απόδοσης.
+- Ενεργοποίηση περιορισμένης πρόσβασης για δεδομένα πωλήσεων.
+
+<h2>Σενάρια Αυτοματοποίησης</h2>
+- Οικονομικές αναφορές σύμφωνες με τους ελέγχους.
+- Φύλλα υπολογισμών με έλεγχο εκδόσεων.
+- Ασφαλή σύνολα δεδομένων εκπαίδευσης Τεχνητής Νοημοσύνης.
+- Συνεργατική ανάλυση επιχειρηματικών δεδομένων.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

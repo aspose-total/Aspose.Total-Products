@@ -74,7 +74,22 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Principali casi d'uso</h2>
+- Limitare la manipolazione dei dati finanziari.
+- Bloccare modelli di business sensibili.
+- Imporre la visualizzazione solo in dashboard.
+
+<h2>Scenari di automazione</h2>
+- Mantenere conformità e tracciabilità.
+- Preservare record finanziari storici.
+- Proteggere proiezioni basate sull'IA.
+- Sicurezza dell'intelligence aziendale.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

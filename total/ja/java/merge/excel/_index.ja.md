@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **ビジネスレポート:** 複数の部門レポートを1つの包括的なワークブックに統合します。
+- **財務モデル:** 統一された予測のために異なる財務シナリオとモデルをマージします。
+- **データログ:** 各チームからのログを分析用のマスタースプレッドシートに集約します。
+
+## 自動化シナリオ:
+- **複数シートの統合:** 複数のExcelファイルからシートをプログラムでマージします。
+- **クロスファイルデータの集約:** 企業向けレポート作成のために大規模なデータセットを自動的に結合します。
+- **AIによる正規化:** AIを使用してマージされたデータをクリーンアップし、整列させ、正確なインサイトを得ます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

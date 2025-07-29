@@ -92,7 +92,27 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Wyszukiwanie plików PDF za pomocą interfejsów API Javy: Usprawnij analizę dokumentów</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Identyfikacja kluczowych klauzul w zeskanowanych umowach**: Zlokalizuj określone warunki w zdygitalizowanych plikach prawnych.
+- **Wyodrębnianie terminów w podręcznikach produktów**: Pozyskaj specyfikacje techniczne do celów wsparcia i szkoleń.
+- **Wyszukiwanie odwołań do prawa w plikach PDF z dziedziny prawa**: Przeszukaj bazy danych prawnych w poszukiwaniu cytowań i numerów spraw.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Audyty zgodności**: Zautomatyzuj sprawdzanie plików PDF pod kątem wymagań regulacyjnych.
+- **Analiza dokumentów przedsiębiorstwa**: Pozyskaj wgląd poprzez przeszukiwanie dużych repozytoriów PDF.
+- **Inteligentne badania prawne**: Wsparcie prawników poprzez szybkie i precyzyjne wyszukiwanie.
+- **Indeksowanie OCR z zastosowaniem sztucznej inteligencji**: Połącz OCR z interfejsami API w celu odblokowania tekstu w zeskanowanych plikach PDF.
+- **Przepływy pracy cyfrowej**: Zintegruj wyszukiwanie w plikach PDF z szerszymi procesami dokumentów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

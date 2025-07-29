@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java 애플리케이션에서 API를 사용하여 OTT (OpenDocument Text Template) 파일을 병합하면 기업이 고용량 문서 생성을 위한 일관된 재사용 가능한 템플릿을 유지할 수 있습니다. 자동화를 통해 표준화 및 빠른 출력이 보장됩니다.
+
+**주요 사용 사례:**
+- **비즈니스 편지:** 인사, 영업 또는 고객 소통을 위해 OTT 파일을 병합하여 템플릿화된 편지 생성.
+- **재사용 가능한 콘텐츠 블록:** 계약, 제안서 또는 정책을 위한 마스터 템플릿으로 표준 섹션을 결합.
+- **워크플로우 표준화:** 템플릿에서 생성된 모든 문서에 대해 일관된 브랜딩 및 서식을 보장.
+
+**자동화 시나리오:**
+- **OTT-to-ODT 변환:** 템플릿을 병합하고 편집 가능한 ODT 문서로 변환.
+- **템플릿 통합:** 여러 OTT 파일을 통합된 마스터 템플릿으로 자동 병합.
+- **AI 필드 채우기:** AI를 사용하여 동적 데이터로 템플릿을 사전 채우고 개인화된 문서 생성.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

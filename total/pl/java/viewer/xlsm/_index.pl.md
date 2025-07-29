@@ -77,7 +77,27 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Przeglądanie plików XLSM za pomocą interfejsów API Javy: Bezpieczne widoki arkuszy kalkulacyjnych obsługujących makra</h2>
+
+Interfejsy API Javy umożliwiają bezpieczne przeglądanie plików XLSM, pozwalając użytkownikom inspekcjonować arkusze kalkulacyjne obsługujące makra bez uruchamiania osadzonego kodu.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Narzędzia ryzyka i audytu:** Bezpieczne przeglądanie arkuszy kalkulacyjnych obsługujących makra.
+- **Pulpity IT:** Inspekcja dynamicznych plików XLSM.
+- **Aplikacje finansowe:** Przeglądanie poufnych arkuszy kalkulacyjnych bez wykonywania makr.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Zarządzanie ryzykiem:** Automatyzacja przeglądania arkuszy kalkulacyjnych z makrami.
+- **Śledzenie procesów:** Wyświetlanie plików XLSM w aplikacjach biznesowych.
+- **Platformy finansowe:** Bezpieczne podglądanie arkuszy XLSM.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

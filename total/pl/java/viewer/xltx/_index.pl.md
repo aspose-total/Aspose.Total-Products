@@ -77,7 +77,27 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Przeglądanie plików XLTX za pomocą interfejsów API Javy: Wizualizacja standardowych szablonów arkusza kalkulacyjnego</h2>
+
+Korzystanie z interfejsów API Javy do przeglądania plików XLTX zapewnia zespołom możliwość podglądu standaryzowanych szablonów Excela do raportów, formularzy HR lub rekordów sprzedaży w aplikacjach internetowych.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Raporty biznesowe:** Pokaż standardowe szablony do budżetowania.
+- **Rekordy HR:** Podgląd wielokrotnego użytku formularzy XLSX.
+- **Dzienniki sprzedaży:** Wyświetlaj markowe arkusze sprzedaży online.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Podgląd internetowy:** Osadź szablony XLTX w narzędziach typu SaaS.
+- **Pulpity nawigacyjne:** Automatyzuj podgląd szablonów dla zespołów.
+- **Systemy raportowania:** Zapewnij łatwy dostęp do podglądu szablonów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

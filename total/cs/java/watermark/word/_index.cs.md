@@ -78,7 +78,25 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků v souborech WORD pomocí Java API pomáhá organizacím chránit obsah, signalizovat stav a posilovat branding. Programové vodoznakování usnadňuje identifikaci konceptů, označení zpráv jako soukromých nebo zahrnutí prvků značky.
+
+## ✅ Klíčové použití
+
+- **Identifikace konceptů** — Označení pracovních kopií jako "Koncept" nebo "K recenzi".
+- **Branding komunikace** — Vložení firemních log do interních souborů WORD.
+- **Označení soukromých zpráv** — Jasně ukázat důvěrný status na citlivých dokumentech.
+
+## ⚙️ Scénáře automatizace
+
+- **Nástroje pro automatizaci smluv** — Automatické vodoznakování generovaných smluv.
+- **Pipeline pro dodržování předpisů** — Označení zpráv pro regulérní odeslání.
+- **Systémy pro publikování** — Aplikace konzistentních vodoznaků na publikované zprávy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

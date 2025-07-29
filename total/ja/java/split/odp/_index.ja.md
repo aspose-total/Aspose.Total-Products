@@ -68,7 +68,27 @@ ODP ファイルを簡単に分割する Java スクリプトまたはユーテ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してODPファイルを分割する：ターゲットプレゼンテーション管理</h2>
+
+Java APIを使用してODPファイルを分割することで、組織は焦点を絞ったトピック別のスライドデッキを作成できます。これにより、モジュラーコンテンツの配信と再利用が可能となり、トレーニング、イベント、プレゼンテーションをサポートします。
+
+## ✅ 主なユースケース
+
+- **トピック別スライドデッキ**：大規模なプレゼンテーションをトピックごとのデッキに分割して、ターゲットオーディエンス向けに作成します。
+- **トレーニングプレゼンテーション**：トレーニング資料をモジュールに分割して、学習と更新を容易にします。
+- **イベントセッション**：イベントスライドをセッションごとのODPファイルに分割して、スムーズな配信を実現します。
+
+## ⚙️ 自動化シナリオ
+
+- **LMSスライド生成**：学習管理システム向けのモジュラースライドの作成を自動化します。
+- **スライドの再利用**：コアスライドを異なるプレゼンテーションやプロジェクトで再利用します。
+- **プレゼンテーションのセグメンテーション**：大規模なプレゼンテーションを管理しやすいセクションに整理して、簡単に配信します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

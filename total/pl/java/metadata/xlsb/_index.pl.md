@@ -80,7 +80,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Wydobywanie metadanych z binarnych plików XLSB za pomocą interfejsów API w aplikacjach Java jest niezbędne do efektywnego zarządzania skoroszytami o wysokiej wydajności i skompresowanymi zbiorami danych.
+
+**Główne przypadki użycia:**
+- Zarządzanie dużymi zbiorami danych za pomocą skompresowanych plików binarnych.
+- Kategoryzowanie backendowych rekordów finansowych lub operacyjnych.
+- Poprawa możliwości odkrywania skoroszytów XLSB o dużej objętości.
+
+**Scenariusze automatyzacji:**
+- Wydobywanie właściwości plików binarnych w skali.
+- Budowanie potoków klasyfikacji dla dokumentów XLSB.
+- Zastosowanie sztucznej inteligencji do tagowania i indeksowania binarnych skoroszytów dla szybkości i skali.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file PDF utilizzando le API Java è un pilastro per proteggere documenti universalmente condivisi. La redazione automatizzata rimuove i nomi dei clienti, nasconde le storie cliniche e maschera i numeri di previdenza sociale nei moduli fiscali con alta precisione.
+
+## ✅ Principali casi d'uso
+
+- **Contratti:** Eliminare i dettagli dei clienti dai PDF legali.
+- **Documenti sanitari:** Redigere le storie dei pazienti per la conformità.
+- **Moduli fiscali:** Mascherare i numeri di previdenza sociale nelle presentazioni finanziarie.
+
+## ⚙️ Scenari di automazione
+
+- **Conformità GDPR/HIPAA:** Applicare le politiche sulla privacy su larga scala.
+- **Scambio sicuro:** Condividere PDF sanificati in modo sicuro con terze parti.
+- **E-Discovery:** Automatizzare la redazione per processi FOIA o di contenzioso.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

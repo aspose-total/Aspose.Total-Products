@@ -76,7 +76,28 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 DOCM fájlok megtekintése Java API-k segítségével: Biztonságos makró engedélyezett dokumentum előnézetek</h2>
+
+A Java API-k használata a DOCM fájlok megtekintéséhez segít az szervezeteknek biztonságosan megjeleníteni a makró engedélyezett Word dokumentumokat anélkül, hogy végrehajtanák a szkripteket. Ez létfontosságú a szabályozott iparágak számára, amelyek műszaki dokumentumokat és érzékeny tartalmakat kezelnek.
+
+## ✅ Fő felhasználási esetek
+
+- **Biztonságos makró dokumentum előnézetek:** Ellenőrizze a DOCM fájlokat pénzügyi, jogi vagy egészségügyi környezetben.
+- **Műszaki dokumentumok áttekintése szkriptekkel:** Nézze meg az ágyazott makrókat biztonságosan anélkül, hogy futtatná azokat.
+- **Tartalom ellenőrzése:** Engedélyezze a szabályozási csapatoknak, hogy ellenőrizzék a DOCM tartalmat a használat előtt.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Homokozott nézetek:** Jelenítse meg a DOCM fájlokat biztonságosan ellenőrzött környezetekben.
+- **IT irányítási műszerfalak:** Kövesse vizuálisan a makró engedélyezett dokumentumokat.
+- **Dokumentum ellenőrző eszközök:** Automatizálja a DOCM vázlatok ellenőrzését a szabályozás érdekében.
+- **Projekt dokumentációs portálok:** Jelenítse meg a makró engedélyezett dokumentumokat az érintetteknek.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

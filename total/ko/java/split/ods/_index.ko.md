@@ -71,7 +71,27 @@ ODS 파일을 쉽게 분할하기 위해 Java 스크립트 또는 유틸리티 �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 자바 API를 사용하여 ODS 파일 분할: 효율적인 오픈 소스 데이터 관리</h2>
+
+ODS 파일을 자바 API를 사용하여 분할하면 모듈식 데이터 액세스와 보고를 가능하게 함으로써 오픈 소스 스프레드시트의 처리가 간단해집니다. 이는 BI 워크플로우, 확장 가능한 공유 및 성능 향상을 지원합니다.
+
+## ✅ 주요 사용 사례
+
+- **지역 금융 데이터**: 대규모 금융 스프레드시트를 지역별 ODS 파일로 분할합니다.
+- **개별 탭**: 독립적인 공유 또는 분석을 위해 특정 시트를 추출합니다.
+- **통계 보고**: 특정 보고서를 위해 통계 데이터를 분리합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **오픈 소스 BI 파이프라인**: BI 및 분석 워크플로우의 데이터 추출을 자동화합니다.
+- **모듈식 데이터 공유**: 이해관계자와 관련 부분만 공유합니다.
+- **성능 최적화**: 앱 및 도구에서 더 빠른 로드 시간을 위해 작은 ODS 파일을 제공합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

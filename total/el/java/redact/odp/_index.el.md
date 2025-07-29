@@ -72,7 +72,23 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+
+- **Επιχειρηματικά Οδοιπορικά:** Απόκρυψη στρατηγικών σχεδίων σε κοινόχρηστες παρουσιάσεις.
+- **Παρουσιάσεις Ανθρώπινου Δυναμικού:** Αφαίρεση ονομάτων υπαλλήλων ή ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ από διαφάνειες.
+- **Παρουσιάσεις Επενδυτών:** Απόκρυψη ευαίσθητων ανταγωνιστικών ή οικονομικών δεδομένων.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+
+- **Εμπιστευτικά Κείμενα Παρουσίασης:** Απολυμάνστε τις παρουσιάσεις για εξωτερικούς ενδιαφερόμενους.
+- **Υλικό Εκπαίδευσης:** Αυτοματοποιήστε την απόκρυψη για ασφαλή εσωτερική κοινοποίηση γνώσεων.
+- **Συμμόρφωση με τη Ρύθμιση:** Πληρούνται πρότυπα απορρήτου επικοινωνίας.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

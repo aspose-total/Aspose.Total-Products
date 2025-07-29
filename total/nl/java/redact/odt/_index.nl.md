@@ -75,7 +75,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigeren van ODT (OpenDocument Text) bestanden via Java API's helpt bij het beschermen van gevoelige tekst in open-formaat documenten. Geautomatiseerde redactie verwijdert persoonlijke identificatiegegevens, verbergt feedback en maskeert gevoelige details in overheidsformulieren.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Academische Papers:** Verwijder student- of auteur-PII in gepubliceerd onderzoek.
+- **Vertrouwelijke Beoordelingen:** Verberg interne feedback in gedeelde concepten.
+- **Overheidsformulieren:** Maskeer gevoelige burgergegevens voor naleving.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Privacywetten:** Automatiseer redactie voor GDPR en vergelijkbare regels.
+- **Klokkenluidersbescherming:** Beheer gevoelige meldingen veilig.
+- **Samenwerking in de Publieke Sector:** Verspreid gesaneerde ODT-bestanden veilig.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

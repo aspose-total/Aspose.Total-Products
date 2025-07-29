@@ -76,7 +76,27 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 자바 API를 사용하여 DOT 파일 보기: 워드 템플릿을 어디서나 미리 보기</h2>
+
+자바 API를 사용하여 DOT 파일을 보면 웹 앱, 문서 생성기 및 CMS 플랫폼에서 워드 템플릿을 원활하게 렌더링할 수 있습니다. 사용자는 워드가 설치되지 않은 상태에서 레이아웃과 스타일을 검사할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **워크플로우용 템플릿 표시:** 자동 문서 생성 시 DOT 파일 표시.
+- **스타일 미리 보기:** 새 문서의 기본 형식 시각화.
+- **CMS의 템플릿 라이브러리:** 사용자가 온라인에서 사용 가능한 DOT 템플릿을 찾아볼 수 있도록 함.
+
+## ⚙️ 자동화 시나리오
+
+- **입사 플랫폼:** 입사 제안서 또는 계약 템플릿 렌더링.
+- **사용자 정의 도구:** 사용자가 템플릿을 선택하고 수정할 수 있도록 함.
+- **템플릿 라이브러리:** 콘텐츠 허브에서 기업 템플릿 미리 보기.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

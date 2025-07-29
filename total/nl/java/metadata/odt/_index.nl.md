@@ -74,7 +74,19 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Belangrijkste Gebruiksscenario's:
+- Classificeren van academische papers en onderzoeksrapporten op basis van metadata.
+- Toeschrijven van auteurschap om academische integriteit te handhaven.
+- Organiseren van meertalige documenten voor wereldwijde samenwerking.
+
+## Automatiseringsscenario's:
+- Metadata op grote schaal extraheren uit grote ODT-bibliotheken.
+- Documenten sorteren op auteur of onderwerpsvelden.
+- AI gebruiken om ODT-bestanden te clusteren en taggen voor eenvoudige ontdekking.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

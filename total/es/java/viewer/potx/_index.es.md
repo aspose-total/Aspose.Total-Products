@@ -76,7 +76,25 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2> 📽️ Visualización de archivos POTX utilizando APIs de Java: Mostrar plantillas estándar de diapositivas</h2>
+
+Visualizar archivos POTX a través de APIs de Java permite a los equipos presentar plantillas de diapositivas modernas directamente en portales de contenido y herramientas de diseño de diapositivas.
+
+## ✅ Casos de uso clave
+
+- **Plantillas de marca:** Compartir diapositivas aprobadas para marketing.
+- **Revisiones de diseño:** Previsualizar diseños para presentaciones.
+- **Constructores de presentaciones:** Ofrecer opciones de diapositivas a los equipos.
+
+## ⚙️ Escenarios de automatización
+
+- **Bibliotecas de marca:** Alojar previsualizaciones de diapositivas estándar.
+- **Aplicaciones de edición de diapositivas:** Incrustar previsualizaciones de POTX para personalización.
+- **Herramientas de formación:** Mostrar plantillas de diapositivas en sistemas LMS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

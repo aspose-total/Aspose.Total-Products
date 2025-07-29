@@ -80,7 +80,19 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kulcsfontosságú felhasználási esetek:
+- Figyelje a makrók használatát az engedély nélküli scriptek észlelése érdekében.
+- Biztosítsa a makrók biztonsági megfelelőségét érzékeny táblázatokban.
+- Kövesse a táblázatok szerzőjét az ellenőrzési nyomkövetés érdekében automatizált eszközökben.
+
+## Automatizálási forgatókönyvek:
+- Programozottan érvényesítse a makrókat kezelő metaadatokat.
+- Generáljon automatizált ellenőrzési nyomkövetéseket a makróváltozásokhoz.
+- Használjon AI-t az XLSM fájlok kockázatának és használati mintáinak osztályozásához.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

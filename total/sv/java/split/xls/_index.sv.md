@@ -71,7 +71,27 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/cells/java/syst
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dela upp XLS-filer med hjälp av Java API:er: Modernisera hantering av äldre kalkylblad</h2>
+
+Att dela upp XLS-filer med Java API:er gör det möjligt för organisationer att hantera äldre kalkylbladsformat genom att isolera relevanta avsnitt för migration, rapportering och mobilvänlig åtkomst.
+
+## ✅ Viktiga användningsfall
+
+- **Årliga poster**: Extrahera årspecifik data från stora XLS-filer.
+- **Affärsloggar**: Separera affärsaktivitetsloggar i modulära filer.
+- **Data i äldre format**: Förbered äldre kalkylblad för integration med moderna system.
+
+## ⚙️ Automatiseringsscenario
+
+- **Äldre migrering**: Dela upp och modernisera gamla XLS-filer för nya system.
+- **Excel-filhantering**: Automatisera dataextraktion för rapportering.
+- **Integration av mobila verktyg**: Leverera mindre XLS-filer för lätta mobila verktyg.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

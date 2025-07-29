@@ -74,7 +74,19 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- Sledování historie použití pro udržení relevance šablon v dědictví systémů.
+- Zarovnání vlastností šablony s regulačními požadavky.
+- Vynucení strukturovaného pojmenování napříč rozsáhlými knihovnami souborů DOT.
+
+## Scénáře automatizace:
+- Automatizace hromadného auditování metadat šablony pro kontrolu souladu.
+- Filtrování a organizování šablon na základě vlastností metadat.
+- Použití umělé inteligence k inteligentní klasifikaci a aktualizaci dědictví souborů DOT.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ Powerpoint 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 주요 사용 사례:
+- 주제 또는 부서별로 기업 프레젠테이션 분류.
+- 메타데이터를 통해 브랜드 일관성 및 저작권 정책 강화.
+- 빠른 액세스를 위해 광범위한 슬라이드 라이브러리 구성.
+
+## 자동화 시나리오:
+- 프레젠테이션 속성의 일괄 태깅 자동화.
+- 작성자 또는 캠페인과 같은 메타데이터를 기반으로 덱 정렬.
+- 테마와 사용 용도에 따라 슬라이드 덱을 분류하기 위해 AI 적용.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

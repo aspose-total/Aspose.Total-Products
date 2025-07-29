@@ -71,7 +71,25 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Aplicar marcas de agua a archivos ODS utilizando APIs de Java desempeña un papel clave en la protección de datos de hojas de cálculo abiertas, resaltando la confidencialidad y promoviendo la visibilidad de la marca. Automatizar el marcado de agua garantiza una protección y marca consistentes en todos los archivos ODS.
+
+## ✅ Casos de uso clave
+
+- **Proteger Datos de Hojas de Cálculo** — Agregar avisos de privacidad a hojas de cálculo que contienen información sensible.
+- **Brindar Identidad a Informes Estadísticos** — Incrustar logotipos en hojas de datos organizativas.
+- **Restringir Contenido** — Marcar hojas de cálculo para señalar su uso restringido o confidencial.
+
+## ⚙️ Escenarios de Automatización
+
+- **Aplicaciones Empresariales de Código Abierto** — Auto-marcar archivos generados por software empresarial.
+- **Informes de Datos Académicos** — Marcar con agua informes de investigación o estadísticos antes de compartirlos.
+- **Bases de Conocimiento Internas** — Etiquetar hojas ODS utilizadas para distribución interna.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

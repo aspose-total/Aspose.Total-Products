@@ -75,7 +75,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików szablonów Excel XLTX za pomocą interfejsów API w aplikacjach Java usprawnia generowanie dokumentów w skali masowej, oparte na szablonach, dla operacji biznesowych.
+
+**Kluczowe przypadki użycia:**
+- **Partie faktur:** Łączenie szablonów XLTX w celu generowania faktur dla klientów na dużą skalę.
+- **Planowanie budżetu:** Łączenie szablonów planowania dla budżetowania działów.
+- **Jednolite formaty:** Utrzymywanie jednolitych standardów raportowania w całym przedsiębiorstwie.
+
+**Scenariusze automatyzacji:**
+- **Fabryki dokumentów:** Automatyzacja generowania dużych ilości spersonalizowanych raportów.
+- **Wypełnianie pól za pomocą AI:** Wykorzystanie sztucznej inteligencji do automatycznego wypełniania pól podczas łączenia szablonów.
+- **Generowanie w sposób skalowalny:** Łączenie i generowanie raportów dla zespołów rozproszonych globalnie.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików XLS za pomocą interfejsów API Javy chroni historyczne dane arkuszy kalkulacyjnych zawierające poufne informacje. Zautomatyzowana cenzura ukrywa stare arkusze płac, ocenzurowuje dane klientów i maskuje przestarzałe dane budżetowe.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Arkusze płac:** Usuń szczegóły płac w zarchiwizowanych plikach.
+- **Dane klientów:** Ukryj informacje o klientach dla zgodności z retencją.
+- **Dane budżetowe:** Maskuj stare prognozy lub poufne liczby.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Polityki retencji:** Oczyszczaj pliki przed archiwizacją lub zniszczeniem.
+- **Bezpieczna digitalizacja:** Ocenzuruj pliki przed przeniesieniem do nowoczesnych systemów.
+- **Ochrona historyczna:** Zachowaj bezpieczeństwo i zgodność danych finansowych z przeszłości.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Přístup k metadatům a jejich úprava v šablonách DOTX pomocí API v aplikacích Java pomáhá udržovat kontrolu verzí, zarovnání s obchodními jednotkami a dodržování politik.
+
+**Klíčové použití:**  
+- Vynutit verzování šablon napříč týmy a odděleními.  
+- Kategorizovat šablony na základě obchodních jednotek nebo oddělení.  
+- Podpora souladu tím, že zajistí konzistenci metadat.
+
+**Automatizační scénáře:**  
+- Automatizovat vkládání metadat při vytváření nebo aktualizaci šablon.  
+- Klasifikovat a organizovat šablony programově.  
+- Spravovat celý životní cyklus šablony s sledováním metadat pomocí AI.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

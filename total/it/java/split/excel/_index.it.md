@@ -71,7 +71,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Suddivisione dei file EXCEL utilizzando le API Java: Segmentazione semplificata dei dati e consegna</h2>
+
+La suddivisione dei file EXCEL con le API Java consente alle organizzazioni di gestire set di dati di grandi dimensioni in modo più efficiente isolando le parti rilevanti per una migliore analisi, condivisione e reportistica. Ciò favorisce la collaborazione, supporta la conformità e ottimizza i flussi di dati.
+
+## ✅ Principali casi d'uso
+
+- **Budget Dipartimentali**: Suddividere fogli di bilancio principali in file specifici per dipartimento per una distribuzione sicura.
+- **Fogli Dati Trimestrali**: Estrarre dati per periodi specifici per semplificare la reportistica finanziaria.
+- **Metriche dell'Unità Aziendale**: Generare fogli sulle performance per unità per gli stakeholder.
+
+## ⚙️ Scenari di automazione
+
+- **Distribuzione Dati Finanziari**: Automatizzare la condivisione dei file Excel suddivisi con team o clienti.
+- **Esportazioni da Excel a CSV**: Esportare i dati segmentati in CSV per l'integrazione con altri strumenti.
+- **Consegna di Contenuti su Dispositivi Mobili**: Servire file Excel più piccoli e mirati agli utenti mobili per ridurre il carico.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

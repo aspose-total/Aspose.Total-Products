@@ -75,7 +75,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ DOT-bestanden splitsen met behulp van Java API's: Modulair sjabloonbeheer op schaal</h2>
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Herbruikbare Componenten**: Maak sjabloononderdelen modulair voor eenvoudig hergebruik in meerdere documenten.
+- **Bedrijfsformuliercategorieën**: Verdeel grote zakelijke formuliersjablonen in gecategoriseerde secties voor snellere implementatie.
+- **Indelingsextractie**: Specifieke lay-outelementen extraheren om dynamische of gepersonaliseerde documenten te maken.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Sjablooncreatie**: Automatiseer het maken van nieuwe documenten door modulaire sjabloondelen samen te stellen.
+- **Productie van gelokaliseerde inhoud**: Genereer gelokaliseerde documentensjablonen door herbruikbare elementen te splitsen en aan te passen.
+- **Efficiënt hergebruik van opmaak**: Hergebruik gemeenschappelijke lay-outsecties over verschillende projecten voor merkconsistentie.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

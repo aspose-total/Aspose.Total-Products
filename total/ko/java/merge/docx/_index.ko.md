@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+DOCX 파일을 Java 애플리케이션에서 API를 사용하여 구문 분석하면 조직이 워드 문서에 포함된 구조화된 정보를 해제할 수 있습니다. 자동화된 DOCX 구문 분석은 데이터 주도형 워크플로, 지능형 문서 처리 및 콘텐츠 재사용을 가능하게 합니다.
+
+**주요 사용 사례:**
+- **구조화된 데이터 추출:** DOCX 보고서에서 테이블, 제목 및 섹션을 추출합니다.
+- **문서 분석:** 깊은 통찰과 규정 준수를 위해 콘텐츠를 읽고 세분화합니다.
+- **콘텐츠 인식 자동화:** 재사용 가능한 텍스트 블록을 구문 분석하여 기업 시스템에서 스마트 워크플로를 가능하게 합니다.
+
+**자동화 시나리오:**
+- **AI 교육 데이터셋:** DOCX 파일을 구문 분석하여 AI 모델에 대한 고품질 교육 데이터를 구축합니다.
+- **메타데이터 추출:** 계약 메타데이터를 자동으로 식별하고 추출합니다.
+- **실시간 세분화:** 디지털 워크플로, 아카이빙 및 거버넌스를 위한 실시간 구문 분석을 구동합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java APIを使用してDOTMファイルを表示する：安全なマクロ有効テンプレートプレビュー</h2>
+
+Java APIを使用することで、企業は埋め込まれたコードを実行せずにマクロ有効なWordテンプレートを表示できます。これにより、安全な環境でのテンプレートレビューが保証されます。
+
+## ✅ 主なユースケース
+
+- **法務/財務テンプレートのプレビュー：** 機密性の高いテンプレートを安全に検査します。
+- **マクロフリーな検査：** スクリプトをトリガーせずにレイアウトを表示します。
+- **テンプレート共有：** 編集用に標準のDOTMファイルを配布します。
+
+## ⚙️ 自動化シナリオ
+
+- **安全なプレビューア：** 人事または法務ポータルでDOTMファイルをレンダリングします。
+- **レポート生成ツール：** テンプレートプレビューを自動レポートビルダーに統合します。
+- **承認ツール：** 管理者の承認のためにテンプレートを表示します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

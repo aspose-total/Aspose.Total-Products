@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Wyodrębnianie i zarządzanie metadanymi plików DOCX za pomocą interfejsów API w aplikacjach Java poprawia integralność dokumentów, możliwości ich odnalezienia i zgodność. Programowe zarządzanie metadanymi wspiera klasyfikację dokumentów, śledzenie autorstwa i inteligentne indeksowanie.</h2>
+
+**Kluczowe przypadki użycia:**  
+- Klasyfikuj dokumenty w systemach zarządzania treścią przedsiębiorstwa według autora, typu lub działu.  
+- Śledź autorstwo i historię zmian w archiwach prawnych lub akademickich.  
+- Umożliwiaj inteligentne indeksowanie wyszukiwania za pomocą niestandardowych pól metadanych.
+
+**Scenariusze automatyzacji:**  
+- Automatyzuj tagowanie zgodności dla dużych ilości plików DOCX.  
+- Wykonuj wsadowe czyszczenie metadanych w celu usunięcia przestarzałych lub zbędnych właściwości.  
+- Wykorzystaj kategoryzację opartą na sztucznej inteligencji do wzbogacania dokumentów metadanymi na podstawie treści i niestandardowych właściwości.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

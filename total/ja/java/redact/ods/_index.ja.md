@@ -74,7 +74,25 @@ ODS 編集アプリまたはユーティリティを開発する必要があり�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODS（OpenDocument Spreadsheet）ファイルをJava APIを使用して編集することは、オープンソースのスプレッドシートデータを取り扱う組織にとって重要です。プログラムによる編集は給与をマスクし、医療情報を削除し、調達シートでベンダーの価格を非表示にします。
+
+## ✅ 主なユースケース
+
+- **給与レポート:** オープンデータの公開時に支払い詳細を非表示にします。
+- **医療記録:** 研究のコンプライアンスのために健康データを削除します。
+- **調達シート:** 共有予算でベンダーの価格を非表示にします。
+
+## ⚙️ 自動化シナリオ
+
+- **オープンデータの公開:** データを一般公開用に無害化します。
+- **研究のコンプライアンス:** 公開データセットに対するプライバシー法を遵守します。
+- **内部共有:** 機密情報を公開せずにスプレッドシートを配布します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Extracteren en beheren van DOCX-bestandsmetadata met behulp van API's in Java-toepassingen verbetert de documentintegriteit, vindbaarheid en naleving. Programmatische metadata-verwerking ondersteunt documentclassificatie, het bijhouden van auteurschap en slim indexeren.
+
+**Belangrijkste Gebruiksscenario's:**
+- Classificeren van documenten in bedrijfscontent systemen op basis van auteur, type of afdeling.
+- Bijhouden van auteurschap en revisiegeschiedenis voor juridische of academische archieven.
+- Slimme zoekindexering mogelijk maken met behulp van aangepaste metadata-velden.
+
+**Automatiseringsscenario's:**
+- Automatiseer nalevingsmarkering voor grote hoeveelheden DOCX-bestanden.
+- Voer batchmetadata-opruiming uit om verouderde of overbodige eigenschappen te verwijderen.
+- Gebruik door AI aangedreven categorisering om documenten te verrijken met metadata op basis van inhoud en aangepaste eigenschappen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

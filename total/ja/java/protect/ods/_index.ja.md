@@ -74,7 +74,20 @@ ODS パスワード保護アプリまたはユーティリティを開発する�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース
+- 共有スプレッドシート内の操作データを保護します。
+- 不正な編集からテンプレートをロックします。
+- 読み取り専用のBIレポートを強制します。
+
+## 自動化シナリオ
+- データ処理の規制遵守。
+- ODSファイル内のAIトレーニングデータを保護します。
+- プランニングファイルのライフサイクルを制御します。
+- 内部データ共有を保護します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

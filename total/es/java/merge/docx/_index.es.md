@@ -74,7 +74,19 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+- **Extracción de Datos Estructurados:** Extraer tablas, encabezados y secciones de informes DOCX.
+- **Análisis de Documentos:** Leer y segmentar contenido para obtener información más profunda y realizar controles de cumplimiento.
+- **Automatización Consciente del Contenido:** Habilitar flujos de trabajo inteligentes en sistemas empresariales mediante el análisis de bloques de texto reutilizables.
+
+## Escenarios de automatización:
+- **Conjuntos de Datos de Entrenamiento de IA:** Analizar archivos DOCX para crear datos de entrenamiento de alta calidad para modelos de IA.
+- **Extracción de Metadatos:** Identificar y extraer metadatos de contratos automáticamente.
+- **Segmentación en Tiempo Real:** Impulsar el análisis en tiempo real para flujos de trabajo digitales, archivado y gobernanza.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

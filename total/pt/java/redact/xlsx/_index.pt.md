@@ -74,7 +74,25 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigir arquivos XLSX com APIs Java protege conteúdos modernos de planilhas com informações comerciais sensíveis. A redação programática remove métricas de desempenho, mascara IDs de funcionários e oculta custos de fornecedores.
+
+## ✅ Principais Casos de Uso
+
+- **Dashboards:** Redigir KPIs confidenciais.
+- **Folhas de Pagamento:** Mascare identificadores de funcionários e detalhes de pagamento.
+- **Modelos de Aquisição:** Ocultar preços de fornecedores para compartilhamento seguro.
+
+## ⚙️ Cenários de Automação
+
+- **Conformidade em Tempo Real:** Aplicar regras de privacidade em colaborações ao vivo.
+- **Preparação para Auditoria:** Automatizar redações antes de auditorias externas.
+- **Colaboração na Nuvem:** Compartilhar planilhas de forma segura entre equipes.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

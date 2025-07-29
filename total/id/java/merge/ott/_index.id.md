@@ -74,7 +74,23 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menggabungkan file OTT (OpenDocument Text Template) menggunakan API dalam aplikasi Java memberdayakan bisnis untuk menjaga konsistensi, template yang dapat digunakan kembali untuk pembuatan dokumen dalam jumlah besar. Otomatisasi memastikan standarisasi dan output yang lebih cepat.
+
+**Kasus Penggunaan Utama:**
+- **Surat Bisnis:** Menghasilkan surat berbasis template dengan menggabungkan file OTT untuk HR, penjualan, atau komunikasi dengan klien.
+- **Blok Konten yang Dapat Digunakan Kembali:** Menggabungkan bagian-bagian standar ke dalam template utama untuk kontrak, proposal, atau kebijakan.
+- **Standarisasi Alur Kerja:** Memastikan branding dan format yang konsisten di semua dokumen yang dibuat dari template.
+
+**Skenario Otomatisasi:**
+- **Transformasi OTT ke ODT:** Menggabungkan template dan mengonversinya menjadi dokumen ODT yang siap diedit.
+- **Konsolidasi Template:** Mengotomatisasi penggabungan beberapa file OTT menjadi template utama yang terpadu.
+- **Populasi Bidang AI:** Menggunakan AI untuk mengisi template dengan data dinamis untuk pembuatan dokumen yang dipersonalisasi.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

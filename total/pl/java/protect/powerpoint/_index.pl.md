@@ -71,7 +71,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Ochrona plików POWERPOINT za pomocą interfejsów API Javy</h2>
+Zapewnia, że prezentacje wykonawcze i markowe pozostaną nietknięte. Automatyczna ochrona ogranicza edycje, stosuje hasła i obsługuje slajdy treningowe tylko do odczytu.
+
+**Główne przypadki użycia**
+- Zablokuj prezentacje wykonawcze.
+- Zabezpiecz hasłem prezentacje sprzedażowe.
+- Udostępnij materiały szkoleniowe tylko do odczytu.
+
+**Scenariusze automatyzacji**
+- Zachowaj spójność marki.
+- Chronić integralność slajdów szkoleniowych.
+- Zabezpiecz slajdy z nauki AI.
+- Usprawnij zatwierdzanie treści.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

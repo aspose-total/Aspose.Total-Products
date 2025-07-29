@@ -71,7 +71,22 @@ PPTX 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 편집 가능한 템플릿 보호.
+- 투자자 덱 접근 제한.
+- 읽기 전용 분산 슬라이드 공유.
+
+<h2>자동화 시나리오</h2>
+- 기업 교육 보안.
+- AI 기반 콘텐츠 생성.
+- 개인 정보 보호 법규 준수.
+- 안전한 이해 관계자 프레젠테이션.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

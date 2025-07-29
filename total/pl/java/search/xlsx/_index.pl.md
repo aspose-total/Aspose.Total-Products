@@ -88,7 +88,28 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📈 Wyszukiwanie plików XLSX za pomocą interfejsów API Javy: Inteligentne odkrywanie danych</h2>
+
+Wyszukiwanie plików XLSX za pomocą interfejsów API Javy umożliwia nowoczesnym przedsiębiorstwom radzenie sobie z ogromnymi ilościami strukturyzowanych danych. Zautomatyzowane wyszukiwania zwiększają produktywność, wzmacniają możliwości BI i zapewniają natychmiastowy dostęp do kluczowych informacji.
+
+## ✅ Główne przypadki użycia
+
+- **Skanowanie nowoczesnych modeli finansowych w poszukiwaniu anomalii**: Wykrywanie błędów obliczeń i niezgodności w aktualnych arkuszach finansowych.
+- **Wyszukiwanie odniesień do polityk w strukturyzowanych arkuszach danych**: Zlokalizuj terminy związane z polityką w skoroszytach XLSX z wieloma arkuszami.
+- **Filtrowanie wpisów produktów w czasie rzeczywistym śledzenia zapasów**: Izolacja danych na poziomie produktu do zarządzania łańcuchem dostaw i zapasami.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Inteligentna Business Intelligence (BI)**: Wzbogać narzędzia BI o zaawansowane wyszukiwanie dla praktycznych wniosków.
+- **Analityka predykcyjna**: Wykorzystaj wyszukiwanie do dostarczania dokładnych danych do modeli prognozowania.
+- **Klasyfikacja danych wspierana przez sztuczną inteligencję**: Automatyczna klasyfikacja wierszy i kolumn na podstawie wyników wyszukiwania.
+- **Odkrywanie treści na poziomie przedsiębiorstwa**: Wzmocnij możliwości wyszukiwania w nowoczesnych repozytoriach XLSX dla lepszego zarządzania danymi.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

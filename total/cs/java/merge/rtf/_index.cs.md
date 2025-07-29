@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Slučování souborů RTF (Rich Text Format) pomocí API v aplikacích Java umožňuje organizacím efektivněji pracovat s bohatě formátovanými dokumenty. Automatizované slučování RTF zachovává formátování, zvyšuje rychlost pracovního postupu a zajistí konzistenci napříč různými důležitými obchodními soubory.
+
+**Klíčové použití:**
+- **Záznamy s bohatým textem:** Slučujte více záznamů RTF do jednoho organizovaného souboru pro archivaci nebo reporting.
+- **Lékařské poznámky:** Slučujte formátované lékařské poznámky a historie pacientů pro sjednocené zdravotní záznamy.
+- **Právní texty:** Konsolidujte smlouvy, poznámky k případům nebo právní podklady do komplexních dokumentů ve formátu RTF.
+
+**Automatizační scénáře:**
+- **Konverze RTF na DOCX:** Převeďte slučované soubory RTF do formátu DOCX pro širší kompatibilitu.
+- **Integrace zachovávající formátování:** Při slučování zachovejte bohaté styly textu, písma a tabulky.
+- **Strukturované formátování pomocí AI:** Použijte umělou inteligenci k standardizaci nadpisů, seznamů a rozložení textu napříč slučovanými dokumenty.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

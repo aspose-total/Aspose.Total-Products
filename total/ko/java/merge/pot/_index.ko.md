@@ -74,7 +74,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례:</h2>
+- **오래된 템플릿:** 업그레이드 중에 연속성 유지를 위해 레거시 템플릿 병합
+- **재사용 가능한 구조:** 일관된 프레젠테이션을 위해 표준 슬라이드 레이아웃 결합
+- **기업 비주얼 업데이트:** 현재 브랜딩과 일치하도록 오래된 템플릿 새롭게 업데이트
+
+<h2>자동화 시나리오:</h2>
+- **POT-to-PPTX 병합:** 현대적 사용을 위해 템플릿 병합 및 변환
+- **AI 형식 변환:** 스타일과 포맷 업데이트를 위해 AI 사용
+- **레이아웃 통합:** 병합된 슬라이드 템플릿에서 일관된 브랜딩 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,21 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Estrarre e gestire i metadati nei file Excel utilizzando le API nelle applicazioni Java è cruciale per le imprese orientate ai dati che si basano su un'accurata governance delle informazioni. Automatizzando i flussi di lavoro dei metadati di Excel, le organizzazioni possono identificare i proprietari dei dati, categorizzare i modelli finanziari e mantenere processi strutturati.
+
+**Principali casi d'uso:**  
+- Identificare i proprietari dei dati dei fogli di calcolo per la responsabilità e la gestione degli accessi.  
+- Categorizzare modelli finanziari complessi per esigenze normative e di revisione contabile.  
+- Supportare flussi di lavoro strutturati allineando i metadati alle politiche aziendali sui dati.
+
+**Scenari di automazione:**  
+- Automatizzare l'indicizzazione basata sui metadati per il rapido recupero dei fogli di calcolo.  
+- Classificare i fogli di calcolo per dipartimento, progetto o tipo di modello.  
+- Applicare l'etichettatura basata sull'IA a grandi repository di Excel per conformità e analisi.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,24 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/pdf/jav
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zabezpieczanie plików PDF za pomocą interfejsów API Javy pomaga szyfrować, ograniczać i uwierzytelniać istotne dokumenty w różnych branżach. Zautomatyzowane zabezpieczenia PDF zapewniają bezpieczne przepływy treści oraz zgodność z firmowymi i prawnymi zasadami.
+
+**Główne przypadki użycia**
+- Szyfrowanie umów za pomocą haseł.
+- Wyłączanie funkcji kopiowania/drukowania dla poufnych plików.
+- Automatyczne stosowanie podpisów cyfrowych.
+
+**Scenariusze automatyzacji**
+- Spełnianie wymagań prawnych i regulacyjnych.
+- Zabezpieczanie przepływów dokumentów.
+- Filtracja dokumentów wejściowych do zastosowań sztucznej inteligencji.
+- Włączanie zarządzania treścią na poziomie przedsiębiorstwa.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

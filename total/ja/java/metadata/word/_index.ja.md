@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- 一貫したメタデータ構造で企業全体の基準を強化する。
+- DMSプラットフォームでの検索インデックス作成と分類の向上。
+- 検証可能な著者情報とバージョニングでコンプライアンス監査をサポートする。
+
+## 自動化シナリオ:
+- 数千のWordファイル全体でメタデータフィールドを自動的にマッピングする。
+- カテゴリ、部署、またはプロジェクトで文書にタグ付けする。
+- 著者、トピック、またはプロパティによって大規模なWordアーカイブをセグメント化するためにAIを使用する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití:
+
+- **Překrytí designových prvků:** Kombinujte průhledné PNG s kreativními designovými nástroji.
+- **Sestavení UI komponent:** Slučujte ikony, tlačítka a další UI prvky.
+- **Snímky obrazovky produktu:** Sestavte více snímků obrazovky pro manuály a online nápovědu.
+
+## Scénáře automatizace:
+
+- **Zachování alfa-kanálu:** Uchovávejte průhlednost při slučování.
+- **Generování kompozitního obrázku:** Automatizujte vrstvené kompozice PNG.
+- **Vykreslování rozložení pomocí AI:** Použijte AI k automatickému uspořádání prvků do pixelově dokonalých rozložení.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

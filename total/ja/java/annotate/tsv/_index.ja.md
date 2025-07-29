@@ -117,7 +117,27 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 TSVファイルに注釈を付ける理由：ログ解析、データレビュー、プレーンテキストのドキュメントの改善</h2>
+
+**TSV（Tab-Separated Values）**ファイルに注釈を付けることは、ログ、データセット、エクスポートされたレポートなどの構造化されたプレーンテキストデータを扱うチームにとって不可欠です。TSVファイルにコメントやメモを追加することで、明確さが向上し、正確なデータ解釈が確保され、コラボレーションが効率化されます。
+
+## ✅ 主な使用ケース
+
+- **ログ解析：** TSVファイルとして保存されたログエクスポートのフィールドを説明したり、異常をフラグ付けしたり、トレンドを強調するために注釈を使用します。
+- **プレーンテキストのドキュメント：** カラム、データソース、またはTSVドキュメント内で直接変換手順を説明するためのノートを追加します。
+- **ソースデータのレビュー：** データ品質の問題をマークしたり、修正を提案したり、アナリストにコンテキストを明確にするためのインラインコメントを挿入します。
+
+## ⚙️ 自動化の利点
+
+- **AI前処理：** パターンをタグ付けし、異常値を検出し、機械学習やレポーティングの前にTSVファイルを豊かにするために注釈を自動化します。
+- **コードレビュー：** 注釈付きのTSVを使用して、テストデータを明確にし、入出力構造を検証し、データセットの変更を文書化します。
+- **技術ドキュメント：** 自動注釈を統合して、TSVベースのデータ辞書、構成、および処理ノートを明確かつ最新の状態に保ちます。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

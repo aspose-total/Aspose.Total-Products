@@ -71,7 +71,22 @@ PPT 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 보관된 프레젠테이션에서 편집 방지.
+- 내부 전략 슬라이드 잠금.
+- 읽기 전용 교육 덱 강제 실행.
+
+<h2>자동화 시나리오</h2>
+- 문서 준수.
+- 교육 자료의 개인 정보 보호.
+- 기업 지식 베이스의 무결성.
+- 안전한 AI 데이터셋 선별.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

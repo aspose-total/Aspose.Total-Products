@@ -74,7 +74,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cosa fare con i file DOT
+
+La fusione dei file DOT utilizzando le API Java modernizza la gestione dei modelli legacy in grandi organizzazioni. La fusione DOT programmatica supporta il branding coerente, il riutilizzo del layout e la standardizzazione dei modelli.
+
+**Principali casi d'uso:**
+- **Modelli Legacy:** Unire vecchi modelli DOT in modelli principali unificati.
+- **Layout Dipartimentali:** Garantire un formattazione coerente tra i documenti dei dipartimenti.
+- **Contenuti Riutilizzabili:** Modernizzare le sezioni riutilizzabili unendo i file DOT per una facile produzione di DOCX.
+
+**Scenari di automazione:**
+- **Fusione DOT-to-DOCX:** Automatizzare la conversione durante la fusione dei modelli legacy.
+- **Assemblaggio Batch dei Modelli:** Consolidare più modelli in un unico file principale.
+- **Standardizzazione Guidata da AI:** Utilizzare l'IA per rilevare le incongruenze e allineare i layout per la conformità al marchio.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

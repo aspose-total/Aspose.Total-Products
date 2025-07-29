@@ -71,7 +71,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Rozdělování souborů XLS pomocí Java API: Modernizace zpracování dědictví tabulek</h2>
+
+## ✅ Klíčové použití případy
+
+- **Roční záznamy**: Extrahujte datové záznamy specifické pro rok z velkých souborů XLS.
+- **Obchodní záznamy**: Oddělte záznamy o obchodní činnosti do modulárních souborů.
+- **Data ve starém formátu**: Připravte dědictví tabulky pro integraci s moderními systémy.
+
+## ⚙️ Scénáře automatizace
+
+- **Migrace dědictví**: Rozdělte a modernizujte staré soubory XLS pro nové systémy.
+- **Zpracování souborů Excel**: Automatizujte extrakci dat pro reportování.
+- **Integrace s mobilními nástroji**: Dodávejte menší soubory XLS pro lehčí mobilní nástroje.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

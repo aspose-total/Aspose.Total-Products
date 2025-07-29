@@ -75,7 +75,25 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menyunting file ODT (OpenDocument Text) melalui API Java membantu melindungi teks sensitif dalam dokumen berformat terbuka. Redaksi otomatis menghapus pengenal pribadi, menyembunyikan umpan balik, dan menyamarkan detail sensitif dalam formulir pemerintah.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Kertas Akademis:** Hapus informasi identitas pribadi mahasiswa atau penulis dalam penelitian yang dipublikasikan.
+- **Ulasan Rahasia:** Sembunyikan umpan balik internal dalam draf yang dibagikan.
+- **Formulir Pemerintah:** Samarkan data warga yang sensitif untuk kepatuhan.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Hukum Privasi Data:** Otomatisasi redaksi untuk GDPR dan aturan serupa.
+- **Perlindungan Pengadu:** Kelola pengungkapan sensitif dengan aman.
+- **Kolaborasi Sektor Publik:** Distribusikan file ODT yang disanitasi dengan aman.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

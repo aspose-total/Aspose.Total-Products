@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zarządzanie metadanymi w plikach programu Microsoft PowerPoint za pomocą interfejsów API w aplikacjach Java zapewnia spójność marki i zorganizowane biblioteki prezentacji.
+
+**Główne przypadki użycia:**
+- Klasyfikuj korporacyjne prezentacje według tematu lub działu.
+- Wprowadź polityki dotyczące marki i praw autorskich za pomocą metadanych.
+- Organizuj obszerne biblioteki slajdów dla szybkiego dostępu.
+
+**Scenariusze automatyzacji:**
+- Zautomatyzuj wsadowe oznaczanie właściwości prezentacji.
+- Sortuj talie na podstawie metadanych, takich jak autor lub kampania.
+- Zastosuj sztuczną inteligencję do kategoryzowania talii slajdów według motywu i zastosowania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

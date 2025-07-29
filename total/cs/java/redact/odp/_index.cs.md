@@ -72,7 +72,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Oprava souborů ODP (OpenDocument Presentation) pomocí Java API zajišťuje ochranu důvěrného obsahu prezentací. Automatizovaná redakce pomáhá skrýt strategické plány, vymazat jména v prezentacích HR a odstranit konkurenční data v prezentacích pro investory.
+
+## ✅ Klíčové použití
+
+- **Obchodní plány:** Skryjte strategické plány ve sdílených prezentacích.
+- **Prezentace HR:** Odstraňte jména zaměstnanců nebo osobní identifikační údaje ze snímků.
+- **Prezentace pro investory:** Vymažte citlivá konkurenční nebo finanční data.
+
+## ⚙️ Scénáře automatizace
+
+- **Důvěrné prezentace:** Sankcionujte prezentace pro externí zainteresované strany.
+- **Školicí materiály:** Automatizujte redakci pro bezpečné interní sdílení znalostí.
+- **Regulační shody:** Splňte standardy ochrany komunikace.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

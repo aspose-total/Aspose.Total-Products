@@ -74,7 +74,20 @@ XLSX パスワード保護アプリまたはユーティリティを開発する
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用シナリオ
+- フォーミュラ駆動のスプレッドシートをロックします。
+- パフォーマンスレポートにパスワード保護を追加します。
+- 営業データの制限付きアクセスを有効にします。
+
+## 自動化シナリオ
+- 監査準拠の財務報告。
+- バージョン管理されたスプレッドシート。
+- 安全なAIトレーニングデータセット。
+- 協力的な企業分析。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

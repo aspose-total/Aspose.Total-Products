@@ -76,7 +76,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 TIFF 파일을 병합하면 법률, 의료 및 공학 산업에서 고품질 문서 및 이미지 워크플로우를 지원합니다.
+
+**주요 사용 사례:**
+- **다중 페이지 문서:** 여러 스캔된 페이지를 하나의 TIFF 파일로 병합합니다.
+- **청사진 아카이브:** 아카이빙을 위해 공학 도면을 디지털로 연결합니다.
+- **이미지 데이터 세트:** 연구 및 분석을 위해 고해상도 TIFF를 병합합니다.
+
+**자동화 시나리오:**
+- **페이지 순서 지정:** 다중 페이지 TIFF에서 올바른 페이지 순서를 자동화합니다.
+- **압축 인식 병합:** 세부 정보를 잃지 않고 파일 크기를 최적화합니다.
+- **AI 전처리:** 소음 감소 및 선명도를 위해 AI 필터를 적용합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

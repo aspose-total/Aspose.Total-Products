@@ -74,7 +74,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Clasificar presentaciones corporativas por tema o departamento.
+- Hacer cumplir políticas de marca y derechos de autor a través de metadatos.
+- Organizar extensas bibliotecas de diapositivas para un acceso rápido.
+
+## Escenarios de automatización:
+
+- Automatizar el etiquetado por lotes de propiedades de presentación.
+- Ordenar mazos basados en metadatos como autor o campaña.
+- Aplicar inteligencia artificial para categorizar mazos de diapositivas por tema y uso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

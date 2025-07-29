@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **学術報告書:** 複数の研究論文や学生の提出物を1つのODTドキュメントにまとめる。
+- **法的文書:** ケースファイル、契約書、裁判提出物を包括的な、バージョン管理されたODTにマージする。
+- **共同執筆コンテンツ:** 複数の著者からの寄稿を1つの洗練されたファイルにまとめ、公開やアーカイブ用に利用する。
+
+## 自動化シナリオ:
+- **一括マージ:** 何百ものODTファイルを一括で結合する自動化。
+- **バージョン管理統合:** マージ中のバージョン履歴の維持と変更の追跡。
+- **AIフォーマット正規化:** AIを使用して、プロフェッショナルで標準化された出力のためにスタイル、見出し、フォーマットを整える。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

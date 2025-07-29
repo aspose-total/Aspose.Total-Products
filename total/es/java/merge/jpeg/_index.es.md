@@ -76,7 +76,21 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Casos de uso clave:</h2>
+- **Catálogos de productos:** Compilar múltiples fotos de productos en hojas JPEG organizadas para tiendas en línea.
+- **Documentos escaneados:** Combinar páginas escaneadas en informes visuales JPEG únicos para compartir fácilmente.
+- **Paquetes de fotos de marketing:** Crear colecciones de fotos promocionales listas para anuncios, boletines y redes sociales.
+
+<h2>Escenarios de automatización:</h2>
+- **Consolidación de imágenes por lotes:** Automatizar la fusión de miles de JPEG a granel.
+- **Optimización de diseño:** Organizar imágenes en diseños de cuadrícula predefinidos.
+- **Narración impulsada por IA:** Utilizar IA para secuenciar, etiquetar y fusionar JPEG para narrativas de marca dinámicas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

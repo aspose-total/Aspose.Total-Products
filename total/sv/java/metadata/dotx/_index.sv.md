@@ -74,7 +74,21 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Åtkomst och redigering av metadata i DOTX-mallar med hjälp av API:er i Java-applikationer hjälper till att upprätthålla versionskontroll, anpassning till affärsenheter och efterlevnad av policys.
+
+**Viktiga användningsfall:**  
+- Tvinga versionering av mallar över team och avdelningar.  
+- Kategorisera mallar baserat på affärsenheter eller avdelningar.  
+- Stödja efterlevnad genom att säkerställa metadatakonsistens.
+
+**Automatiseringsscenario:**  
+- Automatisera metadatainjektion vid skapande eller uppdatering av mallar.  
+- Klassificera och organisera mallar programmatiskt.  
+- Hantera hela mallens livscykel med AI-driven spårning av metadata.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

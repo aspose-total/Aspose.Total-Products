@@ -74,7 +74,23 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menggabungkan file template POTX menggunakan API dalam aplikasi Java memastikan generasi presentasi yang dapat diskalakan dan konsisten dengan merek di seluruh tim.
+
+**Kasus Penggunaan Utama:**
+- **Tata Letak Bermerk:** Gabungkan beberapa template slide bermerk.
+- **Tema Visual:** Bangun tema yang seragam untuk berbagai departemen.
+- **Template yang Dapat Diskalakan:** Hasilkan dek standar untuk penggunaan bisnis yang berulang.
+
+**Skenario Otomatisasi:**
+- **Generasi Slide Dinamis:** Otomatis membuat slide dari template yang digabungkan.
+- **Penyesuaian Tema AI:** Memadukan warna, font, dan tata letak.
+- **Ekspor POTX ke PPTX:** Otomatisasi mengkonversi template menjadi presentasi yang dapat diedit.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

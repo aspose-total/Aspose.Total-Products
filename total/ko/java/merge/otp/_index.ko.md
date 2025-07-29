@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 주요 사용 사례:
+- **표준 슬라이드 덱:** OTP 템플릿을 병합하여 반복 회의용 브랜드 슬라이드 생성.
+- **부서 템플릿:** 회사 전체 마스터 템플릿으로 부서별 OTP 파일 결합.
+- **브랜드 일관성:** 모든 프레젠테이션에서 일관된 디자인, 색상 및 레이아웃 유지.
+
+## 자동화 시나리오:
+- **OTP-to-ODP 변환:** 템플릿 병합 및 즉시 프레젠테이션 생성 자동화.
+- **콘텐츠 채우기:** 동적 데이터로 슬라이드 미리 채우기하여 신속한 덱 생성.
+- **AI 개인화:** AI를 사용하여 다른 대상 및 팀에 맞게 슬라이드를 사용자 정의.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

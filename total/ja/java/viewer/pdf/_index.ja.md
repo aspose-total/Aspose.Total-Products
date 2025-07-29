@@ -75,7 +75,27 @@ PDF ビューア アプリまたはユーティリティを開発する必要が
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 Java APIを使用したPDFファイルの表示：手間のかからないブラウザドキュメント表示</h2>
+
+PDFファイルをJava APIを使用して表示することで、請求書、契約書、パンフレットなどをブラウザやアプリ内で安全に表示できます。外部リーダーは必要ありません。
+
+## ✅ 主な使用シーン
+
+- **請求書＆契約書のプレビュー:** 金融や法的なPDFをポータルに表示。
+- **モバイルアクセシビリティ:** どんなデバイスでもPDFを表示可能。
+- **マーケティング資料:** パンフレットをウェブサイトやCRMツールに埋め込み。
+
+## ⚙️ 自動化シナリオ
+
+- **法的ポータル:** クライアント契約のPDFレンダリングを自動化。
+- **請求システム:** 顧客に安全に請求書を表示。
+- **電子署名ワークフロー:** 署名のためのPDF表示を統合。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

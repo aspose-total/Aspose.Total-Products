@@ -80,7 +80,21 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de Uso Principais:
+
+- Acompanhar a propriedade de planilhas em ambientes colaborativos.
+- Categorizar dados financeiros ou operacionais por departamento ou projeto.
+- Apoiar políticas de ciclo de vida de documentos e conformidade.
+
+## Cenários de Automação:
+
+- Realizar marcação em lote de metadados para arquivos ODS.
+- Classificar colunas e tipos de dados automaticamente.
+- Utilizar IA para preencher metadados ausentes para uma melhor governança de dados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

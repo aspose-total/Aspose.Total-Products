@@ -68,7 +68,27 @@ ODP 파일을 쉽게 분할하기 위해 Java 스크립트 또는 유틸리티 �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API를 사용하여 ODP 파일 분할: 대상 프레젠테이션 관리</h2>
+
+Java API를 사용하여 ODP 파일을 분할하면 조직이 주제별 슬라이드 덱을 만들 수 있습니다. 이는 모듈식 콘텐츠 전달과 재사용을 통해 교육, 이벤트 및 프레젠테이션을 지원합니다.
+
+## ✅ 주요 사용 사례
+
+- **주제별 슬라이드 덱**: 대상 관객을 위해 대형 프레젠테이션을 주제별 덱으로 분할합니다.
+- **교육 프레젠테이션**: 학습 자료를 모듈로 분할하여 쉬운 학습과 업데이트를 지원합니다.
+- **이벤트 세션**: 이벤트 슬라이드를 세션별 ODP 파일로 분리하여 원활한 전달을 돕습니다.
+
+## ⚙️ 자동화 시나리오
+
+- **LMS 슬라이드 생성**: 학습 관리 시스템용 모듈식 슬라이드 생성을 자동화합니다.
+- **슬라이드 재사용**: 핵심 슬라이드를 다른 프레젠테이션 및 프로젝트에서 재사용합니다.
+- **프레젠테이션 분할**: 대형 프레젠테이션을 쉬운 전달을 위해 관리 가능한 섹션으로 간소화합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

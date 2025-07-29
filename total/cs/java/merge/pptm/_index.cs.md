@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Interaktivní prezentace:** Sloučení snímků založených na makrech pro živé ukázky nebo workshopy.
+- **Automatické prezentace:** Kombinace PPTM souborů pro automatizaci přehrávání obsahu.
+- **Školicí materiály:** Uchování vložených maker v sloučených školicích prezentacích.
+
+**Automatické scénáře:**
+- **Bezpečné makro integrace:** Ověření makro logiky během slučování.
+- **Kontroly konzistence kódu:** Zajištění bezproblémové funkčnosti vložených skriptů VBA.
+- **Koordinace umělé inteligence:** Použití umělé inteligence k zarovnání vizuálů a makro chování pro plynulý výkon.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

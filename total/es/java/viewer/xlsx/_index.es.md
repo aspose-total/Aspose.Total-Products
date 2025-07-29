@@ -77,7 +77,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualización de archivos XLSX utilizando APIs de Java: Previsualizaciones de hojas de cálculo sin esfuerzo para flujos de trabajo modernos</h2>
+
+Visualizar archivos XLSX con APIs de Java permite a las organizaciones compartir de forma segura hojas de cálculo modernas en navegadores y aplicaciones, eliminando la necesidad de instalaciones locales de Excel.
+
+## ✅ Casos de uso clave
+
+- **Sistemas de inventario:** Previsualizar hojas de productos o existencias en línea.
+- **Plataformas de facturación:** Mostrar facturas y desgloses de costos.
+- **Herramientas de RRHH:** Mostrar archivos XLSX para datos de nómina o de ausencias.
+
+## ⚙️ Escenarios de automatización
+
+- **Tableros de control:** Automatizar la renderización de XLSX para equipos.
+- **Plataformas de datos:** Incrustar vistas de hojas de cálculo en herramientas SaaS.
+- **Portales internos:** Compartir datos actualizados en XLSX en toda la empresa.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

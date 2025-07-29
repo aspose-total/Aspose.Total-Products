@@ -74,7 +74,19 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+- **Propuestas personalizadas:** Fusionar secciones de plantillas para crear propuestas específicas para clientes.
+- **Informes estándar:** Ensamblar secciones reutilizables en informes estándar de la empresa.
+- **Diseños de marca:** Aplicar pautas de marca en equipos fusionando plantillas DOTX estándar.
+
+## Escenarios de automatización:
+- **Población impulsada por campos:** Poblar dinámicamente plantillas fusionadas con datos variables.
+- **Transformación de plantillas:** Convertir plantillas fusionadas automáticamente en documentos finales.
+- **Fusión mejorada con IA:** Utilizar IA para fusionar secciones de manera inteligente, adaptando diseños para la producción de documentos a gran escala.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

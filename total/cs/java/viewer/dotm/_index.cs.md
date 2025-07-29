@@ -76,7 +76,27 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Zobrazení souborů DOTM pomocí Java API: Bezpečné náhledy šablon s makry</h2>
+
+Java API pro zobrazení souborů DOTM umožňují firmám zobrazovat makro-povolené šablony Wordu bez spouštění vloženého kódu. To zajišťuje bezpečné přezkoumání šablon v bezpečných prostředích.
+
+## ✅ Klíčové použití
+
+- **Náhledy právních/finančních šablon:** Bezpečné prohlížení citlivých šablon.
+- **Kontrola bez maker:** Zobrazování rozvržení bez spouštění skriptů.
+- **Sdílení šablon:** Distribuce standardních souborů DOTM pro úpravy.
+
+## ⚙️ Scénáře automatizace
+
+- **Bezpeční zobrazovači:** Zobrazování souborů DOTM v HR nebo právních portálech.
+- **Generátory reportů:** Integrování náhledů šablon do automatizovaných tvůrců reportů.
+- **Nástroje pro schvalování:** Zobrazování šablon pro schválení managementem.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

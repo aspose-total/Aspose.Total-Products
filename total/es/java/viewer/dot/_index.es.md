@@ -76,7 +76,27 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualización de archivos DOT mediante Java APIs: Vista previa de plantillas de Word en cualquier lugar</h2>
+
+La visualización de archivos DOT con Java APIs permite la representación perfecta de plantillas de Word en aplicaciones web, generadores de documentos y plataformas de CMS. Los usuarios pueden inspeccionar diseños y estilos sin tener Word instalado.
+
+## ✅ Casos de uso clave
+
+- **Mostrar plantillas para flujos de trabajo:** Mostrar archivos DOT en la generación automática de documentos.
+- **Vista previa de estilos:** Visualizar formatos predeterminados para nuevos documentos.
+- **Bibliotecas de plantillas en CMS:** Permitir a los usuarios explorar plantillas DOT disponibles en línea.
+
+## ⚙️ Escenarios de automatización
+
+- **Plataformas de integración:** Representar plantillas de cartas de oferta o contratos.
+- **Herramientas de personalización:** Permitir a los usuarios seleccionar y modificar plantillas.
+- **Bibliotecas de plantillas:** Vista previa de plantillas corporativas en centros de contenido.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

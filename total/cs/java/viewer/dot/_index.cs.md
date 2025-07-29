@@ -76,7 +76,27 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Zobrazení souborů DOT pomocí Java API: Náhled šablon Word kdekoli</h2>
+
+Zobrazení souborů DOT pomocí Java API umožňuje bezproblémové zobrazování šablon Word v webových aplikacích, generátorech dokumentů a platformách pro správu obsahu. Uživatelé mohou prohlížet rozložení a styly bez nainstalovaného Wordu.
+
+## ✅ Klíčové použití
+
+- **Zobrazení šablon pro pracovní postupy:** Zobrazte soubory DOT při automatizované generaci dokumentů.
+- **Náhled stylů:** Vizualizace výchozích formátů pro nové dokumenty.
+- **Knihovny šablon v CMS:** Umožněte uživatelům procházet dostupné DOT šablony online.
+
+## ⚙️ Scénáře automatizace
+
+- **Onboardingové platformy:** Zobrazování šablon nabídkových dopisů nebo smluv.
+- **Nástroje pro přizpůsobení:** Umožněte uživatelům vybrat a upravit šablony.
+- **Knihovny šablon:** Náhled firemních šablon v obsahových centrech.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

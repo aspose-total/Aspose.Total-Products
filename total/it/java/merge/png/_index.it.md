@@ -76,7 +76,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cosa fare con i file PNG in Java
+
+Unire file PNG con le API Java è ideale per compiti di design, sviluppo e documentazione in cui sono necessarie grafiche trasparenti.
+
+**Principali casi d'uso:**
+- **Sovrapposizione di elementi di design:** Combinare PNG trasparenti in strumenti di design creativo.
+- **Assemblaggio di componenti UI:** Unire icone, pulsanti e altri elementi UI.
+- **Screenshot di prodotto:** Compilare più screenshot per manuali e aiuto online.
+
+**Scenari di automazione:**
+- **Preservazione del canale alfa:** Mantenere la trasparenza durante l'unione.
+- **Generazione di immagini composite:** Automatizzare composizioni PNG stratificate.
+- **Rendering del layout AI:** Utilizzare l'IA per disporre automaticamente gli elementi in layout perfetti al pixel.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

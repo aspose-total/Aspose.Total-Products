@@ -76,7 +76,27 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Melihat Berkas DOT Menggunakan Java APIs: Pratinjau Templat Word di Mana Saja</h2>
+
+Melihat berkas DOT dengan Java APIs memungkinkan penggambaran templat Word yang mulus di aplikasi web, generator dokumen, dan platform CMS. Pengguna dapat memeriksa tata letak dan gaya tanpa Word terpasang.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Tampilkan Templat untuk Alur Kerja:** Tampilkan berkas DOT dalam pembangkit dokumen otomatis.
+- **Pratinjau Gaya:** Visualisasikan format default untuk dokumen baru.
+- **Perpustakaan Templat di CMS:** Biarkan pengguna menjelajahi templat DOT yang tersedia secara online.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Platform Onboarding:** Gambar templat surat tawaran atau kontrak.
+- **Alat Kustomisasi:** Memungkinkan pengguna memilih dan mengubah templat.
+- **Perpustakaan Templat:** Pratinjau templat perusahaan di pusat konten.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

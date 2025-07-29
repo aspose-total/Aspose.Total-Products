@@ -74,7 +74,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redakce souborů ODS (OpenDocument Spreadsheet) pomocí Java API je pro organizace zpracovávající otevřená data v tabulkách nezbytná. Programová redakce maskuje platy, odstraňuje zdravotní údaje a skrývá cenové nabídky dodavatelů v nákupních listech.
+
+## ✅ Klíčové použití
+
+- **Zprávy o platech:** Skryjte detaily o platbách veřejně dostupných dat.
+- **Zdravotní záznamy:** Odstraňte zdravotní údaje pro dodržení výzkumných předpisů.
+- **Nákupní listy:** Skryjte cenové nabídky dodavatelů ve sdílených rozpočtech.
+
+## ⚙️ Scénáře automatizace
+
+- **Publikování otevřených dat:** Sankcionujte data pro veřejné zveřejnění.
+- **Dodržování výzkumných předpisů:** Dodržujte zákony o ochraně osobních údajů pro zveřejněné soubory.
+- **Interní sdílení:** Distribuujte tabulky bez vystavení důvěrných informací.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

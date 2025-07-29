@@ -74,7 +74,25 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redactar archivos XLS a través de APIs de Java protege los datos de hojas de cálculo heredadas que contienen información sensible histórica. La redacción automatizada oculta antiguas hojas de salario, redacta registros de clientes y enmascara datos de presupuesto obsoletos.
+
+## ✅ Casos de uso clave
+
+- **Hojas de Salario:** Eliminar detalles de pago en archivos archivados.
+- **Registros de Clientes:** Ocultar información de clientes heredada para cumplir con la retención.
+- **Datos de Presupuesto:** Enmascarar proyecciones antiguas o números sensibles.
+
+## ⚙️ Escenarios de Automatización
+
+- **Políticas de Retención:** Sanitizar archivos para archivo o destrucción.
+- **Digitalización Segura:** Redactar archivos antes de trasladarlos a sistemas modernos.
+- **Protección Histórica:** Mantener seguros y cumplir con los conjuntos de datos financieros heredados.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

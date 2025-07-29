@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **標準スライドデッキ:** OTPテンプレートをマージして、定期的な会議用のブランド付きスライドを作成します。
+- **部門テンプレート:** 部門ごとのOTPファイルを企業全体のマスターテンプレートに結合します。
+- **ブランドの一貫性:** すべてのプレゼンテーションでデザイン、色、レイアウトを一貫させます。
+
+## 自動化シナリオ:
+- **OTPからODPへの変換:** テンプレートのマージと即座のプレゼンテーション生成を自動化します。
+- **コンテンツのポピュレーション:** 動的データでスライドを事前に埋めて、迅速なデッキ作成を行います。
+- **AIによるパーソナライゼーション:** AIを使用して、異なる観客やチーム向けにスライドをカスタマイズします。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

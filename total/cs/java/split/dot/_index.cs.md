@@ -75,7 +75,25 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Rozdělení souborů DOT pomocí Java API: Modulární správa šablon ve velkém měřítku</h2>
+
+## ✅ Klíčové použití případy
+
+- **Opakovaně použitelné komponenty**: Modulární prvky šablony pro snadné opětovné použití napříč různými dokumenty.
+- **Kategorie obchodních formulářů**: Rozdělte velké obchodní formulářové šablony do kategorizovaných sekcí pro rychlejší nasazení.
+- **Extrakce rozložení**: Extrahujte konkrétní prvky rozložení pro vytváření dynamických nebo personalizovaných dokumentů.
+
+## ⚙️ Scénáře automatizace
+
+- **Generování šablon**: Automatizujte vytváření nových dokumentů sestavením modulárních částí šablony.
+- **Produkce lokalizovaného obsahu**: Generujte lokalizované dokumentové šablony rozdělením a přizpůsobením opakovaně použitelných prvků.
+- **Efektivní opětovné použití formátování**: Opakovaně používejte běžné části rozložení napříč různými projekty pro konzistenci značky.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

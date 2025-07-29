@@ -74,7 +74,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Standardní prezentace:** Slučování šablon OTP pro vytváření značkových snímků pro opakující se schůzky.
+- **Šablony oddělení:** Slučování oddělení OTP souborů do firemních master šablon.
+- **Zachování značky:** Udržování jednotného designu, barev a rozvržení ve všech prezentacích.
+
+## Scénáře automatizace:
+- **Konverze OTP na ODP:** Automatizace slučování šablon a okamžitá generace prezentace.
+- **Naplnění obsahu:** Předvyplnění snímků dynamickými daty pro rychlé vytváření prezentací.
+- **Personalizace pomocí AI:** Použití AI k přizpůsobení snímků různým cílovým skupinám a týmům.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

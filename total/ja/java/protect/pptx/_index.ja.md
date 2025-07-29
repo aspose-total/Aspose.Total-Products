@@ -71,7 +71,20 @@ PPTX パスワード保護アプリまたはユーティリティを開発する
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース
+- セキュアな編集可能なテンプレート。
+- 投資家向けデッキへのアクセス制限。
+- 機密スライドデッキの安全な共有。
+
+## 自動化シナリオ
+- 企業研修のセキュリティ。
+- AIベースのコンテンツ生成。
+- プライバシー法の遵守。
+- ステークホルダー向けプレゼンテーションのセキュリティ。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

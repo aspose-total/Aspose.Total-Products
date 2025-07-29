@@ -74,7 +74,21 @@ A részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Metaadatok kinyerése és kezelése PPTX fájlokból API-k segítségével Java alkalmazásokban megerősíti a tartalom irányítását és keresési lehetőségeket a modern prezentációs eszközök számára.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Azonosítsa az írókat és közreműködőket a prezentációs projektekhez.
+- Címkézze a diavetítéseket osztály, kampány vagy téma szerint.
+- Javítsa a megtalálhatóságot a tartalomtárolókban és tudásbázisokban.
+
+**Automatizálási forgatókönyvek:**
+- Gazdagítsa a metaadatokat AI asszisztensek és intelligens keresés számára.
+- Kövesse nyomon a prezentáció életciklusának fázisait metaadat-frissítésekkel.
+- Automatizálja a nagy léptékű takarítást és címkézést a diavetítési könyvtárakban.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

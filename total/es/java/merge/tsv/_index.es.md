@@ -75,7 +75,23 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Fusion de archivos TSV usando APIs en aplicaciones Java
+
+La fusión de archivos TSV (valores separados por tabulaciones) mediante APIs en aplicaciones Java es vital para gestionar datos tabulares a gran escala. La fusión programática de TSV simplifica la consolidación de datos, la validación y la generación de informes para tareas de investigación y empresariales.
+
+**Casos de uso clave:**
+- **Exportaciones tabulares:** Combinar exportaciones de datos TSV de diversas herramientas en un único conjunto de datos.
+- **Registros de análisis:** Fusionar grandes volúmenes de archivos de registro para análisis centralizados.
+- **Conjuntos de datos de investigación:** Consolidar datos experimentales o de encuestas para informes claros y estructurados.
+
+**Escenarios de automatización:**
+- **Ingesta por lotes:** Automatizar la fusión de cientos de archivos TSV rápidamente.
+- **Agregación en tiempo real:** Fusionar continuamente registros TSV para paneles de control en vivo.
+- **Validación de datos de IA:** Utilizar IA para detectar duplicados, corregir inconsistencias y limpiar datos tabulares fusionados.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

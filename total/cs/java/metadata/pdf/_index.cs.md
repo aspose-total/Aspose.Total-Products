@@ -74,7 +74,21 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/pdf/java
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Správa metadat v souborech PDF pomocí API v aplikacích Java zvyšuje objevitelnost, klasifikaci a dodržování pravidel v digitálních archivech.
+
+**Klíčové použití:**  
+- Zlepšení objevitelnosti v veřejných nebo soukromých knihovnách dokumentů.  
+- Prosazování pravidel klasifikace v právních nebo regulovaných archivech.  
+- Vložení informací o dodržování přímo do souborů PDF.
+
+**Automatizační scénáře:**  
+- Automatizace označování názvu, předmětu a klíčových slov.  
+- Úprava metadat hromadně pro udržení konzistence.  
+- Použití umělé inteligence k označení PDF pro regulační a auditní pracovní postupy.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

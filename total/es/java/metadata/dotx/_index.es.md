@@ -74,7 +74,21 @@ Para obtener detalles sobre JogAmp JOGL, el motor de fuentes Harfbuzz y Java Adv
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Aplicar versiones a plantillas en todos los equipos y departamentos.
+- Categorizar plantillas según unidades de negocio o departamentos.
+- Apoyar el cumplimiento normativo asegurando la consistencia de metadatos.
+
+## Escenarios de automatización:
+
+- Automatizar la inyección de metadatos al crear o actualizar plantillas.
+- Clasificar y organizar plantillas de forma programática.
+- Gestionar todo el ciclo de vida de la plantilla con seguimiento de metadatos impulsado por IA.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

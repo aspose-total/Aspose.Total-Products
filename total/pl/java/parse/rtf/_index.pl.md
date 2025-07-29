@@ -76,7 +76,24 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Parsowanie plików RTF za pomocą interfejsów API Javy: Przekształcanie formatu legacy i zgodność</h2>
+
+Parsowanie plików RTF za pomocą interfejsów API Javy umożliwia wyodrębnianie sformatowanej zawartości, osadzonych obiektów i przekształcanie dokumentów w formacie legacy. Automatyzacja parsowania RTF wspomaga archiwizację zgodności, odzyskiwanie metadanych i przeprowadzanie prac związanych z uczeniem maszynowym AI.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Wyodrębnianie sformatowanej zawartości:** Pobieranie sformatowanego tekstu i sekcji.
+- **Identyfikacja osadzonych obiektów:** Wykrywanie obrazów, tabel i linków.
+- **Przekształcanie dokumentów:** Konwertowanie RTF na nowoczesne formaty.
+- **Archiwizacja zgodności:** Zachowanie zawartości do celów audytu.
+- **Odzyskiwanie metadanych:** Odbudowa informacji dokumentu.
+- **Szkolenie modeli AI:** Wykorzystanie sparsowanego tekstu do modeli NLP.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

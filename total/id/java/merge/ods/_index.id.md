@@ -75,7 +75,23 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Menggabungkan File ODS (OpenDocument Spreadsheet) menggunakan API dalam Aplikasi Java
+
+Menggabungkan file ODS (OpenDocument Spreadsheet) menggunakan API dalam aplikasi Java membantu organisasi memanfaatkan alur kerja spreadsheet sumber terbuka secara efisien. Penggabungan ODS secara programatis mendukung manajemen data yang lancar, analisis kolaboratif, dan pelaporan yang jelas.
+
+**Kasus Penggunaan Utama:**
+- **Spreadsheet Sumber Terbuka:** Menggabungkan file ODS dari departemen atau tim yang berbeda.
+- **Pembuatan Anggaran:** Menggabungkan anggaran departemen ke dalam satu file ODS induk.
+- **Dashboard Terintegrasi:** Mengkonsolidasikan data analitik ke dalam dashboard yang bersatu, dengan beberapa tab.
+
+**Skenario Otomatisasi:**
+- **Penggabungan ODS ke Excel:** Menggabungkan file ODS dan mengonversinya ke Excel untuk kompatibilitas yang lebih luas.
+- **Laporan Multi-Tab:** Mengotomatisasi pembuatan laporan dengan beberapa lembar.
+- **Konsistensi Formula AI:** Menggunakan kecerdasan buatan untuk memvalidasi dan menstandardisasi rumus selama penggabungan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

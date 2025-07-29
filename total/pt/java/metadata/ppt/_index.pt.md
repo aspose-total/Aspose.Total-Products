@@ -74,7 +74,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Acesso e extração de metadados de arquivos PPT legados usando APIs em aplicativos Java ajuda a modernizar apresentações arquivadas mantendo detalhes de histórico de versão e autoria.
+
+**Principais Casos de Uso:**
+- Atualizar arquivos PPT antigos preservando metadados.
+- Acompanhar versões históricas de apresentações para auditorias.
+- Organizar apresentações de palestrantes armazenadas em formatos legados.
+
+**Cenários de Automação:**
+- Migrar PPT para PPTX com retenção de metadados.
+- Auditar lotes de decks de slides legados quanto à completude.
+- Usar IA para marcar e classificar conteúdo anterior a 2007.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

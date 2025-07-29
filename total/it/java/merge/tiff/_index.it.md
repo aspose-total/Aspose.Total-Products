@@ -76,7 +76,23 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Unione dei file TIFF con le API Java supporta flussi di lavoro di documenti e immagini ad alta fedeltà nelle industrie legali, mediche e ingegneristiche.</h2>
+
+**Principali casi d'uso:**
+- **Documenti multi-pagina:** Unire più pagine scansionate in un unico file TIFF.
+- **Archivi di progetti:** Unire digitalmente disegni ingegneristici per l'archiviazione.
+- **Set di immagini:** Unire TIFF ad alta risoluzione per la ricerca e l'analisi.
+
+**Scenari di automazione:**
+- **Sequenza delle pagine:** Automatizzare l'ordine corretto delle pagine nei TIFF multi-pagina.
+- **Unione consapevole della compressione:** Ottimizzare le dimensioni del file senza perdere dettagli.
+- **Preelaborazione AI:** Applicare filtri AI per la riduzione del rumore e la chiarezza.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

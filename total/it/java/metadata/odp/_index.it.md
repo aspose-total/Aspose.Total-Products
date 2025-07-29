@@ -74,7 +74,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Gestione dei metadati nei file di presentazione ODP utilizzando API nelle applicazioni Java migliora l'organizzazione e la collaborazione negli ecosistemi open-source.
+
+**Principali casi d'uso:**
+- Organizzare le presentazioni nei piattaforme di collaborazione open-source.
+- Tenere traccia della cronologia delle revisioni e della proprietà delle diapositive.
+- Categorizzare i contenuti delle presentazioni per le basi di conoscenza aziendali.
+
+**Scenari di automazione:**
+- Filtrare le diapositive per campi di metadati come titolo e argomento.
+- Estrarre i metadati chiave in flussi di lavoro batch.
+- Utilizzare l'IA per etichettare e classificare in modo intelligente le presentazioni.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

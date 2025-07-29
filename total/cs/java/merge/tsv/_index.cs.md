@@ -75,7 +75,21 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Slévání souborů TSV pomocí API v aplikacích Java je pro správu tabulkových dat ve velkém měřítku klíčové. Programové slévání TSV zjednodušuje konsolidaci dat, validaci a reporting pro výzkumné a podnikové úkoly.
+
+**Klíčové použití:**
+- **Tabulkové exporty:** Sloučení exportů dat ve formátu TSV z různých nástrojů do jediné sady dat.
+- **Analytické záznamy:** Sloučení velkého množství log souborů pro centralizovanou analýzu.
+- **Výzkumné sady dat:** Konsolidace experimentálních nebo průzkumných dat pro jasný, strukturovaný reporting.
+
+**Automatizační scénáře:**
+- **Hromadné zpracování:** Automatizace rychlého slévání stovek souborů TSV.
+- **Agregace v reálném čase:** Nepřetržité slévání TSV logů pro živé dashboardy.
+- **Validace dat pomocí AI:** Použití AI k detekci duplicit, opravě nesrovnalostí a úklidu sloučených tabulkových dat.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

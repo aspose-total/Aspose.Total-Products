@@ -117,7 +117,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📌 Annotare i file CSV: Migliorare la trasparenza e l'accuratezza dei dati</h2>
+
+Annotare i file CSV è una strategia intelligente per migliorare l'usabilità dei dati, la tracciabilità e il lavoro di squadra tra i progetti. Aggiungendo note strutturate, metadati e contesto, le annotazioni CSV aiutano a mantenere l'integrità dei dati, semplificare le verifiche e consentire una collaborazione affidabile e controlli automatizzati per qualsiasi processo basato sui dati.
+
+## ✅ Principali casi d'uso
+
+- **Verifica dei dati:** Mantenere registri chiari delle origini dei dati, delle modifiche e della proprietà per soddisfare i requisiti di conformità e consentire la tracciabilità.
+- **Analisi collaborativa dei dati:** Aggiungere contesto, definizioni o istruzioni direttamente ai set di dati per supportare i team che lavorano insieme in modo efficiente.
+- **Controlli di qualità:** Segnalare righe o campi con note di convalida, commenti sugli errori o segni di approvazione per individuare e correggere tempestivamente i problemi dei dati.
+
+## ⚙️ Scenari di automazione
+
+- **Pipeline ETL:** Generare e aggiornare automaticamente le annotazioni durante l'estrazione, la trasformazione e il caricamento dei dati tra i sistemi.
+- **Sistemi di reportistica:** Utilizzare le annotazioni per filtrare o evidenziare punti critici dei dati e anomalie nei report dinamici.
+- **Convalida dei dati basata su intelligenza artificiale:** Integrare i dati annotati per addestrare modelli di apprendimento automatico per una rilevazione più intelligente delle anomalie e un'assicurazione di qualità continua.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,31 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ Java APIを使用してODS署名の追加と検証: セキュアなオープンソーススプレッドシート</h2>
+
+ODSスプレッドシートファイルで署名を追加または検証するJava APIを使用することで、オープンソース形式で作成された財務レポート、給与明細、分析モデルをセキュリティで保護できます。自動化された署名ワークフローにより、整合性が維持され、改ざんが防止され、部門間でのコンプライアンスが確保されます。
+
+## ✅ 主なユースケース
+
+- **監査準備のために** 財務レポートに署名を付ける。
+- **不正な編集を防ぐために** 給与明細を検証する。
+- **信頼される洞察のために** 分析モデルを認証する。
+- **チーム間で共有するために** オープンソーススプレッドシートをセキュリティで保護する。
+- **スプレッドシートのデータガバナンス基準に準拠するために**。
+
+## ⚙️ 自動化シナリオ
+
+- **署名チェックによる監査コンプライアンスを自動化する**。
+- **プログラムによる署名を通じたバージョン管理を可能にする**。
+- **共有ODSファイルの改ざん耐性を強化する**。
+- **部門間データ検証を効率化する**。
+- **オープンソースワークフローにデジタル署名を統合する**。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

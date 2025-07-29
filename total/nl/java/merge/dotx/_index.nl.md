@@ -74,7 +74,19 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Belangrijkste Gebruiksscenario's:
+- **Aangepaste Voorstellen:** Voeg sjabloonsecties samen om op maat gemaakte voorstellen voor klanten te maken.
+- **Standaardrapporten:** Stel herbruikbare secties samen tot bedrijfsstandaardrapporten.
+- **Merklay-outs:** Handhaaf merkrichtlijnen over teams door standaard DOTX-sjablonen samen te voegen.
+
+**Automatiseringsscenario's:**
+- **Veldgestuurde Populatie:** Dynamisch bevolkte samengevoegde sjablonen met variabele gegevens.
+- **Sjabloonomzetting:** Converteer samengevoegde sjablonen automatisch naar einddocumenten.
+- **AI-verbeterde Samenvoeging:** Gebruik AI om secties intelligent samen te voegen, lay-outs aan te passen voor grootschalige documentproductie.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

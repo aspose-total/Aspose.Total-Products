@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODT 파일에서 Java 애플리케이션의 API를 사용하여 메타데이터에 액세스하고 관리하는 것은 학술, 다국어 및 오픈 소스 텍스트 문서를 조직하는 데 중요합니다.
+
+**주요 사용 사례:**
+- 메타데이터를 사용하여 학술 논문 및 연구 보고서를 분류합니다.
+- 학술적 무결성을 유지하기 위해 작성자를 지정합니다.
+- 글로벌 협업을 위해 다국어 문서를 구성합니다.
+
+**자동화 시나리오:**
+- 대규모 ODT 라이브러리에서 메타데이터를 규모에 맞게 추출합니다.
+- 작성자 또는 주제 필드별로 문서를 정렬합니다.
+- ODT 파일을 쉽게 찾을 수 있도록 AI를 사용하여 클러스터링 및 태그 지정합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

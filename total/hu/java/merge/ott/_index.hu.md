@@ -74,7 +74,23 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az OTT (OpenDocument Text Template) fájlok összevonása API-k segítségével Java alkalmazásokban lehetővé teszi a vállalkozások számára, hogy állandó, újrafelhasználható sablonokat tartsanak fenn nagy mennyiségű dokumentum létrehozásához. Az automatizálás biztosítja az egységesítést és gyorsabb kimenetet.
+
+**Kulcsfontosságú felhasználási esetek:**
+- **Üzleti levelek:** Sablon alapú levelek generálása az OTT fájlok összevonásával az emberi erőforrások, értékesítés vagy ügyfélkapcsolatok területén.
+- **Újrafelhasználható tartalom blokkok:** Általános szakaszok összevonása fő sablonokba szerződésekhez, javaslatokhoz vagy irányelvekhez.
+- **Munkafolyamat-egységesítés:** Biztosítani a konzisztens arculatot és formázást az összes sablonból létrehozott dokumentum esetében.
+
+**Automatizálási forgatókönyvek:**
+- **OTT-ODT átalakítás:** Sablonok összevonása és azok átalakítása szerkeszthető ODT dokumentummá.
+- **Sablonok összevonása:** Több OTT fájl automatizált összevonása egységes fő sablonokba.
+- **MI mező kitöltés:** MI használata a sablonok előre kitöltéséhez dinamikus adatokkal személyre szabott dokumentumok létrehozásához.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

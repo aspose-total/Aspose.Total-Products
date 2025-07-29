@@ -74,7 +74,19 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 중요한 사용 사례:
+- **컴플라이언스 문서:** 여러 DOCM 파일을 병합하여 감사 준비가 완료된 컴플라이언스 팩 생성.
+- **매크로 템플릿:** 일관된 자동화를 위해 재사용 가능한 매크로 템플릿 통합.
+- **감사 보고서:** 통합된 감사 제출용 매크로 기반 보고서 결합.
+
+## 자동화 시나리오:
+- **안전한 매크로 병합:** 병합 중 매크로 기능을 확인하고 보존.
+- **버전 관리:** 다른 DOCM 파일을 병합하는 동안 버전 추적 자동화.
+- **매크로 콘텐츠 감지:** 병합된 파일에서 매크로 스크립트를 감지, 정리 및 최적화하기 위해 AI 사용.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

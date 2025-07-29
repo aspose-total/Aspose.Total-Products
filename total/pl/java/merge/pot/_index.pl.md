@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików POT (PowerPoint 97–2003 Template) za pomocą interfejsów API w aplikacjach Java umożliwia zmodernizowanie bibliotek szablonów i zachowanie treści do wielokrotnego wykorzystania podczas tworzenia spersonalizowanych prezentacji.
+
+**Główne przypadki użycia:**
+- **Przestarzałe szablony:** Łączenie starych szablonów w celu zachowania ciągłości podczas aktualizacji.
+- **Struktury do wielokrotnego wykorzystania:** Łączenie standardowych układów slajdów dla spójnych prezentacji.
+- **Aktualizacje wizualne korporacyjne:** Odświeżanie starych szablonów, aby pasowały do obecnej marki.
+
+**Scenariusze automatyzacji:**
+- **Łączenie POT-to-PPTX:** Łączenie i konwersja szablonów do nowoczesnego użytku.
+- **Konwersja formatu za pomocą sztucznej inteligencji:** Wykorzystanie SI do aktualizacji stylów i formatowania.
+- **Integracja układu:** Automatyzacja spójnego brandingu w połączonych szablonach slajdów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 XLSX 파일에 워터마크를 적용하면 민감한 데이터를 안전하게 보호하고 브랜드 식별을 강화하며 문서 재사용을 제어할 수 있습니다. 자동 워터마킹을 통해 모든 XLSX 파일에서 기밀성과 규정 준수를 보장할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **기밀 레이블 삽입** — 금융 또는 인사 스프레드시트를 제한된 것으로 표시합니다.
+- **운영 지표 브랜드화** — 내부 성과 시트에 로고를 추가합니다.
+- **재사용 제어** — 전략적 데이터의 무단 공유를 억제합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **재무 계획 도구** — 스프레드시트에 자동 워터마크를 적용하여 배포합니다.
+- **조직 보고서** — 보고서 생성 중에 레이블을 적용합니다.
+- **규정 준수** — 감사 및 제출을 위해 XLSX 파일에 표시합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

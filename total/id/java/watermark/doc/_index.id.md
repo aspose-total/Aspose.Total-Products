@@ -78,7 +78,25 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menerapkan watermark ke file DOC menggunakan Java APIs membantu organisasi melindungi kerahasiaan dokumen, memperkuat merek, dan mengontrol status versi. Mengotomatisasi penyisipan watermark memastikan bahwa tanda "Rahasia" atau logo muncul secara konsisten, membantu tim mengelola visibilitas dan integritas dokumen.
+
+## ✅ Kasus Penggunaan Utama
+
+- **Tandai sebagai "Rahasia"** — Label file DOC internal untuk membatasi distribusi.
+- **Identitas Merek Visual** — Terapkan logo perusahaan ke laporan dan memo.
+- **Indikasikan Status Draf** — Gunakan watermark untuk menunjukkan dokumen sedang dalam tinjauan.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Mesin Alur Dokumen** — Otomatisasi watermark file DOC selama pembuatan dan persetujuan.
+- **Proses Persetujuan HR** — Sematkan label status dalam dokumen HR untuk tinjauan internal.
+- **Kontrol Versi Hukum** — Tandai dengan jelas versi draf untuk kolaborasi hukum.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

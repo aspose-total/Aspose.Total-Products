@@ -74,7 +74,21 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/slides/java/sys
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Hantera metadata i ODP-presentationfiler med hjälp av API:er i Java-applikationer förbättrar organisation och samarbete i öppna ekosystem.
+
+**Nyckelanvändningsfall:**  
+- Organisera bildspel i öppna samarbetsplattformar.  
+- Spåra revisionshistorik och ägarskap av bilder.  
+- Kategorisera presentationsinnehåll för företagets kunskapsdatabaser.
+
+**Automatiseringsscenario:**  
+- Filtrera bilder efter metadatafält som titel och ämne.  
+- Extrahera nyckelmetadata i batcharbetsflöden.  
+- Använd AI för att intelligently tagga och klassificera bildspel.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

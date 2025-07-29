@@ -76,7 +76,20 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kulcsfontosságú felhasználási esetek
+- Korlátozza a szerkesztési hozzáférést bizalmas jelentésekhez.
+- Alkalmazzon jelszóvédelmet jogi dokumentumokhoz.
+- Érvényesítse az olvasható megosztást belső kommunikációhoz.
+
+## Automatizálási forgatókönyvek
+- Megfelelőségi munkafolyamatok szabályozói auditokhoz.
+- Dokumentuméletciklus-vezérlés és verziókezelés.
+- AI modell adatvédelme.
+- Tartalom biztonságos megosztása vállalati rendszerekben.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

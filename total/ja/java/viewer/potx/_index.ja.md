@@ -76,7 +76,27 @@ POTX ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ Java APIを使用してPOTXファイルを表示する：標準スライドテンプレートを紹介</h2>
+
+POTXファイルをJava APIを介して表示することで、チームは現代のスライドテンプレートをコンテンツポータルやスライドデザインツールで直接表示できます。
+
+## ✅ 主なユースケース
+
+- **ブランドテンプレート：** マーケティング向けの承認済みスライドを共有します。
+- **デザインレビュー：** プレゼンテーションのレイアウトをプレビューします。
+- **プレゼンテーションビルダー：** チームにスライドオプションを提供します。
+
+## ⚙️ 自動化シナリオ
+
+- **ブランドライブラリ：** 標準スライドのプレビューをホストします。
+- **スライド編集アプリ：** カスタマイズ用のPOTXプレビューを埋め込みます。
+- **トレーニングツール：** LMSシステムでスライドテンプレートを表示します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

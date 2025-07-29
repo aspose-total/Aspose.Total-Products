@@ -74,7 +74,23 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Slučování souborů ODT (OpenDocument Text) pomocí API v aplikacích Java je pro organizace, které spoléhají na pracovní postupy s otevřeným zdrojovým kódem, klíčové. Automatizované slučování ODT šetří čas, zlepšuje konzistenci a zjednodušuje správu dokumentů napříč týmy.
+
+**Klíčové použití:**
+- **Akademické zprávy:** Sestavte více výzkumných prací nebo studentských příspěvků do jednoho souboru ODT.
+- **Právní dokumenty:** Slučujte spisy případů, smlouvy nebo soudní podání do komplexních, verzí řízených ODT.
+- **Spolupracující obsah:** Sjednoťte příspěvky z více autorů do jednoho upraveného souboru pro publikaci nebo archivaci.
+
+**Automatizační scénáře:**
+- **Hromadné slučování:** Automatizujte kombinaci stovek souborů ODT najednou.
+- **Verzí řízená unifikace:** Udržujte historii verzí a sledujte změny během slučování.
+- **Normalizace formátování pomocí AI:** Použijte umělou inteligenci k zarovnání stylů, nadpisů a formátování pro profesionální, standardizované výstupy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

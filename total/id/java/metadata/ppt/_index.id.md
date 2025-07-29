@@ -74,7 +74,21 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Akses dan Ekstraksi Metadata dari File PPT Legacy Menggunakan API dalam Aplikasi Java
+
+**Kasus Penggunaan Utama:**
+- Memperbarui file PPT lama sambil mempertahankan metadata.
+- Lacak versi historis presentasi untuk audit.
+- Mengatur presentasi pembicara yang disimpan dalam format legacy.
+
+**Skenario Otomatisasi:**
+- Migrasi PPT ke PPTX dengan retensi metadata.
+- Audit batch slide deck legacy untuk kelengkapan.
+- Gunakan AI untuk menandai dan mengklasifikasikan konten sebelum tahun 2007.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,28 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualizzazione dei file DOC utilizzando le API Java: Anteprime di documenti sicure e affidabili</h2>
+
+La visualizzazione dei file DOC con le API Java fornisce alle organizzazioni un modo sicuro e in sola lettura per rendere i documenti Word senza la necessità di avere Microsoft Word installato. Questo approccio supporta i sistemi HR, legali e aziendali in cui l'integrità e la riservatezza dei documenti sono fondamentali.
+
+## ✅ Principali casi d'uso
+
+- **Anteprime sicure per HR e Legal:** Abilita la visualizzazione in sola lettura dei file DOC per contratti, politiche o candidature.
+- **Candidature online:** Consente ai reclutatori di visualizzare i curriculum direttamente nei browser.
+- **Indipendenza da Microsoft Word:** Mostra i contenuti dei file DOC all'interno dei portali e dei flussi di lavoro senza software esterno.
+
+## ⚙️ Scenari di automazione
+
+- **Visualizzatori di file DOC basati su browser:** Incorpora il rendering dei file DOC negli intranet e nei cruscotti.
+- **Anteprime ottimizzate per dispositivi mobili:** Visualizza i file DOC sulle app HR per Android/iOS.
+- **Sistemi interni di conformità:** Condividi in modo sicuro le versioni dei file DOC per audit o controlli delle politiche.
+- **Strumenti di e-learning:** Mostra le lezioni e le risorse basate su file DOC all'interno dei corsi online.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

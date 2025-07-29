@@ -76,7 +76,28 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 DOC-bestanden bekijken met behulp van Java API's: Veilige en Betrouwbare Documentweergaven</h2>
+
+Het bekijken van DOC-bestanden met Java API's biedt organisaties een veilige, alleen-lezen manier om Word-documenten weer te geven zonder dat Microsoft Word geïnstalleerd hoeft te zijn. Deze aanpak ondersteunt HR-, juridische en zakelijke systemen waar documentintegriteit en vertrouwelijkheid het belangrijkst zijn.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Veilige HR & Juridische Weergaven:** Maak alleen-lezen DOC-weergave mogelijk voor contracten, beleidsdocumenten of sollicitaties.
+- **Webgebaseerde Sollicitaties:** Sta recruiters toe om cv's rechtstreeks in browsers te bekijken.
+- **Geen Afhankelijkheid van Microsoft Word:** Toon DOC-inhoud binnen portals en workflows zonder externe software.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Browsergebaseerde DOC-weergave:** Voeg DOC-rendering toe aan intranetten en dashboards.
+- **Mobielvriendelijke Weergaven:** Bekijk DOC-bestanden op Android/iOS HR-apps.
+- **Interne Compliance Systemen:** Deel DOC-versies veilig voor audits of beleidscontroles.
+- **E-Learning Tools:** Toon op DOC gebaseerde lessen en bronnen binnen online cursussen.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,25 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS I
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してXLSファイルにウォーターマークを適用することは、スプレッドシートを保護し、独自のモデルにブランドを付け、機密データを保護するために不可欠です。自動ウォーターマーキングにより、XLS資産全体にラベルやロゴを追加します。
+
+## ✅ 主なユースケース
+
+- **データ保護** — 機密通知を含むスプレッドシートにマークを付ける。
+- **収益モデルのブランド化** — ビジネスプランニングシートにロゴを埋め込む。
+- **予測のセキュリティ** — 機密XLSファイルに使用制限を追加する。
+
+## ⚙️ 自動化シナリオ
+
+- **BIダッシュボード** — 内部利用のために財務ダッシュボードにウォーターマークを付ける。
+- **ファイナンスワークフロー** — バージョン管理のために作業スプレッドシートにラベルを付ける。
+- **データ共有ポータル** — 配布前にファイルにウォーターマークを適用する。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

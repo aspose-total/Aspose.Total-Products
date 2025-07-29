@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Sloučení souborů DOTM s makry pomocí Java API umožňuje týmům efektivně spravovat složité interaktivní šablony. Bezpečné slučování zajistí bezpečnost maker a zachování pokročilých funkcí.
+
+**Klíčové použití:**
+- **Složité šablony:** Sloučení více šablon založených na makrech do jednoho hotového pracovního postupu.
+- **Interaktivní formuláře:** Konsolidace formulářů závislých na makrech pro automatizaci vstupu uživatele.
+- **Hodnocení souladu:** Hodnocení a slučování automatizovaných šablon pro dodržování politiky.
+
+**Scénáře automatizace:**
+- **Ověření maker:** Ověření skriptů maker během slučování pro bezpečné používání šablony.
+- **Bezpečná integrace šablony:** Zabraňte konfliktům maker při kombinování více souborů DOTM.
+- **Detekce vzoru AI:** Použití AI k identifikaci opakující se logiky a optimalizaci struktur maker.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

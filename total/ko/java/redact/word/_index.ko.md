@@ -75,7 +75,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 WORD 파일을 편집하면 일반 텍스트 파일에서 중요한 정보를 보호할 수 있습니다. 프로그래밍 방식의 편집은 민감한 회의록을 제거하고, 금융 데이터를 마스킹하며, 기밀 키워드를 삭제합니다.
+
+## ✅ 주요 사용 사례
+
+- **인사 보고서:** 직원 기록에서 개인적인 노트를 제거합니다.
+- **이사회 회의록:** 기밀적인 재정 세부 사항을 가리기 위해 사용됩니다.
+- **정보 문서:** 규정 준수를 위해 민감한 키워드를 삭제합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **위험 완화:** 수동 오류를 줄이기 위해 편집을 자동화합니다.
+- **안전한 협업:** 정제된 텍스트 파일만 공유합니다.
+- **산업 규정 준수:** 업종별 개인 정보 보호 요구 사항을 충족합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

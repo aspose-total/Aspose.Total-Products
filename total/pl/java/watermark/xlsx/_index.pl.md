@@ -71,7 +71,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki XLSX za pomocą interfejsów API Javy zapewnia bezpieczeństwo danych, wzmacnia tożsamość marki oraz kontroluje ponowne wykorzystanie dokumentów. Zautomatyzowane znakowanie wodne zapewnia poufność i zgodność we wszystkich plikach XLSX.
+
+## ✅ Główne przypadki użycia
+
+- **Osadzanie etykiet poufności** — Oznaczanie arkuszy finansowych lub kadrowych jako ograniczone.
+- **Wprowadzanie logotypów** — Dodawanie logo do wewnętrznych arkuszy wydajnościowych.
+- **Kontrola ponownego wykorzystania** — Zniechęcanie do nieautoryzowanego udostępniania strategicznych danych.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Narzędzia do planowania finansowego** — Automatyczne nakładanie znaków wodnych na arkusze do dystrybucji.
+- **Raportowanie organizacyjne** — Nakładanie etykiet podczas generowania raportów.
+- **Zgodność z przepisami** — Oznaczanie plików XLSX do audytu i przekazywania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

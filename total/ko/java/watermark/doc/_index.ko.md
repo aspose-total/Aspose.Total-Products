@@ -78,7 +78,25 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 DOC 파일에 워터마크를 적용하면 조직이 문서 기밀성을 보호하고 브랜딩을 강화하며 버전 상태를 제어할 수 있습니다. 워터마크 삽입을 자동화하면 "기밀" 표시나 로고가 일관되게 나타나므로 팀이 문서 가시성과 무결성을 관리하는 데 도움이 됩니다.
+
+## ✅ 주요 사용 사례
+
+- **"기밀"으로 표시** — 내부 DOC 파일에 레이블을 지정하여 배포를 제한합니다.
+- **시각적 브랜드 식별** — 보고서와 메모에 회사 로고를 적용합니다.
+- **작성 중인 상태 표시** — 문서가 검토 중임을 나타내기 위해 워터마크를 사용합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **문서 워크플로 엔진** — 생성 및 승인 중에 DOC 파일에 자동 워터마크를 삽입합니다.
+- **인사 승인 프로세스** — 내부 검토용으로 HR 문서에 상태 레이블을 포함합니다.
+- **법적 버전 관리** — 법적 협업을 위해 초안 버전을 명확히 표시합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

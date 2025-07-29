@@ -75,7 +75,27 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Rozdělování souborů ODT pomocí Java API: Modulární dodávka otevřených dokumentů</h2>
+
+Rozdělování souborů ODT pomocí Java API umožňuje týmům rozdělit velké otevřené dokumenty pro snazší správu, personalizaci a sdílení. Toto podporuje dynamické publikování a zlepšuje mobilní přístup.
+
+## ✅ Klíčové použití
+
+- **Modulární manuály**: Rozdělte dlouhé manuály do menších ODT souborů specifických pro role.
+- **Izolace politiky**: Oddělte firemní politiky podle oddělení nebo regionu.
+- **Cílené výstupy**: Generujte cílené verze z hlavního souboru ODT.
+
+## ⚙️ Scénáře automatizace
+
+- **Personalizace dokumentů**: Automatizujte generování uživatelsky specifických souborů ODT.
+- **Integrace s otevřeným DMS**: Integrujte rozdělené soubory do systémů pro správu dokumentů.
+- **Publikování přátelské k mobilním zařízením**: Dodávejte menší, relevantní soubory ODT pro přístup na cestách.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

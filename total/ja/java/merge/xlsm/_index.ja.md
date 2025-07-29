@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **自動化されたテンプレート:** 財務、人事、営業などの複数のXLSMテンプレートを統合します。
+- **動的な計算:** マクロを保持しながら計算シートを結合します。
+- **埋め込まれたスクリプト:** 統合されたファイル全体でVBA自動化ロジックを維持します。
+
+## 自動化シナリオ:
+- **マクロの競合検出:** マージ中にマクロの競合を検出し解決します。
+- **VBAの統合:** 複数のVBAモジュールの統合を自動化します。
+- **セキュアな自動化:** スプレッドシートワークフローを拡大しながらマクロを保護します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

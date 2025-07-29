@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zarządzanie metadanymi w plikach szablonów DOT za pomocą interfejsów API Javy zapewnia spójność i kontrolę w bibliotekach szablonów dziedzicznych. Organizacje mogą śledzić użycie, dostosowywać właściwości w celu zgodności oraz strukturyzować konwencje nazewnicze szablonów.
+
+**Główne przypadki użycia:**
+- Śledzenie historii użycia w celu utrzymania aktualności szablonów w systemach dziedzicznych.
+- Dostosowanie właściwości szablonu do wymagań regulacyjnych.
+- Wprowadzanie strukturyzowanego nazewnictwa w obszernych bibliotekach plików DOT.
+
+**Scenariusze automatyzacji:**
+- Automatyzacja wsadowej audyty metadanych szablonu w celu sprawdzania zgodności.
+- Filtracja i organizacja szablonów na podstawie właściwości metadanych.
+- Zastosowanie sztucznej inteligencji do inteligentnej klasyfikacji i aktualizacji dziedzicznych plików DOT.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

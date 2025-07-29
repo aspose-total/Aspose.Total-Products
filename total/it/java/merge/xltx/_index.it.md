@@ -75,7 +75,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cosa fare con i file modello XLTX di Excel utilizzando le API nelle applicazioni Java
+
+L'unione dei file modello XLTX di Excel utilizzando le API nelle applicazioni Java semplifica la generazione di documenti su larga scala basata su modelli per le operazioni aziendali.
+
+**Principali casi d'uso:**
+- **Lotti di fatture:** Unire modelli XLTX per produrre fatture ai clienti su larga scala.
+- **Pianificazione del budget:** Combinare modelli di pianificazione per la pianificazione del budget dipartimentale.
+- **Formati uniformi:** Mantenere standard di reportistica uniformi in un'azienda.
+
+**Scenari di automazione:**
+- **Fabbriche di documenti:** Automatizzare grandi volumi di report personalizzati.
+- **Popolamento dei campi basato su intelligenza artificiale:** Utilizzare l'IA per riempire automaticamente i campi durante l'unione dei modelli.
+- **Generazione scalabile:** Unire e generare report per team distribuiti a livello globale.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

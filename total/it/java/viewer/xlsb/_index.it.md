@@ -77,7 +77,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualizzazione dei file XLSB utilizzando le API Java: Anteprime rapide e sicure dei fogli di calcolo binari</h2>
+
+La visualizzazione dei file XLSB con le API Java supporta il rendering ad alte prestazioni di grandi fogli di calcolo binari per finanza, ingegneria o big data.
+
+## ✅ Principali casi d'uso
+
+- **Modelli finanziari:** Ispeziona grandi fogli di calcolo binari.
+- **Dati di ingegneria:** Anteprima di calcoli tecnici in modo sicuro.
+- **Analisi dei big data:** Visualizza output XLSB nei cruscotti.
+
+## ⚙️ Scenari di automazione
+
+- **Cruscotti BI:** Incorpora visualizzazioni XLSB nei portali dati.
+- **Reporting dati:** Automatizza il rendering dei fogli binari.
+- **Portali di analisi:** Fornisci anteprime sicure di XLSB.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

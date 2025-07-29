@@ -76,7 +76,28 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Visualização de Arquivos DOCM Usando APIs Java: Pré-visualizações de Documentos com Macros Seguros</h2>
+
+Usar APIs Java para visualizar arquivos DOCM ajuda as organizações a renderizar com segurança documentos do Word com macros sem executar scripts. Isso é vital para indústrias regulamentadas que lidam com documentos técnicos e conteúdo sensível.
+
+## ✅ Principais Casos de Uso
+
+- **Pré-visualizações Seguras de Documentos com Macros:** Inspecione arquivos DOCM em configurações financeiras, legais ou de saúde.
+- **Revisão de Documentos Técnicos com Scripts:** Visualize macros incorporados com segurança sem executá-los.
+- **Inspeção de Conteúdo:** Permita que equipes de conformidade validem o conteúdo DOCM antes do uso.
+
+## ⚙️ Cenários de Automação
+
+- **Visualizadores em Ambientes Controlados:** Renderize arquivos DOCM com segurança em ambientes controlados.
+- **Dashboards de Governança de TI:** Monitore visualmente documentos com macros habilitados.
+- **Ferramentas de Validação de Documentos:** Automatize a revisão de rascunhos DOCM para conformidade.
+- **Portais de Documentação de Projetos:** Exiba documentos com macros para partes interessadas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

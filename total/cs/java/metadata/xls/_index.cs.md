@@ -80,7 +80,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- Migrace historických tabulek s plnou integritou metadat.
+- Audit historie dokumentů pro finanční týmy a regulační přezkumy.
+- Zarovnání zastaralých souborů XLS s aktuálními standardy správy.
+
+## Scénáře automatizace:
+- Extrahovat historická metadata ve velkém měřítku pro centralizované archivace.
+- Označit soubory během konverzí formátu XLS na XLSX.
+- Použít umělou inteligenci k překlasifikaci historických tabulek pro moderní pracovní postupy.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

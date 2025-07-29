@@ -88,7 +88,29 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Ricerca dei file ODS utilizzando le API Java: Sblocca l'efficienza dei dati aperti</h2>
+
+La ricerca dei file ODS (OpenDocument Spreadsheet) con le API Java consente alle organizzazioni di gestire i dati dei fogli di calcolo in formato aperto su larga scala. L'automatizzazione dei compiti di ricerca consente di accedere istantaneamente ai record critici per la conformità, la segnalazione e le verifiche.
+
+## ✅ Principali casi d'uso
+
+- **Monitoraggio delle voci di conformità**: Monitorare i campi dati normativi nei fogli di calcolo finanziari o operativi.
+- **Recupero dei dati dei clienti da fogli archiviati**: Trovare transazioni e dettagli storici dei clienti.
+- **Verifica dei record finanziari in tempo reale**: Individuare incongruenze ed errori per una correzione immediata.
+
+## ⚙️ Scenari di automazione
+
+- **Pipeline di segnalazione**: Alimentare automaticamente i report aziendali con risultati di ricerca accurati.
+- **Analisi in tempo reale**: Alimentare dashboard live con dati di fogli di calcolo aggiornati.
+- **Verifiche di gestione del rischio**: Rilevare anomalie nei fogli di calcolo per valutazioni del rischio.
+- **Classificazione supportata da intelligenza artificiale**: Classificare e contrassegnare i dati in modo intelligente.
+- **Motori di ricerca aziendali**: Abilitare la ricerca unificata in tutti i file ODS dell'organizzazione.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

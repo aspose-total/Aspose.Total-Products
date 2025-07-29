@@ -76,7 +76,23 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Anslutning av TIFF-filer med Java API:er stöder högkvalitativa dokument- och bildflöden inom juridik, medicin och ingenjörsvetenskap.</h2>
+
+**Viktiga användningsfall:**
+- **Flera sidors dokument:** Kombinera flera skannade sidor till en enda TIFF-fil.
+- **Arkiv för ritningar:** Digitalt sy ihop ingenjörsritningar för arkivering.
+- **Bilddataset:** Sammanfoga högupplösta TIFF-filer för forskning och analys.
+
+**Automatiseringsscenarier:**
+- **Sidsekvensering:** Automatisera korrekt sidordning i flersidiga TIFF-filer.
+- **Sammanfogning med komprimeringsmedvetenhet:** Optimera filstorleken utan att förlora detaljer.
+- **AI-förbehandling:** Tillämpa AI-filter för brusreducering och tydlighet.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

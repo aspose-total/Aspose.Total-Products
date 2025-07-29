@@ -74,7 +74,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- Identificar autores y colaboradores para proyectos de presentación.
+- Etiquetar conjuntos de diapositivas por departamento, campaña o tema.
+- Mejorar la capacidad de búsqueda en repositorios de contenido y bases de conocimiento.
+
+## Escenarios de automatización:
+
+- Enriquecer metadatos para asistentes de IA y búsqueda inteligente.
+- Seguir las etapas del ciclo de vida de la presentación con actualizaciones de metadatos.
+- Automatizar la limpieza y etiquetado a gran escala en bibliotecas de diapositivas.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

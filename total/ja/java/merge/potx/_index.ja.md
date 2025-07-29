@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **ブランドレイアウト:** 複数のブランドスライドテンプレートを組み合わせる。
+- **ビジュアルテーマ:** 各部署向けに統一されたテーマを構築する。
+- **スケーラブルなテンプレート:** 繰り返し利用するための標準デッキを生成する。
+
+## 自動化シナリオ:
+- **ダイナミックスライド生成:** 統合されたテンプレートからスライドを自動作成する。
+- **AIテーマ調整:** 色、フォント、レイアウトを調和させる。
+- **POTXからPPTXへのエクスポート:** テンプレートを編集可能なプレゼンテーションに変換する自動化。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 抽出と管理
+
+DOCXファイルのメタデータをJavaアプリケーションでAPIを使用して処理することで、文書の整合性、検索可能性、コンプライアンスが向上します。プログラムによるメタデータの処理は文書の分類、著者追跡、スマートインデックス作成をサポートします。
+
+**主なユースケース:**  
+- 企業コンテンツシステム内の文書を著者、タイプ、部門別に分類する。  
+- 法的または学術的なアーカイブ用に著者と改訂履歴を追跡する。  
+- カスタムメタデータフィールドを使用してスマート検索インデックスを有効にする。
+
+**自動化シナリオ:**  
+- 大量のDOCXファイルに対するコンプライアンスタグ付けを自動化する。  
+- 期限切れまたは冗長なプロパティを削除するためのバッチメタデータのクリーンアップを実行する。  
+- コンテンツとカスタムプロパティに基づいて文書にメタデータを付加するためにAI搭載の分類を使用する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Gerenciar metadados em arquivos de apresentação ODP usando APIs em aplicativos Java melhora a organização e colaboração em ecossistemas de código aberto.
+
+**Principais Casos de Uso:**
+- Organizar decks de slides em plataformas de colaboração de código aberto.
+- Acompanhar o histórico de revisões e propriedade de slides.
+- Categorizar o conteúdo da apresentação para bases de conhecimento da empresa.
+
+**Cenários de Automação:**
+- Filtrar slides por campos de metadados como título e assunto.
+- Extrair metadados-chave em fluxos de trabalho em lote.
+- Usar IA para marcar e classificar decks de slides de forma inteligente.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

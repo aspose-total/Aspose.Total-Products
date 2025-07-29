@@ -74,7 +74,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file EXCEL utilizzando API in applicazioni Java è essenziale per proteggere dati sensibili dei fogli di calcolo tra dipartimenti. La redazione programmatica rimuove dettagli relativi alla retribuzione, nasconde previsioni di bilancio e maschera analisi riservate nei cruscotti condivisi.
+
+## ✅ Principali casi d'uso
+
+- **Dati relativi alla retribuzione:** Nascondere informazioni sulla retribuzione o sui bonus nei fogli di calcolo delle risorse umane.
+- **Proiezioni di bilancio:** Rimuovere cifre di bilancio future dai report condivisi.
+- **Cruscotti di analisi:** Mascherare dati specifici del cliente nei file di intelligenza aziendale.
+
+## ⚙️ Scenari di automazione
+
+- **Conformità GDPR/CCPA:** Automatizzare la redazione per conformarsi alle leggi sulla privacy.
+- **Reporting sicuro:** Proteggere numeri sensibili durante la condivisione interna ed esterna.
+- **Preparazione dati AI:** Anonimizzare fogli di calcolo per un addestramento o analisi sicuri dei modelli.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

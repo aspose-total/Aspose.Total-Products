@@ -71,7 +71,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Suddivisione dei file XLS utilizzando le API Java: Modernizzare la gestione dei fogli di calcolo legacy</h2>
+
+La suddivisione dei file XLS con le API Java consente alle organizzazioni di gestire i formati di fogli di calcolo legacy isolando le sezioni rilevanti per la migrazione, la generazione di report e l'accesso mobile-friendly.
+
+## ✅ Principali casi d'uso
+
+- **Record annuali**: Estrarre dati specifici per anno da grandi file XLS.
+- **Log delle attività aziendali**: Separare i log delle attività aziendali in file modulari.
+- **Dati in formato legacy**: Preparare i fogli di calcolo legacy per l'integrazione con sistemi moderni.
+
+## ⚙️ Scenari di automazione
+
+- **Migrazione legacy**: Suddividere e modernizzare i vecchi file XLS per i nuovi sistemi.
+- **Elaborazione dei file Excel**: Automatizzare l'estrazione dei dati per la generazione di report.
+- **Integrazione con strumenti mobili**: Consegnare file XLS più piccoli per strumenti mobili leggeri.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

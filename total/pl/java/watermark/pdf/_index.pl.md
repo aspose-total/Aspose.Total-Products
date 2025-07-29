@@ -76,7 +76,25 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/pdf/jav
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Nakładanie znaków wodnych na pliki PDF za pomocą interfejsów API Javy jest skutecznym sposobem ochrony poufnych treści, egzekwowania marki i komunikowania statusu dokumentu. Automatyzacja wstawiania znaków wodnych wzmacnia bezpieczeństwo i zapewnia spójne oznakowanie dokumentów.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Osadzanie znaków "Nie kopiować"** — Zapobiegaj nieautoryzowanemu kopiowaniu za pomocą widocznych ostrzeżeń.
+- **Marka na fakturach** — Wstawiaj logo firmy na fakturach i oficjalnych plikach PDF.
+- **Oznaczanie wersji roboczych** — Oznaczaj prace badawcze lub umowy jako "Wersja robocza" w celu kontroli wersji.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Platformy z podpisem elektronicznym** — Automatyczne nakładanie znaków wodnych na pliki PDF przed procesem podpisywania.
+- **Elektroniczne składanie dokumentów w instytucjach rządowych** — Oznaczaj oficjalne pliki PDF przed bezpiecznym przesłaniem.
+- **Archiwa dokumentów** — Nakładaj spójne znaki wodne w przechowywaniu archiwalnym.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

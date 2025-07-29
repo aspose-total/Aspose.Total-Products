@@ -75,7 +75,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してWORDファイルを分割する：スマートなドキュメンテーションとコンプライアンス</h2>
+
+WORDファイルをJava APIを使用して分割することで、ビジネスは大規模なドキュメンテーションを論理的なセクションに分割して、コンプライアンス、更新、配布を容易にすることができます。
+
+## ✅ 主なユースケース
+
+- **章ごとのセグメンテーション**：大規模なドキュメンテーションを章ごとのファイルに分割します。
+- **ポリシーの分離**：部門や地域ごとにポリシーを分離します。
+- **部門固有のコンテンツ**：異なるチーム向けのコンテンツを生成します。
+
+## ⚙️ 自動化シナリオ
+
+- **コンプライアンスパッケージング**：法的または規制上の提出用にセクションごとのファイルを自動化します。
+- **コンテンツのモジュラリティ**：複数のドキュメントで分離されたセクションを再利用します。
+- **モバイルドキュメント配信**：モバイルで使用するためにより小さな関連セクションを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

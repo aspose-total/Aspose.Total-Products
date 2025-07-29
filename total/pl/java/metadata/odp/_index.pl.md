@@ -74,7 +74,21 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Zarządzanie metadanymi w plikach prezentacji ODP za pomocą interfejsów API w aplikacjach Java poprawia organizację i współpracę w ekosystemach open-source.
+
+**Główne przypadki użycia:**
+- Organizowanie zestawów slajdów w platformach współpracy open-source.
+- Śledzenie historii zmian i właścicieli slajdów.
+- Kategoryzowanie treści prezentacji dla baz wiedzy firmowej.
+
+**Scenariusze automatyzacji:**
+- Filtruj slajdy według pól metadanych, takich jak tytuł i temat.
+- Wyodrębnij kluczowe metadane w zbiorczych procesach roboczych.
+- Wykorzystaj sztuczną inteligencję do inteligentnego tagowania i klasyfikowania zestawów slajdów.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

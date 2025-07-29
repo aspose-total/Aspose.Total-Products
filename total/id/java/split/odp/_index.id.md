@@ -68,7 +68,27 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Memisahkan Berkas ODP Menggunakan Java APIs: Manajemen Presentasi Terarah</h2>
+
+Memisahkan berkas ODP menggunakan Java APIs membantu organisasi membuat slide deck yang difokuskan pada topik tertentu. Ini mendukung pelatihan, acara, dan presentasi dengan memungkinkan pengiriman konten modular dan penggunaan ulang.
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Slide Deck Berdasarkan Topik**: Bagi presentasi besar menjadi deck berdasarkan topik untuk audiens tertentu.
+- **Presentasi Pelatihan**: Pisahkan materi pelatihan menjadi modul untuk pembelajaran yang mudah dan pembaruan.
+- **Sesi Acara**: Pisahkan slide acara menjadi berkas ODP sesi-spesifik untuk pengiriman yang lancar.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Generasi Slide LMS**: Otomatisasikan pembuatan slide modular untuk sistem manajemen pembelajaran.
+- **Penggunaan Ulang Slide**: Gunakan kembali slide inti di berbagai presentasi dan proyek.
+- **Segmentasi Presentasi**: Mempermudah presentasi besar menjadi bagian-bagian yang dapat dikelola untuk pengiriman yang mudah.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

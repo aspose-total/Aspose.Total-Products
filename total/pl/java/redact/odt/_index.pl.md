@@ -75,7 +75,25 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redagowanie plików ODT (OpenDocument Text) za pomocą interfejsów API Javy pomaga chronić poufne teksty w dokumentach w formacie otwartym. Zautomatyzowane cenzurowanie usuwa identyfikatory osobiste, ukrywa opinie oraz maskuje poufne szczegóły w formularzach rządowych.
+
+## ✅ Główne przypadki użycia
+
+- **Prace akademickie:** Usuń dane osobowe studentów lub autorów w opublikowanych badaniach.
+- **Poufne recenzje:** Ukryj wewnętrzną opinię w udostępnionych szkicach.
+- **Formularze rządowe:** Maskuj poufne dane obywateli w celu zgodności.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Prawa ochrony danych:** Zautomatyzuj cenzurowanie zgodnie z RODO i podobnymi przepisami.
+- **Ochrona informatorów:** Bezpiecznie zarządzaj poufnymi zgłoszeniami.
+- **Współpraca sektora publicznego:** Dystrybuuj bezpiecznie zdezynfekowane pliki ODT.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

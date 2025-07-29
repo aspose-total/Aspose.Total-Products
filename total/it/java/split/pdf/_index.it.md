@@ -69,7 +69,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividere i file PDF utilizzando le API Java: Controllo e condivisione più intelligenti dei documenti</h2>
+
+Dividere i file PDF con le API Java consente alle aziende di gestire file di grandi dimensioni suddividendoli in sezioni pertinenti. Ciò rende i processi di distribuzione, archiviazione e firma elettronica più efficienti.
+
+## ✅ Principali casi d'uso
+
+- **Consegne ai clienti**: Consegna sezioni specifiche di PDF multipagina ai clienti.
+- **Sezioni contrattuali**: Suddividere i contratti per l'approvazione in parti.
+- **Isolamento delle fatture**: Generare PDF di fattura per transazione per i record.
+
+## ⚙️ Scenari di automazione
+
+- **Archiviazione**: Archiviare i PDF divisi per una migliore organizzazione e conformità.
+- **Integrazione della firma elettronica**: Utilizzare i PDF divisi per flussi di lavoro di firma digitale più gestibili.
+- **Consegna di PDF su dispositivi mobili**: Fornire PDF suddivisi per la visualizzazione e il download su dispositivi mobili.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

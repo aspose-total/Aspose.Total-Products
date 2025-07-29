@@ -74,7 +74,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het samenvoegen van macro-enabled DOCM-bestanden met behulp van Java API's zorgt voor een veilige en consistente automatisering voor complexe documentatiebehoeften. Programmatisch samenvoegen van DOCM-bestanden helpt bij het behouden van macro-integriteit en het stroomlijnen van workflows.
+
+**Belangrijkste Gebruiksscenario's:**
+- **Compliancedocumentatie:** Voeg meerdere DOCM-bestanden samen om auditklaar compliance-pakketten te produceren.
+- **Macro-sjablonen:** Consolideer herbruikbare macro-sjablonen voor consistente automatisering.
+- **Auditrapporten:** Combineer op macro gebaseerde rapporten voor eenduidige auditinzendingen.
+
+**Automatiseringsscenario's:**
+- **Veilig samenvoegen van macro's:** Valideer en behoud macrofunctionaliteit tijdens het samenvoegen.
+- **Versiebeheer:** Automatiseer versietracking bij het samenvoegen van verschillende DOCM-bestanden.
+- **Detectie van macro-inhoud:** Gebruik AI om macro-scripts in samengevoegde bestanden te detecteren, op te schonen en te optimaliseren.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

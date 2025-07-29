@@ -74,7 +74,28 @@ Para JogAmp JOGL, mecanismo de fonte Harfbuzz e detalhes do Java Advanced Imagin
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Extraindo e gerenciando metadados de arquivos DOCX usando APIs em aplicativos Java</h2>
+<p>Melhora a integridade, descoberta e conformidade de documentos. O manuseio programático de metadados suporta a classificação de documentos, rastreamento de autoria e indexação inteligente.</p>
+
+<h2>Casos de Uso Principais:</h2>
+<ul>
+<li>Classificar documentos em sistemas de conteúdo empresarial por autor, tipo ou departamento.</li>
+<li>Rastrear autoria e histórico de revisões para arquivos legais ou acadêmicos.</li>
+<li>Possibilitar a indexação inteligente de pesquisa usando campos de metadados personalizados.</li>
+</ul>
+
+<h2>Cenários de Automação:</h2>
+<ul>
+<li>Automatizar a marcação de conformidade para grandes volumes de arquivos DOCX.</li>
+<li>Realizar a limpeza em lote de metadados para remover propriedades desatualizadas ou redundantes.</li>
+<li>Utilizar a categorização alimentada por IA para enriquecer documentos com metadados com base no conteúdo e propriedades personalizadas.</li>
+</ul>
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

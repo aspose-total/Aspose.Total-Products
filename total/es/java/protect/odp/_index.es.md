@@ -71,7 +71,20 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave
+- Restringir ediciones en presentaciones corporativas.
+- Proteger con contraseña barajas de inversores confidenciales.
+- Aplicar acceso solo de visualización para diapositivas de capacitación.
+
+## Escenarios de automatización
+- Apoyar el cumplimiento de derechos digitales.
+- Automatizar el control de versiones.
+- Proteger conjuntos de datos de presentaciones de aprendizaje de IA.
+- Asegurar la entrega pública de presentaciones.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

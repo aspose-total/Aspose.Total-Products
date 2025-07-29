@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **ビジネスプレゼンテーション:** 複数のデッキを1つの専門的なスライドデッキにマージします。
+- **ピッチデッキ:** 統一されたピッチのために異なるチームメンバーのスライドを組み合わせます。
+- **会議資料:** スムーズな会議のためにレポートとスライドを統合します。
+
+## 自動化シナリオ:
+- **スライドの重複削除:** 重複するスライドを自動的に削除します。
+- **デザインの標準化:** 一貫したテンプレートとテーマを適用します。
+- **AIストーリーテリング:** AIを使用して物語の流れを洗練させ、重要なメッセージを強調します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

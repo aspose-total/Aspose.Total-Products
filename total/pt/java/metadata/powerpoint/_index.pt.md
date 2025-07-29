@@ -74,7 +74,21 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de Uso Principais:
+
+- Classificar apresentações corporativas por tópico ou departamento.
+- Aplicar políticas de marca e direitos autorais por meio de metadados.
+- Organizar extensas bibliotecas de slides para acesso rápido.
+
+## Cenários de Automação:
+
+- Automatizar a marcação em lote das propriedades da apresentação.
+- Classificar decks com base em metadados como autor ou campanha.
+- Aplicar IA para categorizar decks de slides por tema e uso.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

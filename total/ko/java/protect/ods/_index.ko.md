@@ -74,7 +74,22 @@ ODS 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 공유 스프레드시트에서 운영 데이터 보호.
+- 미인가된 편집으로부터 템플릿 잠금.
+- 읽기 전용 비즈니스 인텔리전스 보고서 강제.
+
+<h2>자동화 시나리오</h2>
+- 데이터 처리를 위한 규정 준수.
+- ODS 파일에서 AI 훈련 데이터 보호.
+- 계획 파일 수명주기 제어.
+- 내부 데이터 공유 보호.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

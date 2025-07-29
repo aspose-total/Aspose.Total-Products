@@ -71,7 +71,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ División de archivos EXCEL utilizando Java APIs: Segmentación simplificada de datos y entrega</h2>
+
+Dividir archivos EXCEL con Java APIs permite a las organizaciones manejar conjuntos de datos grandes de manera más eficiente al aislar partes relevantes para un mejor análisis, compartición e informes. Esto impulsa la colaboración, respalda el cumplimiento y optimiza los flujos de datos.
+
+## ✅ Casos de uso clave
+
+- **Presupuestos Departamentales**: Segmentar hojas de presupuesto maestras en archivos específicos por departamento para una distribución segura.
+- **Hojas de Datos Trimestrales**: Extraer datos para periodos específicos para simplificar los informes financieros.
+- **Métricas de Unidades de Negocio**: Generar hojas de rendimiento por unidad para los interesados.
+
+## ⚙️ Escenarios de automatización
+
+- **Distribución de Datos Financieros**: Automatizar el compartir de archivos Excel divididos con equipos o clientes.
+- **Exportaciones de Excel a CSV**: Exportar datos segmentados a CSV para integración con otras herramientas.
+- **Entrega de Contenido Móvil**: Servir archivos Excel más pequeños y específicos a usuarios móviles para reducir la carga.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

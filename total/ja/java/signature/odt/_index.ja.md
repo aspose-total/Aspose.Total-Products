@@ -72,7 +72,31 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✅ Java APIを使用してODT署名の追加と検証: オープンソースドキュメントの認証</h2>
+
+ODTファイルでの署名の追加や検証は、オープンソースドキュメントの署名、公式提出物の検証、共同作成ドラフトの認証には重要です。プログラムによる署名管理は、政府の承認、学術的遵守、セキュアな公開をサポートします。
+
+## ✅ 主なユースケース
+
+- **オープンソースドキュメントに署名**して信頼性を確保します。
+- **デジタル署名で助成金申請を検証**します。
+- **学術的提出物を認証**して整合性を確保します。
+- **機関文書を改ざんから保護**します。
+- **オープンな公開での標準遵守を強化**します。
+
+## ⚙️ 自動化シナリオ
+
+- **ODT署名で政府の承認プロセスを自動化**します。
+- **機関文書のワークフローをプログラムでセキュアに**します。
+- **検証済みファイルで標準遵守の公開**を可能にします。
+- **署名チェックを通じてバージョン変更を追跡**します。
+- **複数著者による文書の署名承認を効率化**します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

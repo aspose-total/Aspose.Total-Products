@@ -71,7 +71,27 @@ Para obtener más información, consulte [Documentación del producto](https://d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ División de archivos XLS utilizando APIs de Java: Modernizar el manejo de hojas de cálculo heredadas</h2>
+
+Dividir archivos XLS con APIs de Java permite a las organizaciones manejar formatos de hojas de cálculo heredadas al aislar secciones relevantes para migración, informes y acceso compatible con dispositivos móviles.
+
+## ✅ Casos de uso clave
+
+- **Registros Anuales**: Extraer datos específicos de un año de archivos XLS grandes.
+- **Registros de Actividad Comercial**: Separar registros de actividad comercial en archivos modulares.
+- **Datos en Formato Antiguo**: Preparar hojas de cálculo heredadas para su integración con sistemas modernos.
+
+## ⚙️ Escenarios de Automatización
+
+- **Migración de Legado**: Dividir y modernizar archivos XLS antiguos para nuevos sistemas.
+- **Procesamiento de Archivos de Excel**: Automatizar la extracción de datos para informes.
+- **Integración de Herramientas Móviles**: Entregar archivos XLS más pequeños para herramientas móviles livianas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

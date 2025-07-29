@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **トレーニングデッキ:** 複数のトレーニングモジュールを包括的なODPプレゼンテーションにまとめる。
+- **会議スライド:** スピーカーのスライドを統一されたデッキにマージしてイベントの流れをスムーズにする。
+- **社内プレゼンテーション:** 内部の更新、レポート、計画を再利用可能なODPファイルにまとめる。
+
+## 自動化シナリオ:
+- **複数ユーザーのスライドマージ:** 複数の寄稿者からのスライドのマージを自動化する。
+- **スタイルの調和:** マージされたスライド全体で一貫したテーマとフォーマットを強制する。
+- **AIレイアウトの整列:** AIを使用してプロフェッショナルでクロスプラットフォームのプレゼンテーション配信のためにスライドのレイアウトを整列および調整する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

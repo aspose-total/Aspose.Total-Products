@@ -74,7 +74,25 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigir arquivos EXCEL usando APIs em aplicações Java é essencial para garantir a segurança de dados confidenciais de planilhas em diferentes departamentos. A redação programática remove detalhes de folha de pagamento, oculta previsões orçamentárias e mascara análises confidenciais em painéis compartilhados.
+
+## ✅ Principais Casos de Uso
+
+- **Dados de Folha de Pagamento:** Ocultar informações salariais ou de bônus em planilhas de RH.
+- **Projeções Orçamentárias:** Remover números de orçamento futuro de relatórios compartilhados.
+- **Painéis de Análise:** Mascara dados específicos do cliente em arquivos de inteligência empresarial.
+
+## ⚙️ Cenários de Automação
+
+- **Conformidade com GDPR/CCPA:** Automatizar a redação para conformidade com leis de privacidade.
+- **Relatórios Seguros:** Proteger números sensíveis durante compartilhamentos internos e externos.
+- **Preparação de Dados de IA:** Anonimizar planilhas para treinamento ou análise segura de modelos.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

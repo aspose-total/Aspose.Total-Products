@@ -78,7 +78,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを使用してODTファイルに透かしを適用することは、下書きの管理、コンプライアンス文書の保護、使用制限の伝達に重要です。自動透かし付けにより、社内利用ラベルや下書きマークが一貫して適用されます。
+
+## ✅ 主な使用ケース
+
+- **法的下書きのマーク** — 法的または方針文書の下書き版に明確なラベルを付けます。
+- **社内スタンプの適用** — 作業文書に「社内専用」の透かしを追加します。
+- **トレーサビリティの確保** — 文書バージョンを追跡するために目に見えるマークを使用します。
+
+## ⚙️ 自動化シナリオ
+
+- **コンプライアンスツール** — コンプライアンス文書パイプラインに透かしを統合します。
+- **オープンソースCMS** — コンテンツ管理ワークフローで透かしを自動化します。
+- **学術配布** — 学術下書きに透かしを付けて安全なレビュー共有を行います。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

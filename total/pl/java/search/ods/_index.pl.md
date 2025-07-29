@@ -88,7 +88,27 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Wyszukiwanie plików ODS za pomocą interfejsów API Javy: Odblokuj efektywność otwartych danych</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Śledzenie wpisów zgodności**: Monitorowanie pól danych regulacyjnych w arkuszach finansowych lub operacyjnych.
+- **Pobieranie danych klientów z zarchiwizowanych arkuszy**: Zlokalizuj historyczne transakcje i szczegóły klientów.
+- **Audyt rekordów finansowych w czasie rzeczywistym**: Wykrywanie niezgodności i błędów do natychmiastowej korekty.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Potoki raportowania**: Automatyczne dostarczanie dokładnych wyników wyszukiwania do raportów biznesowych.
+- **Analizy w czasie rzeczywistym**: Zasilanie żywymi pulpitami informacji danymi z arkuszy kalkulacyjnych.
+- **Audyty zarządzania ryzykiem**: Wykrywanie anomalii w arkuszach kalkulacyjnych do oceny ryzyka.
+- **Klasyfikacja wspomagana sztuczną inteligencją**: Inteligentne klasyfikowanie i oznaczanie danych.
+- **Silniki wyszukiwania dla przedsiębiorstw**: Umożliwia jednolite wyszukiwanie we wszystkich plikach ODS w organizacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

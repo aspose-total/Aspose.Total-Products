@@ -74,7 +74,19 @@ Per i dettagli su JogAmp JOGL, motore di carattere Harfbuzz e Java Advanced Imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casi d'uso chiave:
+- **Rapporti accademici:** Riunire più articoli di ricerca o consegne degli studenti in documenti ODT singoli.
+- **Documenti legali:** Unire fascicoli, contratti o depositi in tribunale in documenti ODT completi e controllati dalla versione.
+- **Contenuti collaborativi:** Consolidare contributi da diversi autori in un unico file elaborato per la pubblicazione o l'archiviazione.
+
+## Scenari di automazione:
+- **Unione batch:** Automatizzare la combinazione di centinaia di file ODT in un'unica operazione.
+- **Unificazione controllata dalla versione:** Mantenere la cronologia delle versioni e tracciare le modifiche durante le fusioni.
+- **Normalizzazione della formattazione tramite intelligenza artificiale:** Utilizzare l'IA per allineare stili, intestazioni e formattazioni per ottenere output professionali e standardizzati.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

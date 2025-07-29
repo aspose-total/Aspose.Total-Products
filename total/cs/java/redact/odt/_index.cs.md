@@ -75,7 +75,25 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Oprava souborů ODT (OpenDocument Text) pomocí Java API pomáhá chránit citlivý text v dokumentech ve formátu open. Automatizovaná redakce odstraňuje osobní identifikátory, skrývá zpětnou vazbu a maskuje citlivé detaily ve vládních formulářích.
+
+## ✅ Klíčové použití
+
+- **Akademické práce:** Odstraňte studenta nebo autora PII v publikovaném výzkumu.
+- **Důvěrné recenze:** Skryjte interní zpětnou vazbu ve sdílených konceptech.
+- **Vládní formuláře:** Maskujte citlivá občanská data pro soulad.
+
+## ⚙️ Scénáře automatizace
+
+- **Zákony o ochraně dat:** Automatizujte redakci pro GDPR a podobná pravidla.
+- **Ochrana oznamovatelů:** Bezpečně spravujte citlivá sdělení.
+- **Spolupráce ve veřejném sektoru:** Bezpečně distribuujte upravené soubory ODT.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

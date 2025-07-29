@@ -74,7 +74,23 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Menggabungkan file PPSM yang diaktifkan makro menggunakan API dalam aplikasi Java memungkinkan penciptaan pengalaman tayangan slide interaktif canggih dengan tindakan tertanam utuh.
+
+**Kasus Penggunaan Utama:**
+- **Demo Penjualan:** Menggabungkan tayangan slide interaktif untuk demonstrasi produk.
+- **Panduan Otomatis:** Menggabungkan presentasi berpanduan dengan pemicu makro.
+- **Presentasi Berulang:** Membangun presentasi yang diulang dengan makro tertanam untuk kios.
+
+**Skenario Otomatisasi:**
+- **Penggabungan Logika Makro:** Aman menggabungkan skrip makro di seluruh file.
+- **Validasi Eksekusi:** Otomatisasi pengujian untuk memastikan stabilitas makro.
+- **Koordinasi Perilaku AI:** Menggunakan AI untuk menyelaraskan tindakan visual dan makro-driven.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

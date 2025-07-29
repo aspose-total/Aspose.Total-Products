@@ -80,7 +80,28 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Akses dan Pengelolaan Metadata dalam File XLS Warisan dengan Menggunakan API dalam Aplikasi Java</h2>
+<p>Membantu memodernisasi arsip spreadsheet historis sambil mempertahankan informasi penting. Penanganan secara programatik memastikan kesesuaian dengan kebijakan data modern dan jejak audit yang transparan.</p>
+
+<h2>Kasus Penggunaan Utama:</h2>
+<ul>
+<li>Migrasi spreadsheet historis dengan integritas metadata penuh.</li>
+<li>Audit riwayat dokumen untuk tim keuangan dan tinjauan regulasi.</li>
+<li>Menyelaraskan file XLS yang sudah ketinggalan zaman dengan standar tata kelola saat ini.</li>
+</ul>
+
+<h2>Skenario Otomatisasi:</h2>
+<ul>
+<li>Ekstrak metadata warisan secara besar-besaran untuk pengarsipan terpusat.</li>
+<li>Tandai file selama konversi format XLS ke XLSX.</li>
+<li>Gunakan kecerdasan buatan untuk mengklasifikasikan ulang spreadsheet warisan untuk alur kerja modern.</li>
+</ul>
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

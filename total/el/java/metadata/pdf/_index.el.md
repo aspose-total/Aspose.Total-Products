@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Διαχείριση μεταδεδομένων σε αρχεία PDF χρησιμοποιώντας APIs σε εφαρμογές Java αυξάνει την ευρεσιτεχνία, την ταξινόμηση και τη συμμόρφωση σε ψηφιακά αρχεία.
+
+**Βασικές Περιπτώσεις Χρήσης:**
+- Βελτίωση της ευρεσιτεχνίας σε δημόσιες ή ιδιωτικές βιβλιοθήκες εγγράφων.
+- Επιβολή κανόνων ταξινόμησης σε νομικά ή ρυθμιζόμενα αρχεία.
+- Ενσωμάτωση πληροφοριών συμμόρφωσης απευθείας στα PDF.
+
+**Σενάρια Αυτοματισμού:**
+- Αυτοματοποίηση ετικετοποίησης τίτλου, θέματος και λέξεων-κλειδιών.
+- Επεξεργασία μεταδεδομένων πακέτων για διατήρηση συνέπειας.
+- Χρήση τεχνητής νοημοσύνης για ετικετοποίηση PDFs για ρυθμιστικά και ελεγκτικά ροές εργασίας.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,19 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Archivované zprávy:** Sloučení více archivovaných DOC zpráv do jednotných souborů pro snazší ukládání a získávání.
+- **Právní dokumenty:** Sloučení spisů, smluv a dohod do jednoho komplexního DOC souboru.
+- **Aktualizace formátu:** Sloučení DOC souborů před jejich konverzí do formátu DOCX pro zjednodušení digitální transformace.
+
+## Scénáře automatizace:
+- **Hromadné sloučení dokumentů:** Zpracování tisíců starých DOC souborů hromadně.
+- **Převody DOC na DOCX:** Automatizované sloučení a konverze formátu současně.
+- **Konsolidace založená na AI:** Použití AI k detekci duplicitních sekcí, shrnutí obsahu a optimalizaci sloučených dokumentů v pracovních postupech DMS.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

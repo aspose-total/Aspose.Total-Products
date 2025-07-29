@@ -75,7 +75,27 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ ODT fájlok felosztása Java API-k segítségével: Moduláris nyílt forráskódú dokumentumkiszállítás</h2>
+
+Az ODT fájlok felosztása Java API-k segítségével lehetővé teszi a csapatok számára, hogy nagy nyílt forráskódú dokumentumokat bontsanak kisebb részekre, hogy könnyebb legyen az kezelés, testreszabás és megosztás. Ez támogatja a dinamikus közzétételt és javítja a mobil hozzáférést.
+
+## ✅ Fő felhasználási esetek
+
+- **Moduláris kézikönyvek**: Oszd fel hosszú kézikönyveket kisebb, szerep-specifikus ODT fájlokra.
+- **Irányelvek elkülönítése**: Vállalati irányelvek szétválasztása osztályok vagy régiók szerint.
+- **Célcsoport specifikus kimenetek**: Célcsoport specifikus verziók generálása egy fő ODT fájlból.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Dokumentum testreszabás**: Automatizáld a felhasználó-specifikus ODT fájlok generálását.
+- **Nyílt forráskódú DMS integráció**: Integráld a felosztott fájlokat a dokumentumkezelő rendszerekbe.
+- **Mobilbarát közzététel**: Szállíts ki kisebb, releváns ODT fájlokat az úton lévő hozzáféréshez.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,28 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Melihat Berkas DOCM Menggunakan Java APIs: Pratinjau Dokumen yang Aman dengan Macro Aktif</h2>
+
+Menggunakan Java APIs untuk melihat berkas DOCM membantu organisasi merender dokumen Word yang memiliki macro tanpa menjalankan skrip. Hal ini penting untuk industri yang diatur yang menangani dokumen teknis dan konten sensitif.
+
+## ✅ Kasus Penggunaan Utama
+
+- **Pratinjau Dokumen Macro yang Aman:** Periksa berkas DOCM di bidang keuangan, hukum, atau kesehatan.
+- **Ulasan Dokumen Teknis dengan Skrip:** Lihat makro yang disematkan dengan aman tanpa menjalankannya.
+- **Pemeriksaan Konten:** Memungkinkan tim kepatuhan untuk memvalidasi konten DOCM sebelum digunakan.
+
+## ⚙️ Skenario Otomatisasi
+
+- **Pemutar dengan Sandbox:** Merender berkas DOCM dengan aman di lingkungan yang terkendali.
+- **Dasbor Tata Kelola TI:** Memantau dokumen yang memiliki makro secara visual.
+- **Alat Validasi Dokumen:** Otomatisasikan peninjauan draf DOCM untuk kepatuhan.
+- **Portal Dokumentasi Proyek:** Menampilkan dokumen yang memiliki makro kepada pemangku kepentingan.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

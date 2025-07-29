@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **古いテンプレート:** アップグレード中に連続性を維持するために古いテンプレートをマージします。
+- **再利用可能な構造:** 一貫したプレゼンテーションのために標準のスライドレイアウトを組み合わせます。
+- **企業のビジュアルの更新:** 古いテンプレートを現在のブランディングに合わせて更新します。
+
+## 自動化シナリオ:
+- **POTからPPTXへのマージ:** テンプレートをマージして現代的な使用に適合させます。
+- **AI形式変換:** AIを使用してスタイルとフォーマットを更新します。
+- **レイアウト統合:** マージされたスライドテンプレートで一貫したブランディングを自動化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

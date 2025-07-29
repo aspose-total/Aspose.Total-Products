@@ -77,7 +77,27 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Zobrazení souborů XLTX pomocí Java API: Standardní vizualizace šablon tabulek</h2>
+
+Použití Java API k zobrazení souborů XLTX zajistí, že týmy mohou předem zobrazit standardizované excelové šablony pro zprávy, formuláře HR nebo prodejní záznamy v webových aplikacích.
+
+## ✅ Klíčové použití
+
+- **Obchodní zprávy:** Zobrazit standardní šablony pro rozpočtování.
+- **Záznamy HR:** Náhled opakovaně použitelných formulářů XLSX.
+- **Prodejní záznamy:** Zobrazit značkové prodejní listy online.
+
+## ⚙️ Scénáře automatizace
+
+- **Náhledy na webu:** Vložte XLTX šablony do nástrojů SaaS.
+- **Řídící panely:** Automatizujte zobrazení šablon pro týmy.
+- **Systémy pro reportování:** Poskytněte snadný přístup k náhledům šablon.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

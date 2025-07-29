@@ -72,7 +72,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file PPT con API Java aiuta le organizzazioni a gestire in modo sicuro le presentazioni legacy. La redazione programmatica rimuove le diapositive protette da NDA, nasconde i valori contrattuali e maschera gli organigrammi interni.
+
+## ✅ Principali casi d'uso
+
+- **Presentazioni Legacy:** Rimuovere diapositive sensibili durante la migrazione dei contenuti.
+- **Diapositive di Approvvigionamento:** Nascondere importi contrattuali nelle presentazioni condivise.
+- **Briefing HR:** Mascherare gli organigrammi o i dati dei dipendenti.
+
+## ⚙️ Scenari di automazione
+
+- **Migrazione dei Contenuti:** Sanitizzare i file legacy per i sistemi moderni.
+- **Revisioni Interne:** Automatizzare la redazione prima delle verifiche.
+- **Protezione della Proprietà Intellettuale:** Proteggere le informazioni confidenziali durante la condivisione delle risorse datate.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

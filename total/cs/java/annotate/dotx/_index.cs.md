@@ -114,7 +114,22 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Proč anotovat soubory DOTX: Moderní úprava šablon pro konzistentní branding a opakované použití</h2>
+
+Anotování **souborů DOTX** je nezbytné pro správu moderních šablon ve formátu XML pro Word. Komentáře a značky zajišťují, že opakovaně použitelné šablony zůstávají v souladu s aktuálním brandingem a standardy dokumentů.
+
+## 📌 Praktické případy použití
+
+- **Revize šablon:** Použijte anotace k navrhování úprav designu, aktualizací obsahu a vylepšení rozvržení.
+- **Aktualizace brandingu:** Označte loga, barvy značky a typografii, abyste zajistili, že každá šablona DOTX bude v souladu s brandem.
+- **Opakované pracovní postupy:** Přidejte poznámky k řízení týmů při správném opakovaném použití, verzování a přizpůsobení.
+- **Automatizace:** Automatizujte anotace pomocí systémů pro správu šablon k zefektivnění schvalovacích postupů a udržení souborů DOTX aktuálních.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

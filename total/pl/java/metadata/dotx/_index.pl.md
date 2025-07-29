@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Dostęp do metadanych i edycja szablonów DOTX za pomocą interfejsów API w aplikacjach Java pomaga utrzymać kontrolę wersji, zgodność z jednostkami biznesowymi i zgodność z polityką.
+
+**Główne przypadki użycia:**
+- Wymuszanie wersjonowania szablonów w zespołach i działach.
+- Kategoryzowanie szablonów na podstawie jednostek biznesowych lub działów.
+- Wspieranie zgodności poprzez zapewnienie spójności metadanych.
+
+**Scenariusze automatyzacji:**
+- Automatyzacja wstrzykiwania metadanych podczas tworzenia lub aktualizacji szablonów.
+- Klasyfikowanie i organizowanie szablonów programowo.
+- Zarządzanie całym cyklem życia szablonu za pomocą śledzenia metadanych z zastosowaniem sztucznej inteligencji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές περιπτώσεις χρήσης:</h2>  
+- Μεταφορά ιστορικών υπολογιστικών φύλλων με πλήρη ακεραιότητα μεταδεδομένων.  
+- Ελέγχος ιστορικού εγγράφων για ομάδες οικονομικών και ρυθμιστικές αναθεωρήσεις.  
+- Ευθυγράμμιση παλαιών αρχείων XLS με τα τρέχοντα πρότυπα διακυβέρνησης.
+
+<h2>Σενάρια αυτοματοποίησης:</h2>  
+- Εξαγωγή ιστορικών μεταδεδομένων σε κλίμακα για κεντρική αρχειοθέτηση.  
+- Ετικέταση αρχείων κατά τη μετατροπή από XLS σε XLSX μορφή.  
+- Χρήση τεχνητής νοημοσύνης για ανακατητοποίηση παλαιών υπολογιστικών φύλλων για μοντέρνες ροές εργασίας.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

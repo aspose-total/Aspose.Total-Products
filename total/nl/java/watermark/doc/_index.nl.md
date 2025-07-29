@@ -78,7 +78,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het toepassen van watermerken op DOC-bestanden met behulp van Java API's helpt organisaties om de vertrouwelijkheid van documenten te beschermen, branding te versterken en de versiestatus te beheren. Het automatiseren van het invoegen van watermerken zorgt ervoor dat de markeringen of logo's van "Vertrouwelijk" consistent verschijnen, waardoor teams de zichtbaarheid en integriteit van documenten kunnen beheren.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Label als "Vertrouwelijk"** — Label interne DOC-bestanden om distributie te beperken.
+- **Visuele Merkidentiteit** — Bedrijfslogo's toepassen op rapporten en memo's.
+- **Aangeven van Conceptstatus** — Watermerken gebruiken om aan te geven dat documenten in behandeling zijn.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Document Workflow Engines** — Automatisch watermerken toevoegen aan DOC-bestanden tijdens generatie en goedkeuring.
+- **HR Goedkeuringsprocessen** — Statuslabels insluiten in HR-documenten voor interne controle.
+- **Juridische Versiebeheer** — Conceptversies duidelijk markeren voor juridische samenwerking.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

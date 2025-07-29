@@ -71,7 +71,27 @@ ODS ファイルを簡単に分割する Java スクリプトまたはユーテ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してODSファイルを分割する：効果的なオープンソースデータ管理</h2>
+
+ODSファイルをJava APIを使用して分割することで、モジュラーなデータアクセスとレポート作成が可能となり、オープンソースのスプレッドシートの取り扱いが簡素化されます。これにより、BIワークフロー、スケーラブルな共有、およびパフォーマンスの向上がサポートされます。
+
+## ✅ 主なユースケース
+
+- **地域別財務データ**：大きな財務スプレッドシートを地域別のODSファイルに分割します。
+- **個々のタブ**：個別のシートを抽出して共有や分析に活用します。
+- **統計レポート**：ターゲットとなるレポートのために統計データを分離します。
+
+## ⚙️ 自動化シナリオ
+
+- **オープンソースBIパイプライン**：BIおよび分析ワークフローのデータ抽出を自動化します。
+- **モジュラーデータ共有**：関係者との間でスプレッドシートの関連部分のみを共有します。
+- **パフォーマンスの最適化**：アプリやツールでの読み込み時間を短縮するために小さなODSファイルを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

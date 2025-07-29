@@ -72,7 +72,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redigere file PPTX utilizzando le API Java mantiene le presentazioni moderne al riparo da fughe di dati sensibili. La redazione automatizzata rimuove le informazioni personali identificative, nasconde l'analisi competitiva e maschera gli identificatori dei clienti.
+
+## ✅ Principali casi d'uso
+
+- **Materiale di formazione:** Redigere i dati dei dipendenti o degli apprendisti.
+- **Presentazioni di vendita:** Nascondere informazioni competitive o prezzi.
+- **Casi di studio:** Rimuovere i nomi dei clienti prima della pubblicazione.
+
+## ⚙️ Scenari di automazione
+
+- **Revisioni di conformità:** Automatizzare i controlli dei contenuti e la redazione.
+- **Condivisione con i partner:** Distribuire solo presentazioni sanificate.
+- **Protezione della proprietà intellettuale:** Proteggere le conoscenze proprietarie quando le diapositive vengono condivise esternamente.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

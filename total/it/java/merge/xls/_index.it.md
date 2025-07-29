@@ -75,7 +75,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Unione dei file XLS legacy utilizzando API nelle applicazioni Java modernizza i fogli di calcolo obsoleti preservando i dati storici preziosi. L'unione automatizzata di file XLS supporta una migrazione fluida verso formati moderni e un'ulteriore integrità dei dati.
+
+**Principali casi d'uso:**
+- **Migrazione dei dati finanziari:** Unire vecchi file XLS per la conversione in XLSX.
+- **Unificazione dei record storici:** Consolidare fogli di calcolo legacy per la prontezza all'audit.
+- **Modernizzazione dello storage:** Combinare e aggiornare i file XLS per ridurre la ridondanza e garantire la conformità.
+
+**Scenari di automazione:**
+- **Unione da XLS a XLSX:** Automatizzare l'unione e l'aggiornamento del formato in un unico flusso di lavoro.
+- **Integrazione sicura delle macro:** Preservare le macro incorporate durante la combinazione dei file legacy.
+- **Aggiornamento del formato tramite intelligenza artificiale:** Utilizzare l'IA per rilevare strutture obsolete e raccomandare sostituzioni moderne.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

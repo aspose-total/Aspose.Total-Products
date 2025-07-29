@@ -74,7 +74,21 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Casos de uso clave:
+
+- **Presentaciones empresariales:** Fusionar varias presentaciones en una sola presentación profesional.
+- **Presentaciones de ventas:** Combinar diapositivas de diferentes miembros del equipo para presentaciones unificadas.
+- **Materiales de reuniones:** Consolidar informes y diapositivas para reuniones fluidas.
+
+## Escenarios de automatización:
+
+- **Eliminación de diapositivas duplicadas:** Eliminar automáticamente diapositivas duplicadas.
+- **Estandarización de diseño:** Aplicar plantillas y temas consistentes.
+- **Narrativa de IA:** Utilizar IA para refinar el flujo narrativo y resaltar mensajes clave.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

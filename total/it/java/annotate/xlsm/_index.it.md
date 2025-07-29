@@ -117,7 +117,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Perché annotare i file XLSM: Rafforzare i modelli finanziari, le previsioni e i workbook di conformità</h2>
+
+Annotare i file **XLSM (Excel Macro-Enabled Workbook)** è essenziale per i team che costruiscono fogli di calcolo avanzati che si basano su macro per l'automazione. Commenti, evidenziazioni e note nelle celle aiutano a chiarire la logica delle macro, guidare gli aggiornamenti delle versioni e mantenere liberi da errori fogli di calcolo finanziari o di conformità complessi.
+
+## ✅ Principali casi d'uso
+
+- **Modelli finanziari abilitati alle macro:** Utilizzare le annotazioni per spiegare i calcoli basati sulle macro, evidenziare le principali ipotesi e guidare gli stakeholder attraverso scenari dinamici.
+- **Fogli di previsione automatizzati:** Aggiungere commenti per chiarire le fonti di dati, annotare le regole di previsione e documentare gli aggiornamenti per proiezioni ricorrenti.
+- **Checklist di conformità:** Annotare i file XLSM per tenere traccia dei passaggi di audit, segnalare i requisiti normativi e garantire che ogni checklist rimanga aggiornata e verificata.
+
+## ⚙️ Benefici dell'automazione
+
+- **Audit delle macro:** Automatizzare le annotazioni per esaminare gli script delle macro, segnalare i rischi e verificare che l'automazione sia in linea con gli standard finanziari o normativi.
+- **Controllo delle versioni:** Utilizzare strumenti automatizzati per tracciare le modifiche, registrare le revisioni e mantenere un registro di audit per ogni versione del file XLSM.
+- **Tracciamento della conformità:** Integrare commenti automatizzati per garantire che i compiti di conformità, le approvazioni e gli aggiornamenti siano chiaramente documentati e facili da seguire.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

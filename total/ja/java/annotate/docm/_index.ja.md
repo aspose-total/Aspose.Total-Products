@@ -114,7 +114,26 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 DOCMファイルに注釈を付ける理由：テンプレートレポート、自動化フォーム、およびマクロ監査</h2>
+
+**DOCM（マクロ有効化Word）** ファイルに注釈を付けることは、動的テンプレート、自動化フォーム、埋め込みマクロを使用する組織にとって重要です。コメント、ハイライト、メモを追加することで、チームはマクロの論理を確認し、セキュリティを確保し、複雑な文書ワークフローにおけるコンプライアンスを維持するのに役立ちます。
+
+## ✅ 主な使用事例
+
+- **テンプレート駆動型レポート：** DOCMテンプレートに注釈を付けて、一貫したレポート生成のためのセクション、指示、および変数フィールドを明確にします。
+- **自動化フォーム：** マクロ有効化フォームにガイダンスやレビューノートを追加して、データ収集を効率化し、エラーを減らします。
+- **マクロ監査：** 注釈を挿入してマクロの変更を追跡し、セキュリティリスクを警告し、規制のコンプライアンスのための監査トレイルを文書化します。
+
+## ⚙️ コンプライアンスとセキュリティにおける自動化
+
+- **コンプライアンスツール：** リスクのあるマクロをマークし、承認を追跡し、DOCMファイルの安全な配布を確保するために注釈を自動化します。
+- **文書セキュリティシステム：** マクロの使用状況を監視し、不正なコードの実行を防止するために自動コメントを統合します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

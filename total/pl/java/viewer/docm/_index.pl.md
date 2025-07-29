@@ -76,7 +76,28 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Przeglądanie plików DOCM za pomocą interfejsów API Javy: Bezpieczne podglądy dokumentów z makrami</h2>
+
+Korzystanie z interfejsów API Javy do przeglądania plików DOCM pomaga organizacjom bezpiecznie renderować dokumenty Word z makrami bez wykonywania skryptów. Jest to istotne dla branż regulowanych, które zajmują się dokumentami technicznymi i wrażliwymi treściami.
+
+## ✅ Główne przypadki użycia
+
+- **Bezpieczne podglądy dokumentów z makrami:** Inspekcja plików DOCM w branżach finansowej, prawnej lub opieki zdrowotnej.
+- **Przeglądanie dokumentów technicznych z makrami:** Bezpieczne wyświetlanie osadzonych makr bez ich uruchamiania.
+- **Inspekcja treści:** Pozwól zespołom ds. zgodności zweryfikować treść DOCM przed użyciem.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Bezpieczne przeglądarki:** Bezpieczne renderowanie plików DOCM w kontrolowanych środowiskach.
+- **Pulpity zarządzania IT:** Wizualne monitorowanie dokumentów z makrami.
+- **Narzędzia do walidacji dokumentów:** Automatyzacja przeglądu wersji roboczych DOCM pod kątem zgodności.
+- **Portale dokumentacji projektowej:** Wyświetlanie dokumentów z makrami interesariuszom.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

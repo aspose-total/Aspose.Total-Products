@@ -76,7 +76,23 @@ JogAmp JOGL, Harfbuzz 글꼴 엔진 및 Java Advanced Imaging JAI 세부 정보�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API를 사용하여 일반 이미지 파일을 병합하면 다양한 파일 형식에 걸쳐 콘텐츠 생성을 자동화할 수 있습니다.
+
+**주요 사용 사례:**
+- **법률 기술:** 시각적 증거물을 단일 사건 파일로 편집합니다.
+- **소셜 플랫폼:** 소셜 피드용 사용자 생성 이미지를 조합합니다.
+- **그래픽이 풍부한 보고서:** 차트, 인포그래픽 및 사진을 통합된 보고서로 병합합니다.
+
+**자동화 시나리오:**
+- **동적 그리드 생성:** 프레젠테이션용 이미지 그리드를 자동으로 생성합니다.
+- **형식에 무관한 병합:** 혼합 이미지 형식을 매끄럽게 병합합니다.
+- **AI 레이아웃 큐레이션:** AI를 사용하여 최종 시각 자료를 디자인, 배치 및 최적화합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

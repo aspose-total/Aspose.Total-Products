@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **アーカイブされたレポート:** 複数のアーカイブされたDOCレポートを統合して、より簡単な保存と検索が可能な統一ファイルにします。
+- **法的文書:** ケースファイル、契約、合意事項を1つの包括的なDOCにまとめます。
+- **フォーマットのアップグレード:** DOCファイルをDOCXに変換する前にマージして、デジタル変革を効率化します。
+
+## 自動化シナリオ:
+- **バッチドキュメントのマージ:** 大量のレガシーDOCファイルを一括処理します。
+- **DOCからDOCXへのアップグレード:** マージとフォーマット変換を同時に自動化します。
+- **AIベースの統合:** AIを使用して重複セクションを検出し、コンテンツを要約し、DMSワークフローでマージされたドキュメントを最適化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

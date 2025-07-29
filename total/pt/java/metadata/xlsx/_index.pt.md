@@ -80,7 +80,23 @@ Para obter detalhes, consulte [Documentação do produto](https://docs.aspose.co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Extraindo metadados de arquivos XLSX usando APIs em aplicativos Java aprimora a gestão de dados multiusuário, o rastreamento de projetos e a prontidão para análises. Processos automatizados de metadados tornam as planilhas mais fáceis de governar e reutilizar.
+
+**Principais Casos de Uso:**
+- Gerenciar modelos de dados colaborativos com propriedade e versionamento claros.
+- Rotular pastas de trabalho específicas do projeto para um melhor rastreamento.
+- Enriquecer painéis de BI com metadados estruturados de planilhas.
+
+**Cenários de Automação:**
+- Automatizar a classificação de arquivos usando propriedades de metadados personalizadas.
+- Realizar atualizações em lote para garantir consistência de metadados.
+- Alavancar a IA para marcar arquivos com atributos de análise e conformidade.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

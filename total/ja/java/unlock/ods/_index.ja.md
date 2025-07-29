@@ -72,7 +72,27 @@ ODS 保護管理アプリまたはユーティリティを開発する必要が�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 🔓 Java APIを使用してODSファイルをアンロックする：パワーオープンデータコラボレーション</h2>
+
+ODSファイルをJava APIを使用してプログラムでアンロックすることで、組織が保護されたスプレッドシートをオープンソース環境で効率的に管理できます。シートの保護を解除することで、スムーズなコラボレーション、データの可視化、エンタープライズレポーティングが実現されます。
+
+## ✅ 主なユースケース
+
+- **保護されたスプレッドシートのアンロック:** 共有されたオープンソースデータを安全に編集します。
+- **予算テンプレートのアンロック:** 更新された財務計画のためにテンプレートを修正します。
+- **データの可視化の準備:** BIやレポーティングツールがすべてのデータにアクセスできるようにします。
+
+## ⚙️ 自動化シナリオ
+
+- **オープンデータレポート:** 公開および分析のためのアンロックを自動化します。
+- **コンプライアンスチェック:** 監査中に保護されたシートを確認します。
+- **バッチ処理:** 複数の保護されたファイルをスケールで処理します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dela upp ODT-filer med Java API:er: Modulär öppen källkodsleverans av dokument</h2>
+
+Att dela upp ODT-filer med Java API:er gör det möjligt för team att bryta ner stora öppen källkods-dokument för enklare hantering, anpassning och delning. Detta stödjer dynamisk publicering och förbättrar mobiltillgång.
+
+## ✅ Viktiga användningsfall
+
+- **Modulära manualer**: Dela upp långa manualer i mindre, rollspecifika ODT-filer.
+- **Policyisolering**: Separera företagspolicys efter avdelning eller region.
+- **Målriktade utdata**: Generera målinriktade versioner från en huvud-ODT.
+
+## ⚙️ Automatiseringsscenario
+
+- **Dokumentanpassning**: Automatisera generering av användarspecifika ODT-filer.
+- **Integration av öppen källkods DMS**: Integrera uppdelade filer i dokumenthanteringssystem.
+- **Mobilvänlig publicering**: Leverera mindre, relevanta ODT-filer för mobilt åtkomst.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

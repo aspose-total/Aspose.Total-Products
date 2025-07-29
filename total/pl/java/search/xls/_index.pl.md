@@ -88,7 +88,26 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📑 Wyszukiwanie plików XLS za pomocą interfejsów API Javy: Odblokowanie danych z przeszłości</h2>
+
+## ✅ Kluczowe przypadki użycia
+
+- **Wyodrębnianie danych audytowych z przestarzałych arkuszy kalkulacyjnych**: Zlokalizuj historyczne transakcje i ścieżki audytu w starych plikach XLS.
+- **Wyszukiwanie segmentów klientów w arkuszach CRM**: Znajdź określone grupy klientów lub segmenty w zarchiwizowanych arkuszach CRM.
+- **Zlokalizowanie identyfikatorów umów w rekordach zgodności**: Odzyskaj numery umów i powiązane warunki do kontroli zgodności.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Wydobywanie danych archiwalnych**: Zautomatyzuj wydobywanie cennych informacji z przestarzałych arkuszy kalkulacyjnych.
+- **Przepływy pracy związane z cyfryzacją dokumentów**: Wspieraj cyfryzację, umożliwiając szybkie wyszukiwanie w starych plikach XLS.
+- **Kontrole zgodności regulacyjnych**: Upewnij się, że stare rekordy spełniają obecne wymagania zgodności.
+- **Interpretacja arkuszy kalkulacyjnych oparta na sztucznej inteligencji**: Zintegruj inteligentne parsowanie i indeksowanie w celu poprawy wglądu w dane.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

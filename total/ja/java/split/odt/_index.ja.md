@@ -75,7 +75,27 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java APIを使用してODTファイルを分割する：モジュラーなオープンソースドキュメント配信</h2>
+
+ODTファイルをJava APIで分割することで、チームは大きなオープンソースドキュメントをより簡単に管理、個人化、共有できます。これにより動的な公開がサポートされ、モバイルアクセスが向上します。
+
+## ✅ 主なユースケース
+
+- **モジュラーマニュアル**：長いマニュアルを小さな、役割固有のODTファイルに分割します。
+- **ポリシーの分離**：企業ポリシーを部門や地域ごとに分けます。
+- **ターゲット出力**：マスターODTからターゲットバージョンを生成します。
+
+## ⚙️ 自動化シナリオ
+
+- **ドキュメントの個人化**：ユーザー固有のODTファイルの自動生成。
+- **オープンソースDMSの統合**：分割されたファイルを文書管理システムに統合します。
+- **モバイルフレンドリーな公開**：移動中にアクセスするための小さな関連するODTファイルを提供します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

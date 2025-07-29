@@ -74,7 +74,23 @@ Untuk detail JogAmp JOGL, mesin font Harfbuzz, dan Java Advanced Imaging JAI, si
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengelola metadata dalam file template DOT menggunakan API Java memastikan konsistensi dan kontrol dalam perpustakaan template warisan. Organisasi dapat melacak penggunaan, menyelaraskan properti untuk kepatuhan, dan struktur konvensi penamaan template.
+
+**Kasus Penggunaan Utama:**
+- Melacak riwayat penggunaan untuk menjaga relevansi template dalam sistem warisan.
+- Menyelaraskan properti template dengan persyaratan regulasi.
+- Menegakkan penamaan terstruktur di seluruh perpustakaan file DOT yang luas.
+
+**Skenario Otomatisasi:**
+- Mengotomatisasi audit batch metadata template untuk pemeriksaan kepatuhan.
+- Memfilter dan mengorganisir template berdasarkan properti metadata.
+- Mengaplikasikan kecerdasan buatan untuk mengklasifikasikan dan memperbarui file DOT warisan secara cerdas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

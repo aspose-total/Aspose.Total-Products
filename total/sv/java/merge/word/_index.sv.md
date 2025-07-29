@@ -74,7 +74,19 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Nyckelanvändningsfall:
+- **Klientrapporter:** Kombinera flera rapporter till en enda, polerad Word-fil.
+- **Ärendemappar:** Sammanfoga juridiska eller försäkringsdokument för enhetliga register.
+- **Varumärkesinnehåll:** Automatisera skapandet av affärsförslag, policys eller kontrakt med konsekvent varumärkesprofil.
+
+## Automatiseringsscenario:
+- **Dynamisk generering:** Generera dokument dynamiskt genom att sammanfoga flera Word-filer.
+- **Metadatarensning:** Ta bort föråldrad metadata under sammanfogningsprocessen.
+- **AI-avsnittsstrukturering:** Använd AI för att omstrukturera och formatera avsnitt för tydlighet och överensstämmelse.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

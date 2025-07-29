@@ -74,7 +74,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **セールスデモ:** 製品デモ用のインタラクティブなスライドショーをマージします。
+- **自動ウォークスルー:** ガイド付きプレゼンテーションとマクロトリガーを組み合わせます。
+- **ループプレゼンテーション:** キオスク用に埋め込まれたマクロを持つプレゼンテーションを作成します。
+
+## 自動化シナリオ:
+- **マクロロジックのマージ:** ファイル間でマクロスクリプトを安全にマージします。
+- **実行検証:** マクロの安定性を確認するためのテストを自動化します。
+- **AI動作調整:** AIを使用して視覚とマクロ駆動のアクションを整列させます。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

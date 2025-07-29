@@ -75,7 +75,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/slides/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků v souborech ODP pomocí Java API posiluje bezpečnost prezentace, zajišťuje branding a komunikuje stav obsahu. Automatizace vodoznaků na snímcích ODP pomáhá kontrolovat distribuci a rizika plagiátorství.
+
+## ✅ Klíčové použití
+
+- **Vložení značky "Důvěrné"** — Označení firemních snímků jako důvěrných.
+- **Branding prezentací** — Přidání log do prezentací pro klienty.
+- **Prevence plagiátorství** — Odrazování od kopírování akademických snímků.
+
+## ⚙️ Scénáře automatizace
+
+- **Vzdělávací LMS** — Automatické vodoznakování prezentací kurzů.
+- **Systémy pro investiční pitch** — Vložení štítků do pitch decků.
+- **Kolaborativní editory** — Přidání návrhových značek do prostředí pro živé úpravy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

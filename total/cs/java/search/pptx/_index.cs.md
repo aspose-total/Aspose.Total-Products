@@ -88,7 +88,26 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Vyhledávání souborů PPTX pomocí Java API: Moderní inteligence snímků</h2>
+
+## ✅ Klíčové použití případy
+
+- **Extrahovat klíčové zprávy v moderních prezentacích**: Najděte centrální body okamžitě.
+- **Identifikovat právní jazyk v investičních zprávách**: Ověřte prohlášení a regulační text.
+- **Najít vizuální prvky souladu ve školicích materiálech**: Najděte požadované grafy a infografiky.
+
+## ⚙️ Scénáře automatizace
+
+- **Vyhledávání podnikových dat v reálném čase**: Integrujte soubory PPTX do rychlých vyhledávacích platforem.
+- **Analýza pitchů řízená AI**: Analyzujte kvalitu prezentace a zprávy.
+- **Inteligentní objevování znalostí**: Propojte obsah snímků s širšími obchodními poznatky.
+- **Monitorování digitálních aktiv**: Sledujte použití značkových vizuálů a šablon.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

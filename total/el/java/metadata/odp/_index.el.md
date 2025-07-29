@@ -74,7 +74,23 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Διαχείριση μεταδεδομένων σε αρχεία παρουσιάσεων ODP χρησιμοποιώντας APIs σε εφαρμογές Java βελτιώνει την οργάνωση και τη συνεργασία σε οικοσυστήματα ανοικτού κώδικα.
+
+**Βασικές Χρήσεις:**
+- Οργάνωση σελίδων σε πλατφόρμες συνεργασίας ανοικτού κώδικα.
+- Καταγραφή ιστορικού αναθεωρήσεων και κυριότητας σελίδων.
+- Κατηγοριοποίηση περιεχομένου παρουσιάσεων για τις βάσεις γνώσεων της εταιρείας.
+
+**Σενάρια Αυτοματισμού:**
+- Φιλτράρισμα σελίδων με βάση τα πεδία μεταδεδομένων όπως τίτλος και θέμα.
+- Εξαγωγή βασικών μεταδεδομένων σε διαδικασίες μαζικής επεξεργασίας.
+- Χρήση τεχνητής νοημοσύνης για ετικετοποίηση και ταξινόμηση σελίδων ευφυώς.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

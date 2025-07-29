@@ -74,7 +74,24 @@ Para obtener más información, consulte [Documentación del producto](https://d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Análisis de archivos ODP utilizando APIs de Java: Contenido de presentación y control de marca</h2>
+
+Analizar archivos ODP (OpenDocument Presentation) utilizando APIs en aplicaciones Java permite a las organizaciones extraer contenido a nivel de diapositiva, reestructurar presentaciones y reutilizar plantillas con marca de manera efectiva. El análisis automatizado de ODP admite la generación de diapositivas con IA, la indexación de activos visuales y auditorías de marca en las presentaciones.
+
+## ✅ Casos de uso clave
+
+- **Extracción a nivel de diapositiva:** Leer títulos, viñetas y medios incrustados.
+- **Reestructuración de presentaciones:** Automatizar cambios en el orden y flujo de las diapositivas.
+- **Reutilización de plantillas:** Aplicar diseños de diapositivas consistentes en todos los equipos.
+- **Generación de diapositivas con IA:** Generar diapositivas dinámicamente en función de los datos analizados.
+- **Indexación de activos visuales:** Catalogar imágenes y gráficos para su reutilización.
+- **Auditorías de marca:** Validar las presentaciones respecto a las directrices de marca corporativa.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Správa metadat v dokumentech Microsoft Word pomocí API v aplikacích Java zajišťuje standardizaci obsahu, dodržování předpisů a efektivní správu životního cyklu dokumentů.
+
+**Klíčové použití:**
+- Prosazování standardů pro celou společnost s konzistentními strukturami metadat.
+- Zlepšení indexace vyhledávání a kategorizace v platformách DMS.
+- Podpora auditů souladu s ověřitelným autorstvím a verzováním.
+
+**Automatické scénáře:**
+- Automatické mapování polí metadat napříč tisíci soubory Word.
+- Označování dokumentů kategoriemi, odděleními nebo projekty.
+- Použití AI k segmentaci rozsáhlých archivů Word podle autorství, tématu nebo vlastnosti.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

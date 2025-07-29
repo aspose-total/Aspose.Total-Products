@@ -75,7 +75,25 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODT（OpenDocument Text）ファイルの編集をJava APIを介して行うことで、オープンフォーマットの文書内の機密テキストを保護できます。自動編集により、個人識別情報を削除し、フィードバックを非表示にし、政府の書類内の機密情報をマスクできます。
+
+## ✅ 主な使用事例
+
+- **学術論文:** 公開された研究から学生や著者の個人情報を削除します。
+- **機密レビュー:** 共有された下書き内の内部フィードバックを非表示にします。
+- **政府書類:** コンプライアンスのために機密市民データをマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **データプライバシー法:** GDPRなどの規則のために編集を自動化します。
+- **告発者保護:** 機密情報の開示を安全に管理します。
+- **公共セクターの協力:** セキュリティを確保して浄化されたODTファイルを配布します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

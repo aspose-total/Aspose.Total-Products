@@ -80,7 +80,23 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengekstrak metadata dari file XLSX menggunakan API dalam aplikasi Java meningkatkan manajemen data multi-pengguna, pelacakan proyek, dan kesiapan analitik. Proses metadata otomatis membuat spreadsheet lebih mudah untuk dikelola dan digunakan kembali.
+
+**Kasus Penggunaan Utama:**
+- Mengelola model data kolaboratif dengan kepemilikan dan versi yang jelas.
+- Memberi label workbook yang spesifik untuk pelacakan yang lebih baik.
+- Memperkaya dashboard BI dengan metadata spreadsheet yang terstruktur.
+
+**Skenario Otomatisasi:**
+- Mengotomatisasi penyortiran file menggunakan properti metadata kustom.
+- Melakukan pembaruan batch untuk memastikan konsistensi metadata.
+- Memanfaatkan kecerdasan buatan untuk memberi tag file dengan atribut analitik dan kepatuhan.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

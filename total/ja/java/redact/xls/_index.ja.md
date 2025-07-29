@@ -74,7 +74,25 @@ XLS 編集アプリまたはユーティリティを開発する必要があり�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java APIを介してXLSファイルを編集することで、歴史的な機密情報を含む遺産スプレッドシートデータを保護します。自動編集により、古い給与明細書を非表示にし、顧客記録を塗りつぶし、古い予算データをマスクします。
+
+## ✅ 主な使用ケース
+
+- **給与明細書:** アーカイブされたファイルから支払詳細を削除します。
+- **顧客記録:** 保存コンプライアンスのために遺産顧客情報を非表示にします。
+- **予算データ:** 古い予測や機密番号をマスクします。
+
+## ⚙️ 自動化シナリオ
+
+- **保存ポリシー:** アーカイブまたは破棄用にファイルを清浄化します。
+- **安全なデジタル化:** 現代のシステムに移動する前にファイルを編集します。
+- **歴史的保護:** 遺産金融データセットを安全かつコンプライアンスに準拠させます。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,23 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+매크로 기능이 활성화된 PPSM 파일을 Java 애플리케이션에서 API를 사용하여 병합하면 포함된 작업이 유지된 채로 고급 대화형 슬라이드쇼 경험을 만들 수 있습니다.
+
+**주요 사용 사례:**
+- **판매 데모:** 제품 시연을 위한 대화형 슬라이드쇼 병합.
+- **자동 안내:** 가이드된 프레젠테이션과 매크로 트리거를 결합.
+- **반복 프레젠테이션:** 키오스크용으로 반복되는 포함된 매크로가 있는 프레젠테이션 구축.
+
+**자동화 시나리오:**
+- **매크로 로직 병합:** 파일 간에 안전하게 매크로 스크립트를 병합.
+- **실행 유효성 검사:** 매크로 안정성을 보장하기 위한 테스트 자동화.
+- **AI 동작 조정:** 시각적 및 매크로 기반 동작을 조정하기 위해 AI 사용.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

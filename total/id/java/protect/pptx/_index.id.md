@@ -71,7 +71,25 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Perlindungan Berkas PPTX dengan API Java</h2>
+Melindungi berkas PPTX dengan API Java adalah kunci untuk mengamankan berkas presentasi yang dapat diedit secara modern. Kontrol otomatis mengunci templat, melindungi slide investor, dan memastikan berbagi slide rahasia yang aman.
+
+**Kasus Penggunaan Utama**
+- Melindungi templat yang dapat diedit.
+- Membatasi akses ke slide investor.
+- Berbagi slide terdistribusi hanya untuk dibaca.
+
+**Skenario Otomatisasi**
+- Keamanan pelatihan perusahaan.
+- Generasi konten berbasis AI.
+- Kepatuhan dengan hukum privasi.
+- Presentasi pemangku kepentingan yang aman.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Zarządzanie metadanymi w plikach XLSM z włączonymi makrami za pomocą interfejsów API w aplikacjach Java jest kluczowe dla utrzymania bezpieczeństwa makr, śledzenia autorstwa i zgodności w arkuszach kalkulacyjnych automatyzacji.
+
+**Główne przypadki użycia:**
+- Monitorowanie użycia makr w celu wykrywania nieautoryzowanych skryptów.
+- Zapewnienie zgodności z bezpieczeństwem makr w poufnych arkuszach kalkulacyjnych.
+- Śledzenie autorstwa arkuszy kalkulacyjnych dla śladów audytowych w narzędziach automatyzacji.
+
+**Scenariusze automatyzacji:**
+- Programowe walidowanie metadanych świadomych makr.
+- Generowanie zautomatyzowanych śladów audytowych dla zmian makr.
+- Wykorzystanie sztucznej inteligencji do klasyfikacji plików XLSM na podstawie ryzyka i wzorców użycia.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

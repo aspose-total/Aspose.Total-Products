@@ -77,7 +77,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualizzazione dei file EXCEL utilizzando le API Java: Mostra i fogli di calcolo ovunque</h2>
+
+Le API Java per la visualizzazione dei file EXCEL consentono alle aziende di condividere fogli di calcolo in modo sicuro e conveniente senza Microsoft Excel, migliorando la trasparenza nei cruscotti e nei report.
+
+## ✅ Principali casi d'uso
+
+- **Integrazione nel cruscotto:** Visualizza i fogli di calcolo direttamente negli strumenti BI.
+- **Rapporti finanziari:** Anteprima dei budget e delle dichiarazioni nei browser.
+- **Tabelle dati:** Presenta i dati operativi ai team online.
+
+## ⚙️ Scenari di automazione
+
+- **Cruscotti finanziari:** Automatizza il rendering di EXCEL per gli stakeholder.
+- **Monitoraggio inventario:** Condividi anteprime di fogli di calcolo live nelle app di logistica.
+- **Anteprima web:** Mostra i file EXCEL in modo sicuro nei portali.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

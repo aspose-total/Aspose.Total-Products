@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主な使用ケース:
+- **部門テンプレート:** チームのテンプレートをマスターバージョンに結合します。
+- **標準化されたレポート:** 一貫したスタイルでレポートの生成を自動化します。
+- **ブランドコンプライアンス:** すべてのExcelテンプレートで企業のブランドを強制します。
+
+## 自動化シナリオ:
+- **XLTからXLSへの変換:** テンプレートをマージして、埋め込まれたワークブックを出力します。
+- **事前入力レポート:** マージされたテンプレートに動的データを入力します。
+- **AI利用追跡:** AIを活用してテンプレートの使用状況を監視し、改善を提案します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース:
+- **法的技術:** 視覚証拠を単一のケースファイルにまとめる。
+- **ソーシャルプラットフォーム:** ユーザーが生成した画像をソーシャルフィードに組み立てる。
+- **グラフィック豊富なレポート:** チャート、インフォグラフィック、写真を統合したレポートをマージする。
+
+## 自動化シナリオ:
+- **ダイナミックグリッド生成:** プレゼンテーション用の画像グリッドを自動生成する。
+- **フォーマットに依存しないマージ:** 異なる画像形式をシームレスにマージする。
+- **AIレイアウトキュレーション:** AIを使用して最終ビジュアルを設計、配置、最適化する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

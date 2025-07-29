@@ -74,7 +74,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redakce souborů EXCEL pomocí API v aplikacích Java je zásadní pro zabezpečení citlivých dat tabulek napříč odděleními. Programová redakce odstraňuje detaily platů, skrývá rozpočtové předpovědi a maskuje důvěrnou analytiku v sdílených přehledech.
+
+## ✅ Klíčové použití
+
+- **Platové údaje:** Skryjte informace o platě nebo bonusu v tabulkách HR.
+- **Rozpočtové předpovědi:** Odstraňte budoucí čísla rozpočtu ze sdílených zpráv.
+- **Přehledy analytiky:** Maskujte klientem specifická data v souborech obchodní inteligence.
+
+## ⚙️ Scénáře automatizace
+
+- **Soulad s GDPR/CCPA:** Automatizujte redakci pro dodržování zákonů o ochraně osobních údajů.
+- **Bezpečné hlášení:** Chrání citlivá čísla během interního a externího sdílení.
+- **Příprava dat pro AI:** Anonymizujte tabulky pro bezpečné trénování modelu nebo analýzu.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

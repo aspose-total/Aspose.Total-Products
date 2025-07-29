@@ -74,7 +74,21 @@ För detaljer, se [Produktdokumentation](https://docs.aspose.com/pdf/java/system
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Hantera metadata i PDF-filer med API:er i Java-applikationer ökar upptäckbarhet, klassificering och efterlevnad i digitala arkiv.
+
+**Nyckelanvändningsfall:**
+- Förbättra upptäckbarheten i offentliga eller privata dokumentbibliotek.
+- Verkställ klassificeringsregler i juridiska eller reglerade arkiv.
+- Bädda in efterlevnadsinformation direkt i PDF:er.
+
+**Automatiseringsscenario:**
+- Automatisera titel, ämne och nyckelordsmärkning.
+- Redigera metadata i batch för att bibehålla enhetlighet.
+- Använd AI för att märka PDF:er för reglerings- och revisionsflöden.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

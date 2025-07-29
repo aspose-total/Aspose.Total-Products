@@ -88,7 +88,26 @@ ODP 검색 가능 소프트웨어 또는 유틸리티를 개발해야 합니까?
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📽️ 자바 API를 사용하여 ODP 파일 검색: 프레젠테이션 통찰력 해제하기</h2>
+
+## ✅ 주요 사용 사례
+
+- **마케팅 덱에서 브랜드 키워드 찾기**: 제품, 슬로건 및 브랜드 용어가 슬라이드 전반에 언급되었는지 찾기.
+- **여러 슬라이드에서 법적 면책사항 검색**: 법적 명세가 올바르게 배치되고 일관성 있는지 확인하기.
+- **보관된 프레젠테이션에서 숨겨진 콘텐츠 찾기**: 오래된 ODP 파일에서 임베드되거나 간과된 세부 정보 발견하기.
+
+## ⚙️ 자동화 시나리오
+
+- **디지털 자산 관리**: 프레젠테이션 콘텐츠의 조직화 및 재사용 향상.
+- **기업 콘텐츠 발견**: 프레젠테이션 라이브러리 전체에 대한 대규모 검색 가능하게 하기.
+- **AI 기반 피치 분석**: 메시징 일관성과 브랜딩을 위해 피치 덱 분석하기.
+- **컴플라이언스 검토**: 면책사항 및 법적 준수를 위한 슬라이드 확인 자동화하기.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

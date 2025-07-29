@@ -74,7 +74,22 @@ För JogAmp JOGL, Harfbuzz teckensnittsmotor och Java Advanced Imaging JAI detal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+
+```
+## Viktiga användningsfall:
+- **Anpassade förslag:** Sammanfoga mallavsnitt för att skapa kundspecifika förslag.
+- **Standardrapporter:** Sammanställ återanvändbara avsnitt till företagets standardrapporter.
+- **Varumärkta layouter:** Tillämpa varumärkesriktlinjer över team genom att sammanfoga standard DOTX-mallar.
+
+## Automatiseringsscenario:
+- **Fältdriven population:** Dynamiskt fyll sammanfogade mallar med variabel data.
+- **Malltransformation:** Konvertera sammanfogade mallar till slutgiltiga dokument automatiskt.
+- **AI-förstärkt sammanfogning:** Använd AI för att sammanfoga avsnitt intelligent, anpassa layouter för produktion av dokument i stor skala.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

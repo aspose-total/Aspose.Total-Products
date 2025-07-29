@@ -75,7 +75,19 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/cells/ja
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Klíčové použití případy:
+- **Open-Source tabulkové procesory:** Slučte soubory ODS z různých oddělení nebo týmů.
+- **Rozpočtování:** Slučte rozpočty oddělení do jednoho hlavního souboru ODS.
+- **Integrované informační tabule:** Konsolidujte analytická data do sjednocených vícepanelových informačních tabulí.
+
+## Automatizační scénáře:
+- **Slučování ODS do Excelu:** Slučte soubory ODS a převeďte je do formátu Excel pro širší kompatibilitu.
+- **Vícepanelové zprávy:** Automatizujte vytváření zpráv s více listy.
+- **Konstantnost vzorců AI:** Použijte umělou inteligenci k ověření a standardizaci vzorců během slučování.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

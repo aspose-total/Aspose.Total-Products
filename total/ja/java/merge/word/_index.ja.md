@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例:
+- **クライアントレポート:** 複数のレポートを1つの洗練されたWordファイルに結合します。
+- **ケースファイル:** 法的または保険関連文書を統一された記録のためにマージします。
+- **ブランドコンテンツ:** 一貫したブランディングでビジネス提案書、方針、契約の作成を自動化します。
+
+## 自動化シナリオ:
+- **動的生成:** 複数のWordファイルをマージして動的に文書を生成します。
+- **メタデータのクリーンアップ:** マージプロセス中に古いメタデータを削除します。
+- **AIセクションの再構築:** 明瞭さとコンプライアンスのためにセクションを再配置およびフォーマットするためにAIを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

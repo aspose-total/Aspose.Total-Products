@@ -71,7 +71,25 @@ XLS 파일을 쉽게 분할하기 위해 Java 스크립트 또는 유틸리티 �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ 자바 API를 사용하여 XLS 파일 분할: 레거시 스프레드시트 처리 현대화</h2>
+
+## ✅ 주요 사용 사례
+
+- **연간 레코드**: 대형 XLS 파일에서 연도별 데이터 추출.
+- **비즈니스 로그**: 비즈니스 활동 로그를 모듈식 파일로 분리.
+- **구형 데이터**: 레거시 스프레드시트를 현대 시스템과 통합하기 위해 준비.
+
+## ⚙️ 자동화 시나리오
+
+- **레거시 이전**: 새 시스템을 위해 오래된 XLS 파일을 분할하고 현대화.
+- **Excel 파일 처리**: 보고를 위한 데이터 추출 자동화.
+- **모바일 도구 통합**: 가벼운 모바일 도구를 위해 작은 XLS 파일 제공.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

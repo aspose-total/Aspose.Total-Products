@@ -80,7 +80,23 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Estrarre metadati dai file XLSX utilizzando le API nelle applicazioni Java migliora la gestione dei dati multi-utente, il tracciamento dei progetti e la prontezza all'analisi. I processi automatizzati dei metadati rendono i fogli di calcolo più facili da governare e riutilizzare.
+
+**Principali casi d'uso:**
+- Gestire modelli di dati collaborativi con chiarezza di proprietà e versionamento.
+- Etichettare i fogli di lavoro specifici del progetto per un miglior tracciamento.
+- Arricchire i dashboard BI con metadati strutturati dei fogli di calcolo.
+
+**Scenari di automazione:**
+- Automatizzare la classificazione dei file utilizzando proprietà personalizzate dei metadati.
+- Eseguire aggiornamenti batch per garantire coerenza dei metadati.
+- Sfruttare l'IA per etichettare i file con attributi di analisi e conformità.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

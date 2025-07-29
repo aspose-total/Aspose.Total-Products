@@ -74,7 +74,23 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików PDF za pomocą interfejsów API w aplikacjach Java jest niezbędne dla firm zarządzających cyfrowymi dokumentami na dużą skalę. Zautomatyzowane łączenie plików PDF poprawia produktywność, bezpieczeństwo i zgodność w różnych branżach.
+
+**Główne przypadki użycia:**
+- **Podpisane umowy:** Kompiluj wiele podpisanych umów w jeden zorganizowany plik PDF.
+- **Skanowane strony:** Łącz zeskanowane dokumenty papierowe w przeszukiwalne pliki cyfrowe.
+- **Raporty finansowe:** Łącz arkusze kalkulacyjne, wykresy i oświadczenia w kompleksowe raporty PDF dla interesariuszy.
+
+**Scenariusze automatyzacji:**
+- **Zbiorcze składanie PDF:** Łącz duże ilości plików PDF programistycznie.
+- **Wybór zakresu stron:** Łącz określone strony z różnych plików PDF dla niestandardowych wyników.
+- **Sortowanie treści AI:** Wykorzystaj sztuczną inteligencję do sortowania, tagowania i strukturyzacji połączonych plików PDF dla bezpiecznych i efektywnych procesów pracy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

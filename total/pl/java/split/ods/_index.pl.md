@@ -71,7 +71,27 @@ Szczegóły można znaleźć w [Dokumentacja produktu](https://docs.aspose.com/c
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dzielenie plików ODS za pomocą interfejsów API Javy: Skuteczne zarządzanie danymi typu open-source</h2>
+
+Dzielenie plików ODS za pomocą interfejsów API Javy upraszcza obsługę arkuszy kalkulacyjnych typu open-source, umożliwiając modułowy dostęp do danych i raportowanie. Wsparcie dla przepływów pracy BI, skalowalne udostępnianie i poprawiona wydajność.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Finanse Regionalne**: Podziel duże arkusze finansowe na pliki ODS specyficzne dla regionów.
+- **Poszczególne Karty**: Wyodrębnij określone arkusze do samodzielnego udostępniania lub analizy.
+- **Raportowanie Statystyczne**: Wyodrębnij dane statystyczne do celowanych raportów.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Przepływy Pracy BI typu Open-Source**: Zautomatyzuj ekstrakcję danych dla przepływów pracy BI i analizy.
+- **Modularne Udostępnianie Danych**: Udostępniaj tylko istotne części arkuszy kalkulacyjnych interesariuszom.
+- **Optymalizacja Wydajności**: Serwuj mniejsze pliki ODS dla szybszego czasu ładowania w aplikacjach i narzędziach.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

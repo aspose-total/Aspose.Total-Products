@@ -77,7 +77,27 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/cells/j
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Przeglądanie plików XLTM za pomocą interfejsów API Javy: Bezpieczne podglądy szablonów z makrami</h2>
+
+Interfejsy API Javy ułatwiają przeglądanie plików XLTM w prosty i bezpieczny sposób, umożliwiając organizacjom podgląd szablonów Excel z makrami bez uruchamiania skryptów.
+
+## ✅ Główne przypadki użycia
+
+- **Szablony prognozowania:** Przeglądaj modele finansowe lub planistyczne.
+- **Arkusze planowania:** Bezpieczne sprawdzanie szablonów z makrami.
+- **Modelowanie danych:** Przeglądaj struktury XLTM bez ryzyka.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **Portale analityczne:** Renderuj pliki XLTM dla zespołów.
+- **Przeglądarki szablonów:** Automatyzuj podglądy w narzędziach planistycznych.
+- **Aplikacje raportowe:** Wyświetlaj bezpiecznie szablony z makrami.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,25 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redactie van WORD-bestanden met behulp van Java API's helpt bij het beschermen van kritieke informatie in algemene tekstbestanden. Programmatische redactie verwijdert gevoelige vergadernotities, maskeert financiële gegevens en redacteert geclassificeerde trefwoorden.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **HR-rapporten:** Persoonlijke notities in werknemersdossiers elimineren.
+- **Notulen van de Raad:** Vertrouwelijke financiële details maskeren.
+- **Inlichtingendocumenten:** Gevoelige trefwoorden redigeren voor naleving.
+
+## ⚙️ Automatiseringsscenario's
+
+- **Risicobeperking:** Automatiseer redactie om handmatige fouten te verminderen.
+- **Veilige Samenwerking:** Deel alleen gesanctioneerde tekstbestanden.
+- **Branchenaleving:** Voldoen aan sectorspecifieke privacyvereisten.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

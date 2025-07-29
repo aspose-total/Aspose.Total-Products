@@ -77,7 +77,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Visualizzazione dei file XLSM utilizzando le API Java: Visualizzazione sicura dei fogli di calcolo abilitati ai macro</h2>
+
+Le API Java consentono la visualizzazione sicura dei file XLSM, permettendo agli utenti di ispezionare i fogli di calcolo abilitati ai macro senza eseguire il codice incorporato.
+
+## ✅ Principali casi d'uso
+
+- **Strumenti di Rischio e Audit:** Revisione sicura dei fogli di calcolo abilitati ai macro.
+- **Dashboard IT:** Ispezionare file XLSM dinamici.
+- **Applicazioni Finanziarie:** Visualizzare fogli di calcolo sensibili senza esecuzione dei macro.
+
+## ⚙️ Scenari di Automazione
+
+- **Gestione del Rischio:** Automatizzare le revisioni dei fogli di calcolo con macro.
+- **Monitoraggio dei Processi:** Visualizzare XLSM nelle applicazioni aziendali.
+- **Piattaforme Finanziarie:** Anteprima sicura dei fogli di calcolo XLSM.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

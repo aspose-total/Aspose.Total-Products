@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **リッチテキストレコード:** 複数のRTFレコードを1つの整理されたファイルに結合してアーカイブやレポート作成に活用します。
+- **医療記録:** フォーマットされた医療記録や患者の経歴を統合した健康記録としてマージします。
+- **法的テキスト:** 契約書、ケースノート、法的要約を包括的なRTFドキュメントにまとめます。
+
+## 自動化シナリオ:
+- **RTFからDOCXへの変換:** 結合されたRTFファイルをDOCXに変換して互換性を向上させます。
+- **フォーマットセーフな統合:** マージ中にリッチテキストのスタイル、フォント、テーブルを保持します。
+- **AIによる構造化フォーマット:** AIを使用して、マージされたドキュメント全体で見出し、リスト、テキストレイアウトを標準化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

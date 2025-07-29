@@ -74,7 +74,23 @@ Informacje na temat JogAmp JOGL, silnika czcionek Harfbuzz i szczegółów Java 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików ODT (OpenDocument Text) za pomocą interfejsów API w aplikacjach Java jest kluczowe dla organizacji polegających na przepływach pracy dokumentów typu open-source. Zautomatyzowane łączenie plików ODT oszczędza czas, poprawia spójność i usprawnia zarządzanie dokumentami w zespołach.
+
+**Główne przypadki użycia:**
+- **Raporty akademickie:** Kompiluj wiele prac badawczych lub zgłoszeń studentów w pojedyncze dokumenty ODT.
+- **Dokumenty prawne:** Scalaj akta spraw, umowy lub zgłoszenia sądowe w kompleksowe, kontrolowane wersjami pliki ODT.
+- **Zawartość współpracująca:** Skonsoliduj wkłady wielu autorów w jeden dopracowany plik do publikacji lub archiwizacji.
+
+**Scenariusze automatyzacji:**
+- **Łączenie wsadowe:** Zautomatyzuj łączenie setek plików ODT na raz.
+- **Unifikacja kontrolowana wersjami:** Utrzymuj historię wersji i śledź zmiany podczas łączenia.
+- **Normalizacja formatowania za pomocą sztucznej inteligencji:** Wykorzystaj sztuczną inteligencję do wyrównania stylów, nagłówków i formatowania dla profesjonalnych, standaryzowanych wyników.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

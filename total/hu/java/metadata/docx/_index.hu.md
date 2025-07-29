@@ -74,7 +74,23 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Dokumentummetaadatok kinyerése és kezelése DOCX fájlokból API-k segítségével Java alkalmazásokban javítja a dokumentum integritását, felfedezhetőségét és megfelelőségét. A programozott metaadat-kezelés támogatja a dokumentumok osztályozását, szerzőkövetést és intelligens indexelést.
+
+**Kulcsfontosságú felhasználási esetek:**
+- Dokumentumok osztályozása vállalati tartalomkezelő rendszerekben szerző, típus vagy osztály szerint.
+- Szerzőség és revíziós előzmények nyomon követése jogi vagy tudományos archívumokban.
+- Intelligens keresési indexelés engedélyezése egyedi metaadatmezők használatával.
+
+**Automatizálási forgatókönyvek:**
+- Megfelelőségi címkézés automatizálása nagy mennyiségű DOCX fájl esetén.
+- Tömeges metaadattisztítás végrehajtása elavult vagy felesleges tulajdonságok eltávolítására.
+- AI-alapú kategorizálás használata a dokumentumok gazdagításához metaadatokkal a tartalom és egyedi tulajdonságok alapján.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

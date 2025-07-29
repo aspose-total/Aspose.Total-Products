@@ -76,7 +76,25 @@ Podrobnosti najdete v [Produktová dokumentace](https://docs.aspose.com/pdf/java
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Použití vodoznaků v souborech PDF pomocí Java API je efektivní způsob, jak chránit citlivý obsah, prosazovat firemní značku a komunikovat stav dokumentu. Automatizace vkládání vodoznaků posiluje bezpečnost a zajišťuje konzistentní označování dokumentů.
+
+## ✅ Klíčové použití
+
+- **Vložení značek „Nekopírovat“** — Zabraňte neoprávněnému duplikování s viditelnými varováními.
+- **Značka na fakturách** — Vložte firemní loga do faktur a oficiálních PDF.
+- **Označení konceptů** — Označte výzkumné práce nebo smlouvy jako „Koncept“ pro kontrolu verzí.
+
+## ⚙️ Scénáře automatizace
+
+- **Platformy pro elektronické podpisy** — Automatické vodoznakování PDF před podpisovými postupy.
+- **Elektronické podání vlády** — Označení oficiálních PDF pro bezpečné odeslání.
+- **Archivy dokumentů** — Aplikujte konzistentní vodoznaky v archivačním úložišti.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

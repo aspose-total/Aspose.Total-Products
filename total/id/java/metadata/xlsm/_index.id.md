@@ -80,7 +80,21 @@ Untuk detailnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose.com/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kasus Penggunaan Kunci:
+
+- Memantau penggunaan makro untuk mendeteksi skrip yang tidak sah.
+- Memastikan kepatuhan keamanan makro dalam spreadsheet yang sensitif.
+- Melacak penulis spreadsheet untuk jejak audit dalam alat otomatis.
+
+## Skenario Otomatisasi:
+
+- Memvalidasi metadata yang sadar makro secara programatik.
+- Menghasilkan jejak audit otomatis untuk perubahan makro.
+- Menggunakan kecerdasan buatan untuk mengklasifikasikan file XLSM berdasarkan risiko dan pola penggunaan.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

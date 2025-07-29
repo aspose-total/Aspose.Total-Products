@@ -74,7 +74,19 @@ A JogAmp JOGL, a Harfbuzz font engine és a Java Advanced Imaging JAI részletei
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kulcsfontosságú felhasználási esetek:
+- Azonosítsa és ellenőrizze a makró forrásokat az engedély nélküli kódvégrehajtás megakadályozása érdekében.
+- Kövesse a verzióelőzményeket az ellenőrzési nyomkövetés fenntartása érdekében.
+- Biztosítsa, hogy a makrókkal rendelkező sablonok megfeleljenek a belső munkafolyamatok szabványainak.
+
+## Automatizálási forgatókönyvek:
+- Automatizálja a metaadat-ellenőrzést a DOCM fájlokban a következetesség biztosítása érdekében.
+- Figyelje a makró használati mintákat, és automatikusan jelölje meg a rendellenességeket.
+- Használjon AI-asszisztált kategorizálást a dinamikus DOCM fájlok szervezéséhez makró típusok, szerzőség és verzió szerint.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,23 @@ Voor JogAmp JOGL, Harfbuzz font engine en Java Advanced Imaging JAI details verw
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het samenvoegen van PNG-bestanden met Java API's is ideaal voor ontwerp-, ontwikkelings- en documentatietaken waar transparante afbeeldingen nodig zijn.
+
+**Belangrijkste Gebruiksscenario's:**
+- **Overlay Ontwerpelementen:** Combineer transparante PNG's in creatieve ontwerptools.
+- **UI Component Assemblage:** Voeg pictogrammen, knoppen en andere UI-elementen samen.
+- **Product Screenshots:** Compileer meerdere schermafbeeldingen voor handleidingen en online hulp.
+
+**Automatiseringsscenario's:**
+- **Alpha-Channel Behoud:** Behoud transparantie tijdens het samenvoegen.
+- **Samengestelde Afbeeldingsgeneratie:** Automatiseer gelaagde PNG-composities.
+- **AI Lay-outweergave:** Gebruik AI om elementen automatisch te rangschikken in pixel-perfecte lay-outs.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

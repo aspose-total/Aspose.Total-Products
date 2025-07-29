@@ -76,7 +76,24 @@ Podrobnosti o JogAmp JOGL, fontu Harfbuzz a Java Advanced Imaging JAI najdete v 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Zpracování souborů RTF pomocí Java API: Transformace starých formátů a dodržování standardů</h2>
+
+Zpracování souborů RTF pomocí Java API umožňuje extrakci formátovaného obsahu, vložených objektů a transformaci starých dokumentů. Automatizace zpracování RTF pomáhá s dodržováním archivace, obnovou metadat a pracovními postupy pro trénování umělé inteligence.
+
+## ✅ Klíčové použití
+
+- **Extrakce formátovaného obsahu:** Získání stylizovaného textu a sekcí.
+- **Identifikace vložených objektů:** Detekce obrázků, tabulek a odkazů.
+- **Transformace dokumentů:** Převod RTF do moderních formátů.
+- **Archivace pro dodržování standardů:** Uchování obsahu pro audit.
+- **Obnova metadat:** Obnovení informací o dokumentu.
+- **Trénování modelu AI:** Použití zpracovaného textu pro modely zpracování přirozeného jazyka.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

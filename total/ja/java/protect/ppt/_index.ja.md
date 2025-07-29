@@ -71,7 +71,20 @@ PPT パスワード保護アプリまたはユーティリティを開発する�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース
+- アーカイブされたプレゼンテーションでの編集の防止。
+- 内部の戦略スライドのロック。
+- 読み取り専用のトレーニングデッキの強制。
+
+## 自動化シナリオ
+- 文書コンプライアンス。
+- トレーニング資料のプライバシー。
+- 企業知識ベースの整合性。
+- 安全なAIデータセットのキュレーション。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

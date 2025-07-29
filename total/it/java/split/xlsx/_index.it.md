@@ -71,7 +71,27 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Dividere i file XLSX utilizzando le API Java: Gestione Agile dei Dati dei Fogli Elettronici</h2>
+
+Dividere i file XLSX utilizzando le API Java ottimizza la gestione dei fogli elettronici moderni suddividendoli in parti specifiche per una migliore generazione di report, personalizzazione e accesso da dispositivi mobili.
+
+## ✅ Principali Casi d'Uso
+
+- **Fogli delle Prestazioni**: Isolare le metriche delle prestazioni per team o clienti.
+- **Dashboard Finanziarie**: Dividere le dashboard complesse per dipartimenti specifici.
+- **Fogli Elettronici Specifici per Team**: Generare file XLSX personalizzati per unità o regioni.
+
+## ⚙️ Scenari di Automazione
+
+- **Reportistica Analitica**: Automatizzare l'esportazione divisa per l'intelligence aziendale.
+- **Esportazioni Dati Personalizzate**: Consegnare fette di fogli elettronici mirate agli interessati.
+- **Ottimizzazione delle Dashboard Mobili**: Servire file XLSX leggeri per le dashboard mobili.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

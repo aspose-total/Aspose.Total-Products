@@ -74,7 +74,23 @@ Szczegóły znajdziesz w [Dokumentacja produktu](https://docs.aspose.com/slides/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Łączenie plików PPTX za pomocą interfejsów API w aplikacjach Java usprawnia składanie prezentacji dla nowoczesnych zespołów. Zautomatyzowane łączenie PPTX zapewnia spójność marki i szybsze przygotowanie schludnych slajdów biznesowych.
+
+**Kluczowe przypadki użycia:**
+- **Raporty wykonawcze:** Łączenie zestawów slajdów w celu stworzenia kompleksowych prezentacji dla sali konferencyjnej.
+- **Wkłady zespołu:** Łączenie slajdów od wielu autorów w pojedynczy główny plik PPTX.
+- **Sesje szkoleniowe:** Składanie różnorodnych modułów szkoleniowych w uporządkowane prezentacje.
+
+**Scenariusze automatyzacji:**
+- **Kolejność slajdów:** Programowe sortowanie i łączenie slajdów.
+- **Harmonizacja szablonów:** Zapewnienie spójnego stosowania motywów korporacyjnych.
+- **Optymalizacja układu AI:** Wykorzystanie sztucznej inteligencji do zbalansowania wizualizacji i tekstu dla profesjonalnej prezentacji.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

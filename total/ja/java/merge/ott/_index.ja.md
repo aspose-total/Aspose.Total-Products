@@ -74,7 +74,19 @@ JogAmp JOGL、Harfbuzz フォント エンジン、および Java Advanced Imagi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース:
+- **ビジネスレター:** HR、営業、または顧客とのコミュニケーションのためにOTTファイルをマージしてテンプレート化されたレターを生成します。
+- **再利用可能なコンテンツブロック:** 契約書、提案書、方針書のためのマスターテンプレートに標準セクションを組み合わせます。
+- **ワークフローの標準化:** テンプレートから作成されたすべてのドキュメントで一貫したブランディングとフォーマットを確保します。
+
+## 自動化シナリオ:
+- **OTTからODTへの変換:** テンプレートをマージして編集可能なODTドキュメントに変換します。
+- **テンプレートの統合:** 複数のOTTファイルを統一されたマスターテンプレートに自動的にマージします。
+- **AIフィールドのポピュレーション:** AIを使用して動的データでテンプレートを事前入力し、個別化されたドキュメント生成を行います。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

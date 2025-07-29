@@ -74,7 +74,25 @@ Per i dettagli fare riferimento a [Documentazione del prodotto](https://docs.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redazione dei file XLSX con API Java protegge i contenuti moderni dei fogli di calcolo con informazioni sensibili per l'azienda. La redazione programmatica rimuove le metriche delle prestazioni, maschera gli ID dei dipendenti e nasconde i costi dei fornitori.
+
+## ✅ Principali casi d'uso
+
+- **Dashboard:** Redigere KPI confidenziali.
+- **Fogli paga:** Mascherare gli identificativi dei dipendenti e i dettagli di pagamento.
+- **Modelli di approvvigionamento:** Nascondere i prezzi dei fornitori per una condivisione sicura.
+
+## ⚙️ Scenari di automazione
+
+- **Conformità in tempo reale:** Applicare le regole sulla privacy nella collaborazione in tempo reale.
+- **Prontezza per l'audit:** Automatizzare la redazione prima delle verifiche esterne.
+- **Collaborazione cloud:** Condividere fogli di calcolo in modo sicuro tra i team.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
