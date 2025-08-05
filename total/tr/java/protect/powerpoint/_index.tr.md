@@ -71,7 +71,24 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+## Java API'leri ile POWERPOINT dosyalarını korumak, yürütme ve markalı sunumların değiştirilemez kalmasını sağlar. Otomatik koruma düzenlemeleri kısıtlar, şifreler uygular ve salt okunur eğitim slaytlarını destekler.
+
+**Ana Kullanım Senaryoları**
+- Yürütme sunumlarını kilitle.
+- Satış slaytlarını şifre koruma.
+- Salt okunur eğitim materyallerini paylaş.
+
+**Otomasyon Senaryoları**
+- Marka tutarlılığını koru.
+- Eğitim slayt bütünlüğünü koru.
+- Yapay zeka öğrenme slaytlarını koru.
+- İçerik onayını kolaylaştır.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

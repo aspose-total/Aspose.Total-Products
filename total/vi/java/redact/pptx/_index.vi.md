@@ -72,7 +72,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Java](http
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Redacting các tệp PPTX bằng Java APIs giữ cho các bài thuyết trình hiện đại không bị rò rỉ dữ liệu nhạy cảm. Việc redact tự động loại bỏ PII, ẩn phân tích cạnh tranh và che giấu các định danh của khách hàng.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Bộ Slides Đào Tạo:** Redact dữ liệu nhân viên hoặc người học.
+- **Bài Thuyết Trình Bán Hàng:** Che giấu thông tin cạnh tranh hoặc giá cả.
+- **Các Nghiên Cứu Trường Hợp:** Loại bỏ tên khách hàng trước khi xuất bản.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Đánh Giá Tuân Thủ:** Tự động hóa kiểm tra nội dung và redact.
+- **Chia Sẻ với Đối Tác:** Phân phối chỉ các bài thuyết trình đã được làm sạch.
+- **Bảo Vệ IP:** Bảo vệ kiến thức độc quyền khi các slide được chia sẻ bên ngoài.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Java](http
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Trích xuất và quản lý siêu dữ liệu trong các tệp PPTX bằng APIs trong ứng dụng Java gia cố việc quản lý nội dung và khả năng tìm kiếm cho tài sản trình bày hiện đại.
+
+**Các Trường Hợp Sử Dụng Chính:**  
+- Xác định tác giả và người đóng góp cho các dự án trình bày.  
+- Gắn thẻ bộ trình chiếu theo bộ phận, chiến dịch hoặc chủ đề.  
+- Cải thiện khả năng tìm thấy trong các kho lưu trữ nội dung và cơ sở kiến thức.
+
+**Kịch Bản Tự Động Hóa:**  
+- Bổ sung siêu dữ liệu cho trợ lý trí tuệ nhân tạo và tìm kiếm thông minh.  
+- Theo dõi các giai đoạn vòng đời trình bày với cập nhật siêu dữ liệu.  
+- Tự động hóa việc làm sạch và gắn thẻ quy mô lớn trong thư viện slide.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

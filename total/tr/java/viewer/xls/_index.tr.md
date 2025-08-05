@@ -77,7 +77,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Java API'leri Kullanarak XLS Dosyalarını Görüntüleme: Eski Elektronik Tablo Erişimini Modernleştirme</h2>
+
+Java API'leri, takımların yerel yazılım olmadan çevrimiçi olarak eski Excel tablolarına erişmelerini kolay ve güvenli hale getirir.
+
+## ✅ Ana Kullanım Durumları
+
+- **Finansal Raporlar:** Bütçeleri ve geçmiş finansal verileri önizle.
+- **Operasyonel Tablolar:** Dahili XLS verilerini panolarda göster.
+- **Envanter Verileri:** Lojistik elektronik tabloları güvenli bir şekilde göster.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **ERP Panoları:** Takımlar için eski XLS verilerini oluştur.
+- **Raporlama Araçları:** Web uygulamalarında XLS önizlemelerini otomatikleştir.
+- **Lojistik Platformlar:** Envanter tablolarını çevrimiçi paylaş.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

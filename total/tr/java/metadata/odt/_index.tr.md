@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak ODT dosyalarındaki meta verilere erişmek ve bunları yönetmek, akademik, çok dilli ve açık kaynak metin belgelerini düzenlemek için önemlidir.
+
+**Ana Kullanım Senaryoları:**
+- Meta verilere göre akademik makaleleri ve araştırma raporlarını sınıflandırma.
+- Akademik bütünlüğü korumak için yazarlığı atfetme.
+- Küresel işbirliği için çok dilli belgeleri düzenleme.
+
+**Otomasyon Senaryoları:**
+- Büyük ODT kütüphanelerinden ölçeklenebilir bir şekilde meta veri çıkarma.
+- Belgeleri yazar veya konu alanlarına göre sıralama.
+- ODT dosyalarını kolay keşif için kümelemek ve etiketlemek için yapay zekâ kullanma.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

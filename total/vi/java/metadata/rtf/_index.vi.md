@@ -74,7 +74,23 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Trích xuất siêu dữ liệu từ các tệp RTF bằng cách sử dụng API trong các ứng dụng Java giúp tăng cường quản lý tài liệu trong các hệ thống nhẹ hoặc cổ điển. Việc trích xuất theo cách lập trình hỗ trợ việc tổ chức, theo dõi và tìm kiếm tài liệu dựa trên văn bản.
+
+**Các Trường Hợp Sử Dụng Chính:**  
+- Tổ chức tài liệu văn bản pháp lý theo các thuộc tính siêu dữ liệu.  
+- Theo dõi tác giả và lịch sử chỉnh sửa trong tài liệu y tế hoặc lâm sàng.  
+- Hỗ trợ tìm kiếm dựa trên siêu dữ liệu trong các bộ lưu trữ nhẹ.
+
+**Các Kịch Bản Tự Động Hóa:**  
+- Trích xuất các thuộc tính RTF tỷ lệ lớn mà không cần nhiều công sức thủ công.  
+- Quét các bộ lưu trữ RTF cổ điển để tìm siêu dữ liệu ẩn hoặc bị thiếu.  
+- Áp dụng trí tuệ nhân tạo để tự động gắn thẻ các tệp RTF dựa trên nội dung và siêu dữ liệu.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

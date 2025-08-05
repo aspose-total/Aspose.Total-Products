@@ -74,7 +74,21 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Java](http
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Quản lý siêu dữ liệu trong tệp trình bày ODP bằng APIs trong ứng dụng Java cải thiện tổ chức và cộng tác trong hệ sinh thái mã nguồn mở.
+
+**Các Trường Hợp Sử Dụng Chính:**
+- Tổ chức bộ trình chiếu trong các nền tảng cộng tác mã nguồn mở.
+- Theo dõi lịch sử sửa đổi và sở hữu slide.
+- Phân loại nội dung trình bày cho cơ sở kiến thức của công ty.
+
+**Kịch Bản Tự Động Hóa:**
+- Lọc slide theo các trường siêu dữ liệu như tiêu đề và chủ đề.
+- Trích xuất siêu dữ liệu chính trong quy trình làm việc theo lô.
+- Sử dụng trí tuệ nhân tạo để đánh dấu và phân loại bộ trình chiếu một cách thông minh.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

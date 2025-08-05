@@ -74,7 +74,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redacting tệp XLSX với Java APIs bảo vệ nội dung bảng tính hiện đại chứa thông tin kinh doanh nhạy cảm. Việc che giấu theo cách lập trình loại bỏ các chỉ số hiệu suất, che giấu ID nhân viên và ẩn chi phí của nhà cung cấp.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Bảng Điều Khiển:** Che giấu các KPIs mật.
+- **Bảng Lương:** Che giấu các thông tin định danh và chi tiết thanh toán của nhân viên.
+- **Mô Hình Mua Sắm:** Ẩn giá của nhà cung cấp để chia sẻ an toàn.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Tuân Thủ Thời Gian Thực:** Áp dụng các quy tắc bảo mật trong việc hợp tác trực tiếp.
+- **Sẵn Sàng Kiểm Toán:** Tự động hóa việc che giấu trước các cuộc kiểm toán bên ngoài.
+- **Hợp Tác Đám Mây:** Chia sẻ bảng tính một cách an toàn giữa các nhóm.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ การแบ่งไฟล์ ODT โดยใช้ Java APIs: การส่งมอบเอกสารแบบโมดูลออเพนซอร์ส</h2>
+
+การแบ่งไฟล์ ODT ด้วย Java APIs ช่วยให้ทีมสามารถแยกเอกสารโอเพนซอร์สขนาดใหญ่เพื่อการจัดการง่ายขึ้น การปรับแต่งและการแบ่งปัน ซึ่งสนับสนุนการเผยแพร่แบบไดนามิกและปรับปรุงการเข้าถึงผ่านโทรศัพท์มือถือ
+
+## ✅ กรณีการใช้งานหลัก
+
+- **คู่มือแบบโมดูล**: แบ่งคู่มือยาวเป็นไฟล์ ODT ที่เล็กกว่าและเฉพาะตำแหน่ง
+- **การแยกนโยบาย**: แยกนโยบายของบริษัทตามแผนกหรือภูมิภาค
+- **ผลลัพธ์เป้าหมาย**: สร้างเวอร์ชันที่เป้าหมายจาก ODT หลัก
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+
+- **การปรับแต่งเอกสาร**: อัตโนมัติการสร้างไฟล์ ODT ที่เฉพาะบุคคล
+- **การผสานกับระบบจัดการเอกสารออเพนซอร์ส**: ผสานไฟล์ที่แบ่งออกไปในระบบจัดการเอกสาร
+- **การเผยแพร่ที่เป็นมิตรกับโทรศัพท์มือถือ**: ส่งมอบไฟล์ ODT ที่เล็กกว่าและเกี่ยวข้องสำหรับการเข้าถึงขณะเดินทาง
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

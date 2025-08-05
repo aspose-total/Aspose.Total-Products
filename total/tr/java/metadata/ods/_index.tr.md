@@ -80,7 +80,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODS elektronik tablolarındaki metaveriyi çıkarmak ve değiştirmek, Java uygulamalarında API'leri kullanarak kuruluşların açık kaynak veri varlıklarını etkin bir şekilde yönetmelerine yardımcı olur.
+
+**Ana Kullanım Senaryoları:**
+- İşbirlikçi ortamlarda elektronik tablo sahipliğini takip etmek.
+- Finansal veya operasyonel verileri bölüm veya proje bazında kategorize etmek.
+- Belge yaşam döngüsünü desteklemek ve uyumluluk politikalarını uygulamak.
+
+**Otomasyon Senaryoları:**
+- ODS dosyaları için toplu metaveri etiketleme işlemlerini gerçekleştirmek.
+- Sütunları ve veri tiplerini otomatik olarak sınıflandırmak.
+- Veri yönetişimini iyileştirmek için eksik metaveriyi AI kullanarak doldurmak.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

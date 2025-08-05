@@ -80,7 +80,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak ikili XLSB dosyalarından meta veri çıkarmak, yüksek performanslı çalışma kitaplarını ve sıkıştırılmış veri kümelerini verimli bir şekilde işlemek için önemlidir.
+
+**Ana Kullanım Senaryoları:**
+- Sıkıştırılmış ikili dosyalarla büyük veri kümelerini yönetme.
+- Arka plandaki finansal veya operasyonel kayıtları kategorize etme.
+- Yüksek hacimli XLSB çalışma kitaplarının keşfedilebilirliğini artırma.
+
+**Otomasyon Senaryoları:**
+- Ölçekte ikili dosya özelliklerini çıkarma.
+- XLSB belgeleri için sınıflandırma boruları oluşturma.
+- Hız ve ölçek için ikili çalışma kitaplarını etiketlemek ve dizinlemek için yapay zeka uygulama.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

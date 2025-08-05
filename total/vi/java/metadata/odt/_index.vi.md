@@ -74,7 +74,21 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Cách Sử Dụng Chính:
+
+- Phân loại các bài báo học thuật và báo cáo nghiên cứu theo siêu dữ liệu.
+- Gán tác giả để duy trì tính toàn vẹn học thuật.
+- Tổ chức tài liệu đa ngôn ngữ để hợp tác toàn cầu.
+
+## Kịch Bản Tự Động Hóa:
+
+- Trích xuất siêu dữ liệu tỷ lệ lớn từ thư viện ODT lớn.
+- Sắp xếp tài liệu theo tác giả hoặc lĩnh vực chủ đề.
+- Sử dụng trí tuệ nhân tạo để nhóm và gắn thẻ các tệp ODT để dễ dàng tìm kiếm.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

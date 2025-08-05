@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การจัดการเมตาดาต้าในไฟล์งานนำเสนอ ODP โดยใช้ API ในแอปพลิเคชัน Java ช่วยในการจัดระเบียบและสร้างความร่วมมือในระบบนิเวศโอเพนซอร์ส
+
+**กรณีการใช้งานหลัก:**
+- จัดเรียงสไลด์ในแพลตฟอร์มการทำงานร่วมกันโอเพนซอร์ส
+- ติดตามประวัติการแก้ไขและเจ้าของสไลด์
+- จัดหมวดหมู่เนื้อหางานนำเสนอสำหรับฐานความรู้ของบริษัท
+
+**สถานการณ์การอัตโนมัติ:**
+- กรองสไลด์ตามฟิลด์เมตาดาต้าเช่น ชื่อและหัวข้อ
+- สกัดเมตาดาต้าสำคัญในการทำงานเป็นชุด
+- ใช้ AI ในการติดแท็กและจัดหมวดหมู่สไลด์ดีกรีอย่างชาญฉลาด
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

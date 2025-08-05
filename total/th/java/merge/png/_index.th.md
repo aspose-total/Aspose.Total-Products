@@ -76,7 +76,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก:</h2>
+- <strong>องค์ประกอบการออกแบบทับซ้อน:</strong> ผสาน PNG โปร่งใสในเครื่องมือออกแบบอย่างสร้างสรรค์
+- <strong>การประกอบส่วน UI:</strong> ผสานไอคอน ปุ่ม และองค์ประกอบ UI อื่น ๆ
+- <strong>ภาพหน้าจอผลิตภัณฑ์:</strong> รวมภาพหน้าจอหลายภาพสำหรับคู่มือและความช่วยเหลือออนไลน์
+
+<h2>สถานการณ์การอัตโนมัติ:</h2>
+- <strong>การรักษาช่องท่อน้ำ:</strong> รักษาความโปร่งใสขณะผสาน
+- <strong>การสร้างภาพผสม:</strong> อัตโนมัติการสร้างภาพ PNG ชั้น
+- <strong>การแสดงเลเอาท์ AI:</strong> ใช้ AI เพื่อจัดเรียงองค์ประกอบในเลเอาท์ที่สมบูรณ์แบบตามพิกเซล
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

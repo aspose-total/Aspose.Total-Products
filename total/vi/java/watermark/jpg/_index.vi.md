@@ -74,7 +74,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Java](htt
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Áp dụng watermark vào các tệp JPG bằng Java APIs bảo vệ tài sản hình ảnh, tăng cường thương hiệu và ngăn chặn phân phối trái phép. Tự động hóa đảm bảo mỗi hình ảnh JPG mang các dấu hiệu sở hữu và sử dụng.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Đánh Dấu để Xem Xét** — Gắn nhãn hình ảnh với trạng thái nháp hoặc phê duyệt.
+- **Thêm Logo** — Thương hiệu nội dung hình ảnh với biểu tượng công ty.
+- **Bảo Vệ Thiết Kế** — Bảo vệ đồ họa chủ quyền và công việc sáng tạo.
+
+## ⚙️ Các Kịch Bản Tự Động Hóa
+
+- **Mạng Phân Phối Nội Dung** — Nhúng watermark vào hình ảnh phân phối.
+- **Bộ Sưu Tập Khách Hàng** — Thêm dấu "Chứng thực" trong bộ sưu tập ảnh.
+- **Nền Tảng Hồ Sơ** — Đặt watermark vào các mẫu thiết kế JPG được chia sẻ.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -69,7 +69,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak PDF Dosyalarını Bölmek: Daha Akıllı Belge Kontrolü ve Paylaşımı</h2>
+
+PDF dosyalarını Java API'leri kullanarak bölmek, işletmelere büyük dosyaları ilgili bölümlere ayırarak ele almalarını sağlar. Bu, dağıtımı, arşivlemeyi ve e-imzalama süreçlerini daha verimli hale getirir.
+
+## ✅ Ana Kullanım Alanları
+
+- **Müşteri Teslimatları**: Çok sayfalı PDF'lerin belirli bölümlerini müşterilere teslim etmek.
+- **Sözleşme Bölümleri**: Sözleşmeleri parçalara ayırarak onay için.
+- **Fatura İzolasyonu**: Kayıtlar için işlem başına fatura PDF'leri oluşturmak.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Arşivleme**: Bölünmüş PDF'leri daha iyi bir düzen ve uyumluluk için saklamak.
+- **E-İmza Entegrasyonu**: Daha yönetilebilir dijital imzalama iş akışları için bölünmüş PDF'leri kullanmak.
+- **Mobil PDF Teslimatı**: Bölümlenmiş PDF'leri mobil görüntüleme ve indirme için sağlamak.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Anahtar Kullanım Senaryoları:
+- Metaveri öznitelikleriyle yasal metin belgelerini düzenleme.
+- Tıbbi veya klinik belgelerde yazarlığı ve düzenleme geçmişini izleme.
+- Hafif arşivlerde metaveriye dayalı arama işlevini destekleme.
+
+## Otomasyon Senaryoları:
+- Manuel çaba gerektirmeden ölçeklenebilir şekilde RTF özelliklerini çıkarma.
+- Gizli veya eksik metaveriler için eski RTF arşivlerini tarama.
+- İçerik ve metaveriye dayalı olarak RTF dosyalarını otomatik etiketleme için yapay zeka uygulama.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

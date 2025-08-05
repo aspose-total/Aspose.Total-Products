@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak DOTX şablonlarındaki metaverilere erişme ve düzenleme, sürüm kontrolünü, iş birimleriyle uyumu ve politika uyumluluğunu sağlamaya yardımcı olur.
+
+**Ana Kullanım Senaryoları:**
+- Şablonların takımlar ve departmanlar arasında sürüm kontrolünü zorunlu kılma.
+- İş birimlerine veya departmanlara göre şablonları kategorize etme.
+- Metaveri tutarlılığını sağlayarak uyumluluğu destekleme.
+
+**Otomasyon Senaryoları:**
+- Şablon oluşturulurken veya güncellenirken metaveri enjeksiyonunu otomatikleştirme.
+- Şablonları programatik olarak sınıflandırma ve düzenleme.
+- AI destekli metaveri takibi ile tüm şablon yaşam döngüsünü yönetme.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

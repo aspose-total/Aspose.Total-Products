@@ -74,7 +74,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การจัดการเมตาดาต้าในไฟล์ PDF โดยใช้ API ในแอปพลิเคชัน Java เพิ่มความสามารถในการค้นพบ การจำแนกประเภท และความเป็นไปตามกฎในคลังข้อมูลดิจิทัล
+
+**กรณีการใช้งานหลัก:**
+- เพิ่มความสามารถในการค้นพบในคลังเอกสารสาธารณะหรือส่วนตัว
+- บังคับกฎการจำแนกประเภทในคลังเอกสารทางกฎหมายหรือที่ได้รับการควบคุม
+- ฝังข้อมูลการปฏิบัติตรงในไฟล์ PDF
+
+**สถานการณ์การอัตโนมัติ:**
+- อัตโนมัติการติดแท็กชื่อเรื่อง เรื่อง และคำสำคัญ
+- แก้ไขเมตาดาต้าเป็นกลุ่มเพื่อรักษาความสอดคล้อง
+- ใช้ AI เพื่อติดป้ายชื่อในไฟล์ PDF สำหรับการทำงานที่เกี่ยวกับกฎหมายและการตรวจสอบ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

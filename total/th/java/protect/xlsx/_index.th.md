@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>กรณีการใช้งานหลัก</h2>
+- ล็อกสูตรที่ใช้ในสเปรดชีต
+- ป้องกันด้วยรหัสผ่านสำหรับรายงานผลการดำเนินงาน
+- เปิดให้เข้าถึงข้อมูลการขายอย่างจำกัด
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- รายงานการเงินที่ปฏิบัติตามกฎหมาย
+- สเปรดชีตที่ควบคุมเวอร์ชัน
+- ชุดข้อมูลการฝึกอบรม AI ที่ปลอดภัย
+- การวิเคราะห์ข้อมูลขององค์กรที่ทำงานร่วมกัน
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

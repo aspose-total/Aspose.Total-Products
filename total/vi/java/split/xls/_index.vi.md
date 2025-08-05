@@ -71,7 +71,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Chia nhỏ tệp XLS bằng Java APIs: Hiện đại hóa việc xử lý bảng tính cũ</h2>
+
+Chia nhỏ các tệp XLS bằng Java APIs cho phép tổ chức xử lý các định dạng bảng tính cũ bằng cách cô lập các phần liên quan để di chuyển, báo cáo và truy cập thân thiện với di động.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Hồ Sơ Hàng Năm**: Trích xuất dữ liệu theo năm từ các tệp XLS lớn.
+- **Nhật Ký Kinh Doanh**: Tách nhật ký hoạt động kinh doanh thành các tệp modular.
+- **Dữ Liệu Định Dạng Cũ**: Chuẩn bị bảng tính cũ cho việc tích hợp với hệ thống hiện đại.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Di Dời Cũ**: Chia nhỏ và hiện đại hóa các tệp XLS cũ cho các hệ thống mới.
+- **Xử Lý Tệp Excel**: Tự động hóa việc trích xuất dữ liệu cho báo cáo.
+- **Tích Hợp Công Cụ Di Động**: Cung cấp các tệp XLS nhỏ hơn cho các công cụ di động nhẹ. 
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

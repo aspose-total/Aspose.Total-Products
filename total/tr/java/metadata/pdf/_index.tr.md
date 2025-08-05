@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'ları kullanarak PDF dosyalarındaki meta verileri yönetmek dijital arşivlerde keşif, sınıflandırma ve uyumluluğu artırır.
+
+**Ana Kullanım Senaryoları:**
+- Kamu veya özel belge kütüphanelerinde keşfi artırın.
+- Yasal veya düzenlenmiş arşivlerde sınıflandırma kurallarını uygulayın.
+- Uyumluluk bilgilerini PDF'lere doğrudan gömün.
+
+**Otomasyon Senaryoları:**
+- Başlık, konu ve anahtar kelime etiketlemesini otomatikleştirin.
+- Tutarlılığı korumak için toplu olarak meta verileri düzenleyin.
+- Düzenleyici ve denetim iş akışları için PDF'leri etiketlemek için yapay zekayı kullanın.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

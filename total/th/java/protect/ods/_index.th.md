@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก</h2>
+- ป้องกันข้อมูลการดำเนินงานในสเปรดชีทที่ใช้ร่วมกัน
+- ล็อคเทมเพลตไม่ให้แก้ไขโดยไม่ได้รับอนุญาต
+- บังคับให้รายงาน BI เป็นแบบอ่านอย่างเดียว
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- การปฏิบัติตามกฎระเบียบสำหรับการจัดการข้อมูล
+- ป้องกันข้อมูลการฝึกอบรม AI ในไฟล์ ODS
+- ควบคุมวงจรชีวิตของไฟล์การวางแผน
+- ป้องกันการแชร์ข้อมูลภายใน
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

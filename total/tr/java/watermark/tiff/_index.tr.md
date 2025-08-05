@@ -74,7 +74,25 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API'lerini kullanarak TIFF dosyalarına filigran uygulamak, yüksek çözünürlüklü taramaları, profesyonel planları ve tıbbi kayıtları korumak için hayati önem taşır. Filigran ekleme işleminin otomatik hale getirilmesi, her TIFF dosyasının gerekli sahiplik veya gizlilik işaretlerini taşımasını sağlar.
+
+#### ✅ Temel Kullanım Durumları
+
+- **Taranmış Belgeleri Koruma** — Yüksek çözünürlüklü belge taramalarına telif hakkı bilgileri ekleyin.
+- **Mimari Planları Etiketleme** — Mavi baskılar veya tasarım planları üzerine telif hakkı işaretleri gömün.
+- **Tıbbi Raporları İşaretleme** — Yetkisiz dağıtımı önlemek için görüntü dosyalarına etiket ekleyin.
+
+#### ⚙️ Otomasyon Senaryoları
+
+- **Arşiv Depolama** — Güvenli dijital arşivlerde depolanan dosyalara filigran ekleyin.
+- **Tarama Hizmetleri** — Tarama iş akışları sırasında filigranları otomatik olarak gömün.
+- **Dijital Kütüphaneler** — Yayınlanan TIFF kaynaklarına sahiplik işaretleri uygulayın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

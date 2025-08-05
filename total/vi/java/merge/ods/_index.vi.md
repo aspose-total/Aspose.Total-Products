@@ -75,7 +75,23 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Hợp nhất các tệp ODS (OpenDocument Spreadsheet) bằng cách sử dụng API trong ứng dụng Java giúp các tổ chức tận dụng các luồng công việc bảng tính mã nguồn mở một cách hiệu quả. Việc hợp nhất ODS theo cách lập trình hỗ trợ quản lý dữ liệu mượt mà, phân tích cộng tác và báo cáo rõ ràng.
+
+**Các Trường Hợp Sử Dụng Chính:**
+- **Bảng Tính Mã Nguồn Mở:** Kết hợp các tệp ODS từ các bộ phận hoặc nhóm khác nhau.
+- **Lập Ngân Sách:** Hợp nhất ngân sách các bộ phận vào một tệp ODS chính.
+- **Bảng Điều Khiển Tích Hợp:** Tổng hợp dữ liệu phân tích vào bảng điều khiển đa tab thống nhất.
+
+**Kịch Bản Tự Động Hóa:**
+- **Hợp Nhất ODS thành Excel:** Hợp nhất các tệp ODS và chuyển đổi sang Excel để tương thích rộng rãi.
+- **Báo Cáo Đa Tab:** Tự động tạo báo cáo với nhiều sheet.
+- **Đồng Nhất Công Thức AI:** Sử dụng trí tuệ nhân tạo để xác thực và chuẩn hóa các công thức trong quá trình hợp nhất.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -80,7 +80,23 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Trích xuất và sửa đổi siêu dữ liệu trong các bảng tính ODS bằng cách sử dụng API trong các ứng dụng Java giúp các tổ chức quản lý tài sản dữ liệu nguồn mở một cách hiệu quả.
+
+**Các Trường Hợp Sử Dụng Chính:**
+- Theo dõi sở hữu bảng tính trong môi trường cộng tác.
+- Phân loại dữ liệu tài chính hoặc vận hành theo bộ phận hoặc dự án.
+- Hỗ trợ chính sách vòng đời tài liệu và tuân thủ.
+
+**Các Kịch Bản Tự Động Hóa:**
+- Thực hiện gắn thẻ siêu dữ liệu hàng loạt cho các tệp ODS.
+- Phân loại cột và loại dữ liệu tự động.
+- Sử dụng trí tuệ nhân tạo để điền vào siêu dữ liệu bị thiếu để quản lý dữ liệu tốt hơn.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API'lerini kullanarak JPEG dosyalarına filigran uygulamak yetkisiz yeniden kullanımı engeller, telif haklarını korur ve marka farkındalığını artırır. Bu süreci otomatikleştirmek, her JPEG'nin net sahiplik bilgileri veya kullanım kısıtlamaları taşımasını sağlar.
+
+#### ✅ Temel Kullanım Alanları
+
+- **Yeniden Kullanımı Engelleyin** — Yüksek kaliteli JPEG görüntülerine telif hakkı metni ekleyin.
+- **Açıklamalar Uygulayın** — Paylaşılan JPEG'lerde lisans bildirimlerini gömün.
+- **Marka Portföyleri** — Fotoğraf portföylerine logolar ekleyin.
+
+#### ⚙️ Otomasyon Senaryoları
+
+- **Fotoğraf Paylaşım Platformları** — Kullanıcı yüklemeden önce JPEG'lere filigran ekleyin.
+- **Stok Pazarları** — Stok görüntülerine sağlayıcı ayrıntılarıyla etiket ekleyin.
+- **Emlak İlanları** — İlan fotoğraflarına marka ekleyin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

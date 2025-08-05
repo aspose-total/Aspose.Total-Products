@@ -72,7 +72,25 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java API'lerini kullanarak POWERPOINT dosyalarını düzenlemek, slayt içeriğinin ekipler ve paydaşlar arasında güvenli bir şekilde paylaşılmasını sağlar. Programlı düzenleme, müşteri logolarını gizler, konuşmacı notlarını gizler ve gizli KPI'ları maskeleme işlevi görür.
+
+## ✅ Ana Kullanım Durumları
+
+- **Ajans Sunumları:** Hassas markaları kaldırın veya gizleyin.
+- **Web Seminerleri:** Slaytları paylaşmadan önce konuşmacı veya iç notları gizleyin.
+- **İç Sunumlar:** KPI'ları veya finansal verileri maskeleyin.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Paydaş Sunumları:** Dışarıya temizlenmiş slaytları paylaşın.
+- **Eğitim İçeriği:** Öğrenme materyallerinden yalnızca iç kullanıma yönelik bilgileri kaldırın.
+- **Fikri Mülkiyet Koruma:** Dağıtılmış sunumlarda gizli stratejileri güvence altına alın.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -117,7 +117,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Tại sao chú thích các tệp TSV: Cải thiện phân tích nhật ký, Đánh giá dữ liệu & Tài liệu Văn bản Thuần</h2>
+
+Chú thích các tệp **TSV (Tab-Separated Values)** là điều cần thiết đối với các nhóm làm việc với dữ liệu văn bản thuần có cấu trúc như nhật ký, bộ dữ liệu và báo cáo xuất khẩu. Việc thêm nhận xét hoặc ghi chú vào các tệp TSV cải thiện sự rõ ràng, đảm bảo việc diễn giải dữ liệu chính xác và tối ưu hóa sự hợp tác.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Phân Tích Nhật Ký:** Sử dụng chú thích để giải thích các trường, đánh dấu các bất thường và nổi bật các xu hướng trong các bản xuất nhật ký được lưu dưới dạng tệp TSV.
+- **Tài Liệu Văn Bản Thuần:** Thêm ghi chú để mô tả các cột, nguồn dữ liệu hoặc các bước biến đổi trực tiếp trong tài liệu TSV.
+- **Đánh Giá Dữ Liệu Nguồn:** Chèn nhận xét trực tiếp để đánh dấu các vấn đề về chất lượng dữ liệu, đề xuất sửa đổi hoặc làm rõ ngữ cảnh cho các nhà phân tích.
+
+## ⚙️ Lợi Ích Tự Động Hóa
+
+- **Tiền Xử Lý AI:** Tự động hóa chú thích để gắn thẻ các mẫu, phát hiện các giá trị ngoại lệ và làm phong phú các tệp TSV trước khi máy học hoặc báo cáo.
+- **Đánh Giá Mã:** Sử dụng các tệp TSV được chú thích để làm rõ dữ liệu kiểm tra, xác minh cấu trúc đầu ra/đầu vào và tài liệu các thay đổi bộ dữ liệu.
+- **Tài Liệu Kỹ Thuật:** Tích hợp chú thích tự động để giữ cho các từ điển dữ liệu dựa trên TSV, cấu hình và ghi chú xử lý rõ ràng và cập nhật.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

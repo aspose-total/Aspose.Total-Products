@@ -80,7 +80,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak XLSX dosyalarından meta veri çıkarmak, çoklu kullanıcı veri yönetimi, proje takibi ve analitik hazırlık konularını geliştirir. Otomatik meta veri işlemleri elektronik tabloların yönetimini ve yeniden kullanımını kolaylaştırır.
+
+**Ana Kullanım Senaryoları:**  
+- Net sahiplik ve sürümleme ile işbirlikçi veri modellerini yönetme.  
+- Daha iyi takip için proje özel çalışma kitaplarını etiketleme.  
+- Yapılandırılmış elektronik tablo meta verileri ile BI panolarını zenginleştirme.
+
+**Otomasyon Senaryoları:**  
+- Özel meta veri özelliklerini kullanarak dosya sıralamasını otomatikleştirme.  
+- Meta veri tutarlılığını sağlamak için toplu güncellemeler gerçekleştirme.  
+- Dosyaları analitik ve uyumluluk özellikleriyle etiketlemek için yapay zekâdan faydalanma.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

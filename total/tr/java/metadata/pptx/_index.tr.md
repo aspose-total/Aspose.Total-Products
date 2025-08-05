@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak PPTX dosyalarındaki meta verileri çıkarmak ve yönetmek, modern sunum varlıkları için içerik yönetimini güçlendirir ve aranabilirliği artırır.
+
+**Ana Kullanım Senaryoları:**
+- Sunum projeleri için yazarları ve katkıda bulunanları belirleme.
+- Bölüm, kampanya veya konu bazında slayt paketlerini etiketleme.
+- İçerik depolarında ve bilgi tabanlarında bulunabilirliği artırma.
+
+**Otomasyon Senaryoları:**
+- Yapay zeka asistanları ve akıllı arama için meta verileri zenginleştirme.
+- Sunum yaşam döngü aşamalarını meta veri güncellemeleriyle takip etme.
+- Slayt kütüphanelerinde büyük ölçekli temizlik ve etiketleme işlemlerini otomatikleştirme.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

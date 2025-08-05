@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak Microsoft PowerPoint dosyalarındaki meta verileri yönetmek marka tutarlılığını ve düzenli sunum kütüphanelerini sağlar.
+
+**Ana Kullanım Senaryoları:**
+- Kurumsal sunumları konu veya departmana göre sınıflandırma.
+- Meta veriler aracılığıyla marka ve telif hakkı politikalarını uygulama.
+- Hızlı erişim için kapsamlı slayt kütüphanelerini düzenleme.
+
+**Otomasyon Senaryoları:**
+- Sunum özelliklerinin toplu etiketlenmesini otomatikleştirme.
+- Yazar veya kampanya gibi meta verilere göre desteleri sıralama.
+- Tema ve kullanıma göre slayt destelerini kategorize etmek için yapay zeka uygulama.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

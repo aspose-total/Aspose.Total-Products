@@ -76,7 +76,20 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลัก
+- ควบคุมการเข้าถึงเอกสารร่างนโยบาย
+- ล็อกเอกสารทางวิชาการและกฎหมายด้วยรหัสผ่าน
+- บังคับให้เป็นแบบอ่านอย่างเดียวบนข้อเสนอ
+
+## สถานการณ์การอัตโนมัติ
+- รักษาความเป็นไปตามกฎหมายในการตีพิมพ์ทางวิชาการ
+- ป้องกันการทำงานของเอกสารเปิด
+- จัดการประวัติเอกสารอย่างปลอดภัย
+- รักษาความสมบูรณ์ของเนื้อหาที่ใช้ประโยชน์จากปัญญาประดิษฐ์
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

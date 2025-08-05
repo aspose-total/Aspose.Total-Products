@@ -75,7 +75,25 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak DOT Dosyalarını Bölme: Ölçeklenebilir Modüler Şablon Yönetimi</h2>
+
+## ✅ Ana Kullanım Durumları
+
+- **Yeniden Kullanılabilir Bileşenler**: Modüler şablon öğelerini birden fazla belgede kolayca yeniden kullanılabilir hale getirin.
+- **İş Formu Kategorileri**: Büyük iş formu şablonlarını kategorilere ayrılmış bölümlere bölerek daha hızlı dağıtım sağlayın.
+- **Düzen Çıkarma**: Belirli düzen öğelerini çıkararak dinamik veya kişiselleştirilmiş belgeler oluşturun.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Şablon Oluşturma**: Modüler şablon parçalarını birleştirerek yeni belgelerin oluşturulmasını otomatikleştirin.
+- **Yerelleştirilmiş İçerik Üretimi**: Yeniden kullanılabilir öğeleri böler ve özelleştirerek yerelleştirilmiş belge şablonları oluşturun.
+- **Verimli Biçimlendirme Yeniden Kullanımı**: Farklı projelerde marka tutarlılığı için ortak düzen bölümlerini yeniden kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

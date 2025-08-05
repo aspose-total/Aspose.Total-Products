@@ -75,7 +75,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Chia tách tệp ODT bằng Java APIs: Giao phó tài liệu mã nguồn mở theo mô-đun</h2>
+
+Chia tách tệp ODT bằng Java APIs cho phép các nhóm chia nhỏ tài liệu mã nguồn mở lớn để quản lý, cá nhân hóa và chia sẻ dễ dàng hơn. Điều này hỗ trợ xuất bản động và cải thiện việc truy cập từ thiết bị di động.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Tài Liệu Mô-đun**: Chia tài liệu hướng dẫn dài thành các tệp ODT nhỏ hơn, phù hợp với từng vai trò.
+- **Cách Ly Chính Sách**: Phân tách chính sách công ty theo phòng ban hoặc khu vực.
+- **Đầu Ra Đích**: Tạo ra các phiên bản được định rõ từ một tệp ODT chính.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Cá Nhân Hóa Tài Liệu**: Tự động tạo ra các tệp ODT cụ thể cho người dùng.
+- **Tích hợp Hệ thống Quản lý Tài liệu Mã nguồn mở**: Tích hợp các tệp chia tách vào hệ thống quản lý tài liệu.
+- **Xuất Bản Thân Thiện Với Thiết Bị Di Động**: Giao phó các tệp ODT nhỏ, liên quan để truy cập khi di chuyển.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

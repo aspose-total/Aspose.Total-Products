@@ -68,7 +68,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak ODP Dosyalarını Bölmek: Hedeflenmiş Sunum Yönetimi</h2>
+
+Java API'leri kullanarak ODP dosyalarını bölmek, kuruluşların odaklanmış, konuyla ilgili slayt paketleri oluşturmalarına yardımcı olur. Bu, modüler içerik dağıtımını ve yeniden kullanımını destekleyerek eğitim, etkinlikler ve sunumları kolaylaştırır.
+
+## ✅ Ana Kullanım Durumları
+
+- **Konuyla İlgili Slayt Paketleri**: Büyük sunumları hedef kitlelere göre konu bazında bölmek.
+- **Eğitim Sunumları**: Eğitim materyallerini kolay öğrenme ve güncelleme için modüllere ayırmak.
+- **Etkinlik Oturumları**: Etkinlik slaytlarını sorunsuz teslimat için oturum bazında ODP dosyalarına ayırmak.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **LMS Slayt Oluşturma**: Öğrenme yönetim sistemleri için modüler slaytların otomatik oluşturulması.
+- **Slayt Yeniden Kullanımı**: Temel slaytların farklı sunumlar ve projeler arasında yeniden kullanımı.
+- **Sunum Bölümleme**: Büyük sunumları kolay teslimat için yönetilebilir bölümlere ayırmak.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

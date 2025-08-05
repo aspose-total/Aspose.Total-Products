@@ -73,7 +73,24 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Java](https:/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+## Ứng Dụng Chính
+
+- Mã hóa hợp đồng bằng mật khẩu.
+- Vô hiệu hóa chức năng sao chép / in cho các tệp nhạy cảm.
+- Tự động áp dụng chữ ký số.
+
+## Kịch Bản Tự Động Hóa
+
+- Đáp ứng yêu cầu pháp lý và quy định.
+- Bảo vệ luồng làm việc tài liệu.
+- Lọc tài liệu đầu vào cho việc sử dụng trí tuệ nhân tạo.
+- Kích hoạt quản lý nội dung cấp doanh nghiệp.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

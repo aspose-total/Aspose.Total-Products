@@ -75,7 +75,27 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak ODT Dosyalarını Bölmek: Modüler Açık Kaynak Belge Dağıtımı</h2>
+
+ODT dosyalarını Java API'leri ile bölmek, büyük açık kaynak belgeleri daha kolay yönetme, kişiselleştirme ve paylaşma olanağı sağlar. Bu, dinamik yayıncılığı destekler ve mobil erişimi iyileştirir.
+
+## ✅ Ana Kullanım Alanları
+
+- **Modüler Kılavuzlar**: Uzun kılavuzları daha küçük, rolle ilgili ODT dosyalarına bölmek.
+- **Politika İzolasyonu**: Şirket politikalarını departman veya bölge bazında ayırmak.
+- **Hedeflenen Çıktılar**: Ana ODT dosyasından hedeflenen sürümler oluşturmak.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Belge Kişiselleştirme**: Kullanıcıya özgü ODT dosyalarının otomatik oluşturulması.
+- **Açık Kaynak DMS Entegrasyonu**: Bölünmüş dosyaların belge yönetim sistemlerine entegre edilmesi.
+- **Mobil Dostu Yayıncılık**: Hareket halindeyken erişim için daha küçük, ilgili ODT dosyalarının sunulması.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

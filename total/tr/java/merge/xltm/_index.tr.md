@@ -75,7 +75,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+API'ler kullanılarak Java uygulamalarında makro özellikli XLTM Excel şablonlarının birleştirilmesi, gelişmiş tahmin, modelleme ve uyumluluk operasyonlarına güç sağlar. Otomasyon, makroların sağlam ve güvenli kalmasını sağlar.
+
+**Ana Kullanım Senaryoları:**
+- **Dinamik Çalışma Kitapları:** Makro destekli hesaplamaları birleştirerek tahmin veya risk modellerini birleştirin.
+- **Uyumluluk İş Akışları:** Şablonları birleştirerek tekrarlayan uyumluluk görevlerini otomatikleştirin.
+- **Etkileşimli Sayfalar:** Birleştirilmiş çalışma kitaplarında etkileşimli makro mantığını koruyun.
+
+**Otomasyon Senaryoları:**
+- **Ön Programlanmış Birleştirme:** XLTM şablonlarını birleştirirken betikleri koruyun.
+- **Makro Doğrulama:** Makroların güvenli ve amaçlandığı gibi çalıştığından emin olun.
+- **AI Destekli Özelleştirme:** AI'ı kişiselleştirilmiş iş akışları için makroları ayarlamak için kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

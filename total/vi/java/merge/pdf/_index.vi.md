@@ -74,7 +74,19 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Java](https:/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các Trường Hợp Sử Dụng Chính:
+- **Hợp Đồng Đã Ký:** Tổng hợp nhiều hợp đồng đã ký vào một tập tin PDF được tổ chức.
+- **Trang Quét:** Kết hợp các tài liệu giấy đã quét thành các tập tin số có thể tìm kiếm.
+- **Báo Cáo Tài Chính:** Kết hợp bảng tính, biểu đồ và báo cáo thành các báo cáo PDF toàn diện cho các bên liên quan.
+
+## Các Kịch Bản Tự Động Hóa:
+- **Tổ Hợp PDF Theo Lô:** Kết hợp một lượng lớn các tập tin PDF theo cách tự động.
+- **Lựa Chọn Phạm Vi Trang:** Kết hợp các trang cụ thể từ các tập tin PDF khác nhau để tạo ra đầu ra tùy chỉnh.
+- **Sắp Xếp Nội Dung AI:** Sử dụng trí tuệ nhân tạo để sắp xếp, gắn thẻ và cấu trúc hóa các tập tin PDF đã được kết hợp cho quy trình làm việc an toàn và hiệu quả.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

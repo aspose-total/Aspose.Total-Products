@@ -74,7 +74,19 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các Trường Hợp Sử Dụng Chính:
+- **Đề Xuất Được Tùy Chỉnh:** Hợp nhất các phần mẫu để tạo ra đề xuất cụ thể cho khách hàng.
+- **Báo Cáo Chuẩn:** Tổng hợp các phần có thể tái sử dụng vào báo cáo chuẩn của công ty.
+- **Bố Cục Thương Hiệu:** Áp dụng hướng dẫn về thương hiệu trên toàn bộ nhóm bằng cách hợp nhất các mẫu DOTX chuẩn.
+
+## Các Kịch Bản Tự Động Hóa:
+- **Thực Hiện Theo Trường Dữ Liệu:** Động viên hợp nhất các mẫu với dữ liệu biến đổi.
+- **Chuyển Đổi Mẫu:** Tự động chuyển đổi các mẫu đã hợp nhất thành tài liệu cuối cùng.
+- **Hợp Nhất Được Tăng Cường Bởi Trí Tuệ Nhân Tạo:** Sử dụng trí tuệ nhân tạo để hợp nhất các phần một cách thông minh, điều chỉnh bố cục cho sản xuất tài liệu quy mô lớn.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

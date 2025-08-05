@@ -71,7 +71,22 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**Ana Kullanım Durumları**
+- Kurumsal sunumlardaki düzenlemeleri kısıtlayın.
+- Gizli yatırımcı desteklerini şifreleyin.
+- Eğitim slaytları için yalnızca görüntüleme erişimini zorlayın.
+
+**Otomasyon Senaryoları**
+- Dijital haklar uyumluluğunu destekleyin.
+- Sürüm kontrolünü otomatikleştirin.
+- Yapay zeka öğrenme sunumu veri kümelerini koruyun.
+- Sunumların güvenli bir şekilde halka sunulmasını sağlayın.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

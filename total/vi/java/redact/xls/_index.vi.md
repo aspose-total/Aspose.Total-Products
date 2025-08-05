@@ -74,7 +74,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redacting tệp XLS thông qua Java APIs bảo vệ dữ liệu bảng tính cũ chứa thông tin nhạy cảm lịch sử. Việc che giấu tự động ẩn các bảng lương cũ, làm mờ hồ sơ khách hàng và che giấu dữ liệu ngân sách lỗi thời.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Bảng Lương:** Xóa thông tin thanh toán trong các tệp được lưu trữ.
+- **Hồ Sơ Khách Hàng:** Ẩn thông tin khách hàng cũ để tuân thủ quy định lưu trữ.
+- **Dữ Liệu Ngân Sách:** Làm mờ dự đoán cũ hoặc các con số nhạy cảm.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Chính Sách Lưu Trữ:** Làm sạch tệp cho việc lưu trữ hoặc phá hủy.
+- **Kỹ Thuật Số An Toàn:** Che giấu tệp trước khi chuyển sang hệ thống hiện đại.
+- **Bảo Vệ Lịch Sử:** Giữ cho các bộ dữ liệu tài chính cũ an toàn và tuân thủ.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

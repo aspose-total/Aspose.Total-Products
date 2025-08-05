@@ -75,7 +75,19 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+##การใช้งานหลัก:
+- **สเปรดชีตโอเพนซอร์ส:** รวมไฟล์ ODS จากแผนกหรือทีมต่าง ๆ
+- **การจัดทำงบประมาณ:** ผสานงบประมาณของแผนกเข้ากับไฟล์ ODS หลัก
+- **แดชบอร์ดที่ผสานรวม:** รวมข้อมูลการวิเคราะห์เป็นแดชบอร์ดที่มีหลายแท็บ
+
+##สถานการณ์การอัตโนมัติ:
+- **การผสาน ODS เป็น Excel:** ผสานไฟล์ ODS และแปลงเป็น Excel เพื่อความเข้ากันได้ที่กว้างขึ้น
+- **รายงานหลายแท็บ:** อัตโนมัติการสร้างรายงานที่มีแผ่นงานหลายแผ่น
+- **ความสอดคล้องของสูตร AI:** ใช้ AI เพื่อตรวจสอบและมาตราส่วนสูตรในระหว่างการผสาน
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

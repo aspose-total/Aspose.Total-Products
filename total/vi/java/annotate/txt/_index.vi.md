@@ -114,7 +114,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 Tại sao chú thích các tệp TXT: Tối ưu hóa Phân Tích Log, Tài Liệu & Đánh Giá Dữ Liệu</h2>
+
+Chú thích **các tệp văn bản (plain-text) TXT** là rất quan trọng đối với các nhóm xử lý dữ liệu gốc, ghi chú kỹ thuật và tệp nhật ký. Thêm bình luận, làm nổi bật hoặc ghi chú trực tiếp cải thiện sự cộng tác, làm rõ ngữ cảnh và làm cho các tệp văn bản thuần túy trở nên dễ thực hiện hơn đối với các nhiệm vụ kỹ thuật và phân tích.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Phân Tích Log:** Chú thích nhật ký máy chủ, báo cáo lỗi hoặc hồ sơ sự kiện để đánh dấu vấn đề, thêm giải thích và theo dõi sửa lỗi.
+- **Tài Liệu Văn Bản Thuần Túy:** Sử dụng bình luận để làm rõ hướng dẫn, cập nhật ghi chú cấu hình hoặc hướng dẫn chỉnh sửa của nhóm trong tệp readme và config.
+- **Đánh Giá Dữ Liệu Nguồn:** Đánh dấu các bộ dữ liệu gốc, bản ghi, hoặc đoạn mã để làm nổi bật các bất thường hoặc đề xuất thay đổi trước khi xử lý.
+
+## ⚙️ Lợi Ích Tự Động Hóa
+
+- **Tiền Xử Lý AI:** Tự động chú thích để gắn thẻ các điểm dữ liệu chính, phát hiện mẫu và chuẩn bị các tệp văn bản thuần túy cho phân tích tiếp theo.
+- **Đánh Giá Mã:** Thêm bình luận trực tiếp vào mã nguồn được lưu trữ trong các tệp TXT để tối ưu hóa đánh giá và theo dõi các bản sửa đổi.
+- **Tài Liệu Kỹ Thuật:** Sử dụng các công cụ tự động để tạo hoặc cập nhật chú thích trong các tài liệu hướng dẫn và ghi chú tham khảo văn bản thuần túy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก</h2>
+- การเข้ารหัสสัญญาด้วยรหัสผ่าน
+- ปิดใช้งานการคัดลอก/พิมพ์สำหรับไฟล์ที่ละเอียดอ่อน
+- ใช้ลายเซ็นดิจิทัลโดยอัตโนมัติ
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- ตรงตามข้อกำหนดทางกฎหมายและกฎระเบียบ
+- รักษาการทำงานของเอกสารอย่างปลอดภัย
+- กรองเอกสารนำเข้าสำหรับการใช้งาน AI
+- เปิดใช้งานการบริหารจัดการเนื้อหาระดับองค์กร
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

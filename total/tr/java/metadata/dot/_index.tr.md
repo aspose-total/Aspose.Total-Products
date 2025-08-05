@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java API'lerini kullanarak DOT şablon dosyalarındaki meta verileri yönetmek, eski şablon kütüphanelerinde tutarlılık ve kontrol sağlar. Kuruluşlar, kullanımı izleyebilir, özellikleri uyumlu hale getirebilir ve şablon adlandırma kurallarını yapılandırabilir.
+
+**Ana Kullanım Senaryoları:**
+- Eski sistemlerde şablonun ilgili kalmasını sağlamak için kullanım geçmişini izleme.
+- Düzenleyici gereksinimlerle şablon özelliklerini uyumlu hale getirme.
+- Geniş DOT dosya kütüphanelerinde yapılandırılmış adlandırmayı zorunlu kılma.
+
+**Otomasyon Senaryoları:**
+- Uyumluluk kontrolleri için şablon meta verilerinin toplu denetimini otomatikleştirme.
+- Meta veri özelliklerine göre şablonları filtreleme ve düzenleme.
+- Yapay zekayı kullanarak eski DOT dosyalarını sınıflandırma ve güncelleme uygulama.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,21 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Java](https:/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Quản lý siêu dữ liệu trong tệp PDF bằng APIs trong ứng dụng Java tăng khả năng khám phá, phân loại và tuân thủ trong các lưu trữ kỹ thuật số.
+
+**Các Trường Hợp Sử Dụng Chính:**
+- Nâng cao khả năng khám phá trong thư viện tài liệu công cộng hoặc riêng.
+- Áp dụng các quy tắc phân loại trong các lưu trữ pháp lý hoặc được quy định.
+- Nhúng thông tin tuân thủ trực tiếp vào các tệp PDF.
+
+**Các Kịch Bản Tự Động Hóa:**
+- Tự động hóa việc gắn thẻ tiêu đề, chủ đề và từ khóa.
+- Chỉnh sửa siêu dữ liệu theo lô để duy trì tính nhất quán.
+- Sử dụng trí tuệ nhân tạo để gán nhãn PDF cho quy trình làm việc tuân thủ và kiểm toán.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

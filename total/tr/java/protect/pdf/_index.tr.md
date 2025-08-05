@@ -73,7 +73,24 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java API'lerini kullanarak PDF dosyalarını korumak, endüstriler arasında kritik belgeleri şifrelemek, kısıtlamak ve doğrulamak için yardımcı olur. Otomatik PDF koruması güvenli içerik iş akışlarını ve kurumsal ve yasal politikalara uyumu sağlar.
+
+**Ana Kullanım Senaryoları**
+- Şifrelerle sözleşmeleri şifreleme.
+- Hassas dosyalar için kopyalama/yazdırma işlevini devre dışı bırakma.
+- Dijital imzaları otomatik olarak uygulama.
+
+**Otomasyon Senaryoları**
+- Yasal ve düzenleyici gereksinimleri karşılama.
+- Belge iş akışlarını güvence altına alma.
+- Yapay zeka kullanımı için giriş belgelerini filtreleme.
+- Kurumsal düzeyde içerik yönetimini etkinleştirme.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

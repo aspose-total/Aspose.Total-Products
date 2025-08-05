@@ -74,7 +74,23 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java uygulamalarında API'ları kullanarak OTT (OpenDocument Text Template) dosyalarını birleştirmek, işletmelere yüksek hacimli belge oluşturması için tutarlı, yeniden kullanılabilir şablonlar sağlar. Otomasyon standartlaşmayı ve daha hızlı çıktıyı sağlar.
+
+**Ana Kullanım Senaryoları:**
+- **İş Mektupları:** İK, satış veya müşteri iletişimi için OTT dosyalarını birleştirerek şablona dayalı mektuplar oluşturun.
+- **Yeniden Kullanılabilir İçerik Blokları:** Sözleşmeler, teklifler veya politikalar için standart bölümleri birleştirerek ana şablonlar oluşturun.
+- **İş Akışı Standartlaştırma:** Şablonlardan oluşturulan tüm belgelerde tutarlı markalama ve biçimlendirme sağlayın.
+
+**Otomasyon Senaryoları:**
+- **OTT'den ODT'ye Dönüşüm:** Şablonları birleştirin ve bunları düzenlemeye hazır ODT belgelerine dönüştürün.
+- **Şablon Konsolidasyonu:** Birden fazla OTT dosyasını birleştirerek birleşik ana şablonlar oluşturun.
+- **AI Alanı Doldurma:** Kişiselleştirilmiş belge oluşturması için şablonları dinamik verilerle önceden doldurmak için yapay zekayı kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+API'leri kullanarak Java uygulamalarında XLT Excel şablon dosyalarını birleştirmek, standartlaştırılmış raporlamayı takımlar arasında basitleştirir. Otomasyon, tekrarlanabilir görevler için tutarlı düzenler ve markalama sağlar.
+
+**Ana Kullanım Senaryoları:**
+- **Departman Şablonları:** Takım şablonlarını bir ana sürümde birleştirme.
+- **Standartlaştırılmış Raporlar:** Raporların tutarlı stilde otomatik olarak oluşturulmasını sağlama.
+- **Marka Uyumluluğu:** Tüm Excel şablonlarında şirket markalamasını zorlama.
+
+**Otomasyon Senaryoları:**
+- **XLT'ten-XLS Dönüşümü:** Şablonları birleştirme ve doldurulmuş çalışma kitaplarını çıkarma.
+- **Ön-Doldurulmuş Raporlar:** Birleştirilmiş şablonları dinamik verilerle doldurma.
+- **Yapay Zeka Kullanımı Takibi:** Yapay zekayı şablon kullanımını izlemek ve iyileştirmeler önermek için kullanma.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

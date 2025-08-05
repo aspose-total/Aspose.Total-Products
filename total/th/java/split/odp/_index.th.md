@@ -68,7 +68,27 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint Excel X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ การแบ่งไฟล์ ODP โดยใช้ Java APIs: การจัดการงานนำเสนอเป้าหมาย</h2>
+
+การแบ่งไฟล์ ODP โดยใช้ Java APIs ช่วยองค์กรในการสร้างสไลด์เด็กเฉพาะหัวข้อที่โฟกัส ซึ่งสนับสนุนการฝึกอบรม กิจกรรม และการนำเสนอโดยทำให้การส่งเนื้อหาแบบโมดูลและการใช้ซ้ำเป็นไปได้
+
+## ✅ กรณีการใช้งานหลัก
+
+- **สไลด์เด็กเฉพาะหัวข้อ**: แบ่งงานนำเสนอขนาดใหญ่เป็นสไลด์เด็กตามหัวข้อสำหรับกลุ่มเป้าหมาย
+- **งานฝึกอบรม**: แยกวัสดุการฝึกอบรมเป็นโมดูลเพื่อการเรียนรู้และการอัปเดตง่าย
+- **การนำเสนองาน**: แยกสไลด์งานอีเวนต์เป็นไฟล์ ODP ที่เฉพาะเซสชันเพื่อการส่งเนื้อหาอย่างราบรื่น
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+
+- **การสร้างสไลด์ LMS**: อัตโนมัติการสร้างสไลด์โมดูลสำหรับระบบการจัดการการเรียนรู้
+- **การใช้ซ้ำสไลด์**: ใช้ซ้ำสไลด์หลักในงานนำเสนอและโครงการต่าง ๆ
+- **การแบ่งส่วนงานนำเสนอ**: ทำให้งานนำเสนอขนาดใหญ่เป็นส่วนย่อยเพื่อการส่งเนื้อหาอย่างราบรื่น
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

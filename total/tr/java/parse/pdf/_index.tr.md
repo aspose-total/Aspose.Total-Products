@@ -74,7 +74,24 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📚 Java API'leri Kullanarak PDF Dosyalarının Ayrıştırılması: Gömülü Veri Çıkarma ve İş Akışı Otomasyonu</h2>
+
+PDF dosyalarını Java API'leri ile ayrıştırmak, gömülü metni, etiketli meta verileri ve yapılandırılmış dönüşümü işletme kullanımı için açığa çıkarır. Otomasyon, yasal incelemeleri, fatura işleme süreçlerini, içerik dizinlemeyi ve yapay zeka destekli belge zekasını destekler.
+
+## ✅ Ana Kullanım Alanları
+
+- **Gömülü İçeriği Çıkarma:** Metin, tablolar ve görüntüleri okuyun.
+- **Etiketli Meta Verileri Okuma:** Akıllı arama ve dizinleme sağlayın.
+- **Yapıyı Dönüştürme:** Veri iş akışları için PDF'leri dönüştürün.
+- **Yasal İnceleme:** Sözleşme ve uyumluluk kontrollerini otomatikleştirin.
+- **Fatura İşleme:** Fatura verilerini çıkarın.
+- **Yapay Zeka Zekası:** Çıkarılan metni NLP boru hatlarına besleyin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

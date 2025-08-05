@@ -74,7 +74,26 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+## Java API'leri ile ODS Dosyalarını Koruma
+
+Java API'leri ile ODS dosyalarını korumak, operasyonel elektronik tabloları ve iş zekası verilerini güvence altına alır. Otomatik kurallar şablonları kilitleyerek, salt okunur görünümleri zorlayarak ve yalnızca yetkili erişime stratejik planlama bilgilerine izin vererek işletme verilerini korur.
+
+**Ana Kullanım Senaryoları**
+- Paylaşılan elektronik tablolardaki operasyonel verileri koruma.
+- Yetkisiz düzenlemelerden şablonları koruma.
+- Salt okunur BI raporlarını zorlama.
+
+**Otomasyon Senaryoları**
+- Veri işleme için düzenleyici uyumluluk.
+- ODS dosyalarında AI eğitim verilerini koruma.
+- Planlama dosyası yaşam döngülerini kontrol etme.
+- İç veri paylaşımını koruma.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

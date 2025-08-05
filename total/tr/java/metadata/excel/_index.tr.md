@@ -80,7 +80,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Excel dosyalarındaki metaveriyi Java uygulamalarında API'leri kullanarak çıkarmak ve yönetmek, doğru bilgi yönetimine dayanan veri odaklı işletmeler için hayati önem taşır. Excel metaveri iş akışlarını otomatikleştirerek, kuruluşlar veri sahiplerini belirleyebilir, finansal modelleri kategorize edebilir ve yapılandırılmış süreçleri sürdürebilir.
+
+**Ana Kullanım Senaryoları:**
+- Hesap verebilirlik ve erişim yönetimi için elektronik tablo veri sahiplerini belirleme.
+- Düzenleyici ve denetim ihtiyaçları için karmaşık finansal modelleri kategorize etme.
+- Kurumsal veri politikalarıyla metaveriyi uyumlu hale getirerek yapılandırılmış iş akışlarını destekleme.
+
+**Otomasyon Senaryoları:**
+- Hızlı elektronik tablo geri alma için metaveri tabanlı dizin oluşturmayı otomatikleştirme.
+- Bölüm, proje veya model türüne göre elektronik tabloları sınıflandırma.
+- Uyumluluk ve analiz için büyük Excel depolarına yapay zeka destekli etiketleme uygulama.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

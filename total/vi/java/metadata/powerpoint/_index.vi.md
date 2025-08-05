@@ -74,7 +74,19 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Java](http
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Các trường hợp sử dụng chính:
+- Phân loại các bài thuyết trình doanh nghiệp theo chủ đề hoặc bộ phận.
+- Áp dụng chính sách nhãn hiệu và bản quyền thông qua siêu dữ liệu.
+- Tổ chức thư viện slide một cách cấu trúc để truy cập nhanh chóng.
+
+## Kịch bản tự động hóa:
+- Tự động gắn nhãn hàng loạt các thuộc tính bài thuyết trình.
+- Sắp xếp bộ slide dựa trên siêu dữ liệu như tác giả hoặc chiến dịch.
+- Áp dụng trí tuệ nhân tạo để phân loại bộ slide theo chủ đề và cách sử dụng.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

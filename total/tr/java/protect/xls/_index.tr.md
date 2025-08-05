@@ -74,7 +74,26 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+## Java API'leri ile XLS Dosyalarını Koruma
+
+Java API'leri ile XLS dosyalarını korumak, eski Excel elektronik tablolarının izinsiz değişikliklerden korunmasını sağlar. Otomatik koruma şifreler uygular, veri düzenlemelerini kısıtlar ve gösterge tablolarına erişimi kontrol eder.
+
+**Ana Kullanım Senaryoları**
+- Finansal verilerin manipülasyonunu kısıtlayın.
+- Hassas işletme modellerini kilitleyin.
+- Yalnızca görüntüleme izni olan gösterge tablolarını zorlayın.
+
+**Otomasyon Senaryoları**
+- Uyumluluğu ve denetim izlerini sürdürün.
+- Tarihsel finansal kayıtları koruyun.
+- AI destekli projeksiyonları koruyun.
+- İş zekasını güvence altına alın.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

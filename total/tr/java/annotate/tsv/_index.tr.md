@@ -117,7 +117,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📝 TSV Dosyalarını Neden İşaretlemeli: Günlük Analizini İyileştirme, Veri İncelemeleri ve Düz Metin Belgeleri</h2>
+
+**TSV (Sekmeyle Ayrılmış Değerler)** dosyalarını işaretlemek, günlükler, veri kümeleri ve dışa aktarılan raporlar gibi yapılandırılmış düz metin verileriyle çalışan ekipler için önemlidir. TSV dosyalarına yorum veya not eklemek, netliği artırır, doğru veri yorumlamasını sağlar ve işbirliğini kolaylaştırır.
+
+## ✅ Ana Kullanım Alanları
+
+- **Günlük Analizi:** TSV dosyaları olarak kaydedilen günlük dışa aktarımlarında alanları açıklamak, anormallikleri işaretlemek ve trendleri vurgulamak için işaretlemeleri kullanın.
+- **Düz Metin Belgeleri:** Sütunları, veri kaynaklarını veya dönüşüm adımlarını doğrudan TSV belgeleri içinde açıklamak için notlar ekleyin.
+- **Kaynak Veri İncelemeleri:** Veri kalite sorunlarını işaretlemek, düzeltmeler önermek veya analistler için bağlamı açıklamak için satır içi yorumlar ekleyin.
+
+## ⚙️ Otomasyon Faydaları
+
+- **Yapay Zeka Önişlemesi:** Makine öğrenimi veya raporlama öncesinde desenleri etiketlemek, aykırı değerleri tespit etmek ve TSV dosyalarını zenginleştirmek için işaretleme işlemlerini otomatikleştirin.
+- **Kod İncelemeleri:** İşaretlenmiş TSV'leri test verilerini açıklığa kavuşturmak, giriş/çıkış yapılarını doğrulamak ve veri kümesi değişikliklerini belgelemek için kullanın.
+- **Teknik Belgeler:** Otomatik işaretlemeleri entegre ederek TSV tabanlı veri sözlüklerini, yapılandırmaları ve işleme notlarını net ve güncel tutun.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

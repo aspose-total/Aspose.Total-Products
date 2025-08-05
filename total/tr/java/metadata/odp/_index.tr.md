@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ODP sunum dosyalarındaki metaveriyi Java uygulamalarında API'ları kullanarak yönetmek, açık kaynak ekosistemlerindeki düzeni ve işbirliğini geliştirir.
+
+**Ana Kullanım Senaryoları:**
+- Açık kaynak işbirliği platformlarında slayt paketlerini düzenlemek.
+- Revizyon geçmişini ve slayt sahipliğini takip etmek.
+- Şirket bilgi tabanları için sunum içeriğini kategorize etmek.
+
+**Otomasyon Senaryoları:**
+- Başlık ve konu gibi metaveri alanlarına göre slaytları filtrelemek.
+- Toplu iş akışlarında ana metaveriyi çıkarmak.
+- Slayt paketlerini zekice etiketlemek ve sınıflandırmak için yapay zekayı kullanmak.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

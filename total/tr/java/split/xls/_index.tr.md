@@ -71,7 +71,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak XLS Dosyalarını Bölme: Eski Hesap Tablosu İşlemlerini Modernleştirme</h2>
+
+XLS dosyalarını Java API'leri kullanarak bölmek, kuruluşların eski hesap tablosu formatlarını göç, raporlama ve mobil dostu erişim için ilgili bölümlere ayırmasına olanak tanır.
+
+## ✅ Ana Kullanım Durumları
+
+- **Yıllık Kayıtlar**: Büyük XLS dosyalarından yıl bazında veri çıkarma.
+- **İş Günlükleri**: İş faaliyet günlüklerini modüler dosyalara ayırma.
+- **Eski Format Veriler**: Eski hesap tablolarını modern sistemlere entegrasyon için hazırlama.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Eski Hesap Tablosu Göçü**: Eski XLS dosyalarını bölme ve modernleştirme.
+- **Excel Dosyası İşleme**: Raporlama için veri çıkarma işlemlerini otomatikleştirme.
+- **Mobil Araçlar Entegrasyonu**: Hafif mobil araçlar için daha küçük XLS dosyaları sunma.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,25 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/imag
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API'lerini kullanarak JPG dosyalarına filigran uygulamak görsel varlıkları korur, markalaşmayı güçlendirir ve izinsiz dağıtımı caydırır. Otomasyon, her JPG görüntüsünün sahiplik ve kullanım için işaretler taşımasını sağlar.
+
+#### ✅ Temel Kullanım Senaryoları
+
+- **İnceleme İçin İşaretleme** — Görüntülere taslak veya onay durumu etiketi ekleme.
+- **Logolar Ekleme** — Görsel içeriği şirket amblemi ile markalaştırma.
+- **Tasarımları Koruma** — Mülkiyet grafiklerini ve yaratıcı çalışmaları güvence altına alma.
+
+#### ⚙️ Otomasyon Senaryoları
+
+- **İçerik Dağıtım Ağları** — Dağıtılan görsellere filigran gömme.
+- **Müşteri Galerileri** — Fotoğraf galerilerinde "Kanıt" işaretleri ekleme.
+- **Portföy Platformları** — Paylaşılan JPG tasarım örneklerine filigran ekleme.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

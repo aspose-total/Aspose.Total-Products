@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java uygulamalarında API'leri kullanarak ODP (OpenDocument Presentation) dosyalarını birleştirmek, açık kaynak ofis paketlerine güvenen kuruluşlar için hayati önem taşır. Otomatik ODP birleştirme, işbirliğini basitleştirir ve takımlar ve etkinlikler arasında sunum tutarlılığını sağlar.
+
+**Ana Kullanım Senaryoları:**
+- **Eğitim Sunumları:** Birden fazla eğitim modülünü kapsamlı ODP sunumlarına derleyin.
+- **Konferans Slaytları:** Konuşmacı slaytlarını düzgün etkinlik akışı için birleştirilmiş bir deste birleştirin.
+- **İç Sunumlar:** İç güncellemeleri, raporları ve planları yeniden kullanılabilir ODP dosyalarına konsolide edin.
+
+**Otomasyon Senaryoları:**
+- **Çok Kullanıcılı Slayt Birleştirme:** Birden fazla katkı sağlayıcıdan slaytların otomatik birleştirilmesini sağlayın.
+- **Stil Uyumlaştırma:** Birleştirilmiş slaytlar arasında tutarlı temaları ve formatları zorunlu kılın.
+- **AI Düzen Uyumu:** Profesyonel, çok platformlu sunum teslimatı için slayt düzenlerini hizalamak ve ayarlamak için AI kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,23 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API'leri kullanarak PNG dosyalarını birleştirmek, şeffaf grafiklere ihtiyaç duyulan tasarım, geliştirme ve belgeleme görevleri için idealdir.
+
+**Ana Kullanım Senaryoları:**
+- **Üzerine Tasarım Unsurları Ekleme:** Yaratıcı tasarım araçlarında şeffaf PNG'leri birleştirin.
+- **UI Bileşenleri Birleştirme:** Simgeleri, düğmeleri ve diğer UI unsurlarını birleştirin.
+- **Ürün Ekran Görüntüleri:** Kılavuzlar ve çevrimiçi yardım için birden fazla ekran görüntüsünü derleyin.
+
+**Otomasyon Senaryoları:**
+- **Alfa Kanalı Koruma:** Birleştirme işlemi sırasında şeffaflığı koruyun.
+- **Kompozit Görüntü Oluşturma:** Katmanlı PNG kompozisyonlarını otomatikleştirin.
+- **AI Düzeni Oluşturma:** Yapay zeka kullanarak piksel mükemmeliyetinde düzenlemeler yapın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

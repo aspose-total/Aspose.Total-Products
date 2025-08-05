@@ -71,7 +71,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak ODS Dosyalarını Bölmek: Etkili Açık Kaynak Veri Yönetimi</h2>
+
+ODS dosyalarını Java API'leri kullanarak bölmek, modüler veri erişimi ve raporlama imkanı sağlayarak açık kaynak elektronik tabloların işlenmesini basitleştirir. Bu, BI iş akışlarını, ölçeklenebilir paylaşımı ve geliştirilmiş performansı destekler.
+
+## ✅ Ana Kullanım Senaryoları
+
+- **Bölgesel Finansal Veriler**: Büyük finansal elektronik tabloları bölgeye özgü ODS dosyalarına ayırın.
+- **Bireysel Sekmeler**: Bağımsız paylaşım veya analiz için belirli sayfaları çıkarın.
+- **İstatistiksel Raporlama**: Hedeflenen raporlar için istatistiksel verileri izole edin.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Açık Kaynak BI Boruları**: BI ve analitik iş akışları için veri çıkarma işlemlerini otomatikleştirin.
+- **Modüler Veri Paylaşımı**: Ele alıcılarla sadece ilgili elektronik tabloların bölümlerini paylaşın.
+- **Performans Optimizasyonu**: Uygulamalarda ve araçlarda daha hızlı yükleme süreleri için daha küçük ODS dosyaları sunun.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

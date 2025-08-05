@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak eski PPT dosyalarından meta verilere erişme ve çıkarma, arşivlenmiş sunumları modernleştirirken sürüm geçmişi ve yazarlık detaylarını korumaya yardımcı olur.
+
+**Ana Kullanım Senaryoları:**
+- Meta verileri koruyarak eski PPT dosyalarını güncelleme.
+- Denetimler için sunumların geçmiş versiyonlarını takip etme.
+- Eski formatlarda saklanan konuşmacı sunumlarını düzenleme.
+
+**Otomasyon Senaryoları:**
+- Meta verilerin korunmasıyla PPT'den PPTX'e geçiş yapma.
+- Eski slayt destelerini eksiksiz denetlemek için toplu işlem yapma.
+- 2007 öncesi içeriği etiketlemek ve sınıflandırmak için yapay zekayı kullanma.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

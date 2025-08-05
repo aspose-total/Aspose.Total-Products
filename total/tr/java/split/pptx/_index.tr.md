@@ -68,7 +68,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/slid
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak PPTX Dosyalarını Bölmek: Hedef Kitleler İçin Uyarlanabilir Sunumlar</h2>
+
+Java API'leri kullanarak PPTX dosyalarını bölmek, modern sunumları belirli müşteriler, ekipler veya eğitim ihtiyaçları için uyarlamayı kolaylaştırır. Bu, her zaman yüksek etkili, ilgili slayt sunumu sağlar.
+
+## ✅ Ana Kullanım Durumları
+
+- **Müşteriye Özel Kesim**: Sunumları belirli müşteriler veya teklifler için keserek özelleştirin.
+- **Modül Bazında Eğitim**: Eğitim sunumlarını modül bazında PPTX dosyalarına bölmek.
+- **İş Birimi Odaklılık**: Belirli departmanlara veya ekiplere yönelik slaytlar sunun.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Dinamik Sunum Dağıtımı**: Müşteriye özel sunumların otomatik olarak oluşturulmasını sağlayın.
+- **Slayt Yeniden Kullanımı**: Projeler arasında temel slayt bölümlerini yeniden kullanın.
+- **Uyarlanabilir Yayınlama**: Mobil ve web platformları için optimize edilmiş slayt bölümleri sunun.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,22 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก</h2>
+- ป้องกันสเปรดชีตทางการเงินจากการแก้ไข
+- ป้องกันด้วยรหัสผ่านข้อมูลเงินเดือนและค่าตอบแทน
+- เปิดให้ใช้งานเทมเพลตงบประมาณอ่านอย่างเดียว
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- รักษาเส้นทางการตรวจสอบเพื่อปฏิบัติตามกฎระเบียบ
+- บังคับการป้องกันข้อมูลในการรายงานทางการเงิน
+- รักษาความเป็นส่วนตัวในการจำลองการเงินที่ขับเคลื่อนด้วย AI
+- ควบคุมการแบ่งปันข้อมูลทางธุรกิจยุทธศาสตร์
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

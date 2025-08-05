@@ -92,7 +92,27 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java API'leri Kullanarak PDF Dosyalarını Arama: Belge Analizini Kolaylaştırma</h2>
+
+## ✅ Ana Kullanım Senaryoları
+
+- **Taranmış Sözleşmelerde Ana Maddeleri Belirleme**: Dijitalleştirilmiş yasal dosyalarda belirli terimleri bulma.
+- **Ürün Kılavuzlarından Terimler Çıkarma**: Destek ve eğitim için teknik özellikleri alın.
+- **Yasal PDF'lerde Yargı Kararları Referanslarını Alın**: Hukuki veritabanlarında alıntılar ve dava numaraları arayın.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Uyumluluk Denetimleri**: Düzenleyici gereksinimler için PDF denetimlerini otomatikleştirin.
+- **Kurumsal Belge Analizi**: Büyük PDF havuzlarını tarayarak içgörüler elde edin.
+- **Akıllı Hukuki Araştırma**: Hızlı, kesin aramalarla avukatlara destek olun.
+- **AI Destekli OCR İndeksleme**: OCR'yi API'lerle birleştirerek taranmış PDF'lerdeki metni açın.
+- **Dijital İçerik İş Akışları**: PDF aramasını geniş belge iş akışlarına entegre edin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

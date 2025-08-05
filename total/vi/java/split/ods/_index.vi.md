@@ -71,7 +71,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Chia tách tệp ODS bằng Java APIs: Quản lý Dữ liệu mã nguồn mở hiệu quả</h2>
+
+Chia tách tệp ODS bằng Java APIs giúp đơn giản hóa việc xử lý các bảng tính mã nguồn mở bằng cách cho phép truy cập dữ liệu và báo cáo theo mô-đun. Điều này hỗ trợ quy trình làm việc BI, chia sẻ có thể mở rộng và cải thiện hiệu suất.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Tài Chính Vùng**: Chia các bảng tính tài chính lớn thành các tệp ODS cụ thể cho từng vùng.
+- **Các Tab Cá Nhân**: Trích xuất các bảng cụ thể để chia sẻ độc lập hoặc phân tích.
+- **Báo Cáo Thống Kê**: Cô lập dữ liệu thống kê cho các báo cáo cụ thể.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Các Luồng BI Mã Nguồn Mở**: Tự động hóa việc trích xuất dữ liệu cho quy trình làm việc BI và phân tích.
+- **Chia Sẻ Dữ Liệu Mô-đun**: Chia sẻ chỉ các phần liên quan của bảng tính với các bên liên quan.
+- **Tối Ưu Hiệu Suất**: Phục vụ các tệp ODS nhỏ hơn để tải nhanh hơn trong ứng dụng và công cụ.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

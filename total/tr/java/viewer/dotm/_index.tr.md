@@ -76,7 +76,27 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📄 Java API'leri Kullanarak DOTM Dosyalarını Görüntüleme: Güvenli Makro Etkin Şablon Önizlemeleri</h2>
+
+Java API'leri, işletmelerin gömülü kodları çalıştırmadan makro etkin Word şablonlarını görüntülemesine olanak tanır. Bu, güvenli ortamlarda şablon incelemelerini sağlar.
+
+## ✅ Ana Kullanım Senaryoları
+
+- **Hukuki/Finansal Şablon Önizlemeleri:** Hassas şablonları güvenli bir şekilde inceleyin.
+- **Makro İçermeyen İnceleme:** Betikleri tetiklemeden düzenlemeleri görüntüleyin.
+- **Şablon Paylaşımı:** Düzenleme için standart DOTM dosyalarını dağıtın.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Güvenli Önizleyiciler:** DOTM dosyalarını İK veya hukuk portalında oluşturun.
+- **Rapor Oluşturucular:** Otomatik rapor oluşturuculara şablon önizlemelerini entegre edin.
+- **Onay Araçları:** Yönetim onayı için şablonları görüntüleyin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> 📊 Java API'leri Kullanarak XLTX Dosyalarını Görüntüleme: Standart Elektronik Tablo Şablonu Görselleştirme</h2>
+
+Java API'lerini kullanarak XLTX dosyalarını görüntülemek, ekiplerin web tabanlı uygulamalarda raporlar, İK formları veya satış kayıtları için standart Excel şablonlarını önizlemesini sağlar.
+
+## ✅ Ana Kullanım Senaryoları
+
+- **İş Raporları:** Bütçeleme için standart şablonları göster.
+- **İK Kayıtları:** Yeniden kullanılabilir XLSX formlarını önizle.
+- **Satış Kayıtları:** Markalı satış tablolarını çevrimiçi olarak görüntüle.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Web Önizleyiciler:** XLTX şablonlarını SaaS araçlarına göm.
+- **Kontrol Panelleri:** Ekipler için şablon görüntülemeyi otomatikleştir.
+- **Raporlama Sistemleri:** Şablon önizlemelerine kolay erişim sağla.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

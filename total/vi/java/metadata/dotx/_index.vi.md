@@ -74,7 +74,23 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Truy cập và chỉnh sửa siêu dữ liệu trong các mẫu DOTX bằng cách sử dụng API trong các ứng dụng Java giúp duy trì kiểm soát phiên bản, sự phù hợp với các đơn vị kinh doanh và tuân thủ chính sách.
+
+**Các Trường Hợp Sử Dụng Chính:**
+- Áp đặt việc quản lý phiên bản của các mẫu trên các nhóm và bộ phận.
+- Phân loại các mẫu dựa trên các đơn vị hoặc bộ phận kinh doanh.
+- Hỗ trợ tuân thủ bằng cách đảm bảo tính nhất quán của siêu dữ liệu.
+
+**Các Kịch Bản Tự Động Hóa:**
+- Tự động hóa việc tiêm siêu dữ liệu khi tạo hoặc cập nhật các mẫu.
+- Phân loại và tổ chức các mẫu theo cách lập trình.
+- Quản lý toàn bộ vòng đời của mẫu với việc theo dõi siêu dữ liệu được hỗ trợ bằng trí tuệ nhân tạo.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

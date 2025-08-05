@@ -80,7 +80,21 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การสรุปและปรับเปลี่ยนเมตาดาต้าในสเปรดชีต ODS โดยใช้ API ในแอปพลิเคชัน Java ช่วยให้องค์กรจัดการสินทรัพยากรข้อมูลโอเพนซอร์สได้อย่างมีประสิทธิภาพ
+
+**กรณีการใช้งานหลัก:**
+- ติดตามเจ้าของสเปรดชีตในสภาพแวดล้อมที่ทำงานร่วมกัน
+- จัดหมวดหมู่ข้อมูลการเงินหรือการดำเนินงานตามแผนกหรือโครงการ
+- สนับสนุนนโยบายวงจรชีวิตของเอกสารและการปฏิบัติตามกฎระเบียบ
+
+**สถานการณ์การอัตโนมัติ:**
+- ดำเนินการติดตามเครื่องหมายแท็กเมตาดาต้าเป็นชุดสำหรับไฟล์ ODS
+- จัดหมวดหมู่คอลัมน์และประเภทข้อมูลโดยอัตโนมัติ
+- ใช้ AI เพื่อเติมเมตาดาต้าที่ขาดหายเพื่อการบริหารข้อมูลที่ดีขึ้น
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

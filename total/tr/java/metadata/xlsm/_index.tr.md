@@ -80,7 +80,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+Java uygulamalarında API'leri kullanarak makro etkin XLSM dosyalarındaki meta verileri yönetmek, otomatik elektronik tablolarda makro güvenliğini, yazarlık takibini ve uyumluluğu sürdürmek için hayati önem taşır.
+
+**Ana Kullanım Senaryoları:**
+- Yetkisiz komut dosyalarını tespit etmek için makro kullanımını izlemek.
+- Hassas elektronik tablolarda makro güvenliği uyumluluğunu sağlamak.
+- Otomatik araçlarda denetim izlerini takip etmek için elektronik tablo yazarlığını izlemek.
+
+**Otomasyon Senaryoları:**
+- Makro bilincine sahip meta verileri programatik olarak doğrulamak.
+- Makro değişiklikleri için otomatik denetim izleri oluşturmak.
+- Risk ve kullanım kalıplarına göre XLSM dosyalarını sınıflandırmak için yapay zekayı kullanmak.
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

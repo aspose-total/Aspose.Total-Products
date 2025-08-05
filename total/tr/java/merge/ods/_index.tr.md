@@ -75,7 +75,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java uygulamalarında API'leri kullanarak ODS (Açık Belge Hesap Tablosu) dosyalarını birleştirmek, kuruluşların açık kaynak hesap tablosu iş akışlarından verimli bir şekilde faydalanmalarına yardımcı olur. Programlı ODS birleştirme, sorunsuz veri yönetimi, işbirlikçi analiz ve net raporlama desteği sağlar.
+
+**Ana Kullanım Senaryoları:**
+- **Açık Kaynak Hesap Tabloları:** Farklı departman veya ekiplerden ODS dosyalarını birleştirin.
+- **Bütçeleme:** Departman bütçelerini tek bir ana ODS dosyasına birleştirin.
+- **Entegre Gösterge Panoları:** Analitik verileri birleştirilmiş, çoklu sekme gösterge panolarına konsolide edin.
+
+**Otomasyon Senaryoları:**
+- **ODS'ten Excel Birleştirme:** ODS dosyalarını birleştirin ve daha geniş uyumluluk için Excel'e dönüştürün.
+- **Çoklu Sekmeli Raporlar:** Birden fazla sayfaya sahip raporların otomatik oluşturulmasını sağlayın.
+- **AI Formül Uyumluluğu:** Birleştirme sırasında formüllerin doğrulanması ve standartlaştırılması için yapay zekayı kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

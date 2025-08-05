@@ -71,7 +71,27 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Java API'leri Kullanarak XLSX Dosyalarını Bölme: Esnek Elektronik Tablo Veri Yönetimi</h2>
+
+XLSX dosyalarını Java API'leri kullanarak bölmek, modern elektronik tabloların işlenmesini kolaylaştırarak, daha iyi raporlama, kişiselleştirme ve mobil erişim için odaklanmış parçalara ayırır.
+
+## ✅ Ana Kullanım Senaryoları
+
+- **Performans Tabloları**: Takımlar veya müşteriler için performans metriklerini izole edin.
+- **Finansal Gösterge Panoları**: Belirli departmanlar için karmaşık gösterge panolarını bölebilirsiniz.
+- **Takım-Spesifik Elektronik Tablolar**: Birimler veya bölgeler için özelleştirilmiş XLSX dosyaları oluşturun.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Analitik Raporlama**: İş zekası için bölünmüş dışa aktarmaları otomatikleştirin.
+- **Kişiselleştirilmiş Veri Dışa Aktarmaları**: Hedeflenen elektronik tablo dilimlerini paydaşlara ulaştırın.
+- **Mobil Gösterge Paneli Optimizasyonu**: Mobil gösterge panoları için hafif XLSX dosyaları sunun.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

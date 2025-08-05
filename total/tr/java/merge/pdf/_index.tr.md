@@ -74,7 +74,23 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/pdf/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java uygulamalarında API'leri kullanarak PDF dosyalarını birleştirmek, dijital belgeleri ölçeklendiren işletmeler için önemlidir. Otomatik PDF birleştirme, üretkenliği, güvenliği ve uyumluluğu endüstriler arasında artırır.
+
+**Ana Kullanım Senaryoları:**
+- **İmzalı Sözleşmeler:** Birden fazla imzalı anlaşmayı tek, düzenli bir PDF'e derleyin.
+- **Taranmış Sayfalar:** Taraflı kağıt belgeleri aranabilir dijital dosyalara birleştirin.
+- **Finansal Raporlar:** Tabloları, grafikleri ve beyanları kapsamlı PDF raporları haline getirmek için birleştirin.
+
+**Otomasyon Senaryoları:**
+- **Toplu PDF Birleştirme:** Programlı olarak büyük miktarda PDF dosyasını birleştirin.
+- **Sayfa Aralığı Seçimi:** Farklı PDF'lerden belirli sayfaları birleştirerek özel çıktılar oluşturun.
+- **Yapay Zeka İçerik Sıralaması:** Birleştirilmiş PDF'leri güvenli ve verimli iş akışları için sıralamak, etiketlemek ve yapılandırmak için yapay zekayı kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

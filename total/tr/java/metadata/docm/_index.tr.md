@@ -74,7 +74,24 @@ JogAmp JOGL, Harfbuzz yazı tipi motoru ve Java Gelişmiş Görüntüleme JAI ay
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>API'ler kullanarak Java uygulamalarında makro etkin DOCM dosyalarına erişme ve bunları yönetme</h2>
+Makro kaynaklarını tanımlamak, sürüm geçmişini izlemek ve şablon tabanlı süreçlerde yönetimi sürdürmek için DOCM meta verilerine programatik olarak müdahale etmek kuruluşlar için önemlidir.
+
+**Ana Kullanım Senaryoları:**
+- Yetkisiz kod yürütmesini önlemek için makro kaynaklarını tanımlama ve doğrulama.
+- Uyumluluk için denetim izlerini sürdürmek için sürüm geçmişini izleme.
+- Makrolara sahip şablonların iç iş akış standartlarıyla uyumlu olmasını sağlama.
+
+**Otomasyon Senaryoları:**
+- Uyumluluğu sağlamak için DOCM dosyaları arasında meta veri doğrulamasını otomatikleştirme.
+- Makro kullanım desenlerini izlemek ve anormallikleri otomatik olarak işaretlemek.
+- Makro türleri, yazarlık ve sürüm bazında dinamik DOCM dosyalarını düzenlemek için AI destekli kategorizasyon kullanma.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

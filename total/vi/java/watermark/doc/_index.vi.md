@@ -78,7 +78,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Áp dụng watermark vào các tệp DOC bằng Java APIs giúp các tổ chức bảo vệ tính bí mật của tài liệu, củng cố thương hiệu và kiểm soát trạng thái phiên bản. Tự động chèn watermark đảm bảo rằng các dấu "Confidential" hoặc logo xuất hiện một cách nhất quán, giúp các nhóm quản lý khả năng nhìn thấy và tính toàn vẹn của tài liệu.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Đánh Dấu là "Confidential"** — Đánh dấu các tệp DOC nội bộ để hạn chế phân phối.
+- **Nhận Diện Thương Hiệu Hình Ảnh** — Áp dụng logo công ty vào báo cáo và ghi chú.
+- **Chỉ Định Trạng Thái Bản Nháp** — Sử dụng watermark để cho thấy tài liệu đang được xem xét.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Công Cụ Luồng Làm Việc Tài Liệu** — Tự động thêm watermark vào tệp DOC trong quá trình tạo và phê duyệt.
+- **Quy Trình Phê Duyệt Nhân Sự** — Nhúng nhãn trạng thái vào tài liệu nhân sự để xem xét nội bộ.
+- **Kiểm Soát Phiên Bản Pháp Lý** — Đánh dấu rõ phiên bản nháp cho việc hợp tác pháp lý.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,21 @@ otherformats: Word DOC DOCX DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT Powerpoint P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก:</h2>
+- <strong>การส่งออกแบบตาราง:</strong> รวมข้อมูลการส่งออกแบบตาราง TSV จากเครื่องมือต่าง ๆ เข้าด้วยกันในชุดข้อมูลเดียว
+- <strong>บันทึกการวิเคราะห์:</strong> ผสานไฟล์บันทึกปริมาณมากเพื่อวิเคราะห์ในรูปแบบที่ใช้สำหรับการวิเคราะห์ที่เป็นศูนย์กลาง
+- <strong>ชุดข้อมูลวิจัย:</strong> รวมข้อมูลการทดลองหรือการสำรวจเพื่อรายงานอย่างชัดเจนและมีโครงสร้าง
+
+<h2>สถานการณ์การอัตโนมัติ:</h2>
+- <strong>การนำเข้าแบบกลุ่ม:</strong> อัตโนมัติการผสานไฟล์ TSV หลายร้อยไฟล์อย่างรวดเร็ว
+- <strong>การรวมรวมแบบเรียลไทม์:</strong> ผสานบันทึก TSV อย่างต่อเนื่องสำหรับแดชบอร์ดสด
+- <strong>การตรวจสอบข้อมูล AI:</strong> ใช้ AI เพื่อตรวจจับข้อมูลที่ซ้ำกัน แก้ไขความไม่สอดคล้อง และทำความสะอาดข้อมูลตารางที่ผสานแล้ว
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

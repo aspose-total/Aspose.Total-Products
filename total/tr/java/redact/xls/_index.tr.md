@@ -74,7 +74,25 @@ Ayrıntılar için lütfen [Ürün Dokümantasyonu](https://docs.aspose.com/cell
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java API'leri aracılığıyla XLS dosyalarını kısaltmak, tarihsel hassas bilgiler içeren eski elektronik tablo verilerini korur. Otomatik kısaltma, eski maaş tablolarını gizler, istemci kayıtlarını kısaltır ve eski bütçe verilerini maskeleme işlemine tabi tutar.
+
+## ✅ Ana Kullanım Durumları
+
+- **Maaş Tabloları:** Arşivlenmiş dosyalardaki ödeme detaylarını kaldırın.
+- **İstemci Kayıtları:** Saklama uyumluluğu için eski istemci bilgilerini gizleyin.
+- **Bütçe Verileri:** Eski projeksiyonları veya hassas numaraları maskeleyin.
+
+## ⚙️ Otomasyon Senaryoları
+
+- **Saklama Politikaları:** Arşivleme veya imha için dosyaları temizleyin.
+- **Güvenli Dijitalleştirme:** Modern sistemlere taşınmadan önce dosyaları kısaltın.
+- **Tarihsel Koruma:** Eski finansal veri kümelerini güvenli ve uyumlu tutun.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

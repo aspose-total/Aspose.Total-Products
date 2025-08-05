@@ -68,7 +68,27 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Java](http
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2> ✂️ Chia tách tệp ODP bằng Java APIs: Quản lý Trình bày Đích thị</h2>
+
+Chia tách tệp ODP bằng Java APIs giúp các tổ chức tạo ra các bộ slide tập trung vào chủ đề cụ thể. Điều này hỗ trợ đào tạo, sự kiện và trình bày bằng cách cho phép phân phối và tái sử dụng nội dung theo mô-đun.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Bộ Slide Theo Chủ Đề Cụ Thể**: Chia nhỏ các bài thuyết trình lớn thành các bộ slide theo chủ đề cho đối tượng khán giả cụ thể.
+- **Trình Bày Đào Tạo**: Chia tài liệu đào tạo thành các mô-đun để dễ học và cập nhật.
+- **Các Phiên Sự Kiện**: Tách các slide sự kiện thành các tệp ODP cụ thể cho từng phiên để trình bày mượt mà.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Tạo Slide LMS**: Tự động tạo các slide mô-đun cho hệ thống quản lý học tập.
+- **Tái Sử Dụng Slide**: Tái sử dụng các slide cốt lõi qua các bài trình bày và dự án khác nhau.
+- **Phân Đoạn Trình Bày**: Tối ưu hóa các bài thuyết trình lớn thành các phần quản lý dễ dàng cho việc trình bày.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

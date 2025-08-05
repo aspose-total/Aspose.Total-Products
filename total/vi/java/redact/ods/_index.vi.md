@@ -74,7 +74,25 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Cells for Java](https
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Redacting ODS (OpenDocument Spreadsheet) files sử dụng Java APIs là rất quan trọng đối với các tổ chức xử lý dữ liệu bảng tính mã nguồn mở. Việc che giấu theo cách lập trình giúp ẩn lương, loại bỏ chi tiết y tế và ẩn giá của nhà cung cấp trong các bảng mua sắm.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Báo Cáo Lương:** Che giấu thông tin lương trong các bản phát hành dữ liệu mở.
+- **Hồ Sơ Y Tế:** Loại bỏ dữ liệu sức khỏe để tuân thủ nghiên cứu.
+- **Bảng Mua Sắm:** Ẩn giá của nhà cung cấp trong ngân sách chia sẻ.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Phát Hành Dữ Liệu Mở:** Làm sạch dữ liệu để công bố công khai.
+- **Tuân Thủ Nghiên Cứu:** Tuân thủ luật quyền riêng tư cho các bộ dữ liệu đã công bố.
+- **Chia Sẻ Nội Bộ:** Phân phối bảng tính mà không tiết lộ thông tin mật. 
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
