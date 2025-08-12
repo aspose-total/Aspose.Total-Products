@@ -47,7 +47,35 @@ CGMファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **グラフィカルテクニカルデータをスプレッドシートに変換**  
+  CGMファイルからベクトルグラフィックスデータを抽出し、分析用の構造化された行と列に変換します。
+
+- **計測値の文書化**  
+  エンジニアリングの計測値や実験結果をポータブルなスプレッドシート形式で保存および管理します。
+
+- **ODFツールを介した共有**  
+  ODF準拠のアプリケーションを介して、CGMから派生したスプレッドシートデータを配布します。
+
+
+## ⚙️ 自動化シナリオ
+
+- **JOpenDocumentなどのJavaライブラリ**  
+  オープンソースのスプレッドシート処理ライブラリを使用して、JavaワークフローでCGMからFODSへの変換を自動化します。
+
+- **ヘッドレスLibreOffice統合**  
+  JavaアプリケーションからヘッドレスモードでLibreOfficeを実行し、CGMグラフィックスを一括でFODSスプレッドシートに変換します。
+
+- **大量のFODS生成**  
+  大規模なデータ抽出のために、CGMの解析とFODSの作成をJavaベースのETLパイプラインに組み込みます。
+
+- **オープンソースのデータ処理システム**  
+  透明で標準ベースのデータ管理のために、科学やエンジニアリングのプラットフォームの一部としてFODSを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

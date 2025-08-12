@@ -59,7 +59,19 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- **データ駆動型プレゼンテーション** – ライブデータに基づいて視覚化を自動更新します。
+- **マクロを使用した技術シミュレーション** – スライド内でシミュレーション再生を制御します。
+- **インタラクティブなエンジニアリングコンテンツ** – プレゼンテーション中にダイアグラムのリアルタイム修正を可能にします。
+
+## ⚙️ 自動化シナリオ
+- **Javaスライド自動化ツール** – CGMファイルから直接マクロを有効にしたスライドを作成します。
+- **AI生成マクロスライドデッキ** – 自動化とAI生成コンテンツを組み合わせて洞察を得ます。
+- **テンプレートベースのダイナミックコンテンツパイプライン** – 大規模に技術プレゼンテーションテンプレートを生成および更新します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

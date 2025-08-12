@@ -61,7 +61,22 @@ DOCをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主な使用用途</h2>
+- 分析用のテキストからスプレッドシートへのデータ移行  
+- OpenOffice/LibreOffice Calc 環境との統合  
+- 複雑なスプレッドシート計算のための文書の準備  
+- ネイティブ形式でのオープンソースコラボレーションの可能化  
+
+<h2>⚙️ 自動化シナリオ</h2>
+- DOC から SXC へのバッチ変換システム  
+- 正確な書式設定のためのスタイルからセルへの自動マッピング  
+- 大規模データセット向けの文書からスプレッドシートへの変換ツール  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

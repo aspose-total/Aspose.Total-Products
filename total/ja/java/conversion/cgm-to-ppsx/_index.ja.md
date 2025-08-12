@@ -59,7 +59,23 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをPPSX（Open XMLスライドショー）に変換することで、編集不可能でクロスプラットフォームで最適化されたポータブルなスライドショーファイルの作成が効率化されます。CGMダイアグラムを即座の閲覧用に意図されたプレゼンテーションに埋め込むのに最適です。
+
+## ✅ 主な使用シナリオ
+- **自動スライドプレゼンテーション** – エンジニアリングビジュアルから事前に作成されたスライドショーを生成します。
+- **クロスプラットフォームのビジュアルブリーフィング** – 現代のPowerPointバージョン間の互換性を確保します。
+- **レポートへの埋め込みベクターグラフィック** – 高品質の技術画像を使用したプレゼンテーションを提供します。
+
+## ⚙️ 自動化シナリオ
+- **Javaベースのファイル生成ツール** – CGMソースから直接PPSXファイルを作成します。
+- **バッチスライドショープロダクション** – 読み取り専用プレゼンテーションの大量生産を自動化します。
+- **スマートレポーティングシステム** – CGMダイアグラムを自動化されたプレゼンテーションパッケージに統合します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

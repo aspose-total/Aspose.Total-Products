@@ -47,7 +47,25 @@ Konwertując plik CGM na XLTM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie plików CGM na format **XLTM (Szablon programu Excel z obsługą makr)** wspiera zautomatyzowane przepływy pracy w platformach Java, umożliwiając korzystanie z wstępnie skonfigurowanych szablonów z wbudowanymi makrami do procesów technicznych. Pozwala to inżynierom szybko generować raporty z obsługą makr, uruchamiać zautomatyzowane obliczenia i aktualizować wizualizacje na podstawie danych wejściowych CGM bez konieczności przebudowywania logiki arkusza kalkulacyjnego.
+
+## ✅ Główne przypadki użycia
+- Szablony z obsługą makr do automatyzacji procesów inżynieryjnych.
+- Automatyczne raportowanie z obliczeniami zintegrowanymi z CGM.
+- Inteligentne przepływy dokumentów dla zespołów produkcyjnych i badawczych.
+- Szablony kontroli jakości z wbudowanymi makrami walidacyjnymi.
+
+## ⚙️ Scenariusze automatyzacji
+- Renderowanie szablonów z makrami w aplikacjach przedsiębiorstwowych Java.
+- Generowanie wsadowe szablonów CGM-na-XLTM dla różnych projektów.
+- Potoki raportowania z obsługą makr opartych na ETL.
+- Makra wywoływane przez Javę do raportowania operacyjnego na żywo.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

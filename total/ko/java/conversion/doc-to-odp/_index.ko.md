@@ -54,7 +54,24 @@ API를 사용하면 암호로 보호된 DOC 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **ODP (OpenDocument Presentation)**은 Word 콘텐츠를 프레젠테이션 슬라이드로 재사용하면서 오픈 표준 호환성을 유지하는 데 유용합니다. 이는 LibreOffice Impress, OpenOffice 및 기타 프레젠테이션 도구 간의 이동성을 보장합니다.
+
+## ✅ 주요 사용 사례
+- Word 기반 보고서에서 프레젠테이션 생성  
+- 텍스트 및 이미지를 LibreOffice Impress로 이전  
+- 속도를 위한 텍스트에서 슬라이드 변환 자동화  
+- 벤더 중립적 형식으로 프레젠테이션 공유  
+
+## ⚙️ 자동화 시나리오
+- 즉시 변환을 위한 DOC-to-ODP 슬라이드 생성기  
+- Java 기반 프레젠테이션 템플릿 도구  
+- 자동화된 콘텐츠 재활용 워크플로우  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -42,7 +42,25 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Wypróbuj naszą bezpłatną aplikację do konwersji CSV na DOCM</a></p>
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie pliku CSV na DOCM (Dokument programowany makrami Word) jest kluczowe do tworzenia interaktywnych, zautomatyzowanych raportów z ustrukturyzowanych zbiorów danych. Pliki DOCM obsługują makra VBA, umożliwiając zaawansowaną automatyzację, taką jak dynamiczne obliczenia, formatowanie warunkowe i aktualizacje dokumentów oparte na danych.
+
+## ✅ Główne przypadki użycia
+- **Generowanie zautomatyzowanych raportów z wbudowanymi makrami VBA** – Tworzenie interaktywnych raportów z wbudowaną logiką.
+- **Biznesowe pulpity nawigacyjne oparte na danych w programie Word** – Tworzenie pulpitu nawigacyjnego z makrami do śledzenia wydajności.
+- **Interaktywne formularze wypełniane danymi z pliku CSV** – Wypełnianie formularzy Worda strukturalnymi informacjami.
+- **Niestandardowa automatyzacja dokumentów dla przedsiębiorstw** – Włączanie makr do cyklicznych zadań raportowania.
+
+## ⚙️ Scenariusze automatyzacji
+- **Biblioteki tworzenia DOCM w oparciu o Javę** – Generowanie programowe plików Word z makrami.
+- **Konwertery CSV do DOCM z wstrzykiwaniem makr** – Wstawianie skryptów automatyzacji podczas tworzenia dokumentu.
+- **Integracja z systemami inteligencji biznesowej** – Automatyczne generowanie raportów z makrami z platform analitycznych.
+- **Zaawansowane formatowanie lub walidacja danych po wygenerowaniu za pomocą makr uruchamianych przez Javę** – Wywołanie zaawansowanego formatowania lub walidacji danych po wygenerowaniu.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

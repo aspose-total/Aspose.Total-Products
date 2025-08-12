@@ -59,7 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie CGM na POTX (szablon prezentacji Open XML) zapewnia elastyczny, nowoczesny format szablonu do skalowalnych przepływów pracy prezentacyjnej w biznesie i inżynierii. POTX obsługuje grafikę wektorową, co czyni go idealnym do technicznych wizualizacji opartych na CGM, które muszą być ponownie wykorzystywane w wielu zestawach slajdów.
+
+## ✅ Kluczowe przypadki użycia
+- **Standardowe raporty wizualne branżowe** – Przygotuj profesjonalne układy dla prezentacji klientom i interesariuszom.
+- **Szablony projektowania inżynieryjnego** – Wstaw skalowalne diagramy wektorowe do wielokrotnego użytku.
+- **Ponownie wykorzystywane slajdy z marką** – Zapewnij spójność tożsamości korporacyjnej w różnych działach.
+
+## ⚙️ Scenariusze automatyzacji
+- **Systemy dokumentów Open XML oparte na Javie** – Zautomatyzuj konwersję CGM na POTX za pomocą interfejsów API Apache POI XSLF.
+- **Automatyzacja treści przedsiębiorstwa** – Usprawnij tworzenie bibliotek szablonów z marką.
+- **Szablony prezentacji w potokach** – Zintegruj je w potoki CI/CD dla automatycznego przygotowywania zestawów slajdów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

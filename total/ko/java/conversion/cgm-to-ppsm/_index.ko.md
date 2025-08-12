@@ -59,7 +59,23 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM을 PPSM(매크로 활성화된 PowerPoint 쇼)으로 변환하면 슬라이드쇼 모드에서 직접 시작되는 동적 대화식 프레젠테이션을 지원합니다. 이는 기술 대시보드, 실시간 시뮬레이션, Java 기반 워크플로우에서의 대화식 브리핑에 이상적입니다.
+
+## ✅ 주요 사용 사례
+- **동적 시각적 대시보드** - 프레젠테이션 중 다이어그램의 실시간 업데이트.
+- **매크로가 내장된 기술 프레젠테이션** - 대화식 데이터 탐색 가능.
+- **자동화된 시뮬레이션 디스플레이** - 수동 설정 없이 실시간 시뮬레이션 출력 제공.
+
+## ⚙️ 자동화 시나리오
+- **Java 기반 PowerPoint 매크로 렌더링 엔진** - 매크로 활성화된 슬라이드쇼 생성 및 전달.
+- **대화식 기술 브리핑** - Java로 생성된 다이어그램 및 계산 삽입.
+- **스마트 프레젠테이션 플로우** - 여러 PPSM 파일을 연결하여 안내형 프레젠테이션 시스템으로 구성.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

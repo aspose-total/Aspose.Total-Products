@@ -61,7 +61,24 @@ DOCをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOC**を**XLT（Excelテンプレート）**に変換すると、Wordコンテンツから再利用可能なスプレッドシートテンプレートを作成できます。これにより、ビジネスプロセス、フォーム、およびレポートレイアウトの標準化がサポートされます。
+
+## ✅ 主なユースケース
+- 企業のレポートテンプレートの標準化
+- 繰り返しのワークフロー用の事前入力済みテンプレートの作成
+- フォームを構造化されたスプレッドシートテンプレートに変換
+- 部門全体でのレポートの一貫性
+
+## ⚙️ 自動化シナリオ
+- DOCからXLTへのテンプレート作成ツール
+- ドキュメントからテンプレートへの自動マッピング
+- 中央集権化されたテンプレート生成ワークフロー
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

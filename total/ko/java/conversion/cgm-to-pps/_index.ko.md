@@ -59,7 +59,23 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM 파일을 PPS(PowerPoint Show)로 변환하면 슬라이드 쇼 모드로 열리는 실행 가능한 프레젠테이션이 생성되어, 감독 없이나 키오스크 스타일 디스플레이에 적합합니다. 엔지니어링 팀과 비즈니스는 시각적 설명서 및 정적 다이어그램 프레젠테이션에 사용할 수 있습니다.
+
+## ✅ 주요 사용 사례
+- **키오스크 기반 프레젠테이션** - 전시회 및 컨퍼런스에서의 자동 디스플레이 루프.
+- **엔지니어링 설계 안내** - 설계 검토 세션을 위한 시각적 설명.
+- **읽기 전용 비즈니스 슬라이드** - 공유 시 수정을 방지합니다.
+
+## ⚙️ 자동화 시나리오
+- **자바 기반 키오스크 앱** - 공개 디스플레이를 위해 CGM 다이어그램에서 PPS 파일 생성.
+- **동적 슬라이드 쇼 생성기** - 엔지니어링 데이터로부터 루핑 쇼를 자동으로 생성.
+- **감독 없는 보고서 프레젠테이션** - 보고 주기에 대한 자동 재생 일정화.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

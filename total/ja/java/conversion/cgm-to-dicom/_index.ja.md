@@ -57,7 +57,38 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+
+- **Java 統合型放射線ビューア**  
+  診断解釈を向上させるために、CGM ベースの医療図解を Java ベースの DICOM ビューア内で直接表示します。
+
+- **病院情報システム (HIS)**  
+  病院ネットワーク全体でアクセス可能な標準化された画像記録のために、CGM を DICOM に変換します。
+
+- **放射線データ交換**  
+  DICOM のグローバル標準を使用して、医療施設間で変換された画像ファイルのスムーズな転送を実現します。
+
+- **診断の視覚化**  
+  多様な画像形式を統一し、PACS、放射線ビューア、AI による診断ツールでアクセス可能にすることで、臨床ワークフローを改善します。
+
+
+## ⚙️ 自動化シナリオ
+
+- **DICOM ハンドリングのための Java API**  
+  画像処理と DICOM メタデータ管理のための Java ライブラリを使用して、CGM から DICOM への変換パイプラインを自動化します。
+
+- **PACS システム統合**  
+  変換された DICOM 画像を直接 Picture Archiving and Communication Systems に供給し、瞬時に取得および保存します。
+
+- **Java ベースの ETL パイプライン**  
+  病院全体の画像データ管理のために、自動変換を Extract-Transform-Load ワークフローに統合します。
+
+- **AI による診断ワークフロー**  
+  変換された DICOM 画像を分析するために Java 統合 AI モデルを使用し、パターン認識、異常検出、予測診断を行います。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

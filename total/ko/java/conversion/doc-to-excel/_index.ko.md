@@ -61,7 +61,22 @@ DOC를 EXCEL로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 주요 사용 사례</h2>
+- 워드 테이블을 대화식 엑셀 시트로 변환하기  
+- 분석을 위해 금융 데이터를 엑셀로 이관하기  
+- 문서 콘텐츠를 자동 보고 대시보드에 통합하기  
+- 팀에서 협업 데이터 편집을 용이하게 하기  
+
+<h2>⚙️ 자동화 시나리오</h2>
+- 직접 변환을 위한 DOC-to-EXCEL 변환기  
+- VBA를 활용한 테이블 이관 스크립트  
+- 워드 데이터를 엑셀로 통합하는 자동 보고 파이프라인
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

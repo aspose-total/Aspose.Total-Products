@@ -47,7 +47,27 @@ CGM 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Computer Graphics Metafile) 파일을 ODS (OpenDocument Spreadsheet)로 변환하면 오픈 소스 스프레드시트 형식에서 벡터 기반 다이어그램과 구조화된 데이터를 결합할 수 있습니다. 이 변환은 테이블 데이터와 고품질 시각 자료가 모두 필요한 기술 보고서, 공학 문서 및 분석 작업에 필수적입니다.
+
+## ✅ 주요 사용 사례
+- 내장 다이어그램이 포함된 테이블 엔지니어링 보고서 작성.
+- 시각적 참조를 포함하는 오픈 소스 프로젝트 문서화.
+- 벡터 기반 차트와 과학적 데이터 분석.
+- 통합 도식과 함께 제조 공정 추적.
+- 도표 데이터를 포함하는 환경 및 조사 보고서.
+
+## ⚙️ 자동화 시나리오
+- Java 기반 ETL 시스템이 결합된 데이터 및 다이어그램을 내보내기.
+- 구조화된 시각적 콘텐츠를 위한 과학 데이터 내보내기 도구.
+- 다중 형식 기술 문서를 위한 오피스 상호 운용성 API.
+- 자동화된 데이터 시각화 파이프라인.
+- 크로스 플랫폼 액세스를 위한 LibreOffice Calc 통합.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

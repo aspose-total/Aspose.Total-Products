@@ -57,7 +57,23 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをWMF（Windows Metafile）に変換すると、Microsoft Officeや旧Windowsアプリケーションとの互換性が確保されます。これにより、ベクターダイアグラムを文書、プレゼンテーション、自動出版システムに埋め込むことが容易になります。
+
+## ✅ 主な使用用途
+- **Officeアプリケーションへのグラフィックの埋め込み** – Word、PowerPoint、Excelでダイアグラムを使用します。
+- **レガシーエンタープライズアプリケーション** – 古いビジネスシステムのサポートを維持します。
+- **ドキュメント自動化** – テンプレートに動的なベクターイラストを挿入します。
+
+## ⚙️ 自動化シナリオ
+- **Java-ActiveXブリッジシステム** – CGMソースからのWMF生成を自動化します。
+- **ベクターフォーマットの標準化パイプライン** – エンタープライズでのグラフィック形式を標準化します。
+- **ドキュメントパブリッシングエンジン** – 大量の出版ワークフローにダイアグラムを統合します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM（Computer Graphics Metafile）ファイルをODP（OpenDocument Presentation）に変換すると、高品質のベクターダイアグラムをオープンソースのプレゼンテーション形式にシームレスに統合できます。この変換は、画質を犠牲にすることなく、教育、企業、技術プレゼンテーションでのプロフェッショナルなビジュアルストーリーテリングを可能にするために理想的です。
+
+## ✅ 主な使用シナリオ
+- ベクターダイアグラムをLibreOffice Impressプレゼンテーションに埋め込む。
+- クロスプラットフォームの技術および企業レポートの生成。
+- スケーラブルなイラストを使用した教育用ビジュアルコンテンツの作成。
+- エンジニアリング図面をプレゼンテーションスライドに統合する。
+- 精密なグラフィックを使用した科学会議資料の強化。
+
+## ⚙️ 自動化シナリオ
+- Javaベースのドキュメントパイプライン統合による自動スライド生成。
+- LibreOffice互換のプレゼンテーション制作システム。
+- 技術部門向けのエンタープライズコンテンツ生成ツール。
+- ダイアグラムからプレゼンテーションへのAPIベースのワークフロー。
+- 大規模プレゼンテーション用のCGMダイアグラムのバッチ処理。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

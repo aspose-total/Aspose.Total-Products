@@ -47,7 +47,25 @@ CGMファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMファイルを**XLTM（マクロ有効Excelテンプレート）**形式に変換すると、Javaプラットフォームでの自動化駆動ワークフローをサポートし、技術プロセス用に埋め込まれたマクロを持つ事前構成済みテンプレートを有効にします。これにより、エンジニアはスプレッドシートのロジックを再構築することなく、マクロを使用したレポートを迅速に生成し、自動計算を実行し、CGM入力から視覚化を更新できます。
+
+## ✅ 主なユースケース
+- エンジニアリングプロセスの自動化のためのマクロ有効テンプレート。
+- CGM統合計算を使用した自動レポート作成。
+- 製造および研究開発チーム向けのスマートドキュメントワークフロー。
+- 組み込み検証マクロを備えた品質管理テンプレート。
+
+## ⚙️ 自動化シナリオ
+- Javaエンタープライズアプリケーションでのマクロテンプレートのレンダリング。
+- 異なるプロジェクト向けのバッチCGM-to-XLTMテンプレート生成。
+- ETLベースのマクロ有効レポートパイプライン。
+- ライブ運用レポート用のJavaトリガードマクロ。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

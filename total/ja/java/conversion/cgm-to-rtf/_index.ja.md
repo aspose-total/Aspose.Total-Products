@@ -42,7 +42,35 @@ CGMをRTFに変換している間、ドキュメントがパスワードで保�
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **リッチテキスト形式へのグラフィックの埋め込み**  
+  CGMの視覚要素を直接RTF文書に統合し、テキストと画像を組み合わせた技術文書を作成します。
+
+- **構造化文書のアーカイブ**  
+  幅広いエディタでサポートされる形式で、長期アクセス用にCGMで強化されたRTFファイルを保存します。
+
+- **エンジニアリング仕様書の共有**  
+  普遍的にサポートされるRTFファイルを使用して、埋め込まれたCGMダイアグラムを含む詳細な仕様書を関係者に配布します。
+
+
+## ⚙️ 自動化シナリオ
+
+- **Java RTF互換ライブラリ**  
+  **Apache POI-HWPF**や専用のRTF生成Java APIを使用して、CGMからRTFへの変換を自動化します。
+
+- **ドキュメントパイプラインの統合**  
+  Javaベースのコンテンツワークフロー内にRTF生成を組み込み、豊富にフォーマットされた技術レポートを作成します。
+
+- **技術ファイルのバッチ処理**  
+  複数のCGMダイアグラムをRTFアーカイブに変換して、大量配布や保存を行います。
+
+- **クロスプラットフォームの文書配信**  
+  Javaの自動化を使用して、異なるオペレーティングシステムやアプリケーションでアクセス可能な形式でCGMベースのRTFファイルを生成します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Computer Graphics Metafile) 파일을 OTP (OpenDocument Presentation Template)으로 변환하면 재사용 가능하고 벡터 풍부한 프레젠테이션 템플릿을 쉽게 만들 수 있습니다. 이 형식은 팀과 부서 전체에서 일관된 브랜드화된 기술 슬라이드 디자인이 필요한 조직에 적합합니다.
+
+## ✅ 주요 사용 사례
+- 재사용 가능한 기술 프레젠테이션 템플릿 디자인.
+- 공학 및 과학 분야를 위한 벡터 기반 슬라이드 형식.
+- 반복 프레젠테이션을 위한 산업별 보고서 레이아웃.
+- 자세한 다이어그램이 포함된 교육용 슬라이드 템플릿.
+- 내장된 도표가 있는 기업용 템플릿 라이브러리.
+
+## ⚙️ 자동화 시나리오
+- 사용자 정의 슬라이드 템플릿을 생성하는 Java 기반 보고 엔진.
+- 기술 팀을 위한 자동화된 템플릿 생성 도구.
+- CGM 그래픽을 OTP 템플릿에 임베드하기 위한 API 기반 워크플로우.
+- 표준화된 산업 프레젠테이션을 생성하기 위한 일괄 처리.
+- LibreOffice 호환 템플릿 배포 시스템.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

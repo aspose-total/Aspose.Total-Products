@@ -57,7 +57,19 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+- 記事、レポート、オンラインプラットフォームでのCGMダイアグラムの公開
+- JavaベースのデスクトップアプリケーションやWebアプリケーションへのビジュアルの埋め込み
+- プレゼンテーションやソフトウェアでのクロスプラットフォーム利用のための一般的なラスタライゼーション
+
+## ⚙️ 自動化シナリオ
+- 大量のCGMラスタライゼーションのためのJavaイメージングSDK統合
+- クラウドベースの処理パイプラインでのリアルタイムバッチ変換
+- ダイナミックな表示ニーズのためのハイブリッドベクターラスターレンダリングシステム
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

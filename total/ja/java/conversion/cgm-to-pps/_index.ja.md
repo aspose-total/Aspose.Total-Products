@@ -59,7 +59,23 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMファイルをPPS（PowerPoint Show）に変換すると、スライドショーモードで開く準備が整ったプレゼンテーションが可能になり、無人またはキオスクスタイルのディスプレイに最適です。エンジニアリングチームやビジネスは、視覚的な説明や静的な図表プレゼンテーションにこれを活用できます。
+
+## ✅ 主な使用シナリオ
+- **キオスクベースのプレゼンテーション** – 展示会や会議での自動表示ループ。
+- **エンジニアリング設計の説明** – 設計レビューセッション用の視覚的な説明。
+- **読み取り専用のビジネススライド** – 共有時に意図しない編集を防止。
+
+## ⚙️ 自動化シナリオ
+- **Javaベースのキオスクアプリ** – CGM図からPPSファイルを生成して公開ディスプレイに表示。
+- **ダイナミックスライドショー作成ツール** – エンジニアリングデータからループ表示を自動生成。
+- **無人レポートプレゼンテーション** – レポートサイクルのための自動再生をスケジュール。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

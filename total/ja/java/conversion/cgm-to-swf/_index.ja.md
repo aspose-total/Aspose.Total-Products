@@ -70,7 +70,19 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- **レガシートレーニングシミュレータ** – オペレータトレーニング用のインタラクティブな図を表示します。
+- **アニメーション化された技術マニュアル** – 保守および操作ガイドに動きを追加します。
+- **ブラウザベースの可視化ツール** – Flash対応環境でベクターグラフィックスを提供します。
+
+## ⚙️ 自動化シナリオ
+- **JavaベースのベクターからFlashへのライブラリ** – レガシーアプリケーション向けにCGMグラフィックスをSWFに変換します。
+- **レガシーレンダリングサービス** – 再設計せずに既存のプラットフォームをサポートします。
+- **eラーニングコンテンツ移行ツール** – Flashベースのトレーニングコースとの互換性を維持します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

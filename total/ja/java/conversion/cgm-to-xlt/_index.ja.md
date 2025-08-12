@@ -47,7 +47,21 @@ CGMファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+- 繰り返し発生する技術レポート用の再利用可能なエンジニアリングテンプレート。
+- CGMベースの図式統合用の事前フォーマット済みレイアウト。
+- 品質管理および検査シートの迅速な生成。
+- 企業文書の一貫したブランディングとフォーマット。
+
+## ⚙️ 自動化シナリオ
+- 大量のXLT生成のためのJavaベースのスプレッドシートテンプレートシステム。
+- 自動パイプラインを介したCGMデータからのテンプレートの作成。
+- XLTベースの出力のための企業向けレポーティングツールとの統合。
+- 企業全体のレポート標準化のためのバッチ変換。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

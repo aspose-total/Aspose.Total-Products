@@ -61,7 +61,24 @@ Po przekonwertowaniu DOC na XLT [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOC** na **XLT (szablon Excela)** umożliwia tworzenie wielokrotnie używanych szablonów arkuszy kalkulacyjnych z treści Worda. Wsparcie dla standaryzacji procesów biznesowych, formularzy i układów raportów.
+
+## ✅ Główne przypadki użycia
+- Standaryzacja szablonów raportów przedsiębiorstwa
+- Tworzenie wypełnionych wstępnie szablonów do powtarzalnych prac
+- Konwertowanie formularzy na strukturalne szablony arkuszy kalkulacyjnych
+- Spójność w raportowaniu na poziomie działu
+
+## ⚙️ Scenariusze automatyzacji
+- Narzędzia do tworzenia szablonów DOC-to-XLT
+- Automatyczne mapowanie dokumentów na szablony
+- Skentralizowane procesy generowania szablonów
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ DOC를 TSV로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **TSV (Tab-Separated Values)**은 리치 텍스트 문서에서 구조화된 일반 텍스트 데이터를 가볍고 탭으로 구분된 형식으로 추출하는 데 중요합니다. TSV는 데이터베이스, 스프레드시트 및 분석 도구에서 널리 지원되어 데이터 교환 및 처리에 이상적입니다.
+
+## ✅ 주요 사용 사례
+- 데이터베이스 가져오기를 위한 문서 테이블을 TSV로 내보내기
+- 분석 플랫폼을 위한 데이터 준비
+- Excel 및 Google Sheets와 같은 스프레드시트 애플리케이션과 통합
+- 가벼운 구조화된 데이터 세트 공유
+
+## ⚙️ 자동화 시나리오
+- DOC-to-TSV 테이블 추출 소프트웨어
+- 일괄 처리를 위한 자동 변환 스크립트
+- 탭으로 구분된 출력 생성을 위한 문서 구문 분석
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

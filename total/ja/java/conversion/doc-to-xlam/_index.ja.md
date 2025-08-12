@@ -61,7 +61,20 @@ DOCをXLAMに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- ドキュメントベースのマクロをExcelアドインに埋め込む
+- 繰り返しのスプレッドシート処理を自動化する
+- カスタムExcel機能を作成する
+- 企業全体にわたるExcel自動化ツールの配布
+
+## ⚙️ 自動化シナリオ
+- DOCからXLAMへのマクロ抽出スクリプト
+- VBAコードの自動化されたパッケージング
+- 大規模なExcel自動化展開ワークフロー
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

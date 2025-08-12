@@ -47,7 +47,21 @@ CGMファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- 品質管理文書のためのCGM図面から属性を抽出します。
+- 統計分析のためにCGMメタデータをCSVテーブルに変換します。
+- レポートやダッシュボードのために構造化されたエンジニアリングデータを解析します。
+- Excel、Google Sheets、およびBIプラットフォームとの互換性を実現します。
+
+## ⚙️ 自動化シナリオ
+- CGMファイルをCSVにバッチ変換します。
+- Javaベースの製造システムでのスケジュールされたCGM-to-CSVパイプライン。
+- リアルタイムの更新のためにJavaパワードBIダッシュボードとの統合。
+- アーカイブと規制遵守のための自動生成CSV。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,25 @@ CGM 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM 파일을 **XLT (Excel 템플릿)** 형식으로 변환하는 Java 기반 애플리케이션은 기술 및 엔지니어링 보고서를 위한 일관된, 재사용 가능한 스프레드시트 레이아웃을 보장합니다. XLT 템플릿은 포맷팅, 데이터 배치 및 차트 작성을 표준화하여 CGM 기반 다이어그램이나 데이터 추출로부터 구조화된 보고서를 빠르게 생성할 수 있게 합니다.
+
+## ✅ 주요 사용 사례
+- 주기적인 기술 보고서를 위한 재사용 가능한 엔지니어링 템플릿.
+- CGM 기반 다이어그램 통합을 위한 서식이 미리 설정된 레이아웃.
+- 품질 관리 및 검사 시트의 신속한 생성.
+- 기업 문서의 일관된 브랜딩 및 포맷팅.
+
+## ⚙️ 자동화 시나리오
+- 대량 XLT 생성을 위한 Java 기반 스프레드시트 템플릿 시스템.
+- 자동화된 파이프라인을 통해 CGM 데이터로부터 템플릿 채우기.
+- XLT 기반 출력을 위한 기업 보고 도구 통합.
+- 회사 전체 보고서 표준화를 위한 일괄 변환.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

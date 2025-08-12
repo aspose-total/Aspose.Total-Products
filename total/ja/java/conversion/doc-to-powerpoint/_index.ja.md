@@ -54,7 +54,20 @@ APIを使用すると、パスワードで保護されたDOCドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+- 詳細なレポートをスライドデッキに変換する  
+- ミーティングの要約をプレゼンテーション用に視覚化する  
+- 視覚的な構造で企業プレゼンテーションを強化する  
+- 取扱説明書からトレーニングコンテンツを作成する  
+
+## ⚙️ 自動化シナリオ
+- 高速変換のためのDOCからPPTへのワークフロー  
+- 自動スライドスタイリングとレイアウトのフォーマット設定  
+- 効率のための一括文書からプレゼンテーションへの変換  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

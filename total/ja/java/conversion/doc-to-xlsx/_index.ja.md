@@ -61,7 +61,20 @@ DOCをXLSXに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- 構造化された文書データを現代のスプレッドシートにエクスポートする  
+- クリーンで構造化された出力を使用したBIパイプラインの統合  
+- レポートを編集可能で分析に適したスプレッドシートに変換する  
+- すべての主要なスプレッドシートソフトウェアとの互換性を確保する  
+
+## ⚙️ 自動化シナリオ
+- DOCからXLSXへのXMLマッピングエンジン  
+- 自動化されたスプレッドシート生成ワークフロー  
+- 構造化されたXML出力を使用したドキュメントの解析  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,23 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na POTM (szablon PowerPoint z obsługą makr) konwersja umożliwia zespołom technicznym osadzanie interaktywnych funkcji, zautomatyzowanych obliczeń i dynamicznych diagramów w wielokrotnie używanych szablonach prezentacji. W systemach opartych na Javie pozwala to na potężną automatyzację szkoleń inżynieryjnych, prezentacji symulacyjnych i raportowania korporacyjnego.
+
+## ✅ Kluczowe przypadki użycia
+- **Interaktywne treści szkoleniowe** – Prezentacje z obsługą makr dla szkoleń pracowników i rozwoju umiejętności.
+- **Prezentacje przyjazne automatyzacji** – Automatyzacja generowania powtarzalnych treści slajdów.
+- **Szablony makr inżynieryjnych** – Tworzenie diagramów technicznych z osadzoną logiką makr dla aktualizacji w czasie rzeczywistym.
+
+## ⚙️ Scenariusze automatyzacji
+- **Generowanie slajdów z obsługą makr w Javie** – Tworzenie plików POTM z osadzonymi makrami za pomocą interfejsów API Javy.
+- **Kreatorzy dynamicznych raportów** – Automatyczne generowanie szablonów gotowych do obsługi makr dla różnych typów projektów.
+- **Procesory wsadowe szablonów PowerPoint** – Automatyzacja dystrybucji szablonów z makrami na dużą skalę w przedsiębiorstwach.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

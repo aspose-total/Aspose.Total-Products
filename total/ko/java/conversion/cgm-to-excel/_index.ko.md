@@ -47,7 +47,35 @@ CGM 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM 다이어그램을 Excel (.xlsx) 형식으로 변환하는 것은 기업 보고서, 엔지니어링 분석 및 구조화된 데이터 시각화에 실용적입니다. Java 기반의 워크플로우에서 이 변환은 CGM 그래픽에서 메트릭, 기술 명세 및 차트 데이터를 스프레드시트로 추출하여 분석, 보고 및 의사 결정에 활용할 수 있게 합니다. Excel 통합을 통해 시각적 다이어그램을 탭형 데이터셋과 결합하여 완전한 기술 보고서를 작성할 수 있습니다.
+
+## ✅ 주요 사용 사례
+
+- **임베디드 엔지니어링 메트릭**  
+  CGM 다이어그램에서 측정 값을 Excel로 캡처하여 계산 및 트렌드 분석에 활용합니다.
+
+- **기술 보고서 생성**  
+  구조화된 Excel 데이터와 결합하여 포괄적인 엔지니어링 또는 프로젝트 보고서를 작성합니다.
+
+- **다이어그램에서 차트 추출**  
+  벡터 기반의 CGM 차트를 편집 가능한 Excel 차트 객체로 변환하여 추가적인 사용자 정의를 수행합니다.
+
+## ⚙️ 자동화 시나리오
+
+- **Excel 생성을 위한 Apache POI**  
+  Java의 **Apache POI** 라이브러리를 사용하여 CGM을 Excel로 자동 변환하고 추출된 값으로 셀을 채웁니다.
+
+- **자동화된 스프레드시트 작성**  
+  CGM 데이터 구문 분석을 Java 기반의 보고 엔진과 통합하여 동적으로 Excel 시트를 생성합니다.
+
+- **기업 보고 시스템**  
+  대규모 엔지니어링 데이터 처리를 위해 Java 기반의 BI 또는 ETL 파이프라인에 CGM을 Excel로 변환하는 워크플로우를 통합합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,24 @@ Interfejs API umożliwia również konwersję dokumentów DOC chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOC** na **ODP (OpenDocument Presentation)** jest wartościowe dla ponownego wykorzystania treści z programu Word w slajdach prezentacji, zachowując kompatybilność ze standardami otwartymi. Zapewnia to przenośność między LibreOffice Impress, OpenOffice i innymi narzędziami do prezentacji.
+
+## ✅ Główne przypadki użycia
+- Tworzenie prezentacji na podstawie raportów w formacie Word  
+- Migracja tekstu i obrazów do LibreOffice Impress  
+- Automatyzacja transformacji tekstu na slajdy dla szybkości  
+- Udostępnianie prezentacji w formacie neutralnym dla dostawców  
+
+## ⚙️ Scenariusze automatyzacji
+- Generatory slajdów DOC-to-ODP dla natychmiastowej konwersji  
+- Narzędzia szablonowania prezentacji oparte na Javie  
+- Zautomatyzowane przeprojektowywanie treści  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

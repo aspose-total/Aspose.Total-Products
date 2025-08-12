@@ -47,7 +47,32 @@ CGMファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **レガシースプレッドシートシステムの移行**  
+  CGMデータをDIFに変換して、企業環境でまだ使用されている古いスプレッドシートプログラムにシームレスにインポートします。
+
+- **科学計算プラットフォーム**  
+  物理学、化学、環境モデリングの数値解析ツールとの互換性のために、グラフィカルなCGMデータをDIFに変換します。
+
+- **エンジニアリングアプリでの構造化データモデリング**  
+  エンジニアリングシミュレーションやCADデータ統合のために、DIFを使用してCGMベースの図式を構造化された表形式で表現します。
+
+
+## ⚙️ 自動化シナリオ
+
+- **スプレッドシート変換のためのJavaライブラリ**  
+  スプレッドシート互換形式を処理するJava APIを使用して、CGMからDIFへの自動変換を実装します。
+
+- **ETLツールでのバッチ処理**  
+  大量のエンジニアリングデータや研究データを処理するためのJavaベースのExtract-Transform-Loadパイプラインに変換ステップを統合します。
+
+- **統計計算パイプラインとの統合**  
+  Javaベースのワークフローオーケストレーションを介して、変換されたDIFファイルをR、MATLAB、またはPythonの統計解析モジュールに自動的に供給します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

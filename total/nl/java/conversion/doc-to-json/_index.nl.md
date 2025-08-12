@@ -49,7 +49,24 @@ Terwijl u DOC naar JSON converteert, kunt u het bereik ook instellen op uw JSON-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOC** naar **JSON (JavaScript Object Notation)** is essentieel om Word-documentgegevens gemakkelijk te verwerken door webservices en applicaties. JSON biedt een lichtgewicht, gestructureerd formaat dat moderne API's, web-apps en NoSQL-databases ondersteunt.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Gestructureerde gegevens extraheren uit Word voor applicatiegebruik
+- Integratie van documentinhoud in web-API's
+- Zoeken en filteren mogelijk maken op op documenten gebaseerde gegevens
+- Gestructureerde Word-gegevens opslaan in NoSQL-databases
+
+## ⚙️ Automatiseringsscenario's
+- DOC-naar-JSON extractors voor directe gegevensconversie
+- Op Java gebaseerde JSON-generatiescripts voor ontwikkelaars
+- Geautomatiseerde workflows voor integratie van Word naar API
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

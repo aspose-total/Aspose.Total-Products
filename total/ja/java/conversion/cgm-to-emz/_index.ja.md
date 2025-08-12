@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用ケース
+
+- **ドキュメントの埋め込み**  
+  圧縮されたCGM由来のEMZグラフィックをWord、PowerPoint、およびその他のOfficeファイルに挿入します。
+
+- **ベクトルイラストの共有**  
+  高品質のベクトル図を軽量で圧縮されたパッケージで配布し、簡単に伝送します。
+
+- **Office互換の画像パッケージング**  
+  CGMをEMZに変換して、手動の画像調整なしでOfficeワークフローにスムーズに統合します。
+
+## ⚙️ 自動化シナリオ
+
+- **画像圧縮用Java API**  
+  WMF/EMF圧縮とベクトル最適化をサポートするJavaライブラリを使用して、CGMからEMZへの変換を自動化します。
+
+- **ドキュメント生成パイプライン**  
+  EMZ画像をJava駆動のレポート作成システムに埋め込み、スペース効率の良い技術文書を作成します。
+
+- **Windowsメタファイル処理**  
+  クロスプラットフォームアプリケーションでの互換性のために、EMFからEMZへの圧縮を処理するためにJavaツールを使用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

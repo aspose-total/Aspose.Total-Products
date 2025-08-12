@@ -59,7 +59,23 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie CGM na PPSM (Pakiet slajdów programowalnych w programie PowerPoint) obsługuje dynamiczne, interaktywne prezentacje, które uruchamiają się bezpośrednio w trybie pokazu slajdów. Jest to idealne rozwiązanie do technicznych pulpitów nawigacyjnych, symulacji na żywo i interaktywnych prezentacji w przepływach pracy opartych na Javie.
+
+## ✅ Główne przypadki użycia
+- **Dynamiczne pulpity nawigacyjne wizualizacji** – Aktualizacja diagramów w czasie rzeczywistym podczas prezentacji.
+- **Prezentacje techniczne z wbudowanymi makrami** – Umożliwia interaktywne eksplorowanie danych.
+- **Wyświetlanie zautomatyzowanych symulacji** – Prezentacja wyników symulacji na żywo bez konieczności ręcznej konfiguracji.
+
+## ⚙️ Scenariusze automatyzacji
+- **Silniki renderowania makr w programie PowerPoint oparte na Javie** – Generowanie i dostarczanie prezentacji z makrami.
+- **Interaktywne prezentacje techniczne** – Osadzanie diagramów i obliczeń wygenerowanych w Javie.
+- **Inteligentne przepływy prezentacji** – Łączenie wielu plików PPSM w system prezentacji prowadzonej.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

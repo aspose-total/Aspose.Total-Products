@@ -47,7 +47,21 @@ CGMファイルをXLSMに変換するときに、出力XLSMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- マクロを埋め込んだ自動化されたエンジニアリングレポートの生成。
+- 製造または設計データのための動的な計算ワークフロー。
+- マクロロジックを備えたExcelモデルへのCGMダイアグラムの統合。
+- マクロを使用した分析による効率化された品質管理プロセス。
+
+## ⚙️ 自動化シナリオ
+- マクロ実行サポートを備えたJava Excel自動化エンジン。
+- Java APIを使用したマクロを有効にしたスプレッドシートの生成。
+- 企業システム内のCGMデータセットからのXLSM作成のスケジュール設定。
+- リアルタイムのエンジニアリングダッシュボードのための自動化されたマクロトリガー。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

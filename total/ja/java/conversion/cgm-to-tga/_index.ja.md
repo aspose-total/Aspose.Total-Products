@@ -57,7 +57,23 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをTGA（Targa形式）に変換すると、ベクトルグラフィックスが高品質のラスター画像に変換され、テクスチャマッピング、ビジュアルエフェクト、ゲーム開発パイプラインに最適です。
+
+## ✅ 主な使用用途
+- **ベクトルグラフィックスのラスター化** – CGMダイアグラムをラスターベースのワークフローに準備します。
+- **ゲームエンジンのテクスチャ生成** – 3D環境向けのテクスチャ準備済みアセットを作成します。
+- **放送品質のコンテンツデザイン** – プロのビデオやメディア制作にTGAを使用します。
+
+## ⚙️ 自動化シナリオ
+- **Javaグラフィックスフレームワーク** – CGMをTGAに精密にレンダリングします。
+- **バッチラスター画像ジェネレータ** – 大規模なアセットライブラリの変換を自動化します。
+- **ベクトルからテクスチャへのパイプライン** – リアルタイムレンダリングのためのデザインワークフローに統合します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

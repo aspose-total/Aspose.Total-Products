@@ -79,7 +79,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをXAMLFLOWに変換することで、.NETエコシステム内でのインテリジェントUIオートメーションとプロセスの視覚化のためのビジュアルワークフロー作成が可能になります。
+
+## ✅ 主なユースケース
+- **インテリジェントUIビルダー** – 技術図表から直接UIフローを生成します。
+- **インタラクティブワークフロー** – ロジックを埋め込んだビジュアルプロセスマップを作成します。
+- **ロジック駆動型ビジュアルプログラミング** – ローコードおよびノーコードプラットフォームをサポートします。
+
+## ⚙️ オートメーションシナリオ
+- **Javaベースのダイアグラムエンジン** – CGMをワークフロー用のXAMLFLOWアセットに変換します。
+- **UIワークフロー変換ツール** – ベクトル図を実行可能なワークフローにマッピングします。
+- **DevOpsの視覚化ツール** – インフラストラクチャとプロセスフローを視覚的に表現します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

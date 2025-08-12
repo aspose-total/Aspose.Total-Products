@@ -49,7 +49,22 @@ DOCをJSONに変換しているときに、範囲を出力JSON形式に設定す
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主な使用ケース</h2>
+- アプリケーションでWordから構造化データを抽出する  
+- ドキュメントコンテンツをWeb APIに統合する  
+- ドキュメント由来のデータでの検索とフィルタリングを可能にする  
+- 構造化されたWordデータをNoSQLデータベースに保存する  
+
+<h2>⚙️ 自動化シナリオ</h2>
+- 直接データ変換用のDOC-to-JSON抽出ツール  
+- 開発者向けのJavaベースのJSON生成スクリプト  
+- 自動化されたWord-to-API統合ワークフロー  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,23 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをPOTM（マクロ有効なPowerPointテンプレート）に変換することで、技術チームはインタラクティブな機能、自動計算、ダイナミックな図を再利用可能なプレゼンテーションテンプレートに埋め込むことができます。Java駆動のシステムでは、これにより、エンジニアリングトレーニング、シミュレーションの歩行、企業報告のための強力な自動化が可能になります。
+
+## ✅ 主なユースケース
+- **インタラクティブなトレーニングコンテンツ** – スタッフのオンボーディングやスキル開発のためのマクロ機能付きプレゼンテーション。
+- **自動化に適したプレゼンテーション** – 繰り返しのスライドコンテンツ生成を自動化します。
+- **エンジニアリングマクロテンプレート** – リアルタイムの更新のためにマクロロジックを埋め込んだ技術図を作成します。
+
+## ⚙️ 自動化シナリオ
+- **Javaマクロ有効なスライド生成** – Java APIを使用してマクロを埋め込んだPOTMファイルを生成します。
+- **ダイナミックレポートビルダー** – 異なるプロジェクトタイプ用のマクロ準備のテンプレートを自動生成します。
+- **バッチPowerPointテンプレートプロセッサ** – 企業での大規模なマクロテンプレートの配布を自動化します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

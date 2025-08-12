@@ -61,7 +61,22 @@ DOCをTSVに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主な使用ケース</h2>
+- データベースへのインポートのための文書テーブルのTSVへのエクスポート
+- 分析プラットフォームのためのデータ準備
+- ExcelやGoogle Sheetsなどのスプレッドシートアプリケーションとの統合
+- 軽量な構造化データセットの共有
+
+<h2>⚙️ 自動化シナリオ</h2>
+- DOCからTSVへのテーブル抽出ソフトウェア
+- バッチ処理用の自動変換スクリプト
+- タブ区切りの出力生成によるドキュメントの解析
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

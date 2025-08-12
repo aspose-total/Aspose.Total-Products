@@ -61,7 +61,22 @@ DOC를 SXC로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 주요 사용 사례</h2>
+- 분석을 위한 텍스트에서 스프레드시트로의 데이터 이관  
+- OpenOffice/LibreOffice Calc 환경과의 통합  
+- 복잡한 스프레드시트 계산을 위한 문서 준비  
+- 네이티브 형식에서의 오픈 소스 협업 활성화  
+
+<h2>⚙️ 자동화 시나리오</h2>
+- DOC에서 SXC로의 일괄 변환 시스템  
+- 정확한 서식을 위한 스타일에서 셀 매핑 자동화  
+- 대규모 데이터셋을 위한 문서에서 스프레드시트로의 변환 도구  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,41 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Przekształcanie plików **Computer Graphics Metafile (CGM)** na format **DICOM (Digital Imaging and Communications in Medicine)** jest kluczowe dla zapewnienia kompatybilności z nowoczesnymi przepływami pracy w dziedzinie obrazowania medycznego. W systemach obrazowania medycznego opartych na **Java**, ta konwersja umożliwia bezproblemową integrację z infrastrukturą danych szpitalnych, wspiera standaryzowaną wymianę obrazów i zwiększa możliwości wizualizacji diagnostycznej. Poprzez przekształcenie rysunków lub diagramów CGM na format DICOM, organizacje medyczne mogą unifikować różnorodne formaty obrazów, umożliwiając dostęp do nich w ramach **PACS**, przeglądarek radiologicznych i narzędzi diagnostycznych opartych na sztucznej inteligencji.
+
+## ✅ Kluczowe przypadki użycia
+
+- **Przeglądarki radiologiczne zintegrowane z Javą**  
+  Wyświetlaj medyczne ilustracje oparte na CGM bezpośrednio w przeglądarkach DICOM zasilanych przez Javę, dla usprawnionej interpretacji diagnostycznej.
+
+- **Systemy Informacji Szpitalnej (HIS)**  
+  Konwertuj CGM na DICOM w celu uzyskania standaryzowanych rekordów obrazowych dostępnych w sieciach szpitalnych.
+
+- **Wymiana Danych Radiologicznych**  
+  Umożliwiaj płynny transfer przekonwertowanych plików obrazowych między placówkami medycznymi przy użyciu globalnego standardu DICOM.
+
+- **Wizualizacja Diagnostyczna**  
+  Poprawiaj przepływy pracy klinicznej poprzez osadzanie przekonwertowanych danych CGM w badaniach obrazowania wielomodalnego.
+
+## ⚙️ Scenariusze automatyzacji
+
+- **API Javy do Obsługi DICOM**  
+  Automatyzuj potoki konwersji CGM na DICOM przy użyciu bibliotek Javy do przetwarzania obrazów i zarządzania metadanymi DICOM.
+
+- **Integracja z Systemem PACS**  
+  Wprowadzaj przekonwertowane obrazy DICOM bezpośrednio do Systemów Archiwizacji i Komunikacji Obrazów dla natychmiastowego pobierania i przechowywania.
+
+- **Potoki ETL oparte na Javie**  
+  Zintegruj automatyczną konwersję w potoki Extract-Transform-Load do zarządzania danymi obrazowymi na szczeblu szpitalnym.
+
+- **Przepływy Pracy Diagnostycznej z Wykorzystaniem SI**  
+  Wykorzystaj zintegrowane modele SI w Javie do analizy przekonwertowanych obrazów DICOM w celu rozpoznawania wzorców, wykrywania anomalii i diagnostyki predykcyjnej.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

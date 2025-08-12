@@ -47,7 +47,23 @@ CGMファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMからSXC（OpenOffice Calc形式）への変換により、技術グラフィックスや表形式データをオープンソースのスプレッドシートシステムに統合できます。LibreOfficeや他のオープンドキュメントベースのプラットフォームとの互換性をサポートしています。
+
+## ✅ 主な使用用途
+- **エンジニアリングテーブルの統合** – テクニカルレポート用の図とデータテーブルを組み合わせます。
+- **オープンソーススプレッドシートのアーカイブ** – データと並行してベクターベースの技術イラストを保存します。
+- **LibreOfficeベースのツールとの互換性** – クロスプラットフォーム環境でのスムーズなファイル使用を確保します。
+
+## ⚙️ 自動化シナリオ
+- **Javaによるデータ変換ワークフロー** – CGMをスプレッドシート用の形式に変換します。
+- **オープンドキュメントETLルーチン** – ベクターダイアグラムのスプレッドシートへの自動インポートを実行します。
+- **クロスプラットフォームレポーティングシステム** – ビジュアルを自動レポート生成に埋め込みます。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

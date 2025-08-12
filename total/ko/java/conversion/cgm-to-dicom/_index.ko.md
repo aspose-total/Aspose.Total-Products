@@ -57,7 +57,38 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 주요 사용 사례
+
+- **자바 통합 라디오로지 뷰어**  
+  진단 해석을 향상시키기 위해 자바 기반 DICOM 뷰어 내에서 CGM 기반 의료 그림을 직접 표시합니다.
+
+- **병원 정보 시스템 (HIS)**  
+  병원 네트워크 전반에 걸쳐 접근 가능한 표준화된 이미징 레코드를 위해 CGM를 DICOM으로 변환합니다.
+
+- **방사선 데이터 교환**  
+  DICOM의 글로벌 표준을 활용하여 의료 시설 간 변환된 이미징 파일의 원활한 전송을 가능하게 합니다.
+
+- **진단 시각화**  
+  다중 모달리티 이미징 연구에 변환된 CGM 데이터를 포함하여 임상 워크플로우를 개선합니다.
+
+
+## ⚙️ 자동화 시나리오
+
+- **DICOM 처리를 위한 자바 API**  
+  이미지 처리 및 DICOM 메타데이터 관리를 위한 자바 라이브러리를 활용하여 CGM에서 DICOM으로의 변환 파이프라인을 자동화합니다.
+
+- **PACS 시스템 통합**  
+  변환된 DICOM 이미지를 직접 Picture Archiving and Communication Systems에 공급하여 즉각적인 검색 및 저장이 가능합니다.
+
+- **자바 기반 ETL 파이프라인**  
+  병원 전체 이미징 데이터 관리를 위한 추출-변환-로드 워크플로에 자동 변환을 통합합니다.
+
+- **AI 기반 진단 워크플로**  
+  변환된 DICOM 이미지를 분석하여 패턴 인식, 이상 징후 감지 및 예측 진단을 위한 자바 통합 AI 모델을 활용합니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

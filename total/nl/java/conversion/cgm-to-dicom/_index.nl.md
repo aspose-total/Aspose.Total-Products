@@ -57,7 +57,42 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het converteren van **Computer Graphics Metafile (CGM)**-bestanden naar het **DICOM (Digital Imaging and Communications in Medicine)**-formaat is cruciaal om compatibiliteit met moderne medische beeldvormingsworkflows te waarborgen. In **Java-gebaseerde medische beeldvormingssystemen** maakt deze conversie naadloze integratie met de data-infrastructuur van ziekenhuizen mogelijk, ondersteunt gestandaardiseerde beelduitwisseling en verbetert de diagnostische visualisatiemogelijkheden. Door CGM-tekeningen of diagrammen om te zetten in DICOM, kunnen gezondheidsorganisaties diverse beeldformaten unificeren, waardoor ze toegankelijk worden voor **PACS**, **radiologieviewers** en op AI gebaseerde diagnostische tools.
+
+## ✅ Belangrijkste Gebruiksscenario's
+
+- **Java-geïntegreerde Radiologieviewers**  
+  Toon op CGM gebaseerde medische illustraties rechtstreeks binnen door Java aangedreven DICOM-viewers voor verbeterde diagnostische interpretatie.
+
+- **Ziekenhuisinformatiesystemen (HIS)**  
+  Converteer CGM naar DICOM voor gestandaardiseerde beeldrecords die toegankelijk zijn binnen ziekenhuisnetwerken.
+
+- **Radiologiegegevensuitwisseling**  
+  Maak een soepele overdracht van geconverteerde beeldbestanden tussen medische faciliteiten mogelijk met behulp van de wereldwijde standaard van DICOM.
+
+- **Diagnostische Visualisatie**  
+  Verbeter klinische workflows door geconverteerde CGM-gegevens in te sluiten in multimodaliteitsbeeldstudies.
+
+
+## ⚙️ Automatiseringsscenario's
+
+- **Java API's voor DICOM-verwerking**  
+  Automatiseer CGM-naar-DICOM-conversiepijplijnen met behulp van Java-bibliotheken voor beeldverwerking en DICOM-metagegevensbeheer.
+
+- **PACS-systeemintegratie**  
+  Voer geconverteerde DICOM-afbeeldingen rechtstreeks in Picture Archiving and Communication Systems in voor onmiddellijke ophaling en opslag.
+
+- **Java-gebaseerde ETL-pijplijnen**  
+  Integreer geautomatiseerde conversie in Extract-Transform-Load-workflows voor het beheer van beeldgegevens in het hele ziekenhuis.
+
+- **AI-aangedreven diagnostische workflows**  
+  Gebruik op Java geïntegreerde AI-modellen om geconverteerde DICOM-afbeeldingen te analyseren voor patroonherkenning, anomaliedetectie en voorspellende diagnostiek.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

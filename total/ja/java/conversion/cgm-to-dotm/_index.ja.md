@@ -42,7 +42,34 @@ CGMをDOTMに変換している間、ドキュメントがパスワードで保�
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用事例
+
+- **テンプレート付きマクロ有効エンジニアリングレポート**  
+  CGMベースの図を組み込んだDOTMテンプレートに自動計算、分析、レポート生成をトリガーする。
+
+- **バッチ文書生成の自動化**  
+  埋め込まれたCGMビジュアルを持つマクロ有効文書を大量生産するための標準化されたDOTMテンプレートを作成する。
+
+- **技術ワークフローの可能化**  
+  CGMイラストと対話型マクロ機能を組み合わせたワークフロー固有のテンプレートを開発し、フィールドやラボの運用に活用する。
+
+## ⚙️ 自動化シナリオ
+
+- **JavaフレームワークとAPI**  
+  Javaベースの環境で**Aspose.Words for Java**やOfficeテンプレートエンジンを使用して、CGMからDOTMへの変換とテンプレートの組み立てを自動化する。
+
+- **企業ワークフローの統合**  
+  Javaベースのビジネスプロセス自動化システムにDOTM生成を組み込み、一貫したマクロ有効出力を実現する。
+
+- **動的データバインディング**  
+  CGM強化されたDOTMテンプレートをライブデータフィードとリンクし、文書生成中の即時更新を実現する。
+
+- **ETLおよびレポーティングパイプライン**  
+  JavaベースのETLプロセスにCGMからDOTMへの変換を組み込み、スケールでのマクロ駆動型レポーティングと可視化を実現する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

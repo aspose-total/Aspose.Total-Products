@@ -57,7 +57,23 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをSVGZ（圧縮されたスケーラブルベクターグラフィックス）に変換すると、帯域幅を削減したため、ウェブに適したスケーラブルなグラフィックスが提供されます。詳細なエンジニアリング図面をオンラインで提供するのに最適で、SVGZはファイルサイズを最小限に抑えながら精密なレンダリングを保証します。
+
+## ✅ 主な使用用途
+- **Webアプリケーションでのスケーラブルベクター配信** – レスポンシブで高品質なベクターダイアグラムを提供します。
+- **エンジニアリング図面のアーカイブ** – 複雑なイラストを圧縮されたベクターフォーマットで保存します。
+- **CADからWebへの変換** – CADからブラウザで使用可能な形式に技術グラフィックスを公開します。
+
+## ⚙️ 自動化シナリオ
+- **JavaベースのSVGレンダリングエンジン** – CGMをインタラクティブでスケーラブルなSVGZアセットに変換します。
+- **SVG圧縮ツール** – 視覚的な精度を保持しながらサイズを自動的に縮小します。
+- **フロントエンドアセットパイプライン** – ウェブアプリケーションでの即時読み込み用に図を準備します。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

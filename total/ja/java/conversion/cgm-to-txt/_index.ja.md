@@ -47,7 +47,35 @@ CGMファイルをTXTに変換するときに、出力TXTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **ダイアグラムのテキストベースのログ記録**  
+  CGMダイアグラム情報をプレーンテキストとして保存し、監査、デバッグ、アーカイブ目的で使用します。
+
+- **ベクトルグラフィックの記述の抽出**  
+  CGM構造をTXTに変換して解析、検索インデックス作成、または分析ツールとの統合に使用します。
+
+- **エンジニアリングメタデータの文書化**  
+  CGM関連のエンジニアリングデータをTXTファイルに文書化し、迅速な参照と軽量な保存を実現します。
+
+
+## ⚙️ 自動化シナリオ
+
+- **変換のためのJava I/Oライブラリ**  
+  標準のJavaファイル操作APIとCGMパーサーを使用して、コンテンツを抽出してTXTファイルに書き込みます。
+
+- **ファイル監視サービス**  
+  Javaの`WatchService`を使用してディレクトリを監視し、新しいファイルイベントに応じてCGMからTXTへの変換を自動化します。
+
+- **バッチ変換ジョブ**  
+  予定されたJavaジョブで大量のCGMファイルを処理し、アーカイブまたは分析用のテキスト表現をエクスポートします。
+
+- **ETLパイプライン内のプレーンテキストエクスポーター**  
+  構造化データ処理のためのJavaベースのExtract-Transform-LoadワークフローにCGMの解析とTXTエクスポートを統合します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

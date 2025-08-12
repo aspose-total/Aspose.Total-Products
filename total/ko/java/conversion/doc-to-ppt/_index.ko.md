@@ -54,7 +54,24 @@ API를 사용하면 암호로 보호된 DOC 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOC**를 **PPT (PowerPoint 프레젠테이션)**으로 변환하는 것은 텍스트 문서를 편집 가능한 슬라이드로 변환하는 데 필수적입니다. 이를 통해 시각적인 이야기를 더 잘 전달하고 프레젠테이션 콘텐츠를 협업 편집할 수 있습니다.
+
+## ✅ 주요 사용 사례
+- 회의록을 슬라이드 프레젠테이션으로 변환하기
+- 시각적 향상을 통한 기업 보고서 작성
+- 텍스트 기반 문서에서 교육 자료 준비
+- 보고서로부터 회의 프레젠테이션 덱 생성
+
+## ⚙️ 자동화 시나리오
+- 구조화된 레이아웃을 위한 DOC-to-PPT 슬라이드 매핑 도구
+- 자동화된 텍스트에서 시각적 레이아웃 생성
+- 다중 문서에 대한 일괄 프레젠테이션 빌딩
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

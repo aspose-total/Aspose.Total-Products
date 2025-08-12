@@ -59,7 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwersja CGM na PPT jest niezbędna do tworzenia w pełni edytowalnych prezentacji PowerPoint z wysokiej jakości diagramami wektorowymi. Pozwala to menedżerom projektów, inżynierom i marketerom na tworzenie przekonujących komunikatów wizualnych.
+
+## ✅ Główne przypadki użycia
+- **Aktualizacje inżynieryjne w sali konferencyjnej** – Dodaj precyzyjne diagramy techniczne do strategicznych przeglądów.
+- **Zilustrowane informacje techniczne** – Połącz dane tekstowe z grafiką inżynieryjną.
+- **Prezentacje projektów z diagramami** – Skutecznie komunikuj złożone informacje.
+
+## ⚙️ Scenariusze automatyzacji
+- **Biblioteki Java PPT** – Automatyzuj tworzenie edytowalnych plików PowerPoint z diagramami CGM.
+- **Pulpity raportowania projektów** – Zintegruj generowanie prezentacji w przepływy pracy aktualizacji statusu.
+- **Eksporter CGM do slajdów** – Konwertuj serie diagramów na gotowe do użycia pliki PPT.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

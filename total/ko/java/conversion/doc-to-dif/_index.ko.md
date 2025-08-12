@@ -61,7 +61,22 @@ DOC를 DIF로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 주요 사용 사례</h2>
+- 통계 분석을 위한 설문 결과 내보내기
+- 레거시 시스템으로 데이터 전송
+- 스프레드시트에서 일괄 처리를 위한 표 형식 콘텐츠 준비
+- 상호 운용 가능한 형식으로 구조화된 데이터 보관
+
+<h2>⚙️ 자동화 시나리오</h2>
+- 원활한 이주를 위한 DOC-to-DIF 변환기
+- 효율성을 위한 자동화된 데이터 매핑 워크플로우
+- 반복적 작업을 위한 매크로 기반 테이블 추출 도구
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

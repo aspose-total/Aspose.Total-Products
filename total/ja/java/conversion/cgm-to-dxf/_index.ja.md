@@ -57,7 +57,31 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用事例
+
+- **エンジニアリングデザインの相互運用性**  
+  DXFをサポートするCADツールでCGMベースの設計を共有および編集し、クロスプラットフォームのコラボレーションを実現します。
+
+- **製造図面の交換**  
+  CNC加工や製造のためにCGM図面から派生したDXFファイルを製造チームに提供します。
+
+- **ベクターグラフィックスの編集**  
+  CADソフトウェアでの直接編集を可能にするために、CGM図面をDXFに変換します。ベクターの忠実度が失われることなく。
+
+## ⚙️ 自動化シナリオ
+
+- **JavaベースのCADツール**  
+  JavaベースのCAD編集および可視化アプリケーションにCGMからDXFへの変換を直接統合します。
+
+- **エンジニアリング図面変換ツール**  
+  Java APIを使用して、マルチプロジェクトワークフロー向けに大規模なCGMからDXFへのバッチ変換を自動化します。
+
+- **自動化されたCADアーカイブシステム**  
+  長期的なエンジニアリングアーカイブにCGMデザインをDXFファイルとして保存し、将来の再利用とコンプライアンスを実現します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

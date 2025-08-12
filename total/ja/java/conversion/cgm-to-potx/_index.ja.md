@@ -59,7 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMをPOTX（Open XMLプレゼンテーションテンプレート）に変換すると、スケーラブルなビジネスおよびエンジニアリングプレゼンテーションワークフロー向けの柔軟でモダンなテンプレート形式が提供されます。POTXはベクターグラフィックスをサポートしており、複数のスライドデッキで再利用する必要があるCGMベースの技術ビジュアルに最適です。
+
+## ✅ 主なユースケース
+- **業界標準のビジュアルレポート** – クライアントやステークホルダー向けのプロフェッショナルなレイアウトを準備します。
+- **エンジニアリングデザインテンプレート** – 再利用可能なレイアウトにスケーラブルなベクターダイアグラムを埋め込みます。
+- **再利用可能なブランド付きスライド** – 異なる部門間で一貫した企業アイデンティティを確保します。
+
+## ⚙️ 自動化シナリオ
+- **JavaベースのOpen XMLドキュメントシステム** – Apache POI XSLF APIを使用してCGMからPOTXへの変換を自動化します。
+- **エンタープライズコンテンツ自動化** – ブランド付きテンプレートライブラリの作成を効率化します。
+- **テンプレート化されたプレゼンテーションパイプライン** – CI/CDパイプラインに統合して自動化されたデッキの準備を行います。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

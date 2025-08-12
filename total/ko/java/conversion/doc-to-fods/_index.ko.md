@@ -61,7 +61,22 @@ DOC를 FODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ 주요 사용 사례
+- 워드 테이블을 ODF 호환 스프레드시트로 변환하기
+- OpenOffice/LibreOffice 시스템 간 구조화된 데이터 공유
+- 오픈 XML 기반 형식으로 데이터 보관
+- 문서와 스프레드시트 간 상호 운용성 활성화
+
+## ⚙️ 자동화 시나리오
+- 표준화된 출력을 위한 DOC-to-FODS 변환기
+- 정확한 형식 지정을 위한 XML 변환 스크립트
+- 협업을 위한 OpenDocument 기반 데이터 워크플로우
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

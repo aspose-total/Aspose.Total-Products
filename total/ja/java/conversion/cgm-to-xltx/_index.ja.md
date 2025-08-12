@@ -47,7 +47,25 @@ CGMファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGMファイルを使用して、**マクロなしのXLTX（Excelテンプレート）**に変換するJavaベースのツールは、マクロ依存性のない再利用可能なスプレッドシートデザインを必要とする組織にとって重要です。 XLTXテンプレートは、CGMグラフィックスとデータレイアウトを安全なXMLベースの形式で保存し、企業の文書ポリシーとの互換性を確保します。
+
+## ✅ 主なユースケース
+- テクニカルレポート用の非マクロエンジニアリングテンプレート。
+- CGMダイアグラムを統合したグラフィカルレポート構造。
+- 定型レイアウトの生成、繰り返しレポート用。
+- 実行可能コードのないコンプライアンス対応テンプレート。
+
+## ⚙️ 自動化シナリオ
+- XLTX作成のためのJavaスプレッドシートテンプレートエンジン。
+- CGMからXLTXへの変換のためのオフィスファイルコンバータ。
+- 複数部門で使用するためのJavaレポート生成ユーティリティ。
+- 共有エンタープライズドキュメントライブラリのための大量のXLTX作成。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

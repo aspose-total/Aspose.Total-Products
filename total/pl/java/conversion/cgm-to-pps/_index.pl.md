@@ -59,7 +59,23 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie plików CGM na PPS (PowerPoint Show) pozwala na gotowe prezentacje, które otwierają się w trybie pokazu slajdów, idealne do wyświetlania bez nadzoru lub w stylu kiosku. Zespoły inżynieryjne i firmy mogą z tego korzystać do wizualnych prezentacji i statycznych diagramów.
+
+## ✅ Główne przypadki użycia
+- **Prezentacje w kioskach** – Automatyczne pętle wyświetlania na wystawach i konferencjach.
+- **Przejścia przez projekt inżynieryjny** – Wizualne wyjaśnienia podczas sesji przeglądu projektu.
+- **Prezentacje biznesowe tylko do odczytu** – Zapobieganie niezamierzonym edycjom podczas udostępniania.
+
+## ⚙️ Scenariusze automatyzacji
+- **Aplikacje kioskowe oparte na Javie** – Generowanie plików PPS z diagramów CGM do publicznego wyświetlania.
+- **Kreatorzy dynamicznych pokazów slajdów** – Automatyczne generowanie pętli pokazów z danych inżynieryjnych.
+- **Prezentacje raportów bez nadzoru** – Planowanie automatycznego odtwarzania w cyklach raportowania.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,22 @@ Met de API kunt u ook met een wachtwoord beveiligde DOC-documenten naar PPSX con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Belangrijkste Gebruiksscenario's</h2>
+- Zelfstandig draaiende presentaties voor evenementen en kiosken
+- Geautomatiseerde bedrijfsaankondigingen en briefings
+- Collegeslides gemaakt van geschreven academische inhoud
+- Marketingpresentaties van promotionele brochures
+
+<h2>⚙️ Automatiseringsscenario's</h2>
+- DOC-naar-PPSX batchverwerking voor massaconversies
+- XML-gebaseerde diavoorstellingaanpassing voor branding
+- Automatisering van bedrijfscommunicatie voor regelmatige updates
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

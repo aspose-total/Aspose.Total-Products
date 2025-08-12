@@ -47,7 +47,25 @@ Konwertując plik CGM na CSV, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie plików CGM (Computer Graphics Metafile) na pliki CSV (wartości rozdzielone przecinkami) w środowiskach opartych na Java umożliwia zespołom inżynieryjnym, produkcyjnym i analitycznym przekształcenie graficznych danych wektorowych w strukturalne formaty tabelaryczne. Pozwala to na łatwe wyodrębnianie atrybutów, analizę metadanych i integrację z rurociągami analitycznymi sterowanymi przez Javę. Korzystanie z bibliotek CSV w Javie, takich jak **OpenCSV**, umożliwia zautomatyzowanie przetwarzania CGM na CSV w dużych skalach, zapewniając jednocześnie kompatybilność z narzędziami BI i platformami raportowania.
+
+## ✅ Główne przypadki użycia
+- Wyodrębnianie atrybutów z diagramów CGM do dokumentacji kontroli jakości.
+- Konwertowanie metadanych CGM na tabele CSV do analizy statystycznej.
+- Parsowanie strukturalnych danych inżynieryjnych do raportowania i pulpitów nawigacyjnych.
+- Umożliwienie kompatybilności z programami Excel, Google Sheets i platformami BI.
+
+## ⚙️ Scenariusze automatyzacji
+- Partiowa konwersja plików CGM na CSV.
+- Zaplanowane rurociągi CGM-to-CSV w systemach produkcyjnych opartych na Javie.
+- Integracja z pulpitami nawigacyjnymi BI zasilanymi przez Javę dla aktualizacji w czasie rzeczywistym.
+- Automatyczne generowanie plików CSV do celów archiwizacji i zgodności regulacyjnej.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

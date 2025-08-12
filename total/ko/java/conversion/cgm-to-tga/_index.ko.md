@@ -57,7 +57,23 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM를 TGA (Targa 형식)로 변환하면 벡터 그래픽을 고품질의 래스터 이미지로 변환하여 텍스처 매핑, 시각 효과 및 게임 개발 파이프라인에 이상적입니다.
+
+## ✅ 주요 사용 사례
+- **벡터 그래픽의 래스터화** - CGM 다이어그램을 래스터 기반 워크플로에 맞게 준비합니다.
+- **게임 엔진 텍스처 생성** - 3D 환경용 텍스처 준비 자산을 생성합니다.
+- **방송 품질의 콘텐츠 디자인** - 전문 비디오 및 미디어 제작에 TGA를 사용합니다.
+
+## ⚙️ 자동화 시나리오
+- **Java 그래픽 프레임워크** - 정밀하게 CGM을 TGA로 렌더링합니다.
+- **일괄 래스터 이미지 생성기** - 대규모 자산 라이브러리에 대한 변환을 자동화합니다.
+- **벡터에서 텍스처 파이프라인** - 실시간 렌더링을 위한 디자인 워크플로에 통합합니다.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

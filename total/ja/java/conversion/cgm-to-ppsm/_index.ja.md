@@ -59,7 +59,19 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+- **ダイナミックビジュアルダッシュボード** – プレゼンテーション中の図表のリアルタイム更新。  
+- **マクロを組み込んだ技術プレゼンテーション** – インタラクティブなデータ探索を可能にします。  
+- **自動化されたシミュレーション表示** – 手動設定なしでライブシミュレーションの出力を提示します。  
+
+## ⚙️ 自動化シナリオ
+- **JavaベースのPowerPointマクロレンダリングエンジン** – マクロを有効にしたスライドショーを生成して配信します。  
+- **インタラクティブな技術ブリーフィング** – Javaで生成された図表や計算を埋め込みます。  
+- **スマートプレゼンテーションフロー** – 複数のPPSMファイルを連結してガイド付きプレゼンテーションシステムを構築します。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

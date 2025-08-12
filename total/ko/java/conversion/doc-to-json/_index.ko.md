@@ -49,7 +49,24 @@ DOC를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **JSON (JavaScript Object Notation)**은 워드 문서 데이터를 웹 서비스 및 애플리케이션에서 쉽게 사용할 수 있도록 하는 데 중요합니다. JSON은 현대적인 API, 웹 앱 및 NoSQL 데이터베이스를 지원하는 가벼운 구조화된 형식을 제공합니다.
+
+## ✅ 주요 사용 사례
+- 응용 프로그램 사용을 위한 워드에서 구조화된 데이터 추출
+- 문서 내용을 웹 API에 통합
+- 문서에서 파생된 데이터에 대한 검색 및 필터링 가능하게 함
+- 구조화된 워드 데이터를 NoSQL 데이터베이스에 저장
+
+## ⚙️ 자동화 시나리오
+- 직접 데이터 변환을 위한 DOC-to-JSON 추출기
+- 개발자를 위한 Java 기반 JSON 생성 스크립트
+- 자동화된 워드에서 API로의 통합 워크플로우
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

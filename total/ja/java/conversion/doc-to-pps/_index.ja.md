@@ -54,7 +54,20 @@ APIを使用すると、パスワードで保護されたDOCドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+- ワードコンテンツからの自動会議プレゼンテーション  
+- 便利なワンクリックスライドショー配布  
+- 指導マニュアルから生成されたトレーニングセッション  
+- ビジネス提案からのセールスプレゼンテーション作成  
+
+## ⚙️ 自動化シナリオ
+- 迅速な展開のためのDOCからPPSへのスライドショー変換ツール  
+- 自己実行プレゼンテーションのための自動ナレーション埋め込み  
+- 企業利用のための即時プレゼンテーション生成ワークフロー  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

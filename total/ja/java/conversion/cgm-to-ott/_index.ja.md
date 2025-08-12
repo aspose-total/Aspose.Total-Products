@@ -42,7 +42,32 @@ CGMをOTTに変換している間、ドキュメントがパスワードで保�
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+
+- **ODF準拠のレポート生成**  
+  CGMの視覚要素が構造化されたOpenDocumentコンテンツとシームレスに統合される標準ベースのレポートを作成します。
+
+- **共同編集**  
+  CGMで強化されたOTTテンプレートを共有リポジトリに保存し、オープンソースプラットフォームでリアルタイムのマルチユーザー編集を行います。
+
+
+## ⚙️ 自動化シナリオ
+
+- **コンバーターを使用したJava自動化**  
+  Aspose APIをJavaワークフローで使用して、CGMファイルをOTTテンプレートに変換して自動展開します。
+
+- **LibreOffice SDKの統合**  
+  LibreOffice SDKをJavaアプリケーションで活用して、CGMベースのOTTテンプレートを生成およびカスタマイズします。
+
+- **大量文書作成のためのETLシステム**  
+  大規模な、テンプレート駆動の文書生成のために、CGMからOTTへの変換をJavaベースのETLパイプラインに統合します。
+
+- **オープンソースエンタープライズプラットフォーム**  
+  Javaベースのコンテンツ管理および文書自動化システムに埋め込まれたCGMダイアグラムを持つOTTテンプレートを展開します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

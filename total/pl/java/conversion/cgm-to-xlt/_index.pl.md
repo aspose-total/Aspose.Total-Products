@@ -47,7 +47,25 @@ Konwertując plik CGM na XLT, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie plików CGM na format **XLT (Excel Template)** w aplikacjach sterowanych przez Javę zapewnia spójne, wielokrotnie używalne układy arkuszy kalkulacyjnych do raportowania technicznego i inżynieryjnego. Szablony XLT standaryzują formatowanie, umieszczenie danych i tworzenie wykresów, umożliwiając szybsze generowanie strukturalnych raportów z diagramów opartych na CGM lub ekstrakcji danych.
+
+## ✅ Kluczowe przypadki użycia
+- Wielokrotnie używalne szablony inżynieryjne do cyklicznych raportów technicznych.
+- Wstępnie sformatowane układy do integracji diagramów opartych na CGM.
+- Szybkie generowanie arkuszy kontroli jakości i inspekcji.
+- Spójne branding i formatowanie dla dokumentów przedsiębiorstwa.
+
+## ⚙️ Scenariusze automatyzacji
+- Systemy szablonów arkuszy kalkulacyjnych oparte na Javie do masowej generacji plików XLT.
+- Wypełnianie szablonów danymi z plików CGM za pomocą automatycznych potoków.
+- Integracja z narzędziami raportowania przedsiębiorstwa dla generowania plików XLT.
+- Konwersja wsadowa dla standaryzacji raportów na poziomie firmy.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

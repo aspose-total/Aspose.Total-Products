@@ -61,7 +61,24 @@ DOC를 XLS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com/
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **XLS (Excel Spreadsheet)**은 문서 기반 데이터를 편집 가능한 스프레드시트 형식으로 변환하여 계산, 분석 및 보고를 위해 사용합니다. 이는 레거시 Excel 형식 및 오프라인 데이터 처리와의 호환성을 보장합니다.
+
+## ✅ 주요 사용 사례
+- 워드에서 표를 엑셀 스프레드시트로 추출하기
+- 분석을 위한 재무 또는 통계 데이터 준비
+- 문서 콘텐츠를 보고서 워크플로우에 통합
+- 양식 응답을 구조화된 엑셀 시트로 변환하기
+
+## ⚙️ 자동화 시나리오
+- DOC를 XLS로 일괄 변환하는 도구
+- 자동 표-셀 매핑
+- 실시간 보고를 위한 워크플로우 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

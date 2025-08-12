@@ -61,7 +61,22 @@ DOCをXLSに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主な使用用途</h2>
+- WordからExcelスプレッドシートにテーブルを抽出する  
+- 分析用に財務または統計データを準備する  
+- レポートワークフローに文書コンテンツを統合する  
+- フォームの回答を構造化されたExcelシートに変換する  
+
+<h2>⚙️ 自動化シナリオ</h2>
+- DOCからXLSへのバッチ変換ツール  
+- テーブルからセルへの自動マッピング  
+- リアルタイムレポートのためのワークフロー自動化  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

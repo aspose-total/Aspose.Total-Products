@@ -59,7 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie plików CGM (Computer Graphics Metafile) na OTP (OpenDocument Presentation Template) usprawnia tworzenie wielokrotnie używanych, wektorowych szablonów prezentacji. Ten format doskonale nadaje się dla organizacji potrzebujących spójnych, zbrandowanych i technicznych wzorów slajdów w zespołach i działach.
+
+## ✅ Główne przypadki użycia
+- Projektowanie wielokrotnie używanych technicznych szablonów prezentacji.
+- Formaty slajdów oparte na wektorach dla dziedzin inżynieryjnych i naukowych.
+- Układy raportów specyficzne dla branży do cyklicznych prezentacji.
+- Szablony slajdów edukacyjnych z szczegółowymi diagramami.
+- Biblioteki korporacyjne z wbudowanymi schematami.
+
+## ⚙️ Scenariusze automatyzacji
+- Silniki raportowe oparte na Javie generujące niestandardowe szablony slajdów.
+- Zautomatyzowane narzędzia do generowania szablonów dla zespołów technicznych.
+- Workflows oparte na API do osadzania grafik CGM w szablonach OTP.
+- Przetwarzanie wsadowe do tworzenia standaryzowanych prezentacji branżowych.
+- Systemy dystrybucji szablonów kompatybilne z LibreOffice.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,23 @@ Konwertując plik CGM na SXC, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na SXC (format OpenOffice Calc) konwersja umożliwia integrację grafiki technicznej lub danych tabelarycznych do systemów arkuszy kalkulacyjnych typu open-source. Obsługuje kompatybilność z LibreOffice oraz innymi platformami opartymi na dokumentach otwartych.
+
+## ✅ Główne przypadki użycia
+- **Integracja Tabel Inżynierskich** – Łączenie diagramów z tabelami danych do raportów technicznych.
+- **Archiwizacja Arkuszy Kalkulacyjnych Open-Source** – Przechowywanie ilustracji technicznych opartych na wektorach obok danych.
+- **Kompatybilność z Narzędziami na Bazie LibreOffice** – Zapewnienie płynnego użytkowania plików w środowiskach wieloplatformowych.
+
+## ⚙️ Scenariusze Automatyzacji
+- **Przepływy Pracy z Transformacją Danych Sterowane Java** – Konwertowanie CGM na formaty gotowe do arkusza kalkulacyjnego.
+- **Rutyny ETL Dokumentów Otwartych** – Automatyzacja importu diagramów wektorowych do arkuszy kalkulacyjnych.
+- **Systemy Raportowania Wieloplatformowe** – Osadzanie wizualizacji w automatycznej generacji raportów.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
