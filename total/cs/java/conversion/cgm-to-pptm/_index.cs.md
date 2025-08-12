@@ -59,7 +59,23 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod CGM na PPTM (prezentace PowerPoint s makry) umožňuje integraci automatizačních skriptů, dynamických grafů a interaktivních diagramů do upravitelných prezentací. Toto je velmi cenné v oblastech inženýrství a datově řízených průmyslových odvětví.
+
+## ✅ Klíčové použití
+- **Prezentace řízené daty** – Automatická aktualizace vizuálů na základě živých datových sad.
+- **Technické simulace s makry** – Ovládání přehrávání simulací v rámci snímků.
+- **Interaktivní inženýrský obsah** – Umožnění úprav diagramů v reálném čase během prezentací.
+
+## ⚙️ Scénáře automatizace
+- **Nástroje pro automatizaci snímků v Javě** – Vytvoření prezentací s makry přímo z CGM souborů.
+- **Prezentační sady s makry generované umělou inteligencí** – Kombinace automatizace s obsahem generovaným umělou inteligencí pro získání poznatků.
+- **Šablonové dynamické potrubí obsahu** – Generování a aktualizace technických šablon prezentací ve velkém měřítku.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

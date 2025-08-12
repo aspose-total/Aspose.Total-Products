@@ -57,7 +57,19 @@ API также позволяет экспортировать файл CGM в I
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные сценарии использования
+- Публикация диаграмм CGM в статьях, отчетах и онлайн-платформах.
+- Встраивание визуальных элементов в приложения на основе Java для настольных компьютеров или веб-приложений.
+- Общая растеризация для использования на различных платформах в презентациях или программном обеспечении.
+
+## ⚙️ Сценарии автоматизации
+- Интеграция Java Imaging SDK для массовой растеризации CGM.
+- Пакетные конвертеры в реальном времени в облачных обработчиках.
+- Гибридные системы векторной и растровой отрисовки для динамических потребностей отображения.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

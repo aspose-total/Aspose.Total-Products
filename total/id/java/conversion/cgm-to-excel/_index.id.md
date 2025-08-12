@@ -47,7 +47,37 @@ Saat mengonversi file CGM ke EXCEL, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi diagram **CGM** ke format **Excel (.xlsx)** adalah praktis untuk pelaporan perusahaan, analisis rekayasa, dan visualisasi data terstruktur. Dalam alur kerja yang didukung oleh **Java**, konversi ini memungkinkan ekstraksi metrik, spesifikasi teknis, dan data grafik dari diagram CGM ke spreadsheet untuk analisis, pelaporan, dan pengambilan keputusan. Integrasi Excel memungkinkan penggabungan diagram visual dengan dataset tabular untuk laporan teknis yang lengkap.
+
+
+## ✅ Kasus Penggunaan Kunci
+
+- **Metrik Rekayasa Terselip**  
+  Tangkap nilai pengukuran dari diagram CGM ke Excel untuk perhitungan dan analisis tren.
+
+- **Generasi Laporan Teknis**  
+  Gabungkan visual yang berasal dari CGM dengan data terstruktur Excel untuk laporan rekayasa atau proyek yang komprehensif.
+
+- **Ekstraksi Grafik dari Diagram**  
+  Konversi grafik CGM berbasis vektor menjadi objek grafik Excel yang dapat diedit untuk kustomisasi lebih lanjut.
+
+
+## ⚙️ Skenario Otomatisasi
+
+- **Apache POI untuk Generasi Excel**  
+  Gunakan perpustakaan **Apache POI** Java untuk mengotomatisasi konversi CGM ke Excel dan mengisi sel dengan nilai yang diekstrak.
+
+- **Populasi Spreadsheet Otomatis**  
+  Integrasikan analisis data CGM dengan mesin pelaporan berbasis Java untuk membuat lembar Excel secara dinamis.
+
+- **Sistem Pelaporan Perusahaan**  
+  Tanam alur kerja CGM ke Excel ke dalam pipa BI atau ETL berbasis Java untuk pemrosesan data rekayasa dalam skala besar.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

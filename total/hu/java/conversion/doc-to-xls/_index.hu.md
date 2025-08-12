@@ -61,7 +61,22 @@ A DOC XLS-vé konvertálása után az [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- Táblázatok kinyerése Wordből Excel táblázatokba
+- Pénzügyi vagy statisztikai adatok előkészítése elemzéshez
+- Dokumentumtartalom integrálása jelentési folyamatokba
+- Űrlapválaszok átalakítása strukturált Excel táblákba
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOC-XLS tömeges konverziós eszközök
+- Automatizált tábla-cellamapping
+- Munkafolyamat automatizálás valós idejű jelentésekhez
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

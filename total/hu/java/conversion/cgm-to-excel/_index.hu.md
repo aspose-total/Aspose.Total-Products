@@ -47,7 +47,37 @@ A CGM-fájl EXCEL-vé konvertálásakor vízjelet is hozzáadhat a kimeneti EXCE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **Excel (.xlsx)** formátumba történő **CGM** diagramok konvertálása praktikus vállalati jelentéskészítéshez, mérnöki elemzésekhez és strukturált adatvizualizációhoz. A **Java-alapú munkafolyamatokban** ez a konverzió lehetővé teszi a metrikák, műszaki specifikációk és diagramadatok kinyerését a CGM grafikákból táblázatokba az elemzés, jelentéskészítés és döntéshozatal céljából. Az Excel integráció lehetővé teszi a vizuális diagramok és táblázatos adatkészletek kombinálását teljes műszaki jelentések elkészítéséhez.
+
+
+## ✅ Fő felhasználási esetek
+
+- **Beágyazott mérnöki mutatók**  
+  Mérési értékek rögzítése a CGM diagramokból az Excelbe számításokhoz és trendelemzésekhez.
+
+- **Műszaki jelentések készítése**  
+  A CGM-ből származó vizuális elemek kombinálása strukturált Excel adatokkal teljes körű mérnöki vagy projektjelentésekhez.
+
+- **Diagramok kinyerése a diagramokból**  
+  Vektor alapú CGM diagramok konvertálása szerkeszthető Excel diagram objektumokká további testreszabáshoz.
+
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Apache POI az Excel generálásához**  
+  Használja a Java **Apache POI** könyvtárat a CGM-Excel konverzió automatizálásához és a kinyert értékekkel való cellák kitöltéséhez.
+
+- **Automatizált táblázatkitöltés**  
+  Integrálja a CGM adatfeldolgozást a Java alapú jelentéskészítő motorokkal, hogy dinamikusan létrehozzon Excel táblákat.
+
+- **Vállalati jelentési rendszerek**  
+  Ágyazza be a CGM-Excel munkafolyamatokat a Java alapú BI vagy ETL csövekbe a nagy mennyiségű mérnöki adatfeldolgozáshoz.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

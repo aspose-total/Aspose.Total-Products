@@ -47,7 +47,25 @@ Saat mengonversi file CGM ke XLT, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi file CGM ke format **XLT (Excel Template)** dalam aplikasi yang didorong Java memastikan tata letak spreadsheet yang konsisten dan dapat digunakan kembali untuk pelaporan teknis dan rekayasa. Template XLT menstandardisasi format, penempatan data, dan pembuatan grafik, memungkinkan pembuatan laporan terstruktur yang lebih cepat dari diagram berbasis CGM atau ekstraksi data.
+
+## ✅ Kasus Penggunaan Kunci
+- Template rekayasa yang dapat digunakan kembali untuk laporan teknis berulang.
+- Tata letak yang diformat sebelumnya untuk integrasi diagram berbasis CGM.
+- Pembuatan cepat lembar kontrol kualitas dan inspeksi.
+- Branding dan format yang konsisten untuk dokumen perusahaan.
+
+## ⚙️ Skenario Otomatisasi
+- Sistem templating spreadsheet berbasis Java untuk pembuatan XLT secara massal.
+- Populasi template dari data CGM melalui pipeline otomatis.
+- Integrasi dengan alat pelaporan perusahaan untuk output berbasis XLT.
+- Konversi batch untuk standardisasi laporan di seluruh perusahaan.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

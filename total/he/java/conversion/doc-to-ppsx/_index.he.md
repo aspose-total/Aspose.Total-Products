@@ -103,7 +103,22 @@ otherformats: POWERPOINT PPS PPTM PPT PPSM POTM PPTX POT POTX ODP CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+- הצגות עצמאיות לאירועים ולקיוסקים
+- הודעות ובריאפינג תדמיתיות אוטומטיות
+- שקופיות להרצאות שנוצרו מתוך תוכן אקדמי כתוב
+- הצגות שיווק מברושורות פרסום
+
+## ⚙️ תרחישי אוטומציה
+- עיבוד רצפי DOC-to-PPSX להמרות מוניות
+- התאמת הצגת סליידים מבוססת XML למיתוג
+- אוטומציה של תקשורת תדמיתית לעדכונים רגילים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,22 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή πινάκων από το Word σε μορφή ODS
+- Κοινοποίηση δεδομένων που προέρχονται από το Word με εφαρμογές υπολογιστικών φύλλων
+- Μετατροπή δεδομένων εγγράφου για λεπτομερή ανάλυση
+- Εξασφάλιση διαλειτουργικότητας με το LibreOffice, το OpenOffice και άλλα εργαλεία συμβατά με το ODF
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αγωγοί εξαγωγής DOC σε ODS για μαζική επεξεργασία
+- Εργαλεία μορφοποίησης και μετατροπής υπολογιστικών φύλλων με Java
+- Αυτοματοποιημένη ανάλυση πινάκων από το Word σε ODS για ομαλές ροές εργασίας
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,32 @@ Usando la API, también puede rotar la imagen DXF de salida según sus necesidad
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Casos de uso clave
+
+- **Interoperabilidad en el diseño de ingeniería**  
+  Compartir y editar diseños basados en CGM en herramientas CAD que admiten DXF para colaboración entre plataformas.
+
+- **Intercambio de planos de fabricación**  
+  Proporcionar a los equipos de producción archivos DXF derivados de diagramas CGM para mecanizado CNC y fabricación.
+
+- **Edición de gráficos vectoriales**  
+  Transformar diagramas CGM en DXF para su modificación directa en software CAD sin pérdida de fidelidad vectorial.
+
+
+## ⚙️ Escenarios de automatización
+
+- **Herramientas CAD basadas en Java**  
+  Integrar la conversión de CGM a DXF directamente en aplicaciones de edición y visualización CAD basadas en Java.
+
+- **Convertidores de dibujo de ingeniería**  
+  Utilizar APIs de Java para automatizar conversiones por lotes de CGM a DXF a gran escala para flujos de trabajo multiproyecto.
+
+- **Sistemas de archivo CAD automatizados**  
+  Almacenar diseños CGM como archivos DXF en archivos de ingeniería a largo plazo para su reutilización futura y cumplimiento.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

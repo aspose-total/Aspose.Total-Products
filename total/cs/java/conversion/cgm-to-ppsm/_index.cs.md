@@ -59,7 +59,23 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod CGM na PPSM (makro-povolený formát prezentace PowerPoint) podporuje dynamické, interaktivní prezentace, které se spouštějí přímo v režimu prezentace. Toto je ideální pro technické přístrojové panely, živé simulace a interaktivní briefinky v pracovních postupech řízených Javou.
+
+## ✅ Klíčové použití
+- **Dynamické vizuální přístrojové panely** – Aktualizace diagramů v reálném čase během prezentací.
+- **Technické prezentace s vestavěnými makry** – Umožněte interaktivní průzkum dat.
+- **Automatizované zobrazení simulací** – Prezentujte živé výstupy simulací bez manuálního nastavení.
+
+## ⚙️ Scénáře automatizace
+- **Renderovací motory PowerPointu založené na Javě** – Generujte a distribuujte prezentace s makry.
+- **Interaktivní technické briefinky** – Vložte do nich diagramy a výpočty generované v Javě.
+- **Chytré průběhy prezentací** – Řetězte několik souborů PPSM do řízeného systému prezentací.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

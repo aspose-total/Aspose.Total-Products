@@ -49,7 +49,22 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή δομημένων δεδομένων από το Word για χρήση σε εφαρμογές  
+- Ενσωμάτωση περιεχομένου εγγράφου σε web APIs  
+- Δυνατότητα αναζήτησης και φιλτραρίσματος σε δεδομένα που προέρχονται από έγγραφα  
+- Αποθήκευση δομημένων δεδομένων Word σε βάσεις δεδομένων NoSQL  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Εξαγωγείς DOC-to-JSON για άμεση μετατροπή δεδομένων  
+- Σενάρια γεννήτριας JSON βασισμένα σε Java για προγραμματιστές  
+- Αυτοματοποιημένες ροές ενσωμάτωσης Word-to-API  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,21 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Cas d'utilisation clés</h2>
+- **Présentations de diapositives automatisées** - Générer des diaporamas préconstruits à partir de visuels d'ingénierie.
+- **Briefings visuels multiplateformes** - Assurer la compatibilité avec les versions récentes de PowerPoint.
+- **Graphiques vectoriels intégrés dans les rapports** - Livrer des présentations avec des images techniques de haute qualité.
+
+<h2>⚙️ Scénarios d'automatisation</h2>
+- **Générateurs de fichiers de présentation basés sur Java** - Créer des fichiers PPSX directement à partir des sources CGM.
+- **Production en lot de diaporamas** - Automatiser la production en masse de présentations en lecture seule.
+- **Systèmes de reporting intelligents** - Intégrer des diagrammes CGM dans des packages de présentation automatisés.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,22 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Κύριες Χρήσεις</h2>
+- Εξαγωγή μεγάλου όγκου δεδομένων από αναφορές Word για εισαγωγή σε βάσεις δεδομένων
+- Μεταφορά πίνακα περιεχομένων σε υπολογιστικά φύλλα για ανάλυση
+- Ενεργοποίηση συμβατότητας με εργαλεία ανάλυσης δεδομένων και εργαλεία BI
+- Απλοποίηση της κοινοποίησης μεγάλων συνόλων δεδομένων σε ελαφριά μορφή
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- Μετατροπείς πακέτων DOC σε CSV για μαζική επεξεργασία
+- Ανάλυση κειμένου με βάση σενάρια για προσαρμοσμένη εξαγωγή δεδομένων
+- Ροές εργασίας μετατροπής εγγράφων σε δεδομένα βάσει cloud για ενημερώσεις σε πραγματικό χρόνο
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

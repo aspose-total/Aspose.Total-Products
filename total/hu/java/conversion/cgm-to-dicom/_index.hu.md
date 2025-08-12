@@ -57,7 +57,40 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Kulcsfontosságú felhasználási esetek
+
+- **Java-integrált radiológiai nézők**  
+  Jelenítse meg a CGM-alapú orvosi ábrákat közvetlenül a Java-alapú DICOM nézőkben az értelmezés javítása érdekében.
+
+- **Kórházi információs rendszerek (HIS)**  
+  Alakítsa át a CGM-et DICOM formátumra az egységesített képfelvételek érdekében, melyek elérhetők a kórházi hálózatokon keresztül.
+
+- **Radiológiai adatcsere**  
+  Biztosítsa a sima átadást a konvertált képfájlok között orvosi intézmények között a DICOM globális szabványának segítségével.
+
+- **Diagnosztikai vizualizáció**  
+  Javítsa a klinikai folyamatokat a konvertált CGM adatok beágyazásával a többmodalitású képalkotó tanulmányokba.
+
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Java API-k DICOM kezeléshez**  
+  Automatizálja a CGM-DICOM konverziós folyamatokat Java könyvtárak segítségével képfeldolgozáshoz és DICOM metaadatok kezeléséhez.
+
+- **PACS rendszer integráció**  
+  Táplálja be a konvertált DICOM képeket közvetlenül a Képfelvételi és Kommunikációs Rendszerekbe az azonnali lekérdezés és tárolás érdekében.
+
+- **Java-alapú ETL folyamatok**  
+  Integrálja az automatizált konverziót az Extract-Transform-Load folyamatokba a kórházi szintű képkezelés érdekében.
+
+- **AI-alapú diagnosztikai folyamatok**  
+  Használja a Java-integrált AI modelleket a konvertált DICOM képek elemzésére minta felismeréshez, anomália detektáláshoz és prediktív diagnosztikához.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

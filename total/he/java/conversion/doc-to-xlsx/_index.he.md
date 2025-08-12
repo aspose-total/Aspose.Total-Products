@@ -102,7 +102,22 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>מקרי שימוש עיקריים ✅</h2>
+- ייצוא נתוני מסמך מובנים לגיליונות אלקטרוניים מודרניים
+- אינטגרציה של צינור BI עם פלט מובנה ונקי
+- המרת דוחות לגיליונות אלקטרוניים ניתנים לעריכה ונכונים לניתוח
+- הבטחת תאימות עם כל תוכנות גיליונות האלקטרוניים המרכזיות
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- מנועי מיפוי XML מ-DOC ל-XLSX
+- זרימות עבודה אוטומטיות ליצירת גיליונות אלקטרוניים
+- פירוק מסמכים עם פלט XML מובנה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

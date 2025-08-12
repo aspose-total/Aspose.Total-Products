@@ -102,7 +102,24 @@ otherformats: XLS CSV TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOC** ל-**SXC (גיליון נתונים של StarOffice Calc)** היא חיונית ליצירת גרסאות התאמה לגיליונות של מסמכים מבוססי טקסט בסביבות משרד קוד פתוח. ההמרה הזו מאפשרת שילוב חלק עם OpenOffice ו-LibreOffice Calc, מאפשרת חישובים מתקדמים, עיבוד מידע מובנה ועריכה שיתופית.
+
+## ✅ מקרי שימוש מרכזיים
+- העברת נתונים מטקסט לגיליון נתונים לצורך ניתוח
+- שילוב עם סביבות OpenOffice/LibreOffice Calc
+- הכנת מסמכים לחישובים מורכבים בגיליון נתונים
+- הפעלת שיתוף פעולה בקוד פתוח בפורמטים נייטיביים
+
+## ⚙️ תרחישי אוטומציה
+- מערכות המרה מצטברת מ-DOC ל-SXC
+- מיפוי סגנונות לתאים באופן אוטומטי לעיצוב מדויק
+- כלי המרה ממסמך לגיליון נתונים למערכות נתונים גדולות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

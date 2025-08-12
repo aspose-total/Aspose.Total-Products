@@ -57,7 +57,32 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+
+## ✅ الحالات الاستخدام الرئيسية
+
+- **توافق تصميم الهندسة**  
+  مشاركة وتحرير التصاميم المعتمدة على CGM في أدوات CAD التي تدعم DXF للتعاون عبر منصات متعددة.
+
+- **تبادل مخططات التصنيع**  
+  توفير ملفات DXF لفرق الإنتاج المستمدة من مخططات CGM لتصنيع CNC والتصنيع.
+
+- **تحرير الرسومات البيانية الناقلة**  
+  تحويل مخططات CGM إلى DXF للتعديل المباشر في برامج CAD دون فقدان دقة الناقل.
+
+## ⚙️ سيناريوهات التأتير الآلي
+
+- **أدوات CAD قائمة على Java**  
+  دمج تحويل CGM إلى DXF مباشرة في تطبيقات تحرير وتصور CAD التي تعمل بتقنية Java.
+
+- **محولات رسومات الهندسة**  
+  استخدام واجهات برمجة التطبيقات في Java لأتمتة تحويلات CGM إلى DXF بالجملة لسير العمل متعدد المشاريع.
+
+- **أنظمة الأرشفة الآلية للCAD**  
+  تخزين تصاميم CGM كملفات DXF في أرشيفات الهندسة على المدى الطويل لإعادة الاستخدام المستقبلية والامتثال.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

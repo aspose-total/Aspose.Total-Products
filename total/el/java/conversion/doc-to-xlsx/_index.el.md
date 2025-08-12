@@ -61,7 +61,22 @@ otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή δομημένων δεδομένων εγγράφου σε μοντέρνες υπολογιστικές φύλλα  
+- Ενσωμάτωση στη διαδικασία επεξεργασίας επιχειρηματικής νοημοσύνης με καθαρά, δομημένα αποτελέσματα  
+- Μετατροπή αναφορών σε επεξεργάσιμα, έτοιμα για ανάλυση υπολογιστικά φύλλα  
+- Βεβαιωθείτε για τη συμβατότητα με όλο το κύριο λογισμικό φύλλων εργασίας  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μηχανές αντιστοίχισης XML DOC-to-XLSX  
+- Αυτοματοποιημένες ροές δημιουργίας υπολογιστικών φύλλων  
+- Ανάλυση εγγράφου με δομημένη έξοδο XML  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

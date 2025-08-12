@@ -54,7 +54,20 @@ otherformats: PPT PPSM POTX PPTX PPTM POWERPOINT PPS POTM POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用途
+- 将报告转换为专业幻灯片演示  
+- 从文档创建可编辑的培训模块  
+- 制作基于模板的公司范围幻灯片演示  
+- 使用新内容更新公司战略演示文稿  
+
+## ⚙️ 自动化场景
+- 用于精确布局的 DOC 到 PPTX XML 映射工具  
+- 基于样式的幻灯片自动化，确保品牌一致性  
+- 批量生成标准化的公司演示文稿  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

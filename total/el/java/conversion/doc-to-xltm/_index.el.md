@@ -61,7 +61,22 @@ otherformats: XLSM TSV XLTM XLS EXCEL XLSX XLAM XLT SXC XLSB ODS FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Δημιουργία επιχειρηματικών προτύπων με δυνατότητα μακροενεργοποίησης
+- Αυτοματοποίηση επαναλαμβανόμενων διαδικασιών αναφοράς
+- Ενσωμάτωση λογικής VBA σε επαναχρησιμοποιήσιμα πρότυπα
+- Μετατροπή ροής εργασίας από έγγραφο σε πρότυπο
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μετατροπείς προτύπων με δυνατότητα μακροενεργοποίησης από DOC σε XLTM
+- Αυτοματοποιημένες διαδικασίες δημιουργίας προτύπων VBA
+- Συστήματα αναπτύξεως προτύπων με δύναμη μακροενεργοποίησης
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

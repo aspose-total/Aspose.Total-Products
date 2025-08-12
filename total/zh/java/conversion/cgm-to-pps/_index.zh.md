@@ -59,7 +59,19 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- **基于亭式展示** – 在展会和会议上自动显示循环。  
+- **工程设计演练** – 为设计审查会话提供视觉解释。  
+- **只读业务幻灯片** – 在共享时防止意外编辑。  
+
+## ⚙️ 自动化场景
+- **基于Java的亭式应用** – 从CGM图表生成PPS文件用于公共显示。  
+- **动态幻灯片展示创建者** – 从工程数据自动生成循环展示。  
+- **无人值守报告演示** – 为报告周期安排自动播放。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

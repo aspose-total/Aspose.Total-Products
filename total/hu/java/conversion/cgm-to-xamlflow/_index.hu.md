@@ -79,7 +79,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM az XAMLFLOW konverzió lehetővé teszi az intelligens UI automatizálás és folyamatvizualizáció vizuális létrehozását a .NET ökoszisztémában.
+
+## ✅ Fő felhasználási esetek
+- **Intelligens UI készítők** – Generáljon UI folyamatokat közvetlenül műszaki diagramokból.
+- **Interaktív folyamatok** – Hozzon létre vizuális folyamat térképeket beágyazott logikával.
+- **Logika vezérelt vizuális programozás** – Támogatja a kevés kód és kód nélküli platformokat.
+
+## ⚙️ Automatizálási forgatókönyvek
+- **Java alapú diagram motorok** – Konvertálja a CGM-et munkafolyamatra kész XAMLFLOW eszközökké.
+- **UI folyamat konverterek** – Térképezze a vektor diagramokat végrehajtható folyamatokká.
+- **DevOps vizualizációs eszközök** – Ábrázolja az infrastruktúrát és folyamatokat vizuálisan.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

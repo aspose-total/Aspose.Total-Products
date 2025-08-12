@@ -54,7 +54,22 @@ otherformats: PPTX POTX PPS PPTM POTM POWERPOINT PPSX PPSM POT PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Αυτοματοποιημένη εταιρική αναφορά με macros
+- Διαδραστικές παρουσιάσεις εκπαίδευσης για την ενσωμάτωση νέων υπαλλήλων
+- Παρουσιάσεις ανάλυσης επιχειρήσεων με macros
+- Οπτικοποίηση δεδομένων απευθείας από αναφορές Word
+
+<h2>⚙️ Σενάρια Αυτοματοποίησης</h2>
+- Ροές εργασίας ενσωμάτωσης macros από DOC σε PPTM για λειτουργικότητα
+- Βελτιώσεις διαφανειών βασισμένες σε σενάρια για διαδραστικότητα
+- Αυτοματοποιημένα πίνακες ελέγχου KPI που ενσωματώνονται στις παρουσιάσεις
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

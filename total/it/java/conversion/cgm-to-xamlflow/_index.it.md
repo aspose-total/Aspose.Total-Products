@@ -79,7 +79,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM alla conversione XAMLFLOW consente la creazione visuale di flussi di lavoro per l'automazione dell'interfaccia utente intelligente e la visualizzazione dei processi all'interno degli ecosistemi .NET.
+
+## ✅ Principali casi d'uso
+- **Generazione di Interfacce Utente Intelligenti** – Generare flussi di interfaccia utente direttamente da diagrammi tecnici.
+- **Flussi di Lavoro Interattivi** – Creare mappe di processo visive con logica integrata.
+- **Programmazione Visuale Basata sulla Logica** – Supportare piattaforme a basso codice e senza codice.
+
+## ⚙️ Scenari di Automazione
+- **Motori di Diagrammi Basati su Java** – Convertire CGM in asset XAMLFLOW pronti per i flussi di lavoro.
+- **Convertitori di Flussi di Lavoro dell'Interfaccia Utente** – Mappare diagrammi vettoriali in flussi di lavoro eseguibili.
+- **Strumenti di Visualizzazione DevOps** – Rappresentare infrastrutture e flussi di processo visualmente.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

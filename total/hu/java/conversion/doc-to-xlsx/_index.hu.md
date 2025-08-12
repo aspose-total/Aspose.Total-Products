@@ -61,7 +61,22 @@ A DOC XLSX-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- Strukturált dokumentumadatok exportálása modern táblázatokba
+- BI csővezeték integráció tiszta, strukturált kimenetekkel
+- Jelentések konvertálása szerkeszthető, elemzésre kész táblázatokká
+- Kompatibilitás biztosítása az összes fő táblázatkezelő szoftverrel
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOC-tól-XLSX XML leképező motorok
+- Automatizált táblázatgenerálási munkafolyamatok
+- Dokumentumfeldolgozás strukturált XML kimenettel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

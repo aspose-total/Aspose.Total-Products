@@ -61,7 +61,22 @@ otherformats: EXCEL XLAM XLT XLTX XLTM FODS XLSX SXC XLSB DIF XLSM XLS ODS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή αποτελεσμάτων έρευνας για στατιστική ανάλυση
+- Μεταφορά δεδομένων σε παλαιά συστήματα
+- Προετοιμασία πίνακα περιεχομένων για παρτίδες επεξεργασίας σε υπολογιστικά φύλλα
+- Αρχειοθέτηση δομημένων δεδομένων σε συμβατά μορφότυπα
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μετατροπείς DOC σε DIF για άνετη μετάβαση
+- Αυτοματοποιημένες ροές εργασίας αντιστοίχισης δεδομένων για αποτελεσματικότητα
+- Εργαλεία εξαγωγής πινάκων βασισμένα σε μακροεντολές για επαναλαμβανόμενες εργασίες
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

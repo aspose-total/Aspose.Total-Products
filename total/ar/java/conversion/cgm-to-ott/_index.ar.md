@@ -42,7 +42,32 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+
+- **إنشاء تقارير متوافقة مع ODF**  
+  إنشاء تقارير معتمدة على المعايير حيث تتكامل الرسوم البيانية CGM بسلاسة مع المحتوى المهيكل لمستند OpenDocument.
+
+- **تحرير المستندات التعاوني**  
+  تخزين قوالب OTT المحسنة بالرسوم البيانية CGM في مستودعات مشتركة للتحرير متعدد المستخدمين في الوقت الحقيقي على منصات مفتوحة المصدر.
+
+
+## ⚙️ سيناريوهات التأتير
+
+- **التأتير بواسطة الجافا عبر المحول**  
+  استخدام واجهات برمجة التطبيقات في الجافا في سياقات العمل لتحويل ملفات CGM إلى قوالب OTT للنشر التلقائي.
+
+- **تكاملات مجموعة أدوات LibreOffice SDK**  
+  استفادة من مجموعة أدوات LibreOffice SDK في تطبيقات الجافا لملء وتخصيص قوالب OTT المعتمدة على CGM.
+
+- **أنظمة ETL لإنشاء مستندات بكميات كبيرة**  
+  دمج تحويل CGM إلى OTT في خطوط الأنابيب ETL المعتمدة على الجافا لإنشاء مستندات مدعومة بالقوالب بكميات كبيرة.
+
+- **منصات المؤسسات مفتوحة المصدر**  
+  نشر قوالب OTT مع رسوم بيانية CGM مضمنة في أنظمة إدارة المحتوى وأنظمة التأتير الوثائقي المدعومة بالجافا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,23 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertissez les fichiers CGM en PPSM (Macro-Enabled PowerPoint Show) pour des présentations dynamiques et interactives qui se lancent directement en mode diaporama. Cela est idéal pour les tableaux de bord techniques, les simulations en direct et les briefings interactifs dans les flux de travail pilotés par Java.
+
+## ✅ Cas d'utilisation clés
+- **Tableaux de bord visuels dynamiques** - Mise à jour en temps réel des diagrammes pendant les présentations.
+- **Présentations techniques avec des macros intégrées** - Permet l'exploration interactive des données.
+- **Affichages de simulation automatisés** - Présente les sorties de simulation en direct sans configuration manuelle.
+
+## ⚙️ Scénarios d'automatisation
+- **Moteurs de rendu de macros PowerPoint basés sur Java** - Générer et livrer des diaporamas avec macros.
+- **Briefings techniques interactifs** - Intégrer des diagrammes et des calculs générés en Java.
+- **Flux de présentation intelligents** - Enchaîner plusieurs fichiers PPSM dans un système de présentation guidée.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

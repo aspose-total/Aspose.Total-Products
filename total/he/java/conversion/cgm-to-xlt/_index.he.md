@@ -78,7 +78,25 @@ otherformats: TSV FODS XLTM MD CSV EXCEL XLSM ODS XLSB TXT DIF XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת קבצי CGM לתבנית **XLT (תבנית Excel)** ביישומים המופעלים ב-Java מבטיחה פריסת גיליון קבועה וניתנת לשימוש עבור דיווחים טכניים והנדסיים. תבניות XLT מסטנדרטיות את העיצוב, מיקום הנתונים והתרשימים, ומאפשרות יצירת דוחות מובנים מהיר יותר מתוך דיאגרמות מבוססות CGM או חילוצי נתונים.
+
+## ✅ מקרי שימוש מרכזיים
+- תבניות הנדסיות ניתנות לשימוש חוזר עבור דוחות טכניים חוזרים.
+- פריסות מוכנות מראש לאינטגרציה של דיאגרמות מבוססות CGM.
+- יצירה מהירה של גליונות בקרת איכות וסדרי בדיקה.
+- זיהוי ועיצוב עקבי למסמכים עסקיים.
+
+## ⚙️ תרחישי אוטומציה
+- מערכות תבניות לגיליונות בסיסיים בעזרת Java ליצירת XLT בכמויות גדולות.
+- מילוי תבניות מנתוני CGM דרך צינורות אוטומטיים.
+- אינטגרציה עם כלים לדיווח עסקיים לפלט מבוסס XLT.
+- המרה רציפה לתקן דוחות ברמה החברתית.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,24 @@ Miközben a DOC-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátum
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **JSON (JavaScript Object Notation)** is key to making Word document data easily consumable by web services and applications. JSON offers a lightweight, structured format that supports modern APIs, web apps, and NoSQL databases.
+
+## ✅ Fő felhasználási esetek
+- Strukturált adatok kinyerése a Wordből alkalmazások használatához
+- Dokumentumtartalom integrálása web API-kba
+- Keresés és szűrés engedélyezése a dokumentumból származó adatokon
+- Strukturált Word-adatok tárolása NoSQL adatbázisokban
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOC-to-JSON kinyerők az adatok közvetlen átalakításához
+- Java alapú JSON generáló scriptek fejlesztők számára
+- Automatizált Word-to-API integrációs folyamatok
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

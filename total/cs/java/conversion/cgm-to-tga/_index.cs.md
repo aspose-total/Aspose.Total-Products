@@ -57,7 +57,23 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na TGA (formát Targa) konverze převádí vektorovou grafiku na vysoce kvalitní rastrové obrázky, ideální pro mapování textur, vizuální efekty a vývoj her.
+
+## ✅ Klíčové použití
+- **Rasterizace vektorové grafiky** – Připravte CGM diagramy pro rastrové pracovní postupy.
+- **Generování textur pro herní engine** – Vytvořte připravená aktiva pro 3D prostředí.
+- **Návrh obsahu vysílací kvality** – Použijte TGA pro profesionální video a mediální produkci.
+
+## ⚙️ Scénáře automatizace
+- **Java grafické rámce** – Vykreslete CGM do TGA s přesností.
+- **Hromadné generátory rastrových obrázků** – Automatizujte konverzi pro velké knihovny aktiv.
+- **Vektorové k textuře potrubí** – Integrujte do návrhových pracovních postupů pro vykreslování v reálném čase.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

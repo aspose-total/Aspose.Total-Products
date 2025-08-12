@@ -49,7 +49,24 @@ Pendant que vous convertissez DOC en JSON, vous pouvez également définir la pl
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** to **JSON (JavaScript Object Notation)** is key to making Word document data easily consumable by web services and applications. JSON offers a lightweight, structured format that supports modern APIs, web apps, and NoSQL databases.
+
+## ✅ Cas d'utilisation clés
+- Extraction de données structurées à partir de Word pour une utilisation dans des applications
+- Intégration du contenu du document dans des API web
+- Activation de la recherche et du filtrage sur les données dérivées du document
+- Stockage de données structurées de Word dans des bases de données NoSQL
+
+## ⚙️ Scénarios d'automatisation
+- Extracteurs DOC-to-JSON pour une conversion directe des données
+- Scripts de génération JSON basés sur Java pour les développeurs
+- Workflows d'intégration automatisée de Word vers API
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

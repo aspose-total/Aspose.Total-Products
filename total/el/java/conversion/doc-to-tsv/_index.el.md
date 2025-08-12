@@ -61,7 +61,22 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή πινάκων εγγράφου σε TSV για εισαγωγές σε βάσεις δεδομένων
+- Προετοιμασία δεδομένων για πλατφόρμες αναλυτικής επεξεργασίας
+- Ενσωμάτωση με εφαρμογές υπολογιστικών φύλλων όπως το Excel και το Google Sheets
+- Διαμοιρασμός δομημένων συνόλων δεδομένων χαμηλού βάρους
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Λογισμικό εξαγωγής πινάκων DOC σε TSV
+- Αυτοματοποιημένα σενάρια μετατροπής για παρτίδες επεξεργασίας
+- Ανάλυση εγγράφου με δημιουργία εξόδου με διαχωρισμό με καρτέλες
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

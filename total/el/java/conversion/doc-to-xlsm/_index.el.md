@@ -61,7 +61,22 @@ otherformats: XLSM SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Αυτοματοποίηση ροών φύλλων εργασίας από δεδομένα εγγράφου
+- Ενσωμάτωση μακροεντολών σε μετατραπείσεις αρχείων Excel
+- Επιτάχυνση εργασιών επαναλαμβανόμενης αναφοράς
+- Ενσωμάτωση συνόλων δεδομένων εγγράφου σε λύσεις Excel με μακροεντολές
+
+## ⚙️ Σενάρια Αυτοματοποίησης
+- Εργαλεία ενσωμάτωσης μακροεντολών DOC-to-XLSM
+- Αυτοματοποιημένη ενσωμάτωση κώδικα VBA
+- Συστήματα αυτοματοποίησης με μακροενεργοποιημένες αναφορές
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

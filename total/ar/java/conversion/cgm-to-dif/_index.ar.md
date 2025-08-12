@@ -47,7 +47,31 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+
+- **هجرة أنظمة جداول البيانات القديمة**  
+  تحويل بيانات CGM إلى DIF للاستيراد السلس في برامج جداول البيانات القديمة التي لا تزال قيد الاستخدام في بيئات المؤسسات.
+
+- **منصات الحوسبة العلمية**  
+  تحويل بيانات CGM الرسومية إلى DIF للتوافق مع أدوات التحليل العددي في الفيزياء والكيمياء ونمذجة البيئة.
+
+- **نمذجة البيانات المهيكلة في تطبيقات الهندسة**  
+  استخدام DIF لتمثيل المخططات القائمة على CGM في شكل جداول مهيكلة لمحاكاة الهندسة وتكامل بيانات CAD.
+
+## ⚙️ سيناريوهات التأتير
+
+- **مكتبات Java لتحويل جداول البيانات**  
+  تنفيذ تحويلات CGM إلى DIF تلقائيًا باستخدام واجهات برمجة تطبيقات Java التي تتعامل مع تنسيقات تتوافق مع جداول البيانات.
+
+- **معالجة دفعية في أدوات ETL**  
+  دمج خطوات التحويل في أنابيب ETL المدعومة بـ Java لمعالجة حجم كبير من بيانات الهندسة أو البحث.
+
+- **التكامل مع أنابيب الحسابات الإحصائية**  
+  تغذية الملفات المحولة تلقائيًا من نوع DIF إلى وحدات تحليل البيانات الإحصائية R أو MATLAB أو Python من خلال تنظيم سير العمل القائم على Java.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -103,7 +103,22 @@ otherformats: PPTX PPSX PPSM POTM POWERPOINT PPTM POT POTX ODP PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>שימושים מרכזיים ✅</h2>
+- הצגת פגישות אוטומטית מתוך תוכן Word  
+- הפצת מצגות בלחיצת כפתור לנוחות  
+- יצירת סשן הדרכה מתוך מדריכים הדרכה  
+- יצירת הצעת מכירות מתוך הצעות עסקיות  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- כלי המרה למצגת PPS מ-DOC לפרזות תצוגה מהירה  
+- הטמעת נרטיב אוטומטית למצגות שרצות באופן עצמאי  
+- זרימי עבודה ליצירת מצגות מיידיות לשימוש תאגידי  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

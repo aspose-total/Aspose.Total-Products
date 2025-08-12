@@ -61,7 +61,24 @@ otherformats: XLS SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOC** إلى **XLS (جدول بيانات Excel)** يحول البيانات المعتمدة على المستندات إلى تنسيق جدول بيانات قابل للتحرير للحسابات والتحليلات والتقارير. يضمن التوافق مع تنسيقات Excel القديمة ومعالجة البيانات دون اتصال.
+
+## ✅ حالات الاستخدام الرئيسية
+- استخراج الجداول من Word إلى جداول بيانات Excel
+- إعداد البيانات المالية أو الإحصائية للتحليل
+- دمج محتوى المستند في سير العمل للتقارير
+- تحويل ردود الاستمارات إلى أوراق عمل Excel منظمة
+
+## ⚙️ سيناريوهات الأتمتة
+- أدوات تحويل الدفعات من DOC إلى XLS
+- تعيين الجدول إلى تطابق الخلايا تلقائيًا
+- أتمتة سير العمل للإبلاغ في الوقت الحقيقي
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

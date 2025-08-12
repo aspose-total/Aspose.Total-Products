@@ -57,7 +57,37 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Kasus Penggunaan Kunci
+
+- **Penampil Radiologi Terintegrasi Java**  
+  Menampilkan ilustrasi medis berbasis CGM langsung dalam penampil DICOM yang didukung Java untuk interpretasi diagnostik yang ditingkatkan.
+
+- **Sistem Informasi Rumah Sakit (HIS)**  
+  Mengonversi CGM ke DICOM untuk catatan gambaran standar yang dapat diakses di seluruh jaringan rumah sakit.
+
+- **Pertukaran Data Radiologi**  
+  Memungkinkan transfer lancar file gambar yang dikonversi antara fasilitas medis menggunakan standar global DICOM.
+
+- **Visualisasi Diagnostik**  
+  Meningkatkan alur kerja klinis dengan menyisipkan data CGM yang dikonversi ke dalam studi gambaran multi-modality.
+
+## Skenario Otomatisasi
+
+- **API Java untuk Penanganan DICOM**  
+  Mengotomatisasi pipa konversi CGM-to-DICOM menggunakan perpustakaan Java untuk pemrosesan gambar dan manajemen metadata DICOM.
+
+- **Integrasi Sistem PACS**  
+  Memasukkan gambar DICOM yang dikonversi langsung ke dalam Sistem Arsip dan Komunikasi Gambar untuk pengambilan dan penyimpanan instan.
+
+- **Pipa ETL Berbasis Java**  
+  Mengintegrasikan konversi otomatis dalam alur kerja Ekstrak-Transformasi-Muat untuk manajemen data gambaran di seluruh rumah sakit.
+
+- **Alur Kerja Diagnostik Berbasis AI**  
+  Menggunakan model AI terintegrasi Java untuk menganalisis gambar DICOM yang dikonversi untuk pengenalan pola, deteksi anomali, dan diagnostik prediktif.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

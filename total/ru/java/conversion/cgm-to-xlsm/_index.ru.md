@@ -47,7 +47,21 @@ otherformats: FODS XLAM DIF SXC XLTM MD XLSM TSV EXCEL XLTX XLT ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные случаи использования
+- Автоматизированная генерация отчетов по инженерии с встроенными макросами.
+- Динамические рабочие процессы для производственных или конструкторских данных.
+- Интеграция диаграмм CGM в модели Excel с логикой макросов.
+- Оптимизированные процессы контроля качества с помощью анализа с включенными макросами.
+
+## ⚙️ Сценарии автоматизации
+- Java Excel автоматизация с поддержкой выполнения макросов.
+- Генерация таблиц с включенными макросами с помощью Java API.
+- Запланированное создание XLSM из наборов данных CGM в корпоративных системах.
+- Автоматические триггеры макросов для панелей управления инженерии в реальном времени.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

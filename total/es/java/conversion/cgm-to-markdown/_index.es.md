@@ -42,7 +42,38 @@ Mientras guarda su documento de entrada en formato de archivo MARKDOWN, también
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertir gráficos de **Computer Graphics Metafile (CGM)** a contenido de **Markdown (.md)** es una forma poderosa de unir datos técnicos visuales con formatos de documentación ligeros y amigables para desarrolladores. En las herramientas de documentación basadas en Java, esta conversión permite hacer referencia, incrustar o describir diagramas CGM directamente en archivos Markdown, lo que los hace ideales para la documentación de API, manuales de ingeniería y guías de proyectos de código abierto. La portabilidad de Markdown y su compatibilidad con generadores de sitios estáticos garantizan que los visuales CGM se puedan integrar en flujos de trabajo de desarrolladores modernos con un mínimo esfuerzo.
+
+## ✅ Casos de uso clave
+
+- **Incrustar diagramas CGM en Manuales Técnicos**  
+  Hacer referencia o incrustar diagramas CGM dentro de la documentación basada en Markdown para explicaciones técnicas más claras.
+
+- **Generación Automática de Markdown a partir de Activos Visuales**  
+  Convertir archivos CGM en descripciones Markdown o enlaces de imágenes para su inclusión instantánea en la documentación del proyecto.
+
+- **Formatos de Informes Ligeros**  
+  Utilizar Markdown como un medio simple y portátil para informes de ingeniería o sistemas mejorados con CGM.
+
+## ⚙️ Escenarios de Automatización
+
+- **Convertidores basados en Java**  
+  Utilizar bibliotecas de Java o analizadores personalizados para transformar diagramas CGM en referencias de imágenes compatibles con Markdown o descripciones vectoriales.
+
+- **Tuberías de Documentación de Spring Boot**  
+  Integrar la conversión de CGM a Markdown en flujos de trabajo basados en Spring Boot para la generación automatizada de documentación técnica.
+
+- **Integración con Generadores de Sitios Estáticos**  
+  Alimentar Markdown basado en CGM en **Hugo**, **MkDocs** o **Jekyll** para su implementación instantánea en portales de desarrolladores.
+
+- **Actualizaciones Continuas de Documentación**  
+  Automatizar la regeneración de Markdown a partir de diagramas CGM actualizados en tuberías de CI/CD impulsadas por Java para tener una documentación siempre actualizada.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

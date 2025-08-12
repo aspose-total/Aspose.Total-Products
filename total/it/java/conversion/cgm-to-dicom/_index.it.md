@@ -57,7 +57,38 @@ Utilizzando l'API, puoi anche ruotare l'immagine DICOM di output secondo le tue 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Principali casi d'uso
+
+- **Visualizzatori radiologici integrati in Java**  
+  Visualizza illustrazioni mediche basate su CGM direttamente all'interno dei visualizzatori DICOM alimentati da Java per un'interpretazione diagnostica migliorata.
+
+- **Sistemi informativi ospedalieri (HIS)**  
+  Converti CGM in DICOM per registrazioni di imaging standard accessibili attraverso le reti ospedaliere.
+
+- **Scambio di dati radiologici**  
+  Consenti un trasferimento fluido dei file di imaging convertiti tra strutture mediche utilizzando lo standard globale DICOM.
+
+- **Visualizzazione diagnostica**  
+  Migliora i flussi di lavoro clinici incorporando i dati CGM convertiti in studi di imaging multimodalità.
+
+
+## ⚙️ Scenari di automazione
+
+- **API Java per la gestione DICOM**  
+  Automatizza i flussi di conversione CGM-to-DICOM utilizzando librerie Java per l'elaborazione delle immagini e la gestione dei metadati DICOM.
+
+- **Integrazione del sistema PACS**  
+  Inserisci immagini DICOM convertite direttamente nei Sistemi di Archiviazione e Comunicazione delle Immagini per il recupero e lo stoccaggio istantanei.
+
+- **Flussi di lavoro ETL basati su Java**  
+  Integra la conversione automatizzata nei flussi di lavoro di Estrazione-Trasformazione-Caricamento per la gestione dei dati di imaging su scala ospedaliera.
+
+- **Flussi di lavoro diagnostici alimentati da AI**  
+  Utilizza modelli AI integrati in Java per analizzare le immagini DICOM convertite per il riconoscimento di pattern, la rilevazione di anomalie e la diagnostica predittiva.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

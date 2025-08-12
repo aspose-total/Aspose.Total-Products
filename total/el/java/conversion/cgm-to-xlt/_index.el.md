@@ -47,7 +47,23 @@ otherformats: TSV FODS XLTM MD XLT EXCEL XLSM ODS XLSB TXT DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Κύριες Περιπτώσεις Χρήσης
+- Επαναχρησιμοποιήσιμα πρότυπα μηχανικής για επαναλαμβανόμενες τεχνικές αναφορές.
+- Προμημένα διατάξεις για την ολοκλήρωση διαγραμμάτων βασισμένων σε CGM.
+- Γρήγορη δημιουργία φύλλων ελέγχου ποιότητας και ελέγχου.
+- Συνεπής επιχειρησιακή ταυτότητα και μορφοποίηση για εγγράφους επιχείρησης.
+
+## Σενάρια Αυτοματισμού
+- Συστήματα προτύπων φύλλων εργασίας βασισμένα σε Java για τη μαζική δημιουργία XLT.
+- Πλήρωση προτύπου από δεδομένα CGM μέσω αυτοματοποιημένων αγωγών.
+- Ολοκλήρωση με εργαλεία επιχειρησιακής αναφοράς για την έξοδο βασισμένη σε XLT.
+- Μαζική μετατροπή για την τυποποίηση αναφορών σε όλη την εταιρεία.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

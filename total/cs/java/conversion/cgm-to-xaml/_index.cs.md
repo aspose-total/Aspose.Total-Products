@@ -59,7 +59,23 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na XAML konverze umožňuje použití technických diagramů v rámci UI frameworků založených na .NET, jako je WPF, což umožňuje interaktivní a stylové rozhraní.
+
+## ✅ Klíčové použití
+- **Prototypování UI** – Integrujte diagramy do návrhů uživatelského rozhraní.
+- **Dynamické grafy** – Vykreslete data CGM jako interaktivní grafy.
+- **Stylování WPF** – Použijte vlastní styly na vektorovou grafiku pro desktopové aplikace.
+
+## ⚙️ Automatizační scénáře
+- **Mosty pro transformaci Java do .NET** – Převeďte CGM do formátu XAML programově.
+- **Potrubí pro převod vektorů na XAML** – Připravte prostředky pro okamžitou integraci.
+- **Vývoj hybridní platformy** – Umístěte sdílené UI komponenty napříč platformami.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

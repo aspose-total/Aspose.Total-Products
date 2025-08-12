@@ -61,7 +61,22 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Μεταφορά δεδομένων από κείμενο σε υπολογιστικό φύλλο για ανάλυση
+- Ενσωμάτωση σε περιβάλλοντα OpenOffice/LibreOffice Calc
+- Προετοιμασία εγγράφων για πολύπλοκους υπολογισμούς σε υπολογιστικά φύλλα
+- Δυνατότητα συνεργασίας σε μορφές ανοικτού κώδικα
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Συστήματα μαζικής μετατροπής από DOC σε SXC
+- Αυτοματοποιημένη αντιστοίχιση στυλ προς κελί για ακριβή μορφοποίηση
+- Εργαλεία μετατροπής εγγράφου σε υπολογιστικό φύλλο για μεγάλα σύνολα δεδομένων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

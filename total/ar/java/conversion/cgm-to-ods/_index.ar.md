@@ -47,7 +47,27 @@ otherformats: XLTM XLSB XLSM XLT SXC MD DIF EXCEL ODS XLAM TXT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل ملفات CGM (Computer Graphics Metafile) إلى ODS (OpenDocument Spreadsheet) يمكن أن يمكّن من دمج الرسوم البيانية القائمة على النواة مع البيانات المهيكلة في تنسيقات جداول البيانات مفتوحة المصدر. هذا التحويل ضروري لتقارير التقنية ووثائق الهندسة ومهام التحليل التي تتطلب كل من البيانات الجدولية والرسوم البيانية عالية الجودة.
+
+## ✅ حالات الاستخدام الرئيسية
+- إنشاء تقارير هندسية جدولية تحتوي على رسوم بيانية مضمنة.
+- وثائق مشروع مفتوح المصدر مع مراجع بصرية.
+- تحليل البيانات العلمية جنبًا إلى جنب مع الرسوم البيانية القائمة على النواة.
+- تتبع عمليات التصنيع مع المخططات المتكاملة.
+- تقارير بيئية ومسوحات تحتوي على بيانات تخطيطية.
+
+## ⚙️ سيناريوهات التأتير الآلي
+- أنظمة ETL معتمدة على Java تصدر البيانات المجمعة والرسوم البيانية.
+- أدوات تصدير البيانات العلمية للمحتوى المهيكل والبصري.
+- واجهات برمجة التطبيقات للتوافق مع مكاتب متعددة التنسيقات للوثائق التقنية.
+- خطوط أنابيب التصور البياني التلقائي.
+- التكامل مع LibreOffice Calc للوصول عبر منصات متعددة.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

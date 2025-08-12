@@ -78,7 +78,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM转XAMLFLOW转换可在.NET生态系统内实现智能UI自动化和流程可视化的可视化工作流创建。
+
+## ✅ 主要用例
+- **智能UI构建器** - 直接从技术图表生成UI流程。
+- **交互式工作流** - 创建带有嵌入式逻辑的可视化流程图。
+- **逻辑驱动的可视化编程** - 支持低代码和无代码平台。
+
+## ⚙️ 自动化场景
+- **基于Java的图表引擎** - 将CGM转换为准备好的XAMLFLOW资产。
+- **UI工作流转换器** - 将矢量图转换为可执行工作流。
+- **DevOps可视化工具** - 以可视方式表示基础架构和流程流程。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

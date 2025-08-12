@@ -70,7 +70,19 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- **传统培训模拟器** – 显示操作员培训的互动图表。
+- **动画技术手册** – 为维护和操作指南添加动态效果。
+- **基于浏览器的可视化工具** – 在支持Flash的环境中提供矢量图形。
+
+## ⚙️ 自动化场景
+- **基于Java的矢量转Flash库** – 将CGM图形转换为SWF以用于传统应用程序。
+- **传统渲染服务** – 支持现有平台而无需重新设计。
+- **电子学习内容迁移工具** – 保持与基于Flash的培训课程的兼容性。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

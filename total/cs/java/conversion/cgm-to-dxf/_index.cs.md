@@ -57,7 +57,32 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy
+
+- **Interoperabilita v oblasti inženýrského návrhu**  
+  Sdílejte a upravujte návrhy založené na formátu CGM v nástrojích CAD, které podporují formát DXF pro spolupráci napříč platformami.
+
+- **Výměna výrobních plánů**  
+  Poskytněte výrobním týmům soubory DXF odvozené z diagramů CGM pro CNC obrábění a výrobu.
+
+- **Úpravy vektorové grafiky**  
+  Převeďte diagramy CGM do formátu DXF pro přímou úpravu v softwaru CAD bez ztráty věrnosti vektorů.
+
+
+## ⚙️ Scénáře automatizace
+
+- **Nástroje CAD založené na Javě**  
+  Integrujte převod z CGM do DXF přímo do aplikací pro úpravu a vizualizaci CAD založených na Javě.
+
+- **Konvertory inženýrských výkresů**  
+  Použijte Java API k automatizaci hromadné konverze z CGM do DXF pro víceprojektové pracovní postupy.
+
+- **Automatizované systémy pro archivaci CAD**  
+  Ukládejte návrhy v CGM jako soubory DXF do dlouhodobých archivů inženýrských dat pro budoucí opětovné využití a soulad.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,20 @@ otherformats: PPTX PPSX PPSM POTM POWERPOINT PPTM POT POTX PPS PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 从Word内容自动生成会议演示文稿  
+- 一键式幻灯片分发以提高便利性  
+- 从操作手册生成培训课程  
+- 从商业提案创建销售演示文稿  
+
+## ⚙️ 自动化场景
+- 用于快速部署的DOC转PPS幻灯片转换工具  
+- 自动嵌入叙述以实现自动播放演示文稿  
+- 用于企业的即时演示文稿生成工作流程  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

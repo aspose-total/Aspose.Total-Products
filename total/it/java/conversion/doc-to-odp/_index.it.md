@@ -54,7 +54,24 @@ L'API consente inoltre di convertire documenti DOC protetti da password in ODP. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOC** in **ODP (OpenDocument Presentation)** è prezioso per riutilizzare i contenuti di Word nelle diapositive della presentazione mantenendo al contempo la compatibilità degli standard aperti. Ciò garantisce la portabilità tra LibreOffice Impress, OpenOffice e altri strumenti di presentazione.
+
+## ✅ Principali casi d'uso
+- Creazione di presentazioni da report basati su Word
+- Migrazione di testo e immagini in LibreOffice Impress
+- Automatizzazione della trasformazione testo-in-diapositiva per velocità
+- Condivisione di presentazioni in un formato neutro rispetto ai fornitori
+
+## ⚙️ Scenari di automazione
+- Generatori di diapositive DOC-to-ODP per conversioni istantanee
+- Strumenti di modellazione di presentazioni basati su Java
+- Flussi di lavoro automatizzati per il riutilizzo dei contenuti
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

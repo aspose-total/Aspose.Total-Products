@@ -102,7 +102,24 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOC** ל-**XLS (גיליון אלקטרוני של Excel)** ממירה נתוני מסמך לתבנית גיליון נתונים ניתנת לעריכה לצורכי חישובים, ניתוח ודיווח. זה מבטיח תאימות עם פורמטי Excel מורשים ועיבוד נתונים לא מקוון.
+
+## ✅ מקרי שימוש מרכזיים
+- חילוץ טבלאות מ-Word לגיליונות אלקטרוניים של Excel
+- הכנת נתונים פיננסיים או סטטיסטיים לניתוח
+- שילוב תוכן מסמך לתהליכי דיווח
+- המרת תגובות טופס לגליונות Excel מובנים
+
+## ⚙️ תרחישי אוטומציה
+- כלי המרה רצפית מ-DOC ל-XLS
+- מיפוי טבלאות לתאים באופן אוטומטי
+- אוטומציה של תהליכי עבודה לדיווח בזמן אמת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

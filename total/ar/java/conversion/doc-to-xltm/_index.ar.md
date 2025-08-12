@@ -61,7 +61,24 @@ otherformats: XLSM TSV XLTM XLS EXCEL XLSX XLAM XLT SXC XLSB ODS FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOC** إلى **XLTM (Excel Macro-Enabled Template)** ينشئ قوالب جداول بيانات قابلة لإعادة الاستخدام وجاهزة للتشغيل التلقائي. يجمع بين توحيد القوالب مع كفاءة تشغيل الماكرو.
+
+## ✅ حالات الاستخدام الرئيسية
+- إنشاء قوالب أعمال مع ماكرو ممكّن
+- تلقائيّة عمليات التقارير المتكررة
+- تضمين منطق VBA في القوالب القابلة لإعادة الاستخدام
+- تحويل سير العمل من المستند إلى القالب
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- محولات القوالب الممكّنة للماكرو من DOC إلى XLTM
+- خطوط أنابيب توليد القوالب VBA التلقائية
+- أنظمة نشر القوالب المدعومة بالماكرو
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

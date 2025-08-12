@@ -61,7 +61,24 @@ otherformats: XLSM SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOC** 转换为 **XLSM（Excel 启用宏的工作簿）** 可直接将自动化嵌入电子表格输出中。这使得可以自动化重复任务、动态数据处理以及集成宏驱动的报告。
+
+## ✅ 主要用例
+- 从文档数据自动化电子表格工作流程
+- 将宏嵌入转换后的 Excel 文件中
+- 简化重复的报告任务
+- 将文档数据集成到宏驱动的 Excel 解决方案中
+
+## ⚙️ 自动化场景
+- DOC 到 XLSM 宏注入工具
+- 自动化 VBA 代码集成
+- 启用宏的报告自动化系统
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

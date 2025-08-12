@@ -47,7 +47,23 @@ otherformats: FODS XLAM DIF SXC XLTM MD XLSM TSV EXCEL XLTX XLT ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Κύριες Περιπτώσεις Χρήσης
+- Αυτοματοποιημένη δημιουργία αναφορών μηχανικής με ενσωματωμένα μακρό.
+- Δυναμικές ροές υπολογισμών για δεδομένα κατασκευής ή σχεδίασης.
+- Ενσωμάτωση διαγραμμάτων CGM σε μοντέλα Excel με λογική μακρό.
+- Απλοποιημένες διαδικασίες ελέγχου ποιότητας μέσω ανάλυσης με μακρό.
+
+## Σενάρια Αυτοματισμού
+- Μηχανές αυτοματισμού Excel Java με υποστήριξη εκτέλεσης μακρό.
+- Δημιουργία φύλλου εργασίας με μακρό μέσω των Java APIs.
+- Προγραμματισμένη δημιουργία XLSM από σύνολα δεδομένων CGM σε επιχειρησιακά συστήματα.
+- Αυτόματες ενέργειες ενεργοποίησης μακρό για πίνακες ελέγχου μηχανικής σε πραγματικό χρόνο.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

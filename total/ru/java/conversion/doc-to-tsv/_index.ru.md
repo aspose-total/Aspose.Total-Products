@@ -61,7 +61,20 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные сценарии использования
+- Экспорт таблиц документов в TSV для импорта в базу данных
+- Подготовка данных для аналитических платформ
+- Интеграция с приложениями электронных таблиц, такими как Excel и Google Sheets
+- Обмен легкими структурированными наборами данных
+
+## ⚙️ Сценарии автоматизации
+- Программное обеспечение для извлечения таблиц DOC в TSV
+- Автоматизированные сценарии конвертации для пакетной обработки
+- Разбор документов с генерацией вывода в виде табличного формата
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

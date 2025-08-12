@@ -59,7 +59,25 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Σχεδιασμός επαναχρησιμοποιήσιμων τεχνικών προτύπων παρουσιάσεων.
+- Διανυσματικά μορφότυπα διαφανειών για μηχανικούς και επιστημονικούς τομείς.
+- Διατάξεις αναφοράς ειδικές για τον κλάδο για επαναλαμβανόμενες παρουσιάσεις.
+- Εκπαιδευτικά πρότυπα διαφανειών με λεπτομερείς διαγράμματα.
+- Εταιρικές βιβλιοθήκες προτύπων με ενσωματωμένα σχέδια.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μηχανές αναφοράς βασισμένες σε Java που δημιουργούν προσαρμοσμένα πρότυπα διαφανειών.
+- Εργαλεία αυτόματης δημιουργίας προτύπων για τεχνικές ομάδες.
+- Ροές εργασίας με API για την ενσωμάτωση γραφικών CGM σε πρότυπα OTP.
+- Μαζική επεξεργασία για τη δημιουργία τυποποιημένων παρουσιάσεων του κλάδου.
+- Συστήματα διανομής προτύπων συμβατά με το LibreOffice.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

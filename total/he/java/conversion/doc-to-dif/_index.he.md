@@ -102,7 +102,22 @@ otherformats: EXCEL XLAM XLT XLTX XLTM FODS XLSX SXC XLSB CSV XLSM XLS ODS TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>שימושים עיקריים ✅</h2>
+- ייצוא תוצאות סקר לניתוח סטטיסטי  
+- העברת נתונים למערכות מורשות  
+- הכנת תוכן טבלאי לעיבוד ציבורי בגליונות אלקטרוניים  
+- ארכוב נתונים מובנים בפורמטים שיתופיים  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- ממירי DOC ל-DIF להעברה חלקה  
+- זרימות עבודה ממופה אוטומטיות ליעילות  
+- כלים לחילוץ טבלאי מבוססי מאקרו למשימות חוזרות  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

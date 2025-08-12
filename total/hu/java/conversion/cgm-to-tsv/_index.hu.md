@@ -47,7 +47,23 @@ A CGM-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- Oszlopalapú táblák létrehozása CGM-alapú mérési adatokból.
+- Szimulációs eredmények exportálása TSV formátumba kutatáshoz és elemzéshez.
+- Kompatibilitás biztosítása Unix/Linux parancssori feldolgozási eszközökkel.
+- Adatcsere támogatása nyílt forráskódú mérnöki alkalmazásokban.
+
+## ⚙️ Automatizálási forgatókönyvek
+- Java I/O és TSV könyvtárak automatizált CGM-to-TSV átalakításokhoz.
+- Fej nélküli tételkonverzió technikai CGM fájlokhoz jelentési folyamatokhoz.
+- Keresztplatformú ETL csövek Java alapú adatfeldolgozó motorokkal.
+- Integráció tudományos számítási környezetekkel és HPC klaszterekkel.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

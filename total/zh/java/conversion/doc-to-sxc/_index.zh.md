@@ -61,7 +61,24 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOC** 转换为 **SXC（StarOffice Calc 电子表格）** 对于在开源办公环境中创建与电子表格兼容的基于文本的文档至关重要。此转换可实现与 OpenOffice 和 LibreOffice Calc 的无缝集成，实现高级计算、结构化数据处理和协作编辑。
+
+## ✅ 主要用例
+- 用于分析的文本到电子表格数据迁移  
+- 与 OpenOffice/LibreOffice Calc 环境集成  
+- 为复杂电子表格计算准备文档  
+- 在原生格式中实现开源协作  
+
+## ⚙️ 自动化场景
+- DOC 到 SXC 的批量转换系统  
+- 用于准确格式化的样式到单元格映射自动化  
+- 用于大型数据集的文档到电子表格转换工具  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

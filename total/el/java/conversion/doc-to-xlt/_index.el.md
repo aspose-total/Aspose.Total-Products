@@ -61,7 +61,24 @@ otherformats: XLT SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOC** σε **XLT (Πρότυπο Excel)** επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων υπολογιστικών φύλλων από περιεχόμενο Word. Υποστηρίζει την τυποποίηση των επιχειρηματικών διαδικασιών, των φορμών και τη διάταξη των αναφορών.
+
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Τυποποίηση προτύπων αναφοράς επιχείρησης
+- Δημιουργία προ-συμπληρωμένων προτύπων για επαναλαμβανόμενες ροές εργασίας
+- Μετατροπή φορμών σε δομημένα πρότυπα υπολογιστικών φύλλων
+- Συνέπεια στις αναφορές σε όλο το τμήμα
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Εργαλεία δημιουργίας προτύπων DOC-σε-XLT
+- Αυτοματοποιημένη αντιστοίχιση εγγράφου-προτύπου
+- Κεντρικά ροές δημιουργίας προτύπων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

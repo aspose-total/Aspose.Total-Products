@@ -54,7 +54,22 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na POTX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Klíčové použití
+- Vytváření značkových prezentací z reportů
+- Převádění strukturovaných dokumentů Word do šablon prezentací
+- Udržování konzistence designu ve výukových materiálech
+- Návrh opakovaně použitelných souborů snímků pro firemní oddělení
+
+## ⚙️ Automatizační scénáře
+- Mapování pracovních postupů DOC-to-POTX pro bezproblémovou konverzi
+- Přizpůsobení šablony založené na XML pro pokročilou kontrolu designu
+- Hromadné vytváření firemních šablon z obsahu Word
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,23 @@ otherformats: IMAGE  JPEG2000 TGA WMF SVGZ PSD EMZ WMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 CGM（计算机图形元文件）转换为 PSD（Photoshop 文档）可在 Adobe Photoshop 中进行高保真度的技术图形编辑。这种转换对于在创意项目中重复使用矢量资产、实现像素级增强以及将图表整合到营销或多媒体内容中至关重要。
+
+## ✅ 主要用例
+- **图形资产重用** – 调整工程视觉以用于营销活动或产品手册。
+- **编辑技术图表** – 应用 Photoshop 特效、颜色校正和品牌元素。
+- **媒体后期制作** – 将技术图像整合到视频、动画或印刷布局中。
+
+## ⚙️ 自动化场景
+- **数字资产管理（DAM）系统** – 自动将 CGM 转换为 PSD 以进行创意工作流程。
+- **基于 Java 的图像处理 API** – 批量处理 CGM 图表并生成分层 PSD 文件。
+- **创意流程** – 将其整合到营销资产创建工作流程中，以获得一致的输出。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

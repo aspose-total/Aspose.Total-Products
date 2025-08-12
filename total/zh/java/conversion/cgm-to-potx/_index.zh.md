@@ -59,7 +59,19 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- **行业标准的可视化报告** – 为客户和利益相关者准备专业的布局。
+- **工程设计模板** – 将可伸缩矢量图形嵌入可重复使用的布局中。
+- **可重复使用的品牌幻灯片** – 确保在不同部门之间保持一致的企业形象。
+
+## ⚙️ 自动化场景
+- **基于Java的Open XML文档系统** – 使用Apache POI XSLF API自动化CGM到POTX的转换。
+- **企业内容自动化** – 简化品牌模板库的创建。
+- **模板化演示文稿流水线** – 集成到CI/CD流水线中，实现自动化幻灯片准备。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

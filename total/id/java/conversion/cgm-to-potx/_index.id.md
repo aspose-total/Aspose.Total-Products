@@ -59,7 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi CGM ke POTX (Template Presentasi Open XML) menyediakan format template yang fleksibel dan modern untuk alur kerja presentasi bisnis dan rekayasa yang dapat diskalakan. POTX mendukung grafis vektor, menjadikannya ideal untuk visual teknis berbasis CGM yang perlu digunakan kembali di beberapa slide deck.
+
+## ✅ Kasus Penggunaan Utama
+- **Laporan Visual Standar Industri** - Siapkan tata letak profesional untuk presentasi klien dan pemangku kepentingan.
+- **Template Desain Rekayasa** - Sematkan diagram vektor yang dapat diskalakan ke dalam tata letak yang dapat digunakan kembali.
+- **Slide Bermerk yang Dapat Digunakan Kembali** - Pastikan identitas perusahaan yang konsisten di seluruh departemen yang berbeda.
+
+## ⚙️ Skenario Otomatisasi
+- **Sistem Dokumen Open XML Berbasis Java** - Otomatisasi konversi CGM ke POTX dengan API Apache POI XSLF.
+- **Otomatisasi Konten Perusahaan** - Mempermudah pembuatan perpustakaan template bermerk.
+- **Pipa Presentasi Berbasis Template** - Integrasikan ke dalam pipa CI/CD untuk persiapan deck otomatis.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

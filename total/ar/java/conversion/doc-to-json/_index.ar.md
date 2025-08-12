@@ -49,7 +49,20 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+- استخراج البيانات المهيكلة من Word للاستخدام في التطبيقات
+- دمج محتوى المستند في واجهات برمجة تطبيقات الويب
+- تمكين البحث والتصفية على البيانات المستمدة من المستند
+- تخزين بيانات Word المهيكلة في قواعد بيانات NoSQL
+
+## ⚙️ سيناريوهات الأتمتة
+- مستخرجات DOC-to-JSON لتحويل البيانات مباشرة
+- نصوص توليد JSON بناءً على Java للمطورين
+- سيناريوهات تكامل Word-to-API المؤتمتة
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

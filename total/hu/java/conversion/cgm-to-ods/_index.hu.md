@@ -47,7 +47,27 @@ A CGM-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az CGM (Computer Graphics Metafile) fájlok átalakítása ODS (OpenDocument Spreadsheet) formátumra lehetővé teszi a vektor alapú diagramok kombinálását strukturált adatokkal nyílt forráskódú táblázatkezelő formátumokban. Ez az átalakítás alapvető fontosságú műszaki jelentések, mérnöki dokumentációk és analitikai feladatok számára, amelyek mind tabuláris adatokat, mind magas minőségű vizuális elemeket igényelnek.
+
+## ✅ Fő felhasználási esetek
+- Tabuláris mérnöki jelentések létrehozása beágyazott diagramokkal.
+- Nyílt forráskódú projekt dokumentáció vizuális hivatkozásokkal.
+- Tudományos adatelemzés vektor alapú diagramokkal.
+- Gyártási folyamatok nyomon követése integrált vázlattervekkel.
+- Környezeti és felmérési jelentések diagramos adatokkal.
+
+## ⚙️ Automatizálási forgatókönyvek
+- Java alapú ETL rendszerek, amelyek kombinált adatokat és diagramokat exportálnak.
+- Tudományos adat exportáló eszközök strukturált és vizuális tartalomhoz.
+- Irodai interoperabilitási API-k több formátumú műszaki dokumentációhoz.
+- Automatizált adatvizualizációs csővezetékek.
+- Integráció a LibreOffice Calc-el a platformfüggetlen hozzáférés érdekében.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

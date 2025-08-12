@@ -49,7 +49,25 @@ otherformats: ODS XLT XLSB MD DIF EXCEL XLSM TSV SXC XLAM TXT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 CGM 文件转换为 **XLTX（不带宏的 Excel 模板）** 使用基于 Java 的工具对于需要可重复使用的电子表格设计且不依赖宏的组织至关重要。XLTX 模板以安全的基于 XML 的格式存储 CGM 图形和数据布局，确保与企业文档政策兼容。
+
+## ✅ 主要用例
+- 用于技术报告的无宏工程模板。
+- 集成 CGM 图表的图形报告结构。
+- 用于重复报告的标准化布局生成。
+- 不包含可执行代码的符合合规性的模板。
+
+## ⚙️ 自动化场景
+- 用于 XLTX 创建的 Java 电子表格模板引擎。
+- 用于 CGM 到 XLTX 转换的办公文件转换器。
+- 用于多部门使用的 Java 报告生成工具。
+- 用于共享企业文档库的批量 XLTX 创建。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

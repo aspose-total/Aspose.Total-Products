@@ -47,7 +47,23 @@ Při převodu souboru CGM na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na SXC (formát OpenOffice Calc) konverze umožňuje integraci technických grafů nebo tabulkových dat do open-source tabulkových systémů. Podporuje kompatibilitu s LibreOffice a dalšími platformami založenými na otevřených dokumentech.
+
+## ✅ Klíčové použití
+- **Integrace inženýrských tabulek** – Kombinujte diagramy s datovými tabulkami pro technické zprávy.
+- **Archivace v open-source tabulkových programech** – Ukládejte vektorové technické ilustrace vedle dat.
+- **Kompatibilita s nástroji založenými na LibreOffice** – Zajistěte plynulé používání souborů v prostředích s různými platformami.
+
+## ⚙️ Scénáře automatizace
+- **Transformační pracovní postupy řízené Javou** – Převeďte CGM do formátů připravených pro tabulky.
+- **Rutiny ETL pro otevřené dokumenty** – Automatizujte import vektorových diagramů do tabulek.
+- **Systémy pro generování zpráv s různými platformami** – Vložte vizuály do automatizované generace zpráv.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

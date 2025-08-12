@@ -103,7 +103,22 @@ otherformats: PPTX POTX PPS ODP POTM POWERPOINT PPSX PPSM POT PPT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+- דיווח תאגידי ממוקם עם מאקרוס
+- מצגות אינטראקטיביות להכשרת עובדים חדשים
+- מצגות ניתוח עסקיות המופעלות על ידי מאקרוס
+- ויזואליזציה של נתונים ישירות מדוחות Word
+
+## ⚙️ תרחישי אוטומציה
+- זרימי עבודה להכנת PPTM עם הזרקת מאקרוס מ-DOC
+- שדרוגי שקופיות מבוססי סקריפט לאינטראקטיביות
+- לוחות בקרה ל-KPI הממוחשבים משולבים במצגות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -78,7 +78,34 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX DOCM MARKDOWN PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+
+- **יצירת דוחות תואמי ODF**  
+  צור דוחות בתקן שבהם התמונות הגרפיות בפורמט CGM משתלבות בתוכן מובנה בפורמט OpenDocument.
+
+- **עריכת מסמכים שיתופית**  
+  שמור תבניות OTT המשופרות ב-CGM במאגרים משותפים לעריכה בזמן אמת על ידי משתמשים מרובים בפלטפורמות קוד פתוח.
+  
+
+## ⚙️ תרחישי אוטומציה
+
+- **אוטומציה ב-Java דרך ממיר**  
+  השתמש ב-Aspose APIs בזרימות עבודה ב-Java כדי להמיר קבצי CGM לתבניות OTT לפרסום אוטומטי.
+
+- **שילובי LibreOffice SDK**  
+  השתמש ב-SDK של LibreOffice ביישומי Java כדי למלא ולהתאים אישית תבניות OTT המבוססות על CGM.
+
+- **מערכות ETL ליצירת מסמכים בכמות**  
+  שלב את ההמרה מ-CGM ל-OTT לתוך צינורות ETL ב-Java ליצירת מסמכים בהתאמה אישית בקנה מידה גדולה.
+
+- **פלטפורמות עסקיות בקוד פתוח**  
+  הפוך תבניות OTT עם תרשימי CGM מוטבעים לתוך מערכות ניהול תוכן ואוטומציה של מסמכים בקוד פתוח ב-Java.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

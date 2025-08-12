@@ -47,7 +47,34 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+
+- **تسجيل النصوص للمخططات**  
+  تخزين معلومات مخططات CGM كنص عادي لأغراض التدقيق والتصحيح والأرشفة.
+
+- **استخراج وصف الرسومات البيانية الناقلة**  
+  تحويل هياكل CGM إلى صيغة TXT لتحليلها أو فهرستها أو دمجها مع أدوات التحليل.
+
+- **توثيق بيانات الهندسة الوصفية**  
+  توثيق بيانات الهندسة ذات الصلة بـ CGM في ملفات TXT للرجوع السريع والتخزين الخفيف.
+
+## ⚙️ سيناريوهات التلقائية
+
+- **مكتبات Java I/O للتحويل**  
+  استخدام واجهات برمجة التطبيقات القياسية في Java بالإضافة إلى محللات CGM لاستخراج وكتابة المحتوى في ملفات TXT.
+
+- **خدمات مراقبة الملفات**  
+  أتمم تحويل CGM إلى TXT عن طريق مراقبة الدلائل باستخدام خدمة المراقبة في Java `WatchService` للكشف عن حدوث ملفات جديدة.
+
+- **وظائف تحويل دفعات**  
+  معالجة حجوم كبيرة من ملفات CGM في وظائف Java المجدولة، مصدرة تمثيلات نصية لأغراض الأرشفة أو التحليل.
+
+- **مصدرات النص العادي في أنابيب ETL**  
+  دمج تحليل CGM وتصدير TXT في سياق سير العمل القائم على Java لمعالجة البيانات المهيكلة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

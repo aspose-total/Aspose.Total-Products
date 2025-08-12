@@ -61,7 +61,22 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Μετατροπή πινάκων Word σε φύλλα εργασίας συμμορφωμένα με το ODF  
+- Διαμοιρασμός δομημένων δεδομένων σε συστήματα OpenOffice/LibreOffice  
+- Αρχειοθέτηση δεδομένων σε ανοικτές μορφές βασισμένες σε XML  
+- Δυνατότητα αλληλεπίδρασης εγγράφου-προς-φύλλο εργασίας  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μετατροπείς DOC σε FODS για προτυποποιημένη έξοδο  
+- Σενάρια μετασχηματισμού XML για ακριβή μορφοποίηση  
+- Ροές εργασίας δεδομένων βασισμένες σε OpenDocument για συνεργασία  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

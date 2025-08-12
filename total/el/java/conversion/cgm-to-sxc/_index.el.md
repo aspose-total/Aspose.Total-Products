@@ -47,7 +47,21 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- **Ενσωμάτωση Πίνακα Μηχανικής** – Συνδυάστε διαγράμματα με πίνακες δεδομένων για τεχνικές αναφορές.
+- **Αρχειοθέτηση Διανυσματικών Εικόνων βάσει Ανοιχτού Κώδικα** – Αποθηκεύστε τεχνικές εικονογραφήσεις βασισμένες σε διανύσματα δίπλα σε δεδομένα.
+- **Συμβατότητα με Εργαλεία Βασισμένα σε LibreOffice** – Βεβαιωθείτε για ομαλή χρήση αρχείων σε περιβάλλοντα πολλαπλών πλατφορμών.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Ροές Εργασιών Μετατροπής Δεδομένων που Χρησιμοποιούν Java** – Μετατρέψτε CGM σε μορφές έτοιμες για υπολογιστικού φύλλου.
+- **Ρουτίνες ETL Εγγράφου Ανοιχτού Κώδικα** – Αυτοματοποιήστε την εισαγωγή διανυσματικών διαγραμμάτων σε υπολογιστικά φύλλα.
+- **Συστήματα Αναφοράς Πολλαπλών Πλατφορμών** – Ενσωματώστε οπτικά στοιχεία στην αυτοματοποιημένη δημιουργία αναφορών.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

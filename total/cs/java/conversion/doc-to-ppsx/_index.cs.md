@@ -54,7 +54,24 @@ API také umožňuje převádět dokumenty DOC chráněné heslem na PPSX. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOC** na **PPSX (PowerPoint Open XML Slide Show)** je ideální pro distribuci moderních, připravených prezentací. Tento formát zaručuje kompatibilitu s nejnovějšími verzemi PowerPointu a zároveň zachovává vizuální design dokumentu.
+
+## ✅ Klíčové použití
+- Samostatně běžící prezentace pro události a informační stánky
+- Automatizované firemní oznámení a briefinky
+- Prezentační snímky vytvořené z psaného akademického obsahu
+- Marketingové prezentace z propagačních brožur
+
+## ⚙️ Scénáře automatizace
+- Hromadné zpracování z DOC do PPSX pro masové konverze
+- Přizpůsobení prezentace založené na XML pro branding
+- Automatizace firemní komunikace pro pravidelné aktualizace
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,25 @@ A CGM-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **XLT (Excel sablon)** formátumba való átalakítás Java-alapú alkalmazásokban egységes, újrafelhasználható táblázat elrendezéseket biztosít műszaki és mérnöki jelentésekhez. Az XLT sablonok szabványosítják a formázást, az adatok elhelyezését és a diagramokat, lehetővé téve a strukturált jelentések gyorsabb generálását a CGM-alapú diagramokból vagy adatokból.
+
+## ✅ Fő felhasználási esetek
+- Újrafelhasználható mérnöki sablonok ismétlődő műszaki jelentésekhez.
+- Előre formázott elrendezések a CGM-alapú diagramok integrálásához.
+- Gyors minőségellenőrzési és ellenőrzési lapok generálása.
+- Egyenletes arculat és formázás vállalati dokumentumokhoz.
+
+## ⚙️ Automatizálási forgatókönyvek
+- Java-alapú táblázat sablonrendszer a tömeges XLT generáláshoz.
+- Sablon kitöltése CGM adatokból automatizált csatornákon keresztül.
+- Integráció vállalati jelentési eszközökkel XLT-alapú kimenetekhez.
+- Tömeges átalakítás a vállalaton belüli jelentési szabványosítás érdekében.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

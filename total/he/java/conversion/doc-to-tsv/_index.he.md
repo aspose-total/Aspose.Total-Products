@@ -102,7 +102,24 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS CSV XLSM ODS XLSX SXC XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOC** ל **TSV (ערכים מופרדים בטאב)** היא חיונית לחילוץ נתונים מובנים בטקסט פשוט ממסמכים בפורמט טקסט עשיר לתוך פורמט טבלאי קל משקל. TSV נתמך בצורה רחבה על ידי מסדי נתונים, גיליונות אלקטרוניים וכלים לניתוח נתונים, מה שהופך אותו לאידיאלי להחלפת נתונים ועיבוד.
+
+## ✅ מקרי שימוש מרכזיים
+- ייצוא טבלאות מסמכים ל- TSV לצורך יבוא למסדי נתונים
+- הכנת נתונים לפלטפורמות אנליטיות
+- שילוב עם יישומי גיליון אלקטרוני כמו Excel ו-Google Sheets
+- שיתוף קבצי נתונים מובנים קלים
+
+## ⚙️ תרחישי אוטומציה
+- תוכנה לחילוץ טבלאות DOC ל- TSV
+- סקריפטים להמרה אוטומטית לעיבוד בצט
+- פירוק מסמך עם יצירת פלט בערכים מופרדים בטאב
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

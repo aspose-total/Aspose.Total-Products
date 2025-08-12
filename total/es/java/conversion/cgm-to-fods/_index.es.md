@@ -47,7 +47,38 @@ Al convertir un archivo CGM a FODS, también puede agregar una marca de agua a s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Conversión de archivos **Computer Graphics Metafile (CGM)** a formato **FODS (Flat OpenDocument Spreadsheet)**
+
+La conversión de archivos **Computer Graphics Metafile (CGM)** a formato **FODS (Flat OpenDocument Spreadsheet)** es una forma efectiva de transformar datos técnicos gráficos en hojas de cálculo estructuradas y de estándar abierto. En las aplicaciones de código abierto basadas en Java, esta conversión permite a ingenieros, investigadores y analistas de datos extraer valores de medición, especificaciones y detalles basados en vectores de diagramas CGM en hojas de cálculo FODS editables. Como formato XML compatible con ODF, FODS garantiza la compatibilidad con herramientas como OpenOffice, lo que facilita compartir y colaborar sin restricciones propietarias.
+
+## ✅ Casos de uso clave
+
+- **Conversión de Datos Técnicos Gráficos en Hojas de Cálculo**  
+  Extraer datos gráficos vectoriales de archivos CGM en filas y columnas estructuradas para su análisis.
+
+- **Documentación de Valores de Medición**  
+  Almacenar y gestionar mediciones de ingeniería o resultados de experimentos en un formato de hoja de cálculo portátil.
+
+- **Compartir a través de Herramientas ODF**  
+  Distribuir datos de hojas de cálculo derivados de CGM a través de aplicaciones compatibles con ODF.
+
+## ⚙️ Escenarios de Automatización
+
+- **Bibliotecas de Java como JOpenDocument**  
+  Automatizar la conversión de CGM a FODS en flujos de trabajo de Java utilizando bibliotecas de manejo de hojas de cálculo de código abierto.
+
+- **Integración de LibreOffice en Modo Headless**  
+  Ejecutar LibreOffice en modo headless desde aplicaciones Java para convertir por lotes gráficos CGM en hojas de cálculo FODS.
+
+- **Generación Masiva de FODS**  
+  Incorporar el análisis de CGM y la creación de FODS en tuberías ETL basadas en Java para la extracción de datos a gran escala.
+
+- **Sistemas de Procesamiento de Datos de Código Abierto**  
+  Utilizar FODS como parte de plataformas científicas o de ingeniería impulsadas por Java para una gestión de datos transparente y basada en estándares.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

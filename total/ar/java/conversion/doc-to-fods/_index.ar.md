@@ -61,7 +61,20 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- تحويل جداول Word إلى جداول بيانات متوافقة مع ODF
+- مشاركة البيانات المهيكلة عبر أنظمة OpenOffice/LibreOffice
+- أرشفة البيانات في تنسيقات مفتوحة مبنية على XML
+- تمكين تبادل البيانات بين المستندات وجداول البيانات
+
+## ⚙️ سيناريوهات التأتير الآلي
+- محولات DOC-to-FODS للحصول على نتائج موحدة
+- سكربتات تحويل XML لتنسيق دقيق
+- سير العمل للبيانات المستندة على OpenDocument للتعاون
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

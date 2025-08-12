@@ -49,7 +49,25 @@ otherformats: XLT ODS XLSB XLTM XLAM TXT SXC MD DIF FODS XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+利用Java工具将CGM（计算机图形元文件）文件转换为TSV（制表符分隔值）格式，确保精确的列对齐和Unix友好的数据处理。这在工程工作流中尤为重要，因为模拟输出和测量数据集需要在跨平台环境中进行处理。Java I/O API和TSV库支持强大且可扩展的CGM到TSV转换流水线，可以无缝地融入ETL流程。
+
+## ✅ 主要用例
+- 从基于CGM的测量数据创建列对齐的表格。
+- 将模拟结果导出为TSV以进行研究和分析。
+- 确保与Unix/Linux命令行处理工具兼容。
+- 支持在开源工程应用程序中进行数据交换。
+
+## ⚙️ 自动化场景
+- 使用Java I/O和TSV库进行自动化的CGM到TSV转换。
+- 无界面批量转换技术CGM文件以用于报告工作流程。
+- 使用基于Java的数据处理引擎进行跨平台ETL流水线。
+- 与科学计算环境和HPC集群集成。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

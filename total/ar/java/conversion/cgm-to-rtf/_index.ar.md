@@ -42,7 +42,34 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+
+- **تضمين الرسومات في تنسيقات النص الغنية**  
+  قم بدمج الرسومات CGM مباشرة في مستندات RTF للوثائق التقنية المشتملة على النص والصور.
+
+- **أرشفة الوثائق المهيكلة**  
+  قم بتخزين ملفات RTF المحسنة بـ CGM للوصول على المدى الطويل بتنسيقات مدعومة من مجموعة واسعة من المحررين.
+
+- **مشاركة مواصفات الهندسة**  
+  قم بتوزيع المواصفات المفصلة مع رسومات CGM مضمنة لأصحاب المصلحة باستخدام ملفات RTF المدعومة عالميًا.
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+
+- **مكتبات Java المتوافقة مع RTF**  
+  قم بتلقين تحويل CGM إلى RTF باستخدام **Apache POI-HWPF**، أو واجهات برمجة تطبيقات Java مخصصة لإنشاء ملفات RTF.
+
+- **تكامل خط الأنابيب للوثائق**  
+  قم بتضمين إنشاء RTF ضمن سير العمل الخاصة بالمحتوى المعتمد على Java لإنتاج تقارير تقنية مهيكلة بشكل جيد.
+
+- **معالجة الدفعة للملفات التقنية**  
+  قم بتحويل العديد من رسومات CGM إلى أرشيفات RTF للتوزيع الجماعي أو التخزين.
+
+- **توصيل الوثائق عبر منصات متعددة**  
+  استخدم التشغيل التلقائي بواسطة Java لضمان إنشاء ملفات RTF معتمدة على CGM بتنسيقات يمكن الوصول إليها عبر أنظمة تشغيل وتطبيقات مختلفة.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,19 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Casos de uso clave
+- **Paneles visuales dinámicos** - Actualización en tiempo real de diagramas durante las presentaciones.
+- **Presentaciones técnicas con macros integrados** - Permiten la exploración interactiva de datos.
+- **Visualización automatizada de simulaciones** - Presentar salidas de simulación en vivo sin configuración manual.
+
+## ⚙️ Escenarios de automatización
+- **Motores de renderizado de macros de PowerPoint basados en Java** - Generar y entregar presentaciones de diapositivas habilitadas para macros.
+- **Sesiones técnicas interactivas** - Incrustar diagramas y cálculos generados en Java.
+- **Flujos de presentación inteligentes** - Encadenar varios archivos PPSM en un sistema de presentación guiada.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

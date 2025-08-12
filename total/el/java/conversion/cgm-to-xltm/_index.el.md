@@ -47,7 +47,23 @@ otherformats: XLTM TSV TXT XLT ODS EXCEL XLTX MD SXC XLSB DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Πρότυπα με μακροενεργοποιημένα μακέτα για την αυτοματοποίηση της μηχανικής διαδικασίας.
+- Αυτόματη αναφορά με ενσωματωμένους υπολογισμούς CGM.
+- Έξυπνες ροές εγγράφων για ομάδες παραγωγής και Ε&Α.
+- Πρότυπα ελέγχου ποιότητας με ενσωματωμένα μακροενεργοποιημένα ελέγχους εγκυρότητας.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Απεικόνιση προτύπου με μακροενεργοποιημένα σε εφαρμογές επιχειρηματικής τάξης Java.
+- Δημιουργία παραγωγής προτύπων CGM-σε-XLTM για διαφορετικά έργα.
+- Σωλήνες αναφοράς με μακροενεργοποιημένη ETL.
+- Μακροενεργοποιημένες αναφορές λειτουργίας που ενεργοποιούνται από Java.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

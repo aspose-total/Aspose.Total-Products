@@ -59,7 +59,23 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na POTM (šablona PowerPoint s makry) konverze umožňuje technickým týmům vkládat interaktivní prvky, automatizované výpočty a dynamické diagramy do opakovaně použitelných prezentačních šablon. V systémech řízených Javou to umožňuje silnou automatizaci pro inženýrské školení, průchody simulací a firemní reporting.
+
+## ✅ Klíčové použití
+- **Interaktivní školicí obsah** – Prezentace s makry pro zaškolování zaměstnanců a rozvoj dovedností.
+- **Prezentace přátelské k automatizaci** – Automatizace generování opakujícího se obsahu snímků.
+- **Inženýrské makro šablony** – Vytváření technických diagramů s vestavěnou makro logikou pro aktualizace v reálném čase.
+
+## ⚙️ Scénáře automatizace
+- **Generování snímků s makry v Javě** – Vytváření souborů POTM s vestavěnými makry pomocí Java API.
+- **Dynamické tvůrce reportů** – Automatické generování šablon připravených na makra pro různé typy projektů.
+- **Hromadní zpracování šablon PowerPoint** – Automatizace distribuce makro šablon ve velkém měřítku v podnicích.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,25 @@ otherformats: XLT ODS XLSB XLTM XLAM TXT SXC MD DIF FODS XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل ملفات CGM (Computer Graphics Metafile) إلى تنسيق TSV (Tab-Separated Values) باستخدام أدوات Java يضمن محاذاة الأعمدة بدقة ومعالجة البيانات بطريقة ودية لنظام Unix. يكون ذلك ذا قيمة خاصة في سير العمل الهندسي حيث تحتاج نواتج المحاكاة ومجموعات بيانات القياس إلى معالجة في بيئات متعددة المنصات. تمكن واجهات برمجة التطبيقات في Java ومكتبات TSV من إنشاء أنابيب تحويل قوية وقابلة للتوسيع من CGM إلى TSV تندمج بسلاسة في عمليات ETL.
+
+## ✅ حالات الاستخدام الرئيسية
+- إنشاء جداول محاذاة الأعمدة من بيانات القياس القائمة على CGM.
+- تصدير نتائج المحاكاة إلى TSV للأبحاث والتحليل.
+- ضمان التوافق مع أدوات معالجة سطر الأوامر في Unix/Linux.
+- دعم تبادل البيانات في تطبيقات الهندسة مفتوحة المصدر.
+
+## ⚙️ سيناريوهات الأتمتة
+- واجهات برمجة التطبيقات في Java ومكتبات TSV لتحويلات CGM إلى TSV تلقائيًا.
+- تحويل دفعي بدون واجهة لملفات CGM التقنية لسير العمل في التقارير.
+- أنابيب ETL متعددة المنصات باستخدام محركات معالجة البيانات القائمة على Java.
+- دمج مع بيئات الحوسبة العلمية ومجموعات HPC.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

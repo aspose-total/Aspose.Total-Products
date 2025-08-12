@@ -47,7 +47,23 @@ otherformats: ODS XLT XLSB MD DIF EXCEL XLSM TSV SXC XLAM TXT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Μη-μακροοικονομικά πρότυπα μηχανικής για τεχνική αναφορά.
+- Γραφικές δομές αναφορών που ενσωματώνουν διαγράμματα CGM.
+- Παραγωγή τυποποιημένης διάταξης για επαναλαμβανόμενες αναφορές.
+- Πρότυπα φιλικά προς τη συμμόρφωση χωρίς εκτελέσιμο κώδικα.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μηχανές προτύπων υπολογιστικού φύλλου Java για τη δημιουργία XLTX.
+- Μετατροπείς αρχείων γραφείου για τη μετατροπή CGM σε XLTX.
+- Προγράμματα παραγωγής αναφορών σε Java για πολυτμηματική χρήση ανά τμήμα.
+- Δημιουργία μαζικών XLTX για κοινόχρηστες βιβλιοθήκες εγγράφων επιχείρησης.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,22 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM Excel XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>שימושים עיקריים ✅</h2>
+- המרת טבלאות Word לגיליונות אלקטרוניים אינטראקטיביים  
+- העברת נתונים פיננסיים ל-Excel לצורך ניתוח  
+- שילוב תוכן מסמך בדו"חות אוטומטיים  
+- עריכת נתונים שיתופית בצוותים  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- ממירי DOC ל-EXCEL להמרה ישירה  
+- סקריפטים מופעלים על ידי VBA להעברת טבלאות  
+- צינורות דו"חות אוטומטיים שמשלבים נתונים מ-Word ל-Excel  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

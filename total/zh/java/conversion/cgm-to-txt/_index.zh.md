@@ -49,7 +49,41 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**计算机图形元文件（CGM）**文件转换为**TXT（纯文本）**格式对于以轻量级、人类可读形式提取、记录和处理矢量图形信息非常有价值。在**基于Java的数据处理管道**中，此转换使得可以将CGM图表转换为基于文本的表示形式，用于日志记录、元数据存储或下游分析。通过在TXT中捕获CGM文件的描述元素，组织可以简化与其他系统的集成，实现快速搜索和索引，并保持长期兼容性。
+
+
+
+## ✅ 主要用例
+
+- **图表的文本记录**  
+  将CGM图表信息存储为纯文本，用于审计、调试或归档目的。
+
+- **提取矢量图形描述**  
+  将CGM结构转换为TXT以进行解析、搜索索引或与分析工具集成。
+
+- **工程元数据文档**  
+  在TXT文件中记录与CGM相关的工程数据，以便快速参考和轻量级存储。
+
+
+## ⚙️ 自动化场景
+
+- **用于转换的Java I/O库**  
+  使用标准的Java文件处理API以及CGM解析器来提取和写入内容到TXT文件。
+
+- **文件监视器服务**  
+  通过使用Java的`WatchService`监视目录中的新文件事件，自动化CGM到TXT的转换。
+
+- **批量转换作业**  
+  在计划的Java作业中处理大量的CGM文件，将文本表示导出用于归档或分析。
+
+- **ETL管道中的纯文本导出器**  
+  将CGM解析和TXT导出集成到基于Java的提取-转换-加载工作流中，用于结构化数据处理。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,22 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF CSV XLAM ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>מקרי שימוש עיקריים ✅</h2>
+- המרת טבלאות Word לגיליונות נתונים תואמי ODF  
+- שיתוף נתונים מובנים בין מערכות OpenOffice / LibreOffice  
+- ארכוב נתונים בפורמטים פתוחים מבוססי XML  
+- הפעלת שיתוף פעולה בין מסמך לגיליון נתונים  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- ממירי DOC-to-FODS לפלט תקני  
+- סקריפטים להמרת XML לעיצוב מדויק  
+- זרימות נתונים מבוססות OpenDocument לשיתוף פעולה  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

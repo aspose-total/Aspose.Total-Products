@@ -57,7 +57,33 @@ Az API használatával igény szerint elforgathatja a kimeneti DXF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+
+- **Mérnöki tervezési interoperabilitás**  
+  Ossza meg és szerkessze a CGM-alapú terveket CAD eszközökben, amelyek támogatják a DXF-et a platformok közötti együttműködés érdekében.
+
+- **Gyártási tervcsere**  
+  Biztosítsa a gyártó csapatok számára a CGM diagramokból származó DXF fájlokat CNC megmunkáláshoz és gyártáshoz.
+
+- **Vektorgrafika szerkesztése**  
+  Átalakítsa a CGM diagramokat DXF formátummá közvetlen módosításra CAD szoftverekben anélkül, hogy elveszne a vektorhűség.
+
+## ⚙️ Automatizálási forgatókönyvek
+
+- **Java alapú CAD eszközök**  
+  Integrálja a CGM-to-DXF konverziót közvetlenül a Java-alapú CAD szerkesztő és vizualizációs alkalmazásokba.
+
+- **Mérnöki rajzkonverterek**  
+  Használja a Java API-kat nagy volumenű CGM-to-DXF batch konverziók automatizálására több projekt munkafolyamataiban.
+
+- **Automatizált CAD archiválási rendszerek**  
+  Tárolja a CGM terveket DXF fájlok formájában hosszú távú mérnöki archívumokban a jövőbeli újrafelhasználás és megfelelőség érdekében.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

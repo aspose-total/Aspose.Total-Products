@@ -47,7 +47,23 @@ Durante la conversione del file CGM in TSV, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Casi d'Uso Chiave</h2>
+- Creazione di tabelle allineate alle colonne dai dati di misurazione basati su CGM.
+- Esportazione dei risultati della simulazione in formato TSV per la ricerca e l'analisi.
+- Garantire la compatibilità con gli strumenti di elaborazione a riga di comando Unix/Linux.
+- Supporto allo scambio di dati nelle applicazioni di ingegneria open-source.
+
+<h2>⚙️ Scenari di Automazione</h2>
+- API Java I/O e librerie TSV per trasformazioni automatizzate da CGM a TSV.
+- Conversione batch senza interfaccia grafica di file CGM tecnici per flussi di lavoro di reportistica.
+- Pipeline ETL multi-piattaforma utilizzando motori di elaborazione dati basati su Java.
+- Integrazione con ambienti di calcolo scientifico e cluster HPC.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

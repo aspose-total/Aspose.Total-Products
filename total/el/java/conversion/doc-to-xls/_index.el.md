@@ -61,7 +61,22 @@ otherformats: XLS SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Εξαγωγή πινάκων από το Word σε φύλλα εργασίας Excel
+- Προετοιμασία οικονομικών ή στατιστικών δεδομένων για ανάλυση
+- Ενσωμάτωση περιεχομένου εγγράφου στις ροές εργασίας αναφοράς
+- Μετατροπή απαντήσεων φορμών σε δομημένα φύλλα Excel
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Εργαλεία μαζικής μετατροπής DOC σε XLS
+- Αυτοματοποιημένη αντιστοίχιση πινάκων σε κελιά
+- Αυτοματισμός ροών εργασίας για αναφορές σε πραγματικό χρόνο
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

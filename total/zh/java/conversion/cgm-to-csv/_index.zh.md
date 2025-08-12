@@ -49,7 +49,25 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 CGM（计算机图形元文件）文件转换为 CSV（逗号分隔值）在基于 Java 的环境中，可以让工程、制造和数据分析团队将图形矢量数据转换为结构化表格格式。这样可以轻松提取属性、分析元数据，并与基于 Java 的分析流程集成。使用 Java CSV 库，如 **OpenCSV**，CGM 到 CSV 的工作流程可以自动化大规模处理，同时确保与 BI 工具和报告平台兼容。
+
+## ✅ 主要用例
+- 从 CGM 图表中提取属性以进行质量控制文档编制。
+- 将 CGM 元数据转换为 CSV 表格进行统计分析。
+- 解析结构化工程数据以供报告和仪表板使用。
+- 与 Excel、Google Sheets 和 BI 平台兼容。
+
+## ⚙️ 自动化场景
+- 批量将 CGM 文件转换为 CSV。
+- 在基于 Java 的制造系统中安排 CGM 到 CSV 的流程。
+- 与基于 Java 的 BI 仪表板集成，实现实时更新。
+- 为存档和合规性自动生成 CSV。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

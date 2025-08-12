@@ -61,7 +61,22 @@ otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Ενσωμάτωση μακροεντολών βασισμένων σε έγγραφα σε πρόσθετα του Excel
+- Αυτοματοποίηση επαναλαμβανόμενων διαδικασιών σε φύλλα εργασίας
+- Δημιουργία προσαρμοσμένων λειτουργιών Excel
+- Διανομή εργαλείων αυτοματοποίησης Excel σε επίπεδο επιχείρησης
+
+<h2>⚙️ Σενάρια Αυτοματοποίησης</h2>
+- Σενάρια εξαγωγής μακροεντολών από DOC σε XLAM
+- Αυτοματοποιημένη συσκευασία κώδικα VBA σε πρόσθετα
+- Αυτοματοποιημένες ροές εργασίας για μαζική αυτοματοποίηση στο Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

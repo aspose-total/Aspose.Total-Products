@@ -47,7 +47,25 @@ Durante la conversione del file CGM in XLT, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting i file CGM nel formato **XLT (Excel Template)** nelle applicazioni Java garantisce layout di fogli di calcolo coerenti e riutilizzabili per la generazione di report tecnici e ingegneristici. I modelli XLT standardizzano la formattazione, il posizionamento dei dati e la creazione di grafici, consentendo una generazione più rapida di report strutturati da diagrammi basati su CGM o da estrazioni di dati.
+
+## ✅ Principali casi d'uso
+- Modelli di ingegneria riutilizzabili per report tecnici ricorrenti.
+- Layout preformattati per l'integrazione di diagrammi basati su CGM.
+- Generazione rapida di schede di controllo qualità e ispezione.
+- Branding e formattazione coerenti per documenti aziendali.
+
+## ⚙️ Scenari di automazione
+- Sistemi di modellazione di fogli di calcolo basati su Java per la generazione bulk di XLT.
+- Popolamento del modello con dati CGM tramite pipeline automatizzate.
+- Integrazione con strumenti di reportistica aziendale per l'output basato su XLT.
+- Conversione batch per la standardizzazione dei report su scala aziendale.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

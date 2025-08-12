@@ -59,7 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 CGM（计算机图形元文件）文件转换为 ODP（OpenDocument Presentation）可实现高质量矢量图表与开源演示文稿格式的无缝集成。这种转换非常适合确保跨平台兼容性，在教育、企业和技术演示中实现专业的视觉叙事，而不会牺牲图像质量。
+
+## ✅ 主要用例
+- 将矢量图表嵌入到LibreOffice Impress演示文稿中。
+- 跨平台技术和企业报告生成。
+- 制作具有可伸缩插图的教育视觉内容。
+- 将工程图纸整合到演示幻灯片中。
+- 用精密图形增强科学会议材料。
+
+## ⚙️ 自动化场景
+- 基于Java的文档流水线集成，用于自动生成幻灯片。
+- 与LibreOffice兼容的演示文稿制作系统。
+- 用于技术部门的企业内容生成工具。
+- 基于API的图表到演示文稿的工作流程。
+- 批量处理CGM图表，用于大规模演示。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

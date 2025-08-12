@@ -79,7 +79,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM na XAMLFLOW konverze umožňuje vizuální vytváření pracovních postupů pro inteligentní automatizaci uživatelského rozhraní a vizualizaci procesů v rámci ekosystémů .NET.
+
+## ✅ Klíčové použití případy
+- **Inteligentní tvůrci uživatelského rozhraní** – Generujte UI toky přímo z technických diagramů.
+- **Interaktivní pracovní postupy** – Vytvářejte vizuální procesní mapy s vestavěnou logikou.
+- **Logicky řízené vizuální programování** – Podpora nízkého kódu a platforem bez kódu.
+
+## ⚙️ Automatizační scénáře
+- **Diagramové motory založené na Javě** – Převeďte CGM na připravená aktiva pro pracovní postupy XAMLFLOW.
+- **Konvertory pracovních postupů UI** – Mapujte vektorové diagramy na spustitelné pracovní postupy.
+- **Nástroje vizualizace DevOps** – Vizuálně zobrazujte infrastrukturu a procesní toky.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,25 @@ A CGM-fájl XLTM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **XLTM (Makróval engedélyezett Excel sablon)** formátumba való átalakítás lehetővé teszi az automatizált munkafolyamatok támogatását Java platformokon, előre konfigurált sablonokkal, beágyazott makrókkal a műszaki folyamatokhoz. Ez lehetővé teszi a mérnökök számára, hogy gyorsan létrehozzanak makróval ellátott jelentéseket, futtassanak automatizált számításokat, és frissítsék a CGM bemenetekből származó vizualizációkat anélkül, hogy újra kellene építeniük a táblázatlogikát.
+
+## ✅ Fő felhasználási esetek
+- Makróval ellátott sablonok mérnöki folyamatok automatizálásához.
+- Automatizált jelentéskészítés CGM-be integrált számításokkal.
+- Okos dokumentumfolyamatok a gyártás és a kutatás-fejlesztési csapatok számára.
+- Minőségellenőrzési sablonok beépített ellenőrző makrókkal.
+
+## ⚙️ Automatizálási forgatókönyvek
+- Makró sablonok megjelenítése Java vállalati alkalmazásokban.
+- Több projekt számára történő batch CGM-to-XLTM sablon generálása.
+- ETL-alapú makróval ellátott jelentési csővezetékek.
+- Java által kiváltott makrók élő operatív jelentésekhez.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

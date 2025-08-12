@@ -57,7 +57,23 @@ otherformats: TGA JPEG2000 IMAGE SVGZ WMF  WMZ PSD EMZ DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM转SVGZ（压缩可缩放矢量图形）转换提供了适合网络的、可缩放的图形，经过优化以减少带宽。适用于在线传递详细的工程图纸，SVGZ确保以最小的文件大小进行精确呈现。
+
+## ✅ 主要用例
+- **Web应用中的可缩放矢量传递** – 提供响应式、高质量的矢量图。
+- **工程图纸存档** – 以压缩的矢量格式存储复杂的插图。
+- **CAD到Web的转换** – 将CAD中的技术图形发布为适合浏览器的形式。
+
+## ⚙️ 自动化场景
+- **基于Java的SVG渲染引擎** – 将CGM转换为交互式、可缩放的SVGZ资产。
+- **SVG压缩工具** – 自动化减小文件大小同时保持视觉准确性。
+- **前端资产管道** – 为Web应用程序中的即时加载准备图表。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

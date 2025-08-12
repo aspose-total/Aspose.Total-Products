@@ -61,7 +61,22 @@ otherformats: EXCEL SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές περιπτώσεις χρήσης</h2>
+- Μετατροπή πινάκων Word σε διαδραστικά φύλλα εργασίας Excel
+- Μεταφορά χρηματοοικονομικών δεδομένων στο Excel για ανάλυση
+- Ενσωμάτωση περιεχομένου εγγράφου σε αυτοματοποιημένα πίνακες ελέγχου αναφορών
+- Ευκολία στη συλλογική επεξεργασία δεδομένων σε ομάδες
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μετατροπείς DOC σε EXCEL για άμεση μετατροπή
+- Σενάρια μεταφοράς πινάκων με χρήση VBA
+- Αυτοματοποιημένες διαδικασίες αναφοράς που ενσωματώνουν δεδομένα Word στο Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

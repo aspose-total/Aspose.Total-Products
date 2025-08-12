@@ -47,7 +47,32 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные сценарии использования
+
+- **Встроенные инженерные метрики**  
+  Захват значений измерений из диаграмм **CGM** в Excel для расчетов и анализа тенденций.
+
+- **Генерация технических отчетов**  
+  Совмещение визуальных элементов, полученных из **CGM**, с структурированными данными Excel для создания полных инженерных или проектных отчетов.
+
+- **Извлечение графиков из диаграмм**  
+  Преобразование векторных графиков **CGM** в редактируемые объекты графиков Excel для дальнейшей настройки.
+
+
+## ⚙️ Сценарии автоматизации
+
+- **Apache POI для создания Excel**  
+  Используйте библиотеку **Apache POI** на Java для автоматизации преобразования **CGM** в Excel и заполнения ячеек извлеченными значениями.
+
+- **Автоматизированное заполнение таблиц**  
+  Интегрируйте разбор данных **CGM** с отчетными механизмами на Java для динамического создания листов Excel.
+
+- **Системы корпоративной отчетности**  
+  Встраивайте рабочие процессы **CGM** в Excel в отчетные системы на Java для обработки инженерных данных в масштабе предприятия.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

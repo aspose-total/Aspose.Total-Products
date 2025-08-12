@@ -61,7 +61,22 @@ otherformats: XLTX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Δημιουργία τυποποιημένων διατάξεων φύλλων εργασίας για επιχειρηματική χρήση
+- Μετατροπή δεδομένων που βασίζονται σε έγγραφα για ασφαλή επαναχρησιμοποίηση προτύπου
+- Εξασφάλιση συμμόρφωσης χωρίς μακρό σε ασφαλή περιβάλλοντα
+- Ροή εργασιών εισαγωγής δεδομένων σε όλη την εταιρεία
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός προτύπου DOC σε XLTX XML
+- Αυτοματοποιημένη δημιουργία προτύπων για επιχειρηματική αναφορά
+- Κεντρικά συστήματα διανομής προτύπων χωρίς μακρό
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

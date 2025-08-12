@@ -54,7 +54,22 @@ otherformats: PPTX PPTM POWERPOINT PPSX PPS POTX POT PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Δημιουργία συνεπών προτύπων παρουσιάσεων από έγγραφα Word
+- Τυποποίηση της εταιρικής ταυτότητας σε παρουσιάσεις
+- Αυτοματοποίηση δημιουργίας θεμάτων διαφανειών από γραπτό περιεχόμενο
+- Προετοιμασία προτύπων για μαζική παραγωγή παρουσιάσεων
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Εργαλεία αντιστοίχισης στυλ DOC σε POT για συνέπεια στο design
+- Σενάρια γεννήτριας θεμάτων με Java για αυτόματη δημιουργία προτύπων
+- Αυτοματοποιημένες ροές εργασίας ανάπτυξης προτύπων για επιχειρησιακή χρήση
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

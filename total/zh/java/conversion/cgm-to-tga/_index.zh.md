@@ -57,7 +57,23 @@ otherformats: EMZ TGA SVGZ IMAGE WMF  JPEG2000 WMZ DXF PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM转TGA（Targa格式）转换将矢量图形转换为高质量的光栅图像，非常适合纹理映射、视觉效果和游戏开发流程。
+
+## ✅ 主要用例
+- **矢量图形的光栅化** – 为基于光栅的工作流程准备CGM图表。
+- **游戏引擎纹理生成** – 为3D环境创建准备好的纹理资产。
+- **广播质量内容设计** – 使用TGA进行专业视频和媒体制作。
+
+## ⚙️ 自动化场景
+- **Java图形框架** – 精确地将CGM渲染为TGA。
+- **批量光栅图像生成器** – 为大型资产库自动转换。
+- **矢量到纹理流程** – 集成到实时渲染的设计工作流程中。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

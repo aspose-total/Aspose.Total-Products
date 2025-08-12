@@ -78,7 +78,37 @@ otherformats: CSV TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת תרשימי **CGM** לפורמט **Excel (.xlsx)** היא פרקטית לדיווח עסקי, ניתוחי הנדסה וויזואליזציה מובנית של נתונים. בזרימות עבודה המופעלות על ידי **Java**, ההמרה הזו מאפשרת חילוץ של מדדים, מפרטים טכניים ונתוני תרשימים מגרפיקה של CGM לגיליונות אלקטרוניים לצורך ניתוח, דיווח וקבלת החלטות. אינטגרצית Excel מאפשרת לשלב תרשימים ויזואליים עם קבוצות נתונים לדוחות טכניים מלאים.
+
+
+## ✅ מקרי שימוש מרכזיים
+
+- **מדדי הנדסה מוטבעים**  
+  עיקוב ערכי מדידה מתוך תרשימי CGM ל-Excel לצורך חישוב וניתור מגמות.
+
+- **יצירת דוח טכני**  
+  שלב תרשימים מתוך CGM עם נתוני Excel מובנים לדוחות הנדסיים או פרויקט מקיף.
+
+- **חילוץ תרשימים מתוך תרשימים**  
+  המרת תרשימי CGM מבוססי וקטור לאובייקטי תרשים ניתנים לעריכה ב-Excel להתאמה נוספת.
+
+
+## ⚙️ תרחישי אוטומציה
+
+- **Apache POI ליצירת Excel**  
+  השתמש בספריית **Apache POI** של Java כדי לאוטומציה של המרת CGM ל-Excel ולמילוי תאים בערכים שחולצו.
+
+- **מילוי גיליון אוטומטי**  
+  שלב פירוק נתוני CGM עם מנועי דיווח מבוססי Java ליצירת גליונות Excel באופן דינמי.
+
+- **מערכות דיווח עסקיות**  
+  הטמעת זרימות עבודה מ- CGM ל-Excel במערכות BI או ETL מבוססות Java לעיבוד נתוני הנדסה בסקל גדול.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,24 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOC** ל-**XLT (תבנית Excel)** מאפשרת יצירת תבניות גיליוני אלקטרוני מחוזרות מתוך תוכן Word. זה תומך בתהליכי עסקים תקניים, טפסים ופריסות דיווח.
+
+## ✅ מקרי שימוש מרכזיים
+- תקנות תבניות דיווח עסקיות
+- יצירת תבניות ממולאות מראש לתהליכי עבודה חוזרים
+- המרת טפסים לתבניות גיליונות מבוססות
+- עקביות בדיווח ברמת המחלקה
+
+## ⚙️ תרחישי אוטומציה
+- כלים ליצירת תבניות מ-DOC ל-XLT
+- מיפוי מסמכים לתבניות אוטומטי
+- תהליכי יצירת תבניות מרוכזים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

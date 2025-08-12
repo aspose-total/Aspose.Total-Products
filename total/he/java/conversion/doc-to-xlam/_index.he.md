@@ -102,7 +102,22 @@ otherformats: XLSX XLTX EXCEL SXC XLT CSV DIF TSV XLS ODS XLTM XLSM XLSB FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+- הטמעת מאקרוים מבוססי מסמך בתוך התוסף של Excel
+- אוטומציה של תהליכי גיליון נתונים חוזרים
+- יצירת פונקציות מותאמות אישית של Excel
+- הפצת כלים לאוטומציה של Excel ברמה הארגונית
+
+## ⚙️ תרחישי אוטומציה
+- סקריפטים לחילוץ מאקרוים מ-DOC והמרתם ל-XLAM
+- אריזת קוד VBA באופן אוטומטי לתוספים
+- זרימות עבודה להטמעת אוטומציה בקנה מידה גדול
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,23 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل CGM إلى SXC (تنسيق OpenOffice Calc) يمكن تكامل الرسومات التقنية أو البيانات الجدولية في أنظمة جداول البيانات مفتوحة المصدر. يدعم التوافق مع LibreOffice وغيرها من منصات الوثائق المفتوحة.
+
+## ✅ حالات الاستخدام الرئيسية
+- **دمج جداول الهندسة** – دمج الرسوم البيانية مع جداول البيانات لتقارير تقنية.
+- **أرشفة جداول البيانات مفتوحة المصدر** – تخزين الرسومات التقنية القائمة على الناقل إلى جانب البيانات.
+- **توافق أدوات LibreOffice** – ضمان استخدام الملف بسلاسة في بيئات متعددة المنصات.
+
+## ⚙️ سيناريوهات التأتير
+- **سير العمل لتحويل البيانات بدفعة Java** – تحويل CGM إلى تنسيقات جاهزة لجداول البيانات.
+- **روتينات ETL للوثائق المفتوحة** – أتمتة استيراد الرسومات البيانية الناقلة إلى جداول البيانات.
+- **أنظمة تقارير متعددة المنصات** – تضمين الرسوم البيانية في إنشاء تقارير آلية.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -78,7 +78,27 @@ otherformats: XLTM XLSB XLSM XLT SXC MD DIF EXCEL CSV XLAM TXT FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת קבצי CGM (Computer Graphics Metafile) ל-ODS (OpenDocument Spreadsheet) מאפשרת לשלב תרשימים מבוססי וקטור עם נתונים מובנים בתבנית גליון עבור קובצים פתוחים. ההמרה הזו חיונית לדיווח טכני, לתיעוד הנדסי ולמשימות ניתוח שדורשות נתונים טבלאיים ותמונות איכותיות ברמה גבוהה.
+
+## ✅ מקרי שימוש מרכזיים
+- יצירת דוחות הנדסיים טבלאיים עם תרשימים מוטבעים.
+- תיעוד פרויקטים בקוד פתוח עם התייחסויות חזותיות.
+- ניתוח נתונים מדעיים לצד תרשימים מבוססי וקטור.
+- מעקב אחר תהליכי ייצור עם סכמטיקות משולבות.
+- דוחות סביבתיים וסקרים המכילים נתונים דיאגרמטיים.
+
+## ⚙️ תרחישי אוטומציה
+- מערכות ETL מבוססות Java שיוצאות נתונים משולבים ותרשימים.
+- כלים לייצוא נתונים מדעיים לתוכן מובנה וחזותי.
+- APIs לאינטרופרביליות במשרד לתיעוד טכני במגוון פורמטים.
+- צינורות נתונים לתצוגה אוטומטית.
+- שילוב עם LibreOffice Calc לגישה צלחתית.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

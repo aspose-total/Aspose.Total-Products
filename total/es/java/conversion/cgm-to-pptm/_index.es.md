@@ -59,7 +59,19 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Casos de uso clave
+- **Presentaciones basadas en datos** - Actualización automática de visuales basada en conjuntos de datos en vivo.
+- **Simulaciones técnicas con macros** - Control de la reproducción de simulaciones dentro de las diapositivas.
+- **Contenido interactivo de ingeniería** - Permitir modificaciones en tiempo real de diagramas durante las presentaciones.
+
+## ⚙️ Escenarios de automatización
+- **Herramientas de automatización de diapositivas Java** - Crear diapositivas con macros directamente desde archivos CGM.
+- **Mazos de diapositivas con macros generados por IA** - Combinar la automatización con contenido generado por IA para obtener información.
+- **Tuberías de contenido dinámico basadas en plantillas** - Generar y actualizar plantillas de presentaciones técnicas a gran escala.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

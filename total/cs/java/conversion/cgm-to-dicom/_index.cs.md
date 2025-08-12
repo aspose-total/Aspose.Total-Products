@@ -57,7 +57,37 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy
+
+- **Java-integrované radiologické prohlížeče**  
+  Zobrazování lékařských ilustrací založených na CGM přímo v rámci Java-poháněných DICOM prohlížečů pro zlepšenou diagnostickou interpretaci.
+
+- **Informační systémy nemocnic (HIS)**  
+  Převést CGM na DICOM pro standardizované záznamy o obrazech přístupné napříč síťemi nemocnic.
+
+- **Výměna radiologických dat**  
+  Umožnit plynulý přenos převedených obrazových souborů mezi lékařskými zařízeními pomocí globálního standardu DICOM.
+
+- **Diagnostická vizualizace**  
+  Zlepšete klinické pracovní postupy vložením převedených dat CGM do studií s multimodálním zobrazením.
+
+## ⚙️ Automatizační scénáře
+
+- **Java API pro manipulaci s DICOM**  
+  Automatizujte konverzní procesy CGM na DICOM pomocí Java knihoven pro zpracování obrazu a správu metadat DICOM.
+
+- **Integrace systému PACS**  
+  Přenášejte převedené obrazy DICOM přímo do systémů pro ukládání a komunikaci obrazů pro okamžité vyhledávání a ukládání.
+
+- **Java-založené ETL potrubí**  
+  Integrujte automatizovanou konverzi do pracovních postupů pro extrakci-transformaci-načtení pro správu obrazových dat v celé nemocnici.
+
+- **Diagnostické pracovní postupy řízené umělou inteligencí**  
+  Použijte Java-integrované modely AI k analýze převedených obrazů DICOM pro rozpoznání vzorů, detekci anomálií a prediktivní diagnostiku.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOC** 转换为 **XLSX（Excel Open XML Spreadsheet）** 可创建现代、完全兼容的电子表格，用于数据共享、分析和集成。XLSX 是业界标准格式，用于商业智能和云协作。
+
+## ✅ 主要用例
+- 将结构化文档数据导出为现代电子表格
+- 与干净、结构化输出集成的 BI 流水线
+- 将报告转换为可编辑、分析就绪的电子表格
+- 确保与所有主要电子表格软件兼容
+
+## ⚙️ 自动化场景
+- DOC 到 XLSX XML 映射引擎
+- 自动化电子表格生成工作流程
+- 带有结构化 XML 输出的文档解析
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

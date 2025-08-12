@@ -102,7 +102,22 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>מקרי שימוש עיקריים ✅</h2>
+- חילוץ נתונים מובנים מ-Word לשימוש באפליקציות  
+- שילוב תוכן מסמך ל-APIים ברשת  
+- אפשרות לחיפוש וסינון על נתונים המגיעים ממסמך  
+- אחסון נתוני Word מובנים במסדי נתונים NoSQL  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- מחלצי DOC-to-JSON להמרת נתונים ישירה  
+- סקריפטי יצירת JSON בבסיס Java למפתחים  
+- זרימות עבודה ממוכנות אוטומטית לשילוב Word-to-API  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

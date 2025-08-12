@@ -57,7 +57,37 @@ L'API vous permet également d'exporter le fichier CGM vers DICOM dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Cas d'utilisation clés
+
+- **Visualiseurs de radiologie intégrés à Java**  
+  Affichez des illustrations médicales basées sur CGM directement dans les visualiseurs DICOM alimentés par Java pour une interprétation diagnostique améliorée.
+
+- **Systèmes d'information hospitaliers (HIS)**  
+  Convertissez les fichiers CGM en DICOM pour des enregistrements d'imagerie standardisés accessibles à travers les réseaux hospitaliers.
+
+- **Échange de données de radiologie**  
+  Permettez le transfert fluide des fichiers d'imagerie convertis entre les établissements médicaux en utilisant la norme mondiale DICOM.
+
+- **Visualisation diagnostique**  
+  Améliorez les flux de travail cliniques en intégrant les données CGM converties dans des études d'imagerie multimodalités.
+
+## ⚙️ Scénarios d'automatisation
+
+- **API Java pour la manipulation DICOM**  
+  Automatisez les pipelines de conversion CGM en DICOM en utilisant des bibliothèques Java pour le traitement d'images et la gestion des métadonnées DICOM.
+
+- **Intégration au système PACS**  
+  Alimentez directement les images DICOM converties dans les systèmes d'archivage et de communication d'images pour une récupération et un stockage instantanés.
+
+- **Pipelines ETL basés sur Java**  
+  Intégrez la conversion automatisée dans les flux de travail d'extraction, de transformation et de chargement pour la gestion des données d'imagerie à l'échelle de l'hôpital.
+
+- **Flux de travail diagnostique alimenté par l'IA**  
+  Utilisez des modèles d'IA intégrés à Java pour analyser les images DICOM converties en vue de la reconnaissance de motifs, de la détection d'anomalies et des diagnostics prédictifs.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

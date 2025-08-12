@@ -61,7 +61,24 @@ otherformats: XLTX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOC** 转换为 **XLTX（Excel 开放 XML 模板）** 可生成可重复使用、无宏的电子表格模板，保持安全合规性并确保格式标准化。
+
+## ✅ 主要用例
+- 为企业使用创建标准化的电子表格布局
+- 将基于文档的数据转换为安全模板以便重复使用
+- 在安全环境中确保无宏合规性
+- 简化公司范围内的数据输入工作流程
+
+## ⚙️ 自动化场景
+- DOC 到 XLTX XML 模板自动化
+- 为企业报告自动生成模板
+- 集中化、无宏的模板分发系统
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

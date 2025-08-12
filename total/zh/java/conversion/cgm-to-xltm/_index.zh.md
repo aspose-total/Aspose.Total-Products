@@ -49,7 +49,21 @@ otherformats: XLTM TSV TXT XLT ODS EXCEL XLTX MD SXC XLSB DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 用于工程流程自动化的宏启用模板。
+- 带有 CGM 集成计算的自动报告。
+- 制造业和研发团队的智能文档工作流程。
+- 带有内置验证宏的质量控制模板。
+
+## ⚙️ 自动化场景
+- 在 Java 企业应用程序中呈现宏模板。
+- 为不同项目生成批量 CGM 到 XLTM 模板。
+- 基于 ETL 的宏启用报告流水线。
+- 用于实时运营报告的 Java 触发宏。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

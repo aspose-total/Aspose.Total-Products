@@ -57,7 +57,23 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod CGM na WMF (Windows Metafile) zajišťuje kompatibilitu s aplikacemi Microsoft Office a dědictvím Windows. To usnadňuje vkládání vektorových diagramů do dokumentů, prezentací a automatizovaných publikačních systémů.
+
+## ✅ Klíčové použití
+- **Vkládání grafiky do aplikací Office** – Použití diagramů ve Wordu, PowerPointu a Excelu.
+- **Aplikace pro starší podniky** – Udržení podpory pro starší obchodní systémy.
+- **Automatizace dokumentů** – Vyplňování šablon dynamickými vektorovými ilustracemi.
+
+## ⚙️ Scénáře automatizace
+- **Java-ActiveX mostové systémy** – Automatizace generování WMF z CGM zdrojů.
+- **Normalizační potrubí pro vektorové formáty** – Standardizace grafických formátů pro podnikové použití.
+- **Publikační motory dokumentů** – Integrování diagramů do pracovních postupů s vysokým objemem publikování.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

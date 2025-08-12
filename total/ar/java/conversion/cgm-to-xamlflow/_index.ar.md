@@ -79,7 +79,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM إلى تحويل XAMLFLOW يمكن تمكين إنشاء تدفق عمل بصري لأتمتة واجهة المستخدم الذكية وتصور العمليات داخل بيئات .NET.
+
+## ✅ حالات الاستخدام الرئيسية
+- **بناة واجهة المستخدم الذكية** – إنشاء تدفقات واجهة المستخدم مباشرة من الرسوم التقنية.
+- **تدفقات العمل التفاعلية** – إنشاء خرائط عملية بصرية مع منطق مضمن.
+- **برمجة بصرية مدفوعة بالمنطق** – دعم منصات البرمجة ذات الرمز المنخفض وبدون رمز.
+
+## ⚙️ سيناريوهات التلقائي
+- **محركات الرسوم التخطيطية القائمة على Java** – تحويل CGM إلى أصول XAMLFLOW جاهزة للتدفق.
+- **محولات تدفق الواجهة الرسومية** – رسم خرائط النواقل إلى تدفقات قابلة للتنفيذ.
+- **أدوات تصور DevOps** – تمثيل البنية التحتية وتدفقات العمليات بشكل بصري.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

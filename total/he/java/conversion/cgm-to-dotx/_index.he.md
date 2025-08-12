@@ -78,7 +78,36 @@ otherformats: WORDML XAMLFLOW DOT OTT ODT RTF DOTM MHTML PCL PS FLATOPC DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+
+- **דוחות מבוססי תרשימים טכניים**  
+  שלבו תרשימי הנדסה CGM בתבניות DOTX לפורמטים דיווח מובנים וחוזרים.
+
+- **תקני עיצוב חברתיים מסוימים**  
+  שמירה על עקביות מותג על ידי הטמעת תמונות CGM בעיצובי תבניות תאגידיים.
+
+- **ספריות מסמכים משותפות**  
+  אחסון תבניות DOTX משופרות ב-CGM במאגרים מרכזיים לשימוש חוזר קל בקרב צוותים.
+
+## ⚙️ תרחישי אוטומציה
+
+- **APIs של Java לניתוח תבניות**  
+  השתמש בספריות כמו **docx4j**, **Aspose.Words for Java**, או **Apache POI** כדי לקרוא, לשנות ולמלא תבניות DOTX באופן תכנותי.
+
+- **צינורות מיזוג מסמכים**  
+  שלבו מסמכי DOTX מבוססי CGM מרובים לדוחות מאוחדים באמצעות כלים למיזוג בעזרת Java.
+
+- **מילוי מסמכים בזמן אמת**  
+  מילוי תבניות DOTX עם זרימות נתונים חיים ותמונות CGM מוטמעות ליצירת דוחות מיידיות.
+
+- **אוטומציה של תוכן עסקי**  
+  שלבו את המרה מ-CGM ל-DOTX לתוך מערכות ניהול תוכן מופעלות ב-Java ליצירת תיעוד ניתן להרחבה ועומד בתקנים.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

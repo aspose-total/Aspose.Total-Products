@@ -47,7 +47,23 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Εξαγωγή χαρακτηριστικών από διαγράμματα CGM για τεκμηρίωση ελέγχου ποιότητας.
+- Μετατροπή μεταδεδομένων CGM σε πίνακες CSV για στατιστική ανάλυση.
+- Ανάλυση δομημένων μηχανικών δεδομένων για αναφορές και πίνακες ελέγχου.
+- Δυνατότητα συμβατότητας με Excel, Google Sheets και πλατφόρμες BI.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Μαζική μετατροπή αρχείων CGM σε CSV.
+- Προγραμματισμένες διαδικασίες μετατροπής CGM σε CSV σε συστήματα κατασκευής βασισμένα σε Java.
+- Ενσωμάτωση με πίνακες ελέγχου BI που τροφοδοτούνται από Java για ενημερώσεις σε πραγματικό χρόνο.
+- Αυτοματοποιημένη δημιουργία CSV για αρχειοθέτηση και συμμόρφωση με τη νομοθεσία.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

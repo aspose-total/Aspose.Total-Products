@@ -54,7 +54,22 @@ otherformats: PPSM POT POWERPOINT PPTX POTX PPTM POTM PPS PPSX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Δημιουργία παρουσιάσεων από αναφορές βασισμένες σε Word
+- Μεταφορά κειμένου και εικόνων στο LibreOffice Impress
+- Αυτοματοποίηση μετατροπής κειμένου σε διαφάνειες για ταχύτητα
+- Κοινοποίηση παρουσιάσεων σε ένα μορφή ανεξάρτητη από προμηθευτή
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Δημιουργοί διαφανειών DOC σε ODP για άμεση μετατροπή
+- Εργαλεία προτύπων παρουσιάσεων βασισμένα σε Java
+- Αυτοματοποιημένες ροές επαναχρησιμοποίησης περιεχομένου
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

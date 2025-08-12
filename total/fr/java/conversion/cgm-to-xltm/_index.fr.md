@@ -47,7 +47,25 @@ Lors de la conversion du fichier CGM en XLTM, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertissez les fichiers CGM au format **XLTM (Modèle Excel avec macro activée)** pour prendre en charge les flux de travail pilotés par l'automatisation sur les plateformes Java, permettant ainsi d'utiliser des modèles préconfigurés avec des macros intégrées pour les processus techniques. Cela permet aux ingénieurs de générer rapidement des rapports avec macro, d'exécuter des calculs automatisés et de mettre à jour les visualisations à partir des entrées CGM sans reconstruire la logique du tableur.
+
+## ✅ Cas d'utilisation clés
+- Modèles avec macro pour l'automatisation des processus d'ingénierie.
+- Rapports automatisés avec calculs intégrés à partir de CGM.
+- Flux de travail intelligents pour les équipes de fabrication et de R&D.
+- Modèles de contrôle qualité avec des macros de validation intégrées.
+
+## ⚙️ Scénarios d'automatisation
+- Rendu de modèles avec macro dans les applications d'entreprise Java.
+- Génération en lot de modèles CGM vers XLTM pour différents projets.
+- Pipelines de rapports avec macro activée basés sur ETL.
+- Macros déclenchées par Java pour des rapports opérationnels en direct.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,38 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将**计算机图形元文件（CGM）**文件转换为**FODS（平面开放文档电子表格）**格式是将图形技术数据转换为结构化、开放标准电子表格的有效方法。在**基于Java的开源应用程序**中，此转换使工程师、研究人员和数据分析师能够从CGM图表中提取测量值、规格和基于矢量的细节，转换为可编辑的FODS电子表格。作为符合ODF的XML格式，FODS确保与OpenOffice等工具兼容，便于在没有专有限制的情况下共享和协作。
+
+
+## ✅ 主要用例
+
+- **将图形技术数据转换为电子表格**  
+  从CGM文件中提取矢量图形数据，转换为结构化的行和列，以供分析。
+
+- **记录测量值**  
+  将工程测量或实验结果存储和管理在便携的电子表格格式中。
+
+- **通过ODF工具共享**  
+  通过符合ODF的应用程序分发源自CGM的电子表格数据。
+
+
+## ⚙️ 自动化场景
+
+- **像JOpenDocument这样的Java库**  
+  使用开源电子表格处理库，在Java工作流中自动执行CGM到FODS的转换。
+
+- **无界面LibreOffice集成**  
+  从Java应用程序中以无界面模式运行LibreOffice，批量将CGM图形转换为FODS电子表格。
+
+- **大规模FODS生成**  
+  将CGM解析和FODS创建纳入基于Java的ETL管道，用于大规模数据提取。
+
+- **开源数据处理系统**  
+  将FODS作为Java驱动的科学或工程平台的一部分，用于透明、基于标准的数据管理。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

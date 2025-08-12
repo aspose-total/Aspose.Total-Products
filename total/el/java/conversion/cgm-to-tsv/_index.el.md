@@ -47,7 +47,23 @@ otherformats: XLT ODS XLSB XLTM XLAM TXT SXC MD DIF FODS XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Δημιουργία πινάκων με στήλες ευθυγραμμισμένες από δεδομένα μέτρησης βασισμένα σε CGM.
+- Εξαγωγή αποτελεσμάτων προσομοίωσης σε μορφή TSV για έρευνα και ανάλυση.
+- Εξασφάλιση συμβατότητας με εργαλεία επεξεργασίας γραμμής εντολών Unix/Linux.
+- Υποστήριξη ανταλλαγής δεδομένων σε εφαρμογές μηχανικής ανοικτού κώδικα.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Java I/O και βιβλιοθήκες TSV για αυτόματες μετατροπές CGM σε TSV.
+- Χωρίς γραφικό περιβάλλον μετατροπή πακέτων τεχνικών αρχείων CGM για ροές εργασίας αναφοράς.
+- Διασυνοριακές σωληνώσεις ETL χρησιμοποιώντας μηχανές επεξεργασίας δεδομένων βασισμένες σε Java.
+- Ενσωμάτωση με επιστημονικά περιβάλλοντα υπολογισμού και συστήματα HPC.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

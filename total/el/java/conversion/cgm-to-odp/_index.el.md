@@ -59,7 +59,25 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Ενσωμάτωση διανυσματικών διαγραμμάτων σε παρουσιάσεις LibreOffice Impress.
+- Δημιουργία τεχνικών και εταιρικών αναφορών πολλαπλών πλατφορμών.
+- Δημιουργία εκπαιδευτικού οπτικοακουστικού περιεχομένου με κλιμακούμενες εικόνες.
+- Ενσωμάτωση μηχανικών σχεδίων σε διαφάνειες παρουσιάσεων.
+- Βελτίωση υλικού επιστημονικών συνεδρίων με ακριβή γραφικά.
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Ενσωμάτωση παραγωγής διαγραμμάτων βασισμένη σε Java για αυτόματη δημιουργία διαφανειών.
+- Συστήματα παραγωγής παρουσιάσεων συμβατά με το LibreOffice.
+- Εργαλεία παραγωγής περιεχομένου επιχειρήσεων για τμήματα τεχνικής υποστήριξης.
+- Ροές εργασίας διαγραμμάτων-προς-παρουσίαση βασισμένες σε API.
+- Παραγωγή παρτίδας διαγραμμάτων CGM για παρουσιάσεις μεγάλης κλίμακας.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

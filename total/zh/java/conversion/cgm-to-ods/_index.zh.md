@@ -49,7 +49,27 @@ otherformats: XLTM XLSB XLSM XLT SXC MD DIF EXCEL ODS XLAM TXT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 CGM（计算机图形元文件）文件转换为 ODS（OpenDocument 电子表格）可将基于矢量的图表与结构化数据结合在开源电子表格格式中。这种转换对于需要表格数据和高质量视觉效果的技术报告、工程文档和分析任务至关重要。
+
+## ✅ 主要用例
+- 创建带有嵌入式图表的表格工程报告。
+- 具有视觉参考的开源项目文档。
+- 与基于矢量的图表一起进行科学数据分析。
+- 集成示意图的制造过程跟踪。
+- 包含图解数据的环境和调查报告。
+
+## ⚙️ 自动化场景
+- 基于 Java 的 ETL 系统导出组合数据和图表。
+- 用于结构化和视觉内容的科学数据导出工具。
+- 用于多格式技术文档的办公室互操作性 API。
+- 自动化数据可视化管道。
+- 与 LibreOffice Calc 集成，实现跨平台访问。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

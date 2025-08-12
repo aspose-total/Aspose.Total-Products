@@ -59,7 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi file CGM (Computer Graphics Metafile) ke OTP (OpenDocument Presentation Template) mempermudah pembuatan templat presentasi yang dapat digunakan ulang, kaya vektor. Format ini sangat cocok untuk organisasi yang membutuhkan desain slide teknis yang konsisten, bermerk, dan teknis di seluruh tim dan departemen.
+
+## ✅ Kasus Penggunaan Kunci
+- Mendesain templat presentasi teknis yang dapat digakali.
+- Format slide berbasis vektor untuk bidang teknik dan ilmiah.
+- Tata letak pelaporan khusus industri untuk presentasi berulang.
+- Templat slide pendidikan dengan diagram rinci.
+- Perpustakaan templat perusahaan dengan skema tersemat.
+
+## ⚙️ Skenario Otomatisasi
+- Mesin pelaporan berbasis Java yang menghasilkan templat slide kustom.
+- Alat generasi templat otomatis untuk tim teknis.
+- Alur kerja berbasis API untuk menyematkan grafik CGM ke dalam templat OTP.
+- Pengolahan batch untuk membuat presentasi industri standar.
+- Sistem distribusi templat yang kompatibel dengan LibreOffice.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

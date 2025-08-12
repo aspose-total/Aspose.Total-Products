@@ -78,7 +78,23 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת CGM ל-SXC (תבנית OpenOffice Calc) מאפשרת אינטגרציה של גרפיקה טכנית או נתונים טבלאיים לתוך מערכות גיליון מקור פתוח. היא תומכת בתאימות עם LibreOffice ופלטפורמות אחרות המבוססות על מסמך פתוח.
+
+## ✅ מקרי שימוש עיקריים
+- **אינטגרצית טבלאות הנדסיות** – שלבו תרשימים עם טבלאות נתונים לדוחות טכניים.
+- **ארכיון לגרפיקה טכנית מבוססת וקבצים** – אחסון שרטוטים טכניים מבוססי וקטור לצד נתונים.
+- **תאימות כלים מבוססי LibreOffice** – הבטיחו שימוש חלק בקבצים בסביבות צלחת צלחת.
+
+## ⚙️ תרחישי אוטומציה
+- **זרימות עבודה להמרת נתונים המופעלות על ידי Java** – המרת CGM לפורמטים המוכנים לגיליון.
+- **הרגלי ETL למסמך פתוח** – אוטומציה של יבוא של תרשימי וקטור לתוך גיליונות.
+- **מערכות דיווח צלחת צלחת** – הטבעת תמונות ליצירת דוחות אוטומטיים.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

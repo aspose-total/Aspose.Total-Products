@@ -49,7 +49,37 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**CGM**图表转换为**Excel (.xlsx)**格式对企业报告、工程分析和结构化数据可视化非常实用。在**基于Java的工作流程**中，此转换使得可以从CGM图形中提取指标、技术规格和图表数据到电子表格中进行分析、报告和决策。Excel集成允许将视觉图表与表格数据结合起来，生成完整的技术报告。
+
+
+## ✅ 主要用例
+
+- **嵌入式工程度量**  
+  将CGM图表中的测量值捕获到Excel中进行计算和趋势分析。
+
+- **技术报告生成**  
+  将基于CGM的视觉元素与结构化的Excel数据结合，生成全面的工程或项目报告。
+
+- **从图表中提取图表**  
+  将基于矢量的CGM图表转换为可编辑的Excel图表对象，以进行进一步的定制。
+
+
+## ⚙️ 自动化场景
+
+- **用于Excel生成的Apache POI**  
+  使用Java的**Apache POI**库自动化CGM到Excel的转换，并将提取的值填充到单元格中。
+
+- **自动化电子表格填充**  
+  将CGM数据解析与基于Java的报告引擎集成，动态创建Excel表格。
+
+- **企业报告系统**  
+  将CGM到Excel的工作流程嵌入基于Java的BI或ETL管道，用于大规模工程数据处理。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

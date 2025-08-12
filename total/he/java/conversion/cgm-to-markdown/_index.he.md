@@ -78,7 +78,40 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX DOCM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת גרפיקה בפורמט **Computer Graphics Metafile (CGM)** לתוכן בפורמט **Markdown (.md)** היא דרך עוצמתית לחבר נתוני טכניים חזותיים עם פורמטי תיעוד קלים וידידותיים למפתחים. בכלי תיעוד המבוססים על **Java**, ההמרה הזו מאפשרת להתייחס, להטביע או לתאר תרשימי CGM ישירות בקבצי Markdown, מה שהופך אותם לאידיאליים לתיעוד API, מדריכי הנדסה ומדריכי פרויקטים מקור פתוח. הניידות של Markdown והתאימות שלה לייצוגי אתרים סטטיים מבטיחים שהתרשימים של CGM יכולים להיות משולבים בזרימות עבודה מודרניות של מפתחים עם הוצאת ראש מינימלית.
+
+
+## ✅ מקרי שימוש מרכזיים
+
+- **הטבעת תרשימי CGM במדריכים טכניים**  
+  התייחסות או הטבעת תרשימי CGM בתוך תיעוד המבוסס על Markdown להסברים טכניים ברורים יותר.
+
+- **יצירת Markdown אוטומטית מנכסים חזותיים**  
+  המרת קבצי CGM לתיאורים ב־Markdown או קישורי תמונות לכלול מיידי בתיעוד הפרויקט.
+
+- **פורמטים דיווח קלים**  
+  שימוש ב־Markdown כמדיום פשוט ונייד לדוחות הנדסיים או מערכות מועצתיות המשופרים עם CGM.
+
+
+## ⚙️ תרחישי אוטומציה
+
+- **ממירים במבוססי Java**  
+  השתמשו בספריות Java או פענחים מותאמים אישית כדי להמיר תרשימי CGM להפניות תמונה תואמות ל־Markdown או תיאורי וקטור.
+
+- **צינורות תיעוד של Spring Boot**  
+  שלבו המרת CGM ל־Markdown בתהליכי עבודה במבוסס Spring Boot לייצור תיעוד טכני אוטומטי.
+
+- **אינטגרציה עם מחוללי אתרים סטטיים**  
+  הזנת Markdown המבוסס על CGM ל־**Hugo**, **MkDocs** או **Jekyll** להפצה מיידית לשערי מפתחים.
+
+- **עדכוני תיעוד רציפים**  
+  אוטומציה של התחדשות Markdown מתרשימי CGM מעודכנים בצינורות CI/CD במבוססי Java לתיעוד תמידי. 
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

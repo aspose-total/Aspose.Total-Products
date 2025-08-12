@@ -61,7 +61,22 @@ Après avoir converti DOC en SXC, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Cas d'utilisation clés</h2>
+- Migration de données texte-vers-tableur pour l'analyse
+- Intégration avec les environnements OpenOffice/LibreOffice Calc
+- Préparation de documents pour des calculs de tableur complexes
+- Permettre la collaboration en open source dans des formats natifs
+
+<h2>⚙️ Scénarios d'automatisation</h2>
+- Systèmes de conversion par lots de DOC en SXC
+- Mappage automatisé du style vers les cellules pour un formatage précis
+- Outils de transformation de document en tableur pour de grands ensembles de données
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

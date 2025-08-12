@@ -42,7 +42,34 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+
+- **تضمين الرسوم التخطيطية CGM في الدلائل التقنية**  
+  الإشارة إلى أو تضمين رسوم CGM داخل الوثائق المستندة إلى Markdown لشرح تقني أوضح.
+
+- **توليد Markdown تلقائيًا من الأصول البصرية**  
+  تحويل ملفات CGM إلى وصفيات Markdown أو روابط صور للاستخدام الفوري في وثائق المشروع.
+
+- **تنسيقات تقارير خفيفة الوزن**  
+  استخدام Markdown كوسيلة بسيطة وقابلة للنقل لتعزيز التقارير الهندسية أو النظم بواسطة CGM.
+
+## ⚙️ سيناريوهات التأتير
+
+- **محولات قائمة على Java**  
+  استخدام مكتبات Java أو محللين مخصصين لتحويل رسوم CGM إلى روابط صور متوافقة مع Markdown أو وصفيات ناقلة.
+
+- **أنابيب توثيق Spring Boot**  
+  دمج تحويل CGM إلى Markdown في سير العمل القائمة على Spring Boot لتوليد توثيق تقني تلقائي.
+
+- **تكامل مولدات المواقع الثابتة**  
+  إدخال Markdown المعتمد على CGM في Hugo، MkDocs، أو Jekyll للنشر الفوري على بوابات المطورين.
+
+- **تحديثات التوثيق المستمرة**  
+  تأتير إعادة إنشاء Markdown من رسوم CGM المحدثة في أنابيب CI/CD قائمة على Java للحصول على توثيق محدث دائمًا.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
