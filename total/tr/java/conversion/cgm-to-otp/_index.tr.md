@@ -59,7 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Bilgisayar Grafikleri Meta Dosyası) dosyalarını OTP (OpenDocument Sunum Şablonu) formatına dönüştürmek, tekrar kullanılabilir, vektör zengini sunum şablonlarının oluşturulmasını kolaylaştırır. Bu format, ekipler ve departmanlar arasında tutarlı, markalı ve teknik slayt tasarımlarına ihtiyaç duyan kuruluşlar için mükemmeldir.
+
+## ✅ Temel Kullanım Senaryoları
+- Tekrar kullanılabilir teknik sunum şablonlarının tasarlanması.
+- Mühendislik ve bilimsel alanlar için vektör tabanlı slayt formatları.
+- Tekrar eden sunumlar için endüstriye özgü raporlama düzenleri.
+- Detaylı diyagramlar içeren eğitim slayt şablonları.
+- Gömülü şematiklerle kurumsal şablon kütüphaneleri.
+
+## ⚙️ Otomasyon Senaryoları
+- Özel slayt şablonları oluşturan Java tabanlı raporlama motorları.
+- Teknik ekipler için otomatik şablon oluşturma araçları.
+- CGM grafiklerini OTP şablonlarına gömmek için API tabanlı iş akışları.
+- Standartlaştırılmış endüstri sunumları oluşturmak için toplu işleme.
+- LibreOffice uyumlu şablon dağıtım sistemleri.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,22 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ กรณีการใช้งานหลัก</h2>
+- การย้ายข้อมูลจากข้อความไปสู่สเปรดชีตเพื่อการวิเคราะห์  
+- การผสานรวมกับสภาพแวดล้อม OpenOffice/LibreOffice Calc  
+- เตรียมเอกสารสำหรับการคำนวณสเปรดชีตที่ซับซ้อน  
+- สร้างความร่วมมือในรูปแบบเปิดต้นฉบับ  
+
+<h2>⚙️ สถานการณ์การอัตโนมัติ</h2>
+- ระบบแปลงจำนวนมากจาก DOC เป็น SXC  
+- การจับคู่สไตล์อัตโนมัติเพื่อการจัดรูปแบบอย่างแม่นยำ  
+- เครื่องมือแปลงเอกสารเป็นสเปรดชีตสำหรับชุดข้อมูลขนาดใหญ่  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

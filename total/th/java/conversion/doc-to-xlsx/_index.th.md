@@ -61,7 +61,22 @@ otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+- ส่งออกข้อมูลเอกสารโครงสร้างเข้าสู่สเปรดชีตรุ่นใหม่  
+- การผสานท่องแสง BI กับเอาต์พุตที่สะอาดและมีโครงสร้าง  
+- การแปลงรายงานเป็นสเปรดชีตที่สามารถแก้ไขและพร้อมสำหรับการวิเคราะห์  
+- การให้ความเข้ากันได้กับซอฟต์แวร์สเปรดชีตชั้นนำทั้งหมด  
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- โครงสร้างข้อมูล XML จาก DOC เป็น XLSX  
+- การสร้างเวิร์กโฟลว์สเปรดชีตโดยอัตโนมัติ  
+- การแยกวิเคราะห์เอกสารด้วยเอาต์พุต XML ที่มีโครงสร้าง  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ DOC'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOC**'u **FODS (Düz OpenDocument Elektronik Tablo)**'a dönüştürmek, Word belge verilerinden yapılandırılmış, XML tabanlı elektronik tablo dosyaları oluşturmak için önemlidir. Bu, açık standartlarla etkileşim sağlar ve tablo verilerinin uzun vadeli erişilebilirliğini garanti eder.
+
+## ✅ Temel Kullanım Durumları
+- Word tablolarını ODF uyumlu elektronik tablolara dönüştürme
+- Yapılandırılmış verileri OpenOffice/LibreOffice sistemleri arasında paylaşma
+- Verileri açık XML tabanlı formatlarda arşivleme
+- Belge ile elektronik tablo arasında etkileşim sağlama
+
+## ⚙️ Otomasyon Senaryoları
+- Standart çıktılar için DOC'ten FODS'a dönüştürücüler
+- Kesin biçimlendirme için XML dönüşüm betikleri
+- İşbirliği için OpenDocument tabanlı veri iş akışları
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

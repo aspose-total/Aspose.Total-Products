@@ -61,7 +61,24 @@ DOC'yi XLTM'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOC**'u **XLTM (Excel Makro Etkin Şablon)**'a dönüştürmek, tekrar kullanılabilir, otomasyona hazır elektronik tablo şablonları oluşturur. Şablon standartlaştırmasını makro destekli verimlilikle birleştirir.
+
+## ✅ Temel Kullanım Alanları
+- Makro etkin iş şablonu oluşturma
+- Tekrarlayan raporlama süreçlerini otomatikleştirme
+- Yeniden kullanılabilir şablonlara VBA mantığı gömme
+- Belgeden şablona iş akışı dönüşümü
+
+## ⚙️ Otomasyon Senaryoları
+- DOC'ten XLTM makro etkin şablon dönüştürücüler
+- Otomatik VBA şablonu oluşturma boruları
+- Makro destekli şablon dağıtım sistemleri
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

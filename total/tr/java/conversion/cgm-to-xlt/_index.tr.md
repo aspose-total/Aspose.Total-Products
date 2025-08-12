@@ -47,7 +47,25 @@ CGM dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java destekli uygulamalarda CGM dosyalarını **XLT (Excel Şablonu)** formatına dönüştürmek, teknik ve mühendislik raporları için tutarlı, yeniden kullanılabilir elektronik tablo düzenleri sağlar. XLT şablonları, biçimlendirmeyi, veri yerleşimini ve grafikleri standartlaştırarak, CGM tabanlı diyagramlardan veya veri çıkartmalarından yapılan yapılandırılmış raporların daha hızlı oluşturulmasını sağlar.
+
+## ✅ Ana Kullanım Senaryoları
+- Tekrar eden teknik raporlar için yeniden kullanılabilir mühendislik şablonları.
+- CGM tabanlı diyagram entegrasyonu için önceden biçimlendirilmiş düzenler.
+- Kalite kontrol ve muayene formlarının hızlı bir şekilde oluşturulması.
+- Kurumsal belgeler için tutarlı markalama ve biçimlendirme.
+
+## ⚙️ Otomasyon Senaryoları
+- Toplu XLT oluşturumu için Java tabanlı elektronik tablo şablonlama sistemleri.
+- Otomatik boru hatları aracılığıyla CGM verilerinden şablon popülasyonu.
+- XLT tabanlı çıktılar için kurumsal raporlama araçlarıyla entegrasyon.
+- Şirket genelinde rapor standartlaştırması için toplu dönüşüm.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,22 @@ API cũng cho phép bạn chuyển đổi các tài liệu DOC được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Các Trường Hợp Sử Dụng Chính</h2>
+- Bản trình bày tự chạy cho sự kiện và quầy trưng bày  
+- Thông báo và hội thảo tự động của doanh nghiệp  
+- Slide bài giảng được tạo từ nội dung học thuật viết  
+- Bản trình bày tiếp thị từ các tờ rơi quảng cáo  
+
+<h2>⚙️ Kịch Bản Tự Động Hóa</h2>
+- Xử lý hàng loạt từ DOC sang PPSX cho việc chuyển đổi hàng loạt  
+- Tùy chỉnh bản trình diễn dựa trên XML cho việc tạo thương hiệu  
+- Tự động hóa thông tin liên lạc doanh nghiệp cho các cập nhật định kỳ  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

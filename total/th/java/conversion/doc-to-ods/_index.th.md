@@ -61,7 +61,22 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ กรณีการใช้งานหลัก</h2>
+- การสกัดตารางจาก Word เข้าสู่รูปแบบ ODS  
+- การแชร์ข้อมูลที่ได้มาจาก Word กับแอปพลิเคชันสเปรดชีต  
+- การแปลงข้อมูลเอกสารเพื่อการวิเคราะห์อย่างละเอียด  
+- การรับรองความสามารถในการทำงานร่วมกันกับ LibreOffice, OpenOffice, และเครื่องมือที่เป็นไปตามมาตรฐาน ODF อื่น ๆ  
+
+<h2>⚙️ สถานการณ์การอัตโนมัติ</h2>
+- ท่อสกัด DOC เป็น ODS สำหรับการประมวลผลเป็นก้อน  
+- เครื่องมือการจัดรูปแบบและแปลงสเปรดชีตที่ขับเคลื่อนด้วย Java  
+- การแยกวิเคราะห์ตารางจาก Word เป็น ODS เพื่อการทำงานอย่างราบรื่น  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

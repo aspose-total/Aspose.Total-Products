@@ -47,7 +47,25 @@ CGM dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Bilgisayar Grafikleri Meta Dosyası) dosyalarını Java yardımcı programlarını kullanarak TSV (Sekmeyle Ayrılmış Değerler) biçimine dönüştürmek, hassas sütun hizalamasını ve Unix dostu veri işleme sağlar. Bu özellikle, simülasyon çıktıları ve ölçüm veri setlerinin çapraz platform ortamlarında işlenmesi gereken mühendislik iş akışlarında değerlidir. Java I/O API'leri ve TSV kütüphaneleri, sağlam ve ölçeklenebilir CGM'den TSV'ye dönüşüm boru hatları oluşturmayı ve ETL işlemlerine sorunsuz bir şekilde entegre olmayı sağlar.
+
+## ✅ Ana Kullanım Durumları
+- CGM tabanlı ölçüm verilerinden sütun hizalı tablolar oluşturma.
+- Araştırma ve analiz için simülasyon sonuçlarını TSV'ye aktarma.
+- Unix/Linux komut satırı işleme araçlarıyla uyumluluğu sağlama.
+- Açık kaynak mühendislik uygulamalarında veri değişimini destekleme.
+
+## ⚙️ Otomasyon Senaryoları
+- Otomatik CGM'den TSV'ye dönüşümler için Java I/O ve TSV kütüphaneleri.
+- Raporlama iş akışları için teknik CGM dosyalarının başsız toplu dönüşümü.
+- Java tabanlı veri işleme motorları kullanarak çapraz platform ETL boru hatları.
+- Bilimsel hesaplama ortamları ve HPC kümeleri ile entegrasyon.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

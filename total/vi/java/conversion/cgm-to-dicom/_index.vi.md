@@ -57,7 +57,41 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi tệp **Computer Graphics Metafile (CGM)** sang định dạng **DICOM (Digital Imaging and Communications in Medicine)** là rất quan trọng để đảm bảo tính tương thích với các luồng công việc hình ảnh y học hiện đại. Trong các hệ thống hình ảnh y tế dựa trên **Java**, việc chuyển đổi này cho phép tích hợp mượt mà với cơ sở hạ tầng dữ liệu bệnh viện, hỗ trợ trao đổi hình ảnh theo tiêu chuẩn và cải thiện khả năng trực quan hóa chẩn đoán. Bằng cách chuyển đổi các bản vẽ hoặc sơ đồ CGM thành DICOM, các tổ chức y tế có thể thống nhất các định dạng hình ảnh đa dạng, làm cho chúng trở nên dễ truy cập trên **PACS**, **các trình xem chụp X-quang**, và các công cụ chẩn đoán dựa trên trí tuệ nhân tạo.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Trình Xem Chụp X-quang tích hợp Java**  
+  Hiển thị các hình minh họa y tế dựa trên CGM trực tiếp trong các trình xem DICOM được cung cấp bởi Java để cải thiện việc diễn giải chẩn đoán.
+
+- **Hệ Thống Thông Tin Bệnh Viện (HIS)**  
+  Chuyển đổi CGM sang DICOM để tạo ra các bản ghi hình ảnh theo tiêu chuẩn có thể truy cập trên mạng lưới bệnh viện.
+
+- **Trao Đổi Dữ Liệu Chụp X-quang**  
+  Cho phép chuyển giao mượt mà các tệp hình ảnh đã chuyển đổi giữa các cơ sở y tế bằng tiêu chuẩn toàn cầu của DICOM.
+
+- **Trực Quan Hóa Chẩn Đoán**  
+  Cải thiện luồng làm việc lâm sàng bằng cách nhúng dữ liệu CGM đã chuyển đổi vào các nghiên cứu hình ảnh đa phương pháp.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **API Java cho Xử lý DICOM**  
+  Tự động hóa các đường ống chuyển đổi CGM sang DICOM bằng cách sử dụng thư viện Java cho xử lý hình ảnh và quản lý siêu dữ liệu DICOM.
+
+- **Tích Hợp Hệ Thống PACS**  
+  Đưa các hình ảnh DICOM đã chuyển đổi trực tiếp vào Hệ thống Lưu trữ và Trao đổi Hình ảnh để truy xuất và lưu trữ ngay lập tức.
+
+- **Luồng Làm Việc ETL Dựa Trên Java**  
+  Tích hợp chuyển đổi tự động vào các luồng làm việc Extract-Transform-Load cho quản lý dữ liệu hình ảnh trên toàn bộ bệnh viện.
+
+- **Luồng Làm Việc Chẩn Đoán Dựa Trên Trí Tuệ Nhân Tạo**  
+  Sử dụng các mô hình AI tích hợp Java để phân tích các hình ảnh DICOM đã chuyển đổi để nhận diện mẫu, phát hiện bất thường và chẩn đoán dự đoán.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

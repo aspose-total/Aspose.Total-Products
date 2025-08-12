@@ -47,7 +47,27 @@ CGM dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Bilgisayar Grafik Meta Dosyası) dosyalarını ODS (OpenDocument Elektronik Tablo) formatına dönüştürmek, vektör tabanlı diyagramları yapılandırılmış verilerle açık kaynak elektronik tablo formatlarında birleştirmeyi sağlar. Bu dönüşüm, hem tablo verilerini hem de yüksek kaliteli görselleri gerektiren teknik raporlama, mühendislik belgeleri ve analitik görevler için önemlidir.
+
+## ✅ Temel Kullanım Durumları
+- Gömülü diyagramlarla tablo mühendislik raporları oluşturma.
+- Görsel referanslarla açık kaynak proje belgeleri.
+- Vektör tabanlı grafiklerle bilimsel veri analitiği.
+- Entegre şematiklerle üretim süreci takibi.
+- Diyagramlı veriler içeren çevresel ve araştırma raporları.
+
+## ⚙️ Otomasyon Senaryoları
+- Birleşik veri ve diyagramları dışa aktaran Java tabanlı ETL sistemleri.
+- Yapılandırılmış ve görsel içerik için bilimsel veri dışa aktarma araçları.
+- Çoklu formatlı teknik belgeler için Ofis uyumluluk API'leri.
+- Otomatik veri görselleştirme boru hatları.
+- Çapraz platform erişimi için LibreOffice Calc ile entegrasyon.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

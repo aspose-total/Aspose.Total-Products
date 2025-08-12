@@ -57,7 +57,38 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Viktiga användningsfall
+
+- **Java-integrerade radiologivisare**  
+  Visa CGM-baserade medicinska illustrationer direkt inom Java-drivna DICOM-visare för förbättrad diagnostisk tolkning.
+
+- **Sjukhusinformationssystem (HIS)**  
+  Konvertera CGM till DICOM för standardiserade bildposter som är tillgängliga över sjukhusnätverk.
+
+- **Radiologi datautbyte**  
+  Möjliggör smidig överföring av konverterade bildfiler mellan medicinska enheter med hjälp av DICOM:s globala standard.
+
+- **Diagnostisk visualisering**  
+  Förbättra kliniska arbetsflöden genom att bädda in konverterade CGM-data i multimodalitetsbildstudier.
+
+
+## ⚙️ Automatiseringsscenario
+
+- **Java API:er för DICOM-hantering**  
+  Automatisera CGM-till-DICOM-konverteringspipelines med hjälp av Java-bibliotek för bildbehandling och DICOM-metadatahantering.
+
+- **PACS-systemintegration**  
+  Mata in konverterade DICOM-bilder direkt i bildarkiveringssystem för omedelbar hämtning och lagring.
+
+- **Java-baserade ETL-pipelines**  
+  Integrera automatisk konvertering i Extract-Transform-Load-arbetsflöden för hantering av bilddata på sjukhusnivå.
+
+- **AI-drivna diagnostiska arbetsflöden**  
+  Använd Java-integrerade AI-modeller för att analysera konverterade DICOM-bilder för mönsterigenkänning, anomalidetektering och prediktiv diagnostik.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

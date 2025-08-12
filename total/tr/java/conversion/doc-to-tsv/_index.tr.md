@@ -61,7 +61,24 @@ DOC'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOC**'u **TSV (Tablo Ayırıcılı Değerler)**'e dönüştürmek, yapılandırılmış, düz metin verilerini zengin metin belgelerinden hafif bir tablo formatına çıkarmak için hayati önem taşır. TSV, veritabanları, elektronik tablolar ve analiz araçları tarafından geniş ölçüde desteklendiği için veri değişimi ve işleme için idealdir.
+
+## ✅ Ana Kullanım Durumları
+- Belge tablolarının veritabanı içe aktarımları için TSV'ye dışa aktarılması
+- Analitik platformlar için veri hazırlığı
+- Excel ve Google Sheets gibi elektronik tablo uygulamalarıyla entegrasyon
+- Hafif yapılandırılmış veri kümelerinin paylaşımı
+
+## ⚙️ Otomasyon Senaryoları
+- DOC'ten-TSV'ye tablo çıkarma yazılımı
+- Toplu işleme için otomatik dönüşüm betikleri
+- Sekmeyle ayrılmış çıktı oluşturma ile belge ayrıştırma
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

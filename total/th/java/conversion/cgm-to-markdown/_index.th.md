@@ -42,7 +42,35 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลัก ✅
+
+- **ฝังไดอะแกรม CGM ในคู่มือเทคนิค**  
+  อ้างอิงหรือฝังไดอะแกรม CGM ในเอกสารที่ใช้ Markdown เพื่ออธิบายเนื้อหาทางเทคนิคได้อย่างชัดเจน
+
+- **การสร้าง Markdown โดยอัตโนมัติจากทรัพยากรทางสื่อ**  
+  แปลงไฟล์ CGM เป็นคำอธิบาย Markdown หรือลิงก์ภาพสำหรับการรวมเอกสารโครงการได้ทันที
+
+- **รูปแบบรายงานที่เบา**  
+  ใช้ Markdown เป็นสื่อที่เบาและง่ายต่อการพกพาสำหรับรายงานทางวิศวกรรมหรือรายงานระบบที่มีการเพิ่มเติมจากไดอะแกรม CGM
+
+
+## สถานการณ์การอัตโนมัติ ⚙️
+
+- **ตัวแปลงที่ใช้ Java**  
+  ใช้ไลบรารี Java หรือตัวแยกวิเคราะห์ที่กำหนดเองเพื่อแปลงไดอะแกรม CGM เป็นการอ้างอิงภาพที่เข้ากันได้กับ Markdown หรือคำอธิบายเวกเตอร์
+
+- **กระบวนการเอกสาร Spring Boot**  
+  รวมการแปลง CGM เป็น Markdown ลงในกระบวนการทำงานของ Spring Boot เพื่อการสร้างเอกสารทางเทคนิคโดยอัตโนมัติ
+
+- **การผสานกับเครื่องมือสร้างเว็บไซต์แบบคงที่**  
+  ส่งข้อมูล Markdown ที่ใช้ไดอะแกรม CGM เข้ากับ **Hugo**, **MkDocs**, หรือ **Jekyll** เพื่อการใช้งานที่เร็วขึ้นในพอร์ทัลนักพัฒนา
+
+- **การอัพเดทเอกสารอย่างต่อเนื่อง**  
+  ทำให้การสร้าง Markdown จากไดอะแกรม CGM ที่อัพเดทในกระบวนการ CI/CD ที่ใช้ Java เพื่อการอัพเดทเอกสารอยู่เสมอ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

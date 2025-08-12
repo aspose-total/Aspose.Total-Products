@@ -47,7 +47,25 @@ CGM dosyasını CSV'ye dönüştürürken, çıktı CSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Java tabanlı ortamlarda CGM (Bilgisayar Grafik Meta Dosyası) dosyalarını CSV (Virgülle Ayrılmış Değerler) formatına dönüştürmek, mühendislik, imalat ve veri analizi ekiplerinin grafiksel vektör verilerini yapılandırılmış tablo formatlarına dönüştürmelerine olanak tanır. Bu, kolay özellik çıkarma, meta veri analizi ve Java tabanlı analitik boru hatlarıyla entegrasyon sağlar. **OpenCSV** gibi Java CSV kütüphanelerini kullanarak, CGM'den CSV'ye iş akışları büyük ölçekli işlemleri otomatikleştirebilir ve BI araçları ve raporlama platformlarıyla uyumluluğu sağlayabilir.
+
+## ✅ Ana Kullanım Durumları
+- Kalite kontrol belgeleri için CGM diyagramlarından özelliklerin çıkarılması.
+- İstatistiksel analiz için CGM meta verilerinin CSV tablolarına dönüştürülmesi.
+- Raporlama ve gösterge tabloları için yapılandırılmış mühendislik verilerinin ayrıştırılması.
+- Excel, Google Sheets ve BI platformlarıyla uyumluluğun sağlanması.
+
+## ⚙️ Otomasyon Senaryoları
+- CGM dosyalarının toplu olarak CSV'ye dönüştürülmesi.
+- Java tabanlı imalat sistemlerinde planlanmış CGM'den CSV'ye boru hatları.
+- Gerçek zamanlı güncellemeler için Java destekli BI gösterge tablolarına entegrasyon.
+- Arşivleme ve düzenleyici uyumluluk için otomatik CSV oluşturma.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

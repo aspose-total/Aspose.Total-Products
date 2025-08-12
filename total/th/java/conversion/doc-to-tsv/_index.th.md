@@ -61,7 +61,22 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ การใช้งานหลัก
+- ส่งออกตารางเอกสารเป็น TSV สำหรับการนำเข้าฐานข้อมูล
+- เตรียมข้อมูลสำหรับแพลตฟอร์มการวิเคราะห์
+- การผสานกับแอปพลิเคชันสเปรดชีต เช่น Excel และ Google Sheets
+- แบ่งปันชุดข้อมูลโครงสร้างที่เบา
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- ซอฟต์แวร์สำหรับสกัดตาราง DOC เป็น TSV
+- สคริปต์แปลงอัตโนมัติสำหรับการประมวลผลเป็นกลุ่ม
+- การแยกวิเคราะห์เอกสารพร้อมการสร้างเอาต์พุตที่เป็นแท็บแบ่ง
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

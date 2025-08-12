@@ -47,7 +47,25 @@ Trong khi chuyển đổi tệp CGM sang XLTM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi tệp CGM sang định dạng **XLTM (Mẫu Excel Kích hoạt Macro)** hỗ trợ quy trình làm việc dựa trên tự động hóa trên nền tảng Java, cho phép tạo các mẫu được cấu hình trước với các macro nhúng cho các quy trình kỹ thuật. Điều này cho phép kỹ sư nhanh chóng tạo báo cáo kích hoạt macro, chạy các phép tính tự động và cập nhật các hình ảnh từ đầu vào CGM mà không cần xây dựng lại logic bảng tính.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+- Các mẫu kích hoạt macro cho quy trình tự động hóa kỹ thuật.
+- Báo cáo tự động với các phép tính tích hợp CGM.
+- Quy trình làm việc thông minh cho đội ngũ sản xuất và nghiên cứu phát triển.
+- Các mẫu kiểm soát chất lượng với các macro xác thực tích hợp.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+- Hiển thị mẫu kích hoạt macro trong các ứng dụng doanh nghiệp Java.
+- Tạo mẫu CGM-sang-XLTM hàng loạt cho các dự án khác nhau.
+- Đường ống báo cáo kích hoạt macro dựa trên ETL.
+- Các macro được kích hoạt bởi Java cho báo cáo vận hành thời gian thực.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

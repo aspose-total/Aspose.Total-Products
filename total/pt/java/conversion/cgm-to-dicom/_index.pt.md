@@ -57,7 +57,41 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertendo arquivos **Computer Graphics Metafile (CGM)** para o formato **DICOM (Digital Imaging and Communications in Medicine)** é crucial para garantir a compatibilidade com os fluxos de trabalho modernos de imagens médicas. Nos sistemas de imagens médicas baseados em **Java**, essa conversão permite integração perfeita com a infraestrutura de dados hospitalares, suporta a troca de imagens padronizadas e aprimora as capacidades de visualização diagnóstica. Ao transformar desenhos ou diagramas CGM em DICOM, as organizações de saúde podem unificar diversos formatos de imagens, tornando-os acessíveis em **PACS**, visualizadores de radiologia e ferramentas de diagnóstico orientadas por IA.
+
+## ✅ Principais Casos de Uso
+
+- **Visualizadores de Radiologia Integrados em Java**  
+  Exiba ilustrações médicas baseadas em CGM diretamente dentro de visualizadores DICOM alimentados por Java para interpretação diagnóstica aprimorada.
+
+- **Sistemas de Informação Hospitalar (HIS)**  
+  Converta CGM para DICOM para registros de imagens padronizados acessíveis em redes hospitalares.
+
+- **Troca de Dados de Radiologia**  
+  Permita a transferência suave de arquivos de imagens convertidos entre instalações médicas usando o padrão global DICOM.
+
+- **Visualização Diagnóstica**  
+  Melhore os fluxos de trabalho clínicos incorporando dados CGM convertidos em estudos de imagens multimodais.
+
+## ⚙️ Cenários de Automação
+
+- **APIs Java para Manipulação de DICOM**  
+  Automatize pipelines de conversão CGM para DICOM usando bibliotecas Java para processamento de imagens e gerenciamento de metadados DICOM.
+
+- **Integração com Sistemas PACS**  
+  Alimente imagens DICOM convertidas diretamente nos Sistemas de Comunicação e Arquivamento de Imagens para recuperação e armazenamento instantâneos.
+
+- **Pipelines ETL Baseados em Java**  
+  Integre a conversão automatizada em fluxos de trabalho de Extração-Transformação-Carga para gerenciamento de dados de imagens em toda a instituição hospitalar.
+
+- **Fluxos de Trabalho Diagnósticos Baseados em IA**  
+  Utilize modelos de IA integrados em Java para analisar imagens DICOM convertidas em reconhecimento de padrões, detecção de anomalias e diagnósticos preditivos.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

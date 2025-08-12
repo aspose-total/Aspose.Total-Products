@@ -57,7 +57,23 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM'den TGA'ya (Targa formatı) dönüşümü, vektör grafikleri yüksek kaliteli radye görüntülere dönüştürür, dokuları haritalandırmak, görsel efektler ve oyun geliştirme süreçleri için idealdir.
+
+## ✅ Ana Kullanım Alanları
+- **Vektör Grafiklerin Rasterleştirilmesi** – CGM diyagramlarını radye tabanlı iş akışları için hazırlayın.
+- **Oyun Motoru Dokusu Oluşturma** – 3D ortamlar için dokuya hazır varlıklar oluşturun.
+- **Yayın Kalitesinde İçerik Tasarımı** – Profesyonel video ve medya üretimi için TGA'yı kullanın.
+
+## ⚙️ Otomasyon Senaryoları
+- **Java Grafik Çerçeveleri** – CGM'yi TGA'ya hassasiyetle işleyin.
+- **Toplu Radye Görüntü Oluşturucuları** – Büyük varlık kütüphaneleri için dönüşümü otomatikleştirin.
+- **Vektörden Dokuya Boruları** – Gerçek zamanlı işleme için tasarım iş akışlarına entegre edin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

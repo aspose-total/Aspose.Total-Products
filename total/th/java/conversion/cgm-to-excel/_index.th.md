@@ -47,7 +47,33 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+
+- **การฝังค่าเมตริกวิศวกรรม**  
+  จับค่าการวัดจากแผนภูมิ CGM เข้า Excel เพื่อการคำนวณและการวิเคราะห์แนวโน้ม
+
+- **การสร้างรายงานเทคนิค**  
+  รวมภาพแสดงที่ได้จาก CGM กับข้อมูล Excel โครงสร้างสำหรับรายงานวิศวกรรมหรือโครงการอย่างครอบคลุม
+
+- **การแยกชาร์ตจากแผนภูมิ**  
+  แปลงชาร์ต CGM ที่มีพื้นฐานเป็นวัตถุชาร์ต Excel ที่สามารถปรับแต่งต่อไปได้
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+
+- **Apache POI สำหรับการสร้าง Excel**  
+  ใช้ไลบรารี **Apache POI** ของ Java เพื่ออัตโนมัติการแปลง CGM เป็น Excel และเติมค่าที่ถูกดึงออกมาในเซลล์
+
+- **การเติมข้อมูลลงสเปรดชีตโดยอัตโนมัติ**  
+  รวมการวิเคราะห์ข้อมูล CGM กับเครื่องมือรายงานที่ใช้ Java เพื่อสร้างชีท Excel อย่างไดนามิก
+
+- **ระบบรายงานขององค์กร**  
+  ฝังกระบวนการทำงานจาก CGM เข้า Excel ในท่องน้ำของ BI หรือ ETL ที่ใช้ Java สำหรับการประมวลผลข้อมูลวิศวกรรมในขอบเขตใหญ่
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

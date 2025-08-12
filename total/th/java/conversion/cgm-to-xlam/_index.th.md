@@ -47,7 +47,23 @@ otherformats: XLT SXC DIF ODS TXT XLSB TSV XLAM XLTX FODS MD EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting CGM เป็น XLAM (Excel Macro-Enabled Add-In) ช่วยให้สามารถรวมไดอะแกรมเวกเตอร์เข้ากับเครื่องมือวิเคราะห์ เพิ่มประสิทธิภาพในการรายงานทางเทคนิคและแดชบอร์ดแบบอินเทอร์แอคทีฟ
+
+## ✅ กรณีการใช้งานหลัก
+- **ฝังกราฟิกเวกเตอร์ลงในส่วนขยายของ Excel** – เพิ่มความสวยงามให้กับแมโครด้วยภาพประกอบทางเทคนิค
+- **รายงานแบบไดนามิก** – อัพเดตไดอะแกรมโดยอัตโนมัติในสเปรดชีตที่เปิดใช้งานแมโคร
+- **การสร้างแดชบอร์ดทางเทคนิค** – ให้วิศวกรมีการแสดงผลข้อมูลแบบสดในแบบฉบับ
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- **ไลบรารีเชื่อมต่อ Java-Excel** – เชื่อมต่อการแสดงผล CGM กับแมโคร Excel
+- **สคริปต์การแสดงผล CGM ในสเปรดชีต** – อัตโนมัติการอัพเดตไดออกรามในรายงาน
+- **แพลตฟอร์มอัตโนมัติ Excel** – นำเสนอโซลูชัน Excel ที่สามารถใช้งานแบบอินเทอร์แอคทีฟและมีการแสดงผลทางสายตา
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

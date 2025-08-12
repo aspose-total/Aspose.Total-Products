@@ -102,7 +102,22 @@ otherformats: XLS CSV TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Ключові використання</h2>
+- Міграція даних з тексту в електронну таблицю для аналізу
+- Інтеграція з середовищами OpenOffice/LibreOffice Calc
+- Підготовка документів для складних обчислень у електронних таблицях
+- Забезпечення спільної роботи у відкритих форматах
+
+<h2>⚙️ Сценарії автоматизації</h2>
+- Системи пакетного перетворення DOC в SXC
+- Автоматизоване відображення стилів на комірки для точного форматування
+- Інструменти трансформації документів в електронні таблиці для великих наборів даних
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

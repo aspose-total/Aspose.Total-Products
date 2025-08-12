@@ -102,7 +102,20 @@ otherformats: XLSX XLTX EXCEL SXC XLT CSV DIF TSV XLS ODS XLTM XLSM XLSB FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Ключові сценарії використання
+- Вбудовання макросів на основі документів у додатки Excel
+- Автоматизація повторюваних процесів у таблицях
+- Створення власних функцій Excel
+- Розповсюдження засобів автоматизації Excel на рівні підприємства
+
+## ⚙️ Сценарії автоматизації
+- Сценарії екстракції макросів з DOC у XLAM
+- Автоматизована упаковка коду VBA у додатки
+- Масштабні робочі процеси розгортання автоматизації Excel
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

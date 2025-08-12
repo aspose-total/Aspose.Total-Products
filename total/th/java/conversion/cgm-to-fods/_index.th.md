@@ -47,7 +47,37 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ การใช้งานหลัก
+
+- **การแปลงข้อมูลเทคนิคกราฟิกเป็นสเปรดชีต**  
+  สกัดข้อมูลกราฟิกเวกเตอร์จากไฟล์ CGM เข้าสู่แถวและคอลัมน์โครงสร้างสำหรับการวิเคราะห์
+
+- **เก็บบันทึกค่าการวัด**  
+  เก็บและจัดการค่าการวัดวิศวกรรมหรือผลลัพธ์การทดลองในรูปแบบสเปรดชีตที่สามารถพกพาได้
+
+- **แชร์ผ่านเครื่องมือ ODF**  
+  กระจายข้อมูลสเปรดชีตที่ได้จาก CGM ผ่านแอปพลิเคชันที่เป็นไปตามมาตรฐาน ODF
+
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+
+- **ไลบรารี Java เช่น JOpenDocument**  
+  อัตโนมัติการแปลง CGM เป็น FODS ในขั้นตอนการทำงานของ Java โดยใช้ไลบรารีการจัดการสเปรดชีตเปิดซอร์ส
+
+- **การผสาน LibreOffice แบบ Headless**  
+  รัน LibreOffice ในโหมด headless จากแอปพลิเคชัน Java เพื่อแปลงกราฟิก CGM เป็นสเปรดชีต FODS แบบเป็นกลุ่ม
+
+- **การสร้าง FODS ขนาดใหญ่**  
+  รวมการแยกวิเคราะห์ CGM และสร้าง FODS เข้าไปในกระแสข้อมูล ETL ของ Java เพื่อการสกัดข้อมูลขนาดใหญ่
+
+- **ระบบประมวลผลข้อมูลเปิดซอร์ส**  
+  ใช้ FODS เป็นส่วนหนึ่งของแพลตฟอร์มวิทยาศาสตร์หรือวิศวกรรมที่ขับเคลื่อนด้วย Java สำหรับการจัดการข้อมูลที่โปร่งใสและเป็นไปตามมาตรฐาน
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

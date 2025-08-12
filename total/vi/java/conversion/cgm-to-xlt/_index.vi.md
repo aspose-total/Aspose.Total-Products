@@ -47,7 +47,25 @@ Trong khi chuyển đổi tệp CGM sang XLT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi tệp CGM sang định dạng **XLT (Excel Template)** trong các ứng dụng được điều khiển bằng Java đảm bảo bố cục bảng tính nhất quán, có thể tái sử dụng cho báo cáo kỹ thuật và kỹ thuật. Các mẫu XLT chuẩn hóa định dạng, vị trí dữ liệu và biểu đồ, giúp tạo ra các báo cáo có cấu trúc nhanh chóng từ các biểu đồ hoặc trích xuất dữ liệu dựa trên CGM.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+- Mẫu kỹ thuật có thể tái sử dụng cho các báo cáo kỹ thuật định kỳ.
+- Bố cục đã được định dạng trước cho việc tích hợp biểu đồ dựa trên CGM.
+- Tạo nhanh các bảng kiểm tra và kiểm soát chất lượng chất lượng.
+- Thương hiệu và định dạng nhất quán cho tài liệu doanh nghiệp.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+- Hệ thống tạo mẫu bảng tính dựa trên Java cho việc tạo ra hàng loạt XLT.
+- Điền mẫu từ dữ liệu CGM thông qua các đường ống tự động.
+- Tích hợp với các công cụ báo cáo doanh nghiệp để tạo ra đầu ra dựa trên XLT.
+- Chuyển đổi hàng loạt để chuẩn hóa báo cáo trên toàn công ty.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

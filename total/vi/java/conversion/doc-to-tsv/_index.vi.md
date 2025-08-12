@@ -61,7 +61,24 @@ Sau khi chuyển đổi DOC sang TSV, [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi **DOC** sang **TSV (Tab-Separated Values)** là rất quan trọng để trích xuất dữ liệu cấu trúc, văn bản thuần từ tài liệu văn bản phong phú sang định dạng bảng nhẹ. TSV được rộng rãi hỗ trợ bởi cơ sở dữ liệu, bảng tính và các công cụ phân tích, làm cho nó lý tưởng cho trao đổi và xử lý dữ liệu.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+- Xuất bảng tài liệu sang TSV để nhập vào cơ sở dữ liệu
+- Chuẩn bị dữ liệu cho các nền tảng phân tích
+- Tích hợp với ứng dụng bảng tính như Excel và Google Sheets
+- Chia sẻ các bộ dữ liệu cấu trúc nhẹ
+
+## ⚙️ Kịch Bản Tự Động Hóa
+- Phần mềm trích xuất bảng DOC-to-TSV
+- Kịch bản chuyển đổi tự động cho xử lý hàng loạt
+- Phân tích tài liệu với việc tạo ra đầu ra tab-delimited
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

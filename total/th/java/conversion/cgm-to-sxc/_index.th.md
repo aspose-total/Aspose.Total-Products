@@ -47,7 +47,23 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM เป็นรูปแบบ SXC (OpenOffice Calc) ทำให้เป็นไปได้ในการรวมกราฟิกทางเทคนิคหรือข้อมูลตารางเข้ากับระบบสเปรดชีตโอเพนซอร์ส รองรับความเข้ากันได้กับ LibreOffice และแพลตฟอร์มอื่น ๆ ที่ใช้เอกสารโอเพน
+
+## ✅ กรณีการใช้งานหลัก
+- **การรวมตารางวิศวกรรม** – ผสานไดอะแกรมกับตารางข้อมูลสำหรับรายงานทางเทคนิค
+- **การเก็บข้อมูลในสเปรดชีตโอเพนซอร์ส** – เก็บภาพวาดทางเทคนิคที่ใช้เวกเตอร์ไว้พร้อมกับข้อมูล
+- **ความเข้ากันได้ของเครื่องมือที่ใช้บน LibreOffice** – รับรองการใช้งานไฟล์อย่างราบรื่นในสภาพแวดล้อมแบบ跨แพลตฟอร์ม
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- **กระบวนการทำงานการแปลงข้อมูลด้วย Java** – แปลง CGM เป็นรูปแบบพร้อมสำหรับสเปรดชีต
+- **การทำงานอัตโนมัติของเอทีแอลเอกสารโอเพน** – อัตโนมัติการนำเข้าไดอะแกรมเวกเตอร์เข้าสู่สเปรดชีต
+- **ระบบรายงานแบบ跨แพลตฟอร์ม** – ฝังภาพเข้าไปในการสร้างรายงานโดยอัตโนมัติ
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,23 @@ otherformats: XLT ODS XLSB XLTM XLAM TXT SXC MD DIF FODS XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## กรณีการใช้งานหลัก
+- สร้างตารางที่จัดคอลัมน์ให้สอดคล้องกับข้อมูลการวัดที่ใช้ CGM
+- ส่งออกผลลัพธ์จำลองเข้าสู่ TSV เพื่อการวิจัยและการวิเคราะห์
+- รับรองความเข้ากันได้กับเครื่องมือประมวลผลคำสั่ง Unix/Linux
+- สนับสนุนการแลกเปลี่ยนข้อมูลในแอปพลิเคชันวิศวกรรมโอเพนซอร์ส
+
+## สถานการณ์อัตโนมัติ
+- Java I/O และไลบรารี TSV สำหรับการแปลง CGM เป็น TSV โดยอัตโนมัติ
+- การแปลงไฟล์ CGM เทคนิคเป็นชุดข้อมูลสำหรับการรายงานโดยไม่มีหน้าจอ
+- ท่อ ETL 跨พลัตฟอร์ม โดยใช้เครื่องมือประมวลผลข้อมูลที่ใช้ Java
+- การผสานกับสภาพแวดล้อมการคำนวณทางวิทยาศาสตร์และกลุ่มคอมพิวเตอร์ที่มีประสิทธิภาพสูง
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

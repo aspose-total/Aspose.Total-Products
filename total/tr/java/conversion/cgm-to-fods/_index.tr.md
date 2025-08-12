@@ -47,7 +47,37 @@ CGM dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Ana Kullanım Durumları
+
+- **Grafiksel Teknik Verileri Tablolara Dönüştürme**  
+  CGM dosyalarından vektörel grafik verilerini analiz için yapılandırılmış satır ve sütunlara çıkarın.
+
+- **Ölçüm Değerlerini Belgeleme**  
+  Mühendislik ölçümlerini veya deney sonuçlarını taşınabilir bir elektronik tablo formatında saklayın ve yönetin.
+
+- **ODF Araçları Aracılığıyla Paylaşım**  
+  ODF uyumlu uygulamalar aracılığıyla CGM türetilmiş tablo verilerini dağıtın.
+
+
+## ⚙️ Otomasyon Senaryoları
+
+- **JOpenDocument Gibi Java Kütüphaneleri**  
+  Açık kaynaklı elektronik tablo işleme kütüphanelerini kullanarak Java iş akışlarında CGM'den FODS'a dönüşümü otomatikleştirin.
+
+- **Başsız LibreOffice Entegrasyonu**  
+  Java uygulamalarından LibreOffice'i başsız modda çalıştırarak CGM grafiklerini FODS tablolarına toplu şekilde dönüştürün.
+
+- **Toplu FODS Oluşturma**  
+  Büyük ölçekli veri çıkarma için Java tabanlı ETL borularına CGM ayrıştırma ve FODS oluşturmayı dahil edin.
+
+- **Açık Kaynaklı Veri İşleme Sistemleri**  
+  Şeffaf, standartlara dayalı veri yönetimi için FODS'yi Java destekli bilimsel veya mühendislik platformlarının bir parçası olarak kullanın.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

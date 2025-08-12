@@ -59,7 +59,23 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM para conversão XAML permite que diagramas técnicos sejam usados em estruturas de UI baseadas em .NET como WPF, possibilitando interfaces interativas e estilizadas.
+
+## ✅ Principais Casos de Uso
+- **Prototipagem de UI** – Integre diagramas em maquetes para design de interface do usuário.
+- **Geração de Gráficos Dinâmicos** – Renderize dados CGM como gráficos interativos.
+- **Estilização WPF** – Aplique estilos personalizados a gráficos vetoriais para aplicações desktop.
+
+## ⚙️ Cenários de Automação
+- **Pontes de Transformação Java-para-.NET** – Converta CGM em formato XAML programaticamente.
+- **Tubulações de Vetor-para-XAML** – Prepare ativos para integração imediata.
+- **Desenvolvimento de Plataforma Híbrida** – Permita componentes de UI compartilhados entre plataformas.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

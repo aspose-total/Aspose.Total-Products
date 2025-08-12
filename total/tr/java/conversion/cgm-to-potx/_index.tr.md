@@ -59,7 +59,23 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM'yi POTX'e (Açık XML Sunum Şablonu) dönüştürmek, ölçeklenebilir iş ve mühendislik sunum iş akışları için esnek, modern bir şablon formatı sağlar. POTX, vektör grafikleri destekler ve birden fazla slayt desteğinde yeniden kullanılması gereken CGM tabanlı teknik görseller için idealdir.
+
+## ✅ Temel Kullanım Senaryoları
+- **Endüstri Standartı Görsel Raporlar** – Müşteri ve paydaş sunumları için profesyonel düzenler hazırlayın.
+- **Mühendislik Tasarım Şablonları** – Yeniden kullanılabilir düzenlere ölçeklenebilir vektör diyagramlar gömün.
+- **Yeniden Kullanılabilir Markalı Slaytlar** – Farklı departmanlar arasında tutarlı kurumsal kimlik sağlayın.
+
+## ⚙️ Otomasyon Senaryoları
+- **Java Tabanlı Açık XML Belge Sistemleri** – Apache POI XSLF API'leri ile CGM'den POTX'e dönüşümü otomatikleştirin.
+- **Kurumsal İçerik Otomasyonu** – Markalı şablon kütüphanelerinin oluşturulmasını kolaylaştırın.
+- **Şablonlu Sunum Boruları** – Otomatik slayt hazırlığı için CI/CD borularına entegre edin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

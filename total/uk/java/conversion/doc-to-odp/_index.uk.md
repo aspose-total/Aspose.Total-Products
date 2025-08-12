@@ -103,7 +103,22 @@ otherformats: PPSM POT POWERPOINT PPTX POTX PPTM POTM PPS PPSX PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Ключові використання</h2>
+- Створення презентацій на основі звітів у форматі Word  
+- Міграція тексту та зображень до LibreOffice Impress  
+- Автоматизація перетворення тексту на слайди для швидкості  
+- Обмін презентаціями у форматі, що не залежить від постачальника  
+
+<h2>⚙️ Сценарії автоматизації</h2>
+- Генератори слайдів DOC-to-ODP для миттєвого перетворення  
+- Інструменти шаблонів презентацій на основі Java  
+- Автоматизовані робочі процеси переробки вмісту  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

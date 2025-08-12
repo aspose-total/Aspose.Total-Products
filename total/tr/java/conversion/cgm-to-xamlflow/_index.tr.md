@@ -78,7 +78,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM'den XAMLFLOW dönüşümü, .NET ekosistemi içinde akıllı UI otomasyonu ve işlem görselleştirmesi için görsel iş akışı oluşturmayı sağlar.
+
+## ✅ Temel Kullanım Alanları
+- **Akıllı UI Oluşturucular** – Teknik diyagramlardan doğrudan UI akışları oluşturun.
+- **Etkileşimli İş Akışları** – Gömülü mantıkla görsel işlem haritaları oluşturun.
+- **Mantık Odaklı Görsel Programlama** – Düşük kodlu ve kod olmadan platformları destekleyin.
+
+## ⚙️ Otomasyon Senaryoları
+- **Java Tabanlı Diyagram Motorları** – CGM'yi iş akışına hazır XAMLFLOW varlıklarına dönüştürün.
+- **UI İş Akışı Dönüştürücüler** – Vektör diyagramları yürütülebilir iş akışlarına eşleyin.
+- **DevOps Görselleştirme Araçları** – Altyapıyı ve işlem akışlarını görsel olarak temsil edin.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

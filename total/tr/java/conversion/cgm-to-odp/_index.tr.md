@@ -59,7 +59,27 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+CGM (Bilgisayar Grafikleri Meta Dosyası) dosyalarını ODP (Açık Belge Sunumu) formatına dönüştürmek, yüksek kaliteli vektör diyagramların açık kaynak sunum formatlarına sorunsuz entegrasyonunu sağlar. Bu dönüşüm, görüntü kalitesinden ödün vermeden eğitim, kurumsal ve teknik sunumlarda profesyonel görsel anlatımı mümkün kılar.
+
+## ✅ Ana Kullanım Senaryoları
+- Vektör diyagramların LibreOffice Impress sunumlarına gömülmesi.
+- Çapraz platform teknik ve kurumsal rapor oluşturma.
+- Ölçeklenebilir illüstrasyonlarla eğitim görsel içeriği oluşturma.
+- Mühendislik şemalarının sunum slaytlarına entegrasyonu.
+- Hassas grafiklerle bilimsel konferans materyallerini geliştirme.
+
+## ⚙️ Otomasyon Senaryoları
+- Otomatik slayt oluşturma için Java tabanlı belge akışı entegrasyonu.
+- LibreOffice uyumlu sunum üretim sistemleri.
+- Teknik departmanlar için kurumsal içerik oluşturma araçları.
+- Diyagramdan sunuma API tabanlı iş akışları.
+- Büyük ölçekli sunumlar için CGM diyagramlarının toplu işlenmesi.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

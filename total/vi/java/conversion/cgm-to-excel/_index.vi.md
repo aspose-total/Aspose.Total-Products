@@ -47,7 +47,37 @@ Trong khi chuyển đổi tệp CGM sang EXCEL, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi biểu đồ **CGM** sang định dạng **Excel (.xlsx)** là thực tế cho báo cáo doanh nghiệp, phân tích kỹ thuật và trực quan hóa dữ liệu có cấu trúc. Trong **quy trình làm việc được cung cấp bởi Java**, việc chuyển đổi này cho phép trích xuất các chỉ số, thông số kỹ thuật và dữ liệu biểu đồ từ đồ họa CGM vào bảng tính để phân tích, báo cáo và ra quyết định. Tích hợp Excel cho phép kết hợp biểu đồ trực quan với bộ dữ liệu bảng cho báo cáo kỹ thuật hoàn chỉnh.
+
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Nhúng Chỉ Số Kỹ Thuật**  
+  Ghi lại các giá trị đo lường từ biểu đồ CGM vào Excel để tính toán và phân tích xu hướng.
+
+- **Tạo Báo Cáo Kỹ Thuật**  
+  Kết hợp hình ảnh xuất phát từ CGM với dữ liệu Excel có cấu trúc cho báo cáo kỹ thuật hoặc dự án toàn diện.
+
+- **Trích Xuất Biểu Đồ từ Biểu Đồ**  
+  Chuyển đổi biểu đồ CGM dựa trên vector thành các đối tượng biểu đồ Excel có thể chỉnh sửa thêm.
+
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Apache POI cho Tạo Excel**  
+  Sử dụng thư viện **Apache POI** của Java để tự động hóa việc chuyển đổi CGM sang Excel và điền giá trị trích xuất vào các ô.
+
+- **Tự Động Điền Bảng Tính**  
+  Kết hợp phân tích dữ liệu CGM với các hệ thống báo cáo dựa trên Java để tạo các bảng tính Excel một cách động.
+
+- **Hệ Thống Báo Cáo Doanh Nghiệp**  
+  Nhúng quy trình làm việc từ CGM sang Excel vào các đường ống BI hoặc ETL dựa trên Java để xử lý dữ liệu kỹ thuật quy mô lớn.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

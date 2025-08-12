@@ -47,7 +47,23 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## การใช้งานหลัก ✅
+- การสกัดคุณสมบัติจากแผนภาพ CGM เพื่อเอกสารควบคุมคุณภาพ
+- การแปลงข้อมูลเมตาดาต้าจาก CGM เป็นตาราง CSV เพื่อการวิเคราะห์ทางสถิติ
+- การวิเคราะห์ข้อมูลวิศวกรรมโครงสร้างสำหรับรายงานและแดชบอร์ด
+- การทำให้เข้ากันได้กับ Excel, Google Sheets และแพลตฟอร์ม BI
+
+## สถานการณ์การอัตโนมัติ ⚙️
+- การแปลงไฟล์ CGM เป็น CSV แบบกลุ่ม
+- การตั้งเวลาไปรษณีย์ CGM-to-CSV ในระบบการผลิตที่ใช้ Java
+- การรวมกับแดชบอร์ด BI ที่ขับเคลื่อนด้วย Java เพื่ออัพเดตแบบเรียลไทม์
+- การสร้าง CSV โดยอัตโนมัติเพื่อการเก็บถาวรและควบคุมการปฏิบัติตามกฎหมาย
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}
