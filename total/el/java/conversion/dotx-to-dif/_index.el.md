@@ -61,7 +61,27 @@ otherformats: XLSM DIF XLS XLSX XLTM EXCEL ODS TSV XLAM FODS XLSB SXC XLT XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή του **DOTX** σε **DIF (Μορφή Ανταλλαγής Δεδομένων)** εξασφαλίζει συμβατότητα με παλαιότερα συστήματα υπολογιστών φύλλων εργασίας και λογισμικό στατιστικής, επιτρέποντας τη δομημένη ανταλλαγή δεδομένων για ερευνητικές και επιχειρησιακές εφαρμογές.
+
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Ανταλλαγή δεδομένων μεταξύ πλατφορμών
+- Στατιστική μοντελοποίηση
+- Ακαδημαϊκή έρευνα
+- Ροές εργασίας παλαιού λογισμικού
+- Μετανάστευση δομημένων δεδομένων
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αγωγοί DOTX-προς-DIF
+- Αυτοματοποίηση παραγωγής DIF
+- Αυτοματισμός δεδομένων έρευνας
+- Ενσωμάτωση συστημάτων παλαιού λογισμικού
+- Ροές εργασίας DOTX-προς-στατιστικό λογισμικό
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

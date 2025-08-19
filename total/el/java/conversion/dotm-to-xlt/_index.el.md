@@ -61,7 +61,26 @@ otherformats: TSV XLAM SXC XLT EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή του **DOTM** σε **XLT** επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel από πρότυπα Word με macros για τυποποιημένες επιχειρησιακές και αναφορικές ροές εργασίας.
+
+## ✅ Κύριες Χρήσεις
+- Τυποποιημένα επιχειρησιακά πρότυπα
+- Πρότυπα αναφοράς επιχειρήσεων
+- Φόρμες δεδομένων κυβέρνησης
+- Πρότυπα αξιολόγησης εκπαίδευσης
+- Πρότυπα οικονομικού σχεδιασμού
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματοποιημένη δημιουργία προτύπων DOTM-to-XLT
+- Σωληνώσεις προτύπων ροών εργασίας επιχείρησης
+- Κοινή χρήση προτύπων στο Cloud
+- Αυτοματισμός προτύπων macros-to-Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

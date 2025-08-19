@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Συμβατότητα συστημάτων παλαιότερων εκδόσεων Excel  
+- Ροές εργασίας αναφοράς επιχειρήσεων  
+- Συλλογή και επεξεργασία δεδομένων από τυποποιημένα πρότυπα  
+- Διατήρηση εγγράφων και αναφορά συμμόρφωσης επιχείρησης  
+- Διαδικασίες βασισμένες σε υπολογιστικούς πίνακες σε διάφορους κλάδους  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αυτοματισμός σωληνώσεων DOTX προς XLS  
+- Αυτοματοποιημένη αναφορά σε παλαιότερες μορφές Excel  
+- Μετατροπές προτύπων σε υπολογιστικούς πίνακες  
+- Ροές εργασίας εγγράφων προς δεδομένα για δομημένη αναφορά  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

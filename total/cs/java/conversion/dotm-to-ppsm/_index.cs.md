@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na PPSM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTM** na **PPSM (prezentace PowerPoint s makry)** umožňuje interaktivní prezentace s vestavěnými makry, ideální pro automatizované prodeje, finanční přehledy a podnikové reportování.
+
+## ✅ Klíčové použití
+- Automatizované prodejní prezentace
+- Finanční přehledy
+- Tréninkové a simulační prezentace
+- Vizualizace podnikových reportů
+- Interaktivní prezentace řízené pracovním postupem
+
+## ⚙️ Scénáře automatizace
+- Převod s makry z DOTM na PPSM
+- Automatické generování prezentací
+- Automatizace interaktivních prezentací
+- Makrové pracovní postupy podniku
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

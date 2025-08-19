@@ -61,7 +61,26 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Μετατροπή **DOT** σε **ODS (Φύλλο Εργασίας OpenDocument)** είναι απαραίτητη για τη δημιουργία δομημένων, φύλλων εργασίας ανοικτού κώδικα από πρότυπα Word, υποστηρίζοντας αναλύσεις, αναφορές και συνεργασία.
+
+#### ✅ Κύριες Περιπτώσεις Χρήσης
+- Ροές εργασιών επιχειρήσεων ανοικτού κώδικα
+- Έτοιμες για φύλλα εργασίας αναφορές
+- Συνεργασία δεδομένων
+- Επιχειρησιακές αναλύσεις
+- Συμβατότητα μεταξύ πλατφορμών
+
+#### ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός προτύπων DOT σε ODS
+- Ροές εργασιών ανοικτού κώδικα για αναφορές
+- Αγωγοί δεδομένων βασισμένοι σε ODS
+- Μετατροπές εγγράφων σε φύλλα εργασίας στο cloud
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

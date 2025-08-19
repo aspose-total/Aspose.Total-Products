@@ -61,7 +61,25 @@ otherformats: XLT XLTM XLSM ODS DIF XLAM FODS TSV SXC XLSB XLS EXCEL XLTX XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Ροές εργασίας LibreOffice/Apache OpenOffice
+- Αυτοματισμός με XML
+- Έργα ανοικτών δεδομένων
+- Συμμόρφωση με την κυβέρνηση
+- Συμβατότητα με πολλές πλατφόρμες
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Σωληνώσεις DOTX-προς-FODS
+- Εξαγωγή FODS πακέτων
+- Αυτοματισμός φύλλων εργασίας ανοικτού κώδικα
+- Ροές εργασίας XML στο cloud
+- Αυτοματισμός μετασχηματισμού δεδομένων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

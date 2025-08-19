@@ -54,7 +54,26 @@ Mit der API können Sie auch passwortgeschützte DOTM-Dokumente in PPS konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konvertieren von **DOTM** in **PPS (PowerPoint Slide Show)** ermöglicht die direkte Erstellung von Diashows aus makrofähigen Word-Vorlagen, geeignet für Veranstaltungen, Schulungen und Unternehmenspräsentationen.
+
+## ✅ Hauptanwendungsfälle
+- Veranstaltungspräsentationen
+- Schulungsdiashows
+- Automatisierte Berichtsdarstellungen
+- Unternehmenspräsentationsdecks
+- Präsentationen für Kiosks
+
+## ⚙️ Automatisierungsszenarien
+- Automatisierung von DOTM-zu-PPS-Diashows
+- Bereitstellung von Unternehmensdecks
+- Workflow-gesteuerte Präsentationsbereitstellung
+- Veranstaltungsbereite Auto-Slides
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

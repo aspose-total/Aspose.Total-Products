@@ -61,7 +61,24 @@ otherformats: TSV XLAM SXC XLSM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Οικονομικά πίνακες ελέγχου
+- Αυτοματοποιημένοι υπολογισμοί
+- Προηγμένες ροές εργασίας αναφοράς
+- Μοντέλα επιχείρησης με macros
+- Ενσωμάτωση γραφείου με VBA
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματοποιημένες διαδικασίες DOTM προς XLSM
+- Επιχειρηματικός αυτοματισμός οικονομικών
+- Αυτοματοποίηση διαδικασιών βασισμένων σε υπολογιστικούς πίνακες
+- Ενσωμάτωση DOTM macros στο Excel VBA
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

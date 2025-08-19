@@ -61,7 +61,26 @@ otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOT** σε **XLTM (Πρότυπο Excel με Μακροενεργοποίηση)** επιτρέπει τη δημιουργία προηγμένων προτύπων έτοιμων για αυτοματοποίηση, ενσωματώνοντας λογική που ελέγχεται από μακροεντολές από έγγραφα Word για επιχειρηματικές ροές εργασίας.
+
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Αυτοματοποιημένη δημιουργία προτύπων
+- Μακροενεργοποιημένες μακροεντολές αναφορών σε όλη την επιχείρηση
+- Αυτοματοποίηση επιχειρηματικών διαδικασιών
+- Δυναμικά πρότυπα τιμολόγησης
+- Χρηματοοικονομικό μοντελοποίηση
+
+## ⚙️ Σενάρια Αυτοματοποίησης
+- Μακροενεργοποιημένη αυτοματοποίηση από DOT σε XLTM
+- Σωληνώσεις προτύπων
+- Μετατροπή εγγράφου με μακροενεργοποίηση σε πρότυπο
+- Αυτοματοποίηση παραγωγικότητας επιχείρησης
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

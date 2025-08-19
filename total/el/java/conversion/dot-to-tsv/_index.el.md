@@ -61,7 +61,26 @@ otherformats: XLTX XLS XLAM EXCEL TSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOT** σε **TSV (Τιμές Διαχωρισμένες με Καρτελάκι)** επιτρέπει τη δομημένη εξαγωγή πίνακα δεδομένων από πρότυπα Word σε ελαφριά, φορητά μορφές κατάλληλες για αναλύσεις και ροές εργασιών βάσεων δεδομένων.
+
+## ✅ Κύριες Χρήσεις
+- Μετανάστευση δεδομένων σε υπολογιστικούς πίνακες
+- Εισαγωγή/εξαγωγή σε εφαρμογές επιχειρήσεων
+- Κανονικοποιημένη αναφορά σε πίνακες
+- Δομημένο κείμενο έτοιμο για βάσεις δεδομένων
+- Ροές εργασιών αναλύσεων
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματοποιημένες διαδικασίες DOT-σε-TSV
+- Μαζική εξαγωγή δεδομένων από πρότυπα Word
+- Δημιουργία TSV έτοιμων για ροές εργασιών
+- Κανονικοποίηση δεδομένων επιχείρησης
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

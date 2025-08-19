@@ -61,7 +61,25 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Μαζική εξαγωγή δεδομένων από πρότυπα με macros  
+- Σωληνώσεις εισαγωγής/εξαγωγής βάσεων δεδομένων  
+- Δομημένη αναφορά έτοιμη για επιχειρησιακή χρήση  
+- Ενσωμάτωση σε συστήματα παλαιού τύπου  
+- Απλοποιημένες μετατροπές σε πίνακες  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αυτοματισμός εξαγωγής δεδομένων από DOTM σε TSV  
+- Σωληνώσεις αναφορών με macros  
+- Ροές εργασίας δομημένων μετατροπών σε πίνακες  
+- Κοινοποίηση επιχειρησιακών δεδομένων  
+- Εξαγωγές ροών εργασίας που κλιμακώνονται
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

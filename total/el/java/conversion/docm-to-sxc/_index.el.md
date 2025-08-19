@@ -61,7 +61,25 @@ otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Υποστήριξη αρχείων του κράτους ή της επιχείρησης που απαιτούν **SXC** για συμμόρφωση
+- Μεταφορά πινάκων Word σε **πλατφόρμες ανοικτού κώδικα** όπως το StarOffice
+- Βεβαίωση **αντιστρόφων συμβατοτήτων** με παλαιότερα γραφεία
+- Προετοιμασία **δομημένων δεδομένων** για περιορισμένα ή εκτός σύνδεσης συστήματα
+- Μακροπρόθεσμη **διατήρηση σε ανοικτά πρότυπα** για θεσμικά έγγραφα
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Μετατροπείς πακέτων DOCM σε SXC** για μετατροπές εγγράφων μεγάλης κλίμακας
+- **Αυτοματοποιημένες εξαγωγές** για ρυθμιστικά ή αρχειακά αποθετήρια
+- **Συστήματα μετανάστευσης επιχειρήσεων** που μεταφράζουν δεδομένα Word σε παλαιά μορφή SXC
+- **Σωληνώσεις που οδηγούν στη συμμόρφωση** εξόδων συμβατών με το StarOffice
+- **Αυτοματοποιημένη μετατροπή εγγράφου σε Ϧετφόρμα υπολογιστικού φύλλου** για παλαιές εφαρμογές
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

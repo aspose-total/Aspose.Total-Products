@@ -61,7 +61,24 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Πρότυπα αυτοματισμού τμημάτων  
+- Πλαισία οικονομικού σχεδιασμού με macros  
+- Πρότυπα επεξεργασίας και μετασχηματισμού δεδομένων  
+- Προηγμένες ροές εργασίας αναφοράς  
+- Αυτοματοποίηση επιχειρηματικών διαδικασιών με macros  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Σωληνώσεις αυτοματισμού DOTX-προς-XLTM  
+- Αυτόματη ανάπτυξη προτύπων με macros  
+- Αυτόματη δημιουργία Excel από DOTX  
+- Επαναχρησιμοποιήσιμα πρότυπα ροών εργασίας για επιχειρήσεις  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

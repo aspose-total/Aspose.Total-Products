@@ -61,7 +61,24 @@ otherformats: EXCEL SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Κύριες Περιπτώσεις Χρήσης ✅</h2>
+- Εξαγωγή πινάκων DOCX σε **Excel**
+- Δυνατοποίηση πινάκων & γραφημάτων **pivot**
+- Δημιουργία δομημένων αναφορών
+- Συγχώνευση δεδομένων για επιχειρησιακή χρήση
+- Μορφές έτοιμες για εισαγωγή σε εργαλεία λογιστικής και οικονομικών
+
+<h2>Σενάρια Αυτοματισμού ⚙️</h2>
+- **Αυτοματισμός μαζικής αναφοράς DOCX σε Excel**
+- **Σωληνώσεις αναφοράς επιχείρησης**
+- **Αυτόματη δημιουργία πίνακα ελέγχου**
+- **Ολοκληρωμένη ενσωμάτωση δεδομένων μεταξύ τμημάτων**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

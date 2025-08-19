@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na POT. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převádění **DOTX** na **POT (šablona PowerPointu)** je užitečné pro transformaci standardizovaných šablon Wordu na šablony prezentací, které ušetří čas a zajistí konzistentní design.
+
+## ✅ Klíčové použití
+- Edukační prezentace
+- Firemní branding
+- Opakovaně použitelné šablony snímků
+- Výukové moduly
+- Prezentační balíčky s obchodními návrhy
+
+## ⚙️ Scénáře automatizace
+- Trubice DOTX-to-POT
+- Generování firemních snímků
+- Pracovní postupy pro standardizaci šablon
+- Automatizované sestavování prezentací
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,46 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POWERPOINT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Klíčové použití případy  
+
+- **Přeměna rozsáhlých zpráv na stručné prezentace**  
+  Převeďte vícestránkové dokumenty na připravené shrnutí snímků.  
+
+- **Převod výukových manuálů na snímky**  
+  Transformujte vzdělávací obsah na poutavé prezentace.  
+
+- **Příprava prezentací pro jednání v představenstvu**  
+  Využijte data z DOCM pro profesionální firemní prezentace.  
+
+- **Podpora spolupráce mezi týmy pomocí snímků**  
+  Sdílejte převedené prezentace napříč distribuovanými týmy.  
+
+- **Vizuální prezentace nápadů s důležitými zúčastněnými stranami**  
+  Představte poznatky z dokumentů ve srozumitelném vizuálním formátu.  
+
+
+## ⚙️ Scénáře automatizace  
+
+- **Automatické generátory DOCM do PowerPointu**  
+  Automaticky vytvářejte snímky z tabulek, grafů a sekcí ve Wordu.  
+
+- **Nástroje řízené umělou inteligencí pro vytváření snímků z obsahu Wordu**  
+  Generujte profesionální rozložení snímků inteligentně.  
+
+- **Firemní pracovní postupy, které automaticky publikují prezentace**  
+  Integrujte tvorbu snímků do reportingových potrubí.  
+
+- **Integrace Power Automate, které připravují snímky PPTX**  
+  Spusťte generování prezentace nahráním dokumentu.  
+
+- **Hromadné převody dokumentů na sady snímků pro vzdělávací knihovny**  
+  Automatizujte převod manuálů na opakovaně použitelné výukové sady.  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

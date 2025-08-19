@@ -61,7 +61,25 @@ Po převodu DOTM do SXC vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Klíčové použití případy
+- Kompatibilita s legacy daty pro tabulkové procesy  
+- Integrace open-source kancelářských balíků  
+- Automatizace toku dokumentů do tabulek  
+- Archivace firemních dat ve formátu SXC  
+- Použití tabulek napříč platformami  
+
+## ⚙️ Scénáře automatizace
+- Dávkové převody DOTM na SXC  
+- Automatizace tabulkových procesů open-source  
+- Migrace makro šablon dokumentů  
+- Interoperabilita toku práce  
+- Konverze pro archivaci
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

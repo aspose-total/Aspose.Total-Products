@@ -61,7 +61,24 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL TSV DIF XLTM XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Μεταφορά δεδομένων από πρότυπα Word
+- Εισαγωγή/εξαγωγή υπολογιστικών φύλλων με TSV
+- Ενσωμάτωση με βάσεις δεδομένων πίσω από το cloud
+- Επεξεργασία δεδομένων σε μορφή πίνακα συμβατή με το cloud
+- Ελαφριά αναφορά και αναλυτική επεξεργασία
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Σωληνώσεις DOTX προς TSV για δομημένες εξαγωγές
+- Μαζική μετατροπή προτύπων σε δεδομένα
+- Ενσωματώσεις βασισμένες σε API με εργαλεία επιχειρήσεων
+- Ροές κανονικοποίησης δεδομένων για συνέπεια
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

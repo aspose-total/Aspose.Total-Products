@@ -61,7 +61,26 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Μετατροπή **DOT** σε **XLAM (Excel Add-in)** επιτρέπει τη μετατροπή των μακροεντολών προτύπων Word σε επαναχρησιμοποιήσιμα εργαλεία αυτοματισμού Excel, βελτιώνοντας την παραγωγικότητα και τις δυνατότητες ροής εργασίας της επιχείρησης.
+
+## ✅ Κύριες Χρήσεις
+- Αυτοματισμός Excel επιχείρησης
+- Προσαρμοσμένη ανάπτυξη μακροεντολών
+- Προηγμένες λύσεις αναφοράς
+- Ενσωμάτωση ροής εργασίας με το Excel
+- Βελτίωση παραγωγικότητας
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Δημιουργία πρόσθετου μακροεντολών DOT-to-XLAM
+- Αυτοματοποιημένη δημιουργία επέκτασης Excel
+- Σωληνώσεις προτύπου-προς-πρόσθετο
+- Έτοιμες για επιχείρηση ροές εργασίας αυτοματισμού
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

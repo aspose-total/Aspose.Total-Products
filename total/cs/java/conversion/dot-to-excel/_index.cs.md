@@ -61,7 +61,22 @@ Po převodu DOT do EXCEL vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy
+- Obchodní reporting
+- Plánování rozpočtu
+- Šablony pro analýzu dat
+- Optimalizace pracovních postupů
+- Podnikové tabulky
+
+## ⚙️ Scénáře automatizace
+- Automatizace z DOT do Excelu
+- Pracovní postupy připravené pro tabulky
+- Správa podnikových dat
+- Převod dokumentů na tabulky
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

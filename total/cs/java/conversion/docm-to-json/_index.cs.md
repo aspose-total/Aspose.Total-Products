@@ -49,7 +49,47 @@ Zatímco převádíte DOCM na JSON, můžete také nastavit rozsah výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOCM (Dokumenty s povolenými makry ve Wordu)** na **JSON (JavaScript Object Notation)** je zásadní pro transformaci statického obsahu dokumentu, tabulek a polí formulářů do **strukturovaných, strojově čitelných dat**. JSON je lehký, čitelný pro člověka a široce používaný v **API, analýzách, webových aplikacích a automatizačních pracovních postupech**. Extrahováním dat z DOCM do JSON mohou organizace odemknout interoperabilitu napříč moderními platformami, umožnit rychlejší integrace a zajistit, že data jsou připravena pro **zpracování v reálném čase, validaci a škálovatelné distribuce**.  
+
+## ✅ Klíčové použití  
+
+- **Publikování dat dokumentu do REST/GraphQL API**  
+  Poskytněte extrahovaný obsah DOCM jako JSON pro přímou spotřebu API ve webových a mobilních aplikacích.  
+
+- **Napájení NoSQL databází a datovými jezery**  
+  Načtěte strukturovaná data odvozená z DOCM do MongoDB, Elasticsearch nebo datových jezer v cloudu.  
+
+- **Pohánění dashboardů reálnými daty ve formátu JSON**  
+  Streamujte KPI a metriky založené na dokumentech do BI dashboardů a nástrojů pro monitorování.  
+
+- **Validace vstupů proti JSON schématu**  
+  Zajistěte konzistenci a integritu tím, že zarovnáte data polí DOCM s pravidly JSON schématu.  
+
+- **Povolení Headless CMS nebo architektur mikroslužeb**  
+  Integrujte obsah DOCM do distribuovaných systémů s API-first, kde je JSON lingua franca.  
+
+## ⚙️ Scénáře automatizace  
+
+- **Extrakce DOCM do JSON s mapováním polí**  
+  Definujte mapování pro transformaci tabulek, záhlaví a polí do strukturovaných JSON objektů.  
+
+- **Serverless funkce, které konvertují a vydávají události ve formátu JSON**  
+  Spusťte konverze při nahrání souboru a vydávejte JSON zprávy do událostmi řízených systémů.  
+
+- **ETL úlohy, které normalizují typy a klíče**  
+  Standardizujte exporty DOCM do konzistentních struktur JSON pro následné analýzy.  
+
+- **Webhooky, které posílají JSON do následných systémů**  
+  Automatizujte exporty DOCM do JSON, které napájejí CRM, nástroje ERP nebo aplikace třetích stran.  
+
+- **Pravidla správy, která odstraňují makra a PII před exportem do JSON**  
+  Použijte kontrolu shody, abyste zajistili bezpečné, vyčištěné výstupy ve formátu JSON z makro-povolených souborů.  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

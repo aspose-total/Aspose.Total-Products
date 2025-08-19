@@ -61,7 +61,24 @@ otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή πινάκων από DOCX σε **CSV**
+- Προετοιμασία συνόλων δεδομένων για εργαλεία **επιχειρηματικής νοημοσύνης (BI)**
+- Εισαγωγή δομημένου κειμένου σε **SQL βάσεις δεδομένων**
+- Δυνατότητα **μαζικών μεταφορτώσεων e-commerce**
+- Εκτέλεση εργασιών **μεταφοράς δεδομένων**
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- **Μαζική εξαγωγή πινάκων DOCX σε CSV**
+- **Αυτοματοποιημένη προετοιμασία συνόλων δεδομένων**
+- **Αγωγοί CSV για αναφορές**
+- Ενσωμάτωση με **ροές εργασιών ETL**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

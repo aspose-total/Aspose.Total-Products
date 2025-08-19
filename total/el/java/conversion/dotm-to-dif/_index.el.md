@@ -61,7 +61,24 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS DIF XLSX XLT XLAM XLS SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Συμβατότητα με συστήματα παλαιότητας για εισαγωγή/εξαγωγή φύλλων εργασίας
+- Διαλειτουργικότητα φύλλων εργασίας μεταξύ πλατφορμών
+- Ροές εργασίας αρχειοθέτησης επιχείρησης
+- Δομημένη μετανάστευση δεδομένων μεταξύ εφαρμογών
+- Αυτόματη αναφορά από έγγραφα με μακρόενεργούς μακρόενεργούς
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις μετατροπής DOTM σε DIF
+- Διαδικασίες ανταλλαγής δεδομένων με μακρόενεργούς
+- Αυτοματοποιημένη αναφορά διασυνδεδεμένης πλατφόρμας
+- Ροές εργασίας ETL επιχείρησης χρησιμοποιώντας αρχεία DIF
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

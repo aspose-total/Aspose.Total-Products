@@ -61,7 +61,24 @@ otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Χρηματοοικονομικό μοντελοποίηση και πρόβλεψη
+- Δημιουργία επιχειρησιακών αναφορών και πινάκων ελέγχου
+- Ροές ανάλυσης δεδομένων για μεγάλα σύνολα δεδομένων
+- Ενσωμάτωση στο Cloud Excel
+- Μετατροπές μακροεντολών σε δεδομένα για την επιχειρησιακή νοημοσύνη
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματοποιημένες διαδικασίες μετατροπής DOTM σε Excel
+- Δημιουργία φύλλων εργασίας με δυνατότητα μακροενεργοποίησης
+- Αυτοματισμός επιχειρησιακών αναφορών
+- Ενσωμάτωση ροών εργασίας μακροεντολών στο Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

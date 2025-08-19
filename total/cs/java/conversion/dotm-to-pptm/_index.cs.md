@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na PPTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTM** na **PPTM (Prezentace PowerPoint s makry)** podporuje dynamické, interaktivní prezentace s makry pro finanční přehledy, zprávy o dodržování předpisů a automatizované firemní prezentace.
+
+## ✅ Klíčové použití
+- Interaktivní finanční přehledy
+- Automatizované firemní prezentace
+- Zprávy o dodržování předpisů řízené pracovním postupem
+- Makra poháněné výukové prezentace
+- Generování firemních zpráv
+
+## ⚙️ Scénáře automatizace
+- Pipeliny maker DOTM-to-PPTM
+- Automatizace firemních prezentací
+- Vytváření prezentací řízené pracovním postupem
+- Doručování prezentací na základě maker
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS EXCEL EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOT** σε **Excel (XLS/XLSX)** μετατρέπει τα πρότυπα Word σε διαδραστικούς πίνακες κατάλληλους για ανάλυση, αναφορά και αυτοματισμό ροών εργασίας σε επιχειρηματικά περιβάλλοντα.
+
+## ✅ Κύριες Χρήσεις
+- Αναφορές επιχειρήσεων
+- Σχεδιασμός προϋπολογισμού
+- Πρότυπα ανάλυσης δεδομένων
+- Βελτιστοποίηση ροών εργασίας
+- Επιχειρηματικοί πίνακες
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός DOT σε Excel
+- Ροές εργασίας έτοιμες για πίνακες
+- Διαχείριση δεδομένων επιχείρησης
+- Αγωγοί εγγράφων προς πίνακες
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

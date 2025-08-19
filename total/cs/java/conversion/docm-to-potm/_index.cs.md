@@ -54,7 +54,45 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy  
+
+- **Návrh interaktivních šablon pro školení**  
+  Vytvářejte opakovaně použitelné školicí prezentace s interaktivními prvky řízenými makry.  
+
+- **Vytváření rámce firemní prezentace řízené makry**  
+  Standardizujte firemní prezentace s vestavěnou automatizací.  
+
+- **Automatizace opakované generace snímků**  
+  Ušetřete čas použitím maker k vytváření strukturovaných snímků přímo z dat DOCM.  
+
+- **Vytváření dynamických daty řízených snímků**  
+  Integrujte se zdroji dat pro automatické obnovení grafů a vizuálů.  
+
+- **Standardizace firemních šablon s vestavěnou automatizací**  
+  Distribuujte sjednocené, makry povolené šablony pro konzistenci napříč týmy.  
+
+
+
+## ⚙️ Scénáře automatizace  
+
+- **Konvertory zachovávající makra DOCM-to-POTM**  
+  Udržujte makra VBA při převodu dokumentů Word do šablon.  
+
+- **Automatizované potrubí vkládající makra do snímků**  
+  Generujte prezentace připravené k automatizaci přímo z DOCM.  
+
+- **Toky Power Automate exportující šablony**  
+  Dodávejte standardizované šablony POTM týmům a oddělením.  
+
+- **Podnikové systémy správy dokumentů generující POTM**  
+  Integrujte tvorbu šablon do firemních pracovních postupů.  
+
+- **Skriptové konverze pro dynamické prezentace**  
+  Použijte nástroje řízené příkazovým řádkem nebo skriptem k automatizaci generování šablon snímků.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

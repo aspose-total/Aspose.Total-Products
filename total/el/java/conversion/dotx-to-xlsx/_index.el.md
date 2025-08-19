@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLSX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Κύριες Περιπτώσεις Χρήσης ✅</h2>
+- Συνεργασία στο cloud σε έγγραφα Excel
+- Ροές ανάλυσης δεδομένων στο σύγχρονο Excel
+- Οικονομική αναφορά υψηλής ποιότητας
+- Κλιμάκωση μοντελοποίησης επιχειρήσεων και πρόβλεψης
+- Μεταφορά εγγράφου σε δεδομένα για ανάλυση
+
+<h2>Σενάρια Αυτοματισμού ⚙️</h2>
+- Αυτοματισμός σε σωλήνες DOTX-προς-XLSX
+- Αυτοματισμός αναφορών στο cloud
+- Τυποποίηση ροών εργασίας Excel επιχείρησης
+- Κλιμάκωση δημιουργίας προτύπου σε φύλλο εργασίας
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

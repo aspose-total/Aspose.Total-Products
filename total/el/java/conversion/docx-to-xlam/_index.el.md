@@ -61,7 +61,23 @@ otherformats: XLAM EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης ✅</h2>
+- Μεταφορά μακροεντολών VBA από το Word στο Excel
+- Δημιουργία έτοιμων για επιχειρήσεις πρόσθετων αυτοματισμού
+- Υποστήριξη χρηματοοικονομικών και αναλυτικών μοντέλων
+- Δυνατοποίηση παραγωγικότητας με μακροεντολές στο Excel
+
+<h2>Σενάρια Αυτοματισμού ⚙️</h2>
+- Μετατροπή μακροεντολών DOCX σε XLAM
+- Εγκατάσταση πρόσθετων για επιχειρήσεις
+- Αυτοματοποίηση διαδικασιών στο Excel
+- Αυτόματη δημιουργία πρόσθετων από μακροεντολές του Word
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

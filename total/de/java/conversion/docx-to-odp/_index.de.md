@@ -54,7 +54,23 @@ Mit der API können Sie auch passwortgeschützte DOCX-Dokumente in ODP konvertie
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Hauptanwendungsfälle</h2>
+- Erstellung von Folien aus **DOCX-Berichten**
+- Verwendung von ODP für **OpenOffice**
+- Archivierung von DOCX-Präsentationen in **offenen Formaten**
+- Akademische oder **regulatorische Berichterstattung der Regierung**
+
+<h2>⚙️ Automatisierungsszenarien</h2>
+- **Massenerstellung von Präsentationen von DOCX zu ODP**
+- **Automatisierte Erstellung von Vorlesungs-/Pitch-Decks**
+- **Workflow-Pipelines mit Open Source**
+- **Unternehmensweite ODP-basierte Präsentationsautomatisierung**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,23 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές περιπτώσεις χρήσης</h2>
+- Μεταφορά δεδομένων στο OpenOffice/LibreOffice
+- Διατήρηση δομημένου πίνακα περιεχομένου από έγγραφα
+- Δυνατότητα συμβατότητας με συστήματα που βασίζονται στο StarOffice
+- Υποστήριξη ροών εργασίας ανοιχτού εγγράφου
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- Μετατροπή πακέτου DOCX σε SXC
+- Ενσωμάτωση συστημάτων κληρονομιάς
+- Ροές εργασίας ανοιχτού κώδικα
+- Σωληνώσεις εγγράφων-προς-φύλλα εργασίας επιχείρησης
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

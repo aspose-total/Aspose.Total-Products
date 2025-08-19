@@ -54,7 +54,24 @@ otherformats: POTX PPSX PPS POTM POT POWERPOINT PPTX PPSM PPTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές περιπτώσεις χρήσης ✅</h2>
+- Τυποποίηση μοντέρνων προτύπων PowerPoint
+- Εξασφάλιση συμβατότητας μεταξύ διαφορετικών εκδόσεων Office
+- Μεταφορά δομημένου κειμένου σε έτοιμα πρότυπα σχεδίασης
+- Υποστήριξη υλικού πωλήσεων και μάρκετινγκ
+- Βελτίωση παρουσιάσεων εκπαίδευσης και εργαστηρίων
+
+<h2>Σενάρια αυτοματοποίησης ⚙️</h2>
+- Αυτοματοποίηση προτύπων DOCX σε POTX
+- Σωληνώσεις μοντέρνων προτύπων παρουσιάσεων
+- Επιχειρησιακά τυποποιημένες ροές εργασίας POTX
+- Αυτοματοποιημένη συνέπεια σχεδιασμού σε διαφάνειες
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

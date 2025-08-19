@@ -61,7 +61,25 @@ otherformats: XLTM XLTX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Τυποποίηση **μοντέλων οικονομικών**  
+- Δημιουργία **προτύπων αναφοράς έτοιμα για επιχειρήσεις**  
+- Μεταφορά **δομημένου περιεχομένου από DOCM σε Excel**  
+- Υποστήριξη **ροών εργασίας επιχειρηματικής νοημοσύνης**  
+- Ενίσχυση της παραγωγικότητας με **επαναχρησιμοποιήσιμα πρότυπα Excel**  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Αυτοματισμός προτύπου DOCM σε XLTX**  
+- Επιχειρησιακές διαδικασίες αναφοράς που δημιουργούν αρχεία XLTX  
+- **Παραγωγή τυποποιημένου προτύπου Excel**  
+- Αυτοματοποιημένες **ροές εργασίας προτύπου με δεδομένα**  
+- **Κατανομή προτύπων σε όλη την εταιρεία**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

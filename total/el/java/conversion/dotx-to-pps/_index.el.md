@@ -54,7 +54,24 @@ otherformats: PPTM PPSM PPSX POT POTM PPTX POWERPOINT POTX PPT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Βασικές περιπτώσεις χρήσης
+- Εκθέσεις εμπορικών εκθετηρίων
+- Περίπτερα εκπαίδευσης
+- Αυτοματοποιημένα μαθήματα
+- Παρουσιάσεις εκδηλώσεων
+- Διαδραστικές επίδειξεις
+
+## ⚙️ Σενάρια αυτοματισμού
+- Συστήματα μετατροπής από DOTX σε PPS
+- Ροές εργασίας αυτόματης εκτέλεσης παρουσιάσεων
+- Αυτοματισμός παρουσιάσεων έτοιμων για περίπτερα
+- Αυτοματισμός εκδηλώσεων επιχειρήσεων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

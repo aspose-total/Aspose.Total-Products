@@ -61,7 +61,25 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Χρήσεις
+- Συμβατότητα με παλαιά δεδομένα για ροές εργασίας φύλλων υπολογιστή  
+- Ενσωματώσεις γραφείου ανοικτού κώδικα  
+- Αυτοματισμός ροής εγγράφου-φύλλου υπολογιστή  
+- Επιχειρησιακή αποθήκευση σε μορφή SXC  
+- Χρήση φύλλου υπολογιστή σε διαφορετικές πλατφόρμες  
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Παράλληλη μετατροπή DOTM σε SXC  
+- Αυτοματισμός φύλλου υπολογιστή ανοικτού κώδικα  
+- Μεταφορά προτύπου μακροεντολών εγγράφου  
+- Αλληλεπιδραστικότητα ροής εργασίας  
+- Μετατροπές αρχειοθέτησης
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

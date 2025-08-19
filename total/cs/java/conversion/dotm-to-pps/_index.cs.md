@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na PPS. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTM** na **PPS (PowerPoint Slide Show)** umožňuje přímé vytváření prezentací z makro-povolených šablon Wordu, vhodné pro události, školení a firemní prezentace.
+
+## ✅ Klíčové použití
+- Prezentace událostí
+- Prezentace školení
+- Automatizované ukázkové prezentace
+- Firemní prezentace
+- Prezentace pro samoobslužné zařízení
+
+## ⚙️ Scénáře automatizace
+- Automatizace převodu DOTM na PPS
+- Vytváření firemních prezentací
+- Dodávky prezentací řízené pracovním postupem
+- Automatické slajdy připravené na události
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

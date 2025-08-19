@@ -61,7 +61,26 @@ otherformats: EXCEL XLAM XLSM XLSB XLTX TSV DIF XLS XLT SXC FODS XLTM XLSX ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOT** σε **CSV (Comma-Separated Values)** είναι ουσιώδης για τη μετατροπή προτύπων Word σε δομημένα σύνολα δεδομένων που είναι εύκολα να επεξεργαστούν, να μοιραστούν και να εισαχθούν σε πολλές πλατφόρμες.
+
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Εξαγωγές μαζικών δεδομένων
+- Εισαγωγές βάσεων δεδομένων
+- Δομές έτοιμες για λογιστικά φύλλα
+- Ελαφριά κοινοποίηση δεδομένων
+- Ολοκληρωμένες εφαρμογές στο cloud
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις δεδομένων από DOT σε CSV
+- Δημιουργία συνόλων δεδομένων με βάση πρότυπα
+- Αυτοματισμός CSV σε ροές εργασίας
+- Συστήματα επιχειρησιακής αναφοράς
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

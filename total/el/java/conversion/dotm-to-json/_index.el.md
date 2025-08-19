@@ -49,7 +49,24 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Περιπτώσεις Χρήσης</h2>
+- Ενσωματώσεις API για web και cloud εφαρμογές
+- Ανταλλαγή δεδομένων και συμβατότητα δεδομένων στις web εφαρμογές
+- Αποθήκευση σε βάσεις δεδομένων NoSQL
+- Ροές εργασίας cloud-native και serverless
+- Αυτοματοποιημένη αναφορά και αναλυτικά στοιχεία
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αγωγοί εξαγωγής DOTM σε JSON
+- Ροές εργασίας δεδομένων Macro-to-API
+- Αυτοματισμός εγγράφου σε JSON
+- Διαδικασίες αυτοματοποίησης βασισμένες σε δεδομένα
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

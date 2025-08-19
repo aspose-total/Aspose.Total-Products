@@ -61,7 +61,23 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Χρήσεις
+- Υιοθέτηση προτύπων οικοσυστήματος OpenDocument
+- Ελαφρύς αποθηκευτικός χώρος και ανταλλαγή φύλλων εργασίας
+- Μετασχηματισμός δεδομένων βασισμένος σε μακροεντολές
+- Ενσωμάτωση ροών εργασίας επιχείρησης με συστήματα ανοικτού κώδικα
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις μετατροπής DOTM σε FODS
+- Αυτοματισμός προτύπου-ανοικτών δεδομένων
+- Αυτοματισμός ροών εργασίας μακροεντολών σε FODS
+- Επιχειρησιακή αλληλεπικοινωνιακότητα με συστήματα ανοικτού κώδικα
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

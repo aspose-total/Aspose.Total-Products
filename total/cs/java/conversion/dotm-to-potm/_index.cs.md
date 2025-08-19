@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOTM chráněné heslem na POTM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTM** na **POTM (Šablona PowerPoint s makry)** je pro podniky nezbytný, pokud potřebují dynamické šablony prezentací řízené makry pro automatizované hlášení a efektivitu pracovních postupů.
+
+## ✅ Klíčové použití
+- Automatizované prezentace hlášení
+- Finanční šablony prezentací
+- Generování snímků řízené makry
+- Prezentace školení a dodržování předpisů
+- Automatizace na úrovni podniku
+
+## ⚙️ Scénáře automatizace
+- Konverze s makry z DOTM na POTM
+- Automatizace prezentací v PowerPointu
+- Nasazení maker řízených pracovním postupem
+- Podnikové prezentace
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

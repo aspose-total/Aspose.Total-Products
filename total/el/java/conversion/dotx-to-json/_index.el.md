@@ -49,7 +49,27 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOTX** σε **JSON** επιτρέπει τη δομημένη ανταλλαγή δεδομένων, την ολοκλήρωση API και τις μοντέρνες ροές εργασίας στο web, καθιστώντας τα δεδομένα εγγράφων χρήσιμα για υπηρεσίες cloud, εφαρμογές web και αγωγούς AI/ML.
+
+## ✅ Βασικές Περιπτώσεις Χρήσης
+- Εξαγωγές δεδομένων έτοιμα για API
+- Ολοκλήρωση εφαρμογών web
+- Υπηρεσίες cloud
+- Αγωγοί δεδομένων
+- Προετοιμασία συνόλων δεδομένων AI/ML
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αγωγοί DOTX προς JSON
+- Αυτοματοποιημένη δημιουργία JSON
+- Ροές εργασίας Cloud API
+- Ολοκληρωμένες ενσωματώσεις συστημάτων επιχειρήσεων
+- Αυτοματισμός λίμνης δεδομένων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

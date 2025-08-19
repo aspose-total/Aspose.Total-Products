@@ -61,7 +61,27 @@ Po převodu DOTM do TSV vám [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTM** na **TSV (hodnoty oddělené tabulátorem)** umožňuje strukturovaný export dat z makro-povoleného dokumentu, což je ideální pro import do databáze, integraci se systémy starších verzí a škálovatelné tabulkové reportování.
+
+## ✅ Klíčové použití
+- Hromadný výběr dat z makro-povolených šablon
+- Import/export dat do/z databáze
+- Připravenost pro podnikové strukturované reportování
+- Integrace se systémy starších verzí
+- Zjednodušené tabulkové konverze
+
+## ⚙️ Scénáře automatizace
+- Automatizace exportu dat z DOTM do TSV
+- Pipeliny pro reportování řízené makry
+- Strukturované pracovní postupy pro konverze tabulek
+- Sdílení dat v podniku
+- Škálovatelné exporty pracovních postupů
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,23 @@ otherformats: XLSM XLTX SXC XLT ODS TSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Κύριες Περιπτώσεις Χρήσης</h2>
+- Εισαγωγή/εξαγωγή δεδομένων μεταξύ συστημάτων
+- Απλοποίηση μεταφορτώσεων βάσεων δεδομένων
+- Επεξεργασία δομημένων αναφορών
+- Δυνατοποίηση αναλύσεων βασισμένων σε κείμενο
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- Αγωγοί δεδομένων από DOCX σε TSV
+- Μαζική εξαγωγή περιεχομένου
+- Μετασχηματισμός επιχειρησιακών δεδομένων
+- Αυτοματοποιημένες ενσωματώσεις αναφορών
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

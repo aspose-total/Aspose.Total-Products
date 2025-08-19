@@ -61,7 +61,25 @@ otherformats: XLTM XLSM XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Χρήσεις</h2>
+- Μεταφορά **VBA scripts** από το Word στο Excel
+- Δημιουργία **δυναμικών οικονομικών μοντέλων** με macros
+- Αυτοματοποίηση **επαναλαμβανόμενων διαδικασιών εισαγωγής δεδομένων**
+- Δημιουργία **διαδραστικών εργαλείων Excel**
+- Ανάπτυξη **εργαλείων επιχειρηματικών πινάκων βασισμένων σε δεδομένα** με ενσωματωμένη αυτοματοποίηση
+
+<h2>⚙️ Σενάρια Αυτοματοποίησης</h2>
+- **Μετατροπείς DOCM σε XLSM** που διατηρούν τη μακρολογία
+- **Αυτοματοποιημένες ροές εργασίας** που δημιουργούν αρχεία XLSM από DOCM
+- **Επιχειρηματικές αγωγές** που επιτρέπουν την αναφορά με μακροενεργοποίηση
+- **Συστήματα διακυβέρνησης** που διανέμουν πρότυπα XLSM
+- **Λύσεις Power Automate** που συνδέουν τα macros του Word με τα macros του Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

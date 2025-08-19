@@ -61,7 +61,25 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Σχεδιασμός **τυποποιημένων προτύπων οικονομικών**  
+- Προετοιμασία επαναχρησιμοποιήσιμων **φορμών για παλαιότερες εκδόσεις Excel**  
+- Μεταφορά **φορμών Word** σε πρότυπα υπολογιστικών φύλλων  
+- Υποστήριξη οργανισμών που εξακολουθούν να χρησιμοποιούν **Excel 97–2003**  
+- Δημιουργία **αρχειακών προτύπων** σε μορφή XLT  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Αυτοματοποιημένοι μετατροπείς DOCM σε XLT**  
+- Επιχειρησιακές ροές εργασίας που διατηρούν **βιβλιοθήκες παλαιών προτύπων**  
+- **Διαδικασίες παρτίδας** που δημιουργούν οικονομικά XLT από το Word  
+- **Συστήματα αρχειοθέτησης** που απαιτούν συμβατότητα με το XLT  
+- Ροές διανομής προτύπων για **χρήστες παλαιών εκδόσεων Excel**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

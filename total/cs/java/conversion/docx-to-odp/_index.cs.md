@@ -54,7 +54,23 @@ API také umožňuje převádět dokumenty DOCX chráněné heslem na ODP. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Převod **DOCX** na **ODP (OpenDocument Presentation)** přeměňuje obsah Wordu na prezentace ve formátu otevřených standardů. Toto je ideální pro prezentace v OpenOffice, akademickém prostředí a pracovní postupy pro splnění vládních předpisů.
+
+### ✅ Klíčové použití
+- Vytváření snímků z **DOCX zpráv**
+- Použití ODP pro **OpenOffice**
+- Archivace prezentací DOCX ve **formátech otevřených standardů**
+- Akademické nebo hlášení o **splnění vládních předpisů**
+
+### ⚙️ Scénáře automatizace
+- **Hromadná generace prezentací z DOCX do ODP**
+- **Automatické vytváření přednáškových/pitch decků**
+- **Workflow pipeline s open-source technologiemi**
+- **Automatizace prezentací založených na ODP pro podniky**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

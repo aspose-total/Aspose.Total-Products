@@ -54,7 +54,25 @@ API také umožňuje převádět dokumenty DOTX chráněné heslem na PPSM. Poku
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOTX** na **PPSM (prezentace PowerPoint s povolenými makry)** umožňuje automatizované, interaktivní a samočinně spouštěné prezentace, které integrují makra pro pokročilou funkcionalitu.
+
+## ✅ Klíčové použití
+- Samočinné moduly školení
+- Automatizované prezentace řízené daty
+- Interaktivní prezentace událostí
+- Macro-enabled ukázky produktů
+
+## ⚙️ Scénáře automatizace
+- Pipeliny DOTX-to-PPSM
+- Automatizované kioskové prezentace
+- Workflows makra k prezentaci
+- Automatické aktualizace systémů prezentací
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## Μετατροπή **DOT** σε **XLS (Μορφή Excel Binary)** είναι απαραίτητη για τη δημιουργία δομημένων, αναλύσιμων υπολογιστικών φύλλων απευθείας από πρότυπα Word, εξασφαλίζοντας συμβατότητα με την κληρονομική λειτουργικότητα και αποτελεσματικές ροές εργασίας εκτός σύνδεσης.
+
+#### ✅ Κύριες Περιπτώσεις Χρήσης
+- Αναφορές οικονομικών δεδομένων παλαιάς τεχνολογίας
+- Διαχείριση εγγράφων επιχειρήσεων
+- Υπολογιστικά φύλλα συμβατά με λειτουργία εκτός σύνδεσης
+- Αναφορές συμμόρφωσης με τη νομοθεσία
+- Εξαγωγή δομημένων δεδομένων σε πίνακες
+
+#### ⚙️ Σενάρια Αυτοματισμού
+- Μεταφορά δεδομένων από DOT σε XLS
+- Αυτοματισμός προτύπων-προς-υπολογιστικά φύλλα σε πακέτα
+- Μετασχηματισμός δεδομένων με βάση τη συμμόρφωση
+- Σωληνώσεις αναφορών επιχειρήσεων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

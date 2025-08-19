@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na POTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOT** na **POTM (Šablona s povolenými makry pro PowerPoint)** umožňuje vytvářet dynamické šablony prezentací s vestavěnými makry, ideální pro automatizované a interaktivní systémy snímků.
+
+## ✅ Klíčové použití
+- Automatizované školení prezentací
+- Podnikové pracovní postupy s makry
+- Standardizované prezentace zpráv
+- Interaktivní učební materiály
+- Dynamické podnikové systémy snímků
+
+## ⚙️ Scénáře automatizace
+- Převod DOT na POTM s makry
+- Šablony připravené pro automatizaci v PowerPointu
+- Automatizace podnikových pracovních postupů
+- Generování dokumentů do snímků s povolenými makry
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

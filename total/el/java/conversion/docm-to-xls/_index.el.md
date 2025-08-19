@@ -61,7 +61,25 @@ otherformats: XLTM XLS XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Μεταφορά πινάκων Word σε **παλαιότερα περιβάλλοντα Excel**  
+- Υποστήριξη οργανισμών με **παλαιά συστήματα**  
+- Προετοιμασία φύλλων εργασίας για **περιορισμένη χρήση χωρίς σύνδεση**  
+- Κοινοποίηση δεδομένων με συνεργάτες που εξακολουθούν να χρησιμοποιούν **παλαιότερες εκδόσεις Office**  
+- Διατήρηση συμμόρφωσης με **παλαιές μορφές**  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Μετατροπείς πακέτων DOCM σε XLS** για μεταφορά μεγάλης κλίμακας  
+- **Ενσωματώσεις συστημάτων ERP παλαιών εκδόσεων** που απαιτούν XLS  
+- **Αυτοματοποιημένες διαδικασίες εξαγωγής** που παράγουν XLS για ιστορικά δεδομένα  
+- **Ροές εργασίας που υποχρεώνουν σε συμμόρφωση** με εξόδους XLS  
+- Εργαλεία επεξεργασίας εγγράφων που μετατρέπουν DOCM σε XLS για **συμβατότητα προς τα πίσω**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

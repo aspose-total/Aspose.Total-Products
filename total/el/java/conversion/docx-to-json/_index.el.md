@@ -49,7 +49,24 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### ✅ Κύριες Περιπτώσεις Χρήσης
+- Εξαγωγή δομημένου περιεχομένου για **APIs**
+- Δυνατοποίηση **εφαρμογών ιστού βασισμένων σε έγγραφα**
+- Μεταφορά δεδομένων DOCX σε **headless CMS**
+- Υποστήριξη **αγωγών μάθησης μηχανών**
+- Ανταλλαγή δεδομένων σε **εφαρμογές επιχειρήσεων**
+
+### ⚙️ Σενάρια Αυτοματισμού
+- **Μαζικές αγωγές API από DOCX σε JSON**
+- **Αυτοματοποιημένη αναφορά βασισμένη σε JSON**
+- **Ροές ανάλυσης εγγράφων**
+- **Συστήματα ολοκλήρωσης ιστού**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

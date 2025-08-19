@@ -61,7 +61,24 @@ otherformats: XLAM XLT XLSB SXC EXCEL DIF XLTM XLS FODS XLSX XLSM XLTX TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Ενσωμάτωση ροών εργασίας ανοικτού κώδικα στην επιχείρηση
+- Αναφορές και αναλύσεις βασισμένες σε υπολογιστικά φύλλα
+- Επεξεργασία δεδομένων σε διαφορετικές πλατφόρμες
+- Συμβατότητα με υπολογιστικά φύλλα στο cloud
+- Συμμόρφωση με ανοικτά πρότυπα
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις μετατροπής DOTM σε ODS
+- Αυτοματισμός μακροεντολών σε υπολογιστικά φύλλα
+- Ενσωμάτωση ροών εργασίας αναφοράς στην επιχείρηση
+- Αυτοματισμός ροών εργασίας ODS βασισμένος σε πρότυπα
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

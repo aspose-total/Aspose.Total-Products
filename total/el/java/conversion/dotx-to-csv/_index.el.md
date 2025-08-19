@@ -61,7 +61,27 @@ otherformats: DIF XLSB XLSM EXCEL FODS XLTX XLS XLAM XLSX XLT XLTM ODS TSV SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOTX** σε **CSV** είναι ουσιώδης για τη μετατροπή δομημένων προτύπων Word σε καθαρά, πίνακα κειμένου που μπορεί εύκολα να εισαχθεί σε βάσεις δεδομένων, υπολογιστικά φύλλα και αγωγούς δεδομένων.
+
+## ✅ Βασικές Χρήσεις
+- Εισαγωγές σε βάσεις δεδομένων
+- Διαλειτουργικότητα με υπολογιστικά φύλλα
+- Χειρισμός μεγάλου όγκου δεδομένων
+- Αποθήκευση ελαφρών αρχείων
+- Ροές μετανάστευσης δεδομένων
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αγωγοί DOTX-προς-CSV
+- Εξαγωγή πακέτου CSV
+- Ροές εργασιών ETL
+- Ενσωμάτωση δεδομένων επιχείρησης
+- Αυτοματισμός CSV βασισμένος στο cloud
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,25 @@ otherformats: XLTM XLSX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές περιπτώσεις χρήσης</h2>
+- Δημιουργία **ασφαλών, χωρίς μακροεντολές βιβλίων εργασίας**  
+- Κοινή χρήση υπολογιστικών φύλλων σε **πλατφόρμες νέφους**  
+- Προετοιμασία δεδομένων για συνεργασία στα **Google Sheets**  
+- Δημιουργία **οικονομικών μοντέλων** στο Excel  
+- Διασφάλιση της **συμμόρφωσης της επιχείρησης** με τους κανόνες χωρίς μακροεντολές  
+
+<h2>⚙️ Σενάρια αυτοματοποίησης</h2>
+- **Μετατροπείς επιχειρηματικών DOCM σε XLSX**  
+- **Σωληνώσεις παρτίδων βασισμένες στο νέφος** για τη δημιουργία XLSX  
+- **Ροές Power Automate** που παράγουν XLSX από περιεχόμενο Word  
+- **Εργασίες ETL** που εξάγουν σύνολα δεδομένων XLSX  
+- **Συστήματα CI/CD** που παράγουν αρχεία XLSX χωρίς μακροεντολές για ομάδες  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

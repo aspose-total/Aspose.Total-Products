@@ -61,7 +61,24 @@ otherformats: XLS FODS EXCEL XLSB DIF SXC XLSM XLT TSV XLAM XLSX ODS XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Βασικές Περιπτώσεις Χρήσης</h2>
+- Προσαρμοσμένα εργαλεία αυτοματισμού στο Excel
+- Αυτοματοποίηση επιχειρησιακής αναφοράς
+- Πρόσθετα για χρηματοοικονομικό μοντελοποίηση
+- Απλοποιημένη εισαγωγή δεδομένων μέσω μακροεντολών Excel
+- Επαναχρησιμοποιήσιμη αυτοματοποίηση με βάση πρότυπα
+
+<h2>Σενάρια Αυτοματισμού</h2>
+- Ροές εργασίας από DOTX σε XLAM για εργαλεία Excel με μακροενεργοποίηση
+- Αυτοματοποιημένη δημιουργία πρόσθετων από πρότυπα
+- Επιχειρησιακές λύσεις παραγωγικότητας με βάση το Excel
+- Εργαλεία μετατροπής προτύπου σε Excel με προηγμένο αυτοματισμό
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

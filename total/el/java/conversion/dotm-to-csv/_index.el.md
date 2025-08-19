@@ -61,7 +61,24 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Μεταφορά δεδομένων από πρότυπα με μακροενεργοποίηση σε βάσεις δεδομένων
+- Ροές εισαγωγής/εξαγωγής μεταξύ πολλαπλών συστημάτων
+- Επεξεργασία και ανάλυση επιχειρηματικών δεδομένων
+- Εισαγωγές βάσεων δεδομένων και διαχείριση πινάκων με ελαφριά δομή
+- Ροές εργασιών αναφοράς για την επιχειρησιακή νοημοσύνη
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αγωγοί εξαγωγής DOTM σε CSV
+- Ροές μετατροπής μακροενεργών σε δεδομένα
+- Αυτοματοποιημένες αναφορές CSV από πρότυπα Word
+- Επιχειρησιακοί αγωγοί ETL για δομημένα δεδομένα
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

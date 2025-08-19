@@ -61,7 +61,23 @@ Po převodu DOCX do FODS vám [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Klíčové použití</h2>
+- Interoperabilita s **LibreOffice & OpenOffice**  
+- Archivace dat ve formátu **DOCX**  
+- Vytváření **struktur tabulek založených na XML**  
+- Podpora **dlouhodobého hlášení o shodě**  
+
+<h2>⚙️ Scénáře automatizace</h2>
+- **Automatizace převodu z DOCX do FODS ve zdrojovém kódu**  
+- **Potrubí tabulek založených na XML**  
+- **Systémy hlášení FODS**  
+- **Pracovní postupy kancelářských balíků pro více platforem**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

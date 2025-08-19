@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na ODP. Pokud 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOT** na **ODP (OpenDocument Presentation)** je klíčový pro generování prezentací ve formátu open-source přímo z šablon Wordu, což umožňuje spolupráci a přístupnost napříč různými platformami.
+
+## ✅ Klíčové použití
+- Prezentace napříč platformami
+- Kompatibilita s open-source
+- Šablony připravené pro podniky
+- Spolupráce v cloudu
+- Generování vzdělávacího obsahu
+
+## ⚙️ Scénáře automatizace
+- Automatizované pracovní postupy DOT-to-ODP
+- Pipeliny připravené pro prezentace
+- Automatizace pracovního postupu s OpenDocument
+- Systémy pro převod dokumentů na prezentace
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

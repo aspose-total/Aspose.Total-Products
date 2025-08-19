@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Μετατροπή **DOT** σε **XLT (Πρότυπο Excel)** επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων υπολογιστικών φύλλων από έγγραφα Word, τυποποιώντας τις ροές εργασίας σε όλα τα τμήματα και ομάδες.
+
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Πρότυπα αναφοράς τμηματικών εργασιών
+- Τυποποιημένη χρέωση
+- Έτοιμα για επιχειρησιακή χρήση πρότυπα
+- Τεκμηρίωση διαδικασιών
+- Κλιμακούμενα μορφές αναφοράς
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός προτύπου DOT-σε-XLT
+- Τυποποίηση ροών εργασίας στο Excel
+- Σωληνώσεις εγγράφου-προτύπου
+- Αυτοματισμός επιχειρησιακής αναφοράς
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

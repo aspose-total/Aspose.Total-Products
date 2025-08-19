@@ -49,7 +49,26 @@ Zatímco převádíte DOT na JSON, můžete také nastavit rozsah výstupního f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOT** na **JSON (JavaScript Object Notation)** umožňuje, aby se šablony programu Word staly strukturovanými datovými sadami připravenými pro API pro webové aplikace, automatizaci v cloudu a integrace do firemního prostředí.
+
+## ✅ Klíčové použití
+- Webové aplikace
+- Automatizace řízená daty
+- Cloudová API
+- Integrace do firemního softwaru
+- Generování strukturovaných datových sad
+
+## ⚙️ Scénáře automatizace
+- Automatizace toku DOT-to-JSON
+- Pracovní postupy šablony k API
+- Systémy pro hlášení připravené pro JSON
+- Integrace dat do firemního prostředí v cloudu
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

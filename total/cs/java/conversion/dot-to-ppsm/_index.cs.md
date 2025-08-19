@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na PPSM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOT** na **PPSM (PowerPoint Macro-Enabled Show)** umožňuje automatizované prezentace řízené makry, ideální pro interaktivní ukázky, simulační tréninky a podnikové pracovní postupy.
+
+## ✅ Klíčové použití
+- Interaktivní obchodní ukázky
+- Simulace tréninku
+- Prezentační snímky řízené makry
+- Vzdělávací automatické prezentace
+- Ukázky podnikových pracovních postupů
+
+## ⚙️ Scénáře automatizace
+- Převod DOT na PPSM s makry
+- Automatizace prezentace s makry
+- Pracovní postupy připravené pro podniky
+- Dokumentové to show pipeline
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

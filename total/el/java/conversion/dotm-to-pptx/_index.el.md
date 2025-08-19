@@ -54,7 +54,24 @@ otherformats: POTM PPS PPSM PPTM POTX PPT PPTX POWERPOINT POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Χρήσεις
+- Επεκτάσιμες επιχειρησιακές παρουσιάσεις
+- Εκπαιδευτικά μοντέλα
+- Διαφάνειες έτοιμες για cloud reporting
+- Παρουσιάσεις πωλήσεων & μάρκετινγκ
+- Διαφάνειες επικοινωνίας πολιτικής
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις μετατροπής DOTM σε PPTX
+- Δημιουργία deck βασισμένη σε XML
+- Ροές εργασίας αυτοματισμού cloud
+- Ετοιμότητα επιχείρησης για αυτοματισμό στο PowerPoint
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

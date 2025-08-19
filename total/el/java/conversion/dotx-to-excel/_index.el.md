@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS EXCEL DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Βασικές περιπτώσεις χρήσης
+- Αναφορές επιχειρήσεων
+- Οικονομικός σχεδιασμός
+- Ροές εργασιών με δεδομένα
+- Διαχείριση εγγράφων επιχείρησης
+- Αναλύσεις συμβατές με το cloud
+
+## ⚙️ Σενάρια αυτοματισμού
+- Σωληνώσεις DOTX προς Excel
+- Αυτοματοποιημένη δημιουργία υπολογιστικών φύλλων
+- Αυτοματισμός αναφορών επιχείρησης
+- Ροές ανάλυσης δεδομένων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

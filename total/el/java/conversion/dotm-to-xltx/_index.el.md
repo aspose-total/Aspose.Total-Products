@@ -61,7 +61,24 @@ otherformats: TSV XLAM SXC XLTX EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Πρότυπα επιχειρήσεων που είναι τυποποιημένα
+- Αναφορές συμβατές με το cloud
+- Ακαδημαϊκά πρότυπα
+- Πρότυπα εισαγωγής δεδομένων της κυβέρνησης
+- Μοντέλα οικονομικών προβλέψεων
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός προτύπων DOTM σε XLTX
+- Δημιουργία προτύπων Excel σε πακέτα
+- Πρότυπα αναφορών για ολόκληρη την επιχείρηση
+- Ροές εργασίας από DOTM σε Excel έτοιμες για το cloud
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

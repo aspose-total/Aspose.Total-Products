@@ -61,7 +61,25 @@ otherformats: TSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Κύριες Χρήσεις</h2>
+- Προετοιμασία δομημένων δεδομένων κειμένου για εισαγωγές ERP ή CRM  
+- Μεταφορά πινάκων σε πλατφόρμες αναλυτικής και επιχειρησιακής νοημοσύνης  
+- Διαμοιρασμός πίνακων δεδομένων σε περιβάλλοντα προγραμματισμού και σεναρίων  
+- Δημιουργία συνόλων δεδομένων για μηχανική μάθηση και ροές τεχνητής νοημοσύνης  
+- Δυνατότητα ανταλλαγής δεδομένων με παλαιά συστήματα που απαιτούν ελαφριά μορφή  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Αυτόματες διαδικασίες εξαγωγής DOCM σε TSV για κλιμακούμενη μετατροπή  
+- Ροές εργασιών ETL που δημιουργούν σύνολα δεδομένων έτοιμα για TSV  
+- Υπηρεσίες φακέλου παρακολούθησης που παράγουν συνεχείς εξόδους TSV  
+- Μετατροπές με κίνητρο API που εκπέμπουν TSV για ολοκληρωμένες ενσωματώσεις  
+- Επιχειρησιακά κέντρα δεδομένων που εκμεταλλεύονται το TSV για ελαφριά διαλειτουργικότητα  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

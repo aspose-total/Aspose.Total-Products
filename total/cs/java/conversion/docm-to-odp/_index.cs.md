@@ -54,7 +54,43 @@ API také umožňuje převádět dokumenty DOCM chráněné heslem na ODP. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy  
+
+- **Přeměna Zpráv na Prezentační Slajdy**  
+  Převeďte dokumenty DOCM na prezentace ODP pro školení, obchodní schůzky nebo akademické přednášky.  
+
+- **Sdílení Obsahu mezi Různými Platformami**  
+  Ujistěte se, že prezentace lze upravovat v LibreOffice, OpenOffice a dalších nástrojích kompatibilních s ODF.  
+
+- **Příprava Materiálů pro Konference ve Formátech Otevřených Dat**  
+  Publikujte konferenční nebo seminární slajdy ve formátu ODP pro širokou dostupnost a dlouhodobou dostupnost.  
+
+- **Zachování Rozložení Bez Proprietárního Uzamčení**  
+  Vyhněte se závislosti na proprietárních formátech při zachování strukturovaných rozložení snímků.  
+
+- **Podpora Akademického nebo Vládního Použití Otevřených Standardů**  
+  Splňte požadavky na soulad distribucí obsahu DOCM ve formátu prezentace certifikovaném ODF.  
+
+## ⚙️ Scénáře Automatizace  
+
+- **Automatické Generátory DOCM-to-ODP**  
+  Automaticky převeďte makro-povolené soubory Word do upravitelných prezentací ODP.  
+
+- **Pracovní postupy s Otevřeným Zdrojovým Kódem pro Převod Makroů Wordu na Slajdy**  
+  Použijte nástroje řízené komunitou k přeměně obsahu DOCM na připravené prezentace ODP.  
+
+- **Hromadné Úlohy Převádějící Dokumenty na Prezentace pro Školení**  
+  Zvětšete produkci školicích materiálů hromadným zpracováním souborů DOCM do formátu ODP.  
+
+- **Podnikové Systémy Dodržující ODF Výstupy**  
+  Vynutit dodržování otevřených standardů převodem dokumentů DOCM na ODP automaticky.  
+
+- **Automatizované Pipeliny Připravující ODP pro Publikační Portály**  
+  Zjednodušte doručování obsahu integrací převodu DOCM na ODP do pracovních postupů publikace.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

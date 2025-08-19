@@ -61,7 +61,23 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Εξαγωγή πινάκων DOCX σε **ODS**  
+- Αλληλεπιδραστικότητα με το **Apache OpenOffice**  
+- Μορφές αναφοράς συμμόρφωσης με τον **δημόσιο τομέα**  
+- **Κοινοποίηση δεδομένων και συνεργασία** στον ακαδημαϊκό τομέα  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Αγωγοί αναφοράς DOCX προς ODS**  
+- **Ροές εργασιών ETL ανοικτού κώδικα**  
+- **Αυτοματοποιημένη δημιουργία συνόλων δεδομένων ODS**  
+- **Μαζική μετάβαση σε φύλλα εργασίας ανοικτών προτύπων**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

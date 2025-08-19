@@ -61,7 +61,26 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Κύριες Περιπτώσεις Χρήσης ✅</h2>
+
+- Επεξεργασία εγγράφων σε διαφορετικές πλατφόρμες
+- Συμβατότητα με παλαιότερες εκδόσεις γραφείου
+- Αρχειοθέτηση επιχειρήσεων και αναφορές συμμόρφωσης
+- Ροές εργασίας δεδομένων ανοικτού κώδικα
+- Διασυνδεδεμένες αναφορές μεταξύ συστημάτων
+
+<h2>Σενάρια Αυτοματισμού ⚙️</h2>
+
+- Αγωγοί επεξεργασίας δεδομένων από DOTX σε SXC
+- Μαζικές μετατροπές εγγράφων σε υπολογιστικά φύλλα
+- Ενσωματώσεις παλαιών συστημάτων με το StarOffice Calc
+- Αυτοματοποιημένες αναφορές με την υποστήριξη του ανοικτού κώδικα Calc
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

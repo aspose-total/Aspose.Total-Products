@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Πλαισία αναφοράς επιχειρήσεων σε Excel
+- Οικονομικά πρότυπα για οργανισμούς
+- Ρυθμίσεις προτύπων Excel συμβατές με το cloud
+- Ροές εργασίας αναφοράς τμήματος
+- Συνέπεια υψηλής επιχειρηματικής κλίμακας σε ομάδες
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- Σωληνώσεις μετατροπής DOTX σε XLTX
+- Αυτοματοποιημένη διανομή προτύπων Excel
+- Κανονικοποίηση εγγράφου σε Excel
+- Αυτοματισμός προτύπων επιχειρηματικού επιπέδου για κλιμάκωση
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

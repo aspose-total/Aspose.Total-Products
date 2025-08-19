@@ -49,7 +49,26 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Η μετατροπή **DOT** σε **JSON (JavaScript Object Notation)** επιτρέπει στα πρότυπα Word να γίνουν δομημένα, έτοιμα για χρήση από API datasets για web εφαρμογές, αυτοματισμό στο cloud και ολοκληρωσεις επιχειρησιακών συστημάτων.
+
+## ✅ Κύριες Χρήσεις
+- Εφαρμογές web
+- Αυτοματισμός με βάση τα δεδομένα
+- Cloud APIs
+- Ολοκληρώσεις λογισμικού επιχειρήσεων
+- Δημιουργία δομημένων datasets
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Αυτοματισμός σωλήνα DOT-σε-JSON
+- Ροές εργασίας από πρότυπο σε API
+- Συστήματα αναφοράς έτοιμα για JSON
+- Ολοκληρωση δεδομένων επιχείρησης cloud-native
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

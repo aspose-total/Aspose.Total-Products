@@ -61,7 +61,25 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Κύριες Περιπτώσεις Χρήσης
+- Εργαλεία αυτοματισμού επιχειρήσεων από πρότυπα Word
+- Παραγωγή προσθέτων Excel που πληρούν πρότυπα
+- Ροές εργασίας μεταφοράς μακροεντολών
+- Βιβλιοθήκες επαναχρησιμοποίησης αυτοματισμού
+- Ανάπτυξη πρόσθετου Excel έτοιμου για τον νέφος
+
+## ⚙️ Σενάρια Αυτοματισμού
+- Σωληνώσεις παραγωγής προσθέτων DOTM-σε-XLAM
+- Αυτοματοποιημένη μεταφορά μακροεντολών
+- Ροές εργασίας από έγγραφο σε Excel
+- Αυτοματισμός επιχειρησιακής αναφοράς
+- Κλιμακούμενη διανομή προσθέτων
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

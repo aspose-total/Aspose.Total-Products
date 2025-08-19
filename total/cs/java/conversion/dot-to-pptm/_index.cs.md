@@ -54,7 +54,26 @@ API také umožňuje převádět dokumenty DOT chráněné heslem na PPTM. Pokud
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převod **DOT** na **PPTM (Prezentace s makry pro PowerPoint)** produkuje interaktivní prezentace s makry, vhodné pro automatizované reportování, návrhy a výukové snímky.
+
+## ✅ Klíčové použití
+- Automatizované reportovací snímky
+- Podnikové pracovní postupy s makry
+- Výukové prezentace
+- Dynamické obchodní návrhy
+- Interaktivní přednášky
+
+## ⚙️ Scénáře automatizace
+- Převod DOT na PPTM s makry
+- Automatizace prezentace s makry
+- Podnikové pracovní postupy se snímky
+- Pipeliny dokumentů do prezentací
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

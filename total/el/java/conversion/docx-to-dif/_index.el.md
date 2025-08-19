@@ -61,7 +61,23 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Βασικές Περιπτώσεις Χρήσης</h2>
+- Μεταφορά πινάκων από DOCX σε **παλαιότερα συστήματα υπολογιστικών φύλλων**  
+- Βεβαιωθείτε για συμβατότητα με **στατιστικό λογισμικό**  
+- Αρχειοθέτηση δεδομένων εγγράφων σε **DIF**  
+- Υποστήριξη **αναλύσεων διασταυρούμενης πλατφόρμας**  
+
+<h2>⚙️ Σενάρια Αυτοματισμού</h2>
+- **Μεταφοράς παλαιών δεδομένων από DOCX σε DIF**  
+- **Αυτοματοποιημένη εξαγωγή δεδομένων υπολογιστικών φύλλων**  
+- **Αγωγοί DIF για συστήματα συμμόρφωσης**  
+- **Δημοσίευση δεδομένων πολλαπλών μορφών**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
