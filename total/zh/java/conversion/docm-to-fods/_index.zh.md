@@ -61,7 +61,44 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用途案例  
+
+- **将电子表格存储在 Git 中以便进行可读的差异比较**  
+  将表格数据以 XML 格式保存，以便在版本控制系统中逐行跟踪更改。  
+
+- **通过人类可读的 XML 实现透明审计**  
+  为审计人员提供清晰的、基于文本的电子表格逻辑和数值访问权限。  
+
+- **在符合 ODF 的工具之间交换模板**  
+  在 LibreOffice、OpenOffice 和其他符合 ODF 标准的平台之间无缝共享数据和模板。  
+
+- **通过 XML 编辑本地化电子表格标签**  
+  直接在 XML 源中翻译或调整电子表格标题和标签。  
+
+- **保留无宏合规性**  
+  确保从 DOCM 派生的数据在 FODS 格式中保持无宏状态。  
+
+
+## ⚙️ 自动化场景  
+
+- **DOCM 到 FODS 的 CLI 管道**  
+  通过命令行工具自动化转换，实现可重复使用、可脚本化的工作流程。  
+
+- **验证模式并在 XML 上运行测试的持续集成作业**  
+  将 FODS 验证纳入 CI/CD 管道，以强制执行一致性和正确性。  
+
+- **监视文件夹服务，转换并提交到 Git**  
+  监视目录中的 DOCM 文件，将其转换为 FODS，并自动提交到存储库。  
+
+- **执行无宏输出的策略引擎**  
+  通过阻止宏启用内容并仅导出干净的 FODS 文件来确保合规性。  
+
+- **为治理目的为 FODS 添加标记的元数据注入器**  
+  为受监管环境丰富输出数据与元数据（所有权、版本、策略标记）。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

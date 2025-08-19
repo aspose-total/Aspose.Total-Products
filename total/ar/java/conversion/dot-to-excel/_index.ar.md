@@ -61,7 +61,22 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS EXCEL EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+- تقارير الأعمال
+- تخطيط الميزانية
+- قوالب تحليل البيانات
+- تحسين سير العمل
+- جداول الشركات
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- التحويل من DOT إلى Excel
+- سير العمل جاهز لجداول البيانات
+- إدارة بيانات الشركات
+- أنابيب من الوثيقة إلى جدول بيانات
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

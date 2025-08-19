@@ -61,7 +61,23 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将 **DOCX** 转换为 **SXC（StarOffice Calc 电子表格）** 对于在 Word 文档中启用基于电子表格的处理在传统和开源办公环境中至关重要。这确保了结构化的表格数据可以在 StarOffice/LibreOffice 系统中被保留、迁移和高效分析。
+
+#### ✅ 主要用例
+- 数据迁移至 OpenOffice/LibreOffice  
+- 保留文档中的结构化表格内容  
+- 与基于 StarOffice 的系统兼容  
+- 支持开放文档工作流  
+
+#### ⚙️ 自动化场景
+- DOCX 到 SXC 的批量转换  
+- 传统系统集成  
+- 开源报告工作流  
+- 企业文档到电子表格的流程管道  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

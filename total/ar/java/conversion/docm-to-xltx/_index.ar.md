@@ -61,7 +61,27 @@ otherformats: XLTM XLTX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOCM** إلى **XLTX (Excel Template)** يضمن قوالب قابلة لإعادة الاستخدام وموحدة لبيئات Excel الحديثة. تسهل هذه القوالب عملية التقارير، وتدعم سير العمل في مجال الذكاء الاصطناعي، وتعزز الإنتاجية من خلال تحويل البيانات المهيكلة القائمة على Word إلى قوالب Excel جاهزة للشركات.
+
+## ✅ حالات الاستخدام الرئيسية
+- توحيد **النماذج المالية**
+- إنشاء **قوالب تقارير جاهزة للشركات**
+- نقل **المحتوى المهيكل من DOCM إلى Excel**
+- دعم **سير العمل في مجال الذكاء الاصطناعي**
+- تعزيز الإنتاجية باستخدام **قوالب Excel قابلة لإعادة الاستخدام**
+
+## ⚙️ سيناريوهات التأتير
+- **تأتير قالب DOCM-to-XLTX تلقائيًا**
+- أنابيب تقارير الشركات التي تنتج ملفات XLTX
+- **إنشاء قوالب Excel موحدة**
+- سير العمل التلقائي **القائم على البيانات**
+- **توزيع القوالب على مستوى الشركة بأكملها**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

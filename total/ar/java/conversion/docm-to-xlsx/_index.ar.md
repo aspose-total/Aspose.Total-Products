@@ -61,7 +61,27 @@ otherformats: XLTM XLSX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOCM** إلى **XLSX (Excel Open XML Workbook)** ينتج جداول بيانات آمنة من دون ماكرو وحديثة متوافقة مع Microsoft Excel وGoogle Sheets وOffice 365. يضمن هذا المشاركة الآمنة والتعاون والامتثال لسياسات الامتثال للشركات أثناء تحويل جداول Word إلى بيانات Excel منظمة.
+
+## ✅ حالات الاستخدام الرئيسية
+- إنشاء **سجلات عمل آمنة من دون ماكرو**
+- مشاركة الجداول عبر **منصات السحابة**
+- تحضير البيانات للتعاون في **Google Sheets**
+- بناء **نماذج مالية** في Excel
+- ضمان **امتثال الشركات** بقواعد من دون ماكرو
+
+## ⚙️ سيناريوهات الأتمتة
+- **محولات الشركات من DOCM إلى XLSX**
+- **أنابيب الدفع السحابية** لتوليد XLSX
+- **تدفقات Power Automate** توليد XLSX من محتوى Word
+- **وظائف ETL** تصدير مجموعات بيانات XLSX
+- **أنظمة CI/CD** تنتج ملفات XLSX من دون ماكرو للفرق
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

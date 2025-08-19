@@ -61,7 +61,24 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS DIF XLSX XLT XLAM XLS SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ الحالات الاستخدام الرئيسية
+- التوافق مع أنظمة الإرث لاستيراد / تصدير جداول البيانات
+- توافق جداول البيانات عبر منصات متعددة
+- سير العمل للأرشفة الشركات
+- هجرة البعد البيانات المنظمة بين التطبيقات
+- تقارير آلية من المستندات التي تحتوي على ماكرو
+
+## ⚙️ سيناريوهات الأتمتة
+- خطوط أنابيب تحويل DOTM إلى DIF
+- عمليات تبادل البيانات التي تعمل بالماكرو
+- تقارير آلية عبر منصات متعددة
+- سير العمل ETL الشركات باستخدام ملفات DIF
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

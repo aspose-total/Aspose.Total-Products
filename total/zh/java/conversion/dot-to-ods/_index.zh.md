@@ -61,7 +61,26 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **ODS (OpenDocument Spreadsheet)** 对于从Word模板创建结构化、开源电子表格以支持分析、报告和协作至关重要。
+
+## ✅ 主要用例
+- 开源业务工作流程
+- 电子表格报告准备
+- 数据协作
+- 企业分析
+- 跨平台兼容性
+
+## ⚙️ 自动化场景
+- DOT 到 ODS 模板自动化
+- 开源报告工作流程
+- 基于 ODS 的数据管道
+- 云原生文档到电子表格转换
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

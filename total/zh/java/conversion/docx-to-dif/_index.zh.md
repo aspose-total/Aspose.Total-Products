@@ -61,7 +61,23 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将 **DOCX** 转换为 **DIF（数据交换格式）** 对于遗留电子表格兼容性至关重要，可以实现结构化数据共享和在旧系统中进行归档，同时保持跨平台分析支持。
+
+### ✅ 主要用例
+- 将表格从 DOCX 迁移到 **旧电子表格系统**  
+- 确保与 **统计软件** 的兼容性  
+- 在 **DIF** 中存档文档数据  
+- 支持 **跨平台分析**  
+
+### ⚙️ 自动化场景
+- **DOCX 到 DIF 的遗留迁移**  
+- **自动化电子表格数据提取**  
+- **用于合规系统的 DIF 管道**  
+- **多格式数据发布**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

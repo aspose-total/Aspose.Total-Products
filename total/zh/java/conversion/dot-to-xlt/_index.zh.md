@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **XLT (Excel 模板)** 可以从 Word 文档创建可重复使用的电子表格模板，标准化各部门和团队的工作流程。
+
+## ✅ 主要用例
+- 部门报告模板
+- 标准化发票
+- 企业就绪模板
+- 流程文档
+- 可扩展的报告格式
+
+## ⚙️ 自动化场景
+- DOT 到 XLT 模板自动化
+- Excel 工作流程标准化
+- 文档到模板管道
+- 企业报告自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

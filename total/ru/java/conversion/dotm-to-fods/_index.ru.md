@@ -61,7 +61,25 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTM** в **FODS (Flat OpenDocument Spreadsheet)** облегчает совместимость с открытым исходным кодом, обеспечивая легкое хранение и макро-приводимые преобразования данных, подходящие для корпоративных рабочих процессов с открытым исходным кодом.
+
+## ✅ Основные сценарии использования
+- Принятие стандартов экосистемы OpenDocument
+- Легкое хранение и обмен электронными таблицами
+- Преобразование данных на основе макросов
+- Интеграция корпоративных рабочих процессов с открытым исходным кодом
+
+## ⚙️ Сценарии автоматизации
+- Конвейеры преобразования DOTM в FODS
+- Автоматизация шаблонов для открытых данных
+- Автоматизация рабочего процесса макросов в FODS
+- Взаимодействие предприятия с системами с открытым исходным кодом
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

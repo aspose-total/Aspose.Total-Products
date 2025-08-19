@@ -61,7 +61,22 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLTX EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- قوالب تقارير موحدة
+- سير العمل المتوافقة مع السحابة في Excel
+- تحويل القوالب جاهزة للشركات
+- توحيد إدخال البيانات
+- تقارير قابلة للتوسيع
+
+## ⚙️ سيناريوهات الأتمتة
+- إنشاء قالب من DOT إلى XLTX
+- أنابيب الأتمتة في Excel
+- سير العمل جاهزة للسحابة
+- أتمتة تحويل المستندات الشركاتية إلى قوالب
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,22 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- قوالب تقارير الإدارات
+- فواتير موحدة
+- قوالب جاهزة للشركات
+- وثائق العمليات
+- تنسيقات تقارير قابلة للتوسيع
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- التشغيل التلقائي لتحويل DOT إلى XLT
+- توحيد سير العمل في Excel
+- خطوط أنابيب من المستند إلى القالب
+- التشغيل التلقائي لتقارير الشركات
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

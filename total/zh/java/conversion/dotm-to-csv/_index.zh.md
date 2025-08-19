@@ -61,7 +61,24 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主要用例</h2>
+- 从宏启用的模板迁移数据到数据库  
+- 在多个系统之间进行导入/导出工作流  
+- 企业数据处理和分析  
+- 轻量级数据库导入和表管理  
+- 为商业智能提供简化的报告流程  
+
+<h2>⚙️ 自动化场景</h2>
+- DOTM 到 CSV 的提取流程  
+- 宏到数据转换工作流程  
+- 从 Word 模板自动生成 CSV 报告  
+- 用于结构化数据的企业 ETL 流水线
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

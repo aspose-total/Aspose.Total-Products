@@ -61,7 +61,26 @@ otherformats: XLT XLSB XLSM ODS TSV FODS XLS XLAM SXC DIF XLSX XLTM EXCEL XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **FODS (平面 XML ODF 电子表格)** 对于从 Word 模板生成开源、基于 XML 的电子表格，支持跨平台和云工作流程非常重要。
+
+## ✅ 主要用例
+- OpenDocument 工作流程
+- 基于云的电子表格处理
+- 跨平台兼容性
+- 数据共享
+- 长期存档
+
+## ⚙️ 自动化场景
+- DOT 到 FODS 的自动化流水线
+- 开源工作流程集成
+- FODS 数据处理
+- 互操作性报告解决方案
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

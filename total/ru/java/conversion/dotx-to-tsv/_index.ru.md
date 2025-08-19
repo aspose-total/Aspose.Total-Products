@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL TSV DIF XLTM XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTX (шаблон Word)** в **TSV (значения, разделенные табуляцией)** обеспечивает структурированное извлечение табличных данных, делая их легкими, портативными и готовыми для интеграции с современными облачными и бэкэнд системами.
+
+## ✅ Основные сценарии использования
+- Миграция данных из шаблонов Word
+- Импорт/экспорт таблиц с использованием TSV
+- Интеграции с бэкэнд базами данных
+- Обработка табличных данных, совместимая с облаком
+- Легкая отчетность и аналитика
+
+## ⚙️ Сценарии автоматизации
+- Потоки данных DOTX-to-TSV для структурированных экспортов
+- Массовое преобразование шаблонов в данные
+- Интеграции на основе API с корпоративными инструментами
+- Рабочие процессы нормализации данных для согласованности
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

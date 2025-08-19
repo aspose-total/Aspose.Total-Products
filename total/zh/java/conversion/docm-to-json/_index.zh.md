@@ -49,7 +49,45 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将 **DOCM（Word宏启用文档）** 转换为 **JSON（JavaScript对象表示法）** 对于将静态文档内容、表格和表单字段转换为 **结构化、可机器读取的数据** 至关重要。JSON 是轻量级的、易读的，在 **API、分析、Web 应用程序和自动化工作流** 中被广泛使用。通过将数据从 DOCM 提取为 JSON，组织可以解锁跨现代平台的互操作性，实现更快的集成，并确保数据准备好用于 **实时处理、验证和可扩展分发**。  
+
+## ✅ 主要用例  
+
+- **将文档数据发布到 REST/GraphQL API**  
+  将提取的 DOCM 内容作为 JSON 提供，以便在 Web 和移动应用程序中直接使用 API。  
+
+- **向 NoSQL 数据库和数据湖提供数据**  
+  将基于 DOCM 的结构化数据加载到 MongoDB、Elasticsearch 或基于云的数据湖中。  
+
+- **通过实时 JSON 数据源为仪表板提供动力**  
+  将基于文档的关键绩效指标和指标流式传输到 BI 仪表板和监控工具中。  
+
+- **根据 JSON 模式验证输入**  
+  通过将 DOCM 字段数据与 JSON 模式规则对齐，确保一致性和完整性。  
+
+- **启用无头 CMS 或微服务架构**  
+  将 DOCM 内容集成到分布式、以 API 为先的系统中，其中 JSON 是通用语言。  
+
+## ⚙️ 自动化场景  
+
+- **具有字段映射的 DOCM 到 JSON 提取**  
+  定义映射以将表格、标题和字段转换为结构化的 JSON 对象。  
+
+- **转换并发出 JSON 事件的无服务器函数**  
+  在文件上传时触发转换，将 JSON 负载发送到事件驱动系统。  
+
+- **规范化类型和键的 ETL 作业**  
+  将 DOCM 导出标准化为一致的 JSON 结构，以供下游分析使用。  
+
+- **将 JSON 推送到下游系统的 Webhooks**  
+  自动化将 DOCM 转换为 JSON 导出，以供 CRM、ERP 工具或第三方应用程序使用。  
+
+- **在导出 JSON 之前剥离宏和 PII 的治理规则**  
+  应用合规性检查，以确保从启用宏的文件中获得安全、经过清理的 JSON 输出。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

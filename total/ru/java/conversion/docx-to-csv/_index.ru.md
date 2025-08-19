@@ -61,7 +61,24 @@ otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Конвертация **DOCX** в **CSV (значения, разделенные запятыми)** необходима для преобразования неструктурированных таблиц документов в структурированные наборы данных, готовые для аналитики. CSV обеспечивает беспрепятственную интеграцию с базами данных, BI-инструментами и конвейерами отчетности, делая данные документов пригодными для использования в современных рабочих процессах.
+
+### ✅ Основные сценарии использования
+- Извлечение таблиц из DOCX в **CSV**
+- Подготовка наборов данных для **инструментов бизнес-аналитики (BI)**
+- Импорт структурированного текста в **SQL-базы данных**
+- Возможность **массовой загрузки электронной коммерции**
+- Выполнение задач по **миграции данных**
+
+### ⚙️ Сценарии автоматизации
+- **Массовое извлечение таблиц из DOCX в CSV**
+- **Автоматизированная подготовка наборов данных**
+- **CSV-конвейеры для отчетности**
+- Интеграция с **рабочими процессами ETL**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

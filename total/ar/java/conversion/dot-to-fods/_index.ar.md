@@ -61,7 +61,22 @@ otherformats: XLT XLSB XLSM ODS TSV FODS XLS XLAM SXC DIF XLSX XLTM EXCEL XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- سير العمل بتنسيق OpenDocument
+- معالجة جداول البيانات المستندة إلى السحابة
+- التوافق عبر المنصات
+- مشاركة البيانات
+- الأرشفة على المدى الطويل
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- خطوط أنابيب التحويل من DOT إلى FODS
+- تكامل سير العمل مفتوح المصدر
+- معالجة بيانات FODS
+- حلول تقارير قابلة للتشغيل المتبادل
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

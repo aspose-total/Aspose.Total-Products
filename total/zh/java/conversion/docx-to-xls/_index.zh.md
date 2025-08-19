@@ -61,7 +61,26 @@ otherformats: XLS SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **XLS（Excel 二进制文件格式）** 对于将基于文档的表格数据转换为可编辑的电子表格至关重要，从而在传统的 Excel 系统内实现高效的数据管理和分析。
+
+## ✅ 主要用例
+- 管理结构化数据
+- 将报告导入 Excel
+- 财务分析
+- 从文档创建可编辑的电子表格
+- 数据驱动的工作流程
+
+## ⚙️ 自动化场景
+- DOCX 到 XLS 转换流程
+- 报告数字化
+- 企业数据管理
+- 自动化生成 Excel 表格
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

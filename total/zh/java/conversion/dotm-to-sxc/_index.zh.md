@@ -61,7 +61,23 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 电子表格工作流的遗留数据兼容性
+- 开源办公集成
+- 文档到电子表格工作流自动化
+- 以SXC格式进行企业存档
+- 跨平台电子表格使用
+
+## ⚙️ 自动化场景
+- DOTM到SXC批量转换流水线
+- 开源电子表格自动化
+- 文档宏模板迁移
+- 工作流互操作性
+- 存档转换
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

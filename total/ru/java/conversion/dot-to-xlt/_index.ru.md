@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOT** в **XLT (Шаблон Excel)** позволяет создавать многоразовые шаблоны электронных таблиц из документов Word, стандартизируя рабочие процессы в отделах и командах.
+
+## ✅ Основные сценарии использования
+- Шаблоны отчетности отделов
+- Стандартизированное выставление счетов
+- Готовые к использованию шаблоны для предприятий
+- Документация процессов
+- Масштабируемые форматы отчетности
+
+## ⚙️ Сценарии автоматизации
+- Автоматизация шаблонов DOT-to-XLT
+- Стандартизация рабочих процессов в Excel
+- Потоки документов в шаблоны
+- Автоматизация предприятий отчетности
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

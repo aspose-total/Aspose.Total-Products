@@ -61,7 +61,26 @@ otherformats: XLAM ODS TSV XLT FODS EXCEL DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOTX** إلى **Excel (XLS/XLSX)** قيم لتحويل قوالب Word إلى جداول بيانات منظمة تدعم التحليلات والتقارير وإدارة سير العمل في المؤسسات.
+
+## ✅ حالات الاستخدام الرئيسية
+- تقارير الأعمال
+- التخطيط المالي
+- سير العمل القائم على البيانات
+- إدارة الوثائق في المؤسسات
+- تحليلات متوافقة مع السحابة
+
+## ⚙️ سيناريوهات الأتمتة
+- خطوط أنابيب DOTX-to-Excel
+- إنشاء جداول بيانات تلقائيًا
+- أتمتة تقارير المؤسسات
+- سير العمل لتحليل البيانات
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

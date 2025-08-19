@@ -54,7 +54,26 @@ otherformats: PPS PPTX PPTM POTX PPT PPSX POWERPOINT POTM POT PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **PPTX（PowerPoint 开放式 XML 演示文稿）** 可以创建现代、可编辑的基于 XML 的 PowerPoint 文件，适用于云工作流、可扩展的企业模板和学术用途。
+
+## ✅ 主要用例
+- 商业报告
+- 适用于云的演示文稿工作流
+- 学术讲座
+- 可扩展的企业模板
+- 提案自动化
+
+## ⚙️ 自动化场景
+- DOT 到 PPTX 的转换
+- PowerPoint XML 演示文稿自动化
+- 企业工作流集成
+- 文档到幻灯片流水线
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

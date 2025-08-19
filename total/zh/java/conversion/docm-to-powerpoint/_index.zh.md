@@ -54,7 +54,44 @@ otherformats: POWERPOINT PPTM POT PPT PPTX POTM PPSM POTX PPS PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+
+- **将冗长报告转换为简明演示文稿**
+  将多页文档转换为适合演示的摘要。
+
+- **将培训手册转换为幻灯片**
+  将教学内容转化为引人入胜的演示文稿。
+
+- **准备董事会演示文稿**
+  重复使用 DOCM 数据制作专业的企业演示文稿。
+
+- **通过幻灯片促进跨团队协作**
+  在分布式团队之间共享转换后的演示文稿。
+
+- **与利益相关者以视觉方式分享想法**
+  以清晰的视觉格式展示文档见解。
+
+
+## ⚙️ 自动化场景
+
+- **DOCM 到 PowerPoint 自动生成器**
+  自动从 Word 表格、图表和章节构建幻灯片。
+
+- **AI 驱动工具从 Word 内容创建幻灯片**
+  智能生成专业的幻灯片布局。
+
+- **自动发布演示文稿的企业工作流**
+  将幻灯片创建集成到报告流程中。
+
+- **Power Automate 集成准备 PPTX 幻灯片**
+  从文档上传触发演示文稿生成。
+
+- **用于培训库的批量文档转幻灯片**
+  自动将手册转换为可重复使用的培训幻灯片组。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

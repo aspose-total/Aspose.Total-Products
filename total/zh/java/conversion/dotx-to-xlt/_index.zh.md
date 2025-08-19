@@ -61,7 +61,26 @@ otherformats: XLAM ODS TSV XLT FODS XLT DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTX（Word 模板）** 导出为 **XLT（Excel 模板）** 可帮助企业创建可重复使用的电子表格框架。这种标准化提高了报告、财务规划和部门工作流程的效率。
+
+## ✅ 主要用例
+- 为 Excel 创建企业模板
+- 业务报告模板
+- 部门特定的 Excel 框架
+- 可重复使用的财务模型
+- 基于文档的 Excel 标准
+
+## ⚙️ 自动化场景
+- DOTX 到 XLT 的转换流程
+- 在企业间自动分发模板
+- 标准化 Excel 模板生成
+- 用于一致性的企业报告框架
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

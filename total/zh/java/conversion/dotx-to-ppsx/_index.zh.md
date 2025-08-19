@@ -54,7 +54,26 @@ otherformats: POTM PPTX POWERPOINT PPSM PPT PPS PPTM POTX POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTX** 转换为 **PPSX（PowerPoint Open XML Show）** 可以创建便携、自动运行的演示文稿，适用于云端并易于跨平台共享。
+
+## ✅ 主要用途
+- 销售演示
+- 课堂教学
+- 活动展示
+- 公司简介幻灯片
+- 营销展示
+
+## ⚙️ 自动化场景
+- DOTX 到 PPSX 的流程
+- 自动播放幻灯片创建
+- 云端就绪的演示文稿
+- 演示文稿交付自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

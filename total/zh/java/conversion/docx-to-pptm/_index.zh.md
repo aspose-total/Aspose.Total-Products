@@ -54,7 +54,26 @@ otherformats: PPTM PPS PPT POTM PPSM POT POWERPOINT PPSX POTX PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **PPTM（启用宏的 PowerPoint 演示文稿）** 可以直接将自动化和宏逻辑嵌入幻灯片，用于高级工作流演示。
+
+## ✅ 主要用例
+- 交互式业务仪表板
+- 工作流驱动的幻灯片
+- 启用宏的学习模块
+- 自动化报告演示
+- 企业培训系统
+
+## ⚙️ 自动化场景
+- DOCX 到 PPTM 启用宏的工作流
+- 企业仪表板流水线
+- 交互式自动化驱动的幻灯片组
+- 文档到宏演示文稿的创建
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

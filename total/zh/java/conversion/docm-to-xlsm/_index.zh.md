@@ -61,7 +61,23 @@ otherformats: XLTM XLSM XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 从Word迁移VBA脚本到Excel  
+- 利用宏构建动态财务模型  
+- 自动化重复的数据输入流程  
+- 创建交互式Excel工具  
+- 利用嵌入式自动化开发数据驱动的业务仪表板  
+
+## ⚙️ 自动化场景
+- 保留宏逻辑的DOCM到XLSM转换器  
+- 从DOCM生成XLSM文件的自动化工作流程  
+- 启用宏驱动报告的企业管道  
+- 分发XLSM模板的治理系统  
+- 将Word宏链接到Excel宏的Power Automate解决方案  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

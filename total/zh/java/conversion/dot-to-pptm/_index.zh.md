@@ -54,7 +54,26 @@ otherformats: POTX POTM PPTM PPSX PPS PPSM PPT POWERPOINT POT PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **PPTM（PowerPoint 宏启用演示文稿）** 可生成带有宏的交互式演示文稿文件，适用于自动化驱动的报告、提案和培训幻灯片。
+
+## ✅ 主要用例
+- 自动化报告幻灯片
+- 企业宏驱动工作流程
+- 培训演示文稿
+- 动态商业提案
+- 互动讲座
+
+## ⚙️ 自动化场景
+- 具有宏的 DOT 到 PPTM 转换
+- 带有宏的演示文稿自动化
+- 企业幻灯片工作流程
+- 文档到演示文稿流水线
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

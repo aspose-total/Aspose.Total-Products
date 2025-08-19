@@ -61,7 +61,26 @@ otherformats: XLAM XLT XLSB SXC EXCEL DIF XLTM XLS FODS XLSX XLSM XLTX TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 文件转换为 **ODS（OpenDocument Spreadsheet）** 可使组织能够将Word模板用作开源电子表格，支持跨平台报告和基于云的电子表格工作流程。
+
+## ✅ 主要用例
+- 企业开源工作流集成
+- 基于电子表格的报告和分析
+- 跨平台数据处理
+- 基于云的电子表格兼容性
+- 遵守开放标准
+
+## ⚙️ 自动化场景
+- DOTM 到 ODS 转换管道
+- 宏到电子表格自动化
+- 企业报告工作流集成
+- 模板驱动的 ODS 工作流自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLSX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## تحويل DOTX (قالب Word) إلى XLSX (جدول بيانات Excel Open XML) يمكن تمكين سير العمل الحديثة والمتوافقة مع السحابة في Excel. يدعم هذا التنسيق التقارير التعاونية وتحليل البيانات المالية والعمليات الشركاتية القابلة للتوسيع.
+
+#### ✅ حالات الاستخدام الرئيسية
+- التعاون على مستندات Excel في السحابة
+- سير العمل لتحليل البيانات في Excel الحديث
+- تقارير مالية على مستوى المؤسسات
+- نمذجة الأعمال القابلة للتوسيع والتنبؤ
+- هجرة المستندات إلى البيانات لأغراض التحليل
+
+#### ⚙️ سيناريوهات التأتير
+- خطوط أنابيب التأتير من DOTX إلى XLSX
+- التأتير القائم على السحابة للتقارير
+- توحيد سير العمل في Excel على مستوى المؤسسات
+- إنشاء قوالب إلى جداول بيانات بشكل قابل للتوسيع
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

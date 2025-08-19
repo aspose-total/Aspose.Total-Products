@@ -61,7 +61,27 @@ otherformats: TSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCM** 文件转换为 **TSV（制表符分隔值）** 对于将结构化数据从Word文档导出到轻量级、基于文本的格式以便在系统间轻松集成非常重要。TSV 确保与 ERP、CRM、分析和传统平台的干净互操作性，同时还能够支持机器学习工作流程和在编程环境中进行数据交换。
+
+## ✅ 主要用例
+- 为 **ERP 或 CRM 导入** 准备结构化的 **文本数据**  
+- 将表格迁移到 **分析和商业智能平台**  
+- 在 **编程和脚本环境** 中共享表格数据集  
+- 构建用于机器学习和人工智能工作流程的 **数据集**  
+- 与需要轻量级格式的 **传统系统** 进行 **数据交换**  
+
+## ⚙️ 自动化场景
+- 用于可扩展转换的 **DOCM 到 TSV 自动提取管道**  
+- 生成准备好的 TSV 数据集的 **ETL 工作流**  
+- 生成连续 TSV 输出的 **监视文件夹服务**  
+- 通过 **API 驱动的转换** 生成用于下游集成的 TSV  
+- 利用 TSV 进行轻量级互操作性的 **企业数据中心**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

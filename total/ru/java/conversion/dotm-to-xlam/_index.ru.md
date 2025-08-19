@@ -61,7 +61,23 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные сценарии использования
+- Создание корпоративных инструментов автоматизации из шаблонов Word
+- Генерация стандартизированных надстроек Excel
+- Перенос макросов
+- Многократное использование библиотек автоматизации
+- Развертывание готовых к использованию надстроек Excel в облаке
+
+## ⚙️ Сценарии автоматизации
+- Пайплайны генерации надстроек DOTM в XLAM
+- Автоматизированный перенос макросов
+- Рабочие процессы автоматизации документов в Excel
+- Корпоративная автоматизация отчетности
+- Масштабируемое распространение надстроек
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

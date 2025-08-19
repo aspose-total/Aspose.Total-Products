@@ -54,7 +54,26 @@ otherformats: POTM PPSX PPTX POTX PPTM POWERPOINT POT PPSM PPT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **PPS（PowerPoint 幻灯片放映）** 可直接从启用宏的 Word 模板创建幻灯片放映，适用于活动、培训和企业展示。
+
+## ✅ 主要用例
+- 活动演示文稿
+- 培训幻灯片
+- 自动报告展示
+- 企业展示文稿
+- 基于亭台的演示文稿
+
+## ⚙️ 自动化场景
+- DOTM 到 PPS 幻灯片放映自动化
+- 企业文稿发布流水线
+- 工作流驱动的演示文稿交付
+- 活动准备自动幻灯片
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

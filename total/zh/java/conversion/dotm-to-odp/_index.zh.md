@@ -54,7 +54,26 @@ otherformats: POWERPOINT PPSX PPSM POTX PPTM PPTX PPT POT POTM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **ODP (OpenDocument Presentation)** 可以将支持宏的 Word 模板重新用于企业和跨平台使用的开源兼容演示文稿。
+
+## ✅ 主要用例
+- 企业演示工作流程
+- 幻灯片的开源采用
+- 跨平台兼容性
+- 基于宏的幻灯片创建
+- 与云演示工具集成
+
+## ⚙️ 自动化场景
+- DOTM 到 ODP 的自动化生成
+- 宏到演示文稿的转换工作流
+- 开源演示文稿流水线
+- 企业就绪的 ODP 工作流自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

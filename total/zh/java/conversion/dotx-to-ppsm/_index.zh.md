@@ -54,7 +54,25 @@ otherformats: POTX PPSM POT PPTM PPS POTM PPT POWERPOINT PPSX PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTX** 转换为 **PPSM（启用宏的 PowerPoint 演示）** 可以实现自动化、交互式和自运行的演示，集成宏以实现高级功能。
+
+## ✅ 主要用例
+- 自运行培训模块
+- 自动化数据驱动幻灯片展示
+- 交互式活动演示
+- 启用宏的产品演示
+
+## ⚙️ 自动化场景
+- DOTX 到 PPSM 的流水线
+- 自动化展示台幻灯片
+- 宏到演示工作流
+- 自动更新演示系统
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

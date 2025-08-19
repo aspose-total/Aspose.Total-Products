@@ -61,7 +61,23 @@ otherformats: XLT XLTM XLSM ODS DIF XLAM FODS TSV SXC XLSB XLS EXCEL XLTX XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- سير العمل في LibreOffice/Apache OpenOffice
+- الأتمتة المدفوعة بـ XML
+- مشاريع البيانات المفتوحة
+- الامتثال للحكومة
+- التوافق متعدد المنصات
+
+## ⚙️ سيناريوهات الأتمتة
+- خطوط أنابيب DOTX-to-FODS
+- تصدير دُفعي لملفات FODS
+- الأتمتة في جداول البيانات مفتوحة المصدر
+- سير العمل السحابي بـ XML
+- الأتمتة في تحويل البيانات
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

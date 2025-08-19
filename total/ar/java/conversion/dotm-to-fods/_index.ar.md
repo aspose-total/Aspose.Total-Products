@@ -61,7 +61,21 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- اعتماد معايير بيئة OpenDocument  
+- تخزين جداول بيانات خفيفة الوزن وتبادلها  
+- تحويل البيانات بناءً على الماكرو  
+- تكامل سير العمل مفتوح المصدر للشركات  
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- خطوط أنابيب تحويل DOTM إلى FODS  
+- التحويل من قالب إلى بيانات مفتوحة  
+- أتمتة سير العمل من الماكرو إلى FODS  
+- توافق الشركات مع أنظمة مفتوحة المصدر
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

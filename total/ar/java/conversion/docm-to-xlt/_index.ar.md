@@ -61,7 +61,27 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOCM** إلى **XLT (قالب Excel، الإرث)** يسمح للمؤسسات بإنتاج قوالب جداول بيانات قابلة لإعادة الاستخدام متوافقة مع إصدارات Excel القديمة. يحافظ هذا على تخطيطات المستندات ويدعم التقارير القديمة والنماذج وسير العمل الأرشيفية.
+
+## ✅ حالات الاستخدام الرئيسية
+- تصميم **قوالب مالية موحدة**  
+- إعداد **نماذج قابلة لإعادة الاستخدام لإصدارات Excel القديمة**  
+- تحويل **نماذج Word** إلى قوالب جداول بيانات  
+- دعم المؤسسات التي تزال تستخدم **Excel 97-2003**  
+- بناء **قوالب أرشيفية** بتنسيق XLT  
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- **محولات آلية من DOCM إلى XLT**  
+- سير العمل الشركية الذي يحتفظ بـ **مكتبات القوالب القديمة**  
+- **أنابيب الدفعة** التي تولد XLTs مالية من Word  
+- **أنظمة الأرشفة** التي تتطلب التوافق مع XLT  
+- سير العمل لتوزيع القوالب لـ **مستخدمي Excel القدامى**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

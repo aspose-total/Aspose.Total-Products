@@ -61,7 +61,22 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- أتمتة Excel للشركات
+- نشر الوظائف المخصصة
+- حلول تقارير متقدمة
+- دمج سير العمل مع Excel
+- تعزيز الإنتاجية
+
+## ⚙️ سيناريوهات الأتمتة
+- إنشاء إضافة ماكرو DOT-to-XLAM
+- إنشاء تمديد Excel متلقائي
+- خطوط الأنابيب من القالب إلى الإضافة
+- سير عمل الأتمتة جاهز للشركات
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,21 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Основные сценарии использования
+- Миграция таблиц из DOCX в **старые системы электронных таблиц**  
+- Обеспечение совместимости с **статистическим программным обеспечением**  
+- Архивирование данных документа в **формате DIF**  
+- Поддержка **аналитики на различных платформах**  
+
+## ⚙️ Сценарии автоматизации
+- **Миграция наследия DOCX в DIF**  
+- **Автоматизированное извлечение данных из электронных таблиц**  
+- **DIF-конвейеры для систем соблюдения требований**  
+- **Публикация данных в нескольких форматах**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ otherformats: XLAM XLTX XLSX TSV XLT EXCEL ODS FODS SXC DIF XLTM XLS XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTX** в **ODS (OpenDocument Spreadsheet)** поддерживает организации, использующие офисные инструменты с открытым исходным кодом, обеспечивая соблюдение нормативов, анализ данных на различных платформах и академические исследования.
+
+## ✅ Основные сценарии использования
+- Отчетность с открытым исходным кодом
+- Анализ данных на различных платформах
+- Академические исследования
+- Многосистемные рабочие процессы с документами
+- Соблюдение стандартов ODF ЕС/правительства
+
+## ⚙️ Сценарии автоматизации
+- Потоки данных DOTX-to-ODS
+- Автоматическая генерация ODS
+- Рабочие процессы LibreOffice/Apache OpenOffice
+- Автоматизация открытых данных предприятия
+- Автоматизация электронных таблиц на различных платформах
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

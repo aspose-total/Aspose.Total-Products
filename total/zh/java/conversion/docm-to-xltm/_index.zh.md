@@ -61,7 +61,26 @@ otherformats: XLTX XLSM XLSX TSV XLT ODS XLSB SXC XLTM FODS DIF XLAM XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将DOCM转换为XLTM：启用宏模板
+
+将**DOCM**转换为**XLTM（Excel启用宏模板）**允许组织从Word内容创建可重用的启用宏的电子表格模板。这些模板支持自动化、财务建模、报告和企业工作流程优化。
+
+## ✅ 主要用例
+- 自动化**重复工作流程**  
+- 创建**企业就绪的宏模板**  
+- 从DOCM迁移**基于宏的逻辑**到Excel  
+- 支持**财务和分析模型**  
+- 简化**报告流程**  
+
+## ⚙️ 自动化场景
+- **DOCM到XLTM启用宏自动化**  
+- **模板生成流水线**  
+- **企业宏管理**  
+- **自动化Excel模板工作流程**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

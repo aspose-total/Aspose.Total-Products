@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSX EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **XLSX（Excel 开放式 XML 工作簿）** 支持现代、便携和与云兼容的电子表格工作流程，确保跨平台可访问性和协作。
+
+## ✅ 主要用例
+- 企业数据交换
+- 标准化报告工作流程
+- 基于云的 Excel 协作
+- 现代化电子表格模板
+- 跨平台分析
+
+## ⚙️ 自动化场景
+- DOT 到 XLSX 批量转换
+- Excel 云工作流程
+- 文档到数据集自动化
+- 企业就绪数据管道
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

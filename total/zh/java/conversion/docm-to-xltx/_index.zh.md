@@ -61,7 +61,23 @@ otherformats: XLTM XLTX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 标准化**财务模型**  
+- 创建**企业就绪的报告模板**  
+- 从DOCM迁移**结构化内容到Excel**  
+- 支持**商业智能工作流程**  
+- 通过**可重用的Excel模板**提高生产力  
+
+## ⚙️ 自动化场景
+- **DOCM转XLTX模板自动化**  
+- 生成XLTX文件的企业报告流水线  
+- **标准化的Excel模板生成**  
+- 自动化的**数据驱动模板工作流程**  
+- **公司范围内的模板分发**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

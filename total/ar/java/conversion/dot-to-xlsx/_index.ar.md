@@ -61,7 +61,22 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSX EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+- تبادل البيانات في المؤسسات
+- سير العمل الموحد للتقارير
+- التعاون على Excel في السحابة
+- قوالب جداول بيانات محدثة
+- تحليلات متعددة المنصات
+
+## ⚙️ سيناريوهات التأتير
+- تحويل دفعة من DOT إلى XLSX
+- سير العمل في السحابة لـ Excel
+- التأتير من المستند إلى مجموعة بيانات
+- خطوط أنابيب البيانات جاهزة للمؤسسات
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

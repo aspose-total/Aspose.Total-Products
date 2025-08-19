@@ -61,7 +61,26 @@ otherformats: TSV XLAM SXC XLT EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTM** в **XLT** позволяет создавать многоразовые шаблоны Excel на основе макросодержащих шаблонов Word для стандартизированных бизнес- и отчетных рабочих процессов.
+
+## ✅ Основные сценарии использования
+- Стандартизированные бизнес-шаблоны
+- Шаблоны отчетности предприятия
+- Формы государственных данных
+- Шаблоны для оценивания в образовании
+- Финансовые планировочные шаблоны
+
+## ⚙️ Сценарии автоматизации
+- Автоматизированное создание шаблонов DOTM в XLT
+- Шаблонные конвейеры предприятий
+- Облачное совместное использование шаблонов
+- Автоматизация шаблонов макросов в Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

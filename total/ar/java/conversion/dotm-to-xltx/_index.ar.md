@@ -61,7 +61,26 @@ otherformats: TSV XLAM SXC XLTX EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOTM** إلى **XLTX** يمكن إنشاء قوالب Excel غير قابلة للتكرار من القوالب Word لتقارير المؤسسات الموحدة والجاهزة للسحابة.
+
+## ✅ حالات الاستخدام الرئيسية
+- قوالب المؤسسات الموحدة
+- تقارير متوافقة مع السحابة
+- قوالب أكاديمية
+- قوالب إدخال بيانات الحكومة
+- نماذج التنبؤ المالي
+
+## ⚙️ سيناريوهات الأتمتة
+- أتمتة قالب DOTM-to-XLTX
+- توليد دفعي لقوالب Excel
+- قوالب تقارير على مستوى المؤسسة
+- سير العمل الجاهز للسحابة من DOTM إلى Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

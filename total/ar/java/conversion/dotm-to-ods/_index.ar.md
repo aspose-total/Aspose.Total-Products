@@ -61,7 +61,26 @@ otherformats: XLAM XLT XLSB SXC EXCEL DIF XLTM XLS FODS XLSX XLSM XLTX TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل ملفات **DOTM** إلى **ODS (جدول بيانات OpenDocument)** يمكن المؤسسات من استخدام قوالب Word كجداول بيانات مفتوحة المصدر، داعمة لتقارير متعددة المنصات وسير عمل جداول البيانات السحابية.
+
+## ✅ حالات الاستخدام الرئيسية
+- تكامل سير العمل مفتوح المصدر للشركات
+- تقارير وتحليلات مبنية على جداول البيانات
+- معالجة البيانات عبر منصات متعددة
+- توافق جداول البيانات السحابية
+- الامتثال للمعايير المفتوحة
+
+## ⚙️ سيناريوهات التأتير الآلي
+- أنابيب تحويل DOTM إلى ODS
+- التأتير من الماكرو إلى جدول بيانات
+- تكامل سير العمل لتقارير المؤسسات
+- التأتير الآلي لسير العمل ODS القائم على القوالب
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

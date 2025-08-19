@@ -61,7 +61,25 @@ otherformats: SXC FODS XLAM XLSB XLSM XLTX TSV ODS XLS XLSX XLTM DIF EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTM** в **XLTM** создает многоразовые макросовые шаблоны Excel из макросов Word, поддерживая автоматизацию предприятия и рабочие процессы на VBA.
+
+## ✅ Основные сценарии использования
+- Создание расширенных финансовых шаблонов  
+- Шаблоны отчетов предприятия с поддержкой макросов  
+- Рабочие процессы на VBA  
+- Автоматизированные шаблоны бизнес-аналитики  
+
+## ⚙️ Сценарии автоматизации
+- Потоки DOTM-to-XLTM  
+- Автоматизированное создание макросовых шаблонов  
+- Автоматизация рабочих процессов предприятия  
+- Интеграция Excel макросов в шаблон
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

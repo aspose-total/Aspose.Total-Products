@@ -49,7 +49,24 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>استخدامات رئيسية ✅</h2>
+- استخراج محتوى منظم لـ **واجهات برمجة التطبيقات (APIs)**  
+- تمكين تطبيقات الويب التي تعتمد على **المستندات**  
+- نقل بيانات DOCX إلى **أنظمة إدارة المحتوى الرأسية (headless CMS)**  
+- دعم **أنابيب تعلم الآلة**  
+- تبادل البيانات في **تطبيقات المؤسسات**  
+
+<h2>سيناريوهات الأتمتة ⚙️</h2>
+- **أنابيب API الضخمة لتحويل DOCX إلى JSON**  
+- **تقارير مستندة على JSON تلقائية**  
+- **أنظمة تحليل المستندات**  
+- **أنظمة التكامل مع الويب**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

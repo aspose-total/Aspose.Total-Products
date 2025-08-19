@@ -54,7 +54,26 @@ otherformats: PPTM PPSM PPSX POT POTM PPTX POWERPOINT POTX PPT PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTX** 转换为 **PPS (PowerPoint Show)** 对于自动运行的演示文稿非常有价值，可以立即启动，非常适合活动、信息亭和培训环境。
+
+## ✅ 主要用例
+- 展会展示
+- 培训信息亭
+- 自动化教程
+- 活动幻灯片
+- 互动演示
+
+## ⚙️ 自动化场景
+- DOTX 到 PPS 的流程
+- 自动运行演示文稿工作流
+- 信息亭就绪幻灯片自动化
+- 企业活动自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

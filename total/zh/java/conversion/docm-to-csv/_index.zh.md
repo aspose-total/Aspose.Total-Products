@@ -61,7 +61,40 @@ otherformats: XLTX EXCEL XLSX XLS XLSM XLTM ODS FODS XLAM XLT SXC TSV XLSB DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**DOCM（启用宏的Word文档）**转换为**CSV（逗号分隔值）**对于将表格化或结构化文本数据提取为轻量级、平台无关的格式至关重要。虽然DOCM文件是设计用于宏和格式设置的富文本文档，但CSV文件提供了一个干净、通用的结构，用于存储和共享数据。这种转换通过将复杂的基于Word的数据转换为易于阅读的电子表格，与数据库、分析工具和机器学习流程无缝集成，简化了工作流程。
+
+
+## ✅ 主要用例
+
+- **将数据迁移到数据库**  
+  将DOCM表格转换为CSV格式，以便快速导入SQL和NoSQL数据库。
+
+- **将文档表格导入分析软件**  
+  从Word中提取结构化内容，转换为准备好供Power BI、Tableau或Excel等BI平台使用的CSV文件。
+
+- **为机器学习准备原始数据**  
+  将DOCM表格格式化为CSV，以确保与ML框架（TensorFlow、PyTorch、Scikit-learn）兼容。
+
+- **在平台间共享结构化信息**  
+  使用CSV文件作为轻量级媒介，在操作系统、云应用和协作者之间交换表格数据。  
+
+
+## ⚙️ 自动化场景
+
+- **DOCM到CSV批量转换器**  
+  自动处理多个DOCM文件，将其转换为CSV格式，用于大规模数据处理。
+
+- **从Word宏自动提取表格**  
+  利用宏脚本或自动化工具，直接检测和转换Word表格为结构化的CSV文件。
+
+- **将CSV输出与BI工具集成的数据管道工作流**  
+  将DOCM到CSV转换纳入ETL流程，实现实时更新和分析就绪数据集。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

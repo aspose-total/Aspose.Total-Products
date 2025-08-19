@@ -61,7 +61,21 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Преимущества ключевого использования
+- Извлечение таблиц DOCX в ODS  
+- Взаимодействие с Apache OpenOffice  
+- Форматы отчетов, соответствующие требованиям государства  
+- Обмен и совместная работа с данными в академической сфере  
+
+## Сценарии автоматизации
+- Потоки отчетности DOCX в ODS  
+- Рабочие процессы ETL с открытым исходным кодом  
+- Автоматизированное создание набора данных ODS  
+- Массовая миграция на открытые стандартные таблицы
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

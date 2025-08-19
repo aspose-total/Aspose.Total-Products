@@ -61,7 +61,26 @@ otherformats: XLSM SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **XLSM（启用宏的 Excel 工作簿）** 可以在从文档派生的电子表格中直接嵌入自动化逻辑，从而简化业务和分析工作流程。
+
+## ✅ 主要用例
+- 自动化重复计算
+- 嵌入文档到电子表格的宏
+- 企业工作流自动化
+- 财务和业务逻辑迁移
+- 自定义报告
+
+## ⚙️ 自动化场景
+- DOCX 到 XLSM 宏集成
+- 自动化 Excel 表格工作流程
+- 文档到宏管道
+- 企业自动化框架
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

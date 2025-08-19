@@ -49,7 +49,27 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTX** в **JSON** позволяет структурированный обмен данными, интеграцию с API и современные веб-рабочие процессы, делая данные документов доступными для облачных сервисов, веб-приложений и потоков ИИ/МО.
+
+## ✅ Основные сценарии использования
+- Экспорт данных, готовых к использованию в API
+- Интеграция с веб-приложениями
+- Облачные сервисы
+- Потоки данных
+- Подготовка наборов данных для ИИ/МО
+
+## ⚙️ Сценарии автоматизации
+- Потоки преобразования DOTX в JSON
+- Автоматическая генерация JSON
+- Рабочие процессы с облачным API
+- Интеграции с корпоративными системами
+- Автоматизация хранилищ данных
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **TSV（制表符分隔值）** 可以实现宏启用文档数据的结构化导出，非常适合数据库导入、遗留系统集成和可扩展的表格报告。
+
+## ✅ 主要用例
+- 从宏启用模板中批量提取数据
+- 数据库导入/导出管道
+- 企业级结构化报告
+- 遗留系统集成
+- 简化的表格转换
+
+## ⚙️ 自动化场景
+- DOTM 到 TSV 数据导出自动化
+- 基于宏的报告管道
+- 结构化表格转换工作流
+- 企业数据共享
+- 可扩展的工作流导出
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

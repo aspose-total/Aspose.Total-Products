@@ -61,7 +61,25 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ الحالات الاستخدام الرئيسية
+- أدوات الأتمتة الشركية من قوالب Word  
+- إنشاء إضافات Excel قياسية  
+- سير العمل لهجرة الماكرو  
+- مكتبات الأتمتة القابلة لإعادة الاستخدام  
+- نشر إضافات Excel جاهزة للشركات  
+
+## ⚙️ سيناريوهات الأتمتة
+- أنابيب توليد إضافة DOTM-to-XLAM  
+- هجرة الماكرو التلقائية  
+- سير العمل لأتمتة تحويل المستندات إلى Excel  
+- أتمتة التقارير الشركية  
+- توزيع الإضافات القابلة للتوسعة  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

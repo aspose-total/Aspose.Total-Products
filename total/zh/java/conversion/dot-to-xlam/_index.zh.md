@@ -61,7 +61,26 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **XLAM（Excel 加载项）** 可以将 Word 模板宏转换为可重复使用的 Excel 自动化工具，提升生产力和企业工作流能力。
+
+## ✅ 主要用例
+- 企业 Excel 自动化
+- 自定义宏部署
+- 高级报告解决方案
+- 与 Excel 的工作流集成
+- 提升生产力
+
+## ⚙️ 自动化场景
+- 创建 DOT 到 XLAM 宏加载项
+- 自动化 Excel 扩展生成
+- 模板到加载项管道
+- 企业就绪的自动化工作流程
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

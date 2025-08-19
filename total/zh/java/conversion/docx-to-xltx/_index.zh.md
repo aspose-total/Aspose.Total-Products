@@ -61,7 +61,26 @@ otherformats: XLTX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **XLTX（Excel 模板开放 XML）** 可确保创建现代、可重复使用的 Excel 模板，与云工作流和企业标准文档到模板流程兼容。
+
+## ✅ 主要用例
+- 标准化报告模板
+- 兼容云的 Excel 工作流
+- 企业就绪的文档到模板转换
+- 数据输入标准化
+- 可扩展的报告
+
+## ⚙️ 自动化场景
+- 生成 DOCX 到 XLTX 模板
+- Excel 模板自动化
+- 企业工作流优化
+- 文档到模板流程
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

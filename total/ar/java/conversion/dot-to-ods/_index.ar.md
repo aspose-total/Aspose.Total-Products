@@ -61,7 +61,26 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOT** إلى **ODS (جدول بيانات OpenDocument)** ضروري لإنشاء جداول بيانات منظمة ومفتوحة المصدر من قوالب Word، تدعم التحليلات والتقارير والتعاون.
+
+## ✅ حالات الاستخدام الرئيسية
+- سير العمل التجارية مفتوحة المصدر
+- تقارير جاهزة للجداول
+- التعاون في البيانات
+- تحليلات المؤسسة
+- التوافق متعدد المنصات
+
+## ⚙️ سيناريوهات الأتمتة
+- أتمتة قوالب DOT-to-ODS
+- سير العمل للتقارير مفتوحة المصدر
+- أنابيب بيانات معتمدة على ODS
+- تحويل المستندات إلى جداول بيانات في السحابة
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

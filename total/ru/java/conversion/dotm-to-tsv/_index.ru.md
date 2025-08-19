@@ -61,7 +61,27 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOTM** в **TSV (значения, разделенные табуляцией)** позволяет структурированно экспортировать данные макросов, что делает его идеальным для импорта в базу данных, интеграции с устаревшими системами и масштабируемой табличной отчетности.
+
+## ✅ Основные сценарии использования
+- Массовое извлечение данных из шаблонов с макросами
+- Импорт/экспорт данных в базу данных
+- Структурированная отчетность, готовая к использованию в предприятии
+- Интеграция с устаревшими системами
+- Упрощенные табличные преобразования
+
+## ⚙️ Сценарии автоматизации
+- Автоматизация экспорта данных из DOTM в TSV
+- Потоки отчетности, управляемые макросами
+- Структурированные рабочие процессы преобразования в табличный формат
+- Обмен данными в предприятии
+- Масштабируемые экспорты рабочих процессов
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

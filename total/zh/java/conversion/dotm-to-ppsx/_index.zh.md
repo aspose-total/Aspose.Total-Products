@@ -54,7 +54,26 @@ otherformats: PPSM PPS PPSX POTM POWERPOINT PPT PPTM POTX PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **PPSX (PowerPoint 幻灯片展示开放 XML)** 对于现代幻灯片准备的演示文稿至关重要，可以实现云自动化和大规模活动演示工作流程。
+
+## ✅ 主要用例
+- 培训自动化
+- 销售展示幻灯片
+- 企业范围的报告共享
+- 大规模活动演示
+- 数字标牌
+
+## ⚙️ 自动化场景
+- DOTM 到 PPSX 工作流集成
+- XML 准备的幻灯片自动化
+- 企业演示交付管道
+- 自动生成的 PowerPoint 演示
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

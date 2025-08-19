@@ -61,7 +61,23 @@ otherformats: XLTM XLSB XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 处理来自Word文档的大型数据集
+- 提高频繁数据访问的性能
+- 减小文件大小以便更快分发
+- 以二进制格式存储敏感数据
+- 支持需要高容量Excel操作的企业
+
+## ⚙️ 自动化场景
+- 用于性能工作流的DOCM到XLSB转换器
+- 处理大型文档的自动化转换流水线
+- 生成二进制Excel输出的企业报告流水线
+- 使用XLSB减小存储空间的批处理工具
+- 通过二进制电子表格优化的BI工作流
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

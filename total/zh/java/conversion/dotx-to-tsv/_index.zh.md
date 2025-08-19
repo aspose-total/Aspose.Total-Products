@@ -61,7 +61,26 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL TSV DIF XLTM XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**DOTX（Word模板）**转换为**TSV（制表符分隔值）**可确保结构化表格数据提取，使其轻巧、便携，并且可以与现代云和后端系统集成。
+
+## ✅ 主要用例
+- 从Word模板迁移数据
+- 使用TSV进行电子表格导入/导出
+- 后端数据库集成
+- 与云兼容的表格数据处理
+- 轻量级报告和分析
+
+## ⚙️ 自动化场景
+- 用于结构化导出的DOTX到TSV管道
+- 批量模板到数据转换
+- 与企业工具的基于API的集成
+- 用于数据一致性的数据规范化工作流程
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

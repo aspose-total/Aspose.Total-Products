@@ -61,7 +61,45 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将 **DOCM（Word宏启用文档）** 转换为 **ODS（OpenDocument电子表格）** 对于启用基于文档的表格和结构化数据在 **LibreOffice Calc 和其他符合ODF标准的电子表格应用程序** 中使用至关重要。虽然 DOCM 文件通常包含有价值的表格和表单数据，但 ODS 提供了一种 **开放标准、完全可编辑的电子表格格式**，确保长期可访问性、合规性和协作。此转换将基于 Word 的数据与开源生态系统连接起来，支持企业和政府对 **透明、供应商中立的文件格式** 的需求。  
+
+## ✅ 主要用例  
+
+- **将 Word 表格转换为可编辑电子表格**  
+  将嵌入的 DOCM 表格转换为 ODS，用于高级计算、公式和分析。  
+
+- **在 Linux 或开源生态系统中共享数据**  
+  确保与 LibreOffice、OpenOffice 和其他免费软件平台兼容。  
+
+- **确保符合政府规定的ODF格式**  
+  满足ODS是批准的电子表格标准的法律和政策要求。  
+
+- **支持使用免费工具进行协作编辑**  
+  在不需要专有软件的开源环境中实现基于团队的编辑。  
+
+- **长期存档在开放格式中**  
+  将结构化数据保存在一个经久耐用、基于标准的格式中，可在数十年内访问。  
+
+## ⚙️ 自动化场景  
+
+- **定期安排的 DOCM 到 ODS 导出**  
+  自动化定期文档到电子表格的转换，用于报告和数据 consolida。  
+
+- **无宏文档到电子表格的自动化**  
+  剥离宏并仅将干净数据转换为 ODS，以确保合规性和安全性。  
+
+- **政府工作流程强制执行ODF标准**  
+  在政府和受监管行业中标准化文档到电子表格的转换。  
+
+- **数据管道为 LibreOffice 用户准备 ODS**  
+  将 DOCM 到 ODS 转换集成到用于开源分析的ETL工作流程中。  
+
+- **云转换器标准化为 ODS 输出**  
+  将 DOCM 数据作为 ODS 交付，在优先考虑开放标准的云协作套件中。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

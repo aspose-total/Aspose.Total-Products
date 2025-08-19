@@ -49,7 +49,26 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **JSON（JavaScript对象表示）** 可以将文档内容集成到API、Web应用程序和现代自动化工作流中。JSON 允许从Word文档中提取结构化、可机器读取的数据。
+
+## ✅ 主要用例
+- 为 **API** 提取结构化内容  
+- 实现 **以文档为驱动的 Web 应用程序**  
+- 将 DOCX 数据迁移到 **无头 CMS**  
+- 支持 **机器学习流水线**  
+- 在 **企业应用程序** 中进行数据交换  
+
+## ⚙️ 自动化场景
+- **批量 DOCX 到 JSON API 管道**  
+- **基于 JSON 的自动报告**  
+- **文档解析工作流**  
+- **Web 集成系统**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

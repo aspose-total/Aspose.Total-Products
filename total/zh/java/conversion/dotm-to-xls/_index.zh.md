@@ -61,7 +61,26 @@ otherformats: TSV XLAM SXC XLS EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **XLS** 可确保与旧版 Microsoft Excel 的兼容性，同时保留带有宏的 Word 模板数据在结构化电子表格中。
+
+## ✅ 主要用例
+- 旧版财务系统
+- 政府合规报告
+- 学术数据存储
+- 企业会计工作流程
+- 向后兼容性需求
+
+## ⚙️ 自动化场景
+- DOTM 到 XLS 的流水线
+- 批量转换存档
+- 自动报告到旧版 Excel
+- 宏到旧版电子表格工作流程
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

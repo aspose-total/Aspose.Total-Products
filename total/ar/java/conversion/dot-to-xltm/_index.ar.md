@@ -61,7 +61,22 @@ otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ الحالات الاستخدام الرئيسية
+- إنشاء قوالب تلقائية  
+- ماكروات تقارير على مستوى المؤسسة  
+- أتمتة عمليات الأعمال  
+- قوالب فواتير ديناميكية  
+- نمذجة مالية  
+
+## ⚙️ سيناريوهات التأتير
+- أتمتة تحويل DOT إلى XLTM بواسطة الماكرو  
+- أنابيب القوالب  
+- تحويل مستند ماكرو ممكّن إلى قالب  
+- أتمتة إنتاجية المؤسسة  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

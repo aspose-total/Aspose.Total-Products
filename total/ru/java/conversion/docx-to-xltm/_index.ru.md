@@ -61,7 +61,24 @@ otherformats: XLTX XLSX DIF EXCEL XLT XLSM TSV ODS XLSB SXC XLAM XLS FODS XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Преобразование **DOCX** в **XLTM (Шаблон Excel с поддержкой макросов)** важно для создания многоразовых шаблонов электронных таблиц с макросами, встраивающими логику автоматизации, извлеченную из документов.
+
+#### ✅ Основные сценарии использования
+- Автоматизация повторяющихся рабочих процессов
+- Создание готовых к использованию в предприятии макро-шаблонов
+- Миграция логики на основе макросов из DOCX в Excel
+- Поддержка финансовых и аналитических моделей
+- Оптимизация процесса составления отчетов
+
+#### ⚙️ Сценарии автоматизации
+- Автоматизация преобразования DOCX в XLTM с поддержкой макросов
+- Создание конвейеров генерации шаблонов
+- Управление макросами на предприятии
+- Автоматизированные рабочие процессы с шаблонами Excel
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

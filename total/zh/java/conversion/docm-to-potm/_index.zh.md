@@ -54,7 +54,43 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+
+- **设计交互式培训模板**
+  使用宏驱动的交互式元素构建可重复使用的培训幻灯片。
+
+- **创建宏驱动的企业演示框架**
+  通过内置自动化标准化品牌演示文稿。
+
+- **自动化生成重复幻灯片**
+  使用宏从 DOCM 数据直接生成结构化幻灯片，节省时间。
+
+- **构建动态数据驱动幻灯片**
+  与数据源集成，自动刷新图表和可视化内容。
+
+- **具有内置自动化功能的标准化企业模板**
+  分发统一的、带宏的模板，确保团队间的一致性。
+
+## ⚙️ 自动化场景
+
+- **保留宏的 DOCM 到 POTM 转换器**
+  在将 Word 文档转换为模板时保留 VBA 宏。
+
+- **嵌入宏到幻灯片的自动化流程**
+  直接从 DOCM 生成自动化准备就绪的演示框架。
+
+- **Power Automate 流导出模板**
+  在团队和部门之间交付标准化的 POTM 模板。
+
+- **生成 POTM 的企业文档管理系统**
+  将模板创建集成到企业工作流程中。
+
+- **基于脚本的转换实现动态演示**
+  使用 CLI 或脚本驱动工具自动化幻灯片模板生成。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

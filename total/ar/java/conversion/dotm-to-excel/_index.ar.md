@@ -61,7 +61,24 @@ otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ الحالات الاستخدام الرئيسية
+- النمذجة المالية والتنبؤ
+- إنشاء تقارير المؤسسات ولوحات القيادة
+- سير العمل لتحليل البيانات لمجموعات بيانات كبيرة
+- تكامل Excel المتوافق مع السحابة
+- تحويل الماكرو إلى البيانات لذكاء الأعمال
+
+## ⚙️ سيناريوهات التأتير الآلي
+- خطوط أنابيب التحويل من DOTM إلى Excel
+- إنشاء جداول بيانات ممكنة للماكرو
+- أتمتة تقارير المؤسسات
+- تكامل سير العمل من الماكرو إلى Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

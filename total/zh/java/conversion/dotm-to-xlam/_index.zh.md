@@ -61,7 +61,23 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 从 Word 模板生成企业自动化工具  
+- 生成标准化的 Excel 插件  
+- 宏迁移工作流程  
+- 可重用的自动化库  
+- 云就绪的 Excel 插件部署  
+
+## ⚙️ 自动化场景
+- DOTM 到 XLAM 插件生成流水线  
+- 自动化宏迁移  
+- 文档到 Excel 自动化工作流程  
+- 企业报告自动化  
+- 可扩展的插件分发  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

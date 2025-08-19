@@ -61,7 +61,26 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX SXC XLS XLSM XLTM XLAM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование **DOT** в **SXC (таблица StarOffice Calc)** является важным для обеспечения совместимости устаревших таблиц и обеспечения рабочих процессов с открытым исходным кодом, что позволяет организациям сохранять структурированные данные на различных платформах.
+
+## ✅ Основные сценарии использования
+- Миграция документов в таблицы для совместимости с устаревшими версиями  
+- Совместимость таблиц между различными платформами  
+- Рабочие процессы в OpenOffice/LibreOffice  
+- Сохранение данных в открытых форматах  
+- Преобразование документов в предприятии  
+
+## ⚙️ Сценарии автоматизации
+- Пакетная обработка DOT в SXC  
+- Интеграция устаревших и современных рабочих процессов в офисе  
+- Автоматическое создание таблиц из шаблонов  
+- Миграционные процессы в предприятии  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

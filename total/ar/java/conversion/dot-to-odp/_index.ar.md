@@ -54,7 +54,22 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- عروض تقديمية متعددة المنصات
+- التوافق مع مصادر مفتوحة
+- قوالب جاهزة للشركات
+- التعاون عبر السحابة
+- إنشاء محتوى تعليمي
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- سير العمل التلقائي من DOT إلى ODP
+- خطوط إنتاج جاهزة للعروض التقديمية
+- تشغيل سير العمل لمستندات OpenDocument
+- أنظمة تحويل المستندات إلى عروض تقديمية
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

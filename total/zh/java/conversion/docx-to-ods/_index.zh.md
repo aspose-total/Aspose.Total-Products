@@ -61,7 +61,25 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **ODS（OpenDocument 电子表格）** 可以实现开放标准的电子表格处理，确保长期兼容性、互操作性和符合业务、政府和学术用例的要求。
+
+### ✅ 主要用例
+- 将 DOCX 表格提取为 **ODS**  
+- 与 **Apache OpenOffice** 的互操作性  
+- 符合政府的 **报告格式**  
+- 学术 **数据共享与协作**  
+
+### ⚙️ 自动化场景
+- **DOCX 到 ODS 报告流水线**  
+- **开源 ETL 工作流**  
+- **自动化 ODS 数据集创建**  
+- **批量迁移至开放标准电子表格**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

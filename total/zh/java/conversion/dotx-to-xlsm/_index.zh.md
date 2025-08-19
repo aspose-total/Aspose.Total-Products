@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLSM DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将**DOTX（Word模板）**转换为**XLSM（启用宏的Excel工作簿）**，通过将强大的宏嵌入Excel电子表格中，实现自动化。这非常适合用于高级业务工作流程、自动化财务建模和企业任务自动化。
+
+#### ✅ 主要用例
+- 从模板进行自动化财务建模  
+- 跨部门的工作流自动化  
+- 在Excel内进行高级数据处理  
+- 用于重复任务的业务宏集成  
+- 使用宏进行基于文档的任务自动化  
+
+#### ⚙️ 自动化场景
+- DOTX到XLSM的宏管道  
+- 使用宏进行自动化电子表格生成  
+- 企业任务自动化工作流程  
+- 用于提高生产力的基于模板的Excel脚本编写  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**DOTX（Word模板）**转换为**XLS（Excel电子表格）**使企业能够将标准化的文档结构转换为可操作的电子表格。这对于依然依赖经典Excel格式的传统系统、企业报告和结构化业务流程尤为重要。
+
+## ✅ 主要用例
+- 与旧版Excel兼容的传统系统
+- 企业报告工作流程
+- 从标准模板收集和处理数据
+- 业务记录保存和合规报告
+- 跨行业的电子表格驱动流程
+
+## ⚙️ 自动化场景
+- DOTX到XLS的自动化流水线
+- 自动化报告使用传统Excel格式
+- 模板到电子表格的转换
+- 用于结构化报告的文档到数据工作流
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

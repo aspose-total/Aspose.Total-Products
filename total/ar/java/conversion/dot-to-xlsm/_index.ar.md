@@ -61,7 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSM EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+تحويل **DOT** إلى **XLSM (Excel Macro-Enabled Workbook)** يسمح ببناء سجلات عمل Excel قابلة لإعادة الاستخدام ومُتَمَكِّنة من التشغيل التلقائي من قوالب Word، مما يتيح الحسابات المعقدة وأتمتة سير العمل.
+
+## ✅ حالات الاستخدام الرئيسية
+- لوحات القيادة المالية التلقائية
+- سير العمل لتقارير مُتَمَكِّنة من الماكرو
+- قوالب إنتاجية للشركات
+- أتمتة تحليلات البيانات المعقدة
+- نماذج جداول بيانات مدفوعة بالعمليات
+
+## ⚙️ سيناريوهات الأتمتة
+- تحويل DOT إلى XLSM مع ماكرو
+- أنابيب أتمتة سير العمل
+- إنشاء قوالب مُتَمَكِّنة من الماكرو
+- أتمتة تحويل المستندات إلى Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

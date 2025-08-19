@@ -54,7 +54,22 @@ otherformats: PPTM PPTX PPSX POWERPOINT PPT PPS POTX POTM PPSM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ حالات الاستخدام الرئيسية
+- لوحات مالية تفاعلية
+- عروض شركات مؤتمتة
+- تقارير الامتثال التي تعتمد على سير العمل
+- عروض تدريب مدعومة بالماكرو
+- إنشاء تقارير المؤسسات
+
+## ⚙️ سيناريوهات التشغيل التلقائي
+- أنابيب عمل الماكرو من DOTM إلى PPTM
+- تأتيمات العروض التلقائية للشركات
+- إنشاء عروض بوربوينت تعتمد على سير العمل
+- تقديم العروض التقديمية بناءً على الماكرو
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

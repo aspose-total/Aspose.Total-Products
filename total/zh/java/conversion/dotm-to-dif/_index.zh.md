@@ -61,7 +61,22 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS DIF XLSX XLT XLAM XLS SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+- 用于电子表格导入/导出的遗留系统兼容性  
+- 跨平台电子表格互操作性  
+- 企业存档工作流程  
+- 应用程序之间的结构化数据迁移  
+- 从启用宏的文档中自动生成报告  
+
+## ⚙️ 自动化场景
+- DOTM 到 DIF 的转换管道  
+- 启用宏的数据交换流程  
+- 自动跨平台报告  
+- 使用 DIF 文件的企业 ETL 工作流程  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

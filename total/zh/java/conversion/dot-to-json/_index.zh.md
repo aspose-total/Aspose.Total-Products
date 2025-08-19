@@ -49,7 +49,26 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将**DOT**转换为**JSON（JavaScript对象表示）**可使Word模板成为结构化、适用于Web应用程序、云自动化和企业集成的数据集。
+
+## ✅ 主要用例
+- Web应用程序
+- 数据驱动的自动化
+- 云API
+- 企业软件集成
+- 结构化数据集生成
+
+## ⚙️ 自动化场景
+- DOT到JSON管道自动化
+- 模板到API工作流
+- JSON就绪的报告系统
+- 云原生企业数据集成
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

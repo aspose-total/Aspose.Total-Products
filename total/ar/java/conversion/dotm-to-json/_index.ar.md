@@ -49,7 +49,24 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>حالات الاستخدام الرئيسية ✅</h2>
+- تكامل واجهات برمجة التطبيقات مع تطبيقات الويب والسحابة
+- تبادل البيانات والتوافق في تطبيقات الويب
+- تخزين قاعدة بيانات NoSQL
+- سير العمل الأصلي للسحابة والخادم بدون خادم
+- التقارير والتحليلات التلقائية
+
+<h2>سيناريوهات الأتمتة ⚙️</h2>
+- أنابيب استخراج DOTM إلى JSON
+- سير العمل لبيانات الماكرو إلى واجهة برمجة التطبيقات
+- أتمتة تحويل المستند إلى JSON
+- عمليات الأتمتة القائمة على البيانات
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

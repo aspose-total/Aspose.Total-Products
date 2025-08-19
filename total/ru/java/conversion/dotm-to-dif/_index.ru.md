@@ -61,7 +61,22 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS DIF XLSX XLT XLAM XLS SXC XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Ключевые сценарии использования
+- Совместимость с устаревшими системами для импорта/экспорта таблиц  
+- Взаимодействие таблиц между платформами  
+- Рабочие процессы архивирования предприятия  
+- Структурированная миграция данных между приложениями  
+- Автоматизированная отчетность из документов с макросами  
+
+## ⚙️ Сценарии автоматизации
+- Конвейеры преобразования DOTM в DIF  
+- Процессы обмена данными с использованием макросов  
+- Автоматизированная отчетность между платформами  
+- Рабочие процессы ETL предприятия с использованием файлов DIF  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

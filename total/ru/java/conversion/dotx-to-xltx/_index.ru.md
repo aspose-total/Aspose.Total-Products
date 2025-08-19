@@ -61,7 +61,22 @@ otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Преимущества использования
+- Фреймворки для бизнес-отчетов в Excel
+- Финансовые шаблоны для организаций
+- Облачные совместимые настройки шаблонов Excel
+- Рабочие процессы отчетности отделов
+- Консистентность корпоративного уровня в командах
+
+## Сценарии автоматизации
+- Конвертация DOTX в XLTX
+- Автоматизированное распространение шаблонов Excel
+- Стандартизация документов в Excel
+- Автоматизация шаблонов корпоративного уровня для масштабируемости
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

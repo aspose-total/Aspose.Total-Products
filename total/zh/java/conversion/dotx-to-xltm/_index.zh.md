@@ -61,7 +61,24 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 将**DOTX（Word模板）**转换为**XLTM（启用宏的Excel模板）** 可使组织能够部署可重复使用的、启用宏的框架，用于自动化。这确保了跨部门的可扩展、可重复使用的Excel工作流程。
+
+#### ✅ 主要用例
+- 部门自动化模板  
+- 带有宏的财务规划框架  
+- 数据处理和转换模板  
+- 高级报告工作流程  
+- 启用宏的业务流程自动化  
+
+#### ⚙️ 自动化场景
+- DOTX到XLTM的自动化流水线  
+- 启用宏的模板部署  
+- 从DOTX自动生成Excel  
+- 企业可重复使用的工作流程模板  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

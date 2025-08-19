@@ -54,7 +54,26 @@ otherformats: PPTX POTX PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **POTX（PowerPoint 模板开放 XML）** 对于从启用宏的 Word 文件创建可重用、现代的基于 XML 的模板至关重要，非常适合云就绪和可扩展的演示文稿。
+
+## ✅ 主要用例
+- 公司品牌模板
+- 可扩展的培训演示文稿
+- 企业报告幻灯片
+- 可重用的演示文稿格式
+- 云就绪工作流程
+
+## ⚙️ 自动化场景
+- DOTM 到 POTX 模板管道
+- 基于 XML 的演示文稿生成
+- 用于 PowerPoint 演示文稿的云自动化
+- 与 Office 365 集成的工作流程
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

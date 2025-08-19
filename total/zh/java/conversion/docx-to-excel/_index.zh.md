@@ -61,7 +61,26 @@ otherformats: EXCEL SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOCX** 转换为 **Excel (XLS/XLSX)** 对于结构化报告、启用数据透视表、高级计算和与业务工作流的无缝集成至关重要。这种转换将 Word 表格转换为可操作的电子表格数据。
+
+## ✅ 主要用例
+- 将 DOCX 表格导出到 **Excel**  
+- 启用 **数据透视表和图表**  
+- 创建 **结构化报告**  
+- 用于 **企业使用** 的数据整合  
+- 用于 **会计和财务工具** 的导入准备格式  
+
+## ⚙️ 自动化场景
+- **批量 DOCX 到 Excel 报告自动化**  
+- **企业报告流水线**  
+- **自动生成仪表板**  
+- **跨部门数据集成**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

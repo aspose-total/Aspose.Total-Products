@@ -61,7 +61,26 @@ otherformats: XLAM XLT XLSB SXC EXCEL DIF XLTM XLS FODS XLSX XLSM XLTX TSV ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Преобразование файлов **DOTM** в **ODS (OpenDocument Spreadsheet)** позволяет организациям использовать шаблоны Word в качестве электронных таблиц с открытым исходным кодом, поддерживая отчетность между платформами и облачные рабочие процессы.
+
+## ✅ Ключевые сценарии использования
+- Интеграция рабочего процесса с открытым исходным кодом для предприятий
+- Отчетность и аналитика на основе электронных таблиц
+- Обработка данных между платформами
+- Совместимость облачных электронных таблиц
+- Соответствие открытым стандартам
+
+## ⚙️ Сценарии автоматизации
+- Конвейеры преобразования DOTM в ODS
+- Автоматизация макросов для электронных таблиц
+- Интеграция рабочего процесса отчетности для предприятий
+- Автоматизация рабочего процесса ODS на основе шаблонов
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

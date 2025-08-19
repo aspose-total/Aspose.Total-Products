@@ -61,7 +61,26 @@ otherformats: XLS FODS EXCEL XLSB DIF SXC XLSM XLT TSV XLAM XLSX ODS XLTX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+导出 **DOTX（Word 模板）** 到 **XLAM（Excel 加载项）** 可以通过可重用的 Excel 工具包实现基于宏的自动化，增强企业报告、财务建模和生产力。
+
+## ✅ 主要用例
+- 自定义 Excel 自动化工具包
+- 企业报告自动化
+- 财务建模插件
+- 通过 Excel 宏简化数据输入
+- 可重用的模板驱动自动化
+
+## ⚙️ 自动化场景
+- 用于宏启用的 Excel 工具的 DOTX 到 XLAM 工作流
+- 从模板自动生成加载项
+- 由 Excel 驱动的企业生产力解决方案
+- 具有高级自动化的模板到 Excel 工具包
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

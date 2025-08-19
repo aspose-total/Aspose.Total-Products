@@ -61,7 +61,25 @@ otherformats: XLTX XLS XLAM EXCEL TSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOT** 转换为 **TSV（制表符分隔值）** 可以从Word模板中结构化提取表格数据，转换为适用于分析和数据库工作流程的轻量、便携格式。
+
+## ✅ 主要用例
+- 数据迁移至电子表格
+- 在企业应用程序中导入/导出
+- 标准化的表格报告
+- 数据库就绪的结构化文本
+ 
+## ⚙️ 自动化场景
+- DOT 到 TSV 的自动化流水线
+- 从Word模板中批量提取数据
+- 工作流就绪的 TSV 生成
+- 企业数据标准化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

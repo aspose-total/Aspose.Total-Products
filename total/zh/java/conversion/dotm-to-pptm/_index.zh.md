@@ -54,7 +54,26 @@ otherformats: PPTM PPTX PPSX POWERPOINT PPT PPS POTX POTM PPSM POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTM** 转换为 **PPTM（启用宏的 PowerPoint 演示文稿）**，支持具有宏的动态、交互式演示文稿，适用于财务仪表板、合规报告和自动化公司演示文稿。
+
+## ✅ 主要用例
+- 交互式财务仪表板
+- 自动化公司演示文稿
+- 工作流驱动的合规报告
+- 启用宏的培训演示文稿
+- 企业报告生成
+
+## ⚙️ 自动化场景
+- DOTM 到 PPTM 宏管道
+- 企业演示文稿自动化
+- 工作流驱动的 PowerPoint 创建
+- 基于宏的幻灯片交付
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

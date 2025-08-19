@@ -61,7 +61,27 @@ otherformats: XLAM XLTX XLSX TSV XLT EXCEL ODS FODS SXC DIF XLTM XLS XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **DOTX** 转换为 **ODS（OpenDocument 电子表格）** 支持使用开源办公工具的组织，同时实现合规性、跨平台数据分析和学术研究。
+
+## ✅ 主要用例
+- 开源报告
+- 跨平台数据分析
+- 学术研究
+- 多系统文档工作流
+- 欧盟/政府ODF合规性
+
+## ⚙️ 自动化场景
+- DOTX 到 ODS 管道
+- 自动化生成 ODS
+- LibreOffice/Apache OpenOffice 工作流
+- 企业开放数据自动化
+- 跨平台电子表格自动化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,22 @@ otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Ключевые сценарии использования
+- Финансовое моделирование и прогнозирование
+- Создание предприятий отчетности и панелей управления
+- Рабочие процессы анализа данных для больших наборов данных
+- Интеграция с облачным Excel
+- Преобразование макросов в данные для бизнес-аналитики
+
+## ⚙️ Сценарии автоматизации
+- Автоматизированные конвейеры DOTM в Excel
+- Генерация таблиц с макросами
+- Автоматизация предприятий отчетности
+- Интеграция рабочего процесса макросов в Excel
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
