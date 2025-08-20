@@ -61,7 +61,25 @@ DOTMをFODSに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**FODS（Flat OpenDocument Spreadsheet）**に変換することは、オープンソース互換のスプレッドシートを可能にし、軽量なストレージとマクロ駆動のデータ変換を実現し、企業のオープンソースワークフローに適しています。
+
+## ✅ 主な使用用途
+- OpenDocumentエコシステム標準の採用
+- 軽量なスプレッドシートの保存と交換
+- マクロベースのデータ変換
+- 企業のオープンソースワークフローとの統合
+
+## ⚙️ 自動化シナリオ
+- DOTMからFODSへの変換パイプライン
+- テンプレートからオープンデータへの自動化
+- マクロからFODSへのワークフロー自動化
+- オープンソースシステムとの企業間の相互運用性
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

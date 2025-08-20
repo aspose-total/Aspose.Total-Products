@@ -102,7 +102,26 @@ otherformats: XLTX XLS XLAM EXCEL CSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**TSV (ערכים מופרדים בטאב)** מאפשרת חילוץ מובנה של נתוני טבלה מתבניות Word לתבניות קלות משקל המתאימות לניתוח ולזרימי עבודה של בסיסי נתונים.
+
+## ✅ מקרי שימוש עיקריים
+- העברת נתונים לגיליונות אלקטרוניים
+- ייבוא/יצוא באפליקציות עסקיות
+- דיווח טבלאי מוסכם
+- טקסט מובנה מוכן לבסיס נתונים
+- זרימי עבודה לניתוח
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה אוטומטיים מ-DOT ל-TSV
+- חילוץ נתונים בצמתית מתבניות Word
+- יצירת TSV מוכן לזרימי עבודה
+- תקנות נתונים עסקיים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

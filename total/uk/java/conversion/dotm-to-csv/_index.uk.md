@@ -102,7 +102,24 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Ключові сценарії використання</h2>
+- Міграція даних з макро-включених шаблонів в бази даних
+- Робочі процеси імпорту/експорту через кілька систем
+- Обробка та аналіз корпоративних даних
+- Легкий імпорт даних у бази даних та управління таблицями
+- Оптимізовані конвеєри звітності для бізнес-аналітики
+
+<h2>⚙️ Сценарії автоматизації</h2>
+- Конвеєри екстракції DOTM у CSV
+- Робочі процеси перетворення макро-даних
+- Автоматизована звітність CSV з шаблонів Word
+- Корпоративні конвеєри ETL для структурованих даних
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

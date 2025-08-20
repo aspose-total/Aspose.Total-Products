@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**PPTM（マクロ有効なPowerPointプレゼンテーション）**に変換すると、財務ダッシュボード、コンプライアンスレポート、自動化された企業向けデッキにマクロを使用したダイナミックでインタラクティブなプレゼンテーションが可能になります。
+
+## ✅ 主なユースケース
+- インタラクティブな財務ダッシュボード
+- 自動化された企業プレゼンテーション
+- ワークフロー駆動型コンプライアンスレポート
+- マクロを活用したトレーニングデッキ
+- 企業向けレポート生成
+
+## ⚙️ 自動化シナリオ
+- DOTMからPPTMへのマクロパイプライン
+- 企業向けデッキの自動化
+- ワークフロー駆動型PowerPoint作成
+- マクロベースのスライドショー配信
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

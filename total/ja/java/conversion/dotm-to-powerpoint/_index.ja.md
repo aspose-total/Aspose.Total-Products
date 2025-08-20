@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**PowerPoint (PPT/PPTX)**に変換すると、マクロが有効なWordテンプレートが完全に機能するスライドに変換され、企業のコミュニケーションとトレーニングのワークフローが効率化されます。
+
+## ✅ 主な使用用途
+- 会議室プレゼンテーション
+- 営業デッキ
+- トレーニングモジュール
+- 企業コミュニケーションスライド
+- ポリシー/コンプライアンスプレゼンテーションワークフロー
+
+## ⚙️ 自動化シナリオ
+- DOTMからPowerPointへのパイプライン
+- プレゼンテーションスライドの自動作成
+- 企業デッキのワークフロー
+- ドキュメントからプレゼンテーションへの自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

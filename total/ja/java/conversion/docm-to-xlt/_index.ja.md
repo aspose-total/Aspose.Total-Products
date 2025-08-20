@@ -61,7 +61,27 @@ DOCMをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOCM**を**XLT（Excelテンプレート、レガシー）**に変換すると、古いExcelバージョンと互換性のある再利用可能なスプレッドシートテンプレートを作成できます。これにより、文書駆動型のレイアウトが保持され、レガシーのレポーティング、フォーム、アーカイブワークフローがサポートされます。
+
+## ✅ 主なユースケース
+- **標準化された財務テンプレートの設計**
+- 古いExcelバージョン向けの再利用可能な**フォームの準備**
+- **Wordフォーム**をスプレッドシートテンプレートに移行
+- 依然として**Excel 97–2003**を使用している組織のサポート
+- XLT形式の**アーカイブテンプレート**の作成
+
+## ⚙️ 自動化シナリオ
+- **DOCMからXLTへの自動変換ツール**
+- レガシーテンプレートライブラリを維持する企業ワークフロー
+- Wordから財務XLTを生成する**バッチパイプライン**
+- XLT互換性が必要な**アーカイブシステム**
+- レガシーExcelユーザー向けのテンプレート配布ワークフロー
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

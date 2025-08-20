@@ -61,7 +61,24 @@ DOTX를 XLAM로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 사용자 정의 Excel 자동화 툴킷
+- 기업 보고서 자동화
+- 금융 모델링 애드인
+- Excel 매크로를 통한 간소화된 데이터 입력
+- 재사용 가능한 템플릿 기반 자동화
+
+<h2>자동화 시나리오</h2>
+- 매크로가 활성화된 Excel 도구를 위한 DOTX-to-XLAM 워크플로우
+- 템플릿에서 자동화된 애드인 생성
+- Excel을 통해 구동되는 기업 생산성 솔루션
+- 고급 자동화를 갖춘 템플릿-Excel 툴킷
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

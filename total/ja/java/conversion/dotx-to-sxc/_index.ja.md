@@ -61,7 +61,24 @@ DOTXをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## 主要な使用ケース
+- クロスプラットフォームのドキュメント処理
+- レガシーオフィススイートとの互換性
+- 企業のアーカイブとコンプライアンスレポート
+- オープンソースのデータワークフロー
+- システム間での相互運用可能なレポート
+
+## 自動化シナリオ
+- データ変換用のDOTX-to-SXCパイプライン
+- バッチドキュメントからスプレッドシートへの変換
+- StarOffice Calcとのレガシーシステムの統合
+- オープンソースのCalcによる自動レポーティング
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

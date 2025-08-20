@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **PPSX (PowerPoint Slide Show Open XML)** jest kluczowe dla nowoczesnych prezentacji gotowych do pokazania, umożliwiając automatyzację w chmurze i przepływy pracy prezentacji na dużą skalę.
+
+## ✅ Główne przypadki użycia
+- Automatyzacja szkoleń
+- Prezentacje pokazowe sprzedaży
+- Udostępnianie raportów na poziomie przedsiębiorstwa
+- Prezentacje na dużą skalę
+- Sygnalizacja cyfrowa
+
+## ⚙️ Scenariusze automatyzacji
+- Integracja przepływu pracy DOTM-do-PPSX
+- Automatyzacja prezentacji gotowych do XML
+- Potoki dostarczania prezentacji na poziomie przedsiębiorstwa
+- Automatycznie generowane pokazy PowerPoint
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

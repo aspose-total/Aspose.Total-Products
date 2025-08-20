@@ -49,7 +49,26 @@ Miközben a DOTM-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Exportálás **DOTM**-ből **JSON (JavaScript Object Notation)**-be strukturált, gép által olvasható adatformátumokat eredményez, tökéletes API-khoz, felhő alapú munkafolyamatokhoz és NoSQL adatbázis tároláshoz, növelve a webes és mobilalkalmazás integrációját.
+
+## ✅ Fő felhasználási esetek
+- API integrációk webes és felhő alapú alkalmazásokhoz
+- Webes alkalmazás adatcseréje és interoperabilitása
+- NoSQL adatbázis tárolás
+- Felhőalapú és szerver nélküli munkafolyamatok
+- Automatizált jelentéskészítés és elemzések
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-ből JSON kinyerési csatornák
+- Makrók API-hoz vezető adatmunkafolyamatai
+- Dokumentumok JSON automatizálása
+- Adatalapú automatizálási folyamatok
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

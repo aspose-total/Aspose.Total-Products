@@ -49,7 +49,27 @@ Podczas konwertowania DOTX na JSON możesz również ustawić zakres na wyjścio
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTX** na **JSON** umożliwia wymianę danych w strukturze, integrację interfejsów API oraz nowoczesne przepływy pracy w sieci, co sprawia, że dane dokumentów są użyteczne dla usług chmurowych, aplikacji internetowych oraz potoków AI/ML.
+
+## ✅ Główne przypadki użycia
+- Eksport danych gotowych do interfejsów API
+- Integracja z aplikacjami internetowymi
+- Usługi chmurowe
+- Potoki danych
+- Przygotowanie zbiorów danych AI/ML
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki DOTX do JSON
+- Automatyczna generacja JSON
+- Przepływy pracy w chmurze API
+- Integracje systemów przedsiębiorstw
+- Automatyzacja jeziora danych
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

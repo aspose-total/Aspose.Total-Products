@@ -61,7 +61,23 @@ DOCMをXLTXに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- **財務モデルの標準化**
+- **企業向けレポートテンプレートの作成**
+- **DOCMからExcelへの構造化コンテンツの移行**
+- **ビジネスインテリジェンスワークフローのサポート**
+- **再利用可能なExcelテンプレートによる生産性の向上**
+
+## ⚙️ 自動化シナリオ
+- **DOCMからXLTXへのテンプレート自動化**
+- XLTXファイルを生成する企業向けレポートパイプライン
+- **標準化されたExcelテンプレートの生成**
+- 自動化されたデータ駆動型テンプレートワークフロー
+- **企業全体へのテンプレート配布**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

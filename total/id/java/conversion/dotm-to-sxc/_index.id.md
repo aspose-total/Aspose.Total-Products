@@ -61,7 +61,27 @@ Setelah mengonversi DOTM ke SXC, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTM** ke **SXC (StarOffice Calc Spreadsheet)** memungkinkan perluasan template Word yang mendukung makro ke alur kerja spreadsheet open-source, mendukung kompatibilitas data warisan dan penggunaan perusahaan lintas platform.
+
+## ✅ Kasus Penggunaan Kunci
+- Kompatibilitas data warisan untuk alur kerja spreadsheet
+- Integrasi kantor open-source
+- Otomatisasi alur kerja dari dokumen ke spreadsheet
+- Arsip perusahaan dalam format SXC
+- Penggunaan spreadsheet lintas platform
+
+## ⚙️ Skenario Otomatisasi
+- Pipa konversi batch DOTM ke SXC
+- Otomatisasi spreadsheet open-source
+- Migrasi template makro dokumen
+- Interoperabilitas alur kerja
+- Konversi arsip
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

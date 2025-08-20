@@ -61,7 +61,22 @@ DOTXをXLTXに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用ケース
+- Excelでのビジネスレポートフレームワーク
+- 組織向けの財務テンプレート
+- クラウド対応のExcelテンプレートのセットアップ
+- 部門レポートのワークフロー
+- チーム間でのエンタープライズグレードの一貫性
+
+## ⚙️ 自動化シナリオ
+- DOTXからXLTXへの変換パイプライン
+- Excelテンプレートの自動配布
+- ドキュメントからExcelへの標準化
+- スケーラビリティのためのエンタープライズレベルのテンプレート自動化
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

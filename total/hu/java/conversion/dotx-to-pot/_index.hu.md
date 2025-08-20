@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTX dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTX** átalakítása **POT (PowerPoint sablon)** formátumba hasznos lehet az egységesített Word sablonok átalakításához, készen álló bemutató sablonokká, amelyek időt takarítanak meg és biztosítják a következetes tervezést.
+
+## ✅ Fő felhasználási esetek
+- Oktatási bemutatók
+- Vállalati arculat
+- Újrafelhasználható diavetítés sablonok
+- Képzési modulok
+- Üzleti ajánlatok
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTX-től-POT-ig vezetékek
+- Vállalati diavetítés generálás
+- Sablon-egységesítési munkafolyamatok
+- Automatizált bemutató összeállítás
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

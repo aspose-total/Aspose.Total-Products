@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOT** átalakítása **PPS (PowerPoint bemutató)** formátumra automatikusan induló bemutatókat hoz létre közvetlenül Word sablonokból a zökkenőmentes előadások és események számára.
+
+## ✅ Fő felhasználási esetek
+- Üzleti pitch deckek
+- Oktatási előadás diák
+- Eseménybemutatók
+- Képzési bemutatók
+- Automatikusan futó termékdemók
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOT-PPS konverzió
+- Automatizált diavetítés generálás
+- Üzletre kész automatikusan induló bemutatók
+- Dokumentum-bemutató csatornák
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,25 @@ L'API consente inoltre di convertire documenti DOCX protetti da password in ODP.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Converting **DOCX** in **ODP (OpenDocument Presentation)** trasforma i contenuti di Word in presentazioni standard aperte. Questo è ideale per presentazioni OpenOffice, ambienti accademici e flussi di lavoro conformi al governo.
+
+## ✅ Principali casi d'uso
+- Creazione di diapositive da **report DOCX**
+- Utilizzo di ODP per **OpenOffice**
+- Archiviazione di presentazioni DOCX in **formati aperti**
+- Reporting accademico o di **conformità governativa**
+
+## ⚙️ Scenari di automazione
+- **Generazione bulk di presentazioni DOCX-to-ODP**
+- **Creazione automatizzata di slide per lezioni/presentazioni**
+- **Flussi di lavoro open-source**
+- **Automazione di presentazioni basate su ODP aziendali**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

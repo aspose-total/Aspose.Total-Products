@@ -54,7 +54,45 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+
+- **長いレポートを簡潔なプレゼンテーションに変換する**  
+  複数ページの文書をスライド用の要約に変換します。
+
+- **トレーニングマニュアルをスライドに変換する**  
+  教育コンテンツを魅力的なプレゼンテーションに変換します。
+
+- **会議室で使用できるピッチデッキを準備する**  
+  DOCMデータを使用してプロフェッショナルな企業プレゼンテーションを再利用します。
+
+- **スライドを使用したチーム間コラボレーションを可能にする**  
+  変換されたプレゼンテーションを分散されたチームで共有します。
+
+- **ステークホルダーとの視覚的なアイデア共有**  
+  文書の洞察を明確で視覚的な形式で提示します。
+
+
+
+## ⚙️ 自動化シナリオ
+
+- **DOCMからPowerPointへの自動生成**  
+  Wordの表、グラフ、セクションからスライドを自動的に作成します。
+
+- **AIによるツールによるWordコンテンツからのスライド作成**  
+  プロフェッショナルなスライドレイアウトをインテリジェントに生成します。
+
+- **プレゼンテーションを自動公開するエンタープライズワークフロー**  
+  スライド作成をレポートパイプラインに統合します。
+
+- **Power AutomateによるPPTXスライドの準備**  
+  ドキュメントのアップロードからプレゼンテーションの生成をトリガーします。
+
+- **トレーニングライブラリ向けの大量の文書からスライドデッキへの変換**  
+  マニュアルを再利用可能なトレーニングデッキに自動変換します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,43 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+
+- **レポートをビジネスプレゼンテーションに変換する**
+  複雑なレポートを明確なビジュアルにまとめる。
+
+- **教育用講義の準備**
+  DOCMコンテンツを教育向けのスライドに変換する。
+
+- **会議室で使用できるスライドデッキのデザイン**
+  構造化された文書から専門的なプレゼンテーションを作成する。
+
+- **Office 365とGoogleスライド間でコンテンツを共有**
+  シームレスなクロスプラットフォームのコラボレーションを実現する。
+
+- **モダンなコラボレーションプラットフォームとの互換性を確保**
+  PPTX形式で広範な利用性を保証する。
+
+## ⚙️ 自動化シナリオ
+
+- **企業利用向けのDOCMからPPTXへの変換ツール**
+  大量の文書からプレゼンテーションへのワークフローを自動化する。
+
+- **クラウドベースのバッチ処理によるプレゼンテーション生成**
+  大規模なPPTX生成パイプラインを展開する。
+
+- **シームレスなDOCMからPPTXへの変換のためのPower Automateワークフロー**
+  ドキュメントのアップロードからスライド作成を直接トリガーする。
+
+- **WordコンテンツからのAI支援スライド生成**
+  スマートで構造化されたスライドデッキを自動的に作成する。
+
+- **チーム向けのプレゼンテーション出力を作成するCI/CDパイプライン**
+  プレゼンテーション構築を企業の開発フローに統合する。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

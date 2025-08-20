@@ -102,7 +102,27 @@ otherformats: SXC XLSM XLSB TSV XLAM XLT DIF EXCEL XLTX CSV XLTM FODS ODS XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל-**JSON** מאפשרת תמורת נתונים מובנית, אינטגרציה עם API וזרימות עבודה ברשת המודרנית, מה שהופך את נתוני המסמך לשימושיים עבור שירותי ענן, אפליקציות רשת וצינורות AI/ML.
+
+## ✅ מקרי שימוש מרכזיים
+- ייצוא נתונים מוכנים ל-API
+- אינטגרציה עם אפליקציות רשת
+- שירותי ענן
+- צינורות נתונים
+- הכנת קבצי נתונים AI/ML
+
+## ⚙️ תרחישי אוטומציה
+- צינורות DOTX-to-JSON
+- יצירת JSON אוטומטית
+- זרימות עבודה ב-API של ענן
+- אינטגרציות מערכת ארגוניות
+- אוטומציה של אגם נתונים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

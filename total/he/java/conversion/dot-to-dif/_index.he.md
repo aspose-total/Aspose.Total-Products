@@ -102,7 +102,26 @@ otherformats: XLSM XLS XLSX SXC TSV XLTX EXCEL ODS CSV XLTM XLT FODS XLAM XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **DIF (פורמט תעבורת נתונים)** מאפשרת תחלופת נתונים מובנית בין תבניות Word ובין מערכות גיליון או מסדי נתונים מורשים, מבטיחה תאימות והעברה חלקה.
+
+## ✅ מקרי שימוש מרכזיים
+- העברת נתונים
+- תאימות למערכת מורשית
+- יבוא גיליונות אלקטרוניים
+- צינורות נתונים עסקיים
+- ארכיבת נתונים מובנית
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-DIF בזרימות עבודה של ETL
+- תחלופת נתונים אוטומטית
+- מערכות דיווח תואמות ל-DIF
+- צינורות נתונים ממסמך לנתונים צלב-פלטפורמה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**PPSM（マクロ有効なPowerPointスライドショー）**に変換すると、埋め込みマクロを使用したインタラクティブなプレゼンテーションが可能になり、自動化された営業、財務ダッシュボード、エンタープライズレポートに最適です。
+
+## ✅ 主な使用用途
+- 自動化された営業プレゼンテーション
+- 財務ダッシュボード
+- トレーニングおよびシミュレーションスライドショー
+- エンタープライズレポートの視覚化
+- ワークフロー駆動型のインタラクティブデッキ
+
+## ⚙️ 自動化シナリオ
+- DOTMからPPSMへのマクロ有効な変換
+- 自動スライドショー生成
+- インタラクティブデッキの自動化
+- エンタープライズマクロワークフロー
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

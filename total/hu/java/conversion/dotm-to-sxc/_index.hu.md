@@ -61,7 +61,25 @@ A DOTM SXC-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- Örökségi adatkompatibilitás táblázatkezelő munkafolyamatokhoz
+- Nyílt forráskódú irodai integrációk
+- Dokumentum-táblázat munkafolyamat automatizálás
+- Vállalati archiválás SXC formátumban
+- Keresztplatformú táblázatkezelő használat
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-SXC tömeges konverziós csatornák
+- Nyílt forráskódú táblázat automatizálás
+- Dokumentum makró sablon migráció
+- Munkafolyamat interoperabilitás
+- Archiválási konverziók
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

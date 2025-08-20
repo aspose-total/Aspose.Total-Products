@@ -61,7 +61,25 @@ Po przekonwertowaniu DOCX na ODS [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCX** na **ODS (OpenDocument Spreadsheet)** umożliwia przetwarzanie arkuszy kalkulacyjnych zgodnie ze standardem otwartym, zapewniając długoterminową kompatybilność, interoperacyjność i zgodność w przypadku użycia w biznesie, administracji publicznej i środowisku akademickim.
+
+### ✅ Główne przypadki użycia
+- Wyodrębnianie tabel z plików DOCX do **ODS**
+- Interoperacyjność z **Apache OpenOffice**
+- Formaty raportów zgodne z wymogami rządowymi
+- Dzielenie się danymi i współpraca w środowisku akademickim
+
+### ⚙️ Scenariusze automatyzacji
+- Potoki raportowe z **DOCX do ODS**
+- **Open-source ETL workflows**
+- Automatyczne tworzenie zbiorów danych w formacie ODS
+- Migracja zbiorcza do arkuszy kalkulacyjnych zgodnych ze standardem otwartym
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

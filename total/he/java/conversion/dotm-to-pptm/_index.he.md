@@ -103,7 +103,26 @@ otherformats: ODP PPTX PPSX POWERPOINT PPT PPS POTX POTM PPSM POT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**PPTM (מצגת PowerPoint עם תמיכה במקרו)** תומכת במצגות דינמיות ואינטראקטיביות עם מקרוים לדפים כלכליים, דוחות תאימות ומצגות תדמיתיות אוטומטיות.
+
+## ✅ מקרי שימוש מרכזיים
+- לוחות בקרה כלכליים אינטראקטיביים
+- מצגות תדמיתיות אוטומטיות
+- דוחות תאימות המופעלים על ידי תהליכי עבודה
+- מצגות אימון המופעלות על ידי מקרוים
+- יצירת דוחות עסקיים ברמה הארגונית
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה של DOTM ל-PPTM עם מקרוים
+- אוטומציה של מצגות ארגוניות
+- יצירת מצגות PowerPoint המופעלות על ידי תהליכי עבודה
+- מסירת מצגות מבוססות מקרו
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

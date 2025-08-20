@@ -61,7 +61,27 @@ Po przekonwertowaniu DOTX na FODS [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTX** na **FODS (Flat XML ODF Spreadsheet)** zapewnia zgodność z oprogramowaniem open-source LibreOffice/Apache OpenOffice oraz umożliwia tworzenie strukturalnych arkuszy kalkulacyjnych opartych na XML do użytku w instytucjach rządowych i przedsiębiorstwach.
+
+## ✅ Główne przypadki użycia
+- Przepływy pracy w LibreOffice/Apache OpenOffice
+- Automatyzacja oparta na XML
+- Projekty danych otwartych
+- Zgodność z wymogami rządowymi
+- Kompatybilność z wieloma platformami
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki DOTX-do-FODS
+- Partie eksportu FODS
+- Automatyzacja arkuszy kalkulacyjnych open-source
+- Przepływy pracy XML w chmurze
+- Automatyzacja transformacji danych
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

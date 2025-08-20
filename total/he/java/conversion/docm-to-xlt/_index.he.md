@@ -102,7 +102,27 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOCM** ל-**XLT (תבנית Excel, ירושה)** מאפשרת לארגונים ליצור תבניות גיליוני אלקטרוני שניתן להשתמש בהן והן תואמות גרסאות ישנות יותר של Excel. זה שומר על פריסות המסמכים ותומך בדוחות ירושתיים, טפסים ותהליכי ארכיון.
+
+## ✅ מקרי שימוש מרכזיים
+- עיצוב **תבניות פיננסיות תקניות**  
+- הכנת **טפסים שניתפים לגרסאות ישנות של Excel**  
+- העברת **טפסי Word** לתבניות של גיליוני אלקטרוני  
+- תמיכה בארגונים שעדיין משתמשים ב-**Excel 97–2003**  
+- בניית **תבניות ארכיון** בפורמט XLT  
+
+## ⚙️ תרחישי אוטומציה
+- **ממירים אוטומטיים של DOCM ל-XLT**  
+- זרימות עבודה עסקיות ששומרות על **ספריות תבניות ירושתיות**  
+- **צינורות עיבוד צפיפים** שיוצרים XLT פיננסיים מ-Word  
+- **מערכות ארכיון** הדורשות תאימות ל-XLT  
+- זרימות עבודה להפצת תבניות למשתמשי **Excel ירושתיים**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

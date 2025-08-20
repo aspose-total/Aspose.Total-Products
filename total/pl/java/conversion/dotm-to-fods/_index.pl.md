@@ -61,7 +61,25 @@ Po przekonwertowaniu DOTM na FODS [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **FODS (Flat OpenDocument Spreadsheet)** ułatwia kompatybilność z oprogramowaniem open-source arkuszy kalkulacyjnych, umożliwiając lekkie przechowywanie i transformacje danych sterowane makrami odpowiednie dla przedsiębiorstwowych przepływów pracy open-source.
+
+## ✅ Główne przypadki użycia
+- Przyjęcie standardów ekosystemu OpenDocument
+- Lekkie przechowywanie i wymiana arkuszy kalkulacyjnych
+- Transformacja danych oparta na makrach
+- Integracja przepływów pracy open-source w przedsiębiorstwie
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersje DOTM na FODS
+- Automatyzacja szablonów do otwartych danych
+- Automatyzacja przepływu pracy makr do FODS
+- Współpraca przedsiębiorstwa z systemami open-source
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

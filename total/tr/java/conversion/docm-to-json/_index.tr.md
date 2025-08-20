@@ -49,7 +49,47 @@ DOCM'yi JSON'a dönüştürürken, aralığı JSON çıktı biçiminize de ayarl
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOCM (Word Macro-Enabled Documents)**'ı **JSON (JavaScript Object Notation)**'a dönüştürmek, statik belge içeriğini, tabloları ve form alanlarını **yapılandırılmış, makine tarafından okunabilir verilere** dönüştürmek için hayati önem taşır. JSON hafiftir, insan tarafından okunabilir ve **API'lerde, analizlerde, web uygulamalarında ve otomasyon iş akışlarında** yaygın olarak kullanılır. DOCM'den veri çıkararak JSON'a dönüştürmek, kuruluşların modern platformlar arasında etkileşim oluşturmasını, daha hızlı entegrasyonları sağlamasını ve verinin **gerçek zamanlı işleme, doğrulama ve ölçeklenebilir dağıtıma** hazır olmasını sağlar.  
+
+## ✅ Ana Kullanım Senaryoları  
+
+- **Belge Verilerini REST/GraphQL API'larına Yayınlama**  
+  Çıkarılan DOCM içeriğini JSON olarak sunarak web ve mobil uygulamalarda doğrudan API tüketimi sağlayın.  
+
+- **NoSQL Veritabanları ve Veri Gölleri Besleme**  
+  DOCM'den türetilen yapılandırılmış verileri MongoDB, Elasticsearch veya bulut tabanlı veri gölleri içine yükleyin.  
+
+- **Gerçek Zamanlı JSON Beslemeleriyle Gösterge Tablolarını Güçlendirme**  
+  Belge tabanlı KPI'ları ve metrikleri BI gösterge tablolarına ve izleme araçlarına akıtın.  
+
+- **Girişleri JSON Şemasına Karşı Doğrulama**  
+  DOCM alan verilerini JSON Şema kurallarıyla uyumlu hale getirerek tutarlılık ve bütünlüğü sağlayın.  
+
+- **Kafasız CMS veya Mikroservis Mimarilerini Etkinleştirme**  
+  JSON'un lingua franca olduğu dağıtılmış, API-odaklı sistemlere DOCM içeriğini entegre edin.  
+
+## ⚙️ Otomasyon Senaryoları  
+
+- **Alan Eşlemesi ile DOCM'den JSON Çıkarma**  
+  Tabloları, başlıkları ve alanları yapılandırılmış JSON nesnelerine dönüştürmek için eşlemeleri tanımlayın.  
+
+- **JSON Olayları Dönüştüren ve Yayan Sunucusuz Fonksiyonlar**  
+  Dosya yükleme işlemlerinde dönüşümleri tetikleyerek JSON yüklerini olaya dayalı sistemlere yollayın.  
+
+- **Tipleri ve Anahtarları Normalize Eden ETL İşleri**  
+  DOCM dışa aktarmalarını aşağı akış analizleri için tutarlı JSON yapılarına standart hale getirin.  
+
+- **Aşağı Akış Sistemlerine JSON Yayınlayan Web Kancaları**  
+  CRMye, ERP araçlarına veya üçüncü taraf uygulamalara veri sağlayan DOCM'den JSON çıkarmalarını otomatikleştirin.  
+
+- **JSON Dışa Aktarımından Önce Makroları ve Kişisel Tanımlayıcı Bilgileri Kaldıran Yönetmelik Kuralları**  
+  Makro destekli dosyalardan güvenli, temizlenmiş JSON çıktıları sağlamak için uyumluluk kontrolleri uygulayın.  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>กรณีการใช้งานหลัก</h2>
+- การย้ายข้อมูลจากเทมเพลตที่เปิดใช้งานแมโครเข้าสู่ฐานข้อมูล
+- การนำเข้า/ส่งออกข้อมูลข้ามระบบหลายระบบ
+- การประมวลผลและวิเคราะห์ข้อมูลขององค์กร
+- การนำเข้าฐานข้อมูลแบบเบาและการจัดการตาราง
+- การสร้างกระบวนการรายงานที่เรียบง่ายสำหรับอินทิลเล็คชั่นธุรกิจ
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- การสร้างกระบวนการสกัด DOTM เป็น CSV
+- กระบวนการแปลงแมโครเป็นข้อมูล
+- การรายงาน CSV โดยอัตโนมัติจากเทมเพลต Word
+- กระบวนการ ETL ขององค์กรสำหรับข้อมูลที่มีโครงสร้าง
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

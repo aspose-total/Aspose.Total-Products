@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **PPT (Legacy PowerPoint Format)** zapewnia kompatybilność wsteczną z starszymi systemami, umożliwiając przechowywanie prezentacji i slajdów szkoleniowych dla infrastruktury z przeszłości.
+
+## ✅ Kluczowe przypadki użycia
+- Starsze systemy przedsiębiorstw
+- Przechowywane prezentacje
+- Slajdy szkoleniowe dla starej infrastruktury
+- Kompatybilność w środowiskach offline
+- Raportowanie dla rządu/instytucji
+
+## ⚙️ Scenariusze automatyzacji
+- Automatyzacja konwersji DOTM na PPT w wersji legacy
+- Przepływy pracy kompatybilne z starszymi wersjami
+- Potoki prezentacji gotowych do archiwizacji
+- Automatyzacja konwersji starych zestawów slajdów
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

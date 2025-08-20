@@ -102,7 +102,24 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+Перетворення **DOT** на **JSON (JavaScript Object Notation)** дозволяє шаблонам Word стати структурованими, готовими до використання API наборами даних для веб-додатків, хмарної автоматизації та підприємницьких інтеграцій.
+
+## ✅ Основні використання
+- Веб-додатки
+- Автоматизація на основі даних
+- Хмарні API
+- Інтеграції підприємницького програмного забезпечення
+- Генерація структурованого набору даних
+
+## ⚙️ Сценарії автоматизації
+- Автоматизація конвеєра DOT-to-JSON
+- Робочі процеси від шаблону до API
+- Системи звітності, готові до JSON
+- Інтеграція даних підприємства, орієнтована на хмарні технології
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,22 @@ APIを使用すると、パスワードで保護されたDOCXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- 繰り返しスライドの書式設定を自動化する  
+- 企業向けのマクロテンプレートを作成する  
+- DOCX から PowerPoint へのマクロサポートワークフローの移行  
+- 対話型トレーニングモジュールのサポート  
+- 定期的なビジネスプレゼンテーションの効率化  
+
+## ⚙️ 自動化シナリオ
+- DOCX から POTM へのマクロ有効化自動化  
+- スライドテンプレート生成パイプライン  
+- 企業向けマクロテンプレートライブラリ  
+- PowerPoint テンプレートワークフローの自動化  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

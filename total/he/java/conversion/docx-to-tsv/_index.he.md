@@ -102,7 +102,25 @@ otherformats: XLSM XLTX SXC XLT ODS CSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOCX** ל-**TSV (ערכים מופרדים באמצעות טאב)** חיונית לחילוץ נתוני טבלה מובנית ממסמכי Word לתוך פורמט קל משקל ונייד המתאים לניתוחים, אינטגרציה עם מסדי נתונים ואינטרופרביליות בין מערכות.
+
+## ✅ מקרי שימוש עיקריים
+- ייבוא/ייצוא נתונים בין מערכות
+- פשוט עליית מסדי נתונים
+- עיבוד דוחות מובנים
+- אפשרות לניתוחי טקסט מבוססי נתונים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות נתונים מ-DOCX ל-TSV
+- חילוץ תוכן בכמות גדולה
+- שינוי נתונים במובנה לעסקים
+- אינטגרציות דוחות אוטומטיות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

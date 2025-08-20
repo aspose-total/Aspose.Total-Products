@@ -49,7 +49,43 @@ Durante la conversione di DOCM in JSON, puoi anche impostare l'intervallo sul fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Casi d'Uso Chiave  
+
+- **Pubblicazione dei Dati del Documento su API REST/GraphQL**  
+  Servire il contenuto estratto da DOCM come JSON per il consumo diretto delle API in app web e mobili.  
+
+- **Alimentazione di Database NoSQL e Data Lake**  
+  Caricare i dati strutturati derivati da DOCM in MongoDB, Elasticsearch o data lake basati su cloud.  
+
+- **Potenziamento dei Dashboard con Feed JSON in Tempo Reale**  
+  Trasmettere KPI e metriche basati su documenti nei dashboard BI e negli strumenti di monitoraggio.  
+
+- **Convalida degli Input rispetto allo Schema JSON**  
+  Garantire coerenza e integrità allineando i dati dei campi DOCM alle regole dello schema JSON.  
+
+- **Abilitazione di CMS senza Testa o Architetture a Microservizi**  
+  Integrare il contenuto DOCM in sistemi distribuiti basati su API dove il JSON è la lingua franca.  
+
+## ⚙️ Scenari di Automazione  
+
+- **Estrazione DOCM-to-JSON con Mappatura dei Campi**  
+  Definire mappature per trasformare tabelle, intestazioni e campi in oggetti JSON strutturati.  
+
+- **Funzioni Serverless che Convertano ed Emettano Eventi JSON**  
+  Attivare conversioni all'upload del file, emettendo payload JSON a sistemi basati su eventi.  
+
+- **Lavori ETL che Normalizzano Tipi e Chiavi**  
+  Standardizzare le esportazioni DOCM in strutture JSON coerenti per analisi successive.  
+
+- **Webhook che Spingono JSON verso Sistemi Successivi**  
+  Automatizzare le esportazioni DOCM-to-JSON che alimentano CRM, strumenti ERP o app di terze parti.  
+
+- **Regole di Governance che Rimuovono Macro e PII Prima dell'Esportazione in JSON**  
+  Applicare controlli di conformità per garantire output JSON sicuri e sanificati da file abilitati alle macro.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

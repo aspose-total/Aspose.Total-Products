@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**を**PPSX（PowerPoint Open XML Show）**に変換すると、クラウド対応であり、異なるプラットフォーム間で簡単に共有できるポータブルで自動実行されるプレゼンテーションが作成されます。
+
+## ✅ 主な使用用途
+- 販売デモ
+- クラスルーム教育
+- イベントショーケース
+- 企業プロフィールスライド
+- マーケティングディスプレイ
+
+## ⚙️ 自動化シナリオ
+- DOTXからPPSXへのパイプライン
+- 自動再生デッキの作成
+- クラウド対応プレゼンテーション
+- プレゼンテーション配信の自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,26 @@ otherformats: EXCEL XLAM XLSM XLSB XLTX TSV DIF XLS XLT SXC FODS XLTM XLSX ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל־**CSV (ערכים מופרדים בפסיק)** היא חיונית להמרת תבניות Word למערכות נתונים מבנה, קלות לעיבוד, לשיתוף ולייבוא במגוון פלטפורמות.
+
+## ✅ מקרי שימוש מרכזיים
+- ייצוא נתונים בצמיג  
+- יבוא מסדי נתונים  
+- מבני גיליון מוכנים  
+- שיתוף נתונים קלים  
+- אינטגרציות בענן  
+
+## ⚙️ תרחישי אוטומציה
+- צינורות נתונים מ־DOT ל־CSV  
+- יצירת קבוצת נתונים בהנחיית תבנית  
+- אוטומציה של CSV בתהליכי עבודה  
+- מערכות דיווח עסקיות  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

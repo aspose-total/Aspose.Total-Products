@@ -61,7 +61,22 @@ DOCXをEXCELに変換した後、[Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要な使用事例
+- **Excel** への DOCX テーブルのエクスポート
+- **ピボットテーブル＆チャート** の有効化
+- **構造化されたレポート** の作成
+- **企業利用向け** のデータ統合
+- **会計およびファイナンスツール** 向けのインポート可能なフォーマット
+
+## ⚙️ 自動化シナリオ
+- **大量の DOCX から Excel へのレポート自動化**
+- **企業向けレポートパイプライン**
+- **自動化されたダッシュボード生成**
+- **部門間データ統合**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

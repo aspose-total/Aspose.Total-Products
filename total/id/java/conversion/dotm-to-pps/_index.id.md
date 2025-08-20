@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen DOTM yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTM** ke **PPS (PowerPoint Slide Show)** memungkinkan penciptaan tayangan langsung dari template Word yang mendukung makro, cocok untuk acara, pelatihan, dan pameran perusahaan.
+
+## ✅ Kasus Penggunaan Kunci
+- Presentasi acara
+- Slideshow pelatihan
+- Tampilan laporan otomatis
+- Dek peragaan perusahaan
+- Presentasi berbasis kiosk
+
+## ⚙️ Skenario Otomatisasi
+- Otomatisasi tayangan DOTM ke PPS
+- Pipa pengguliran dek perusahaan
+- Pengiriman presentasi yang didorong oleh alur kerja
+- Slides otomatis siap acara
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

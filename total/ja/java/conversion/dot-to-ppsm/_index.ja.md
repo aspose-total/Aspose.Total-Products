@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT** を **PPSM (PowerPoint Macro-Enabled Show)** に変換すると、インタラクティブなデモ、トレーニングシミュレーション、エンタープライズワークフローに最適な、自動化されたマクロ駆動型プレゼンテーションが可能になります。
+
+## ✅ 主なユースケース
+- インタラクティブなビジネスデモ
+- トレーニングシミュレーション
+- マクロ駆動型のレポートスライド
+- 教育用の自動再生プレゼンテーション
+- エンタープライズワークフロー駆動型のショー
+
+## ⚙️ 自動化シナリオ
+- マクロを使用した DOT から PPSM への変換
+- マクロを有効にしたスライドショーの自動化
+- エンタープライズ向けプレゼンテーションワークフロー
+- ドキュメントからショーへのパイプライン
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

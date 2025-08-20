@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTM dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTM** átalakítása **PPSM (Makróval engedélyezett PowerPoint bemutató)** formátumra interaktív prezentációkat tesz lehetővé beágyazott makrókkal, ideális automatizált értékesítéshez, pénzügyi vezérlőpultokhoz és vállalati jelentésekhez.
+
+## ✅ Fő felhasználási esetek
+- Automatizált értékesítési prezentációk
+- Pénzügyi vezérlőpultok
+- Képzési és szimulációs diavetítések
+- Vállalati jelentés-ábrázolások
+- Munkafolyamatvezérelt interaktív csomagok
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-to-PPSM makróval engedélyezett átalakítás
+- Automatizált diavetítés generálás
+- Interaktív csomag automatizálás
+- Vállalati makró munkafolyamatok
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

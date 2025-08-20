@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**ODP（OpenDocument Presentation）**に変換すると、マクロが有効なWordテンプレートをオープンソース互換のプレゼンテーションに再利用でき、企業やクロスプラットフォームで使用できます。
+
+## ✅ 主なユースケース
+- 企業プレゼンテーションワークフロー
+- スライドのためのオープンソース採用
+- クロスプラットフォーム互換性
+- マクロによるスライド作成
+- クラウドプレゼンテーションツールとの統合
+
+## ⚙️ 自動化シナリオ
+- DOTMからODPへの自動生成
+- マクロからプレゼンテーションへの変換ワークフロー
+- オープンソースプレゼンテーションパイプライン
+- 企業向けODPワークフロー自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

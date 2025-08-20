@@ -61,7 +61,23 @@ DOCMをXLSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース
+- ワードの表を**古いエクセル環境**に移行する  
+- **レガシーシステム**を持つ組織をサポートする  
+- **制限されたオフライン利用**のためのスプレッドシートを準備する  
+- まだ**古いOfficeバージョン**を使用しているパートナーとデータを共有する  
+- **レガシーフォーマット**に準拠する  
+
+## ⚙️ 自動化シナリオ
+- 大規模な移行のための**DOCM-to-XLSバッチコンバーター**  
+- XLSを必要とする**レガシーERPシステムの統合**  
+- 履歴データのためにXLSを生成する**自動エクスポートパイプライン**  
+- XLSの出力を強制する**コンプライアンス駆動型ワークフロー**  
+- **後方互換性**のためにDOCMをXLSに変換するドキュメント処理ツール  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

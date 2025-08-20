@@ -102,7 +102,27 @@ otherformats: CSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת קבצי **DOCM** ל־**TSV (ערכים מופרדים בטאב)** חשובה לייצוא נתונים מובנים ממסמכי Word לתבניות טקסט קלות המתאימות לשימוש בין מערכות. TSV מבטיחה שיתוף פעולה נקי עם מערכות ERP, CRM, ניתוחים ופלטפורמות מורשות, וגם מאפשרת זרימות עבודה של למידת מכונה והחלפת נתונים בין סביבות תכנות.
+
+## ✅ מקרי שימוש מרכזיים
+- הכנת **נתוני טקסט מובנים** לייבוא למערכות **ERP או CRM**
+- העברת טבלאות לתוך **פלטפורמות ניתוח וBI**
+- שיתוף קבוצות נתונים טבלאיים בין **סביבות תכנות וסקריפטינג**
+- בניית **סטים ללמידת מכונה** וזרימות עבודה בתחום המודעות מלאכותית
+- הפעלת **החלפת נתונים עם מערכות מורשות** שדורשות תבניות קלות
+
+## ⚙️ תרחישי אוטומציה
+- **צינורות חילוץ ממוכנים מראש מ־DOCM ל־TSV** להמרה נפחית
+- זרימות עבודה **ETL** שיוצרות סטים מוכנים ל־TSV
+- **שירותי תיקיית צפייה** שיוצרים פלטים מתמיכים ב־TSV ברציפות
+- המרות באמצעות **API** שיוצרות פלטים ב־TSV לאינטגרציות למטה
+- **מאגרי נתונים עסקיים** שמשתמשים ב־TSV לשיתוף פעולה קל במשקים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

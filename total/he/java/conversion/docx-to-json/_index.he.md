@@ -102,7 +102,26 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOCX** ל-**JSON (פורמט אובייקטים בג'אווה סקריפט)** מאפשרת שילוב של תוכן מסמך ב-**APIs**, אפליקציות רשת ותהליכי אוטומציה מודרניים. JSON מאפשר חילוץ מידע מסודר ונקרא על ידי מכונה ממסמכי Word.
+
+## ✅ מקרי שימוש מרכזיים
+- חילוץ תוכן מסודר עבור **APIs**
+- הפעלת **אפליקציות רשת המופעלות על ידי מסמכים**
+- העברת נתוני DOCX ל-**מערכת ניהול תוכן ראשית**
+- תמיכה ב-**צינורות למידת מכונה**
+- תמיכה ב-**מערכות אפליקציות עסקיות**
+
+## ⚙️ תרחישי אוטומציה
+- **צינורות API מרובים להמרת DOCX ל-JSON**
+- **דיווחים מבוססי JSON אוטומטיים**
+- **תהליכי ניתוח מסמכים**
+- **מערכות אינטגרציה רשת**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

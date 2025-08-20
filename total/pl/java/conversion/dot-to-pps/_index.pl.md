@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **PPS (PowerPoint Show)** tworzy prezentacje uruchamiające się automatycznie bezpośrednio z szablonów programu Word, zapewniając płynne dostarczanie podczas spotkań i wydarzeń.
+
+## ✅ Kluczowe przypadki użycia
+- Prezentacje biznesowe
+- Slajdy wykładowe edukacyjne
+- Prezentacje wydarzeń
+- Pokazy szkoleniowe
+- Automatyczne pokazy produktów
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja DOT na PPS
+- Automatyczne generowanie pokazu slajdów
+- Gotowe do użycia prezentacje uruchamiające się automatycznie
+- Potoki dokumentów do pokazów
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

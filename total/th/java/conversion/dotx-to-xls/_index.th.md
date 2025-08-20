@@ -61,7 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## การใช้งานหลัก ✅
+- ความเข้ากันได้กับระบบเก่าของ Excel  
+- การทำงานของการรายงานขององค์กร  
+- การเก็บรวบรวมข้อมูลและประมวลผลจากเทมเพลตมาตรฐาน  
+- การเก็บบันทึกข้อมูลธุรกิจและการรายงานการปฏิบัติตามกฎหมาย  
+- กระบวนการทำงานที่ใช้สเปรดชีตในธุรกิจต่างๆ  
+
+## สถานการณ์การอัตโนมัติ ⚙️
+- ท่อการอัตโนมัติ DOTX เป็น XLS  
+- การรายงานโดยอัตโนมัติในรูปแบบ Excel เก่า  
+- การแปลงเทมเพลตเป็นสเปรดชีต  
+- กระบวนการทำงานจากเอกสารเป็นข้อมูลสำหรับการรายงานโครงสร้าง
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

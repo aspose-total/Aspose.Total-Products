@@ -102,7 +102,23 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS CSV SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Ключові сценарії використання
+- Інструменти автоматизації підприємства з шаблонів Word
+- Генерація стандартизованих додатків Excel
+- Робочі процеси міграції макросів
+- Перевикористання бібліотек автоматизації
+- Розгортання готових до хмарного використання додатків Excel
+
+## ⚙️ Сценарії автоматизації
+- Конвеєри генерації додатків DOTM-to-XLAM
+- Автоматизована міграція макросів
+- Робочі процеси автоматизації документів в Excel
+- Автоматизація звітності підприємства
+- Масштабоване розповсюдження додатків
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

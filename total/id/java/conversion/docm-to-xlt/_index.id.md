@@ -61,7 +61,27 @@ Setelah mengonversi DOCM ke XLT, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOCM** menjadi **XLT (Excel Template, legacy)** memungkinkan organisasi untuk menghasilkan template spreadsheet yang dapat digunakan kembali yang kompatibel dengan versi Excel yang lebih lama. Hal ini mempertahankan tata letak berbasis dokumen dan mendukung pelaporan, formulir, dan alur kerja arsip warisan.
+
+## ✅ Kasus Penggunaan Kunci
+- Mendesain **template keuangan standar**  
+- Menyiapkan **formulir yang dapat digunakan kembali untuk versi Excel yang lebih lama**  
+- Memigrasikan **formulir Word** ke dalam template spreadsheet  
+- Mendukung organisasi yang masih menggunakan **Excel 97–2003**  
+- Membangun **template arsip** dalam format XLT  
+
+## ⚙️ Skenario Otomatisasi
+- **Konverter otomatis DOCM ke XLT**  
+- Alur kerja perusahaan yang memelihara **perpustakaan template warisan**  
+- **Pipa batch** yang menghasilkan XLT keuangan dari Word  
+- **Sistem arsip** yang memerlukan kompatibilitas XLT  
+- Alur kerja distribusi template untuk **pengguna Excel warisan**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

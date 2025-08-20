@@ -61,7 +61,24 @@ Po przekonwertowaniu DOTM na CSV [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Kluczowe przypadki użycia</h2>
+- Migracja danych z szablonów z makrami do baz danych
+- Przepływy importu/eksportu między różnymi systemami
+- Przetwarzanie i analiza danych przedsiębiorstwa
+- Importy do lekkich baz danych i zarządzanie tabelami
+- Zoptymalizowane potoki raportowania dla inteligencji biznesowej
+
+<h2>⚙️ Scenariusze automatyzacji</h2>
+- Potoki ekstrakcji DOTM do CSV
+- Przepływy transformacji makr na dane
+- Automatyczne raportowanie CSV z szablonów Word
+- Przedsiębiorcze potoki ETL dla danych strukturalnych
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

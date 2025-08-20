@@ -102,7 +102,23 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX CSV SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Ключові сценарії використання</h2>
+- Взаємодія з **LibreOffice & OpenOffice**  
+- Відкрите **архівування даних DOCX**  
+- Створення **структур таблиць на основі XML**  
+- Підтримка **звітності для дотримання довгострокових вимог**  
+
+<h2>Сценарії автоматизації</h2>
+- **Автоматизація від DOCX до FODS на основі відкритого коду**  
+- **Потоки даних таблиць на основі XML**  
+- **Системи звітності FODS**  
+- **Міжплатформенні робочі процеси офісних пакетів**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

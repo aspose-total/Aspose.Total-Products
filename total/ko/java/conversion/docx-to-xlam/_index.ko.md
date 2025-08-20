@@ -61,7 +61,23 @@ DOCX를 XLAM로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 워드에서 엑셀로 VBA 매크로 이전
+- 기업용 자동화 애드인 구축
+- 금융 및 분석 모델 지원
+- 엑셀에서의 매크로 기반 생산성 활성화
+
+<h2>자동화 시나리오</h2>
+- DOCX에서 XLAM으로 매크로 변환
+- 기업용 애드인 배포
+- 엑셀 자동화 파이프라인
+- 워드 매크로에서 자동 애드인 생성
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

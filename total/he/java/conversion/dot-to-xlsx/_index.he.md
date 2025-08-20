@@ -102,7 +102,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **XLSX (Excel Open XML Workbook)** תומכת בזריזות, ניידות ויכולת עבודה בענן של גישות גיליון האלקטרוני, מבטיחה נגישות צלפות פלטפורמות ושיתוף פעולה.
+
+## ✅ מקרי שימוש מרכזיים
+- תמורת נתוני עסקים
+- זריזות בתהליכי דיווח תקניים
+- שיתוף פעולה ב-Excel בענן
+- תבניות גיליון מעודכנות
+- ניתוחים צלפים בין פלטפורמות
+
+## ⚙️ תרחישי אוטומציה
+- המרת סדרות של DOT ל-XLSX
+- זריזות בתהליכי עבודה ב-Excel בענן
+- אוטומציה של מסמכים למערך נתונים
+- צינורות נתונים מוכנים לעסקים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,24 @@ A DOTM DIF-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- Örökségi rendszerkompatibilitás táblázat importálás/exportálás céljából
+- Keresztplatformos táblázatok közötti együttműködés
+- Vállalati archiválási munkafolyamatok
+- Strukturált adatmigráció alkalmazások között
+- Automatizált jelentéskészítés makróval ellátott dokumentumokból
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-DIF konverziós csatornák
+- Makróvezérelt adatcserére szolgáló folyamatok
+- Automatizált keresztplatformos jelentéskészítés
+- Vállalati ETL munkafolyamatok DIF fájlok használatával
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

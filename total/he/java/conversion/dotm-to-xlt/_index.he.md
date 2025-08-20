@@ -102,7 +102,26 @@ otherformats: TSV XLAM SXC CSV EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**XLT** מאפשרת יצירת תבניות Excel ניתנות לשימוש מתבניות Word המאפשרות מאקרו לצורך תהליכי עבודה תקניים ודיווחים.
+
+## ✅ מקרי שימוש מרכזיים
+- תבניות עסקיות תקניות
+- תבניות דיווח לעסקים
+- טפסי נתונים לממשלה
+- תבניות להערכת ציונים בחינוך
+- תבניות לתכנון פיננסי
+
+## ⚙️ תרחישי אוטומציה
+- יצירת תבניות מאוטומטיות מ-DOTM ל-XLT
+- צינורות תבניות לתהליכי עבודה לעסקים
+- שיתוף תבניות בענן
+- אוטומציה של תבניות מאקרו ל-Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

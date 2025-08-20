@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde DOTM-dotmumenten naar POT co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOTM** naar **POT (PowerPoint-sjabloon)** maakt het mogelijk om macro-enabled Word-sjablonen te hergebruiken in PowerPoint, waardoor gestandaardiseerde, schaalbare presentatiesjablonen voor bedrijven worden geboden.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Bedrijfspresentatiesjablonen
+- Training en educatie slides
+- Enterprise-klaar macro-gebaseerde rapportagedecks
+- Merkconsistentie in PowerPoint
+- Grootschalige presentatieroll-outs
+
+## ⚙️ Automatiseringsscenario's
+- DOTM-naar-POT-sjabloonconversiepijplijnen
+- Automatisering van presentatiegeneratie
+- Automatisering van bedrijfstrainingsslide-decks
+- Workflow-gedreven PowerPoint-creatie
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

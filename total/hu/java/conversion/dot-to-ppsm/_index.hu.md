@@ -54,7 +54,24 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Átalakítás DOT-ról PPSM-re (PowerPoint makróval ellátott bemutató) automatizált, makróvezérelt bemutatókat tesz lehetővé, amelyek ideálisak interaktív bemutatókhoz, képzési szimulációkhoz és vállalati folyamatokhoz.
+
+#### ✅ Fő felhasználási esetek
+- Interaktív üzleti bemutatók
+- Képzési szimulációk
+- Makróvezérelt jelentési diák
+- Oktatási automatikusan futó bemutatók
+- Vállalati folyamatvezérelt bemutatók
+
+#### ⚙️ Automatizálási forgatókönyvek
+- DOT-ról PPSM-re történő átalakítás makrókkal
+- Makróval ellátott diavetítés automatizálása
+- Vállalati kész bemutatófolyamatok
+- Dokumentum-bemutató csatornák
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

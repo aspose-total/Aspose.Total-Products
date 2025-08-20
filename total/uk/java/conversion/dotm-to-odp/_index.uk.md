@@ -103,7 +103,26 @@ otherformats: POWERPOINT PPSX PPSM POTX PPTM PPTX PPT POT POTM PPS CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Перетворення **DOTM** на **ODP (презентація у форматі OpenDocument)** дозволяє використовувати макро-дозволені шаблони Word для створення презентацій, сумісних з відкритим кодом, для корпоративного та крос-платформенного використання.
+
+## ✅ Ключові сценарії використання
+- Робочі процеси презентацій у корпораціях
+- Використання відкритого коду для слайдів
+- Сумісність з крос-платформою
+- Створення слайдів за допомогою макросів
+- Інтеграція з хмарними інструментами для презентацій
+
+## ⚙️ Сценарії автоматизації
+- Автоматизоване створення DOTM-ODP
+- Робочі процеси конвертації макро у презентації
+- Потоки відкритого коду для презентацій
+- Готові до використання корпоративні робочі процеси ODP
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

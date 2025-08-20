@@ -49,7 +49,47 @@ Ao converter DOCM para JSON, você também pode definir o intervalo para o forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Convertendo **DOCM (Documentos Habilitados para Macros do Word)** em **JSON (Notação de Objetos JavaScript)**
+
+É vital para transformar o conteúdo estático do documento, tabelas e campos de formulário em **dados estruturados legíveis por máquina**. O JSON é leve, legível por humanos e amplamente utilizado em **APIs, análises, aplicativos da web e fluxos de automação**. Ao extrair dados do DOCM para JSON, as organizações podem desbloquear a interoperabilidade entre plataformas modernas, possibilitar integrações mais rápidas e garantir que os dados estejam prontos para **processamento em tempo real, validação e distribuição escalável**.
+
+## ✅ Principais Casos de Uso
+
+- **Publicação de Dados do Documento em APIs REST/GraphQL**
+  Sirva o conteúdo extraído do DOCM como JSON para consumo direto em aplicativos da web e móveis.
+
+- **Alimentação de Bancos de Dados NoSQL e Data Lakes**
+  Carregue dados estruturados derivados do DOCM no MongoDB, Elasticsearch ou data lakes baseados em nuvem.
+
+- **Alimentando Painéis com Feeds JSON em Tempo Real**
+  Transmita KPIs e métricas baseadas em documentos em painéis de BI e ferramentas de monitoramento.
+
+- **Validação de Entradas Contra Esquema JSON**
+  Garanta consistência e integridade alinhando os dados de campo do DOCM com as regras do Esquema JSON.
+
+- **Possibilitando CMS sem Cabeça ou Arquiteturas de Microsserviços**
+  Integre o conteúdo do DOCM em sistemas distribuídos, API-first, onde o JSON é a língua franca.
+
+## ⚙️ Cenários de Automação
+
+- **Extração DOCM para JSON com Mapeamento de Campos**
+  Defina mapeamentos para transformar tabelas, cabeçalhos e campos em objetos JSON estruturados.
+
+- **Funções sem Servidor que Convertem e Emitem Eventos JSON**
+  Dispare conversões no upload de arquivos, emitindo payloads JSON para sistemas orientados a eventos.
+
+- **Trabalhos ETL que Normalizam Tipos e Chaves**
+  Padronize as exportações do DOCM em estruturas JSON consistentes para análises posteriores.
+
+- **Webhooks que Enviem JSON para Sistemas Secundários**
+  Automatize exportações de DOCM para JSON que alimentam CRMs, ferramentas ERP ou aplicativos de terceiros.
+
+- **Regras de Governança que Removem Macros e Informações PII Antes da Exportação para JSON**
+  Aplique verificações de conformidade para garantir saídas JSON seguras e sanitizadas de arquivos habilitados para macros.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,45 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途  
+
+- **レガシー スライドショー プレゼンテーションの準備**  
+  ワード文書を再生可能なスライドショーに変換します。  
+
+- **自己実行型キオスクの提供**  
+  イベントや見本市でループ表示を行います。  
+
+- **古い環境でのイベントディスプレイの作成**  
+  レガシー PowerPoint システムとの互換性を確保します。  
+
+- **オフラインでの教育用スライドショーの配布**  
+  学生にポータブルで自動再生可能なスライドショーを提供します。  
+
+- **古い PowerPoint システムとの後方互換性の確保**  
+  Microsoft Office 97–2003 を実行している環境をサポートします。  
+
+
+
+## ⚙️ 自動化シナリオ  
+
+- **DOCM から PPS へのレガシー変換ツール**  
+  バッチエクスポートを使用して自動再生可能なスライドショーに変換します。  
+
+- **自動化されたキオスクコンテンツの準備**  
+  ワードコンテンツからループ表示プレゼンテーションを作成します。  
+
+- **カンファレンス向けの PPS へのバッチエクスポート**  
+  一度に複数のイベント用スライドデッキを準備します。  
+
+- **PPS 形式を維持するアーカイブワークフロー**  
+  長期間使用するために準拠したスライドショーを保存します。  
+
+- **レガシー互換性のためのエンタープライズ スライド公開システム**  
+  古いプラットフォームに自動実行スライドを配布します。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

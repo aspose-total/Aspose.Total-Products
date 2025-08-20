@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 DOT 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**를 **PPT (PowerPoint 프레젠테이션)**으로 변환하면 Word 템플릿에서 편집 가능한 프레젠테이션 파일을 생성하여 레거시 시스템과 표준 프레젠테이션 워크플로를 지원합니다.
+
+#### ✅ 주요 사용 사례
+- 비즈니스 보고서
+- 학술 프로젝트
+- 영업 프레젠테이션
+- 기업 교육 슬라이드
+- 제안서 생성
+
+#### ⚙️ 자동화 시나리오
+- DOT에서 PPT로 변환
+- 편집 가능한 프레젠테이션 자동화
+- 기업용 문서에서 슬라이드로의 워크플로
+- 문서에서 프레젠테이션으로의 파이프라인
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

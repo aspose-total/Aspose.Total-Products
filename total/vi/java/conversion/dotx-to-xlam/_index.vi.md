@@ -61,7 +61,24 @@ Sau khi chuyển đổi DOTX sang XLAM, [Aspose.Cells for Java](https://products
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Trường hợp sử dụng chính</h2>
+- Bộ công cụ tự động hóa Excel tùy chỉnh
+- Tự động hóa báo cáo doanh nghiệp
+- Các tiện ích mô hình tài chính
+- Nhập dữ liệu đơn giản thông qua macro Excel
+- Tự động hóa dựa trên mẫu có thể tái sử dụng
+
+<h2>Các kịch bản tự động hóa</h2>
+- Luồng làm việc từ DOTX đến XLAM cho các công cụ Excel có macro
+- Tạo tiện ích bổ sung tự động từ các mẫu
+- Giải pháp tăng năng suất doanh nghiệp được hỗ trợ bởi Excel
+- Bộ công cụ từ mẫu đến Excel với tự động hóa tiên tiến
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

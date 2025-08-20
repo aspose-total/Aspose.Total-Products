@@ -102,7 +102,27 @@ otherformats: XLAM XLTX XLSX TSV XLT EXCEL CSV FODS SXC DIF XLTM XLS XLSM XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל- **ODS (גיליון נתונים של OpenDocument)** תומכת בארגונים המשתמשים בכלים למשרד קוד פתוח תוך שמירה על עמידת דרישות, ניתוח נתונים צולב פלטפורמות ומחקר אקדמי.
+
+## ✅ מקרי שימוש עיקריים
+- דיווח קוד פתוח
+- ניתוח נתונים צולב פלטפורמות
+- מחקר אקדמי
+- זרימות עבודה של מסמכים מרובים
+- עמידות בתקני ODF של האיחוד האירופי/ממשל
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה מ-DOTX ל-ODS
+- יצירת ODS אוטומטית
+- זרימות עבודה של LibreOffice/Apache OpenOffice
+- אוטומציה של נתונים פתוחים ברמה העסקית
+- אוטומציה של גיליונות נתונים צולב פלטפורמות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

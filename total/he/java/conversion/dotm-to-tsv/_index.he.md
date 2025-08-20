@@ -102,7 +102,27 @@ otherformats: XLSM CSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל- **TSV (ערכים מופרדים בטאב)** מאפשרת ייצוא מובנה של נתוני מסמך המאקרו, ומהווה פתרון אידיאלי לייבוא למסד נתונים, לאינטגרציה עם מערכות מורשות וליצירת דוחות טבלאיים בקנה מידה.
+
+## ✅ מקרי שימוש עיקריים
+- ייצוא נתונים בכמות גדולה מתבניות המאקרו  
+- צינורות ייבוא/ייצוא לבסיסי נתונים  
+- דיווחים מובנים מוכנים לעסקים  
+- אינטגרציה עם מערכות מורשות  
+- המרות טבלאיות פשוטות  
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של ייצוא נתונים מ- DOTM ל- TSV  
+- צינורות דיווחים מופעלים על ידי מאקרו  
+- זרימות עבודה מובנות להמרה טבלאית  
+- שיתוף נתונים עסקי  
+- ייצואי זרימות עבודה בקנה מידה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

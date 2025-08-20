@@ -49,7 +49,26 @@ Durante la conversione di DOTM in JSON, puoi anche impostare l'intervallo sul fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Esportare **DOTM** in **JSON (JavaScript Object Notation)** consente di ottenere formati dati strutturati e leggibili dalle macchine, perfetti per API, flussi di lavoro cloud e archiviazione di database NoSQL, migliorando l'integrazione delle applicazioni web e mobili.
+
+## ✅ Principali casi d'uso
+- Integrazioni API per applicazioni web e cloud
+- Scambio di dati tra app web e interoperabilità
+- Archiviazione di database NoSQL
+- Flussi di lavoro nativi del cloud e serverless
+- Reporting e analisi automatizzati
+
+## ⚙️ Scenari di automazione
+- Pipeline di estrazione DOTM-to-JSON
+- Flussi di lavoro dati Macro-to-API
+- Automazione Document-to-JSON
+- Processi di automazione basati sui dati
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

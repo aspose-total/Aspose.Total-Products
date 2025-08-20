@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOT** átalakítása **PPT (PowerPoint bemutató)** formátumba szerkeszthető bemutatófájlokat generál Word sablonokból, támogatva a régi rendszereket és a szabványos bemutatómunkafolyamatokat.
+
+## ✅ Fő felhasználási esetek
+- Üzleti jelentések
+- Akadémiai projektek
+- Értékesítési prezentációk
+- Vállalati tréning diák
+- Javaslatok készítése
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOT-tól-PPT konverzió
+- Szerkeszthető prezentáció automatizálás
+- Vállalati kész dokumentum-dia munkafolyamatok
+- Dokumentum-dia csővezetékek
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,24 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX SXC XLS XLSM XLTM XLAM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### กรณีการใช้งานสำคัญ
+- การย้ายเอกสารเก่าไปสู่สเปรดชีท
+- ความเข้ากันได้ของสเปรดชีทระหว่างแพลตฟอร์ม
+- การทำงานของ OpenOffice/LibreOffice
+- การรักษาข้อมูลโครงสร้างในรูปแบบเปิด
+- การแปลงเอกสารขององค์กร
+
+### สถานการณ์การอัตโนมัติ
+- การประมวลผลเป็นชุดจาก DOT เป็น SXC
+- การผสานเวิร์กโฟลว์เอกสารเก่าไปสู่ระบบทำงานที่ทันสมัย
+- การสร้างสเปรดชีทโดยอัตโนมัติจากเทมเพลต
+- ท่อการโยกย้ายขององค์กร
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Przekształcenie **DOTM** na **POTX (PowerPoint Template Open XML)** jest kluczowe dla tworzenia wielokrotnie używanych, nowoczesnych szablonów opartych na XML z plików Word obsługujących makra, idealnych do prezentacji gotowych do użycia w chmurze i skalowalnych.
+
+## ✅ Główne przypadki użycia
+- Szablony identyfikacji wizualnej firm
+- Prezentacje szkoleniowe skalowalne
+- Slajdy do raportowania w przedsiębiorstwie
+- Formaty prezentacji do wielokrotnego użycia
+- Przepływy pracy gotowe do użycia w chmurze
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki szablonów DOTM-to-POTX
+- Generowanie prezentacji oparte na XML
+- Automatyzacja chmur dla prezentacji w PowerPoint
+- Integracja przepływu pracy z programem Office 365
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

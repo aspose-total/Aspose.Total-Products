@@ -61,7 +61,26 @@ DOCXをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOCX**ファイルを**XLT（Excelテンプレート）**に変換すると、文書コンテンツから再利用可能なスプレッドシートテンプレートを作成し、企業のレポーティングを標準化し、繰り返しのワークフローを自動化することができます。
+
+## ✅ 主な使用ケース
+- ビジネスレポーティングの標準化
+- 再利用可能なテンプレートの作成
+- 企業データ入力フレームワーク
+- Excelワークフローの自動化
+- チーム間での一貫したフォーマット
+
+## ⚙️ 自動化シナリオ
+- DOCXからXLTへの自動テンプレート作成
+- ワークフローの標準化
+- 企業スプレッドシート管理
+- テンプレートベースのExcel自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ A DOTM CSV-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Fő felhasználási esetek</h2>
+- Adatmigráció makróval ellátott sablonokból adatbázisokba  
+- Import/export munkafolyamatok több rendszer között  
+- Vállalati adatfeldolgozás és elemzés  
+- Könnyű adatbázis importok és táblakezelés  
+- Egyszerűsített jelentési csatornák üzleti intelligencia számára  
+
+<h2>⚙️ Automatizálási forgatókönyvek</h2>
+- DOTM-CSV kinyerési csatornák  
+- Makró-adat átalakítási munkafolyamatok  
+- Automatizált CSV jelentések Word sablonokból  
+- Vállalati ETL csatornák strukturált adatokhoz
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

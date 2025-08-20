@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**を**PowerPoint**に変換すると、Wordテンプレートから即座に使用可能なプレゼンテーションスライドを素早く作成でき、レポートやトレーニングコンテンツの生成を効率化できます。
+
+## ✅ 主な使用用途
+- ドキュメントからプレゼンテーションへのワークフローの迅速化
+- ビジネスレポート
+- 教育スライド
+- 提案の作成
+- トレーニングコンテンツの作成
+
+## ⚙️ 自動化シナリオ
+- DOTからPowerPointスライドの生成
+- プレゼンテーションの自動構築
+- 企業ワークフローの最適化
+- ドキュメントからスライドへのパイプライン
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

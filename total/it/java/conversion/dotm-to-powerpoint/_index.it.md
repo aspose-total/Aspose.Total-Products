@@ -54,7 +54,26 @@ L'API consente inoltre di convertire dotmumenti DOTM protetti da password in POW
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertire **DOTM** in **PowerPoint (PPT/PPTX)** trasforma i modelli di Word abilitati alle macro in diapositive completamente funzionali, ottimizzando i flussi di comunicazione e formazione aziendali.
+
+## ✅ Principali casi d'uso
+- Presentazioni in sala riunioni
+- Presentazioni commerciali
+- Moduli di formazione
+- Diapositive di comunicazione aziendale
+- Flussi di lavoro per presentazioni di politiche/conformità
+
+## ⚙️ Scenari di automazione
+- Pipeline da DOTM a PowerPoint
+- Creazione automatica di diapositive per presentazioni
+- Flussi di lavoro per le presentazioni aziendali
+- Automazione da documento a presentazione
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

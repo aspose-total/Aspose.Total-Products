@@ -61,7 +61,24 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## การใช้งานหลัก ✅
+- การประมวลผลเอกสารข้ามแพลตฟอร์ม
+- ความเข้ากันได้กับชุดโปรแกรมสำนักงานเวอร์ชันเก่า
+- การเก็บถาวรและรายงานความเข้ากันได้ขององค์กร
+- การทำงานข้อมูลโอเพนซอร์ส
+- การรายงานที่สามารถทำงานร่วมกันข้ามระบบ
+
+## สถานการณ์อัตโนมัติ ⚙️
+- ท่อการเปลี่ยนข้อมูลจาก DOTX เป็น SXC
+- การแปลงเอกสารเป็นสเปรดชีตเป็นชุด
+- การรวมระบบเก่ากับ StarOffice Calc
+- การรายงานอัตโนมัติด้วย Calc โอเพนซอร์ส
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

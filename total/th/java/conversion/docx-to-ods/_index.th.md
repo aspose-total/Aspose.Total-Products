@@ -61,7 +61,23 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### ✅ กรณีการใช้งานหลัก
+- การแยกตาราง **DOCX** เป็น **ODS**
+- สอดคล้องกับ **Apache OpenOffice**
+- รูปแบบการรายงานที่เป็นไปตามมาตรฐานของรัฐ
+- การแบ่งปันข้อมูลและการทำงานร่วมกันในสาขาวิชาการ
+
+### ⚙️ สถานการณ์การอัตโนมัติ
+- **การสร้างท่อการรายงานจาก DOCX ไปยัง ODS**
+- **กระบวนการทำงาน ETL เปิดโอกาส**
+- **การสร้างชุดข้อมูล ODS โดยอัตโนมัติ**
+- **การย้ายข้อมูลเป็นกลุ่มไปยังสเปรดชีตมาตรฐานเปิด**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

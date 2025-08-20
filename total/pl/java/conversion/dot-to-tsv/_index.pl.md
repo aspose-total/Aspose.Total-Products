@@ -61,7 +61,25 @@ Po przekonwertowaniu DOT na TSV [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **TSV (wartości rozdzielone tabulatorami)** umożliwia strukturalne wyodrębnianie danych tabelarycznych z szablonów programu Word do lekkich, przenośnych formatów odpowiednich do analiz i przepływów pracy w bazach danych.
+
+## ✅ Kluczowe przypadki użycia
+- Migracja danych do arkuszy kalkulacyjnych
+- Import/eksport w aplikacjach korporacyjnych
+- Standaryzowane raportowanie tabelaryczne
+- Strukturalny tekst gotowy do bazy danych
+ 
+## ⚙️ Scenariusze automatyzacji
+- Automatyczne przepływy DOT-to-TSV
+- Masowe wyodrębnianie danych z szablonów programu Word
+- Generowanie gotowych do pracy przepływów TSV
+- Standaryzacja danych korporacyjnych
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

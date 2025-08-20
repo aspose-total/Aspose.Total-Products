@@ -102,7 +102,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל **XLT (תבנית Excel)** מאפשרת יצירת תבניות גיליונות עבודה ניתנות לשימוש ממסמכי Word, תוך תיקון תהליכי עבודה בין מחלקות וצוותים.
+
+## ✅ מקרי שימוש מרכזיים
+- תבניות דיווח מחלקתיות
+- חשבוניות מוסכמות
+- תבניות מוכנות לעסקים
+- תיעוד תהליכים
+- פורמטים לדיווח נמכרים
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של תבניות DOT-to-XLT
+- תקנות זרימת עבודה ב-Excel
+- צינורות עבודה ממסמך לתבנית
+- אוטומציה של דיווחים לעסקים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,24 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS CSV XLS XLTM XLSB FODS XLT XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>שימושים עיקריים ✅</h2>
+- עיבוד מסמכים חוצי פלטפורמה  
+- תאימות למערכות משרד ישנות  
+- ארכיון ודיווח על תקינות בעסקים  
+- זרימות נתונים מקור פתוח  
+- דיווחים המתאימים לשימוש במערכות שונות  
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- צינורות עבודה מ DOTX ל-SXC להמרת נתונים  
+- המרות מסמכים לגיליון אלקטרוני בצורה צינורותית  
+- אינטגרציות עם מערכות משרד ישנות באמצעות StarOffice Calc  
+- דיווחים אוטומטיים המופעלים על ידי Calc מקור פתוח  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

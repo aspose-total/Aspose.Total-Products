@@ -61,7 +61,22 @@ DOTXをXLTMに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- 部門の自動化テンプレート
+- マクロを使用した財務計画フレームワーク
+- データ処理と変換テンプレート
+- 高度なレポートワークフロー
+- マクロを使用したビジネスプロセスの自動化
+
+## ⚙️ 自動化シナリオ
+- DOTXからXLTMへの自動化パイプライン
+- マクロを使用したテンプレート展開
+- DOTXからの自動Excel生成
+- 企業向けの再利用可能なワークフローテンプレート
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

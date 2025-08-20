@@ -61,7 +61,27 @@ Po przekonwertowaniu DOTX na CSV [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTX** na **CSV** jest niezbędne do przekształcenia strukturalnych szablonów Worda w czyste, tabelaryczne dane tekstowe, które można łatwo importować do baz danych, arkuszy kalkulacyjnych i potoków danych.
+
+## ✅ Główne przypadki użycia
+- Importowanie do bazy danych
+- Współpraca z arkuszami kalkulacyjnymi
+- Obsługa danych wsadowych
+- Przechowywanie plików o niskiej wadze
+- Przepływy migracji danych
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki DOTX-do-CSV
+- Partia eksportu CSV
+- Przepływy ETL
+- Integracja danych przedsiębiorstwa
+- Automatyzacja CSV w chmurze
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

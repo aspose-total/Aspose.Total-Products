@@ -103,7 +103,26 @@ otherformats: POTM PPTX POWERPOINT PPSM PPT PPS PPTM POTX POT ODP CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל-**PPSX (PowerPoint Open XML Show)** יוצרת מצגות ניידות שרצות אוטומטית, המוכנות לענן וקלות לשיתוף בין פלטפורמות.
+
+## ✅ מקרי שימוש מרכזיים
+- הדגמות מכירות
+- הוראה בכיתה
+- מצגות אירועים
+- שקפים של פרופיל חברה
+- תצוגות שיווק
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה מ-DOTX ל-PPSX
+- יצירת מצגת הפעלה אוטומטית
+- מצגות מוכנות לענן
+- אוטומציה של משלוחי מצגות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

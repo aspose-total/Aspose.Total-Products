@@ -61,7 +61,26 @@ DOTMをODSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**ファイルを**ODS（OpenDocument Spreadsheet）**に変換することで、Wordテンプレートをオープンソースのスプレッドシートとして使用し、クロスプラットフォームのレポーティングやクラウドネイティブのスプレッドシートワークフローをサポートします。
+
+## ✅ 主な使用用途
+- 企業向けオープンソースワークフロー統合
+- スプレッドシートベースのレポーティングと分析
+- クロスプラットフォームのデータ処理
+- クラウドネイティブのスプレッドシート互換性
+- オープンスタンダードへの準拠
+
+## ⚙️ 自動化シナリオ
+- DOTMからODSへの変換パイプライン
+- マクロからスプレッドシートへの自動化
+- 企業向けレポーティングワークフロー統合
+- テンプレート駆動のODSワークフロー自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

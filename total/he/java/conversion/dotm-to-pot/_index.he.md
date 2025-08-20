@@ -103,7 +103,26 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX ODP CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**POT (תבנית PowerPoint)** מאפשרת שימוש חוזר בתבניות Word המאופשרות מאקרו ב-PowerPoint, ומספקת תבניות מצגת סטנדרטיות ונמדדות עבור עסקים.
+
+## ✅ מקרי שימוש מרכזיים
+- תבניות מצגת עסקיות
+- שקופיות להדרכה וחינוך
+- מצגות דיווחים מבוססות מאקרו לעסקים
+- עיצוב מותג ב-PowerPoint
+- הטמעת מצגות בגדלים גדולים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרת תבניות DOTM ל-POT
+- אוטומציה ביצוע מצגות
+- אוטומציה של מצגות להדרכה בעסקים
+- יצירת מצגות בהתאם לתהליך עבודה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

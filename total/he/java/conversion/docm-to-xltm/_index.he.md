@@ -102,7 +102,26 @@ otherformats: XLTX XLSM XLSX TSV XLT ODS XLSB SXC CSV FODS DIF XLAM XLS EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## המרת DOCM ל-XLTM: תבניות המאפשרות מקרנים
+
+המרת **DOCM** ל-**XLTM (תבנית המאפשרת מקרנים ב-Excel)** מאפשרת לארגונים ליצור תבניות גליון עבודה מאפשרות מקרנים חוזרים מתוך תוכן Word. תבניות אלו תומכות באוטומציה, במודלים פיננסיים, בדיווחים ובאופטימיזציה של זרימת עבודה בארגון.
+
+## ✅ מקרי שימוש מרכזיים
+- אוטומציה של **תהליכי עבודה חוזרים**  
+- יצירת **תבניות מקרנים מוכנות לארגון**  
+- העברת **לוגיקה מבוססת מקרנים** מ-DOCM ל-Excel  
+- תמיכה ב**מודלים פיננסיים וניתוחיים**  
+- עיצוב מחדש של **תהליכי דיווח**  
+
+## ⚙️ תרחישי אוטומציה
+- **אוטומציה של מקרנים מ-DOCM ל-XLTM**  
+- **צינורות יצירת תבניות**  
+- **ניהול מקרנים ברמה הארגונית**  
+- **תהליכי עבודה אוטומטיים של תבניות ב-Excel**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

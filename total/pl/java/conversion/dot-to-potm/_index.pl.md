@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Przekształcenie **DOT** na **POTM (Szablon z włączoną obsługą makr w programie PowerPoint)** pozwala tworzyć dynamiczne szablony prezentacji z wbudowanymi makrami, idealne do zautomatyzowanych i interaktywnych systemów slajdów.
+
+## ✅ Główne przypadki użycia
+- Zautomatyzowane prezentacje szkoleniowe
+- Przepływy pracy w przedsiębiorstwie z makrami
+- Standaryzowane prezentacje raportowe
+- Interaktywne materiały do zajęć
+- Dynamiczne przedsiębiorcze systemy slajdów
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja z DOT na POTM z makrami
+- Szablony gotowe do automatyzacji w programie PowerPoint
+- Automatyzacja przepływów pracy w przedsiębiorstwie
+- Generowanie slajdów z dokumentu z obsługą makr
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

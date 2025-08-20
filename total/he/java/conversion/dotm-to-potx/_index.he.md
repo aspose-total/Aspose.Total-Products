@@ -103,7 +103,24 @@ otherformats: PPTX ODP PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ מקרי שימוש עיקריים</h2>
+- תבניות לזיהוי חברתי  
+- מצגות להדרכה נמתחות  
+- שקופיות לדיווח עסקי  
+- פורמטים למצגת ניתנים לשימוש חוזר  
+- זרימות עבודה מוכנות לענן  
+
+<h2>⚙️ תרחישי אוטומציה</h2>
+- צינורות תבניות מ-DOTM ל-POTX  
+- יצירת מצגות מבוססות XML  
+- אוטומציה בענן עבור מצגות PowerPoint  
+- שילוב זרימות עבודה עם Office 365
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

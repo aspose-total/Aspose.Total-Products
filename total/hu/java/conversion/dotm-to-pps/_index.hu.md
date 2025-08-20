@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTM dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTM** átalakítása **PPS (PowerPoint Slide Show)** formátumra lehetővé teszi diavetítés közvetlen létrehozását makróval ellátott Word sablonokból, alkalmas eseményekhez, képzésekhez és vállalati bemutatókhoz.
+
+## ✅ Fő felhasználási esetek
+- Eseménybemutatók
+- Képzési diavetítések
+- Automatizált jelentések bemutatása
+- Vállalati bemutatók
+- Információs pultos bemutatók
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-től-PPS-ig diavetítés automatizálása
+- Vállalati bemutatók terjesztési csatornái
+- Munkafolyamatvezérelt bemutatók szállítása
+- Eseményre kész automatikus diavetítések
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -103,7 +103,26 @@ otherformats: PPTM POT POWERPOINT POTM PPSM PPTX PPS POTX ODP PPSX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל **PPT (מצגת בפורמט PowerPoint)** יוצרת קבצי מצגת ניתנים לעריכה מתבניות בתוך Word, תומכת במערכות מורשות ותהליכי עבודה סטנדרטיים של מצגות.
+
+## ✅ מקרי שימוש מרכזיים
+- דוחות עסקיים
+- פרויקטים אקדמיים
+- מצגות מכירות
+- שקופיות להכשרה תאגידית
+- יצירת הצעות
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-PPT
+- אוטומציה של מצגות ניתנות לעריכה
+- זרימות עבודה מוכנות לעסקים ממסמך לשקופית
+- צינורות עבודה ממסמך למצגת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

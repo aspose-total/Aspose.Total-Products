@@ -102,7 +102,26 @@ otherformats: CSV SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOCX** ל-**XLT (תבנית Excel)** מאפשרת יצירת תבניות גיליוני עבודה ניתנות לשימוש מתוך תוכן מסמך, תוך תקנות דיווח תקניות לעסקים ואוטומציה של זרימות עבודה חוזרות.
+
+## ✅ מקרי שימוש מרכזיים
+- תקנות דיווח עסקיות
+- יצירת תבניות ניתנות לשימוש
+- מתכניות קלט נתונים לעסקים
+- אוטומציה של זרימות עבודה ב-Excel
+- עיצוב עקבי בקרב צוותים
+
+## ⚙️ תרחישי אוטומציה
+- יצירת תבניות ממוכנות מראש מ-DOCX ל-XLT
+- תקנות זרימת עבודה
+- ניהול גיליונות עבודה לעסקים
+- אוטומציה ב-Excel בהתבסס על תבנית
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

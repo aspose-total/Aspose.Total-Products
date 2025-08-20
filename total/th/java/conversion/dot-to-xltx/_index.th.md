@@ -61,7 +61,22 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLTX EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลักที่สำคัญ
+- รูปแบบเทมเพลตสำหรับรายงานมาตรฐาน
+- ไฟล์ Excel ที่เข้ากันได้กับคลาวด์
+- การแปลงเทมเพลตพร้อมใช้งานในองค์กร
+- มาตรฐานการป้อนข้อมูล
+- การรายงานที่สามารถขยายตัวได้
+
+## สถานการณ์การอัตโนมัติ
+- การสร้างเทมเพลตจาก DOT เป็น XLTX
+- การอัตโนมัติ Excel
+- การทำงานในคลาวด์
+- การอัตโนมัติเอกสารเข้าเป็นเทมเพลตในองค์กร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

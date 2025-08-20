@@ -102,7 +102,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **XLSM (Excel Macro-Enabled Workbook)** מאפשרת בניית חוברות עבודה ב-Excel המאובטחות באמצעות מאקרום מתבצע, מאפשרת חישובים מורכבים ואוטומציה של זרימת העבודה.
+
+## ✅ מקרי שימוש מרכזיים
+- לוחות מחוונים פיננסיים מאובטמים
+- זרימות עבודה עם מאקרום
+- תבניות ליצירתיות עסקית
+- אוטומציה של ניתוחי נתונים מורכבים
+- דגמי גיליון עבודה המופעלים על ידי תהליכים
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל- XLSM עם מאקרום
+- צינורות אוטומציה של זרימת העבודה
+- יצירת תבניות מאובטמות באמצעות מאקרום
+- אוטומציה של מסמכים ל-Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,26 @@ API ayrıca parola korumalı DOTM belgelerini ODP'ye dönüştürmenize olanak t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOTM**'yi **ODP (OpenDocument Presentation)**'a dönüştürmek, makro özellikli Word şablonlarını işletme ve çapraz platform kullanımı için açık kaynak uyumlu sunumlar haline getirmeyi sağlar.
+
+## ✅ Ana Kullanım Durumları
+- İşletme sunum iş akışları
+- Slaytlar için açık kaynak benimseme
+- Çapraz platform uyumluluğu
+- Makro destekli slayt oluşturma
+- Bulut sunum araçlarıyla entegrasyon
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den ODP'ye otomatik dönüşüm
+- Makrodan sunuma dönüşüm iş akışları
+- Açık kaynak sunum akışları
+- İşletme için hazır ODP iş akışı otomasyonu
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

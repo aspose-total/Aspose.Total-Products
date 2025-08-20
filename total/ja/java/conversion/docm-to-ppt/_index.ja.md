@@ -54,7 +54,43 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **レガシーなビジネス環境のサポート**
+  古いソフトウェアを使用しているユーザーにスライドデッキを提供します。
+
+- **トレーニングドキュメントを古いスライド形式に移行**
+  学習教材が制限されたシステムで使用可能であることを確認します。
+
+- **オフラインや制限されたシステム向けのスライドの準備**
+  安全なプラットフォーム向けに後方互換性のあるスライドデッキを作成します。
+
+- **技術文書を後方互換のプレゼンテーションに変換**
+  技術データが古い環境でアクセス可能であることを確認します。
+
+- **古いコラボレーションツールとの相互運用性を可能に**
+  レガシーインフラストラクチャでのチーム間の互換性を維持します。
+
+## ⚙️ 自動化シナリオ
+
+- **DOCMからPPTへのレガシーコンバージョンワークフロー**
+  レガシーシステム向けにPPTスライドの自動生成を行います。
+
+- **DOCMファイルのバッチ処理によるPPTへの変換**
+  大量の文書を変換して大規模なレガシー利用を可能にします。
+
+- **PPT形式が必要なアーカイブ自動化システム**
+  記録用にレガシー準拠のプレゼンテーションを保存します。
+
+- **PPTスライドを使用するセキュアオフラインキオスク**
+  制限されたネットワークで自己実行スライドを展開します。
+
+- **企業の移行パイプラインがDOCMをPPT出力に標準化**
+  WordからレガシーPowerPoint形式へのスムーズな移行を確保します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

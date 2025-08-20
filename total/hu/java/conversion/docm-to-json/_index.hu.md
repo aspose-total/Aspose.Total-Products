@@ -49,7 +49,47 @@ Miközben a DOCM-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOCM (Word Macro-Enabled Documents)** átalakítása **JSON (JavaScript Object Notation)** formátumba létfontosságú a statikus dokumentumtartalom, táblázatok és űrlapmezők **strukturált, gép által olvasható adattá** alakításához. A JSON könnyű, ember által olvasható és széles körben használt **API-kban, analitikában, webes alkalmazásokban és automatizálási folyamatokban**. A DOCM-ből való adatok kinyerésével JSON formátumba szervezetek képesek az interoperabilitás feloldására a modern platformokon, gyorsabb integrációk lehetővé tételére és az adatok készenlétbe hozására **valós idejű feldolgozásra, validálásra és skálázható terjesztésre**.  
+
+## ✅ Fő felhasználási esetek  
+
+- **Dokumentumadatok közzététele REST/GraphQL API-kon keresztül**  
+  Szolgáltassa ki a kinyert DOCM tartalmat JSON formátumban közvetlen API-felhasználásra webes és mobilalkalmazásokban.  
+
+- **NoSQL adatbázisok és adattavak táplálása**  
+  Töltse be a DOCM-ből származó strukturált adatokat MongoDB-be, Elasticsearch-be vagy felhőalapú adattavakba.  
+
+- **Műszerfalak meghajtása valós idejű JSON adatokkal**  
+  Áramoltassa a dokumentumalapú KPI-kat és mutatókat BI műszerfalakba és monitorozó eszközökbe.  
+
+- **Bemenetek ellenőrzése JSON séma alapján**  
+  Biztosítsa a konzisztenciát és integritást a DOCM mezőadatainak összehangolásával a JSON séma szabályaival.  
+
+- **Fej nélküli CMS vagy mikroszolgáltatás architektúrák lehetővé tétele**  
+  Integrálja a DOCM tartalmat elosztott, API-centrikus rendszerekbe, ahol a JSON a lingua franca.  
+
+## ⚙️ Automatizálási forgatókönyvek  
+
+- **DOCM-to-JSON kinyerés mezőlek leképezésével**  
+  Definiáljon leképezéseket a táblázatok, fejlécek és mezők átalakításához strukturált JSON objektumokká.  
+
+- **Szerver nélküli funkciók, amelyek JSON eseményeket alakítanak és kibocsátanak**  
+  Kiváltásokat indítson fálfeltöltéskor, JSON terheléseket bocsátva ki eseményvezérelt rendszerekbe.  
+
+- **ETL feladatok, amelyek normalizálják a típusokat és kulcsokat**  
+  Szabványosítsa a DOCM exportokat következetes JSON struktúrákká az alárendelt analitikákhoz.  
+
+- **Webhorgonyok, amelyek JSON-t tolják lefelé irányuló rendszerekbe**  
+  Automatizálja a DOCM-to-JSON exportokat, amelyek táplálják a CRM-eket, ERP eszközöket vagy harmadik féltől származó alkalmazásokat.  
+
+- **Irányítási szabályok, amelyek eltávolítják a makrókat és PII-t a JSON export előtt**  
+  Alkalmazzon megfelelőségi ellenőrzéseket annak érdekében, hogy biztonságos, szanitizált JSON kimeneteket biztosítson a makróval ellátott fájlokból.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

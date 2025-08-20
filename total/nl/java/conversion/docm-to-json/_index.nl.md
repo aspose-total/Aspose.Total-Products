@@ -49,7 +49,47 @@ Terwijl u DOCM naar JSON converteert, kunt u het bereik ook instellen op uw JSON
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOCM (Word Macro-Enabled Documents)** naar **JSON (JavaScript Object Notation)** is essentieel voor het transformeren van statische documentinhoud, tabellen en formulier velden naar **gestructureerde, machine-leesbare data**. JSON is lichtgewicht, menselijk leesbaar en veelgebruikt in **API's, analyses, web apps en automatiseringsworkflows**. Door gegevens uit DOCM te extraheren naar JSON, kunnen organisaties interoperabiliteit ontgrendelen over moderne platforms, snellere integraties mogelijk maken en ervoor zorgen dat gegevens klaar zijn voor **real-time verwerking, validatie en schaalbare distributie**.  
+
+## ✅ Belangrijkste Gebruiksscenario's  
+
+- **Publiceren van Documentgegevens naar REST/GraphQL API's**  
+  Dien geëxtraheerde DOCM inhoud als JSON voor directe API consumptie in web- en mobiele apps.  
+
+- **Voeden van NoSQL-databases en Data Lakes**  
+  Laad gestructureerde gegevens afgeleid van DOCM in MongoDB, Elasticsearch of op cloud gebaseerde data lakes.  
+
+- **Dashboards aandrijven met Real-Time JSON Feeds**  
+  Stroom document-gebaseerde KPI's en metingen in BI-dashboards en monitoringtools.  
+
+- **Valideren van Invoer tegen JSON-schema**  
+  Zorg voor consistentie en integriteit door DOCM-veldgegevens af te stemmen op JSON-schema regels.  
+
+- **Het mogelijk maken van Headless CMS of Microservice-architecturen**  
+  Integreer DOCM inhoud in gedistribueerde, op API-gerichte systemen waar JSON de lingua franca is.  
+
+## ⚙️ Automatiseringsscenario's  
+
+- **DOCM-naar-JSON Extractie met Veldtoewijzing**  
+  Definieer toewijzingen om tabellen, koppen en velden om te zetten in gestructureerde JSON-objecten.  
+
+- **Serverloze functies die JSON-gebeurtenissen converteren en uitstoten**  
+  Activeer conversies bij het uploaden van bestanden, waarbij JSON-payloads naar op gebeurtenissen gebaseerde systemen worden gestuurd.  
+
+- **ETL-taken die Typen en Sleutels Normaliseren**  
+  Standaardiseer DOCM-exporten naar consistente JSON-structuren voor downstream-analyses.  
+
+- **Webhooks die JSON naar Downstream-systemen pushen**  
+  Automatiseer DOCM-naar-JSON-exporten die CRMs, ERP-tools of apps van derden voeden.  
+
+- **Governance-regels die Macro's en PII Verwijderen voor JSON-export**  
+  Pas nalevingscontroles toe om veilige, gesanctioneerde JSON-uitvoer te garanderen van macro-ingeschakelde bestanden.  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

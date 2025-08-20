@@ -61,7 +61,24 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### กรณีการใช้งานหลัก
+- การทำงานของธุรกิจโอเพนซอร์ส
+- รายงานพร้อมใช้งานในสเปรดชีต
+- การทำงานร่วมกันกับข้อมูล
+- การวิเคราะห์ข้อมูลขององค์กร
+- ความเข้ากันได้ในหลายแพลตฟอร์ม
+
+### สถานการณ์การอัตโนมัติ
+- การอัตโนมัติเทมเพลตจาก DOT เป็น ODS
+- การทำงานของระบบรายงานโอเพนซอร์ส
+- การใช้งานข้อมูลที่มีพื้นฐานเป็น ODS
+- การแปลงเอกสารเป็นสเปรดชีตที่เป็นคลาวด์เนทีฟ
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

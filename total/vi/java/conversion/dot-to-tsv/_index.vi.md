@@ -61,7 +61,25 @@ Sau khi chuyển đổi DOT sang TSV, [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi **DOT** sang **TSV (Tab-Separated Values)** cho phép trích xuất cấu trúc dữ liệu bảng từ các mẫu Word thành các định dạng nhẹ, dễ mang theo phù hợp cho quy trình phân tích và cơ sở dữ liệu.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+- Di dời dữ liệu sang bảng tính
+- Nhập/xuất trong ứng dụng doanh nghiệp
+- Báo cáo bảng chuẩn hóa
+- Luồng làm việc phân tích
+
+## ⚙️ Kịch Bản Tự Động Hóa
+- Các đường ống tự động DOT-to-TSV
+- Trích xuất dữ liệu hàng loạt từ các mẫu Word
+- Tạo TSV sẵn sàng cho luồng làm việc
+- Chuẩn hóa dữ liệu doanh nghiệp
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

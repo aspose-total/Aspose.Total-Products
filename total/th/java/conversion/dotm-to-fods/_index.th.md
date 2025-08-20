@@ -61,7 +61,23 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ การใช้งานหลัก
+- การนำเข้ามาตรฐานระบบ OpenDocument
+- การจัดเก็บและแลกเปลี่ยนข้อมูลในสเปรดชีตอย่างเบา
+- การแปลงข้อมูลด้วยแมโคร
+- การผสานการทำงานขององค์กรในกระบวนการทำงานระบบโอเพนซอร์ส
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- ท่อการแปลง DOTM เป็น FODS
+- การอัตโนมัติของข้อมูลจากเทมเพลตไปสู่ข้อมูลเปิด
+- การอัตโนมัติของข้อมูลจากแมโครไปยัง FODS
+- การใช้งานร่วมกันของระบบองค์กรกับระบบโอเพนซอร์ส
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

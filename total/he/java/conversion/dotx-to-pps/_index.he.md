@@ -103,7 +103,26 @@ otherformats: PPTM PPSM PPSX POT POTM PPTX POWERPOINT POTX PPT ODP CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל-**PPS (PowerPoint Show)** חשובה למצגות שרצות אוטומטית שמתחילות מיידית, ולכן היא אידיאלית לאירועים, קיוסקים וסביבות הדרכה.
+
+## ✅ מקרי שימוש מרכזיים
+- תצוגות בתערוכות מסחר
+- קיוסקי הדרכה
+- מדריכים אוטומטיים
+- מצגות אירועים
+- הדגמות אינטראקטיביות
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה מ-DOTX ל-PPS
+- זרימות עבודה להצגות שרצות אוטומטית
+- אוטומציה של מצגות מוכנות לקיוסק
+- אוטומציה של אירועי עסקים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

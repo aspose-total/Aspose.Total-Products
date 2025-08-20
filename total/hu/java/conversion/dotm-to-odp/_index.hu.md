@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTM dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTM** átalakítása **ODP (OpenDocument Presentation)** formátummá lehetővé teszi a makróval ellátott Word sablonok újrahasznosítását nyílt forráskódú kompatibilis prezentációkká vállalati és platformfüggetlen használatra.
+
+## ✅ Fő felhasználási esetek
+- Vállalati prezentációs folyamatok
+- Nyílt forráskódú diák használata
+- Platformfüggetlen kompatibilitás
+- Makróvezérelt diák létrehozása
+- Integráció a felhőalapú prezentációs eszközökkel
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-ODP automatizált generálása
+- Makró-prezentáció konverziós folyamatok
+- Nyílt forráskódú prezentációs csatornák
+- Vállalati kész ODP munkafolyamat automatizálás
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

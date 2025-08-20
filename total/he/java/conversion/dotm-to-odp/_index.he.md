@@ -103,7 +103,24 @@ otherformats: POWERPOINT PPSX PPSM POTX PPTM PPTX PPT POT POTM PPS CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ מקרי שימוש מרכזיים
+- זרימות עבודה של הצגות לעסקים
+- אימוץ של קוד פתוח למצגות
+- תאימות עבור מגוון פלטפורמות
+- יצירת שקופיות בעזרת מאקרום
+- שילוב עם כלי מצגות בענן
+
+## ⚙️ תרחישי אוטומציה
+- יצירה אוטומטית של DOTM ל-ODP
+- זרימות עבודה להמרת מאקרו למצגת
+- צינורות עבודה למצגות בקוד פתוח
+- אוטומציה של זרימת עבודה ODP מוכנה לעסקים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

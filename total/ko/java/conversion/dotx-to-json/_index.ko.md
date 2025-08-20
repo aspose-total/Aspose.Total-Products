@@ -49,7 +49,27 @@ DOTX를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**를 **JSON**으로 변환하면 구조화된 데이터 교환, API 통합 및 현대적인 웹 워크플로우를 가능하게 하여 문서 데이터를 클라우드 서비스, 웹 앱 및 AI/ML 파이프라인에서 사용할 수 있게 합니다.
+
+## ✅ 주요 사용 사례
+- API용 데이터 내보내기
+- 웹 앱 통합
+- 클라우드 서비스
+- 데이터 파이프라인
+- AI/ML 데이터셋 준비
+
+## ⚙️ 자동화 시나리오
+- DOTX-to-JSON 파이프라인
+- 자동 JSON 생성
+- 클라우드 API 워크플로우
+- 기업 시스템 통합
+- 데이터 레이크 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

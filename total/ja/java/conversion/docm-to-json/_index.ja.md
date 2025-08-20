@@ -49,7 +49,43 @@ DOCMをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+
+- **REST/GraphQL APIへのドキュメントデータの公開**
+  抽出されたDOCMコンテンツをJSONとして提供し、Webおよびモバイルアプリで直接API消費を行います。
+
+- **NoSQLデータベースやデータレイクへのデータ供給**
+  MongoDB、Elasticsearch、またはクラウドベースのデータレイクにDOCM由来の構造化データをロードします。
+
+- **リアルタイムJSONフィードでダッシュボードを強化**
+  ドキュメントベースのKPIやメトリクスをBIダッシュボードやモニタリングツールにストリームします。
+
+- **JSONスキーマに対する入力の検証**
+  DOCMフィールドデータをJSONスキーマルールに整合させることで、一貫性と整合性を確保します。
+
+- **ヘッドレスCMSやマイクロサービスアーキテクチャの有効化**
+  JSONが共通言語である分散型のAPIファーストシステムにDOCMコンテンツを統合します。
+
+## ⚙️ 自動化シナリオ
+
+- **フィールドマッピングを使用したDOCMからJSONへの抽出**
+  テーブル、ヘッダー、およびフィールドを構造化されたJSONオブジェクトに変換するためのマッピングを定義します。
+
+- **JSONイベントを変換して送信するサーバーレス関数**
+  ファイルのアップロード時に変換をトリガーし、JSONペイロードをイベント駆動型システムに送信します。
+
+- **タイプとキーを標準化するETLジョブ**
+  下流の分析のためにDOCMエクスポートを一貫したJSON構造に標準化します。
+
+- **JSONを下流システムにプッシュするWebhook**
+  CRM、ERPツール、またはサードパーティアプリに供給するDOCMからJSONへのエクスポートを自動化します。
+
+- **JSONエクスポート前のマクロとPIIの削除を行うガバナンスルール**
+  マクロが有効なファイルから安全で消毒されたJSON出力を確保するためのコンプライアンスチェックを適用します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

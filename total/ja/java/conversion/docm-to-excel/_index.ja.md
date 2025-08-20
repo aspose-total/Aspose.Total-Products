@@ -61,7 +61,43 @@ DOCMをEXCELに変換した後、[Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+
+- **Wordの表を実行可能なExcelモデルに変換する**
+  静的なDOCM表をExcelシートに変換して、高度な計算とビジネスモデルを作成します。
+
+- **文書KPIからダッシュボードを作成する**
+  Wordベースの主要業績指標をインタラクティブなExcelダッシュボードに変換します。
+
+- **物語形式のフォームを構造化された入力シートに変換する**
+  DOCMフォームをExcelグリッドに標準化して、入力、検証、集計を容易にします。
+
+- **What-If分析と予測を可能にする**
+  予測的な洞察を得るために、Excelの数式とシナリオツールをDOCMから派生したデータに使用します。
+
+- **Excelでの運用トラッカーの集約**
+  複数のDOCMチェックリストからデータを一元化して、チーム全体でのモニタリングを行うための単一のExcelファイルにまとめます。
+
+## ⚙️ 自動化シナリオ
+
+- **DOCMからExcelへのバッチ処理**
+  企業規模のワークフローに対応するため、複数のDOCMファイルを一括でExcelワークブックに変換します。
+
+- **ヘッダーとデータ型を保持するスタイルからテーブルへの自動マッピング**
+  DOCMからの書式、列名、およびデータ型がExcel出力で保持されるようにします。
+
+- **バージョン固有のワークブックを出力するポリシードリブンな変換**
+  バージョン固有の要件（例：XLSX、XLSM）に合わせてDOCMデータをExcelファイルにエクスポートします。
+
+- **DOCMを取り込んでExcelファイルを提供するPower Automateフロー**
+  Microsoftの自動化ツールを介して、DOCMファイルを自動的にExcelに変換するワークフローを効率化します。
+
+- **データを豊かにし、マスターワークブックに追加するエンタープライズパイプライン**
+  BIパイプラインにDOCMからExcelへの変換を統合し、中央集権型のレポートシステムを更新します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

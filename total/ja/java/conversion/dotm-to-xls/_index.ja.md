@@ -61,7 +61,26 @@ DOTMをXLSに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**XLS**に変換すると、マクロが有効なWordテンプレートデータを構造化されたスプレッドシートに保存しつつ、従来のMicrosoft Excelバージョンとの互換性が確保されます。
+
+## ✅ 主な使用用途
+- 旧来の財務システム
+- 政府のコンプライアンスレポート
+- 学術データの保存
+- 企業の会計ワークフロー
+- 互換性の必要なケース
+
+## ⚙️ 自動化シナリオ
+- DOTMからXLSへのパイプライン
+- アーカイブ用のバッチ変換
+- 旧来のExcelへの自動レポート
+- マクロから旧来のスプレッドシートワークフロー
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **PPTM (Prezentacja z włączoną obsługą makr w programie PowerPoint)** pozwala uzyskać interaktywne pliki prezentacji z makrami, odpowiednie do raportowania sterowanego automatycznie, propozycji i slajdów szkoleniowych.
+
+## ✅ Główne przypadki użycia
+- Automatyczne slajdy raportowe
+- Przepływy pracy z makrami w przedsiębiorstwie
+- Prezentacje szkoleniowe
+- Dynamiczne propozycje biznesowe
+- Interaktywne wykłady
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja DOT na PPTM z makrami
+- Automatyzacja prezentacji z obsługą makr
+- Przepływy pracy slajdów w przedsiębiorstwie
+- Potoki dokumentów do prezentacji
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

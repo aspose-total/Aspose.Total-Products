@@ -103,7 +103,27 @@ otherformats: POWERPOINT PPS PPSM POTM PPSX PPTM PPT POTX PPTX POT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Перетворення **DOTX** на **ODP (презентація у форматі OpenDocument)** допомагає створювати шаблони презентацій зі структурованим вмістом Word, що підтримує відповідність, доступність та спільне використання на різних платформах.
+
+## ✅ Ключові сценарії використання
+- Презентації у LibreOffice Impress
+- Відповідність відкритим стандартам
+- Навчальні або урядові робочі процеси
+- Спільне використання презентацій на різних платформах
+- Інтеграція з екосистемою ODF
+
+## ⚙️ Сценарії автоматизації
+- Потоки перетворення DOTX на ODP
+- Пакетне створення презентацій
+- Автоматизована генерація слайдів
+- Хмарні робочі процеси з ODP
+- Автоматизація перетворення документів на презентації
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

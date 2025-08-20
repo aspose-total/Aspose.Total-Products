@@ -102,7 +102,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**Excel (XLS/XLSX)** ממירה תבניות Word לגיליונות אלקטרוניים אינטראקטיביים המתאימים לניתוח, דיווח ואוטומציה של תהליכי עבודה בסביבות עסקיות.
+
+## ✅ מקרי שימוש מרכזיים
+- דיווחי עסקים
+- תכנון תקציב
+- תבניות לניתוח נתונים
+- אופטימיזציה של תהליכי עבודה
+- גיליונות אלקטרוניים לעסקים
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של DOT ל-Excel
+- זרימי עבודה מוכנים לגיליון אלקטרוני
+- ניהול נתונים לעסקים
+- צינורות מסמכים לגיליון אלקטרוני
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

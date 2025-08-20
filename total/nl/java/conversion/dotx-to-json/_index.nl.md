@@ -49,7 +49,27 @@ Terwijl u DOTX naar JSON converteert, kunt u het bereik ook instellen op uw JSON
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOTX** naar **JSON** maakt gestructureerde gegevensuitwisseling, API-integratie en moderne webworkflows mogelijk, waardoor documentgegevens bruikbaar worden voor cloudservices, web-apps en AI/ML-pipelines.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- API-gereed gegevensexport
+- Integratie met webapps
+- Cloudservices
+- Gegevenspipelines
+- Voorbereiding van AI/ML-datasets
+
+## ⚙️ Automatiseringsscenario's
+- DOTX-naar-JSON-pipelines
+- Geautomatiseerde JSON-generatie
+- Cloud-API-workflows
+- Integraties met bedrijfssystemen
+- Automatisering van datalakes
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -103,7 +103,25 @@ otherformats: POWERPOINT PPS PPSM POTM PPSX PPTM PPT POTX PPTX POT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים עיקריים
+- מצגות LibreOffice Impress
+- עמיתות בתקן פתוח
+- זרימות עבודה אקדמיות או ממשלתיות
+- שיתוף מצגות חוצות פלטפורמות
+- אינטגרציה עם אקוסיסטם ODF
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה DOTX-to-ODP
+- יצירת מצגות בצורה צפופה
+- יצירת מצגות עם שקופיות
+- זרימות עבודה של ODP בענן
+- אוטומציה של מסמך למצגת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

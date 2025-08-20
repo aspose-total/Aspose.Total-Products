@@ -49,7 +49,27 @@ Miközben a DOTX-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTX** átalakítása **JSON** formátummá strukturált adatcserét, API integrációt és modern webes munkafolyamatokat tesz lehetővé, lehetővé téve a dokumentumadatok felhasználását felhőszolgáltatásokhoz, webes alkalmazásokhoz és AI/ML csővezetékekhez.
+
+## ✅ Fő felhasználási esetek
+- API-kész adat exportálás
+- Webalkalmazás integráció
+- Felhőszolgáltatások
+- Adatcsővezetékek
+- AI/ML adatkészlet előkészítése
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTX-JSON csővezetékek
+- Automatizált JSON generálás
+- Felhő API munkafolyamatok
+- Vállalati rendszerintegrációk
+- Adattó automatizálás
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

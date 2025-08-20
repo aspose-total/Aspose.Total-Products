@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**を**PPS（PowerPointスライドショー）**に変換すると、マクロ有効なWordテンプレートから直接スライドショーを作成でき、イベント、トレーニング、企業のショーケースに適しています。
+
+## ✅ 主な使用用途
+- イベントプレゼンテーション
+- トレーニングスライドショー
+- 自動レポート表示
+- 企業ショーケースデッキ
+- キオスクベースのプレゼンテーション
+
+## ⚙️ 自動化シナリオ
+- DOTMからPPSへのスライドショー自動化
+- エンタープライズデッキ展開パイプライン
+- ワークフロー駆動型プレゼンテーション配信
+- イベント用自動スライド
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

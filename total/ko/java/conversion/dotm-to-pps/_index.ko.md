@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 DOTM 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**를 **PPS (PowerPoint Slide Show)**로 변환하면 매크로가 포함된 Word 템플릿에서 직접 슬라이드 쇼를 만들 수 있어 이벤트, 교육 및 기업 쇼케이스에 적합합니다.
+
+## ✅ 주요 사용 사례
+- 이벤트 프레젠테이션
+- 교육 슬라이드쇼
+- 자동 보고서 표시
+- 기업 쇼케이스 덱
+- 키오스크 기반 프레젠테이션
+
+## ⚙️ 자동화 시나리오
+- DOTM-to-PPS 슬라이드쇼 자동화
+- 기업 덱 롤아웃 파이프라인
+- 워크플로우 기반 프레젠테이션 전달
+- 이벤트용 자동 슬라이드
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

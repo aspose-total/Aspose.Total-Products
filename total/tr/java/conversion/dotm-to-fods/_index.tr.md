@@ -61,7 +61,25 @@ DOTM'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOTM**'yi **FODS (Düz OpenDocument Elektronik Tablo)**'a dönüştürmek, açık kaynak uyumlu elektronik tabloları kolaylaştırır, hafif depolama ve makro destekli veri dönüşümlerini sağlar, işletme açık kaynak iş akışları için uygundur.
+
+## ✅ Ana Kullanım Senaryoları
+- OpenDocument ekosistem standartlarının benimsenmesi
+- Hafif elektronik tablo depolama ve değiş tokuşu
+- Makro tabanlı veri dönüşümü
+- İşletme açık kaynak iş akışı entegrasyonu
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den FODS'a dönüşüm boru hatları
+- Şablon üzerinden açık veri otomasyonu
+- Makrodan FODS'a iş akışı otomasyonu
+- İşletme açık kaynak sistemleriyle uyumluluk
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

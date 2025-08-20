@@ -61,7 +61,21 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลักที่สำคัญ
+- การย้ายตารางจาก DOCX เข้าสู่ระบบสเปรดชีทที่เก่ากว่า
+- การรับรองความเข้ากันได้กับซอฟต์แวร์ทางสถิติ
+- การเก็บข้อมูลเอกสารในรูปแบบ DIF
+- การสนับสนุนการวิเคราะห์ข้อมูลข้ามแพลตฟอร์ม
+
+## สถานการณ์การอัตโนมัติ
+- การย้ายจาก DOCX เข้าสู่ระบบสปรีดชีทเก่า
+- การสกัดข้อมูลสเปรดชีทโดยอัตโนมัติ
+- ท่อ DIF สำหรับระบบการปฏิบัติตาม
+- การเผยแพร่ข้อมูลแบบหลายรูปแบบ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

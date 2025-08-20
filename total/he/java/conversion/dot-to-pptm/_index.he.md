@@ -103,7 +103,26 @@ otherformats: POTX POTM ODP PPSX PPS PPSM PPT POWERPOINT POT PPTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **PPTM (מצגת בעלת מאקרוים של PowerPoint)** מייצרת קבצי מצגת אינטראקטיביים עם מאקרוים, המתאימים לדיווחים המופעלים באופן אוטומטי, הצעות ושקפים להכשרה.
+
+## ✅ מקרי שימוש מרכזיים
+- שקפים לדיווחים אוטומטיים
+- זרימות עבודה עם מאקרוים לעסקים
+- מצגות להכשרה
+- הצעות עסקיות דינמיות
+- הרצאות אינטראקטיביות
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-PPTM עם מאקרוים
+- אוטומציה של מצגות עם מאקרוים
+- זרימות עבודה לשקפים בעסקים
+- צינורות עבודה ממסמך למצגת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

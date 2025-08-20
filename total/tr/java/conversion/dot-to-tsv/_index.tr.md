@@ -61,7 +61,26 @@ DOT'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOT**'u **TSV (Sekmeyle Ayrılmış Değerler)**'e dönüştürmek, Word şablonlarından tablo verilerinin yapılandırılmış bir şekilde çıkarılmasını sağlar ve analiz ve veritabanı iş akışları için uygun hafif ve taşınabilir formatlara dönüştürür.
+
+## ✅ Ana Kullanım Alanları
+- Tablolardan veri göçü
+- Kurumsal uygulamalarda içe/dışa aktarma
+- Standartlaştırılmış tablo raporlama
+- Veritabanı için yapılandırılmış metin
+- Analitik iş akışları
+
+## ⚙️ Otomasyon Senaryoları
+- DOT'tan TSV'ye otomatik boru hatları
+- Word şablonlarından toplu veri çıkarma
+- İş akışına hazır TSV oluşturma
+- Kurumsal veri standartlaştırma
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

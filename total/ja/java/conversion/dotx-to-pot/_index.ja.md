@@ -54,7 +54,22 @@ APIを使用すると、パスワードで保護されたDOTXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- 教育プレゼンテーション
+- 企業のブランディング
+- 再利用可能なスライドテンプレート
+- トレーニングモジュール
+- ビジネス提案デッキ
+
+## ⚙️ 自動化シナリオ
+- DOTXからPOTへのパイプライン
+- 企業向けスライド生成
+- テンプレートの標準化ワークフロー
+- 自動化されたプレゼンテーションの組み立て
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

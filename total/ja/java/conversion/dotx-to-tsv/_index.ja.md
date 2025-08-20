@@ -61,7 +61,22 @@ DOTXをTSVに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- Wordテンプレートからのデータ移行
+- TSVを用いたスプレッドシートのインポート/エクスポート
+- バックエンドデータベースとの統合
+- モダンなクラウドおよびバックエンドシステムとの統合のための軽量な構造化表データの処理
+- 軽量なレポート作成および分析
+
+## ⚙️ 自動化シナリオ
+- 構造化されたエクスポート用のDOTXからTSVへのパイプライン
+- テンプレートからデータへの大量変換
+- 企業ツールとのAPIベースの統合
+- 一貫性のためのデータ正規化ワークフロー
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,25 @@ otherformats: XLTX XLS XLAM EXCEL CSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Перетворення **DOT** на **TSV (значення, розділені табуляцією)** дозволяє структуроване вилучення табличних даних з шаблонів Word у легкі, переносні формати, що підходять для аналітики та робочих процесів баз даних.
+
+## ✅ Основні використання
+- Міграція даних до електронних таблиць
+- Імпорт/експорт у корпоративних додатках
+- Стандартизована таблична звітність
+- Структурований текст, готовий для баз даних
+ 
+## ⚙️ Сценарії автоматизації
+- Автоматизовані конвеєри DOT-до-TSV
+- Масове вилучення даних з шаблонів Word
+- Генерація TSV, готова для робочих процесів
+- Стандартизація даних у корпоративному середовищі
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

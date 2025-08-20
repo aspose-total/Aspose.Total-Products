@@ -49,7 +49,26 @@ Podczas konwertowania DOT na JSON możesz również ustawić zakres na wyjściow
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **JSON (JavaScript Object Notation)** pozwala szablonom Worda stać się strukturalnymi, gotowymi do użycia zestawami danych dla aplikacji internetowych, automatyzacji w chmurze i integracji korporacyjnych.
+
+## ✅ Główne przypadki użycia
+- Aplikacje internetowe
+- Automatyzacja oparta na danych
+- Interfejsy API w chmurze
+- Integracje oprogramowania korporacyjnego
+- Generowanie strukturalnych zbiorów danych
+
+## ⚙️ Scenariusze automatyzacji
+- Automatyzacja przepływu DOT do JSON
+- Przepływy pracy od szablonu do interfejsu API
+- Systemy raportowania gotowe do JSON
+- Integracja danych korporacyjnych oparta na chmurze
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

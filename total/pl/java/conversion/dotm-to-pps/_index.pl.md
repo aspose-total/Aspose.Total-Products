@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **PPS (PowerPoint Slide Show)** pozwala na bezpośrednie tworzenie pokazów slajdów z makroaktywowanych szablonów Word, odpowiednich na wydarzenia, szkolenia i prezentacje korporacyjne.
+
+## ✅ Główne przypadki użycia
+- Prezentacje wydarzeń
+- Pokazy slajdów szkoleniowych
+- Automatyczne pokazy raportów
+- Prezentacje korporacyjne
+- Prezentacje oparte na kioskach
+
+## ⚙️ Scenariusze automatyzacji
+- Automatyzacja pokazu DOTM-to-PPS
+- Wdrożenia zestawów slajdów w przedsiębiorstwie
+- Dostarczanie prezentacji zgodnie z procesem
+- Automatyczne slajdy gotowe na wydarzenie
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,26 @@ Po przekonwertowaniu DOCX na XLTM [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCX** na **XLTM (Szablon z obsługą makr w programie Excel)** jest ważne dla tworzenia wielokrotnie używanych szablonów arkuszy kalkulacyjnych z obsługą makr, które zawierają logikę automatyzacji pochodzącą z dokumentów.
+
+## ✅ Kluczowe przypadki użycia
+- Automatyzacja powtarzalnych procesów
+- Tworzenie gotowych do użycia szablonów z obsługą makr dla przedsiębiorstw
+- Migracja logiki opartej na makrach z DOCX do Excela
+- Wsparcie modeli finansowych i analitycznych
+- Usprawnianie raportowania
+
+## ⚙️ Scenariusze automatyzacji
+- Automatyzacja konwersji DOCX na XLTM z obsługą makr
+- Generowanie szablonów w procesach
+- Zarządzanie makrami w przedsiębiorstwie
+- Zautomatyzowane procesy szablonów Excela
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

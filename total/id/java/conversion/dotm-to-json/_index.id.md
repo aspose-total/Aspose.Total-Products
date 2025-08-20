@@ -49,7 +49,26 @@ Saat Anda mengonversi DOTM ke JSON, Anda juga dapat mengatur rentang ke format J
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Ekspor **DOTM** ke **JSON (JavaScript Object Notation)** memungkinkan format data terstruktur yang dapat dibaca mesin, sempurna untuk API, alur kerja cloud, dan penyimpanan basis data NoSQL, meningkatkan integrasi aplikasi web dan seluler.
+
+## ✅ Kasus Penggunaan Kunci
+- Integrasi API untuk aplikasi web dan cloud
+- Pertukaran data aplikasi web dan interoperabilitas
+- Penyimpanan basis data NoSQL
+- Alur kerja cloud-native dan serverless
+- Pelaporan otomatis dan analitika
+
+## ⚙️ Skenario Otomatisasi
+- Pipa ekstraksi DOTM-to-JSON
+- Alur kerja data Macro-to-API
+- Otomatisasi Dokumen-to-JSON
+- Proses otomatisasi berbasis data
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

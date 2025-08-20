@@ -54,7 +54,25 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTX dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTX** átalakítása **PPSM (Makróval engedélyezett PowerPoint bemutató)** formátumba automatizált, interaktív és önállóan futó prezentációkat tesz lehetővé, amelyek makrókat integrálnak a fejlett funkcionalitás érdekében.
+
+## ✅ Fő felhasználási esetek
+- Önállóan futó képzési modulok
+- Automatizált adatalapú diavetítések
+- Interaktív eseménybemutatók
+- Makróval engedélyezett termékbemutatók
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTX-PPSM csővezetékek
+- Automatizált kioszk csomagok
+- Makró-bemutató munkafolyamatok
+- Automatikusan frissítő bemutatórendszerek
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

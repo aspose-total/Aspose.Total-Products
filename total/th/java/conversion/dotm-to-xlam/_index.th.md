@@ -61,7 +61,25 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+- เครื่องมืออัตโนมัติขององค์กรจากเทมเพลต Word
+- การสร้าง Excel add-ins ที่มีมาตรฐาน
+- ขั้นตอนการย้ายแมโคร
+- ไลบรารีอัตโนมัติที่สามารถใช้ซ้ำ
+- การติดตั้ง Excel add-in พร้อมใช้งานใน Cloud
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- กระบวนการสร้าง add-in จาก DOTM เป็น XLAM
+- การย้ายแมโครโดยอัตโนมัติ
+- ขั้นตอนการอัตโนมัติจากเอกสารไปยัง Excel
+- การอัตโนมัติในการรายงานขององค์กร
+- กระบวนการกระจาย add-in ที่สามารถขยายได้
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

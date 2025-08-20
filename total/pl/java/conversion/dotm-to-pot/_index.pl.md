@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **POT (szablon programu PowerPoint)** umożliwia ponowne wykorzystanie szablonów Word z obsługą makr w programie PowerPoint, zapewniając standaryzowane, skalowalne szablony prezentacji dla przedsiębiorstw.
+
+## ✅ Główne przypadki użycia
+- Szablony prezentacji korporacyjnych
+- Slajdy szkoleniowe i edukacyjne
+- Gotowe do użycia makrooparte deki do raportowania w przedsiębiorstwie
+- Spójność marki w programie PowerPoint
+- Wdrożenia prezentacji na dużą skalę
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersje szablonów DOTM na POT
+- Automatyzacja generowania prezentacji
+- Automatyzacja zestawów szkoleniowych dla przedsiębiorstw
+- Tworzenie prezentacji zgodnie z procesami roboczymi
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

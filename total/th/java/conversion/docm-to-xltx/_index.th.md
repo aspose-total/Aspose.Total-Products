@@ -61,7 +61,25 @@ otherformats: XLTM XLTX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+- มาตรฐานของ **โมเดลการเงิน**  
+- การสร้าง **เทมเพลตสำหรับรายงานพร้อมใช้**  
+- การย้าย **เนื้อหาที่มีโครงสร้างจาก DOCM เป็น Excel**  
+- การสนับสนุน **กระบวนการทำงานด้านธุรกิจ**  
+- เพิ่มประสิทธิภาพด้วย **เทมเพลต Excel ที่สามารถใช้ซ้ำได้**  
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- **การอัตโนมัติเทมเพลต DOCM เป็น XLTX**  
+- การสร้างท่อรายงานขององค์กรที่สร้างไฟล์ XLTX  
+- **การสร้างเทมเพลต Excel มาตรฐาน**  
+- กระบวนการทำงานเทมเพลตที่ขับเคลื่อนด้วยข้อมูลอัตโนมัติ  
+- **การกระจายเทมเพลตทั่วบริษัท**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

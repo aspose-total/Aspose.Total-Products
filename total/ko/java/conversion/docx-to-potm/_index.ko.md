@@ -54,7 +54,24 @@ API를 사용하면 암호로 보호된 DOCX 문서를 POTM로 변환할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>주요 사용 사례</h2>
+- 반복적인 슬라이드 서식 자동화  
+- 기업용 매크로 템플릿 생성  
+- DOCX에서 PowerPoint으로 매크로 지원 워크플로 이전  
+- 대화형 교육 모듈 지원  
+- 반복되는 비즈니스 프레젠테이션을 간소화  
+
+<h2>자동화 시나리오</h2>
+- DOCX를 POTM으로 매크로 지원 자동화  
+- 슬라이드 템플릿 생성 파이프라인  
+- 기업용 매크로 템플릿 라이브러리  
+- 자동화된 PowerPoint 템플릿 워크플로우  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

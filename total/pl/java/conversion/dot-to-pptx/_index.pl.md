@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **PPTX (Prezentacja PowerPoint Open XML)** pozwala na tworzenie nowoczesnych, edytowalnych plików PowerPoint opartych na XML, które są przeznaczone do pracy w chmurze, skalowalnych szablonów dla przedsiębiorstw oraz do celów akademickich.
+
+## ✅ Główne przypadki użycia
+- Raportowanie biznesowe
+- Przepływy pracy prezentacji gotowych do pracy w chmurze
+- Wykłady akademickie
+- Skalowalne szablony dla przedsiębiorstw
+- Automatyzacja tworzenia propozycji
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja DOT na PPTX
+- Automatyzacja prezentacji w formacie XML w PowerPoint
+- Integracja przepływów pracy dla przedsiębiorstw
+- Potoki dokumentów do slajdów
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

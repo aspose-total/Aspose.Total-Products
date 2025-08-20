@@ -54,7 +54,23 @@ Met de API kunt u ook met een wachtwoord beveiligde DOCX-documenten naar ODP con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Belangrijkste Gebruiksscenario's</h2>
+- Slides maken van **DOCX-rapporten**  
+- ODP gebruiken voor **OpenOffice**  
+- Archiveren van DOCX-presentaties in **open formaten**  
+- Academische of **overheidsconformiteitsrapportage**  
+
+<h2>⚙️ Automatiseringsscenario's</h2>
+- **Bulkgeneratie van DOCX naar ODP-presentaties**  
+- **Geautomatiseerde creatie van les-/pitchdecks**  
+- **Workflows met open source**  
+- **Automatisering van ondernemingspresentaties op basis van ODP**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

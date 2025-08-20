@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**を**PowerPoint形式**に変換すると、構造化されたWordテンプレートがトレーニング、マーケティング、企業コミュニケーション向けのインタラクティブでビジュアルなコミュニケーションツールに変換されます。
+
+## ✅ 主な使用用途
+- 投資家向けプレゼンテーション
+- 営業プレゼンテーション
+- トレーニングセッション
+- 研究防衛スライド
+- マーケティングキャンペーン
+
+## ⚙️ 自動化シナリオ
+- DOTXからPowerPointへの自動化
+- データからスライドへのワークフロー
+- 企業レベルのプレゼンテーション生成
+- 自動フォーマットパイプライン
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

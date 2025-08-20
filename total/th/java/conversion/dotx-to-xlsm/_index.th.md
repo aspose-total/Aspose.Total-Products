@@ -61,7 +61,22 @@ otherformats: XLAM ODS TSV XLT FODS XLSM DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลักที่สำคัญ
+- การจำลองโมเดลการเงินโดยอัตโนมัติจากเทมเพลต
+- การอัตโนมัติของขั้นตอนการทำงานที่แตกต่างกัน
+- การประมวลผลข้อมูลขั้นสูงภายใน Excel
+- การรวมมาโครธุรกิจสำหรับงานที่เกิดซ้ำ
+- การอัตโนมัติงานที่มีการใช้เอกสารด้วยมาโคร
+
+## สถานการณ์การอัตโนมัติ
+- ท่อการทำงานจาก DOTX เป็น XLSM ด้วยมาโคร
+- การสร้างสเปรดชีตโดยอัตโนมัติด้วยมาโคร
+- การทำงานอัตโนมัติของงานที่มีขั้นตอนการทำงานที่แตกต่างกัน
+- การสคริปต์ Excel ที่ใช้เทมเพลตเป็นหลักสำหรับการเพิ่มประสิทธิภาพ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

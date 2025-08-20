@@ -54,7 +54,22 @@ APIを使用すると、パスワードで保護されたDOCXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## 主要なユースケース
+- 現代のPowerPointテンプレートの標準化  
+- Officeの異なるバージョン間の互換性の確保  
+- 構造化されたコンテンツをデザイン用のテンプレートに移行  
+- 営業およびマーケティング資料のサポート  
+- トレーニングやワークショッププレゼンテーションの効率化  
+
+## ⚙️ 自動化シナリオ
+- DOCXからPOTXへのテンプレート自動化  
+- 現代のプレゼンテーションテンプレートパイプライン  
+- 企業標準化されたPOTXワークフロー  
+- スライドデッキでのデザインの一貫性を自動化  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

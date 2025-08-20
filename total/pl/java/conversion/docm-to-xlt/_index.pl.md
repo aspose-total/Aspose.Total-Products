@@ -61,7 +61,27 @@ Po przekonwertowaniu DOCM na XLT [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCM** na **XLT (szablon Excela, starsza wersja)** pozwala organizacjom tworzyć wielokrotnie używane szablony arkuszy kalkulacyjnych kompatybilne ze starszymi wersjami Excela. Zachowuje to układy oparte na dokumentach i wspiera przestarzałe raportowanie, formularze i procesy archiwizacyjne.
+
+## ✅ Główne przypadki użycia
+- Projektowanie **standaryzowanych szablonów finansowych**  
+- Przygotowywanie wielokrotnie używanych **formularzy dla starszych wersji Excela**  
+- Migracja **formularzy Worda** do szablonów arkuszy kalkulacyjnych  
+- Wsparcie dla organizacji nadal korzystających z **Excela 97–2003**  
+- Tworzenie **szablonów archiwalnych** w formacie XLT  
+
+## ⚙️ Scenariusze automatyzacji
+- **Automatyczne konwertery DOCM na XLT**  
+- Przepływy pracy w przedsiębiorstwie utrzymujące **biblioteki szablonów z przeszłości**  
+- **Partie przetwarzające** generowanie finansowych XLT z Worda  
+- **Systemy archiwizacyjne** wymagające kompatybilności z XLT  
+- Przepływy dystrybucji szablonów dla **użytkowników starszych wersji Excela**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

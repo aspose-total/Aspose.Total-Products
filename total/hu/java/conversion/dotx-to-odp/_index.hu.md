@@ -54,7 +54,25 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTX dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek
+- LibreOffice Impress bemutatók  
+- Nyílt szabványoknak való megfelelés  
+- Akadémiai vagy kormányzati munkafolyamatok  
+- Több platformon történő bemutatómegosztás  
+- ODF ökoszisztéma integrációja  
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTX-ODP csatornák  
+- Tömeges bemutatókészítés  
+- Automatizált diavetítés készítés  
+- Felhőalapú ODP munkafolyamatok  
+- Dokumentum-bemutató automatizálás
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **PowerPoint (PPT/PPTX)** przekształca szablony Word z obsługą makr w w pełni funkcjonalne slajdy, usprawniając komunikację w przedsiębiorstwie oraz przepływy pracy szkoleniowej.
+
+## ✅ Główne przypadki użycia
+- Prezentacje w sali konferencyjnej
+- Dechy sprzedażowe
+- Moduły szkoleniowe
+- Slajdy komunikacyjne dla przedsiębiorstw
+- Przepływy pracy prezentacji związane z polityką/zgodnością
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki DOTM do PowerPoint
+- Automatyczne tworzenie slajdów prezentacji
+- Przepływy pracy dechów dla przedsiębiorstw
+- Automatyzacja dokumentów do prezentacji
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

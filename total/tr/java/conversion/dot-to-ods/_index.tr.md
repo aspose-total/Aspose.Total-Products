@@ -61,7 +61,26 @@ DOT'yi ODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOT**'u **ODS (OpenDocument Spreadsheet)**'e dönüştürmek, Word şablonlarından yapılandırılmış, açık kaynaklı elektronik tablolar oluşturmak için temel bir adımdır; analitik, raporlama ve işbirliğini destekler.
+
+## ✅ Temel Kullanım Durumları
+- Açık kaynaklı iş akışları
+- Elektronik tablo için hazır raporlama
+- Veri işbirliği
+- Kurumsal analitik
+- Çapraz platform uyumluluğu
+
+## ⚙️ Otomasyon Senaryoları
+- DOT'tan ODS'ye şablon otomasyonu
+- Açık kaynaklı raporlama iş akışları
+- ODS tabanlı veri akışları
+- Bulut tabanlı belge-elektronik tablo dönüşümleri
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

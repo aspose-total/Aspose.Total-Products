@@ -61,7 +61,24 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL TSV DIF XLTM XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### การใช้งานหลัก ✅
+- การย้ายข้อมูลจากเทมเพลตของ Word
+- การนำเข้า/ส่งออกสเปรดชีตด้วย TSV
+- การผสานฐานข้อมูลด้านหลัง
+- การประมวลผลข้อมูลแบบตารางที่เข้ากันได้กับคลาวด์
+- รายงานและการวิเคราะห์ข้อมูลที่เบา
+
+### สถานการณ์อัตโนมัติ ⚙️
+- ท่อการส่งออกโครงสร้าง DOTX-to-TSV
+- การแปลงเทมเพลตเป็นข้อมูลเป็นจำนวนมาก
+- การผสานข้อมูลผ่าน API กับเครื่องมือขององค์กร
+- กระบวนการปรับข้อมูลเพื่อความสม่ำเสมอ
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,24 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSX EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### กรณีการใช้งานหลัก
+- การแลกเปลี่ยนข้อมูลขององค์กร
+- การทำงานของรายงานมาตรฐาน
+- การทำงานร่วมกันใน Excel บนคลาวด์
+- การใช้งานแม่แบบสเปรดชีตที่ทันสมัย
+- การวิเคราะห์ข้ามแพลตฟอร์ม
+
+### สถานการณ์การอัตโนมัติ
+- การแปลงจำนวนมากจาก DOT เป็น XLSX
+- การทำงานของ Excel บนคลาวด์
+- การอัตโนมัติเอกสารเป็นชุดข้อมูล
+- ท่องไปรข้อมูลพร้อมใช้งานขององค์กร
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

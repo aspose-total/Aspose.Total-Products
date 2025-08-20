@@ -61,7 +61,23 @@ A DOCX FODS-vé konvertálása után az [Aspose.Cells for Java](https://products
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Fő felhasználási esetek</h2>
+- Interoperabilitás a **LibreOffice & OpenOffice**-al
+- **DOCX adatok archiválása** nyílt formátumban
+- **XML-alapú táblázatstruktúrák létrehozása**
+- **Hosszú távú megfelelőségi jelentések támogatása**
+
+<h2>⚙️ Automatizálási forgatókönyvek</h2>
+- **DOCX-FODS nyílt forráskódú automatizálás**
+- **XML-alapú táblázat csővezetékek**
+- **FODS jelentési rendszerek**
+- **Keresztplatformos irodai szoftver munkafolyamatok**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

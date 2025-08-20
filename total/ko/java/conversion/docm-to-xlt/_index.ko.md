@@ -61,7 +61,27 @@ DOCM를 XLT로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOCM**를 **XLT (Excel 템플릿, 레거시)**으로 변환하면 조직이 오래된 Excel 버전과 호환되는 재사용 가능한 스프레드시트 템플릿을 생성할 수 있습니다. 이는 문서 중심 레이아웃을 보존하고 레거시 보고서, 양식 및 보관 워크플로를 지원합니다.
+
+## ✅ 주요 사용 사례
+- **표준화된 재무 템플릿 설계**
+- 오래된 Excel 버전용 **재사용 가능한 양식** 준비
+- **Word 양식**을 스프레드시트 템플릿으로 이관
+- 아직 **Excel 97–2003**을 사용하는 조직 지원
+- XLT 형식의 **보관용 템플릿 작성**
+
+## ⚙️ 자동화 시나리오
+- **DOCM-to-XLT 자동 변환기**
+- 레거시 템플릿 라이브러리를 유지하는 기업 워크플로
+- 워드에서 재무 XLT를 생성하는 **일괄 처리 파이프라인**
+- XLT 호환성이 필요한 **보관 시스템**
+- **레거시 Excel 사용자**를 위한 템플릿 배포 워크플로
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

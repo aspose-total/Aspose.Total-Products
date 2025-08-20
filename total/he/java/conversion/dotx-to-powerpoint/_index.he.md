@@ -103,7 +103,26 @@ otherformats: POT PPTM ODP PPT POTM PPSX PPSM PPTX POTX PPS CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל־**תבניות PowerPoint** ממירה תבניות מילת סדר לכלים אינטראקטיביים וחזותיים לתקשורת להדרכה, שיווק ותקשורת תאגידית.
+
+## ✅ מקרי שימוש מרכזיים
+- הצגות למשקיעים
+- הצגות מכירות
+- שיעורי הכשרה
+- שקופיות להגנת מחקר
+- מבצעי שיווק
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של DOTX ל־PowerPoint
+- זרימות עבודה מנתונים לשקופיות
+- יצירת מצגות ברמת המוסד
+- צינורות עיבוד אוטומטיים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwersja **DOTM** na **PPTM (Prezentacja PowerPoint z obsługą makr)** obsługuje dynamiczne, interaktywne prezentacje z makrami do pulpitów finansowych, raportów zgodności i zautomatyzowanych prezentacji korporacyjnych.
+
+## ✅ Kluczowe przypadki użycia
+- Interaktywne pulpity finansowe
+- Zautomatyzowane prezentacje korporacyjne
+- Raporty zgodności oparte na procesach roboczych
+- Zautomatyzowane prezentacje szkoleniowe z obsługą makr
+- Generowanie raportów korporacyjnych
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki makr DOTM do PPTM
+- Automatyzacja prezentacji korporacyjnych
+- Tworzenie prezentacji zgodności opartych na procesach roboczych
+- Dostarczanie pokazów slajdów opartych na makrach
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

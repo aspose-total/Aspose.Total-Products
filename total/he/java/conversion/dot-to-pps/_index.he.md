@@ -103,7 +103,26 @@ otherformats: PPT ODP POTM PPSM PPSX POWERPOINT PPTX POT PPTM POTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**PPS (PowerPoint Show)** יוצרת מצגות שמתחילות באופן אוטומטי ישירות מתבניות Word למסירה חלקה בפגישות ואירועים.
+
+## ✅ מקרי שימוש מרכזיים
+- מצגות דוגמה לעסקים
+- שקפים להרצאות לימודיות
+- מצגות לאירועים
+- מצגות להדרכה
+- הצגות מוצרים שרצות באופן אוטומטי
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-PPS
+- יצירת מצגת סליידים אוטומטית
+- מצגות מוכנות להתחלה אוטומטית לעסקים
+- צינורות מסמכים להצגה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

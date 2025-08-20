@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**を**PPTM（PowerPoint Macro-Enabled Presentation）**に変換すると、マクロを含むインタラクティブなプレゼンテーションファイルが生成され、自動化駆動のレポート、提案、トレーニングスライドに適しています。
+
+## ✅ 主な使用用途
+- 自動化されたレポートスライド
+- 企業向けマクロ駆動ワークフロー
+- トレーニングプレゼンテーション
+- 動的なビジネス提案
+- インタラクティブな講義
+
+## ⚙️ 自動化シナリオ
+- マクロを含むDOTからPPTMへの変換
+- マクロを有効にしたプレゼンテーションの自動化
+- 企業向けスライドワークフロー
+- ドキュメントからプレゼンテーションへのパイプライン
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

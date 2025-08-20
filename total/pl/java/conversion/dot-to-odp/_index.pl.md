@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **ODP (OpenDocument Presentation)** jest kluczowe dla generowania slajdów prezentacji typu open-source bezpośrednio z szablonów programu Word, umożliwiając współpracę i dostępność na różnych platformach.
+
+## ✅ Główne przypadki użycia
+- Prezentacje na różnych platformach
+- Kompatybilność z open-source
+- Szablony gotowe do użycia w przedsiębiorstwach
+- Współpraca w chmurze
+- Generowanie treści edukacyjnych
+
+## ⚙️ Scenariusze automatyzacji
+- Zautomatyzowane przepływy pracy z DOT do ODP
+- Gotowe do prezentacji procesy
+- Automatyzacja przepływu pracy w formacie OpenDocument
+- Systemy konwersji dokumentów na prezentacje
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

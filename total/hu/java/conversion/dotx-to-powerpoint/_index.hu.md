@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTX dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTX** átalakítása **PowerPoint formátumokká** átalakítja a strukturált Word sablonokat interaktív, vizuális kommunikációs eszközökké az oktatás, a marketing és a vállalati kommunikáció területén.
+
+## ✅ Fő felhasználási esetek
+- Befektetői pitchek
+- Értékesítési prezentációk
+- Képzési szekciók
+- Kutatási védelmi diák
+- Marketing kampányok
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTX-PowerPoint automatizálás
+- Adatok-dia munkafolyamatok
+- Vállalati szintű prezentáció generálás
+- Automatikus formázási csatornák
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

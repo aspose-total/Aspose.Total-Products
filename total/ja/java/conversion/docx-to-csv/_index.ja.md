@@ -61,7 +61,22 @@ DOCXをCSVに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+- **DOCX** から **CSV (コンマ区切り値)** へのテーブル抽出  
+- **ビジネスインテリジェンス（BI）ツール** 用のデータセットの準備  
+- 構造化されたテキストの **SQL データベース** へのインポート  
+- **e コマースの一括アップロード** の有効化  
+- **データ移行** タスクの実行  
+
+## ⚙️ 自動化シナリオ
+- **一括 DOCX から CSV へのテーブル抽出**  
+- **自動化されたデータセットの準備**  
+- レポーティング用の **CSV パイプライン**  
+- **ETL ワークフロー** との統合  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

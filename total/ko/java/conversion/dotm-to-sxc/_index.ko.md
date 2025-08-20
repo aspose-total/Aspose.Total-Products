@@ -61,7 +61,25 @@ DOTM를 SXC로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ 주요 사용 사례
+- 스프레드시트 워크플로우의 레거시 데이터 호환성
+- 오픈 소스 오피스 통합
+- 문서-스프레드시트 워크플로우 자동화
+- SXC 형식의 기업 아카이브
+- 크로스 플랫폼 스프레드시트 사용
+
+## ⚙️ 자동화 시나리오
+- DOTM에서 SXC로 일괄 변환하는 파이프라인
+- 오픈 소스 스프레드시트 자동화
+- 문서 매크로 템플릿 이전
+- 워크플로우 상호 운용성
+- 아카이브 변환
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

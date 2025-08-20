@@ -102,7 +102,23 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>שימושים מרכזיים ✅</h2>
+- העברת נתונים ל-OpenOffice/LibreOffice
+- שמירת תוכן טבלאי מובנה ממסמכים
+- אפשרות תאימות עם מערכות המבוססות על StarOffice
+- תמיכה בזרימות עבודה של מסמכים פתוחים
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- המרה מ-DOCX ל-SXC בצורת סדרת המרות
+- אינטגרציה עם מערכות מורשות
+- זרימות עבודה של דיווחים קוד פתוח
+- צינורות מסמך-לגיליון נתונים בארגונים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

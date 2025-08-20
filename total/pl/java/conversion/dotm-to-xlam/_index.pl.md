@@ -61,7 +61,27 @@ Po przekonwertowaniu DOTM na XLAM [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **XLAM (Excel Add-in)** przekształca szablony Word z obsługą makr w potężne narzędzia automatyzacji Excela, umożliwiając tworzenie bibliotek do ponownego wykorzystania i dodatki gotowe do użycia w przedsiębiorstwie do standaryzowanych procesów roboczych.
+
+## ✅ Główne przypadki użycia
+- Narzędzia automatyzacji przedsiębiorstwa z szablonów Word
+- Generowanie standaryzowanych dodatków Excel
+- Przepływy pracy migracji makr
+- Biblioteki automatyzacji do ponownego wykorzystania
+- Wdrażanie gotowych do użycia dodatków Excel w chmurze
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki generowania dodatków DOTM-to-XLAM
+- Automatyczna migracja makr
+- Przepływy pracy automatyzacji dokumentów do Excela
+- Automatyzacja raportowania w przedsiębiorstwie
+- Rozproszone wdrażanie dodatków skalowalnych
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

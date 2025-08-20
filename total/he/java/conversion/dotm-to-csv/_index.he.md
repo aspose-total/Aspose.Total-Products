@@ -102,7 +102,24 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>מקרים שימוש מרכזיים ✅</h2>
+- העברת נתונים מתבניות וורד עם מאקרו לבסיסי נתונים
+- זרימות ייבוא/יצוא בין מספר מערכות
+- עיבוד וניתוח נתונים עסקיים
+- ייבואים קלים לבסיסי נתונים וניהול טבלאות
+- צינורות דיווח משולבים לבינה עסקית
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- צינורות ייבוא DOTM ל־CSV
+- זרימות שינוי מאקרו לנתונים
+- דיווחי CSV מופעלים אוטומטית מתבניות Word
+- צינורות ETL עסקיים לנתונים מובנים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

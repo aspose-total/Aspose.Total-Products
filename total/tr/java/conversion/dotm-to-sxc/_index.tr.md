@@ -61,7 +61,25 @@ DOTM'yi SXC'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Ana Kullanım Durumları
+- Elektronik tablo iş akışları için eski veri uyumluluğu
+- Açık kaynak ofis entegrasyonları
+- Belgeden elektronik tablo iş akışı otomasyonu
+- SXC formatında kurumsal arşivleme
+- Çapraz platform elektronik tablo kullanımı
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den SXC'ye toplu dönüşüm boru hatları
+- Açık kaynak elektronik tablo otomasyonu
+- Belge makro şablonu göçü
+- İş akışı uyumluluğu
+- Arşiv dönüşümleri
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

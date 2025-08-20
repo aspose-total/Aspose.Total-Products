@@ -54,7 +54,27 @@ API를 사용하면 암호로 보호된 DOTX 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**를 **ODP (OpenDocument Presentation)**으로 변환하면 구조화된 Word 콘텐츠에서 오픈 소스 프레젠테이션 템플릿을 만들 수 있어서 규정 준수, 접근성 및 멀티 플랫폼 공유를 지원합니다.
+
+## ✅ 주요 사용 사례
+- LibreOffice Impress 프레젠테이션
+- 오픈 표준 규정 준수
+- 학술 또는 정부 업무 흐름
+- 크로스 플랫폼 프레젠테이션 공유
+- ODF 생태계 통합
+
+## ⚙️ 자동화 시나리오
+- DOTX-to-ODP 파이프라인
+- 일괄 프레젠테이션 생성
+- 자동 슬라이드 덱 생성
+- 클라우드 기반 ODP 워크플로우
+- 문서-to-프레젠테이션 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

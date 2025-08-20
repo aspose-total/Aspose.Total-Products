@@ -54,7 +54,26 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTM dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTM** átalakítása **PPT (Örökölt PowerPoint Formátum)** formátummá biztosítja a visszafelé kompatibilitást az régebbi rendszerekkel, lehetővé téve az archivált prezentációkat és képzési diafilmeket az örökölt infrastruktúrához.
+
+## ✅ Fő felhasználási esetek
+- Örökölt vállalati rendszerek
+- Archivált prezentációk
+- Képzési diafilmek az öreg infrastruktúrához
+- Kompatibilitás offline környezetben
+- Kormányzati/intézményi jelentések
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-PPT örökölt automatizálás
+- Régi verziókhoz való kompatibilitás munkafolyamatok
+- Archívumra kész prezentációs csatornák
+- Örökölt pakli átalakítás automatizálása
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

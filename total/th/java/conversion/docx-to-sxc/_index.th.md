@@ -61,7 +61,21 @@ otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## การใช้งานหลัก ✅
+- การย้ายข้อมูลไปยัง OpenOffice/LibreOffice
+- การรักษาเนื้อหาตารางโครงสร้างจากเอกสาร
+- การทำให้เข้ากันได้กับระบบที่ใช้ StarOffice
+- การสนับสนุนการทำงานของเอกสารเปิด
+
+## สถานการณ์การอัตโนมัติ ⚙️
+- การแปลงเป็นกลุ่มของ DOCX เป็น SXC
+- การผสมระบบที่เป็นที่มา
+- การทำงานของรายงานโอเพนซอร์ส
+- การสร้างท่อการทำงานของเอกสารไปยังสเปรดชีทขององค์กร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

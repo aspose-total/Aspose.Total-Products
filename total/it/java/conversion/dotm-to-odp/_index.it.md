@@ -54,7 +54,26 @@ L'API consente inoltre di convertire dotmumenti DOTM protetti da password in ODP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertire **DOTM** in **ODP (OpenDocument Presentation)** consente di riutilizzare modelli Word abilitati alle macro in presentazioni compatibili con open source per un uso aziendale e multipiattaforma.
+
+## ✅ Principali casi d'uso
+- Flussi di lavoro di presentazione aziendale
+- Adozione open source per le diapositive
+- Compatibilità multipiattaforma
+- Creazione di diapositive basate su macro
+- Integrazione con strumenti di presentazione cloud
+
+## ⚙️ Scenari di automazione
+- Generazione automatizzata di DOTM-to-ODP
+- Flussi di conversione da macro a presentazione
+- Pipeline di presentazione open source
+- Automazione dei flussi di lavoro ODP pronti per l'azienda
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

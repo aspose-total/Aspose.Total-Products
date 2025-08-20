@@ -54,7 +54,26 @@ API ayrıca parola korumalı DOT belgelerini PPT'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOT**'u **PPT (PowerPoint Sunumu)**'na dönüştürmek, Word şablonlarından düzenlenebilir sunum dosyaları oluşturur ve eski sistemleri ve standart sunum iş akışlarını destekler.
+
+## ✅ Ana Kullanım Durumları
+- İş raporları
+- Akademik projeler
+- Satış sunumları
+- Kurumsal eğitim slaytları
+- Teklif oluşturma
+
+## ⚙️ Otomasyon Senaryoları
+- DOT'tan PPT'ye dönüşüm
+- Düzenlenebilir sunum otomasyonu
+- Kurumsal hazır belge-slayt iş akışları
+- Belge-sunum boru hatları
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

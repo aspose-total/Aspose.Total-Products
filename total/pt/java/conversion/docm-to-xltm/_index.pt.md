@@ -61,7 +61,27 @@ Depois de converter DOCM para XLTM, o [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+
+# Conversão de DOCM para XLTM: Modelos com Macro Habilitado
+
+Converter **DOCM** para **XLTM (Modelo do Excel com Macro Habilitado)** permite que organizações criem modelos de planilhas reutilizáveis com macro a partir de conteúdo do Word. Esses modelos oferecem suporte à automação, modelagem financeira, relatórios e otimização de fluxos de trabalho empresariais.
+
+## ✅ Principais Casos de Uso
+- Automatização de **fluxos de trabalho repetitivos**
+- Criação de **modelos de macro prontos para empresa**
+- Migração de **lógica baseada em macro** de DOCM para Excel
+- Suporte a **modelos financeiros e analíticos**
+- Otimização de **processos de relatórios**
+
+## ⚙️ Cenários de Automação
+- **Automação de conversão DOCM para XLTM com macro habilitado**
+- **Pipelines de geração de modelos**
+- **Gerenciamento de macro empresarial**
+- **Fluxos de trabalho de modelos do Excel automatizados**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

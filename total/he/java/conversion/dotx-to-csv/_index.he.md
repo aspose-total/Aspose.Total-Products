@@ -102,7 +102,27 @@ otherformats: DIF XLSB XLSM EXCEL FODS XLTX XLS XLAM XLSX XLT XLTM ODS TSV SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTX** ל-**CSV** היא חיונית להמרת תבניות Word מובנות לנתוני טקסט טבלאיים נקיים שניתן לייבא בקלות למסדי נתונים, גיליונות אלקטרוניים וצינורות נתונים.
+
+## ✅ מקרי שימוש עיקריים
+- יבוא למסד נתונים
+- ייבוא גיליון אלקטרוני
+- טיפול בנתונים בצמתים
+- אחסון קבצים קל
+- זרימות עבודה להעברת נתונים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות נתונים מ- DOTX ל-CSV
+- ייצוא CSV בצמתים
+- זרימות עבודה ETL
+- אינטגרציה עם נתונים עסקיים
+- אוטומציה של CSV בענן
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

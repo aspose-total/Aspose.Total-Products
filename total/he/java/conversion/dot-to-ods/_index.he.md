@@ -102,7 +102,26 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM CSV DIF FODS XLSX XLTX XLSM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **ODS (גיליון נתונים של OpenDocument)** היא חיונית ליצירת גיליוני נתונים מובנים ופתוחים מתבניות Word, התומכים בניתוחים, דיווחים ושיתוף פעולה.
+
+## ✅ מקרי שימוש מרכזיים
+- זרימות עבודה פתוחות מקור
+- דיווחים מוכנים לגיליון נתונים
+- שיתוף נתונים
+- ניתוחים עסקיים
+- תאימות צד-פלטפורמה
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של תבניות DOT-to-ODS
+- זרימות עבודה לדיווחים פתוחים מקור
+- צינורות נתונים המבוססים על ODS
+- המרות מסמכים ענן-נייטיביות לגיליון נתונים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

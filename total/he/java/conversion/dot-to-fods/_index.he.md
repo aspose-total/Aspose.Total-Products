@@ -102,7 +102,26 @@ otherformats: XLT XLSB XLSM ODS TSV CSV XLS XLAM SXC DIF XLSX XLTM EXCEL XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**FODS (Flat XML ODF Spreadsheet)** חשובה ליצירת גיליונות עבודה מבוססי XML ופתוחים מתבניות Word, תומך בזרימות עבודה צלע-צלע וענן.
+
+## ✅ מקרי שימוש מרכזיים
+- זרימות עבודה של OpenDocument
+- עיבוד גיליונות עבודה בענן
+- תאימות צלע-צלע
+- שיתוף נתונים
+- ארכיבה לטווח ארוך
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה ממוכנים מראש מ-DOT ל-FODS
+- אינטגרציה של זרימות עבודה פתוחות מקור
+- עיבוד נתונים של FODS
+- פתרונות דיווחים שניתנים לאינטרופרציה
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

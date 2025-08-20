@@ -61,7 +61,25 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+- ความเข้ากันได้ของข้อมูลเก่าสำหรับการทำงานของสเปรดชีต  
+- การผสมผสานออฟฟิศแบบโอเพ่นซอร์ส  
+- การอัตโนมัติของเวิร์กฟลอว์จากเอกสารไปสู่สเปรดชีต  
+- การเก็บถาวรในรูปแบบ SXC สำหรับองค์กร  
+- การใช้งานสเปรดชีตข้ามแพลตฟอร์ม  
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- ท่อการแปลงจำนวนมากจาก DOTM เป็น SXC  
+- การอัตโนมัติของสเปรดชีตแบบโอเพ่นซอร์ส  
+- การย้ายเทมเพลตแมโครจากเอกสาร  
+- การเชื่อมโยงเวิร์กฟลอว์  
+- การแปลงเป็นรูปแบบเก็บถาวร
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

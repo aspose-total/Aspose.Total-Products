@@ -49,7 +49,43 @@ Medan du konverterar DOCM till JSON kan du också ställa in intervallet för di
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Viktiga användningsfall  
+
+- **Publicera dokumentdata till REST/GraphQL-API:er**  
+  Servera extraherat DOCM-innehåll som JSON för direkt användning i webb- och mobilappar.  
+
+- **Mata NoSQL-databaser och datalager**  
+  Ladda DOCM-avledat strukturerat data in i MongoDB, Elasticsearch eller molnbaserade datalager.  
+
+- **Driva instrumentpaneler med realtids-JSON-flöden**  
+  Strömma dokumentbaserade KPI:er och mätetal till BI-instrumentpaneler och övervakningsverktyg.  
+
+- **Validera inmatningar mot JSON-schema**  
+  Se till att konsistens och integritet upprätthålls genom att anpassa DOCM-fältdata med JSON-schema-regler.  
+
+- **Möjliggöra headless CMS eller mikrotjänstarkitekturer**  
+  Integrera DOCM-innehåll i distribuerade system med API-först där JSON är lingua franca.  
+
+## ⚙️ Automatiseringsscenario  
+
+- **DOCM-till-JSON-extraktion med fältmappning**  
+  Definiera mappningar för att omvandla tabeller, rubriker och fält till strukturerade JSON-objekt.  
+
+- **Serverlösa funktioner som konverterar och sänder JSON-händelser**  
+  Utlös konverteringar vid filuppladdning och sänd JSON-payloads till händelsestyrda system.  
+
+- **ETL-jobb som normaliserar typer och nycklar**  
+  Standardisera DOCM-exporter till konsekventa JSON-strukturer för efterföljande analys.  
+
+- **Webhooks som skickar JSON till efterföljande system**  
+  Automatisera DOCM-till-JSON-exporter som matar CRM-system, ERP-verktyg eller appar från tredje part.  
+
+- **Styrningsregler som tar bort makron och PII innan JSON-export**  
+  Tillämpa efterlevnadsregler för att säkerställa säkra, sanerade JSON-utdata från makroaktiverade filer.  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

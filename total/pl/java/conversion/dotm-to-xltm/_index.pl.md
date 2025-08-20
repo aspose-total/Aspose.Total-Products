@@ -61,7 +61,25 @@ Po przekonwertowaniu DOTM na XLTM [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **XLTM** tworzy wielokrotnie używalne szablony Excel z makrami Worda, wspierając automatyzację przedsiębiorstwa i przepływy pracy oparte na VBA.
+
+## ✅ Główne przypadki użycia
+- Tworzenie zaawansowanych szablonów finansowych
+- Szablony raportowania z makrami dla przedsiębiorstw
+- Przepływy pracy oparte na VBA
+- Zautomatyzowane szablony inteligencji biznesowej
+
+## ⚙️ Scenariusze automatyzacji
+- Potoki DOTM do XLTM
+- Automatyczne generowanie szablonów z makrami
+- Automatyzacja przepływów pracy dla przedsiębiorstw
+- Integracja Excela z makrami do szablonu
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

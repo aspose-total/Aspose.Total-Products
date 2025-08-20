@@ -54,7 +54,46 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOCM dokumentumokat konv
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Fő felhasználási esetek  
+
+- **Hosszú jelentések átalakítása tömör prezentációkká**  
+  Több oldalas dokumentumok átalakítása prezentációra kész összefoglalókká.  
+
+- **Képzési kézikönyvek átalakítása diákká**  
+  Az oktató tartalmak átalakítása vonzó prezentációkká.  
+
+- **Igazgatósági prezentációkra való felkészítés**  
+  A DOCM adatok újrahasznosítása professzionális vállalati prezentációkhoz.  
+
+- **Csapatok közötti együttműködés lehetővé tétele diákkal**  
+  Az átalakított prezentációk megosztása elosztott csapatok között.  
+
+- **Ötletek vizuális megosztása érdekelt felekkel**  
+  Dokumentumokkal kapcsolatos információk bemutatása világos, vizuális formában.  
+
+
+## ⚙️ Automatizálási forgatókönyvek  
+
+- **DOCM-től-PowerPoint automatikus generátorok**  
+  Automatikusan diákat épít fel Word táblázatokból, diagramokból és szakaszokból.  
+
+- **AI által vezérelt eszközök, amelyek diákat készítenek Word tartalomból**  
+  Intelligensen generál professzionális dia elrendezéseket.  
+
+- **Vállalati munkafolyamatok, amelyek automatikusan közzéteszik a prezentációkat**  
+  Integrálja a diák készítést a jelentési csatornákba.  
+
+- **Power Automate integrációk, amelyek előkészítik a PPTX diákat**  
+  Indítsa el a prezentáció generálását dokumentumfeltöltésekből.  
+
+- **Tömeges dokumentum-diákká konverzió képzési könyvtárakhoz**  
+  Automatizálja a kézikönyvek átalakítását újrafelhasználható képzési csomagokká.  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

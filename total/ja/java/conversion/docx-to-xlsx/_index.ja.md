@@ -61,7 +61,22 @@ DOCXをXLSXに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- データ駆動型スプレッドシートの作成
+- レポートをExcel形式に変換
+- 財務計画
+- 企業分析
+- 構造化データの共有
+
+## ⚙️ 自動化シナリオ
+- DOCXからXLSXへの自動変換
+- クラウドベースのワークフロー
+- 企業向けExcelシートの生成
+- 自動レポートおよび分析パイプライン
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,24 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>מקרי שימוש עיקריים ✅</h2>
+- אינטגרציה של API עבור אפליקציות אינטרנט ועננים
+- תמיכה בתמיסת נתונים ואינטרופרביליות של אפליקציות אינטרנט
+- אחסון במסד נתונים NoSQL
+- זרימות עבודה ענן-נייטיביות וללא שרת
+- דיווח וניתוח ממוכן באופן אוטומטי
+
+<h2>תרחישי אוטומציה ⚙️</h2>
+- צינורות חילוץ DOTM-to-JSON
+- זרימות נתונים ממאקרו ל-API
+- אוטומציה של מסמך ל-JSON
+- תהליכי אוטומציה מונעי נתונים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

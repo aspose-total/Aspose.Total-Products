@@ -103,7 +103,26 @@ otherformats: POTM PPSX PPTX POTX PPTM POWERPOINT POT PPSM PPT ODP CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**PPS (PowerPoint Slide Show)** מאפשרת יצירת מצגות ישירות מתבניות Word המאופשרות מקרו, מתאים לאירועים, הכשרות והצגות תעשייתיות.
+
+## ✅ מקרי שימוש מרכזיים
+- מצגות לאירועים
+- מצגות להכשרה
+- מצגות דוחות אוטומטיות
+- מצגות להצגה תעשייתית
+- מצגות במערכת קיוסק
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של מצגות DOTM ל-PPS
+- צינורות תצורה להצגות עסקיות
+- משלוח מצגות המופעל על ידי תהליך עבודה
+- מצגות אוטומטיות מוכנות לאירוע
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

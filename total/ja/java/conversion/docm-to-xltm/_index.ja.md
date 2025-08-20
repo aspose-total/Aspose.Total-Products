@@ -61,7 +61,26 @@ DOCMをXLTMに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## DOCMからXLTMへの変換：マクロ有効テンプレート
+
+**DOCM**を**XLTM（Excelマクロ有効テンプレート）**に変換することで、組織はWordコンテンツから再利用可能なマクロ有効スプレッドシートテンプレートを作成できます。これらのテンプレートは、自動化、財務モデリング、レポーティング、およびエンタープライズワークフローの最適化をサポートします。
+
+## ✅ 主なユースケース
+- **繰り返しワークフローの自動化**
+- **エンタープライズ向けマクロテンプレートの作成**
+- **DOCMからExcelへのマクロベースのロジックの移行**
+- **財務および分析モデルのサポート**
+- **レポーティングプロセスの効率化**
+
+## ⚙️ 自動化シナリオ
+- **DOCMからXLTMへのマクロ有効自動化**
+- **テンプレート生成パイプライン**
+- **エンタープライズマクロ管理**
+- **自動化されたExcelテンプレートワークフロー**
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

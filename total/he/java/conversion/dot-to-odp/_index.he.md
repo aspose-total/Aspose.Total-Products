@@ -103,7 +103,26 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל- **ODP (OpenDocument Presentation)** חיונית ליצירת שקפים למצגות מקוריות ישירות מתבניות Word, ומאפשרת שיתוף פעולה ונגישות צלחת-פלטפורמות.
+
+## ✅ מקרי שימוש מרכזיים
+- מצגות צלחת-פלטפורמות
+- תאימות לקוד פתוח
+- תבניות מוכנות לעסקים
+- שיתוף פעולה בענן
+- יצירת תוכן לחינוך
+
+## ⚙️ תרחישי אוטומציה
+- זרימות עבודה ממוכנות DOT-to-ODP
+- צינורות עבודה מוכנים למצגות
+- אוטומציה של זרימת עבודה OpenDocument
+- מערכות מסמך-למצגת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

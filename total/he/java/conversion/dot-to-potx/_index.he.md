@@ -103,7 +103,26 @@ otherformats: PPTM PPSM PPS PPT POWERPOINT POT ODP POTM PPSX PPTX CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**POTX (תבנית XML פתוחה של PowerPoint)** מאפשרת יצירת תבניות מצגות מודרניות באמצעות XML המתאימות לזרימות עבודה בענן, רב-התקניות וקידוד.
+
+## ✅ מקרי שימוש מרכזיים
+- זרימות עבודה למצגות מוכנות לענן
+- תבניות תקניות לחברות
+- שקופיות לחינוך והדרכה
+- תאימות תבנית לרב-התקניות
+- מערכות עיצוב למצגות נמלטות
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-POTX בענן
+- אוטומציה של תבניות PowerPoint
+- זרימות עבודה ב-XML לשקופיות
+- צינורות עבודה ממסמך לתבנית
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

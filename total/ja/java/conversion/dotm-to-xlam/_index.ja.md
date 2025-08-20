@@ -61,7 +61,23 @@ DOTMをXLAMに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用ケース
+- Wordテンプレートからのエンタープライズ自動化ツール  
+- 標準化されたExcelアドインの生成  
+- マクロ移行ワークフロー  
+- 再利用可能な自動化ライブラリ  
+- クラウド対応のExcelアドイン展開  
+
+## ⚙️ 自動化シナリオ
+- DOTMからXLAMへのアドイン生成パイプライン  
+- マクロの自動移行  
+- ドキュメントからExcelへの自動化ワークフロー  
+- エンタープライズレポートの自動化  
+- スケーラブルなアドイン配布  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,26 @@ DOCX를 XLT로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+변환 **DOCX**에서 **XLT (Excel 템플릿)**으로 변환하면 문서 내용에서 재사용 가능한 스프레드시트 템플릿을 만들어 기업 보고서 표준화 및 반복적인 워크플로우 자동화가 가능해집니다.
+
+## ✅ 주요 사용 사례
+- 비즈니스 보고서 표준화
+- 재사용 가능한 템플릿 생성
+- 기업 데이터 입력 프레임워크
+- Excel 워크플로우 자동화
+- 팀간 일관된 서식
+
+## ⚙️ 자동화 시나리오
+- DOCX에서 XLT로 자동화된 템플릿 생성
+- 워크플로우 표준화
+- 기업 스프레드시트 관리
+- 템플릿 기반 Excel 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen DOTM yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTM** ke **PowerPoint (PPT/PPTX)** mengubah template Word yang mendukung makro menjadi slide yang berfungsi penuh, menyederhanakan alur kerja komunikasi dan pelatihan perusahaan.
+
+## ✅ Kasus Penggunaan Utama
+- Presentasi ruang rapat
+- Deck penjualan
+- Modul pelatihan
+- Slide komunikasi perusahaan
+- Alur kerja presentasi Kebijakan/Kepatuhan
+
+## ⚙️ Skenario Otomatisasi
+- Pipa DOTM-ke-PowerPoint
+- Pembuatan slide presentasi otomatis
+- Alur kerja deck perusahaan
+- Otomatisasi Dokumen-ke-Presentasi
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

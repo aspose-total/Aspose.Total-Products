@@ -54,7 +54,27 @@ API juga memungkinkan Anda untuk mengonversi dokumen DOTX yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTX** ke **ODP (OpenDocument Presentation)** membantu membuat templat presentasi open-source dari konten Word yang terstruktur, mendukung kepatuhan, aksesibilitas, dan berbagi multi-platform.
+
+## ✅ Kasus Penggunaan Utama
+- Presentasi LibreOffice Impress
+- Kepatuhan standar terbuka
+- Alur kerja akademik atau pemerintah
+- Berbagi presentasi lintas platform
+- Integrasi ekosistem ODF
+
+## ⚙️ Skenario Otomatisasi
+- Pipa DOTX-ke-ODP
+- Generasi presentasi batch
+- Pembuatan slide deck otomatis
+- Alur kerja ODP berbasis awan
+- Otomatisasi dokumen ke presentasi
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

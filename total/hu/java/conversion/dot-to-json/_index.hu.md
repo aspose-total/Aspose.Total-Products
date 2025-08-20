@@ -49,7 +49,26 @@ Miközben a DOT-t JSON-ba konvertálja, beállíthatja a kimeneti JSON-formátum
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOT** átalakítása **JSON (JavaScript Object Notation)** formátummá lehetővé teszi, hogy a Word sablonok strukturált, API-kész adathalmazokká váljanak webalkalmazásokhoz, felhőautomatizáláshoz és vállalati integrációkhoz.
+
+## ✅ Fő felhasználási esetek
+- Webalkalmazások
+- Adatalapú automatizálás
+- Felhő API-k
+- Vállalati szoftverintegrációk
+- Strukturált adathalmaz generálás
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOT-to-JSON csővezeték automatizálás
+- Sablon-to-API munkafolyamatok
+- JSON-kész jelentési rendszerek
+- Felhőalapú vállalati adatintegráció
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

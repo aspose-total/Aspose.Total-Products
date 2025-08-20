@@ -102,7 +102,25 @@ otherformats: FODS XLS EXCEL XLAM CSV XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+- תאימות נתונים מורשים עבור זרימות עבודה בגיליון אלקטרוני  
+- אינטגרציות למשרד קוד פתוח  
+- אוטומציה של זרימות עבודה ממסמך לגיליון אלקטרוני  
+- ארכיבה עסקית בפורמט SXC  
+- שימוש בגיליון אלקטרוני צולב פלטפורמות  
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרה מצפ"ת ל-SXC  
+- אוטומציה של גיליון אלקטרוני בקוד פתוח  
+- העברת תבנית מקרו ממסמך  
+- אינטרואפרביליטי של זרימות עבודה  
+- המרות ארכיון
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

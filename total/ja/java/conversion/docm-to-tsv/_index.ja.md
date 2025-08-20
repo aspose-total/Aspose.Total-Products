@@ -61,7 +61,23 @@ DOCMをTSVに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- **ERPやCRMのインポート**用に構造化された**テキストデータ**を準備する  
+- テーブルを**分析およびBIプラットフォーム**に移行する  
+- **プログラミングおよびスクリプト環境**での表形式のデータセットの共有  
+- 機械学習やAIワークフロー用の**データセットの構築**  
+- 軽量なフォーマットが必要な**レガシーシステムとのデータ交換**を可能にする  
+
+## ⚙️ 自動化シナリオ
+- スケーラブルな変換のための**DOCMからTSVへの自動抽出パイプライン**  
+- TSVに対応したデータセットを生成する**ETLワークフロー**  
+- 連続的なTSV出力を生成する**ウォッチフォルダーサービス**  
+- 下流の統合のためにTSVを生成する**API駆動の変換**  
+- 軽量な相互運用性のためにTSVを活用する**エンタープライズデータハブ**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

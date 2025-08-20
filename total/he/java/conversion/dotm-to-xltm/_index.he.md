@@ -102,7 +102,25 @@ otherformats: SXC FODS XLAM XLSB XLSM XLTX TSV ODS XLS XLSX CSV DIF EXCEL XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**XLTM** יוצרת תבניות Excel עם מאקרוים שניתן להשתמש בהן מתוך מאקרוס ב-Word, תומכות באוטומציה לעסקים ובזריזת תהליכי VBA.
+
+## ✅ מקרי שימוש מרכזיים
+- יצירת תבניות פיננסיות מתקדמות
+- תבניות דיווח מאקרו-מופעלות לעסקים
+- תהליכי עבודה מופעלים על ידי VBA
+- תבניות אינטליגנציה עסקית ממוכנות באופן אוטומטי
+
+## ⚙️ תרחישי אוטומציה
+- צינורות עבודה מ-DOTM ל-XLTM
+- יצירת תבניות מאקרו מופעלות באופן אוטומטי
+- אוטומציה של תהליכי עבודה לעסקים
+- שילוב בין מאקרו לתבנית ב-Excel
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,26 @@ APIを使用すると、パスワードで保護されたDOTXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**を**PPT（レガシーPowerPointプレゼンテーション）**に変換することは、世界中でまだ使用されている古いMicrosoft Officeシステムとの後方互換性を確保するために重要です。
+
+## ✅ 主な使用用途
+- レガシーシステムのプレゼンテーション
+- オフライン配布
+- 政府システム
+- 企業のアーカイブ
+- 古いOfficeを使用する教育機関
+
+## ⚙️ 自動化シナリオ
+- DOTXからPPTへのパイプライン
+- レガシープレゼンテーションの自動化
+- 互換性ワークフロー
+- 後方互換性のあるデッキ生成
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,27 @@ A DOTM TSV-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Az **DOTM** átalakítása **TSV (Tabulátorral elválasztott értékek)** formátumba strukturált exportálást tesz lehetővé a makróval ellátott dokumentumadatok számára, ami ideális adatbázis importáláshoz, örökségi rendszerintegrációhoz és skálázható táblázatos jelentésekhez.
+
+## ✅ Fő felhasználási esetek
+- Nagy mennyiségű adat kinyerése makróval ellátott sablonokból
+- Adatbázis import/export csatornák
+- Vállalati szintű strukturált jelentéskészítés
+- Örökségi rendszerintegráció
+- Egyszerűsített táblázatos konverziók
+
+## ⚙️ Automatizálási forgatókönyvek
+- DOTM-to-TSV adat export automatizálás
+- Makróvezérelt jelentési csatornák
+- Strukturált táblázatos konverziós munkafolyamatok
+- Vállalati adatmegosztás
+- Skálázható munkafolyamat exportálás
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

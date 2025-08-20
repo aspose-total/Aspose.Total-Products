@@ -49,7 +49,24 @@ Trong khi chuyển đổi DOTM sang JSON, bạn cũng có thể đặt dải ô 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Các Trường Hợp Sử Dụng Chính</h2>
+- Tích hợp API cho ứng dụng web và đám mây  
+- Trao đổi dữ liệu và tương thích ứng dụng web  
+- Lưu trữ cơ sở dữ liệu NoSQL  
+- Luồng làm việc cloud-native và serverless  
+- Báo cáo tự động và phân tích  
+
+<h2>⚙️ Kịch Bản Tự Động Hóa</h2>
+- Các đường ống trích xuất DOTM-to-JSON  
+- Luồng làm việc dữ liệu Macro-to-API  
+- Tự động hóa tài liệu-to-JSON  
+- Quy trình tự động hóa dựa trên dữ liệu
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

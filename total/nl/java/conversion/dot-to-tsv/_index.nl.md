@@ -61,7 +61,25 @@ Na het converteren van DOT naar TSV, kunt u met [Aspose.Cells for Java](https://
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOT** naar **TSV (Tab-gescheiden waarden)** maakt gestructureerde extractie van tabellaire gegevens uit Word-sjablonen mogelijk naar lichtgewicht, draagbare formaten die geschikt zijn voor analyses en database-workflows.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Gegevensmigratie naar spreadsheets
+- Import/export in bedrijfstoepassingen
+- Gestandaardiseerde tabellarische rapportage
+- Database-klaar gestructureerde tekst
+ 
+## ⚙️ Automatiseringsscenario's
+- DOT-naar-TSV geautomatiseerde pipelines
+- Bulkgegevensextractie uit Word-sjablonen
+- Workflow-klaar TSV-generatie
+- Standaardisatie van bedrijfsgegevens
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

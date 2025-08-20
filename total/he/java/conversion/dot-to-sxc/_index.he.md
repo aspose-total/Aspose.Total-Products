@@ -102,7 +102,26 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX CSV XLS XLSM XLTM XLAM XLTX TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**SXC (גיליון עבודה של StarOffice Calc)** חיונית להבטחת תאימות גרסאות ישנות של גיליונות נתונים ולאפשר זרימות עבודה של תוכנות משרד קוד פתוח, מאפשרת לארגונים לשמור נתונים מובנים בין פלטפורמות.
+
+## ✅ מקרי שימוש מרכזיים
+- העברת מסמכים מיושנים לגיליונות נתונים
+- תאימות גיליונות נתונים בין פלטפורמות
+- זרימות עבודה בין OpenOffice/LibreOffice
+- שמירת נתונים בפורמטים פתוחים
+- המרת מסמכים עסקיים ברמה הארגונית
+
+## ⚙️ תרחישי אוטומציה
+- עיבוד רצפי DOT ל-SXC
+- שילוב זרימות עבודה ממסמכים ישנים למודרניים
+- יצירת גיליונות נתונים באופן אוטומטי מתבניות
+- צינורות העברה ברמה הארגונית
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

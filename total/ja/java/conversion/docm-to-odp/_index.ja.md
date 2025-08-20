@@ -54,7 +54,43 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用用途
+
+- **レポートをプレゼンテーションスライドに変換する**
+  トレーニング、ビジネス会議、または学術講義用に、DOCMドキュメントをODPスライドデッキに変換します。
+
+- **クロスプラットフォーム環境でコンテンツを共有する**
+  プレゼンテーションがLibreOffice、OpenOffice、および他のODF準拠ツールで編集可能であることを確認します。
+
+- **オープンフォーマットで会議資料を準備する**
+  会議やセミナーのスライドを広範なアクセスと長期的な利用可能性のためにODPで公開します。
+
+- **プロプライエタリなロックインを回避しつつレイアウトを維持する**
+  構造化されたスライドレイアウトを維持しつつ、プロプライエタリな形式への依存を回避します。
+
+- **オープンスタンダードの学術または政府利用を可能にする**
+  ODF認定プレゼンテーション形式でDOCMコンテンツを配布することで、コンプライアンス要件を満たします。
+
+## ⚙️ 自動化シナリオ
+
+- **DOCMからODPへの自動生成**
+  マクロ有効なWordファイルを編集可能なODPスライドデッキに自動変換します。
+
+- **ワードマクロをスライドに変換するオープンソースワークフロー**
+  コミュニティ主導のツールを使用して、DOCMコンテンツをプレゼンテーション用のODPに変換します。
+
+- **トレーニング用にドキュメントをプレゼンテーションに変換するバッチジョブ**
+  DOCMファイルを一括処理してODP形式に変換することで、トレーニング資料の製作をスケールアップします。
+
+- **ODF出力を必要とする企業コンプライアンスシステム**
+  DOCMドキュメントを自動的にODPに変換することで、オープンスタンダードのコンプライアンスを強制します。
+
+- **公開ポータル用にODPを準備する自動化パイプライン**
+  DOCMからODPへの変換を公開ワークフローに統合することで、コンテンツ配信を効率化します。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

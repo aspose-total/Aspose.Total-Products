@@ -61,7 +61,27 @@ Po przekonwertowaniu DOTM na TSV [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **TSV (wartości oddzielone tabulatorami)** umożliwia strukturalny eksport danych z dokumentów z makrami, co czyni go idealnym do importu do bazy danych, integracji z systemami dziedzicznymi oraz skalowalnego raportowania tabelarycznego.
+
+## ✅ Główne przypadki użycia
+- Wydobycie danych hurtowych z szablonów z makrami
+- Potoki importu/eksportu do/z bazy danych
+- Gotowe do użycia raportowanie strukturalne
+- Integracja z systemami dziedzicznymi
+- Uproszczone konwersje tabelaryczne
+
+## ⚙️ Scenariusze automatyzacji
+- Automatyzacja eksportu danych z DOTM do TSV
+- Potoki raportowania oparte na makrach
+- Strukturalne przepływy pracy konwersji tabelarycznej
+- Udostępnianie danych w przedsiębiorstwie
+- Eksportowanie skalowalnych przepływów pracy
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

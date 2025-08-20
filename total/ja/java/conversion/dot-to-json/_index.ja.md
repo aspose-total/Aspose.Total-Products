@@ -49,7 +49,26 @@ DOTをJSONに変換しているときに、範囲を出力JSON形式に設定す
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**を**JSON (JavaScript Object Notation)**に変換することで、Wordテンプレートを構造化された、API対応のデータセットにすることができます。これはWebアプリケーション、クラウド自動化、企業統合向けのものです。
+
+## ✅ 主な使用ケース
+- Webアプリケーション
+- データ駆動型の自動化
+- クラウドAPI
+- 企業ソフトウェアの統合
+- 構造化されたデータセットの生成
+
+## ⚙️ 自動化シナリオ
+- DOTからJSONへのパイプライン自動化
+- テンプレートからAPIへのワークフロー
+- JSON対応のレポートシステム
+- クラウドネイティブの企業データ統合
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

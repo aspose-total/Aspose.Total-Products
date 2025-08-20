@@ -49,7 +49,27 @@ DOTXをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTX**を**JSON**に変換することで、構造化されたデータの交換、API統合、モダンなWebワークフローが可能となり、ドキュメントデータがクラウドサービス、Webアプリ、AI/MLパイプラインで利用可能になります。
+
+## ✅ 主なユースケース
+- API対応のデータエクスポート
+- Webアプリの統合
+- クラウドサービス
+- データパイプライン
+- AI/MLデータセットの準備
+
+## ⚙️ 自動化シナリオ
+- DOTXからJSONへのパイプライン
+- JSONの自動生成
+- クラウドAPIワークフロー
+- 企業システムの統合
+- データレイクの自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

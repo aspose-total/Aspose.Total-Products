@@ -61,7 +61,27 @@ Setelah mengonversi DOTM ke TSV, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTM** ke **TSV (Tab-Separated Values)** memungkinkan ekspor data dokumen yang diaktifkan makro secara terstruktur, menjadikannya ideal untuk impor database, integrasi sistem warisan, dan pelaporan tabular yang dapat diskalakan.
+
+## ✅ Kasus Penggunaan Kunci
+- Ekstraksi data massal dari templat yang diaktifkan makro
+- Pipa impor/ekspor database
+- Pelaporan terstruktur siap perusahaan
+- Integrasi sistem warisan
+- Konversi tabular yang disederhanakan
+
+## ⚙️ Skenario Otomatisasi
+- Otomatisasi ekspor data DOTM ke TSV
+- Pipa pelaporan yang didorong oleh makro
+- Alur kerja konversi tabular terstruktur
+- Berbagi data perusahaan
+- Ekspor alur kerja yang dapat diskalakan
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

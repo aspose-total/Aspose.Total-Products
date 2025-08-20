@@ -54,7 +54,26 @@ API juga memungkinkan Anda untuk mengonversi dokumen DOTM yang dilindungi kata s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Mengonversi **DOTM** ke **PPT (Format PowerPoint Legacy)** memastikan kompatibilitas mundur dengan sistem-sistem lama, memungkinkan presentasi terarsip dan slide pelatihan untuk infrastruktur warisan.
+
+## ✅ Kasus Penggunaan Kunci
+- Sistem perusahaan warisan
+- Presentasi terarsip
+- Slide pelatihan untuk infrastruktur lama
+- Kompatibilitas di lingkungan offline
+- Pelaporan Pemerintah/Institusi
+
+## ⚙️ Skenario Otomatisasi
+- Otomatisasi warisan DOTM-to-PPT
+- Alur kerja kompatibilitas versi lama
+- Pipa presentasi siap arsip
+- Otomatisasi konversi deck warisan
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

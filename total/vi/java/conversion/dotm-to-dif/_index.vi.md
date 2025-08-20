@@ -61,7 +61,24 @@ Sau khi chuyển đổi DOTM sang DIF, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Các Trường Hợp Sử Dụng Chính</h2>
+- Tương thích hệ thống cũ cho việc nhập/xuất bảng tính  
+- Tương thích bảng tính đa nền tảng  
+- Quy trình lưu trữ doanh nghiệp  
+- Di dời dữ liệu có cấu trúc giữa các ứng dụng  
+- Báo cáo tự động từ tài liệu hỗ trợ macro  
+
+<h2>⚙️ Kịch Bản Tự Động Hóa</h2>
+- Đường ống chuyển đổi DOTM thành DIF  
+- Quy trình trao đổi dữ liệu doanh nghiệp dựa trên macro  
+- Báo cáo tự động đa nền tảng  
+- Quy trình làm ETL doanh nghiệp sử dụng tệp DIF
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

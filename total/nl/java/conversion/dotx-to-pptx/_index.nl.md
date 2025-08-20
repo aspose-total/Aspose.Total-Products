@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde DOTX-Documenten naar PPTX co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOTX** naar **PPTX (PowerPoint Open XML Presentation)** is de meest gebruikelijke manier om moderne, bewerkbare en deelbare presentaties te maken die naadloos integreren met cloud- en bedrijfsworkflows.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Zakelijke pitches
+- Trainingspresentaties
+- Academische lezingen
+- Marketingcampagnes
+- Bedrijfsrapporten
+
+## ⚙️ Automatiseringsscenario's
+- DOTX-naar-PPTX-pijplijnen
+- Automatisering in de cloud
+- Generatie van bedrijfspresentaties
+- Integratie van gegevens naar dia's
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

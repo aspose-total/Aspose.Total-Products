@@ -61,7 +61,22 @@ DOTをXLTMに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- 自動テンプレート生成
+- 企業全体のレポートマクロ
+- ビジネスプロセスの自動化
+- 動的請求書テンプレート
+- 財務モデリング
+
+## ⚙️ 自動化シナリオ
+- DOTからXLTMへのマクロ駆動型自動化
+- テンプレートパイプライン
+- マクロ有効なドキュメントからテンプレートへの変換
+- 企業の生産性自動化
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

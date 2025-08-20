@@ -49,7 +49,22 @@ DOCXをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主な使用ケース
+- **API** 用の構造化されたコンテンツの抽出  
+- **ドキュメント駆動型のWebアプリケーション** の有効化  
+- DOCX データの **ヘッドレスCMS** への移行  
+- **機械学習パイプライン** のサポート  
+- **エンタープライズアプリ** でのデータ交換  
+
+## ⚙️ 自動化シナリオ
+- **大量のDOCXからJSONへのAPIパイプライン**  
+- **自動化されたJSONベースのレポーティング**  
+- **ドキュメント解析ワークフロー**  
+- **Web統合システム**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

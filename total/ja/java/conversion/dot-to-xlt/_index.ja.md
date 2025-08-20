@@ -61,7 +61,26 @@ DOTをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**を**XLT (Excelテンプレート)**に変換すると、Word文書から再利用可能なスプレッドシートテンプレートを作成し、部門やチーム間でのワークフローを標準化できます。
+
+## ✅ 主な使用事例
+- 部門レポートのテンプレート
+- 標準化された請求書
+- 企業向けテンプレート
+- プロセスの文書化
+- スケーラブルなレポート形式
+
+## ⚙️ 自動化シナリオ
+- DOTからXLTへのテンプレート自動化
+- Excelワークフローの標準化
+- 文書からテンプレートへのパイプライン
+- 企業向けレポートの自動化
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,24 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS CSV XLSX XLT XLAM XLS SXC XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Ключові використання</h2>
+- Сумісність зі старими системами для імпорту/експорту таблиць  
+- Міжплатформена взаємодія з таблицями  
+- Робочі процеси для архівування підприємницьких записів  
+- Міграція структурованих даних між додатками  
+- Автоматизована звітність з документів з макросами  
+
+<h2>⚙️ Сценарії автоматизації</h2>
+- Конвеєри конвертації DOTM в DIF  
+- Процеси обміну даними з макросами  
+- Автоматизована міжплатформена звітність  
+- Підприємницькі робочі процеси з використанням файлів DIF
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

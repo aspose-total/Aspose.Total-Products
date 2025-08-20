@@ -49,7 +49,43 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## กรณีการใช้งานหลัก
+
+- **การเผยแพร่ข้อมูลเอกสารไปยัง REST/GraphQL APIs**
+  ให้บริการเนื้อหา DOCM ที่ถูกสกัดออกมาเป็น JSON เพื่อการใช้งานโดยตรงในแอปเว็บและมือถือ
+
+- **การเติบโตในฐานข้อมูล NoSQL และ Data Lakes**
+  โหลดข้อมูลที่มีโครงสร้างที่ได้มาจาก DOCM เข้า MongoDB, Elasticsearch, หรือ Data Lakes บนคลาวด์
+
+- **การขับเคลื่อนแดชบอร์ดด้วยการส่งข้อมูล JSON แบบ Real-Time**
+  สตรีม KPIs และ metrics ที่เกี่ยวข้องกับเอกสารเข้าไปยังแดชบอร์ด BI และเครื่องมือตรวจสอบ
+
+- **การตรวจสอบข้อมูลนำเข้าตาม JSON Schema**
+  รักษาความสอดคล้องและความสมบูรณ์โดยการจับคู่ข้อมูลฟิลด์ของ DOCM กับกฎของ JSON Schema
+
+- **การเปิดใช้งาน Headless CMS หรือโครงสร้างของ Microservice**
+  รวมเนื้อหา DOCM เข้าสู่ระบบที่กระจายอย่าง API-first ที่ JSON เป็นภาษาสำคัญ
+
+## สถานการณ์การอัตโนมัติ
+
+- **การสกัดข้อมูลจาก DOCM เป็น JSON พร้อมกับการจับคู่ฟิลด์**
+  กำหนดการจับคู่เพื่อแปลงตาราง, ส่วนหัว, และฟิลด์เป็นวัตถุ JSON ที่มีโครงสร้าง
+
+- **ฟังก์ชันแบบ Serverless ที่แปลงและส่งออกเหตุการณ์ JSON**
+  เรียกใช้การแปลงเมื่ออัปโหลดไฟล์, ส่งเหตุการณ์ JSON ไปยังระบบที่ขับเคลื่อนด้วยเหตุการณ์
+
+- **งาน ETL ที่ปรับปรุงประเภทและคีย์**
+  มาตรฐานข้อมูลที่ส่งออกมาจาก DOCM เป็นโครงสร้าง JSON ที่สม่ำเสมอสำหรับการวิเคราะห์ด้านล่าง
+
+- **Webhooks ที่ผลักดัน JSON ไปยังระบบที่ขับเคลื่อนด้วยเหตุการณ์**
+  อัตโนมัติการส่งออกจาก DOCM เป็น JSON ที่เข้าไปใน CRM, เครื่องมือ ERP, หรือแอปพาร์ตี้บุค
+
+- **กฎการบริหารที่ลบแมโครและข้อมูลส่วนบุคคลก่อนการส่งออกเป็น JSON**
+  ปรับใช้การตรวจสอบความปลอดภัยเพื่อให้ได้ผลลัพธ์ JSON ที่ปลอดภัยและถูกทำความสะอาดจากไฟล์ที่เปิดใช้งานแมโคร
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

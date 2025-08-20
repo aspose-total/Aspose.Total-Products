@@ -49,7 +49,24 @@ DOCX를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### ✅ 주요 사용 사례
+- **API**를 위한 구조화된 콘텐츠 추출  
+- **문서 중심의 웹 애플리케이션** 활성화  
+- DOCX 데이터를 **헤드리스 CMS**로 이관  
+- **머신 러닝 파이프라인** 지원  
+- **기업 애플리케이션**에서의 데이터 교환  
+
+### ⚙️ 자동화 시나리오
+- **대량 DOCX-to-JSON API 파이프라인**  
+- **자동화된 JSON 기반 보고서**  
+- **문서 구문 분석 워크플로우**  
+- **웹 통합 시스템**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

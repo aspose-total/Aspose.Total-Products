@@ -61,7 +61,25 @@ Po przekonwertowaniu DOCX na FODS [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCX** na **FODS (Płaski XML ODF Arkusz Kalkulacyjny)** wspiera przepływy pracy oparte na oprogramowaniu open-source i standardach. Zapewnia to kompatybilność z OpenOffice oraz generuje zbiory danych oparte na XML, które są przyjazne dla różnicowania, zgodne z przepisami i kontrolą wersji.
+
+## ✅ Główne przypadki użycia
+- Współpracuje z **LibreOffice i OpenOffice**
+- Archiwizacja danych z **DOCX w formacie otwartym**
+- Tworzenie **struktur arkuszy kalkulacyjnych opartych na XML**
+- Wspieranie **długoterminowego raportowania zgodności**
+
+## ⚙️ Scenariusze automatyzacji
+- **Automatyzacja konwersji DOCX na FODS w oprogramowaniu open-source**
+- **Potoki arkuszy kalkulacyjnych opartych na XML**
+- **Systemy raportowania FODS**
+- **Przepływy pracy pakietów biurowych na różnych platformach**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

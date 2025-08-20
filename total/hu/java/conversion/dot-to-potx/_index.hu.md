@@ -54,7 +54,24 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOT dokumentumokat konve
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## Átváltás DOT-ról POTX-re (PowerPoint Open XML Template) lehetővé teszi a modern, XML-alapú bemutató sablonok generálását, amelyek alkalmasak a felhőre, többeszközös és skálázható munkafolyamatokra.
+
+#### ✅ Fő felhasználási esetek
+- Felhőre kész bemutató munkafolyamatok
+- Szabványosított vállalati sablonok
+- Oktatási és képzési diák
+- Többeszközös sablonkompatibilitás
+- Skálázható bemutatótervrendszerek
+
+#### ⚙️ Automatizálási forgatókönyvek
+- DOT-ról POTX-re történő felhőkonverzió
+- PowerPoint sablonautomatizálás
+- Vállalati XML diákmunkafolyamatok
+- Dokumentum-sablon csővezetékek
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

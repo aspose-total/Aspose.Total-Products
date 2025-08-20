@@ -49,7 +49,24 @@ DOCX'yi JSON'a dönüştürürken, aralığı JSON çıktı biçiminize de ayarl
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+### ✅ Ana Kullanım Alanları
+- **API'ler** için yapılandırılmış içerik çıkarma  
+- **Belge odaklı web uygulamalarını** etkinleştirme  
+- DOCX verilerini **başsız CMS**'ye taşıma  
+- **Makine öğrenimi iş akışlarını** destekleme  
+- **Kurumsal uygulamalarda** veri alışverişi  
+
+### ⚙️ Otomasyon Senaryoları
+- **Toplu DOCX'ten JSON'a API iş akışları**  
+- **Otomatik JSON tabanlı raporlama**  
+- **Belge ayrıştırma iş akışları**  
+- **Web entegrasyon sistemleri**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

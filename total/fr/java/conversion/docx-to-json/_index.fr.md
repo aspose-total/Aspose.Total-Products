@@ -49,7 +49,24 @@ Pendant que vous convertissez DOCX en JSON, vous pouvez également définir la p
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Utilisations clés ✅</h2>
+- Extraction de contenu structuré pour les **APIs**  
+- Activation des **applications web basées sur les documents**  
+- Migration des données DOCX vers un **CMS sans tête**  
+- Soutien aux **pipelines d'apprentissage automatique**  
+- Échange de données dans les **applications d'entreprise**  
+
+<h2>Scénarios d'automatisation ⚙️</h2>
+- **Pipelines API en masse de DOCX vers JSON**  
+- **Rapports automatisés basés sur JSON**  
+- **Flux de travail d'analyse de documents**  
+- **Systèmes d'intégration web**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,24 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานหลัก
+- การผสาน API สำหรับเว็บและแอปพลิเคชันบนคลาวด์
+- การแลกเปลี่ยนข้อมูลและประสานงานในแอปพลิเคชันเว็บ
+- การเก็บข้อมูลในฐานข้อมูล NoSQL
+- การทำงานบนคลาวด์แบบเกิดธรรมชาติและไม่มีเซิร์ฟเวอร์
+- การรายงานและวิเคราะห์โดยอัตโนมัติ
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- ท่อการสร้าง DOTM เป็น JSON
+- กระบวนการทำงานข้อมูลจากแมโครไป API
+- การอัตโนมัติจากเอกสารเป็น JSON
+- กระบวนการอัตโนมัติที่ขับเคลื่อนด้วยข้อมูล
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

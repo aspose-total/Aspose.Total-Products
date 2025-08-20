@@ -61,7 +61,22 @@ DOTをXLSに変換した後、[Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用ケース
+- 旧来の財務報告
+- 企業の記録管理
+- オフライン対応のスプレッドシート
+- 政府/コンプライアンス報告
+- 構造化された表形式データの抽出
+
+## ⚙️ 自動化シナリオ
+- DOTからXLSへのデータ移行
+- バッチテンプレートからスプレッドシートへの自動化
+- コンプライアンスに基づくデータ変換
+- 企業向け報告パイプライン
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

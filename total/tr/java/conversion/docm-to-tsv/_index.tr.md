@@ -61,7 +61,27 @@ DOCM'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOCM** dosyalarını **TSV (Sekmeyle Ayrılmış Değerler)** dosyalarına dönüştürmek, Word belgelerinden yapılandırılmış verileri hafif, metin tabanlı formatlara aktarmak için önemlidir. TSV, ERP, CRM, analitik ve eski platformlarla temiz bir etkileşim sağlarken aynı zamanda makine öğrenimi iş akışlarını ve programlama ortamları arasındaki veri alışverişini olanaklı kılar.
+
+## ✅ Ana Kullanım Durumları
+- **ERP veya CRM içe aktarımları** için yapılandırılmış **metin verileri hazırlama**  
+- Tabloları **analitik ve BI platformlarına taşıma**  
+- **Programlama ve komut dosyası ortamları arasında** tablo veri kümelerini paylaşma  
+- Makine öğrenimi ve yapay zeka iş akışları için **veri kümeleri oluşturma**  
+- Hafif formatlar gerektiren **eski sistemlerle veri alışverişi sağlama**  
+
+## ⚙️ Otomasyon Senaryoları
+- Ölçeklenebilir dönüşüm için **DOCM'den TSV'ye otomatik çıkarma boru hatları**  
+- TSV'ye hazır veri kümeleri oluşturan **ETL iş akışları**  
+- Sürekli TSV çıktıları üreten **Klasörü İzle hizmetleri**  
+- Aşağı akış entegrasyonları için TSV üreten **API tabanlı dönüşümler**  
+- Hafif etkileşimlilik için TSV'yi kullanan **Kurumsal veri merkezleri**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

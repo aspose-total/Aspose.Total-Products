@@ -102,7 +102,26 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**JSON (ציון עצם ב-JavaScript)** מאפשרת לתבניות Word להפוך לקבוצות נתונים מובנות, מוכנות ל-API עבור אפליקציות אינטרנט, אוטומציה בענן ואינטגרציות עסקיות.
+
+## ✅ מקרי שימוש מרכזיים
+- אפליקציות אינטרנט
+- אוטומציה מבוססת נתונים
+- API בענן
+- אינטגרציות תוכנה עסקיות
+- יצירת קבוצות נתונים מובנות
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה של צינור DOT-to-JSON
+- זרימות עבודה מתבנית אל API
+- מערכות דיווח מוכנות ל-JSON
+- אינטגרציה של נתוני עסקים ענן-מקוריים
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

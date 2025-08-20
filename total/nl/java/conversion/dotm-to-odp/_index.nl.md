@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde DOTM-dotmumenten naar ODP co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het converteren van **DOTM** naar **ODP (OpenDocument Presentation)** maakt het mogelijk om met macro's ingeschakelde Word-sjablonen om te zetten naar presentaties die compatibel zijn met open-source voor zakelijk en cross-platform gebruik.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Zakelijke presentatieworkflows
+- Adoptie van open-source voor dia's
+- Cross-platform compatibiliteit
+- Macro-gestuurde dia-creatie
+- Integratie met cloud presentatietools
+
+## ⚙️ Automatiseringsscenario's
+- Geautomatiseerde generatie van DOTM naar ODP
+- Workflows voor het converteren van macro's naar presentaties
+- Open-source presentatiepijplijnen
+- Zakelijke ODP-workflowautomatisering
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

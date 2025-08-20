@@ -61,7 +61,24 @@ Sau khi chuyển đổi DOTX sang SXC, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>Trường hợp sử dụng chính</h2>
+- Xử lý tài liệu đa nền tảng  
+- Tương thích với bộ ứng dụng văn phòng cũ  
+- Lưu trữ doanh nghiệp và báo cáo tuân thủ  
+- Luồng công việc dữ liệu mã nguồn mở  
+- Báo cáo tương thích trên các hệ thống  
+
+<h2>Các kịch bản tự động hóa</h2>
+- Đường ống chuyển đổi dữ liệu từ DOTX sang SXC  
+- Chuyển đổi tài liệu thành bảng tính hàng loạt  
+- Tích hợp hệ thống cũ với StarOffice Calc  
+- Báo cáo tự động được hỗ trợ bởi Calc mã nguồn mở  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

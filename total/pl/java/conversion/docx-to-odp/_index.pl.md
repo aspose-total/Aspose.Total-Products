@@ -54,7 +54,25 @@ Interfejs API umożliwia również konwersję dokumentów DOCX chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCX** na **ODP (OpenDocument Presentation)** przekształca treści z programu Word w prezentacje w formacie otwartym. Jest to idealne rozwiązanie do prezentacji w OpenOffice, środowiskach akademickich oraz do przepływów pracy zgodnych z wymogami rządowymi.
+
+## ✅ Główne przypadki użycia
+- Tworzenie slajdów na podstawie **raportów DOCX**
+- Korzystanie z ODP w programie **OpenOffice**
+- Archiwizowanie prezentacji DOCX w **formatach otwartych**
+- Raportowanie akademickie lub związane z **wymogami rządowymi**
+
+## ⚙️ Scenariusze automatyzacji
+- Generowanie prezentacji **DOCX do ODP hurtowo**
+- **Automatyczne tworzenie wykładów/prezentacji**
+- **Potoki pracy open-source**
+- Automatyzacja prezentacji **oparta na ODP w przedsiębiorstwie**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

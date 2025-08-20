@@ -61,7 +61,27 @@ DOTM'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**'yi **TSV (Tablo Ayırıcılı Değerler)**'e dönüştürmek, makro destekli belge verilerinin yapılandırılmış bir şekilde dışa aktarılmasını sağlar, bu da veritabanı içe aktarmaları, eski sistem entegrasyonunu ve ölçeklenebilir tablo raporlamaları için ideal hale getirir.
+
+## ✅ Ana Kullanım Durumları
+- Makro destekli şablonlardan toplu veri çıkarma
+- Veritabanı içe/dışa aktarma boruları
+- Kurumsal düzeyde yapılandırılmış raporlama
+- Eski sistem entegrasyonu
+- Basitleştirilmiş tablo dönüşümleri
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den TSV veri dışa aktarma otomasyonu
+- Makro destekli raporlama boruları
+- Yapılandırılmış tablo dönüşüm iş akışları
+- Kurumsal veri paylaşımı
+- Ölçeklenebilir iş akışı dışa aktarmaları
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

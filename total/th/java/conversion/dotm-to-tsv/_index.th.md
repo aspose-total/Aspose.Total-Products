@@ -61,7 +61,25 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ กรณีการใช้งานสำคัญ
+- การสกัดข้อมูลเป็นกลุ่มจากเทมเพลตที่เปิดใช้งานแมโคร
+- การนำเข้า/ส่งออกฐานข้อมูล
+- รายงานโครงสร้างพร้อมใช้งานในองค์กร
+- การผสานระบบที่เป็นที่มา
+- การแปลงข้อมูลเป็นรูปแบบตารางอย่างง่าย
+
+## ⚙️ สถานการณ์การอัตโนมัติ
+- การส่งออกข้อมูลจาก DOTM เป็น TSV โดยอัตโนมัติ
+- การสร้างรายงานด้วยแมโคร
+- การทำงานข้อมูลเป็นรูปแบบตารางที่มีโคร
+- การแชร์ข้อมูลในองค์กร
+- การส่งออกข้อมูลของกระบวนการทำงานอย่างมีประสิทธิภาพ
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

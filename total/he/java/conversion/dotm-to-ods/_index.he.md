@@ -102,7 +102,26 @@ otherformats: XLAM XLT XLSB SXC EXCEL DIF XLTM XLS FODS XLSX XLSM XLTX TSV CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת קבצי **DOTM** לקבצי **ODS (OpenDocument Spreadsheet)** מאפשרת לארגונים להשתמש בתבניות Word כגיליונות נתונים מקור פתוח, תומכות בדיווח צלב-פלטפורמה ובזרימי עבודה של גיליונות נתונים בענן.
+
+## ✅ מקרי שימוש מרכזיים
+- אינטגרציה של זרימות עבודה פתוחות בארגונים
+- דיווחים וניתוחים מבוססי גיליון נתונים
+- עיבוד נתונים צלב-פלטפורמה
+- תאימות גיליון נתונים ענן-נייטיבי
+- עמיתות עם תקנים פתוחים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרה מ- DOTM ל-ODS
+- אוטומציה של מאקרו לגיליון נתונים
+- אינטגרציה של זרימות עבודה לדיווחים בארגון
+- אוטומציה של זרימי עבודה ב-ODS המופעלים על ידי תבניות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

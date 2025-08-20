@@ -54,7 +54,21 @@ APIを使用すると、パスワードで保護されたDOTXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要な使用ケース
+- 自動レポートデッキ
+- インタラクティブな教育ツール
+- データ駆動型プレゼンテーション
+- マクロを活用したトレーニングセッション
+
+## ⚙️ 自動化シナリオ
+- DOTXからPPTMへのパイプライン
+- マクロを有効にしたプレゼンテーションワークフロー
+- スライドの自動更新
+- ビジネス自動化デッキ
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

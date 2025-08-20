@@ -102,7 +102,25 @@ otherformats: XLT TSV DIF XLSM CSV EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOTM** ל-**FODS (Flat OpenDocument Spreadsheet)** מקלה על גישה לגירסאות קומפטיביות של גיליונות אלקטרוניים תואמות קוד פתוח, ומאפשרת אחסון קל והמרות נתונים מבוססות מאקרו המתאימות לזרימות עבודה של קוד פתוח בארגונים.
+
+## ✅ מקרי שימוש מרכזיים
+- אימוץ של תקני אקוסיסטם OpenDocument
+- אחסון ותמורת גיליונות אלקטרוניים קלים
+- המרת נתונים באמצעות מאקרו
+- שילוב זרימות עבודה של קוד פתוח בארגונים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרה מ- DOTM ל- FODS
+- אוטומציה של תבניות לנתונים פתוחים
+- אוטומציה של מאקרו ל- FODS
+- שילוב בין ארגונים באמצעות מערכות קוד פתוח
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

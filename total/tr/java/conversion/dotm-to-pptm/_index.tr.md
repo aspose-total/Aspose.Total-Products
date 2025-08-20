@@ -54,7 +54,26 @@ API ayrıca parola korumalı DOTM belgelerini PPTM'ye dönüştürmenize olanak 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+"""
+**DOTM**'yi **PPTM (Makro Etkin PowerPoint Sunumu)**'na dönüştürmek, finansal gösterge panoları, uyumluluk raporları ve otomatik kurumsal slaytlar için makrolarla desteklenen dinamik, etkileşimli sunumları destekler.
+
+## ✅ Ana Kullanım Alanları
+- Etkileşimli finansal gösterge panoları
+- Otomatik kurumsal sunumlar
+- İş akışı odaklı uyumluluk raporları
+- Makro destekli eğitim sunumları
+- Kurumsal rapor oluşturma
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den PPTM makro boru hatları
+- Kurumsal slayt otomasyonu
+- İş akışı odaklı PowerPoint oluşturma
+- Makro tabanlı slayt sunumu
+"""
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

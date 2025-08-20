@@ -49,7 +49,26 @@ Terwijl u DOTM naar JSON converteert, kunt u het bereik ook instellen op uw JSON
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Exporteren van **DOTM** naar **JSON (JavaScript Object Notation)** maakt gestructureerde, machine-leesbare gegevensindelingen mogelijk, perfect voor API's, cloudworkflows en NoSQL-databaseopslag, waardoor integratie van web- en mobiele applicaties wordt verbeterd.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- API-integraties voor web- en cloudapplicaties
+- Gegevensuitwisseling en interoperabiliteit van webapplicaties
+- NoSQL-databaseopslag
+- Cloud-native en serverless workflows
+- Geautomatiseerde rapportage en analyses
+
+## ⚙️ Automatiseringsscenario's
+- DOTM-naar-JSON extractiepijplijnen
+- Macro-naar-API gegevensworkflows
+- Document-naar-JSON automatisering
+- Data-gedreven automatiseringsprocessen
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

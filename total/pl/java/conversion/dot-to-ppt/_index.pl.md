@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOT** na **PPT (Prezentacja programu PowerPoint)** generuje edytowalne pliki prezentacji z szablonów Word, obsługując systemy dziedziczne i standardowe przepływy pracy z prezentacjami.
+
+## ✅ Kluczowe przypadki użycia
+- Raporty biznesowe
+- Projekty akademickie
+- Prezentacje sprzedażowe
+- Slajdy szkoleniowe dla firm
+- Generowanie propozycji
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja DOT na PPT
+- Automatyzacja edytowalnych prezentacji
+- Przepływy pracy dokumentu do slajdu gotowe dla przedsiębiorstw
+- Potoki dokumentu do prezentacji
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

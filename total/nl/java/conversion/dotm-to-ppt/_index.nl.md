@@ -54,7 +54,26 @@ Met de API kunt u ook met een wachtwoord beveiligde DOTM-dotmumenten naar PPT co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOTM** naar **PPT (Legacy PowerPoint-indeling)** zorgt voor achterwaartse compatibiliteit met oudere systemen, waardoor gearchiveerde presentaties en trainingsdia's voor legacy-infrastructuur mogelijk zijn.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Legacy bedrijfssystemen
+- Gearchiveerde presentaties
+- Trainingsdia's voor oude infrastructuur
+- Compatibiliteit in offline omgevingen
+- Rapportage voor overheid/instellingen
+
+## ⚙️ Automatiseringsscenario's
+- DOTM-naar-PPT legacy automatisering
+- Workflows voor compatibiliteit met oude versies
+- Presentatiepijplijnen gereed voor archivering
+- Automatisering van legacy-deckconversie
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

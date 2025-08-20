@@ -49,7 +49,43 @@ Pendant que vous convertissez DOCM en JSON, vous pouvez également définir la p
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Cas d'utilisation clés
+
+- **Publication des données du document sur les API REST/GraphQL**  
+  Servir le contenu extrait de DOCM sous forme de JSON pour une consommation directe des API dans les applications web et mobiles.
+
+- **Alimenter les bases de données NoSQL et les Data Lakes**  
+  Charger les données structurées dérivées de DOCM dans MongoDB, Elasticsearch ou des Data Lakes basés sur le cloud.
+
+- **Alimenter les tableaux de bord avec des flux JSON en temps réel**  
+  Diffuser des KPI et des métriques basés sur des documents dans les tableaux de bord BI et les outils de surveillance.
+
+- **Validation des entrées par rapport au schéma JSON**  
+  Assurer la cohérence et l'intégrité en alignant les données de champ DOCM sur les règles du schéma JSON.
+
+- **Activer les CMS sans tête ou les architectures de microservices**  
+  Intégrer le contenu DOCM dans des systèmes distribués d'abord par API où JSON est la lingua franca.
+
+## ⚙️ Scénarios d'automatisation
+
+- **Extraction DOCM vers JSON avec mappage de champs**  
+  Définir des mappings pour transformer les tables, les en-têtes et les champs en objets JSON structurés.
+
+- **Fonctions sans serveur qui convertissent et émettent des événements JSON**  
+  Déclencher des conversions lors du téléchargement de fichiers, émettant des charges utiles JSON vers des systèmes pilotés par événements.
+
+- **Tâches ETL qui normalisent les types et les clés**  
+  Normaliser les exportations DOCM en structures JSON cohérentes pour l'analyse en aval.
+
+- **Webhooks qui poussent du JSON vers les systèmes en aval**  
+  Automatiser les exportations DOCM vers JSON qui alimentent les CRM, les outils ERP ou les applications tierces.
+
+- **Règles de gouvernance qui suppriment les macros et les informations personnelles avant l'exportation en JSON**  
+  Appliquer des vérifications de conformité pour garantir des sorties JSON sûres et sanitaires à partir de fichiers activés par macro.
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

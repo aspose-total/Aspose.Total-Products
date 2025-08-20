@@ -54,7 +54,23 @@ APIを使用すると、パスワードで保護されたDOCXドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## **DOCX**を**ODP（OpenDocument Presentation）**に変換すると、Wordのコンテンツがオープン標準のスライドデッキに変換されます。これはOpenOfficeプレゼンテーション、学術環境、および政府のコンプライアンスワークフローに最適です。
+
+### ✅ 主なユースケース
+- **DOCXレポート**からスライドを作成する  
+- **OpenOffice**でODPを使用する  
+- **オープンフォーマット**でDOCXプレゼンテーションをアーカイブする  
+- 学術または**政府のコンプライアンスレポート**  
+
+### ⚙️ 自動化シナリオ
+- **DOCXからODPへの大量プレゼンテーション生成**  
+- **自動化された講義/ピッチデッキ作成**  
+- **オープンソースのワークフローパイプライン**  
+- **企業向けODPベースのプレゼンテーション自動化**  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,27 @@ Met de API kunt u ook met een wachtwoord beveiligde DOTX-Documenten naar ODP con
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het converteren van **DOTX** naar **ODP (OpenDocument Presentation)** helpt bij het maken van open-source presentatiesjablonen van gestructureerde Word-inhoud, met ondersteuning voor naleving, toegankelijkheid en delen op meerdere platforms.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Presentaties in LibreOffice Impress  
+- Naleving van open standaarden  
+- Workflows voor academische of overheidsinstanties  
+- Delen van presentaties op meerdere platforms  
+- Integratie in het ODF-ecosysteem  
+
+## ⚙️ Automatiseringsscenario's
+- Pipelines voor DOTX naar ODP  
+- Generatie van presentaties in batches  
+- Geautomatiseerde creatie van dia's  
+- Cloudgebaseerde ODP-workflows  
+- Automatisering van document-naar-presentatie
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

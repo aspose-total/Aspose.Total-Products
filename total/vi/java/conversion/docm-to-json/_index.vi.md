@@ -49,7 +49,47 @@ Trong khi chuyển đổi DOCM sang JSON, bạn cũng có thể đặt dải ô 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi **DOCM (Tài liệu có Macro cho Word)** sang **JSON (JavaScript Object Notation)** là rất quan trọng để biến nội dung tài liệu tĩnh, bảng và các trường biểu mẫu thành **dữ liệu có cấu trúc, có thể đọc bằng máy**. JSON nhẹ, dễ đọc và được sử dụng rộng rãi trong **API, phân tích, ứng dụng web và quy trình tự động hóa**. Bằng cách trích xuất dữ liệu từ DOCM sang JSON, tổ chức có thể mở khóa tính tương tác trên các nền tảng hiện đại, cho phép tích hợp nhanh hơn và đảm bảo dữ liệu sẵn sàng cho **xử lý, xác thực và phân phối theo thời gian thực**.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+
+- **Xuất Dữ Liệu Tài Liệu đến REST/GraphQL APIs**
+  Cung cấp nội dung DOCM trích xuất dưới dạng JSON để tiêu thụ trực tiếp trong ứng dụng web và di động thông qua API.
+
+- **Cung Cấp Dữ Liệu vào Cơ Sở Dữ Liệu NoSQL và Hồ Sơ Dữ Liệu**
+  Tải dữ liệu có cấu trúc tạo ra từ DOCM vào MongoDB, Elasticsearch hoặc hồ sơ dữ liệu dựa trên đám mây.
+
+- **Cung Cấp Dữ Liệu JSON Thời Gian Thực cho Bảng Điều Khiển**
+  Truyền các chỉ số và số liệu dựa trên tài liệu vào bảng điều khiển BI và các công cụ giám sát.
+
+- **Xác Thực Đầu Vào Trong JSON Schema**
+  Đảm bảo tính nhất quán và tính toàn vẹn bằng việc điều chỉnh dữ liệu trường DOCM với các quy tắc JSON Schema.
+
+- **Kích Hoạt Hệ Thống CMS không đầu hoặc Kiến Trúc Microservice**
+  Tích hợp nội dung DOCM vào các hệ thống phân tán, ưu tiên API nơi mà JSON là ngôn ngữ chung.
+
+## ⚙️ Kịch Bản Tự Động Hóa
+
+- **Trích Xuất DOCM sang JSON với Bản Đồ Trường**
+  Xác định các bản đồ để biến đổi bảng, tiêu đề và trường thành các đối tượng JSON có cấu trúc.
+
+- **Chức Năng Không Máy chuyển đổi và Phát Sự Kiện JSON**
+  Kích hoạt chuyển đổi khi tải lên tệp, phát sự kiện JSON tới các hệ thống dựa trên sự kiện.
+
+- **Công Việc ETL chuẩn hóa Loại và Khóa**
+  Chuẩn hóa xuất DOCM thành cấu trúc JSON nhất quán cho phân tích hậu cần.
+
+- **Webhooks đẩy JSON tới Hệ Thống Hậu Cần**
+  Tự động hóa việc xuất DOCM sang JSON cung cấp cho CRM, công cụ ERP hoặc ứng dụng bên thứ ba.
+
+- **Quy Tắc Quản Trị loại bỏ Macro và PII trước Khi Xuất JSON**
+  Áp dụng kiểm tra tuân thủ để đảm bảo đầu ra JSON an toàn, được làm sạch từ các tệp có Macro.
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

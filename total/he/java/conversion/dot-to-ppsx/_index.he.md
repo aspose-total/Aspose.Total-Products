@@ -103,7 +103,26 @@ otherformats: POTX PPSM PPT POTM PPS ODP POT POWERPOINT PPTX PPTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**PPSX (PowerPoint Open XML Show)** יוצרת מצגות אוטומטיות מבוססות XML המתאימות לאירועי עסקים תקפים ומסודרים בענן.
+
+## ✅ מקרי שימוש מרכזיים
+- מצגות מופעלות בענן
+- שקפים להדגמת עסקים
+- הרצאות אקדמיות
+- מצגות תדמיתיות תקניות
+- מערכות שקפים לאירועים בגודל מדויק
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-PPSX
+- אוטומציה של מצגות מוכנות לענן
+- זרימות עבודה ממסמך למצגת
+- צינורות עבודה למצגות עסקיות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

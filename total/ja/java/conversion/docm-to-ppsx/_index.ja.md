@@ -54,7 +54,45 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要なユースケース  
+
+- **イベント用のスライドショーの作成**  
+  磨かれた、すぐに再生可能なプレゼンテーションを作成します。  
+
+- **EメールやLMSプラットフォームでプレゼンテーションを共有**  
+  編集アクセスを必要とせずにコンテンツを配布します。  
+
+- **教室用の講義スライドの準備**  
+  ドキュメントを講義用の自動再生スライドに変換します。  
+
+- **顧客向けのマーケティングプレゼンテーションの作成**  
+  ブランド付きのスライドショーをモダンで安全な形式で共有します。  
+
+- **再利用可能な企業向けスライドデッキの公開**  
+  トレーニングや企業のアップデートのためにスライドショーを標準化します。  
+
+
+
+## ⚙️ 自動化シナリオ  
+
+- **マクロフリーのコンプライアンスを確保するDOCMからPPSXへの変換ツール**  
+  スライドを生成しながらマクロリスクを排除します。  
+
+- **トレーニングスライドのための自動化されたパブリッシングパイプライン**  
+  学習プラットフォーム向けにPPSX出力を準備します。  
+
+- **DOCMから直接PPSXを生成するクラウドツール**  
+  Wordからスライドショーをゼロの手間で展開します。  
+
+- **Power Automateワークフローによる再利用可能なスライドショーの生成**  
+  企業ワークフローからPPSX生成をトリガーします。  
+
+- **企業向けコラボレーションツールによるPPSXコンテンツの配布**  
+  スライドショーがチーム全体で安全に共有されることを保証します。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

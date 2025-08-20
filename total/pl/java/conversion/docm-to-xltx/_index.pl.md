@@ -61,7 +61,27 @@ Po przekonwertowaniu DOCM na XLTX [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOCM** na **XLTX (szablon Excela)** zapewnia wielokrotnie używalne, standaryzowane szablony dla nowoczesnych środowisk Excela. Te szablony usprawniają raportowanie, wspierają przepływy pracy BI i zwiększają produktywność poprzez konwertowanie danych strukturalnych opartych na Wordzie na gotowe do użycia szablony Excela.
+
+## ✅ Główne przypadki użycia
+- Standaryzacja **modeli finansowych**
+- Tworzenie **gotowych do użycia szablonów raportów dla przedsiębiorstw**
+- Migracja **zawartości strukturalnej z DOCM do Excela**
+- Wsparcie **przepływów pracy związanych z inteligencją biznesową**
+- Zwiększenie produktywności dzięki **wielokrotnie używalnym szablonom Excela**
+
+## ⚙️ Scenariusze automatyzacji
+- **Automatyzacja szablonu DOCM do XLTX**
+- Generowanie potoków raportów przedsiębiorstwa tworzących pliki XLTX
+- **Generowanie standaryzowanych szablonów Excela**
+- Zautomatyzowane **przepływy pracy z szablonami opartymi na danych**
+- **Dystrybucja szablonów na poziomie korporacyjnym**
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

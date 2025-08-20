@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **PPSM (Pakiet programu PowerPoint z obsługą makr)** umożliwia interaktywne prezentacje z wbudowanymi makrami, idealne do zautomatyzowanych prezentacji sprzedażowych, pulpitów finansowych i raportowania przedsiębiorstwa.
+
+## ✅ Główne przypadki użycia
+- Zautomatyzowane prezentacje sprzedażowe
+- Pulpity finansowe
+- Szkolenia i pokazy symulacyjne
+- Wizualizacje raportów przedsiębiorstwa
+- Interaktywne prezentacje zorientowane na procesy
+
+## ⚙️ Scenariusze automatyzacji
+- Konwersja z DOTM na PPSM z obsługą makr
+- Generowanie zautomatyzowanych pokazów slajdów
+- Automatyzacja interaktywnych prezentacji
+- Makroprzepływy pracy przedsiębiorstwa
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

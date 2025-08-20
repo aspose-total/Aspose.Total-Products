@@ -61,7 +61,24 @@ DOTX를 XLSM로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## 핵심 사용 사례
+- 템플릿에서 자동화된 재무 모델링  
+- 부서 간 워크플로 자동화  
+- 엑셀 내 고급 데이터 처리  
+- 반복 작업을 위한 비즈니스 매크로 통합  
+- 매크로를 활용한 문서 기반 작업 자동화  
+
+## ⚙️ 자동화 시나리오
+- DOTX에서 XLSM으로의 매크로 파이프라인  
+- 매크로를 활용한 스프레드시트 자동 생성  
+- 기업 작업 자동화 워크플로  
+- 생산성을 위한 템플릿 기반 엑셀 스크립팅  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

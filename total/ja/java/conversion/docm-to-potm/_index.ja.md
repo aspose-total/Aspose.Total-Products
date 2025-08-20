@@ -54,7 +54,45 @@ APIを使用すると、パスワードで保護されたDOCMドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース  
+
+- **インタラクティブなトレーニングテンプレートの設計**  
+  マクロによってパワードされたインタラクティブ要素を備えた再利用可能なトレーニングデッキを構築します。  
+
+- **マクロ駆動の企業プレゼンテーションフレームワークの作成**  
+  組み込みの自動化を備えたブランド化されたプレゼンテーションを標準化します。  
+
+- **繰り返しスライド生成の自動化**  
+  マクロを使用して、DOCMデータから直接構造化されたスライドを生成することで時間を節約します。  
+
+- **動的なデータ駆動型スライドの構築**  
+  データソースと統合して、チャートや視覚的要素を自動的に更新します。  
+
+- **組み込みの自動化を備えた企業テンプレートの標準化**  
+  チーム全体で一貫性を保つために、統一されたマクロを使用したテンプレートを配布します。  
+
+
+
+## ⚙️ 自動化シナリオ  
+
+- **DOCMからPOTMへのマクロ保存変換ツール**  
+  Word文書をテンプレートに変換する際にVBAマクロを維持します。  
+
+- **スライドにマクロを埋め込む自動化パイプライン**  
+  DOCMから直接自動化可能なプレゼンテーションフレームワークを生成します。  
+
+- **Power Automateフローによるテンプレートのエクスポート**  
+  チームや部署全体に標準化されたPOTMテンプレートを提供します。  
+
+- **企業向け文書管理システムによるPOTMの生成**  
+  テンプレート作成を企業のワークフローに統合します。  
+
+- **動的プレゼンテーションのためのスクリプトベースの変換**  
+  CLIやスクリプト駆動ツールを使用して、スライドテンプレートの自動化を行います。  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

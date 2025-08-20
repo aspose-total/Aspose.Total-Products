@@ -61,7 +61,23 @@ Po przekonwertowaniu DOCX na SXC [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ Kluczowe przypadki użycia</h2>
+- Migracja danych do OpenOffice/LibreOffice
+- Zachowanie strukturyzowanych danych tabelarycznych z dokumentów
+- Umożliwienie kompatybilności z systemami opartymi na StarOffice
+- Wsparcie dla otwartych przepływów dokumentów
+
+<h2>⚙️ Scenariusze automatyzacji</h2>
+- Konwersja wsadowa DOCX na SXC
+- Integracja z systemem dziedzictwa
+- Przepływy pracy raportowania o otwartym kodzie źródłowym
+- Potoki dokument-spreadsheet dla przedsiębiorstw
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,27 @@ L'API vous permet également de convertir des Documents DOTX protégés par mot 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Convertir **DOTX** en **ODP (OpenDocument Presentation)** aide à créer des modèles de présentation open source à partir de contenu structuré de Word, favorisant la conformité, l'accessibilité et le partage multiplateforme.
+
+## ✅ Cas d'utilisation clés
+- Présentations LibreOffice Impress
+- Conformité aux normes ouvertes
+- Flux de travail académique ou gouvernemental
+- Partage de présentations multiplateforme
+- Intégration à l'écosystème ODF
+
+## ⚙️ Scénarios d'automatisation
+- Pipelines DOTX vers ODP
+- Génération de présentations en lot
+- Création automatisée de diaporamas
+- Flux de travail ODP basé sur le cloud
+- Automatisation de document vers présentation
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,26 @@ API를 사용하면 암호로 보호된 DOTM 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOTM**를 **PPT (레거시 PowerPoint 형식)**으로 변환하면 오래된 시스템과의 하위 호환성을 보장하여 레거시 인프라를 위한 보관된 프레젠테이션 및 교육 슬라이드를 활용할 수 있습니다.
+
+## ✅ 주요 사용 사례
+- 레거시 기업 시스템
+- 보관된 프레젠테이션
+- 오래된 인프라를 위한 교육 슬라이드
+- 오프라인 환경 호환성
+- 정부/기관 보고서
+
+## ⚙️ 자동화 시나리오
+- DOTM-to-PPT 레거시 자동화
+- 이전 버전 호환성 워크플로우
+- 보관 준비된 프레젠테이션 파이프라인
+- 레거시 덱 변환 자동화
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

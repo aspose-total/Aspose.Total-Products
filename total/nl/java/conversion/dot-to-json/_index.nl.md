@@ -49,7 +49,26 @@ Terwijl u DOT naar JSON converteert, kunt u het bereik ook instellen op uw JSON-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Het omzetten van **DOT** naar **JSON (JavaScript Object Notation)** maakt het mogelijk dat Word-sjablonen gestructureerde, API-gereed datasets worden voor webapplicaties, cloudautomatisering en bedrijfsintegraties.
+
+## ✅ Belangrijkste Gebruiksscenario's
+- Webapplicaties
+- Data-gedreven automatisering
+- Cloud API's
+- Integraties van bedrijfssoftware
+- Generatie van gestructureerde datasets
+
+## ⚙️ Automatiseringsscenario's
+- DOT-naar-JSON pipeline automatisering
+- Sjabloon-naar-API-workflows
+- JSON-gereed rapportagesystemen
+- Cloud-native integratie van bedrijfsgegevens
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

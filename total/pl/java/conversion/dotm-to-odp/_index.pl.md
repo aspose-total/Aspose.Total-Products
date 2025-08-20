@@ -54,7 +54,26 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konwertowanie **DOTM** na **ODP (OpenDocument Presentation)** umożliwia ponowne wykorzystanie szablonów Word z makrami do prezentacji zgodnych z oprogramowaniem open-source dla przedsiębiorstw i użytkowników wieloplatformowych.
+
+## ✅ Kluczowe przypadki użycia
+- Przepływy pracy prezentacji w przedsiębiorstwie
+- Przyjęcie oprogramowania open-source dla slajdów
+- Kompatybilność wieloplatformowa
+- Tworzenie slajdów z makrami
+- Integracja z narzędziami prezentacji w chmurze
+
+## ⚙️ Scenariusze automatyzacji
+- Generowanie automatyczne z DOTM do ODP
+- Przepływy pracy konwersji makr na prezentację
+- Potoki prezentacji open-source
+- Automatyzacja przepływu pracy ODP gotowego do użycia w przedsiębiorstwie
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

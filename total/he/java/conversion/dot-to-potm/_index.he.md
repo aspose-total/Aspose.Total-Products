@@ -103,7 +103,26 @@ otherformats: PPTX POWERPOINT PPT PPSM ODP POTX PPTM PPSX POT PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**POTM (תבנית מאקרו של PowerPoint)** מאפשרת יצירת תבניות מצגת דינמיות עם מאקרוס מוטמעים, אידיאליות למערכות שקופות ואינטראקטיביות ממוחשבות.
+
+## ✅ מקרי שימוש מרכזיים
+- מצגות הדרכה ממוכנות באופן אוטומטי
+- זרימות עבודה עסקיות עם מאקרוס
+- מצגות דיווח תקניות
+- חומרי לימוד אינטראקטיביים
+- מערכות שקופות עסקיות דינמיות
+
+## ⚙️ תרחישי אוטומציה
+- המרת DOT ל-POTM עם מאקרוס
+- תבניות מוכנות לאוטומציה ב-PowerPoint
+- אוטומציה של זרימות עבודה עסקיות
+- יצירת מסמך עם מאקרוס למצגת
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

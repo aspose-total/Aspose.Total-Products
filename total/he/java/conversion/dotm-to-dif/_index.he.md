@@ -102,7 +102,24 @@ otherformats: EXCEL XLTX TSV FODS XLSB XLTM ODS CSV XLSX XLT XLAM XLS SXC XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ שימושים מרכזיים
+- תאימות למערכת ישנה לייבוא/ייצוא של גיליונות אלקטרוניים
+- תאימות גיליונות אלקטרוניים בין פלטפורמות שונות
+- זרימות עבודה לארכיון עסקי
+- העברת נתונים מובנים בין יישומים
+- דיווחים אוטומטיים ממסמכים המופעלים במאקרו
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרה מ-**DOTM** ל-**DIF**
+- תהליכי תקשורת נתונים המופעלים במאקרו
+- דיווחים אוטומטיים בין פלטפורמות שונות
+- זרימות עבודה ETL עסקיות באמצעות קבצי DIF
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

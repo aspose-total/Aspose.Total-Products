@@ -49,7 +49,26 @@ DOT를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+**DOT**를 **JSON (JavaScript Object Notation)**으로 변환하면 Word 템플릿을 웹 애플리케이션, 클라우드 자동화 및 기업 통합을 위한 구조화된 API-ready 데이터 세트로 변환할 수 있습니다.
+
+## ✅ 주요 사용 사례
+- 웹 애플리케이션
+- 데이터 주도형 자동화
+- 클라우드 API
+- 기업 소프트웨어 통합
+- 구조화된 데이터 세트 생성
+
+## ⚙️ 자동화 시나리오
+- DOT-to-JSON 파이프라인 자동화
+- 템플릿-to-API 워크플로우
+- JSON-ready 보고 시스템
+- 클라우드 네이티브 기업 데이터 통합
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

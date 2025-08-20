@@ -61,7 +61,22 @@ DOCXをXLTMに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主なユースケース
+- 繰り返し作業の自動化  
+- 企業向けのマクロテンプレートの作成  
+- DOCX から Excel へのマクロベースのロジックの移行  
+- 金融および分析モデルのサポート  
+- レポートの効率化  
+
+## ⚙️ 自動化シナリオ
+- DOCX から XLTM へのマクロ有効化自動化  
+- テンプレート生成パイプライン  
+- 企業向けマクロ管理  
+- Excel テンプレートワークフローの自動化  
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

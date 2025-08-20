@@ -102,7 +102,26 @@ otherformats: XLAM ODS TSV XLT FODS CSV DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+ייצוא **DOTX (תבנית Word)** ל-**XLT (תבנית Excel)** מאפשר לעסקים ליצור מסגרות גיליון נתונים חוזרות. התקנה זו משפרת את היעילות בדיווחים, תכנון פיננסי ותהליכי עבודה מחלקתיים.
+
+## ✅ מקרי שימוש מרכזיים
+- יצירת תבניות עסקיות ל-Excel ברמה הארגונית
+- תבניות דיווח עסקיות
+- מסגרות Excel ספציפיות למחלקות
+- דגמים פיננסיים ניתנים לשימוש חוזר
+- תקנים ב-Excel המבוססים על מסמכים
+
+## ⚙️ תרחישי אוטומציה
+- צינורות המרה מ-DOTX ל-XLT
+- הפצת תבניות ממוכנות בצורה אוטומטית בכל הארגונים
+- יצירת תבניות Excel מתוקננות
+- מסגרות דיווח ארגוניות לאותנטיות
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

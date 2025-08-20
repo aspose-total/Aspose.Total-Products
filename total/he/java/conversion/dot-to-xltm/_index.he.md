@@ -102,7 +102,26 @@ otherformats: XLSB CSV FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+המרת **DOT** ל-**XLTM (תבנית המאקרוס של Excel)** מאפשרת ליצור תבניות מתקדמות ומוכנות לאוטומציה, המשולבות עם לוגיקת מאקרו מתוך מסמכי Word לצורכי זרימות עבודה בארגון.
+
+## ✅ מקרי שימוש מרכזיים
+- יצירת תבניות אוטומטיות
+- מאקרוס לדיווחים ברחבי הארגון
+- אוטומציה של תהליכי עסקים
+- תבניות לחשבוניות דינמיות
+- עיצוב פיננסי
+
+## ⚙️ תרחישי אוטומציה
+- אוטומציה מבוססת מאקרו מ-DOT ל-XLTM
+- צינורות תבניות
+- המרת מסמך עם מאקרו לתבנית מאופשרת
+- אוטומציה של ייצוריות בארגון
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

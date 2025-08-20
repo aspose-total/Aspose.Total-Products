@@ -61,7 +61,24 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>การใช้งานหลัก</h2>
+- รายงานทางการเงินรุ่นเก่า
+- การเก็บบันทึกข้อมูลขององค์กร
+- สเปรดชีทที่สามารถใช้งานแบบออฟไลน์
+- การรายงานของรัฐบาล/การปฏิบัติตามกฎระเบียบ
+- การสร้างข้อมูลตารางโครงสร้าง
+
+<h2>สถานการณ์การอัตโนมัติ</h2>
+- การย้ายข้อมูลจาก DOT เป็น XLS
+- การอัตโนมัติเทมเพลตเป็นสเปรดชีทเป็นชุดข้อมูล
+- การแปลงข้อมูลตามข้อกำหนดการปฏิบัติ
+- การสร้างกระแสการรายงานขององค์กร
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

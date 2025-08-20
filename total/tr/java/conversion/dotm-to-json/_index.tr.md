@@ -49,7 +49,24 @@ DOTM'yi JSON'a dönüştürürken, aralığı JSON çıktı biçiminize de ayarl
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+## ✅ Ana Kullanım Alanları
+- Web ve bulut uygulamaları için API entegrasyonları  
+- Web uygulama veri alışverişi ve uyumluluğu  
+- NoSQL veritabanı depolama  
+- Bulut doğal ve sunucusuz iş akışları  
+- Otomatik raporlama ve analiz  
+
+## ⚙️ Otomasyon Senaryoları
+- DOTM'den JSON çıkarma boru hatları  
+- Makrodan API veri iş akışları  
+- Belgeden JSON otomasyonu  
+- Veri odaklı otomasyon süreçleri
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

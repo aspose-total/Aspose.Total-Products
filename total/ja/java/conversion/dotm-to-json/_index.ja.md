@@ -49,7 +49,24 @@ DOTMをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+<h2>✅ 主な使用ケース</h2>
+- WebおよびクラウドアプリケーションのAPI統合  
+- Webアプリのデータ交換と相互運用性  
+- NoSQLデータベースのストレージ  
+- クラウドネイティブおよびサーバーレスワークフロー  
+- 自動レポートおよび分析  
+
+<h2>⚙️ 自動化シナリオ</h2>
+- DOTMからJSONへの抽出パイプライン  
+- マクロからAPIへのデータワークフロー  
+- ドキュメントからJSONへの自動化  
+- データ駆動型の自動化プロセス
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

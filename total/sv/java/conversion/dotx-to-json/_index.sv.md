@@ -49,7 +49,27 @@ Medan du konverterar DOTX till JSON kan du också ställa in intervallet för di
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Konvertera **DOTX** till **JSON** möjliggör strukturerad datautbyte, API-integration och moderna webbarbetsflöden, vilket gör dokumentdata användbar för molntjänster, webbappar och AI/ML-pipelines.
+
+## ✅ Viktiga användningsfall
+- API-klara dataexporter
+- Webbappintegration
+- Molntjänster
+- Datapipelines
+- AI/ML-datasetförberedelse
+
+## ⚙️ Automatiseringsscenario
+- DOTX-till-JSON-pipelines
+- Automatisk JSON-generering
+- Moln-API-arbetsflöden
+- Företagssystemintegrationer
+- Data lake-automatisering
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,27 @@ Sau khi chuyển đổi DOCM sang XLT, [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Chuyển đổi **DOCM** sang **XLT (Mẫu Excel, cũ)** cho phép tổ chức tạo ra các mẫu bảng tính có thể tái sử dụng tương thích với các phiên bản Excel cũ hơn. Điều này bảo tồn bố cục dựa trên tài liệu và hỗ trợ các luồng công việc báo cáo cũ, biểu mẫu và lưu trữ cổ điển.
+
+## ✅ Các Trường Hợp Sử Dụng Chính
+- Thiết kế **mẫu tài chính chuẩn hóa**  
+- Chuẩn bị các **biểu mẫu có thể tái sử dụng cho các phiên bản Excel cũ hơn**  
+- Di chuyển **biểu mẫu Word** sang các mẫu bảng tính  
+- Hỗ trợ các tổ chức vẫn sử dụng **Excel 97–2003**  
+- Xây dựng **mẫu lưu trữ** trong định dạng XLT  
+
+## ⚙️ Kịch Bản Tự Động Hóa
+- **Công cụ chuyển đổi tự động DOCM sang XLT**  
+- Luồng công việc doanh nghiệp duy trì **thư viện mẫu cổ điển**  
+- **Các đường ống xử lý hàng loạt** tạo ra các mẫu XLT tài chính từ Word  
+- **Hệ thống lưu trữ** yêu cầu tính tương thích với XLT  
+- Luồng công việc phân phối mẫu cho **người dùng Excel cổ điển**  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 
