@@ -1,6 +1,6 @@
 ---
-title: PDF Processing and OCR Addition via JavaScript APIs
-description: JavaScript API to manipulate PDF documents as well as add OCR feature in web applications.
+title: PDF and Excel SpreadSheet Processing and OCR Addition via JavaScript APIs
+description: JavaScript API to manipulate PDF documents, Microsoft Excel Spreadsheets as well as add OCR feature in web applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,7 +11,7 @@ description: JavaScript API to manipulate PDF documents as well as add OCR featu
 {{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-javascript-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/javascript-cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/javascript-cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/javascript-cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for JavaScript via C++ is an all-inclusive set of JavaScript libraries. These libraries offer functionalities like working directly with PDFs in web browsers and enhancing your applications with optical character recognition abilities.
+Aspose.Total for JavaScript via C++ is an all-inclusive set of JavaScript libraries. These libraries offer functionalities like working directly with PDFs, Excel SpreadSheets in web browsers and enhancing your applications with optical character recognition abilities.
 
 {{< /blocks/products/pf/total/overview >}}
 
@@ -23,6 +23,13 @@ Aspose.Total for JavaScript via C++ is an all-inclusive set of JavaScript librar
 Aspose.PDF for JavaScript via C++ is a user-friendly and secure toolkit designed for working with PDFs directly in web browsers. This library supports 26 languages, including Latin, Cyrillic scripts, and Chinese characters.
 
 It is a lightweight solution that enables developers to efficiently process PDFs with JavaScript. It's both scalable and feature-rich, allowing developers to craft their own JavaScript-based PDF manipulation products and easily share them across the web.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ is a powerful WebAssembly-based API that delivers near-native performance for creating, editing, converting, and rendering spreadsheets across Excel formats (XLS, XLSX, XLSB, XLSM), ODS, CSV, and HTML in both browser and Node.js environments. Designed for maximum compatibility and flexibility, it enables seamless spreadsheet processing without a server, making it ideal for serverless applications, dashboards, data pipelines, and document generation tools. With its lightweight footprint and full support for major Excel formats, Aspose.Cells for JavaScript via C++ ensures fast, reliable, and high-performance spreadsheet manipulation across web, server-side, and hybrid platforms.
+
 
 {{< /blocks/products/pf/total/product-item >}}
 
