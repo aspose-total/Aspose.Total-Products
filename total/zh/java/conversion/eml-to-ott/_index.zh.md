@@ -30,7 +30,21 @@ otherformats: DOTM EPUB TIFF DOT SVG EMF FLATOPC PS DOCM MD RTF PDF DOTX GIF WOR
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+**OTT（OpenDocument Text Template）** 创建可重复使用的模板。将 **EML 转换为 OTT** 可将电子邮件格式转换为标准化文档模板。
+
+## ✅ 主要用例
+- 从格式化电子邮件构建文档模板。
+- 自动化发票、人力资源或法律模板。
+- 标准化基于电子邮件的通信格式。
+
+## ⚙️ 自动化场景
+- 从业务电子邮件自动生成 OTT。
+- 将 EML 批量转换为可重复使用的模板。
+- 与开源办公套件进行工作流集成。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

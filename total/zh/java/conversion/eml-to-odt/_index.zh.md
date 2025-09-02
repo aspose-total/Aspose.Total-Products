@@ -30,7 +30,21 @@ otherformats: DOT PS FLATOPC DOC DOTX DOCX PCL DOTM GIF PNG WORDML ODT RTF TEXT 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+**ODT（OpenDocument Text）**被LibreOffice和OpenOffice使用。将**EML转换为ODT**可确保开源兼容性。
+
+## ✅ 主要用例
+- 在LibreOffice或Apache OpenOffice中编辑电子邮件。
+- 长期存档为符合ISO标准的文档格式。
+- 需要开放标准的企业工作流程。
+
+## ⚙️ 自动化场景
+- 批量将EML转换为ODT以用于文档存储库。
+- 自动化导出为符合政府标准的格式。
+- 在开源办公环境中实现协作。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

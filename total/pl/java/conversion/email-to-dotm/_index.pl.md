@@ -30,7 +30,25 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+*Konwertowanie e-maili na DOTM umożliwia tworzenie szablonów z makrami, łącząc wielokrotnie używane struktury z możliwościami automatyzacji.*
+
+### ✅ Kluczowe przypadki użycia
+
+* Tworzenie wielokrotnie używanych szablonów dokumentów z makrami na podstawie e-maili
+* Automatyzacja powtarzalnych procesów, takich jak generowanie faktur czy raportów
+* Osadzanie reguł biznesowych w szablonach generowanych na podstawie treści e-maili
+* Wsparcie potrzeb automatyzacji dokumentów przedsiębiorstwa
+
+### ⚙️ Scenariusze automatyzacji
+
+* Automatyczna konwersja powtarzających się e-maili na szablony DOTM
+* Generowanie zbiorcze szablonów z makrami na podstawie standardowych komunikatów
+* Potoki e-maili do DOTM do automatyzacji zadań związanych z HR, finansami czy zgodnością
+* Planowane aktualizacje bibliotek szablonów na podstawie powtarzających się e-maili
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

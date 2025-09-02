@@ -30,7 +30,23 @@ otherformats: TEXT OTT WORDML RTF ODT FLATOPC DOT PS XPS JPEG DOC PCL DOCX GIF M
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ 主要用例
+
+* 在开源办公软件中编辑和格式化电子邮件
+* 在符合ODF标准的系统中存档电子邮件
+* 将Outlook数据迁移到开放文档平台
+* 在开放格式中准备法律或商业记录
+
+## ⚙️ 自动化场景
+
+* 用于企业文档的MSG到ODT管道
+* 从Outlook自动迁移到LibreOffice/OpenOffice
+* 批量将电子邮件导出为可编辑的ODT文件
+* 符合ODF标准的存档工作流程
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

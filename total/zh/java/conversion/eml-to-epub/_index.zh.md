@@ -30,7 +30,21 @@ otherformats: PNG DOCM MD ODT OTT DOCX XPS DOTX SVG JPEG EMF PS PDF EPUB WORDML 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+<h2>EPUB</h2> 是一种流行的电子书格式。将 **EML 转换为 EPUB** 可以方便地在电子阅读器、平板电脑和移动设备上存储和阅读电子邮件。
+
+## ✅ 主要用例
+- 将重要的电子邮件线程转换为便携式电子书。
+- 在 Kindle、Kobo 或移动应用上阅读存档的通信。
+- 发布存储在电子邮件中的培训或入职材料。
+
+## ⚙️ 自动化场景
+- 将电子邮件通讯转换为 EPUB 的自动化流程。
+- 将电子邮件存档迁移到电子书库。
+- 批量将电子邮件转换为 EPUB 以便离线阅读。
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

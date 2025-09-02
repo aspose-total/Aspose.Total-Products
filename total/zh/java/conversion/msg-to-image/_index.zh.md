@@ -30,7 +30,26 @@ otherformats: DOCM PDF TIFF PCL GIF DOT SVG MD IMAGE DOTM PS JPEG DOTX TEXT EPUB
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **MSG 转换为图像** 可灵活地将电子邮件保存为各种标准图像格式，如 PNG、JPEG、BMP 或 TIFF，以满足不同的使用场景。
+
+### ✅ 主要用例
+
+* 通过图像快照实现电子邮件的通用访问性，无需电子邮件客户端。
+* 支持多种格式的图像，适用于文档工作流程。
+* 快速将电子邮件内容嵌入多媒体演示文稿。
+* 基于图像的归档，用于法律和合规记录保存。
+
+### ⚙️ 自动化场景
+
+* 多输出管道将 MSG 转换为多种图像类型。
+* 需要不同图像格式的企业级归档。
+* 自动生成电子邮件图像快照的自动化备份系统。
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -30,7 +30,25 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+Převádění souborů **EMLX** do formátu **RTF (Rich Text Format)** zachovává formátování e-mailů ve formátu lehkém a široce kompatibilním.  
+
+## ✅ Klíčové použití  
+- Sdílení formátovaného e-mailového textu napříč platformami  
+- Zachování formátování bohatého textu z e-mailů  
+- Vytváření archivů e-mailů napříč platformami  
+- Příprava formátovaných zpráv z Apple Mail  
+
+## ⚙️ Scénáře automatizace  
+- Hromadná generace RTF z dat EMLX  
+- Pipeliny e-mailů na RTF pro archivaci souladu  
+- Integrace s pracovními postupy podnikového hlášení  
+- Generování lehkých formátovaných dokumentů  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

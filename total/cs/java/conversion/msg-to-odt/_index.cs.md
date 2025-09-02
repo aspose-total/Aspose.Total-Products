@@ -30,7 +30,23 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+## ✅ Klíčové použití případy
+
+* Úprava a formátování e-mailů v kancelářském softwaru s otevřeným zdrojovým kódem
+* Archivace e-mailů v systémech kompatibilních s formátem ODF
+* Migrace dat z Outlooku do platforem s otevřenými dokumenty
+* Příprava právních nebo obchodních záznamů ve formátech s otevřeným kódem
+
+## ⚙️ Scénáře automatizace
+
+* Potrubí MSG-to-ODT pro dokumentaci podniku
+* Automatizovaná migrace z Outlooku do LibreOffice/OpenOffice
+* Hromadný export e-mailů do upravitelných souborů ODT
+* Archivační pracovní postupy kompatibilní s ODF
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

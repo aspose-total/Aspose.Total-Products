@@ -30,7 +30,25 @@ otherformats: GIF PDF EMF TEXT ODT OTT DOTM FLATOPC PNG WORDML PS DOT DOCX XPS T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+```
+将 **EMLX 文件** 转换为 **RTF（Rich Text Format）** 可以保留电子邮件格式，以一种轻量级、广泛兼容的格式。  
+
+## ✅ 主要用途  
+- 在各个平台间共享格式化的电子邮件文本  
+- 保留电子邮件中的富文本格式  
+- 创建跨平台电子邮件存档  
+- 从苹果邮件准备格式化报告  
+
+## ⚙️ 自动化场景  
+- 从 EMLX 数据批量生成 RTF  
+- 用于合规存档的电子邮件到 RTF 流水线  
+- 与企业报告工作流集成  
+- 生成轻量级格式化文档  
+```
+{{% /blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
