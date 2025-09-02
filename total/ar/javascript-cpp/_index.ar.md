@@ -19,13 +19,20 @@ Aspose.Total لـ JavaScript عبر C++ عبارة عن مجموعة شاملة 
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF for JavaScript عبر C++ عبارة عن مجموعة أدوات سهلة الاستخدام وآمنة مصممة للعمل مع ملفات PDF مباشرةً في متصفحات الويب.تدعم هذه المكتبة 26 لغة، بما في ذلك النصوص اللاتينية والسيريلية والأحرف الصينية.<br><br>
+Aspose.PDF for JavaScript عبر C++ عبارة عن مجموعة أدوات سهلة الاستخدام وآمنة مصممة للعمل مع ملفات PDF مباشرةً في متصفحات الويب.تدعم هذه المكتبة 26 لغة، بما في ذلك النصوص اللاتينية والسيريلية والأحرف الصينية.
 
 إنه حل خفيف الوزن يمكّن المطورين من معالجة ملفات PDF بكفاءة باستخدام JavaScript.إنه قابل للتطوير وغني بالميزات، مما يسمح للمطورين بصياغة منتجاتهم الخاصة لمعالجة ملفات PDF المستندة إلى JavaScript ومشاركتها بسهولة عبر الويب.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ هي واجهة برمجة تطبيقات قوية مبنية على WebAssembly، تُقدم أداءً شبه أصلي لإنشاء وتحرير وتحويل وعرض جداول البيانات عبر تنسيقات Excel (XLS، XLSX، XLSB، XLSM)، وODS، وCSV، وHTML، في كل من بيئات المتصفح وNode.js. صُممت لتحقيق أقصى قدر من التوافق والمرونة، مما يُتيح معالجة جداول البيانات بسلاسة دون الحاجة إلى خادم، مما يجعلها مثالية للتطبيقات التي لا تحتاج إلى خادم، ولوحات المعلومات، وخطوط أنابيب البيانات، وأدوات إنشاء المستندات. بفضل حجمها الخفيف ودعمها الكامل لتنسيقات Excel الرئيسية، تضمن Aspose.Cells لجافا سكريبت عبر C++ معالجة سريعة وموثوقة وعالية الأداء لجداول البيانات عبر الويب، ومنصات الخادم، والمنصات الهجينة.
+
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-يعمل Aspose.OCR لـ JavaScript عبر C++ على تمكين تطبيقاتك من خلال التعرف البصري الفعال على الأحرف في 8 أسطر فقط من التعليمات البرمجية.<br><br>
+يعمل Aspose.OCR لـ JavaScript عبر C++ على تمكين تطبيقاتك من خلال التعرف البصري الفعال على الأحرف في 8 أسطر فقط من التعليمات البرمجية.
 
 تتميز واجهة JavaScript OCR API بأنها متعددة الاستخدامات، فهي قادرة على التعرف على المحتوى من الصور الممسوحة ضوئيًا وصور الهواتف الذكية ولقطات الشاشة ومناطق صور محددة وملفات PDF الممسوحة ضوئيًا.يقدم النتائج بتنسيقات تبادل المستندات والبيانات الشائعة. والجدير بالذكر أن واجهة برمجة التطبيقات (API) تعمل دون الاتصال بالإنترنت، مما يلغي الحاجة إلى الاتصال بالإنترنت.
 {{< /blocks/products/pf/total/product-item >}}

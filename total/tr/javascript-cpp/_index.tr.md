@@ -19,13 +19,20 @@ Aspose.Total for JavaScript via C++, her şeyi kapsayan bir JavaScript kütüpha
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF for JavaScript via C++, PDF'lerle doğrudan web tarayıcılarında çalışmak için tasarlanmış, kullanıcı dostu ve güvenli bir araç setidir.Bu kütüphane Latin, Kiril alfabeleri ve Çince karakterler de dahil olmak üzere 26 dili destekler.<br><br>
+Aspose.PDF for JavaScript via C++, PDF'lerle doğrudan web tarayıcılarında çalışmak için tasarlanmış, kullanıcı dostu ve güvenli bir araç setidir.Bu kütüphane Latin, Kiril alfabeleri ve Çince karakterler de dahil olmak üzere 26 dili destekler.
 
-Geliştiricilerin PDF'leri JavaScript ile verimli bir şekilde işlemesine olanak tanıyan hafif bir çözümdür.Hem ölçeklenebilir hem de zengin özelliklere sahip olması, geliştiricilerin kendi JavaScript tabanlı PDF işleme ürünlerini oluşturmalarına ve bunları web üzerinde kolayca paylaşmalarına olanak tanır.<br><br>
+Geliştiricilerin PDF'leri JavaScript ile verimli bir şekilde işlemesine olanak tanıyan hafif bir çözümdür.Hem ölçeklenebilir hem de zengin özelliklere sahip olması, geliştiricilerin kendi JavaScript tabanlı PDF işleme ürünlerini oluşturmalarına ve bunları web üzerinde kolayca paylaşmalarına olanak tanır.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++, Excel formatları (XLS, XLSX, XLSB, XLSM), ODS, CSV ve HTML'de hem tarayıcı hem de Node.js ortamlarında elektronik tablolar oluşturmak, düzenlemek, dönüştürmek ve işlemek için yerele yakın performans sunan güçlü bir WebAssembly tabanlı API'dir. Maksimum uyumluluk ve esneklik için tasarlanan bu API, sunucusuz uygulamalar, panolar, veri hatları ve belge oluşturma araçları için ideal hale getirerek, sunucu gerektirmeden sorunsuz elektronik tablo işleme olanağı sunar. Hafif yapısı ve başlıca Excel formatlarına tam desteğiyle, JavaScript için C++ üzerinden Aspose.Cells, web, sunucu tarafı ve hibrit platformlarda hızlı, güvenilir ve yüksek performanslı elektronik tablo yönetimi sağlar.
+
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR for JavaScript, C++ aracılığıyla uygulamalarınızı yalnızca 8 satırlık kodla verimli optik karakter tanıma özelliğiyle güçlendirir.<br><br>
+Aspose.OCR for JavaScript, C++ aracılığıyla uygulamalarınızı yalnızca 8 satırlık kodla verimli optik karakter tanıma özelliğiyle güçlendirir.
 
 JavaScript OCR API'si çok yönlüdür; taranan görüntülerden, akıllı telefon fotoğraflarından, ekran görüntülerinden, belirli görüntü alanlarından ve taranmış PDF'lerden içerik tanıyabilir.Sonuçları popüler belge ve veri alışverişi formatlarında sunar. API'nin çevrimdışı çalışması, internet bağlantısı ihtiyacını ortadan kaldırıyor.
 {{< /blocks/products/pf/total/product-item >}}

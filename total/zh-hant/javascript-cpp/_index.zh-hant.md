@@ -19,13 +19,20 @@ Aspose.Total for JavaScript via C++ 是一套包羅萬象的 JavaScript 函式�
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF for JavaScript via C++ 是一個使用者友好且安全的工具包，旨在直接在 Web 瀏覽器中處理 PDF。該庫支援 26 種語言，包括拉丁文、西里爾文和漢字。<br><br>
+Aspose.PDF for JavaScript via C++ 是一個使用者友好且安全的工具包，旨在直接在 Web 瀏覽器中處理 PDF。該庫支援 26 種語言，包括拉丁文、西里爾文和漢字。
 
-它是一個輕量級的解決方案，使開發人員能夠使用 JavaScript 有效地處理 PDF。它既可擴展又功能豐富，允許開發人員製作自己的基於 JavaScript 的 PDF 操作產品並輕鬆地在網路上共享它們。<br><br>
+它是一個輕量級的解決方案，使開發人員能夠使用 JavaScript 有效地處理 PDF。它既可擴展又功能豐富，允許開發人員製作自己的基於 JavaScript 的 PDF 操作產品並輕鬆地在網路上共享它們。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ 是一款功能強大的基於 WebAssembly 的 API，可在瀏覽器和 Node.js 環境中提供近乎原生的效能，支援 Excel 格式（XLS、XLSX、XLSB、XLSM）、ODS、CSV 和 HTML 的電子表格創建、編輯、轉換和表格渲染。它專為實現最大相容性和靈活性而設計，無需伺服器即可實現無縫電子表格處理，是無伺服器應用程式、儀表板、資料管道和文件生成工具的理想選擇。憑藉其輕量級的體積和對主流 Excel 格式的全面支持，Aspose.Cells for JavaScript via C++ 可確保在 Web、伺服器端和混合平台上快速、可靠、高效能處理電子表格。
+
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR for JavaScript via C++ 只需 8 行程式碼即可為您的應用程式提供高效的光學字元辨識。<br><br>
+Aspose.OCR for JavaScript via C++ 只需 8 行程式碼即可為您的應用程式提供高效的光學字元辨識。
 
 JavaScript OCR API 用途廣泛，能夠辨識掃描影像、智慧型手機照片、螢幕截圖、特定影像區域和掃描 PDF 中的內容。它以流行的文檔和資料交換格式提供結果。值得注意的是，該 API 可以離線運行，無需網路連線。
 {{< /blocks/products/pf/total/product-item >}}

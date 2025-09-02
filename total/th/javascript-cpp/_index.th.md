@@ -19,13 +19,20 @@ Aspose.Total for JavaScript via C++ คือชุดไลบรารี Java
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF for JavaScript via C++ เป็นชุดเครื่องมือที่เป็นมิตรต่อผู้ใช้และปลอดภัย ซึ่งออกแบบมาเพื่อทำงานกับ PDF โดยตรงบนเว็บเบราว์เซอร์ห้องสมุดนี้รองรับ 26 ภาษา รวมถึงภาษาละติน อักษรซีริลลิก และตัวอักษรจีน<br><br>
+Aspose.PDF for JavaScript via C++ เป็นชุดเครื่องมือที่เป็นมิตรต่อผู้ใช้และปลอดภัย ซึ่งออกแบบมาเพื่อทำงานกับ PDF โดยตรงบนเว็บเบราว์เซอร์ห้องสมุดนี้รองรับ 26 ภาษา รวมถึงภาษาละติน อักษรซีริลลิก และตัวอักษรจีน
 
-เป็นโซลูชันน้ำหนักเบาที่ช่วยให้นักพัฒนาสามารถประมวลผล PDF ด้วย JavaScript ได้อย่างมีประสิทธิภาพทั้งสามารถปรับขนาดได้และมีฟีเจอร์มากมาย ช่วยให้นักพัฒนาสามารถสร้างผลิตภัณฑ์การจัดการ PDF ที่ใช้ JavaScript ของตนเอง และแชร์ผ่านเว็บได้อย่างง่ายดาย<br><br>
+เป็นโซลูชันน้ำหนักเบาที่ช่วยให้นักพัฒนาสามารถประมวลผล PDF ด้วย JavaScript ได้อย่างมีประสิทธิภาพทั้งสามารถปรับขนาดได้และมีฟีเจอร์มากมาย ช่วยให้นักพัฒนาสามารถสร้างผลิตภัณฑ์การจัดการ PDF ที่ใช้ JavaScript ของตนเอง และแชร์ผ่านเว็บได้อย่างง่ายดาย
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ คือ API ที่ทรงพลังบนพื้นฐาน WebAssembly มอบประสิทธิภาพที่ใกล้เคียงกับเนทีฟสำหรับการสร้าง แก้ไข แปลง และเรนเดอร์สเปรดชีตในรูปแบบ Excel (XLS, XLSX, XLSB, XLSM), ODS, CSV และ HTML ในสภาพแวดล้อมทั้งเบราว์เซอร์และ Node.js ออกแบบมาเพื่อความเข้ากันได้และความยืดหยุ่นสูงสุด ช่วยให้ประมวลผลสเปรดชีตได้อย่างราบรื่นโดยไม่ต้องใช้เซิร์ฟเวอร์ จึงเหมาะอย่างยิ่งสำหรับแอปพลิเคชันแบบไร้เซิร์ฟเวอร์ แดชบอร์ด ไพพ์ไลน์ข้อมูล และเครื่องมือสร้างเอกสาร ด้วยขนาดที่เล็กและรองรับรูปแบบ Excel หลักๆ อย่างเต็มรูปแบบ Aspose.Cells for JavaScript via C++ จึงรับประกันการจัดการสเปรดชีตที่รวดเร็ว เชื่อถือได้ และมีประสิทธิภาพสูง ทั้งบนเว็บ ฝั่งเซิร์ฟเวอร์ และแพลตฟอร์มไฮบริด
+
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR for JavaScript via C++ ช่วยให้แอปพลิเคชันของคุณมีการรู้จำอักขระแบบออปติคัลที่มีประสิทธิภาพในโค้ดเพียง 8 บรรทัด<br><br>
+Aspose.OCR for JavaScript via C++ ช่วยให้แอปพลิเคชันของคุณมีการรู้จำอักขระแบบออปติคัลที่มีประสิทธิภาพในโค้ดเพียง 8 บรรทัด
 
 JavaScript OCR API มีความหลากหลาย สามารถจดจำเนื้อหาจากรูปภาพที่สแกน ภาพถ่ายสมาร์ทโฟน ภาพหน้าจอ พื้นที่รูปภาพเฉพาะ และ PDF ที่สแกนให้ผลลัพธ์ในรูปแบบการแลกเปลี่ยนเอกสารและข้อมูลยอดนิยม โดยเฉพาะอย่างยิ่ง API ทำงานแบบออฟไลน์ ทำให้ไม่จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต
 {{< /blocks/products/pf/total/product-item >}}

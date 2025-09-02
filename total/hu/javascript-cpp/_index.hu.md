@@ -19,13 +19,18 @@ Az Aspose.Total for JavaScript via C++-on keresztül JavaScript-könyvtárak min
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Az Aspose.PDF for JavaScript via C++-on keresztül egy felhasználóbarát és biztonságos eszközkészlet, amelyet közvetlenül a webböngészőben történő PDF-fájlok kezelésére terveztek.Ez a könyvtár 26 nyelvet támogat, beleértve a latint, a cirill betűket és a kínai karaktereket.<br><br>
+Az Aspose.PDF for JavaScript via C++-on keresztül egy felhasználóbarát és biztonságos eszközkészlet, amelyet közvetlenül a webböngészőben történő PDF-fájlok kezelésére terveztek.Ez a könyvtár 26 nyelvet támogat, beleértve a latint, a cirill betűket és a kínai karaktereket.
+Ez egy könnyű megoldás, amely lehetővé teszi a fejlesztők számára, hogy hatékonyan dolgozzák fel a PDF-fájlokat JavaScript segítségével.Egyszerre méretezhető és funkciókban gazdag, lehetővé téve a fejlesztők számára, hogy saját JavaScript-alapú PDF-manipulációs termékeket készítsenek, és könnyedén megosszák azokat az interneten.
+{{< /blocks/products/pf/total/product-item >}}
 
-Ez egy könnyű megoldás, amely lehetővé teszi a fejlesztők számára, hogy hatékonyan dolgozzák fel a PDF-fájlokat JavaScript segítségével.Egyszerre méretezhető és funkciókban gazdag, lehetővé téve a fejlesztők számára, hogy saját JavaScript-alapú PDF-manipulációs termékeket készítsenek, és könnyedén megosszák azokat az interneten.<br><br>
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ -on keresztül egy hatékony, WebAssembly-alapú API, amely közel natív teljesítményt nyújt táblázatok létrehozásához, szerkesztéséhez, konvertálásához és rendereléséhez Excel formátumokban (XLS, XLSX, XLSB, XLSM), ODS, CSV és HTML formátumban, mind böngésző, mind Node.js környezetben. A maximális kompatibilitásra és rugalmasságra tervezve zökkenőmentes táblázatfeldolgozást tesz lehetővé szerver nélkül, így ideális szerver nélküli alkalmazásokhoz, irányítópultokhoz, adatfolyamatokhoz és dokumentumgeneráló eszközökhöz. Kis helyigényével és a főbb Excel formátumok teljes támogatásával az Aspose.Cells JavaScripthez C++-on keresztül gyors, megbízható és nagy teljesítményű táblázatkezelést biztosít webes, szerveroldali és hibrid platformokon.
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Az Aspose.OCR for JavaScript via C++-on keresztül hatékony optikai karakterfelismerést tesz lehetővé, mindössze 8 kódsorban.<br><br>
+Az Aspose.OCR for JavaScript via C++-on keresztül hatékony optikai karakterfelismerést tesz lehetővé, mindössze 8 kódsorban.
 
 A JavaScript OCR API sokoldalú, képes felismerni a tartalmat a beolvasott képekből, okostelefon-fotókból, képernyőképekből, meghatározott képterületekről és beolvasott PDF-fájlokból.Népszerű dokumentum- és adatcsere-formátumokban nyújt eredményeket. Nevezetesen, az API offline módban működik, így nincs szükség internetkapcsolatra.
 {{< /blocks/products/pf/total/product-item >}}

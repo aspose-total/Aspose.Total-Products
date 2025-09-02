@@ -19,13 +19,20 @@ Aspose.Total for JavaScript via C++ は、JavaScript ライブラリの包括的
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF for JavaScript via C++ は、Web ブラウザで PDF を直接操作するために設計された、使いやすく安全なツールキットです。このライブラリは、ラテン語、キリル文字、漢字を含む 26 の言語をサポートしています。<br><br>
+Aspose.PDF for JavaScript via C++ は、Web ブラウザで PDF を直接操作するために設計された、使いやすく安全なツールキットです。このライブラリは、ラテン語、キリル文字、漢字を含む 26 の言語をサポートしています。
 
-これは、開発者が JavaScript を使用して PDF を効率的に処理できる軽量のソリューションです。スケーラブルで機能が豊富なため、開発者は独自の JavaScript ベースの PDF 操作製品を作成し、Web 上で簡単に共有できます。<br><br>
+これは、開発者が JavaScript を使用して PDF を効率的に処理できる軽量のソリューションです。スケーラブルで機能が豊富なため、開発者は独自の JavaScript ベースの PDF 操作製品を作成し、Web 上で簡単に共有できます。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++は、強力なWebAssemblyベースのAPIです。ブラウザー環境とNode.js環境の両方で、Excel形式（XLS、XLSX、XLSB、XLSM）、ODS、CSV、HTML形式のスプレッドシートの作成、編集、変換、レンダリングにおいて、ネイティブに近いパフォーマンスを実現します。最大限の互換性と柔軟性を実現するよう設計されており、サーバーレスアプリケーション、ダッシュボード、データパイプライン、ドキュメント生成ツールなどに最適です。軽量なフットプリントと主要なExcel形式への完全対応により、Aspose.Cells for JavaScript via C++は、Web、サーバーサイド、ハイブリッドプラットフォーム全体で、高速で信頼性が高く、高性能なスプレッドシート操作を実現します。
+
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR for JavaScript via C++ は、わずか 8 行のコードで効率的な光学式文字認識をアプリケーションに提供します。<br><br>
+Aspose.OCR for JavaScript via C++ は、わずか 8 行のコードで効率的な光学式文字認識をアプリケーションに提供します。
 
 JavaScript OCR API は多用途で、スキャンされた画像、スマートフォンの写真、スクリーンショット、特定の画像領域、スキャンされた PDF からコンテンツを認識できます。一般的なドキュメントおよびデータ交換形式で結果を提供します。特に、API はオフラインで動作するため、インターネット接続の必要がなくなります。
 {{< /blocks/products/pf/total/product-item >}}

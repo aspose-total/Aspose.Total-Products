@@ -15,17 +15,22 @@ Aspose.Total pro JavaScript prostřednictvím C++ je komplexní sada knihoven Ja
 
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total pro JavaScript přes C++ obsahuje následující knihovny JavaScript:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for JavaScript via C++ obsahuje následující knihovny JavaScript:" >}}
 
 
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
-Aspose.PDF pro JavaScript přes C++ je uživatelsky přívětivá a bezpečná sada nástrojů navržená pro práci s PDF přímo ve webových prohlížečích.Tato knihovna podporuje 26 jazyků, včetně latinky, cyrilice a čínských znaků.<br><br>
+Aspose.PDF pro JavaScript přes C++ je uživatelsky přívětivá a bezpečná sada nástrojů navržená pro práci s PDF přímo ve webových prohlížečích.Tato knihovna podporuje 26 jazyků, včetně latinky, cyrilice a čínských znaků.
 
 Jedná se o odlehčené řešení, které umožňuje vývojářům efektivně zpracovávat soubory PDF pomocí JavaScriptu.Je škálovatelný a má mnoho funkcí a umožňuje vývojářům vytvářet vlastní produkty pro manipulaci s PDF založenými na JavaScriptu a snadno je sdílet na webu.<br><br>
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+Aspose.Cells for JavaScript via C++ je výkonné API založené na WebAssembly, které poskytuje téměř nativní výkon pro vytváření, úpravy, převod a vykreslování tabulek ve formátech Excelu (XLS, XLSX, XLSB, XLSM), ODS, CSV a HTML v prostředí prohlížeče i Node.js. Je navrženo pro maximální kompatibilitu a flexibilitu a umožňuje bezproblémové zpracování tabulek bez serveru, což je ideální pro bezserverové aplikace, dashboardy, datové kanály a nástroje pro generování dokumentů. Díky nízké náročnosti a plné podpoře hlavních formátů Excelu zajišťuje Aspose.Cells pro JavaScript přes C++ rychlou, spolehlivou a vysoce výkonnou manipulaci s tabulkami na webových, serverových a hybridních platformách.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR pro JavaScript prostřednictvím C++ umožňuje vašim aplikacím efektivní optické rozpoznávání znaků v pouhých 8 řádcích kódu.<br><br>
+Aspose.OCR for JavaScript prostřednictvím C++ umožňuje vašim aplikacím efektivní optické rozpoznávání znaků v pouhých 8 řádcích kódu.
 
 JavaScript OCR API je všestranné a dokáže rozpoznat obsah z naskenovaných obrázků, fotografií smartphonu, snímků obrazovky, konkrétních oblastí obrázků a naskenovaných souborů PDF.Poskytuje výsledky v oblíbených formátech pro výměnu dokumentů a dat. Je pozoruhodné, že API funguje offline, což eliminuje potřebu připojení k internetu.
 {{< /blocks/products/pf/total/product-item >}}

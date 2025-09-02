@@ -21,11 +21,18 @@ Aspose.Total for JavaScript via C++ הוא קבוצה כוללת של ספריו
 {{< blocks/products/pf/total/product-item href="/pdf/javascript-cpp/" imgSrc="/total/images/aspose_pdf-for-javascript-cpp.svg" productName="Aspose.PDF for JavaScript via C++">}}
 Aspose.PDF for JavaScript via C++ הוא ערכת כלים ידידותית ומאובטחת המיועדת לעבודה עם קובצי PDF ישירות בדפדפני אינטרנט. ספרייה זו תומכת ב-26 שפות, כולל כתבים לטיניים, קיריליים ותווים סיניים.<br><br>
 
-זהו פתרון קל משקל המאפשר למפתחים לעבד ביעילות קובצי PDF עם JavaScript. זה גם ניתן להרחבה וגם עשיר בתכונות, ומאפשר למפתחים ליצור מוצרי מניפולציה של PDF מבוססי JavaScript משלהם ולשתף אותם בקלות ברחבי האינטרנט.<br><br>
+זהו פתרון קל משקל המאפשר למפתחים לעבד ביעילות קובצי PDF עם JavaScript. זה גם ניתן להרחבה וגם עשיר בתכונות, ומאפשר למפתחים ליצור מוצרי מניפולציה של PDF מבוססי JavaScript משלהם ולשתף אותם בקלות ברחבי האינטרנט.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/javascript-cpp/" imgSrc="/total/images/aspose_cells-for-javascript-cpp.svg" productName="Aspose.Cells for JavaScript via C++">}}
+
+Aspose.Cells for JavaScript via C++ הוא ממשק API עוצמתי מבוסס WebAssembly המספק ביצועים כמעט מקוריים ליצירה, עריכה, המרה ועיבוד גיליונות אלקטרוניים בפורמטים של Excel (XLS, XLSX, XLSB, XLSM), ODS, CSV ו-HTML הן בסביבות דפדפן והן בסביבות Node.js. הוא תוכנן לתאימות וגמישות מקסימליות, ומאפשר עיבוד חלק של גיליונות אלקטרוניים ללא שרת, מה שהופך אותו לאידיאלי עבור יישומים ללא שרת, לוחות מחוונים, צינורות נתונים וכלי יצירת מסמכים. עם גודל קל משקל ותמיכה מלאה בפורמטים עיקריים של Excel, Aspose.Cells for JavaScript via C++ מבטיח מניפולציה מהירה, אמינה ובעלת ביצועים גבוהים של גיליונות אלקטרוניים בפלטפורמות אינטרנט, בצד השרת ופלטפורמות היברידיות.
+
+
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/javascript-cpp/" imgSrc="/total/images/aspose_ocr-for-javascript-cpp.svg" productName="Aspose.OCR for JavaScript via C++">}}
-Aspose.OCR for JavaScript via C++ מעצימה את היישומים שלך עם זיהוי תווים אופטי יעיל ב-8 שורות קוד בלבד. <br><br>
+Aspose.OCR for JavaScript via C++ מעצימה את היישומים שלך עם זיהוי תווים אופטי יעיל ב-8 שורות קוד בלבד. 
 
 ה-JavaScript OCR API הוא רב תכליתי, מסוגל לזהות תוכן מתמונות סרוקות, תמונות סמארטפון, צילומי מסך, אזורי תמונה ספציפיים וקובצי PDF סרוקים. הוא מספק תוצאות בפורמטים פופולריים של חילופי מסמכים ונתונים. יש לציין שה-API פועל במצב לא מקוון, ומבטל את הצורך בחיבור לאינטרנט.
 {{< /blocks/products/pf/total/product-item >}}
