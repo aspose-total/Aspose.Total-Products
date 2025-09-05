@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Total
 
 <h3>WORDML 到 POTM 在線轉換器</h3>
 
-<iframe title="wordml 到 potm 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="wordml 到 potm 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potm&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
