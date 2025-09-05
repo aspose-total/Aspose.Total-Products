@@ -20,7 +20,7 @@ otherformats: EMZ WMF SVGZ DXF APNG IMAGE WMZ PSD JPEG2000 TGA
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Безкоштовний онлайн-додаток для перетворення XSLFO на DICOM" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dicom&from=xslfo" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення XSLFO на DICOM" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dicom&from=xslfo" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

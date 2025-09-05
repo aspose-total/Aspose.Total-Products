@@ -38,7 +38,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>CSV'den RTF'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="csv'dan docx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="csv'dan docx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">CSV'den RTF'e dönüştürme için ücretsiz uygulamamızı deneyin</a></p>
 </div></div>
 </div></div>

@@ -20,7 +20,7 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC CSV XLTX
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Безкоштовний онлайн-додаток для перетворення XSLFO на XLSM" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=xslfo" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення XSLFO на XLSM" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=xslfo" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

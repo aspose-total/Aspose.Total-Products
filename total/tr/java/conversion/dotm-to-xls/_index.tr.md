@@ -41,7 +41,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>DOTM'den XLS'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="dotm'dan xls'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="dotm'dan xls'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

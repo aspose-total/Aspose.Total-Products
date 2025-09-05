@@ -20,7 +20,7 @@ otherformats: WORDML DOCM TEXT OTT FLATOPC DOT DOCX DOC DOTM RTF ODT WORD
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Безкоштовний онлайн-додаток для перетворення PPS на DOTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Безкоштовний онлайн-додаток для перетворення PPS на DOTX" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
