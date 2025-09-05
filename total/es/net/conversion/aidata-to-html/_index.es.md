@@ -44,7 +44,7 @@ El siguiente ejemplo demuestra cómo convertir datos de texto generados por IA a
 
 <h3>Convertidor gratuito en línea para conversión de datos de texto a formato Html con tecnología de IA</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

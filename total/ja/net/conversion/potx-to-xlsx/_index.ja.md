@@ -20,7 +20,7 @@ otherformats: MARKDOWN XLS XLSM TSV ODS DIF XLTM XLSB SXC EXCEL XLAM XLSX XLTX F
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="無料のオンライン POTX から XLSX への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="無料のオンライン POTX から XLSX への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

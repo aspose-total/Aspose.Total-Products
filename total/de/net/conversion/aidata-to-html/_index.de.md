@@ -44,7 +44,7 @@ Das folgende Beispiel zeigt, wie KI-generierte Textdaten in C# in Html konvertie
 
 <h3>Kostenloser Online-Konverter zur KI-gestützten Konvertierung von Textdaten in das Html-Format</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=html&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

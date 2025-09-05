@@ -20,7 +20,7 @@ otherformats: FODS DIF MD ODS XLTM SXC EXCEL XLAM XLTX XLSM TSV TXT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="تطبيق مجاني عبر الإنترنت لتحويل PCL إلى SXC" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=pcl" id="child-iframe" width="80%"></iframe>
+<iframe title="تطبيق مجاني عبر الإنترنت لتحويل PCL إلى SXC" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=pcl" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

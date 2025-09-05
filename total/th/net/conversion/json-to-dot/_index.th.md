@@ -20,7 +20,7 @@ otherformats: DOT PCL MOBI WORD DOC DOTX FLATOPC PS RTF DOCM OTT ODT WORDML EPUB
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="แอปแปลง JSON เป็น DOT ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=json" id="child-iframe" width="80%"></iframe>
+<iframe title="แอปแปลง JSON เป็น DOT ออนไลน์ฟรี" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=json" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

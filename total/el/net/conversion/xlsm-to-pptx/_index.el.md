@@ -55,7 +55,7 @@ otherformats: DOC POWERPOINT DOCX WORD
 
 <h3>Δωρεάν Online Μετατροπέας για XLSM σε PPTX</h3>
 
-<iframe title="Εργαλείο μετατροπής pptx σε xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής pptx σε xlsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

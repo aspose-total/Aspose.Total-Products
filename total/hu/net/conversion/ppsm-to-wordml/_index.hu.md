@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Online konverter PPSM-hez WORDML-be</h3>
 
-<iframe title="ppsm-ból wordml-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsm-ból wordml-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

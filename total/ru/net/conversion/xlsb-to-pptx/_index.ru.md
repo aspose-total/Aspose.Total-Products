@@ -57,7 +57,7 @@ otherformats: POWERPOINT WORD DOCX DOC
 
 <h3>Бесплатный онлайн-конвертер XLSB в PPTX</h3>
 
-<iframe title="Онлайн-инструмент от pptx до xlsb долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pptx до xlsb долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XLSB в PPTX: примеры использования" %}}

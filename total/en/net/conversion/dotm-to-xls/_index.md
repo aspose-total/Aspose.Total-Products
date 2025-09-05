@@ -20,7 +20,7 @@ otherformats: TSV XLAM SXC CSV EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Free Online DOTM to XLS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="Free Online DOTM to XLS Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

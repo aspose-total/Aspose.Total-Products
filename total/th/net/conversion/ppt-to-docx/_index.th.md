@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>ตัวแปลงออนไลน์สำหรับ PPT เป็น DOCX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น docx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

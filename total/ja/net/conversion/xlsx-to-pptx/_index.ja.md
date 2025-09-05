@@ -55,7 +55,7 @@ XLSX ファイルを PPTX 形式に コンバージョンすることは、プ�
 
 <h3>XLSXからPPTXへの無料オンラインコンバーター</h3>
 
-<iframe title="xlsxからpptxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsxからpptxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

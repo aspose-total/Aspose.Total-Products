@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Online konverter PPS-hez DOC-be</h3>
 
-<iframe title="pps-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -20,7 +20,7 @@ otherformats: PPSX POWERPOINT POTX OTP XAML PPS POTM SWF PPTM POT PPT PPSM
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Бесплатное онлайн-приложение для конвертации XML в PPSX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=xml" id="child-iframe" width="80%"></iframe>
+<iframe title="Бесплатное онлайн-приложение для конвертации XML в PPSX" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=xml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

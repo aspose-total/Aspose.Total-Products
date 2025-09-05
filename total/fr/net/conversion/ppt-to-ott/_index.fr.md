@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Convertisseur en ligne pour PPT en OTT</h3>
 
-<iframe title="Outil en ligne de conversion ott en ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion ott en ppt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ott&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -44,7 +44,7 @@ AI を活用したデータ変換をプログラムで Image, PNG, BMP, JPG, GIF
 
 <h3>AI 搭載のテキストデータを Image, PNG, BMP, JPG, GIF 形式に変換するオンライン無料コンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

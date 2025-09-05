@@ -55,7 +55,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 <h3>Δωρεάν Online Μετατροπέας για CSV σε DOT</h3>
 
-<iframe title="Εργαλείο μετατροπής docx σε csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής docx σε csv" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

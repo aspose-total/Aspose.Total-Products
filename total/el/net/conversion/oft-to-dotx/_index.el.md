@@ -20,7 +20,7 @@ otherformats: FLATOPC JPEG PDF PCL DOCM PNG GIF OTT DOTX SVG DOC MD DOT ODT PS R
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Δωρεάν διαδικτυακή εφαρμογή μετατροπής OFT σε DOTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=oft" id="child-iframe" width="80%"></iframe>
+<iframe title="Δωρεάν διαδικτυακή εφαρμογή μετατροπής OFT σε DOTX" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=oft" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

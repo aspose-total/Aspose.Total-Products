@@ -44,7 +44,7 @@ otherformats: WORD DOC DOCX EPUB GIF HTML IMAGE JPG PDF PNG EXCEL CSV BMP EMF MD
 
 <h3>在线免费转换器，用于将人工智能驱动的文本数据转换为 Powerpoint 格式</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=powerpoint&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=powerpoint&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

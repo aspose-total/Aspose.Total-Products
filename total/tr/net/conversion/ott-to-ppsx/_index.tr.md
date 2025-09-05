@@ -100,7 +100,7 @@ using (Presentation ppsx = new Presentation()){
 
 <h3>OTT'den PPSX'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="ott'dan ppsx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ott'dan ppsx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

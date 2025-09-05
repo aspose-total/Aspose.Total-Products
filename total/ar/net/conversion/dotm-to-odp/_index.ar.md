@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Total
 
 <h3>محول عبر الإنترنت لـ DOTM إلى ODP</h3>
 
-<iframe title="odp to dotm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="odp to dotm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odp&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

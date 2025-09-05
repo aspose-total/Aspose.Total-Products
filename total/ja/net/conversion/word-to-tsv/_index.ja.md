@@ -20,7 +20,7 @@ otherformats: XLSX XLT SXC XLTM XLTX DIF FODS TSV XLS XLSM ODS XLSB XLAM EXCEL
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="無料のオンライン Word から TSV への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="無料のオンライン Word から TSV への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

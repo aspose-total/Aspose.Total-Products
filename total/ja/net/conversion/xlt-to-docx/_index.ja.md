@@ -55,7 +55,7 @@ XLT ファイルを ワード ドキュメントに変換することは、リ�
 
 <h3>XLTからDOCXへの無料オンラインコンバーター</h3>
 
-<iframe title="xltからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="xltからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

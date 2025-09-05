@@ -41,7 +41,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 
 <h3>Ingyenes online konverter XLT-hez PPTX-be</h3>
 
-<iframe title="xlt-ból pptx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt-ból pptx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

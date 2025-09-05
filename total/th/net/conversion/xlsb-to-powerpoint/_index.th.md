@@ -41,7 +41,7 @@ otherformats: DOC DOCX WORD PPTX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ XLSB เป็น POWERPOINT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsb เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsb เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

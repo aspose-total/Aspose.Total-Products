@@ -44,7 +44,7 @@ Het volgende voorbeeld laat zien hoe u door AI gegenereerde tekstgegevens in C# 
 
 <h3>Online gratis converter voor AI-aangedreven tekstgegevensconversie naar Image, PNG, BMP, JPG, GIF-formaat</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=png&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

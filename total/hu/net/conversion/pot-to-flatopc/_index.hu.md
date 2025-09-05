@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Online konverter POT-hez FLATOPC-be</h3>
 
-<iframe title="pot-ból flatopc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="pot-ból flatopc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=flatopc&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

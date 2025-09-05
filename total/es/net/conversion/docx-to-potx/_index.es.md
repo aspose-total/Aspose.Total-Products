@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Convertidor en línea de DOCX a POTX</h3>
 
-<iframe title="Herramienta de conversión de potx a docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de potx a docx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

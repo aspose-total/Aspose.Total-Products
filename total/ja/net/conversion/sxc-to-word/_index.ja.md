@@ -59,7 +59,7 @@ SXC ファイルを Microsoft Word 形式に変換することは、自分のド
 
 <h3>SXCからWORDへの無料オンラインコンバーター</h3>
 
-<iframe title="sxcからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="sxcからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

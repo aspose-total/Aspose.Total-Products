@@ -20,7 +20,7 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="無料のオンライン POT から XLTM への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="無料のオンライン POT から XLTM への変換アプリ" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltm&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -57,7 +57,7 @@ FODS形式のファイルをパワーポイント形式に変換する必要が�
 
 <h3>FODSからPOWERPOINTへの無料オンラインコンバーター</h3>
 
-<iframe title="fodsからpptxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="fodsからpptxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

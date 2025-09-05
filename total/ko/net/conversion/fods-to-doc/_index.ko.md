@@ -57,7 +57,7 @@ FODS 파일을 워드 형식으로 전환하는 것은 문서 공유와 협업 �
 
 <h3>FODS를 DOC로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="doc에서 fods로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="doc에서 fods로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

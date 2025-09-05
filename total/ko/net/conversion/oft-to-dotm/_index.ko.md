@@ -20,7 +20,7 @@ otherformats: ODT PS DOTM RTF PCL TEXT DOT SVG DOTX OTT MD DOCX DOCM EPUB WORDML
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="무료 온라인 OFT에서 DOTM로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotm&from=oft" id="child-iframe" width="80%"></iframe>
+<iframe title="무료 온라인 OFT에서 DOTM로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotm&from=oft" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -69,7 +69,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Online Converter for PPTX to RTF</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

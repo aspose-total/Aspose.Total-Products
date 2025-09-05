@@ -20,7 +20,7 @@ otherformats: DOT WORDML DOTM MHTML PCL OTT PS FLATOPC XAMLFLOW ODT DOTX RTF
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Gratis online TEX naar PS conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ps&from=tex" id="child-iframe" width="80%"></iframe>
+<iframe title="Gratis online TEX naar PS conversie-app" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ps&from=tex" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 
 <h3>Ingyenes online konverter XLTM-hez WORD-be</h3>
 
-<iframe title="xltm-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltm-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xltm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

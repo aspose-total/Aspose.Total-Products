@@ -20,7 +20,7 @@ otherformats: DOC PCL EPUB FLATOPC DOCM ODT WORDML DOTX WORD MOBI PS DOT RTF OTT
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="무료 온라인 JSON에서 DOTX로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=json" id="child-iframe" width="80%"></iframe>
+<iframe title="무료 온라인 JSON에서 DOTX로 변환 앱" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=json" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

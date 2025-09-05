@@ -41,7 +41,7 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 
 <h3>Ingyenes online konverter SXC-hez DOC-be</h3>
 
-<iframe title="sxc-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="sxc-ból doc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=sxc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

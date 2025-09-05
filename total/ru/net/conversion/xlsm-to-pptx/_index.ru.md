@@ -57,7 +57,7 @@ otherformats: DOC POWERPOINT DOCX WORD
 
 <h3>Бесплатный онлайн-конвертер XLSM в PPTX</h3>
 
-<iframe title="Онлайн-инструмент от pptx до xlsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pptx до xlsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XLSM в PPTX: примеры использования" %}}

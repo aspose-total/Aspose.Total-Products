@@ -20,7 +20,7 @@ otherformats: OTT DOCM DOTX EPUB JPEG PNG GIF ODT PCL DOC WORDML PDF DOCX XPS EM
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="Darmowa aplikacja do konwersji OFT na DOCM online" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docm&from=oft" id="child-iframe" width="80%"></iframe>
+<iframe title="Darmowa aplikacja do konwersji OFT na DOCM online" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docm&from=oft" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

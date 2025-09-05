@@ -55,7 +55,7 @@ otherformats: PPTX DOC WORD DOCX
 
 <h3>Бесплатный онлайн-конвертер XLSX в POWERPOINT</h3>
 
-<iframe title="Онлайн-инструмент от pptx до xlsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pptx до xlsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла XLSX в POWERPOINT: примеры использования" %}}

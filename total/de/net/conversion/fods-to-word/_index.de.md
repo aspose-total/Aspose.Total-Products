@@ -55,7 +55,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 
 <h3>Kostenloser Online-Konverter für FODS zu WORD</h3>
 
-<iframe title="docx bis fods Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="docx bis fods Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

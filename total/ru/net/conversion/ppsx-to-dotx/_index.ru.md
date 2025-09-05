@@ -68,7 +68,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Онлайн-конвертер PPSX в DOTX</h3>
 
-<iframe title="Онлайн-инструмент от dotx до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dotx до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

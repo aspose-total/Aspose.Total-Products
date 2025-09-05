@@ -55,7 +55,7 @@ CSV 파일을 .mobi 형식으로 전환하는 것은あなた의 디지털 북�
 
 <h3>CSV를 MOBI로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="docx에서 csv로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="docx에서 csv로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

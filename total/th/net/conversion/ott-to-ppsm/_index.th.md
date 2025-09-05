@@ -100,7 +100,7 @@ using (Presentation ppsm = new Presentation()){
 
 <h3>ตัวแปลงออนไลน์สำหรับ OTT เป็น PPSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsm&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

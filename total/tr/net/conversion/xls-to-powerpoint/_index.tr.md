@@ -55,7 +55,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 
 <h3>XLS'den POWERPOINT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="xls'dan pptx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="xls'dan pptx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

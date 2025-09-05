@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Total
 
 <h3>Online-omvandlare för POT till TXT</h3>
 
-<iframe title="pot till txt Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=txt&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="pot till txt Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=txt&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

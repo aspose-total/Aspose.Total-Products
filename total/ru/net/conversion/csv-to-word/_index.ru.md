@@ -57,7 +57,7 @@ otherformats: POWERPOINT DOC DOCX PPTX
 
 <h3>Бесплатный онлайн-конвертер CSV в WORD</h3>
 
-<iframe title="Онлайн-инструмент от docx до csv долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от docx до csv долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{% blocks/products/pf/feature-page-section  h2="Программное преобразование файла CSV в WORD: примеры использования" %}}
