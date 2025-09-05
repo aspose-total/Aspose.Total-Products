@@ -41,7 +41,7 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 
 <h3>Δωρεάν Online Μετατροπέας για DOTM σε TSV</h3>
 
-<iframe title="Εργαλείο μετατροπής tsv σε dotm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής tsv σε dotm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

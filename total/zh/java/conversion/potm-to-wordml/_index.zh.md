@@ -41,7 +41,7 @@ otherformats: DOTM DOTX TEXT RTF WORDMLM FLATOPC ODT DOT WORDML WORD WORDMLX OTT
 
 <h3>免费的 POTM 到 WORDML 在线转换器</h3>
 
-<iframe title="potm 到 wordml 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="potm 到 wordml 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=wordml&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

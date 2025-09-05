@@ -20,7 +20,7 @@ otherformats: EXCEL XLSM TXT XLSB DIF XLT TSV ODS XLTM FODS XLAM SXC
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="אפליקציית המרות מקוונת בחינם מ-MHTML ל-XLTX" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=mhtml" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרות מקוונת בחינם מ-MHTML ל-XLTX" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=mhtml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

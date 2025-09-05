@@ -38,7 +38,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 <h3>Online Converter voor XLS naar WORD</h3>
 
-<iframe title="xls naar docx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="xls naar docx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xls" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xls-to-docx/">Probeer onze gratis app voor conversie van XLS naar WORD</a></p>
 </div></div>
 </div></div>

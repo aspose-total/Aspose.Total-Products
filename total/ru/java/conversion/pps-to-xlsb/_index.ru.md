@@ -41,7 +41,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC X
 
 <h3>Бесплатный онлайн-конвертер PPS в XLSB</h3>
 
-<iframe title="Онлайн-инструмент от xlsb до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsb до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

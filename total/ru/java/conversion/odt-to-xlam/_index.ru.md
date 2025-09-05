@@ -41,7 +41,7 @@ otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 
 <h3>Бесплатный онлайн-конвертер ODT в XLAM</h3>
 
-<iframe title="Онлайн-инструмент от xlam до odt долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlam до odt долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: XLSB TSV XLS EXCEL DIF XLSX FODS SXC XLT XLAM ODS XLSM XLTX XLTM
 
 <h3>Δωρεάν Online Μετατροπέας για ODT σε XLSB</h3>
 
-<iframe title="Εργαλείο μετατροπής xlsb σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlsb σε odt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

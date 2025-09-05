@@ -41,7 +41,7 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 
 <h3>محول مجاني على الإنترنت لـ DOT إلى XLS</h3>
 
-<iframe title="xls to dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="xls to dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

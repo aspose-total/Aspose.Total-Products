@@ -41,7 +41,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 <h3>Convertitore online gratuito da POTM a XLAM</h3>
 
-<iframe title="Strumento di conversione gratuito da potm a xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da potm a xlam" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

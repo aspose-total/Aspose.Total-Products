@@ -38,7 +38,7 @@ otherformats: WORD WORDX PPTX POWERPOINT
 
 <h3>Διαδικτυακός μετατροπέας για XLTX σε WORD</h3>
 
-<iframe title="Εργαλείο μετατροπής docx σε xltx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής docx σε xltx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltx-to-docx/">Δοκιμάστε τη δωρεάν εφαρμογή μας για μετατροπή XLTX σε WORD</a></p>
 </div></div>
 </div></div>

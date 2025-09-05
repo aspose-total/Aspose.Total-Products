@@ -41,7 +41,7 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC X
 
 <h3>Δωρεάν Online Μετατροπέας για POWERPOINT σε TSV</h3>
 
-<iframe title="Εργαλείο μετατροπής tsv σε pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής tsv σε pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

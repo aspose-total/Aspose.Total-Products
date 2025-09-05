@@ -43,7 +43,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 
 <h3>Online Converter for XLSX to DOC</h3>
 
-<iframe title="Free xlsx to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Free xlsx to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

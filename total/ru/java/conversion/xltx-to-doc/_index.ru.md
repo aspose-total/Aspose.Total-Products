@@ -38,7 +38,7 @@ otherformats: DOCX PPTX POWERPOINT WORD
 
 <h3>Онлайн-конвертер XLTX в DOC</h3>
 
-<iframe title="Онлайн-инструмент от doc до xltx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от doc до xltx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=xltx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltx-to-doc/">Попробуйте наше бесплатное приложение для преобразования XLTX в DOC</a></p>
 </div></div>
 </div></div>

@@ -42,7 +42,7 @@ otherformats: POWERPOINT POTX PPT PPSM PPTM POT POTM PPSX PPTX PPS CSV DIF FODS 
 
 <h3>Бесплатный онлайн-конвертер WORDML в POTM</h3>
 
-<iframe title="Онлайн-инструмент от potm до wordml долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от potm до wordml долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potm&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

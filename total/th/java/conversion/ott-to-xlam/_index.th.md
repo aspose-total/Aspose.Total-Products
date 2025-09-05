@@ -41,7 +41,7 @@ otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ OTT เป็น XLAM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

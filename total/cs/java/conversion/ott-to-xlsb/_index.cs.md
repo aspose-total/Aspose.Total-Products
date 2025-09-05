@@ -41,7 +41,7 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 <h3>Zdarma online převodník OTT na XLSB</h3>
 
-<iframe title="Online nástroj xlsb až ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj xlsb až ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

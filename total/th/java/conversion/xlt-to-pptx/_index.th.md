@@ -38,7 +38,7 @@ otherformats: PPTXX POWERPOINT PPTX WORD
 
 <h3>ตัวแปลงออนไลน์สำหรับ XLT เป็น PPTX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlt เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlt เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlt-to-pptx/">ลองใช้แอปฟรีของเราสำหรับการแปลง XLT เป็น PPTX</a></p>
 </div></div>
 </div></div>

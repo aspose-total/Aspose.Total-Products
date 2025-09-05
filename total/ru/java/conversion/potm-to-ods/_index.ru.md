@@ -41,7 +41,7 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 <h3>Бесплатный онлайн-конвертер POTM в ODS</h3>
 
-<iframe title="Онлайн-инструмент от ods до potm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ods до potm долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

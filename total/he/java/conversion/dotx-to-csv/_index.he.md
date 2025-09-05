@@ -20,7 +20,7 @@ otherformats: DIF XLSB XLSM EXCEL FODS XLTX XLS XLAM XLSX XLT XLTM ODS TSV SXC
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="אפליקציית המרות מקוונת בחינם מ-DOTX ל-CSV" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרות מקוונת בחינם מ-DOTX ל-CSV" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

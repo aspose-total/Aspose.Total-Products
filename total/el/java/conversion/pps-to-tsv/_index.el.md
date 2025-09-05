@@ -41,7 +41,7 @@ otherformats: XLAM XLS TSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT
 
 <h3>Δωρεάν Online Μετατροπέας για PPS σε TSV</h3>
 
-<iframe title="Εργαλείο μετατροπής tsv σε pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής tsv σε pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

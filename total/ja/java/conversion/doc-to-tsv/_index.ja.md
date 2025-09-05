@@ -41,7 +41,7 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 <h3>DOCからTSVへの無料オンラインコンバーター</h3>
 
-<iframe title="docからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="docからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: DOT TEXT ODT FLATOPCM WORDML WORD DOTX FLATOPCX OTT DOTM FLATOPC R
 
 <h3>Δωρεάν Online Μετατροπέας για POTM σε FLATOPC</h3>
 
-<iframe title="Εργαλείο μετατροπής flatopc σε potm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής flatopc σε potm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=flatopc&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

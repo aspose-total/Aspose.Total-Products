@@ -41,7 +41,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 
 <h3>Kostenloser Online-Konverter für PPTX zu RTF</h3>
 
-<iframe title="rtf bis pptx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf bis pptx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

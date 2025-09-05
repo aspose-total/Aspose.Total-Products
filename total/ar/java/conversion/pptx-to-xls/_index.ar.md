@@ -41,7 +41,7 @@ otherformats: XLS FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XL
 
 <h3>محول مجاني على الإنترنت لـ PPTX إلى XLS</h3>
 
-<iframe title="xls to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="xls to pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

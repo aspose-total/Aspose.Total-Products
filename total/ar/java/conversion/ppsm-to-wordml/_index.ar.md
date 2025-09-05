@@ -41,7 +41,7 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORDML OTT TEXT WORD ODT WORDMLX WORDMLM
 
 <h3>محول مجاني على الإنترنت لـ PPSM إلى WORDML</h3>
 
-<iframe title="wordml to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="wordml to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

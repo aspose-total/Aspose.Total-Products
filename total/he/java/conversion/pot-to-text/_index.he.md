@@ -20,7 +20,7 @@ otherformats: DOCX FLATOPC DOC DOT RTF DOCM WORDML DOTX OTT ODT DOTM WORD
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="אפליקציית המרות מקוונת בחינם מ-POT ל-TEXT" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרות מקוונת בחינם מ-POT ל-TEXT" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=text&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

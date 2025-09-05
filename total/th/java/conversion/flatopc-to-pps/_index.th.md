@@ -42,7 +42,7 @@ otherformats: PPTM PPTX PPS POWERPOINT PPSX PPSM POT POTX PPT POTM CSV DIF FODS 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ FLATOPC เป็น PPS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง flatopc เป็น pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง flatopc เป็น pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pps&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

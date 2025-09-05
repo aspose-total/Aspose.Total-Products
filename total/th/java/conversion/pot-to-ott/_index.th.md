@@ -41,7 +41,7 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ POT เป็น OTT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pot เป็น ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pot เป็น ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ott&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

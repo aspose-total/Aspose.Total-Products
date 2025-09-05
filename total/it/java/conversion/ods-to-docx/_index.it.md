@@ -38,7 +38,7 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 <h3>Convertitore online da ODS a DOCX</h3>
 
-<iframe title="Strumento di conversione gratuito da ods a docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da ods a docx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=ods" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/ods-to-docx/">Prova la nostra app gratuita per la conversione da ODS a DOCX</a></p>
 </div></div>
 </div></div>

@@ -38,7 +38,7 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 
 <h3>Online-Konverter für SXC zu PPTX</h3>
 
-<iframe title="pptx bis sxc Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx bis sxc Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-pptx/">Testen Sie unsere kostenlose App für die Konvertierung von SXC in PPTX</a></p>
 </div></div>
 </div></div>

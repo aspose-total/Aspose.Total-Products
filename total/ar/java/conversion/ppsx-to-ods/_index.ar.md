@@ -41,7 +41,7 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL 
 
 <h3>محول مجاني على الإنترنت لـ PPSX إلى ODS</h3>
 
-<iframe title="ods to ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="ods to ppsx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

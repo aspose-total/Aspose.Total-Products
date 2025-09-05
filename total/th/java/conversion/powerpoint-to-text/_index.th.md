@@ -41,7 +41,7 @@ otherformats: OTT TEXTM WORDML RTF TEXT DOTX WORD TEXTX FLATOPC ODT DOT DOTM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ POWERPOINT เป็น TEXT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น text" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=text&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น text" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=text&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

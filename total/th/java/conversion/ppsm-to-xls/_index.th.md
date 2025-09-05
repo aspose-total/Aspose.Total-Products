@@ -41,7 +41,7 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPSM เป็น XLS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppsm เป็น xls" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppsm เป็น xls" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

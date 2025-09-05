@@ -41,7 +41,7 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 
 <h3>محول مجاني على الإنترنت لـ RTF إلى TSV</h3>
 
-<iframe title="tsv to rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv to rtf" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

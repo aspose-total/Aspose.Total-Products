@@ -41,7 +41,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comt
 
 <h3>Gratis onlinekonverterare för PPT till ODS</h3>
 
-<iframe title="ppt till ods Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt till ods Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

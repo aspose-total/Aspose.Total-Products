@@ -41,7 +41,7 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB DIF XLS XLSX SXC
 
 <h3>Δωρεάν Online Μετατροπέας για RTF σε DIF</h3>
 
-<iframe title="Εργαλείο μετατροπής dif σε rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής dif σε rtf" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dif&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

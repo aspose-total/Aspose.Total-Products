@@ -41,7 +41,7 @@ PPTMからDOTファイルへの変換では、[Maven](https://repository.aspose.
 
 <h3>PPTMからDOTへの無料オンラインコンバーター</h3>
 
-<iframe title="pptmからdotへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="pptmからdotへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

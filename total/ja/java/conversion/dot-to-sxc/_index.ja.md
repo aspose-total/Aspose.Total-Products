@@ -41,7 +41,7 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX SXC XLS XLSM XLTM XLAM XLTX TSV
 
 <h3>DOTからSXCへの無料オンラインコンバーター</h3>
 
-<iframe title="dotからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dotからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>PPT'den DOC'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="ppt'dan doc'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt'dan doc'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

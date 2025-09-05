@@ -41,7 +41,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC X
 
 <h3>محول مجاني على الإنترنت لـ PPS إلى XLSB</h3>
 
-<iframe title="xlsb to pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb to pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

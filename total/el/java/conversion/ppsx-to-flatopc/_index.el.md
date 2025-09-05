@@ -41,7 +41,7 @@ otherformats: TEXT FLATOPCX WORD WORDML FLATOPCM OTT FLATOPC DOT RTF ODT DOTX DO
 
 <h3>Δωρεάν Online Μετατροπέας για PPSX σε FLATOPC</h3>
 
-<iframe title="Εργαλείο μετατροπής flatopc σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=flatopc&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής flatopc σε ppsx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=flatopc&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

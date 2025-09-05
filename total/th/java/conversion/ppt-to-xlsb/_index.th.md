@@ -41,7 +41,7 @@ otherformats: XLSM XLT XLS TSV XLTX DIF SXC XLAM XLTM XLSX XLSB ODS FODS MHTML E
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น XLSB</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

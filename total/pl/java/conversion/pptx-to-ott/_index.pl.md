@@ -41,7 +41,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 
 <h3>Darmowy konwerter online dla PPTX na OTT</h3>
 
-<iframe title="Narzędzie online do konwersji ott na pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ott&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji ott na pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ott&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

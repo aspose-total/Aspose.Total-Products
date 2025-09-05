@@ -41,7 +41,7 @@ PPTMからDOCMファイルへの変換では、[Maven](https://repository.aspose
 
 <h3>PPTMからDOCMへの無料オンラインコンバーター</h3>
 
-<iframe title="pptmからdocmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docm&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="pptmからdocmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docm&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 <h3>Gratis online converter voor ODT naar XLSB</h3>
 
-<iframe title="odt naar xlsb conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="odt naar xlsb conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

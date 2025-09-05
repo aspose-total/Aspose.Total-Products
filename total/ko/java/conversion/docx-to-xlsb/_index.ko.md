@@ -41,7 +41,7 @@ otherformats: XLSB SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 <h3>DOCX를 XLSB로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="xlsb에서 docx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb에서 docx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://rele
 
 <h3>Ingyenes online konverter POT-hez ODS-be</h3>
 
-<iframe title="pot-ból ods-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="pot-ból ods-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

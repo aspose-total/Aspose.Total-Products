@@ -41,7 +41,7 @@ otherformats: WORD ODT WORDML DOTX DOT DOTM OTT RTF DOTX DOTM TEXT FLATOPC
 
 <h3>Бесплатный онлайн-конвертер PPS в DOT</h3>
 
-<iframe title="Онлайн-инструмент от dot до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dot до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: ODT FLATOPC OTT DOTM TEXT WORD ODTM ODTX DOT DOTX RTF WORDML
 
 <h3>Бесплатный онлайн-конвертер POWERPOINT в ODT</h3>
 
-<iframe title="Онлайн-инструмент от odt до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от odt до pptx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odt&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

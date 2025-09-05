@@ -41,7 +41,7 @@ otherformats: WORD ODT WORDML DOTX DOT DOTM OTT RTF DOTX DOTM TEXT FLATOPC
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPS เป็น DOT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pps เป็น dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pps เป็น dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

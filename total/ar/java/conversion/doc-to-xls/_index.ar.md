@@ -41,7 +41,7 @@ otherformats: XLS SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 <h3>محول مجاني على الإنترنت لـ DOC إلى XLS</h3>
 
-<iframe title="xls to doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="xls to doc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

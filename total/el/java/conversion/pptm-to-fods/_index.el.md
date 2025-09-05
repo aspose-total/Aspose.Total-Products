@@ -41,7 +41,7 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 <h3>Δωρεάν Online Μετατροπέας για PPTM σε FODS</h3>
 
-<iframe title="Εργαλείο μετατροπής fods σε pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής fods σε pptm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=fods&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

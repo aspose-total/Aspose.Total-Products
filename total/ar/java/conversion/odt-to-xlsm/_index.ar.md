@@ -41,7 +41,7 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 
 <h3>محول مجاني على الإنترنت لـ ODT إلى XLSM</h3>
 
-<iframe title="xlsm to odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsm to odt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

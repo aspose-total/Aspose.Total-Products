@@ -41,7 +41,7 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 
 <h3>RTFからSXCへの無料オンラインコンバーター</h3>
 
-<iframe title="rtfからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtfからsxcへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

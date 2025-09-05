@@ -38,7 +38,7 @@ otherformats: POWERPOINTX WORD PPTX POWERPOINT
 
 <h3>ตัวแปลงออนไลน์สำหรับ ODS เป็น POWERPOINT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ods เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ods เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=ods" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/ods-to-pptx/">ลองใช้แอปฟรีของเราสำหรับการแปลง ODS เป็น POWERPOINT</a></p>
 </div></div>
 </div></div>

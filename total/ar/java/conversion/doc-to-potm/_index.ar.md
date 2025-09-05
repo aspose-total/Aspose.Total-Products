@@ -42,7 +42,7 @@ otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS POTM PPSM POTX POT CSV DIF FODS 
 
 <h3>محول مجاني على الإنترنت لـ DOC إلى POTM</h3>
 
-<iframe title="potm to doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="potm to doc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potm&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

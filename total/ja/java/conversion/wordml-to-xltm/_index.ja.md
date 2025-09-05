@@ -41,7 +41,7 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 <h3>WORDMLからXLTMへの無料オンラインコンバーター</h3>
 
-<iframe title="wordmlからxltmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="wordmlからxltmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltm&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

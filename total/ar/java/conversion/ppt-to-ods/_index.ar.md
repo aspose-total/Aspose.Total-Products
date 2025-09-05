@@ -41,7 +41,7 @@ otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT M
 
 <h3>محول مجاني على الإنترنت لـ PPT إلى ODS</h3>
 
-<iframe title="ods to ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ods to ppt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

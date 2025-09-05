@@ -38,7 +38,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.a
 
 <h3>Convertidor en línea de XLS a PPTX</h3>
 
-<iframe title="Herramienta de conversión de pptx a xls" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de pptx a xls" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xls-to-pptx/">Pruebe nuestra aplicación gratuita para la conversión de XLS a PPTX</a></p>
 </div></div>
 </div></div>

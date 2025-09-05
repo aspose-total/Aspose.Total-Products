@@ -38,7 +38,7 @@ otherformats: WORD POWERPOINT PPTX POWERPOINTX
 
 <h3>Онлайн-конвертер XLS в POWERPOINT</h3>
 
-<iframe title="Онлайн-инструмент от pptx до xls долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pptx до xls долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xls-to-pptx/">Попробуйте наше бесплатное приложение для преобразования XLS в POWERPOINT</a></p>
 </div></div>
 </div></div>

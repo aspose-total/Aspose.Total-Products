@@ -38,7 +38,7 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/
 
 <h3>Konwerter online dla XLS na DOCX</h3>
 
-<iframe title="Narzędzie online do konwersji docx na xls" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji docx na xls" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xls" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xls-to-docx/">Wypróbuj naszą bezpłatną aplikację do konwersji XLS na DOCX</a></p>
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 
 <h3>免费的 OTT 到 XLT 在线转换器</h3>
 
-<iframe title="ott 到 xlt 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ott 到 xlt 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlt&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

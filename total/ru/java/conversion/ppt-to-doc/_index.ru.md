@@ -41,7 +41,7 @@ otherformats: DOT ODT DOCX RTF DOTX DOCM TEXT FLATOPC WORD DOTM OTT WORDML
 
 <h3>Бесплатный онлайн-конвертер PPT в DOC</h3>
 
-<iframe title="Онлайн-инструмент от doc до ppt долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от doc до ppt долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

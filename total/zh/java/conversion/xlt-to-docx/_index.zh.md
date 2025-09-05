@@ -38,7 +38,7 @@ otherformats: POWERPOINT WORD PPTX DOCX
 
 <h3>XLT 到 DOCX 在线转换器</h3>
 
-<iframe title="xlt 到 docx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt 到 docx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

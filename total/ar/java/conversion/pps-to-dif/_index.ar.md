@@ -41,7 +41,7 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML DIF TSV XLTM MARKDOWN 
 
 <h3>محول مجاني على الإنترنت لـ PPS إلى DIF</h3>
 
-<iframe title="dif to pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="dif to pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dif&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

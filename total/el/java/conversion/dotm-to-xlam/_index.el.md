@@ -41,7 +41,7 @@ otherformats: DIF XLT XLTM XLSX XLSB XLTX TSV EXCEL FODS ODS XLSM XLS XLAM SXC
 
 <h3>Δωρεάν Online Μετατροπέας για DOTM σε XLAM</h3>
 
-<iframe title="Εργαλείο μετατροπής xlam σε dotm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlam σε dotm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

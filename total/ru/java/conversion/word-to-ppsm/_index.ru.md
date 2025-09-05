@@ -42,7 +42,7 @@ otherformats: PPT PPSX POWERPOINT PPTM POT POTX PPSM PPTX POTM PPS CSV DIF FODS 
 
 <h3>Бесплатный онлайн-конвертер WORD в PPSM</h3>
 
-<iframe title="Онлайн-инструмент от ppsm до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ppsm до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsm&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

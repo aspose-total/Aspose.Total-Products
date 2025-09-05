@@ -38,7 +38,7 @@ otherformats: POWERPOINT WORD DOCX PPTX
 
 <h3>ตัวแปลงออนไลน์สำหรับ EXCEL เป็น DOCX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsx เป็น docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsx เป็น docx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsx-to-docx/">ลองใช้แอปฟรีของเราสำหรับการแปลง EXCEL เป็น DOCX</a></p>
 </div></div>
 </div></div>

@@ -38,7 +38,7 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.a
 
 <h3>Convertidor en línea de XLSB a DOCX</h3>
 
-<iframe title="Herramienta de conversión de docx a xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de docx a xlsb" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xlsb" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsb-to-docx/">Pruebe nuestra aplicación gratuita para la conversión de XLSB a DOCX</a></p>
 </div></div>
 </div></div>

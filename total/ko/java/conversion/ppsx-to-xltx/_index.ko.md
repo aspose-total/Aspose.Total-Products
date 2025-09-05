@@ -41,7 +41,7 @@ PPSX을 XLTX로 변환하려면 [Maven](https://repository.aspose.com/webapp/#/a
 
 <h3>PPSX를 XLTX로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="xltx에서 ppsx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="xltx에서 ppsx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

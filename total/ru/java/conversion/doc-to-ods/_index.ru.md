@@ -41,7 +41,7 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 <h3>Бесплатный онлайн-конвертер DOC в ODS</h3>
 
-<iframe title="Онлайн-инструмент от ods до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ods до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

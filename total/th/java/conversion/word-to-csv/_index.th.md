@@ -41,7 +41,7 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ WORD เป็น CSV</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น csv" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=csv&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

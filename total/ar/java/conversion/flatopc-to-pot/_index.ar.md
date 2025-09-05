@@ -42,7 +42,7 @@ otherformats: PPS PPT POTX PPTX PPSM PPTM POTM POWERPOINT POT PPSX CSV DIF FODS 
 
 <h3>محول مجاني على الإنترنت لـ FLATOPC إلى POT</h3>
 
-<iframe title="pot to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="pot to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pot&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

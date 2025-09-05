@@ -41,7 +41,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>POT'den TSV'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="pot'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="pot'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

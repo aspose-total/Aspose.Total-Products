@@ -42,7 +42,7 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 <h3>Gratis online converter voor WORDML naar PPTM</h3>
 
-<iframe title="wordml naar pptm conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptm&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="wordml naar pptm conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptm&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

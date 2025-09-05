@@ -42,7 +42,7 @@ otherformats: PPSM PPTX PPT PPSX POTM POT POWERPOINT PPS PPTM POTX CSV DIF FODS 
 
 <h3>Δωρεάν Online Μετατροπέας για TXT σε PPTX</h3>
 
-<iframe title="Εργαλείο μετατροπής pptx σε txt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής pptx σε txt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

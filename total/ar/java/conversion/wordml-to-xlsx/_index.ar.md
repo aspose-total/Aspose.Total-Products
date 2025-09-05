@@ -41,7 +41,7 @@ otherformats: TSV XLTX XLS XLSB XLT SXC DIF XLSM XLTM XLSX FODS ODS XLAM EXCEL
 
 <h3>محول مجاني على الإنترنت لـ WORDML إلى XLSX</h3>
 
-<iframe title="xlsx to wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

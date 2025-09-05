@@ -42,7 +42,7 @@ otherformats: POTX PPSM PPTX PPTM PPSX POTM POT PPS PPT POWERPOINT CSV DIF FODS 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOCX เป็น PPSX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น ppsx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

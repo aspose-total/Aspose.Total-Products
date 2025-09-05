@@ -41,7 +41,7 @@ otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN 
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPTX เป็น XLTX</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น xltx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น xltx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

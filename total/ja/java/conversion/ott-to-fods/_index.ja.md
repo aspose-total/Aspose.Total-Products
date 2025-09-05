@@ -41,7 +41,7 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 
 <h3>OTTからFODSへの無料オンラインコンバーター</h3>
 
-<iframe title="ottからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ottからfodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=fods&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

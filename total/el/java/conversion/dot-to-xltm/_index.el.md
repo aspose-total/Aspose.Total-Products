@@ -41,7 +41,7 @@ otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 
 <h3>Δωρεάν Online Μετατροπέας για DOT σε XLTM</h3>
 
-<iframe title="Εργαλείο μετατροπής xltm σε dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xltm σε dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltm&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

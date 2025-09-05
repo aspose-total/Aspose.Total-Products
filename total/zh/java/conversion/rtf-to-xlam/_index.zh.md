@@ -41,7 +41,7 @@ otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 
 <h3>免费的 RTF 到 XLAM 在线转换器</h3>
 
-<iframe title="rtf 到 xlam 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf 到 xlam 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

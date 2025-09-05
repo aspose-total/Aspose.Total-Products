@@ -41,7 +41,7 @@ otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ RTF เป็น XLSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง rtf เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง rtf เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

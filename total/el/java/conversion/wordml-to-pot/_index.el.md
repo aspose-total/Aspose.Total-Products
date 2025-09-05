@@ -42,7 +42,7 @@ otherformats: PPSX POTM PPSM PPTM POWERPOINT POT PPS PPTX PPT POTX CSV DIF FODS 
 
 <h3>Δωρεάν Online Μετατροπέας για WORDML σε POT</h3>
 
-<iframe title="Εργαλείο μετατροπής pot σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής pot σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pot&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

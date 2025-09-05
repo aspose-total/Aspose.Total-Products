@@ -41,7 +41,7 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 
 <h3>DOCXからDIFへの無料オンラインコンバーター</h3>
 
-<iframe title="docxからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docxからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dif&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
