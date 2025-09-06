@@ -74,7 +74,7 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
 
 <h3>Gratis online converter voor WORD naar PPS</h3>
 
-<iframe title="docx naar pps conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pps&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx naar pps conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pps&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

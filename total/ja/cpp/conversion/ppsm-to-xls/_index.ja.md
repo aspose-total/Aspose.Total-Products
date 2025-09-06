@@ -45,7 +45,7 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB CSV 
 
 <h3>PPSMからXLSへの無料オンラインコンバーター</h3>
 
-<iframe title="ppsmからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsmからxlsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

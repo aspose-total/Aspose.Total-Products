@@ -45,7 +45,7 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX CSV SXC XLSX EXCEL XLS MARKDOWN FODS XL
 
 <h3>免费的 PPSX 到 MHTML 在线转换器</h3>
 
-<iframe title="ppsx 到 mhtml 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mhtml&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx 到 mhtml 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=mhtml&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

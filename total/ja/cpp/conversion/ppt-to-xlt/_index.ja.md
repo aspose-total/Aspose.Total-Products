@@ -45,7 +45,7 @@ otherformats: XLS XLAM SXC CSV XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX 
 
 <h3>PPTからXLTへの無料オンラインコンバーター</h3>
 
-<iframe title="pptからxltへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="pptからxltへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlt&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

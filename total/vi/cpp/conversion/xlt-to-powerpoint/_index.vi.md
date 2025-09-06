@@ -47,7 +47,7 @@ powerpoint->Save(u"convertedFile.pptx", SaveFormat::Pptx);
 
 <h3>Công cụ chuyển đổi trực tuyến từ XLT sang POWERPOINT</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ xlt sang pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ xlt sang pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlt" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlt-to-pptx/">Hãy dùng thử ứng dụng miễn phí của chúng tôi để chuyển đổi XLT sang POWERPOINT</a></p>
 </div></div>
 </div></div>

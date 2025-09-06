@@ -51,7 +51,7 @@ dotx->Save(u"output.dotx");
 
 <h3>Gratis online converter voor PPTX naar DOTX</h3>
 
-<iframe title="pptx naar dotx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx naar dotx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

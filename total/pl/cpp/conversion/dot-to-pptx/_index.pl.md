@@ -74,7 +74,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 
 <h3>Darmowy konwerter online dla DOT na PPTX</h3>
 
-<iframe title="Narzędzie online do konwersji pptx na dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji pptx na dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

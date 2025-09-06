@@ -45,7 +45,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 
 <h3>PPT'den MARKDOWN'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="ppt'dan markdown'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt'dan markdown'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=markdown&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -74,7 +74,7 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
 
 <h3>Kostenloser Online-Konverter für TXT zu POT</h3>
 
-<iframe title="pot bis txt Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="pot bis txt Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pot&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

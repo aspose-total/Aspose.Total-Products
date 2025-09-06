@@ -47,7 +47,7 @@ word->Save(u"convertedFile.word", SaveFormat::Word);
 
 <h3>Διαδικτυακός μετατροπέας για SXC σε WORD</h3>
 
-<iframe title="Εργαλείο μετατροπής docx σε sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής docx σε sxc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-docx/">Δοκιμάστε τη δωρεάν εφαρμογή μας για μετατροπή SXC σε WORD</a></p>
 </div></div>
 </div></div>

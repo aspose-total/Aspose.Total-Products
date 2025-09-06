@@ -74,7 +74,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 
 <h3>Gratis onlinekonverterare för DOTM till POWERPOINT</h3>
 
-<iframe title="dotm till pptx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="dotm till pptx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

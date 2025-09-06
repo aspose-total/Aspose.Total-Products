@@ -47,7 +47,7 @@ docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 
 <h3>Online konverter XLSM-hez DOCX-be</h3>
 
-<iframe title="xlsm-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsm-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xlsm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsm-to-docx/">Próbálja ki ingyenes alkalmazásunkat a XLSM-ből DOCX-be konvertálásához</a></p>
 </div></div>
 </div></div>

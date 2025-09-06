@@ -45,7 +45,7 @@ otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM CSV XLTM MARKDO
 
 <h3>PPTからXLSXへの無料オンラインコンバーター</h3>
 
-<iframe title="pptからxlsxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="pptからxlsxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -74,7 +74,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
 
 <h3>DOTからPOTXへの無料オンラインコンバーター</h3>
 
-<iframe title="dotからpotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dotからpotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

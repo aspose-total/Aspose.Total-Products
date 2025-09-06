@@ -47,7 +47,7 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 
 <h3>XLTMからDOCへのオンラインコンバーター</h3>
 
-<iframe title="xltmからdocへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltmからdocへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=xltm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltm-to-doc/">XLTM から DOC への変換用の無料アプリをお試しください</a></p>
 </div></div>
 </div></div>

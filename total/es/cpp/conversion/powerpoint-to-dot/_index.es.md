@@ -51,7 +51,7 @@ dot->Save(u"output.dot");
 
 <h3>Convertidor en línea gratuito para POWERPOINT a DOT</h3>
 
-<iframe title="Herramienta de conversión de dot a pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de dot a pptx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

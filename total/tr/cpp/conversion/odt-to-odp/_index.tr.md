@@ -74,7 +74,7 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
 
 <h3>ODT'den ODP'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="odt'dan odp'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="odt'dan odp'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odp&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

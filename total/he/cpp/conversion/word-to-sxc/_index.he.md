@@ -20,7 +20,7 @@ otherformats: XLSM XLT XLSX ODS XLAM EXCEL DIF CSV TSV XLTM XLSB XLS XLTX FODS
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<iframe title="אפליקציית המרות מקוונת בחינם מ-Word ל-SXC" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="אפליקציית המרות מקוונת בחינם מ-Word ל-SXC" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

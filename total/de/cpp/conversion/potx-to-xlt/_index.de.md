@@ -45,7 +45,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 
 <h3>Kostenloser Online-Konverter für POTX zu XLT</h3>
 
-<iframe title="xlt bis potx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt bis potx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlt&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

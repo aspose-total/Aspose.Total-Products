@@ -74,7 +74,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
 
 <h3>Konverter Online Gratis untuk DOCX ke POTM</h3>
 
-<iframe title="Alat Konversi docx ke potm Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Alat Konversi docx ke potm Gratis" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potm&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -74,7 +74,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
 
 <h3>Kostenloser Online-Konverter für DOT zu PPT</h3>
 
-<iframe title="ppt bis dot Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt bis dot Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -74,7 +74,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
 
 <h3>Convertisseur en ligne gratuit pour OTT en PPT</h3>
 
-<iframe title="Outil en ligne de conversion ppt en ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion ppt en ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

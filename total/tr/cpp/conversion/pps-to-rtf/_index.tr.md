@@ -51,7 +51,7 @@ rtf->Save(u"output.rtf");
 
 <h3>PPS'den RTF'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="pps'dan rtf'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=rtf&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps'dan rtf'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=rtf&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

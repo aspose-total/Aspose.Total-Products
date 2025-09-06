@@ -45,7 +45,7 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 
 <h3>POTからMHTMLへの無料オンラインコンバーター</h3>
 
-<iframe title="potからmhtmlへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mhtml&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="potからmhtmlへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=mhtml&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -47,7 +47,7 @@ powerpoint->Save(u"convertedFile.pptx", SaveFormat::Pptx);
 
 <h3>XLTM 到 POWERPOINT 在线转换器</h3>
 
-<iframe title="xltm 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltm 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xltm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltm-to-pptx/">试试我们的 XLTM 到 POWERPOINT 转换的免费应用程序</a></p>
 </div></div>
 </div></div>

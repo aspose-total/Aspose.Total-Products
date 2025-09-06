@@ -47,7 +47,7 @@ pptx->Save(u"convertedFile.pptx", SaveFormat::Pptx);
 
 <h3>Online konverter XLTX-hez PPTX-be</h3>
 
-<iframe title="xltx-ból pptx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="xltx-ból pptx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xltx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltx-to-pptx/">Próbálja ki ingyenes alkalmazásunkat a XLTX-ből PPTX-be konvertálásához</a></p>
 </div></div>
 </div></div>

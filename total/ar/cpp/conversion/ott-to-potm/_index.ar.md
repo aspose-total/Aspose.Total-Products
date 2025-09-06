@@ -74,7 +74,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى POTM</h3>
 
-<iframe title="potm to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potm&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="potm to ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potm&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

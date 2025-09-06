@@ -45,7 +45,7 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho POTX sang XLSB</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ potx sang xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ potx sang xlsb" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

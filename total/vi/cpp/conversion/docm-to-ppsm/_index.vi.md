@@ -74,7 +74,7 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho DOCM sang PPSM</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ docm sang ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ docm sang ppsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsm&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

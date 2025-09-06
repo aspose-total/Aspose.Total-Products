@@ -51,7 +51,7 @@ doc->Save(u"output.doc");
 
 <h3>Gratis onlinekonverterare för POWERPOINT till DOC</h3>
 
-<iframe title="pptx till doc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx till doc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
