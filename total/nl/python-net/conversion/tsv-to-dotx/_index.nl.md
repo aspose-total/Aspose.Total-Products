@@ -61,7 +61,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Cells for Python
 
 <h3>Gratis online converter voor TSV naar DOTX</h3>
 
-<iframe title="tsv naar dotx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=tsv" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv naar dotx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=tsv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

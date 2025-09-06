@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>Δωρεάν Online Μετατροπέας για PPS σε XLSX</h3>
 
-<iframe title="Εργαλείο μετατροπής xlsx σε pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlsx σε pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

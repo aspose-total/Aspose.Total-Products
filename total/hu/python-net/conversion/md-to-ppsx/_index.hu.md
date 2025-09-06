@@ -60,7 +60,7 @@ Főleg két lépésben. Először használja az [Aspose.Words for Python via .NE
 
 <h3>Ingyenes online konverter MD-hez PPSX-be</h3>
 
-<iframe title="md-ból ppsx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=md" id="child-iframe" width="80%"></iframe>
+<iframe title="md-ból ppsx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=md" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

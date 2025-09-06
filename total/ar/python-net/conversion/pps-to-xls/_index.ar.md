@@ -60,7 +60,7 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 <h3>محول مجاني على الإنترنت لـ PPS إلى XLS</h3>
 
-<iframe title="xls to pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="xls to pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -61,7 +61,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 <h3>Gratis online converter voor DOTX naar SXC</h3>
 
-<iframe title="dotx naar sxc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx naar sxc conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

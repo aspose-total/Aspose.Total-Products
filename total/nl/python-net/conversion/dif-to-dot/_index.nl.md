@@ -61,7 +61,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Cells for Python
 
 <h3>Gratis online converter voor DIF naar DOT</h3>
 
-<iframe title="dif naar dot conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=dif" id="child-iframe" width="80%"></iframe>
+<iframe title="dif naar dot conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=dif" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

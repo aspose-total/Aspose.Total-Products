@@ -61,7 +61,7 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 <h3>Convertisseur en ligne gratuit pour XLSB en DOTX</h3>
 
-<iframe title="Outil en ligne de conversion dotx en xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion dotx en xlsb" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=xlsb" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

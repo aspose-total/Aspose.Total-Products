@@ -60,7 +60,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst [Aspose.Words for Python vi
 
 <h3>Gratis online converter voor TXT naar POWERPOINT</h3>
 
-<iframe title="txt naar pptx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="txt naar pptx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

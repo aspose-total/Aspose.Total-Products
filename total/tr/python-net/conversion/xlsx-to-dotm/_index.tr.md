@@ -61,7 +61,7 @@ Esas olarak iki adımdadır. XLSX dosyasını HTML'ye dönüştürmek için önc
 
 <h3>XLSX'den DOTM'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="xlsx'dan dotm'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotm&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx'dan dotm'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotm&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

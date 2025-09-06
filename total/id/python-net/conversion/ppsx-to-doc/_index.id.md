@@ -61,7 +61,7 @@ Ini terutama dalam dua langkah. Pertama gunakan [Aspose.Slides for Python via .N
 
 <h3>Konverter Online Gratis untuk PPSX ke DOC</h3>
 
-<iframe title="Alat Konversi ppsx ke doc Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Alat Konversi ppsx ke doc Gratis" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

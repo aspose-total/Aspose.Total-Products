@@ -71,7 +71,7 @@ By using Aspose.Total for Python via .NET API, developers can easily automate th
 
 <h3>Free Online Converter for OTT to PPT</h3>
 
-<iframe title="Free ott to ppt Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Free ott to ppt Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ XLSM เป็น PPSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsm เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsm เป็น ppsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsm&from=xlsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

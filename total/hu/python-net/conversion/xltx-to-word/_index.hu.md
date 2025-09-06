@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Cells for Python via 
 
 <h3>Ingyenes online konverter XLTX-hez WORD-be</h3>
 
-<iframe title="xltx-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="xltx-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

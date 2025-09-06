@@ -61,7 +61,7 @@ Nó chủ yếu gồm hai bước. Trước hết hãy sử dụng API [Aspose.S
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho POWERPOINT sang DOC</h3>
 
-<iframe title="Công cụ trực tuyến chuyển đổi từ pptx sang doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ pptx sang doc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

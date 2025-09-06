@@ -61,7 +61,7 @@ Főleg két lépésben. Először használja az [Aspose.Slides for Python via .N
 
 <h3>Ingyenes online konverter ODP-ből DOT-be</h3>
 
-<iframe title="odp-ból dot-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dot&from=odp" id="child-iframe" width="80%"></iframe>
+<iframe title="odp-ból dot-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dot&from=odp" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

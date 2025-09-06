@@ -60,7 +60,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 <h3>Δωρεάν Online Μετατροπέας για XLSM σε PPT</h3>
 
-<iframe title="Εργαλείο μετατροπής ppt σε xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=xlsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ppt σε xlsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=xlsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

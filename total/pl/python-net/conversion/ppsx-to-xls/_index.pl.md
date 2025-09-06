@@ -60,7 +60,7 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Slides for 
 
 <h3>Darmowy konwerter online dla PPSX na XLS</h3>
 
-<iframe title="Narzędzie online do konwersji xls na ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji xls na ppsx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

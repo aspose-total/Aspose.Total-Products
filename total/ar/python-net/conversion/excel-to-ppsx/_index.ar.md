@@ -60,7 +60,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 <h3>محول مجاني على الإنترنت لـ EXCEL إلى PPSX</h3>
 
-<iframe title="ppsx to xlsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx to xlsx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. DOC dosyasını PDF'ye dönüştürmek için öncel
 
 <h3>DOC'den POT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="doc'dan pot'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="doc'dan pot'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pot&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

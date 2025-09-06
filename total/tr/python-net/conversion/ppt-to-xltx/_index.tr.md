@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. PPT dosyasını HTML'ye dönüştürmek için önce
 
 <h3>PPT'den XLTX'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="ppt'dan xltx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt'dan xltx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

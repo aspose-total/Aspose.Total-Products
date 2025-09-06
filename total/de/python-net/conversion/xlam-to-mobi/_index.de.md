@@ -61,7 +61,7 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Cel
 
 <h3>Kostenloser Online-Konverter für XLAM zu MOBI</h3>
 
-<iframe title="mobi bis xlam Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=mobi&from=xlam" id="child-iframe" width="80%"></iframe>
+<iframe title="mobi bis xlam Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=mobi&from=xlam" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

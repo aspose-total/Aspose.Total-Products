@@ -61,7 +61,7 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 <h3>Darmowy konwerter online dla DOCM na XLSB</h3>
 
-<iframe title="Narzędzie online do konwersji xlsb na docm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji xlsb na docm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -61,7 +61,7 @@ Esas olarak iki adımdadır. DOC dosyasını HTML'ye dönüştürmek için önce
 
 <h3>DOC'den TSV'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="doc'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="doc'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

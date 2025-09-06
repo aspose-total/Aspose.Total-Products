@@ -69,7 +69,7 @@ By using Aspose.Total for Python via .NET API, developers can easily automate th
 
 <h3>Free Online Converter for POTM to XLSB</h3>
 
-<iframe title="Free potm to xlsb Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Free potm to xlsb Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

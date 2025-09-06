@@ -60,7 +60,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 <h3>Δωρεάν Online Μετατροπέας για DOT σε PPSX</h3>
 
-<iframe title="Εργαλείο μετατροπής ppsx σε dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ppsx σε dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

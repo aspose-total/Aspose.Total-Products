@@ -61,7 +61,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 <h3>Gratis online converter voor WORD naar EXCEL</h3>
 
-<iframe title="docx naar xlsx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx naar xlsx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

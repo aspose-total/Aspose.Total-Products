@@ -60,7 +60,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 <h3>RTFからPOTXへの無料オンラインコンバーター</h3>
 
-<iframe title="rtfからpotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtfからpotxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

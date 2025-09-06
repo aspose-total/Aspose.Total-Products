@@ -61,7 +61,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 <h3>محول مجاني على الإنترنت لـ WORDML إلى FODS</h3>
 
-<iframe title="fods to wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=fods&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="fods to wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=fods&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

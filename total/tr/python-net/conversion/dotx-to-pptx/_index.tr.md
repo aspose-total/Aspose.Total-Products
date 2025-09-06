@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. DOTX dosyasını PDF'ye dönüştürmek için önce
 
 <h3>DOTX'den PPTX'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="dotx'dan pptx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx'dan pptx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 <h3>Бесплатный онлайн-конвертер ODT в POTX</h3>
 
-<iframe title="Онлайн-инструмент от potx до odt долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от potx до odt долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst [Aspose.Words for Python vi
 
 <h3>Gratis online converter voor DOT naar PPT</h3>
 
-<iframe title="dot naar ppt conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dot naar ppt conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

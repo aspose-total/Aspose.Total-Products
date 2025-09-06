@@ -61,7 +61,7 @@ Esas olarak iki adımdadır. XLAM dosyasını HTML'ye dönüştürmek için önc
 
 <h3>XLAM'den ODT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="xlam'dan odt'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odt&from=xlam" id="child-iframe" width="80%"></iframe>
+<iframe title="xlam'dan odt'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odt&from=xlam" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

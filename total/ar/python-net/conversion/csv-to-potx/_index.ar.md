@@ -60,7 +60,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 <h3>محول مجاني على الإنترنت لـ CSV إلى POTX</h3>
 
-<iframe title="potx to csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="potx to csv" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

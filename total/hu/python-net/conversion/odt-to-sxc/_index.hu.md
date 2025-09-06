@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 <h3>Ingyenes online konverter ODT-ből SXC-be</h3>
 
-<iframe title="odt-ból sxc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="odt-ból sxc-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

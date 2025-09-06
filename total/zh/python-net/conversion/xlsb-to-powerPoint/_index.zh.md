@@ -60,7 +60,7 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 <h3>免费的 XLSB 到 POWERPOINT 在线转换器</h3>
 
-<iframe title="xlsb 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb 到 pptx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=xlsb" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

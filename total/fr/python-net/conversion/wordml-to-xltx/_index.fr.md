@@ -61,7 +61,7 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 <h3>Convertisseur en ligne gratuit pour WORDML en XLTX</h3>
 
-<iframe title="Outil en ligne de conversion xltx en wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion xltx en wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

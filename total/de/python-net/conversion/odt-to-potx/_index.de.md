@@ -60,7 +60,7 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Wor
 
 <h3>Kostenloser Online-Konverter für ODT zu POTX</h3>
 
-<iframe title="potx bis odt Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="potx bis odt Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

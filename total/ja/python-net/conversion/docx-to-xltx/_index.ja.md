@@ -61,7 +61,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 <h3>DOCXからXLTXへの無料オンラインコンバーター</h3>
 
-<iframe title="docxからxltxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docxからxltxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

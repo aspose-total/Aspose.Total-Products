@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 <h3>Ingyenes online konverter DOTX-ből CSV-be</h3>
 
-<iframe title="dotx-ból csv-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx-ból csv-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

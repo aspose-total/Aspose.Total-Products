@@ -61,7 +61,7 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Cells for Python via
 
 <h3>Konverter Online Gratis untuk XLAM ke WORDML</h3>
 
-<iframe title="Alat Konversi xlam ke wordml Gratis" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=xlam" id="child-iframe" width="80%"></iframe>
+<iframe title="Alat Konversi xlam ke wordml Gratis" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=wordml&from=xlam" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
