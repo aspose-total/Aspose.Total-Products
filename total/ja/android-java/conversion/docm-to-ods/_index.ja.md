@@ -45,7 +45,7 @@ otherformats: SXC CSV XLTX XLAM XLS FODS DIF XLT XLSM TSV EXCEL XLSB XLTM XLSX
 
 <h3>DOCMからODSへの無料オンラインコンバーター</h3>
 
-<iframe title="docmからodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="docmからodsへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

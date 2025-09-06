@@ -45,7 +45,7 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 <h3>Ingyenes online konverter PPTX-ből MARKDOWN-be</h3>
 
-<iframe title="pptx-ból markdown-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx-ból markdown-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

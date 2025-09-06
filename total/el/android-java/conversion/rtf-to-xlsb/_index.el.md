@@ -45,7 +45,7 @@ otherformats: DIF XLS XLT XLSM XLTX TSV XLAM EXCEL CSV SXC ODS XLSX FODS XLTM
 
 <h3>Δωρεάν Online Μετατροπέας για RTF σε XLSB</h3>
 
-<iframe title="Εργαλείο μετατροπής xlsb σε rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlsb σε rtf" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

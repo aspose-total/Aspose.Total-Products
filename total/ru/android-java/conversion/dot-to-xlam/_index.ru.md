@@ -45,7 +45,7 @@ otherformats: XLSB XLTM SXC ODS DIF TSV EXCEL XLSM XLTX CSV FODS XLT XLS XLSX
 
 <h3>Бесплатный онлайн-конвертер DOT в XLAM</h3>
 
-<iframe title="Онлайн-инструмент от xlam до dot долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlam до dot долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

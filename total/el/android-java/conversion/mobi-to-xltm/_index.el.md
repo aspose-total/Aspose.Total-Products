@@ -45,7 +45,7 @@ otherformats: DIF XLTX XLSB CSV XLSX XLS XLAM XLSM FODS XLT ODS TSV EXCEL SXC
 
 <h3>Δωρεάν Online Μετατροπέας για MOBI σε XLTM</h3>
 
-<iframe title="Εργαλείο μετατροπής xltm σε mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xltm σε mobi" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltm&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

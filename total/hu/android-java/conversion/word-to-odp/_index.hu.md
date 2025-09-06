@@ -46,7 +46,7 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 <h3>Ingyenes online konverter WORD-hez ODP-be</h3>
 
-<iframe title="docx-ból odp-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx-ból odp-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odp&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

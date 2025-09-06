@@ -46,7 +46,7 @@ otherformats: PPTX POWERPOINT POTX PPTM POT PPS PPSX POTM PPT PPSM
 
 <h3>Бесплатный онлайн-конвертер DOC в ODP</h3>
 
-<iframe title="Онлайн-инструмент от odp до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=odp&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от odp до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=odp&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -52,7 +52,7 @@ wordument.save("output.wordx",SaveFormat.Wordx);
 
 <h3>Darmowy konwerter online dla PPT na WORD</h3>
 
-<iframe title="Narzędzie online do konwersji docx na ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji docx na ppt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

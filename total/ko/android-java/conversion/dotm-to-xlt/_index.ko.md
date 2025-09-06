@@ -45,7 +45,7 @@ otherformats: XLS CSV XLSX XLAM EXCEL XLSB TSV SXC FODS XLSM XLTX ODS XLTM DIF
 
 <h3>DOTM를 XLT로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="xlt에서 dotm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt에서 dotm로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlt&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

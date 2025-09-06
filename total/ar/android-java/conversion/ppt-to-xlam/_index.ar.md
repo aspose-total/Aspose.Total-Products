@@ -45,7 +45,7 @@ otherformats: TSV SXC ODS MARKDOWN XLS CSV XLTM XLSB EXCEL XLSX FODS XLTX XLSM D
 
 <h3>محول مجاني على الإنترنت لـ PPT إلى XLAM</h3>
 
-<iframe title="xlam to ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlam to ppt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

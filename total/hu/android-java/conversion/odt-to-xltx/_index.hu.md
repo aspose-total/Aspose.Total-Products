@@ -45,7 +45,7 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 <h3>Ingyenes online konverter ODT-hez XLTX-be</h3>
 
-<iframe title="odt-ból xltx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="odt-ból xltx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

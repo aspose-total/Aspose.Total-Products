@@ -45,7 +45,7 @@ otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 
 <h3>Бесплатный онлайн-конвертер WORD в SXC</h3>
 
-<iframe title="Онлайн-инструмент от sxc до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

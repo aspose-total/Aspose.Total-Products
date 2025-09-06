@@ -45,7 +45,7 @@ otherformats: DIF XLSX XLTM XLTX XLAM XLS SXC XLSB FODS CSV EXCEL TSV XLSM XLT
 
 <h3>WORD를 ODS로 변환하는 무료 온라인 변환기</h3>
 
-<iframe title="ods에서 docx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="ods에서 docx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

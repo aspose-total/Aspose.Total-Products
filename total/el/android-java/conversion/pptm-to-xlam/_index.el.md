@@ -45,7 +45,7 @@ otherformats: XLT DIF MARKDOWN CSV XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB O
 
 <h3>Δωρεάν Online Μετατροπέας για PPTM σε XLAM</h3>
 
-<iframe title="Εργαλείο μετατροπής xlam σε pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlam σε pptm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

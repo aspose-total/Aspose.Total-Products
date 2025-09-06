@@ -53,7 +53,7 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);
 
 <h3>SXCからDOCXへの無料オンラインコンバーター</h3>
 
-<iframe title="sxcからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="sxcからdocxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

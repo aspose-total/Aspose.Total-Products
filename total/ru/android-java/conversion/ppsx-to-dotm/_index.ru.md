@@ -52,7 +52,7 @@ dotmument.save("output.dotm",SaveFormat.Dotm);
 
 <h3>Бесплатный онлайн-конвертер PPSX в DOTM</h3>
 
-<iframe title="Онлайн-инструмент от dotm до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotm&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dotm до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotm&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

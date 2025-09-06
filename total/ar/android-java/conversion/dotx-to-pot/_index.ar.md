@@ -46,7 +46,7 @@ otherformats: POTM PPTM POWERPOINT PPS PPSX PPSM PPT PPTX ODP POTX
 
 <h3>محول مجاني على الإنترنت لـ DOTX إلى POT</h3>
 
-<iframe title="pot to dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pot&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="pot to dotx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pot&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

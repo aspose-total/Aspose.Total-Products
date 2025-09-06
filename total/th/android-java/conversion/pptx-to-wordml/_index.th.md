@@ -52,7 +52,7 @@ wordmlument.save("output.wordml",SaveFormat.WordML);
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPTX เป็น WORDML</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=wordml&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=wordml&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

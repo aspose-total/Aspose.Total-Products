@@ -45,7 +45,7 @@ otherformats: XLTX ODS EXCEL XLS XLTM DIF SXC XLAM FODS XLT TSV XLSX XLSM CSV
 
 <h3>Бесплатный онлайн-конвертер WORD в XLSB</h3>
 
-<iframe title="Онлайн-инструмент от xlsb до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsb до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

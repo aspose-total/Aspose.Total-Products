@@ -45,7 +45,7 @@ otherformats: SXC CSV XLTX XLAM XLS FODS DIF XLT XLSM TSV EXCEL XLSB XLTM XLSX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOCM เป็น ODS</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

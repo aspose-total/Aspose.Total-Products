@@ -45,7 +45,7 @@ otherformats: XLTM SXC XLSX DIF XLAM ODS EXCEL XLSB FODS CSV XLTX XLSM XLT XLS
 
 <h3>محول مجاني على الإنترنت لـ ODT إلى TSV</h3>
 
-<iframe title="tsv to odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv to odt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

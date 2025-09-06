@@ -46,7 +46,7 @@ otherformats: POWERPOINT POTM PPSX PPT PPS PPTM POT ODP POTX PPTX CSV DIF FODS O
 
 <h3>محول مجاني على الإنترنت لـ FLATOPC إلى PPSM</h3>
 
-<iframe title="ppsm to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsm&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsm to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsm&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

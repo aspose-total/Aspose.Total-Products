@@ -53,7 +53,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 <h3>Gratis onlinekonverterare för TSV till WORD</h3>
 
-<iframe title="tsv till docx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=tsv" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv till docx Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=tsv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

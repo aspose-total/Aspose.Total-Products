@@ -45,7 +45,7 @@ otherformats: XLAM EXCEL ODS CSV SXC DIF TSV FODS XLS XLSX XLTM XLTX XLSM XLT
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTM เป็น XLSB</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น xlsb" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

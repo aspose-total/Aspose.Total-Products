@@ -45,7 +45,7 @@ otherformats: CSV XLSX XLSB DIF FODS TSV XLAM XLTM SXC XLTX EXCEL XLS XLT XLSM
 
 <h3>Бесплатный онлайн-конвертер RTF в ODS</h3>
 
-<iframe title="Онлайн-инструмент от ods до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ods до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

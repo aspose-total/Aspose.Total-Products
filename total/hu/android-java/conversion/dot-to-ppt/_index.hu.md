@@ -46,7 +46,7 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 <h3>Ingyenes online konverter DOT-hez PPT-be</h3>
 
-<iframe title="dot-ból ppt-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dot-ból ppt-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

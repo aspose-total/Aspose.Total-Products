@@ -45,7 +45,7 @@ otherformats: EXCEL XLSB SXC XLS XLTX XLSM ODS FODS XLSX DIF XLT XLTM CSV XLAM
 
 <h3>DOCMからTSVへの無料オンラインコンバーター</h3>
 
-<iframe title="docmからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="docmからtsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

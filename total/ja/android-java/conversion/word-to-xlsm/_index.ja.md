@@ -45,7 +45,7 @@ otherformats: EXCEL FODS XLSB TSV XLAM XLTX XLT XLTM XLS SXC CSV ODS DIF XLSX
 
 <h3>WORDからXLSMへの無料オンラインコンバーター</h3>
 
-<iframe title="docxからxlsmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docxからxlsmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: SXC EXCEL CSV XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPS เป็น XLT</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pps เป็น xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlt&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pps เป็น xlt" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlt&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

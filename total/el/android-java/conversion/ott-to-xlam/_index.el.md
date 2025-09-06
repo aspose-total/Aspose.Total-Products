@@ -45,7 +45,7 @@ otherformats: DIF XLSB SXC FODS TSV XLT CSV XLTM XLTX EXCEL XLS XLSX XLSM ODS
 
 <h3>Δωρεάν Online Μετατροπέας για OTT σε XLAM</h3>
 
-<iframe title="Εργαλείο μετατροπής xlam σε ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlam&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlam σε ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlam&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

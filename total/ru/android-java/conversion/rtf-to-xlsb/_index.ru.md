@@ -45,7 +45,7 @@ otherformats: DIF XLS XLT XLSM XLTX TSV XLAM EXCEL CSV SXC ODS XLSX FODS XLTM
 
 <h3>Бесплатный онлайн-конвертер RTF в XLSB</h3>
 
-<iframe title="Онлайн-инструмент от xlsb до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsb до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLTX SXC TSV XLSB CSV FODS EXCEL XLT ODS XLS XLSM XLTM XLAM XLSX
 
 <h3>OTTからDIFへの無料オンラインコンバーター</h3>
 
-<iframe title="ottからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dif&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ottからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dif&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

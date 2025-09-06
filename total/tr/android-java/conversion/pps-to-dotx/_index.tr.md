@@ -52,7 +52,7 @@ dotxument.save("output.dotx",SaveFormat.Dotx);
 
 <h3>PPS'den DOTX'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe title="pps'dan dotx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=dotx&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps'dan dotx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=dotx&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

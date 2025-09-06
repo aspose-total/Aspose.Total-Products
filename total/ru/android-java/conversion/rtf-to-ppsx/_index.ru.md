@@ -46,7 +46,7 @@ otherformats: POT PPS POTX PPT POWERPOINT PPTM PPSM ODP PPTX POTM CSV DIF FODS O
 
 <h3>Бесплатный онлайн-конвертер RTF в PPSX</h3>
 
-<iframe title="Онлайн-инструмент от ppsx до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppsx&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ppsx до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppsx&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -53,7 +53,7 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);
 
 <h3>Ingyenes online konverter ODS-hez DOCX-be</h3>
 
-<iframe title="ods-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=docx&from=ods" id="child-iframe" width="80%"></iframe>
+<iframe title="ods-ból docx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=ods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

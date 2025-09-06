@@ -45,7 +45,7 @@ otherformats: XLT ODS XLTX XLTM CSV SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV XL
 
 <h3>محول مجاني على الإنترنت لـ PPS إلى EXCEL</h3>
 
-<iframe title="xlsx to pps" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to pps" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

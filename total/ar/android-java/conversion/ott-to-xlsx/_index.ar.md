@@ -45,7 +45,7 @@ otherformats: XLTM SXC CSV TSV XLSM XLS XLT XLAM FODS XLTX ODS EXCEL XLSB DIF
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى XLSX</h3>
 
-<iframe title="xlsx to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to ott" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

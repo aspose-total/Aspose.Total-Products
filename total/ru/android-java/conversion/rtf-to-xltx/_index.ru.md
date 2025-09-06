@@ -45,7 +45,7 @@ otherformats: XLSM XLSB XLT XLAM CSV XLS XLSX SXC ODS TSV EXCEL XLTM FODS DIF
 
 <h3>Бесплатный онлайн-конвертер RTF в XLTX</h3>
 
-<iframe title="Онлайн-инструмент от xltx до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltx&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltx до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltx&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

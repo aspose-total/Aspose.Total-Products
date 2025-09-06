@@ -45,7 +45,7 @@ otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOCM เป็น XLSM</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docm เป็น xlsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

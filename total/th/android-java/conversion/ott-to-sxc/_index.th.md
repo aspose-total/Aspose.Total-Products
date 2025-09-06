@@ -45,7 +45,7 @@ otherformats: XLT TSV XLTM FODS CSV DIF XLSB XLTX XLAM ODS XLSM EXCEL XLSX XLS
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ OTT เป็น SXC</h3>
 
-<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ott เป็น sxc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

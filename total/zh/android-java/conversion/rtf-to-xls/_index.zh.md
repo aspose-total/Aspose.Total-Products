@@ -45,7 +45,7 @@ otherformats: CSV EXCEL ODS TSV XLT XLSB XLTX XLAM SXC XLSM XLTM XLSX FODS DIF
 
 <h3>免费的 RTF 到 XLS 在线转换器</h3>
 
-<iframe title="rtf 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xls&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf 到 xls 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xls&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

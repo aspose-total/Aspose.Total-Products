@@ -45,7 +45,7 @@ otherformats: SXC XLTX XLSM XLTM EXCEL DIF XLAM ODS CSV XLS FODS TSV XLT XLSB
 
 <h3>محول مجاني على الإنترنت لـ DOT إلى XLSX</h3>
 
-<iframe title="xlsx to dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to dot" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

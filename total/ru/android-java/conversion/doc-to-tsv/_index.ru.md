@@ -45,7 +45,7 @@ otherformats: XLTX XLSX CSV XLT EXCEL SXC ODS DIF XLS XLSB XLAM XLTM FODS XLSM
 
 <h3>Бесплатный онлайн-конвертер DOC в TSV</h3>
 
-<iframe title="Онлайн-инструмент от tsv до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от tsv до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

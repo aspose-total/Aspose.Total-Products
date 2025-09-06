@@ -45,7 +45,7 @@ otherformats: CSV XLTM SXC FODS XLSX EXCEL XLS XLAM DIF ODS XLSB XLTX TSV XLT
 
 <h3>محول مجاني على الإنترنت لـ DOCX إلى XLSM</h3>
 
-<iframe title="xlsm to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsm&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsm to docx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsm&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: FODS ODS CSV XLSX XLTM XLS XLSB XLTX XLSM EXCEL TSV XLT XLAM DIF
 
 <h3>Δωρεάν Online Μετατροπέας για WORDML σε SXC</h3>
 
-<iframe title="Εργαλείο μετατροπής sxc σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=sxc&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής sxc σε wordml" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=sxc&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

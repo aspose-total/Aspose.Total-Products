@@ -46,7 +46,7 @@ otherformats: ODP POT POTM PPTM PPSM PPS POWERPOINT POTX PPSX PPTX
 
 <h3>Бесплатный онлайн-конвертер DOCX в PPT</h3>
 
-<iframe title="Онлайн-инструмент от ppt до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ppt&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ppt до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ppt&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

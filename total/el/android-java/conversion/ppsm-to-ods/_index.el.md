@@ -45,7 +45,7 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 <h3>Δωρεάν Online Μετατροπέας για PPSM σε ODS</h3>
 
-<iframe title="Εργαλείο μετατροπής ods σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=ods&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ods σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=ods&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

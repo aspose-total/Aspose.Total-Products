@@ -53,7 +53,7 @@ pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 
 <h3>محول مجاني على الإنترنت لـ CSV إلى POT</h3>
 
-<iframe title="pptx to csv" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to csv" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -46,7 +46,7 @@ otherformats: PPT POT PPTX POTM POTX ODP PPSX PPS PPTM PPSM CSV DIF FODS ODS SXC
 
 <h3>محول مجاني على الإنترنت لـ FLATOPC إلى POWERPOINT</h3>
 
-<iframe title="pptx to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=pptx&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to flatopc" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=pptx&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

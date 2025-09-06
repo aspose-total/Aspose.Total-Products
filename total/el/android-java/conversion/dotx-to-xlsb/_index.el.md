@@ -45,7 +45,7 @@ otherformats: XLTX EXCEL XLS XLT SXC FODS XLTM XLSX XLSM CSV TSV XLAM DIF ODS
 
 <h3>Δωρεάν Online Μετατροπέας για DOTX σε XLSB</h3>
 
-<iframe title="Εργαλείο μετατροπής xlsb σε dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xlsb&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlsb σε dotx" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xlsb&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

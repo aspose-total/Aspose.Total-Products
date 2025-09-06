@@ -45,7 +45,7 @@ otherformats: FODS XLSM XLT XLSX XLAM XLS SXC XLTM TSV XLSB XLTX ODS EXCEL DIF
 
 <h3>WORDMLからCSVへの無料オンラインコンバーター</h3>
 
-<iframe title="wordmlからcsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=csv&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="wordmlからcsvへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=csv&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -46,7 +46,7 @@ otherformats: PPTX POWERPOINT POTM PPSM ODP PPSX PPTM POT PPS PPT
 
 <h3>Бесплатный онлайн-конвертер DOC в POTX</h3>
 
-<iframe title="Онлайн-инструмент от potx до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=potx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от potx до doc долларов" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=potx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

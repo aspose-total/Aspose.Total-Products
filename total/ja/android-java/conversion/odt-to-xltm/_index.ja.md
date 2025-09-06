@@ -45,7 +45,7 @@ otherformats: ODS XLAM CSV XLTX XLSM XLSX FODS SXC XLT DIF XLS XLSB TSV EXCEL
 
 <h3>ODTからXLTMへの無料オンラインコンバーター</h3>
 
-<iframe title="odtからxltmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.k8s.dynabic.com/?to=xltm&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="odtからxltmへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=xltm&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
