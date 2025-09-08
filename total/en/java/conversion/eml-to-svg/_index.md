@@ -33,20 +33,22 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **SVG (Scalable Vector Graphics)** is a web-friendly vector format. Converting **EML to SVG** allows emails to be stored and displayed as scalable graphics.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Embedding emails as vector graphics in websites.
 - Creating interactive archives of correspondence.
 - Visualizing email content in design systems.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Batch conversion for web publishing.
 - Automating archival of branded email templates.
 - Email-to-SVG transformation for UI/UX workflows.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

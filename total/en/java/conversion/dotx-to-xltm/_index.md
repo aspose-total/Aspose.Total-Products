@@ -73,14 +73,14 @@ After converting DOTX to XLTM, [Aspose.Cells for Java](https://products.aspose.c
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX (Word Template)** to **XLTM (Macro-enabled Excel Template)** empowers organizations to deploy reusable, macro-enabled frameworks for automation. This ensures scalable, repeatable Excel workflows across departments.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Department automation templates  
 - Financial planning frameworks with macros  
 - Data processing and transformation templates  
 - Advanced reporting workflows  
 - Macro-enabled business process automation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLTM automation pipelines  
 - Macro-enabled template deployment  

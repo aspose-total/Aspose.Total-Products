@@ -33,20 +33,22 @@ You can easily use Aspose.Total for Java directly from a [Maven](https://release
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PDF** is the most universal document format. Converting **EML to PDF** preserves layouts, attachments, and formatting for easy sharing.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Archiving emails as universally accessible PDFs.
 - Compliance-ready email storage.
 - Sharing business correspondence securely.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Automated PDF archiving for enterprise email.
 - Converting support tickets from email to PDF.
 - Batch migration of email backups into PDF repositories.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< blocks/products/pf/agp/about-autogen-total >}}

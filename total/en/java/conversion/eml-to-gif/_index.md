@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EML** to **GIF (Graphics Interchange Format)** transforms email content into a lightweight and widely supported image format.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - **Web Display**: Embed email snapshots on websites or intranet portals.  
 - **Lightweight Archiving**: Store emails as GIFs for quick previews.  
 - **Cross-Platform Sharing**: Share emails in universally supported image format.  
 - **Documentation**: Include email content in training or reporting materials.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - **Email-to-GIF Pipelines**: Convert incoming EML files into GIFs for dashboards.  
 - **Preview Generators**: Automate thumbnail/preview images for archived emails.  
 - **Lightweight Storage**: Batch convert emails into compact GIF images.  
 - **Workflow Integration**: Insert email snapshots into ticketing or CRM systems.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

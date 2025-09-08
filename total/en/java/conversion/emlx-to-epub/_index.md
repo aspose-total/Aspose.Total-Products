@@ -33,21 +33,23 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting EMLX emails into **EPUB (Electronic Publication)** makes email content portable, structured, and optimized for e-readers and mobile devices.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Turning Apple Mail messages into portable eBooks.  
 - Storing newsletters, tutorials, or training emails as digital publications.  
 - Sharing readable formats for study materials or documentation.  
 - Accessibility improvements for mobile and e-reader users.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Automated archiving of Apple Mail emails into EPUB libraries.  
 - Batch conversion of company updates into EPUB for employee distribution.  
 - Email-to-knowledge-base transformation for long-term reference.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

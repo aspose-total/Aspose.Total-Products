@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **PDF** ensures long-term preservation, universal readability, and compliance with regulatory requirements. Using Email Java API, businesses can automate secure and reliable transformations of emails into PDF files.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Regulatory Compliance**: Financial, legal, and healthcare sectors preserve emails in PDF for audits.  
 - **Universal Archiving**: Store emails in a format readable across any platform or device.  
@@ -44,7 +44,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Long-Term Storage**: Ensure emails remain accessible without dependency on email clients.  
 - **Evidence Submission**: Provide courts or regulators with PDF versions of communications.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Compliance Pipelines**: Automatically convert all business emails into PDF for retention policies.  
 - **Batch Export**: Archive daily or weekly emails as searchable PDFs with metadata.  
@@ -52,7 +53,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Case Management**: Attach PDF email copies into legal or insurance case files.  
 - **Cloud Integration**: Sync email-to-PDF exports with SharePoint, OneDrive, or Google Drive.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< blocks/products/pf/agp/about-autogen-total >}}

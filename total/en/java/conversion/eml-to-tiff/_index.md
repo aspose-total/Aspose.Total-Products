@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EML** to **TIFF (Tagged Image File Format)** generates archival-grade images of emails, ideal for compliance and record-keeping.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - **Enterprise Archiving**: Store emails in TIFF for long-term preservation.  
 - **Legal Evidence**: Use TIFF’s non-editable format for forensic records.  
 - **Government Compliance**: Standard format for regulatory email archiving.  
 - **Multi-Page Support**: Save multi-page emails in a single TIFF file.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - **Batch TIFF Export**: Convert entire mailboxes into TIFF archives.  
 - **Forensic Automation**: Automatically log emails in TIFF for investigations.  
 - **Enterprise ECM Systems**: Integrate TIFF email snapshots into records systems.  
 - **Regulatory Pipelines**: Meet archiving standards with TIFF-based records.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< blocks/products/pf/agp/about-autogen-total >}}

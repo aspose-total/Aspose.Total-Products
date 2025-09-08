@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **Scalable Vector Graphics (SVG)** ensures that the visual representation is resolution-independent and suitable for embedding in modern applications. Using Email Java API, email visuals can be preserved in web-ready formats.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Web Publishing**: Embed email graphics directly into websites or blogs.  
 - **Design Proofing**: Share vector-based snapshots of email layouts.  
@@ -45,14 +45,16 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Branding Consistency**: Archive marketing emails in scalable format.  
 - **Digital Forensics**: Preserve visual fidelity of suspicious email evidence.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Web Integration**: Automatically export newsletters into SVG for web reuse.  
 - **Design Pipelines**: Provide designers with SVG snapshots of email layouts.  
 - **Forensic Systems**: Save suspicious emails in tamper-proof vector form.  
 - **Knowledge Base**: Publish training-related emails in SVG format online.  
 - **Batch Export**: Convert multiple communications into SVG for archives.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

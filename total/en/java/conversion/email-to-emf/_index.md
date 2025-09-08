@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **Enhanced Metafile (EMF)** format preserves content as vector graphics, ensuring high-quality rendering for printing, presentations, and archival. With Java Email API, developers can automate email-to-EMF workflows for visual and print-focused industries.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **High-Resolution Printing**: Export emails as EMF for crisp printouts.  
 - **Presentation Embedding**: Insert email snapshots into PowerPoint without quality loss.  
@@ -46,7 +46,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Design Proofs**: Share visual email layouts with designers and stakeholders.  
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Print Pipelines**: Convert emails into EMF for enterprise printing systems.  
 - **Presentation Automation**: Embed converted EMFs into slideshows automatically.  
@@ -55,7 +56,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Batch Processing**: Mass-convert incoming emails into EMF for reporting packs.  
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

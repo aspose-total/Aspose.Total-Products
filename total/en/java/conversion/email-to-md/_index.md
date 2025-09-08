@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **Markdown (MD)** provides a lightweight, text-based format widely used in developer workflows, documentation systems, and static websites. With Email Java API, emails can be seamlessly transformed into Markdown for version control and publishing.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Developer Documentation**: Store technical or support emails as MD for GitHub/GitLab wikis.  
 - **Static Website Publishing**: Publish newsletters or announcements directly to Jekyll/Hugo-based sites.  
@@ -46,7 +46,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Lightweight Archiving**: Save emails in simple text-based format for easy access.  
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Docs Automation**: Convert support or changelog emails into MD for product documentation.  
 - **Knowledge Management**: Auto-sync email conversations into Markdown-based knowledge bases.  
@@ -54,7 +55,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Static Site Updates**: Publish newsletters automatically to static websites.  
 - **Batch Conversion**: Mass-convert communication into MD for centralized repositories.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

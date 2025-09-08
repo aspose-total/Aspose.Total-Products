@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **GIF** format provides a compact way to preserve and share email visuals. With Java Email API, organizations can generate GIF snapshots of emails for lightweight distribution and embedding.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Lightweight Sharing**: Distribute small-sized snapshots of emails.  
 - **Training & Awareness**: Use GIFs of phishing emails in eLearning modules.  
@@ -45,7 +45,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Cross-Platform Use**: Share email images where advanced image formats aren’t supported.  
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Knowledge Base Automation**: Publish GIF-converted emails into documentation portals.  
 - **Security Training**: Auto-generate GIF examples of scam emails for awareness.  
@@ -53,7 +54,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Batch Export**: Convert bulk emails into GIF for archiving.  
 - **Lightweight Archiving**: Store smaller GIF versions of less-critical communications.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

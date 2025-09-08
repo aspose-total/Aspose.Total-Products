@@ -9,25 +9,7 @@ informat: CSV
 outformat: DOTX
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
-
-{{% blocks/products/pf/feature-page-summary %}}
-Converting CSV to DOTX (Word Open XML Template) is essential for producing modern, reusable templates populated with structured data. DOTX files are macro-free and ideal for enterprise-standardized document creation.
-
-## ✅ Key Use Cases
-- **Creating Up-to-Date Template Libraries** – Maintain modern templates for repeated use.
-- **Preparing Client-Specific Templates from Datasets** – Generate personalized templates for different clients.
-- **Automating Recurring Document Creation** – Populate templates with fresh CSV data for regular reports.
-- **Formatting CSV Data for Enterprise-Wide Template Use** – Ensure consistent style across documents.
-
-## ⚙️ Automation Scenarios
-- **Java DOCX/DOTX APIs** – Use Java libraries to programmatically generate DOTX templates.
-- **CSV-to-Template Mapping Engines** – Link CSV fields to template placeholders.
-- **Batch CSV-to-DOTX Conversion Tools** – Automate large-scale template generation.
-- **Java-Based Content Personalization Systems** – Create tailored templates for specific audiences.
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to DOTX or Online App" h2="On Premise Java API to Export CSV to DOTX or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -63,6 +45,28 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <iframe title="Free csv to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting CSV to DOTX (Word Open XML Template) is essential for producing modern, reusable templates populated with structured data. DOTX files are macro-free and ideal for enterprise-standardized document creation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- **Creating Up-to-Date Template Libraries** – Maintain modern templates for repeated use.
+- **Preparing Client-Specific Templates from Datasets** – Generate personalized templates for different clients.
+- **Automating Recurring Document Creation** – Populate templates with fresh CSV data for regular reports.
+- **Formatting CSV Data for Enterprise-Wide Template Use** – Ensure consistent style across documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- **Java DOCX/DOTX APIs** – Use Java libraries to programmatically generate DOTX templates.
+- **CSV-to-Template Mapping Engines** – Link CSV fields to template placeholders.
+- **Batch CSV-to-DOTX Conversion Tools** – Automate large-scale template generation.
+- **Java-Based Content Personalization Systems** – Create tailored templates for specific audiences.
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -110,6 +114,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
           </div>
       </div>
   </div>
+
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}

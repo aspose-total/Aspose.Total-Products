@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EMLX files** to **RTF (Rich Text Format)** preserves email formatting in a lightweight, widely compatible format.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - Sharing formatted email text across platforms  
 - Preserving rich text formatting from emails  
 - Creating cross-platform email archives  
 - Preparing formatted reports from Apple Mail  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - Bulk RTF generation from EMLX data  
 - Email-to-RTF pipelines for compliance archiving  
 - Integration with enterprise reporting workflows  
 - Lightweight formatted document generation  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -33,25 +33,25 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Converting emails to DOCM allows embedding of macros, making it suitable for advanced workflows and automated document processing.*
 
-### ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 * Storing emails with embedded business logic or templates in DOCM
 * Automating report generation from email content using macros
 * Standardizing communication templates with reusable macro-enabled documents
 * Creating automated workflows for recurring tasks (e.g., financial updates, status reports)
 
-### ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 * Auto-generate macro-enabled DOCM reports from email data
 * Bulk conversion of client emails to DOCM for dynamic reporting
 * Automating notification-to-document pipelines with embedded scripts
 * Email-to-DOCM integration for enterprise workflow automation
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
-
-
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

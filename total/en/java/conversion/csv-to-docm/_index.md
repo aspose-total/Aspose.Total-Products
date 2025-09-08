@@ -9,25 +9,7 @@ informat: CSV
 outformat: DOCM
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
-
-{{% blocks/products/pf/feature-page-summary %}}
-Converting CSV to DOCM (Macro-Enabled Word Document) is vital for creating interactive, automated reports from structured datasets. DOCM files support VBA macros, enabling advanced automation such as dynamic calculations, conditional formatting, and data-driven document updates.
-
-## ✅ Key Use Cases
-- **Automated Report Generation with Embedded VBA Macros** – Generate interactive reports with built-in logic.
-- **Data-Driven Business Dashboards in Word** – Create macro-enabled dashboards for performance tracking.
-- **Interactive Forms Populated from CSV Data** – Pre-fill Word forms with structured information.
-- **Custom Document Automation for Enterprises** – Enable macro workflows for recurring reporting tasks.
-
-## ⚙️ Automation Scenarios
-- **Java-Based DOCM Creation Libraries** – Programmatically generate macro-enabled Word files.
-- **CSV-to-DOCM Converters with Macro Injection** – Embed automation scripts during document creation.
-- **Integration with Business Intelligence Systems** – Automatically produce macro-enabled reports from analytics platforms.
-- **Java-Triggered Macro Workflows for Post-Processing** – Trigger advanced formatting or data validation after generation.
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to DOCM or Online App" h2="On Premise Java API to Export CSV to DOCM or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -63,6 +45,28 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <iframe title="Free csv to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting CSV to DOCM (Macro-Enabled Word Document) is vital for creating interactive, automated reports from structured datasets. DOCM files support VBA macros, enabling advanced automation such as dynamic calculations, conditional formatting, and data-driven document updates.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- **Automated Report Generation with Embedded VBA Macros** – Generate interactive reports with built-in logic.
+- **Data-Driven Business Dashboards in Word** – Create macro-enabled dashboards for performance tracking.
+- **Interactive Forms Populated from CSV Data** – Pre-fill Word forms with structured information.
+- **Custom Document Automation for Enterprises** – Enable macro workflows for recurring reporting tasks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- **Java-Based DOCM Creation Libraries** – Programmatically generate macro-enabled Word files.
+- **CSV-to-DOCM Converters with Macro Injection** – Embed automation scripts during document creation.
+- **Integration with Business Intelligence Systems** – Automatically produce macro-enabled reports from analytics platforms.
+- **Java-Triggered Macro Workflows for Post-Processing** – Trigger advanced formatting or data validation after generation.
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -110,6 +114,7 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
           </div>
       </div>
   </div>
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}

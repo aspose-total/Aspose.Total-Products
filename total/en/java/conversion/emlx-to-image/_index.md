@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EMLX (Apple Mail Email Files)** into a generic **IMAGE format** ensures compatibility with a wide range of systems, providing a flexible approach to archiving and sharing emails visually.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Universal Viewing** → Ensure email content is viewable as images on any device or system.  
 - **Archiving & Storage** → Convert to IMAGE formats for long-term storage and backups.  
@@ -44,7 +44,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Publishing** → Insert email content into documents, presentations, or online portals.  
 - **Secure Sharing** → Distribute messages as static images instead of editable text.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **Generic EMLX-to-Image Pipelines** → Automate conversion to system-compatible image files.  
 - **Enterprise Workflows** → Integrate email-to-image in compliance and reporting systems.  
@@ -53,7 +54,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Secure Archives** → Save sensitive messages in unalterable image formats.  
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

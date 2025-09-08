@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **EMLX files** can be converted into **Word formats (DOC/DOCX)** for editing, archiving, and professional documentation.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - Editing emails in Microsoft Word  
 - Preparing professional reports from emails  
 - Creating shareable documentation from Apple Mail  
 - Preserving formatted email data for compliance  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - Bulk EMLX-to-Word automation pipelines  
 - Archiving and compliance-ready workflows  
 - AI-based summarization after conversion  
 - Enterprise-grade reporting with Word outputs  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

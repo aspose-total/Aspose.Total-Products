@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EML** to **JPEG (Joint Photographic Experts Group)** creates a compressed image representation of an email.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - **Compact Archiving**: Store email snapshots in smaller file sizes.  
 - **Cross-Device Sharing**: Ensure compatibility across all platforms and apps.  
 - **Visual Documentation**: Include email screenshots in reports and manuals.  
 - **Social Media Sharing**: Share emails visually without forwarding.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - **Batch JPEG Export**: Convert large email archives into compressed JPEG images.  
 - **Mobile Access**: Generate lightweight email snapshots for smartphones.  
 - **Compliance Automation**: Store emails as JPEG records for easy access.  
 - **Image Indexing**: Build searchable image-based archives of email content.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< blocks/products/pf/agp/about-autogen-total >}}

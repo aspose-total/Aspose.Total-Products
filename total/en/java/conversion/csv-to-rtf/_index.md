@@ -9,24 +9,7 @@ informat: CSV
 outformat: RTF
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
-
-{{% blocks/products/pf/feature-page-summary %}}
-Converting **CSV** to **RTF (Rich Text Format)** allows structured datasets to be transformed into visually styled, cross-platform documents. This process is crucial for creating universally accessible reports, invoices, and archives that maintain both data integrity and formatting consistency across different operating systems and applications.
-
-### ✅ Key Use Cases
-- Generating universally readable business reports from raw CSV datasets  
-- Creating portable invoices with rich text formatting  
-- Preparing styled text files for secure document exchange  
-- Producing offline content archives for compliance and backup  
-
-### ⚙️ Automation Scenarios
-- Generating RTF files automatically from database exports  
-- Using CSV-to-RTF batch converters for mass document creation  
-- Applying Java-based template styling engines for branded documents  
-- Integrating automated RTF generation into enterprise workflows  
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to RTF or Online App" h2="On Premise Java API to Export CSV to RTF or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
@@ -63,6 +46,27 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <iframe title="Free csv to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting **CSV** to **RTF (Rich Text Format)** allows structured datasets to be transformed into visually styled, cross-platform documents. This process is crucial for creating universally accessible reports, invoices, and archives that maintain both data integrity and formatting consistency across different operating systems and applications.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- Generating universally readable business reports from raw CSV datasets  
+- Creating portable invoices with rich text formatting  
+- Preparing styled text files for secure document exchange  
+- Producing offline content archives for compliance and backup  
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- Generating RTF files automatically from database exports  
+- Using CSV-to-RTF batch converters for mass document creation  
+- Applying Java-based template styling engines for branded documents  
+- Integrating automated RTF generation into enterprise workflows  
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

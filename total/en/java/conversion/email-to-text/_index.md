@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails to **plain text (.txt)** ensures that the essential content of messages is extracted in the simplest, most portable form. This format strips away unnecessary formatting, making the data lightweight, searchable, and highly compatible across platforms.  
 
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - **Archiving & Compliance**: Store emails in text form for lightweight, long-term archiving.  
 - **E-Discovery & Legal**: Extract only the raw text for investigations or litigation support.  
 - **Data Mining & Analytics**: Prepare unstructured email text for NLP, AI, or search indexing.  
@@ -45,14 +45,16 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Offline Access**: Read emails on devices or applications that don’t support rich formatting.  
 
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - **Batch Export**: Convert thousands of emails into `.txt` for storage or analysis pipelines.  
 - **Content Extraction**: Automate workflows to strip metadata, HTML, and signatures, keeping only clean text.  
 - **Search Engine Indexing**: Create automated `.txt` outputs for building searchable archives.  
 - **Email Parsing Pipelines**: Use `.txt` output as an intermediate format for structured data extraction.  
 - **Compliance Automation**: Auto-generate plain text logs from incoming and outgoing emails.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

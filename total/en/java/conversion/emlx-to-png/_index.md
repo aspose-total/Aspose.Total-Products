@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EMLX (Apple Mail Email Files)** to **PNG (Portable Network Graphics)** ensures high-quality images with lossless compression, making it ideal for archiving and publishing email content.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **High-Quality Archiving** → Store emails as sharp, lossless PNGs.  
 - **Legal & Compliance Records** → Use PNG for tamper-proof communication storage.  
@@ -45,7 +45,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Image Editing** → Use PNG where transparency or editing is required.  
 
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **Batch EMLX-to-PNG Pipelines** → Convert large volumes of emails into PNGs automatically.  
 - **Compliance Workflows** → Integrate PNG conversion for legal record-keeping.  
@@ -54,7 +55,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Secure Digital Archives** → Use PNG for permanent, unaltered records.  
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

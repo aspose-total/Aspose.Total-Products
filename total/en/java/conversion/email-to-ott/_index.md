@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **OpenDocument Text Template (OTT)** allows organizations to reuse and standardize email layouts in open-source office environments. With Email Java API, OTT exports help streamline consistency in documentation.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Template Creation**: Turn emails into reusable document templates.  
 - **Standardized Branding**: Maintain consistent layouts across communications.  
@@ -44,7 +44,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Policy Documents**: Convert HR or compliance emails into templates for reuse.  
 - **Training Manuals**: Build OTT templates from instructional emails.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Template Automation**: Convert important communications into reusable OTT templates.  
 - **HR & Legal**: Create document templates directly from official emails.  
@@ -52,7 +53,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Batch Generation**: Mass-convert standard communications into OTT templates.  
 - **Cross-Platform Sharing**: Enable OTT use in open-source office platforms.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

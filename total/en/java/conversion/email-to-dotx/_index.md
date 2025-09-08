@@ -33,23 +33,25 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Converting emails to DOTX ensures standardized, macro-free templates, ideal for compliance and clean document creation.*
 
-### ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 * Turning structured emails into safe, reusable templates
 * Standardizing corporate documentation without embedded macros
 * Preparing branding-consistent templates for client-facing communication
 * Transforming repetitive support or announcement emails into template libraries
 
-### ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 * Automated creation of DOTX templates from repetitive email workflows
 * Batch conversion of customer support or HR emails into reusable templates
 * Integration with documentation systems to generate DOTX templates
 * Scheduled conversion of communication archives into DOTX for consistency
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

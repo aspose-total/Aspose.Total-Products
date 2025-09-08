@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **OpenDocument Text (ODT)** ensures compatibility with open-source office suites like OpenOffice. With Email Java API, businesses can automate workflows for open-standard documentation.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Open-Source Workflows**: Store emails in formats compatible with LibreOffice.  
 - **Collaboration**: Share editable emails without dependency on Microsoft Word.  
@@ -46,7 +46,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Vendor Neutrality**: Maintain archives independent of proprietary software.  
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Archiving Pipelines**: Convert business emails into ODT for compliance.  
 - **Cross-Platform Collaboration**: Auto-share converted ODT emails across open-source office systems.  
@@ -55,7 +56,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Batch Exports**: Convert bulk mailboxes into ODT for universal access.  
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

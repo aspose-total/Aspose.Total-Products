@@ -9,25 +9,7 @@ informat: CSV
 outformat: DOTM
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
-
-{{% blocks/products/pf/feature-page-summary %}}
-Converting CSV to DOTM (Macro-Enabled Word Template) enables enterprises to automate the creation of interactive, macro-driven templates from structured datasets. DOTM templates can execute VBA macros, making them ideal for repetitive, logic-driven document generation.
-
-## ✅ Key Use Cases
-- **Generating Dynamic Document Templates with Embedded Macros** – Enable logic-based content updates.
-- **Automating Recurring Business Reports** – Schedule macro-enabled template population.
-- **Creating Macro-Driven Forms Prefilled with CSV Data** – Reduce manual entry and improve accuracy.
-- **Enterprise-Level Batch Document Preparation** – Automate production of multiple template-based documents.
-
-## ⚙️ Automation Scenarios
-- **Java-Based DOTM Template Generation Tools** – Build macro-enabled templates programmatically.
-- **CSV Data Binding with Macro-Enabled Templates** – Automatically fill placeholders with CSV data.
-- **Integration with Workflow Automation Software** – Trigger document creation from workflow steps.
-- **Scheduled Template Updates via Java Applications** – Keep templates current with scheduled data refreshes.
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to DOTM or Online App" h2="On Premise Java API to Export CSV to DOTM or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -63,6 +45,28 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <iframe title="Free csv to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting CSV to DOTM (Macro-Enabled Word Template) enables enterprises to automate the creation of interactive, macro-driven templates from structured datasets. DOTM templates can execute VBA macros, making them ideal for repetitive, logic-driven document generation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- **Generating Dynamic Document Templates with Embedded Macros** – Enable logic-based content updates.
+- **Automating Recurring Business Reports** – Schedule macro-enabled template population.
+- **Creating Macro-Driven Forms Prefilled with CSV Data** – Reduce manual entry and improve accuracy.
+- **Enterprise-Level Batch Document Preparation** – Automate production of multiple template-based documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- **Java-Based DOTM Template Generation Tools** – Build macro-enabled templates programmatically.
+- **CSV Data Binding with Macro-Enabled Templates** – Automatically fill placeholders with CSV data.
+- **Integration with Workflow Automation Software** – Trigger document creation from workflow steps.
+- **Scheduled Template Updates via Java Applications** – Keep templates current with scheduled data refreshes.
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -110,6 +114,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
           </div>
       </div>
   </div>
+
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}

@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **EMLX emails** to **DOCM (Word Macro-Enabled Document)** ensures emails are preserved in editable formats with embedded automation.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 - Embedding email text into macro-enabled Word templates  
 - Automating workflows using Word macros on email data  
 - Preparing dynamic reports from EMLX messages  
 - Converting emails into reusable, interactive Word files  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 - Auto-generated DOCM reports from bulk emails  
 - Compliance-driven workflows with embedded macros  
 - Integration with enterprise document automation systems  
 - EMLX-to-DOCM pipelines for legal or financial documentation  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

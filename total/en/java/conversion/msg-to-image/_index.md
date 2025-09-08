@@ -33,22 +33,24 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **MSG to IMAGE** provides flexibility to save emails into various standard image formats like PNG, JPEG, BMP, or TIFF for different use cases.
 
-### ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 * Universal accessibility of email snapshots without an email client.
 * Multi-format image support for document workflows.
 * Quick embedding of email content in multimedia presentations.
 * Legal and compliance record-keeping with image-based archiving.
 
-### ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 * Multi-output pipelines converting MSG into multiple image types.
 * Enterprise-level archiving where different image formats are required.
 * Automated backup systems generating image snapshots of emails.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

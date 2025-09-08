@@ -9,25 +9,7 @@ informat: CSV
 outformat: MOBI
 otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
-
-{{% blocks/products/pf/feature-page-summary %}}
-Converting **CSV** to **MOBI (Mobipocket eBook)** enables transforming structured datasets into portable, e-reader-friendly formats ideal for Kindle and other eBook devices. This process is valuable for turning CSV-based catalogs, datasets, and manuals into compact, searchable, and offline-accessible resources that improve reader engagement and data distribution efficiency.
-
-## ✅ Key Use Cases
-- Publishing CSV-based product or service catalogs as eBooks
-- Converting datasets into quick-reference handbooks
-- Creating offline training manuals for Kindle devices
-- Distributing structured content in e-reader formats for accessibility
-
-## ⚙️ Automation Scenarios
-- Java-based MOBI generation libraries for direct CSV transformation
-- CSV-to-MOBI batch processing tools for large-scale publishing
-- Integration with eBook publishing platforms to streamline distribution
-- Java-driven catalog publishing workflows for automated content deployment
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export CSV to MOBI or Online App" h2="On Premise Java API to Export CSV to MOBI or online without relying on Microsoft Excel<sup>&reg;</sup>">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -63,6 +45,28 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 <iframe title="Free csv to docx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Converting **CSV** to **MOBI (Mobipocket eBook)** enables transforming structured datasets into portable, e-reader-friendly formats ideal for Kindle and other eBook devices. This process is valuable for turning CSV-based catalogs, datasets, and manuals into compact, searchable, and offline-accessible resources that improve reader engagement and data distribution efficiency.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+- Publishing CSV-based product or service catalogs as eBooks
+- Converting datasets into quick-reference handbooks
+- Creating offline training manuals for Kindle devices
+- Distributing structured content in e-reader formats for accessibility
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+- Java-based MOBI generation libraries for direct CSV transformation
+- CSV-to-MOBI batch processing tools for large-scale publishing
+- Integration with eBook publishing platforms to streamline distribution
+- Java-driven catalog publishing workflows for automated content deployment
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -110,6 +114,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
           </div>
       </div>
   </div>
+
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}

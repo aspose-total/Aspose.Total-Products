@@ -33,12 +33,12 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **TIFF** format is widely used in compliance-heavy industries due to its support for multi-page documents and archival standards. With Java Email API, emails can be transformed into TIFF for secure and regulatory storage.
 
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Legal Archiving**: Store emails in TIFF for admissible legal evidence.  
 - **Healthcare Records**: Convert medical communications into TIFF for HIPAA compliance.  
@@ -48,14 +48,16 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Compliance Pipelines**: Convert incoming/outgoing emails into TIFF automatically.  
 - **Batch Export**: Archive full mailboxes as multi-page TIFF collections.  
 - **Legal Discovery**: Provide court-compliant TIFF files of email evidence.  
 - **Enterprise Records**: Store mission-critical communication in TIFF archives.  
 - **Secure Document Management**: Feed TIFF email exports into enterprise DMS systems.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< blocks/products/pf/agp/about-autogen-total >}}

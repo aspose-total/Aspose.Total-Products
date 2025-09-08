@@ -33,11 +33,11 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Exporting emails into **Word documents (DOC/DOCX)** allows for editing, annotation, and integration with business reports. With Email Java API organizations can transform emails into fully editable documents.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Editable Records**: Convert important communication into Word for contract drafting.  
 - **Case Documentation**: Attach email threads in editable form to legal case files.  
@@ -45,7 +45,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Collaboration**: Share editable versions of email discussions with teams.  
 - **Knowledge Management**: Store email content in centralized Word-based repositories.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Batch Processing**: Convert selected emails into Word for project documentation.  
 - **Contract Automation**: Save negotiation emails as DOCX for inclusion in agreements.  
@@ -53,7 +54,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Collaboration Tools**: Sync Word-converted emails with MS Teams or SharePoint.  
 - **Template Integration**: Insert email content into corporate Word templates.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

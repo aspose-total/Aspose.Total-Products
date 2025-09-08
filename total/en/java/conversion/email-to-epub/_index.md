@@ -33,10 +33,10 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting emails into **EPUB** makes them portable and readable across eReaders and mobile devices. With Email Java API, developers can automate newsletter, research, and communication conversion into structured eBooks.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Newsletter Archiving**: Save marketing or subscription emails into EPUB for easy reading.  
 - **Research Material**: Students and researchers compile academic correspondence into EPUB collections.  
@@ -44,7 +44,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Offline Reading**: Access communication in EPUB format on Kindle or mobile apps.  
 - **Content Distribution**: Repurpose email campaigns into downloadable eBooks.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Automated Newsletter Export**: Convert daily/weekly newsletters into EPUB.  
 - **Research Workflows**: Store email conversations with professors or collaborators in EPUB format.  
@@ -52,7 +53,8 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 - **Publishing Automation**: Repurpose marketing drip campaigns into branded EPUBs.  
 - **Knowledge Repositories**: Maintain structured EPUB archives of internal communications.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

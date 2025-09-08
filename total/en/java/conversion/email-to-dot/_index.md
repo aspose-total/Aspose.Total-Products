@@ -33,23 +33,25 @@ Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.c
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Converting emails to DOT creates reusable templates, allowing organizations to transform email structures into standardized documents.*
 
-### ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 * Turning repetitive emails into editable Word templates
 * Standardizing company communication (e.g., HR, legal, client onboarding)
 * Preparing training or instructional templates from email text
 * Streamlining creation of repetitive reports or letters
 
-### ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 * Automated conversion of structured emails to DOT templates
 * Bulk creation of template libraries from recurring communications
 * Email-to-DOT pipelines for HR or sales teams
 * Integration with workflow tools to generate reusable templates
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 
