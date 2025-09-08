@@ -73,14 +73,14 @@ After you convert DOT to XLSX, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLSX (Excel Open XML Workbook)** supports modern, portable, and cloud-compatible spreadsheet workflows, ensuring cross-platform accessibility and collaboration.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Enterprise data exchange  
 - Standardized reporting workflows  
 - Cloud-based Excel collaboration  
 - Modernized spreadsheet templates  
 - Cross-platform analytics  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLSX batch conversion  
 - Excel cloud workflows  

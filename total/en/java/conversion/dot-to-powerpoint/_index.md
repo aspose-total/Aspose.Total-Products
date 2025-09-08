@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to POWERPOINT conversion with water
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PowerPoint** allows fast creation of ready-to-use presentation slides from Word templates, streamlining reporting and training content generation.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Quick document-to-presentation workflows  
 - Business reporting  
 - Educational slides  
 - Proposal generation  
 - Training content creation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PowerPoint slide generation  
 - Automated presentation building  

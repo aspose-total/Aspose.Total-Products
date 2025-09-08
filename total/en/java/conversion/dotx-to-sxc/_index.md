@@ -73,14 +73,14 @@ After converting DOTX to SXC, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Transforming **DOTX (Word Template)** into **SXC (StarOffice Calc)** is valuable for creating structured spreadsheets from standardized templates. This conversion supports legacy systems, open-source workflows, and interoperability across platforms.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Cross-platform document processing  
 - Legacy office suite compatibility  
 - Enterprise archival and compliance reporting  
 - Open-source data workflows  
 - Interoperable reporting across systems  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-SXC pipelines for data transformation  
 - Batch document-to-spreadsheet conversions  

@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to PPS conversion with watermark. I
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPS (PowerPoint Show)** creates auto-starting presentations directly from Word templates for seamless delivery in meetings and events.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business pitch decks  
 - Educational lecture slides  
 - Event presentations  
 - Training shows  
 - Auto-running product demos  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPS conversion  
 - Automated slideshow generation  

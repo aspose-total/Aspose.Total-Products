@@ -73,14 +73,14 @@ After converting DOTX to TSV, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX (Word Template)** to **TSV (Tab-Separated Values)** ensures structured tabular data extraction, making it lightweight, portable, and ready for integration with modern cloud and backend systems.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Data migration from Word templates  
 - Spreadsheet import/export with TSV  
 - Backend database integrations  
 - Cloud-compatible tabular data processing  
 - Lightweight reporting and analytics  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-TSV pipelines for structured exports  
 - Bulk template-to-data conversion  

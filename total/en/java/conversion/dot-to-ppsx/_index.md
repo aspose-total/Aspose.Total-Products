@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to PPSX conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPSX (PowerPoint Open XML Show)** creates modern, XML-based auto-running presentations suitable for cloud-enabled and standardized enterprise events.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Cloud-enabled presentation shows  
 - Business demo slides  
 - Academic lectures  
 - Standardized corporate presentations  
 - Scalable event slide systems  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPSX conversion  
 - Cloud-ready slideshow automation  

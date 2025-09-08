@@ -71,14 +71,14 @@ Using the API, you can also perform DOCX file to PPSX conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPSX** is key for sharing polished, non-editable slideshow presentations that retain professional formatting from original documents.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Investor pitches  
 - Training distribution  
 - Educational slideshows  
 - Marketing campaigns  
 - Self-running event presentations  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Automated DOCX-to-PPSX show creation  
 - Document-to-slideshow publishing pipelines  

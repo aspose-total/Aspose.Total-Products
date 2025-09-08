@@ -71,14 +71,14 @@ Using the API, you can also perform DOCX file to POTX conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **POTX (PowerPoint Open XML Template)** is crucial for generating modern, reusable templates that preserve structured content and ensure compatibility across different Office versions.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Standardizing modern PowerPoint templates  
 - Ensuring compatibility across Office versions  
 - Migrating structured text into design-ready templates  
 - Supporting sales and marketing collateral  
 - Streamlining training and workshop presentations  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-POTX template automation  
 - Modern presentation template pipelines  

@@ -73,14 +73,14 @@ After you convert DOTX to XLS, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX (Word Template)** to **XLS (Excel Spreadsheet)** enables businesses to transform standardized document structures into actionable spreadsheets. This is especially important for legacy systems, enterprise reporting, and structured business processes that still rely on the classic Excel format.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy system compatibility with older Excel versions  
 - Enterprise reporting workflows  
 - Data collection and processing from standardized templates  
 - Business record-keeping and compliance reporting  
 - Spreadsheet-driven processes across industries  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLS automation pipelines  
 - Automated reporting in legacy Excel formats  

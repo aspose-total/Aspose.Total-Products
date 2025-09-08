@@ -70,13 +70,13 @@ Using the API, you can also perform DOCX file to PPT conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPT (Legacy PowerPoint Presentation)** ensures compatibility with older PowerPoint versions, making it essential for legacy enterprise and institutional workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy enterprise workflows  
 - Government and institutional presentations  
 - Training content for older software  
 - Compatibility-focused presentation sharing  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Automated DOCX-to-PPT pipelines  
 - Legacy system presentation support  

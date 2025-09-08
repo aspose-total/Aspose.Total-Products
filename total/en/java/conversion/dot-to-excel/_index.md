@@ -66,14 +66,14 @@ After you convert DOT to EXCEL, you can also encrypt and password protect your E
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **Excel (XLS/XLSX)** transforms Word templates into interactive spreadsheets suitable for analysis, reporting, and workflow automation in enterprise environments.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reporting  
 - Budget planning  
 - Data analysis templates  
 - Workflow optimization  
 - Enterprise spreadsheets  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-Excel automation  
 - Spreadsheet-ready workflows  

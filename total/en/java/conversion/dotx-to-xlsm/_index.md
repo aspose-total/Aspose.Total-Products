@@ -73,14 +73,14 @@ After you convert DOTX to XLSM, you can also encrypt and password protect your X
 {{< blocks/products/pf/agp/feature-section >}}
 Transforming **DOTX (Word Template)** into **XLSM (Macro-enabled Excel Workbook)** unlocks automation by embedding powerful macros into Excel spreadsheets. This is ideal for advanced business workflows, automated financial modeling, and enterprise task automation.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated financial modeling from templates  
 - Workflow automation across departments  
 - Advanced data processing inside Excel  
 - Business macro integration for recurring tasks  
 - Document-driven task automation with macros  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLSM macro pipelines  
 - Automated spreadsheet generation with macros  

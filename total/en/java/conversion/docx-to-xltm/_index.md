@@ -71,14 +71,14 @@ After converting DOCX to XLTM, [Aspose.Cells for Java](https://products.aspose.c
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLTM (Excel Macro-Enabled Template)** is important for building reusable macro-enabled spreadsheet templates that embed automation logic derived from documents.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automating repetitive workflows  
 - Creating enterprise-ready macro templates  
 - Migrating macro-based logic from DOCX to Excel  
 - Supporting financial and analytical models  
 - Streamlining reporting  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLTM macro-enabled automation  
 - Template generation pipelines  

@@ -73,14 +73,14 @@ After you convert DOT to XLTX, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLTX (Excel Template Open XML)** is important for building modern, reusable Excel templates from Word documents, supporting cloud workflows and scalable reporting frameworks.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Standardized reporting templates  
 - Cloud-compatible Excel workflows  
 - Enterprise-ready template conversions  
 - Data entry standardization  
 - Scalable reporting  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLTX template generation  
 - Excel automation pipelines  

@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to POT conversion with watermark. I
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **POT (PowerPoint Template)** is essential for transforming Word templates into reusable presentation frameworks, ensuring consistency and scalability in slide design.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Standardized presentation formats  
 - Consistent branding in slides  
 - Enterprise-ready template sharing  
 - Academic and training slide templates  
 - Scalable presentation frameworks  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-POT presentation template generation  
 - PowerPoint template automation  

@@ -73,13 +73,13 @@ After converting DOCX to XLAM, [Aspose.Cells for Java](https://products.aspose.c
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLAM (Excel Add-In)** is important for transforming Word-based macros into reusable Excel add-ins. This enables enterprises to deploy automation logic, financial models, and analytical workflows within Excel efficiently.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Migrating VBA macros from Word to Excel  
 - Building enterprise-ready automation add-ins  
 - Supporting financial and analytical models  
 - Enabling macro-driven productivity in Excel  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLAM macro conversion  
 - Enterprise add-in deployment  

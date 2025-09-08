@@ -70,13 +70,13 @@ Using the API, you can also perform DOCX file to ODP conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **ODP (OpenDocument Presentation)** transforms Word content into open-standard slide decks. This is ideal for OpenOffice presentations, academic environments, and government compliance workflows.
 
-#{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Creating slides from **DOCX reports**  
 - Using ODP for **OpenOffice**  
 - Archiving DOCX presentations in **open formats**  
 - Academic or **government compliance reporting**  
 
-#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCX-to-ODP bulk presentation generation**  
 - **Automated lecture/pitch deck creation**  

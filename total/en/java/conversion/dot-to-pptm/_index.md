@@ -75,14 +75,14 @@ Using the API, you can also perform DOT file to PPTM conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPTM (PowerPoint Macro-Enabled Presentation)** produces interactive presentation files with macros, suitable for automation-driven reporting, proposals, and training slides.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated reporting slides  
 - Enterprise macro-driven workflows  
 - Training presentations  
 - Dynamic business proposals  
 - Interactive lectures  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPTM conversion with macros  
 - Macro-enabled presentation automation  

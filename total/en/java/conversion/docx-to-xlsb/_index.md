@@ -71,14 +71,14 @@ After you convert DOCX to XLSB, you can also encrypt and password protect your X
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLSB (Excel Binary Workbook)** is important for handling large-scale spreadsheet data efficiently, providing faster performance and optimized storage for text-heavy and complex datasets.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - High-performance data storage  
 - Importing text-heavy documents into Excel  
 - Financial modeling with large datasets  
 - Enterprise reporting  
 - Faster load/save operations  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLSB bulk conversion  
 - Optimized spreadsheet workflows  

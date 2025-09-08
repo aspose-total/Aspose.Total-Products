@@ -67,14 +67,14 @@ After converting DOT to ODS, [Aspose.Cells for Java](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **ODS (OpenDocument Spreadsheet)** is essential for creating structured, open-source spreadsheets from Word templates, supporting analytics, reporting, and collaboration.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Open-source business workflows  
 - Spreadsheet-ready reporting  
 - Data collaboration  
 - Enterprise analytics  
 - Cross-platform compatibility  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-ODS template automation  
 - Open-source reporting workflows  

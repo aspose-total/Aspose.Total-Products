@@ -73,14 +73,14 @@ Using the API, you can also perform DOCX file to PPTM conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPTM (Macro-Enabled PowerPoint Presentation)** allows embedding automation and macro logic directly into slides for advanced workflow presentations.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Interactive business dashboards  
 - Workflow-driven slides  
 - Macro-enabled learning modules  
 - Automated reporting presentations  
 - Enterprise training systems  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-PPTM macro-enabled workflows  
 - Enterprise dashboard pipelines  

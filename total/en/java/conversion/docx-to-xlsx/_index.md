@@ -64,14 +64,14 @@ After you convert DOCX to XLSX, you can also encrypt and password protect your X
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLSX (Excel Open XML Spreadsheet)** is essential for modern, structured, and widely compatible spreadsheet workflows, supporting cloud collaboration and scalable data analysis.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Creating data-driven spreadsheets  
 - Transforming reports into Excel format  
 - Financial planning  
 - Enterprise analytics  
 - Sharing structured data  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLSX automated conversion  
 - Cloud-based workflows  

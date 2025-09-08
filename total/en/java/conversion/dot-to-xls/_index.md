@@ -66,14 +66,14 @@ After you convert DOT to XLS, you can also encrypt and password protect your XLS
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLS (Excel Binary Format)** is essential for creating structured, analyzable spreadsheets directly from Word templates, ensuring legacy compatibility and efficient offline workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy financial reporting  
 - Enterprise record-keeping  
 - Offline-compatible spreadsheets  
 - Government/compliance reporting  
 - Structured tabular data extraction  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLS data migration  
 - Batch template-to-spreadsheet automation  

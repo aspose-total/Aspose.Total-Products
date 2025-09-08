@@ -70,14 +70,14 @@ Using the API, you can also perform DOCX file to PPTX conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPTX (Modern PowerPoint Presentation)** is essential for creating editable, modern slides that are cloud-ready and easily shareable.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reports  
 - Educational content  
 - Marketing presentations  
 - Collaborative corporate decks  
 - Visual storytelling  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Automated DOCX-to-PPTX pipelines  
 - Cloud-ready presentation generation  

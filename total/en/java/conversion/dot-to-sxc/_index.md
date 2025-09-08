@@ -72,14 +72,14 @@ After converting DOT to SXC, [Aspose.Cells for Java](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **SXC (StarOffice Calc Spreadsheet)** is vital for ensuring legacy spreadsheet compatibility and enabling open-source office workflows, allowing organizations to preserve structured data across platforms.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy document-to-spreadsheet migration  
 - Cross-platform spreadsheet compatibility  
 - OpenOffice/LibreOffice workflows  
 - Data preservation in open formats  
 - Enterprise document conversions  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-SXC batch processing  
 - Legacy-to-modern office workflow integration  

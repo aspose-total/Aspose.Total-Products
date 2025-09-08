@@ -75,14 +75,14 @@ Using the API, you can also perform DOCX file to POTM conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **POTM (PowerPoint Macro-Enabled Template)** is essential for building presentation templates that leverage macro automation directly from structured document content. This allows enterprises to create reusable, automated slide decks that reduce repetitive formatting and streamline workflow-driven presentations.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automating repetitive slide formatting  
 - Creating enterprise-ready macro templates  
 - Migrating macro-supported workflows from DOCX to PowerPoint  
 - Supporting interactive training modules  
 - Streamlining recurring business presentations  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-POTM macro-enabled automation  
 - Slide template generation pipelines  

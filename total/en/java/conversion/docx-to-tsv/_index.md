@@ -70,13 +70,13 @@ After converting DOCX to TSV, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **TSV (Tab-Separated Values)** is vital for extracting structured tabular data from Word documents into a lightweight, portable format suitable for analytics, database integration, and system interoperability.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Data import/export between systems  
 - Simplifying database uploads  
 - Processing structured reports  
 - Enabling text-based analytics  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-TSV data pipelines  
 - Bulk content extraction  

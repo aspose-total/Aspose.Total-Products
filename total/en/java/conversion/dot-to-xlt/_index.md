@@ -73,14 +73,14 @@ After you convert DOT to XLT, you can also encrypt and password protect your XLT
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLT (Excel Template)** enables creation of reusable spreadsheet templates from Word documents, standardizing workflows across departments and teams.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Departmental reporting templates  
 - Standardized invoicing  
 - Enterprise-ready templates  
 - Process documentation  
 - Scalable reporting formats  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLT template automation  
 - Excel workflow standardization  

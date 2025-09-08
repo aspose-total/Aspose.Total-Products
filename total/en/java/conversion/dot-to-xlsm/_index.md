@@ -71,14 +71,14 @@ After you convert DOT to XLSM, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLSM (Excel Macro-Enabled Workbook)** allows building reusable, automated Excel workbooks from Word templates, enabling complex calculations and workflow automation.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated financial dashboards  
 - Macro-enabled reporting workflows  
 - Enterprise productivity templates  
 - Complex data analysis automation  
 - Process-driven spreadsheet models  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLSM conversion with macros  
 - Workflow automation pipelines  

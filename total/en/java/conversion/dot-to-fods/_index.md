@@ -73,14 +73,14 @@ After converting DOT to FODS, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **FODS (Flat XML ODF Spreadsheet)** is important for generating open-source, XML-based spreadsheets from Word templates, supporting cross-platform and cloud workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - OpenDocument workflows  
 - Cloud-based spreadsheet processing  
 - Cross-platform compatibility  
 - Data sharing  
 - Long-term archiving  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-FODS automated pipelines  
 - Open-source workflow integration  

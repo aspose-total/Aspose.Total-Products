@@ -52,14 +52,14 @@ While you are converting DOT to JSON, you can also set range to your output JSON
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **JSON (JavaScript Object Notation)** allows Word templates to become structured, API-ready datasets for web applications, cloud automation, and enterprise integrations.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Web applications  
 - Data-driven automation  
 - Cloud APIs  
 - Enterprise software integrations  
 - Structured dataset generation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-JSON pipeline automation  
 - Template-to-API workflows  

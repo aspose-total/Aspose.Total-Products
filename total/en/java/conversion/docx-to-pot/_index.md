@@ -73,14 +73,14 @@ Using the API, you can also perform DOCX file to POT conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **POT (PowerPoint Template)** is essential for transforming Word documents into reusable presentation templates. This process ensures consistent slide design, standardized branding, and efficient migration of structured content into professional, repeatable PowerPoint formats.
 
-#{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Generating **consistent presentation templates** for corporate or educational use  
 - Standardizing **branding and corporate slide decks**  
 - Migrating structured **DOCX content into template-ready slides**  
 - Supporting **educational and training materials** with reusable designs  
 - Enabling **repeatable slide layouts** across multiple presentations  
 
-#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCX-to-POT template automation** for bulk processing  
 - **Presentation template pipelines** integrating Word content  

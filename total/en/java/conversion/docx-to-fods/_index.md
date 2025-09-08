@@ -73,13 +73,13 @@ After converting DOCX to FODS, [Aspose.Cells for Java](https://products.aspose.c
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **FODS (Flat XML ODF Spreadsheet)** supports open-source and standards-based spreadsheet workflows. This ensures compatibility with OpenOffice and produces diff-friendly, XML-based datasets for compliance and version control.
 
-#{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Interoperability with **LibreOffice & OpenOffice**  
 - Open-format **archiving of DOCX data**  
 - Creating **XML-based spreadsheet structures**  
 - Supporting **long-term compliance reporting**  
 
-#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCX-to-FODS open-source automation**  
 - **XML-based spreadsheet pipelines**  

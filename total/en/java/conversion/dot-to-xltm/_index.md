@@ -73,14 +73,14 @@ After converting DOT to XLTM, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLTM (Excel Macro-Enabled Template)** allows generating advanced, automation-ready templates, embedding macro-driven logic from Word documents for enterprise workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated template generation  
 - Enterprise-wide reporting macros  
 - Business process automation  
 - Dynamic invoicing templates  
 - Financial modeling  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLTM macro-driven automation  
 - Template pipelines  

@@ -73,13 +73,13 @@ After converting DOCX to SXC, [Aspose.Cells for Java](https://products.aspose.co
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **SXC (StarOffice Calc Spreadsheet)** is essential for enabling spreadsheet-based processing from Word documents, particularly in legacy and open-source office environments. This ensures structured tabular data can be preserved, migrated, and analyzed efficiently in StarOffice/LibreOffice systems.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Data migration to OpenOffice/LibreOffice  
 - Preserving structured tabular content from documents  
 - Enabling compatibility with StarOffice-based systems  
 - Supporting open document workflows  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-SXC batch conversion  
 - Legacy system integration  

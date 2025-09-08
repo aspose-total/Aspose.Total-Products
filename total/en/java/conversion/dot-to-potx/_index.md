@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to POTX conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **POTX (PowerPoint Open XML Template)** enables generation of modern, XML-based presentation templates suitable for cloud, multi-device, and scalable workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Cloud-ready presentation workflows  
 - Standardized corporate templates  
 - Education and training slides  
 - Multi-device template compatibility  
 - Scalable presentation design systems  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-POTX cloud conversion  
 - PowerPoint template automation  

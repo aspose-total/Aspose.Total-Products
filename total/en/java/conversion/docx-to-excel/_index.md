@@ -70,14 +70,14 @@ After you convert DOCX to Excel, you can also encrypt and password protect your 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **Excel (XLS/XLSX)** is important for structured reporting, enabling pivot tables, advanced calculations, and seamless integration with business workflows. This transformation turns Word tables into actionable spreadsheet data.
 
-#{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Exporting DOCX tables into **Excel**  
 - Enabling **pivot tables & charts**  
 - Creating **structured reports**  
 - Data consolidation for **enterprise use**  
 - Import-ready formats for **accounting and finance tools**  
 
-#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Bulk DOCX-to-Excel reporting automation**  
 - **Enterprise reporting pipelines**  

@@ -70,14 +70,14 @@ After converting DOT to CSV, [Aspose.Cells for Java](https://products.aspose.com
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **CSV (Comma-Separated Values)** is essential for transforming Word templates into lightweight, structured datasets that are easy to process, share, and import across multiple platforms.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Bulk data exports  
 - Database imports  
 - Spreadsheet-ready structures  
 - Lightweight data sharing  
 - Cloud-based integrations  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-CSV data pipelines  
 - Template-driven dataset generation  

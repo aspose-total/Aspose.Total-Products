@@ -73,14 +73,14 @@ Using the API, you can also perform DOCX file to PPS conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPS (PowerPoint Show)** allows creation of ready-to-play slideshow presentations, ideal for audiences that require polished, self-running content.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Conference presentations  
 - Client demos  
 - Automated sales pitches  
 - Educational lectures  
 - Investor meetings  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Auto DOCX-to-PPS slideshow pipelines  
 - Enterprise-ready show generation  

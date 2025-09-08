@@ -75,14 +75,14 @@ Using the API, you can also perform DOCX file to POWERPOINT conversion with wate
 {{< blocks/products/pf/agp/feature-section >}}
 Transforming **DOCX** to **PowerPoint** is vital for turning written documents, reports, or proposals into visually engaging presentations that effectively communicate ideas.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business presentations  
 - Classroom teaching  
 - Training modules  
 - Pitch decks  
 - Visual storytelling  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Batch DOCX-to-PowerPoint slide generation  
 - Enterprise reporting pipelines  

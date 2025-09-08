@@ -71,14 +71,14 @@ Using the API, you can also perform DOT file to PPSM conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPSM (PowerPoint Macro-Enabled Show)** enables automated, macro-driven presentations ideal for interactive demos, training simulations, and enterprise workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Interactive business demos  
 - Training simulations  
 - Macro-driven reporting slides  
 - Educational auto-run presentations  
 - Enterprise workflow-driven shows  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPSM conversion with macros  
 - Macro-enabled slideshow automation  

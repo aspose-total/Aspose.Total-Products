@@ -67,14 +67,14 @@ After you convert DOTX to XLSB, you can also encrypt and password protect your X
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX (Word Template)** to **XLSB (Excel Binary Workbook)** ensures high performance, reduced file sizes, and optimized storage when handling large-scale data transformations. It is especially useful for enterprise-scale reporting and business intelligence.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Large dataset handling with efficient Excel performance  
 - Enterprise-scale reporting and dashboards  
 - Faster spreadsheet processing in Excel  
 - Archival storage optimization with compressed binary files  
 - Business intelligence integration for high-volume data  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLSB data pipelines  
 - Compressed spreadsheet storage workflows  

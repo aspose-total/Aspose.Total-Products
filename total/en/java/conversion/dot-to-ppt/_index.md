@@ -71,14 +71,14 @@ Using the API, you can also perform DOT file to PPT conversion with watermark. I
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPT (PowerPoint Presentation)** generates editable presentation files from Word templates, supporting legacy systems and standard presentation workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reports  
 - Academic projects  
 - Sales presentations  
 - Corporate training slides  
 - Proposal generation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPT conversion  
 - Editable presentation automation  

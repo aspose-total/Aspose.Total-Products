@@ -73,14 +73,14 @@ Using the API, you can also perform DOT file to POTM conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **POTM (PowerPoint Macro-Enabled Template)** allows creating dynamic presentation templates with embedded macros, ideal for automated and interactive slide systems.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated training presentations  
 - Enterprise workflows with macros  
 - Standardized reporting presentations  
 - Interactive classroom materials  
 - Dynamic enterprise slide systems  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-POTM conversion with macros  
 - PowerPoint automation-ready templates  

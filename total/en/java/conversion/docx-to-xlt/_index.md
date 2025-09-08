@@ -72,14 +72,14 @@ After you convert DOCX to XLT, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLT (Excel Template)** allows creation of reusable spreadsheet templates from document content, standardizing enterprise reporting and automating repetitive workflows.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Standardizing business reporting  
 - Creating reusable templates  
 - Enterprise data entry frameworks  
 - Automating Excel workflows  
 - Consistent formatting across teams  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLT automated template creation  
 - Workflow standardization  

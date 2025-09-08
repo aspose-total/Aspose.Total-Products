@@ -71,14 +71,14 @@ Using the API, you can also perform DOCX file to PPSM conversion with watermark.
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **PPSM (Macro-Enabled PowerPoint Show)** is important for delivering interactive, macro-driven presentations that can automate tasks during runtime.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automating training modules  
 - Interactive product demos  
 - Macro-enabled dashboards  
 - Workflow-driven presentations  
 - Real-time reporting  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-PPSM automated workflows  
 - Macro-enabled slideshow pipelines  

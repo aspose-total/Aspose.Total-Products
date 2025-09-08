@@ -71,14 +71,14 @@ Using the API, you can also perform DOT file to PPTX conversion with watermark. 
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPTX (PowerPoint Open XML Presentation)** allows creation of modern, editable, XML-based PowerPoint files for cloud workflows, scalable enterprise templates, and academic use.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reporting  
 - Cloud-ready presentation workflows  
 - Academic lectures  
 - Scalable enterprise templates  
 - Proposal automation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPTX conversion  
 - PowerPoint XML presentation automation  

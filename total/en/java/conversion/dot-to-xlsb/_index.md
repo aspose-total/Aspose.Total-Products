@@ -73,14 +73,14 @@ After you convert DOT to XLSB, you can also encrypt and password protect your XL
 {{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLSB (Excel Binary Workbook)** is ideal for handling large datasets with optimized storage and faster processing, suitable for enterprise-scale reporting.
 
-##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Enterprise-scale datasets  
 - Big-data compliant spreadsheets  
 - Optimized storage workflows  
 - Financial modeling  
 - Large-scale record automation  
 
-##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLSB template conversion  
 - High-performance Excel pipelines  
