@@ -67,10 +67,10 @@ After you convert DOCM to EXCEL, you can also encrypt and password protect your 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **Excel (Microsoft Excel workbooks)** is essential for transforming static, document-based data into **interactive spreadsheets** that unlock the power of Excel’s analytical features. While DOCM files often contain structured tables, forms, or checklists, Excel enhances them with **formulas, pivot tables, charts, and data validation**, making the information more actionable and business-ready. This conversion bridges the gap between text-heavy Word documents and dynamic Excel models used for decision-making, reporting, and forecasting.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Turning Word Tables into Actionable Excel Models**  
   Convert static DOCM tables into Excel sheets for advanced calculations and business models.  
@@ -87,7 +87,8 @@ After you convert DOCM to EXCEL, you can also encrypt and password protect your 
 - **Centralizing Operational Trackers in Excel**  
   Consolidate data from multiple DOCM checklists into a single Excel file for team-wide monitoring.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-Excel Batch Processors**  
   Convert multiple DOCM files into Excel workbooks in bulk for enterprise-scale workflows.  
@@ -104,7 +105,8 @@ After you convert DOCM to EXCEL, you can also encrypt and password protect your 
 - **Enterprise Pipelines that Enrich Data and Append to Master Workbooks**  
   Integrate DOCM-to-Excel conversion into BI pipelines that update centralized reporting systems.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -63,10 +63,10 @@ Using the API, you can also perform DOCM file to POTX conversion with watermark.
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **POTX (PowerPoint Open XML Templates)** is important for producing **modern, macro-free templates** that are compatible with Office 365 and cloud-based collaboration platforms. POTX enables organizations to **standardize branded layouts** and streamline workflows while ensuring compliance with macro-free policies.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Building Standardized Corporate Slide Templates**  
   Create reusable presentation templates for consistent branding.  
@@ -83,7 +83,8 @@ Using the API, you can also perform DOCM file to POTX conversion with watermark.
 - **Sharing Templates Across Office 365 and Google Slides**  
   Ensure seamless cross-platform collaboration.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-POTX Converters for Enterprise Teams**  
   Standardize template creation with automated batch processes.  
@@ -100,7 +101,8 @@ Using the API, you can also perform DOCM file to POTX conversion with watermark.
 - **Governance Systems Enforcing Macro-Free Compliance**  
   Ensure only clean, macro-free POTX files are distributed.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

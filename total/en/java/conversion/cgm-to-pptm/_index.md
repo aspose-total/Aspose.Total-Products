@@ -71,19 +71,21 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM to PPTM (Macro-Enabled PowerPoint Presentation) enables the integration of automation scripts, dynamic charts, and interactive diagrams within editable slide decks. This is highly valuable in engineering and data-driven industries.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Data-Driven Presentations** – Auto-update visuals based on live datasets.  
 - **Technical Simulations with Macros** – Control simulation playback within slides.  
 - **Interactive Engineering Content** – Allow real-time diagram modifications during presentations.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java Slide Automation Tools** – Create macro-enabled slides directly from CGM files.  
 - **AI-Generated Macro Slide Decks** – Combine automation with AI-generated content for insights.  
 - **Template-Based Dynamic Content Pipelines** – Generate and update technical presentation templates at scale.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -58,11 +58,11 @@ While saving your input document to OTT file format, you can also save your docu
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **OTT (OpenDocument Text Template)** format is vital for organizations using open-source and ODF-compliant environments. In **Java-based platforms**, this conversion enables CGM diagrams and technical visuals to be embedded into reusable templates compatible with LibreOffice and other OpenDocument editors. OTT templates ensure design consistency, facilitate collaborative editing, and streamline the generation of standardized reports across distributed teams while maintaining open standards for interoperability.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **ODF-Compliant Report Generation**  
   Create standards-based reports where CGM visuals integrate seamlessly with structured OpenDocument content.
@@ -71,7 +71,8 @@ While saving your input document to OTT file format, you can also save your docu
   Store CGM-enhanced OTT templates in shared repositories for real-time, multi-user editing in open-source platforms.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java Automation via Converter**  
   Use Aspose APIs in Java workflows to convert CGM files into OTT templates for automated deployment.
@@ -85,7 +86,8 @@ While saving your input document to OTT file format, you can also save your docu
 - **Open-Source Enterprise Platforms**  
   Deploy OTT templates with embedded CGM diagrams in Java-powered content management and document automation systems.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

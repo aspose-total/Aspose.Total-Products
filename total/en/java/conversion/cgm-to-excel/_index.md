@@ -56,11 +56,11 @@ While converting CGM file to EXCEL, you can also add watermark to your output EX
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **CGM** diagrams to **Excel (.xlsx)** format is practical for enterprise reporting, engineering analytics, and structured data visualization. In **Java-powered workflows**, this conversion enables extraction of metrics, technical specifications, and chart data from CGM graphics into spreadsheets for analysis, reporting, and decision-making. Excel integration allows combining visual diagrams with tabular datasets for complete technical reports.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Embedded Engineering Metrics**  
   Capture measurement values from CGM diagrams into Excel for calculation and trend analysis.
@@ -72,7 +72,8 @@ While converting CGM file to EXCEL, you can also add watermark to your output EX
   Convert vector-based CGM charts into editable Excel chart objects for further customization.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Apache POI for Excel Generation**  
   Use Java’s **Apache POI** library to automate CGM-to-Excel conversion and populate cells with extracted values.
@@ -83,7 +84,8 @@ While converting CGM file to EXCEL, you can also add watermark to your output EX
 - **Enterprise Reporting Systems**  
   Embed CGM-to-Excel workflows into Java-based BI or ETL pipelines for large-scale engineering data processing.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

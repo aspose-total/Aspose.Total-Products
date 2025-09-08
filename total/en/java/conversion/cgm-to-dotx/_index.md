@@ -52,11 +52,11 @@ While saving your input document to DOTX file format, you can also save your doc
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **DOTX (XML-Based Word Template)** format is essential for organizations seeking to standardize technical documentation while maintaining flexibility in content generation. In **Java-based systems**, DOTX templates allow CGM technical drawings to be embedded within a reusable XML structure, enabling consistent layouts, brand-compliant designs, and efficient content updates. This conversion supports collaborative workflows, document libraries, and automation processes across enterprise and engineering environments.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Technical Drawing-Based Templated Reports**  
   Integrate CGM engineering diagrams into DOTX templates for structured, repeatable reporting formats.
@@ -68,7 +68,8 @@ While saving your input document to DOTX file format, you can also save your doc
   Store CGM-enhanced DOTX templates in centralized repositories for easy reuse across teams.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java APIs for Template Parsing**  
   Use libraries like **docx4j**, **Aspose.Words for Java**, or **Apache POI** to read, modify, and populate DOTX templates programmatically.
@@ -82,7 +83,8 @@ While saving your input document to DOTX file format, you can also save your doc
 - **Enterprise Content Automation**  
   Integrate CGM-to-DOTX conversion into Java-powered content management systems for scalable, standards-compliant documentation.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

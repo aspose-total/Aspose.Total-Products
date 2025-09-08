@@ -58,24 +58,26 @@ While you are converting DOTX to JSON, you can also set range to your output JSO
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX** to **JSON** enables structured data exchange, API integration, and modern web workflows, making document data usable for cloud services, web apps, and AI/ML pipelines.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - API-ready data exports  
 - Web app integration  
 - Cloud services  
 - Data pipelines  
 - AI/ML dataset preparation  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-JSON pipelines  
 - Automated JSON generation  
 - Cloud API workflows  
 - Enterprise system integrations  
 - Data lake automation
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

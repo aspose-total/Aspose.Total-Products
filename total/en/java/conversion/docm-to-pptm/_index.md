@@ -63,12 +63,12 @@ Using the API, you can also perform DOCM file to PPTM conversion with watermark.
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **PPTM (PowerPoint Macro-Enabled Presentations)** is vital for organizations that need **interactive, macro-driven presentations**. PPTM files retain automation, enabling **dynamic navigation, automated reporting, and interactive product demos**.  
 
 
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Designing Automated Training Decks**  
   Enhance training with interactive macro-enabled slides.  
@@ -87,7 +87,8 @@ Using the API, you can also perform DOCM file to PPTM conversion with watermark.
 
 
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-PPTM Macro-Preserving Converters**  
   Ensure automation scripts transfer seamlessly.  
@@ -103,7 +104,8 @@ Using the API, you can also perform DOCM file to PPTM conversion with watermark.
 
 - **Advanced Reporting Pipelines Exporting PPTM Files**  
   Deliver automated reporting presentations.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

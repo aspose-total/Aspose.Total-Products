@@ -58,11 +58,11 @@ While saving your input document to DOCM file format, you can also save your doc
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **DOCM (Macro-Enabled Word Document)** is highly valuable for organizations that require interactive, automated, and dynamic document workflows. In **Java-based document automation systems**, this conversion allows technical diagrams, engineering schematics, and process visuals from CGM to be embedded into macro-enabled reports. The DOCM format supports VBA macros, enabling automated calculations, data updates, and interactive reporting—perfect for engineering, industrial, and enterprise documentation needs.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Dynamic Technical Reporting**  
   Embed CGM-based illustrations into DOCM templates that automatically update charts, tables, and analysis content.
@@ -74,7 +74,8 @@ While saving your input document to DOCM file format, you can also save your doc
   Generate interactive manuals or operational guides with embedded CGM visuals and macro-driven navigation.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java Libraries for DOCM Creation**  
   Use APIs like **Apache POI**, **docx4j**, or **Aspose.Words for Java** to automate CGM-to-DOCM conversion with macro support.
@@ -89,7 +90,8 @@ While saving your input document to DOCM file format, you can also save your doc
   Convert and compile multiple CGM files into macro-enabled DOCM reports through Java-based batch automation tools.
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

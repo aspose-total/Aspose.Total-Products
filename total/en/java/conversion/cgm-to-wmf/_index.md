@@ -65,20 +65,22 @@ Using the API, you can also rotate the output WMF image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM to WMF (Windows Metafile) ensures compatibility with Microsoft Office and legacy Windows applications. This makes it easier to embed vector diagrams into documents, presentations, and automated publishing systems.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Embedding Graphics into Office Apps** – Use diagrams in Word, PowerPoint, and Excel.
 - **Legacy Enterprise Applications** – Maintain support for older business systems.
 - **Document Automation** – Populate templates with dynamic vector illustrations.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java-ActiveX Bridge Systems** – Automate WMF generation from CGM sources.
 - **Vector Format Normalization Pipelines** – Standardize graphic formats for enterprise use.
 - **Document Publishing Engines** – Integrate diagrams into high-volume publishing workflows.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

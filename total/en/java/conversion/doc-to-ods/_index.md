@@ -70,21 +70,23 @@ After converting DOC to ODS, [Aspose.Cells for Java](https://products.aspose.com
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **ODS (OpenDocument Spreadsheet)** is essential for enabling Word content to be processed in spreadsheet environments. This conversion makes it easy to manipulate, analyze, and share tabular data extracted from Word documents in open-standard formats compatible with LibreOffice Calc and similar tools.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Extracting tables from Word into ODS format  
 - Sharing Word-derived data with spreadsheet applications  
 - Transforming document data for detailed analysis  
 - Ensuring interoperability with LibreOffice, OpenOffice, and other ODF-compliant tools  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-ODS extraction pipelines for bulk processing  
 - Java-powered spreadsheet formatting and conversion tools  
 - Automated table parsing from Word to ODS for streamlined workflows  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

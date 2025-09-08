@@ -65,10 +65,10 @@ Using the API, you can also rotate the output DICOM image as per your needs. The
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **DICOM (Digital Imaging and Communications in Medicine)** format is crucial for ensuring compatibility with modern medical imaging workflows. In **Java-based medical imaging systems**, this conversion enables seamless integration with hospital data infrastructure, supports standardized image exchange, and enhances diagnostic visualization capabilities. By transforming CGM drawings or diagrams into DICOM, healthcare organizations can unify diverse imaging formats, making them accessible across **PACS**, **radiology viewers**, and AI-driven diagnostic tools.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Java-Integrated Radiology Viewers**  
   Display CGM-based medical illustrations directly within Java-powered DICOM viewers for enhanced diagnostic interpretation.
@@ -83,7 +83,8 @@ Using the API, you can also rotate the output DICOM image as per your needs. The
   Improve clinical workflows by embedding converted CGM data into multi-modality imaging studies.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java APIs for DICOM Handling**  
   Automate CGM-to-DICOM conversion pipelines using Java libraries for image processing and DICOM metadata management.
@@ -97,7 +98,8 @@ Using the API, you can also rotate the output DICOM image as per your needs. The
 - **AI-Powered Diagnostic Workflows**  
   Use Java-integrated AI models to analyze converted DICOM images for pattern recognition, anomaly detection, and predictive diagnostics.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

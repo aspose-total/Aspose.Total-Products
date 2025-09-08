@@ -70,23 +70,25 @@ After you convert DOCM to XLT, you can also encrypt and password protect your XL
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM** to **XLT (Excel Template, legacy)** allows organizations to produce reusable spreadsheet templates compatible with older Excel versions. This preserves document-driven layouts and supports legacy reporting, forms, and archival workflows.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Designing **standardized financial templates**  
 - Preparing reusable **forms for older Excel versions**  
 - Migrating **Word forms** into spreadsheet templates  
 - Supporting organizations still using **Excel 97–2003**  
 - Building **archival templates** in XLT format  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCM-to-XLT automated converters**  
 - Enterprise workflows maintaining **legacy template libraries**  
 - **Batch pipelines** generating financial XLTs from Word  
 - **Archival systems** requiring XLT compatibility  
 - Template distribution workflows for **legacy Excel users**  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

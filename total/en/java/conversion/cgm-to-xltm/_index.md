@@ -56,22 +56,24 @@ While converting CGM file to XLTM, you can also add watermark to your output XLT
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM files to **XLTM (Macro-Enabled Excel Template)** format supports automation-driven workflows in Java platforms, enabling pre-configured templates with embedded macros for technical processes. This allows engineers to quickly generate macro-enabled reports, run automated calculations, and update visualizations from CGM inputs without rebuilding spreadsheet logic.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Macro-enabled templates for engineering process automation.
 - Automated reporting with CGM-integrated calculations.
 - Smart document workflows for manufacturing and R&D teams.
 - Quality control templates with built-in validation macros.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Macro template rendering in Java enterprise applications.
 - Batch CGM-to-XLTM template generation for different projects.
 - ETL-based macro-enabled reporting pipelines.
 - Java-triggered macros for live operational reporting.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

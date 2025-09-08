@@ -68,23 +68,25 @@ Using the API, you can also perform DOT file to PPTX conversion with watermark. 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **PPTX (PowerPoint Open XML Presentation)** allows creation of modern, editable, XML-based PowerPoint files for cloud workflows, scalable enterprise templates, and academic use.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reporting  
 - Cloud-ready presentation workflows  
 - Academic lectures  
 - Scalable enterprise templates  
 - Proposal automation  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-PPTX conversion  
 - PowerPoint XML presentation automation  
 - Enterprise workflow integration  
 - Document-to-slide pipelines  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

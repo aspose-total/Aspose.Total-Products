@@ -61,12 +61,12 @@ Using the API, you can also perform DOCM file to PPS conversion with watermark. 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **PPS (PowerPoint Slide Show, legacy)** is valuable for creating **auto-playing slide shows** compatible with older versions of Microsoft PowerPoint. PPS ensures that content can be displayed in **offline, legacy, or restricted environments** without requiring editing capabilities.  
 
 
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Preparing Legacy Slideshow Presentations**  
   Convert Word documents into ready-to-play slide shows.  
@@ -85,7 +85,8 @@ Using the API, you can also perform DOCM file to PPS conversion with watermark. 
 
 
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-PPS Legacy Converters**  
   Automate batch exports into auto-play slide shows.  
@@ -101,7 +102,8 @@ Using the API, you can also perform DOCM file to PPS conversion with watermark. 
 
 - **Enterprise Slide Publishing Systems for Legacy Compatibility**  
   Distribute auto-running slides to older platforms.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

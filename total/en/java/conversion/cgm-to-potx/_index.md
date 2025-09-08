@@ -69,19 +69,21 @@ presentation.save("output.potx", SaveFormat.Potx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM to POTX (Open XML Presentation Template) provides a flexible, modern template format for scalable business and engineering presentation workflows. POTX supports vector graphics, making it ideal for CGM-based technical visuals that need to be reused across multiple slide decks.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Industry-Standard Visual Reports** – Prepare professional layouts for client and stakeholder presentations.  
 - **Engineering Design Templates** – Embed scalable vector diagrams into reusable layouts.  
 - **Reusable Branded Slides** – Ensure consistent corporate identity across different departments.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java-Based Open XML Document Systems** – Automate CGM-to-POTX conversion with Apache POI XSLF APIs.  
 - **Enterprise Content Automation** – Streamline creation of branded template libraries.  
 - **Templated Presentation Pipelines** – Integrate into CI/CD pipelines for automated deck preparation.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

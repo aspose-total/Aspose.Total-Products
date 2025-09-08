@@ -63,23 +63,25 @@ After you convert DOTX to EXCEL, you can also encrypt and password protect your 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX** to **Excel (XLS/XLSX)** is valuable for transforming Word templates into structured spreadsheets that support analytics, reporting, and enterprise workflow management.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business reporting  
 - Financial planning  
 - Data-driven workflows  
 - Enterprise document management  
 - Cloud-compatible analytics  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-Excel pipelines  
 - Automated spreadsheet generation  
 - Enterprise reporting automation  
 - Data analysis workflows
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

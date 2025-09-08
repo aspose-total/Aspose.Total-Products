@@ -70,11 +70,11 @@ After converting DOCM to CSV, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **CSV (Comma-Separated Values)** is crucial for extracting tabular or structured text data into a lightweight, platform-independent format. While DOCM files are rich-text documents designed for macros and formatting, CSV files provide a clean, universal structure for storing and sharing data. This conversion simplifies workflows by transforming complex Word-based data into easily readable spreadsheets that integrate seamlessly with databases, analytics tools, and machine learning pipelines.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Migrating Data into Databases**  
   Convert DOCM tables into CSV format for quick imports into SQL and NoSQL databases.  
@@ -89,7 +89,8 @@ After converting DOCM to CSV, [Aspose.Cells for Java](https://products.aspose.co
   Use CSV files as a lightweight medium to exchange tabular data across operating systems, cloud apps, and collaborators.  
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **DOCM-to-CSV Batch Converters**  
   Process multiple DOCM files automatically into CSV format for large-scale data handling.  
@@ -100,7 +101,8 @@ After converting DOCM to CSV, [Aspose.Cells for Java](https://products.aspose.co
 - **Data Pipeline Workflows Integrating CSV Output with BI Tools**  
   Incorporate DOCM-to-CSV conversion into ETL pipelines, enabling real-time updates and analytics-ready datasets.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

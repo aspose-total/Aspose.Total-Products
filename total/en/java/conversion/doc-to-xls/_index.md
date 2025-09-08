@@ -70,21 +70,23 @@ After you convert DOC to XLS, you can also encrypt and password protect your XLS
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **XLS (Excel Spreadsheet)** transforms document-based data into editable spreadsheet format for calculations, analytics, and reporting. It ensures compatibility with legacy Excel formats and offline data processing.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Extracting tables from Word into Excel spreadsheets  
 - Preparing financial or statistical data for analysis  
 - Integrating document content into reporting workflows  
 - Converting form responses into structured Excel sheets  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-XLS batch conversion tools  
 - Automated table-to-cell mapping  
 - Workflow automation for real-time reporting  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

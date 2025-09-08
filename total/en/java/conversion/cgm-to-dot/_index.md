@@ -58,12 +58,12 @@ While saving your input document to DOT file format, you can also save your docu
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ``
 Converting **Computer Graphics Metafile (CGM)** files to **DOT (Microsoft Word Template)** format is essential for organizations aiming to standardize technical and engineering documentation. In **Java-based document processing systems**, this conversion enables the creation of reusable templates that include CGM-based diagrams, ensuring consistent formatting across reports, manuals, and engineering documents. By embedding CGM visuals into DOT templates, enterprises can streamline content creation, maintain branding standards, and improve the efficiency of document generation workflows.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Reusable Technical Drawing Templates**  
   Store CGM diagrams within DOT files for quick reuse in multiple technical reports or manuals.
@@ -75,7 +75,8 @@ Converting **Computer Graphics Metafile (CGM)** files to **DOT (Microsoft Word T
   Apply uniform styles, layouts, and headers while integrating CGM illustrations into professional reports.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java-Based Document Assembly Engines**  
   Automate CGM-to-DOT template generation using Java libraries for enterprise-grade document creation.
@@ -89,7 +90,8 @@ Converting **Computer Graphics Metafile (CGM)** files to **DOT (Microsoft Word T
 - **Batch Conversion and Template Deployment**  
   Process multiple CGM files into DOT templates in bulk for rapid template deployment across teams.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

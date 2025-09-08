@@ -70,23 +70,25 @@ After converting DOT to XLAM, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOT** to **XLAM (Excel Add-in)** allows transformation of Word template macros into reusable Excel automation tools, enhancing productivity and enterprise workflow capabilities.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Enterprise Excel automation  
 - Custom macro deployment  
 - Advanced reporting solutions  
 - Workflow integration with Excel  
 - Productivity enhancement  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOT-to-XLAM macro add-in creation  
 - Automated Excel extension generation  
 - Template-to-add-in pipelines  
 - Enterprise-ready automation workflows  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

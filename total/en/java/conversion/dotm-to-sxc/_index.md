@@ -66,24 +66,26 @@ After converting DOTM to SXC, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTM** to **SXC (StarOffice Calc Spreadsheet)** enables extending macro-enabled Word templates into open-source spreadsheet workflows, supporting legacy data compatibility and cross-platform enterprise usage.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy data compatibility for spreadsheet workflows  
 - Open-source office integrations  
 - Document-to-spreadsheet workflow automation  
 - Enterprise archival in SXC format  
 - Cross-platform spreadsheet usage  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTM-to-SXC batch conversion pipelines  
 - Open-source spreadsheet automation  
 - Document macro template migration  
 - Workflow interoperability  
 - Archival conversions
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

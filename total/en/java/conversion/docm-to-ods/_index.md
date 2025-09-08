@@ -70,10 +70,10 @@ After converting DOCM to ODS, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **ODS (OpenDocument Spreadsheet)** is vital for enabling document-based tables and structured data to be used in **LibreOffice Calc and other ODF-compliant spreadsheet applications**. While DOCM files often contain valuable tables and form data, ODS provides an **open-standard, fully editable spreadsheet format** that ensures long-term accessibility, compliance, and collaboration. This conversion bridges Word-based data with open-source ecosystems, supporting both enterprise and government requirements for **transparent, vendor-neutral file formats**.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Converting Word Tables to Editable Spreadsheets**  
   Transform DOCM-embedded tables into ODS for advanced calculations, formulas, and analysis.  
@@ -90,7 +90,8 @@ After converting DOCM to ODS, [Aspose.Cells for Java](https://products.aspose.co
 - **Long-Term Archiving in Open Formats**  
   Preserve structured data in a durable, standards-based format accessible for decades.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-ODS Scheduled Exports**  
   Automate recurring document-to-spreadsheet conversions for reporting and data consolidation.  
@@ -107,7 +108,8 @@ After converting DOCM to ODS, [Aspose.Cells for Java](https://products.aspose.co
 - **Cloud Converters Standardizing on ODS Output**  
   Deliver DOCM data as ODS in cloud collaboration suites prioritizing open standards.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -70,22 +70,24 @@ After you convert DOCX to XLSM, you can also encrypt and password protect your X
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLSM (Excel Macro-Enabled Workbook)** enables embedding automation logic directly within spreadsheets derived from documents, streamlining business and analytical workflows.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automating repetitive calculations  
 - Embedding document-to-spreadsheet macros  
 - Enterprise workflow automation  
 - Financial and business logic migration  
 - Custom reporting  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLSM macro integration  
 - Automated Excel sheet workflows  
 - Document-to-macro pipelines  
 - Enterprise automation frameworks  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

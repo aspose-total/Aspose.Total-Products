@@ -70,24 +70,26 @@ After converting DOTX to DIF, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTX** to **DIF (Data Interchange Format)** ensures compatibility with legacy spreadsheet systems and statistical software, enabling structured data exchange for research and enterprise applications.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Cross-platform data exchange  
 - Statistical modeling  
 - Academic research  
 - Legacy software workflows  
 - Structured data migration  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-DIF pipelines  
 - Automated DIF generation  
 - Research data automation  
 - Legacy system integration  
 - DOTX-to-statistical software workflows
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

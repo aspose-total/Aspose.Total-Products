@@ -70,22 +70,24 @@ After you convert DOCX to XLS, you can also encrypt and password protect your XL
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **XLS (Excel Binary File Format)** is crucial for transforming document-based tabular data into editable spreadsheets, enabling efficient data management and analysis within legacy Excel systems.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Managing structured data  
 - Importing reports into Excel  
 - Financial analysis  
 - Creating editable spreadsheets from documents  
 - Data-driven workflows  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-XLS conversion pipelines  
 - Report digitization  
 - Enterprise data management  
 - Automated Excel sheet generation  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

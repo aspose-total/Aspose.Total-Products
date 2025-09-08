@@ -64,21 +64,23 @@ After you convert DOC to Excel, you can also encrypt and password protect your E
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **EXCEL (Microsoft Excel Workbook)** is vital for transforming text-based reports into fully functional, editable spreadsheets. This ensures that tabular data from Word documents becomes interactive, analyzable, and easy to share.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Turning Word tables into interactive Excel sheets  
 - Migrating financial data to Excel for analysis  
 - Integrating document content into automated reporting dashboards  
 - Facilitating collaborative data editing in teams  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-EXCEL converters for direct transformation  
 - VBA-powered table migration scripts  
 - Automated reporting pipelines integrating Word data into Excel  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

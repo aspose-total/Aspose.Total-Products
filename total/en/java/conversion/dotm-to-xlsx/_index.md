@@ -68,23 +68,25 @@ After you convert DOTM to XLSX, you can also encrypt and password protect your X
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTM** to **XLSX** ensures modern Excel compatibility, cloud-sharing, and structured data representation derived from macro-enabled Word templates.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Financial planning  
 - Data visualization  
 - Cross-platform reporting  
 - Academic research datasets  
 - Cloud-compatible Excel workflows  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTM-to-XLSX pipelines  
 - Batch cloud conversion  
 - Real-time reporting automation  
 - Macro-to-modern Excel transformations
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

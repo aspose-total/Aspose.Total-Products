@@ -58,12 +58,12 @@ While saving your input document to MHTML file format, you can also save your do
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **MHTML (MIME HTML)** format is essential for preserving complex engineering and technical documents with embedded graphics in a single, self-contained file. In **Java-based web archiving systems**, this conversion allows organizations to store complete documents—including CGM visuals, styles, and resources—within a portable archive suitable for offline viewing and intranet deployment. MHTML ensures that design specifications, reports, and drawings remain intact for long-term accessibility and distribution.
 
 ---
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Bundling Engineering Documents with Embedded Graphics**  
   Package CGM diagrams and related content into MHTML for consistent, self-contained technical records.
@@ -76,7 +76,8 @@ While saving your input document to MHTML file format, you can also save your do
 
 ---
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java Libraries with MHTML Support**  
   Use APIs like **Aspose.Words for Java** or custom Java exporters to generate MHTML files from CGM-based documents.
@@ -90,7 +91,8 @@ While saving your input document to MHTML file format, you can also save your do
 - **Automated Archiving Pipelines**  
   Include CGM-to-MHTML steps in Java-driven document management or ETL systems for scheduled archiving.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

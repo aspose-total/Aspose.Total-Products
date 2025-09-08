@@ -66,23 +66,25 @@ After converting DOTM to CSV, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Macro-enabled Word templates often contain structured data that can be difficult to extract directly. Converting **DOTM** files to **CSV (Comma-Separated Values)** simplifies this process, enabling lightweight, structured data extraction suitable for spreadsheets, reporting, and analytics.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Data migration from macro-enabled templates into databases  
 - Import/export workflows across multiple systems  
 - Enterprise data processing and analysis  
 - Lightweight database imports and table management  
 - Streamlined reporting pipelines for business intelligence  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTM-to-CSV extraction pipelines  
 - Macro-to-data transformation workflows  
 - Automated CSV reporting from Word templates  
 - Enterprise ETL pipelines for structured data
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

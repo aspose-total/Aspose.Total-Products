@@ -67,20 +67,22 @@ After you convert DOC to XLSX, you can also encrypt and password protect your XL
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **XLSX (Excel Open XML Spreadsheet)** creates modern, fully compatible spreadsheets for data sharing, analysis, and integration. XLSX is the industry-standard format for business intelligence and cloud collaboration.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Exporting structured document data into modern spreadsheets  
 - BI pipeline integration with clean, structured outputs  
 - Converting reports into editable, analysis-ready spreadsheets  
 - Ensuring compatibility with all major spreadsheet software  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-XLSX XML mapping engines  
 - Automated spreadsheet generation workflows  
 - Document parsing with structured XML output  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

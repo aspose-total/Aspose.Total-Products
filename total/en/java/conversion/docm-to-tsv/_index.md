@@ -68,23 +68,25 @@ After converting DOCM to TSV, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM** files to **TSV (Tab-Separated Values)** is important for exporting structured data from Word documents into lightweight, text-based formats that are easy to integrate across systems. TSV ensures clean interoperability with ERP, CRM, analytics, and legacy platforms, while also enabling machine learning workflows and data exchange across programming environments.  
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Preparing structured **text data** for **ERP or CRM imports**  
 - Migrating tables into **analytics and BI platforms**  
 - Sharing tabular datasets across **programming and scripting environments**  
 - Building **datasets for machine learning** and AI workflows  
 - Enabling **data exchange with legacy systems** that require lightweight formats  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCM-to-TSV automated extraction pipelines** for scalable conversion  
 - **ETL workflows** generating TSV-ready datasets  
 - **Watch-folder services** producing continuous TSV outputs  
 - **API-driven conversions** emitting TSV for downstream integrations  
 - **Enterprise data hubs** leveraging TSV for lightweight interoperability  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

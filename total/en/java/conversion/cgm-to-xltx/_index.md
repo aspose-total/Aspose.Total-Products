@@ -56,22 +56,24 @@ While converting CGM file to XLTX, you can also add watermark to your output XLT
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM files to **XLTX (Excel Template without Macros)** using Java-based tools is essential for organizations that require reusable spreadsheet designs without macro dependencies. XLTX templates store CGM graphics and data layouts in a secure, XML-based format, ensuring compatibility with enterprise document policies.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Non-macro engineering templates for technical reporting.
 - Graphical report structures integrating CGM diagrams.
 - Standardized layout generation for recurring reports.
 - Compliance-friendly templates without executable code.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Java spreadsheet template engines for XLTX creation.
 - Office file converters for CGM-to-XLTX transformation.
 - Report generation utilities in Java for multi-department usage.
 - Bulk XLTX creation for shared enterprise document libraries.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

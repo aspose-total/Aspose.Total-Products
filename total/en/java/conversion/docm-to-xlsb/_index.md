@@ -68,23 +68,25 @@ After you convert DOCM to XLSB, you can also encrypt and password protect your X
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM** to **XLSB (Excel Binary Workbook)** optimizes performance for large datasets, reduces file sizes, and accelerates workbook opening and processing. Binary-optimized spreadsheets are ideal for enterprises that require fast, high-volume data operations while maintaining the integrity of Word-based tables and structured content.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Handling **large datasets** from Word documents  
 - Improving performance for **frequent data access**  
 - Reducing file size for **faster distribution**  
 - Storing sensitive data in **binary format**  
 - Supporting enterprises with **high-volume Excel operations**  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCM-to-XLSB converters** for performance workflows  
 - **Automated conversion pipelines** handling large documents  
 - **Enterprise reporting pipelines** producing binary Excel outputs  
 - **Batch tools** reducing storage with XLSB  
 - **BI workflows** optimized with binary spreadsheets  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

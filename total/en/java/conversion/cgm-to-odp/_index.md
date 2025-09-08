@@ -69,24 +69,26 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM (Computer Graphics Metafile) files to ODP (OpenDocument Presentation) allows for seamless integration of high-quality vector diagrams into open-source presentation formats. This transformation is ideal for ensuring cross-platform compatibility, enabling professional visual storytelling in educational, corporate, and technical presentations without sacrificing image quality.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Embedding vector diagrams into LibreOffice Impress presentations.
 - Cross-platform technical and corporate report generation.
 - Creating educational visual content with scalable illustrations.
 - Integrating engineering schematics into presentation slides.
 - Enhancing scientific conference materials with precision graphics.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Java-based document pipeline integration for automated slide generation.
 - LibreOffice-compatible presentation production systems.
 - Enterprise content generation tools for technical departments.
 - API-based diagram-to-presentation workflows.
 - Batch processing of CGM diagrams for large-scale presentations.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

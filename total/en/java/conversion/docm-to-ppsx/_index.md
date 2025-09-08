@@ -61,12 +61,12 @@ Using the API, you can also perform DOCM file to PPSX conversion with watermark.
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **PPSX (PowerPoint Open XML Slide Show)** is key for producing **macro-free, modern, and easily shareable slide shows**. PPSX ensures **compatibility with Office 365, LMS platforms, and collaboration tools** without exposing organizations to macro-related risks.  
 
 
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Creating Event-Ready Slide Shows**  
   Build polished, ready-to-play presentations.  
@@ -85,7 +85,8 @@ Using the API, you can also perform DOCM file to PPSX conversion with watermark.
 
 
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-PPSX Converters Ensuring Macro-Free Compliance**  
   Eliminate macro risks while generating slides.  
@@ -101,7 +102,8 @@ Using the API, you can also perform DOCM file to PPSX conversion with watermark.
 
 - **Enterprise Collaboration Tools Distributing PPSX Content**  
   Ensure slide shows are securely shared across teams.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

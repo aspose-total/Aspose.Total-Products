@@ -70,23 +70,25 @@ After you convert DOTX to XLT, you can also encrypt and password protect your XL
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Exporting **DOTX (Word Template)** to **XLT (Excel Template)** allows businesses to create reusable spreadsheet frameworks. This standardization improves efficiency in reporting, financial planning, and departmental workflows.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Enterprise template creation for Excel  
 - Business reporting templates  
 - Department-specific Excel frameworks  
 - Reusable financial models  
 - Document-driven Excel standards  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLT conversion pipelines  
 - Automated template distribution across enterprises  
 - Standardized Excel template generation  
 - Enterprise reporting frameworks for consistency  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

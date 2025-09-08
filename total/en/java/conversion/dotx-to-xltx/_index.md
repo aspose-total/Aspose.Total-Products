@@ -70,23 +70,25 @@ After you convert DOTX to XLTX, you can also encrypt and password protect your X
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Transforming **DOTX (Word Template)** into **XLTX (Excel Template Open XML)** ensures standardized, cloud-ready Excel templates for enterprises. This format supports scalability, reusability, and modern collaboration.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Business report frameworks in Excel  
 - Financial templates for organizations  
 - Cloud-compatible Excel template setups  
 - Departmental reporting workflows  
 - Enterprise-grade consistency across teams  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTX-to-XLTX conversion pipelines  
 - Automated Excel template distribution  
 - Document-to-Excel standardization  
 - Enterprise-level template automation for scalability  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

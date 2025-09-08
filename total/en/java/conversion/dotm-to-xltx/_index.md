@@ -70,23 +70,25 @@ After you convert DOTM to XLTX, you can also encrypt and password protect your X
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTM** to **XLTX** enables creation of reusable non-macro Excel templates from Word templates for standardized enterprise and cloud-ready reporting.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Standardized enterprise templates  
 - Cloud-compatible reporting  
 - Academic templates  
 - Government data entry templates  
 - Financial forecasting models  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTM-to-XLTX template automation  
 - Batch Excel template generation  
 - Enterprise-wide reporting templates  
 - Cloud-ready DOTM-to-Excel workflows
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

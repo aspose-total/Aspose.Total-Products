@@ -70,10 +70,10 @@ After converting DOCM to DIF, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **DIF (Data Interchange Format)** plays an important role in moving tabular data from modern Word files into **legacy-compatible spreadsheet and statistical systems**. While DOCM files store structured information with macros and formatting, DIF provides a plain-text, widely supported structure that remains readable across decades. This conversion ensures **data portability, compliance, and long-term accessibility**—especially in regulated industries, academic research, and environments where legacy or on-prem systems remain in use.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Exchanging Structured Data with Older Spreadsheet Apps**  
   Convert DOCM tables into DIF for compatibility with legacy spreadsheet programs that predate CSV/XLSX.  
@@ -90,7 +90,8 @@ After converting DOCM to DIF, [Aspose.Cells for Java](https://products.aspose.co
 - **Supporting Academic or Statistical Packages**  
   Enable seamless imports into legacy statistical and research tools that still accept DIF.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-DIF Scheduled Exports**  
   Automate recurring exports of Word tables into DIF for compliance reporting and record-keeping.  
@@ -107,7 +108,8 @@ After converting DOCM to DIF, [Aspose.Cells for Java](https://products.aspose.co
 - **Document-Processing Robots that Detect Tables and Emit DIF**  
   Deploy RPA or AI-based bots to scan DOCM files, extract tables, and output DIF for legacy ingestion.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

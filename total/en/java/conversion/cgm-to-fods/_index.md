@@ -56,11 +56,11 @@ While converting CGM file to FODS, you can also add watermark to your output FOD
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **FODS (Flat OpenDocument Spreadsheet)** format is an effective way to transform graphical technical data into structured, open-standard spreadsheets. In **Java-based open-source applications**, this conversion enables engineers, researchers, and data analysts to extract measurement values, specifications, and vector-based details from CGM diagrams into editable FODS spreadsheets. As an ODF-compliant XML format, FODS ensures compatibility with tools like OpenOffice, making it easy to share and collaborate without proprietary constraints.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Converting Graphical Technical Data into Spreadsheets**  
   Extract vector graphics data from CGM files into structured rows and columns for analysis.
@@ -72,7 +72,8 @@ While converting CGM file to FODS, you can also add watermark to your output FOD
   Distribute CGM-derived spreadsheet data through ODF-compliant applications.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java Libraries like JOpenDocument**  
   Automate CGM-to-FODS conversion in Java workflows using open-source spreadsheet handling libraries.
@@ -85,7 +86,8 @@ While converting CGM file to FODS, you can also add watermark to your output FOD
 
 - **Open-Source Data Processing Systems**  
   Use FODS as part of Java-powered scientific or engineering platforms for transparent, standards-based data management.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

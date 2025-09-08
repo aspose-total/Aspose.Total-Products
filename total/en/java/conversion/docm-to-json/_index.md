@@ -58,10 +58,10 @@ While you are converting DOCM to JSON, you can also set range to your output JSO
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCM (Word Macro-Enabled Documents)** to **JSON (JavaScript Object Notation)** is vital for transforming static document content, tables, and form fields into **structured, machine-readable data**. JSON is lightweight, human-readable, and widely used in **APIs, analytics, web apps, and automation workflows**. By extracting data from DOCM into JSON, organizations can unlock interoperability across modern platforms, enable faster integrations, and ensure data is ready for **real-time processing, validation, and scalable distribution**.  
 
-## ✅ Key Use Cases  
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}  
 
 - **Publishing Document Data to REST/GraphQL APIs**  
   Serve extracted DOCM content as JSON for direct API consumption in web and mobile apps.  
@@ -78,7 +78,8 @@ While you are converting DOCM to JSON, you can also set range to your output JSO
 - **Enabling Headless CMS or Microservice Architectures**  
   Integrate DOCM content into distributed, API-first systems where JSON is the lingua franca.  
 
-## ⚙️ Automation Scenarios  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}  
 
 - **DOCM-to-JSON Extraction with Field Mapping**  
   Define mappings to transform tables, headers, and fields into structured JSON objects.  
@@ -95,7 +96,8 @@ While you are converting DOCM to JSON, you can also set range to your output JSO
 - **Governance Rules that Strip Macros and PII Before JSON Export**  
   Apply compliance checks to ensure safe, sanitized JSON outputs from macro-enabled files.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

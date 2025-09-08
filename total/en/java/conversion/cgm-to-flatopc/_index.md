@@ -58,11 +58,11 @@ While saving your input document to FLATOPC file format, you can also save your 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **Flat OPC (Flat XML-based Open Packaging Conventions)** format is highly beneficial for developers working with **Java-based Office document manipulation** workflows. Flat OPC stores Word, Excel, or PowerPoint content as a single, well-structured XML file, making it easier to inspect, modify, and validate document elements. By converting CGM diagrams into Flat OPC representations, engineering teams can integrate vector graphics directly into XML-based Office documents for auditing, compliance checks, and automated processing in Java applications.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **XML Document Inspection**  
   Convert CGM-embedded documents into Flat OPC for easy analysis and troubleshooting using XML tools.
@@ -74,7 +74,8 @@ While saving your input document to FLATOPC file format, you can also save your 
   Ensure accuracy and compliance by reviewing CGM-integrated documents in a transparent XML format.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Integration with docx4j**  
   Use **docx4j** to convert CGM-enhanced Office files to Flat OPC XML for direct Java-based manipulation.
@@ -88,7 +89,8 @@ While saving your input document to FLATOPC file format, you can also save your 
 - **Automated Document Validation**  
   Integrate Flat OPC output into Java pipelines for schema validation, content checks, and engineering compliance reviews.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

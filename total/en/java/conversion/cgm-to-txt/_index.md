@@ -55,12 +55,12 @@ While converting CGM file to TXT, you can also add watermark to your output TXT 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **TXT (Plain Text)** format is valuable for extracting, documenting, and processing vector graphic information in a lightweight, human-readable form. In **Java-powered data processing pipelines**, this conversion enables the transformation of CGM diagrams into text-based representations for logging, metadata storage, or downstream analysis. By capturing the descriptive elements of CGM files in TXT, organizations can simplify integration with other systems, enable rapid search and indexing, and maintain long-term compatibility.
 
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Text-Based Logging of Diagrams**  
   Store CGM diagram information as plain text for auditing, debugging, or archival purposes.
@@ -72,7 +72,8 @@ While converting CGM file to TXT, you can also add watermark to your output TXT 
   Document CGM-related engineering data in TXT files for quick reference and lightweight storage.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java I/O Libraries for Conversion**  
   Use standard Java file handling APIs along with CGM parsers to extract and write content to TXT files.
@@ -86,7 +87,8 @@ While converting CGM file to TXT, you can also add watermark to your output TXT 
 - **Plain Text Exporters in ETL Pipelines**  
   Integrate CGM parsing and TXT export into Java-based Extract-Transform-Load workflows for structured data processing.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

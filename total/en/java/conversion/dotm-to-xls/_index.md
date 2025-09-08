@@ -70,23 +70,25 @@ After you convert DOTM to XLS, you can also encrypt and password protect your XL
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOTM** to **XLS** ensures compatibility with legacy Microsoft Excel versions while preserving macro-enabled Word template data in structured spreadsheets.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Legacy financial systems  
 - Government compliance reports  
 - Academic data storage  
 - Enterprise accounting workflows  
 - Backward compatibility needs  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOTM-to-XLS pipelines  
 - Batch conversion for archives  
 - Automated reporting to legacy Excel  
 - Macro-to-legacy spreadsheet workflows
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

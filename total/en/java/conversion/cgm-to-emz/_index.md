@@ -63,10 +63,10 @@ Using the API, you can also rotate the output EMZ image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **CGM** files to **EMZ (Enhanced Metafile Compressed)** format is highly beneficial for managing compressed vector graphics in **Java-powered systems**. EMZ reduces file size while maintaining quality, making it ideal for embedding technical illustrations in documents, sharing vector images efficiently, and ensuring compatibility with Microsoft Office and Windows-based applications.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Document Embedding**  
   Insert compressed CGM-derived EMZ graphics into Word, PowerPoint, and other Office files.
@@ -77,7 +77,8 @@ Using the API, you can also rotate the output EMZ image as per your needs. The I
 - **Office-Compatible Image Packaging**  
   Convert CGM to EMZ to ensure smooth integration into Office workflows without manual image adjustments.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java APIs for Image Compression**  
   Automate CGM-to-EMZ conversion using Java libraries that support WMF/EMF compression and vector optimization.
@@ -87,7 +88,8 @@ Using the API, you can also rotate the output EMZ image as per your needs. The I
 
 - **Windows Metafile Processing**  
   Use Java tools to handle EMF-to-EMZ compression for compatibility in cross-platform applications.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -70,21 +70,23 @@ Using the API, you can also perform DOC file to PPTM conversion with watermark. 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **PPTM (PowerPoint Macro-Enabled Presentation)** enables the creation of interactive presentations with automated functions. This is ideal for dynamic data presentations, training modules, and advanced corporate reporting.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automated corporate reporting with macros  
 - Interactive training decks for employee onboarding  
 - Macro-driven business analysis presentations  
 - Data visualization directly from Word reports  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-PPTM macro injection workflows for functionality  
 - Script-based slide enhancements for interactivity  
 - Automated KPI dashboards integrated into presentations  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

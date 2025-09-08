@@ -63,22 +63,24 @@ Using the API, you can also rotate the output APNG image as per your needs. The 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM (Computer Graphics Metafile) files to APNG (Animated Portable Network Graphics) allows for the preservation of intricate vector-based clinical diagrams while adding animation capabilities. APNGs are widely supported in modern browsers, making them ideal for patient education tools and mobile-friendly applications.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Interactive insulin data visualizations for patient-facing dashboards.
 - Animated drug delivery charts in diabetes management applications.
 - Mobile applications displaying glucose variation over time.
 - Instructional modules in telemedicine using dynamic APNG visuals.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - Batch conversion in real-time remote monitoring systems.
 - Integration into ETL pipelines for diabetes data platforms.
 - Use in auto-generated animated hospital discharge summaries.
 - Triggered rendering for AI-powered apps interpreting CGM data.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

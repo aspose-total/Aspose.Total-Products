@@ -64,20 +64,22 @@ Using the API, you can also rotate the output SVGZ image as per your needs. The 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 CGM to SVGZ (compressed Scalable Vector Graphics) conversion offers web-friendly, scalable graphics optimized for reduced bandwidth. Ideal for delivering detailed engineering drawings online, SVGZ ensures precision rendering with minimal file size.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Scalable Vector Delivery in Web Apps** – Serve responsive, high-quality vector diagrams.
 - **Archive of Engineering Drawings** – Store complex illustrations in a compressed vector format.
 - **CAD-to-Web Transformations** – Publish technical graphics from CAD into browser-ready form.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java-Based SVG Rendering Engines** – Convert CGM into interactive, scalable SVGZ assets.
 - **SVG Compressors** – Automate size reduction while retaining visual accuracy.
 - **Frontend Asset Pipelines** – Prepare diagrams for instant loading in web applications.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -72,22 +72,24 @@ Using the API, you can also perform DOCX file to POTM conversion with watermark.
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **POTM (PowerPoint Macro-Enabled Template)** is essential for building presentation templates that leverage macro automation directly from structured document content. This allows enterprises to create reusable, automated slide decks that reduce repetitive formatting and streamline workflow-driven presentations.
 
-#### ✅ Key Use Cases
+##{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Automating repetitive slide formatting  
 - Creating enterprise-ready macro templates  
 - Migrating macro-supported workflows from DOCX to PowerPoint  
 - Supporting interactive training modules  
 - Streamlining recurring business presentations  
 
-#### ⚙️ Automation Scenarios
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOCX-to-POTM macro-enabled automation  
 - Slide template generation pipelines  
 - Enterprise macro template libraries  
 - Automated PowerPoint template workflows  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

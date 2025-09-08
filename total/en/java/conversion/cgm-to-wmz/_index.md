@@ -63,20 +63,22 @@ Using the API, you can also rotate the output WMZ image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 CGM to WMZ (compressed Windows Metafile) conversion optimizes storage and transfer of vector graphics. This is useful for reducing file sizes in enterprise document workflows while maintaining compatibility.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Efficient Transfer of Vector Content** – Minimize bandwidth use in document systems.
 - **Optimized Document Packaging** – Embed WMZ inside Office files for portability.
 - **Content Archiving** – Store compressed vector illustrations for long-term access.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java ZIP-Based Compression APIs** – Automate CGM to WMZ conversions in bulk.
 - **Image Embedding Utilities** – Integrate WMZ graphics into multi-file document packages.
 - **Document Preparation Servers** – Streamline pre-publishing workflows.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

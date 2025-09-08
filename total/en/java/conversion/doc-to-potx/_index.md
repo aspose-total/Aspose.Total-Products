@@ -68,21 +68,23 @@ Using the API, you can also perform DOC file to POTX conversion with watermark. 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **POTX (PowerPoint Open XML Template)** is crucial for producing modern, reusable presentation templates from Word content. It ensures compatibility with the latest PowerPoint versions and allows for consistent design across multiple presentations.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Creating branded presentation frameworks from reports  
 - Converting structured Word documents into presentation templates  
 - Maintaining design consistency in training materials  
 - Designing reusable slide decks for corporate departments  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-POTX mapping workflows for seamless conversion  
 - XML-based template customization for advanced design control  
 - Bulk corporate template creation from Word content  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

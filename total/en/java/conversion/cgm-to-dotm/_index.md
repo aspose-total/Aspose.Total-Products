@@ -58,11 +58,11 @@ While saving your input document to DOTM file format, you can also save your doc
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** files to **DOTM (Macro-Enabled Word Template)** format is crucial for organizations that require dynamic, automated, and interactive document generation. In **Java-based automation flows**, DOTM templates allow embedded CGM diagrams to be paired with VBA macros, enabling advanced calculations, automated formatting, and real-time content updates. This approach streamlines the creation of engineering reports, technical manuals, and workflow-driven documentation while ensuring visual and functional consistency across enterprise systems.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Templated Macro-Enabled Engineering Reports**  
   Incorporate CGM-based diagrams into DOTM templates that trigger automated calculations, analysis, and report generation.
@@ -73,7 +73,8 @@ While saving your input document to DOTM file format, you can also save your doc
 - **Enabling Technical Workflows**  
   Develop workflow-specific templates that combine CGM illustrations with interactive macro functionality for field or lab operations.
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java Frameworks and APIs**  
   Use **Aspose.Words for Java** or Office template engines in Spring-based environments to automate CGM-to-DOTM conversion and template assembly.
@@ -87,7 +88,8 @@ While saving your input document to DOTM file format, you can also save your doc
 - **ETL and Reporting Pipelines**  
   Incorporate CGM-to-DOTM conversion into Java-based ETL processes, enabling macro-driven reporting and visualization at scale.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

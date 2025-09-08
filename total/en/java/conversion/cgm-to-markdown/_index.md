@@ -56,11 +56,11 @@ While saving your input document to MARKDOWN file format, you can also save your
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **Computer Graphics Metafile (CGM)** graphics to **Markdown (.md)** content is a powerful way to bridge visual technical data with lightweight, developer-friendly documentation formats. In **Java-based documentation tools**, this conversion enables CGM diagrams to be referenced, embedded, or described directly in Markdown files, making them ideal for API documentation, engineering manuals, and open-source project guides. Markdown’s portability and compatibility with static site generators ensure that CGM visuals can be integrated into modern developer workflows with minimal overhead.
 
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 
 - **Embedding CGM Diagrams in Technical Manuals**  
   Reference or embed CGM diagrams within Markdown-based documentation for clearer technical explanations.
@@ -72,7 +72,8 @@ While saving your input document to MARKDOWN file format, you can also save your
   Use Markdown as a simple, portable medium for CGM-enhanced engineering or system reports.
 
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 
 - **Java-Based Converters**  
   Utilize Java libraries or custom parsers to transform CGM diagrams into Markdown-compatible image references or vector descriptions.
@@ -86,7 +87,8 @@ While saving your input document to MARKDOWN file format, you can also save your
 - **Continuous Documentation Updates**  
   Automate Markdown regeneration from updated CGM diagrams in Java-powered CI/CD pipelines for always-current documentation.
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

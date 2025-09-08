@@ -71,20 +71,22 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting CGM (Computer Graphics Metafile) files to POT (PowerPoint Template) in Java-based environments allows organizations to create reusable, standardized presentation templates enriched with technical diagrams. This process is valuable for engineering, business, and educational sectors that require consistent slide layouts, corporate branding, and accurate visual representations.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - **Standardized Business Presentations** – Maintain brand consistency across all company presentations.  
 - **Reusable Engineering Slide Decks** – Pre-build layouts with embedded CGM diagrams for faster project reporting.  
 - **Branded Reporting Templates** – Create ready-to-use PowerPoint templates for recurring reporting cycles.  
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **Java-Based Presentation Engines** – Use Apache POI or similar APIs to integrate CGM-to-POT conversion.  
 - **Office File Generation Tools** – Automate POT file creation with embedded diagrams for multiple departments.  
 - **Content Automation Workflows** – Deploy scheduled scripts to generate and update PowerPoint templates in batch.  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

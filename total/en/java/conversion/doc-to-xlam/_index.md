@@ -70,22 +70,24 @@ After converting DOC to XLAM, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOC** to **XLAM (Excel Add-In)** allows Word-based macros, instructions, and formulas to be embedded into Excel as add-ins. This enables automation, custom functions, and productivity enhancements across spreadsheet workflows.
 
-## ✅ Key Use Cases
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Embedding document-based macros into Excel add-ins  
 - Automating repetitive spreadsheet processes  
 - Creating custom Excel functionalities  
 - Distributing enterprise-wide Excel automation tools
 
-## ⚙️ Automation Scenarios
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - DOC-to-XLAM macro extraction scripts  
 - Automated VBA code packaging into add-ins  
 - Large-scale Excel automation deployment workflows  
 
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

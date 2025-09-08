@@ -69,22 +69,24 @@ After converting DOCX to ODS, [Aspose.Cells for Java](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 Converting **DOCX** to **ODS (OpenDocument Spreadsheet)** enables open-standard spreadsheet processing, ensuring long-term compatibility, interoperability, and compliance for business, government, and academic use cases.
 
-### ✅ Key Use Cases
+#{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
 - Extracting DOCX tables into **ODS**  
 - Interoperability with **Apache OpenOffice**  
 - Government-compliant **reporting formats**  
 - Academic **data sharing and collaboration**  
 
-### ⚙️ Automation Scenarios
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
 - **DOCX-to-ODS reporting pipelines**  
 - **Open-source ETL workflows**  
 - **Automated ODS dataset creation**  
 - **Bulk migration to open-standard spreadsheets**  
 
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
