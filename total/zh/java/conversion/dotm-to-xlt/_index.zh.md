@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLT EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTM** 转换为 **XLT** 可以从启用宏的 Word 模板创建可重用的 Excel 模板，用于标准化的业务和报告工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 标准化的业务模板
 - 企业报告模板
 - 政府数据表格
 - 教育评分模板
 - 财务规划模板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTM 到 XLT 的自动化模板创建
 - 企业工作流模板管道
 - 云模板共享
 - 宏到 Excel 模板自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **XLS（Excel 二进制格式）** 对于直接从Word模板创建结构化、可分析的电子表格是必不可少的，确保遗留兼容性和高效的离线工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 遗留财务报告
 - 企业记录保存
 - 离线兼容电子表格
 - 政府/合规报告
 - 结构化表格数据提取
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOT 到 XLS 数据迁移
 - 批量模板到电子表格自动化
 - 遵从合规的数据转换
 - 企业报告流水线
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

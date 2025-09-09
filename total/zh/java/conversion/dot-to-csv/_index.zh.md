@@ -61,24 +61,26 @@ otherformats: EXCEL XLAM XLSM XLSB XLTX TSV DIF XLS XLT SXC FODS XLTM XLSX ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **CSV（逗号分隔值）** 对于将Word模板转换为轻量化、结构化数据集至关重要，这些数据集易于处理、共享，并可在多个平台上导入。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 大量数据导出
 - 数据库导入
 - 适用于电子表格的结构
 - 轻量级数据共享
 - 基于云的集成
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOT 到 CSV 数据管道
 - 基于模板的数据集生成
 - 工作流中的 CSV 自动化
 - 企业报告系统
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ otherformats: TIFF PS OTT EMF JPEG SVG PCL ODT MD DOTM EPUB DOTX DOT FLATOPC DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG转SVG（可缩放矢量图形）** 确保电子邮件可以作为适用于网络和数字平台的分辨率无关图形表示。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将电子邮件签名转换为优化网络图形
 * 将电子邮件布局存档为SVG以便重复使用
 * 将电子邮件视觉内容发布到网站和数字报告中
 * 利用电子邮件数据创建可缩放信息图表
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 用于数字发布的MSG到SVG管道
 * 将营销电子邮件自动导出为网络图形
 * 批量将电子邮件转换为SVG以进行存档
 * 与设计和CMS平台集成
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

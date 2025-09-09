@@ -42,23 +42,25 @@ otherformats: POWERPOINT POWERPOINTX WORD PPTX
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">试试我们的 CSV 到 POWERPOINT 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **CSV** 转换为 **POWERPOINT (Microsoft PowerPoint Presentation)** 将结构化数据集转变为视觉吸引力强、适合观众的演示文稿。这有助于快速高效地从原始数据创建报告、演示文稿和仪表板。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 CSV 数据创建销售报告
 - 自动化投资者路演文稿
 - 生成季度业务审查演示文稿
 - 为会议制作视觉仪表板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 直接从 CSV 数据创建 PowerPoint 文件
 - 用于报告的批量 CSV 到 PPT 生成系统
 - 由 Java 驱动的自动化幻灯片设计引擎
 - 用于定期演示文稿的计划报告管道
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

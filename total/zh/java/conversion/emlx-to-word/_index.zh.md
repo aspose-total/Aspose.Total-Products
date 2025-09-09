@@ -30,21 +30,23 @@ otherformats: PDF WORDML WORD ODT EMF DOTM FLATOPC DOC PS SVG GIF PNG TEXT OTT R
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **EMLX文件**可以转换为**Word格式（DOC/DOCX）**以进行编辑、存档和专业文档编制。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}  
 - 在Microsoft Word中编辑电子邮件  
 - 从电子邮件准备专业报告  
 - 从Apple Mail创建可共享的文档  
 - 为合规性保留格式化的电子邮件数据  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 - 批量EMLX转Word自动化流程  
 - 存档和符合性就绪工作流程  
 - 转换后基于AI的摘要  
 - 使用Word输出进行企业级报告  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

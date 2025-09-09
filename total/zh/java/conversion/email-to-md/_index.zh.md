@@ -30,13 +30,12 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件转换为**Markdown (MD)**提供了一种轻量级的基于文本的格式，广泛应用于开发人员工作流程、文档系统和静态网站。使用 Email Java API，电子邮件可以无缝地转换为Markdown，用于版本控制和发布。
 
 
-## ✅ 主要用途
-
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - **开发人员文档**：将技术或支持电子邮件存储为MD，用于GitHub/GitLab维基。  
 - **静态网站发布**：直接将通讯或公告发布到基于Jekyll/Hugo的站点。  
 - **知识库**：将常见问题或客户回复电子邮件添加到基于Markdown的知识门户。  
@@ -44,7 +43,8 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 - **轻量级归档**：以简单的基于文本的格式保存电子邮件，便于访问。  
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **文档自动化**：将支持或更新日志电子邮件转换为MD，用于产品文档。  
 - **知识管理**：自动将电子邮件对话同步到基于Markdown的知识库中。  
@@ -52,7 +52,8 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 - **静态站点更新**：自动将通讯发布到静态网站。  
 - **批量转换**：将通讯批量转换为MD，用于集中式存储库。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,27 @@ otherformats: MD PDF GIF EPUB SVG PNG ODT XPS OTT DOC TEXT DOCX DOTX RTF PS TIFF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为 DOCX** 可使电子邮件数据以现代、广泛使用的 Microsoft Word 格式可供编辑、协作和数字存储。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将电子邮件转换为可重复使用的业务文件
 * 以 Word 格式共享与项目相关的沟通
 * 从电子邮件线程生成格式化报告
 * 为演示或会议准备文档
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 用于企业报告的自动化电子邮件至 Word 流程
 * 将整个邮箱转换为 DOCX 进行归档
 * 与 CRM/ERP 系统集成以生成文档
 * 用于项目文档化的工作流自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

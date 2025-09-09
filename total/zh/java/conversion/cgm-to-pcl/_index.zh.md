@@ -42,21 +42,23 @@ otherformats: DOTX RTF WORDML OTT MARKDOWN MHTML PS DOTM ODT XAMLFLOW PCL FLATOP
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（计算机图形元文件）文件转换为 PCL（打印机命令语言）在基于 Java 的工作流中至关重要，特别适用于需要精确、可扩展和高效打印流程的行业。PCL 得到工业打印机的广泛支持，是工程图表、技术文档和大规模报告打印的理想目标格式。借助 Java，开发人员可以将 CGM 转换为 PCL，并集成到自动化流程中，实现一致的输出质量，并与企业打印环境兼容。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **工业打印** – 直接将基于 CGM 的 CAD 或技术图表发送至高速 PCL 兼容打印机。
 - **工程文档** – 将 CGM 技术图纸转换为 PCL，用于标准化的工程报告分发。
 - **直接打印工作流** – 通过生成可直接供打印机使用的 PCL 文件，消除中间文件处理。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **Java 打印流水线** – 将 CGM 转换为 PCL，并与 Java 的 API 集成，实现自动批量打印。
 - **企业报告生成** – 结合 Java 报告工具（例如 JasperReports）与 PCL 输出，进行大容量文档分发。
 - **虚拟打印机缓冲区** – 使用 Java 服务将 CGM 转换为 PCL，并将其排入虚拟或网络打印机缓冲系统。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

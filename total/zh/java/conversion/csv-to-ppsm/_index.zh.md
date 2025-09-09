@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX PPSMX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">试试我们的 CSV 到 PPSM 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **CSV** 转换为 **PPSM（启用宏的 PowerPoint 幻灯片放映）** 可以实现从结构化数据集生成的交互式、自动化幻灯片演示的交付。这种格式非常适合产品演示、仪表板和互动学习材料。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 基于宏的产品演示
 - 自动化财务仪表板演示
 - 互动培训幻灯片展示
 - 基于事件的演示回放
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 创建带有嵌入式宏的 PPSM 输出
 - 基于 CSV 的宏注入工作流程
 - 批量生成用于定期事件的 PPSM
 - 基于 Java 的幻灯片放映调度系统
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -61,22 +61,24 @@ otherformats: XLSM TSV XLTM XLS EXCEL XLSX XLAM XLT SXC XLSB ODS FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **XLTM（Excel 宏启用模板）** 可创建可重复使用、自动化就绪的电子表格模板。它将模板标准化与宏驱动效率相结合。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 宏启用的业务模板创建
 - 自动化重复报告流程
 - 将 VBA 逻辑嵌入可重复使用的模板
 - 文档转模板工作流转换
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOC 到 XLTM 宏启用模板转换器
 - 自动化 VBA 模板生成流水线
 - 宏驱动的模板部署系统
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

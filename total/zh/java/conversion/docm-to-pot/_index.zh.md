@@ -54,10 +54,10 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCM（启用宏的 Word 文档）** 转换为 **POT（PowerPoint 模板，传统）** 对于将文本密集的 Word 内容转换为 **标准化演示文稿模板** 至关重要，这样可以确保这些模板与旧版 Microsoft PowerPoint（97–2003）保持兼容。虽然 DOCM 文件通常包含结构化报告、表格和格式化内容，但使用 POT 可以确保这些数据可以作为 **品牌化、可重复使用的模板** 在传统环境中重新使用。这种转换支持仍然依赖于旧版 Office 套件的组织，同时提供了一种可靠的方式来 **迁移、归档和标准化演示文稿工作流程**。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **创建品牌演示文稿模板**  
   将基于 Word 的内容转换为保持一致品牌形象的公司模板。  
@@ -74,7 +74,8 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 - **支持使用旧版 Office 套件的用户**  
   使培训团队、政府机构或使用过时软件的组织保持兼容。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM 到 POT 批量转换器**  
   自动化将 Word 文档转换为可重复使用的 PowerPoint 模板。  
@@ -90,7 +91,8 @@ otherformats: POTX PPTX PPS POT PPSX PPSM POTM POWERPOINT PPT PPTM CSV DIF FODS 
 
 - **将 POT 模板集成到公司库的工作流自动化**  
   自动将转换后的模板分发到集中式幻灯片存储库。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

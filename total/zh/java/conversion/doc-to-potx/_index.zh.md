@@ -54,22 +54,24 @@ otherformats: PPSX PPTM POTX POTM PPT POWERPOINT PPS POT PPTX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **POTX（PowerPoint Open XML 模板）** 对于从 Word 内容生成现代、可重复使用的演示文稿模板至关重要。这确保与最新的 PowerPoint 版本兼容，并允许在多个演示文稿中保持一致的设计。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从报告创建品牌演示文稿框架
 - 将结构化的 Word 文档转换为演示文稿模板
 - 在培训材料中保持设计一致性
 - 为企业部门设计可重复使用的幻灯片组
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于无缝转换的 DOC-to-POTX 映射工作流程
 - 基于 XML 的模板定制，实现高级设计控制
 - 从 Word 内容批量创建企业模板
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

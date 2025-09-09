@@ -61,22 +61,24 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOTX（Word模板）** 转换为 **SXC（StarOffice Calc）** 对于从标准化模板创建结构化电子表格非常有价值。此转换支持传统系统、开源工作流程以及跨平台互操作性。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 跨平台文档处理  
 - 传统办公套件兼容性  
 - 企业存档和合规性报告  
 - 开源数据工作流程  
 - 系统间可互操作的报告  
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于数据转换的 DOTX 到 SXC 管道  
 - 批量文档转换为电子表格  
 - 与 StarOffice Calc 集成的传统系统  
 - 由开源 Calc 提供支持的自动化报告  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

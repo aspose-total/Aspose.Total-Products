@@ -57,21 +57,23 @@ otherformats: WMF WMZ SVGZ JPEG2000 EMZ DXF TGA IMAGE PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转WMZ（压缩的Windows图元文件）转换优化矢量图形的存储和传输。这对于在企业文档工作流程中减小文件大小并保持兼容性非常有用。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **高效传输矢量内容** – 在文档系统中最小化带宽使用。
 - **优化文档打包** – 将WMZ嵌入Office文件以实现可移植性。
 - **内容存档** – 存储压缩的矢量插图以供长期访问。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于Java ZIP的压缩API** – 批量自动化CGM转WMZ转换。
 - **图像嵌入工具** – 将WMZ图形集成到多文件文档包中。
 - **文档准备服务器** – 简化预发布工作流程。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

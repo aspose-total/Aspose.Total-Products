@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTM** 转换为 **XLSB** 可以处理大规模数据集，提高Excel性能，并将支持宏的数据以二进制格式存储，以加快处理速度。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 大数据报告
 - 企业级数据集
 - 高性能财务建模
 - 云驱动的Excel工作流
 - 宏到二进制Excel存储
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTM 到 XLSB ETL管道
 - 自动化批量数据集转换
 - 大规模企业报告
 - 宏到二进制电子表格工作流
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

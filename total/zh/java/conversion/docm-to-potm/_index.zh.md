@@ -54,8 +54,8 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **设计交互式培训模板**
   使用宏驱动的交互式元素构建可重复使用的培训幻灯片。
@@ -72,7 +72,8 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 - **具有内置自动化功能的标准化企业模板**
   分发统一的、带宏的模板，确保团队间的一致性。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **保留宏的 DOCM 到 POTM 转换器**
   在将 Word 文档转换为模板时保留 VBA 宏。
@@ -88,7 +89,8 @@ otherformats: POWERPOINT PPTM POT PPTX POTX PPS PPSM PPSX POTM PPT CSV DIF FODS 
 
 - **基于脚本的转换实现动态演示**
   使用 CLI 或脚本驱动工具自动化幻灯片模板生成。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

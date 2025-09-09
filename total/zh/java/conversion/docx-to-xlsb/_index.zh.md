@@ -61,24 +61,27 @@ otherformats: XLSB SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **XLSB（Excel 二进制工作簿）** 对于高效处理大规模电子表格数据非常重要，提供更快的性能和针对文本密集和复杂数据集的优化存储。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
 - 高性能数据存储
 - 将文本密集文档导入Excel
 - 处理大型数据集的财务建模
 - 企业报告
 - 更快的加载/保存操作
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 XLSB 的批量转换
 - 优化电子表格工作流程
 - 自动化报告流水线
 - 企业级 Excel 数据处理
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

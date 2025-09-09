@@ -49,22 +49,24 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **JSON（JavaScript对象表示法）** 是使Word文档数据易于被Web服务和应用程序消费的关键。 JSON提供了一种轻量级的结构化格式，支持现代API、Web应用程序和NoSQL数据库。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从Word中提取结构化数据以供应用程序使用
 - 将文档内容集成到Web API中
 - 在基于文档的数据上启用搜索和过滤
 - 将结构化的Word数据存储在NoSQL数据库中
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于直接数据转换的DOC到JSON提取器
 - 面向开发人员的基于Java的JSON生成脚本
 - 自动化的Word到API集成工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

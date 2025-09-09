@@ -54,24 +54,26 @@ otherformats: PPS POTM PPT PPSM POTX POT PPSX POWERPOINT PPTM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTM** 转换为 **PowerPoint (PPT/PPTX)**，将带宏的 Word 模板转换为功能完备的幻灯片，简化企业沟通和培训流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 董事会演示
 - 销售展示
 - 培训模块
 - 企业沟通幻灯片
 - 政策/合规性演示工作流程
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTM 到 PowerPoint 流程
 - 自动化演示幻灯片创建
 - 企业幻灯片工作流程
 - 文档到演示自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

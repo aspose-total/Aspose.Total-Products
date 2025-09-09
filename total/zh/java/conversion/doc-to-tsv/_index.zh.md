@@ -61,22 +61,24 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS TSV XLSM ODS XLSX SXC XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **TSV（制表符分隔值）** 对于从富文本文档中提取结构化的纯文本数据并将其转换为轻量级表格格式至关重要。TSV 得到数据库、电子表格和分析工具的广泛支持，使其成为数据交换和处理的理想选择。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将文档表导出为 TSV 以进行数据库导入
 - 为分析平台准备数据
 - 与 Excel 和 Google Sheets 等电子表格应用集成
 - 共享轻量级结构化数据集
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于 DOC 到 TSV 表提取的软件
 - 用于批处理的自动转换脚本
 - 使用制表符生成输出的文档解析
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

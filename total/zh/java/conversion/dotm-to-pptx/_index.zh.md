@@ -54,24 +54,26 @@ otherformats: POTM PPS PPSM PPTM POTX PPT PPTX POWERPOINT POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTM** 转换为 **PPTX（PowerPoint演示文稿开放XML）** 可以从宏启用的模板中创建现代、可重复使用、云就绪的演示文稿，非常适合企业、培训和销售工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 可扩展的企业演示文稿
 - 培训模块
 - 云就绪的报告幻灯片
 - 销售与营销演示文稿
 - 政策沟通幻灯片
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTM到PPTX转换流水线
 - 基于XML的幻灯片生成
 - 云自动化工作流程
 - 企业就绪的PowerPoint自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,22 +30,24 @@ otherformats: DOCX JPEG TIFF PDF DOCM TEXT RTF PNG DOT PCL SVG EPUB WORDML DOTM 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将EMLX（Apple Mail电子邮件文件）转换为**EMF（增强型图元文件格式）**，可以精确地呈现电子邮件布局，包括字体、图像和格式，以便在基于Windows的应用程序中使用。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将Apple Mail电子邮件存档为可缩放矢量图像。
 - 保留通讯和促销电子邮件的视觉保真度。
 - 将电子邮件整合到Windows报告和文档中。
 - 确保分辨率独立的打印就绪输出。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 将EMLX存档批量转换为EMF以用于数字记录。
 - 用于法律/合规电子邮件证据存储的自动化流程。
 - 与使用EMF图形的报告系统集成的工作流程。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

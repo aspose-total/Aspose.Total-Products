@@ -57,8 +57,8 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **工程设计互操作性**  
   在支持DXF的CAD工具中共享和编辑基于CGM的设计，以实现跨平台协作。
@@ -70,7 +70,8 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
   将CGM图表转换为DXF，以便在CAD软件中直接进行修改，而不会丢失矢量保真度。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **基于Java的CAD工具**  
   将CGM转换为DXF直接集成到基于Java的CAD编辑和可视化应用程序中。
@@ -80,7 +81,8 @@ otherformats: WMF PSD DXF  JPEG2000 SVGZ EMZ WMZ IMAGE TGA DICOM
 
 - **自动化CAD存档系统**  
   将CGM设计存储为DXF文件，以便长期工程存档，以备将来重复使用和合规性。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

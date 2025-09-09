@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSB EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **XLSB（Excel 二进制工作簿）** 是处理大型数据集并进行优化存储和更快处理的理想选择，适用于企业规模的报告。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 企业规模数据集
 - 大数据兼容的电子表格
 - 优化存储工作流程
 - 金融建模
 - 大规模记录自动化
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOT 到 XLSB 模板转换
 - 高性能 Excel 流水线
 - 数据密集型企业报告
 - 可扩展的文档到数据集工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

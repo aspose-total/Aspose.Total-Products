@@ -61,18 +61,20 @@ otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将基于文档的宏嵌入到 Excel 加载项中  
 - 自动化重复的电子表格流程  
 - 创建自定义 Excel 功能  
 - 分发面向企业的 Excel 自动化工具  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOC 到 XLAM 宏提取脚本  
 - 将 VBA 代码自动打包成加载项  
 - 大规模 Excel 自动化部署工作流程  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

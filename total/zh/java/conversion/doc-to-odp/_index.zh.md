@@ -54,18 +54,20 @@ otherformats: PPSM POT POWERPOINT PPTX POTX PPTM POTM PPS PPSX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从基于Word的报告创建演示文稿
 - 将文本和图像迁移到LibreOffice Impress
 - 为加快速度自动执行文本到幻灯片的转换
 - 以供应商中立格式共享演示文稿
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于即时转换的DOC到ODP幻灯片生成器
 - 基于Java的演示文稿模板工具
 - 自动化内容再利用工作流程
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

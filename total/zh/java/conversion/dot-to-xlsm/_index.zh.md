@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSM EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **XLSM（Excel 宏启用工作簿）** 可以从 Word 模板构建可重用的自动化 Excel 工作簿，实现复杂计算和工作流自动化。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 自动化财务仪表板
 - 宏启用的报告工作流
 - 企业生产力模板
 - 复杂数据分析自动化
 - 过程驱动的电子表格模型
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 具有宏的 DOT 到 XLSM 转换
 - 工作流自动化流水线
 - 宏启用模板生成
 - 文档到 Excel 自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

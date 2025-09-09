@@ -49,23 +49,25 @@ otherformats: TSV FODS XLTM MD XLT EXCEL XLSM ODS XLSB TXT DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将CGM文件转换为**XLT（Excel模板）**格式在基于Java的应用程序中确保了技术和工程报告的一致可重用的电子表格布局。XLT模板标准化了格式、数据放置和图表，从而实现了从基于CGM的图表或数据提取中更快速地生成结构化报告。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 用于重复技术报告的可重用工程模板。
 - 用于CGM图表集成的预格式化布局。
 - 快速生成质量控制和检验表。
 - 企业文档的一致品牌和格式。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于批量生成XLT的基于Java的电子表格模板系统。
 - 通过自动化流程从CGM数据填充模板。
 - 与企业报告工具集成，生成基于XLT的输出。
 - 用于公司范围内报告标准化的批量转换。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

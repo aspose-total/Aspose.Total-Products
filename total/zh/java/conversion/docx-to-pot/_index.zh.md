@@ -54,24 +54,26 @@ otherformats: POWERPOINT PPS POTM PPTX POTX PPSM POT PPT PPSX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **POT (PowerPoint 模板)** 对于将 Word 文档转换为可重复使用的演示文稿模板至关重要。该过程确保幻灯片设计的一致性、品牌标准化以及将结构化内容高效迁移到专业、可重复使用的 PowerPoint 格式中。
 
-### ✅ 主要用例
+#{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 为企业或教育用途生成 **一致的演示文稿模板**  
 - 标准化 **品牌和企业幻灯片**  
 - 将结构化的 **DOCX 内容迁移到模板准备好的幻灯片**  
 - 通过可重复使用的设计支持 **教育和培训材料**  
 - 在多个演示文稿中实现 **可重复使用的幻灯片布局**  
 
-### ⚙️ 自动化场景
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于批量处理的 **DOCX 到 POT 模板自动化**  
 - 集成 Word 内容的 **演示文稿模板流水线**  
 - 从 DOCX 源生成 **企业幻灯片库**  
 - 用于一致模板创建的 **自动化 PowerPoint 模板工作流**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

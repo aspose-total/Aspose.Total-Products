@@ -42,8 +42,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **动态技术报告**  
   将基于CGM的插图嵌入到自动更新图表、表格和分析内容的DOCM模板中。
@@ -55,7 +55,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
   生成带有嵌入的CGM视觉和宏驱动导航的交互式手册或操作指南。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **用于DOCM创建的Java库**  
   使用诸如**Apache POI**、**docx4j**或**Aspose.Words for Java**等API，以支持宏的方式自动化CGM到DOCM的转换。
@@ -68,7 +69,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 
 - **批处理工作流程**  
   通过基于Java的批处理自动化工具将多个CGM文件转换并编译为支持宏的DOCM报告。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

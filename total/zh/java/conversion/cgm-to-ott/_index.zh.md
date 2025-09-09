@@ -42,8 +42,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **符合ODF标准的报告生成**  
   创建符合标准的报告，其中CGM视觉与结构化的OpenDocument内容无缝集成。
@@ -52,7 +52,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
   将增强了CGM的OTT模板存储在共享存储库中，以便在开源平台上进行实时、多用户编辑。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **通过转换器进行Java自动化**  
   在Java工作流程中使用Aspose API将CGM文件转换为OTT模板，以实现自动部署。
@@ -65,7 +66,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
 
 - **开源企业平台**  
   在基于Java的内容管理和文档自动化系统中部署带有嵌入式CGM图表的OTT模板。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

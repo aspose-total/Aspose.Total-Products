@@ -30,22 +30,24 @@ otherformats: PNG XPS FLATOPC MD TIFF DOTX EMF PDF DOTM EPUB RTF DOCM GIF TEXT S
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 EMLX 电子邮件转换为 **EPUB（电子出版物）** 可使电子邮件内容便携、结构化，并针对电子阅读器和移动设备进行了优化。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将 Apple Mail 消息转换为便携式电子书。
 - 将新闻通讯、教程或培训电子邮件存储为数字出版物。
 - 为学习材料或文档共享可读格式。
 - 提升移动设备和电子阅读器用户的可访问性。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 将 Apple Mail 电子邮件自动归档到 EPUB 图书馆中。
 - 批量将公司更新转换为 EPUB 以供员工分发。
 - 将电子邮件转换为知识库，供长期参考。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

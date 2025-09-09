@@ -42,19 +42,21 @@ otherformats: POWERPOINT PPTX PPTXX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">试试我们的 CSV 到 PPTX 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 创建动态销售演示文稿
 - 自动化会议演示
 - 生成适用于客户的提案
 - 为管理报告可视化 CSV 数据集
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - CSV 到 PPTX 的批量转换工作流程
 - 由 Java 驱动的幻灯片主题和布局应用
 - 与自动化内容管道集成
 - 用于大型数据集的高速处理
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

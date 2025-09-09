@@ -61,24 +61,26 @@ otherformats: XLT SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **XLT（Excel 模板）** 可以从文档内容创建可重复使用的电子表格模板，标准化企业报告并自动化重复工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 标准化业务报告
 - 创建可重复使用的模板
 - 企业数据录入框架
 - 自动化 Excel 工作流程
 - 团队间一致的格式设置
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 XLT 的自动化模板创建
 - 工作流程标准化
 - 企业电子表格管理
 - 基于模板的 Excel 自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

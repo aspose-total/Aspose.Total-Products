@@ -30,23 +30,25 @@ otherformats: WORDML DOT OTT DOTM EMF TIFF ODT SVG GIF MD PS DOC XPS PDF EPUB FL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML** 转换为 **TIFF（标记图像文件格式）** 会生成电子邮件的档案级图像，非常适合合规性和记录保存。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - **企业存档**：将电子邮件存储为TIFF以供长期保存。
 - **法律证据**：使用TIFF的不可编辑格式进行法证记录。
 - **政府合规**：监管电子邮件存档的标准格式。
 - **多页支持**：将多页电子邮件保存在单个TIFF文件中。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **批量TIFF导出**：将整个邮箱转换为TIFF存档。
 - **法证自动化**：自动记录调查中的电子邮件为TIFF格式。
 - **企业ECM系统**：将TIFF电子邮件快照集成到记录系统中。
 - **监管管道**：使用基于TIFF的记录满足存档标准。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

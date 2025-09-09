@@ -30,23 +30,25 @@ otherformats: DOCM SVG MD TEXT PDF PNG DOTX OTT DOT ODT FLATOPC WORDML GIF EPUB 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *将电子邮件转换为DOTX可确保标准化、无宏模板，非常适合合规和创建干净的文档。*
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将结构化的电子邮件转换为安全、可重复使用的模板
 * 在不包含嵌入式宏的情况下标准化企业文档
 * 为面向客户的沟通准备品牌一致的模板
 * 将重复的支持或公告电子邮件转换为模板库
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 从重复的电子邮件工作流自动创建DOTX模板
 * 批量将客户支持或人力资源电子邮件转换为可重复使用的模板
 * 与文档系统集成以生成DOTX模板
 * 定期将通信存档转换为DOTX以保持一致性
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

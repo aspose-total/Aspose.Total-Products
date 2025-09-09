@@ -54,18 +54,20 @@ otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS POTM PPSM POTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 嵌入宏的互动企业幻灯片创建  
 - 自动化重复的演示文稿格式设置  
 - 嵌入 VBA 宏以实现幻灯片动态操作  
 - 使用自动化脚本生成数据驱动的演示文稿  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于企业模板的 DOC 到 POTM 宏注入工作流程  
 - 基于脚本的幻灯片创建，自动格式设置  
 - 用于大规模内容生成的企业幻灯片自动化引擎  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

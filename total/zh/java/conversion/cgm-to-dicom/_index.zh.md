@@ -57,10 +57,10 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **计算机图形元文件 (CGM)** 文件转换为 **DICOM (医学数字成像和通信)** 格式对于确保与现代医学成像工作流的兼容性至关重要。在 **基于 Java 的医学成像系统** 中，这种转换可以实现与医院数据基础设施的无缝集成，支持标准化图像交换，并增强诊断可视化能力。通过将 CGM 绘图或图表转换为 DICOM，医疗机构可以统一各种成像格式，使其可以在 **PACS**、**放射学查看器** 和基于人工智能的诊断工具之间进行访问。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **集成 Java 放射学查看器**  
   在基于 Java 的 DICOM 查看器中直接显示基于 CGM 的医学插图，以增强诊断解释能力。
@@ -74,7 +74,8 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 - **诊断可视化**  
   通过将转换后的 CGM 数据嵌入多模态成像研究中，改善临床工作流程。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **用于 DICOM 处理的 Java API**  
   使用用于图像处理和 DICOM 元数据管理的 Java 库，自动化 CGM 到 DICOM 的转换流程。
@@ -87,7 +88,8 @@ otherformats: EMZ PSD WMF WMZ TGA DICOM DXF SVGZ IMAGE JPEG2000 DICOM
 
 - **基于 AI 的诊断工作流程**  
   使用集成 Java 的 AI 模型分析转换后的 DICOM 图像，进行模式识别、异常检测和预测性诊断。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

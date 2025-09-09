@@ -61,24 +61,26 @@ otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **CSV（逗号分隔值）** 对于将非结构化文档表转换为结构化、分析就绪的数据集至关重要。CSV 可实现与数据库、BI 工具和报告管道的无缝集成，使文档数据在现代工作流中可操作。
 
-### ✅ 主要用例
+#{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 DOCX 中提取表格转为 **CSV**  
 - 为 **商业智能（BI）工具** 准备数据集  
 - 将结构化文本导入 **SQL 数据库**  
 - 实现 **电子商务批量上传**  
 - 执行 **数据迁移** 任务  
 
-### ⚙️ 自动化场景
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **批量 DOCX 到 CSV 表格提取**  
 - **自动化数据集准备**  
 - **用于报告的 CSV 管道**  
 - 与 **ETL 工作流** 集成  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

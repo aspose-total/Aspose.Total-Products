@@ -49,10 +49,10 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCM（Word宏启用文档）** 转换为 **JSON（JavaScript对象表示法）** 对于将静态文档内容、表格和表单字段转换为 **结构化、可机器读取的数据** 至关重要。JSON 是轻量级的、易读的，在 **API、分析、Web 应用程序和自动化工作流** 中被广泛使用。通过将数据从 DOCM 提取为 JSON，组织可以解锁跨现代平台的互操作性，实现更快的集成，并确保数据准备好用于 **实时处理、验证和可扩展分发**。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **将文档数据发布到 REST/GraphQL API**  
   将提取的 DOCM 内容作为 JSON 提供，以便在 Web 和移动应用程序中直接使用 API。  
@@ -69,7 +69,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 - **启用无头 CMS 或微服务架构**  
   将 DOCM 内容集成到分布式、以 API 为先的系统中，其中 JSON 是通用语言。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **具有字段映射的 DOCM 到 JSON 提取**  
   定义映射以将表格、标题和字段转换为结构化的 JSON 对象。  
@@ -85,7 +86,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 - **在导出 JSON 之前剥离宏和 PII 的治理规则**  
   应用合规性检查，以确保从启用宏的文件中获得安全、经过清理的 JSON 输出。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

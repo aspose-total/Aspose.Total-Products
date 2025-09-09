@@ -30,12 +30,12 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件导出为**Word文档（DOC/DOCX）**可进行编辑、注释，并与业务报告集成。使用Email Java API，组织可以将电子邮件转换为完全可编辑的文档。
 
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **可编辑记录**：将重要沟通内容转换为Word文档以起草合同。
 - **案例文档**：以可编辑形式附加电子邮件线索到法律案卷中。
@@ -44,7 +44,8 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 - **知识管理**：将电子邮件内容存储在基于Word的集中式存储库中。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **批处理**：将选定的电子邮件转换为Word文档以进行项目文档化。
 - **合同自动化**：将谈判电子邮件保存为DOCX以纳入协议中。
@@ -52,7 +53,8 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 - **协作工具**：将转换为Word的电子邮件与MS Teams或SharePoint同步。
 - **模板集成**：将电子邮件内容插入公司Word模板中。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ otherformats: PCL OTT RTF PDF WORDML TIFF DOCX MD EMF JPEG DOTX DOT FLATOPC XPS 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *将电子邮件转换为DOCX格式，提供了一种现代、广泛支持的格式，具有先进的编辑和样式特性。*
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将电子邮件对话保留为可编辑的DOCX文件
 * 为专业文档准备客户沟通
 * 与团队或合作伙伴分享格式化的电子邮件记录
 * 利用DOCX功能，如评论、修订记录和样式
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 用于项目跟踪的实时电子邮件转换为DOCX
 * 用于企业记录的批量电子邮件存档为DOCX
 * 将客户或支持电子邮件自动导出为DOCX以供报告
 * 定期转换以进行通信的安全备份
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

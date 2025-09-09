@@ -54,23 +54,25 @@ otherformats: PPT POTM POT POTX POWERPOINT PPSM PPS PPTM PPTX PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **ODP（OpenDocument Presentation）** 将 Word 内容转换为开放标准的幻灯片。这对于 OpenOffice 演示文稿、学术环境和政府合规工作流非常理想。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 **DOCX 报告** 创建幻灯片  
 - 使用 ODP 用于 **OpenOffice**  
 - 将 DOCX 演示文稿存档为 **开放格式**  
 - 学术或 **政府合规报告**  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **批量生成 DOCX 到 ODP 的演示文稿**  
 - **自动化讲座/演讲稿创建**  
 - **开源工作流程管道**  
 - **基于企业 ODP 的演示文稿自动化**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

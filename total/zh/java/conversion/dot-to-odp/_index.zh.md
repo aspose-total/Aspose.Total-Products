@@ -54,24 +54,26 @@ otherformats: PPTX POT PPS PPTM POTX POTM PPSX POWERPOINT PPSM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **ODP（OpenDocument Presentation）** 对于直接从Word模板生成开源演示文稿非常重要，从而实现协作和跨平台可访问性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 跨平台演示文稿  
 - 开源兼容性  
 - 企业就绪模板  
 - 基于云的协作  
 - 教育内容生成  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOT 到 ODP 的自动化工作流程  
 - 演示文稿就绪流程  
 - OpenDocument 工作流自动化  
 - 文档到演示文稿系统  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

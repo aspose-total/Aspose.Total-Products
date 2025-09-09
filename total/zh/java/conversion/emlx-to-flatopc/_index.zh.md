@@ -30,22 +30,24 @@ otherformats: PDF DOT XPS OTT MD PNG ODT DOCX FLATOPC PCL DOC TIFF DOTM EMF SVG 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 EMLX 转换为 **FLAT OPC（Flat Open XML Paper）**，为高级处理、存储或转换提供了电子邮件的单一 XML 结构。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 电子邮件内容的基于 XML 的表示。
 - 与文档管理系统的集成简化。
 - 将电子邮件转换为开发人员友好、符合模式的格式。
 - 促进转换为其他基于 Office Open XML 的格式。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于在 XML 中存档 Apple Mail 电子邮件的自动化流水线。
 - 使用结构化 XML 转换的电子邮件到数据库工作流程。
 - 用于企业系统集成的批量转换。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

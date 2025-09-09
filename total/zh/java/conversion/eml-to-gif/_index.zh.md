@@ -30,23 +30,25 @@ otherformats: EPUB GIF PNG DOT EMF PCL PS WORDML ODT SVG OTT DOC XPS DOCM TEXT F
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML** 转换为 **GIF（图形交换格式）** 将电子邮件内容转换为一种轻量且广泛支持的图像格式。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}   
 - **网络展示**：在网站或内部门户网站上嵌入电子邮件快照。  
 - **轻量级存档**：将电子邮件存储为 GIF，以便快速预览。  
 - **跨平台共享**：以通用支持的图像格式共享电子邮件。  
 - **文档化**：在培训或报告材料中包含电子邮件内容。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 - **电子邮件到 GIF 管道**：将传入的 EML 文件转换为 GIF，用于仪表板。  
 - **预览生成器**：自动生成已存档电子邮件的缩略图/预览图像。  
 - **轻量级存储**：批量将电子邮件转换为紧凑的 GIF 图像。  
 - **工作流集成**：将电子邮件快照插入工单或 CRM 系统中。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

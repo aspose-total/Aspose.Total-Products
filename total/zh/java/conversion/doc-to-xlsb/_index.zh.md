@@ -61,22 +61,24 @@ otherformats: XLSB SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **XLSB（Excel 二进制工作簿）** 是处理大型数据集时的理想选择，具有高性能和较小的文件大小。 XLSB 格式提高了在企业应用程序中的加载速度和计算效率。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 Word 进行大规模数据迁移  
 - 以二进制格式安全存储表格数据集  
 - 高速电子表格计算  
 - 优化的企业数据处理  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOC 到 XLSB 的高性能转换工具  
 - 自动化的二进制电子表格生成流水线  
 - 压缩优化的文档到 Excel 工作流程  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

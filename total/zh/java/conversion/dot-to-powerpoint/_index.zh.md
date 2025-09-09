@@ -54,24 +54,26 @@ otherformats: PPTM PPSX POWERPOINT POTX PPT POT PPSM PPS PPTX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **PowerPoint** 可以快速从Word模板创建可立即使用的演示文稿幻灯片，简化报告和培训内容生成。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 快速文档到演示文稿的工作流程
 - 商业报告
 - 教育幻灯片
 - 提案生成
 - 培训内容创建
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOT 到 PowerPoint 幻灯片生成
 - 自动化演示文稿构建
 - 企业工作流程优化
 - 文档到幻灯片流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

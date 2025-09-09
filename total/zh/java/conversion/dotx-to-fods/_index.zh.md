@@ -61,25 +61,27 @@ otherformats: XLT XLTM XLSM ODS DIF XLAM FODS TSV SXC XLSB XLS EXCEL XLTX XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **FODS（Flat XML ODF Spreadsheet）** 可以与 LibreOffice/Apache OpenOffice 兼容，同时为政府和企业提供基于结构化 XML 的电子表格。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - LibreOffice/Apache OpenOffice 工作流程
 - 基于 XML 的自动化
 - 开放数据项目
 - 政府合规性
 - 多平台兼容性
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 FODS 的流水线
 - 批量 FODS 导出
 - 开源电子表格自动化
 - 云端 XML 工作流程
 - 数据转换自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

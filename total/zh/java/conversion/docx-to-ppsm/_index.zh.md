@@ -54,24 +54,26 @@ otherformats: PPTX POT POTM PPS PPTM PPT POTX POWERPOINT PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **PPSM（启用宏的 PowerPoint 演示）** 对于提供交互式、宏驱动的演示文稿非常重要，可以在运行时自动化任务。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 自动化培训模块
 - 互动产品演示
 - 启用宏的仪表板
 - 工作流驱动的演示文稿
 - 实时报告
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 PPSM 的自动化工作流
 - 启用宏的幻灯片流水线
 - 互动客户演示
 - 企业演示自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -49,23 +49,25 @@ otherformats: XLSM DIF TSV FODS EXCEL SXC MD XLTM ODS XLAM XLT XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（计算机图形元文件）文件转换为 **XLSB（Excel 二进制工作簿）** 格式在基于 Java 的应用程序中实现对大型技术数据集的高性能存储和处理。XLSB 文件比传统基于 XML 的 Excel 文件更紴紧，加载速度更快，非常适合工程报告优化和企业仪表盘。通过直接将 CGM 派生数据嵌入 XLSB，企业可以简化分析，同时减小大规模部署的文件大小。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 以二进制 Excel 格式存储大容量技术数据。
 - 为了更快的加载和分析进行工程报告优化。
 - 将 CGM 图形嵌入基于 Excel 的仪表盘。
 - 高效存档基于矢量的数据集。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 集成 Java XLSB 库以创建紧凑的电子表格。
 - 在高性能分析系统中进行批量 CGM 到 XLSB 的处理。
 - 在 Java 企业环境中自动化工程报告流水线。
 - 为实时制造监控仪表盘导出 XLSB。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

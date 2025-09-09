@@ -59,21 +59,23 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转POTM（宏启用的PowerPoint模板）转换使技术团队能够将交互式功能、自动计算和动态图表嵌入可重复使用的演示模板中。在基于Java的系统中，这使得工程培训、模拟演练和企业报告的强大自动化成为可能。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **交互式培训内容** – 为员工入职和技能发展提供宏驱动的演示文稿。
 - **友好的自动化演示** – 自动化生成重复幻灯片内容。
 - **工程宏模板** – 创建带有嵌入式宏逻辑的技术图表，实现实时更新。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **Java宏启用幻灯片生成** – 使用Java API生成带有嵌入宏的POTM文件。
 - **动态报告生成器** – 为不同项目类型自动生成宏准备就绪的模板。
 - **批量PowerPoint模板处理器** – 在企业中自动化大规模宏模板分发。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

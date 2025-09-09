@@ -59,21 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转PowerPoint转换使得可以直接将基于矢量的工程图表嵌入到完全功能的演示文稿中。这对于业务更新、项目报告和技术演示至关重要，确保视觉沟通的清晰性和准确性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **利益相关者的视觉报告** – 包括精确的技术视觉以进行决策。
 - **包含工程图表的演示文稿** – 无缝集成CGM文件到幻灯片中。
 - **具有技术视觉的营销内容** – 结合品牌与工程图形。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **Java PowerPoint API** – 使用Apache POI从CGM图表自动创建幻灯片。
 - **企业幻灯片生成** – 批量生成用于定期报告的演示文稿。
 - **自动化的CGM到幻灯片转换流程** – 集成到企业内容管理系统中。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

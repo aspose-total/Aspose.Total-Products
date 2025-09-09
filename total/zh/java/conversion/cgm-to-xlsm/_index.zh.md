@@ -49,23 +49,25 @@ otherformats: FODS XLAM DIF SXC XLTM MD XLSM TSV EXCEL XLTX XLT ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将CGM文件转换为**XLSM（启用宏的Excel工作簿）**格式在基于Java的系统中，可以帮助组织自动化工程计算、报告和可视化工作流程。使用XLSM，宏可以动态处理CGM衍生数据，执行复杂计算，并更新图表或图表，无需手动干预。这使得针对技术和运营用例的更智能、自更新的报告成为可能。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 使用嵌入式宏自动生成工程报告。
 - 用于制造或设计数据的动态计算工作流程。
 - 将CGM图表集成到具有宏逻辑的Excel模型中。
 - 通过启用宏的分析简化质量控制流程。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 具有宏执行支持的Java Excel自动化引擎。
 - 通过Java API生成启用宏的电子表格。
 - 从企业系统中的CGM数据集中定期创建XLSM。
 - 用于实时工程仪表板的自动化宏触发器。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

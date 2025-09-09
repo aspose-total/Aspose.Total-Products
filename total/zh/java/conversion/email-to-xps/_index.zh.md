@@ -30,12 +30,12 @@ otherformats: OTT TEXT PNG EPUB PCL DOC PS DOTX DOT FLATOPC MD DOCM DOTM RTF EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件转换为**XPS（XML Paper Specification）**提供了类似于PDF的固定布局文档格式，非常适合存档和分发。借助Email Java API，组织可以在XPS格式中保留电子邮件的完整性。
 
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **存档**：将重要电子邮件以固定布局格式存储以供长期使用。
 - **合规性**：为监管机构或审计提供电子邮件的XPS版本。
@@ -44,7 +44,8 @@ otherformats: OTT TEXT PNG EPUB PCL DOC PS DOTX DOT FLATOPC MD DOCM DOTM RTF EMF
 - **打印就绪存储**：以保留布局形式维护通信。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **批量导出**：自动化邮箱到XPS的转换以进行存档。
 - **合规自动化**：将所有公司电子邮件存储为XPS以符合保留政策。
@@ -52,7 +53,8 @@ otherformats: OTT TEXT PNG EPUB PCL DOC PS DOTX DOT FLATOPC MD DOCM DOTM RTF EMF
 - **打印流水线**：将XPS电子邮件导出直接提供给企业打印系统。
 - **云集成**：将转换为XPS的电子邮件与文档存储服务同步。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

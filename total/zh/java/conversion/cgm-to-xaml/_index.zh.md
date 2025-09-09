@@ -59,21 +59,23 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转XAML转换允许将技术图表用于诸如WPF之类的基于.NET的UI框架中，从而实现交互式和样式化界面。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **UI原型设计** – 将图表集成到用户界面设计的模型中。
 - **动态图表** – 将CGM数据呈现为交互式图表。
 - **WPF样式** – 为桌面应用程序的矢量图形应用自定义样式。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **Java到.NET转换桥接** – 以编程方式将CGM转换为XAML格式。
 - **矢量到XAML流水线** – 为即时集成准备资产。
 - **混合平台开发** – 在各平台间启用共享UI组件。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

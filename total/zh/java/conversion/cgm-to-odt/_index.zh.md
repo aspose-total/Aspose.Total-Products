@@ -42,25 +42,27 @@ otherformats: WORDML PCL MHTML MARKDOWN DOTM XAMLFLOW DOTX FLATOPC PS DOT RTF OT
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（Computer Graphics Metafile）文件转换为 ODT（OpenDocument Text）是将精确的矢量图插入开放格式文档的实用方法。这确保了技术手册、工程报告和档案文档中的高质量视觉效果，同时与开源编辑工具兼容。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 发布带有嵌入式矢量图的技术文档。
 - 创建带有可伸缩插图的维护手册。
 - 在开放格式中存档行业标准图表。
 - 政府和机构文件准备。
 - 使用基于矢量图形的科学论文格式。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于技术撰写的基于Java的文档生成引擎。
 - 具有矢量集成的开源文本编辑器工作流程。
 - 用于技术手册的自动发布系统。
 - 带有图表嵌入功能的企业报告系统。
 - 版本控制的文档存储库。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

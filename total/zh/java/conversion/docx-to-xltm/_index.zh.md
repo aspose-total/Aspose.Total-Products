@@ -61,22 +61,24 @@ otherformats: XLTX XLSX DIF EXCEL XLT XLSM TSV ODS XLSB SXC XLAM XLS FODS XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCX** 转换为 **XLTM（启用宏的 Excel 模板）** 对于构建可重复使用的启用宏的电子表格模板至关重要，这些模板嵌入了从文档中衍生的自动化逻辑。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 自动化重复工作流程
 - 创建企业就绪的宏模板
 - 从 DOCX 迁移基于宏的逻辑到 Excel
 - 支持财务和分析模型
 - 简化报告
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 XLTM 的启用宏自动化
 - 模板生成流水线
 - 企业宏管理
 - 自动化 Excel 模板工作流程
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

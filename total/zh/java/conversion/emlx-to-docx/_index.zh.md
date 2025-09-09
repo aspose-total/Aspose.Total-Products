@@ -30,23 +30,25 @@ otherformats: DOTX DOT XPS TEXT GIF SVG OTT PCL FLATOPC PS EPUB DOTM DOCX WORDML
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EMLX 文件** 转换为 **DOCX（Word Open XML）** 可以将电子邮件内容存储在最常用的 Word 格式中。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}  
 - 将 Apple Mail 电子邮件转换为通用访问格式  
 - 在 DOCX 中编辑和格式化电子邮件数据  
 - 用于专业、企业或学术用途的归档  
 - 电子邮件转报告  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 - 企业的批量 EMLX 到 DOCX 管道  
 - 将电子邮件自动导出为 DOCX 存档  
 - 将电子邮件数据集成到文档管理系统中  
 - 从电子邮件存储库生成结构化 DOCX 报告  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

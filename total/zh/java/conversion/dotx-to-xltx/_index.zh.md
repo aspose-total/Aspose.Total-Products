@@ -61,22 +61,24 @@ otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 转换 **DOTX（Word 模板）** 为 **XLTX（Excel 模板开放 XML）**，确保企业获得标准化、云就绪的 Excel 模板。这种格式支持可扩展性、可重用性和现代协作。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - Excel 中的业务报告框架
 - 用于组织的财务模板
 - 与云兼容的 Excel 模板设置
 - 部门报告工作流程
 - 团队间的企业级一致性
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 XLTX 的转换流程
 - 自动化 Excel 模板分发
 - 文档到 Excel 的标准化
 - 用于可扩展性的企业级模板自动化
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

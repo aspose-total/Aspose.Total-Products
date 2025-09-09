@@ -30,19 +30,21 @@ otherformats: EMF SVG RTF PCL DOTM XPS TIFF DOTX PS JPEG PNG DOCM PDF EPUB DOC G
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PS（PostScript）**是出版中使用的页面描述语言。将**EML转换为PS**对专业印刷工作流程至关重要。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 为出版工作流程准备电子邮件内容。
 - 生成适合印刷的文档。
 - 与传统印刷系统集成。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 自动化流水线将电子邮件转换为PostScript。
 - 以适合打印的PS格式存档电子邮件。
 - 用于发布电子邮件通信的批处理作业。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

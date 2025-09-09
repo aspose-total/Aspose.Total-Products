@@ -57,21 +57,23 @@ otherformats: WMF  TGA DXF IMAGE WMZ JPEG2000 PSD SVGZ EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将CGM文件转换为JPEG2000可实现高分辨率图像存储，具有先进的压缩技术，非常适合存档技术和地理空间图形。JPEG 2000支持卓越的质量保留，是需要精细细节但希望减小文件大小的行业的理想选择。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 工程或建筑图纸的高分辨率存档。
 - 需要高效但详细存储的GIS和地图工作流程。
 - 为远程团队提供带宽优化的技术图形流式传输。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 基于Java的自动化JPEG2000生成的地理空间成像工具。
 - 高质量存档需求的企业文档存储库。
 - 用于高效分发的可扩展云成像服务。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

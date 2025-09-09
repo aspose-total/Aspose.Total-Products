@@ -61,10 +61,10 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCM（Word宏启用文档）** 转换为 **Excel（Microsoft Excel工作簿）** 对于将基于文档的静态数据转化为 **交互式电子表格** 至关重要，这样可以释放Excel分析功能的潜力。虽然DOCM文件通常包含结构化表格、表单或清单，但Excel通过 **公式、数据透视表、图表和数据验证** 增强了它们，使信息更具操作性和商业准备性。此转换弥合了文字密集的Word文档与用于决策、报告和预测的动态Excel模型之间的差距。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **将Word表格转换为可操作的Excel模型**  
   将静态的DOCM表格转换为Excel工作表，用于高级计算和商业模型。  
@@ -81,7 +81,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 - **在Excel中集中运营跟踪器**  
   将多个DOCM清单中的数据合并到单个Excel文件中，供团队广泛监控。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM到Excel批处理器**  
   批量将多个DOCM文件转换为Excel工作簿，用于企业规模的工作流程。  
@@ -97,7 +98,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 - **丰富数据并附加到主工作簿的企业管道**  
   将DOCM到Excel转换集成到更新集中报告系统的BI管道中。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

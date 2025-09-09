@@ -54,24 +54,26 @@ otherformats: POTM PPT POT POTX PPTM POWERPOINT PPTX PPSX PPS PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **PPT（传统 PowerPoint 演示文稿）** 对于确保与全球仍在使用的旧版 Microsoft Office 系统的向后兼容性至关重要。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 旧系统演示文稿
 - 离线分发
 - 政府系统
 - 企业档案
 - 使用旧版 Office 的教育机构
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 PPT 的流程
 - 传统演示文稿自动化
 - 兼容性工作流
 - 向后兼容的幻灯片生成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

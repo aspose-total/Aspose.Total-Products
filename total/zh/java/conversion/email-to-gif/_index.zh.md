@@ -30,11 +30,11 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件转换为 **GIF** 格式提供了一种紧凑的方式来保留和共享电子邮件的视觉内容。使用 Java Email API，组织可以生成电子邮件的 GIF 快照，以便进行轻量级分发和嵌入。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **轻量级共享**：分发电子邮件的小型快照。
 - **培训与意识**：在电子学习模块中使用钓鱼邮件的 GIF。
@@ -42,7 +42,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **存档**：以轻量级格式存储电子邮件通信。
 - **跨平台使用**：在不支持高级图像格式的情况下共享电子邮件图像。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **知识库自动化**：将转换为 GIF 的电子邮件发布到文档门户。
 - **安全培训**：自动生成欺诈邮件示例的 GIF 以提高意识。
@@ -50,7 +51,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **批量导出**：将批量电子邮件转换为 GIF 进行存档。
 - **轻量级存档**：存储较不重要通信的较小 GIF 版本。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

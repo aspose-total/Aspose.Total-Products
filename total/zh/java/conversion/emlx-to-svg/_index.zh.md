@@ -30,18 +30,20 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将苹果邮件电子邮件呈现为响应式图形。
 - 为网络使用存档视觉电子邮件内容。
 - 使用可伸缩矢量图形进行高质量打印。
 - 将电子邮件布局重新用于信息图表或网络内容。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 设计团队的批量电子邮件至SVG存档。
 - 用于新闻简报的自动转换流水线。
 - 与数字出版平台集成的工作流程。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

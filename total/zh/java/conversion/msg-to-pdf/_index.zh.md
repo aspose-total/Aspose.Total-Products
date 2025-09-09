@@ -30,23 +30,25 @@ otherformats: ODT PDF DOCX TEXT TIFF WORDML PCL SVG GIF RTF DOT EMF DOC EPUB FLA
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG转PDF**转换是最广泛使用的转换之一，允许电子邮件以普遍接受的格式安全存储、共享和归档。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 法律和合规性电子邮件归档
 * 在各个平台安全共享电子邮件
 * 将电子邮件线程转换为专业的PDF报告
 * 使用加密和权限保护电子邮件内容
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 法律公司和企业的MSG到PDF管道
 * 自动将Outlook电子邮件收件箱归档为PDF
 * 批量转换以进行合规性报告
 * 在文档管理系统中进行电子邮件到PDF的集成
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

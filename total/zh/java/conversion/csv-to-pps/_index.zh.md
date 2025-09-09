@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX PPSX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">试试我们的 CSV 到 PPS 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **CSV** 转换为 **PPS（PowerPoint 97-2003 幻灯片展示）** 可以从结构化数据集生成即时查看的自动幻灯片演示。这非常适合立即生成产品展示、培训模块或基于事件的演示。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 自动产品展示幻灯片
 - 即时生成客户演示文稿
 - 制作基于幻灯片的培训模块
 - 为会议生成基于数据的事件演示
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 直接从 CSV 数据生成 PPS 输出
 - CSV 到 PPS 批处理工作流程
 - Java 触发的幻灯片转换和动画
 - 与自动化内容交付平台集成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

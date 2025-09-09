@@ -30,11 +30,11 @@ otherformats: PNG RTF SVG DOCM TEXT PCL OTT EMF DOC JPEG TIFF DOTM EPUB PS DOT M
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**EMLX（Apple Mail电子邮件文件）**转换为**GIF（图形交换格式）**，非常适合以紧凑、广泛支持的格式分享和分发电子邮件内容。GIF确保更小的文件大小，并且易于在各个平台上兼容。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}  
 
 - **跨平台共享** → 将电子邮件作为GIF图像在应用程序、网站和通讯工具之间共享。  
 - **紧凑存档** → 以轻量的GIF格式存储消息，节省空间。  
@@ -42,7 +42,8 @@ otherformats: PNG RTF SVG DOCM TEXT PCL OTT EMF DOC JPEG TIFF DOTM EPUB PS DOT M
 - **合规用途** → 以GIF格式保存消息，易于查看但防篡改。  
 - **电子邮件可视化** → 将电子邮件转换为适合仪表板或报告的格式。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **批量EMLX转GIF流水线** → 自动将大量电子邮件消息转换为GIF图像。  
 - **电子邮件到网页发布** → 自动将传入的电子邮件转换为GIF以供网页显示。  
@@ -50,7 +51,8 @@ otherformats: PNG RTF SVG DOCM TEXT PCL OTT EMF DOC JPEG TIFF DOTM EPUB PS DOT M
 - **通讯工具集成** → 将EMLX转换为GIF以嵌入聊天/通讯应用程序。  
 - **轻量级记录管理** → 在存储效率重要的地方使用GIF转换。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

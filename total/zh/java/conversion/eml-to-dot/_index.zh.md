@@ -30,25 +30,27 @@ otherformats: PDF DOTX SVG RTF ODT DOC FLATOPC DOT WORDML DOCM XPS PS DOTM PNG T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为 DOT** 可以将电子邮件转换为可重复使用的 Word 模板，有助于基于电子邮件内容创建结构化文档格式。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 从客户沟通创建标准模板
 * 将重复的电子邮件转换为预先设计的文档布局
 * 将电子邮件内容作为品牌报告的基础
 * 从电子邮件文本准备法律或公司模板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 从客户请求自动生成文档模板
 * 基于模板的报告系统
 * 标准化项目沟通格式
 * 用于企业工作流程的电子邮件到模板管道
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

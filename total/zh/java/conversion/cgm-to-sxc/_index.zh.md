@@ -49,21 +49,23 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转SXC（OpenOffice Calc格式）转换使技术图形或表格数据集成到开源电子表格系统成为可能。它支持与LibreOffice和其他基于开放文档的平台兼容。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **工程表格集成** – 将图表与数据表格结合用于技术报告。
 - **开源电子表格存档** – 将基于矢量的技术插图与数据存储在一起。
 - **与LibreOffice工具兼容性** – 确保在跨平台环境中平稳使用文件。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于Java的数据转换工作流** – 将CGM转换为适用于电子表格的格式。
 - **开放文档ETL例程** – 自动化将矢量图导入电子表格。
 - **跨平台报告系统** – 将可视化内容嵌入自动化报告生成中。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

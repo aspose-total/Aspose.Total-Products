@@ -61,25 +61,28 @@ otherformats: DIF XLSB XLSM EXCEL FODS XLTX XLS XLAM XLSX XLT XLTM ODS TSV SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **CSV** 对于将结构化的 Word 模板转换为干净的表格文本数据是必不可少的，这样可以轻松地导入数据库、电子表格和数据管道。
 
-## ✅ 主要用途
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - 数据库导入
 - 电子表格互操作性
 - 大规模数据处理
 - 轻量级文件存储
 - 数据迁移工作流程
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 CSV 管道
 - 批量 CSV 导出
 - ETL 工作流程
 - 企业数据集成
 - 基于云的 CSV 自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

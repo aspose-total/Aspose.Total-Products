@@ -30,25 +30,27 @@ otherformats: MD DOT RTF ODT WORDML XPS TEXT JPEG PS TIFF DOTM DOCM GIF DOCX EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **MSG 转换为 RTF** 提供了一种跨平台的方式来保留带格式的富文本电子邮件。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 为合规目的存档格式化电子邮件
 * 创建可编辑的跨平台报告
 * 保留格式的法律文件
 * 导入到支持 RTF 的系统
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 自动化的 MSG 到 RTF 批量转换
 * 跨平台存档工作流程
 * 富文本存储用于电子邮件通信日志
 * 人力资源和法律报告生成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

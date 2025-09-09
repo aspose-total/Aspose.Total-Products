@@ -30,18 +30,20 @@ otherformats: DOT JPEG PS XPS DOTM DOCM PDF EMF WORDML DOC SVG PNG MD RTF TIFF F
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将苹果邮件转换为ODT文档进行编辑。
 - 将业务通信存储为开放标准文本格式。
 - 通过开源编辑器实现跨平台访问。
 - 使用非专有格式进行长期存档。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 批量将苹果邮件导出为ODT存档。
 - 用于政府或企业合规性的自动电子邮件至ODT工作流。
 - 与开源文档管理系统集成。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

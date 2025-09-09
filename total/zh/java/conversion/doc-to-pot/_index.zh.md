@@ -54,22 +54,24 @@ otherformats: PPTX PPTM POWERPOINT PPSX PPS POTX POT PPSM PPT POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **POT（PowerPoint 模板）** 对于从 Word 内容生成可重复使用的幻灯片模板至关重要。这有助于实现一致的品牌形象、简化演示文稿制作，并在组织中快速部署标准化布局。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 Word 文档构建一致的演示文稿模板
 - 在演示文稿中实现企业品牌标准化
 - 从书面内容自动生成幻灯片主题
 - 为大规模演示制作准备模板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于设计一致性的 DOC-to-POT 样式映射工具
 - 用于自动化模板构建的基于 Java 的主题生成脚本
 - 用于企业使用的自动化模板部署工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

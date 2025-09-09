@@ -30,23 +30,25 @@ otherformats: DOTM DOT PDF ODT EPUB SVG DOTX TEXT PS RTF XPS WORDML PNG EMF JPEG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML** 转换为 **PNG（便携式网络图形）** 可确保以高质量、无损的视觉形式呈现电子邮件。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}} 
 - **高保真存档**：以像素级准确性保存电子邮件细节。  
 - **透明背景**：保存带透明度的电子邮件以供设计使用。  
 - **培训内容**：将电子邮件图像插入用户指南或手册中。  
 - **网络集成**：在网站或内部门户网站上发布电子邮件视觉内容。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 - **批量 PNG 转换**：将多个 EML 导出为高分辨率 PNG。  
 - **合规记录**：保留业务沟通的不可变快照。  
 - **知识管理**：将 PNG 快照插入维基和文档中。  
 - **电子邮件预览**：在工单/帮助台系统中生成自动预览。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

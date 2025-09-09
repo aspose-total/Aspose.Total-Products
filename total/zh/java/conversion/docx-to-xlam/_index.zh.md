@@ -61,21 +61,23 @@ otherformats: XLAM EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCX** 转换为 **XLAM（Excel 加载项）** 对于将基于 Word 的宏转换为可重复使用的 Excel 加载项非常重要。这使企业能够在 Excel 中高效部署自动化逻辑、财务模型和分析工作流程。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 Word 迁移 VBA 宏到 Excel  
 - 构建企业就绪的自动化加载项  
 - 支持财务和分析模型  
 - 在 Excel 中实现基于宏的生产力  
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 XLAM 宏转换  
 - 企业加载项部署  
 - Excel 自动化流水线  
 - 从 Word 宏自动生成加载项  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

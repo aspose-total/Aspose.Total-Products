@@ -54,24 +54,26 @@ otherformats: POTM PPTM PPSM PPT PPSX POT PPS PPTX POTX POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **POT (PowerPoint 模板)** 有助于将标准化的 Word 模板转换为可立即使用的演示文稿模板，节省时间并确保设计一致性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 教育演示文稿
 - 公司品牌
 - 可重复使用的幻灯片模板
 - 培训模块
 - 商业提案演示文稿
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 POT 的流程
 - 企业幻灯片生成
 - 模板标准化工作流
 - 自动化演示文稿组装
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

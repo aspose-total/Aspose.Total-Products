@@ -42,8 +42,8 @@ otherformats: PCL MARKDOWN MHTML RTF DOTM FLATOPC XAMLFLOW DOT ODT DOTX PS OTT
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **XML文档检查**  
   将包含CGM的文档转换为Flat OPC，以便使用XML工具进行分析和故障排除。
@@ -55,7 +55,8 @@ otherformats: PCL MARKDOWN MHTML RTF DOTM FLATOPC XAMLFLOW DOT ODT DOTX PS OTT
   通过在透明的XML格式中查看集成了CGM的文档，确保准确性和合规性。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **与docx4j集成**  
   使用**docx4j**将增强了CGM的Office文件转换为Flat OPC XML，以便直接在基于Java的环境中操作。
@@ -68,7 +69,8 @@ otherformats: PCL MARKDOWN MHTML RTF DOTM FLATOPC XAMLFLOW DOT ODT DOTX PS OTT
 
 - **自动化文档验证**  
   将Flat OPC输出集成到Java流水线中，进行模式验证、内容检查和工程合规性审查。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

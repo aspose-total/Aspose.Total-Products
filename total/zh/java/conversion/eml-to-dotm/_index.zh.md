@@ -30,25 +30,27 @@ otherformats: DOT TIFF MD DOCX RTF XPS JPEG OTT EMF SVG TEXT GIF PNG WORDML DOTX
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为 DOTM** 提供了一个宏启用的 Word 模板格式，结合了电子邮件内容和自动化功能。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 从电子邮件数据创建工作流启用的模板
 * 准备带有嵌入式宏的合规模板
 * 自动化标准业务文件的创建
 * 为客户合同生成可重复使用的模板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 基于电子邮件请求自动化项目模板
 * 创建带有宏脚本的合规就绪模板
 * 直接从电子邮件通信生成法律或人力资源模板
 * 使用电子邮件触发的宏进行工作流自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

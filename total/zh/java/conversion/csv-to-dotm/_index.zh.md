@@ -42,19 +42,21 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">试试我们的 CSV 到 DOTM 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **使用嵌入式宏生成动态文档模板** – 启用基于逻辑的内容更新。
 - **自动化重复的业务报告** – 定时填充宏启用模板。
 - **创建预填充CSV数据的宏驱动表单** – 减少手动输入，提高准确性。
 - **企业级批量文档准备** – 自动化生成基于模板的多个文档。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于Java的DOTM模板生成工具** – 以程序方式构建宏启用模板。
 - **将CSV数据绑定到宏启用模板** – 自动填充占位符与CSV数据。
 - **与工作流自动化软件集成** – 从工作流步骤触发文档创建。
 - **通过Java应用程序定时更新模板** – 使用定时数据刷新保持模板最新。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -54,8 +54,8 @@ otherformats: PPSX PPTX POWERPOINT POT POTX PPTM PPSM PPT POTM PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **准备传统幻灯片演示文稿**  
   将Word文档转换为可立即播放的幻灯片演示。
@@ -72,7 +72,8 @@ otherformats: PPSX PPTX POWERPOINT POT POTX PPTM PPSM PPT POTM PPS CSV DIF FODS 
 - **确保与旧版PowerPoint系统的向后兼容性**  
   支持运行Microsoft Office 97–2003的环境。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **DOCM转PPS传统转换器**  
   自动批量导出为自动播放的幻灯片演示。
@@ -88,7 +89,8 @@ otherformats: PPSX PPTX POWERPOINT POT POTX PPTM PPSM PPT POTM PPS CSV DIF FODS 
 
 - **用于传统兼容性的企业幻灯片发布系统**  
   将自动运行的幻灯片分发到旧平台。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

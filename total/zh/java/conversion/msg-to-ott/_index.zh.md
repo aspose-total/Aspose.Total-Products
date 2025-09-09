@@ -30,25 +30,27 @@ otherformats: DOCX PS DOC SVG JPEG DOTX ODT EPUB EMF PDF DOCM PCL DOT OTT WORDML
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **MSG 转换为 OTT（OpenDocument 模板）** 可以将电子邮件消息存储为可重用的文档模板。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将电子邮件内容转换为预先设计的业务模板
 * 使用电子邮件驱动的工作流程标准化公司模板
 * 从电子邮件通信生成可重用的表单和模板
 * 支持基于 ODF 的模板管理系统
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * MSG 到 OTT 模板生成流水线
 * 从公司电子邮件批量导出标准化模板
 * 在企业系统中自动化模板管理
 * 用于法律和人力资源文件的 OTT 集成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

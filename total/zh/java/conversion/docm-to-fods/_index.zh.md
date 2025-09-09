@@ -61,9 +61,9 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用途案例  
+{{< blocks/products/pf/agp/feature-section >}}
 
+{{% blocks/products/pf/agp/feature-section-col title="主要用途案例" %}}  
 - **将电子表格存储在 Git 中以便进行可读的差异比较**  
   将表格数据以 XML 格式保存，以便在版本控制系统中逐行跟踪更改。  
 
@@ -80,7 +80,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
   确保从 DOCM 派生的数据在 FODS 格式中保持无宏状态。  
 
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM 到 FODS 的 CLI 管道**  
   通过命令行工具自动化转换，实现可重复使用、可脚本化的工作流程。  
@@ -96,7 +97,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 - **为治理目的为 FODS 添加标记的元数据注入器**  
   为受监管环境丰富输出数据与元数据（所有权、版本、策略标记）。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

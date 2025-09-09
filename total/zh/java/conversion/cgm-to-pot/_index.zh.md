@@ -59,21 +59,23 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（计算机图形元文件）文件转换为 POT（PowerPoint 模板）在基于 Java 的环境中，使组织能够创建可重复使用、标准化的演示文稿模板，其中包含丰富的技术图表。这个过程对需要一致的幻灯片布局、公司品牌和准确的视觉表现的工程、商业和教育部门非常有价值。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **标准化的商业演示文稿** – 在公司所有演示文稿中保持品牌一致性。
 - **可重复使用的工程幻灯片** – 预先构建带有嵌入的 CGM 图表的布局，以加快项目报告速度。
 - **品牌报告模板** – 为定期报告周期创建可立即使用的 PowerPoint 模板。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于 Java 的演示文稿引擎** – 使用 Apache POI 或类似的 API 集成 CGM 到 POT 的转换。
 - **办公文件生成工具** – 自动化带有嵌入图表的 POT 文件创建，适用于多个部门。
 - **内容自动化工作流** – 部署定时脚本以批量生成和更新 PowerPoint 模板。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

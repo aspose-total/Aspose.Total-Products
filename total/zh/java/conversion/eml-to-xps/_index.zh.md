@@ -30,19 +30,21 @@ otherformats: MD DOC DOCX WORDML DOTX RTF DOT PDF OTT XPS TIFF JPEG DOTM EMF SVG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **XPS（XML Paper Specification）**是微软的固定布局格式。将**EML转换为XPS**可确保文档呈现一致。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 存档具有固定布局的电子邮件。
 - 创建安全的只读通信版本。
 - Windows 生态系统中 PDF 的替代方案。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 企业电子邮件存档流程。
 - 用于合规性和记录的自动化 XPS 导出。
 - 批量将电子邮件转换为 XPS 以进行文档化。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

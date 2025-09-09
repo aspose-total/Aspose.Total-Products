@@ -30,24 +30,26 @@ otherformats: JPEG GIF EMF XPS DOCX MD OTT EPUB PNG SVG PS DOT PDF TEXT WORDML R
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **MSG 转换为 GIF** 可以将电子邮件保存为轻量级图像文件，使其易于共享、嵌入或在基于网络的工作流程中使用。
 
-### ✅ 主要用例
+#{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将电子邮件转换为 GIF 以用于演示文稿或文档中。
 * 以网页友好的图像格式分享电子邮件快照。
 * 以便快速预览电子邮件视觉内容的紧凑存储。
 * 以普遍可查看的格式保留电子邮件设计布局。
 
-### ⚙️ 自动化场景
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 自动化的 MSG 到 GIF 转换，简化电子邮件预览。
 * 批量处理以创建电子邮件缩略图。
 * 用于数字文档和案例文件的工作流程集成。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

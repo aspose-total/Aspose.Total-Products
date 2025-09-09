@@ -61,25 +61,27 @@ otherformats: XLTM XLSX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCM** 转换为 **XLSX（Excel Open XML Workbook）** 会生成安全、无宏、现代的电子表格，与 Microsoft Excel、Google Sheets 和 Office 365 兼容。这确保了安全共享、协作，并遵守企业合规政策，同时将基于 Word 的表格转换为结构化的 Excel 数据。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 创建 **安全、无宏的工作簿**  
 - 在 **云平台** 上共享电子表格  
 - 为在 **Google Sheets** 中协作准备数据  
 - 在 Excel 中构建 **财务模型**  
 - 通过无宏规则确保 **企业合规性**  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **DOCM 到 XLSX 企业转换器**  
 - 用于 XLSX 生成的 **基于云的批处理管道**  
 - 从 Word 内容生成 XLSX 的 **Power Automate 流**  
 - 导出 XLSX 数据集的 **ETL 作业**  
 - 为团队生成无宏 XLSX 文件的 **CI/CD 系统**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

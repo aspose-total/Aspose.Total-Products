@@ -30,24 +30,26 @@ otherformats: WORDML PCL DOC DOCM DOTM MD EMF JPEG ODT DOT GIF RTF OTT EPUB FLAT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **MSG 转换为 TIFF** 对企业和法律工作流程特别有价值，因为 TIFF 作为存档格式具有可靠性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 以 TIFF 格式长期存档电子邮件以符合法规要求。
 * 高质量保存电子邮件以供政府和法律记录使用。
 * 支持具有 TIFF 集成的文档成像系统。
 * 为调查创建基于电子邮件的案例记录。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 用于企业存档系统的自动化 MSG 到 TIFF 导出。
 * 批量将电子邮件转换为 TIFF 以进行安全文档存储。
 * 与法律发现和合规性流程集成的工作流程。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

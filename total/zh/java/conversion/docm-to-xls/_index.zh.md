@@ -61,25 +61,27 @@ otherformats: XLTM XLS XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCM** 文件转换为 **XLS（Excel 97–2003 Workbook）** 对于依赖传统 Microsoft Excel 环境的组织至关重要。该过程保留了来自 Word 文档的表格、表单和结构化数据，同时确保与旧版 Excel 的完全兼容性，实现跨过时系统的无缝协作和档案合规性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将 Word 表格迁移到 **旧版 Excel 环境**  
 - 支持具有 **传统系统** 的组织  
 - 为 **离线受限使用** 准备电子表格  
 - 与仍在使用 **旧版 Office 版本** 的合作伙伴共享数据  
 - 遵守 **传统格式** 的合规性  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于大规模迁移的 **DOCM 到 XLS 批量转换器**  
 - 需要 XLS 的 **传统 ERP 系统集成**  
 - 生成历史数据的 XLS 的 **自动化导出流水线**  
 - 强制输出 XLS 的 **合规驱动工作流**  
 - 将 DOCM 转换为 XLS 的文档处理工具，以实现 **向后兼容性**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

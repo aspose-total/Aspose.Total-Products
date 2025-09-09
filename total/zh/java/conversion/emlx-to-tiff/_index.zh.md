@@ -30,11 +30,11 @@ otherformats: WORDML DOCX ODT EPUB GIF EMF XPS DOT PNG DOC DOTM DOTX FLATOPC PDF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**EMLX（Apple Mail电子邮件文件）**转换为**TIFF（标记图像文件格式）**对于专业、印刷就绪和存档目的至关重要。TIFF支持适合长期存储的高分辨率、无损图像质量。  
 
-## ✅ 主要用途  
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}  
 
 - **专业存档** → 将重要通信存储为存档质量的TIFF。  
 - **法律与合规** → 以防篡改的TIFF格式保存电子邮件记录。  
@@ -42,7 +42,8 @@ otherformats: WORDML DOCX ODT EPUB GIF EMF XPS DOT PNG DOC DOTM DOTX FLATOPC PDF
 - **企业记录** → 集成TIFF用于长期企业通信存储。  
 - **安全备份** → 以可靠的、行业标准的存档格式维护电子邮件历史。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **批量EMLX转TIFF管道** → 为企业电子邮件存档自动化批量转换。  
 - **合规系统** → 将敏感通信存储为TIFF以确保法律可靠性。  
@@ -50,7 +51,8 @@ otherformats: WORDML DOCX ODT EPUB GIF EMF XPS DOT PNG DOC DOTM DOTX FLATOPC PDF
 - **数字保存** → 将关键任务消息存档为几十年来信任的格式。  
 - **多渠道集成** → 在企业系统要求高质量图像的地方使用TIFF导出。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ otherformats: DOTM ODT OTT RTF WORDML EMF XPS DOCM DOTX PCL PDF DOCX PS DOT TIFF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *将电子邮件转换为DOT格式可创建可重复使用的模板，使组织能够将电子邮件结构转换为标准化文档。*
 
-### ✅ 主要用例
+#{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 将重复的电子邮件转换为可编辑的Word模板
 * 标准化公司沟通（例如，人力资源、法律、客户入职）
 * 从电子邮件文本准备培训或指导模板
 * 简化重复报告或信函的创建
 
-### ⚙️ 自动化场景
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 将结构化电子邮件自动转换为DOT模板
 * 批量创建模板库，用于重复沟通
 * 为人力资源或销售团队创建电子邮件到DOT的流程
 * 与工作流工具集成，生成可重复使用的模板
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

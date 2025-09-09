@@ -54,22 +54,24 @@ otherformats: PPTX POTX PPS PPTM POTM POWERPOINT PPSX PPSM POT PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **PPTM（PowerPoint Macro-Enabled Presentation）** 可以创建具有自动功能的交互式演示文稿。这对于动态数据演示、培训模块和高级企业报告非常理想。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 使用宏自动化企业报告
 - 为员工入职提供互动式培训幻灯片
 - 由宏驱动的业务分析演示文稿
 - 直接从Word报告中进行数据可视化
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于功能的 DOC 到 PPTM 宏注入工作流程
 - 基于脚本的幻灯片增强以实现互动性
 - 集成到演示文稿中的自动化KPI仪表板
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

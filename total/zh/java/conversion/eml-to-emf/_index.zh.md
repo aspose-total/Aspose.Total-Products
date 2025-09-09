@@ -30,22 +30,24 @@ otherformats: FLATOPC DOC TIFF ODT RTF EMF DOCX PNG PS JPEG GIF TEXT WORDML DOTM
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML（电子邮件文件）** 转换为 **EMF（增强型图元文件格式）** 可将电子邮件转换为适用于打印和图形工作流程的高质量矢量图像。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将电子邮件存档为矢量图像以供文档化。
 - 在报告或演示文稿中嵌入电子邮件快照。
 - 保留适用于发布的分辨率无关视觉效果。
 - 需要 EMF 兼容性的打印工作流程。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 批量将 EML 转换为 EMF 以用于企业报告。
 - 集成到文档发布流程中。
 - 自动将电子邮件存档为 EMF 图像以符合规定。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

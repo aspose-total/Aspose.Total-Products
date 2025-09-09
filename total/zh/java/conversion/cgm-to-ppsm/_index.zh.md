@@ -59,17 +59,19 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **动态可视化仪表盘** – 在演示过程中实时更新图表。
 - **带内置宏的技术演示** – 实现交互式数据探索。
 - **自动化模拟显示** – 在没有手动设置的情况下呈现实时模拟输出。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于Java的PowerPoint宏渲染引擎** – 生成并提供支持宏的幻灯片演示。
 - **交互式技术简报** – 嵌入Java生成的图表和计算。
 - **智能演示流程** – 将多个PPSM文件链接成引导式演示系统。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

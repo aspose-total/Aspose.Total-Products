@@ -61,22 +61,24 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **ODS（OpenDocument 电子表格）** 对于在电子表格环境中处理 Word 内容至关重要。此转换使得可以轻松地处理、分析和共享从 Word 文档中提取的表格数据，这些数据以与 LibreOffice Calc 和类似工具兼容的开放标准格式呈现。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 Word 中提取表格并转换为 ODS 格式  
 - 与电子表格应用程序共享源自 Word 的数据  
 - 将文档数据转换为详细分析所需的格式  
 - 确保与 LibreOffice、OpenOffice 和其他符合 ODF 标准的工具的互操作性  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于批量处理的 DOC 到 ODS 提取流水线  
 - 基于 Java 的电子表格格式化和转换工具  
 - 从 Word 自动解析表格到 ODS，以实现流畅的工作流程  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

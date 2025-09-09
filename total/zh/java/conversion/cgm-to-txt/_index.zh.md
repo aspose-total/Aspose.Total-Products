@@ -49,13 +49,13 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**计算机图形元文件（CGM）**文件转换为**TXT（纯文本）**格式对于以轻量级、人类可读形式提取、记录和处理矢量图形信息非常有价值。在**基于Java的数据处理管道**中，此转换使得可以将CGM图表转换为基于文本的表示形式，用于日志记录、元数据存储或下游分析。通过在TXT中捕获CGM文件的描述元素，组织可以简化与其他系统的集成，实现快速搜索和索引，并保持长期兼容性。
 
 
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **图表的文本记录**  
   将CGM图表信息存储为纯文本，用于审计、调试或归档目的。
@@ -67,7 +67,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
   在TXT文件中记录与CGM相关的工程数据，以便快速参考和轻量级存储。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **用于转换的Java I/O库**  
   使用标准的Java文件处理API以及CGM解析器来提取和写入内容到TXT文件。
@@ -81,7 +82,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 - **ETL管道中的纯文本导出器**  
   将CGM解析和TXT导出集成到基于Java的提取-转换-加载工作流中，用于结构化数据处理。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -54,11 +54,11 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCM（Word宏启用文档）** 转换为 **ODP（OpenDocument演示文稿）** 对于将静态、文本密集的文档转变为 **开放标准幻灯片** 是至关重要的，这样可以在LibreOffice Impress和其他ODF兼容工具中进行编辑和展示。这种转换使用户能够将报告、表格和结构化的Word内容重新制作成 **视觉吸引人的演示文稿**，同时保持跨平台可访问性，避免专有锁定。ODP确保长期可用性，使其成为 **重视开放标准的学术、政府和企业环境** 的理想选择。  
 
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **将报告转换为演示文稿幻灯片**  
   将DOCM文档转换为ODP幻灯片，用于培训、商务会议或学术讲座。  
@@ -75,7 +75,8 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 - **促进学术或政府机构使用开放标准**  
   通过以ODF认证的演示文稿格式分发DOCM内容，满足合规要求。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM到ODP自动生成器**  
   自动将启用宏的Word文件转换为可编辑的ODP幻灯片。  
@@ -91,7 +92,8 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 
 - **自动化流水线为发布门户准备ODP**  
   通过将DOCM转换为ODP集成到发布工作流程中，简化内容交付。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

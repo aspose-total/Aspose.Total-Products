@@ -42,19 +42,21 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">试试我们的 CSV 到 ODT 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从 CSV 数据集创建详细报告
 - 准备开放格式的发票、提案和报表
 - 在不同办公套件之间共享格式化报告
 - 保持符合开放标准要求的兼容性
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 基于 Java 的 ODT 创建 API（例如 ODF Toolkit）用于结构化文档输出
 - 用于重复处理的 CSV 到 ODT 批量转换脚本
 - 与开源办公套件集成，实现无缝工作流程
 - 为 ODT 文件自动化样式格式设置，以确保一致的品牌形象
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

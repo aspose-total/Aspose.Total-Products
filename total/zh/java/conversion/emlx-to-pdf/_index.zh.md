@@ -30,22 +30,24 @@ otherformats: SVG WORDML RTF XPS PCL DOTM ODT GIF DOCM FLATOPC EPUB TEXT DOC DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 EMLX 转换为 **PDF（便携式文档格式）** 可以确保、标准化并保存电子邮件内容，以便实现通用访问和长期存档。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 存档 Apple Mail 电子邮件以供法律和合规用途。
 - 安全共享敏感通信。
 - 确保电子邮件内容跨平台访问。
 - 为商业用途创建防篡改记录。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 自动将 Apple Mail 收件箱转换为 PDF 存档。
 - 批量从电子邮件通讯生成 PDF。
 - 在法律工作流程中处理电子邮件到 PDF 的证据。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

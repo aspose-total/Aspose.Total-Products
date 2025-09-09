@@ -61,24 +61,26 @@ otherformats: ODS FODS XLT EXCEL XLSB DIF XLSX SXC XLS XLSM XLTM XLAM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **SXC（StarOffice Calc 电子表格）** 对于确保传统电子表格兼容性并实现开源办公工作流至关重要，使组织能够在各个平台上保留结构化数据。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 传统文档到电子表格迁移
 - 跨平台电子表格兼容性
 - OpenOffice/LibreOffice 工作流
 - 在开放格式中保留数据
 - 企业文档转换
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 批量处理 DOT 到 SXC
 - 传统到现代办公工作流集成
 - 从模板自动生成电子表格
 - 企业迁移流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

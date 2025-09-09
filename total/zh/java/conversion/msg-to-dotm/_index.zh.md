@@ -30,25 +30,27 @@ otherformats: EPUB DOCM MD XPS JPEG EMF OTT DOTM PNG FLATOPC GIF DOTX SVG TIFF D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **MSG 转换为 DOTM** 可以从电子邮件中创建支持宏的 Word 模板，用于自动化工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 从重复的电子邮件模式生成动态模板
 * 自动化人力资源和财务报告
 * 使用嵌入式宏实现智能模板
 * 构建基于工作流程的企业通信
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 自动化的 MSG 到 DOTM 管道
 * 创建支持宏的人力资源/财务模板
 * 从电子邮件往来生成动态法律模板
 * 嵌入式工作流程的文档生成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

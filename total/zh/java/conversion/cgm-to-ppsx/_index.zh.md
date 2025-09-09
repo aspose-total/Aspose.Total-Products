@@ -59,21 +59,23 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM转PPSX（Open XML幻灯片展示）转换简化了创建非可编辑、便携式幻灯片文件，优化了跨平台使用。非常适合将CGM图表嵌入到旨在立即查看的演示文稿中。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **自动幻灯片演示** – 从工程可视化生成预构建的幻灯片展示。
 - **跨平台视觉简报** – 确保与现代PowerPoint版本的兼容性。
 - **嵌入式矢量图形报告** – 以高质量的技术图像呈现演示文稿。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于Java的幻灯片文件生成器** – 直接从CGM源文件创建PPSX文件。
 - **批量幻灯片制作** – 自动化大规模生成只读演示文稿。
 - **智能报告系统** – 将CGM图表集成到自动化演示文稿包中。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

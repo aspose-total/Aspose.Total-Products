@@ -54,12 +54,12 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCM（Word宏启用文档）** 转换为 **PPTM（PowerPoint宏启用演示文稿）** 对于需要 **交互式、宏驱动演示文稿** 的组织至关重要。PPTM文件保留自动化功能，实现 **动态导航、自动报告和互动产品演示**。  
 
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **设计自动化培训幻灯片**  
   通过交互式宏启用幻灯片增强培训。  
@@ -77,7 +77,8 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
   使用宏来节省团队的时间。  
 
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **保留宏的 DOCM 到 PPTM 转换器**  
   确保自动化脚本无缝转移。  
@@ -94,7 +95,8 @@ otherformats: PPSM PPT PPTX PPSX POTX POTM POWERPOINT POT PPS PPTM CSV DIF FODS 
 - **高级报告管道导出PPTM文件**  
   提供自动化报告演示文稿。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

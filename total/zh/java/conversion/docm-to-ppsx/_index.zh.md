@@ -54,8 +54,8 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **创建活动就绪幻灯片展示**  
   构建精心制作的、准备好播放的演示文稿。  
@@ -74,7 +74,8 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS 
 
 
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM转换为PPSX，确保无宏免疫合规性**  
   消除宏风险，同时生成幻灯片。  
@@ -90,7 +91,8 @@ otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS 
 
 - **企业协作工具分发PPSX内容**  
   确保幻灯片展示在团队间安全共享。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

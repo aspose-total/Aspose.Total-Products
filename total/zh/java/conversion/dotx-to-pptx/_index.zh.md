@@ -54,24 +54,26 @@ otherformats: POTX POTM POT PPSX PPS POWERPOINT PPTM PPT PPSM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **PPTX (PowerPoint 开放式 XML 演示文稿)** 是创建现代、可编辑和可共享演示文稿的最常见方式，可与云端和企业工作流程无缝集成。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - 商业演示
 - 培训演示
 - 学术讲座
 - 市场推广活动
 - 公司报告
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 PPTX 的流程
 - 基于云的自动化
 - 企业演示生成
 - 数据到幻灯片的集成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

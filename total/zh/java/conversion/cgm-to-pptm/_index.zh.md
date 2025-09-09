@@ -59,17 +59,19 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **数据驱动的演示文稿** – 根据实时数据自动更新可视化内容。
 - **带宏的技术模拟** – 在幻灯片中控制模拟播放。
 - **交互式工程内容** – 允许在演示过程中实时修改图表。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **Java 幻灯片自动化工具** – 直接从 CGM 文件创建带宏的幻灯片。
 - **AI 生成的带宏幻灯片** – 将自动化与 AI 生成的内容结合，获取见解。
 - **基于模板的动态内容管道** – 批量生成和更新技术演示文稿模板。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

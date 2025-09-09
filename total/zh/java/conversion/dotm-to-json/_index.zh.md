@@ -49,24 +49,26 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 导出 **DOTM** 到 **JSON (JavaScript Object Notation)** 可以生成结构化的、适合 API、云工作流和 NoSQL 数据库存储的机器可读数据格式，有助于增强 Web 和移动应用程序的集成。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 用于 Web 和云应用程序的 API 集成
 - Web 应用程序数据交换和互操作性
 - NoSQL 数据库存储
 - 云原生和无服务器工作流
 - 自动化报告和分析
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTM 到 JSON 抽取管道
 - 宏到 API 数据工作流
 - 文档到 JSON 自动化
 - 数据驱动的自动化流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

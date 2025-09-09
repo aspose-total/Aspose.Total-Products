@@ -42,11 +42,11 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**计算机图形元文件（CGM）**图形转换为**Markdown (.md)**内容是将视觉技术数据与轻量级、开发者友好的文档格式相结合的强大方式。在**基于Java的文档工具**中，此转换使得可以在Markdown文件中直接引用、嵌入或描述CGM图表，使其成为API文档、工程手册和开源项目指南的理想选择。Markdown的可移植性和与静态站点生成器的兼容性确保了CGM图形可以以最小的开销集成到现代开发者工作流程中。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **在技术手册中嵌入CGM图表**  
   在基于Markdown的文档中引用或嵌入CGM图表，以便更清晰地解释技术内容。
@@ -57,7 +57,8 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 - **轻量级报告格式**  
   使用Markdown作为简单、便携的媒介，增强CGM的工程或系统报告。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **基于Java的转换工具**  
   利用Java库或自定义解析器，将CGM图表转换为Markdown兼容的图像引用或矢量描述。
@@ -71,7 +72,8 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX MARKDOWN RTF
 - **持续文档更新**  
   在基于Java的CI/CD流水线中，从更新的CGM图表自动重新生成Markdown，以确保文档始终保持最新。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

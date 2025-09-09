@@ -54,24 +54,26 @@ otherformats: PPTX PPS PPT PPSM POTX POWERPOINT PPTM POTM POT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **POTX（PowerPoint 模板开放 XML）** 可确保与云兼容、可重复使用的模板，这些模板便携、现代且与企业设计系统保持一致。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 商业演示
 - 学术讲座
 - 公司入职培训
 - 营销幻灯片
 - 品牌演示标准化
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 POTX 的流程
 - 基于云的演示自动化
 - 模板库
 - 企业幻灯片标准化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

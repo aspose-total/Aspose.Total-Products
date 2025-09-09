@@ -54,24 +54,26 @@ otherformats: POTM PPTX POT PPS PPSM POWERPOINT POTX PPSX PPTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **PPS（PowerPoint 演示）** 可以创建即时播放的幻灯片演示文稿，非常适合需要精心制作、自动运行内容的观众。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 会议演示
 - 客户演示
 - 自动化销售演示
 - 教育讲座
 - 投资者会议
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 自动 DOCX 到 PPS 幻灯片流程
 - 企业级演示生成
 - 客户演示自动化
 - 自动运行演示工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

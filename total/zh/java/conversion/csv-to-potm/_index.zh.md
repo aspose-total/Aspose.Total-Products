@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX POTMX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">试试我们的 CSV 到 POTM 转换的免费应用程序</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **CSV** 转换为 **POTM（启用宏的 PowerPoint 模板）** 可以从结构化数据集生成交互式、宏驱动的演示文稿模板的自动化。这对需要具有内置自动化或交互性的可重复使用的数据驱动演示文稿的组织非常理想。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 创建可重复使用的启用宏的企业幻灯片演示文稿
 - 从 CSV 数据自动生成产品演示文稿
 - 制作带有嵌入式宏的交互式培训模块
 - 为多个部门标准化宏驱动模板
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 从 CSV 生成带有宏集成的 POTM 文件
 - 用于结构化内容填充的 CSV 到 POTM 映射系统
 - 用于企业工作流程的批量模板生成流程
 - 用于交互式幻灯片行为和自动化的 Java 动力宏
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

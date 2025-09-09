@@ -30,25 +30,27 @@ otherformats: PDF DOCM OTT PNG GIF DOC DOCX MD ODT XPS DOTM SVG JPEG PS TIFF PCL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为 TEXT** 将原始电子邮件内容提取为纯文本格式，使其轻巧、便携且易于以编程方式处理。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 以轻量格式存档电子邮件
 * 高效索引和搜索电子邮件内容
 * 对电子邮件数据进行数据挖掘和自然语言处理（NLP）
 * 将电子邮件数据集成到基于文本的应用程序中
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 用于基于文本的电子邮件存档的自动化流水线
 * 从转换后的电子邮件文本进行 NLP 驱动的情感分析
 * 批量将电子邮件转换为搜索和索引引擎
 * 从电子邮件流生成自动生成的纯文本报告
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,23 +61,25 @@ otherformats: XLSM XLTX SXC XLT ODS TSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **TSV（制表符分隔值）** 对于从Word文档中提取结构化表格数据至适用于分析、数据库集成和系统互操作性的轻便便携格式至关重要。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 系统间数据导入/导出
 - 简化数据库上传
 - 处理结构化报告
 - 支持基于文本的分析
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOCX 到 TSV 数据管道
 - 批量内容提取
 - 企业数据转换
 - 自动化报告集成
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

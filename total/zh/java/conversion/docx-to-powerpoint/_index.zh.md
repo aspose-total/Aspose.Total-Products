@@ -54,24 +54,26 @@ otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **PowerPoint** 对于将书面文件、报告或提案转变为视觉吸引人的演示文稿至关重要，从而有效传达思想。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - 商务演示
 - 课堂教学
 - 培训模块
 - 演讲稿
 - 视觉叙事
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 批量生成 DOCX 至 PowerPoint 幻灯片
 - 企业报告流程
 - 文件至演示文稿工作流程
 - 自动化培训内容创建
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

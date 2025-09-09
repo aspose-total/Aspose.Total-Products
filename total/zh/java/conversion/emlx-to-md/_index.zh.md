@@ -30,22 +30,24 @@ otherformats: SVG TEXT OTT DOCX XPS DOT GIF PCL PNG DOC DOTX PS DOTM EMF MD PDF 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 EMLX 转换为 **Markdown (MD)** 可以为技术文档、博客或协作平台提供清晰、基于文本且开发者友好的格式。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将 Apple Mail 电子邮件存储为轻量级 Markdown 文件。
 - 在博客上发布通讯或公告。
 - 从电子邮件通信中重复使用技术文档。
 - 将电子邮件讨论进行版本控制存储（基于 Git）。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 将与项目相关的电子邮件自动转换为 Markdown 文档。
 - 电子邮件转为 GitHub 问题/README 流水线。
 - 集中式基于 Markdown 的知识库。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,10 +61,10 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 将 **DOCM（Word宏启用文档）** 转换为 **DIF（数据交换格式）** 在将现代Word文件中的表格数据移动到 **与传统兼容的电子表格和统计系统** 中起着重要作用。虽然DOCM文件存储带有宏和格式的结构化信息，但DIF提供了一种纯文本、广泛支持的结构，可以在几十年后仍然可读。这种转换确保了 **数据可移植性、合规性和长期可访问性** ——特别是在受监管的行业、学术研究和仍在使用传统或本地系统的环境中。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **与旧版电子表格应用程序交换结构化数据**  
   将DOCM表格转换为DIF，以便与先于CSV/XLSX的传统电子表格程序兼容。  
@@ -81,7 +81,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 - **支持学术或统计软件包**  
   实现对仍然接受DIF的传统统计和研究工具的无缝导入。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **定期将DOCM转换为DIF的导出**  
   自动化将Word表格定期导出为DIF，用于合规报告和记录保存。  
@@ -97,7 +98,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 - **检测表格并生成DIF的文档处理机器人**  
   部署RPA或基于AI的机器人扫描DOCM文件，提取表格，并输出DIF以进行传统摄入。  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

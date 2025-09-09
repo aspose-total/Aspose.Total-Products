@@ -54,25 +54,27 @@ otherformats: POWERPOINT PPS PPSM POTM PPSX PPTM PPT POTX PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **ODP（OpenDocument Presentation）** 有助于从结构化的 Word 内容创建开源演示文稿模板，支持合规性、可访问性和多平台共享。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - LibreOffice Impress 演示文稿
 - 开放标准合规性
 - 学术或政府工作流程
 - 跨平台演示文稿共享
 - ODF 生态系统集成
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 ODP 管道
 - 批量演示文稿生成
 - 自动化幻灯片集创建
 - 基于云的 ODP 工作流程
 - 文档到演示文稿自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

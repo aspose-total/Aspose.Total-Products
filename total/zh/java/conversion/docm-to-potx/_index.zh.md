@@ -54,11 +54,11 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**DOCM（Word宏启用文档）**转换为**POTX（PowerPoint开放式XML模板）**对于生成与Office 365和基于云的协作平台兼容的**现代、无宏模板**至关重要。POTX使组织能够**标准化品牌布局**，简化工作流程，同时确保符合无宏政策。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **构建标准化的公司幻灯片模板**  
   创建可重复使用的演示文稿模板，以保持一致的品牌形象。  
@@ -75,7 +75,8 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 - **在Office 365和Google幻灯片之间共享模板**  
   确保跨平台协作无缝衔接。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **企业团队的DOCM到POTX转换器**  
   使用自动化批处理流程标准化模板创建。  
@@ -92,7 +93,8 @@ otherformats: PPT PPSX PPTM POTM PPSM POT PPS POTX POWERPOINT PPTX CSV DIF FODS 
 - **执行无宏合规性的治理系统**  
   确保仅分发干净、无宏的POTX文件。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -57,21 +57,23 @@ otherformats: TGA DXF IMAGE WMZ JPEG2000 WMF SVGZ  PSD EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将CGM文件转换为常见的图像格式，如PNG、JPEG或BMP，可实现在发布、嵌入和共享技术图形时的通用兼容性。此转换确保了在不需要专门的CGM查看器的情况下实现可访问性，同时保持了基本的视觉质量。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 在文章、报告和在线平台中发布CGM图表。
 - 在基于Java的桌面或Web应用程序中嵌入可视化内容。
 - 用于演示文稿或软件中的跨平台常规栅格化。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于批量CGM栅格化的Java图像SDK集成。
 - 云处理管道中的实时批量转换器。
 - 用于动态显示需求的混合矢量-栅格渲染系统。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

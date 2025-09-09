@@ -54,11 +54,11 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**DOCM（启用宏的 Word 文档）**转换为**PPT（PowerPoint 97–2003 演示文稿）**对于**遗留兼容性**至关重要。PPT 格式确保在运行较旧 Office 环境的组织仍然可以**使用、显示和共享**从结构化 Word 内容创建的演示文稿。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **支持遗留业务环境**  
   为使用过时软件的用户提供幻灯片。  
@@ -75,7 +75,8 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 - **与较旧的协作工具实现互操作性**  
   在遗留基础设施中保持跨团队兼容性。  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM 到 PPT 遗留转换工作流**  
   自动化生成适用于遗留系统的 PPT 幻灯片。  
@@ -92,7 +93,8 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
 - **企业迁移管道将 DOCM 标准化为 PPT 输出**  
   确保从 Word 到遗留 PowerPoint 格式的平稳迁移。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

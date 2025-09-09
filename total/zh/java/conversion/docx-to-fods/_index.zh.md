@@ -61,21 +61,23 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## 转换 **DOCX** 为 **FODS（平面 XML ODF 电子表格）** 支持开源和基于标准的电子表格工作流。这确保与 OpenOffice 的兼容性，并生成适用于合规性和版本控制的易于比较的基于 XML 的数据集。
 
-### ✅ 主要用例
+#{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 与 **LibreOffice 和 OpenOffice** 的互操作性  
 - **对 DOCX 数据进行开放格式归档**  
 - 创建 **基于 XML 的电子表格结构**  
 - 支持 **长期合规性报告**  
 
-### ⚙️ 自动化场景
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **DOCX 到 FODS 的开源自动化**  
 - **基于 XML 的电子表格流水线**  
 - **FODS 报告系统**  
 - **跨平台办公套件工作流**  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

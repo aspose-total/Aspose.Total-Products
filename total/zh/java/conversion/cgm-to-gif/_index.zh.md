@@ -42,21 +42,23 @@ otherformats: XAMLFLOW GIF PS MHTML PCL DOTX DOTM FLATOPC WORDML DOT RTF OTT
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## CGM转GIF转换
+{{< blocks/products/pf/agp/feature-section >}}
 
 将CGM文件转换为GIF提供了一种可靠的方法，可以生成静态和动画图形，与各种系统兼容，包括传统浏览器。 GIF得到广泛支持，非常适合用于动态预览、技术图表以及快速共享，而无需复杂的渲染要求。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+ 
 - 为传统浏览器提供对动画或静态技术图形的支持。
 - 将静态技术图表嵌入PDF或在线文档中。
 - 用于CAD工作流程和工程设计的动态预览。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 基于Java的图像转换服务，用于批量创建GIF。
 - 微服务部署，用于按需进行CGM到GIF的转换。
 - 与需要GIF兼容性的传统Web系统集成。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

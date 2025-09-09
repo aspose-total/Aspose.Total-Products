@@ -61,22 +61,24 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOC** 转换为 **CSV（逗号分隔值）** 对于从Word文档中提取和结构化表格或文本数据为纯文本、逗号分隔的文件至关重要。此转换使数据能够无缝迁移到电子表格、数据库和分析工具中，确保跨平台的兼容性和共享的便利性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 从Word报告中批量提取数据以进行数据库导入
 - 将表格内容迁移到电子表格进行分析
 - 与数据分析和BI工具兼容
 - 以轻量级格式简化大型数据集的共享
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 用于批量处理的DOC到CSV批量转换器
 - 基于脚本的文本解析以进行自定义数据提取
 - 用于实时更新的基于云的文档到数据工作流
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

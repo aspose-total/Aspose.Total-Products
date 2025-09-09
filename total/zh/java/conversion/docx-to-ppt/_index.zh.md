@@ -54,23 +54,25 @@ otherformats: POTM PPSM POTX PPT PPTM PPSX POT POWERPOINT PPS PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCX** 转换为 **PPT（传统 PowerPoint 演示文稿）** 可确保与较旧版本的 PowerPoint 兼容，对于传统企业和机构工作流程至关重要。
 
-#### ✅ 主要用例
+##{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 传统企业工作流程
 - 政府和机构演示
 - 用于较旧软件的培训内容
 - 以兼容性为重点的演示分享
 
-#### ⚙️ 自动化场景
+##{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 自动化的 DOCX 到 PPT 流程
 - 传统系统演示支持
 - 为向后兼容性而进行的文档到演示转换
 - 跨版本工作流自动化
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

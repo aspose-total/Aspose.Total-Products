@@ -30,19 +30,21 @@ otherformats: DOTM EMF MD PCL RTF EPUB OTT PS ODT SVG GIF DOCM TIFF XPS FLATOPC 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PDF** 是最通用的文档格式。将 **EML 转换为 PDF** 可以保留布局、附件和格式，便于共享。
 
-## ✅ 主要用途
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
 - 将电子邮件存档为通用可访问的 PDF 文件。
 - 符合合规的电子邮件存储。
 - 安全共享商务通信。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 企业电子邮件的自动化 PDF 存档。
 - 将支持票据从电子邮件转换为 PDF。
 - 批量将电子邮件备份迁移到 PDF 存储库。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

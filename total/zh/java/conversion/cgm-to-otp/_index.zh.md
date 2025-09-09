@@ -59,25 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（计算机图形元文件）文件转换为 OTP（OpenDocument Presentation Template）可简化可重复使用、矢量丰富的演示模板的创建。这种格式非常适合需要团队和部门之间保持一致、品牌化和技术幻灯片设计的组织。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 设计可重复使用的技术演示模板。
 - 面向工程和科学领域的基于矢量的幻灯片格式。
 - 针对定期演示的行业特定报告布局。
 - 带有详细图表的教育幻灯片模板。
 - 嵌入示意图的企业模板库。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 基于 Java 的报告引擎生成自定义幻灯片模板。
 - 为技术团队提供自动化模板生成工具。
 - 通过 API 驱动的工作流将 CGM 图形嵌入 OTP 模板。
 - 批处理以创建标准化的行业演示文稿。
 - 兼容 LibreOffice 的模板分发系统。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

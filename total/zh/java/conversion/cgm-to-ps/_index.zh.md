@@ -67,22 +67,24 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 CGM（计算机图形元文件）转换为 PS（PostScript）是实现精确、高质量印刷和专业出版结果的关键步骤。PostScript 的设备无关格式确保复杂的矢量图形、工程图和技术插图在转移到印刷机或出版系统时保持准确性和保真度。这使得 CGM 转 PS 转换对需要一致、可扩展和印刷就绪输出的行业至关重要。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - **工业级矢量打印** – 为制造、工程和建筑文档制作清晰、可扩展的技术图表。
 - **在基于 PostScript 系统中存档技术插图** – 将矢量资产存储为长期可访问性和打印兼容性优化的格式。
 - **为排版准备 CGM 图表** – 确保无缝集成到专业页面布局和排版工作流程中。
 - **物理文档制作** – 为手册、目录和大幅面技术图表生成印刷就绪文件。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **基于 Java 的打印流生成器** – 以编程方式将 CGM 文件转换为高分辨率 PS 输出，用于企业打印工作流程。
 - **矢量到 PostScript 批量转换器** – 自动化大规模转换过程，高效处理广泛的图形存档。
 - **出版流水线集成** – 将 CGM 转 PS 转换嵌入到自动化文档渲染和专业出版系统中，以获得一致、高质量的结果。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

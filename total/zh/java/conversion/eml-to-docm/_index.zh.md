@@ -30,25 +30,27 @@ otherformats: ODT TEXT RTF DOTX PNG GIF SVG EMF EPUB DOCX DOC PS PCL WORDML MD T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为 DOCM** 可以将电子邮件存储为支持宏的 Word 文档格式，非常适用于高级自动化和业务流程工作流程。
 
-## ✅ 关键用例
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
 
 * 嵌入宏以实现自动化文档处理
 * 从电子邮件内容生成动态报告
 * 创建具有工作流功能的合规文档
 * 准备带有宏的审计就绪文件以标准化处理
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 从传入电子邮件自动生成支持宏的报告
 * 批处理用于商业智能报告
 * 集成文档自动化的电子发现解决方案
 * 具有用于重复任务的宏的合规工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

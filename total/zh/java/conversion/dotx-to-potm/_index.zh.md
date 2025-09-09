@@ -54,24 +54,26 @@ otherformats: PPTM POWERPOINT PPS POTX PPT PPSX POT POTM PPSM PPTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOTX** 转换为 **POTM（启用宏的 PowerPoint 模板）** 对于依赖演示文稿内自动化的组织至关重要，可以实现高级功能和互动性。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 互动式培训
 - 自动化幻灯片更新
 - 启用宏的报告幻灯片
 - 全企业幻灯片
 - 公司合规幻灯片
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - DOTX 到 POTM 的宏管道
 - 自动更新模板
 - 数据驱动的演示文稿自动化
 - 自定义宏工作流程
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

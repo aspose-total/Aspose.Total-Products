@@ -54,13 +54,13 @@ otherformats: POT PPSM POWERPOINT PPTX PPTM PPS POTM PPSX POTX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCM（Word宏启用文档）** 转换为 **PPSM（PowerPoint宏启用幻灯片放映）** 对于创建保留宏功能的 **交互式、自动化和动态幻灯片放映** 是至关重要的。PPSM非常适合提供 **自运行、模拟驱动或数据更新演示**。  
 
 
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 
 - **设计交互式产品演示**  
   创建由宏驱动的引人入胜的演示。  
@@ -79,7 +79,8 @@ otherformats: POT PPSM POWERPOINT PPTX PPTM PPS POTM PPSX POTX PPT CSV DIF FODS 
 
 
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 
 - **DOCM转换为PPSM宏启用转换器**  
   从Word转换时保留自动化脚本。  
@@ -96,7 +97,8 @@ otherformats: POT PPSM POWERPOINT PPTX PPTM PPS POTM PPSX POTX PPT CSV DIF FODS 
 - **企业解决方案分发宏驱动的幻灯片放映**  
   为企业使用标准化宏启用演示文稿。  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -30,8 +30,8 @@ otherformats: PNG DOC OTT ODT WORDML DOTX SVG DOCX EPUB TEXT XPS PS FLATOPC DOCM
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ 主要用例
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **传统系统**：将电子邮件图像存储为BMP格式，以便与旧软件兼容。
 - **取证证据**：将电子邮件布局保留为未压缩的位图，用于调查。
@@ -39,14 +39,16 @@ otherformats: PNG DOC OTT ODT WORDML DOTX SVG DOCX EPUB TEXT XPS PS FLATOPC DOCM
 - **培训资源**：将电子邮件图像嵌入培训手册中。
 - **离线查看**：将电子邮件保存为BMP格式，以便在没有高级渲染工具的系统上查看。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **存档流程**：将电子邮件转换为BMP格式以获得不可变记录。
 - **批量导出**：将电子邮件通信批量转换为BMP格式以进行证据存储。
 - **传统集成**：将BMP电子邮件捕获输入到需要位图输入的旧系统中。
 - **合规工作流**：将官方通信存储为BMP图像。
 - **培训自动化**：从钓鱼邮件生成BMP图像用于意识计划。
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

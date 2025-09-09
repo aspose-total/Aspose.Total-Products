@@ -30,21 +30,23 @@ otherformats: DOCX FLATOPC TEXT DOTM MD DOTX SVG TIFF PS ODT EPUB WORDML PNG PCL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **EMLX邮件**可以转换为**DOTM（启用宏的Word模板）**，用于可重复使用和自动化文档工作流程。  
 
-## ✅ 主要用例  
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}  
 - 从结构化邮件创建可重复使用的模板  
 - 将宏嵌入模板以实现自动化  
 - 从电子邮件格式标准化业务工作流程  
 - 法律和合规模板生成  
 
-## ⚙️ 自动化场景  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}  
 - 从EMLX数据自动生成模板  
 - 用于企业文档自动化的DOTM工作流程  
 - 与合规和报告系统集成  
 - 用于法律/业务记录的EMLX到DOTM管道  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,23 +30,25 @@ otherformats: SVG TEXT OTT TIFF EPUB PS MD DOT GIF JPEG DOCM ODT RTF EMF DOTM DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *将电子邮件转换为 DOTM 格式，提供带有宏功能的模板，结合可重复使用的结构和自动化功能。*
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 * 从电子邮件创建可重复使用的、带有宏功能的文档模板
 * 自动化重复工作流程，如发票或报告生成
 * 将业务规则嵌入从电子邮件内容生成的模板
 * 支持企业文档自动化需求
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 * 将重复的电子邮件自动转换为 DOTM 模板
 * 批量生成带有宏功能的模板，用于标准通信
 * 用于自动化人力资源、财务或合规任务的电子邮件至 DOTM 流程
 * 从定期电子邮件中定期更新模板库
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

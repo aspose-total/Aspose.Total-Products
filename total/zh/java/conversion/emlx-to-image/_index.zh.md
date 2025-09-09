@@ -30,11 +30,11 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将**EMLX（Apple Mail电子邮件文件）**转换为通用的**图像格式**可确保与各种系统兼容，为电子邮件的存档和视觉共享提供灵活的方法。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **通用查看** → 确保电子邮件内容在任何设备或系统上都可以以图像形式查看。
 - **存档与存储** → 转换为图像格式以进行长期存储和备份。
@@ -42,7 +42,8 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 - **发布** → 将电子邮件内容插入文档、演示文稿或在线门户。
 - **安全共享** → 将消息以静态图像形式分发，而不是可编辑文本。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **通用EMLX到图像管道** → 自动将其转换为系统兼容的图像文件。
 - **企业工作流程** → 将电子邮件转换为图像并整合到合规和报告系统中。
@@ -50,7 +51,8 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 - **多格式支持** → 提供图像导出以满足BMP、JPEG、PNG或TIFF的要求。
 - **安全存档** → 将敏感消息保存为不可更改的图像格式。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

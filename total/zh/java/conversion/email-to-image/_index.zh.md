@@ -30,12 +30,12 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件转换为图像格式，如JPG、PNG或TIFF，可以确保消息的视觉布局和完整性保持完好。使用Email Java API，开发人员可以自动化此过程，创建安全、防篡改和可共享的电子邮件快照。
 
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **法律证据**：将电子邮件存储为不可编辑的图像文件，以符合合规要求和法庭案件。
 - **培训与意识**：在培训手册中将示例钓鱼或公司电子邮件嵌入为图像。
@@ -44,7 +44,8 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 - **电子邮件快照**：为审计跟踪或项目文档创建带有时间戳的图像版本。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **批量导出管道**：自动将传入的电子邮件转换为**JPG/PNG**并存档以供将来参考。
 - **合规自动化**：将所有敏感电子邮件存储为**TIFF图像**，存储在安全的记录管理系统中。
@@ -52,7 +53,8 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 - **项目文档**：将电子邮件快照附加到需要视觉证据的项目报告中。
 - **取证工作流程**：将可疑或钓鱼电子邮件转换为图像格式，供**调查人员**使用，而无需担心意外执行恶意链接。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

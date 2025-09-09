@@ -54,24 +54,26 @@ otherformats: PPSM POWERPOINT PPSX PPTM POT PPT PPTX PPS POTM POTX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOT** 转换为 **PPSM（PowerPoint 宏启用放映）** 可实现自动化、宏驱动的演示文稿，非常适合交互式演示、培训模拟和企业工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 交互式业务演示
 - 培训模拟
 - 宏驱动的报告幻灯片
 - 教育性自动运行演示
 - 企业工作流程展示
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 具有宏的 DOT 到 PPSM 转换
 - 启用宏的幻灯片自动化
 - 适用于企业的演示文稿工作流程
 - 文档到演示文稿的流水线
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

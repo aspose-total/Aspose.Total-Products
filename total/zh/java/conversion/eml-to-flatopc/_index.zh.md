@@ -30,21 +30,23 @@ otherformats: PCL ODT MD DOC WORDML FLATOPC EMF TIFF PNG DOTX OTT DOCM PS EPUB G
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **EML 转换为平面 OPC（以平面文件形式的 Office Open XML）** 可以将电子邮件内容保留在结构化、基于 XML 的单个文件表示中。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 将电子邮件内容存储在可读的 XML 格式中。
 - 与 Office Open XML 系统增强电子邮件交换。
 - 调试和分析文档结构。
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - 在 Office 文档处理中进行工作流自动化。
 - 在符合 XML 的系统中存档电子邮件数据。
 - 将 EML 转换为平面 OPC 以进行进一步的 Word 自动化。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

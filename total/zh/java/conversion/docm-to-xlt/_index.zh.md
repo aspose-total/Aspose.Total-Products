@@ -61,25 +61,27 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将 **DOCM** 转换为 **XLT（Excel 模板，传统）** 可让组织生成与旧版 Excel 兼容的可重复使用的电子表格模板。这保留了基于文档的布局，并支持传统报告、表单和归档工作流程。
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 - 设计 **标准化财务模板**  
 - 准备可重复使用的 **适用于旧版 Excel 的表单**  
 - 将 **Word 表单** 迁移到电子表格模板中  
 - 支持仍在使用 **Excel 97–2003** 的组织  
 - 在 XLT 格式中构建 **归档模板**  
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 - **DOCM 到 XLT 自动转换器**  
 - 企业工作流维护 **传统模板库**  
 - 从 Word 生成财务 XLT 的 **批处理管道**  
 - 需要 XLT 兼容性的 **归档系统**  
 - 针对 **传统 Excel 用户** 的模板分发工作流程  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,12 +30,12 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 将电子邮件转换为**可伸缩矢量图形（SVG）**可确保视觉呈现具有分辨率独立性，并适合嵌入现代应用程序中。使用电子邮件 Java API，可以将电子邮件视觉保留为适合网络的格式。
 
 
-## ✅ 主要用例
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
 
 - **网络发布**：直接将电子邮件图形嵌入网站或博客中。
 - **设计审阅**：共享基于矢量的电子邮件布局快照。
@@ -44,7 +44,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **数字取证**：保留可疑电子邮件证据的视觉保真度。
 
 
-## ⚙️ 自动化场景
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
 
 - **网络集成**：自动将新闻简报导出为 SVG 以便在网络中重复使用。
 - **设计流水线**：为设计师提供电子邮件布局的 SVG 快照。
@@ -52,7 +53,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **知识库**：在线以 SVG 格式发布与培训相关的电子邮件。
 - **批量导出**：将多个通讯转换为 SVG 以供存档。
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
