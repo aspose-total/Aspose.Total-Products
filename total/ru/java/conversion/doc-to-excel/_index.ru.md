@@ -61,18 +61,20 @@ otherformats: EXCEL SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные случаи использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - Преобразование таблиц Word в интерактивные таблицы Excel
 - Миграция финансовых данных в Excel для анализа
 - Интеграция содержимого документов в автоматизированные панели отчетов
 - Облегчение совместного редактирования данных в команде
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразователи DOC в EXCEL для прямого преобразования
 - Сценарии миграции таблиц на основе VBA
 - Автоматизированные конвейеры отчетности, интегрирующие данные из Word в Excel
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

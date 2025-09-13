@@ -59,21 +59,23 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование CGM в PPT необходимо для создания полностью редактируемых презентаций PowerPoint с высококачественными векторными диаграммами. Это позволяет менеджерам проектов, инженерам и маркетологам создавать убедительные визуальные коммуникации.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Обновления по инженерии для заседаний** – Включение точных технических диаграмм для стратегических обзоров.
 - **Иллюстрированные технические документы** – Совмещение текстовых данных с инженерной графикой.
 - **Проектные презентации с диаграммами** – Эффективное коммуницирование сложной информации.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Библиотеки Java для PPT** – Автоматизация создания редактируемых файлов PowerPoint из диаграмм CGM.
 - **Панели управления отчетностью по проектам** – Интеграция создания презентаций в рабочие процессы обновления статуса.
 - **Экспортеры CGM в слайды** – Преобразование пакетов диаграмм в готовые к слайдам файлы PPT.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

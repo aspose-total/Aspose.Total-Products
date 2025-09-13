@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX PPTX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в PPT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **PPT (Презентация PowerPoint 97-2003)** позволяет создавать совместимые с устаревшими системами презентации слайдов из структурированных наборов данных. Это гарантирует беспроблемную работу презентаций на старых системах без проблем с совместимостью формата.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание отчетов для старых версий PowerPoint
 - Распространение презентаций клиентам, использующим устаревшие системы
 - Создание обратносовместимых презентаций для продаж
 - Генерация структурированных учебных слайдов на основе данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание файлов PPT из данных CSV
 - Системы пакетной обработки CSV в PPT
 - Инструменты для автоматического заполнения слайдов на основе Java
 - Автоматизированные преобразования в устаревшие форматы для обеспечения совместимости
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

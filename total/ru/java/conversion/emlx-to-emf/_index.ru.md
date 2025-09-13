@@ -30,22 +30,24 @@ otherformats: DOCX JPEG TIFF PDF DOCM TEXT RTF PNG DOT PCL SVG EPUB WORDML DOTM 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов EMLX (электронные письма Apple Mail) в **EMF (Enhanced Metafile Format)** позволяет точно отображать графическое представление макетов электронных писем, включая шрифты, изображения и форматирование, для использования в приложениях на основе Windows.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Архивирование электронных писем Apple Mail в виде масштабируемых векторных изображений.
 - Сохранение визуальной точности информационных бюллетеней и рекламных электронных писем.
 - Включение электронных писем в отчеты и документацию Windows.
 - Обеспечение вывода готового к печати изображения независимого от разрешения.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Массовое преобразование архивов EMLX в EMF для цифровых записей.
 - Автоматизированные конвейеры для хранения правовых/комплаенс электронных доказательств.
 - Интеграция рабочего процесса с системами отчетности с использованием графики EMF.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

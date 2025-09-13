@@ -61,24 +61,26 @@ otherformats: XLSX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCX** в **XLSX (Электронная таблица Excel Open XML)** необходимо для современных, структурированных и широко совместимых рабочих процессов с таблицами, поддерживающих облачное сотрудничество и масштабируемый анализ данных.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание таблиц на основе данных
 - Преобразование отчетов в формат Excel
 - Финансовое планирование
 - Аналитика предприятия
 - Обмен структурированными данными
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизированное преобразование DOCX в XLSX
 - Рабочие процессы на основе облака
 - Генерация таблиц Excel для предприятия
 - Автоматизированная отчетность и аналитика
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

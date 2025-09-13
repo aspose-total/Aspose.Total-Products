@@ -47,8 +47,8 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Миграция старых систем электронных таблиц**  
   Преобразование данных CGM в DIF для беспрепятственного импорта в старые программы электронных таблиц, которые все еще используются в корпоративных средах.
@@ -60,7 +60,8 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
   Использование DIF для представления схем на основе CGM в структурированной форме таблиц для инженерных симуляций и интеграции данных САПР.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Библиотеки Java для преобразования электронных таблиц**  
   Реализация автоматических преобразований CGM в DIF с использованием Java API, обрабатывающих форматы, совместимые с электронными таблицами.
@@ -70,7 +71,8 @@ otherformats: XLT XLSB XLAM DIF XLTX XLTM SXC TXT EXCEL ODS MD XLSM
 
 - **Интеграция с вычислительными конвейерами статистического анализа**  
   Автоматическая передача преобразованных файлов DIF в модули статистического анализа R, MATLAB или Python через оркестрацию рабочего процесса на основе Java.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

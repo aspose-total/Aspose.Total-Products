@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в DOT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование CSV в DOT (шаблон Microsoft Word 97-2003) критично для создания многоразовых шаблонов документов, предварительно заполненных структурированными данными. Файлы DOT позволяют использовать стандартизированные макеты, которые могут быть повторно использованы без перезаписи исходного формата.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Подготовка отчетов на основе шаблонов из данных CSV** – Заполнение согласованных макетов для повторяющихся отчетов.
 - **Автоматизация генерации стандартизированных счетов** – Слияние транзакционных данных в шаблоны счетов.
 - **Создание шаблонов Word на основе форм из наборов данных** – Обеспечение быстрого создания форм для сбора данных.
 - **Оптимизация рабочих процессов предприятия по документам** – Стандартизация вывода для создания документов в крупном масштабе.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Конвертеры CSV в DOT на Java** – Создание шаблонов DOT непосредственно из структурированных входных данных CSV.
 - **Интеграция с библиотеками шаблонов Word** – Хранение и управление созданными шаблонами для использования во всей компании.
 - **Автоматическое сопоставление данных с шаблонами** – Связь полей CSV с предопределенными заполнителями шаблона.
 - **Интеграции управления контентом предприятия на Java** – Синхронизация шаблонов с платформами управления контентом для доступа в организации.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

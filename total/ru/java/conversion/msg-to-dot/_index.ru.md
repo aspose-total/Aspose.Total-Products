@@ -30,25 +30,27 @@ otherformats: JPEG DOC XPS PDF PCL WORDML FLATOPC DOTM TEXT DOCX DOT PNG TIFF PS
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в DOT** позволяет преобразовать электронные письма в многоразовые шаблоны Word для однородного форматирования.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Создание стандартизированных шаблонов на основе электронных писем клиентов
 * Повторное использование структурированных форматов коммуникации
 * Создание единообразных стилей корпоративной документации
 * Преобразование повторяющихся ответов на электронные письма в шаблоны
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвейеры MSG-to-DOT для автоматического создания шаблонов
 * Автоматизация создания шаблонов для корпоративной коммуникации
 * Юридические и HR стандартизированные формы на основе данных из электронных писем
 * Шаблоны отчетов на основе электронной почты
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

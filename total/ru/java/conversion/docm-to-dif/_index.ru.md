@@ -61,8 +61,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}  
 
 - **Обмен структурированными данными с устаревшими приложениями для таблиц**  
   Преобразование таблиц DOCM в DIF для совместимости с устаревшими программами для таблиц, предшествующими CSV/XLSX.  
@@ -79,7 +79,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 - **Поддержка академических или статистических пакетов**  
   Обеспечьте безшовный импорт в устаревшие статистические и исследовательские инструменты, которые все еще принимают DIF.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **Запланированные экспорты DOCM в DIF**  
   Автоматизируйте повторяющиеся экспорты таблиц Word в DIF для отчетности по соответствию и ведения записей.  
@@ -95,7 +96,8 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 
 - **Роботы по обработке документов, обнаруживающие таблицы и выдающие DIF**  
   Развертывайте ботов на основе RPA или ИИ для сканирования файлов DOCM, извлечения таблиц и выдачи DIF для устаревшего восприятия.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

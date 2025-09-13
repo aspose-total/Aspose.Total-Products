@@ -47,8 +47,8 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Встроенные инженерные метрики**  
   Захват значений измерений из диаграмм **CGM** в Excel для расчетов и анализа тенденций.
@@ -60,7 +60,8 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
   Преобразование векторных графиков **CGM** в редактируемые объекты графиков Excel для дальнейшей настройки.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Apache POI для создания Excel**  
   Используйте библиотеку **Apache POI** на Java для автоматизации преобразования **CGM** в Excel и заполнения ячеек извлеченными значениями.
@@ -70,7 +71,8 @@ otherformats: EXCEL TSV DIF SXC XLT XLSM ODS XLTX TXT MD XLTM XLAM
 
 - **Системы корпоративной отчетности**  
   Встраивайте рабочие процессы **CGM** в Excel в отчетные системы на Java для обработки инженерных данных в масштабе предприятия.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

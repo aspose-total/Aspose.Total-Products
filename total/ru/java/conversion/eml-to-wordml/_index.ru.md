@@ -30,25 +30,27 @@ otherformats: DOT MD FLATOPC SVG GIF PCL DOCX JPEG PDF EPUB DOCM TEXT ODT RTF DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **EML в WORDML** позволяет сохранять электронные письма в формате Word на основе XML, обеспечивая структурированную, машинно-читаемую обработку документов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Структурированное архивирование электронной переписки
 * Интеграция в системы документов на основе XML
 * Подготовка машинно-читаемых записей для соответствия
 * Трансформация содержимого электронных писем на основе данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматизированные конвейеры электронной почты в XML Word
 * Структурированная отчетность для корпоративных приложений
 * Архивирование электронных сообщений в стандартизированном формате XML
 * Автоматизация рабочего процесса для отраслей, ориентированных на соответствие
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

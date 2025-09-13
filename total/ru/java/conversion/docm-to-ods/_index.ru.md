@@ -61,11 +61,11 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCM (документы с включенными макросами Word)** в **ODS (таблицы OpenDocument)** необходимо для использования таблиц и структурированных данных в **LibreOffice Calc и других приложениях для электронных таблиц, совместимых с ODF**. В то время как файлы DOCM часто содержат ценные таблицы и данные форм, ODS предоставляет **открытый стандартный, полностью редактируемый формат электронных таблиц**, обеспечивающий долгосрочную доступность, соответствие и совместную работу. Это преобразование соединяет данные на основе Word с экосистемами с открытым исходным кодом, поддерживая требования как предприятий, так и государств к **прозрачным, нейтральным по отношению к поставщику форматам файлов**.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 
 - **Преобразование таблиц Word в редактируемые электронные таблицы**  
   Преобразуйте встроенные таблицы DOCM в ODS для выполнения расширенных вычислений, формул и анализа.  
@@ -82,7 +82,8 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 - **Долгосрочное архивирование в открытых форматах**  
   Сохраните структурированные данные в прочном формате на основе стандартов, доступном на протяжении десятилетий.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **Запланированные экспорты из DOCM в ODS**  
   Автоматизируйте повторяющиеся преобразования документов в электронные таблицы для отчетности и консолидации данных.  
@@ -99,7 +100,8 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 - **Облачные конвертеры, стандартизирующие выходные данные в формате ODS**  
   Передавайте данные из DOCM в формате ODS в облачные среды совместной работы, придерживающиеся открытых стандартов.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

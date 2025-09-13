@@ -61,21 +61,23 @@ otherformats: XLTM XLTX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Стандартизация **финансовых моделей**
 - Создание **готовых к использованию шаблонов отчетов для предприятий**
 - Миграция **структурированного контента из DOCM в Excel**
 - Поддержка **рабочих процессов бизнес-аналитики**
 - Повышение производительности с помощью **многоразовых шаблонов Excel**
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Автоматизация шаблонов DOCM-to-XLTX**
 - Генерация XLTX-файлов в рамках предприятия
 - **Генерация стандартизированных шаблонов Excel**
 - Автоматизированные **рабочие процессы с шаблонами, основанными на данных**
 - **Распространение шаблонов по всей компании**
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

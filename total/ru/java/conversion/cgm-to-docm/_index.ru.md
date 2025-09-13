@@ -42,12 +42,12 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **Computer Graphics Metafile (CGM)** в **DOCM (Macro-Enabled Word Document)** имеет высокую ценность для организаций, которым необходимы интерактивные, автоматизированные и динамичные рабочие процессы с документами. В **системах автоматизации документов на основе Java** это преобразование позволяет встраивать технические диаграммы, инженерные схемы и визуализации процессов из CGM в макрос-включенные отчеты. Формат DOCM поддерживает макросы VBA, обеспечивая автоматизированные вычисления, обновление данных и интерактивную отчетность — идеально подходит для потребностей в инженерной, промышленной и корпоративной документации.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Динамичное техническое отчетирование**  
   Встраивание иллюстраций на основе CGM в шаблоны DOCM, которые автоматически обновляют графики, таблицы и аналитический контент.
@@ -59,7 +59,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
   Создание интерактивных руководств или операционных инструкций с встроенными визуализациями CGM и навигацией, управляемой макросами.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Библиотеки Java для создания DOCM**  
   Используйте API, такие как **Apache POI**, **docx4j** или **Aspose.Words for Java**, для автоматизации преобразования CGM в DOCM с поддержкой макросов.
@@ -73,7 +74,8 @@ otherformats: RTF WORDML ODT FLATOPC PS PCL MHTML DOTM OTT DOTX XAMLFLOW MARKDOW
 - **Пакетная обработка рабочих процессов**  
   Преобразуйте и компилируйте несколько файлов CGM в макрос-включенные отчеты DOCM с помощью инструментов пакетной автоматизации на основе Java.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

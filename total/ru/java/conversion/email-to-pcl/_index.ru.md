@@ -30,11 +30,11 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **язык управления принтером (PCL)** позволяет осуществлять прямые рабочие процессы печати в предприятии. С использованием Email Java API организации могут подготовить электронные письма для высокоскоростной и массовой печати.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Печать в предприятии**: Преобразование деловых электронных писем в PCL для прямого использования принтером.
 - **Банковские выписки**: Доставка финансовых электронных коммуникаций в формате PCL для пакетной печати.
@@ -42,7 +42,8 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 - **Автоматизация почтового отдела**: Отправка входящих электронных писем непосредственно на принтеры в формате PCL.
 - **Государственные формы**: Подготовка корреспонденции для граждан для физической доставки печатной продукции.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Принт-серверы**: Автоматическое преобразование электронных писем в PCL для распределенных систем печати.
 - **Рабочие процессы большого объема**: Масштабирование преобразования электронных писем в печать для отделов бухгалтерии.
@@ -50,7 +51,8 @@ otherformats: TEXT DOCM XPS DOT ODT DOC PDF MD WORDML DOCX PCL JPEG EMF PNG OTT 
 - **Банковская автоматизация**: Экспорт транзакций или выписок из электронных писем в PCL для массовой печати.
 - **Пакетные задания печати**: Преобразование ежедневных электронных писем в файлы PCL для массовой обработки.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

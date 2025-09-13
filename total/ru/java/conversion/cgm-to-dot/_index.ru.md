@@ -42,12 +42,12 @@ otherformats: PS FLATOPC DOT PCL DOTM XAMLFLOW OTT ODT DOTX MARKDOWN MHTML WORDM
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ``
 Преобразование файлов **Computer Graphics Metafile (CGM)** в формат **DOT (Microsoft Word Template)** является необходимым для организаций, стремящихся стандартизировать техническую и инженерную документацию. В системах обработки документов на **Java**, это преобразование позволяет создавать многоразовые шаблоны, включающие диаграммы на основе CGM, обеспечивая согласованный форматирование отчетов, руководств и инженерных документов. Внедряя визуальные элементы CGM в шаблоны DOT, предприятия могут оптимизировать создание контента, поддерживать стандарты брендинга и улучшить эффективность рабочих процессов по генерации документов.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Многоразовые шаблоны технических чертежей**  
   Храните диаграммы CGM в файлах DOT для быстрого повторного использования в нескольких технических отчетах или руководствах.
@@ -59,7 +59,8 @@ otherformats: PS FLATOPC DOT PCL DOTM XAMLFLOW OTT ODT DOTX MARKDOWN MHTML WORDM
   Применяйте единые стили, макеты и заголовки, интегрируя иллюстрации CGM в профессиональные отчеты.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Сборочные движки документов на Java**  
   Автоматизируйте создание шаблонов CGM-to-DOT с использованием библиотек Java для создания документов корпоративного уровня.
@@ -73,7 +74,8 @@ otherformats: PS FLATOPC DOT PCL DOTM XAMLFLOW OTT ODT DOTX MARKDOWN MHTML WORDM
 - **Пакетное преобразование и развертывание шаблонов**  
   Обрабатывайте несколько файлов CGM в шаблоны DOT массово для быстрого развертывания шаблонов в команде.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

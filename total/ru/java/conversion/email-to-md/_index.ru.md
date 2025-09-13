@@ -30,12 +30,12 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **Markdown (MD)** обеспечивает легкий текстовый формат, широко используемый в рабочих процессах разработчиков, системах документации и статических веб-сайтах. С помощью Email Java API электронные письма могут быть легко преобразованы в Markdown для контроля версий и публикаций.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Документация разработчика**: Храните технические или поддерживающие электронные письма в MD для вики-страниц GitHub/GitLab.
 - **Публикация на статических веб-сайтах**: Публикуйте информационные бюллетени или объявления непосредственно на сайтах на основе Jekyll/Hugo.
@@ -44,7 +44,8 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 - **Легкая архивация**: Сохраняйте электронные письма в простом текстовом формате для удобного доступа.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Автоматизация документации**: Преобразуйте поддерживающие или электронные письма с изменениями в MD для документации продукта.
 - **Управление знаниями**: Автоматическая синхронизация электронных переписок в базы знаний на основе Markdown.
@@ -52,7 +53,8 @@ otherformats: PDF OTT DOTX TIFF DOTM XPS TEXT SVG MD EMF ODT DOCX GIF PCL DOT DO
 - **Обновления статических сайтов**: Автоматическая публикация информационных бюллетеней на статические веб-сайты.
 - **Пакетное преобразование**: Массовое преобразование коммуникаций в MD для централизованных репозиториев.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

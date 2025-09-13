@@ -30,25 +30,27 @@ otherformats: MD DOT RTF ODT WORDML XPS TEXT JPEG PS TIFF DOTM DOCM GIF DOCX EMF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в RTF** обеспечивает кроссплатформенный способ сохранения электронных писем с форматированием.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Архивирование отформатированных электронных писем для соответствия требованиям
 * Создание редактируемых кроссплатформенных отчетов
 * Юридическая документация с сохраненным форматированием
 * Импорт в системы, совместимые с RTF
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Пакетное автоматизированное преобразование MSG в RTF
 * Кроссплатформенные рабочие процессы архивирования
 * Хранение текста с форматированием для журналов электронной почты
 * Генерация отчетов для отдела кадров и юридических отчетов
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

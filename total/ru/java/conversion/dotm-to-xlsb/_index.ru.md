@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTM** в **XLSB** позволяет обрабатывать крупномасштабные наборы данных, улучшать производительность Excel и хранить макро-данные в бинарном формате для более быстрой обработки.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Отчетность по большим данным
 - Наборы данных масштаба предприятия
 - Высокопроизводительное финансовое моделирование
 - Рабочие процессы Excel на основе облачных технологий
 - Хранение макро-данных в бинарном формате Excel
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - ETL-процессы DOTM-to-XLSB
 - Автоматизированное преобразование крупных наборов данных
 - Отчетность предприятия в масштабе
 - Рабочие процессы таблиц Excel от макро-данных к бинарным
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

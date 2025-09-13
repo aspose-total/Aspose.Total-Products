@@ -30,21 +30,23 @@ otherformats: GIF EPUB DOTM OTT ODT DOCM PDF DOT RTF DOTX DOC PS PCL TIFF XPS FL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **Файлы EMLX** могут быть преобразованы в **DOTX (Шаблон Word XML)** для создания многократно используемых шаблонов, соответствующих стандартам.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - Создание корпоративных шаблонов из электронных писем Apple Mail  
 - Автоматизация согласованного форматирования документации  
 - Подготовка брендированных шаблонов электронных писем к документам  
 - Повторное использование структурированных макетов электронных писем в Word  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - Автоматическое создание DOTX из массовых данных EMLX  
 - Интеграция в системы управления корпоративными шаблонами  
 - Рабочие процессы от электронного письма к шаблону для HR, юридического отдела или соблюдения нормативных требований  
 - Автоматическое создание шаблонов DOTX для отчетности  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

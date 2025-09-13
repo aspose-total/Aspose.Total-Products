@@ -30,12 +30,12 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **масштабируемую векторную графику (SVG)** обеспечивает независимость от разрешения и подходит для встраивания в современные приложения. С использованием Email Java API визуальное представление электронных писем может быть сохранено в форматах, готовых для веба.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Веб-публикации**: Встраивание графики из электронных писем непосредственно на веб-сайты или блоги.
 - **Проверка дизайна**: Обмен снимками электронных макетов на основе векторов.
@@ -44,7 +44,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **Цифровая криминалистика**: Сохранение визуальной точности подозрительных доказательств в электронных письмах.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Интеграция с вебом**: Автоматически экспортировать информационные бюллетени в формате SVG для повторного использования в вебе.
 - **Дизайнерские конвейеры**: Предоставление дизайнерам снимков макетов электронных писем в формате SVG.
@@ -52,7 +53,8 @@ otherformats: EMF PDF DOC PCL DOTX DOCM FLATOPC DOTM OTT PNG JPEG DOT PS RTF DOC
 - **База знаний**: Публикация учебных электронных писем в формате SVG онлайн.
 - **Пакетная выгрузка**: Преобразование нескольких коммуникаций в формат SVG для архивирования.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

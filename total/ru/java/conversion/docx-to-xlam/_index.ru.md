@@ -61,19 +61,21 @@ otherformats: XLAM EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 - Миграция VBA-макросов из Word в Excel
 - Создание готовых к использованию предприятием надстроек для автоматизации
 - Поддержка финансовых и аналитических моделей
 - Обеспечение продуктивности в Excel с помощью макросов
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразование макросов из DOCX в XLAM
 - Развертывание предприятием надстроек
 - Автоматизация процессов в Excel
 - Автоматическое создание надстроек на основе макросов Word
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

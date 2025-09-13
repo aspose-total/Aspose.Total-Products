@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLSX EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTM** в **XLSX** обеспечивает совместимость с современным Excel, облачное совместное использование и структурированное представление данных, полученных из макросодержащих шаблонов Word.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Финансовое планирование
 - Визуализация данных
 - Перекрестная отчетность
 - Наборы данных для академических исследований
 - Рабочие процессы Excel, совместимые с облаком
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки преобразования DOTM в XLSX
 - Пакетное облачное преобразование
 - Автоматизация отчетности в реальном времени
 - Преобразование макросов в современный Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

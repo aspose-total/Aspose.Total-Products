@@ -47,19 +47,21 @@ otherformats: DIF XLTX MD FODS XLTM EXCEL XLSM XLAM XLT XLSB ODS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Извлечение атрибутов из диаграмм CGM для документирования контроля качества.
 - Преобразование метаданных CGM в таблицы CSV для статистического анализа.
 - Разбор структурированных инженерных данных для отчетности и панелей инструментов.
 - Обеспечение совместимости с Excel, Google Sheets и BI-платформами.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетное преобразование файлов CGM в CSV.
 - Запланированные конвейеры CGM-to-CSV в Java-системах производства.
 - Интеграция с Java-двигателями BI-панелей для обновлений в реальном времени.
 - Автоматическое создание CSV для архивирования и соблюдения нормативных требований.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

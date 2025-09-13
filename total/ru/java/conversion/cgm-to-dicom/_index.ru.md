@@ -57,8 +57,8 @@ API также позволяет экспортировать файл CGM в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 
 - **Интегрированные в Java радиологические просмотрщики**  
   Отображение медицинских иллюстраций на основе CGM непосредственно в рамках просмотрщиков DICOM, работающих на платформе Java, для улучшения диагностической интерпретации.
@@ -73,7 +73,8 @@ API также позволяет экспортировать файл CGM в D
   Улучшение клинических рабочих процессов путем встраивания преобразованных данных CGM в исследования многомодального изображения.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Java API для обработки DICOM**  
   Автоматизация конвейеров преобразования CGM в DICOM с использованием библиотек Java для обработки изображений и управления метаданными DICOM.
@@ -86,7 +87,8 @@ API также позволяет экспортировать файл CGM в D
 
 - **Диагностические рабочие процессы на основе ИИ**  
   Использование интегрированных в Java моделей ИИ для анализа преобразованных изображений DICOM для распознавания образцов, обнаружения аномалий и прогностической диагностики.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

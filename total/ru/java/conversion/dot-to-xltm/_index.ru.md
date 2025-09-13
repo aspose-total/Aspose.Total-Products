@@ -61,24 +61,26 @@ otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **XLTM (Шаблон Excel с поддержкой макросов)** позволяет создавать расширенные шаблоны, готовые к автоматизации, встраивая логику, управляемую макросами, из документов Word для корпоративных рабочих процессов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Автоматизированное создание шаблонов
 - Макросы для отчетности на уровне предприятия
 - Автоматизация бизнес-процессов
 - Динамические шаблоны для выставления счетов
 - Финансовое моделирование
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизация на основе макросов DOT-to-XLTM
 - Шаблонные конвейеры
 - Преобразование документов с поддержкой макросов в шаблоны
 - Автоматизация продуктивности на уровне предприятия
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

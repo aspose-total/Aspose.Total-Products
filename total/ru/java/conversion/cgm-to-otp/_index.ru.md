@@ -59,25 +59,27 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов CGM (Computer Graphics Metafile) в OTP (OpenDocument Presentation Template) упрощает создание многократно используемых шаблонов презентаций с векторной графикой. Этот формат идеально подходит для организаций, которым необходимы последовательные, брендированные и технические дизайны слайдов в различных командах и отделах.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание многократно используемых технических шаблонов презентаций.
 - Векторные форматы слайдов для инженерных и научных областей.
 - Отраслевые макеты отчетности для регулярных презентаций.
 - Образовательные шаблоны слайдов с подробными диаграммами.
 - Корпоративные библиотеки шаблонов с встроенными схемами.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Генерация пользовательских шаблонов слайдов на основе Java-движков отчетности.
 - Инструменты автоматического создания шаблонов для технических команд.
 - Рабочие процессы на основе API для встраивания графики CGM в шаблоны OTP.
 - Пакетная обработка для создания стандартизированных отраслевых презентаций.
 - Системы распространения шаблонов, совместимые с LibreOffice.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

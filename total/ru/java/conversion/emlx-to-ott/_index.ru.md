@@ -30,22 +30,24 @@ otherformats: EMF DOT EPUB SVG TIFF DOC RTF ODT PCL DOCM PNG FLATOPC PDF DOCX TE
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем EMLX в **OTT (шаблон текстового документа OpenDocument)** создает многоразовые шаблоны на основе содержания электронной почты для профессионального общения.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Преобразование макетов электронной почты Apple Mail в многоразовые шаблоны.
 - Стандартизация информационных бюллетеней, уведомлений и официального общения.
 - Создание шаблонных рабочих процессов для деловой переписки.
 - Поддержание единства бренда в исходящих документах.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизированное извлечение форматов электронной почты в шаблоны OTT.
 - Массовое производство готовых к использованию в бизнесе шаблонов на основе прошлых электронных писем.
 - Централизованные библиотеки шаблонов для корпоративного общения.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

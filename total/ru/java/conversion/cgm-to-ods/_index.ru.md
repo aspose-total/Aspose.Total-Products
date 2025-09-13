@@ -47,25 +47,27 @@ otherformats: XLTM XLSB XLSM XLT SXC MD DIF EXCEL ODS XLAM TXT FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов CGM (Computer Graphics Metafile) в ODS (OpenDocument Spreadsheet) позволяет объединить векторные диаграммы с структурированными данными в форматах электронных таблиц с открытым исходным кодом. Это преобразование необходимо для технической отчетности, документации в области инженерии и аналитических задач, требующих как табличных данных, так и высококачественной визуализации.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание табличных инженерных отчетов с встроенными диаграммами.
 - Документация проектов с открытым исходным кодом с визуальными ссылками.
 - Научный анализ данных наряду с векторными графиками.
 - Отслеживание производственных процессов с интегрированными схемами.
 - Отчеты об окружающей среде и обзоры, содержащие диаграмматические данные.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Java-ориентированные системы ETL, экспортирующие объединенные данные и диаграммы.
 - Инструменты экспорта научных данных для структурированного и визуального контента.
 - API для взаимодействия офисов для технической документации в нескольких форматах.
 - Автоматизированные конвейеры визуализации данных.
 - Интеграция с LibreOffice Calc для кроссплатформенного доступа.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

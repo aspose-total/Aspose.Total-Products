@@ -30,21 +30,23 @@ otherformats: DOTX DOT XPS TEXT GIF SVG OTT PCL FLATOPC PS EPUB DOTM DOCX WORDML
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - Преобразование электронных писем Apple Mail для универсального доступа  
 - Редактирование и форматирование данных электронной почты в формате DOCX  
 - Архивирование для профессионального, корпоративного или академического использования  
 - Преобразование электронной почты в отчеты  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - Массовые конвейеры преобразования EMLX в DOCX для предприятий  
 - Автоматический экспорт электронных писем в архивы DOCX  
 - Интеграция данных электронной почты с системами управления документами  
 - Генерация структурированных отчетов DOCX из репозиториев электронной почты  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,11 +30,11 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **EMLX (файлы электронной почты Apple Mail)** в общий **формат ИЗОБРАЖЕНИЯ** обеспечивает совместимость с широким спектром систем, обеспечивая гибкий подход к архивированию и визуальному обмену электронными письмами.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 
 - **Универсальный просмотр** → Гарантируйте просмотр содержимого электронной почты в виде изображений на любом устройстве или системе.  
 - **Архивирование и хранение** → Преобразуйте в форматы ИЗОБРАЖЕНИЯ для долгосрочного хранения и резервного копирования.  
@@ -42,7 +42,8 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 - **Публикация** → Вставляйте содержимое электронной почты в документы, презентации или онлайн-порталы.  
 - **Безопасный обмен** → Распространяйте сообщения в виде статических изображений, а не в виде редактируемого текста.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **Универсальные конвейеры EMLX-to-Image** → Автоматизируйте преобразование в файлы изображений, совместимые с системой.  
 - **Потоки работ предприятия** → Интегрируйте электронную почту в изображения в системы соблюдения и отчетности.  
@@ -50,7 +51,8 @@ otherformats: DOT EMF MD DOCX EPUB IMAGE PCL XPS DOC RTF GIF TEXT FLATOPC JPEG D
 - **Поддержка нескольких форматов** → Предоставьте экспорт в ИЗОБРАЖЕНИЕ для удовлетворения требований BMP, JPEG, PNG или TIFF.  
 - **Безопасные архивы** → Сохраняйте конфиденциальные сообщения в неизменяемых форматах изображений.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

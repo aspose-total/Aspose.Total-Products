@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в DOCM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование CSV в DOCM (документ Word с поддержкой макросов) является важным для создания интерактивных, автоматизированных отчетов на основе структурированных наборов данных. Файлы DOCM поддерживают макросы VBA, обеспечивая расширенную автоматизацию, такую как динамические вычисления, условное форматирование и обновление документов на основе данных.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Автоматическое создание отчетов с встроенными макросами VBA** – Генерация интерактивных отчетов с встроенной логикой.
 - **Дашборды для бизнеса на основе данных в Word** – Создание дашбордов с поддержкой макросов для отслеживания производительности.
 - **Интерактивные формы, заполняемые данными из CSV** – Заполнение форм Word структурированной информацией.
 - **Настройка автоматизации документов для предприятий** – Включение макросов для повторяющихся задач по созданию отчетов.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Библиотеки создания DOCM на основе Java** – Программное создание файлов Word с поддержкой макросов.
 - **Преобразователи CSV в DOCM с инъекцией макросов** – Встраивание сценариев автоматизации во время создания документа.
 - **Интеграция с системами бизнес-аналитики** – Автоматическое создание отчетов с поддержкой макросов из аналитических платформ.
 - **Макросные рабочие процессы на Java для постобработки** – Запуск расширенного форматирования или проверки данных после создания.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

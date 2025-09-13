@@ -49,24 +49,26 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Экспорт **DOTM** в **JSON (JavaScript Object Notation)** позволяет создавать структурированные форматы данных, понятные для машин, идеально подходит для API, облачных рабочих процессов и хранения баз данных NoSQL, улучшая интеграцию веб- и мобильных приложений.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Интеграции API для веб- и облачных приложений
 - Обмен данными и взаимодействие веб-приложений
 - Хранение данных в базах данных NoSQL
 - Облачные и безсерверные рабочие процессы
 - Автоматизированная отчетность и аналитика
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки извлечения DOTM в JSON
 - Рабочие процессы данных макросов в API
 - Автоматизация преобразования документов в JSON
 - Процессы автоматизации на основе данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

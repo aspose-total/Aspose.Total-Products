@@ -61,22 +61,24 @@ otherformats: XLSM TSV XLTM XLS EXCEL XLSX XLAM XLT SXC XLSB ODS FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOC** в **XLTM (Шаблон Excel с поддержкой макросов)** создает многоразовые шаблоны таблиц, готовые к автоматизации. Оно объединяет стандартизацию шаблонов с эффективностью, основанной на макросах.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание макро-шаблонов для бизнеса
 - Автоматизация повторяющихся процессов отчетности
 - Встраивание логики VBA в многоразовые шаблоны
 - Преобразование документа в шаблонный рабочий процесс
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразователи макро-шаблонов DOC в XLTM
 - Автоматизированные конвейеры генерации шаблонов VBA
 - Системы развертывания макро-шаблонов
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

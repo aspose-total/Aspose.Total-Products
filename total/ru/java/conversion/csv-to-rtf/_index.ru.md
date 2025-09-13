@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в RTF</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **RTF (Rich Text Format)** позволяет преобразовывать структурированные наборы данных в визуально оформленные документы, совместимые с различными платформами. Этот процесс критически важен для создания универсально доступных отчетов, счетов и архивов, сохраняющих как целостность данных, так и согласованность форматирования на различных операционных системах и приложениях.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Генерация универсально читаемых бизнес-отчетов из сырых наборов данных CSV
 - Создание портативных счетов с форматированием Rich Text
 - Подготовка стилизованных текстовых файлов для безопасного обмена документами
 - Создание архивов офлайн-контента для соблюдения требований и резервного копирования
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматическая генерация файлов RTF из экспортированных баз данных
 - Использование пакетных конвертеров CSV в RTF для массового создания документов
 - Применение шаблонных стилевых движков на основе Java для создания брендированных документов
 - Интеграция автоматизированной генерации RTF в корпоративные рабочие процессы
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

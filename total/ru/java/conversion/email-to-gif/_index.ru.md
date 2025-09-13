@@ -30,11 +30,11 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в формат **GIF** обеспечивает компактный способ сохранения и обмена визуальной информацией по электронной почте. С помощью Java Email API организации могут создавать снимки электронных писем в формате GIF для легкого распространения и встраивания.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Легкое распространение**: Распространение небольших снимков электронных писем.
 - **Обучение и информирование**: Используйте GIF-изображения фишинговых писем в электронных обучающих модулях.
@@ -42,7 +42,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **Архивирование**: Хранение электронной переписки в легком формате.
 - **Использование на различных платформах**: Обмен изображениями по электронной почте там, где не поддерживаются продвинутые форматы изображений.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Автоматизация базы знаний**: Публикация GIF-изображений электронных писем в порталы документации.
 - **Обучение по безопасности**: Автоматическое создание GIF-примеров мошеннических писем для информирования.
@@ -50,7 +51,8 @@ otherformats: DOT TIFF EMF XPS DOCX EPUB PCL DOTM WORDML PDF MD FLATOPC PNG JPEG
 - **Пакетная выгрузка**: Преобразование массового количества писем в GIF для архивирования.
 - **Легкое архивирование**: Хранение меньших GIF-версий менее важной переписки.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

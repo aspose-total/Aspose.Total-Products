@@ -61,22 +61,24 @@ otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOC** в **FODS (Flat OpenDocument Spreadsheet)** важно для создания структурированных таблиц на основе XML из данных документа Word. Это обеспечивает совместимость с открытыми стандартами и гарантирует долгосрочную доступность табличных данных.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Преобразование таблиц Word в электронные таблицы, соответствующие стандарту ODF
 - Обмен структурированными данными между системами OpenOffice/LibreOffice
 - Архивирование данных в открытых форматах на основе XML
 - Обеспечение совместимости документов и электронных таблиц
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Конвертеры DOC в FODS для стандартизированного вывода
 - Сценарии трансформации XML для точного форматирования
 - Рабочие процессы на основе документов OpenDocument для совместной работы
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

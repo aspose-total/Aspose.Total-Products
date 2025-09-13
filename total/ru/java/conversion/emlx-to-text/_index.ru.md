@@ -30,23 +30,25 @@ otherformats: PS DOTM GIF JPEG DOCM DOC PNG ODT TIFF SVG PDF DOT PCL EMF WORDML 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **EMLX** в **обычный текст (TXT)** извлекает сырое содержимое электронной почты для упрощенного чтения и легкого хранения.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - Извлечение читаемого текста электронной почты из файлов EMLX  
 - Хранение легких архивов электронной почты  
 - Подача содержимого электронной почты в системы поиска или индексации  
 - Подготовка чистых журналов электронной почты для проверки  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - Массовые конвейеры EMLX-to-TXT для архивирования  
 - Автоматизированное извлечение обычного текста из электронной почты  
 - Интеграция с системами ведения журналов и мониторинга  
 - Подача текста электронной почты в рабочие процессы ИИ/обработки естественного языка  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

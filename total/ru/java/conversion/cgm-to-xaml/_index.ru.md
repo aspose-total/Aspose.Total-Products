@@ -59,21 +59,23 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в XAML преобразование позволяет использовать технические диаграммы в рамках .NET-основанных пользовательских интерфейсов, таких как WPF, обеспечивая интерактивные и стилизованные интерфейсы.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Прототипирование пользовательского интерфейса** – Интеграция диаграмм в макеты для дизайна пользовательского интерфейса.
 - **Динамическое построение графиков** – Отображение данных CGM в виде интерактивных диаграмм.
 - **Стилизация WPF** – Применение пользовательских стилей к векторной графике для приложений на рабочем столе.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Мосты преобразования Java в .NET** – Преобразование CGM в формат XAML программно.
 - **Конвейеры векторов в XAML** – Подготовка ресурсов для немедленной интеграции.
 - **Разработка гибридных платформ** – Обеспечение общих компонентов пользовательского интерфейса для различных платформ.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

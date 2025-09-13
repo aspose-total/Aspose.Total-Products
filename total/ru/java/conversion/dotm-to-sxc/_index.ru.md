@@ -61,21 +61,23 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Совместимость с легаси-данными для рабочих процессов таблиц  
 - Интеграции с офисными пакетами с открытым исходным кодом  
 - Автоматизация рабочего процесса от документа к таблице  
 - Архивирование предприятия в формате SXC  
 - Использование таблиц на различных платформах  
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетные конвейеры преобразования DOTM в SXC  
 - Автоматизация таблиц с открытым исходным кодом  
 - Миграция макро-шаблонов документов  
 - Межоперационная совместимость рабочих процессов  
 - Преобразование для архивирования
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

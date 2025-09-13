@@ -61,24 +61,26 @@ otherformats: XLSM XLS XLSX SXC TSV XLTX EXCEL ODS DIF XLTM XLT FODS XLAM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **DIF (Формат обмена данными)** обеспечивает структурированный обмен данными между шаблонами Word и устаревшими системами электронных таблиц или баз данных, обеспечивая совместимость и безпроблемную миграцию.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Миграция данных
 - Совместимость с устаревшими системами
 - Импорт электронных таблиц
 - Аналитические конвейеры предприятия
 - Архивирование структурированных данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразование DOT в DIF в рабочих процессах ETL
 - Автоматизированный обмен данными
 - Системы отчетности, совместимые с DIF
 - Межплатформенные конвейеры документов в данные
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

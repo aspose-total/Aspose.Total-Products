@@ -42,12 +42,12 @@ otherformats: OTT MHTML MARKDOWN PCL WORDML DOTM XAMLFLOW ODT DOTX DOT RTF FLATO
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **Computer Graphics Metafile (CGM)** в формат **DOTM (Шаблон Word с поддержкой макросов)** является критически важным для организаций, которым необходима динамическая, автоматизированная и интерактивная генерация документов. В **автоматизированных потоках на основе Java**, шаблоны DOTM позволяют встраивать диаграммы CGM с макросами VBA, обеспечивая расширенные вычисления, автоматизированное форматирование и обновление контента в реальном времени. Такой подход упрощает создание инженерных отчетов, технических руководств и документации, ориентированной на рабочие процессы, обеспечивая визуальное и функциональное единообразие в корпоративных системах.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Шаблонизированные инженерные отчеты с поддержкой макросов**  
   Встраивание диаграмм на основе CGM в шаблоны DOTM, которые запускают автоматизированные вычисления, анализ и генерацию отчетов.
@@ -59,7 +59,8 @@ otherformats: OTT MHTML MARKDOWN PCL WORDML DOTM XAMLFLOW ODT DOTX DOT RTF FLATO
   Разработка специфических для рабочих процессов шаблонов, объединяющих иллюстрации CGM с интерактивной макрофункциональностью для работы на месте или в лаборатории.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Фреймворки и API на Java**  
   Использование **Aspose.Words для Java** или шаблонных движков Office в средах на основе Spring для автоматизации преобразования CGM в DOTM и сборки шаблонов.
@@ -73,7 +74,8 @@ otherformats: OTT MHTML MARKDOWN PCL WORDML DOTM XAMLFLOW ODT DOTX DOT RTF FLATO
 - **ETL и отчетные конвейеры**  
   Включение преобразования CGM в DOTM в процессы ETL на основе Java, обеспечивая отчетность и визуализацию на макросодержащем уровне.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

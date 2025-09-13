@@ -49,24 +49,26 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **JSON (JavaScript Object Notation)** позволяет шаблонам Word стать структурированными наборами данных для веб-приложений, облачной автоматизации и корпоративных интеграций.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Веб-приложения
 - Автоматизация на основе данных
 - Облачные API
 - Интеграции корпоративного программного обеспечения
 - Генерация структурированных наборов данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизация конвейера DOT-to-JSON
 - Рабочие процессы от шаблона к API
 - Системы отчетности, готовые к JSON
 - Интеграция облачных корпоративных данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

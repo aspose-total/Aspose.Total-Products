@@ -61,8 +61,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}  
 
 - **Хранение электронных таблиц в Git для удобного отслеживания изменений**  
   Сохраняйте табличные данные в формате XML, где изменения могут быть отслежены строка за строкой в системах контроля версий.  
@@ -80,7 +80,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
   Гарантируйте, что данные, полученные из файлов Word с макросами, остаются без макросов при сохранении в формате FODS.  
 
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **CLI-конвейеры для преобразования DOCM в FODS**  
   Автоматизируйте преобразования с помощью инструментов командной строки для повторяемых, скриптовых рабочих процессов.  
@@ -96,7 +97,8 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 
 - **Внедрители метаданных, помечающие FODS для управления**  
   Обогащайте вывод метаданными (владение, версия, теги политики) для регулируемых сред.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

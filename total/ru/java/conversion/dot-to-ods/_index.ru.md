@@ -61,24 +61,26 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **ODS (OpenDocument Spreadsheet)** необходимо для создания структурированных электронных таблиц из шаблонов Word, поддерживающих аналитику, отчетность и совместную работу.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Бизнес-процессы с открытым исходным кодом
 - Готовность к созданию отчетов в электронных таблицах
 - Совместная работа с данными
 - Аналитика предприятия
 - Совместимость между платформами
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизация шаблонов DOT-to-ODS
 - Бизнес-процессы отчетности с открытым исходным кодом
 - Потоки данных на основе ODS
 - Преобразования документов в электронные таблицы в облаке
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

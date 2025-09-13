@@ -42,21 +42,23 @@ otherformats: DOTX RTF WORDML OTT MARKDOWN MHTML PS DOTM ODT XAMLFLOW PCL FLATOP
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов CGM (Computer Graphics Metafile) в PCL (Printer Command Language) в рабочих процессах на основе Java является необходимым для отраслей, которым требуется точный, масштабируемый и эффективный процесс печати. PCL широко поддерживается промышленными принтерами, что делает его идеальным форматом для инженерных диаграмм, технической документации и печати крупных отчетов. С помощью Java разработчики могут интегрировать преобразование CGM в PCL в автоматизированные конвейеры, обеспечивая постоянное качество вывода и совместимость с корпоративными средами печати.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Промышленная печать** – Отправляйте CAD-диаграммы или технические схемы на основе CGM непосредственно на высокоскоростные принтеры, совместимые с PCL.
 - **Инженерная документация** – Преобразуйте технические чертежи на основе CGM в PCL для стандартизированного распространения инженерных отчетов.
 - **Прямые рабочие процессы с принтером** – Исключите промежуточную обработку файлов, создавая файлы PCL, готовые к непосредственному использованию принтером.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Java Print Pipelines** – Интегрируйте преобразование CGM в PCL с помощью API Java для автоматизированной пакетной печати.
 - **Генерация корпоративных отчетов** – Совместите инструменты отчетности Java (например, JasperReports) с выводом PCL для распространения документов в большом объеме.
 - **Виртуальные очереди принтеров** – Используйте службы Java для преобразования CGM в PCL и помещения их в виртуальные или сетевые системы очередей принтеров.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

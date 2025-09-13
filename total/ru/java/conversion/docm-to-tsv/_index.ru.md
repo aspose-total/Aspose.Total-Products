@@ -61,25 +61,27 @@ otherformats: TSV SXC FODS XLSB XLAM XLTX XLSX ODS XLS XLSM DIF XLTM EXCEL XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **DOCM** в **TSV (значения, разделенные табуляцией)** важно для экспорта структурированных данных из документов Word в легкие текстовые форматы, которые легко интегрировать между системами. TSV обеспечивает чистую совместимость с ERP, CRM, аналитическими и устаревшими платформами, а также позволяет рабочим процессам машинного обучения и обмену данными между средами программирования.  
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Подготовка структурированных **текстовых данных** для **импорта в ERP или CRM**  
 - Миграция таблиц в **аналитические и BI платформы**  
 - Обмен табличными наборами данных между **средами программирования и сценариями**  
 - Создание **наборов данных для машинного обучения** и рабочих процессов искусственного интеллекта  
 - Обеспечение **обмена данными с устаревшими системами**, требующими легких форматов  
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Автоматизированные конвейеры извлечения DOCM в TSV** для масштабируемого преобразования  
 - **ETL рабочие процессы** для создания наборов данных, готовых к TSV  
 - **Сервисы мониторинга папок**, генерирующие непрерывные TSV выводы  
 - **Конвертации через API**, выдающие TSV для последующей интеграции  
 - **Корпоративные центры данных**, использующие TSV для легкой совместимости  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

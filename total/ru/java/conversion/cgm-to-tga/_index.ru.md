@@ -57,21 +57,23 @@ API также позволяет экспортировать файл CGM в T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в TGA (формат Targa) преобразование преобразует векторную графику в высококачественные растровые изображения, идеальные для текстурного отображения, визуальных эффектов и процессов разработки игр.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Растеризация векторной графики** – Подготовьте диаграммы CGM для растровых рабочих процессов.
 - **Генерация текстур для игровых движков** – Создание готовых к использованию текстур для 3D окружений.
 - **Дизайн контента высокого качества для трансляций** – Используйте TGA для профессионального видео и медиапроизводства.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Графические фреймворки Java** – Отображение CGM в TGA с высокой точностью.
 - **Генераторы растровых изображений пакетной обработки** – Автоматизация преобразования для больших библиотек ресурсов.
 - **Конвейеры из вектора в текстуру** – Интеграция в рабочие процессы дизайна для моментального визуализирования.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

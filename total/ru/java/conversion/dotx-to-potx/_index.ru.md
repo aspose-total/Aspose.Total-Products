@@ -54,24 +54,26 @@ API также позволяет преобразовывать защищен�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTX** в **POTX (PowerPoint Template Open XML)** обеспечивает совместимость с облаком, повторно используемые шаблоны, которые являются портативными, современными и соответствуют корпоративным системам дизайна.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Бизнес-презентации
 - Академические лекции
 - Корпоративное обучение
 - Маркетинговые презентации
 - Стандартизированные презентации бренда
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки преобразования DOTX в POTX
 - Автоматизация презентаций в облаке
 - Библиотеки шаблонов
 - Стандартизация слайдов корпорации
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

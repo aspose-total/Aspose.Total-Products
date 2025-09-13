@@ -49,22 +49,24 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Конвертация **DOCX** в **JSON (JavaScript Object Notation)** позволяет интегрировать содержимое документа в API, веб-приложения и современные рабочие процессы автоматизации. JSON позволяет извлекать структурированные данные, читаемые машинами, из документов Word.
 
-### ✅ Основные сценарии использования
+#{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Извлечение структурированного содержимого для **API**
 - Возможность использования **веб-приложений, основанных на документах**
 - Миграция данных DOCX в **бесголовые CMS**
 - Поддержка **процессов машинного обучения**
 - Обмен данными в **приложениях предприятия**
 
-### ⚙️ Сценарии автоматизации
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Массовые конвейеры API для конвертации DOCX в JSON**
 - **Автоматизированная отчетность на основе JSON**
 - **Рабочие процессы разбора документов**
 - **Системы веб-интеграции**
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

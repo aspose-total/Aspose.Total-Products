@@ -30,11 +30,11 @@ otherformats: DOTM DOCM TIFF DOCX EMF DOT MD JPEG TEXT DOTX DOC PS WORDML RTF GI
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **EPUB** делает их портативными и читаемыми на электронных книгах и мобильных устройствах. С помощью Email Java API разработчики могут автоматизировать преобразование информационных бюллетеней, исследований и коммуникаций в структурированные электронные книги.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Архивирование информационных бюллетеней**: Сохраняйте маркетинговые или подписные электронные письма в формате EPUB для удобного чтения.
 - **Исследовательский материал**: Студенты и исследователи собирают академическую переписку в коллекции EPUB.
@@ -42,7 +42,8 @@ otherformats: DOTM DOCM TIFF DOCX EMF DOT MD JPEG TEXT DOTX DOC PS WORDML RTF GI
 - **Чтение офлайн**: Получите доступ к коммуникациям в формате EPUB на Kindle или мобильных приложениях.
 - **Распространение контента**: Переиспользуйте рассылки электронных писем в виде загружаемых электронных книг.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Автоматический экспорт информационных бюллетеней**: Преобразуйте ежедневные/еженедельные информационные бюллетени в формат EPUB.
 - **Исследовательские рабочие процессы**: Храните электронные переписки с профессорами или коллегами в формате EPUB.
@@ -50,7 +51,8 @@ otherformats: DOTM DOCM TIFF DOCX EMF DOT MD JPEG TEXT DOTX DOC PS WORDML RTF GI
 - **Автоматизация публикации**: Переиспользуйте маркетинговые кампании поэтапной рассылки в брендированные EPUB.
 - **Хранилища знаний**: Поддерживайте структурированные архивы EPUB внутренних коммуникаций.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

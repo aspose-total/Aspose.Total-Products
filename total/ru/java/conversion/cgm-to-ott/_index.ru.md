@@ -42,8 +42,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Генерация отчетов, совместимых с ODF**  
   Создание отчетов на основе стандартов, в которых визуальные материалы CGM интегрируются без проблем с структурированным содержимым OpenDocument.
@@ -52,7 +52,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
   Храните шаблоны OTT с визуализацией CGM в общих репозиториях для совместного редактирования несколькими пользователями в платформах с открытым исходным кодом.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Автоматизация на Java с помощью конвертера**  
   Используйте API Aspose в рабочих процессах на Java для преобразования файлов CGM в шаблоны OTT для автоматизированного развертывания.
@@ -65,7 +66,8 @@ otherformats: WORDML RTF ODT DOT DOTM XAMLFLOW PCL MHTML DOTX OTT MARKDOWN PS
 
 - **Платформы предприятия с открытым исходным кодом**  
   Развертывание шаблонов OTT с встроенными диаграммами CGM в системах управления контентом и автоматизации документооборота на Java.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

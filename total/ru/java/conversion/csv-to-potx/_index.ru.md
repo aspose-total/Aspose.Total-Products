@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX POTXX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в POTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **POTX (PowerPoint Open XML Template)** позволяет создавать современные многократно используемые шаблоны слайдов на основе структурированных наборов данных. Это способствует соблюдению бренда и ускоряет создание презентаций для маркетинга, корпоративных и образовательных целей.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Автоматизация шаблонов корпоративных презентаций
 - Создание маркетинговых презентаций на основе данных
 - Подготовка согласованных дизайн-фреймворков для команд
 - Создание многоязычных шаблонов слайдов на основе данных CSV
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание шаблонов на основе данных CSV с использованием современных форматов PowerPoint
 - Сценарии пакетного преобразования CSV в POTX для масштабного использования
 - Рабочие процессы автоматизации дизайна на основе Java для стилизации слайдов
 - Интеграция с системами управления корпоративными презентациями
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

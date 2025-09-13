@@ -59,17 +59,19 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Презентации на основе данных** – Автоматическое обновление визуализаций на основе живых наборов данных.
 - **Технические симуляции с макросами** – Управление воспроизведением симуляции на слайдах.
 - **Интерактивный инженерный контент** – Разрешить модификации диаграмм в реальном времени во время презентаций.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Инструменты автоматизации слайдов на Java** – Создание макро-включенных слайдов непосредственно из файлов CGM.
 - **Слайд-деки с макросами, созданными с помощью ИИ** – Комбинирование автоматизации с контентом, созданным с помощью искусственного интеллекта для получения инсайтов.
 - **Шаблонные динамические конвейеры контента** – Генерация и обновление технических шаблонов презентаций масштабно.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

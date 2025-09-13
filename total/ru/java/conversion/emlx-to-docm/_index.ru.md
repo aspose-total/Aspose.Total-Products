@@ -30,19 +30,21 @@ otherformats: PDF PNG DOTX PCL OTT ODT PS DOT EPUB TEXT JPEG DOCM SVG FLATOPC WO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - Встраивание текста электронной почты в шаблоны Word с поддержкой макросов  
 - Автоматизация рабочих процессов с использованием макросов Word на данных электронной почты  
 - Подготовка динамических отчетов из сообщений EMLX  
 - Преобразование электронной почты в многоразовые интерактивные файлы Word  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - Автоматически генерируемые отчеты DOCM из массовых электронных писем  
 - Рабочие процессы, ориентированные на соблюдение нормативных требований, с встроенными макросами  
 - Интеграция с системами автоматизации документооборота предприятия  
 - Конвейеры EMLX-to-DOCM для юридической или финансовой документации  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

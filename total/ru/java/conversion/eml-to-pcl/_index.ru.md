@@ -30,19 +30,21 @@ otherformats: DOT ODT PDF TEXT XPS JPEG SVG EMF OTT DOCX TIFF DOC DOTX DOTM WORD
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **PCL (Язык команд принтера)** широко используется для принтеров. Преобразование **EML в PCL** позволяет осуществлять прямые рабочие процессы от электронной почты к принтеру.
 
-## ✅ Ключевые сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 - Оптимизация рабочих процессов печати в предприятиях.
 - Архивирование версий электронной почты, готовых к печати.
 - Автоматизация задач пакетной печати.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизированная печать с сервера из файлов электронной почты.
 - Преобразование уведомлений по электронной почте непосредственно в PCL.
 - Пакетная печать EML в PCL в крупном масштабе.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,24 +61,26 @@ otherformats: XLS SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCX** в **XLS (формат бинарного файла Excel)** критично для преобразования данных в виде таблиц из документов в редактируемые электронные таблицы, обеспечивая эффективное управление данными и анализ в рамках устаревших систем Excel.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Управление структурированными данными
 - Импорт отчетов в Excel
 - Финансовый анализ
 - Создание редактируемых электронных таблиц из документов
 - Рабочие процессы на основе данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Конвейеры преобразования DOCX в XLS
 - Цифровизация отчетов
 - Управление корпоративными данными
 - Автоматизированное создание листов Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

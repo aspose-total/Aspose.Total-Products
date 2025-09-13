@@ -59,21 +59,23 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в PPSX (Open XML Slide Show) конверсия упрощает создание неизменяемых портативных слайд-шоу файлов, оптимизированных для использования на различных платформах. Это идеально подходит для встраивания диаграмм CGM в презентации, предназначенные для немедленного просмотра.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Автоматизированные слайд-презентации** – Генерация заранее созданных слайд-шоу из инженерных визуальных материалов.
 - **Визуальные брифинги для различных платформ** – Обеспечение совместимости с современными версиями PowerPoint.
 - **Встроенная векторная графика в отчетах** – Представление презентаций с высококачественными техническими изображениями.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Генераторы файлов слайд-шоу на основе Java** – Создание файлов PPSX непосредственно из источников CGM.
 - **Пакетное производство слайд-шоу** – Автоматизация массового производства презентаций только для чтения.
 - **Системы интеллектуальной отчетности** – Интеграция диаграмм CGM в автоматизированные пакеты презентаций.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

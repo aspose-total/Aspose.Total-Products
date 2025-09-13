@@ -30,23 +30,25 @@ otherformats: TIFF TEXT GIF DOC XPS JPEG ODT FLATOPC RTF PNG SVG MD DOTM DOTX DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Преобразование электронных писем в формат DOC позволяет компаниям сохранять, редактировать и повторно использовать записи общения в структурированном формате документа Word.*
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Архивирование важных электронных коммуникаций в редактируемых файлах DOC
 * Подготовка юридических или документов о соответствии на основе электронных записей
 * Преобразование обновлений проекта или клиентского общения в структурированные отчеты
 * Редактирование электронных писем с использованием расширенных функций форматирования в Microsoft Word
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматическое преобразование входящих электронных писем в формат DOC для централизованной документации
 * Пакетная выгрузка электронных писем в формат DOC для архивирования в целях соответствия
 * Автоматизированные конвейеры электронной почты в формат DOC для управления делами или кадровыми записями
 * Плановые преобразования для создания редактируемых резервных копий коммуникаций команды
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

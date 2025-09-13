@@ -30,23 +30,25 @@ otherformats: DOCM SVG MD TEXT PDF PNG DOTX OTT DOT ODT FLATOPC WORDML GIF EPUB 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Преобразование электронных писем в DOTX обеспечивает стандартизированные шаблоны без макросов, идеальные для соблюдения и создания чистых документов.*
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Преобразование структурированных электронных писем в безопасные, многоразовые шаблоны
 * Стандартизация корпоративной документации без встроенных макросов
 * Подготовка шаблонов, соответствующих бренду, для коммуникации с клиентами
 * Преобразование повторяющихся электронных писем поддержки или объявлений в библиотеки шаблонов
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматизированное создание DOTX-шаблонов из повторяющихся рабочих процессов по электронной почте
 * Пакетное преобразование электронных писем службы поддержки или HR в многоразовые шаблоны
 * Интеграция с системами документирования для создания DOTX-шаблонов
 * Плановое преобразование архивов коммуникации в DOTX для обеспечения согласованности
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,25 +61,27 @@ otherformats: XLTM XLSB XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCM** в **XLSB (Excel Binary Workbook)** оптимизирует производительность при работе с большими наборами данных, уменьшает размер файлов и ускоряет открытие и обработку книг. Спредшиты, оптимизированные для двоичного формата, идеально подходят для предприятий, которым требуются быстрые операции с данными большого объема, сохраняя при этом целостность таблиц и структурированного контента на основе Word.
 
-## ✅ Основные случаи использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - Обработка **больших наборов данных** из документов Word
 - Улучшение производительности для **частого доступа к данным**
 - Уменьшение размера файла для **более быстрой дистрибуции**
 - Хранение конфиденциальных данных в **двоичном формате**
 - Поддержка предприятий с **операциями Excel большого объема**
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Конвертеры DOCM в XLSB** для рабочих процессов производительности
 - **Автоматизированные конвейеры преобразования** обрабатывающие большие документы
 - **Конвейеры предприятий для отчетности** с производством двоичных Excel-выходов
 - **Пакетные инструменты** для уменьшения хранилища с помощью XLSB
 - **BI рабочие процессы** оптимизированные с помощью двоичных таблиц
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

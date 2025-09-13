@@ -42,19 +42,21 @@ otherformats: POWERPOINT PPTX PPTMX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в PPTM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 - Автоматизация обновлений повторяющихся презентаций
 - Создание интерактивных каталогов продуктов
 - Генерация данных для обучающих сессий
 - Улучшение бизнес-презентаций с макросами
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание PPTM с встроенными макросами из данных CSV
 - Интеграция макросов, управляемая данными CSV
 - Пакетное создание PPTM для корпоративного использования
 - Автоматизация презентаций на Java
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

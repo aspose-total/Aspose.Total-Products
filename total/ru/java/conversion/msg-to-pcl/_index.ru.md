@@ -30,23 +30,25 @@ otherformats: PS DOTX OTT ODT PNG DOCM DOC PDF EMF FLATOPC TEXT JPEG TIFF MD GIF
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG в PCL (Язык управления принтером)** позволяет преобразовывать электронные письма в формат, готовый к печати, широко используемый для печати в предприятиях и архивных рабочих процессах.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Преобразование электронных писем в PCL для прямой печати
 * Ведение записей предприятия с помощью оптимизированных для принтера форматов
 * Стандартизированные корпоративные рабочие процессы печати
 * Представление документов для правительства и соответствие требованиям
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвейеры MSG в PCL для пакетных решений печати
 * Автоматизированное преобразование архивов электронной почты в PCL для хранения
 * Автоматизация печати корпоративной электронной почты в масштабе
 * Интеграция рабочего процесса PCL, ориентированного на соответствие требованиям
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

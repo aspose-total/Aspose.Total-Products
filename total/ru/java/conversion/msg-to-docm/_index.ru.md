@@ -30,25 +30,27 @@ otherformats: FLATOPC DOTX PCL DOC EPUB PS RTF GIF TIFF EMF DOT ODT PDF XPS TEXT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в DOCM** позволяет встраивать макросы в файлы Word, отправляемые по электронной почте, что позволяет автоматизировать задачи внутри документа.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Создание шаблонов с макросами из электронных писем
 * Автоматизация повторяющихся задач по форматированию или отчетности
 * Возможность использования расширенных рабочих процессов в юридической и финансовой сферах
 * Объединение нескольких электронных писем в отчеты с макросами
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Потоки с макросами для автоматизированной отчетности
 * Пакетное преобразование электронных писем MSG в шаблоны DOCM
 * Создание документации по соответствию с встроенными макросами
 * Автоматизированные рабочие процессы для финансового аудита
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,18 +61,20 @@ otherformats: ODS XLTX XLTM XLT TSV XLAM EXCEL DIF XLSX XLSM XLSB FODS SXC XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Извлечение таблиц из Word в формат ODS  
 - Обмен данными, полученными из Word, с приложениями электронных таблиц  
 - Преобразование данных документа для детального анализа  
 - Обеспечение совместимости с LibreOffice, OpenOffice и другими инструментами, совместимыми с ODF  
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки извлечения DOC в ODS для массовой обработки  
 - Инструменты форматирования и конвертации электронных таблиц на Java  
 - Автоматизированный разбор таблиц из Word в ODS для оптимизации рабочих процессов  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

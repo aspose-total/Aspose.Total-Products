@@ -59,17 +59,19 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Динамические визуальные панели инструментов** – Обновление диаграмм в реальном времени во время презентаций.
 - **Технические презентации с встроенными макросами** – Возможность интерактивного исследования данных.
 - **Автоматизированные дисплеи симуляции** – Представление результатов живой симуляции без ручной настройки.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Движки рендеринга макросов PowerPoint на основе Java** – Создание и доставка слайд-шоу с макросами.
 - **Интерактивные технические брифинги** – Встраивание диаграмм и расчетов, сгенерированных на Java.
 - **Умные потоки презентации** – Связывание нескольких файлов PPSM в систему управления презентацией.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

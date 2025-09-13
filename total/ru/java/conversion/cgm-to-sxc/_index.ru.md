@@ -47,21 +47,23 @@ otherformats: FODS DIF MD XLSB EXCEL XLTX XLAM TSV XLTM ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в SXC (формат OpenOffice Calc) конверсия позволяет интегрировать техническую графику или табличные данные в системы электронных таблиц с открытым исходным кодом. Он поддерживает совместимость с LibreOffice и другими платформами на основе открытых документов.
 
-## ✅ Основные случаи использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - **Интеграция Таблиц Инженерии** – Совмещение диаграмм с таблицами данных для технических отчетов.
 - **Архивирование Технических Иллюстраций на Основе Векторов** – Хранение векторных технических иллюстраций наряду с данными.
 - **Совместимость с Инструментами на Основе LibreOffice** – Обеспечение плавного использования файлов в кроссплатформенных средах.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Рабочие процессы трансформации данных, управляемые Java** – Преобразование CGM в форматы, готовые к использованию в электронных таблицах.
 - **Рутины ETL для Открытых Документов** – Автоматизация импорта векторных диаграмм в электронные таблицы.
 - **Системы Отчетности для Кроссплатформенных Сред** – Встраивание визуальных элементов в автоматизированную генерацию отчетов.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

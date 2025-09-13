@@ -61,24 +61,26 @@ otherformats: XLAM ODS TSV XLT FODS EXCEL DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTX** в **Excel (XLS/XLSX)** ценно для преобразования шаблонов Word в структурированные электронные таблицы, поддерживающие аналитику, отчетность и управление рабочим процессом предприятия.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Бизнес-отчетность
 - Финансовое планирование
 - Рабочие процессы на основе данных
 - Управление документами предприятия
 - Аналитика, совместимая с облачными технологиями
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки данных от DOTX к Excel
 - Автоматизированное создание электронных таблиц
 - Автоматизация отчетности предприятия
 - Рабочие процессы анализа данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,22 +42,24 @@ otherformats: WORDX WORD PPTX POWERPOINT
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в WORD</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **WORD (документ Microsoft Word)** необходимо для превращения необработанных данных в отшлифованные, профессиональные документы, готовые к презентации, публикации или передаче клиенту. Это преобразование упрощает встраивание структурированной информации в стилизованные макеты, заголовки и таблицы для максимальной читаемости.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Генерация бизнес-отчетов непосредственно из наборов данных CSV
 - Создание отформатированных предложений и контрактов на основе структурированных данных
 - Подготовка документов для клиентов с фирменным стилем
 - Подготовка контента для публикации в цифровом или печатном виде
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Использование инструментов пакетного преобразования CSV в WORD для генерации документов в большом объеме
 - Применение стилей документов, управляемых Java, для динамического заполнения шаблонов
 - Интеграция с автоматизированными конвейерами отчетности для планового вывода в Word
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

@@ -49,8 +49,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 
 - **Публикация данных документа в REST/GraphQL API**  
   Предоставление извлеченного содержимого DOCM в формате JSON для прямого использования в веб- и мобильных приложениях.  
@@ -67,7 +67,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 - **Включение безголовых CMS или микросервисных архитектур**  
   Интеграция содержимого DOCM в распределенные системы, ориентированные на API, где JSON является лингва франка.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **Извлечение из DOCM в JSON с сопоставлением полей**  
   Определение сопоставлений для преобразования таблиц, заголовков и полей в структурированные объекты JSON.  
@@ -83,7 +84,8 @@ otherformats: XLT XLTM FODS SXC XLAM XLS EXCEL ODS XLSM DIF XLSB XLTX TSV CSV
 
 - **Правила управления, которые удаляют макросы и ПИИ перед экспортом в JSON**  
   Применение проверок соответствия для обеспечения безопасного, санитарного вывода JSON из файлов с макросами.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

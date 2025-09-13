@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSM EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **XLSM (Книга Excel с поддержкой макросов)** позволяет создавать многоразовые автоматизированные книги Excel из шаблонов Word, обеспечивая выполнение сложных вычислений и автоматизацию рабочего процесса.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Автоматизированные финансовые панели управления
 - Рабочие процессы с поддержкой макросов
 - Шаблоны продуктивности предприятия
 - Автоматизация сложного анализа данных
 - Модели таблиц, основанные на процессах
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразование DOT в XLSM с макросами
 - Потоки автоматизации рабочего процесса
 - Генерация шаблонов с поддержкой макросов
 - Автоматизация документов в Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

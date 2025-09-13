@@ -30,25 +30,27 @@ otherformats: PDF DOTX SVG RTF ODT DOC FLATOPC DOT WORDML DOCM XPS PS DOTM PNG T
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **EML в DOT** позволяет преобразовывать электронные письма в многоразовые шаблоны Word, полезные для создания структурированных форматов документов на основе содержания электронной почты.
 
-### ✅ Основные сценарии использования
+#{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Создание стандартных шаблонов на основе коммуникации с клиентами
 * Преобразование повторяющихся электронных писем в предварительно разработанные макеты документов
 * Использование содержания электронной почты в качестве основы для брендированных отчетов
 * Подготовка юридических или корпоративных шаблонов на основе текста электронной почты
 
-### ⚙️ Сценарии автоматизации
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматическое создание шаблонов документов на основе запросов клиентов
 * Системы отчетности на основе шаблонов
 * Стандартизированные форматы коммуникации в проектах
 * Потоки электронной почты в шаблоны для корпоративных рабочих процессов
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

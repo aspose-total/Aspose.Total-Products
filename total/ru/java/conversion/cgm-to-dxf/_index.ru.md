@@ -57,8 +57,8 @@ API также позволяет экспортировать файл CGM в D
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 
 - **Взаимодействие в области проектирования инженерных систем**  
   Обмен и редактирование конструкций на основе CGM в инструментах САПР, поддерживающих DXF, для межплатформенного сотрудничества.
@@ -70,7 +70,8 @@ API также позволяет экспортировать файл CGM в D
   Преобразование диаграмм CGM в формат DXF для прямого изменения в программном обеспечении САПР без потери векторной точности.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Инструменты САПР на Java**  
   Интеграция преобразования CGM в DXF непосредственно в приложения для редактирования и визуализации САПР на Java.
@@ -80,7 +81,8 @@ API также позволяет экспортировать файл CGM в D
 
 - **Автоматизированные системы архивирования САПР**  
   Хранение дизайнов CGM в виде файлов DXF в долгосрочных архивах инженерных данных для будущего повторного использования и соответствия.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,25 +61,27 @@ otherformats: XLTM XLS XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **DOCM** в **XLS (рабочая книга Excel 97–2003)** необходимо для организаций, полагающихся на устаревшие среды Microsoft Excel. Этот процесс сохраняет таблицы, формы и структурированные данные из документов Word, обеспечивая полную совместимость с более старыми версиями Excel, что позволяет безупречно сотрудничать и соблюдать архивные требования в устаревших системах.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Миграция таблиц Word в **старые среды Excel**  
 - Поддержка организаций с **устаревшими системами**  
 - Подготовка электронных таблиц для **ограниченного офлайн использования**  
 - Обмен данными с партнерами, продолжающими использовать **более старые версии Office**  
 - Соответствие **устаревшим форматам**  
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Пакетные конвертеры DOCM в XLS** для масштабной миграции  
 - **Интеграции с устаревшими ERP-системами**, требующими XLS  
 - **Автоматизированные конвейеры экспорта**, генерирующие XLS для исторических данных  
 - **Рабочие процессы, ориентированные на соответствие**, обеспечивающие выводы в XLS  
 - Инструменты обработки документов, преобразующие DOCM в XLS для **обратной совместимости**  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

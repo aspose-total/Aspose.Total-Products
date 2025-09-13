@@ -42,19 +42,21 @@ otherformats: POWERPOINT POWERPOINTX WORD PPTX
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в POWERPOINT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные случаи использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - Создание отчетов о продажах на основе данных CSV
 - Автоматизация создания презентаций для инвесторов
 - Генерация презентаций квартального обзора бизнеса
 - Создание визуальных панелей для совещаний
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание файлов PowerPoint непосредственно из данных CSV
 - Системы пакетной генерации CSV в PPT для отчетности
 - Автоматизированные движки дизайна слайдов на Java
 - Запланированные конвейеры отчетности для регулярных презентаций
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

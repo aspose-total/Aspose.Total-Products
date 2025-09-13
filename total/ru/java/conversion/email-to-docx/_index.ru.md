@@ -30,23 +30,25 @@ otherformats: PCL OTT RTF PDF WORDML TIFF DOCX MD EMF JPEG DOTX DOT FLATOPC XPS 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 *Преобразование электронных писем в формат DOCX обеспечивает современный, широко поддерживаемый формат с расширенными функциями редактирования и оформления.*
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Сохранение электронных переписок в виде редактируемых файлов DOCX
 * Подготовка клиентской переписки для профессиональной документации
 * Обмен отформатированными записями электронной почты с командами или партнерами
 * Использование функций DOCX, таких как комментарии, отслеживание изменений и оформление
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвертация электронной почты в реальном времени в формат DOCX для отслеживания проектов
 * Пакетное архивирование электронной почты в формате DOCX для корпоративных записей
 * Автоматический экспорт клиентской или служебной переписки в формат DOCX для отчетности
 * Плановая конвертация для создания безопасных резервных копий переписки
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

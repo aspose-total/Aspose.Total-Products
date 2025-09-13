@@ -42,8 +42,8 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 {{< gist "aspose-com-gists" "0efeafdb89a8f12c79a55721c524bbf8" "save-cgm-to-database.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Встраивание графики в форматы Rich Text**  
   Интегрируйте визуальные элементы CGM непосредственно в документы RTF для создания технической документации с текстом и изображениями.
@@ -55,7 +55,8 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
   Распространяйте подробные спецификации с встроенными диаграммами CGM заинтересованным лицам с помощью универсально поддерживаемых файлов RTF.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Библиотеки Java, совместимые с RTF**  
   Автоматизируйте преобразование CGM в RTF с помощью **Apache POI-HWPF** или специализированных Java API для создания файлов RTF.
@@ -68,7 +69,8 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML RTF D
 
 - **Доставка документов между платформами**  
   Используйте автоматизацию на Java для генерации файлов RTF на основе CGM в форматах, доступных на различных операционных системах и приложениях.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -42,19 +42,21 @@ otherformats: POWERPOINT PPTX PPSX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в PPS</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 - Автоматизированные слайды демонстрации продуктов
 - Мгновенное создание презентаций для клиентов
 - Создание модулей обучения на основе слайд-шоу
 - Презентации событий на основе данных для конференций
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание выходных файлов PPS непосредственно из данных CSV
 - Пакетная обработка CSV в PPS
 - Переходы и анимации слайдов, запускаемые на Java
 - Интеграция с платформами автоматизированной доставки контента
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

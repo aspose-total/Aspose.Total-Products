@@ -61,24 +61,26 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Шаблоны Word с поддержкой макросов часто содержат структурированные данные, которые могут быть сложны для прямого извлечения. Преобразование файлов **DOTM** в **CSV (значения, разделенные запятыми)** упрощает этот процесс, обеспечивая легкое извлечение структурированных данных, подходящее для электронных таблиц, отчетов и аналитики.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Миграция данных из шаблонов с макросами в базы данных
 - Рабочие процессы импорта/экспорта между несколькими системами
 - Обработка и анализ корпоративных данных
 - Легкий импорт данных в базу данных и управление таблицами
 - Оптимизированные конвейеры отчетности для бизнес-аналитики
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Конвейеры извлечения DOTM в CSV
 - Рабочие процессы преобразования макросов в данные
 - Автоматизированная отчетность CSV из шаблонов Word
 - Корпоративные конвейеры ETL для структурированных данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

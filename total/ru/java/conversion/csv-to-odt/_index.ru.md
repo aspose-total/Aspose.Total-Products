@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в ODT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **ODT (OpenDocument Text)** гарантирует, что структурированные данные преобразуются в открытые стандартные редактируемые документы, совместимые с популярными офисными пакетами, такими как LibreOffice и OpenOffice. Это необходимо для создания документов, которые можно легко обмениваться, профессиональных документов, соблюдая требования правительства и НПО к открытым форматам.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание подробных отчетов на основе наборов данных CSV
 - Подготовка открытых счетов, предложений и заявлений
 - Обмен форматированными отчетами между различными офисными пакетами
 - Сохранение совместимости с требованиями к открытым стандартам
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Java-базовые API для создания ODT (например, ODF Toolkit) для структурированного вывода документов
 - Сценарии пакетного преобразования CSV в ODT для повторяющейся обработки
 - Интеграция с открытыми офисными пакетами для бесперебойного рабочего процесса
 - Автоматическое форматирование стилей для файлов ODT для обеспечения согласованности брендинга
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

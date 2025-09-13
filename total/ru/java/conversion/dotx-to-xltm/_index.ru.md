@@ -61,24 +61,26 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTX (Шаблон Word)** в **XLTM (Шаблон Excel с поддержкой макросов)** позволяет организациям развертывать повторно используемые макро-фреймворки для автоматизации. Это обеспечивает масштабируемые, повторяемые рабочие процессы Excel в различных отделах.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Шаблоны автоматизации отделов
 - Финансовые планы с макросами
 - Шаблоны обработки и трансформации данных
 - Расширенные рабочие процессы отчетности
 - Автоматизация бизнес-процессов с поддержкой макросов
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки автоматизации DOTX-to-XLTM
 - Развертывание шаблонов с поддержкой макросов
 - Автоматическое создание Excel из DOTX
 - Повторно используемые шаблоны рабочих процессов для предприятий
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

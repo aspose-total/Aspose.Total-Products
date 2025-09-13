@@ -61,24 +61,26 @@ otherformats: EXCEL XLAM XLSM XLSB XLTX TSV DIF XLS XLT SXC FODS XLTM XLSX ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **CSV (значения, разделенные запятыми)** необходимо для преобразования шаблонов Word в легкие структурированные наборы данных, которые легко обрабатывать, обмениваться и импортировать на различные платформы.
 
-## ✅ Основные случаи использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - Экспорт данных в больших объемах
 - Импорт в базу данных
 - Готовые к использованию в электронных таблицах структуры
 - Обмен легкими данными
 - Интеграции на основе облака
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки данных от DOT к CSV
 - Генерация наборов данных на основе шаблонов
 - Автоматизация CSV в рабочих процессах
 - Системы предприятий для отчетности
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

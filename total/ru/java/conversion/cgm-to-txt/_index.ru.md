@@ -47,13 +47,13 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **Computer Graphics Metafile (CGM)** в формат **TXT (Plain Text)** ценно для извлечения, документирования и обработки информации о векторной графике в легкочитаемой форме. В **Java-приводимых конвейерах обработки данных** это преобразование позволяет преобразовывать диаграммы CGM в текстовые представления для ведения журналов, хранения метаданных или последующего анализа. Захватывая описательные элементы файлов CGM в формате TXT, организации могут упростить интеграцию с другими системами, обеспечить быстрый поиск и индексацию, а также обеспечить долгосрочную совместимость.
 
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Журналирование диаграмм в текстовом формате**  
   Сохраняйте информацию о диаграммах CGM в виде обычного текста для проверки, отладки или архивирования.
@@ -65,7 +65,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
   Документируйте инженерные данные, связанные с CGM, в файлах TXT для быстрого доступа и легкого хранения.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Библиотеки ввода-вывода Java для преобразования**  
   Используйте стандартные API обработки файлов Java вместе с парсерами CGM для извлечения и записи содержимого в файлы TXT.
@@ -79,7 +80,8 @@ otherformats: XLAM FODS XLTM ODS MD DIF EXCEL TXT XLTX XLT SXC XLSB
 - **Экспортеры обычного текста в конвейерах ETL**  
   Интегрируйте разбор CGM и экспорт в TXT в рабочие процессы извлечения-трансформации-загрузки на основе Java для обработки структурированных данных.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

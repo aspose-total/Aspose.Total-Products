@@ -42,19 +42,21 @@ otherformats: POWERPOINT PPTX POTX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в POT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Автоматизация создания слайдов непосредственно из наборов данных
 - Создание бизнес-презентаций на основе шаблонов
 - Генерация учебных материалов из данных CSV
 - Стандартизация корпоративных дизайнов слайдов внутри команд
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Java-библиотеки PowerPoint для создания слайдов на основе CSV
 - Пакетные конвертеры CSV в POT для массового создания шаблонов
 - Интеграция с корпоративными инструментами для презентаций для единого брендинга
 - Автоматическое заполнение слайдов структурированными данными
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

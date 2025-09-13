@@ -30,21 +30,23 @@ otherformats: TEXT OTT WORDML RTF ODT FLATOPC DOT PS XPS JPEG DOC PCL DOCX GIF M
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Редактирование и форматирование электронных писем в офисном программном обеспечении с открытым исходным кодом
 * Архивирование электронных писем в системах, совместимых с ODF
 * Миграция данных Outlook на платформы с открытым документом
 * Подготовка юридических или деловых документов в открытых форматах
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвейеры MSG-to-ODT для документирования предприятия
 * Автоматизированная миграция с Outlook на LibreOffice/OpenOffice
 * Пакетная выгрузка электронных писем в редактируемые файлы ODT
 * Архивные рабочие процессы, совместимые с ODF
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

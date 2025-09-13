@@ -42,19 +42,21 @@ otherformats: POWERPOINT PPTX PPSXX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в PPSX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Ключевые сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
 - Мгновенное создание маркетинговых слайдов
 - Продуктовые портфолио на основе данных
 - Презентации предложений для клиентов
 - Автоматизированные слайд-деки для обновления инвесторов
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание вывода PPSX из данных CSV
 - Пакетные конвертеры CSV в PPSX для масштабной доставки
 - Автоматизированное оформление и тематика слайдов на Java
 - Интеграция с системами планирования отчетности
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

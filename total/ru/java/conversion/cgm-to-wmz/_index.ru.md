@@ -57,21 +57,23 @@ API также позволяет экспортировать файл CGM в W
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в WMZ (сжатый файл метафайла Windows) конверсия оптимизирует хранение и передачу векторной графики. Это полезно для уменьшения размеров файлов в рабочих процессах предприятия при сохранении совместимости.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Эффективная передача векторного контента** – Минимизация использования полосы пропускания в системах документов.
 - **Оптимизированная упаковка документов** – Встраивание WMZ внутри файлов Office для переносимости.
 - **Архивирование контента** – Хранение сжатых векторных иллюстраций для долгосрочного доступа.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Java ZIP-Based Compression APIs** – Автоматизация конверсии CGM в WMZ массово.
 - **Утилиты встраивания изображений** – Интеграция графики WMZ в многофайловые пакеты документов.
 - **Серверы подготовки документов** – Оптимизация рабочих процессов предварительной публикации.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

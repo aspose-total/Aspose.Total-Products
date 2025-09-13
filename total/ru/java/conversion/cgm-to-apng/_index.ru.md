@@ -57,23 +57,25 @@ API также позволяет экспортировать файл CGM в A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов CGM (Computer Graphics Metafile) в APNG (Animated Portable Network Graphics) позволяет сохранить сложные векторные клинические диаграммы и добавить возможности анимации. APNG широко поддерживаются в современных браузерах, что делает их идеальными для инструментов образования пациентов и мобильных приложений.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Интерактивные визуализации данных по инсулину для пациентских панелей управления.
 - Анимированные графики по доставке лекарств в приложениях по управлению диабетом.
 - Мобильные приложения, отображающие изменение уровня глюкозы со временем.
 - Обучающие модули в телемедицине с использованием динамических визуалов APNG.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетное преобразование в системах мониторинга в реальном времени.
 - Интеграция в конвейеры ETL для платформ данных по диабету.
 - Использование в автоматически генерируемых анимированных выписных эпикризах из больницы.
 - Запуск рендеринга для приложений на основе ИИ, интерпретирующих данные CGM.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,12 +30,12 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в форматы изображений, такие как **JPG, PNG или TIFF**, гарантирует сохранение визуального оформления и целостности сообщения. С помощью Email Java API разработчики могут автоматизировать этот процесс для создания безопасных, защищенных от подделок и общедоступных снимков электронных писем.
 
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Юридические доказательства**: Храните электронные письма в виде неизменяемых файлов изображений для соблюдения требований и судебных дел.
 - **Обучение и информирование**: Встраивайте примеры рассылок или корпоративных электронных писем в виде изображений в учебные пособия.
@@ -44,7 +44,8 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 - **Снимки электронной почты**: Создавайте отмеченные по времени версии изображений для аудиторских трассировок или документации проекта.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Пакетные конвейеры экспорта**: Автоматически преобразуйте входящие электронные письма в **JPG/PNG** и архивируйте их для последующего использования.
 - **Автоматизация соблюдения требований**: Храните все конфиденциальные электронные письма в виде изображений **TIFF** в системах управления записями.
@@ -52,7 +53,8 @@ otherformats: JPEG DOTM DOCX IMAGE OTT EPUB DOCM EMF FLATOPC DOT TEXT ODT SVG DO
 - **Документация проекта**: Прикрепляйте снимки электронных писем к отчетам о проекте, где требуется визуальное доказательство.
 - **Следственные рабочие процессы**: Преобразуйте подозрительные или фишинговые электронные письма в изображения для **следователей** без риска случайного выполнения вредоносных ссылок.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

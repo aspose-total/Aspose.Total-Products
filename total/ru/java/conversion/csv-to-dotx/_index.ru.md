@@ -42,23 +42,25 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в DOTX</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование CSV в DOTX (шаблон Word Open XML) необходимо для создания современных, многократно используемых шаблонов, заполненных структурированными данными. Файлы DOTX не содержат макросов и идеально подходят для создания стандартизированных документов предприятия.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Создание библиотек актуальных шаблонов** – Поддерживайте современные шаблоны для повторного использования.
 - **Подготовка клиентоориентированных шаблонов из наборов данных** – Генерируйте персонализированные шаблоны для различных клиентов.
 - **Автоматизация создания повторяющихся документов** – Заполняйте шаблоны свежими данными CSV для регулярных отчетов.
 - **Форматирование данных CSV для использования в шаблонах на предприятии** – Обеспечьте согласованный стиль документов.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Java DOCX/DOTX API** – Используйте библиотеки Java для программной генерации шаблонов DOTX.
 - **Движки сопоставления CSV с шаблонами** – Свяжите поля CSV с заполнителями шаблонов.
 - **Инструменты пакетного преобразования CSV в DOTX** – Автоматизируйте генерацию шаблонов в крупном масштабе.
 - **Системы персонализации контента на основе Java** – Создавайте настроенные шаблоны для конкретных аудиторий.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

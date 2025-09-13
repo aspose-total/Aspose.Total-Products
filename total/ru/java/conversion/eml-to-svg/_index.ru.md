@@ -30,19 +30,21 @@ otherformats: JPEG FLATOPC SVG PDF EMF PCL TIFF TEXT PS OTT DOCM DOTX DOC RTF DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **Масштабируемая векторная графика (SVG)** - это векторный формат, удобный для веба. Преобразование **EML в SVG** позволяет хранить и отображать электронные письма в виде масштабируемой графики.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Встраивание электронных писем в виде векторной графики на веб-сайтах.
 - Создание интерактивных архивов переписки.
 - Визуализация содержимого электронной почты в дизайн-системах.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетное преобразование для веб-публикаций.
 - Автоматизация архивирования брендовых шаблонов электронной почты.
 - Преобразование электронной почты в SVG для рабочих процессов UI/UX.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

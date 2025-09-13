@@ -30,19 +30,21 @@ otherformats: PS PDF MD EPUB TEXT DOTM IMAGE PCL TIFF FLATOPC SVG GIF PNG EMF RT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования  
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - **Универсальный просмотр**: Просмотр содержимого электронного письма без необходимости использования почтового клиента.  
 - **Цифровые доказательства**: Сохранение точной копии электронного письма в юридических и коммерческих целях.  
 - **Простое обмен**: Отправка электронных писем в виде изображений через мессенджеры или социальные платформы.  
 - **Обучение и документация**: Вставка полного визуального представления электронного письма в руководства пользователя.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - **Мультиформатный экспорт**: Автоматическое преобразование одного EML в несколько форматов изображений.  
 - **Системы захвата электронной почты**: Хранение всех входящих электронных писем в виде снимков изображений.  
 - **Следственные рабочие процессы**: Стандартизация форматов изображений для расследований.  
 - **Архивные конвейеры**: Автоматизация долгосрочного сохранения в библиотеках изображений.  
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

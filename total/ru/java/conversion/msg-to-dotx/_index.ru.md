@@ -30,25 +30,27 @@ otherformats: FLATOPC ODT DOCX PS TEXT SVG TIFF DOCM WORDML OTT RTF DOTM DOT PCL
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в DOTX** преобразует содержимое электронной почты в стандартизированные, многократно используемые шаблоны Word.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Согласованный брендинг в шаблонах коммуникации
 * Стандартизированные отчеты для корпоративного использования
 * Создание унифицированных шаблонов документов по HR и юридическим вопросам
 * Преобразование клиентской коммуникации в структурированные шаблоны
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматизированные конвейеры MSG в DOTX
 * Пакетное преобразование для управления шаблонами предприятия
 * Генерация шаблонов на основе электронной почты для согласованности бренда
 * Рабочие процессы по документированию HR
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

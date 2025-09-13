@@ -42,23 +42,25 @@ otherformats: POWERPOINT PPTX PPSMX WORD
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">Попробуйте наше бесплатное приложение для преобразования CSV в PPSM</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **CSV** в **PPSM (слайд-шоу PowerPoint с поддержкой макросов)** позволяет создавать интерактивные автоматизированные презентации, сгенерированные из структурированных наборов данных. Этот формат отлично подходит для демонстраций продуктов, панелей управления и интерактивных учебных материалов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Демонстрации продуктов с использованием макросов
 - Автоматизированные презентации финансовых панелей управления
 - Интерактивные учебные слайд-шоу
 - Воспроизведение презентаций на основе событий
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Создание PPSM-выходов с встроенными макросами
 - Рабочие процессы внедрения макросов на основе CSV
 - Пакетное создание PPSM для повторяющихся событий
 - Системы планирования слайд-шоу на основе Java
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

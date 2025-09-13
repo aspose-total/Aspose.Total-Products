@@ -30,22 +30,24 @@ otherformats: DOT JPEG PS XPS DOTM DOCM PDF EMF WORDML DOC SVG PNG MD RTF TIFF F
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование EMLX в **ODT (OpenDocument Text)** предлагает гибкий формат документа с открытым исходным кодом, подходящий для редактирования электронных писем в OpenOffice.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Редактирование электронных писем Apple Mail в виде документов ODT.
 - Хранение деловой переписки в форматах открытых стандартов текста.
 - Доступность на различных платформах с помощью редакторов с открытым исходным кодом.
 - Долгосрочное архивирование в непроприетарных форматах.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Массовый экспорт электронных писем Apple Mail в архивы ODT.
 - Автоматизированные рабочие процессы по преобразованию электронных писем в ODT для государственных органов или предприятий.
 - Интеграция с системами управления документами с открытым исходным кодом.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

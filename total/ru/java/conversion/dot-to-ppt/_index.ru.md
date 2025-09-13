@@ -54,24 +54,26 @@ API также позволяет преобразовывать защищен�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **PPT (Презентация PowerPoint)** генерирует редактируемые файлы презентаций из шаблонов Word, поддерживая устаревшие системы и стандартные рабочие процессы презентаций.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Бизнес-отчеты
 - Учебные проекты
 - Презентации продаж
 - Корпоративные слайды для обучения
 - Генерация предложений
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразование DOT в PPT
 - Автоматизация редактирования презентаций
 - Готовые к использованию рабочие процессы документа к слайду
 - Потоки документов к презентации
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

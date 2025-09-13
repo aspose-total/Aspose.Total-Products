@@ -42,20 +42,22 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в WORDML</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ## Преобразование **CSV** в **WORDML (документ Microsoft Word в формате XML)** позволяет создавать структурированные документы Word на основе XML, которые удобны для чтения человеком и обработки машинами. Это особенно ценно для предприятий, нуждающихся в создании документов на основе данных с интеграцией в системы на основе WordprocessingML.
 
-### ✅ Основные сценарии использования
+#{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Создание документов Word на основе XML из наборов данных CSV
 - Интеграция с системами на основе WordprocessingML для автоматизированного создания контента
 - Создание машинно-читаемых документов для обмена между системами
 - Подготовка контента для автоматизированных процессов публикации с точным форматированием
 
-### ⚙️ Сценарии автоматизации
+#{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Использование инструментов сопоставления CSV с WORDML для преобразования структурированных наборов данных в формат XML Word
 - Применение Java-средств стилизации XML для настраиваемого вывода
 - Автоматизация заполнения документов в системах управления контентом предприятия
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

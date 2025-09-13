@@ -42,19 +42,21 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">Попробуйте наше бесплатное приложение для преобразования CSV в OTT</a></p>
 </div></div>
 </div></div>
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Подготовка отчетов на основе шаблонов в LibreOffice или OpenOffice
 - Автоматизация создания стандартизированных документов из наборов данных
 - Создание шаблонов открытых документов, соответствующих требованиям государства
 - Распространение многоразовых форматов шаблонов для использования командой или организацией
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Инструменты генерации OTT на основе Java для создания структурированных шаблонов
 - Системы сопоставления CSV с шаблонами для прямого заполнения данных
 - Утилиты пакетного преобразования OTT для подготовки массовых документов
 - Автоматизированное заполнение документов наборами данных CSV для экономии времени
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

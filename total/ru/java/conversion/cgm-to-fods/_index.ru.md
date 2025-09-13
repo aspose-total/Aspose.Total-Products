@@ -47,8 +47,8 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Преобразование графических технических данных в таблицы**  
   Извлечение векторных графических данных из файлов CGM в структурированные строки и столбцы для анализа.
@@ -60,7 +60,8 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
   Распространение данных таблиц, полученных из файлов CGM, через приложения, совместимые с ODF.
 
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Библиотеки Java, такие как JOpenDocument**  
   Автоматизация преобразования CGM в FODS в рабочих процессах Java с использованием библиотек обработки таблиц с открытым исходным кодом.
@@ -73,7 +74,8 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 
 - **Системы обработки данных с открытым исходным кодом**  
   Использование FODS в качестве части научных или инженерных платформ на Java для прозрачного управления данными на основе стандартов.
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -61,22 +61,24 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOC** в **CSV (значения, разделенные запятыми)** критически важно для извлечения и структурирования табличных или текстовых данных из документов Word в обычные текстовые файлы, разделенные запятыми. Это преобразование обеспечивает беспрепятственную миграцию данных в электронные таблицы, базы данных и инструменты аналитики, обеспечивая совместимость и удобство обмена между платформами.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Массовое извлечение данных из отчетов Word для импорта в базу данных
 - Миграция табличного содержимого в электронные таблицы для анализа
 - Обеспечение совместимости с инструментами аналитики данных и бизнес-аналитики
 - Упрощение обмена большими наборами данных в легких форматах
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетные конвертеры DOC в CSV для массовой обработки
 - Сценарии на основе скриптов для извлечения пользовательских данных
 - Облачные рабочие процессы от документа к данным для обновлений в реальном времени
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

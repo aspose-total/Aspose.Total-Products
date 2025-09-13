@@ -61,24 +61,26 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSB EXCEL XLSX SXC TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **XLSB (Excel Binary Workbook)** идеально подходит для работы с большими наборами данных с оптимизированным хранением и более быстрой обработкой, подходит для отчетов предприятий масштаба предприятия.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Наборы данных предприятий
 - Таблицы, соответствующие большим данным
 - Оптимизированные рабочие процессы хранения
 - Финансовое моделирование
 - Автоматизация записей большого масштаба
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Преобразование шаблона DOT в XLSB
 - Высокопроизводительные конвейеры Excel
 - Данные-интенсивная отчетность предприятий
 - Масштабируемые рабочие процессы от документа к набору данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

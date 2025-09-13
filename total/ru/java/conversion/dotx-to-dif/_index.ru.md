@@ -61,25 +61,27 @@ otherformats: XLSM DIF XLS XLSX XLTM EXCEL ODS TSV XLAM FODS XLSB SXC XLT XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTX** в **DIF (Формат обмена данными)** обеспечивает совместимость с устаревшими системами электронных таблиц и статистическим программным обеспечением, обеспечивая структурированный обмен данными для исследований и предприятий.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Обмен данными между платформами
 - Статистическое моделирование
 - Академические исследования
 - Рабочие процессы с устаревшим программным обеспечением
 - Миграция структурированных данных
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки данных от DOTX к DIF
 - Автоматическая генерация DIF
 - Автоматизация данных исследований
 - Интеграция с устаревшей системой
 - Рабочие процессы от DOTX к статистическому программному обеспечению
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

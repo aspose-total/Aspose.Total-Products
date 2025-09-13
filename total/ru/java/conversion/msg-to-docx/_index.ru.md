@@ -30,25 +30,27 @@ otherformats: SVG PDF DOCX JPEG XPS WORDML FLATOPC OTT MD PCL DOC DOT TIFF EPUB 
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в DOCX** гарантирует, что электронные сообщения сохраняются в современном, широко совместимом формате Word для редактирования и обмена информацией.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Редактируемое хранение клиентской переписки
 * Подготовка правовых документов с структурированной документацией
 * Внутренние отчеты команды на основе обмена электронными письмами
 * Интеграция с Office 365 и облачными рабочими процессами
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Массовое преобразование MSG в DOCX для корпоративных записей
 * Автоматизированное архивирование в SharePoint или OneDrive
 * Перенос электронной почты в Word для документации проекта
 * Генерация документов по кадровым вопросам и соответствию
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

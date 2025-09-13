@@ -61,25 +61,27 @@ otherformats: DIF ODS XLAM XLSM TSV FODS EXCEL SXC XLTM XLSX XLSB XLS XLTX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование файлов **DOCM** в **XLAM (надстройка Excel)** необходимо для преобразования макросов VBA, основанных на Word, и бизнес-логики в повторно используемые модули автоматизации Excel. Это позволяет организациям централизовать сценарии автоматизации, расширить возможности Excel и создать мощные надстрои, поддерживающие финансовое моделирование, отчетность и проверку данных. С XLAM автоматизация сохраняется и эффективно распространяется по корпоративным средам Excel.  
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Миграция **макросов VBA** из Word в **среды Excel**  
 - Создание повторно используемых **наборов инструментов для автоматизации** для команд  
 - Проектирование **расширений Excel** для финансовых моделей и аналитики  
 - Создание **надстроек для отчетности и проверки**  
 - Централизация логики автоматизации в **корпоративных развертываниях Excel**  
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Конвертеры DOCM в XLAM**, сохраняющие логику макросов в процессе преобразования  
 - **Автоматизированные конвейеры создания надстроек** для корпоративных рабочих процессов  
 - **Системы миграции**, преобразующие скрипты VBA Word для использования в Excel  
 - **Системы управления**, управляющие распространением файлов XLAM  
 - **Конвейеры DevOps**, развертывающие надстройки XLAM в корпоративные команды  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

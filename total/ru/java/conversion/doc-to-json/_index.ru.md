@@ -49,22 +49,24 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOC** в **JSON (JavaScript Object Notation)** является ключом к тому, чтобы данные документа Word можно было легко использовать в веб-сервисах и приложениях. JSON предлагает легкий структурированный формат, который поддерживает современные API, веб-приложения и базы данных NoSQL.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Извлечение структурированных данных из Word для использования в приложениях
 - Интеграция содержимого документа в веб-API
 - Возможность поиска и фильтрации данных, полученных из документа
 - Хранение структурированных данных Word в базах данных NoSQL
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Извлечение DOC в JSON для прямого преобразования данных
 - Сценарии генерации JSON на основе Java для разработчиков
 - Автоматизированные рабочие процессы интеграции Word в API
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

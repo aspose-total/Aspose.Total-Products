@@ -78,21 +78,23 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 CGM в XAMLFLOW конверсия позволяет создавать визуальные рабочие процессы для интеллектуальной автоматизации пользовательского интерфейса и визуализации процессов в экосистеме .NET.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - **Интеллектуальные конструкторы пользовательского интерфейса** – Генерация пользовательских интерфейсов непосредственно из технических диаграмм.
 - **Интерактивные рабочие процессы** – Создание визуальных карт процессов с встроенной логикой.
 - **Логика-ориентированное визуальное программирование** – Поддержка платформ с низким и без кода.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Движки диаграмм на основе Java** – Преобразование CGM в готовые к использованию в XAMLFLOW ресурсы рабочих процессов.
 - **Конвертеры рабочих процессов пользовательского интерфейса** – Преобразование векторных диаграмм в исполняемые рабочие процессы.
 - **Инструменты визуализации DevOps** – Визуализация инфраструктуры и процессов.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

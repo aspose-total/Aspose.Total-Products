@@ -54,24 +54,26 @@ API также позволяет преобразовывать защищен�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOT** в **PowerPoint** позволяет быстро создавать готовые слайды презентации из шаблонов Word, оптимизируя процесс создания отчетов и учебного контента.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Быстрые рабочие процессы от документа к презентации
 - Деловая отчетность
 - Образовательные слайды
 - Генерация предложений
 - Создание учебного контента
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Генерация слайдов DOT в PowerPoint
 - Автоматизированное создание презентаций
 - Оптимизация рабочего процесса предприятия
 - Поток документов к слайдам
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>

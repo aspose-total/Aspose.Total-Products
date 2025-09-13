@@ -30,23 +30,25 @@ otherformats: DOCM JPEG TEXT SVG PNG DOTX EPUB GIF WORDML TIFF FLATOPC PS ODT DO
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **электронных писем EMLX** в **WordML (WordprocessingML XML)** обеспечивает структурированное представление электронной почты на основе XML для продвинутых рабочих процессов.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 - Хранение электронных писем в структурированном формате XML  
 - Возможность семантического поиска по содержимому электронной почты  
 - Использование WordML в обмене корпоративными данными  
 - Преобразование содержимого электронной почты для систем соблюдения требований  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 - Массовые конвейеры EMLX в WordML  
 - Рабочие процессы ИИ/МО с использованием данных электронной почты на основе XML  
 - Архивные системы со структурированными записями электронной почты  
 - Интеграция с юридическими и финансовыми стандартами XML  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

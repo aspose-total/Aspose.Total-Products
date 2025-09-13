@@ -61,25 +61,27 @@ otherformats: XLT XLTM XLSM ODS DIF XLAM FODS TSV SXC XLSB XLS EXCEL XLTX XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTX** в **FODS (Flat XML ODF Spreadsheet)** обеспечивает совместимость с открытым исходным кодом LibreOffice/Apache OpenOffice и предоставляет структурированные таблицы на основе XML для использования в государственных и корпоративных целях.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Рабочие процессы LibreOffice/Apache OpenOffice
 - Автоматизация на основе XML
 - Проекты с открытыми данными
 - Соблюдение государственных требований
 - Совместимость с несколькими платформами
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Потоки преобразования DOTX в FODS
 - Пакетная выгрузка FODS
 - Автоматизация таблиц с открытым исходным кодом
 - Облачные рабочие процессы с XML
 - Автоматизация преобразования данных
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

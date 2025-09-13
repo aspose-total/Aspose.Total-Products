@@ -30,22 +30,24 @@ otherformats: PNG PCL EMF RTF WORDML PDF EPUB TEXT JPEG DOTM SVG MD XPS GIF FLAT
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование EMLX в **SVG (масштабируемая векторная графика)** позволяет сохранить содержимое электронной почты в виде графики, не зависящей от разрешения, для цифровой публикации.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Отображение электронных писем Apple Mail в виде адаптивной графики.
 - Архивирование визуального содержимого электронной почты для использования в Интернете.
 - Печать высокого качества с помощью масштабируемой векторной графики.
 - Переиспользование макетов электронной почты для создания инфографики или веб-контента.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Пакетное архивирование электронной почты в формате SVG для дизайнерских команд.
 - Автоматизированные конвейеры конвертации для рассылок.
 - Интеграция рабочего процесса с цифровыми платформами публикации.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

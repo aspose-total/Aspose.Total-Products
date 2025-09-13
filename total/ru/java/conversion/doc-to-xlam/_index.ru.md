@@ -61,18 +61,20 @@ otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## ✅ Основные сценарии использования
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Встраивание макросов, основанных на документах, в дополнения Excel
 - Автоматизация повторяющихся процессов в электронных таблицах
 - Создание пользовательских функций Excel
 - Распространение инструментов автоматизации Excel на предприятии
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Сценарии извлечения макросов из DOC в XLAM
 - Автоматизированная упаковка кода VBA в дополнения
 - Масштабирование рабочих процессов автоматизации Excel
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

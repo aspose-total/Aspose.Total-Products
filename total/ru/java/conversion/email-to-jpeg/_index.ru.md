@@ -30,11 +30,11 @@ otherformats: OTT MD DOCM TEXT DOC RTF PDF ODT DOTX FLATOPC PNG TIFF EMF DOTM GI
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-formats-to-images.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **JPEG** обеспечивает сжатый формат изображения, подходящий для хранения, обмена и онлайн-публикаций. С помощью Java Email API компании могут автоматизировать создание снимков JPEG из электронных писем.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Архивирование с сжатием**: Храните электронные письма в формате JPEG, чтобы экономить место на диске.
 - **Быстрый обмен**: Отправляйте визуальные материалы по электронной почте или через социальные сети.
@@ -42,7 +42,8 @@ otherformats: OTT MD DOCM TEXT DOC RTF PDF ODT DOTX FLATOPC PNG TIFF EMF DOTM GI
 - **Обучающий контент**: Встраивайте визуальные материалы из электронных писем в учебные материалы.
 - **Хранение доказательств**: Сохраняйте снимки для соблюдения нормативных требований и проверок.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Пакетные конвейеры экспорта**: Автоматизируйте преобразование почтовых ящиков в изображения JPEG.
 - **Процессы соблюдения требований**: Храните электронные письма, связанные с аудитом, в формате JPEG.
@@ -50,7 +51,8 @@ otherformats: OTT MD DOCM TEXT DOC RTF PDF ODT DOTX FLATOPC PNG TIFF EMF DOTM GI
 - **Результаты для клиентов**: Прикрепляйте изображения JPEG одобрений или веховых электронных писем в отчетах.
 - **Синхронизация с облаком**: Храните экспорты в формате JPEG в Google Drive/OneDrive для удобного обмена.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

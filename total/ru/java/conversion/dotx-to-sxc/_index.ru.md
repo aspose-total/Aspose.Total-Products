@@ -61,20 +61,25 @@ otherformats: DIF XLTX XLSM EXCEL TSV XLSX ODS SXC XLS XLTM XLSB FODS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
-## Преимущества ключевого использования
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Преимущества ключевого использования" %}}
+
 - Обработка документов на различных платформах
 - Совместимость с устаревшим офисным пакетом
 - Архивирование предприятия и отчетность о соответствии
 - Рабочие процессы с открытым исходным кодом
 - Взаимосвязанная отчетность между системами
 
-## Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
 - Конвейеры DOTX-to-SXC для преобразования данных
 - Пакетное преобразование документов в электронные таблицы
 - Интеграции устаревших систем с StarOffice Calc
 - Автоматизированная отчетность на основе Calc с открытым исходным кодом
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

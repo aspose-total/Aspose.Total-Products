@@ -30,23 +30,25 @@ otherformats: TIFF PS OTT EMF JPEG SVG PCL ODT MD DOTM EPUB DOTX DOT FLATOPC DOC
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 **MSG в SVG (масштабируемая векторная графика)** гарантирует, что электронные письма могут быть представлены в виде графики, не зависящей от разрешения, для веб- и цифровых платформ.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Преобразование подписей электронной почты в оптимизированную для веба графику
 * Архивирование макетов электронных писем в формате SVG для повторного использования
 * Публикация визуальных элементов электронной почты на веб-сайтах и в цифровых отчетах
 * Создание масштабируемых инфографик на основе данных электронной почты
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвейеры MSG в SVG для цифровой публикации
 * Автоматический экспорт маркетинговых электронных писем в веб-графику
 * Пакетное преобразование электронной почты в SVG для архивирования
 * Интеграция с платформами дизайна и управления контентом
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

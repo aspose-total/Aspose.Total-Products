@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLTX EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTM** в **XLTX** позволяет создавать многоразовые шаблоны Excel без макросов из шаблонов Word для стандартизированной предприятий и готовых к облачным технологиям отчетов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Стандартизированные предприятий шаблоны
 - Облачные отчеты
 - Академические шаблоны
 - Шаблоны для ввода государственных данных
 - Финансовые прогностические модели
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизация шаблонов DOTM-to-XLTX
 - Пакетная генерация шаблонов Excel
 - Предприятий шаблоны для отчетов
 - Готовые к облачным технологиям рабочие процессы DOTM-to-Excel
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,25 +30,27 @@ otherformats: EPUB DOCM MD XPS JPEG EMF OTT DOTM PNG FLATOPC GIF DOTX SVG TIFF D
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **MSG в DOTM** позволяет создавать макросохраненные шаблоны Word из электронных писем для автоматизированных рабочих процессов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Создание динамических шаблонов на основе повторяющихся шаблонов электронных писем
 * Автоматизация отчетов по кадровому и финансовому учету
 * Создание умных шаблонов с встроенными макросами
 * Построение рабочих процессов в корпоративной коммуникации
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Автоматизированные конвейеры MSG-to-DOTM
 * Создание макросохраненных шаблонов для кадрового учета/финансов
 * Динамические юридические шаблоны на основе переписки по электронной почте
 * Генерация документов с встроенными рабочими процессами
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

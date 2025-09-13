@@ -61,11 +61,11 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCM (документов с включенными макросами Word)** в **Excel (рабочие книги Microsoft Excel)** необходимо для преобразования статических данных, основанных на документах, в **интерактивные электронные таблицы**, которые разблокируют возможности анализа Excel. В то время как файлы DOCM часто содержат структурированные таблицы, формы или контрольные списки, Excel дополняет их **формулами, сводными таблицами, диаграммами и проверкой данных**, делая информацию более действенной и готовой к использованию в бизнесе. Это преобразование сокращает разрыв между текстовыми документами Word и динамическими моделями Excel, используемыми для принятия решений, отчетности и прогнозирования.  
 
-## ✅ Основные сценарии использования  
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}  
 
 - **Преобразование таблиц Word в действенные модели Excel**  
   Преобразуйте статические таблицы DOCM в листы Excel для расширенных вычислений и бизнес-моделей.  
@@ -82,7 +82,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 - **Централизация операционных отслеживающих инструментов в Excel**  
   Объедините данные из нескольких контрольных списков DOCM в один файл Excel для мониторинга всей команды.  
 
-## ⚙️ Сценарии автоматизации  
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}  
 
 - **Процессоры пакетного преобразования DOCM в Excel**  
   Преобразуйте несколько файлов DOCM в рабочие книги Excel массово для рабочих процессов предприятия.  
@@ -99,7 +100,8 @@ otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 - **Предприятийские конвейеры, обогащающие данные и добавляющие их в основные рабочие книги**  
   Интегрируйте преобразование DOCM в Excel в BI-конвейеры, обновляющие централизованные системы отчетности.  
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

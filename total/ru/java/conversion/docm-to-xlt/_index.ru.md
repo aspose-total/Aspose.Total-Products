@@ -61,25 +61,27 @@ otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOCM** в **XLT (шаблон Excel, устаревший)** позволяет организациям создавать многоразовые шаблоны электронных таблиц, совместимые с более старыми версиями Excel. Это сохраняет макеты, основанные на документах, и поддерживает устаревшие отчеты, формы и рабочие процессы по архивации.
 
-## ✅ Основные случаи использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные случаи использования" %}}
 - Создание **стандартизированных финансовых шаблонов**
 - Подготовка многоразовых **форм для старых версий Excel**
 - Миграция **форм Word** в шаблоны электронных таблиц
 - Поддержка организаций, продолжающих использовать **Excel 97–2003**
 - Создание **архивных шаблонов** в формате XLT
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - **Автоматизированные конвертеры DOCM в XLT**
 - Корпоративные рабочие процессы, поддерживающие **библиотеки устаревших шаблонов**
 - **Пакетные конвейеры**, генерирующие финансовые XLT из Word
 - **Архивные системы**, требующие совместимости с XLT
 - Рабочие процессы по распространению шаблонов для **пользователей устаревшего Excel**
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

@@ -30,11 +30,11 @@ otherformats: WORDML RTF ODT JPEG PNG SVG DOTX GIF DOCM EMF DOT MD TEXT DOC DOTM
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-word.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование электронных писем в **шаблоны текстов OpenDocument (OTT)** позволяет организациям повторно использовать и стандартизировать макеты электронных писем в средах с открытым исходным кодом. С помощью Java API для электронной почты, экспорт OTT помогает упростить согласованность в документации.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 - **Создание шаблонов**: Превращайте электронные письма в повторно используемые шаблоны документов.
 - **Стандартизированный брендинг**: Поддерживайте согласованные макеты в коммуникациях.
@@ -42,7 +42,8 @@ otherformats: WORDML RTF ODT JPEG PNG SVG DOTX GIF DOCM EMF DOT MD TEXT DOC DOTM
 - **Документы по политике**: Преобразуйте электронные письма от HR или по соответствию в шаблоны для повторного использования.
 - **Учебные пособия**: Создавайте шаблоны OTT на основе инструкционных электронных писем.
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 - **Автоматизация шаблонов**: Преобразуйте важные коммуникации в повторно используемые шаблоны OTT.
 - **HR и юридические вопросы**: Создавайте шаблоны документов непосредственно из официальных электронных писем.
@@ -50,7 +51,8 @@ otherformats: WORDML RTF ODT JPEG PNG SVG DOTX GIF DOCM EMF DOT MD TEXT DOC DOTM
 - **Пакетная генерация**: Массовое преобразование стандартных коммуникаций в шаблоны OTT.
 - **Обмен между платформами**: Обеспечьте использование OTT в платформах с открытым исходным кодом.
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

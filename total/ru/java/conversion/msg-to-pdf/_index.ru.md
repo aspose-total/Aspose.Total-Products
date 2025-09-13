@@ -30,23 +30,25 @@ otherformats: ODT PDF DOCX TEXT TIFF WORDML PCL SVG GIF RTF DOT EMF DOC EPUB FLA
 {{< gist "aspose-com-gists" "3b2d8cb19d998899886b4be72e1571ea" "convert-email-format-to-pdf.java" >}}
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 <h2>Конвертация **MSG в PDF**</h2> является одним из наиболее широко используемых преобразований, позволяющим безопасно хранить, обмениваться и архивировать электронные письма в универсально принятом формате.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 
 * Юридическое и административное архивирование электронной почты
 * Безопасное обмен электронными письмами между платформами
 * Преобразование цепочек электронной почты в профессиональные отчеты в формате PDF
 * Защита содержимого электронной почты с помощью шифрования и разрешений
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 
 * Конвейеры MSG-to-PDF для юридических фирм и предприятий
 * Автоматизированное архивирование почтовых ящиков Outlook в формате PDF
 * Пакетное преобразование для отчетности по соответствию
 * Интеграция электронной почты в PDF в системы управления документами
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}

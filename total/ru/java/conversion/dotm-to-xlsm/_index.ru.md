@@ -61,24 +61,26 @@ otherformats: TSV XLAM SXC XLSM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{% blocks/products/pf/feature-page-summary %}}
+{{< blocks/products/pf/agp/feature-section >}}
 ```
 Преобразование **DOTM** в **XLSM** сохраняет полную функциональность макросов, превращая шаблоны Word в интерактивные электронные таблицы Excel с поддержкой макросов для расширенных бизнес-процессов.
 
-## ✅ Основные сценарии использования
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
 - Финансовые панели управления
 - Автоматизированные расчеты
 - Расширенные рабочие процессы отчетности
 - Модели бизнес-процессов на основе макросов
 - Интеграция среды Office с VBA
 
-## ⚙️ Сценарии автоматизации
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
 - Автоматизированные конвейеры DOTM-to-XLSM
 - Корпоративная финансовая автоматизация
 - Автоматизация процессов на основе электронных таблиц
 - Интеграция макросов DOTM в Excel VBA
 ```
-{{% /blocks/products/pf/feature-page-summary %}}
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
